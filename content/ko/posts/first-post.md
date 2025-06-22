@@ -2,6 +2,8 @@
 title: "첫 번째 포스트"
 date: 2025-06-22T10:00:00+09:00
 draft: false
+translationKey: "my-first-post"  # 추가!
+tags: ["테스트", "HTML"]
 ---
 
 <h2>HTML 테스트</h2>

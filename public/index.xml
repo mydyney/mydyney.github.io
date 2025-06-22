@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Dyney Blog</title>
+    <title>메인 페이지 on Mydyney Blog</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My Dyney Blog</description>
+    <description>Recent content in 메인 페이지 on Mydyney Blog</description>
     <generator>Hugo</generator>
     <language>ko</language>
     <lastBuildDate>Sun, 22 Jun 2025 10:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>첫 번째 포스트</title>
-      <link>http://localhost:1313/ko/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Sun, 22 Jun 2025 10:00:00 +0900</pubDate>
-      <guid>http://localhost:1313/ko/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>&lt;h2&gt;HTML 테스트&lt;/h2&gt;&#xA;&lt;p&gt;이것은 &lt;strong&gt;HTML&lt;/strong&gt;로 작성된 콘텐츠입니다.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;첫 번째 항목&lt;/li&gt;&#xA;&lt;li&gt;두 번째 항목&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div style=&#34;background-color: #f0f0f0; padding: 10px; border-radius: 5px;&#34;&gt;&#xA;&lt;p&gt;이것은 스타일이 적용된 HTML 블록입니다.&lt;/p&gt;&#xA;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/en/posts/first-post-copy-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/first-post-copy-2/</guid>
-      <description>&lt;p&gt;baseURL = &amp;lsquo;&lt;a href=&#34;https://mydyney.github.io&#34;&gt;https://mydyney.github.io&lt;/a&gt;&amp;rsquo;&#xA;languageCode = &amp;lsquo;ko&amp;rsquo;&#xA;title = &amp;lsquo;My Dyney Blog&amp;rsquo;&#xA;theme = &amp;lsquo;ananke&amp;rsquo;&lt;/p&gt;&#xA;&lt;h1 id=&#34;다국어-설정&#34;&gt;다국어 설정&lt;/h1&gt;&#xA;&lt;p&gt;defaultContentLanguage = &amp;ldquo;ko&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;[languages]&#xA;[languages.ko]&#xA;languageName = &amp;ldquo;한국어&amp;rdquo;&#xA;title = &amp;ldquo;My Dyney Blog&amp;rdquo;&#xA;weight = 1&#xA;[languages.ko.params]&#xA;description = &amp;ldquo;한국어 블로그 설명&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;[languages.en]&#xA;languageName = &amp;ldquo;English&amp;rdquo;&#xA;title = &amp;ldquo;My Dyney Blog&amp;rdquo;&#xA;weight = 2&#xA;[languages.en.params]&#xA;description = &amp;ldquo;English blog description&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;[languages.ja]&#xA;languageName = &amp;ldquo;日本語&amp;rdquo;&#xA;title = &amp;ldquo;My Dyney Blog&amp;rdquo;&#xA;weight = 3&#xA;[languages.ja.params]&#xA;description = &amp;ldquo;日本語ブログの説明&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/ja/posts/first-post-copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/posts/first-post-copy/</guid>
-      <description>&lt;p&gt;baseURL = &amp;lsquo;&lt;a href=&#34;https://mydyney.github.io&#34;&gt;https://mydyney.github.io&lt;/a&gt;&amp;rsquo;&#xA;languageCode = &amp;lsquo;ko&amp;rsquo;&#xA;title = &amp;lsquo;My Dyney Blog&amp;rsquo;&#xA;theme = &amp;lsquo;ananke&amp;rsquo;&lt;/p&gt;&#xA;&lt;h1 id=&#34;다국어-설정&#34;&gt;다국어 설정&lt;/h1&gt;&#xA;&lt;p&gt;defaultContentLanguage = &amp;ldquo;ko&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;[languages]&#xA;[languages.ko]&#xA;languageName = &amp;ldquo;한국어&amp;rdquo;&#xA;title = &amp;ldquo;My Dyney Blog&amp;rdquo;&#xA;weight = 1&#xA;[languages.ko.params]&#xA;description = &amp;ldquo;한국어 블로그 설명&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;[languages.en]&#xA;languageName = &amp;ldquo;English&amp;rdquo;&#xA;title = &amp;ldquo;My Dyney Blog&amp;rdquo;&#xA;weight = 2&#xA;[languages.en.params]&#xA;description = &amp;ldquo;English blog description&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;[languages.ja]&#xA;languageName = &amp;ldquo;日本語&amp;rdquo;&#xA;title = &amp;ldquo;My Dyney Blog&amp;rdquo;&#xA;weight = 3&#xA;[languages.ja.params]&#xA;description = &amp;ldquo;日本語ブログの説明&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
