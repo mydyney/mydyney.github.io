@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/ja/tags/html/</loc>
-    <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -21,7 +21,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ja/posts/</loc>
-    <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -39,7 +39,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ja/tags/</loc>
-    <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -57,10 +57,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/ja/tags/%E3%83%86%E3%82%B9%E3%83%88/</loc>
-    <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/ja/</loc>
-    <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -75,6 +75,24 @@
                 rel="alternate"
                 hreflang="ja"
                 href="http://localhost:1313/ja/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/ja/posts/second-post/</loc>
+    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/posts/second-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/posts/second-post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/posts/second-post/"
                 />
   </url><url>
     <loc>http://localhost:1313/ja/posts/first-post/</loc>
