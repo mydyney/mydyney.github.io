@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>メインページ on Mydyney Blog</title>
+    <title>メインページ on 東京メイト</title>
     <link>http://localhost:1313/ja/</link>
-    <description>Recent content in メインページ on Mydyney Blog</description>
+    <description>Recent content in メインページ on 東京メイト</description>
     <generator>Hugo</generator>
     <language>ja</language>
     <lastBuildDate>Sun, 22 Jun 2025 10:00:00 +0900</lastBuildDate>

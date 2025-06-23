@@ -1,7 +1,7 @@
 ---
 title: "Main Page"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "Multilingual blog built with Hugo"
+featured_image: '/images/tokyo_station.png'
+description: "Hello! This is TokyoMate, a lover of all things travel. Here, I talk about everything related to traveling."
 translationKey: "homepage"  # 추가!
 ---
 

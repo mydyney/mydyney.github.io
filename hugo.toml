@@ -1,6 +1,6 @@
-baseURL = 'https://mydyney.github.io'
+baseURL = 'https://tripmate.news'
 languageCode = 'ko'
-title = 'Mydyney Blog'
+title = 'Tokyo Mate Blog'
 theme = 'ananke'
 
 # 다국어 설정 수정
@@ -10,7 +10,7 @@ defaultContentLanguageInSubdir = false  # 한국어는 /ko/ 없이 루트에서
 [languages]
   [languages.ko]
     languageName = "한국어"
-    title = "Mydyney Blog"
+    title = "도쿄 메이트"
     weight = 1
     contentDir = "content/ko"
     [languages.ko.params]
@@ -18,7 +18,7 @@ defaultContentLanguageInSubdir = false  # 한국어는 /ko/ 없이 루트에서
   
   [languages.en]
     languageName = "English"
-    title = "Mydyney Blog"
+    title = "Tokyo Mate"
     weight = 2
     contentDir = "content/en"
     [languages.en.params]
@@ -26,11 +26,14 @@ defaultContentLanguageInSubdir = false  # 한국어는 /ko/ 없이 루트에서
   
   [languages.ja]
     languageName = "日本語"
-    title = "Mydyney Blog"
+    title = "東京メイト"
     weight = 3
     contentDir = "content/ja"
     [languages.ja.params]
       description = "日本語ブログの説明"
+
+# Google Analytics 설정
+googleAnalytics = "G-NZ22T8HRR3"  # 실제 측정 ID 입력
 
 # HTML 콘텐츠 지원
 [markup]

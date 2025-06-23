@@ -1,7 +1,7 @@
 ---
 title: "メインページ"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "Hugoで作られた多言語ブログ"
+featured_image: '/images/main_keyaki_jaka_lumine.jpg'
+description: "こんにちは！旅行を愛する東京メイトです。旅に関するあらゆることをお話しします。"
 translationKey: "homepage"  # 추가!
 ---
 
