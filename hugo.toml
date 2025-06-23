@@ -1,9 +1,15 @@
 baseURL = 'https://tripmate.news'
 languageCode = 'ko'
-title = 'Tokyo Mate Blog'
+title = 'Trip Mate News Blog'
 theme = 'ananke'
 
 # 다국어 설정 수정
+# 요약 길이 설정 추가
+summaryLength = 50  # 기본값은 70 단어, 더 짧게 하려면 30-50 권장
+
+# 한국어/일본어의 경우 문자 단위로 계산
+hasCJKLanguage = true  # 중요: 한중일 언어 지원
+
 defaultContentLanguage = "ko"
 defaultContentLanguageInSubdir = false  # 한국어는 /ko/ 없이 루트에서
 
