@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ramen-Guide on Tokyo Mate</title>
+    <link>http://localhost:1313/en/tags/ramen-guide/</link>
+    <description>Recent content in Ramen-Guide on Tokyo Mate</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Jun 2025 10:00:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/ramen-guide/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tokyo Station Ramen Guide: 8 Must-Try Shops in Underground Ramen Street</title>
+      <link>http://localhost:1313/en/posts/second-post/</link>
+      <pubDate>Tue, 24 Jun 2025 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/en/posts/second-post/</guid>
+      <description>&lt;style&gt;&#xA;.ramen-container { &#xA;  font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif;&#xA;  line-height: 1.7; &#xA;  color: #212529; &#xA;  max-width: 100%; &#xA;}&#xA;&#xA;.ramen-container h1, .ramen-container h2, .ramen-container h3 { &#xA;  color: #343a40; &#xA;  border-bottom: 2px solid #dee2e6; &#xA;  padding-bottom: 0.5rem; &#xA;  margin-top: 2rem; &#xA;  font-weight: 600; &#xA;}&#xA;&#xA;.ramen-container img { &#xA;  max-width: 100%; &#xA;  height: auto; &#xA;  display: block; &#xA;  margin: 1.5rem 0; &#xA;  border-radius: 8px; &#xA;  box-shadow: 0 4px 8px rgba(0,0,0,0.1);&#xA;}&#xA;&#xA;.shop-info { &#xA;  background-color: #f8f9fa; &#xA;  padding: 1.5rem; &#xA;  border-radius: 8px; &#xA;  margin: 1.5rem 0; &#xA;  border-left: 4px solid #007bff;&#xA;}&#xA;&#xA;blockquote { &#xA;  border-left: 4px solid #0d6efd; &#xA;  padding: 1rem 1.5rem; &#xA;  margin: 1.5rem 0; &#xA;  background-color: #f8f9fa; &#xA;  border-radius: 4px; &#xA;  font-style: italic;&#xA;  font-size: 1.1rem;&#xA;}&#xA;&#xA;@media (max-width: 768px) {&#xA;  .ramen-container { font-size: 0.9rem; }&#xA;  .shop-info { padding: 1rem; }&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;ramen-container&#34;&gt;&#xA;&lt;blockquote&gt;&#34;Ramen so good, you could eat it every day for a week!&#34;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#34;The first place every Tokyo visitor should try&#34;&lt;/blockquote&gt;&#xA;&lt;p&gt;Hidden beneath Tokyo Station lies a ramen paradise. In June 2009, popular ramen shops gathered on the B1 floor of Tokyo Station to create &#39;Tokyo Ramen Street.&#39; Starting with 4 shops, it has now expanded to 8 establishments. This ramen mecca brings together regional and style-specific representative ramen shops all in one place.&lt;/p&gt;&#xA;&lt;figure&gt;&#xA;  &lt;img src=&#34;http://localhost:1313/images/tokyo-ramen-street-1.png&#34; alt=&#34;Tokyo Ramen Street entrance at Tokyo Station B1F&#34;&gt;&#xA;  &lt;figcaption&gt;Tokyo Ramen Street Entrance&lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
+    </item>
+  </channel>
+</rss>

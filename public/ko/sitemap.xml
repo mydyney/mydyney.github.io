@@ -2,26 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/categories/"
-                />
-  </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
+    <lastmod>2025-06-25T23:21:05+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,50 +22,10 @@
                 href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/%EB%8F%84%EC%BF%84/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/second-post/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/second-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="http://localhost:1313/ja/posts/second-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/posts/second-post/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/tags/%EB%9D%BC%EB%A9%98/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
+    <lastmod>2025-06-25T23:21:05+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -98,17 +42,10 @@
                 href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/%EC%97%AC%ED%96%89/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/%EC%97%AC%ED%96%89%EA%B0%80%EC%9D%B4%EB%93%9C/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/%EC%9D%BC%EB%B3%B8/</loc>
-    <lastmod>2025-06-23T10:00:00+09:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/html/</loc>
     <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -125,8 +62,30 @@
                 href="http://localhost:1313/tags/html/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/tags/"
+                />
+  </url><url>
     <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -145,5 +104,26 @@
   </url><url>
     <loc>http://localhost:1313/tags/%ED%85%8C%EC%8A%A4%ED%8A%B8/</loc>
     <lastmod>2025-06-22T10:00:00+09:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="http://localhost:1313/ja/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="http://localhost:1313/categories/"
+                />
   </url>
 </urlset>

@@ -31,8 +31,8 @@
 
     
     
-      <link href="/index.xml" rel="alternate" type="application/rss+xml" title="도쿄 메이트" />
-      <link href="/index.xml" rel="feed" type="application/rss+xml" title="도쿄 메이트" />
+      <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="도쿄 메이트" />
+      <link href="/feed.xml" rel="feed" type="application/rss+xml" title="도쿄 메이트" />
       
     
 
@@ -49,8 +49,8 @@
 
   <meta itemprop="name" content="메인 페이지">
   <meta itemprop="description" content="안녕하세요! 여행을 사랑하는 도쿄메이트입니다. 여행에 관한 모든 것을 이야기합니다.">
-  <meta itemprop="datePublished" content="2025-06-23T10:00:00+09:00">
-  <meta itemprop="dateModified" content="2025-06-23T10:00:00+09:00">
+  <meta itemprop="datePublished" content="2025-06-24T10:00:00+09:00">
+  <meta itemprop="dateModified" content="2025-06-24T10:00:00+09:00">
   <meta itemprop="wordCount" content="18">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="메인 페이지">
@@ -89,6 +89,22 @@
 </ul>
 
 
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/" title="">
+              홈
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white white-90 no-underline" href="/posts/" title="">
+              포스트
+            </a>
+          </li>
+          
+        </ul>
       
       <div class="ananke-socials"></div>
 
@@ -142,79 +158,66 @@
       <div class="blah w-100">
         <h1 class="f3 fw1 athelas mt0 lh-title">
           <a href="/posts/second-post/" class="color-inherit dim link">
-            도쿄역 라멘 맛집: 지하 1층 도쿄라멘스트리트 8대 맛집 총정리
+            도쿄역 라멘 맛집 지하 1층, 도쿄라멘스트리트 8대 라멘 총정리
             </a>
         </h1>
         <div class="f6 f5-l lh-copy nested-copy-line-height nested-links">
           <style>
-    .container {
-        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        line-height: 1.7;
-        margin: 0;
-        background-color: #f8f9fa;
-        color: #212529;
-        max-width: 100%;
-        margin: 2rem auto;
-        padding: 2rem 3rem;
-        background-color: #ffffff;
-        border-radius: 10px;
-        box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-    }
-    .container h1, .container h2, .container h3 {
-        color: #343a40;
-        border-bottom: 2px solid #dee2e6;
-        padding-bottom: 0.5rem;
-        margin-top: 2.8rem;
-        font-weight: 600;
-    }
-    .container h1 { font-size: 2.4em; }
-    .container h2 { font-size: 2em; }
-    .container h3 { font-size: 1.6em; border-bottom-style: solid; border-bottom-width: 1px; }
-    .container p { margin: 1rem 0; }
-    .container img {
-        max-width: 100%;
-        height: auto;
-        display: block;
-        margin: 2rem 0;
-        border-radius: 5px;
-    }
-    .container figure { margin: 2rem 0; padding: 0; }
-    .container figcaption {
-        text-align: center;
-        font-size: 0.9em;
-        color: #6c757d;
-        margin-top: -1.5rem;
-        padding-bottom: 1rem;
-    }
-    .container blockquote {
-        border-left: 5px solid #0d6efd;
-        padding: 1rem 1.5rem;
-        margin: 1.5rem 0;
-        font-size: 1.1em;
-        font-style: italic;
-        color: #495057;
-        background-color: #f1f3f5;
-    }
-    .container ul {
-        list-style-type: none;
-        padding: 1rem 1.5rem;
-        background-color: #f1f3f5;
-        border-radius: 8px;
-    }
-    .container li { margin-bottom: 0.5rem; }
-    .summary-box {
-        margin-top: 2rem;
-        padding: 1.5rem;
-        background-color: #e3f2fd;
-        border-radius: 8px;
-        border-left: 4px solid #2196f3;
-    }
+.ramen-container { 
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.7; 
+  color: #212529; 
+  max-width: 100%; 
+}
+
+.ramen-container h1, .ramen-container h2, .ramen-container h3 { 
+  color: #343a40; 
+  border-bottom: 2px solid #dee2e6; 
+  padding-bottom: 0.5rem; 
+  margin-top: 2rem; 
+  font-weight: 600; 
+}
+
+.ramen-container img { 
+  max-width: 100%; 
+  height: auto; 
+  display: block; 
+  margin: 1.5rem 0; 
+  border-radius: 8px; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.shop-info { 
+  background-color: #f8f9fa; 
+  padding: 1.5rem; 
+  border-radius: 8px; 
+  margin: 1.5rem 0; 
+  border-left: 4px solid #007bff;
+}
+
+blockquote { 
+  border-left: 4px solid #0d6efd; 
+  padding: 1rem 1.5rem; 
+  margin: 1.5rem 0; 
+  background-color: #f8f9fa; 
+  border-radius: 4px; 
+  font-style: italic;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 768px) {
+  .ramen-container { font-size: 0.9rem; }
+  .shop-info { padding: 1rem; }
+}
 </style>
-<div class="container">
-<h1>도쿄역 라멘 맛집: 지하 1층 도쿄라멘스트리트 8대 맛집 총정리</h1>
-<blockquote>"일주일 동안 먹어도 질리지 않는 라멘"</blockquote>
-<blockquote>“도쿄에서 가장 먼저 맛보고 싶은 가게"</blockquote>
-<p>2009년 6월, 도쿄역 지하 1층에 일본 전역의 인기 라멘 가게들이 모여 '도쿄라멘스트리트'가 문을 열었습니다. 각 가게의 시그니처 라멘부터 도쿄역 한정 메뉴까지, 다채로운 라멘의 세계를 경험할 수 있습니다. 현재 8개 점포로 확장된 도쿄라멘스트리트의 모든 것을 총정리해 드립니다.</p>
+<div class="ramen-container">
+<blockquote>"일주일 내내 먹어도 질리지 않는 라멘!"</blockquote>
+<blockquote>"도쿄에서 가장 먼저 가야 할 라멘 거리"</blockquote>
+<p>도쿄역 지하 1층, 그 안에 숨겨진 라멘 천국이 있습니다. 2009년 6월, 도쿄역 지하 1층에 인기 라멘집이 모여 '도쿄라멘스트리트'가 탄생했습니다. 4개 점포에서 시작해서 지금은 8개로 규모가 커졌습니다. 지역별, 스타일별 대표 라멘을 한자리에서 맛볼 수 있는 라멘 성지입니다.</p>
+<figure>
+  <img src="/images/tokyo-ramen-street-1.png" alt="도쿄역 지하 1층 도쿄라멘스트리트 전경">
+  <figcaption>도쿄라멘스트리트 입구</figcaption>
+</figure>
         </div>
         <a href="/posts/second-post/" class="ba b--moon-gray bg-light-gray br2 color-inherit dib f7 hover-bg-moon-gray link mt2 ph2 pv1"></a>
       </div>

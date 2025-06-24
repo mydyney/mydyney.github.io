@@ -6,6 +6,14 @@
     <description>Recent content in Categories on Tokyo Mate</description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 23 Jun 2025 10:00:00 +0900</lastBuildDate>
     <atom:link href="http://localhost:1313/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TOKYO</title>
+      <link>http://localhost:1313/en/categories/tokyo/</link>
+      <pubDate>Mon, 23 Jun 2025 10:00:00 +0900</pubDate>
+      <guid>http://localhost:1313/en/categories/tokyo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>도쿄라멘스트리트 on 도쿄 메이트</title>
+    <link>http://localhost:1313/tags/%EB%8F%84%EC%BF%84%EB%9D%BC%EB%A9%98%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8/</link>
+    <description>Recent content in 도쿄라멘스트리트 on 도쿄 메이트</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Tue, 24 Jun 2025 23:28:20 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EB%8F%84%EC%BF%84%EB%9D%BC%EB%A9%98%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>도쿄역 라멘 맛집: 지하 1층 도쿄라멘스트리트 8대 맛집 총정리</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Tue, 24 Jun 2025 23:28:20 +0900</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>도쿄 여행 필수 코스! 라멘 성지, 도쿄라멘스트리트 8대 맛집 정보를 확인하고 완벽한 라멘 투어를 계획해 보세요!</description>
+    </item>
+  </channel>
+</rss>

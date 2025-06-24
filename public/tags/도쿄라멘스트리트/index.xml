@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>도쿄라멘스트리트 on 도쿄 메이트</title>
+    <link>http://localhost:1313/tags/%EB%8F%84%EC%BF%84%EB%9D%BC%EB%A9%98%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8/</link>
+    <description>Recent content in 도쿄라멘스트리트 on 도쿄 메이트</description>
+    <generator>Hugo</generator>
+    <language>ko</language>
+    <lastBuildDate>Tue, 24 Jun 2025 22:43:38 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EB%8F%84%EC%BF%84%EB%9D%BC%EB%A9%98%EC%8A%A4%ED%8A%B8%EB%A6%AC%ED%8A%B8/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>도쿄역 라멘 맛집: 지하 1층 도쿄라멘스트리트 8대 라멘 총정리</title>
+      <link>http://localhost:1313/posts/second-post/</link>
+      <pubDate>Tue, 24 Jun 2025 22:43:38 +0900</pubDate>
+      <guid>http://localhost:1313/posts/second-post/</guid>
+      <description>&lt;style&gt;&#xA;.post-summary { color: #666; font-size: 0.95em; line-height: 1.6; margin-bottom: 1rem; }&#xA;.ramen-container { font-family: -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Roboto, sans-serif; line-height: 1.7; color: #212529; max-width: 100%; }&#xA;.ramen-container h1, .ramen-container h2, .ramen-container h3 { color: #343a40; border-bottom: 2px solid #dee2e6; padding-bottom: 0.5rem; margin-top: 2rem; font-weight: 600; }&#xA;.ramen-container h2 { font-size: 1.8em; }&#xA;.ramen-container h3 { font-size: 1.4em; border-bottom: 1px solid #dee2e6; }&#xA;.ramen-container img { max-width: 100%; height: auto; display: block; margin: 1.5rem 0; border-radius: 8px; }&#xA;.ramen-container figure { margin: 1.5rem 0; text-align: center; }&#xA;.ramen-container figcaption { font-size: 0.9em; color: #6c757d; margin-top: 0.5rem; font-style: italic; }&#xA;.ramen-container blockquote { border-left: 4px solid #0d6efd; padding-left: 1.5rem; margin: 1.5rem 0; font-size: 1.1em; font-style: italic; color: #495057; background-color: #f8f9fa; padding: 1rem 1.5rem; border-radius: 4px; }&#xA;.ramen-container ul { list-style-type: none; padding-left: 0; }&#xA;.ramen-container .shop-info { background-color: #f1f3f5; padding: 1rem 1.5rem; border-radius: 8px; margin: 1.5rem 0; }&#xA;.ramen-container .shop-info li { margin-bottom: 0.5rem; }&#xA;.ramen-container .summary-box { margin-top: 2.5rem; padding: 1.5rem; background-color: #e3f2fd; border-radius: 8px; border-left: 4px solid #2196f3; }&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;ramen-container&#34;&gt;&#xA;&lt;p class=&#34;post-summary&#34;&gt;도쿄역 지하상가, 일본 최고 라멘 맛집 8곳을 소개합니다. 지금 바로 확인해보세요!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
