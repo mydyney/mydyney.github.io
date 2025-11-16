@@ -199,12 +199,26 @@ def main():
     save_dir.mkdir(parents=True, exist_ok=True)
 
     # 이미지 다운로드
+    # 특수 규칙: 첫 번째 이미지는 스킵, 두 번째 이미지를 01, 02로 중복 저장
     image_mapping = {}
     for i, url in enumerate(image_urls, 1):
-        print(f"[{i}/{len(image_urls)}] 다운로드 중...")
-        filename = download_image(url, save_dir, post_slug, i)
-        if filename:
-            image_mapping[url] = filename
+        if i == 1:
+            # 첫 번째 이미지는 스킵
+            print(f"[{i}/{len(image_urls)}] 첫 번째 이미지 스킵 (광고 또는 불필요 이미지)")
+            continue
+        elif i == 2:
+            # 두 번째 이미지를 01, 02로 2번 저장
+            print(f"[{i}/{len(image_urls)}] 다운로드 중... (01, 02로 중복 저장)")
+            filename1 = download_image(url, save_dir, post_slug, 1)
+            filename2 = download_image(url, save_dir, post_slug, 2)
+            if filename1 and filename2:
+                image_mapping[url] = filename1  # 매핑은 01로
+        else:
+            # 세 번째 이미지부터는 원래 순서대로 (03, 04, 05...)
+            print(f"[{i}/{len(image_urls)}] 다운로드 중...")
+            filename = download_image(url, save_dir, post_slug, i)
+            if filename:
+                image_mapping[url] = filename
 
     print(f"\n" + "="*60)
     print(f"✅ 다운로드 완료!")
