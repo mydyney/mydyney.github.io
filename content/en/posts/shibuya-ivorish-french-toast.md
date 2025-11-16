@@ -3,8 +3,8 @@ title: "Ivorish Shibuya - Complete Guide to French Toast Brunch Cafe"
 date: 2024-11-12T15:28:00+09:00
 draft: false
 translationKey: "shibuya-ivorish-french-toast"
-description: "Ivorish Shibuya French toast cafe! Complete guide with reservations, menu & hours"
-summary: "Ivorish Shibuya French toast cafe! Complete guide with reservations, menu & hours"
+description: "Shibuya's premier French toast cafe Ivorish! From Korean language reservations to signature lemon custard menu and insider tips"
+summary: "Shibuya's premier French toast cafe Ivorish! From Korean language reservations to signature lemon custard menu and insider tips"
 tags: ["shibuya-restaurant", "tokyo-brunch", "french-toast", "japan-cafe", "shibuya-cafe"]
 categories: ["Restaurants"]
 featured_image: "/images/posts/shibuya-ivorish-french-toast-01.jpg"

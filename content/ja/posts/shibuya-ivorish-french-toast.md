@@ -3,8 +3,8 @@ title: "渋谷アイボリッシュ - フレンチトーストブランチカフ
 date: 2024-11-12T15:28:00+09:00
 draft: false
 translationKey: "shibuya-ivorish-french-toast"
-description: "渋谷フレンチトースト専門店アイボリッシュ！予約方法、メニュー、営業時間を徹底解説"
-summary: "渋谷フレンチトースト専門店アイボリッシュ！予約方法、メニュー、営業時間を徹底解説"
+description: "渋谷フレンチトースト専門店アイボリッシュ！韓国語予約から限定レモンカスタードメニュー、訪問のコツまで完全網羅"
+summary: "渋谷フレンチトースト専門店アイボリッシュ！韓国語予約から限定レモンカスタードメニュー、訪問のコツまで完全網羅"
 tags: ["渋谷グルメ", "東京ブランチ", "フレンチトースト", "日本カフェ", "渋谷カフェ"]
 categories: ["グルメ"]
 featured_image: "/images/posts/shibuya-ivorish-french-toast-01.jpg"
