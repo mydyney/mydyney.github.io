@@ -15,6 +15,8 @@ import sys
 import requests
 from pathlib import Path
 from urllib.parse import urlparse, unquote
+from PIL import Image
+from io import BytesIO
 
 def extract_image_urls(html_content):
     """HTML에서 네이버 이미지 URL 추출"""
@@ -40,7 +42,7 @@ def extract_image_urls(html_content):
     return unique_urls
 
 def download_image(url, save_dir, post_slug, index):
-    """이미지 다운로드"""
+    """이미지 다운로드 및 JPG로 변환"""
     try:
         # User-Agent 헤더 추가 (네이버 차단 방지)
         headers = {
@@ -51,19 +53,26 @@ def download_image(url, save_dir, post_slug, index):
         response = requests.get(url, headers=headers, timeout=10)
         response.raise_for_status()
 
-        # 파일 확장자 추출
-        path = urlparse(url).path
-        ext = os.path.splitext(path)[1].lower()
-        if not ext or ext not in ['.jpg', '.jpeg', '.png', '.gif', '.webp']:
-            ext = '.jpg'
+        # 이미지를 메모리에서 열기
+        img = Image.open(BytesIO(response.content))
 
-        # 파일명 생성: {post-slug}-{index}.jpg
-        filename = f"{post_slug}-{index:02d}{ext}"
+        # RGBA(투명도 있음) 이미지를 RGB로 변환
+        if img.mode in ('RGBA', 'LA', 'P'):
+            # 흰색 배경 생성
+            background = Image.new('RGB', img.size, (255, 255, 255))
+            if img.mode == 'P':
+                img = img.convert('RGBA')
+            background.paste(img, mask=img.split()[-1] if img.mode in ('RGBA', 'LA') else None)
+            img = background
+        elif img.mode != 'RGB':
+            img = img.convert('RGB')
+
+        # 파일명 생성: 항상 .jpg 확장자 사용
+        filename = f"{post_slug}-{index:02d}.jpg"
         filepath = save_dir / filename
 
-        # 이미지 저장
-        with open(filepath, 'wb') as f:
-            f.write(response.content)
+        # JPG로 저장 (품질 95)
+        img.save(filepath, 'JPEG', quality=95, optimize=True)
 
         print(f"✓ 다운로드 완료: {filename}")
         return filename

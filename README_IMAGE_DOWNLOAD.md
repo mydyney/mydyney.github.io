@@ -22,8 +22,12 @@ cd mydyney.github.io
 ### 2단계: 필요한 라이브러리 설치
 
 ```bash
-pip3 install requests
+pip3 install requests pillow
 ```
+
+**설치하는 라이브러리:**
+- `requests`: 이미지 다운로드
+- `pillow`: 이미지 포맷 변환 (PNG → JPG)
 
 ### 3단계: 네이버 블로그 HTML 저장
 
@@ -58,14 +62,15 @@ git push origin main
 
 ✅ HTML에서 모든 이미지 URL 추출
 ✅ 네이버 서버에서 이미지 다운로드
+✅ **PNG/GIF/WebP 이미지를 JPG로 자동 변환**
 ✅ `static/images/posts/` 폴더에 저장
 ✅ 마크다운 파일의 이미지 경로 자동 변경
 
 ## 트러블슈팅
 
-### requests 모듈이 없다고 나오면:
+### requests 또는 PIL 모듈이 없다고 나오면:
 ```bash
-pip3 install requests
+pip3 install requests pillow
 ```
 
 ### 권한 오류가 나오면:
