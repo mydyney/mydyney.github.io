@@ -36,9 +36,10 @@ This document provides comprehensive guidance for AI assistants working on this 
 
 ### Languages Supported
 
-1. **Korean** (ko) - Primary/Default language
-2. **English** (en) - Secondary
-3. **Japanese** (ja) - Tertiary
+1. **English** (en) - Primary/Default language
+2. **Japanese** (ja) - Secondary
+
+**Note:** Korean language support has been removed. The blog now operates in English and Japanese only.
 
 ### Key Information
 
@@ -124,15 +125,12 @@ mydyney.github.io/
 │   └── default.md                   # Template for new posts
 │
 ├── content/                         # ALL CONTENT - Organized by language
-│   ├── en/                          # English content
+│   ├── en/                          # English content (DEFAULT/PRIMARY)
 │   │   ├── _index.md               # English homepage
 │   │   └── posts/                  # English blog posts
-│   ├── ja/                          # Japanese content
-│   │   ├── _index.md               # Japanese homepage
-│   │   └── posts/                  # Japanese blog posts
-│   └── ko/                          # Korean content (PRIMARY)
-│       ├── _index.md               # Korean homepage
-│       └── posts/                  # Korean blog posts
+│   └── ja/                          # Japanese content
+│       ├── _index.md               # Japanese homepage
+│       └── posts/                  # Japanese blog posts
 │
 ├── layouts/                         # Custom layouts (override theme)
 │   ├── _default/
@@ -258,15 +256,14 @@ claude/claude-md-mi18nf00okdkyuyi-0117EAAGs2ZQwCgzw2nMBTyo
 **Recommended Method:**
 
 ```bash
-# Create new post in Korean (default)
-hugo new content/ko/posts/my-new-post.md
-
-# Create new post in English
+# Create new post in English (default)
 hugo new content/en/posts/my-new-post.md
 
 # Create new post in Japanese
 hugo new content/ja/posts/my-new-post.md
 ```
+
+**Note:** Korean posts are no longer created. Only English and Japanese versions.
 
 This uses the archetype template at `/archetypes/default.md`.
 
@@ -304,19 +301,13 @@ featured_image: "/images/posts/featured.jpg"
 
 **Creating Linked Translations:**
 
-1. Create post in all three languages with **identical `translationKey`**
-2. Use same date across all versions
-3. Place in respective language directories
+1. Create post in **English and Japanese** with **identical `translationKey`**
+2. Use same date across both versions
+3. Place in respective language directories (`content/en/` and `content/ja/`)
 
 **Example:**
 
 ```yaml
-# content/ko/posts/tokyo-guide.md
----
-title: "도쿄 가이드"
-translationKey: "tokyo-guide-2025"
----
-
 # content/en/posts/tokyo-guide.md
 ---
 title: "Tokyo Guide"
@@ -331,6 +322,8 @@ translationKey: "tokyo-guide-2025"
 ```
 
 **Language Switcher:** Hugo will automatically show language switcher when posts share `translationKey`.
+
+**Note:** Korean language support has been removed. Only create English and Japanese versions.
 
 ### Images
 
@@ -550,14 +543,15 @@ Complete information at a glance.</p>
 
 ### 1. Adding a New Blog Post
 
+**NOTE:** Blog posts are created from Korean Naver HTML. AI translates to English and Japanese only.
+
 ```bash
-# 1. Create post in all languages
-hugo new content/ko/posts/my-post.md
+# 1. Create post in English and Japanese ONLY
 hugo new content/en/posts/my-post.md
 hugo new content/ja/posts/my-post.md
 
 # 2. Edit each file:
-#    - Add same translationKey to all
+#    - Add same translationKey to both
 #    - Fill in content
 #    - Set draft: false when ready
 
@@ -612,8 +606,7 @@ git push
 ### 4. Adding a New Page (Non-Post)
 
 ```bash
-# Create about page in all languages
-hugo new content/ko/about.md
+# Create about page in English and Japanese
 hugo new content/en/about.md
 hugo new content/ja/about.md
 
@@ -683,14 +676,15 @@ hugo --minify
 ### Key Content Files
 
 **Homepage Content:**
-- `content/ko/_index.md` - Korean homepage
-- `content/en/_index.md` - English homepage
+- `content/en/_index.md` - English homepage (default)
 - `content/ja/_index.md` - Japanese homepage
 
 **Example Posts:**
-- `content/ko/posts/kirimugiya-jinroku-shinjuku.md` - Michelin restaurant review
-- `content/ko/posts/second-post.md` - Tokyo Ramen Street guide
-- Corresponding translations in `/en/` and `/ja/`
+- `content/en/posts/evangelion-30th-roppongi-2025.md` - Evangelion exhibition guide
+- `content/en/posts/marunouchi-illumination-2025.md` - Illumination guide
+- Corresponding Japanese translations in `/ja/posts/`
+
+**Note:** Korean content has been removed from the repository.
 
 ---
 
@@ -806,14 +800,16 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 - Save the complete HTML (Ctrl+S or right-click → Save As)
 - Save to repository root (e.g., `naver_post.html`)
 
-**Step 2: Analyze HTML and Create All Language Versions**
+**Step 2: Analyze HTML and Create English/Japanese Versions Only**
 - Count total images in the HTML
-- Create blog posts in all 3 languages (Korean, English, Japanese)
+- **Translate Korean HTML content to English and Japanese ONLY** (do NOT create Korean version)
+- Create blog posts in 2 languages: English and Japanese
 - Include ALL image references with correct numbering (`{slug}-01.jpg`, `{slug}-02.jpg`, etc.)
+- Maintain original image positions from Korean HTML
 - Use `<figure>` tags with `<figcaption>` for each image
 - Add proper Front Matter with `featured_image`, `description`, `summary`
 - Use centered intro paragraph
-- Commit all 3 language versions
+- Commit both English and Japanese versions
 
 **Step 3: Manual Image Download**
 - User downloads images from Naver blog manually
@@ -834,10 +830,10 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 # Step 1: After user provides HTML
 # (AI saves HTML to file)
 
-# Step 2: AI creates all 3 language versions
-# content/ko/posts/marunouchi-illumination-2025.md (22 images)
+# Step 2: AI translates Korean HTML to English and Japanese only
 # content/en/posts/marunouchi-illumination-2025.md (22 images)
 # content/ja/posts/marunouchi-illumination-2025.md (22 images)
+# (NO Korean version created)
 
 # Step 3: User manually downloads images
 # User saves to: static/images/posts/marunouchi-illumination-2025-01.jpg
@@ -886,8 +882,8 @@ hugo                        # Build site
 hugo --minify              # Build with minification
 
 # Content creation
-hugo new content/ko/posts/name.md   # New Korean post
 hugo new content/en/posts/name.md   # New English post
+hugo new content/ja/posts/name.md   # New Japanese post
 
 # Git
 git submodule update --init --recursive   # Init theme
@@ -910,7 +906,7 @@ git push -u origin claude/branch-name     # Push to branch
 ### Important Paths
 
 ```
-Content:         /content/{ko,en,ja}/posts/*.md
+Content:         /content/{en,ja}/posts/*.md
 Images:          /static/images/posts/
 Config:          /hugo.toml
 Theme:           /themes/ananke/ (submodule)
