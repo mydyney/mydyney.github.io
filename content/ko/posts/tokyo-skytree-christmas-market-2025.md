@@ -451,6 +451,11 @@ A. 도쿄스카이트리 맛집은 스카이트리 타운 내 쇼핑몰인 '도�
   <figcaption>도쿄 스카이트리 소라마치 맛집 '로쿠린샤'의 츠케멘</figcaption>
 </figure>
 
+<figure>
+  <img src="/images/posts/tokyo-skytree-christmas-market-2025-30.jpg" alt="도쿄 스카이트리 소라마치 맛집 '기온 츠지리'의 말차 아이스크림 파르페">
+  <figcaption>도쿄 스카이트리 소라마치 맛집 '기온 츠지리'의 말차 아이스크림 파르페</figcaption>
+</figure>
+
 <h2>🎯 2025 도쿄 겨울 추천 동선</h2>
 
 <p>지금까지 2025년 도쿄 스카이트리 크리스마스마켓과 일루미네이션 공식 정보를 정리했습니다. 초보자도 따라하기 쉬운 겨울 추천 동선입니다.</p>

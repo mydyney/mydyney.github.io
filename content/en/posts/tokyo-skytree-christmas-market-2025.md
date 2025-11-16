@@ -451,6 +451,11 @@ A. Tokyo Skytree's restaurants are concentrated in the 'Tokyo Solamachi' shoppin
   <figcaption>Tsukemen at 'Rokurinsha' restaurant in Tokyo Skytree Solamachi</figcaption>
 </figure>
 
+<figure>
+  <img src="/images/posts/tokyo-skytree-christmas-market-2025-30.jpg" alt="Matcha ice cream parfait at 'Gion Tsujiri' in Tokyo Skytree Solamachi">
+  <figcaption>Matcha ice cream parfait at 'Gion Tsujiri' in Tokyo Skytree Solamachi</figcaption>
+</figure>
+
 <h2>🎯 2025 Tokyo Winter Recommended Itinerary</h2>
 
 <p>This guide has covered all the official information for Tokyo Skytree Christmas Market and illumination 2025. Here's an easy-to-follow winter itinerary even for first-timers.</p>
