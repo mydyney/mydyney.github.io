@@ -222,6 +222,11 @@ Complete access guide to Tokyo Node all in one place.</p>
   <figcaption>Exhibition Ticket, Commemorative Postcard, Completion Commemorative Notebook</figcaption>
 </figure>
 
+<figure>
+  <img src="/images/posts/toranomon-hills-hermes-event-2025-22.jpg" alt="HERMES Exhibition at Tokyo Node Observatory on 45th Floor">
+  <figcaption>HERMES Exhibition at Tokyo Node Observatory on 45th Floor</figcaption>
+</figure>
+
 <p>The Toranomon Hills HERMES event is a very special free exhibition available for the short period until November 24th.</p>
 
 <p>Although reservations are difficult with full bookings every day, if you get the chance, I highly recommend participating in this creative and enjoyable mystery tour presented by HERMES.</p>

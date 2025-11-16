@@ -222,6 +222,11 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
   <figcaption>展示入場券、記念はがき、体験完了記念ノート</figcaption>
 </figure>
 
+<figure>
+  <img src="/images/posts/toranomon-hills-hermes-event-2025-22.jpg" alt="45階東京ノード展望台で開催されたエルメス展示">
+  <figcaption>45階東京ノード展望台で開催されたエルメス展示</figcaption>
+</figure>
+
 <p>虎ノ門ヒルズエルメスイベントは、11月24日という短い期間だけ会える非常に特別な無料展示です。</p>
 
 <p>毎日完売で予約は難しいですが、機会があればエルメスが贈る創意的で楽しいミステリーツアーにぜひ参加することを強くおすすめします。</p>
