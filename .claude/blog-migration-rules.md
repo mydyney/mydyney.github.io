@@ -175,6 +175,28 @@ python3 download_naver_images.py naver.html roppongi-christmas-illumination-2025
 <div data-ad="true">...</div>
 ```
 
+#### 🔍 이미지 추출 패턴 (download_naver_images.py의 동작)
+
+스크립트는 **4가지 패턴**으로 모든 네이버 블로그 이미지를 찾습니다:
+
+```python
+# 패턴 1: <div class="se-component se-image"> 내부
+<div class="se-component se-image...">
+  <img src="https://postfiles.pstatic.net/...">
+</div>
+
+# 패턴 2 & 3: se-image-resource 클래스 직접 (순서 무관)
+<img class="se-image-resource" src="https://postfiles.pstatic.net/...">
+<img src="https://postfiles.pstatic.net/..." class="se-image-resource">
+
+# 패턴 4: <div class="se-component se-imageGroup"> 내부 (갤러리)
+<div class="se-component se-imageGroup...">
+  <img src="https://postfiles.pstatic.net/...">
+</div>
+```
+
+**중요:** 광고 제거 후 남은 HTML에서만 이미지를 추출하므로, 광고 이미지는 자동으로 제외됩니다.
+
 ### 네이버 HTML → Hugo 변환 매핑
 
 | 네이버 HTML | Hugo HTML | 비고 |
