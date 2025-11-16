@@ -136,6 +136,81 @@ mydyney.github.io/
 | `resources/` | Hugo cache and generated assets | Can be regenerated |
 | `themes/` | Ananke theme (Git submodule) | Do NOT modify directly |
 | `.github/workflows/` | CI/CD configuration | Deployment automation |
+| `layouts/` | Custom Hugo templates (override theme) | Blog card design, list layouts |
+| `i18n/` | Multilingual translations | Korean, English, Japanese UI text |
+
+---
+
+## Blog Theme & Design
+
+### Custom Blog Card Design
+
+**Professional blog preview cards** are implemented across all language versions:
+
+**Key Features:**
+- 📸 Featured image with 5:3 aspect ratio
+- 🏷️ Gradient category badges
+- 📅 Date and reading time display
+- 📝 Compelling description (60-90 characters)
+- 🏷️ Tag display (up to 3 tags)
+- 🎯 "Read More" button with arrow animation
+- 📱 Responsive grid: 1 column (mobile), 2 columns (tablet), 3 columns (desktop)
+- 🌙 Dark mode support
+- ♿ Accessibility features
+
+### Template Files
+
+```
+layouts/
+├── _default/
+│   ├── list.html           # Default grid layout
+│   └── summary.html        # Blog card component
+├── post/
+│   └── list.html           # Post section layout (all languages)
+└── partials/
+    └── head-additions.html # CSS inclusion
+
+static/css/
+└── blog-cards.css          # Complete card styling
+
+i18n/
+├── ko.toml                 # Korean UI translations
+├── en.toml                 # English UI translations
+└── ja.toml                 # Japanese UI translations
+```
+
+### Multilingual Support
+
+**All blog cards work identically across:**
+- 🇰🇷 Korean: https://tripmate.news/posts/
+- 🇬🇧 English: https://tripmate.news/en/posts/
+- 🇯🇵 Japanese: https://tripmate.news/ja/posts/
+
+**UI text translations** (i18n):
+- "Read More" → "자세히 보기" (ko) / "続きを読む" (ja)
+- "About X min" → "약 X분" (ko) / "約X分" (ja)
+
+### Description Writing Guidelines
+
+**For blog cards to look professional**, each post needs a compelling description:
+
+**Length:** 60-90 characters (displays as 3 lines on card)
+
+**Structure:**
+1. Location feature (10-15 chars): "미슐랭 인정", "SNS 핫플"
+2. Core information (20-30 chars): "시부야 프렌치토스트 맛집"
+3. Value proposition (20-30 chars): "예약 방법부터 방문 팁까지"
+
+**Examples:**
+```yaml
+# ✅ Good
+description: "시부야 프렌치토스트 맛집 아이보리쉬! 한국어 예약부터 시그니처 메뉴, 방문 팁까지 완벽 가이드"
+
+# ❌ Bad
+description: "시부야에 있는 프렌치토스트 맛집을 소개합니다"
+```
+
+**See:** `.claude/instructions.md` for detailed description writing guide.
 
 ---
 
