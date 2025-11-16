@@ -408,6 +408,59 @@ Final line wrapping up intro.</p>
 </figure>
 ```
 
+**Google Maps Embed (Location Information):**
+
+When a blog post includes a location (restaurant, attraction, etc.), add an interactive Google Maps embed with language-specific settings:
+
+```html
+<!-- English Version -->
+<div style="margin: 2rem 0;">
+  <iframe src="https://www.google.com/maps?q=LATITUDE,LONGITUDE&hl=en&z=17&output=embed"
+          width="100%" height="400"
+          style="border:0; border-radius:8px;"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <p style="text-align:center; margin-top:0.5rem; font-size:0.9rem; color:#666;">
+    <strong>Location Name</strong><br>
+    Full Address in English<br>
+    <a href="https://www.google.com/maps/place/Location+Name/@LATITUDE,LONGITUDE,17z?hl=en"
+       target="_blank"
+       style="color:#667eea;">View on Google Maps</a>
+  </p>
+</div>
+
+<!-- Japanese Version -->
+<div style="margin: 2rem 0;">
+  <iframe src="https://www.google.com/maps?q=LATITUDE,LONGITUDE&hl=ja&z=17&output=embed"
+          width="100%" height="400"
+          style="border:0; border-radius:8px;"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <p style="text-align:center; margin-top:0.5rem; font-size:0.9rem; color:#666;">
+    <strong>場所名</strong><br>
+    日本語の住所<br>
+    <a href="https://www.google.com/maps/place/Location+Name/@LATITUDE,LONGITUDE,17z?hl=ja"
+       target="_blank"
+       style="color:#667eea;">Googleマップで見る</a>
+  </p>
+</div>
+```
+
+**Google Maps Parameters:**
+- `q=LATITUDE,LONGITUDE` - Map coordinates
+- `hl=en` or `hl=ja` - Interface language (English/Japanese)
+- `z=17` - Zoom level (17 is good for detailed street view)
+- `output=embed` - Embed mode for iframe
+
+**Important Notes:**
+- ✅ Always use language-specific `hl` parameter (en/ja)
+- ✅ Include direct Google Maps link for full-screen view
+- ✅ Use consistent styling (border-radius, height 400px)
+- ✅ Add location name and address below the map
+- 🗺️ Get coordinates from Google Maps by right-clicking on location
+
 **Common CSS File:**
 All blog posts share common styles through `/static/css/blog-post-common.css`.
 
