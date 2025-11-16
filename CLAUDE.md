@@ -15,12 +15,13 @@ This document provides comprehensive guidance for AI assistants working on this 
 2. [Architecture & Technology Stack](#architecture--technology-stack)
 3. [Directory Structure](#directory-structure)
 4. [Development Workflows](#development-workflows)
-5. [Content Management](#content-management)
-6. [Key Conventions](#key-conventions)
-7. [Common Tasks](#common-tasks)
-8. [Important Files](#important-files)
-9. [Critical Considerations](#critical-considerations)
-10. [Migration Context](#migration-context)
+5. [Monetization](#monetization)
+6. [Content Management](#content-management)
+7. [Key Conventions](#key-conventions)
+8. [Common Tasks](#common-tasks)
+9. [Important Files](#important-files)
+10. [Critical Considerations](#critical-considerations)
+11. [Migration Context](#migration-context)
 
 ---
 
@@ -246,6 +247,62 @@ claude/claude-md-mi18nf00okdkyuyi-0117EAAGs2ZQwCgzw2nMBTyo
 - `TZ=Asia/Seoul`
 
 **Deployment URL:** https://tripmate.news (via GitHub Pages)
+
+---
+
+## Monetization
+
+### Google AdSense
+
+The site uses Google AdSense for monetization with Auto Ads enabled.
+
+**Configuration:**
+
+- **Publisher ID:** `ca-pub-8704780774924832`
+- **Configuration File:** `hugo.toml` (`params.adsense_publisher_id`)
+- **Auto Ads Script:** Loaded in `layouts/partials/head-additions.html`
+
+**Auto Ads:**
+
+Google Auto Ads automatically places ads in optimal positions across the site. No manual placement is required.
+
+The AdSense script is loaded in the `<head>` section of every page via `head-additions.html`:
+
+```html
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8704780774924832"
+     crossorigin="anonymous"></script>
+```
+
+**Manual Ad Placement (Optional):**
+
+If you need to manually place ads in specific locations, use the following partials:
+
+1. **In-Article Ads:**
+   ```hugo
+   {{ partial "adsense-in-article.html" . }}
+   ```
+   Use this within blog post content for in-article ads.
+
+2. **Display Ads:**
+   ```hugo
+   {{ partial "adsense-display.html" . }}
+   ```
+   Use this in layouts for standard display ads.
+
+**Important Notes:**
+
+- Auto Ads may take 1-2 days to start showing after initial setup
+- AdSense account must be approved by Google before ads will display
+- Test ads won't show in localhost development
+- Monitor AdSense dashboard for performance and policy compliance
+
+**AdSense Setup Steps:**
+
+1. ✅ AdSense account created
+2. ✅ Site added to AdSense: `https://tripmate.news`
+3. ✅ Auto Ads code added to site
+4. ⏳ Waiting for Google AdSense approval (can take 1-2 weeks)
+5. ⏳ Ads will automatically appear once approved
 
 ---
 
