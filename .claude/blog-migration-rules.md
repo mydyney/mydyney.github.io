@@ -175,27 +175,32 @@ python3 download_naver_images.py naver.html roppongi-christmas-illumination-2025
 <div data-ad="true">...</div>
 ```
 
-#### 🔍 이미지 추출 패턴 (download_naver_images.py의 동작)
+#### 🔍 이미지 추출 로직 (download_naver_images.py의 동작)
 
-스크립트는 **4가지 패턴**으로 모든 네이버 블로그 이미지를 찾습니다:
+스크립트는 **HTML 순서를 유지**하면서 모든 네이버 블로그 이미지를 찾습니다:
 
 ```python
-# 패턴 1: <div class="se-component se-image"> 내부
-<div class="se-component se-image...">
-  <img src="https://postfiles.pstatic.net/...">
-</div>
+# 1. 광고 블록 제거
+clean_html = remove_ad_blocks(html_content)
 
-# 패턴 2 & 3: se-image-resource 클래스 직접 (순서 무관)
-<img class="se-image-resource" src="https://postfiles.pstatic.net/...">
-<img src="https://postfiles.pstatic.net/..." class="se-image-resource">
-
-# 패턴 4: <div class="se-component se-imageGroup"> 내부 (갤러리)
-<div class="se-component se-imageGroup...">
-  <img src="https://postfiles.pstatic.net/...">
-</div>
+# 2. HTML 순서대로 모든 postfiles.pstatic.net 이미지 추출
+# re.finditer를 사용하여 HTML에 나타나는 순서대로 처리
+for match in re.finditer(r'<img[^>]+src="(https://postfiles\.pstatic\.net/[^"]+)"', clean_html):
+    url = match.group(1)
+    # 중복 제거 후 추가
 ```
 
-**중요:** 광고 제거 후 남은 HTML에서만 이미지를 추출하므로, 광고 이미지는 자동으로 제외됩니다.
+**핵심 원칙:**
+1. ✅ **순서 보존**: HTML에 나타나는 순서 그대로 추출
+2. ✅ **광고 자동 제외**: 광고 제거 후 이미지 추출
+3. ✅ **중복 자동 제거**: 같은 URL은 한 번만 저장
+4. ✅ **구조 무관**: div 구조에 상관없이 모든 img 태그 처리
+
+**예시:**
+```
+HTML 순서:      이미지 1 → 이미지 2 → ... → 이미지 15 → ... → 이미지 30
+다운로드 순서:  01.jpg   → 02.jpg   → ... → 15.jpg   → ... → 30.jpg ✓
+```
 
 ### 네이버 HTML → Hugo 변환 매핑
 

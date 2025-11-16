@@ -63,39 +63,22 @@ def remove_ad_blocks(html_content):
     return cleaned_html
 
 def extract_image_urls(html_content):
-    """HTML에서 네이버 이미지 URL 추출 (광고 제거 후)"""
+    """HTML에서 네이버 이미지 URL 추출 (광고 제거 후, 순서 보존)"""
     # 1. 광고 블록 먼저 제거
     clean_html = remove_ad_blocks(html_content)
 
-    # 2. postfiles.pstatic.net 이미지 URL 추출 (여러 패턴 조합)
-    all_matches = []
+    # 2. HTML 순서대로 모든 img 태그 찾기
+    # postfiles.pstatic.net을 포함한 모든 img 태그를 순서대로 추출
+    img_pattern = r'<img[^>]+src="(https://postfiles\.pstatic\.net/[^"]+)"[^>]*>'
 
-    # 패턴 1: se-component se-image div 내부
-    pattern1 = r'<div\s+class="se-component\s+se-image[^"]*"[^>]*>.*?<img[^>]+src="(https://postfiles\.pstatic\.net/[^"]+)"'
-    matches1 = re.findall(pattern1, clean_html, re.DOTALL)
-    all_matches.extend(matches1)
-
-    # 패턴 2: se-image-resource 클래스를 가진 img 태그 (src 먼저)
-    pattern2 = r'<img[^>]+src="(https://postfiles\.pstatic\.net/[^"]+)"[^>]+class="[^"]*se-image-resource[^"]*"'
-    matches2 = re.findall(pattern2, clean_html, re.DOTALL)
-    all_matches.extend(matches2)
-
-    # 패턴 3: se-image-resource 클래스를 가진 img 태그 (class 먼저)
-    pattern3 = r'<img[^>]+class="[^"]*se-image-resource[^"]*"[^>]+src="(https://postfiles\.pstatic\.net/[^"]+)"'
-    matches3 = re.findall(pattern3, clean_html, re.DOTALL)
-    all_matches.extend(matches3)
-
-    # 패턴 4: se-component se-imageGroup 내부
-    pattern4 = r'<div\s+class="se-component\s+se-imageGroup[^"]*"[^>]*>.*?<img[^>]+src="(https://postfiles\.pstatic\.net/[^"]+)"'
-    matches4 = re.findall(pattern4, clean_html, re.DOTALL)
-    all_matches.extend(matches4)
-
-    # 3. 중복 제거 (순서 유지)
     unique_urls = []
     seen = set()
 
-    for url in all_matches:
-        # ?type=w773 등의 파라미터 제거한 base URL
+    # re.finditer를 사용하여 순서대로 처리
+    for match in re.finditer(img_pattern, clean_html):
+        url = match.group(1)
+
+        # 중복 제거 (base URL 기준)
         base_url = url.split('?')[0]
         if base_url not in seen:
             seen.add(base_url)
