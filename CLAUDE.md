@@ -327,6 +327,64 @@ python3 download_naver_images.py naver_blog.html tokyo-restaurant-guide
 
 See `README_IMAGE_DOWNLOAD.md` for detailed instructions.
 
+### Blog Post Styles
+
+**Common CSS File:**
+All blog posts share common styles through `/static/css/blog-post-common.css`.
+
+**Available CSS Classes:**
+```css
+.blog-container        /* Main container for blog post content */
+.blog-container h2     /* Section headings with blue underline */
+.blog-container img    /* Images with rounded corners and shadow */
+.info-box              /* Purple gradient info box */
+.schedule-table        /* Styled table for schedules */
+.tip-box               /* Yellow tip/warning box */
+blockquote             /* Blue left-border quotations */
+```
+
+**Usage in Markdown:**
+```html
+---
+title: "Your Post Title"
+---
+
+<div class="blog-container">
+
+<div class="info-box">
+  <ul>
+    <li>Information item 1</li>
+    <li>Information item 2</li>
+  </ul>
+</div>
+
+<table class="schedule-table">
+  <thead>
+    <tr><th>Column 1</th><th>Column 2</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Data 1</td><td>Data 2</td></tr>
+  </tbody>
+</table>
+
+<div class="tip-box">
+  <p><strong>Tip:</strong> Helpful information here</p>
+</div>
+
+</div>
+```
+
+**Important Notes:**
+- ✅ DO use common CSS classes from `blog-post-common.css`
+- ❌ DO NOT add inline `<style>` blocks in posts
+- ✅ Wrap content in `<div class="blog-container">` for consistent styling
+- 🎨 CSS is automatically loaded via `layouts/partials/head-additions.html`
+
+**CSS Files:**
+- `/static/css/blog-cards.css` - Blog card styles (list pages)
+- `/static/css/blog-post-common.css` - Blog post content styles
+- Both are loaded globally via `head-additions.html`
+
 ---
 
 ## Key Conventions
@@ -356,8 +414,9 @@ See `README_IMAGE_DOWNLOAD.md` for detailed instructions.
 
 **HTML in Markdown:**
 - Allowed (unsafe HTML is enabled in Goldmark)
-- Current posts use extensive inline HTML/CSS
-- Prefer theme-native features when possible
+- Use common CSS classes from `/static/css/blog-post-common.css`
+- Wrap post content in `<div class="blog-container">`
+- DO NOT add inline `<style>` blocks (use shared CSS instead)
 
 ### Code Style
 
@@ -366,10 +425,11 @@ See `README_IMAGE_DOWNLOAD.md` for detailed instructions.
 - Include alt text for images
 - Use semantic HTML when needed
 
-**Inline CSS:**
-- Current pattern: Include `<style>` blocks in posts
-- Use descriptive class names
-- Consider extracting to theme customization if reused
+**Blog Post Styling:**
+- Use shared CSS file: `/static/css/blog-post-common.css`
+- Available classes: `.blog-container`, `.info-box`, `.schedule-table`, `.tip-box`
+- DO NOT add `<style>` blocks in individual posts
+- For new styles, add to `blog-post-common.css` for reusability
 
 **Commit Messages:**
 - Use descriptive messages
@@ -501,6 +561,16 @@ hugo --minify
 |------|---------|
 | `download_naver_images.py` | Migrate images from Naver Blog |
 | `README_IMAGE_DOWNLOAD.md` | Documentation for migration script |
+
+### Design & Style Files
+
+| File | Purpose | Notes |
+|------|---------|-------|
+| `static/css/blog-cards.css` | Blog card styles for post listings | Modern magazine-style cards with gradients |
+| `static/css/blog-post-common.css` | Shared styles for blog post content | Classes: `.blog-container`, `.info-box`, `.schedule-table`, `.tip-box` |
+| `layouts/partials/head-additions.html` | CSS loader for custom styles | Automatically loads both CSS files |
+| `layouts/post/list.html` | Post listing page layout | CSS Grid with responsive breakpoints |
+| `layouts/post/summary.html` | Blog card component | Individual card template |
 
 ### Key Content Files
 
