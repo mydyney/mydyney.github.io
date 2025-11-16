@@ -8,20 +8,29 @@
 ## 전체 워크플로우
 
 ```
-1. 네이버 블로그 HTML 추출
+1. 네이버 블로그 HTML 추출 (naver.html로 저장)
    ↓
-2. 이미지 다운로드 (download_naver_images.py)
+2. 🔴 이미지 다운로드 먼저 실행 (download_naver_images.py)
    ↓
-3. HTML 구조 분석 및 파싱
+3. 🔴 다운로드된 이미지 개수 확인 및 Claude에게 전달
    ↓
-4. 한국어 콘텐츠 리라이팅
+4. HTML 구조 분석 및 파싱 (이미지 개수 기반)
    ↓
-5. Hugo Markdown 생성 (Front Matter + HTML)
+5. 한국어 콘텐츠 리라이팅 (이미지 01~N 사용)
    ↓
-6. 영어/일본어 번역 생성
+6. Hugo Markdown 생성 (Front Matter + HTML)
    ↓
-7. 품질 검증 및 배포
+7. 영어/일본어 번역 생성
+   ↓
+8. 품질 검증 및 배포
 ```
+
+### ⚠️ 중요 변경사항
+
+**이미지 다운로드를 가장 먼저 실행합니다!**
+- ✅ 웹(원본 HTML) 이미지 개수 = 다운로드된 이미지 개수 일치 검증
+- ✅ 블로그 작성 시 정확한 이미지 개수를 알고 시작
+- ✅ 이미지 개수 불일치 문제 사전 방지
 
 ---
 
@@ -32,7 +41,12 @@
 2. F12 (개발자 도구) → Elements 탭
 3. `<div class="se-main-container">` 전체 선택
 4. 우클릭 → Copy → Copy outerHTML
-5. 텍스트 파일로 저장: `naver-{slug}.html`
+5. **🔴 텍스트 파일로 저장: `naver.html` (파일명 고정!)**
+
+### ⚠️ 중요: 파일명은 항상 `naver.html`로 저장
+- 작업 디렉토리에 `naver.html` 파일 생성
+- 이미지 다운로드 스크립트가 `naver.html`을 기본으로 사용
+- 매번 같은 파일명을 사용하여 명령어 단순화
 
 ### 네이버 HTML 구조 이해
 ```html
@@ -56,7 +70,14 @@
 
 ---
 
-## STEP 2: 이미지 다운로드
+## STEP 2: 🔴 이미지 다운로드 (가장 먼저 실행!)
+
+### ⚠️ 중요: HTML 분석보다 이미지 다운로드를 먼저 실행합니다!
+
+이미지 다운로드를 먼저 실행하여:
+1. 광고 제거 후 실제 콘텐츠 이미지 개수 확인
+2. 다운로드된 이미지 개수를 Claude에게 전달
+3. 블로그 작성 시 정확한 이미지 개수로 시작
 
 ### download_naver_images.py 실행
 
@@ -64,11 +85,13 @@
 # 저장소로 이동
 cd ~/Desktop/mydyney.github.io
 
-# 스크립트 실행
-python3 download_naver_images.py naver-{slug}.html {post-slug}
+# 🔴 표준 명령어 (HTML 파일명은 항상 naver.html)
+python3 download_naver_images.py naver.html <post-slug>
 
 # 예시
-python3 download_naver_images.py naver-shibuya-ramen.html shibuya-ramen-guide
+python3 download_naver_images.py naver.html tokyo-skytree-christmas-market-2025
+python3 download_naver_images.py naver.html shibuya-ramen-guide
+python3 download_naver_images.py naver.html roppongi-christmas-illumination-2025
 ```
 
 ### 이미지 파일 규칙
@@ -77,69 +100,79 @@ python3 download_naver_images.py naver-shibuya-ramen.html shibuya-ramen-guide
 - **Markdown 경로**: `/images/posts/{post-slug}-01.jpg`
 
 ### 스크립트 출력 확인
+
 ```
-✓ 총 15개 이미지 다운로드 완료
-✓ 마크다운 파일 업데이트 완료: content/ko/posts/{post-slug}.md
+🧹 광고 블록 제거 중...
+✓ 광고 블록 제거 완료 (제거된 크기: 12,345 bytes)
+
+============================================================
+📊 이미지 추출 결과
+============================================================
+✓ 광고 제거 후 발견된 콘텐츠 이미지: 29개
+✓ 다운로드할 이미지: tokyo-skytree-christmas-market-2025-01.jpg ~ tokyo-skytree-christmas-market-2025-29.jpg
+============================================================
+
+[1/29] 다운로드 중...
+✓ 다운로드 완료: tokyo-skytree-christmas-market-2025-01.jpg
+[2/29] 다운로드 중...
+...
+
+============================================================
+✅ 다운로드 완료!
+============================================================
+✓ 성공: 29개 이미지
+✓ 실패: 0개 이미지
+✓ 저장 위치: static/images/posts/
+============================================================
+
+🎉 모든 작업 완료!
 ```
+
+### 🔴 다음 단계: 이미지 개수를 Claude에게 전달
+
+**다운로드 완료 후 반드시 다음 정보를 Claude에게 전달:**
+
+```
+다운로드 완료!
+- 포스트 슬러그: tokyo-skytree-christmas-market-2025
+- 다운로드된 이미지: 29개
+- 이미지 범위: 01.jpg ~ 29.jpg
+
+블로그 포스트 작성을 시작해주세요.
+```
+
+이제 Claude가 **정확히 29개 이미지**를 사용하여 블로그를 작성합니다.
 
 ---
 
 ## STEP 3: HTML 구조 분석 및 파싱
 
-### ⚠️ 광고 코드 자동 제거 (최우선 작업)
+### ✅ 사전 준비 완료 상태
 
-네이버 블로그 HTML에는 광고 코드가 포함되어 있으며, 이는 **반드시 콘텐츠 분석 전에 제거**해야 합니다.
+이 단계에 도달했다면:
+- ✅ `naver.html` 파일이 준비되었습니다
+- ✅ 이미지 다운로드가 완료되었습니다
+- ✅ 다운로드된 이미지 개수를 알고 있습니다 (예: 29개)
 
-#### 제거해야 할 광고 패턴
+### ⚠️ 광고 코드는 이미 제거되었습니다
+
+`download_naver_images.py` 스크립트가 자동으로 광고를 제거했으므로:
+- ✅ 다운로드된 이미지 = 실제 콘텐츠 이미지 (광고 이미지 제외)
+- ✅ 블로그 작성 시 01.jpg ~ N.jpg 순서대로 모두 사용
+
+#### 참고: 광고 패턴 (download_naver_images.py가 자동 제거)
+
+다음 패턴은 이미지 다운로드 스크립트가 자동으로 제거합니다:
 
 ```html
 <!-- 패턴 1: 네이버 광고 래퍼 -->
-<div class="ad_power_content_wrap" data-gfp-slot-index="0">
-    <a data-ssp="clk" target="_blank" href="...">
-        <!-- 광고 이미지 및 콘텐츠 -->
-    </a>
-</div>
+<div class="ad_power_content_wrap">...</div>
 
 <!-- 패턴 2: SSP 광고 콘텐츠 -->
-<div class="ssp-adcontent">
-    <!-- 광고 내용 -->
-</div>
+<div class="ssp-adcontent">...</div>
 
-<!-- 패턴 3: 인라인 광고 -->
-<div class="se-component" data-ad="true">
-    <!-- 광고 -->
-</div>
-```
-
-#### 광고 제거 절차
-
-1. **HTML 파싱 전 광고 블록 삭제**
-   - `<div class="ad_power_content_wrap">...</div>` 전체 제거
-   - `<div class="ssp-adcontent">...</div>` 전체 제거
-   - `data-ad="true"` 속성이 있는 요소 제거
-
-2. **광고 제거 후 이미지 개수 재확인**
-   ```
-   ❌ 잘못된 방법: HTML 전체에서 이미지 개수 카운트 (광고 이미지 포함)
-   ✅ 올바른 방법: 광고 제거 → 실제 콘텐츠 이미지만 카운트
-   ```
-
-3. **검증 체크리스트**
-   - [ ] 모든 광고 블록이 제거되었는가?
-   - [ ] 광고 제거 후 이미지 개수 = 다운로드된 이미지 개수
-   - [ ] 콘텐츠 구조가 손상되지 않았는가?
-
-#### 실제 사례: 롯폰기 일루미네이션 포스트
-
-```
-❌ 광고 제거 전:
-- HTML에서 발견된 이미지: 15개 (광고 이미지 1개 포함)
-- 다운로드된 이미지: 28개 (중복 포함)
-
-✅ 광고 제거 후:
-- 실제 콘텐츠 이미지: 14개
-- 다운로드된 이미지: 14개 (01.jpg ~ 14.jpg)
-- 결과: 숫자 일치 ✓
+<!-- 패턴 3: data-ad 속성 -->
+<div data-ad="true">...</div>
 ```
 
 ### 네이버 HTML → Hugo 변환 매핑
@@ -164,11 +197,27 @@ python3 download_naver_images.py naver-shibuya-ramen.html shibuya-ramen-guide
 7. **일반 문단**: `<p class="se-text-paragraph">`
 
 ### ⚠️ 중요 원칙
-- **이미지는 하나도 누락하지 않음** (순서대로 모두 포함)
-- **이미지 위치는 원본 HTML과 동일하게 유지** (리라이팅 시에도 이미지 순서 변경 금지)
-- **이미지 개수 검증 필수** (광고 제거 후 이미지 개수 = 다운로드된 이미지 개수)
-- **HTML 태그는 닫힘 확인** (문법 오류 방지)
-- **링크는 외부 속성 추가** (`target="_blank" rel="noopener noreferrer"`)
+
+#### 🖼️ 이미지 사용 규칙
+- **모든 이미지 필수 사용**: 다운로드된 01.jpg ~ N.jpg를 모두 사용 (하나도 누락 금지)
+- **순서 변경 금지**: 원본 HTML의 이미지 순서를 그대로 유지
+- **🔴 개수 일치 검증**: 사용한 이미지 개수 = 다운로드된 이미지 개수
+
+**예시:**
+```
+다운로드: 29개 이미지 (01.jpg ~ 29.jpg)
+블로그: 29개 이미지 모두 사용 ✓
+
+다운로드: 29개 이미지
+블로그: 30개 이미지 사용 ✗ (존재하지 않는 30.jpg 참조!)
+
+다운로드: 29개 이미지
+블로그: 28개 이미지 사용 ✗ (29.jpg 누락!)
+```
+
+#### HTML 작성 규칙
+- **HTML 태그 닫힘 확인** (문법 오류 방지)
+- **링크 외부 속성 추가** (`target="_blank" rel="noopener noreferrer"`)
 
 ---
 
@@ -520,20 +569,32 @@ featured_image: "/images/posts/{slug}-01.jpg"
 
 ---
 
-## STEP 7: 품질 검증 체크리스트
+## STEP 8: 품질 검증 체크리스트
 
-### 🚨 광고 제거 검증 (최우선)
-- [ ] 모든 `<div class="ad_power_content_wrap">` 블록이 제거되었는가?
-- [ ] 모든 `<div class="ssp-adcontent">` 블록이 제거되었는가?
-- [ ] 광고 관련 이미지가 제거되었는가?
-- [ ] 광고 제거 후 콘텐츠 구조가 정상인가?
+### 🔴 이미지 개수 검증 (최우선!)
 
-### 🖼️ 이미지 검증
-- [ ] 광고 제거 후 이미지 개수 = 다운로드된 이미지 개수인가?
+**가장 중요한 검증 항목:**
+- [ ] **사용한 이미지 개수 = 다운로드된 이미지 개수**
 - [ ] 모든 이미지가 01.jpg부터 순서대로 사용되었는가?
+- [ ] 존재하지 않는 이미지 번호를 참조하지 않는가? (예: 30.jpg가 없는데 사용)
+- [ ] 중복 사용된 이미지가 없는가?
+- [ ] 누락된 이미지가 없는가?
+
+**검증 명령어:**
+```bash
+# 다운로드된 이미지 개수 확인
+ls static/images/posts/tokyo-skytree-* | wc -l
+# 출력: 29
+
+# 블로그에서 사용된 이미지 개수 확인 (featured_image 제외)
+grep -o "tokyo-skytree-christmas-market-2025-[0-9]*.jpg" content/ko/posts/tokyo-skytree-christmas-market-2025.md | sort -u | wc -l
+# 출력: 29 (일치해야 함!)
+```
+
+### 🖼️ 이미지 품질 검증
 - [ ] 이미지 위치가 원본 HTML과 동일한가?
-- [ ] 중복되거나 누락된 이미지가 없는가?
 - [ ] 모든 이미지에 alt 텍스트가 있는가?
+- [ ] 이미지 경로가 올바른가? `/images/posts/{slug}-NN.jpg`
 
 ### HTML 문법 검증
 - [ ] 모든 태그가 올바르게 닫혔는가?
@@ -628,69 +689,117 @@ hugo
 
 ## 마이그레이션 실행 예시
 
-### 전체 프로세스
+### 🔴 새로운 워크플로우 (이미지 다운로드 우선)
+
 ```bash
 # 1. 네이버 블로그 HTML 저장
-# naver-shibuya-ramen.html 파일 생성
+# 🔴 항상 naver.html로 저장!
+# F12 → Elements → <div class="se-main-container"> → Copy outerHTML → naver.html
 
-# 2. 이미지 다운로드
+# 2. 🔴 이미지 다운로드 먼저 실행!
 cd ~/Desktop/mydyney.github.io
-python3 download_naver_images.py naver-shibuya-ramen.html shibuya-ramen-guide
+python3 download_naver_images.py naver.html tokyo-skytree-christmas-market-2025
 
-# 3. Markdown 파일 생성 (Claude에게 HTML 제공)
-# → 한국어 리라이팅
+# 출력 확인:
+# ============================================================
+# ✅ 다운로드 완료!
+# ============================================================
+# ✓ 성공: 29개 이미지
+# ✓ 실패: 0개 이미지
+# ============================================================
+
+# 3. 🔴 Claude에게 이미지 개수 전달
+# "다운로드 완료! 29개 이미지 (01~29). 블로그 포스트 작성 시작해주세요."
+
+# 4. Markdown 파일 생성 (Claude 작업)
+# → HTML 분석 (이미지 개수 확인: 29개)
+# → 한국어 리라이팅 (이미지 01~29 모두 사용)
 # → Hugo Markdown 생성
 # → 영어/일본어 번역
 
-# 4. Git 커밋
-git add content/ko/posts/shibuya-ramen-guide.md
-git add content/en/posts/shibuya-ramen-guide.md
-git add content/ja/posts/shibuya-ramen-guide.md
-git add static/images/posts/shibuya-ramen-guide-*.jpg
-git commit -m "Add Shibuya ramen guide blog post"
+# 5. 🔴 이미지 개수 검증 (중요!)
+ls static/images/posts/tokyo-skytree-christmas-market-2025-*.jpg | wc -l
+# 출력: 29
 
-# 5. GitHub 푸시
-git push origin claude/migrate-blog-posts-01Ts9NHmZwsuzNpQp6ewLzBJ
+grep -o "tokyo-skytree-christmas-market-2025-[0-9]*.jpg" content/ko/posts/tokyo-skytree-christmas-market-2025.md | sort -u | wc -l
+# 출력: 29 (일치 확인!)
 
-# 6. PR 생성 및 병합
-# GitHub에서 Pull Request 생성 → main 병합
+# 6. Git 커밋
+git add content/ko/posts/tokyo-skytree-christmas-market-2025.md
+git add content/en/posts/tokyo-skytree-christmas-market-2025.md
+git add content/ja/posts/tokyo-skytree-christmas-market-2025.md
+git add static/images/posts/tokyo-skytree-christmas-market-2025-*.jpg
+git commit -m "Add Tokyo Skytree Christmas Market 2025 blog post (29 images)"
 
-# 7. 배포 확인
+# 7. GitHub 푸시
+git push -u origin claude/migrate-blog-posts-01Ts9NHmZwsuzNpQp6ewLzBJ
+
+# 8. 배포 확인
 # https://tripmate.news 에서 3-5분 후 확인
 ```
+
+### 🚨 체크포인트
+
+**이미지 다운로드 후:**
+- [ ] 다운로드 성공 메시지 확인
+- [ ] 이미지 개수 확인 (예: 29개)
+- [ ] Claude에게 이미지 개수 전달
+
+**블로그 작성 후:**
+- [ ] 사용한 이미지 개수 = 다운로드된 이미지 개수
+- [ ] 01.jpg부터 순서대로 사용
+- [ ] 존재하지 않는 번호 참조 없음
+
+**커밋 전:**
+- [ ] 3개 언어 모두 생성 (ko, en, ja)
+- [ ] Hugo 로컬 빌드 성공
+- [ ] 이미지 경로 정상 표시
 
 ---
 
 ## 트러블슈팅
 
-### 이미지 개수가 일치하지 않는 경우
+### 🔴 이미지 개수가 일치하지 않는 경우
+
+**새로운 워크플로우에서는 이 문제가 발생하지 않습니다!**
+
+이미지 다운로드를 먼저 실행하므로:
+- ✅ 다운로드된 이미지 개수가 명확함
+- ✅ Claude가 정확한 개수를 알고 블로그 작성
+- ✅ 개수 불일치 문제 사전 방지
+
+**만약 발생한다면:**
 
 **증상:**
-- HTML에서 발견된 이미지: 15개
-- 다운로드된 이미지: 28개 (또는 다른 숫자)
-- Hugo 서버에서 중복 이미지 표시
+```bash
+# 다운로드: 29개
+ls static/images/posts/tokyo-skytree-*.jpg | wc -l
+# 29
+
+# 블로그 사용: 30개
+grep -o "tokyo-skytree-[0-9]*.jpg" content/ko/posts/tokyo-skytree-*.md | sort -u | wc -l
+# 30 ← 불일치!
+```
 
 **원인:**
-- 네이버 블로그 HTML에 광고 코드가 포함되어 있음
-- 광고 이미지가 실제 콘텐츠 이미지로 잘못 카운트됨
+- Claude가 존재하지 않는 이미지 번호를 참조함 (예: 30.jpg)
+- 이미지 개수를 잘못 전달받음
 
 **해결 방법:**
-1. HTML에서 광고 블록 제거
-   ```html
-   <!-- 제거해야 할 패턴 -->
-   <div class="ad_power_content_wrap">...</div>
-   <div class="ssp-adcontent">...</div>
-   ```
-
-2. 광고 제거 후 이미지 재확인
+1. 다운로드된 이미지 개수 재확인
    ```bash
-   # 실제 콘텐츠 이미지만 카운트
-   # 예: 14개
+   ls static/images/posts/tokyo-skytree-*.jpg | wc -l
    ```
 
-3. Markdown 파일 재생성
-   - 광고 이미지 제외
-   - 실제 이미지만 01.jpg ~ 14.jpg 순서대로 사용
+2. Claude에게 정확한 개수 전달
+   ```
+   "다운로드된 이미지: 29개 (01~29)
+   블로그에서 정확히 29개만 사용해주세요."
+   ```
+
+3. 블로그 파일 수정
+   - 존재하지 않는 이미지 참조 제거
+   - 누락된 이미지 추가
 
 ### 이미지가 표시되지 않는 경우
 1. 이미지 파일 경로 확인: `/images/posts/{slug}-01.jpg`
