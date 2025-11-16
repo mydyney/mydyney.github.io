@@ -14,7 +14,7 @@ tags: ["우동", "미슐랭", "신주쿠", "일본음식"]
 <p style="text-align: center;">⭐신주쿠 전체 여행코스와 맛집·쇼핑·야경 정보를 한눈에 보고 싶다면</p>
 <p style="text-align: center;">➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><strong>신주쿠 놀거리 완벽 코스 총정리</strong></a></p>
 
-![키리무기야 진로쿠 외관](https://postfiles.pstatic.net/MjAyNTA2MjhfMTIx/MDAxNzUxMDM3NDk4NTk4.jtK8BTgrJPkCe02VfzRUDqEmQ6o0nMwKAASObHdh_PIg.53SL2-REhuj7oGsV6UyRw0Fz7oqp17Nbu2tvkdjoITYg.JPEG/SE-2c643123-4be4-45bd-8ca6-e63aae4b285c.jpg?type=w773)
+![키리무기야 진로쿠 외관](/images/posts/kirimugiya-jinroku-shinjuku-02.jpg?type=w773)
 
 ## 키리무기야 진로쿠 신주쿠점 영업정보
 
@@ -50,7 +50,7 @@ tags: ["우동", "미슐랭", "신주쿠", "일본음식"]
 줄을 설 때는 전체 인원이 다 모인 상태에서
 바닥에 표시된 번호에 맞춰 줄을 섭니다.
 
-![매장 입구](https://postfiles.pstatic.net/MjAyNTA2MjhfMzgg/MDAxNzUxMDM3NDk5NzYz.mF87qrYuoHQAYWcgRHcyNrG7VwwSKaRe1ps5XKg_11og.Szm3gpW9EGXH1zdzyWB8N-fxNWmUtIeNdwAj6hP1VEMg.JPEG/SE-ad0ae7d8-8d16-4cc5-8e57-6758a1cada2c.jpg?type=w773)
+![매장 입구](/images/posts/kirimugiya-jinroku-shinjuku-04.jpg?type=w773)
 
 ## 키리무기야 진로쿠 한국어 메뉴판
 
@@ -62,29 +62,29 @@ tags: ["우동", "미슐랭", "신주쿠", "일본음식"]
 
 ### 메뉴판
 
-![메뉴판1](https://postfiles.pstatic.net/MjAyNTA2MjhfMjM5/MDAxNzUxMDM3NTAxMTE3.EPlajl3xpek2im7jT3L3YlQmFznYkbr8IfveXkLJ4jUg.LyHjeebK47JikVTd3R0PpAFw1gvWUeA4rN83ublYVY8g.JPEG/SE-d8eed308-63f0-4515-8d33-5baf44458167.jpg?type=w773)
+![메뉴판1](/images/posts/kirimugiya-jinroku-shinjuku-06.jpg?type=w773)
 
-![메뉴판2](https://postfiles.pstatic.net/MjAyNTA2MjhfMTM1/MDAxNzUxMDM3NTAyMzY5.-tMbfyqEODE-4RaRmDzroLWNtD7OhCtIvWsxkK6vb7Qg.TgMSqsUQLtUJozE_xHOU8umETCIBLY3vRhD2NwiXy2Yg.JPEG/SE-eb316a6f-2e39-4551-b37c-482dbdf3b434.jpg?type=w773)
+![메뉴판2](/images/posts/kirimugiya-jinroku-shinjuku-08.jpg?type=w773)
 
-![메뉴판3](https://postfiles.pstatic.net/MjAyNTA2MjhfMTAz/MDAxNzUxMDM3NTAzNTYz.Qjewd3AZq_h_xS-BHF7yxq_flKccISRz4hs_ynt859cg.YIGIkhNe1wakInQ26fMyhT5hc7ltjdE2OcE0GfW9PzYg.JPEG/SE-69a00a6d-bddb-45de-9fe4-bde91e58f678.jpg?type=w773)
+![메뉴판3](/images/posts/kirimugiya-jinroku-shinjuku-10.jpg?type=w773)
 
-![메뉴판4](https://postfiles.pstatic.net/MjAyNTA2MjhfMjky/MDAxNzUxMDM3NTA0NzA1.LVp12mZpMFJS9ATboKg7C9zeE2j9d8e0vBpgFI_u3fwg.a8XEpMrYkpH-MRUJG7BqAHgdf0xMLBefEvObVf0mSDIg.JPEG/SE-786dcc0b-ba59-43b3-a23c-9e342e835101.jpg?type=w773)
+![메뉴판4](/images/posts/kirimugiya-jinroku-shinjuku-12.jpg?type=w773)
 
-![메뉴판5](https://postfiles.pstatic.net/MjAyNTA2MjhfMTg1/MDAxNzUxMDM3NTA1ODU2.lB7CF7J3ISwPAhI3Un4lVaglydPwxhWHlZ2qj0b3POgg.33yW6yLqrnCrxdlvvIxHcXqTika6BzVL9kqbmbi-8lUg.JPEG/SE-e4574820-f314-44cc-8301-7eb496c33bbb.jpg?type=w773)
+![메뉴판5](/images/posts/kirimugiya-jinroku-shinjuku-14.jpg?type=w773)
 
 ## 키리무기야 진로쿠 음식
 
 키리무기야 진로쿠의 우동면은 옛날 가늘고 부드러운면을 재해석하여 적당한 탄력과 쫄깃함이 있습니다.
 
-![우동1](https://postfiles.pstatic.net/MjAyNTA2MjhfMTIz/MDAxNzUxMDM3NTA3MjIw.ja6tvdiSK_ie77Xi_tEVm9bR78a7MwxeixoT2qGrFpgg.y9tqFcay0ykb4RR3ON7VeUzxyJQ7SeXvaZbZQmsdC7gg.JPEG/SE-de29db0d-98a5-4780-b30c-3c383eabde53.jpg?type=w773)
+![우동1](/images/posts/kirimugiya-jinroku-shinjuku-16.jpg?type=w773)
 
-![우동2](https://postfiles.pstatic.net/MjAyNTA2MjhfNSAg/MDAxNzUxMDM3NTA4MzE1.AhX8cNlX4mrejz00gqHjksXgksvFlt5io2lxLTE8MXog.FnUDaZwx0gQmE8Ul6C3cLYEUwI8shJzLjRPtz6sYmz4g.JPEG/SE-b1f077c0-39be-4afc-bd3f-98f013b67a39.jpg?type=w773)
+![우동2](/images/posts/kirimugiya-jinroku-shinjuku-18.jpg?type=w773)
 
 즉석제면, 즉석절단, 즉석튀김을 원칙으로 계절에 상관없이 일정한 품질을 유지하고 있습니다.
 
-![튀김](https://postfiles.pstatic.net/MjAyNTA2MjhfMjcy/MDAxNzUxMDM3NTA5NDcw.6kNVk88NuL6qfH9oIR4H29jTlh3COl0Snx-Gia3b9Tcg.gmSROExsP7MdHvaPUkx1x2QZmOLhhxxBib4DkY7igGYg.JPEG/SE-148ed548-6b9d-4a31-95c1-b6530f924ea1.jpg?type=w773)
+![튀김](/images/posts/kirimugiya-jinroku-shinjuku-20.jpg?type=w773)
 
-![음식](https://postfiles.pstatic.net/MjAyNTA2MjhfNjcg/MDAxNzUxMDM3NDk3NDQ1.kewNiKFO7AikzQb88L6NlKvX5Wglmybc-p5zzxyH8ZYg.mfx-v3RrFicenX-7bE1bqxySDm6bneC_77XrMhfoINEg.JPEG/SE-578913b7-9b43-4cc4-a309-532a7a562706.jpg?type=w773)
+![음식](/images/posts/kirimugiya-jinroku-shinjuku-22.jpg?type=w773)
 
 ## 키리무기야 진로쿠 다른 지점
 
