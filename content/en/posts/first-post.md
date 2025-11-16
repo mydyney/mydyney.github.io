@@ -1,9 +1,13 @@
 ---
-title: "My First English Post"
-date: 2025-06-22T10:00:00+09:00  # 수정!
-draft: false  # 추가!
+title: "Hugo Blog Migration Test - HTML Rendering Check"
+date: 2025-06-22T10:00:00+09:00
+draft: false
 translationKey: "my-first-post"
-tags: ["test", "HTML"]
+description: "Hugo blog HTML rendering and style testing. Step-by-step verification of multilingual blog setup"
+summary: "Hugo blog HTML rendering and style testing. Step-by-step verification of multilingual blog setup"
+tags: ["test", "HTML", "hugo", "blog-development"]
+categories: ["Development"]
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
 <h1>Hello!</h1>
