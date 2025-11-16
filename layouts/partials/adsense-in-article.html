@@ -1,0 +1,13 @@
+<!-- AdSense In-Article Ad (Manual Placement) -->
+<!-- Usage: Add {{ partial "adsense-in-article.html" . }} in your content where you want an ad -->
+<div class="adsense-container" style="text-align: center; margin: 2rem 0;">
+  <ins class="adsbygoogle"
+       style="display:block; text-align:center;"
+       data-ad-layout="in-article"
+       data-ad-format="fluid"
+       data-ad-client="{{ .Site.Params.adsense_publisher_id }}"
+       data-ad-slot=""></ins>
+  <script>
+       (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+</div>

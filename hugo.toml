@@ -41,6 +41,8 @@ googleAnalytics = "G-NZ22T8HRR3"
 [params]
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 3
+  # Google AdSense
+  adsense_publisher_id = "ca-pub-8704780774924832"
 
 # 추가 권장 설정
 [sitemap]
