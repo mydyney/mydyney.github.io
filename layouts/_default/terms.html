@@ -1,0 +1,98 @@
+{{ define "main" }}
+  <article class="pa3 pa4-ns">
+    <!-- Page Header -->
+    <div class="tc pb4">
+      <h1 class="f2 f1-l fw6 dark-gray">{{ .Title }}</h1>
+      <p class="f5 f4-l mid-gray lh-copy measure center">
+        Browse posts by topic
+      </p>
+    </div>
+
+    <!-- Tags Grid -->
+    <div class="tags-container mw8 center ph3 ph4-ns">
+      {{ $data := .Data }}
+      {{ range $key, $value := .Data.Terms.Alphabetical }}
+        {{ $termURL := printf "/%s/%s/" $data.Plural $value.Term | relLangURL }}
+        <a href="{{ $termURL }}" class="tag-card">
+          <div class="tag-name">{{ $value.Page.Title }}</div>
+          <div class="tag-count">{{ $value.Count }} {{ if eq $value.Count 1 }}post{{ else }}posts{{ end }}</div>
+        </a>
+      {{ end }}
+    </div>
+  </article>
+
+  <!-- Inline Styles -->
+  <style>
+    .tags-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1rem;
+      margin-top: 2rem;
+      margin-bottom: 3rem;
+    }
+
+    .tag-card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem 1.5rem;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      border-radius: 12px;
+      text-decoration: none;
+      transition: all 0.3s ease;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+      min-height: 120px;
+    }
+
+    .tag-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 20px rgba(102, 126, 234, 0.4);
+    }
+
+    .tag-name {
+      color: white;
+      font-size: 1.25rem;
+      font-weight: 600;
+      margin-bottom: 0.5rem;
+      text-align: center;
+      word-break: break-word;
+    }
+
+    .tag-count {
+      color: rgba(255, 255, 255, 0.9);
+      font-size: 0.875rem;
+      font-weight: 400;
+      background: rgba(255, 255, 255, 0.2);
+      padding: 0.25rem 0.75rem;
+      border-radius: 20px;
+    }
+
+    @media (max-width: 768px) {
+      .tags-container {
+        grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+        gap: 0.75rem;
+      }
+
+      .tag-card {
+        padding: 1.5rem 1rem;
+        min-height: 100px;
+      }
+
+      .tag-name {
+        font-size: 1.1rem;
+      }
+
+      .tag-count {
+        font-size: 0.8rem;
+      }
+    }
+
+    @media (min-width: 1200px) {
+      .tags-container {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 1.25rem;
+      }
+    }
+  </style>
+{{ end }}
