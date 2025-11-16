@@ -6,7 +6,8 @@ translationKey: "tokyo-ramen-street-guide"
 description: "도쿄 최고 라멘 8곳 완벽 가이드! 지금 확인하고 맛집 투어 계획하세요"
 summary: "도쿄 최고 라멘 8곳 완벽 가이드! 지금 확인하고 맛집 투어 계획하세요"
 tags: ["도쿄여행", "라멘맛집", "도쿄역", "일본음식", "여행가이드", "도쿄라멘스트리트"]
-categories: [""]
+categories: ["맛집"]
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
 <style>

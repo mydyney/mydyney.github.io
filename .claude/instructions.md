@@ -34,20 +34,27 @@ python3 download_naver_images.py naver-{slug}.html {post-slug}
 2. `content/en/posts/{slug}.md` - 영어 (번역)
 3. `content/ja/posts/{slug}.md` - 일본어 (번역)
 
-### 5. Front Matter 템플릿
+### 5. Front Matter 템플릿 (모든 항목 필수!)
 ```yaml
 ---
 title: "SEO 최적화 제목 (50-60자)"
 date: 2025-01-15T10:00:00+09:00
 draft: false
 translationKey: "{slug}"
-description: "메타 설명 (50-77자)"
-summary: "메타 설명과 동일"
+description: "메타 설명 (50-77자)"  # ✅ 필수! 카드 디자인에 표시됨
+summary: "메타 설명과 동일"          # ✅ 필수!
 tags: ["tag1", "tag2", "tag3", "tag4", "tag5"]
-categories: ["맛집"]
-featured_image: "/images/posts/{slug}-01.jpg"
+categories: ["맛집"]                 # ✅ 필수! 빈 문자열 [""] 절대 금지!
+featured_image: "/images/posts/{slug}-01.jpg"  # ✅ 필수! 카드 썸네일
 ---
 ```
+
+**⚠️ 카드 디자인 필수 항목 (하나라도 빠지면 카드 미적용!):**
+- `featured_image`: 반드시 실제 이미지 경로 (임시: `/images/gohugo-default-sample-hero-image.jpg`)
+- `categories`: 반드시 실제 카테고리 (예: `["맛집"]`, `["Restaurants"]`, `["レストラン"]`)
+  - ❌ `categories: [""]` ← 절대 금지!
+  - ❌ `categories:` 없음 ← 절대 금지!
+- `description`: 카드에 표시될 요약 설명 (60-90자 권장)
 
 ### 6. HTML 구조 템플릿
 ```html

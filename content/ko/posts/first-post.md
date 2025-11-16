@@ -2,8 +2,12 @@
 title: "첫 번째 포스트"
 date: 2025-06-22T10:00:00+09:00
 draft: false
-translationKey: "my-first-post"  # 추가!
+translationKey: "my-first-post"
+description: "Hugo 블로그의 첫 번째 테스트 포스트입니다"
+summary: "Hugo 블로그의 첫 번째 테스트 포스트입니다"
 tags: ["테스트", "HTML"]
+categories: ["기타"]
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
 <h2>HTML 테스트</h2>
