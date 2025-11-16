@@ -1,0 +1,84 @@
+/* 블로그 포스트 공통 스타일 */
+
+.blog-container {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  line-height: 1.8;
+  color: #333;
+}
+
+.blog-container h2 {
+  color: #2c3e50;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 0.5rem;
+  margin: 2rem 0 1rem;
+}
+
+.blog-container img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin: 1.5rem 0;
+}
+
+.info-box {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin: 1.5rem 0;
+}
+
+.info-box ul {
+  list-style: none;
+  padding: 0;
+}
+
+.info-box li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.info-box li:last-child {
+  border-bottom: none;
+}
+
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.schedule-table th {
+  background: #e3fdc8;
+  padding: 1rem;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+.schedule-table td {
+  padding: 1rem;
+  border: 1px solid #ddd;
+}
+
+blockquote {
+  border-left: 4px solid #3498db;
+  padding: 1rem 1.5rem;
+  background: #ecf0f1;
+  font-style: italic;
+  margin: 1.5rem 0;
+}
+
+.tip-box {
+  background: #fff3cd;
+  border-left: 4px solid #ffc107;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+}
+
+@media (max-width: 768px) {
+  .blog-container { font-size: 0.95rem; }
+  .info-box { padding: 1rem; }
+  .schedule-table { font-size: 0.85rem; }
+}
