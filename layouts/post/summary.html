@@ -1,0 +1,60 @@
+{{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
+<article class="blog-card">
+  <a href="{{ .RelPermalink }}" class="blog-card-link">
+    {{ if $featured_image }}
+    <div class="blog-card-image-wrapper">
+      <img src="{{ $featured_image }}" class="blog-card-image" alt="{{ .Title }}">
+      <div class="blog-card-overlay"></div>
+    </div>
+    {{ end }}
+
+    <div class="blog-card-content">
+      <!-- Category Badge -->
+      {{ with .Params.categories }}
+        <span class="blog-card-category">{{ index . 0 }}</span>
+      {{ end }}
+
+      <!-- Title -->
+      <h2 class="blog-card-title">{{ .Title }}</h2>
+
+      <!-- Meta Information -->
+      <div class="blog-card-meta">
+        <time class="blog-card-date" datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "2006.01.02" }}
+        </time>
+        {{ if .Params.tags }}
+          <span class="blog-card-meta-separator">•</span>
+          <span class="blog-card-reading-time">{{ lang.Translate "readingTime" | default "약" }} {{ math.Round (div (countwords .Content) 200.0) }}{{ lang.Translate "minute" | default "분" }}</span>
+        {{ end }}
+      </div>
+
+      <!-- Summary/Description -->
+      <p class="blog-card-summary">
+        {{ with .Params.description }}
+          {{ . }}
+        {{ else }}
+          {{ .Summary }}
+        {{ end }}
+      </p>
+
+      <!-- Tags -->
+      {{ if .Params.tags }}
+      <div class="blog-card-tags">
+        {{ range first 3 .Params.tags }}
+          <span class="blog-card-tag">#{{ . }}</span>
+        {{ end }}
+      </div>
+      {{ end }}
+
+      <!-- Read More -->
+      <div class="blog-card-footer">
+        <span class="blog-card-read-more">
+          {{ $.Param "read_more_copy" | default (lang.Translate "readMore") | default "자세히 보기" }}
+          <svg class="blog-card-arrow" width="16" height="16" viewBox="0 0 16 16" fill="none">
+            <path d="M3 8h10M9 4l4 4-4 4" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+        </span>
+      </div>
+    </div>
+  </a>
+</article>

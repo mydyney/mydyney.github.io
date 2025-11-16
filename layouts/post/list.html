@@ -1,0 +1,18 @@
+{{ define "main" }}
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+    <header>
+      <h1 class="f1 fw8 mb3 lh-title">
+        {{ .Title }}
+      </h1>
+      {{ with .Params.description }}
+        <p class="f3 lh-copy mid-gray">{{ . }}</p>
+      {{ end }}
+    </header>
+  </article>
+
+  <div class="blog-grid">
+    {{ range .Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </div>
+{{ end }}
