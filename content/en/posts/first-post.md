@@ -1,9 +1,13 @@
 ---
 title: "My First English Post"
-date: 2025-06-22T10:00:00+09:00  # 수정!
-draft: false  # 추가!
+date: 2025-06-22T10:00:00+09:00
+draft: false
 translationKey: "my-first-post"
+description: "My first Hugo blog test post"
+summary: "My first Hugo blog test post"
 tags: ["test", "HTML"]
+categories: ["Other"]
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
 <h1>Hello!</h1>

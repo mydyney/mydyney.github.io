@@ -6,7 +6,8 @@ translationKey: "tokyo-ramen-street-guide"
 description: "Discover Tokyo's best ramen! Complete guide to 8 top-rated shops in Tokyo Station's underground Ramen Street."
 summary: "Discover Tokyo's best ramen! Complete guide to 8 top-rated shops in Tokyo Station's underground Ramen Street."
 tags: ["tokyo-travel", "ramen-guide", "tokyo-station", "japanese-food", "travel-tips", "foodie-guide"]
-categories: [""]
+categories: ["Restaurants"]
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
 <style>

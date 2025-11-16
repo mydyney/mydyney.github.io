@@ -6,7 +6,8 @@ translationKey: "tokyo-ramen-street-guide"
 description: "東京駅地下のラーメン聖地で味わう絶品ラーメン8店舗をご紹介！今すぐチェックして最高のラーメン巡りを楽しもう"
 summary: "東京駅地下のラーメン聖地で味わう絶品ラーメン8店舗をご紹介！今すぐチェックして最高のラーメン巡りを楽しもう"
 tags: ["東京観光", "ラーメン", "東京駅", "グルメガイド", "食べ歩き", "東京ラーメンストリート"]
-categories: [""]
+categories: ["レストラン"]
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
 <style>

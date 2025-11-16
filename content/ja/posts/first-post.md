@@ -1,9 +1,13 @@
 ---
 title: "私の最初の日本語の投稿"
-date: 2025-06-22T10:00:00+09:00  # 수정!
-draft: false  # 추가!
+date: 2025-06-22T10:00:00+09:00
+draft: false
 translationKey: "my-first-post"
+description: "私の最初のHugoブログのテスト投稿です"
+summary: "私の最初のHugoブログのテスト投稿です"
 tags: ["テスト", "HTML"]
+categories: ["その他"]
+featured_image: "/images/gohugo-default-sample-hero-image.jpg"
 ---
 
 <h1>こんにちは！</h1>
