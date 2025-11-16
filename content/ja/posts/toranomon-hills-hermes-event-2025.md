@@ -182,6 +182,15 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
   <li><strong>地下鉄：東京メトロ日比谷線(H)「虎ノ門ヒルズ駅」と直結</strong></li>
 </ul>
 
+<div style="margin: 2rem 0;">
+  <iframe src="https://www.google.com/maps?q=35.6670624,139.7484692&hl=ja&z=17&output=embed" width="100%" height="400" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <p style="text-align:center; margin-top:0.5rem; font-size:0.9rem; color:#666;">
+    <strong>虎ノ門ヒルズ</strong><br>
+    東京都港区虎ノ門1丁目23<br>
+    <a href="https://www.google.com/maps/place/Toranomon+Hills/@35.6670624,139.7484692,17z?hl=ja" target="_blank" style="color:#667eea;">Googleマップで見る</a>
+  </p>
+</div>
+
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-18.jpg" alt="東京メトロ日比谷線(H) 虎ノ門ヒルズ駅連絡通路">
   <figcaption>東京メトロ日比谷線(H) 虎ノ門ヒルズ駅連絡通路</figcaption>

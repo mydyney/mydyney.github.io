@@ -182,6 +182,15 @@ Complete access guide to Tokyo Node all in one place.</p>
   <li><strong>Subway: Directly connected to Tokyo Metro Hibiya Line (H) 'Toranomon Hills Station'</strong></li>
 </ul>
 
+<div style="margin: 2rem 0;">
+  <iframe src="https://www.google.com/maps?q=35.6670624,139.7484692&hl=en&z=17&output=embed" width="100%" height="400" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <p style="text-align:center; margin-top:0.5rem; font-size:0.9rem; color:#666;">
+    <strong>Toranomon Hills</strong><br>
+    1 Chome-23 Toranomon, Minato City, Tokyo 105-0001, Japan<br>
+    <a href="https://www.google.com/maps/place/Toranomon+Hills/@35.6670624,139.7484692,17z?hl=en" target="_blank" style="color:#667eea;">View on Google Maps</a>
+  </p>
+</div>
+
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-18.jpg" alt="Tokyo Metro Hibiya Line (H) Toranomon Hills Station Connecting Passage">
   <figcaption>Tokyo Metro Hibiya Line (H) Toranomon Hills Station Connecting Passage</figcaption>
