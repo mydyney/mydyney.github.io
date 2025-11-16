@@ -1,12 +1,26 @@
 #!/usr/bin/env python3
 """
-네이버 블로그 이미지 다운로드 스크립트
+네이버 블로그 이미지 다운로드 스크립트 (광고 자동 제거)
+
+기능:
+    1. 네이버 블로그 광고 블록 자동 제거
+       - ad_power_content_wrap
+       - ssp-adcontent
+       - data-ad 속성
+    2. 실제 콘텐츠 이미지만 추출 및 다운로드
+    3. JPG 형식으로 변환 및 최적화
+    4. 중복 이미지 자동 제거
 
 사용법:
     python3 download_naver_images.py <HTML파일경로> <포스트슬러그>
 
 예시:
     python3 download_naver_images.py naver_blog.html kirimugiya-jinroku
+
+출력:
+    - static/images/posts/{slug}-01.jpg
+    - static/images/posts/{slug}-02.jpg
+    - ...
 """
 
 import re
@@ -18,18 +32,53 @@ from urllib.parse import urlparse, unquote
 from PIL import Image
 from io import BytesIO
 
-def extract_image_urls(html_content):
-    """HTML에서 네이버 이미지 URL 추출"""
-    # postfiles.pstatic.net 이미지 URL 패턴
-    pattern = r'https://postfiles\.pstatic\.net/[^"\'?\s]+'
-    urls = re.findall(pattern, html_content)
+def remove_ad_blocks(html_content):
+    """네이버 블로그 광고 블록 제거"""
+    print("\n🧹 광고 블록 제거 중...")
 
-    # 중복 제거 및 type=w773 형식만 유지
+    # 광고 패턴 목록
+    ad_patterns = [
+        # 패턴 1: ad_power_content_wrap
+        r'<div\s+class="ad_power_content_wrap"[^>]*>.*?</div>\s*</div>',
+        # 패턴 2: ssp-adcontent
+        r'<div\s+class="ssp-adcontent"[^>]*>.*?</div>',
+        # 패턴 3: data-ad 속성
+        r'<div\s+[^>]*data-ad="true"[^>]*>.*?</div>',
+        # 패턴 4: se-component 광고
+        r'<div\s+class="se-component[^"]*"\s+[^>]*data-ad[^>]*>.*?</div>',
+    ]
+
+    original_length = len(html_content)
+    cleaned_html = html_content
+
+    for pattern in ad_patterns:
+        cleaned_html = re.sub(pattern, '', cleaned_html, flags=re.DOTALL | re.IGNORECASE)
+
+    removed_size = original_length - len(cleaned_html)
+    if removed_size > 0:
+        print(f"✓ 광고 블록 제거 완료 (제거된 크기: {removed_size:,} bytes)")
+    else:
+        print("✓ 제거할 광고 블록 없음")
+
+    return cleaned_html
+
+def extract_image_urls(html_content):
+    """HTML에서 네이버 이미지 URL 추출 (광고 제거 후, 순서 보존)"""
+    # 1. 광고 블록 먼저 제거
+    clean_html = remove_ad_blocks(html_content)
+
+    # 2. HTML 순서대로 모든 img 태그 찾기
+    # postfiles.pstatic.net을 포함한 모든 img 태그를 순서대로 추출
+    img_pattern = r'<img[^>]+src="(https://postfiles\.pstatic\.net/[^"]+)"[^>]*>'
+
     unique_urls = []
     seen = set()
 
-    for url in urls:
-        # ?type=w773 등의 파라미터 제거한 base URL
+    # re.finditer를 사용하여 순서대로 처리
+    for match in re.finditer(img_pattern, clean_html):
+        url = match.group(1)
+
+        # 중복 제거 (base URL 기준)
         base_url = url.split('?')[0]
         if base_url not in seen:
             seen.add(base_url)
@@ -130,12 +179,19 @@ def main():
     with open(html_file, 'r', encoding='utf-8') as f:
         html_content = f.read()
 
-    # 이미지 URL 추출
+    # 이미지 URL 추출 (광고 제거 포함)
     image_urls = extract_image_urls(html_content)
-    print(f"\n총 {len(image_urls)}개의 이미지를 찾았습니다.\n")
+
+    print(f"\n" + "="*60)
+    print(f"📊 이미지 추출 결과")
+    print(f"="*60)
+    print(f"✓ 광고 제거 후 발견된 콘텐츠 이미지: {len(image_urls)}개")
+    print(f"✓ 다운로드할 이미지: {post_slug}-01.jpg ~ {post_slug}-{len(image_urls):02d}.jpg")
+    print(f"="*60 + "\n")
 
     if not image_urls:
         print("✗ 이미지를 찾을 수 없습니다.")
+        print("💡 힌트: HTML 파일에 <div class=\"se-component se-image\"> 구조가 있는지 확인하세요.")
         sys.exit(0)
 
     # 저장 디렉토리 생성
@@ -150,19 +206,25 @@ def main():
         if filename:
             image_mapping[url] = filename
 
-    print(f"\n✓ 총 {len(image_mapping)}개 이미지 다운로드 완료\n")
+    print(f"\n" + "="*60)
+    print(f"✅ 다운로드 완료!")
+    print(f"="*60)
+    print(f"✓ 성공: {len(image_mapping)}개 이미지")
+    print(f"✓ 실패: {len(image_urls) - len(image_mapping)}개 이미지")
+    print(f"✓ 저장 위치: static/images/posts/")
+    print(f"="*60 + "\n")
 
     # 마크다운 파일 업데이트
     md_file = f"content/ko/posts/{post_slug}.md"
     if os.path.exists(md_file):
         update_markdown(md_file, image_mapping)
     else:
-        print(f"\n마크다운 파일이 없습니다: {md_file}")
-        print("나중에 수동으로 이미지 경로를 업데이트해주세요:")
-        for old_url, new_filename in image_mapping.items():
-            print(f"  {old_url} → /images/posts/{new_filename}")
+        print(f"ℹ️  마크다운 파일이 없습니다: {md_file}")
+        print("📝 나중에 수동으로 이미지 경로를 업데이트해주세요:")
+        for i, (old_url, new_filename) in enumerate(image_mapping.items(), 1):
+            print(f"   {i}. /images/posts/{new_filename}")
 
-    print("\n✓ 완료!")
+    print("\n🎉 모든 작업 완료!")
 
 if __name__ == '__main__':
     main()
