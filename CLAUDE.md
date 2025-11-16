@@ -369,7 +369,51 @@ python3 download_naver_images.py naver_blog.html tokyo-restaurant-guide
 
 See `README_IMAGE_DOWNLOAD.md` for detailed instructions.
 
-### Blog Post Styles
+### Blog Post Format
+
+**Standard Structure:**
+
+All blog posts must follow this consistent format:
+
+1. **Front Matter** (YAML)
+2. **Opening `<div class="blog-container">`**
+3. **Intro Paragraph** (centered, styled)
+4. **First Image** (featured image with `<figure>` tag)
+5. **Content** (sections with headings, images, info boxes, tables)
+6. **Closing `</div>`**
+
+**Required Front Matter:**
+```yaml
+---
+title: "Post Title"
+date: 2025-11-15T08:00:00+09:00
+draft: false
+translationKey: "unique-post-identifier"
+description: "SEO meta description for social media preview"
+summary: "Brief summary for post listings"
+tags: ["tag1", "tag2", "tag3"]
+categories: ["Category"]
+featured_image: "/images/posts/post-slug-01.jpg"
+---
+```
+
+**Intro Paragraph Format:**
+```html
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">🎄 Main intro text!<br>
+Second line of intro,<br>
+Third line with more details,<br>
+Final line wrapping up intro.</p>
+```
+
+**Image Format (Using `<figure>` Tags):**
+```html
+<figure>
+  <img src="/images/posts/post-slug-01.jpg" alt="Descriptive alt text">
+  <figcaption>Image caption in Korean/English/Japanese</figcaption>
+</figure>
+```
 
 **Common CSS File:**
 All blog posts share common styles through `/static/css/blog-post-common.css`.
@@ -385,18 +429,40 @@ All blog posts share common styles through `/static/css/blog-post-common.css`.
 blockquote             /* Blue left-border quotations */
 ```
 
-**Usage in Markdown:**
+**Complete Example:**
 ```html
 ---
-title: "Your Post Title"
+title: "Tokyo Guide 2025"
+date: 2025-11-15T10:00:00+09:00
+draft: false
+translationKey: "tokyo-guide-2025"
+description: "Complete guide to Tokyo 2025 travel"
+summary: "Complete guide to Tokyo 2025 travel"
+tags: ["tokyo", "travel", "guide"]
+categories: ["Travel Info"]
+featured_image: "/images/posts/tokyo-guide-01.jpg"
 ---
 
 <div class="blog-container">
 
+<p style="text-align: center; font-size: 1.1rem; color: #555;">🗼 Tokyo Travel Guide 2025!<br>
+Everything you need to know,<br>
+From attractions to restaurants,<br>
+Complete information at a glance.</p>
+
+<figure>
+  <img src="/images/posts/tokyo-guide-01.jpg" alt="Tokyo cityscape">
+  <figcaption>Tokyo cityscape</figcaption>
+</figure>
+
+<p>Introduction paragraph...</p>
+
+<h2>Section Title</h2>
+
 <div class="info-box">
   <ul>
-    <li>Information item 1</li>
-    <li>Information item 2</li>
+    <li><strong>Info 1:</strong> Details</li>
+    <li><strong>Info 2:</strong> More details</li>
   </ul>
 </div>
 
@@ -729,37 +795,80 @@ hugo --minify
 - ✅ Sample posts migrated (2-3 restaurant reviews)
 - 🔄 Ongoing content migration
 
-### Migration Workflow
+### Migration Workflow (Naver Blog → Hugo)
 
-1. **Export from Naver Blog:** Save HTML of blog post
-2. **Download Images:** Use `download_naver_images.py` script
-3. **Convert Content:** Transform HTML to Markdown
-4. **Add Front Matter:** Use Hugo conventions
-5. **Create Translations:** Add English and Japanese versions
-6. **Review & Publish:** Test locally, commit, push
+**⚠️ IMPORTANT: Naver blocks automated image downloads (403 Forbidden errors)**
 
-### Migration Script Features
+Due to Naver's security restrictions, images must be downloaded manually. Follow this workflow:
+
+**Step 1: Save Naver Blog HTML**
+- Visit the Naver blog post
+- Save the complete HTML (Ctrl+S or right-click → Save As)
+- Save to repository root (e.g., `naver_post.html`)
+
+**Step 2: Analyze HTML and Create All Language Versions**
+- Count total images in the HTML
+- Create blog posts in all 3 languages (Korean, English, Japanese)
+- Include ALL image references with correct numbering (`{slug}-01.jpg`, `{slug}-02.jpg`, etc.)
+- Use `<figure>` tags with `<figcaption>` for each image
+- Add proper Front Matter with `featured_image`, `description`, `summary`
+- Use centered intro paragraph
+- Commit all 3 language versions
+
+**Step 3: Manual Image Download**
+- User downloads images from Naver blog manually
+- Save images to `/static/images/posts/` with naming convention: `{post-slug}-{number}.jpg`
+- Number format: Zero-padded 2 digits (01, 02, 03, ...)
+- User commits and pushes images
+
+**Step 4: Test and Deploy**
+- Test locally with `hugo server -D`
+- Verify all images display correctly
+- Check social media preview (featured_image)
+- Push to remote branch
+- Create Pull Request
+
+**Example Workflow:**
+
+```bash
+# Step 1: After user provides HTML
+# (AI saves HTML to file)
+
+# Step 2: AI creates all 3 language versions
+# content/ko/posts/marunouchi-illumination-2025.md (22 images)
+# content/en/posts/marunouchi-illumination-2025.md (22 images)
+# content/ja/posts/marunouchi-illumination-2025.md (22 images)
+
+# Step 3: User manually downloads images
+# User saves to: static/images/posts/marunouchi-illumination-2025-01.jpg
+#                static/images/posts/marunouchi-illumination-2025-02.jpg
+#                ... (22 total)
+
+# Step 4: Test and deploy
+hugo server -D
+# User verifies everything works
+git add static/images/posts/marunouchi-illumination-2025-*.jpg
+git commit -m "Add images for Marunouchi Illumination 2025"
+git push
+```
+
+### Migration Script (Legacy - Automated Downloads Blocked)
 
 **File:** `download_naver_images.py`
 
-**Capabilities:**
-- Extracts images from Naver Blog HTML
-- Downloads from `postfiles.pstatic.net`
+**⚠️ NOTE:** This script is kept for reference but **does not work** due to Naver's 403 Forbidden errors on automated downloads.
+
+**Attempted Capabilities:**
+- Extracts image URLs from Naver Blog HTML
+- Attempts to download from `postfiles.pstatic.net` (fails with 403)
 - Deduplicates URLs
 - Numbers sequentially with zero-padding
-- Updates markdown with local paths
-- Handles user-agent requirements
 
-**Usage:**
-```bash
-python3 download_naver_images.py <HTML_FILE> <POST_SLUG>
-```
+**Why It Fails:**
+Naver's servers block automated requests with 403 Forbidden errors, even with proper User-Agent headers and Referer headers.
 
-**Dependencies:**
-- Python 3
-- `requests` library (`pip install requests`)
-
-**See:** `README_IMAGE_DOWNLOAD.md` for detailed instructions
+**Solution:**
+Manual image download by user from Naver blog is the only reliable method.
 
 ---
 
@@ -784,8 +893,11 @@ hugo new content/en/posts/name.md   # New English post
 git submodule update --init --recursive   # Init theme
 git push -u origin claude/branch-name     # Push to branch
 
-# Migration
-python3 download_naver_images.py naver.html slug
+# Migration (Naver Blog)
+# Step 1: User provides HTML
+# Step 2: AI creates 3 language versions (all images included)
+# Step 3: User manually downloads images from Naver
+# Step 4: Test with hugo server -D
 ```
 
 ### Key URLs
