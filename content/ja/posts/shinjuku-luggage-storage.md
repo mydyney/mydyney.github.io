@@ -7,7 +7,7 @@ description: "2025年新宿駅荷物預かり完全ガイド。コインロッ�
 summary: "新宿駅荷物預かりのすべて：コインロッカーの場所、料金、預かりセンター、予約のコツまで2025年最新情報。"
 tags: ["新宿", "荷物預かり", "コインロッカー", "旅行情報", "東京駅"]
 categories: ["旅行情報"]
-featured_image: "/images/posts/shinjuku-luggage-storage-01.png"
+featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 ---
 
 <div class="blog-container">
@@ -18,7 +18,7 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.png"
 新宿荷物預かり所（新宿駅荷物預かり所）をお探しの方へ、最も現実的な選択肢をまとめました。</p>
 
 <figure>
-  <img src="/images/posts/shinjuku-luggage-storage-01.png" alt="新宿駅荷物預かりコインロッカー場所と預かりセンター2025">
+  <img src="/images/posts/shinjuku-luggage-storage-01.jpg" alt="新宿駅荷物預かりコインロッカー場所と預かりセンター2025">
   <figcaption>新宿駅荷物預かりコインロッカー場所と荷物預かりセンター予約総まとめ 2025年最新版</figcaption>
 </figure>
 
@@ -48,14 +48,14 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.png"
 - 荷物を入れる → 画面で位置選択 → 決済 → ロック
 
 <figure>
-  <img src="/images/posts/shinjuku-luggage-storage-02.png" alt="新宿駅コインロッカー鍵式使用方法">
+  <img src="/images/posts/shinjuku-luggage-storage-02.jpg" alt="新宿駅コインロッカー鍵式使用方法">
   <figcaption>新宿駅コインロッカー鍵式使用方法（<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 - 荷物を取り出す際は、決済した交通カードを再度タッチします。
 
 <figure>
-  <img src="/images/posts/shinjuku-luggage-storage-03.png" alt="新宿駅コインロッカータッチパネル決済と交通カード利用方法">
+  <img src="/images/posts/shinjuku-luggage-storage-03.jpg" alt="新宿駅コインロッカータッチパネル決済と交通カード利用方法">
   <figcaption>新宿駅コインロッカータッチパネル決済と交通カード利用方法（<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
@@ -76,7 +76,7 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.png"
 | 特大（360 × 1132 × 575） | 1,000円 |
 
 <figure>
-  <img src="/images/posts/shinjuku-luggage-storage-04.png" alt="新宿駅コインロッカーサイズ別料金表">
+  <img src="/images/posts/shinjuku-luggage-storage-04.jpg" alt="新宿駅コインロッカーサイズ別料金表">
   <figcaption>新宿駅コインロッカーサイズ別料金表（小型300円～大型900円）（<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 ➡️ **<a href="https://www.keiochika.co.jp/locker/service/shinjuku.html" target="_blank">京王線新宿駅コインロッカーリアルタイム空き状況を確認する</a>**
 
 <figure>
-  <img src="/images/posts/shinjuku-luggage-storage-05.png" alt="京王線新宿駅コインロッカーリアルタイム空き状況画面">
+  <img src="/images/posts/shinjuku-luggage-storage-05.jpg" alt="京王線新宿駅コインロッカーリアルタイム空き状況画面">
   <figcaption>京王線新宿駅コインロッカーリアルタイム空き状況確認画面（<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
@@ -155,12 +155,12 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 | 箱根湯本駅 | 9:00～17:30 | ～18:00 |
 
 <figure>
-  <img src="/images/posts/shinjuku-luggage-storage-07.png" alt="新宿駅西口荷物預かり小田急観光サービスセンター">
+  <img src="/images/posts/shinjuku-luggage-storage-07.jpg" alt="新宿駅西口荷物預かり小田急観光サービスセンター">
   <figcaption>新宿駅西口荷物預かり小田急観光サービスセンター（<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/shinjuku-luggage-storage-08.png" alt="新宿駅南口荷物預かり小田急観光サービスセンター">
+  <img src="/images/posts/shinjuku-luggage-storage-08.jpg" alt="新宿駅南口荷物預かり小田急観光サービスセンター">
   <figcaption>新宿駅南口荷物預かり小田急観光サービスセンター（<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">出典</a>）</figcaption>
 </figure>
 
