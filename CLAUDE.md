@@ -393,9 +393,14 @@ translationKey: "tokyo-guide-2025"
 ```
 kirimugiya-jinroku-shinjuku-01.jpg
 kirimugiya-jinroku-shinjuku-02.jpg
-tokyo-ramen-street-1.png
-tokyo-ramen-street-2.png
+tokyo-ramen-street-01.jpg
+tokyo-ramen-street-02.jpg
 ```
+
+**⚠️ Image Format:**
+- **Always use `.jpg` extension** for all blog post images
+- The `download_naver_images.py` script saves all images as `.jpg`
+- Use `.jpg` for consistency and optimal web performance
 
 **Storage Location:**
 ```
