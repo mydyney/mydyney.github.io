@@ -7,7 +7,7 @@ tags: ["narita airport", "shinjuku", "narita express", "airport limousine", "tok
 translationKey: "narita-to-shinjuku-2025"
 description: "Complete guide to getting from Narita Airport to Shinjuku in 2025. Compare Narita Express (N'EX) vs Airport Limousine Bus with prices, schedules, and booking methods."
 summary: "Everything you need to know about traveling from Narita Airport to Shinjuku - comparing Narita Express and Airport Limousine Bus with detailed timetables and recommendations."
-featured_image: "/images/posts/narita-to-shinjuku-2025-01.png"
+featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 ---
 
 <div class="blog-container">
@@ -18,7 +18,7 @@ focusing on price, travel time, and booking methods for 2025.<br>
 Choose the perfect Narita-Shinjuku route that fits your budget and schedule.</p>
 
 <figure>
-  <img src="/images/posts/narita-to-shinjuku-2025-01.png" alt="Narita Airport to Shinjuku - Narita Express vs Airport Limousine comparison">
+  <img src="/images/posts/narita-to-shinjuku-2025-01.jpg" alt="Narita Airport to Shinjuku - Narita Express vs Airport Limousine comparison">
   <figcaption>How to Get from Narita Airport to Shinjuku - Narita Express (N'EX) vs Airport Limousine (Source: JR East)</figcaption>
 </figure>
 
