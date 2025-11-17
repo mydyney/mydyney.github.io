@@ -7,7 +7,7 @@ tags: ["成田空港", "新宿", "成田エクスプレス", "リムジンバス
 translationKey: "narita-to-shinjuku-2025"
 description: "2025年成田空港から新宿への行き方完全ガイド。成田エクスプレス(N'EX)とリムジンバスの料金、時刻表、予約方法を比較。"
 summary: "成田空港から新宿への行き方を完全解説。成田エクスプレスとリムジンバスの詳しい時刻表と推奨事項を提供します。"
-featured_image: "/images/posts/narita-to-shinjuku-2025-01.png"
+featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 ---
 
 <div class="blog-container">
@@ -18,7 +18,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.png"
 予算と日程に合った最適な成田-新宿ルートを選びましょう。</p>
 
 <figure>
-  <img src="/images/posts/narita-to-shinjuku-2025-01.png" alt="成田空港から新宿への行き方 - 成田エクスプレスとリムジンバス比較">
+  <img src="/images/posts/narita-to-shinjuku-2025-01.jpg" alt="成田空港から新宿への行き方 - 成田エクスプレスとリムジンバス比較">
   <figcaption>成田空港から新宿への行き方 - 成田エクスプレス(N'EX)とリムジンバス比較(出典:JR東日本)</figcaption>
 </figure>
 
