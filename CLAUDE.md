@@ -919,6 +919,11 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 - Use `<figure>` tags with `<figcaption>` for each image
 - Add proper Front Matter with `featured_image`, `description`, `summary`
 - Use centered intro paragraph
+- **⚠️ PRESERVE external source links:** If the Korean HTML contains source attribution links (e.g., `<a href="...">출처</a>`), maintain the HTML link structure in translations:
+  - English: `<a href="..." target="_blank">Source</a>`
+  - Japanese: `<a href="..." target="_blank">出典</a>`
+  - Keep original URL and target attribute
+  - Common source patterns: `(출처)`, `출처:`, `이미지 출처`
 - Commit both English and Japanese versions
 
 **Step 3: Manual Image Download**
