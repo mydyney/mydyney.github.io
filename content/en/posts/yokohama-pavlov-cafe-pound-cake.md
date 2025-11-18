@@ -54,6 +54,11 @@ With the concept of a charming patisserie encountered on the streets of Paris, i
   <figcaption>Yokohama Tabelog Top 100 Cafe Pavlov's Classic Interior</figcaption>
 </figure>
 
+<figure>
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="Pavlov Cafe interior seating">
+  <figcaption>Yokohama Tabelog Top 100 Cafe Pavlov's Classic Interior</figcaption>
+</figure>
+
 ---
 
 ## 🍰 "This Is Not Pound Cake!" (Signature Menu)
@@ -70,12 +75,12 @@ Using minimal flour and adding **'white bean paste (白餡)' instead**, it achie
 The ultimate 'sampler' menu where you can taste various signature pound cakes from 'Pavlov' all at once.
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="Pavlov's signature Cake Set with 5 colorful pound cakes">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-06.jpg" alt="Pavlov's signature Cake Set with 5 colorful pound cakes">
   <figcaption>Pavlov's Signature Menu 'Cake Set' - 5 Types of Gorgeous Pound Cakes</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-06.jpg" alt="Pavlov's Cake Set with cafe latte">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-07.jpg" alt="Pavlov's Cake Set with cafe latte">
   <figcaption>Pavlov's Signature Menu 'Cake Set' with Cafe Latte</figcaption>
 </figure>
 
@@ -86,7 +91,7 @@ The ultimate 'sampler' menu where you can taste various signature pound cakes fr
 Luxury French toast with thick brioche bread topped generously with cream and fruits.
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-07.jpg" alt="Pavlov's popular French Toast Berry">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-08.jpg" alt="Pavlov's popular French Toast Berry">
   <figcaption>Pavlov's Popular Menu French Toast Berry</figcaption>
 </figure>
 
@@ -97,7 +102,7 @@ Luxury French toast with thick brioche bread topped generously with cream and fr
 A sweet and salty sandwich perfect for brunch.
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-08.jpg" alt="Pavlov's brunch menu Prosciutto Mozzarella Sandwich">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-09.jpg" alt="Pavlov's brunch menu Prosciutto Mozzarella Sandwich">
   <figcaption>Pavlov's Brunch Menu Prosciutto Mozzarella Sandwich</figcaption>
 </figure>
 
@@ -143,7 +148,7 @@ Minatomirai Line
 </div>
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-09.jpg" alt="Yokohama Tabelog Top 100 Cafe Pavlov gift set">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-10.jpg" alt="Yokohama Tabelog Top 100 Cafe Pavlov gift set">
   <figcaption>Yokohama Tabelog Top 100 Cafe Pavlov Gift Set</figcaption>
 </figure>
 
@@ -160,12 +165,12 @@ Using **100% French cultured butter** is just the basics!
 From basic plain croissants, to 'meal croissants' prepared like cooking, to jewel-like gorgeous **'sweets (dessert) croissants'**, you can take out various croissants.
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-10.jpg" alt="Mrs. Pavlov Bakery's gorgeous croissant showcase">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="Mrs. Pavlov Bakery's gorgeous croissant showcase">
   <figcaption>Yokohama Croissant Restaurant Mrs. Pavlov Bakery's Gorgeous Croissant Showcase</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="Mrs. Pavlov Bakery">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-12.jpg" alt="Mrs. Pavlov Bakery">
   <figcaption>Yokohama Croissant Restaurant <b>Mrs. Pavlov Bakery</b></figcaption>
 </figure>
 

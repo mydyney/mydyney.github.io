@@ -54,6 +54,11 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
   <figcaption>横浜食べログ百名店カフェ パブロフのクラシックな店内の様子</figcaption>
 </figure>
 
+<figure>
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="パブロフカフェ クラシックな店内">
+  <figcaption>横浜食べログ百名店カフェ パブロフのクラシックな店内の様子</figcaption>
+</figure>
+
 ---
 
 ## 🍰 「これはパウンドケーキではない！」（代表メニュー）
@@ -70,12 +75,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 'パブロフ'の様々なシグネチャーパウンドケーキを一度に味わえる最高の'サンプラー'メニューです。
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="パブロフの代表メニュー ケーキセット 5種類の華やかなパウンドケーキ">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-06.jpg" alt="パブロフの代表メニュー ケーキセット 5種類の華やかなパウンドケーキ">
   <figcaption>パブロフの代表メニュー「ケーキセット」- 5種類の華やかなパウンドケーキ</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-06.jpg" alt="パブロフの ケーキセットとカフェラテ">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-07.jpg" alt="パブロフの ケーキセットとカフェラテ">
   <figcaption>パブロフの代表メニュー「ケーキセット」とカフェラテ</figcaption>
 </figure>
 
@@ -86,7 +91,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 厚めのブリオッシュパンにクリームとフルーツがたっぷり乗ったラグジュアリーフレンチトーストです。
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-07.jpg" alt="パブロフの人気メニュー フレンチトースト ベリー">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-08.jpg" alt="パブロフの人気メニュー フレンチトースト ベリー">
   <figcaption>パブロフの人気メニュー フレンチトースト ベリー</figcaption>
 </figure>
 
@@ -97,7 +102,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 ブランチメニューにぴったりの甘塩バランスのサンドイッチです。
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-08.jpg" alt="パブロフのブランチメニュー 生ハムモッツァレラサンドイッチ">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-09.jpg" alt="パブロフのブランチメニュー 生ハムモッツァレラサンドイッチ">
   <figcaption>パブロフのブランチメニュー 生ハムモッツァレラサンドイッチ</figcaption>
 </figure>
 
@@ -143,7 +148,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-09.jpg" alt="横浜食べログ百名店カフェ パブロフギフトセット">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-10.jpg" alt="横浜食べログ百名店カフェ パブロフギフトセット">
   <figcaption>横浜食べログ百名店カフェ パブロフギフトセット</figcaption>
 </figure>
 
@@ -161,12 +166,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 基本のプレーンクロワッサンから、料理のように丁寧に作られた'食事代わりクロワッサン'、宝石のように華やかな**'スイーツ（デザート）クロワッサン'**まで、様々なクロワッサンをテイクアウトできます。
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-10.jpg" alt="ミセス パブロフ ベーカリーの華やかなクロワッサンショーケース">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="ミセス パブロフ ベーカリーの華やかなクロワッサンショーケース">
   <figcaption>横浜クロワッサングルメ ミセス パブロフ ベーカリーの華やかなクロワッサンショーケース</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="ミセス パブロフ ベーカリー">
+  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-12.jpg" alt="ミセス パブロフ ベーカリー">
   <figcaption>横浜クロワッサングルメ <b>ミセス パブロフ ベーカリー</b></figcaption>
 </figure>
 
