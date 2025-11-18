@@ -83,10 +83,10 @@ When a referenced post is migrated, use this pattern to update links:
 # Find and replace Naver links with Hugo links
 # Example: Convert 224065668379 to roppongi-christmas-illumination-2025
 
-# English posts
-sed -i 's|https://blog.naver.com/tokyomate/224065668379|/en/posts/roppongi-christmas-illumination-2025/|g' content/en/posts/*.md
+# English posts (no language prefix - default language)
+sed -i 's|https://blog.naver.com/tokyomate/224065668379|/posts/roppongi-christmas-illumination-2025/|g' content/en/posts/*.md
 
-# Japanese posts
+# Japanese posts (with /ja/ prefix)
 sed -i 's|https://blog.naver.com/tokyomate/224065668379|/ja/posts/roppongi-christmas-illumination-2025/|g' content/ja/posts/*.md
 ```
 
@@ -133,10 +133,10 @@ for naver_id in "${!MAPPINGS[@]}"; do
   hugo_slug="${MAPPINGS[$naver_id]}"
   echo "Converting $naver_id to $hugo_slug..."
 
-  # English
-  find content/en/posts -name "*.md" -exec sed -i "s|https://blog.naver.com/tokyomate/$naver_id|/en/posts/$hugo_slug/|g" {} +
+  # English (no language prefix - default language)
+  find content/en/posts -name "*.md" -exec sed -i "s|https://blog.naver.com/tokyomate/$naver_id|/posts/$hugo_slug/|g" {} +
 
-  # Japanese
+  # Japanese (with /ja/ prefix)
   find content/ja/posts -name "*.md" -exec sed -i "s|https://blog.naver.com/tokyomate/$naver_id|/ja/posts/$hugo_slug/|g" {} +
 done
 

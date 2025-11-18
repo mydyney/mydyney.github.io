@@ -1062,24 +1062,42 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 
 When creating Hugo posts, the AI will:
 
-1. **Load LINK_MAPPING.md first** to check existing mappings (currently 29 posts mapped)
+1. **Load LINK_MAPPING.md first** to check existing mappings (currently 30 posts mapped)
+
 2. **For each internal Naver link found:**
    - Extract Naver post ID (e.g., `223681272647` from `https://blog.naver.com/tokyomate/223681272647`)
    - Check if mapping exists in LINK_MAPPING.md
+
    - **If mapped:** ✅ Automatically convert to Hugo link
+
+     **⚠️ CRITICAL - Link Format Rules:**
+     - **English posts:** Use `/posts/slug/` (NO `/en/` prefix - English is default language)
+     - **Japanese posts:** Use `/ja/posts/slug/` (WITH `/ja/` prefix)
+
      ```html
      <!-- Before (Naver) -->
      <a href="https://blog.naver.com/tokyomate/224065668379">Related Article</a>
 
      <!-- After (Hugo - Auto-converted) -->
-     <a href="/en/posts/roppongi-christmas-illumination-2025/">Related Article</a>
+     <!-- English version: -->
+     <a href="/posts/roppongi-christmas-illumination-2025/">Related Article</a>
+
+     <!-- Japanese version: -->
+     <a href="/ja/posts/roppongi-christmas-illumination-2025/">関連記事</a>
      ```
+
    - **If not mapped:** ⏳ Add TODO comment for future migration
      ```html
      <!-- TODO: Update link after migration
           Naver: https://blog.naver.com/tokyomate/223681272647
-          Hugo: /en/posts/[SLUG_TBD]/ -->
+          Hugo: /posts/[SLUG_TBD]/ -->  <!-- English: no /en/ prefix -->
      <a href="#" style="color: #667eea;">Related Article</a>
+
+     <!-- Japanese TODO: -->
+     <!-- TODO: Update link after migration
+          Naver: https://blog.naver.com/tokyomate/223681272647
+          Hugo: /ja/posts/[SLUG_TBD]/ -->  <!-- Japanese: with /ja/ prefix -->
+     <a href="#" style="color: #667eea;">関連記事</a>
      ```
 
 3. **Update LINK_MAPPING.md:**
@@ -1089,7 +1107,7 @@ When creating Hugo posts, the AI will:
    - Update batch conversion script with new post mapping
 
 **Benefits:**
-- ✅ Most links work immediately (29/29 mapped posts = 100% for known posts)
+- ✅ Most links work immediately (30/30 mapped posts = 100% for known posts)
 - ✅ No manual link updates needed for existing posts
 - ✅ Only unmapped posts need future updates
 - ✅ Efficiency improves as more posts are migrated
@@ -1099,7 +1117,11 @@ When creating Hugo posts, the AI will:
 ```
 Internal Links Found: 6
 ├─ 224065668379 (roppongi-christmas-illumination-2025) → ✅ Auto-converted
+│   EN: /posts/roppongi-christmas-illumination-2025/
+│   JA: /ja/posts/roppongi-christmas-illumination-2025/
 ├─ 224055756731 (tokyo-3-day-christmas-itinerary) → ✅ Auto-converted
+│   EN: /posts/tokyo-3-day-christmas-itinerary/
+│   JA: /ja/posts/tokyo-3-day-christmas-itinerary/
 ├─ 224045496649 (not yet mapped) → ⏳ TODO comment added
 ├─ 224042431249 (not yet mapped) → ⏳ TODO comment added
 ├─ 223681272647 (not yet mapped) → ⏳ TODO comment added
@@ -1108,7 +1130,7 @@ Internal Links Found: 6
 Result: 2 links work immediately, 4 marked for future update
 ```
 
-See `/LINK_MAPPING.md` for complete tracking database with 29 mapped posts.
+See `/LINK_MAPPING.md` for complete tracking database with 30 mapped posts.
 
 **Step 3: Manual Image Download**
 - User downloads images from Naver blog manually
@@ -1130,10 +1152,12 @@ See `/LINK_MAPPING.md` for complete tracking database with 29 mapped posts.
 # (AI analyzes HTML and counts images)
 
 # Step 2: AI translates Korean HTML to English and Japanese with smart linking
-# - Loads LINK_MAPPING.md (29 posts currently mapped)
+# - Loads LINK_MAPPING.md (30 posts currently mapped)
 # - Finds 4 internal links in post:
-#   ✅ 224065668379 → Auto-converted to /en/posts/roppongi-christmas-illumination-2025/
-#   ✅ 224055756731 → Auto-converted to /en/posts/tokyo-3-day-christmas-itinerary/
+#   ✅ 224065668379 → Auto-converted to /posts/roppongi-christmas-illumination-2025/ (EN)
+#                     Auto-converted to /ja/posts/roppongi-christmas-illumination-2025/ (JA)
+#   ✅ 224055756731 → Auto-converted to /posts/tokyo-3-day-christmas-itinerary/ (EN)
+#                     Auto-converted to /ja/posts/tokyo-3-day-christmas-itinerary/ (JA)
 #   ⏳ 223681272647 → TODO comment added (not yet migrated)
 #   ⏳ 223988228389 → TODO comment added (not yet migrated)
 #
