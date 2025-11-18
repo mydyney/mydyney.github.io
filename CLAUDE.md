@@ -917,6 +917,12 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 
 **Step 2: Analyze HTML and Create English/Japanese Versions Only**
 - Count total images in the HTML
+- **⚠️ CRITICAL: Image groups contain multiple images**
+  - Naver Blog uses `<div class="se-imageGroup-item">` for grouped images
+  - Each image in a group MUST get its own `<figure>` tag and unique number
+  - Example: `<div class="se-imageGroup-col-2">` = 2 images = create 2 separate `<figure>` tags
+  - DO NOT merge multiple images from a group into one figure
+  - Count carefully: if you see 10 `<img>` tags, you need 10 figure tags (even if grouped)
 - **Translate Korean HTML content to English and Japanese ONLY** (do NOT create Korean version)
 - Create blog posts in 2 languages: English and Japanese
 - Include ALL image references with correct numbering (`{slug}-01.jpg`, `{slug}-02.jpg`, etc.)
