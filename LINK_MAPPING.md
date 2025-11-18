@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-18
-> **Status:** ✅ Complete - 28 posts mapped
+> **Status:** ✅ Complete - 29 posts mapped
 
 ---
 
@@ -44,6 +44,7 @@ When migrating a Naver blog post to Hugo:
 | 224062023485 | tokyo-metropolitan-govt-observatory | 2025-11-04 | ✅ |
 | 224060336353 | tokyo-disneyland-complete-guide | 2025-10-31 | ✅ |
 | 224059082171 | yokohama-katsuretsuan-tonkatsu | 2025-10-30 | ✅ |
+| 224057793409 | roppongi-hills-hello-kitty-popup-2025 | 2025-10-29 | ✅ |
 | 224057078032 | yokohama-pavlov-cafe-pound-cake | 2025-10-28 | ✅ |
 | 224055756731 | tokyo-3-day-christmas-illumination-itinerary | 2025-10-27 | ✅ |
 | 224054635720 | daikanyama-asakura-house | 2025-10-26 | ✅ |
@@ -57,10 +58,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 
 | Naver ID | Referenced In | Description |
 |----------|---------------|-------------|
-| 223681272647 | evangelion-30th-roppongi-2025 | How to Get to Roppongi Hills and Coin Locker Locations |
+| 223681272647 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025 | How to Get to Roppongi Hills and Coin Locker Locations |
 | 223987954990 | evangelion-30th-roppongi-2025 | 2025 Roppongi Hills Observatory Complete Guide |
-| 223988228389 | evangelion-30th-roppongi-2025 | Complete Guide to Roppongi Attractions |
+| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025 | Complete Guide to Roppongi Attractions |
 | 223993881300 | evangelion-30th-roppongi-2025 | Tokyo Roppongi Restaurant Map |
+| 224045496649 | roppongi-hills-hello-kitty-popup-2025 | 2025 Tokyo Christmas Markets Guide (Ueno, Azabudai, etc.) |
+| 224042431249 | roppongi-hills-hello-kitty-popup-2025 | 2025 Tokyo Christmas Illumination BEST 5 (Omotesando, Marunouchi) |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -112,6 +115,7 @@ declare -A MAPPINGS=(
   ["224062023485"]="tokyo-metropolitan-govt-observatory"
   ["224060336353"]="tokyo-disneyland-complete-guide"
   ["224059082171"]="yokohama-katsuretsuan-tonkatsu"
+  ["224057793409"]="roppongi-hills-hello-kitty-popup-2025"
   ["224057078032"]="yokohama-pavlov-cafe-pound-cake"
   ["224055756731"]="tokyo-3-day-christmas-illumination-itinerary"
   ["224054635720"]="daikanyama-asakura-house"
@@ -136,12 +140,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 28
-- **Naver IDs Tracked:** 28
-- **Posts with Internal Links:** 2+ (evangelion, tokyo-3-day)
-- **Pending References:** 4
+- **Total Posts Migrated:** 29
+- **Naver IDs Tracked:** 29
+- **Posts with Internal Links:** 3+ (evangelion, tokyo-3-day, hello-kitty-popup)
+- **Pending References:** 6
 - **Links Updated:** 0 (ready for batch conversion)
-- **Last Migration Date:** 2025-11-16
+- **Last Migration Date:** 2025-10-29
 
 ---
 
