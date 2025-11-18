@@ -892,6 +892,7 @@ hugo --minify
 |------|---------|
 | `download_naver_images.py` | Migrate images from Naver Blog |
 | `README_IMAGE_DOWNLOAD.md` | Documentation for migration script |
+| `LINK_MAPPING.md` | **Naver→Hugo link mapping database** - Tracks internal blog links for conversion |
 
 ### Design & Style Files
 
@@ -1052,7 +1053,30 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
   - Japanese: `<a href="..." target="_blank">出典</a>`
   - Keep original URL and target attribute
   - Common source patterns: `(출처)`, `출처:`, `이미지 출처`
+- **Extract and record internal links** (see Link Mapping below)
 - Commit both English and Japanese versions
+
+**Step 2.5: Link Mapping and Tracking**
+- **Extract Naver post ID** from HTML (`copyBtn` title attribute):
+  ```html
+  <a href="#" id="copyBtn_224070032613" title="https://blog.naver.com/tokyomate/224070032613">
+  ```
+- **Find all internal Naver links** in the post content:
+  ```html
+  <a href="https://blog.naver.com/tokyomate/223681272647">Related Article</a>
+  ```
+- **Update LINK_MAPPING.md**:
+  - Add new section with post details
+  - Record Naver URL and Hugo slugs
+  - List all internal links found
+  - Mark referenced posts as "Pending" if not yet migrated
+- **Add TODO comments in Hugo posts** for pending links:
+  ```html
+  <!-- TODO: Update link after migration
+       Naver: https://blog.naver.com/tokyomate/223681272647
+       Hugo: /en/posts/[SLUG_TBD]/ -->
+  ```
+- See `/LINK_MAPPING.md` for complete tracking database
 
 **Step 3: Manual Image Download**
 - User downloads images from Naver blog manually
