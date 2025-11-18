@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-18
-> **Status:** ✅ Complete - 30 posts mapped
+> **Status:** ✅ Complete - 31 posts mapped
 
 ---
 
@@ -50,6 +50,7 @@ When migrating a Naver blog post to Hugo:
 | 224055756731 | tokyo-3-day-christmas-illumination-itinerary | 2025-10-27 | ✅ |
 | 224054635720 | daikanyama-asakura-house | 2025-10-26 | ✅ |
 | 224052787206 | yokohama-vanilla-beans-cafe | 2025-10-24 | ✅ |
+| 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 
 ---
 
@@ -65,8 +66,10 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223678791563 | yebisu-garden-place-illumination-christmas-market-2025 | How to Get to Yebisu Garden Place and Coin Locker Locations |
 | 223681272647 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025 | How to Get to Roppongi Hills and Coin Locker Locations |
 | 223987954990 | evangelion-30th-roppongi-2025 | 2025 Roppongi Hills Observatory Complete Guide |
-| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025 | Complete Guide to Roppongi Attractions |
+| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket | Complete Guide to Roppongi Attractions |
+| 223991251786 | shinanoya-roppongi-hills-supermarket | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
 | 223993881300 | evangelion-30th-roppongi-2025 | Tokyo Roppongi Restaurant Map |
+| 224010546735 | shinanoya-roppongi-hills-supermarket | Japanese Whisky Recommendations and Price Guide |
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
 | 224042431249 | roppongi-hills-hello-kitty-popup-2025, yebisu-garden-place-illumination-christmas-market-2025 | 2025 Tokyo Christmas Illumination BEST 5 (Omotesando, Marunouchi) |
 | 224045496649 | roppongi-hills-hello-kitty-popup-2025 | 2025 Tokyo Christmas Markets Guide (Ueno, Azabudai, etc.) |
@@ -127,6 +130,7 @@ declare -A MAPPINGS=(
   ["224055756731"]="tokyo-3-day-christmas-illumination-itinerary"
   ["224054635720"]="daikanyama-asakura-house"
   ["224052787206"]="yokohama-vanilla-beans-cafe"
+  ["223664743235"]="shinanoya-roppongi-hills-supermarket"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -147,12 +151,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 30
-- **Naver IDs Tracked:** 30
-- **Posts with Internal Links:** 4+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination)
-- **Pending References:** 11
-- **Links Updated:** 6 (auto-converted via smart link system)
-- **Last Migration Date:** 2025-11-17
+- **Total Posts Migrated:** 31
+- **Naver IDs Tracked:** 31
+- **Posts with Internal Links:** 5+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills)
+- **Pending References:** 13
+- **Links Updated:** 0 (all links in shinanoya post need migration)
+- **Last Migration Date:** 2025-11-18
 
 ---
 
