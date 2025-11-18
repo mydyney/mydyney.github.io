@@ -18,7 +18,7 @@ to Yebisu Garden Place's 2025~2026 winter season information.</p>
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ If you want to know all about Tokyo Christmas Illumination<br>
-➡️ <a href="/en/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><b>2025 Tokyo Christmas Illumination BEST 5 ↗</b></a></p>
+➡️ <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><b>2025 Tokyo Christmas Illumination BEST 5 ↗</b></a></p>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-01.jpg" alt="2025 Yebisu Garden Place clock square 10m Christmas tree and champagne gold illumination panorama">
@@ -153,7 +153,7 @@ If you're curious about the 2024 scene, check out the archive post below.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668826357
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;">2024 Yebisu Garden Place Christmas Review (Last Year's Archive)</a>**
 *(Link will be updated after migration)*
 
@@ -229,7 +229,7 @@ For detailed information, check out the dedicated post.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668328703
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 ➡️ <a href="#" style="color: #667eea;">Tokyo Yebisu Garden Place Free Observatory, Top of Yebisu Complete Guide</a>
 *(Link will be updated after migration)*
 
@@ -256,7 +256,7 @@ It's a space worth visiting if you like beer.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223665548720
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;">Yebisu Brewery Tokyo, A Must-Visit for Beer Enthusiasts</a>**
 *(Link will be updated after migration)*
 
@@ -279,7 +279,7 @@ takes you directly to the Yebisu Garden Place entrance.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;">How to Get to Tokyo Yebisu Garden Place and Coin Locker Locations</a>**
 *(Link will be updated after migration)*
 
@@ -347,7 +347,7 @@ create unforgettable memories this winter.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;">Yebisu Attractions, Complete Guide from Yebisu Garden Place to Beer Museum and Restaurants</a>**
 *(Link will be updated after migration)*
 
@@ -357,26 +357,26 @@ create unforgettable memories this winter.
 
 ### ⭐ Must-See! Tokyo Christmas 3 Nights 4 Days Itinerary
 
-**➡️ <a href="/en/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">Tokyo 3 Nights 4 Days Christmas Illumination Recommended Course & Christmas Markets (Complete Route and Budget)</a>**
+**➡️ <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">Tokyo 3 Nights 4 Days Christmas Illumination Recommended Course & Christmas Markets (Complete Route and Budget)</a>**
 
 ### 🌟 Roppongi Hills Illumination (starts November 4)
 
-**➡️ <a href="/en/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">Roppongi Illumination 2025 Duration, Lighting Times, Must-See Spots Complete Guide</a>**
+**➡️ <a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">Roppongi Illumination 2025 Duration, Lighting Times, Must-See Spots Complete Guide</a>**
 
 ### 🌟 Tokyo Skytree Christmas Market (starts November 6)
 
-**➡️ <a href="/en/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;">2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)</a>**
+**➡️ <a href="/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;">2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)</a>**
 
 ### 🌟 Tokyo Marunouchi Illumination (starts November 13)
 
-**➡️ <a href="/en/posts/marunouchi-illumination-2025/" style="color: #667eea;">Tokyo Marunouchi Illumination 2025 Duration and Hours Complete Guide (Disney, Christmas Market, Stamp Rally)</a>**
+**➡️ <a href="/posts/marunouchi-illumination-2025/" style="color: #667eea;">Tokyo Marunouchi Illumination 2025 Duration and Hours Complete Guide (Disney, Christmas Market, Stamp Rally)</a>**
 
 ### 🌟 Tokyo Hibiya Midtown Illumination (starts November 13)
 
-**➡️ <a href="/en/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;">2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide</a>**
+**➡️ <a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;">2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide</a>**
 
 ### 🌟 Roppongi Tokyo Midtown Illumination (starts November 13)
 
-**➡️ <a href="/en/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</a>**
+**➡️ <a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</a>**
 
 </div>
