@@ -1,6 +1,6 @@
 # CLAUDE.md - AI Assistant Guide
 
-> **Last Updated:** 2025-11-16
+> **Last Updated:** 2025-11-18
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Site:** https://tripmate.news
 > **Type:** Hugo Static Site for GitHub Pages
@@ -98,7 +98,8 @@ layouts/
 │   ├── list.html              # Default list page layout
 │   └── summary.html           # Default summary card
 ├── partials/
-│   └── head-additions.html    # Custom CSS loader
+│   ├── head-additions.html    # Custom CSS loader
+│   └── menu-contextual.html   # Related posts sidebar
 └── post/
     ├── list.html              # Post-specific list layout
     └── summary.html           # Post-specific card component
@@ -599,7 +600,46 @@ Complete information at a glance.</p>
 **CSS Files:**
 - `/static/css/blog-cards.css` - Blog card styles (list pages)
 - `/static/css/blog-post-common.css` - Blog post content styles
-- Both are loaded globally via `head-additions.html`
+- `/static/css/related-posts.css` - Related posts sidebar styles
+- All three are loaded globally via `head-additions.html`
+
+### Related Posts
+
+**Overview:**
+The site features a modern related posts section that appears in the sidebar of individual blog posts. It automatically displays up to 6 related posts based on Hugo's built-in content relations (tags, categories, etc.).
+
+**Design:**
+- **Layout:** Compact horizontal cards (thumbnail left, content right)
+- **Responsive:** Single column layout optimized for sidebar width
+- **Visual:** Purple-blue gradient theme with smooth animations
+- **Hover Effect:** Slides right with color transition
+
+**Components:**
+- **Thumbnail:** 80px × 80px on desktop, 70px × 70px on mobile
+- **Title:** 2-line truncated post title
+- **Metadata:** Publication date (tags hidden to save space)
+- **Placeholder:** Gradient background with SVG icon for posts without images
+
+**Implementation:**
+```
+layouts/partials/menu-contextual.html  # Custom partial (overrides theme)
+static/css/related-posts.css           # Styling
+```
+
+**Customization:**
+To change the number of related posts, edit `menu-contextual.html` line 18:
+```go
+{{ $related := .Site.RegularPages.Related . | collections.First 6 }}
+```
+Change `6` to desired number.
+
+**Features:**
+- ✅ Automatic content matching via Hugo's Related Content feature
+- ✅ Featured image support with fallback placeholder
+- ✅ Responsive design (mobile, tablet, desktop)
+- ✅ Dark mode support (auto-detects user preference)
+- ✅ Staggered fade-in animation on load
+- ✅ Optimized for narrow sidebar layout
 
 ---
 
@@ -784,7 +824,9 @@ hugo --minify
 |------|---------|-------|
 | `static/css/blog-cards.css` | Blog card styles for post listings | Modern magazine-style cards with gradients |
 | `static/css/blog-post-common.css` | Shared styles for blog post content | Classes: `.blog-container`, `.info-box`, `.schedule-table`, `.tip-box` |
-| `layouts/partials/head-additions.html` | CSS loader for custom styles | Automatically loads both CSS files |
+| `static/css/related-posts.css` | Related posts sidebar styles | Compact horizontal card layout with thumbnails |
+| `layouts/partials/head-additions.html` | CSS loader for custom styles | Automatically loads all three CSS files |
+| `layouts/partials/menu-contextual.html` | Related posts sidebar component | Custom partial overriding theme default, displays up to 6 related posts |
 | `layouts/post/list.html` | Post listing page layout | CSS Grid with responsive breakpoints |
 | `layouts/post/summary.html` | Blog card component | Individual card template |
 
