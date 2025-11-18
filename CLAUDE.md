@@ -1062,7 +1062,7 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 
 When creating Hugo posts, the AI will:
 
-1. **Load LINK_MAPPING.md first** to check existing mappings (currently 30 posts mapped)
+1. **Load LINK_MAPPING.md first** to check existing mappings (currently 31 posts mapped)
 
 2. **For each internal Naver link found:**
    - Extract Naver post ID (e.g., `223681272647` from `https://blog.naver.com/tokyomate/223681272647`)
@@ -1093,11 +1093,17 @@ When creating Hugo posts, the AI will:
           Hugo: /posts/[SLUG_TBD]/ -->  <!-- English: no /en/ prefix -->
      <a href="#" style="color: #667eea;">Related Article</a>
 
+     <!-- For bold links, wrap text in <strong> tags: -->
+     <a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide</strong></a>
+
      <!-- Japanese TODO: -->
      <!-- TODO: Update link after migration
           Naver: https://blog.naver.com/tokyomate/223681272647
           Hugo: /ja/posts/[SLUG_TBD]/ -->  <!-- Japanese: with /ja/ prefix -->
      <a href="#" style="color: #667eea;">関連記事</a>
+
+     <!-- For bold links, wrap text in <strong> tags: -->
+     <a href="#" style="color: #667eea;"><strong>→ [詳しく見る] 完全ガイド</strong></a>
      ```
 
 3. **Update LINK_MAPPING.md:**
