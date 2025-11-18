@@ -1056,27 +1056,81 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 - **Extract and record internal links** (see Link Mapping below)
 - Commit both English and Japanese versions
 
-**Step 2.5: Link Mapping and Tracking**
-- **Extract Naver post ID** from HTML (`copyBtn` title attribute):
-  ```html
-  <a href="#" id="copyBtn_224070032613" title="https://blog.naver.com/tokyomate/224070032613">
-  ```
-- **Find all internal Naver links** in the post content:
-  ```html
-  <a href="https://blog.naver.com/tokyomate/223681272647">Related Article</a>
-  ```
-- **Update LINK_MAPPING.md**:
-  - Add new section with post details
-  - Record Naver URL and Hugo slugs
-  - List all internal links found
-  - Mark referenced posts as "Pending" if not yet migrated
-- **Add TODO comments in Hugo posts** for pending links:
-  ```html
-  <!-- TODO: Update link after migration
-       Naver: https://blog.naver.com/tokyomate/223681272647
-       Hugo: /en/posts/[SLUG_TBD]/ -->
-  ```
-- See `/LINK_MAPPING.md` for complete tracking database
+**Step 2.5: Intelligent Link Mapping and Auto-Conversion**
+
+🎯 **NEW: Automated link conversion using LINK_MAPPING.md**
+
+When creating Hugo posts, the AI will:
+
+1. **Load LINK_MAPPING.md first** to check existing mappings (currently 30 posts mapped)
+
+2. **For each internal Naver link found:**
+   - Extract Naver post ID (e.g., `223681272647` from `https://blog.naver.com/tokyomate/223681272647`)
+   - Check if mapping exists in LINK_MAPPING.md
+
+   - **If mapped:** ✅ Automatically convert to Hugo link
+
+     **⚠️ CRITICAL - Link Format Rules:**
+     - **English posts:** Use `/posts/slug/` (NO `/en/` prefix - English is default language)
+     - **Japanese posts:** Use `/ja/posts/slug/` (WITH `/ja/` prefix)
+
+     ```html
+     <!-- Before (Naver) -->
+     <a href="https://blog.naver.com/tokyomate/224065668379">Related Article</a>
+
+     <!-- After (Hugo - Auto-converted) -->
+     <!-- English version: -->
+     <a href="/posts/roppongi-christmas-illumination-2025/">Related Article</a>
+
+     <!-- Japanese version: -->
+     <a href="/ja/posts/roppongi-christmas-illumination-2025/">関連記事</a>
+     ```
+
+   - **If not mapped:** ⏳ Add TODO comment for future migration
+     ```html
+     <!-- TODO: Update link after migration
+          Naver: https://blog.naver.com/tokyomate/223681272647
+          Hugo: /posts/[SLUG_TBD]/ -->  <!-- English: no /en/ prefix -->
+     <a href="#" style="color: #667eea;">Related Article</a>
+
+     <!-- Japanese TODO: -->
+     <!-- TODO: Update link after migration
+          Naver: https://blog.naver.com/tokyomate/223681272647
+          Hugo: /ja/posts/[SLUG_TBD]/ -->  <!-- Japanese: with /ja/ prefix -->
+     <a href="#" style="color: #667eea;">関連記事</a>
+     ```
+
+3. **Update LINK_MAPPING.md:**
+   - Add new post to Quick Reference Table
+   - Record all internal links found (both mapped and unmapped)
+   - Update Pending Link References for unmapped links
+   - Update batch conversion script with new post mapping
+
+**Benefits:**
+- ✅ Most links work immediately (30/30 mapped posts = 100% for known posts)
+- ✅ No manual link updates needed for existing posts
+- ✅ Only unmapped posts need future updates
+- ✅ Efficiency improves as more posts are migrated
+
+**Example Processing:**
+
+```
+Internal Links Found: 6
+├─ 224065668379 (roppongi-christmas-illumination-2025) → ✅ Auto-converted
+│   EN: /posts/roppongi-christmas-illumination-2025/
+│   JA: /ja/posts/roppongi-christmas-illumination-2025/
+├─ 224055756731 (tokyo-3-day-christmas-itinerary) → ✅ Auto-converted
+│   EN: /posts/tokyo-3-day-christmas-itinerary/
+│   JA: /ja/posts/tokyo-3-day-christmas-itinerary/
+├─ 224045496649 (not yet mapped) → ⏳ TODO comment added
+├─ 224042431249 (not yet mapped) → ⏳ TODO comment added
+├─ 223681272647 (not yet mapped) → ⏳ TODO comment added
+└─ 223988228389 (not yet mapped) → ⏳ TODO comment added
+
+Result: 2 links work immediately, 4 marked for future update
+```
+
+See `/LINK_MAPPING.md` for complete tracking database with 30 mapped posts.
 
 **Step 3: Manual Image Download**
 - User downloads images from Naver blog manually
@@ -1095,11 +1149,22 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 
 ```bash
 # Step 1: After user provides HTML
-# (AI saves HTML to file)
+# (AI analyzes HTML and counts images)
 
-# Step 2: AI translates Korean HTML to English and Japanese only
-# content/en/posts/marunouchi-illumination-2025.md (22 images)
-# content/ja/posts/marunouchi-illumination-2025.md (22 images)
+# Step 2: AI translates Korean HTML to English and Japanese with smart linking
+# - Loads LINK_MAPPING.md (30 posts currently mapped)
+# - Finds 4 internal links in post:
+#   ✅ 224065668379 → Auto-converted to /posts/roppongi-christmas-illumination-2025/ (EN)
+#                     Auto-converted to /ja/posts/roppongi-christmas-illumination-2025/ (JA)
+#   ✅ 224055756731 → Auto-converted to /posts/tokyo-3-day-christmas-itinerary/ (EN)
+#                     Auto-converted to /ja/posts/tokyo-3-day-christmas-itinerary/ (JA)
+#   ⏳ 223681272647 → TODO comment added (not yet migrated)
+#   ⏳ 223988228389 → TODO comment added (not yet migrated)
+#
+# Creates:
+# content/en/posts/marunouchi-illumination-2025.md (22 images, 2 working links)
+# content/ja/posts/marunouchi-illumination-2025.md (22 images, 2 working links)
+# Updates LINK_MAPPING.md with new post entry
 # (NO Korean version created)
 
 # Step 3: User manually downloads images
@@ -1109,7 +1174,7 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 
 # Step 4: Test and deploy
 hugo server -D
-# User verifies everything works
+# User verifies everything works (including auto-converted links!)
 git add static/images/posts/marunouchi-illumination-2025-*.jpg
 git commit -m "Add images for Marunouchi Illumination 2025"
 git push
@@ -1158,7 +1223,10 @@ git push -u origin claude/branch-name     # Push to branch
 
 # Migration (Naver Blog)
 # Step 1: User provides HTML
-# Step 2: AI creates 3 language versions (all images included)
+# Step 2: AI creates 2 language versions (EN/JA) with smart link conversion
+#         - Loads LINK_MAPPING.md (29 mapped posts)
+#         - Auto-converts known Naver links to Hugo links
+#         - Adds TODO comments for unmapped links
 # Step 3: User manually downloads images from Naver
 # Step 4: Test with hugo server -D
 ```
