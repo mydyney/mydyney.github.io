@@ -219,8 +219,83 @@ claude/claude-md-mi18nf00okdkyuyi-0117EAAGs2ZQwCgzw2nMBTyo
 1. Create feature branch with `claude/` prefix
 2. Make changes and commit with descriptive messages
 3. Push to branch: `git push -u origin <branch-name>`
-4. Create Pull Request to `main`
+4. Create Pull Request to `main` (see PR guidelines below)
 5. Merge triggers automatic deployment
+
+### Pull Request Guidelines
+
+**⚠️ IMPORTANT:** Always create a Pull Request with a clear title and comprehensive description.
+
+**PR Title Format:**
+```
+[Action] [Component/Feature] with [Key Benefit]
+```
+
+**Examples:**
+- `Redesign Related Posts Section with Modern Compact Sidebar Layout`
+- `Add Evangelion 30th Anniversary Blog Post (EN/JA)`
+- `Fix Responsive Layout Issues on Mobile Devices`
+
+**PR Description Template:**
+
+```markdown
+## Summary
+Brief overview of what this PR does (1-2 sentences).
+
+## Changes
+### 1. [First Major Change]
+- Detail 1
+- Detail 2
+
+### 2. [Second Major Change]
+- Detail 1
+- Detail 2
+
+## Visual Preview (if applicable)
+**Before:** Description
+**After:** Description
+
+## Testing
+✅ Test 1 description
+✅ Test 2 description
+
+## Files Changed
+- `file/path/1` (new/modified)
+- `file/path/2` (new/modified)
+
+## Breaking Changes
+None / Description of breaking changes
+
+## Related
+Any related issues or context
+```
+
+**Best Practices:**
+
+1. **Title:**
+   - Use action verbs (Add, Update, Fix, Redesign, Implement)
+   - Be specific about what changed
+   - Include the benefit or goal
+   - Keep under 72 characters if possible
+
+2. **Description:**
+   - Start with a clear summary
+   - Group changes logically by commit or feature
+   - Use checkboxes (✅) for testing/verification items
+   - Include visual comparisons for UI changes
+   - List all affected files
+   - Note any breaking changes explicitly
+
+3. **When to Create PRs:**
+   - After completing a feature or fix
+   - Before merging to main branch
+   - When work is ready for review/deployment
+   - Even for solo work (documentation purposes)
+
+4. **GitHub CLI Note:**
+   - `gh` CLI is not available in this environment
+   - PRs must be created via GitHub web interface
+   - Push branch first, then create PR on GitHub
 
 **Important Git Notes:**
 
