@@ -1,88 +1,93 @@
 /* ===================================
-   Related Posts - Modern Design
+   Related Posts - Compact Sidebar Design
    =================================== */
 
-/* Container */
+/* Container - Compact for sidebar */
 .related-posts-container {
-  margin-top: 3rem;
-  padding: 2rem;
+  margin-top: 1.5rem;
+  padding: 1.25rem;
   background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
-  border-radius: 16px;
+  border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
 }
 
-/* Title */
+/* Title - Smaller and cleaner */
 .related-posts-title {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: 700;
   color: #1a202c;
-  margin: 0 0 1.5rem 0;
-  padding-bottom: 0.75rem;
-  border-bottom: 3px solid #667eea;
+  margin: 0 0 1rem 0;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #667eea;
   position: relative;
 }
 
 .related-posts-title::after {
   content: '';
   position: absolute;
-  bottom: -3px;
+  bottom: -2px;
   left: 0;
-  width: 60px;
-  height: 3px;
+  width: 40px;
+  height: 2px;
   background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);
   border-radius: 2px;
 }
 
-/* Grid Layout */
+/* Grid Layout - Always single column for sidebar */
 .related-posts-grid {
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 1.25rem;
-  margin-top: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.875rem;
+  margin-top: 1rem;
 }
 
-/* Card Design */
+/* Card Design - Horizontal compact layout */
 .related-post-card {
   background: #ffffff;
-  border-radius: 12px;
+  border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
   transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
   border: 1px solid #e2e8f0;
 }
 
 .related-post-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 24px rgba(102, 126, 234, 0.15);
+  transform: translateX(4px);
+  box-shadow: 0 4px 12px rgba(102, 126, 234, 0.15);
   border-color: #667eea;
 }
 
+/* Horizontal layout: image on left, content on right */
 .related-post-link {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   text-decoration: none;
   color: inherit;
   height: 100%;
+  align-items: center;
+  gap: 0.75rem;
 }
 
-/* Image Section */
+/* Image Section - Small thumbnail */
 .related-post-image {
-  width: 100%;
-  height: 160px;
+  width: 80px;
+  min-width: 80px;
+  height: 80px;
   overflow: hidden;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   position: relative;
+  flex-shrink: 0;
 }
 
 .related-post-image img {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .related-post-card:hover .related-post-image img {
-  transform: scale(1.08);
+  transform: scale(1.1);
 }
 
 /* Placeholder for posts without images */
@@ -94,24 +99,25 @@
 }
 
 .related-post-placeholder svg {
-  width: 48px;
-  height: 48px;
+  width: 32px;
+  height: 32px;
   color: rgba(255, 255, 255, 0.7);
 }
 
-/* Content Section */
+/* Content Section - Compact */
 .related-post-content {
-  padding: 1.25rem;
+  padding: 0.625rem 0.75rem 0.625rem 0;
   display: flex;
   flex-direction: column;
-  gap: 0.75rem;
+  gap: 0.375rem;
   flex: 1;
+  min-width: 0; /* Allow text truncation */
 }
 
 .related-post-title {
-  font-size: 1rem;
+  font-size: 0.875rem;
   font-weight: 600;
-  line-height: 1.4;
+  line-height: 1.35;
   color: #1a202c;
   margin: 0;
   transition: color 0.2s ease;
@@ -125,27 +131,18 @@
   color: #667eea;
 }
 
+/* Hide excerpt on small sidebar */
 .related-post-excerpt {
-  font-size: 0.875rem;
-  line-height: 1.5;
-  color: #64748b;
-  margin: 0;
-  display: -webkit-box;
-  -webkit-line-clamp: 2;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  display: none;
 }
 
-/* Meta Information */
+/* Meta Information - Minimal */
 .related-post-meta {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  font-size: 0.8125rem;
+  gap: 0.5rem;
+  font-size: 0.75rem;
   color: #94a3b8;
-  margin-top: auto;
-  padding-top: 0.5rem;
-  border-top: 1px solid #f1f5f9;
 }
 
 .related-post-date {
@@ -156,75 +153,86 @@
 
 .related-post-date::before {
   content: '📅';
-  font-size: 0.875rem;
-}
-
-.related-post-tag {
-  padding: 0.25rem 0.625rem;
-  background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
-  color: #667eea;
-  border-radius: 12px;
-  font-weight: 500;
   font-size: 0.75rem;
-  border: 1px solid #667eea30;
 }
 
-/* Responsive Design */
-@media (min-width: 768px) {
-  .related-posts-container {
-    padding: 2.5rem;
-  }
-
-  .related-posts-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.5rem;
-  }
-
-  .related-post-image {
-    height: 180px;
-  }
-
-  .related-posts-title {
-    font-size: 1.75rem;
-  }
+/* Hide tags to save space */
+.related-post-tag {
+  display: none;
 }
 
-@media (min-width: 1024px) {
-  .related-posts-grid {
-    grid-template-columns: repeat(3, 1fr);
-    gap: 1.5rem;
-  }
-
-  .related-post-content {
-    padding: 1.5rem;
-  }
-
-  .related-post-title {
-    font-size: 1.0625rem;
-  }
-}
-
-/* Compact variant for smaller screens */
+/* Mobile - Even more compact */
 @media (max-width: 767px) {
   .related-posts-container {
-    padding: 1.5rem;
-    margin-top: 2rem;
-  }
-
-  .related-post-card {
+    padding: 1rem;
+    margin-top: 1.5rem;
     border-radius: 10px;
   }
 
+  .related-posts-title {
+    font-size: 1rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .related-posts-grid {
+    gap: 0.75rem;
+  }
+
+  .related-post-card {
+    border-radius: 6px;
+  }
+
   .related-post-image {
-    height: 140px;
+    width: 70px;
+    min-width: 70px;
+    height: 70px;
+  }
+
+  .related-post-link {
+    gap: 0.625rem;
   }
 
   .related-post-content {
-    padding: 1rem;
+    padding: 0.5rem 0.625rem 0.5rem 0;
+    gap: 0.25rem;
+  }
+
+  .related-post-title {
+    font-size: 0.8125rem;
+    line-height: 1.3;
+  }
+
+  .related-post-meta {
+    font-size: 0.6875rem;
+  }
+
+  .related-post-date::before {
+    font-size: 0.6875rem;
+  }
+}
+
+/* Tablet and larger - slightly more breathing room */
+@media (min-width: 768px) {
+  .related-posts-container {
+    padding: 1.5rem;
   }
 
   .related-posts-title {
     font-size: 1.25rem;
+  }
+
+  .related-posts-grid {
+    gap: 1rem;
+  }
+
+  .related-post-image {
+    width: 90px;
+    min-width: 90px;
+    height: 90px;
+  }
+
+  .related-post-title {
+    font-size: 0.9375rem;
   }
 }
 
