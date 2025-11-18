@@ -29,7 +29,7 @@ Hello!
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
      Hugo: /posts/[SLUG_TBD]/ -->
-**→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)**
+<a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
 
 If you're looking for special and meaningful Tokyo souvenirs, I recommend Shinanoya supermarket at Roppongi Hills.
 
@@ -160,7 +160,7 @@ If you're curious about the full Dassai lineup's official Japanese prices, check
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
      Hugo: /posts/[SLUG_TBD]/ -->
-**→ [See Details] Complete Guide to Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour**
+<a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour</strong></a>
 
 <figure>
   <img src="/images/posts/shinanoya-roppongi-hills-supermarket-15.jpg" alt="Shibanoya Junmai sake">
@@ -362,7 +362,7 @@ If you're coming to see the Roppongi Hills Christmas Keyakizaka illumination, be
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
      Hugo: /posts/[SLUG_TBD]/ -->
-➡️ **[Complete Guide to Roppongi Attractions (Observatory, Festivals, Museums, Restaurants A to Z)]**
+<a href="#" style="color: #667eea;"><strong>➡️ [Complete Guide to Roppongi Attractions (Observatory, Festivals, Museums, Restaurants A to Z)]</strong></a>
 
 ⭐ **Recommended Japanese Whisky Information**
 Still wondering which whisky to buy? From beginner-friendly to gift-worthy options, find the perfect Japanese whisky for you in the comprehensive guide below!
@@ -370,6 +370,6 @@ Still wondering which whisky to buy? From beginner-friendly to gift-worthy optio
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010546735
      Hugo: /posts/[SLUG_TBD]/ -->
-➡️ **[See Details] Japanese Whisky Recommendations and Price Guide (Beginner & Gift Options)**
+<a href="#" style="color: #667eea;"><strong>➡️ [See Details] Japanese Whisky Recommendations and Price Guide (Beginner & Gift Options)</strong></a>
 
 </div>
