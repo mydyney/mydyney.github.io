@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-18
-> **Status:** 🔄 In Progress - Backfilling existing posts
+> **Status:** ✅ Complete - 28 posts mapped
 
 ---
 
@@ -12,66 +12,48 @@ When migrating a Naver blog post to Hugo:
 1. Extract the Naver post ID from the HTML (`copyBtn` title attribute)
 2. Add a new entry below with all internal links found
 3. When all referenced posts are migrated, update internal links in Hugo posts
-
----
-
-## Migrated Posts
-
-### 2025-11-18: Evangelion 30th Anniversary Exhibition
-
-**Naver URL:** `https://blog.naver.com/tokyomate/[TBD]`
-**Hugo Slug (EN):** `evangelion-30th-roppongi-2025`
-**Hugo Slug (JA):** `evangelion-30th-roppongi-2025`
-**Title (Original):** [TBD]
-**Created Date:** 2025-11-16
-**Migration Date:** [Prior to tracking]
-**Status:** ✅ Migrated (links need update)
-
-**Internal Links Found:**
-- `223681272647` → ⏳ Pending (How to Get to Roppongi Hills and Coin Locker Locations)
-- `223987954990` → ⏳ Pending (2025 Roppongi Hills Observatory Complete Guide)
-- `223988228389` → ⏳ Pending (Complete Guide to Roppongi Attractions)
-- `223993881300` → ⏳ Pending (Tokyo Roppongi Restaurant Map)
-- `224065668379` → ✅ Mapped to `roppongi-christmas-illumination-2025`
-
-**Action Needed:**
-- Find original Naver URL for this post
-- Update 4 pending links once target posts are migrated
-
----
-
-### [Template for New Entries]
-
-**Naver URL:** `https://blog.naver.com/tokyomate/XXXXXXXXX`
-**Hugo Slug (EN):** `slug-name`
-**Hugo Slug (JA):** `slug-name`
-**Title (Original):** Korean Title
-**Created Date:** YYYY-MM-DD
-**Migration Date:** YYYY-MM-DD
-**Status:** ✅ Migrated / 🔄 In Progress / ⏳ Pending
-
-**Internal Links Found:**
-- `NNNNNNNNN` → Status (Description)
-
-**Action Needed:**
-- List of actions
+4. Use the conversion script at the bottom to batch replace links
 
 ---
 
 ## Quick Reference Table
 
-| Naver ID | Hugo Slug (EN/JA) | Status | Links to Update |
-|----------|-------------------|--------|-----------------|
-| [TBD] | evangelion-30th-roppongi-2025 | ✅ | 4 pending |
-| [TBD] | roppongi-christmas-illumination-2025 | ✅ | ? |
-| [TBD] | marunouchi-illumination-2025 | ✅ | ? |
-| [TBD] | hibiya-midtown-illumination-2025 | ✅ | ? |
+| Naver ID | Hugo Slug (EN/JA) | Date | Status |
+|----------|-------------------|------|--------|
+| 224078087405 | toranomon-hills-hermes-event-2025 | 2025-11-16 | ✅ |
+| 224077357970 | evangelion-30th-roppongi-2025 | 2025-11-16 | ✅ |
+| 224076977654 | roppongi-midtown-christmas-2025 | 2025-11-15 | ✅ |
+| 224076762296 | hibiya-midtown-illumination-2025 | 2025-11-15 | ✅ |
+| 224076486004 | marunouchi-illumination-2025 | 2025-11-15 | ✅ |
+| 224074888771 | tokyo-skytree-christmas-market-2025 | 2025-11-13 | ✅ |
+| 224073553885 | mitsui-kisarazu-black-friday-2025 | 2025-11-12 | ✅ |
+| 224073290696 | shinjuku-luggage-storage | 2025-11-12 | ✅ |
+| 224072546243 | shinjuku-liquor-shops | 2025-11-11 | ✅ |
+| 224072190712 | narita-to-shinjuku-2025 | 2025-11-11 | ✅ |
+| 224071675259 | takumi-tatsuhiro-shinjuku-2025 | 2025-11-11 | ✅ |
+| 224070032613 | shinjuku-gyoen-guide-2025 | 2025-11-09 | ✅ |
+| 224068891338 | shinjuku-oiwake-dango-honpo | 2025-11-08 | ✅ |
+| 224068585112 | shinjuku-golden-gai-vs-omoide-yokocho | 2025-11-08 | ✅ |
+| 224067094205 | shinjuku-to-disneyland-bus-guide | 2025-11-06 | ✅ |
+| 224066800060 | tokyo-crafts-popup-stores-guide | 2025-11-06 | ✅ |
+| 224066173929 | shinjuku-epitaph-curry-review | 2025-11-06 | ✅ |
+| 224065668379 | roppongi-christmas-illumination-2025 | 2025-11-05 | ✅ |
+| 224064750249 | shinjuku-sekaido-stationery-shopping-guide | 2025-11-04 | ✅ |
+| 224064132817 | narita-airport-terminal1-duty-free-coupon-guide | 2025-11-04 | ✅ |
+| 224063760866 | shinjuku-kids-parks-guide | 2025-11-04 | ✅ |
+| 224062023485 | tokyo-metropolitan-govt-observatory | 2025-11-04 | ✅ |
+| 224060336353 | tokyo-disneyland-complete-guide | 2025-10-31 | ✅ |
+| 224059082171 | yokohama-katsuretsuan-tonkatsu | 2025-10-30 | ✅ |
+| 224057078032 | yokohama-pavlov-cafe-pound-cake | 2025-10-28 | ✅ |
+| 224055756731 | tokyo-3-day-christmas-illumination-itinerary | 2025-10-27 | ✅ |
+| 224054635720 | daikanyama-asakura-house | 2025-10-26 | ✅ |
+| 224052787206 | yokohama-vanilla-beans-cafe | 2025-10-24 | ✅ |
 
 ---
 
 ## Pending Link References
 
-These Naver post IDs are referenced but not yet migrated:
+These Naver post IDs are referenced in migrated posts but not yet migrated themselves:
 
 | Naver ID | Referenced In | Description |
 |----------|---------------|-------------|
@@ -79,6 +61,8 @@ These Naver post IDs are referenced but not yet migrated:
 | 223987954990 | evangelion-30th-roppongi-2025 | 2025 Roppongi Hills Observatory Complete Guide |
 | 223988228389 | evangelion-30th-roppongi-2025 | Complete Guide to Roppongi Attractions |
 | 223993881300 | evangelion-30th-roppongi-2025 | Tokyo Roppongi Restaurant Map |
+
+**Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
 ---
 
@@ -97,21 +81,74 @@ sed -i 's|https://blog.naver.com/tokyomate/224065668379|/en/posts/roppongi-chris
 sed -i 's|https://blog.naver.com/tokyomate/224065668379|/ja/posts/roppongi-christmas-illumination-2025/|g' content/ja/posts/*.md
 ```
 
+**Batch Conversion Script:**
+
+```bash
+#!/bin/bash
+# Convert all known Naver links to Hugo links
+
+declare -A MAPPINGS=(
+  ["224078087405"]="toranomon-hills-hermes-event-2025"
+  ["224077357970"]="evangelion-30th-roppongi-2025"
+  ["224076977654"]="roppongi-midtown-christmas-2025"
+  ["224076762296"]="hibiya-midtown-illumination-2025"
+  ["224076486004"]="marunouchi-illumination-2025"
+  ["224074888771"]="tokyo-skytree-christmas-market-2025"
+  ["224073553885"]="mitsui-kisarazu-black-friday-2025"
+  ["224073290696"]="shinjuku-luggage-storage"
+  ["224072546243"]="shinjuku-liquor-shops"
+  ["224072190712"]="narita-to-shinjuku-2025"
+  ["224071675259"]="takumi-tatsuhiro-shinjuku-2025"
+  ["224070032613"]="shinjuku-gyoen-guide-2025"
+  ["224068891338"]="shinjuku-oiwake-dango-honpo"
+  ["224068585112"]="shinjuku-golden-gai-vs-omoide-yokocho"
+  ["224067094205"]="shinjuku-to-disneyland-bus-guide"
+  ["224066800060"]="tokyo-crafts-popup-stores-guide"
+  ["224066173929"]="shinjuku-epitaph-curry-review"
+  ["224065668379"]="roppongi-christmas-illumination-2025"
+  ["224064750249"]="shinjuku-sekaido-stationery-shopping-guide"
+  ["224064132817"]="narita-airport-terminal1-duty-free-coupon-guide"
+  ["224063760866"]="shinjuku-kids-parks-guide"
+  ["224062023485"]="tokyo-metropolitan-govt-observatory"
+  ["224060336353"]="tokyo-disneyland-complete-guide"
+  ["224059082171"]="yokohama-katsuretsuan-tonkatsu"
+  ["224057078032"]="yokohama-pavlov-cafe-pound-cake"
+  ["224055756731"]="tokyo-3-day-christmas-illumination-itinerary"
+  ["224054635720"]="daikanyama-asakura-house"
+  ["224052787206"]="yokohama-vanilla-beans-cafe"
+)
+
+for naver_id in "${!MAPPINGS[@]}"; do
+  hugo_slug="${MAPPINGS[$naver_id]}"
+  echo "Converting $naver_id to $hugo_slug..."
+
+  # English
+  find content/en/posts -name "*.md" -exec sed -i "s|https://blog.naver.com/tokyomate/$naver_id|/en/posts/$hugo_slug/|g" {} +
+
+  # Japanese
+  find content/ja/posts -name "*.md" -exec sed -i "s|https://blog.naver.com/tokyomate/$naver_id|/ja/posts/$hugo_slug/|g" {} +
+done
+
+echo "Link conversion complete!"
+```
+
 ---
 
 ## Statistics
 
-- **Total Posts Migrated:** ~29 (EN) / ~28 (JA)
-- **Posts with Naver Links:** 23 (EN) / 22 (JA)
-- **Naver IDs Tracked:** 5
-- **Links Updated:** 0
-- **Pending Updates:** Many
+- **Total Posts Migrated:** 28
+- **Naver IDs Tracked:** 28
+- **Posts with Internal Links:** 2+ (evangelion, tokyo-3-day)
+- **Pending References:** 4
+- **Links Updated:** 0 (ready for batch conversion)
+- **Last Migration Date:** 2025-11-16
 
 ---
 
-## Notes
+## Maintenance Notes
 
 - This file is tracked in Git for collaboration
 - Update this file EVERY TIME you migrate a new post
-- Include Naver ID extraction in migration workflow
-- Run link conversion script after batch migrations
+- Extract internal links during migration workflow
+- Run batch conversion script when ready to update all links
+- Keep this file synchronized with actual migrated posts
