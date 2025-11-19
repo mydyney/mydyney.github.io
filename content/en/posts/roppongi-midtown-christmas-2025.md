@@ -113,7 +113,7 @@ This post is a '**Tokyo Midtown**' guide!
 
 ⭐ **For Roppongi Hills Illumination that started November 4, check the post below!**
 
-➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](https://blog.naver.com/tokyomate/224065668379)
+➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)
 
 ---
 
@@ -374,18 +374,27 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 
 ---
 
-## 💡 Roppongi Midtown Q&A
+## ❓ Frequently Asked Questions (Q&A)
 
-**Q. Can I visit both Roppongi Hills and this on the same day?**
+**Q1. Is there an admission fee?**
+A. Illuminations, Santa Tree, and Christmas Market are free to view. Only the ice skating rink requires a fee (Adults ¥2,500, Children ¥1,500).
 
+**Q2. Can I enjoy it on rainy days?**
+A. The ice skating rink may be closed during rain as it's outdoors. However, the Santa Tree is inside the Galleria, so it can be viewed regardless of weather.
+
+**Q3. Is it suitable for families with children?**
+A. Yes, it's very family-friendly. Nursing rooms and diaper changing facilities are available, and there are many family-oriented restaurants.
+
+**Q4. Is there parking nearby?**
+A. You can use Tokyo Midtown's underground parking lot (paid). However, it gets crowded on weekends, so we recommend using public transportation.
+
+**Q5. Can I visit both Roppongi Hills and this on the same day?**
 A. Yes, highly recommended. The two locations are 10-15 minutes walk apart. The most efficient course is to stop by Roppongi Hills before sunset to see the Christmas market, then move to Tokyo Midtown after dark to enjoy the garden illumination.
 
-**Q. Is it directly connected to the subway station?**
-
+**Q6. Is it directly connected to the subway station?**
 A. Yes, directly connected. Exit 8 of Roppongi Station on the Toei Oedo Line or Tokyo Metro Hibiya Line leads directly to the Tokyo Midtown entrance, which is very convenient.
 
-**Q. Do they sell Christmas cakes too?**
-
+**Q7. Do they sell Christmas cakes too?**
 A. Yes, they hold a CHRISTMAS CAKE event from November 13 to December 25. Famous bakeries on Galleria B1 accept reservations and sell gorgeous Christmas-exclusive cakes.
 
 ---
@@ -396,22 +405,22 @@ Roppongi Midtown Christmas will be the best choice for those seeking a sophistic
 
 **⭐ Only the Essentials! Tokyo Christmas 3 Nights 4 Days Itinerary**
 
-➡️ [Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market (Route, Budget Complete Guide)](https://blog.naver.com/tokyomate/224055756731)
+➡️ [Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market (Route, Budget Complete Guide)](/posts/tokyo-3-day-christmas-illumination-itinerary/)
 
 **🌟 Roppongi Hills Illumination Starting November 4**
 
-➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](https://blog.naver.com/tokyomate/224065668379)
+➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)
 
 **🌟 Tokyo Skytree Christmas Market Starting November 6**
 
-➡️ [2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)](https://blog.naver.com/tokyomate/224074888771)
+➡️ [2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)](/posts/tokyo-skytree-christmas-market-2025/)
 
 **🌟 Tokyo Marunouchi Illumination Starting November 13**
 
-➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](https://blog.naver.com/tokyomate/224076486004)
+➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](/posts/marunouchi-illumination-2025/)
 
 **🌟 Tokyo Hibiya Midtown Illumination Starting November 13**
 
-➡️ [2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide](https://blog.naver.com/tokyomate/224076762296)
+➡️ [2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide](/posts/hibiya-midtown-illumination-2025/)
 
 </div>

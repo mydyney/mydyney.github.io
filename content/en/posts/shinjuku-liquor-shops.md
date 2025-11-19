@@ -216,7 +216,7 @@ If you want to know more about Shinjuku activities, restaurants, and night view 
 
 **➡️ [Complete Shinjuku Guide from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai ↗](https://blog.naver.com/tokyomate/224035271300)**
 
-**➡️ [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips ↗](https://blog.naver.com/tokyomate/224062023485)**
+**➡️ [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips ↗](/posts/tokyo-metropolitan-govt-observatory/)**
 
 ### ⭐ Related Shopping Guides
 

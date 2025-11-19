@@ -266,9 +266,9 @@ But depending on your travel style, you'll experience completely different 'Shin
 
 **➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">Complete Shinjuku Course Guide ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank">Tokyo Metropolitan Government Free Observatory Light Show Tips ↗</a>**
+**➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Free Observatory Light Show Tips ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">Shinjuku with Kids! 5 Major Kids Parks Access Guide (Disney, Sanrio, Thomas) ↗</a>**
+**➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! 5 Major Kids Parks Access Guide (Disney, Sanrio, Thomas) ↗</a>**
 
 ---
 

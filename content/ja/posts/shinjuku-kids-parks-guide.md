@@ -55,7 +55,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 朝早く新宿を出発してディズニーランドの開園時間に合わせて到着すれば、一日の体力がずっと余裕になります。
 
-➡️ <a href="https://blog.naver.com/tokyomate/224060336353" target="_blank"><b>東京ディズニーランド完全ガイド（チケット、DPA、午後券、ホテル、グルメ、地図総まとめ）</b></a>
+➡️ <a href="/ja/posts/tokyo-disneyland-complete-guide/" target="_blank"><b>東京ディズニーランド完全ガイド（チケット、DPA、午後券、ホテル、グルメ、地図総まとめ）</b></a>
 
 ✅ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F" target="_blank"><b>Klookでディズニーランドチケット購入</b></a>
 
@@ -69,7 +69,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 👉 バスタ新宿のバス時刻表、料金、予約方法、最終バス情報まで詳しい内容は下記の専用記事でまとめました。
 
-➡️ <a href="https://blog.naver.com/tokyomate/224067094205" target="_blank"><b>新宿からディズニーランドへの行き方（バスタ新宿バス便 - 時刻表・料金完全まとめ）</b></a>
+➡️ <a href="/ja/posts/shinjuku-to-disneyland-bus-guide/" target="_blank"><b>新宿からディズニーランドへの行き方（バスタ新宿バス便 - 時刻表・料金完全まとめ）</b></a>
 
 ---
 
@@ -390,6 +390,6 @@ JR中央・総武線（黄色）新宿駅乗車 → 水道橋駅（水道橋駅�
 
 ➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>新宿観光、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ</b></a>
 
-➡️ <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank"><b>東京都庁無料展望台 ライトショー ガンダム、ゴジラ時間、行き方、休館日、夜景お得情報総まとめ</b></a>
+➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>東京都庁無料展望台 ライトショー ガンダム、ゴジラ時間、行き方、休館日、夜景お得情報総まとめ</b></a>
 
 </div>

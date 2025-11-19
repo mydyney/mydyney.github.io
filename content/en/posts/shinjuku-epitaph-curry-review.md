@@ -284,6 +284,6 @@ please check out the **complete Shinjuku course guide** below!
 
 **➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>Shinjuku Things to Do: Complete Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show Times, Access, Closed Days, Shinjuku Night View Complete Tips</b></a>**
+**➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show Times, Access, Closed Days, Shinjuku Night View Complete Tips</b></a>**
 
 </div>

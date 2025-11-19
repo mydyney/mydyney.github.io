@@ -160,19 +160,19 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 **➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿完全観光ガイド ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank">東京都庁無料展望台ライトショー時間、休館日、新宿夜景のコツ ↗</a>**
+**➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショー時間、休館日、新宿夜景のコツ ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224068585112" target="_blank">新宿ゴールデン街 vs 思い出横丁 完全比較 ↗</a>**
+**➡️ <a href="/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">新宿ゴールデン街 vs 思い出横丁 完全比較 ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">子連れ新宿！5大キッズパークへの行き方 ↗</a>**
+**➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方 ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224067094205" target="_blank">新宿からディズニーランドへの行き方完全ガイド ↗</a>**
+**➡️ <a href="/ja/posts/shinjuku-to-disneyland-bus-guide/" target="_blank">新宿からディズニーランドへの行き方完全ガイド ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224064750249" target="_blank">新宿世界堂 東京文具店 会員カード、免税ガイド ↗</a>**
+**➡️ <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">新宿世界堂 東京文具店 会員カード、免税ガイド ↗</a>**
 
 **➡️ <a href="https://blog.naver.com/tokyomate/223914223908" target="_blank">新宿うどん店 切麦や甚六 ミシュランうどん↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224066173929" target="_blank">新宿キーマカレー店 エピタフカレー ↗</a>**
+**➡️ <a href="/ja/posts/shinjuku-epitaph-curry-review/" target="_blank">新宿キーマカレー店 エピタフカレー ↗</a>**
 
 💡 銀座デザートギフトも見たいですか？
 

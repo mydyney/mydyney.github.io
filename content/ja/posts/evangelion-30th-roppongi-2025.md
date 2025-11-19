@@ -302,6 +302,6 @@ A: いいえ、グッズショップは展示鑑賞を終えた後の退場動�
 <strong>➡️ <a href="https://blog.naver.com/tokyomate/223993881300" target="_blank">東京六本木グルメマップ ミシュラン、食べログおすすめグルメ</a></strong></p>
 
 <p><strong>🤖 六本木ヒルズクリスマスイベントが気になる方は？</strong><br>
-<strong>➡️ <a href="https://blog.naver.com/tokyomate/224065668379" target="_blank">六本木イルミネーション2025 期間、点灯時間、必須スポット完全総まとめ</a></strong></p>
+<strong>➡️ <a href="/ja/posts/roppongi-christmas-illumination-2025/" target="_blank">六本木イルミネーション2025 期間、点灯時間、必須スポット完全総まとめ</a></strong></p>
 
 </div>

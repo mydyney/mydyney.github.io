@@ -66,7 +66,7 @@ This is the best walking course where you can see two major illuminations at onc
 
 **✨ Tokyo Marunouchi Illumination Starting November 13**
 
-➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](https://blog.naver.com/tokyomate/224076486004)
+➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](/posts/marunouchi-illumination-2025/)
 
 <figure>
   <img src="/images/posts/hibiya-midtown-illumination-2025-04.jpg" alt="Marunouchi Nakadori chandelier lights on the walking path to Hibiya Midtown">
@@ -297,19 +297,19 @@ Enjoy Tokyo's winter nights with a smart course that allows you to walk from Mar
 
 **⭐ Only the Essentials! Tokyo Christmas 3 Nights 4 Days Itinerary**
 
-➡️ [Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market (Route, Budget Complete Guide)](https://blog.naver.com/tokyomate/224055756731)
+➡️ [Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market (Route, Budget Complete Guide)](/posts/tokyo-3-day-christmas-illumination-itinerary/)
 
 **✨ Roppongi Hills Illumination Starting November 4**
 
-➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots, Roppongi Hills Christmas Market Complete Guide](https://blog.naver.com/tokyomate/224065668379)
+➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots, Roppongi Hills Christmas Market Complete Guide](/posts/roppongi-christmas-illumination-2025/)
 
 **✨ Tokyo Skytree Christmas Market Starting November 6**
 
-➡️ [2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)](https://blog.naver.com/tokyomate/224074888771)
+➡️ [2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)](/posts/tokyo-skytree-christmas-market-2025/)
 
 **✨ Tokyo Marunouchi Illumination Starting November 13**
 
-➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](https://blog.naver.com/tokyomate/224076486004)
+➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](/posts/marunouchi-illumination-2025/)
 
 ## 👉 Last Year's (2024) Hibiya Midtown Illumination Review?
 

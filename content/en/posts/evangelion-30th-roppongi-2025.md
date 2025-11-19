@@ -302,6 +302,6 @@ A: No, the goods shop is located along the exit route after viewing the exhibiti
 <strong>➡️ <a href="https://blog.naver.com/tokyomate/223993881300" target="_blank">Tokyo Roppongi Restaurant Map - Michelin & Tabelog Recommendations</a></strong></p>
 
 <p><strong>🤖 Curious about Roppongi Hills Christmas events?</strong><br>
-<strong>➡️ <a href="https://blog.naver.com/tokyomate/224065668379" target="_blank">Roppongi Illumination 2025 - Period, Lighting Times, Must-See Spots Complete Guide</a></strong></p>
+<strong>➡️ <a href="/posts/roppongi-christmas-illumination-2025/" target="_blank">Roppongi Illumination 2025 - Period, Lighting Times, Must-See Spots Complete Guide</a></strong></p>
 
 </div>

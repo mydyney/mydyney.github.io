@@ -249,7 +249,7 @@ at Roppongi Hills!</p>
 ### 2. Roppongi Hills Christmas Illumination
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224065668379
+     Naver: /posts/roppongi-christmas-illumination-2025/
      Hugo: /en/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Roppongi Illumination 2025: Duration, Lighting Times, Must-See Spots,<br>Roppongi Hills Christmas Market Complete Guide</a></strong><br>
 <em>(Link will be updated after migration)</em></p>
@@ -274,7 +274,7 @@ and the <strong>'Christmas'</strong> theme<br>
 in a fail-proof 3-night 4-day itinerary!</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224055756731
+     Naver: /posts/tokyo-3-day-christmas-illumination-itinerary/
      Hugo: /en/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Tokyo 3 Nights 4 Days Christmas Special Course<br>(Route & Budget Complete Guide)</a></strong><br>
 <em>(Link will be updated after migration)</em></p>

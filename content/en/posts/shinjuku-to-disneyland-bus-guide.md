@@ -256,10 +256,10 @@ Families with children recommended for front row/window seats!
 - **Night:** Board return bus → Arrive Shinjuku → Dinner near NewoMan
 
 🎡 **For complete kids park routes including Disney, check here**
-**➡️ <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks (Sanrio, Thomas, Yomiuri, Tokyo Dome)</a>**
+**➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks (Sanrio, Thomas, Yomiuri, Tokyo Dome)</a>**
 
 🎠 **For Disney park information:**
-➡️ <a href="https://blog.naver.com/tokyomate/224060336353" target="_blank">Tokyo Disneyland Complete Guide (Tickets, DPA, Restaurants)</a>
+➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank">Tokyo Disneyland Complete Guide (Tickets, DPA, Restaurants)</a>
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-08.jpg" alt="Busta Shinjuku night view, late-night bus terminal return scene">
@@ -272,9 +272,9 @@ Families with children recommended for front row/window seats!
 
 **➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">Complete Shinjuku Course Guide</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks</a>**
+**➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224060336353" target="_blank">Tokyo Disneyland Complete Guide</a>**
+**➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank">Tokyo Disneyland Complete Guide</a>**
 
 ---
 

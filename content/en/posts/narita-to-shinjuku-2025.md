@@ -500,16 +500,16 @@ In addition to Shinjuku-bound transportation, if you need more detailed informat
 
 **➡️ [Skyliner Reservations, Prices, Timetable Complete Guide (N'EX Comparison) ↗](https://blog.naver.com/tokyomate/224003374650)**
 
-**➡️ [Narita Airport Terminal 1 Duty-Free 5% Discount Coupon (Shopping List) ↗](https://blog.naver.com/tokyomate/224064132817)**
+**➡️ [Narita Airport Terminal 1 Duty-Free 5% Discount Coupon (Shopping List) ↗](/posts/narita-airport-terminal1-duty-free-coupon-guide/)**
 
 ### ⭐ Related Shinjuku Travel Guides
 
 **🌿 Full Shinjuku Day Course: [Shinjuku Things to Do Complete Course Guide↗](https://blog.naver.com/tokyomate/224035271300)**
 
-**🍁 Walk: [Shinjuku Gyoen Opening Hours, Autumn Leaves, Picnic↗](https://blog.naver.com/tokyomate/224070032613)**
+**🍁 Walk: [Shinjuku Gyoen Opening Hours, Autumn Leaves, Picnic↗](/posts/shinjuku-gyoen-guide-2025/)**
 
-**🏙 Night View: [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips↗](https://blog.naver.com/tokyomate/224062023485)**
+**🏙 Night View: [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips↗](/posts/tokyo-metropolitan-govt-observatory/)**
 
-**🌃 Night Streets: [Shinjuku Golden Gai vs Omoide Yokocho Perfect Comparison↗](https://blog.naver.com/tokyomate/224068585112)**
+**🌃 Night Streets: [Shinjuku Golden Gai vs Omoide Yokocho Perfect Comparison↗](/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
 
 </div>

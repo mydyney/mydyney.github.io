@@ -442,14 +442,14 @@ To make your Shinjuku itinerary richer, combine it with the articles below.
 
 **🌿 Full Shinjuku day course:** <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">Complete Shinjuku Activities Guide↗</a>
 
-**🏙 Night view:** <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank">Tokyo Metropolitan Government Building free observation deck light show & Shinjuku night view tips↗</a>
+**🏙 Night view:** <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building free observation deck light show & Shinjuku night view tips↗</a>
 
-**👨‍👩‍👧 Kids park:** <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">Shinjuku with kids! How to get to Disney, Sanrio, Thomas↗</a>
+**👨‍👩‍👧 Kids park:** <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with kids! How to get to Disney, Sanrio, Thomas↗</a>
 
-**🌃 Night streets:** <a href="https://blog.naver.com/tokyomate/224068585112" target="_blank">Shinjuku Golden Gai vs Omoide Yokocho complete comparison↗</a>
+**🌃 Night streets:** <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">Shinjuku Golden Gai vs Omoide Yokocho complete comparison↗</a>
 
-**🛍️ Shopping:** <a href="https://blog.naver.com/tokyomate/224064750249" target="_blank">Shinjuku Sekaido Tokyo stationery store membership card, tax-free↗</a>
+**🛍️ Shopping:** <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo stationery store membership card, tax-free↗</a>
 
-**🍡 Dessert:** <a href="https://blog.naver.com/tokyomate/224068891338" target="_blank">Shinjuku dango restaurant Oiwake Dango Honpo↗</a>
+**🍡 Dessert:** <a href="/posts/shinjuku-oiwake-dango-honpo/" target="_blank">Shinjuku dango restaurant Oiwake Dango Honpo↗</a>
 
 </div>
