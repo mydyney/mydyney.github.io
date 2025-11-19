@@ -374,18 +374,27 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 
 ---
 
-## 💡 Roppongi Midtown Q&A
+## ❓ Frequently Asked Questions (Q&A)
 
-**Q. Can I visit both Roppongi Hills and this on the same day?**
+**Q1. Is there an admission fee?**
+A. Illuminations, Santa Tree, and Christmas Market are free to view. Only the ice skating rink requires a fee (Adults ¥2,500, Children ¥1,500).
 
+**Q2. Can I enjoy it on rainy days?**
+A. The ice skating rink may be closed during rain as it's outdoors. However, the Santa Tree is inside the Galleria, so it can be viewed regardless of weather.
+
+**Q3. Is it suitable for families with children?**
+A. Yes, it's very family-friendly. Nursing rooms and diaper changing facilities are available, and there are many family-oriented restaurants.
+
+**Q4. Is there parking nearby?**
+A. You can use Tokyo Midtown's underground parking lot (paid). However, it gets crowded on weekends, so we recommend using public transportation.
+
+**Q5. Can I visit both Roppongi Hills and this on the same day?**
 A. Yes, highly recommended. The two locations are 10-15 minutes walk apart. The most efficient course is to stop by Roppongi Hills before sunset to see the Christmas market, then move to Tokyo Midtown after dark to enjoy the garden illumination.
 
-**Q. Is it directly connected to the subway station?**
-
+**Q6. Is it directly connected to the subway station?**
 A. Yes, directly connected. Exit 8 of Roppongi Station on the Toei Oedo Line or Tokyo Metro Hibiya Line leads directly to the Tokyo Midtown entrance, which is very convenient.
 
-**Q. Do they sell Christmas cakes too?**
-
+**Q7. Do they sell Christmas cakes too?**
 A. Yes, they hold a CHRISTMAS CAKE event from November 13 to December 25. Famous bakeries on Galleria B1 accept reservations and sell gorgeous Christmas-exclusive cakes.
 
 ---
