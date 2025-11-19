@@ -160,19 +160,19 @@ Soft mochi, sweet-salty soy sauce, and neat packaging — 300 years of tradition
 
 **➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">Complete Shinjuku Activities Guide ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank">Tokyo Metropolitan Government Building Free Observatory Light Show Hours, Closed Days, Shinjuku Night View Tips ↗</a>**
+**➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building Free Observatory Light Show Hours, Closed Days, Shinjuku Night View Tips ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224068585112" target="_blank">Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison ↗</a>**
+**➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">Shinjuku with Kids! 5 Major Kids Parks How to Get There ↗</a>**
+**➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! 5 Major Kids Parks How to Get There ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224067094205" target="_blank">How to Get to Disneyland from Shinjuku Complete Guide ↗</a>**
+**➡️ <a href="/posts/shinjuku-to-disneyland-bus-guide/" target="_blank">How to Get to Disneyland from Shinjuku Complete Guide ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224064750249" target="_blank">Shinjuku Sekaido Tokyo Stationery Store Membership Card, Tax-Free Guide ↗</a>**
+**➡️ <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo Stationery Store Membership Card, Tax-Free Guide ↗</a>**
 
 **➡️ <a href="https://blog.naver.com/tokyomate/223914223908" target="_blank">Shinjuku Udon Restaurant Kirimugi-ya Jinroku Michelin Udon↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224066173929" target="_blank">Shinjuku Keema Curry Restaurant Epitaph Curry ↗</a>**
+**➡️ <a href="/posts/shinjuku-epitaph-curry-review/" target="_blank">Shinjuku Keema Curry Restaurant Epitaph Curry ↗</a>**
 
 💡 Want to see Ginza dessert gifts too?
 

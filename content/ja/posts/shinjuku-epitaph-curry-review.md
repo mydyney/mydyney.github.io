@@ -288,6 +288,6 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 **➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>新宿の遊び場所、新宿御苑からレストラン、ショッピング、ゴールデン街まで完璧コース総まとめ</b></a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank"><b>東京都庁無料展望台ライトショー時間、行き方、休館日、新宿夜景コツ総まとめ</b></a>**
+**➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>東京都庁無料展望台ライトショー時間、行き方、休館日、新宿夜景コツ総まとめ</b></a>**
 
 </div>

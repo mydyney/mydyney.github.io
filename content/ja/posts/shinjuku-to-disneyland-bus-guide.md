@@ -256,10 +256,10 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 - **夜：** 帰りバス乗車→新宿到着→NewoMan周辺で夕食
 
 🎡 **ディズニーを含む子供向けパークの完全ルートはこちら**
-**➡️ <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">子連れ新宿！5大キッズパークへの行き方（サンリオ、トーマス、読売、東京ドーム）</a>**
+**➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方（サンリオ、トーマス、読売、東京ドーム）</a>**
 
 🎠 **ディズニーパーク情報：**
-➡️ <a href="https://blog.naver.com/tokyomate/224060336353" target="_blank">東京ディズニーランド完全ガイド（チケット、DPA、レストラン）</a>
+➡️ <a href="/ja/posts/tokyo-disneyland-complete-guide/" target="_blank">東京ディズニーランド完全ガイド（チケット、DPA、レストラン）</a>
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-08.jpg" alt="バスタ新宿の夜景、深夜バスターミナル帰りのシーン">
@@ -272,9 +272,9 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 **➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿完全コースガイド</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">子連れ新宿！5大キッズパークへの行き方</a>**
+**➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224060336353" target="_blank">東京ディズニーランド完全ガイド</a>**
+**➡️ <a href="/ja/posts/tokyo-disneyland-complete-guide/" target="_blank">東京ディズニーランド完全ガイド</a>**
 
 ---
 

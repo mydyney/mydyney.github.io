@@ -500,16 +500,16 @@ A. この場合、以下のいずれかを選ぶしかありません:
 
 **➡️ [スカイライナー予約、料金、時刻表完全ガイド(N'EX比較)↗](https://blog.naver.com/tokyomate/224003374650)**
 
-**➡️ [成田空港第1ターミナル免税店5%割引クーポン(ショッピングリスト)↗](https://blog.naver.com/tokyomate/224064132817)**
+**➡️ [成田空港第1ターミナル免税店5%割引クーポン(ショッピングリスト)↗](/ja/posts/narita-airport-terminal1-duty-free-coupon-guide/)**
 
 ### ⭐ 関連新宿旅行ガイド
 
 **🌿 新宿1日コース:[新宿観光完全コースガイド↗](https://blog.naver.com/tokyomate/224035271300)**
 
-**🍁 散策:[新宿御苑営業時間、紅葉、ピクニック↗](https://blog.naver.com/tokyomate/224070032613)**
+**🍁 散策:[新宿御苑営業時間、紅葉、ピクニック↗](/ja/posts/shinjuku-gyoen-guide-2025/)**
 
-**🏙 夜景:[東京都庁無料展望台光のショー&新宿夜景ヒント↗](https://blog.naver.com/tokyomate/224062023485)**
+**🏙 夜景:[東京都庁無料展望台光のショー&新宿夜景ヒント↗](/ja/posts/tokyo-metropolitan-govt-observatory/)**
 
-**🌃 夜の街:[新宿ゴールデン街vs思い出横丁完全比較↗](https://blog.naver.com/tokyomate/224068585112)**
+**🌃 夜の街:[新宿ゴールデン街vs思い出横丁完全比較↗](/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
 
 </div>

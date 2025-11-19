@@ -113,7 +113,7 @@ This post is a '**Tokyo Midtown**' guide!
 
 ⭐ **For Roppongi Hills Illumination that started November 4, check the post below!**
 
-➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](https://blog.naver.com/tokyomate/224065668379)
+➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)
 
 ---
 
@@ -396,22 +396,22 @@ Roppongi Midtown Christmas will be the best choice for those seeking a sophistic
 
 **⭐ Only the Essentials! Tokyo Christmas 3 Nights 4 Days Itinerary**
 
-➡️ [Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market (Route, Budget Complete Guide)](https://blog.naver.com/tokyomate/224055756731)
+➡️ [Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market (Route, Budget Complete Guide)](/posts/tokyo-3-day-christmas-illumination-itinerary/)
 
 **🌟 Roppongi Hills Illumination Starting November 4**
 
-➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](https://blog.naver.com/tokyomate/224065668379)
+➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)
 
 **🌟 Tokyo Skytree Christmas Market Starting November 6**
 
-➡️ [2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)](https://blog.naver.com/tokyomate/224074888771)
+➡️ [2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)](/posts/tokyo-skytree-christmas-market-2025/)
 
 **🌟 Tokyo Marunouchi Illumination Starting November 13**
 
-➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](https://blog.naver.com/tokyomate/224076486004)
+➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](/posts/marunouchi-illumination-2025/)
 
 **🌟 Tokyo Hibiya Midtown Illumination Starting November 13**
 
-➡️ [2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide](https://blog.naver.com/tokyomate/224076762296)
+➡️ [2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide](/posts/hibiya-midtown-illumination-2025/)
 
 </div>

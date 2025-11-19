@@ -267,9 +267,9 @@ YouTuberカン・ナミおすすめラーメン店として話題！
 
 **➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿完全コース総まとめ ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank">東京都庁無料展望台ライトショーTips総まとめ ↗</a>**
+**➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショーTips総まとめ ↗</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">新宿、子供と一緒に！5大キッズパークへの行き方（ディズニー、サンリオ、トーマス総まとめ）↗</a>**
+**➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">新宿、子供と一緒に！5大キッズパークへの行き方（ディズニー、サンリオ、トーマス総まとめ）↗</a>**
 
 ---
 

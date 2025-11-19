@@ -66,7 +66,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 **✨ 11月13日スタート 東京丸の内イルミネーション**
 
-➡️ [東京丸の内イルミネーション2025期間、時間完全ガイド(ディズニー、クリスマスマーケット、スタンプラリー)](https://blog.naver.com/tokyomate/224076486004)
+➡️ [東京丸の内イルミネーション2025期間、時間完全ガイド(ディズニー、クリスマスマーケット、スタンプラリー)](/ja/posts/marunouchi-illumination-2025/)
 
 <figure>
   <img src="/images/posts/hibiya-midtown-illumination-2025-04.jpg" alt="丸の内仲通りシャンデリアライト。日比谷ミッドタウンへ歩く道">
@@ -297,19 +297,19 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 **⭐ 核心だけピックアップ! 東京クリスマス3泊4日旅行日程**
 
-➡️ [東京3泊4日クリスマスイルミネーションおすすめコース&クリスマスマーケット(動線、費用完全ガイド)](https://blog.naver.com/tokyomate/224055756731)
+➡️ [東京3泊4日クリスマスイルミネーションおすすめコース&クリスマスマーケット(動線、費用完全ガイド)](/ja/posts/tokyo-3-day-christmas-illumination-itinerary/)
 
 **✨ 11月4日スタート 六本木ヒルズイルミネーション**
 
-➡️ [六本木イルミネーション2025期間、点灯時間、必須スポット、六本木ヒルズクリスマスマーケット完全ガイド](https://blog.naver.com/tokyomate/224065668379)
+➡️ [六本木イルミネーション2025期間、点灯時間、必須スポット、六本木ヒルズクリスマスマーケット完全ガイド](/ja/posts/roppongi-christmas-illumination-2025/)
 
 **✨ 11月6日スタート 東京スカイツリークリスマスマーケット**
 
-➡️ [2025東京スカイツリークリスマスマーケット完全ガイド(公式日程、新メニュー、フォトスポットお得情報)](https://blog.naver.com/tokyomate/224074888771)
+➡️ [2025東京スカイツリークリスマスマーケット完全ガイド(公式日程、新メニュー、フォトスポットお得情報)](/ja/posts/tokyo-skytree-christmas-market-2025/)
 
 **✨ 11月13日スタート 東京丸の内イルミネーション**
 
-➡️ [東京丸の内イルミネーション2025期間、時間完全ガイド(ディズニー、クリスマスマーケット、スタンプラリー)](https://blog.naver.com/tokyomate/224076486004)
+➡️ [東京丸の内イルミネーション2025期間、時間完全ガイド(ディズニー、クリスマスマーケット、スタンプラリー)](/ja/posts/marunouchi-illumination-2025/)
 
 ## 👉 昨年(2024)日比谷ミッドタウンイルミネーションレビューは?
 

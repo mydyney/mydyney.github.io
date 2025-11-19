@@ -442,14 +442,14 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 **🌿 新宿一日コース全体：** <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿遊びスポット完璧コース総まとめ↗</a>
 
-**🏙 夜景：** <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank">東京都庁無料展望台ライトショー・新宿夜景꿀팁↗</a>
+**🏙 夜景：** <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショー・新宿夜景꿀팁↗</a>
 
-**👨‍👩‍👧 キッズパーク：** <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank">新宿子供と一緒に！ディズニー・サンリオ・トーマスへの行き方↗</a>
+**👨‍👩‍👧 キッズパーク：** <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">新宿子供と一緒に！ディズニー・サンリオ・トーマスへの行き方↗</a>
 
-**🌃 夜の街：** <a href="https://blog.naver.com/tokyomate/224068585112" target="_blank">新宿ゴールデン街 vs 思い出横丁完璧比較↗</a>
+**🌃 夜の街：** <a href="/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">新宿ゴールデン街 vs 思い出横丁完璧比較↗</a>
 
-**🛍️ ショッピング：** <a href="https://blog.naver.com/tokyomate/224064750249" target="_blank">新宿世界堂東京文具店会員カード、免税↗</a>
+**🛍️ ショッピング：** <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">新宿世界堂東京文具店会員カード、免税↗</a>
 
-**🍡 デザート：** <a href="https://blog.naver.com/tokyomate/224068891338" target="_blank">新宿団子グルメ追分団子本舗↗</a>
+**🍡 デザート：** <a href="/ja/posts/shinjuku-oiwake-dango-honpo/" target="_blank">新宿団子グルメ追分団子本舗↗</a>
 
 </div>

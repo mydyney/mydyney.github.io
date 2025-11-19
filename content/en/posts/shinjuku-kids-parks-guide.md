@@ -57,7 +57,7 @@ With the limousine bus, families with strollers, preschoolers, lots of luggage, 
 
 Departing early from Shinjuku and arriving at Disneyland's opening time gives you much more energy throughout the day.
 
-➡️ <a href="https://blog.naver.com/tokyomate/224060336353" target="_blank"><b>Complete Tokyo Disneyland Guide (Tickets, DPA, Afternoon Pass, Hotels, Restaurants, Map)</b></a>
+➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank"><b>Complete Tokyo Disneyland Guide (Tickets, DPA, Afternoon Pass, Hotels, Restaurants, Map)</b></a>
 
 ✅ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F" target="_blank"><b>Buy Disneyland Tickets on Klook</b></a>
 
@@ -71,7 +71,7 @@ From Busta Shinjuku's 4th floor terminal (connected to Shinjuku Station's South 
 
 👉 For detailed Busta Shinjuku bus schedules, fares, booking methods, and last bus info, check the dedicated post below.
 
-➡️ <a href="https://blog.naver.com/tokyomate/224067094205" target="_blank"><b>How to Get to Disneyland from Shinjuku (Busta Shinjuku Bus Guide - Complete Schedule & Fares)</b></a>
+➡️ <a href="/posts/shinjuku-to-disneyland-bus-guide/" target="_blank"><b>How to Get to Disneyland from Shinjuku (Busta Shinjuku Bus Guide - Complete Schedule & Fares)</b></a>
 
 ---
 
@@ -392,6 +392,6 @@ For adult-focused Shinjuku sights and places to visit, check out the posts below
 
 ➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>Shinjuku Attractions: From Shinjuku Gyoen to Restaurants, Shopping, Golden Gai - Complete Course Guide</b></a>
 
-➡️ <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show, Gundam, Godzilla Times, Access, Closed Days, Night View Tips - Complete Guide</b></a>
+➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show, Gundam, Godzilla Times, Access, Closed Days, Night View Tips - Complete Guide</b></a>
 
 </div>
