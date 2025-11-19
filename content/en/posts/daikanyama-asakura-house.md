@@ -212,14 +212,35 @@ After a quiet stroll through the historic house,<br>
 it's time to enjoy<br>
 Daikanyama's sophisticated present.<br>
 ​<br>
-<a href="https://blog.naver.com/tokyomate/224032515713" target="_blank"><b>➡️ Daikanyama Must-Visit Places,</b></a><br>
-<a href="https://blog.naver.com/tokyomate/224032515713" target="_blank"><b>Complete course from Tsutaya (T-SITE) to restaurants</b></a><br>
-<a href="https://blog.naver.com/tokyomate/224032515713" target="_blank"><b>and boutiques</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032515713
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>➡️ Daikanyama Must-Visit Places,</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032515713
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>Complete course from Tsutaya (T-SITE) to restaurants</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032515713
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>and boutiques</b></a><br>
 <b>​</b><br>
-<a href="https://blog.naver.com/tokyomate/224032086475" target="_blank"><b>➡️ Nakameguro Must-Visit Places</b></a><br>
-<a href="https://blog.naver.com/tokyomate/224032086475" target="_blank"><b>(10 minutes walk from Daikanyama)</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032086475
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>➡️ Nakameguro Must-Visit Places</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032086475
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>(10 minutes walk from Daikanyama)</b></a><br>
 <b>​</b><br>
-<a href="https://blog.naver.com/tokyomate/224031114514" target="_blank"><b>➡️ Shibuya Complete Activity Guide</b></a><br>
-<a href="https://blog.naver.com/tokyomate/224031114514" target="_blank"><b>(3 minutes by subway from Daikanyama)</b></a></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031114514
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>➡️ Shibuya Complete Activity Guide</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031114514
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>(3 minutes by subway from Daikanyama)</b></a></p>
 
 </div>

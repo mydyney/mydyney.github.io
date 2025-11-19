@@ -212,14 +212,35 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 今度は代官山の<br>
 洗練された現在を満喫する番です。<br>
 ​<br>
-<a href="https://blog.naver.com/tokyomate/224032515713" target="_blank"><b>➡️ 代官山の見どころ、</b></a><br>
-<a href="https://blog.naver.com/tokyomate/224032515713" target="_blank"><b>蔦屋（T-SITE）からグルメ、</b></a><br>
-<a href="https://blog.naver.com/tokyomate/224032515713" target="_blank"><b>セレクトショップまで完璧コース</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032515713
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>➡️ 代官山の見どころ、</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032515713
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>蔦屋（T-SITE）からグルメ、</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032515713
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>セレクトショップまで完璧コース</b></a><br>
 <b>​</b><br>
-<a href="https://blog.naver.com/tokyomate/224032086475" target="_blank"><b>➡️ 中目黒の見どころ</b></a><br>
-<a href="https://blog.naver.com/tokyomate/224032086475" target="_blank"><b>（代官山から徒歩10分）</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032086475
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>➡️ 中目黒の見どころ</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032086475
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>（代官山から徒歩10分）</b></a><br>
 <b>​</b><br>
-<a href="https://blog.naver.com/tokyomate/224031114514" target="_blank"><b>➡️ 渋谷完全活動ガイド</b></a><br>
-<a href="https://blog.naver.com/tokyomate/224031114514" target="_blank"><b>（代官山から地下鉄3分）</b></a></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031114514
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>➡️ 渋谷完全活動ガイド</b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031114514
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>（代官山から地下鉄3分）</b></a></p>
 
 </div>

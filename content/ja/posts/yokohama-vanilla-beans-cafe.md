@@ -211,8 +211,14 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 横浜のランドマークを完璧に楽しめる<br>
 横浜1日おすすめコースをご覧ください！<br>
 ​<br>
-<a href="https://blog.naver.com/tokyomate/223979907748" target="_blank"><b>➡️ 横浜1日コース </b></a><br>
-<a href="https://blog.naver.com/tokyomate/223979907748" target="_blank"><b>中華街グルメ、赤レンガ、夜景スポット完全ガイド</b></a></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223979907748
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>➡️ 横浜1日コース </b></a><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223979907748
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>中華街グルメ、赤レンガ、夜景スポット完全ガイド</b></a></p>
 
 ---
 
@@ -222,6 +228,9 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 交通費節約のため<br>
 「みなとぶらりチケット」は必須！<br>
 ​<br>
-<b>➡️</b><a href="https://blog.naver.com/tokyomate/223976102621" target="_blank"><b> 横浜交通パス、「みなとぶらりチケット」完全ガイド</b></a></p>
+<b>➡️</b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223976102621
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b> 横浜交通パス、「みなとぶらりチケット」完全ガイド</b></a></p>
 
 </div>

@@ -19,7 +19,10 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 新宿家族旅行専用ガイドです。</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐新宿全体の旅行コースとグルメ・ショッピング・夜景情報を一目で見たい方は<br>
-➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>新宿観光完全コース総まとめ</b></a></p>
+➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>新宿観光完全コース総まとめ</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-01.jpg" alt="新宿発 子どもと行く5大キッズパーク">
@@ -332,7 +335,10 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 新宿の遊び場、幼児基準では、雨の日半日コース最強者と言えます。
 
-<a href="https://blog.naver.com/tokyomate/224035895968" target="_blank"><b>➡️ 東京ドームガイド：コンサート、野球、観光、グルメ、ホテルまで完全まとめ</b></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035895968
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>➡️ 東京ドームガイド：コンサート、野球、観光、グルメ、ホテルまで完全まとめ</b></a>
 
 ### 🚆 新宿からの行き方
 
@@ -388,7 +394,10 @@ JR中央・総武線（黄色）新宿駅乗車 → 水道橋駅（水道橋駅�
 
 大人のための新宿観光・新宿おすすめスポットは、下記のポストで続けてご確認ください。
 
-➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>新宿観光、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ</b></a>
+➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>新宿観光、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ</b></a>
 
 ➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>東京都庁無料展望台 ライトショー ガンダム、ゴジラ時間、行き方、休館日、夜景お得情報総まとめ</b></a>
 

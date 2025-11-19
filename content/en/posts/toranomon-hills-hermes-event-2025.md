@@ -244,26 +244,26 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <h2>🧡 Recommended Toranomon Travel Guides</h2>
 
-<p><strong>➡️ <a href="/en/posts/toranomon-hills-complete-guide/">Toranomon Hills Complete Guide: Observatory, Restaurants, Yokocho, T-Market</a></strong></p>
+<p><strong>➡️ <a href="/posts/toranomon-hills-complete-guide/">Toranomon Hills Complete Guide: Observatory, Restaurants, Yokocho, T-Market</a></strong></p>
 
 <h2>🎄 2025 Tokyo Christmas</h2>
 
 <p><strong>🚶 Essential Picks! Tokyo Christmas 3N4D Itinerary</strong></p>
-<p><strong>➡️ <a href="/en/posts/tokyo-christmas-3-day-itinerary/">Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market Complete Guide</a></strong></p>
+<p><strong>➡️ <a href="/posts/tokyo-christmas-3-day-itinerary/">Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market Complete Guide</a></strong></p>
 
 <p><strong>🌟 Roppongi Hills Illumination (Started Nov 4)</strong></p>
-<p><strong>➡️ <a href="/en/posts/roppongi-hills-christmas-2025/">Roppongi Illumination 2025: Period, Hours, Must-See Spots Complete Guide</a></strong></p>
+<p><strong>➡️ <a href="/posts/roppongi-hills-christmas-2025/">Roppongi Illumination 2025: Period, Hours, Must-See Spots Complete Guide</a></strong></p>
 
 <p><strong>🌟 Tokyo Skytree Christmas Market (Started Nov 6)</strong></p>
-<p><strong>➡️ <a href="/en/posts/tokyo-skytree-christmas-market-2025/">2025 Tokyo Skytree Christmas Market Complete Guide</a></strong></p>
+<p><strong>➡️ <a href="/posts/tokyo-skytree-christmas-market-2025/">2025 Tokyo Skytree Christmas Market Complete Guide</a></strong></p>
 
 <p><strong>🌟 Marunouchi Illumination (Started Nov 13)</strong></p>
-<p><strong>➡️ <a href="/en/posts/marunouchi-illumination-2025/">Tokyo Marunouchi Illumination 2025 Complete Guide (Disney, Christmas Market, Stamp Rally)</a></strong></p>
+<p><strong>➡️ <a href="/posts/marunouchi-illumination-2025/">Tokyo Marunouchi Illumination 2025 Complete Guide (Disney, Christmas Market, Stamp Rally)</a></strong></p>
 
 <p><strong>🌟 Hibiya Midtown Illumination (Started Nov 13)</strong></p>
-<p><strong>➡️ <a href="/en/posts/hibiya-midtown-illumination-2025/">2025 Hibiya Midtown Illumination - Zootopia 2 Collaboration & Marunouchi Walking Course</a></strong></p>
+<p><strong>➡️ <a href="/posts/hibiya-midtown-illumination-2025/">2025 Hibiya Midtown Illumination - Zootopia 2 Collaboration & Marunouchi Walking Course</a></strong></p>
 
 <p><strong>🌟 Roppongi Tokyo Midtown Illumination (Started Nov 13)</strong></p>
-<p><strong>➡️ <a href="/en/posts/roppongi-midtown-christmas-2025/">2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</a></strong></p>
+<p><strong>➡️ <a href="/posts/roppongi-midtown-christmas-2025/">2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</a></strong></p>
 
 </div>

@@ -17,7 +17,10 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 焼き鳥名店、ラーメン凪、一人飲みのコツまで網羅した2025年最新版新宿夜ガイドです。</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐新宿全体の観光コースとグルメ・ショッピング・夜景情報を一目で見たいなら<br>
-➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>新宿完全ガイド ↗</b></a></p>
+➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>新宿完全ガイド ↗</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg" alt="新宿思い出横丁ゴールデン街一人飲み比較">
@@ -265,7 +268,10 @@ YouTuberカン・ナミおすすめラーメン店として話題！
 
 **📌 関連する新宿旅行ガイド**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿完全コース総まとめ ↗</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">新宿完全コース総まとめ ↗</a>**
 
 **➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショーTips総まとめ ↗</a>**
 

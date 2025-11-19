@@ -238,8 +238,14 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 
 新宿のもっと多くの遊び場、グルメ、ショッピングコースが気になる方は、下記の「新宿完璧コース」ガイドをご確認ください！
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿の遊び場、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">新宿の遊び場、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224019480188" target="_blank">箱根旅行、日帰り vs 旅館1泊完璧コースおすすめ（箱根フリーパス、ロマンスカー予約）</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">箱根旅行、日帰り vs 旅館1泊完璧コースおすすめ（箱根フリーパス、ロマンスカー予約）</a>**
 
 </div>

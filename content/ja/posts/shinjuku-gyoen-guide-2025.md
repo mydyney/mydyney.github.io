@@ -34,7 +34,10 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 **⭐ 新宿一日コースを一目で見たいなら...**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿遊びスポット完璧コース総まとめ ↗</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">新宿遊びスポット完璧コース総まとめ ↗</a>**
 
 ---
 
@@ -400,7 +403,10 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 - 2023年ミシュランビブグルマン
 - 柔らかくてコシのある麺と深い出汁の味
 
-**➡️ <a href="https://blog.naver.com/tokyomate/223914223908" target="_blank">新宿うどんグルメ、切麦や 甚六待ち時間のヒントとおすすめメニュー↗</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914223908
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">新宿うどんグルメ、切麦や 甚六待ち時間のヒントとおすすめメニュー↗</a>**
 
 **5. 金色不如帰（こんじきほととぎす）新宿御苑本店 (<a href="https://maps.app.goo.gl/zCcbYP5JQYeJm31y9" target="_blank">Googleマップ↗</a>)**
 - 2025年ミシュランビブグルマン
@@ -440,7 +446,10 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 新宿の日程をより豊かにしたいなら、以下の記事と一緒に組んでみてください。
 
-**🌿 新宿一日コース全体：** <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿遊びスポット完璧コース総まとめ↗</a>
+**🌿 新宿一日コース全体：** <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">新宿遊びスポット完璧コース総まとめ↗</a>
 
 **🏙 夜景：** <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショー・新宿夜景꿀팁↗</a>
 

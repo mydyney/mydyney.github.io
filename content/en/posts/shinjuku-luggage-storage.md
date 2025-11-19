@@ -238,8 +238,14 @@ Once you've stored your heavy suitcase and feel lighter, it's time to truly enjo
 
 If you're curious about more things to do, restaurants, and shopping courses in Shinjuku, check out the complete 'Shinjuku Guide' below!
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">Shinjuku Things to Do: Complete Course from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">Shinjuku Things to Do: Complete Course from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224019480188" target="_blank">Hakone Travel: Day Trip vs Ryokan Overnight Perfect Course Recommendations (Hakone Free Pass, Romance Car Reservations)</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">Hakone Travel: Day Trip vs Ryokan Overnight Perfect Course Recommendations (Hakone Free Pass, Romance Car Reservations)</a>**
 
 </div>

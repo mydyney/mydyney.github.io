@@ -68,7 +68,7 @@ at <strong>Roppongi Hills Oyane Plaza</strong>.</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681272647
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">How to Get to Roppongi Hills & Coin Locker Locations</a></strong><br>
 <em>(Link will be updated after migration)</em></p>
 
@@ -241,7 +241,7 @@ at Roppongi Hills!</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Complete Guide to Roppongi Attractions</a></strong><br>
 <strong>(Observatory, Museums, Restaurants)</strong><br>
 <em>(Link will be updated after migration)</em></p>
@@ -250,7 +250,7 @@ at Roppongi Hills!</p>
 
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-christmas-illumination-2025/
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Roppongi Illumination 2025: Duration, Lighting Times, Must-See Spots,<br>Roppongi Hills Christmas Market Complete Guide</a></strong><br>
 <em>(Link will be updated after migration)</em></p>
 
@@ -275,7 +275,7 @@ in a fail-proof 3-night 4-day itinerary!</p>
 
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-3-day-christmas-illumination-itinerary/
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Tokyo 3 Nights 4 Days Christmas Special Course<br>(Route & Budget Complete Guide)</a></strong><br>
 <em>(Link will be updated after migration)</em></p>
 
@@ -288,7 +288,7 @@ compiled in one guide.</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224045496649
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025 Tokyo Christmas Markets: Where to Go?<br>(Ueno, Azabudai, etc.)</a></strong><br>
 <em>(Link will be updated after migration)</em></p>
 
@@ -301,7 +301,7 @@ including 'Marunouchi' and 'Omotesando'.</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224042431249
-     Hugo: /en/posts/[SLUG_TBD]/ -->
+     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025 Tokyo Christmas Illumination BEST 5<br>(Omotesando, Marunouchi Complete Guide)</a></strong><br>
 <em>(Link will be updated after migration)</em></p>
 
