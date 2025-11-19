@@ -2,174 +2,138 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/ja/categories/</loc>
+    <loc>https://tripmate.news/ja/categories/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/categories/"
+                href="https://tripmate.news/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/categories/"
+                href="https://tripmate.news/ja/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/posts/</loc>
+    <loc>https://tripmate.news/ja/posts/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/"
+                href="https://tripmate.news/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/posts/"
+                href="https://tripmate.news/ja/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/tags/</loc>
+    <loc>https://tripmate.news/ja/tags/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/"
+                href="https://tripmate.news/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/tags/"
+                href="https://tripmate.news/ja/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/categories/tokyo/</loc>
+    <loc>https://tripmate.news/ja/categories/tokyo/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/ja/tags/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3/</loc>
+    <loc>https://tripmate.news/ja/tags/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/ja/tags/%E3%82%B0%E3%83%AB%E3%83%A1/</loc>
+    <loc>https://tripmate.news/ja/tags/%E3%82%B0%E3%83%AB%E3%83%A1/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/ja/</loc>
+    <loc>https://tripmate.news/ja/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/"
+                href="https://tripmate.news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/"
+                href="https://tripmate.news/ja/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/tags/%E6%9D%B1%E4%BA%AC/</loc>
+    <loc>https://tripmate.news/ja/tags/%E6%9D%B1%E4%BA%AC/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/ja/posts/second-post/</loc>
+    <loc>https://tripmate.news/ja/posts/second-post/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/en/posts/second-post/"
+                href="https://tripmate.news/en/posts/second-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/posts/second-post/"
+                href="https://tripmate.news/ja/posts/second-post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/tags/%E6%97%A5%E6%9C%AC/</loc>
+    <loc>https://tripmate.news/ja/tags/%E6%97%A5%E6%9C%AC/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/ja/tags/%E6%97%85%E8%A1%8C/</loc>
+    <loc>https://tripmate.news/ja/tags/%E6%97%85%E8%A1%8C/</loc>
     <lastmod>2025-06-23T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/ja/tags/html/</loc>
+    <loc>https://tripmate.news/ja/tags/html/</loc>
     <lastmod>2025-06-22T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/tags/html/"
+                href="https://tripmate.news/tags/html/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/tags/html/"
+                href="https://tripmate.news/ja/tags/html/"
                 />
   </url><url>
-    <loc>http://localhost:1313/ja/tags/%E3%83%86%E3%82%B9%E3%83%88/</loc>
+    <loc>https://tripmate.news/ja/tags/%E3%83%86%E3%82%B9%E3%83%88/</loc>
     <lastmod>2025-06-22T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/ja/posts/first-post/</loc>
+    <loc>https://tripmate.news/ja/posts/first-post/</loc>
     <lastmod>2025-06-22T10:00:00+09:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
-                hreflang="ko"
-                href="http://localhost:1313/posts/first-post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/en/posts/first-post/"
+                href="https://tripmate.news/posts/first-post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ja"
-                href="http://localhost:1313/ja/posts/first-post/"
+                href="https://tripmate.news/ja/posts/first-post/"
                 />
   </url>
 </urlset>
