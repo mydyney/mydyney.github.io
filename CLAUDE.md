@@ -867,6 +867,41 @@ hugo --minify
 # (Deployment is automatic via GitHub Actions)
 ```
 
+### 7. Fixing Sitemap URLs (localhost → production)
+
+**Problem:** If `public/sitemap.xml` contains localhost URLs, Google Search Console cannot fetch it.
+
+**Detection:**
+```bash
+# Check if sitemap has localhost URLs
+grep "localhost" public/sitemap.xml
+
+# Or check all sitemap files
+grep -r "localhost" public/*.xml
+```
+
+**Fix:**
+```bash
+# Replace all localhost URLs with production domain
+find public -name "sitemap.xml" -exec sed -i 's|http://localhost:1313|https://tripmate.news|g' {} +
+
+# Verify the fix
+grep "tripmate.news" public/sitemap.xml
+
+# Commit and push
+git add public/
+git commit -m "Fix sitemap.xml: Replace localhost URLs with production domain"
+git push
+
+# After merge to main, verify at:
+# https://tripmate.news/sitemap.xml
+```
+
+**Prevention:**
+- Avoid committing `public/` directory after local builds
+- Let GitHub Actions generate production sitemap automatically
+- If you must commit `public/`, always verify sitemap URLs first
+
 ---
 
 ## Important Files
@@ -930,10 +965,15 @@ hugo --minify
    - Don't modify theme files directly
    - Update submodule properly with git commands
 
-2. **Public Directory Committed**
+2. **Public Directory Committed & Sitemap Issues**
    - Unusual: `public/` (21MB) is currently committed to repo
    - Normally this is in `.gitignore`
-   - Be cautious when modifying - may affect deployment
+   - ⚠️ **CRITICAL**: Never commit sitemap.xml with localhost URLs
+   - If you build locally with `hugo server`, sitemap will contain `http://localhost:1313`
+   - Always verify sitemap URLs before committing: `grep -r "localhost" public/*.xml`
+   - If localhost URLs found, fix with: `find public -name "sitemap.xml" -exec sed -i 's|http://localhost:1313|https://tripmate.news|g' {} +`
+   - Google Search Console will fail to fetch sitemap with localhost URLs
+   - GitHub Actions builds with production URLs automatically
 
 3. **Branch Naming for Pushes**
    - Branches MUST start with `claude/` and match session ID
@@ -994,6 +1034,12 @@ hugo --minify
    - Use shared CSS: `/static/css/blog-post-common.css`
    - Keeps styles consistent and maintainable
 
+8. **Do NOT** commit sitemap.xml with localhost URLs
+   - Never run `hugo` or `hugo server` and commit the resulting `public/sitemap.xml`
+   - Always check: `grep "localhost" public/sitemap.xml` before committing
+   - Use the fix command if localhost URLs are found (see "Public Directory Committed" section)
+   - Let GitHub Actions generate production sitemap automatically
+
 ### ✅ Best Practices
 
 1. **Always test locally** with `hugo server` before pushing
@@ -1006,6 +1052,8 @@ hugo --minify
 8. **Use shared CSS files** for blog post styles (blog-post-common.css)
 9. **Test layout changes locally** before pushing to production
 10. **Wrap blog post content** in `<div class="blog-container">` for consistent styling
+11. **Verify sitemap URLs** before committing changes to `public/` directory
+12. **After main branch merge**, verify sitemap at https://tripmate.news/sitemap.xml has production URLs
 
 ---
 
@@ -1230,11 +1278,15 @@ git push -u origin claude/branch-name     # Push to branch
 # Migration (Naver Blog)
 # Step 1: User provides HTML
 # Step 2: AI creates 2 language versions (EN/JA) with smart link conversion
-#         - Loads LINK_MAPPING.md (29 mapped posts)
+#         - Loads LINK_MAPPING.md (31 mapped posts)
 #         - Auto-converts known Naver links to Hugo links
 #         - Adds TODO comments for unmapped links
 # Step 3: User manually downloads images from Naver
 # Step 4: Test with hugo server -D
+
+# Sitemap verification (IMPORTANT!)
+grep "localhost" public/sitemap.xml   # Check for localhost URLs
+find public -name "sitemap.xml" -exec sed -i 's|http://localhost:1313|https://tripmate.news|g' {} +  # Fix
 ```
 
 ### Key URLs
