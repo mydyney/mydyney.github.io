@@ -478,6 +478,33 @@ tokyo-ramen-street-02.jpg
 - The `download_naver_images.py` script saves all images as `.jpg`
 - Use `.jpg` for consistency and optimal web performance
 
+**📊 Image Numbering Structure:**
+- **`{slug}-01.jpg`**: Featured image (Front Matter `featured_image` field)
+  - Used for social media previews and meta tags
+  - Typically the same as the first body image but serves different purposes
+- **`{slug}-02.jpg` and up**: Body images (displayed in post content)
+  - `02.jpg`: First image in post body (after intro paragraph)
+  - `03.jpg`, `04.jpg`, etc.: Subsequent images in order
+
+**Example:**
+```yaml
+# Front Matter
+featured_image: "/images/posts/tokyo-guide-01.jpg"  # Social media preview
+
+# Body (after intro paragraph)
+<figure>
+  <img src="/images/posts/tokyo-guide-02.jpg" alt="...">  # First visible image
+</figure>
+<figure>
+  <img src="/images/posts/tokyo-guide-03.jpg" alt="...">  # Second image
+</figure>
+```
+
+**💡 Important:**
+- Total images = body images + 1 (featured image)
+- If post has 21 body images, total is 22 images (01.jpg through 22.jpg)
+- Featured image (01.jpg) and first body image (02.jpg) are often the same visual
+
 **Storage Location:**
 ```
 /static/images/posts/
@@ -485,7 +512,7 @@ tokyo-ramen-street-02.jpg
 
 **Referencing in Markdown:**
 ```markdown
-![Alt text](/images/posts/your-image-01.jpg)
+![Alt text](/images/posts/your-image-02.jpg)
 ```
 
 **Image Migration from Naver Blog:**
@@ -509,7 +536,7 @@ All blog posts must follow this consistent format:
 1. **Front Matter** (YAML)
 2. **Opening `<div class="blog-container">`**
 3. **Intro Paragraph** (centered, styled)
-4. **First Image** (featured image with `<figure>` tag)
+4. **First Body Image** (with `<figure>` tag, using `{slug}-02.jpg`)
 5. **Content** (sections with headings, images, info boxes, tables)
 6. **Closing `</div>`**
 
@@ -524,7 +551,7 @@ description: "SEO meta description for social media preview"
 summary: "Brief summary for post listings"
 tags: ["tag1", "tag2", "tag3"]
 categories: ["Category"]
-featured_image: "/images/posts/post-slug-01.jpg"
+featured_image: "/images/posts/post-slug-01.jpg"  # For social media/meta tags
 ---
 ```
 
@@ -1089,12 +1116,17 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
   - Example: `<div class="se-imageGroup-col-2">` = 2 images = create 2 separate `<figure>` tags
   - DO NOT merge multiple images from a group into one figure
   - Count carefully: if you see 10 `<img>` tags, you need 10 figure tags (even if grouped)
+- **⚠️ CRITICAL: Image Numbering**
+  - `{slug}-01.jpg`: Featured image (Front Matter `featured_image` field only)
+  - `{slug}-02.jpg`: First image in post body (after intro paragraph)
+  - `{slug}-03.jpg`, `04.jpg`, etc.: Subsequent body images in order
+  - **Total images = body images + 1 (featured)**
+  - Example: If HTML has 21 images → 22 total (01.jpg for featured + 02.jpg through 22.jpg for body)
 - **Translate Korean HTML content to English and Japanese ONLY** (do NOT create Korean version)
 - Create blog posts in 2 languages: English and Japanese
-- Include ALL image references with correct numbering (`{slug}-01.jpg`, `{slug}-02.jpg`, etc.)
 - Maintain original image positions from Korean HTML
-- Use `<figure>` tags with `<figcaption>` for each image
-- Add proper Front Matter with `featured_image`, `description`, `summary`
+- Use `<figure>` tags with `<figcaption>` for each body image
+- Add proper Front Matter with `featured_image` (always `{slug}-01.jpg`), `description`, `summary`
 - Use centered intro paragraph
 - **⚠️ PRESERVE external source links:** If the Korean HTML contains source attribution links (e.g., `<a href="...">출처</a>`), maintain the HTML link structure in translations:
   - English: `<a href="..." target="_blank">Source</a>`
