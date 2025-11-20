@@ -148,18 +148,30 @@ def validate_image_mapping(naver_images, hugo_images, post_slug):
     print(f"🔍 이미지 순서 검증: {post_slug}")
     print("="*80)
 
+    # Featured image와 body images 분리
+    featured_img = None
+    body_images = []
+
+    for img in hugo_images:
+        if img.get('type') == 'featured':
+            featured_img = img
+        else:
+            body_images.append(img)
+
     print(f"\n📊 이미지 개수:")
     print(f"   네이버 HTML: {len(naver_images)}개")
-    print(f"   Hugo 마크다운: {len(hugo_images)}개")
+    print(f"   Hugo 마크다운: {len(body_images)}개 (body images)")
+    if featured_img:
+        print(f"   Featured image: {featured_img['path']} (검증에서 제외)")
 
     # 이미지 개수 확인
-    if len(hugo_images) == 0:
-        print("\n❌ Hugo 마크다운에 이미지가 없습니다!")
+    if len(body_images) == 0:
+        print("\n❌ Hugo 마크다운에 body 이미지가 없습니다!")
         return False
 
-    # 네이버 이미지 개수 = Hugo 이미지 개수 (1:1 매칭)
+    # 네이버 이미지 개수 = Hugo body 이미지 개수 (1:1 매칭)
     naver_count = len(naver_images)
-    hugo_count = len(hugo_images)
+    hugo_count = len(body_images)
 
     if naver_count != hugo_count:
         print(f"\n❌ 이미지 개수 불일치!")
@@ -185,7 +197,7 @@ def validate_image_mapping(naver_images, hugo_images, post_slug):
     all_match = True
     for i in range(naver_count):
         naver_img = naver_images[i]
-        hugo_img = hugo_images[i]  # 1:1 매칭
+        hugo_img = body_images[i]  # body images와 1:1 매칭
 
         expected_num = str(i + 1).zfill(2)  # 01, 02, 03...
         actual_num_match = re.search(r'-(\d+)\.jpg', hugo_img['path'])
