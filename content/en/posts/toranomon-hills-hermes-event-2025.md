@@ -249,10 +249,10 @@ Complete access guide to Tokyo Node all in one place.</p>
 <h2>🎄 2025 Tokyo Christmas</h2>
 
 <p><strong>🚶 Essential Picks! Tokyo Christmas 3N4D Itinerary</strong></p>
-<p><strong>➡️ <a href="/posts/tokyo-christmas-3-day-itinerary/">Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market Complete Guide</a></strong></p>
+<p><strong>➡️ <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/">Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market Complete Guide</a></strong></p>
 
 <p><strong>🌟 Roppongi Hills Illumination (Started Nov 4)</strong></p>
-<p><strong>➡️ <a href="/posts/roppongi-hills-christmas-2025/">Roppongi Illumination 2025: Period, Hours, Must-See Spots Complete Guide</a></strong></p>
+<p><strong>➡️ <a href="/posts/roppongi-christmas-illumination-2025/">Roppongi Illumination 2025: Period, Hours, Must-See Spots Complete Guide</a></strong></p>
 
 <p><strong>🌟 Tokyo Skytree Christmas Market (Started Nov 6)</strong></p>
 <p><strong>➡️ <a href="/posts/tokyo-skytree-christmas-market-2025/">2025 Tokyo Skytree Christmas Market Complete Guide</a></strong></p>
