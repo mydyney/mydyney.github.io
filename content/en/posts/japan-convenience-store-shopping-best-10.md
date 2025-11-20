@@ -22,30 +22,26 @@ Perfect shopping guide<br>
 for your Japan trip!</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-01.jpg" alt="Japan's 3 major convenience stores: 7-Eleven, FamilyMart, Lawson comparison">
-  <figcaption style="font-size: 0.7em; text-align: center;">Japan's 3 major convenience stores: 7-Eleven, FamilyMart, Lawson comparison</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-01.jpg" alt="Japan's 3 major convenience stores comparison shopping list BEST10">
+  <figcaption style="font-size: 0.7em; text-align: center;">Japan's 3 major convenience stores comparison shopping list BEST10</figcaption>
 </figure>
 
 ---
 
 ## 🏪 Japan's Top 3 Convenience Stores:
-## 7-Eleven, FamilyMart, Lawson
+## What Makes Them Different?
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-Japan's convenience stores (konbini, コンビニ)<br>
-are a traveler's paradise!<br>
+Japan's convenience stores<br>
+are NOT all the same!<br>
 <br>
-The <strong>"Big 3" convenience store chains</strong> are:<br>
-<strong>7-Eleven (セブンイレブン)</strong>,<br>
-<strong>FamilyMart (ファミリーマート)</strong>, and<br>
-<strong>Lawson (ローソン)</strong>.<br>
-<br>
-Each store has its own<br>
-unique signature products and strengths!</p>
+Understanding the <strong>unique strengths</strong><br>
+of each of the Big 3 convenience stores<br>
+will double your shopping enjoyment.</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-02.jpg" alt="7-Eleven storefront with signature green, orange, and red stripes">
-  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven storefront with signature green, orange, and red stripes</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-02.jpg" alt="Japan's 3 major convenience stores are 7-Eleven, FamilyMart, and Lawson">
+  <figcaption style="font-size: 0.7em; text-align: center;">Japan's 3 major convenience stores are 7-Eleven, FamilyMart, and Lawson</figcaption>
 </figure>
 
 ---
@@ -80,469 +76,391 @@ unique signature products and strengths!</p>
   </tbody>
 </table>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-03.jpg" alt="FamilyMart storefront with blue and green branding">
-  </figure>
-  <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-04.jpg" alt="Lawson storefront with iconic blue signage">
-  </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">FamilyMart (left) and Lawson (right) storefronts</figcaption>
-</div>
-
 ---
 
-## 🏆 BEST 10 Must-Buy Items
-## (Comparison & Recommendations)
+## 👑 2025 Japan Convenience Store
+## Must-Try BEST 10
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-Here are the top 10 items you absolutely<br>
-<strong>cannot miss</strong> when visiting<br>
-Japanese convenience stores!<br>
+Popular in 2025!<br>
+<strong>Must-eat foods only.</strong><br>
 <br>
-Each item is ranked by store,<br>
-so you know exactly where to buy.</p>
+From 7-Eleven's egg sandwich,<br>
+to Lawson's premium desserts,<br>
+and FamilyMart's Famichiki!<br>
+<br>
+This one guide will help you<br>
+master all 3 convenience stores!</p>
 
 ---
 
-### 1. 🥪 Egg Sandwich (タマゴサンド)
+### 1. 🥪 Tamago Sando (Egg Sandwich)
 ### 🥇 Winner: 7-Eleven
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-The <strong>legendary egg sandwich</strong><br>
-that made convenience store sandwiches famous!<br>
-<br>
-7-Eleven's version is the gold standard:<br>
-Fluffy egg salad on pillowy soft white bread,<br>
-with perfectly balanced seasoning.</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 7-Eleven:</strong> Creamy egg salad with mayo, perfectly seasoned (¥180-220)</li>
-    <li><strong>🥈 FamilyMart:</strong> Slightly sweeter, generous portion (¥180-200)</li>
-    <li><strong>🥉 Lawson:</strong> Good quality, standard taste (¥180-200)</li>
-  </ul>
-</div>
+<strong>The undisputed #1 on convenience store shopping lists!</strong><br>
+While there are countless convenience stores,<br>
+the perfect harmony of fluffy bread<br>
+and rich, creamy egg salad<br>
+is <strong>uniquely superior at 7-Eleven</strong>.</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-05.jpg" alt="7-Eleven's famous egg sandwich with fluffy egg salad">
-  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven's famous egg sandwich with fluffy egg salad</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-03.jpg" alt="Japan 7-Eleven's top recommendation - tamago sando (egg sandwich) delicious cross-section">
+  <figcaption style="font-size: 0.7em; text-align: center;">Japan 7-Eleven's top recommendation - tamago sando (egg sandwich) delicious cross-section</figcaption>
 </figure>
-
-<div class="tip-box">
-  <p><strong>💡 Pro Tip:</strong> Best eaten fresh! The bread stays softest within 1-2 hours of purchase. Perfect for breakfast or a quick snack.</p>
-</div>
 
 ---
 
 ### 2. 🍰 Premium Desserts
 ### (Roll Cake & Pudding)
-### 🥇 Winner: Lawson (Uchi Cafe Series)
+### 🥇 Winner: Lawson
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-Lawson's <strong>"Uchi Cafe" premium dessert line</strong><br>
-is legendary among Japanese convenience stores!<br>
+Lawson, the "Dessert Master,"<br>
+has a legendary <strong>"Premium Roll Cake"!</strong><br>
+So soft you can feel the cream<br>
+is more abundant than the bread,<br>
+with a rich milk flavor that's exquisite.<br>
 <br>
-The <strong>Premium Roll Cake (プレミアムロールケーキ)</strong><br>
-is their signature product—<br>
-incredibly soft sponge cake<br>
-with rich, smooth cream filling.</p>
+Don't miss the chewy mochi bread<br>
+<strong>"Mochifuyo"</strong> and<br>
+various pudding varieties!</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 Lawson Uchi Cafe:</strong> Premium roll cake (¥150), Basque cheesecake, pudding</li>
-    <li><strong>🥈 7-Eleven:</strong> Gold Label series, seasonal limited desserts</li>
-    <li><strong>🥉 FamilyMart:</strong> Family Mart Collection, character collaboration sweets</li>
-  </ul>
-</div>
+<figure>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-04.jpg" alt="Lawson's dessert top recommendation - Premium roll cake">
+  <figcaption style="font-size: 0.7em; text-align: center;">Lawson's dessert top recommendation - Premium roll cake</figcaption>
+</figure>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-06.jpg" alt="Lawson Uchi Cafe Premium Roll Cake - signature dessert">
-  </figure>
-  <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-07.jpg" alt="Lawson Basque Cheesecake - premium burnt cheesecake">
-  </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">Lawson Uchi Cafe: Premium Roll Cake (left) and Basque Cheesecake (right)</figcaption>
-</div>
+<figure>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-05.jpg" alt="Lawson's premium dessert - chewy mochi bread Mochifuyo">
+  <figcaption style="font-size: 0.7em; text-align: center;">Lawson's premium dessert - chewy mochi bread <strong>Mochifuyo</strong></figcaption>
+</figure>
 
 ---
 
-### 3. 🍗 Famichiki (Fried Chicken)
+### 3. 🍗 Famichiki (ファミチキ)
 ### 🥇 Winner: FamilyMart
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-<strong>"Famichiki (ファミチキ)"</strong> is<br>
-FamilyMart's iconic fried chicken—<br>
-so famous it has its own name!<br>
-<br>
-Crispy, juicy, and perfectly seasoned,<br>
-this is Japan's favorite convenience store<br>
-fried chicken.</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 FamilyMart - Famichiki:</strong> Crispy batter, juicy inside, perfectly spiced (¥198-238)</li>
-    <li><strong>🥈 Lawson - L Chiki:</strong> Similar quality, slightly different seasoning (¥198-220)</li>
-    <li><strong>🥉 7-Eleven - Nanachiki:</strong> Good but less iconic (¥198-220)</li>
-  </ul>
-</div>
+The king of hot snack corners!<br>
+The perfect harmony of<br>
+crispy fried batter and<br>
+juicy chicken thigh is fantastic.<br>
+Forms <strong>a duopoly with Lawson's "L-Chiki,"</strong><br>
+so comparing the two flavors<br>
+is one of the great joys of travel.</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-08.jpg" alt="FamilyMart's legendary Famichiki fried chicken">
-  <figcaption style="font-size: 0.7em; text-align: center;">FamilyMart's legendary Famichiki fried chicken</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-06.jpg" alt="Japan FamilyMart recommended hot snack - Famichiki (chicken) in first row, left">
+  <figcaption style="font-size: 0.7em; text-align: center;">Japan FamilyMart recommended hot snack - Famichiki (chicken) in first row, left</figcaption>
 </figure>
-
-<div class="tip-box">
-  <p><strong>💡 Must-Try Flavors:</strong> Famichiki comes in seasonal flavors like spicy, garlic, and cheese. Ask at the counter (ホットスナックコーナー)!</p>
-</div>
 
 ---
 
-### 4. 🥤 Smoothies & Frappe
+### 4. 🥤 Convenience Store Smoothies & Frappe
 ### 🥈 Winners: 7-Eleven & FamilyMart
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-Frozen drinks are a summer essential<br>
-at Japanese convenience stores!<br>
+The hottest item recently!<br>
+Choose a cup with frozen fruit,<br>
+pay for it, then put it in<br>
+the dedicated machine in the store<br>
+to instantly create a fresh smoothie!<br>
 <br>
-<strong>7-Eleven's "Frozen Drink" series</strong> and<br>
-<strong>FamilyMart's "Frappe"</strong><br>
-are both excellent choices.</p>
+<strong>7-Eleven has blended smoothies,</strong><br>
+<strong>FamilyMart has frappe</strong><br>
+(mixed with milk from the machine).<br>
+Many say it's better than most cafes!</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 7-Eleven Frozen Series:</strong> Wide variety of flavors, great texture (¥198-298)</li>
-    <li><strong>🥇 FamilyMart Frappe:</strong> Coffee-based frappe, dessert drinks (¥198-298)</li>
-    <li><strong>🥉 Lawson:</strong> Limited frozen drink selection</li>
-  </ul>
-</div>
+<figure>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-07.jpg" alt="7-Eleven smoothie - made by grinding in a machine">
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven smoothie - made by grinding in a machine</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-08.jpg" alt="FamilyMart smoothie">
+  <figcaption style="font-size: 0.7em; text-align: center;">FamilyMart smoothie</figcaption>
+</figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-09.jpg" alt="7-Eleven frozen smoothie drinks - summer favorites">
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-09.jpg" alt="7-Eleven smoothie machine (left)">
   </figure>
   <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-10.jpg" alt="FamilyMart frappe - coffee and dessert flavors">
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-10.jpg" alt="FamilyMart frappe machine (right)">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven frozen drinks (left) and FamilyMart frappe (right)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven smoothie machine (left) and FamilyMart frappe machine (right)</figcaption>
 </div>
 
 ---
 
-### 5. 🍜 Restaurant Collaboration
-### Cup Ramen
+### 5. 🍜 Restaurant Collaboration Cup Ramen
 ### 🥇 Winner: 7-Eleven
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-7-Eleven's <strong>exclusive cup ramen</strong><br>
-features collaborations with famous restaurants<br>
-like Ippudo, Ichiran, and Michelin-starred shops!<br>
+7-Eleven's "Gold Cup Ramen" series<br>
+recreates the taste of specialty restaurants<br>
+almost perfectly!<br>
 <br>
-These aren't your average instant noodles—<br>
-they recreate authentic restaurant flavors.</p>
+If you see <strong>"Moko Tanmen Nakamoto,"</strong><br>
+<strong>"Sumire," or "Ippudo,"</strong><br>
+grab them without hesitation!</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>Popular Collaborations:</strong></li>
-    <li>• Ippudo Tonkotsu Ramen (一風堂)</li>
-    <li>• Ichiran Ramen (一蘭)</li>
-    <li>• Menya Musashi (麺屋武蔵)</li>
-    <li>• Regional ramen specialties</li>
-    <li><strong>Price:</strong> ¥250-398</li>
-  </ul>
+<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
+<strong>🍜 Sumire (すみれ)</strong><br>
+<strong>"The King of Sapporo Miso Ramen"</strong><br>
+The surface of the broth is covered<br>
+with rich pork lard,<br>
+so you can eat it hot till the end.<br>
+You can truly feel the flavor of<br>
+<strong>authentic Sapporo miso ramen</strong><br>
+that's very rich and savory.</p>
+
+<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
+<strong>🍜 Ippudo (一風堂)</strong><br>
+<strong>"The Textbook of Clean Tonkotsu Ramen"</strong><br>
+Perfectly recreated the taste<br>
+of the world-famous specialty restaurant "Ippudo!"<br>
+The deep flavor of pork bone broth is alive,<br>
+but it's clean without any gamey taste!<br>
+The harmony with thin noodles is excellent.<br>
+(Red: Akamaru / White: Shiromaru)</p>
+
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-11.jpg" alt="7-Eleven collaboration cup ramen - Sumire (left)">
+  </figure>
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-12.jpg" alt="7-Eleven collaboration cup ramen - Ippudo (right)">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven collaboration cup ramen - Sumire (left) and Ippudo (right)</figcaption>
 </div>
 
+<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
+<strong>🍜 Moko Tanmen Nakamoto (中本)</strong><br>
+<strong>"The Standard of Deliciously Spicy!"</strong><br>
+Rich broth with a miso base<br>
+is abundant with tofu and vegetable toppings.<br>
+You can adjust the addictively savory taste<br>
+with the included "spicy oil."<br>
+(※ Warning for those who can't handle spice!)</p>
+
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-11.jpg" alt="7-Eleven exclusive restaurant collaboration cup ramen">
-  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven exclusive restaurant collaboration cup ramen</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-13.jpg" alt="7-Eleven collaboration cup ramen - Moko Tanmen Nakamoto">
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven collaboration cup ramen - Moko Tanmen Nakamoto</figcaption>
 </figure>
 
-<div class="tip-box">
-  <p><strong>💡 How to Prepare:</strong> Ask staff for hot water at the counter ("お湯をください - Oyu wo kudasai"). Most stores have hot water dispensers!</p>
-</div>
-
 ---
 
-### 6. 🥚 Smoked Eggs (燻製卵)
+### 6. 🥚 Smoked Eggs (半熟煮たまご)
 ### 🥇 Winner: 7-Eleven
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-A hidden gem that surprises<br>
-every first-time visitor!<br>
-<br>
-<strong>Smoked eggs (燻製卵 - kunsei tamago)</strong><br>
-are perfectly seasoned, smoky hard-boiled eggs<br>
-that make an excellent snack or side dish.</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 7-Eleven:</strong> Best flavor and texture (¥120-150 for 1-2 eggs)</li>
-    <li><strong>🥈 FamilyMart:</strong> Similar quality, slightly different seasoning</li>
-    <li><strong>🥉 Lawson:</strong> Available but less popular</li>
-  </ul>
-</div>
+<strong>Soft-boiled soy sauce eggs</strong><br>
+that you could only taste at ramen shops!<br>
+The perfect harmony of<br>
+firm white with savory soy sauce and<br>
+rich, creamy yolk makes them perfect<br>
+to eat as is, mixed with rice,<br>
+or as a topping for cup ramen!</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-12.jpg" alt="7-Eleven smoked eggs - perfectly seasoned snack">
-  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven smoked eggs - perfectly seasoned snack</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-14.jpg" alt="7-Eleven smoked eggs">
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven smoked eggs</figcaption>
 </figure>
 
 ---
 
 ### 7. 🍺 Limited Edition Beer & Highball
-### 🥉 All 3 Stores (Seasonal)
-
-<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-Japanese convenience stores regularly stock<br>
-<strong>exclusive limited-edition drinks</strong><br>
-including craft beers, seasonal highballs,<br>
-and unique flavored chuhai (酎ハイ).</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>Popular Limited Editions:</strong></li>
-    <li>• Strong Zero (ストロングゼロ) - Various flavors</li>
-    <li>• Craft beer collaborations</li>
-    <li>• Seasonal fruit highballs</li>
-    <li>• Premium sake selections</li>
-    <li><strong>Price:</strong> ¥150-500</li>
-  </ul>
-</div>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-13.jpg" alt="Limited edition beer and highball selection at convenience stores">
-  <figcaption style="font-size: 0.7em; text-align: center;">Limited edition beer and highball selection at convenience stores</figcaption>
-</figure>
-
-<div class="tip-box">
-  <p><strong>⚠️ Important:</strong> Legal drinking age in Japan is 20. Alcohol sales may stop after 11 PM in some areas. You must confirm your age at the touchscreen when purchasing.</p>
-</div>
-
----
-
-### 8. 🧦 Line Character Socks
-### 🥇 Winner: FamilyMart
-
-<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-FamilyMart's exclusive<br>
-<strong>Line Friends character socks</strong><br>
-are perfect souvenirs!<br>
-<br>
-Featuring Brown, Cony, Sally,<br>
-and other beloved characters.</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 FamilyMart:</strong> Exclusive Line Friends designs (¥300-500)</li>
-    <li><strong>Features:</strong></li>
-    <li>• High quality material</li>
-    <li>• Cute character designs</li>
-    <li>• Affordable price</li>
-    <li>• Perfect as gifts/souvenirs</li>
-  </ul>
-</div>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-14.jpg" alt="FamilyMart exclusive Line Friends character socks">
-  <figcaption style="font-size: 0.7em; text-align: center;">FamilyMart exclusive Line Friends character socks</figcaption>
-</figure>
-
----
-
-### 9. 🍧 Shirokuma Ice Cream (白くま)
 ### 🥉 All 3 Stores
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-A Japanese summer classic!<br>
-<strong>"Shirokuma" (White Bear)</strong> ice cream<br>
-is a shaved ice dessert topped with<br>
-condensed milk, fruits, and sweet beans.</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>Available at all 3 stores:</strong></li>
-    <li>• Original flavor with fruits and beans</li>
-    <li>• Matcha version</li>
-    <li>• Strawberry version</li>
-    <li>• Cup size: Small ¥150-180, Large ¥250-300</li>
-  </ul>
-</div>
+As well as major beer brands<br>
+like Asahi, Kirin, and Sapporo,<br>
+finding limited edition <strong>beer</strong> or <strong>highball</strong> cans<br>
+sold exclusively at each convenience store<br>
+is a fun treasure hunt!</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-15.jpg" alt="Shirokuma ice cream - Japanese summer classic dessert">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shirokuma ice cream - Japanese summer classic dessert</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-15.jpg" alt="Various types of convenience store beer and highball">
+  <figcaption style="font-size: 0.7em; text-align: center;">Various types of convenience store beer and highball</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-16.jpg" alt="Various types of convenience store beer and highball">
+  <figcaption style="font-size: 0.7em; text-align: center;">Various types of convenience store beer and highball</figcaption>
 </figure>
 
 ---
 
-### 10. 🍙 Tuna Mayo Onigiri
+### 8. 🧦 Convenience Store Socks
+### (ラインソックス)
+### 🥇 Winner: FamilyMart
+
+<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
+Unexpected recommendation #1!<br>
+Simple design socks created<br>
+in collaboration with famous fashion designers<br>
+are hugely popular among young Japanese<br>
+as a <strong>"fashion item"!</strong></p>
+
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-17.jpg" alt="FamilyMart fashion item line socks">
+  </figure>
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-18.jpg" alt="FamilyMart fashion item line socks">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">FamilyMart fashion item line socks</figcaption>
+</div>
+
+---
+
+### 9. 🍧 Shirokuma Ice Cream
+### (しろくま)
+### 🥉 All 3 Stores
+
+<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
+A cup ice cream version<br>
+of Kagoshima's famous shaved ice from Kyushu!<br>
+With sweet beans and various fruits<br>
+piled on top of condensed milk ice,<br>
+it's recognized not as simple ice cream<br>
+but as a "dessert."</p>
+
+<figure>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-19.jpg" alt="7-Eleven's Shirokuma ice cream">
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven's Shirokuma ice cream</figcaption>
+</figure>
+
+---
+
+### 10. 🍙 Tsunamayo Onigiri
 ### (ツナマヨおにぎり)
 ### 🥇 Winner: 7-Eleven
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-The <strong>most popular onigiri (rice ball) flavor</strong><br>
-in all of Japan!<br>
+"The eternal bestseller onigiri"<br>
 <br>
-Tuna mayo onigiri is the perfect combination of<br>
-savory tuna mixed with Japanese mayo,<br>
-wrapped in crispy seaweed.</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 7-Eleven:</strong> Premium tuna, perfect seasoning (¥130-160)</li>
-    <li><strong>🥈 FamilyMart:</strong> Generous tuna filling (¥130-150)</li>
-    <li><strong>🥉 Lawson:</strong> Standard quality, good value (¥120-150)</li>
-    <li><strong>Other Popular Flavors:</strong></li>
-    <li>• Salmon (鮭 - Shake)</li>
-    <li>• Umeboshi (plum - 梅干し)</li>
-    <li>• Konbu (kelp - 昆布)</li>
-  </ul>
-</div>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-16.jpg" alt="Tuna mayo onigiri - Japan's most popular rice ball">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tuna mayo onigiri - Japan's most popular rice ball</figcaption>
-</figure>
-
-<div class="tip-box">
-  <p><strong>💡 How to Open:</strong> Pull the strip labeled "1" to split the wrapper, then pull "2" and "3" to remove. This keeps the seaweed separate until you're ready to eat!</p>
-</div>
-
----
-
-## 🍢 Winter Special:
-## Oden Season (9月~3月)
+<strong>"Tsunamayo (tuna mayo)"</strong> has held<br>
+the #1 sales position at<br>
+Japanese convenience stores<br>
+for decades—it's the true "king."<br>
+<br>
+You might think "all tuna mayo is the same,"<br>
+but you'd be wrong!<br>
+All 3 convenience stores' flavors are different.</p>
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-During fall and winter<br>
-(September through March),<br>
-all convenience stores sell<br>
-<strong>fresh hot oden (おでん)</strong>!<br>
-<br>
-Oden is a Japanese hot pot dish<br>
-with various ingredients simmered<br>
-in a light dashi broth.</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>Popular Oden Ingredients:</strong></li>
-    <li>• Daikon radish (大根 - Daikon) - ¥100</li>
-    <li>• Egg (卵 - Tamago) - ¥80-100</li>
-    <li>• Fish cake (はんぺん - Hanpen) - ¥100</li>
-    <li>• Konjac (こんにゃく - Konnyaku) - ¥80</li>
-    <li>• Beef tendon (牛すじ - Gyusuji) - ¥150</li>
-    <li>• Fried tofu (厚揚げ - Atsuage) - ¥100</li>
-  </ul>
-</div>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-17.jpg" alt="Convenience store oden bar - hot pot ingredients in dashi broth">
-  <figcaption style="font-size: 0.7em; text-align: center;">Convenience store oden bar - hot pot ingredients in dashi broth</figcaption>
-</figure>
-
-<div class="tip-box">
-  <p><strong>💡 How to Order:</strong> Point to the oden ingredients you want at the counter. Staff will pack them in a container with hot broth. Perfect for cold winter days!</p>
-</div>
-
----
-
-## 📍 Essential Convenience Store
-## Travel Tips
-
-### 1. 🔥 "Would You Like It Heated?"
-### (あたためますか？- Atatamemasu ka?)
+<strong>🍙[7-Eleven] "The King of Balance"</strong><br>
+#1 in reader surveys!<br>
+The mayo presence is strong,<br>
+with the best balance of rice and tuna.<br>
+This is the most "classic" tsunamayo.</p>
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-When you buy bento boxes or prepared foods,<br>
-staff will ask if you want it heated:<br>
-<strong>"Atatamemasu ka?"</strong><br>
-<br>
-✅ Say <strong>"Hai" (はい)</strong> for YES (heated)<br>
-❌ Say <strong>"Daijoubu desu" (大丈夫です)</strong> for NO</p>
+<strong>🍙[Lawson] "Pure Tuna Flavor"</strong><br>
+Rather than mayo taste,<br>
+the tuna itself and soy sauce flavor<br>
+are more strongly felt.</p>
+
+<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
+<strong>🍙[FamilyMart] "Premium Taste"</strong><br>
+The mildest and most high-class taste<br>
+of all 3 stores, according to many reviews.</p>
+
+<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
+<strong>🐟Why is it called Sea Chicken Mayo?</strong><br>
+<strong>"Sea Chicken (シーチキン)"</strong> is<br>
+a <strong>canned tuna brand name</strong><br>
+launched by Japanese food company<br>
+Hagoromo Foods in 1958.<br>
+It's so famous that it's used like<br>
+a <strong>proper noun</strong> meaning "canned tuna" in Japan.</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-18.jpg" alt="Convenience store microwave heating service">
-  <figcaption style="font-size: 0.7em; text-align: center;">Convenience store microwave heating service</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-20.jpg" alt="Lawson's tuna mayo rice ball - Sea Chicken Mayonnaise Onigiri">
+  <figcaption style="font-size: 0.7em; text-align: center;">Lawson's tuna mayo rice ball - Sea Chicken Mayonnaise Onigiri</figcaption>
 </figure>
 
 ---
 
-### 2. 💳 ATM Cash Withdrawal
-### (Zero Fees!)
+## 🍢 Winter Limited!
+## "Japan Convenience Store Oden"
+## 100% Enjoyment
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-Japanese convenience store ATMs<br>
-accept international cards!<br>
+<strong>"When do Japanese convenience stores sell oden?"</strong><br>
+Many people are curious about<br>
+the <strong>"oden season,"</strong><br>
+which usually <strong>starts around September-October</strong><br>
+when the weather gets chilly<br>
+<strong>and continues until March</strong> of the following year.<br>
 <br>
-<strong>SEVEN Bank</strong> (7-Eleven) and<br>
-<strong>AEON Bank</strong> (FamilyMart)<br>
-have <strong>zero withdrawal fees</strong>.<br>
+Choose your desired ingredients like<br>
+radish, egg, fish cake, konjac, etc.,<br>
+put them in a cup, pour hot broth,<br>
+and enjoy it on the spot!<br>
 <br>
-English menu available on all ATMs!</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🏧 SEVEN Bank (7-Eleven):</strong></li>
-    <li>• Zero withdrawal fees</li>
-    <li>• 24/7 availability</li>
-    <li>• English, Korean, Chinese available</li>
-    <li>• Accepts Visa, Mastercard, UnionPay, JCB</li>
-    <li><strong>🏧 AEON Bank (FamilyMart):</strong></li>
-    <li>• Zero withdrawal fees</li>
-    <li>• Same card acceptance as SEVEN Bank</li>
-  </ul>
-</div>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-19.jpg" alt="SEVEN Bank ATM at 7-Eleven - international card friendly">
-  <figcaption style="font-size: 0.7em; text-align: center;">SEVEN Bank ATM at 7-Eleven - international card friendly</figcaption>
-</figure>
+As the weather gets colder,<br>
+the sales hours get longer<br>
+and the variety increases.<br>
+<br>
+<strong>Usually prepared in the morning,</strong><br>
+<strong>sold from lunch to dinner,</strong><br>
+and sometimes put away late at night.<br>
+<br>
+<strong>📌Pro tip:</strong> Each convenience store<br>
+has different broth flavors<br>
+(Kanto-style/Kansai-style),<br>
+so comparing them is fun!</p>
 
 ---
 
-### 3. 🕒 After 9 PM Discounts!
+## 💡 200% Convenience Store
+## Pro Tips for Travelers
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-Many convenience stores discount<br>
-bento boxes and prepared foods<br>
-<strong>after 9 PM</strong>!<br>
+<strong>😊"Atatamemasu ka?" (あたためますか?):</strong><br>
+When buying items like bento boxes,<br>
+staff will ask "Would you like it heated?"<br>
+If you want it warm, answer<br>
+<strong>"Hai (はい, yes)"</strong>.<br>
 <br>
-Look for <strong>discount stickers</strong><br>
-showing 20-50% off.</p>
+<strong>😊ATM:</strong><br>
+Most convenience stores like<br>
+7-Eleven and FamilyMart have <strong>ATMs</strong><br>
+where you can withdraw yen<br>
+with Travel Wallet, Travel Log, etc.<br>
+<br>
+<strong>📌ATMs with zero withdrawal fees:</strong><br>
+<strong>✅SEVEN Bank ATM:</strong><br>
+Toss Bank, Travel Log, Sol Travel,<br>
+Travelers, Weebit Travel<br>
+<strong>✅AEON Bank ATM:</strong><br>
+Travel Wallet<br>
+<br>
+<strong>😊Discounts:</strong><br>
+After 9 PM, bento boxes, bread,<br>
+desserts, etc. nearing their expiration date<br>
+start getting discount stickers.<br>
+<br>
+<strong>😊Digestive aids:</strong><br>
+When your stomach feels bloated after overeating,<br>
+you can buy digestive aids at convenience stores:<br>
+<strong>Cabejin Kowa Stomach Tablets</strong><br>
+<strong>(キャベジンコーワ胃腸錠)</strong><br>
+<strong>Panciron Stomach Granules</strong><br>
+<strong>(パンシロン 胃腸顆粒)</strong></p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-20.jpg" alt="After 9 PM discount stickers on bento boxes">
-  <figcaption style="font-size: 0.7em; text-align: center;">After 9 PM discount stickers on bento boxes</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-21.jpg" alt="Cabejin Kowa Stomach Tablets (キャベジンコーワ胃腸錠)">
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Cabejin Kowa Stomach Tablets (キャベジンコーワ胃腸錠)</strong></figcaption>
 </figure>
 
----
-
-### 4. 💊 Medicine Available
-### (Digestive Aids)
-
-<p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-Japanese convenience stores sell<br>
-basic over-the-counter medicine!<br>
-<br>
-<strong>Popular digestive aids:</strong><br>
-• Cabejin (キャベジン) - For upset stomach<br>
-• Panciron (パンシロン) - For indigestion</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>Available OTC Medicine:</strong></li>
-    <li>• Digestive aids (stomach medicine)</li>
-    <li>• Pain relievers (headache, fever)</li>
-    <li>• Cold medicine</li>
-    <li>• Eye drops</li>
-    <li>• Band-aids and basic first aid</li>
-  </ul>
-</div>
-
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-21.jpg" alt="Cabejin and Panciron - popular digestive aids at convenience stores">
-  <figcaption style="font-size: 0.7em; text-align: center;">Cabejin and Panciron - popular digestive aids at convenience stores</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-22.jpg" alt="Class 2 OTC medicines like Ohta-san can be purchased at drugstores">
+  <figcaption style="font-size: 0.7em; text-align: center;">Class 2 OTC medicines like Ohta-san can be purchased at drugstores</figcaption>
 </figure>
 
 ---

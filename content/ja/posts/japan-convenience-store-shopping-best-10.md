@@ -21,30 +21,25 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 日本旅行の完璧ガイド!</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-01.jpg" alt="日本3大コンビニ：セブンイレブン、ファミリーマート、ローソン比較">
-  <figcaption style="font-size: 0.7em; text-align: center;">日本3大コンビニ：セブンイレブン、ファミリーマート、ローソン比較</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-01.jpg" alt="日本3大コンビニ比較総整理ショッピングリストBEST10">
+  <figcaption style="font-size: 0.7em; text-align: center;">日本3大コンビニ比較総整理ショッピングリストBEST10</figcaption>
 </figure>
 
 ---
 
-## 🏪 日本3大コンビニ：
-## セブンイレブン、ファミリーマート、ローソン
+## 🏪 日本のコンビニ、
+## 何が違うの？
+## （3大コンビニ比較）
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-日本のコンビニ（コンビニエンスストア）は<br>
-旅行者の天国です！<br>
-<br>
-<strong>「3大コンビニチェーン」</strong>は：<br>
-<strong>セブンイレブン（セブンイレブン）</strong>、<br>
-<strong>ファミリーマート（ファミリーマート）</strong>、そして<br>
-<strong>ローソン（ローソン）</strong>。<br>
-<br>
-各店舗には独自の<br>
-シグネチャー商品と強みがあります！</p>
+日本のコンビニは<br>
+「どこも同じ」ではありません！<br>
+<strong>3大コンビニの特徴</strong>を知って攻略すれば<br>
+ショッピングの楽しさが倍増します。</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-02.jpg" alt="セブンイレブンの店舗外観 緑、オレンジ、赤のストライプ">
-  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブンの店舗外観 緑、オレンジ、赤のストライプ</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-02.jpg" alt="日本3大コンビニはセブンイレブン、ファミリーマート、ローソン">
+  <figcaption style="font-size: 0.7em; text-align: center;">日本3大コンビニはセブンイレブン、ファミリーマート、ローソン</figcaption>
 </figure>
 
 ---
@@ -79,27 +74,21 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
   </tbody>
 </table>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-03.jpg" alt="ファミリーマートの店舗外観 青と緑のブランディング">
-  </figure>
-  <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-04.jpg" alt="ローソンの店舗外観 象徴的な青い看板">
-  </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">ファミリーマート（左）とローソン（右）の店舗外観</figcaption>
-</div>
-
 ---
 
-## 🏆 BEST10 必須アイテム
-## （比較＆おすすめ）
+## 👑 2025年日本コンビニ
+## 必ず食べるべきBEST10
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-日本のコンビニを訪れたら<br>
-<strong>絶対見逃せない</strong>トップ10アイテムをご紹介！<br>
+2025年現地で人気のある<br>
+必ず食べるべき食べ物だけを集めました。<br>
 <br>
-各アイテムは店舗別にランク付けされているので、<br>
-どこで買えばいいかすぐわかります。</p>
+<strong>セブンイレブン</strong>のたまごサンドから、<br>
+<strong>ローソン</strong>のプレミアムデザート、<br>
+<strong>ファミリーマート</strong>のファミチキまで。<br>
+<br>
+この記事一つで3大コンビニ攻略を<br>
+完璧に終わらせます！</p>
 
 ---
 
@@ -107,25 +96,16 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 ### 🥇 勝者：セブンイレブン
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-コンビニサンドイッチを有名にした<br>
-<strong>伝説のたまごサンド</strong>！<br>
-<br>
-セブンイレブンのバージョンがゴールドスタンダード：<br>
-ふわふわのたまごサラダを<br>
-やわらかい白いパンで挟み、<br>
-完璧にバランスの取れた味付け。</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 セブンイレブン：</strong>クリーミーなたまごサラダとマヨネーズ、完璧な味付け（¥180-220）</li>
-    <li><strong>🥈 ファミリーマート：</strong>少し甘め、たっぷりの量（¥180-200）</li>
-    <li><strong>🥉 ローソン：</strong>良い品質、標準的な味（¥180-200）</li>
-  </ul>
-</div>
+<strong>コンビニショッピングリストの不動の1位！</strong><br>
+数え切れないほどのコンビニがある中で、<br>
+ふわふわのパンと<br>
+濃厚でクリーミーなたまごサラダの<br>
+完璧な調和は<br>
+<strong>セブンイレブンだけの特別な味</strong>です。</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-05.jpg" alt="セブンイレブンの有名なたまごサンド ふわふわたまごサラダ">
-  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブンの有名なたまごサンド ふわふわたまごサラダ</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-03.jpg" alt="日本セブンイレブン一番のおすすめ-たまごサンドの美味しい断面">
+  <figcaption style="font-size: 0.7em; text-align: center;">日本セブンイレブン一番のおすすめ-たまごサンドの美味しい断面</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -143,26 +123,18 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 日本のコンビニで伝説的です！<br>
 <br>
 <strong>プレミアムロールケーキ</strong>は<br>
-彼らのシグネチャー商品—<br>
+彼らのシグネチャー商品です。<br>
 信じられないほど柔らかいスポンジケーキに<br>
-濃厚でなめらかなクリームフィリング。</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 ローソン Uchi Cafe：</strong>プレミアムロールケーキ（¥150）、バスクチーズケーキ、プリン</li>
-    <li><strong>🥈 セブンイレブン：</strong>ゴールドラベルシリーズ、季節限定デザート</li>
-    <li><strong>🥉 ファミリーマート：</strong>ファミリーマートコレクション、キャラクターコラボスイーツ</li>
-  </ul>
-</div>
+濃厚でなめらかなクリームがたっぷり。</p>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-06.jpg" alt="ローソン Uchi Cafe プレミアムロールケーキ シグネチャーデザート">
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-04.jpg" alt="ローソンウチカフェプレミアムロールケーキ代表デザート">
   </figure>
   <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-07.jpg" alt="ローソン バスクチーズケーキ プレミアム焦がしチーズケーキ">
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-05.jpg" alt="ローソンバスクチーズケーキプレミアム焦がしチーズケーキ">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">ローソン Uchi Cafe：プレミアムロールケーキ（左）とバスクチーズケーキ（右）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ローソンウチカフェ：プレミアムロールケーキ（左）とバスクチーズケーキ（右）</figcaption>
 </div>
 
 ---
@@ -172,22 +144,14 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 <strong>「ファミチキ」</strong>は<br>
-ファミリーマートの象徴的な唐揚げ—<br>
+ファミリーマートの象徴的な唐揚げです。<br>
 独自の名前を持つほど有名です！<br>
 <br>
 カリカリで、ジューシーで、完璧に味付けされた、<br>
 これが日本で一番人気のコンビニ唐揚げです。</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 ファミリーマート - ファミチキ：</strong>カリカリの衣、ジューシーな中身、完璧なスパイス（¥198-238）</li>
-    <li><strong>🥈 ローソン - Lチキ：</strong>同様の品質、少し異なる味付け（¥198-220）</li>
-    <li><strong>🥉 セブンイレブン - ななチキ：</strong>良いが、あまり象徴的ではない（¥198-220）</li>
-  </ul>
-</div>
-
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-08.jpg" alt="ファミリーマートの伝説のファミチキ唐揚げ">
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-06.jpg" alt="ファミリーマートの伝説のファミチキ唐揚げ">
   <figcaption style="font-size: 0.7em; text-align: center;">ファミリーマートの伝説のファミチキ唐揚げ</figcaption>
 </figure>
 
@@ -201,29 +165,21 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 ### 🥈 勝者：セブンイレブン＆ファミリーマート
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-フローズンドリンクは夏の必須アイテム<br>
+フローズンドリンクは夏の必須アイテムです。<br>
 日本のコンビニで！<br>
 <br>
 <strong>セブンイレブンの「フローズンドリンク」シリーズ</strong>と<br>
 <strong>ファミリーマートの「フラッペ」</strong><br>
 はどちらも素晴らしい選択肢です。</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 セブンイレブン フローズンシリーズ：</strong>豊富なフレーバー、素晴らしい食感（¥198-298）</li>
-    <li><strong>🥇 ファミリーマート フラッペ：</strong>コーヒーベースのフラッペ、デザートドリンク（¥198-298）</li>
-    <li><strong>🥉 ローソン：</strong>限定的なフローズンドリンク品揃え</li>
-  </ul>
-</div>
-
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-09.jpg" alt="セブンイレブン フローズンスムージードリンク 夏のお気に入り">
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-07.jpg" alt="セブンイレブンフローズンスムージードリンク夏のお気に入り">
   </figure>
   <figure>
-    <img src="/images/posts/japan-convenience-store-shopping-best-10-10.jpg" alt="ファミリーマート フラッペ コーヒーとデザートフレーバー">
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-08.jpg" alt="ファミリーマートフラッペコーヒーとデザートフレーバー">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブン フローズンドリンク（左）とファミリーマート フラッペ（右）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブンフローズンドリンク（左）とファミリーマートフラッペ（右）</figcaption>
 </div>
 
 ---
@@ -237,22 +193,11 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 一風堂、一蘭、ミシュラン星付き店など<br>
 有名レストランとのコラボレーション！<br>
 <br>
-これらは普通のインスタント麺ではありません—<br>
+これらは普通のインスタント麺ではありません。<br>
 本格的なレストランの味を再現しています。</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>人気のコラボレーション：</strong></li>
-    <li>• 一風堂 豚骨ラーメン</li>
-    <li>• 一蘭 ラーメン</li>
-    <li>• 麺屋武蔵</li>
-    <li>• 地域ラーメン専門店</li>
-    <li><strong>価格：</strong>¥250-398</li>
-  </ul>
-</div>
-
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-11.jpg" alt="セブンイレブン限定レストランコラボカップラーメン">
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-09.jpg" alt="セブンイレブン限定レストランコラボカップラーメン">
   <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブン限定レストランコラボカップラーメン</figcaption>
 </figure>
 
@@ -273,17 +218,9 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 完璧に味付けされ、スモーキーなゆで卵で<br>
 スナックやおかずに最適です。</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 セブンイレブン：</strong>最高の風味と食感（¥120-150 1-2個入り）</li>
-    <li><strong>🥈 ファミリーマート：</strong>同様の品質、少し異なる味付け</li>
-    <li><strong>🥉 ローソン：</strong>あるが、あまり人気はない</li>
-  </ul>
-</div>
-
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-12.jpg" alt="セブンイレブン 燻製卵 完璧に味付けされたスナック">
-  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブン 燻製卵 完璧に味付けされたスナック</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-10.jpg" alt="セブンイレブン燻製卵完璧に味付けされたスナック">
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブン燻製卵完璧に味付けされたスナック</figcaption>
 </figure>
 
 ---
@@ -293,23 +230,12 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 日本のコンビニは定期的に<br>
-<strong>限定ドリンク</strong>を販売しています<br>
+<strong>限定ドリンク</strong>を販売しています。<br>
 クラフトビール、季節のハイボール、<br>
 ユニークなフレーバーのチューハイ（酎ハイ）など。</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>人気の限定品：</strong></li>
-    <li>• ストロングゼロ - 各種フレーバー</li>
-    <li>• クラフトビールコラボ</li>
-    <li>• 季節のフルーツハイボール</li>
-    <li>• プレミアム日本酒セレクション</li>
-    <li><strong>価格：</strong>¥150-500</li>
-  </ul>
-</div>
-
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-13.jpg" alt="コンビニの限定ビールとハイボールの品揃え">
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-11.jpg" alt="コンビニの限定ビールとハイボールの品揃え">
   <figcaption style="font-size: 0.7em; text-align: center;">コンビニの限定ビールとハイボールの品揃え</figcaption>
 </figure>
 
@@ -327,23 +253,12 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 <strong>LINE Friendsキャラクター靴下</strong>は<br>
 完璧なお土産です！<br>
 <br>
-ブラウン、コニー、サリー、<br>
-その他愛されるキャラクターが登場。</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 ファミリーマート：</strong>限定LINE Friendsデザイン（¥300-500）</li>
-    <li><strong>特徴：</strong></li>
-    <li>• 高品質素材</li>
-    <li>• かわいいキャラクターデザイン</li>
-    <li>• 手頃な価格</li>
-    <li>• ギフト/お土産に最適</li>
-  </ul>
-</div>
+ブラウン、コニー、サリーなど<br>
+愛されるキャラクターが登場します。</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-14.jpg" alt="ファミリーマート限定LINE Friendsキャラクター靴下">
-  <figcaption style="font-size: 0.7em; text-align: center;">ファミリーマート限定LINE Friendsキャラクター靴下</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-12.jpg" alt="ファミリーマート限定LINEFriendsキャラクター靴下">
+  <figcaption style="font-size: 0.7em; text-align: center;">ファミリーマート限定LINEFriendsキャラクター靴下</figcaption>
 </figure>
 
 ---
@@ -354,22 +269,12 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 日本の夏の定番！<br>
 <strong>「白くま」アイスクリーム</strong>は<br>
-かき氷デザートにトッピング<br>
+かき氷デザートにトッピング。<br>
 練乳、フルーツ、甘納豆。</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>3店舗すべてで販売：</strong></li>
-    <li>• オリジナルフレーバー フルーツと豆入り</li>
-    <li>• 抹茶バージョン</li>
-    <li>• いちごバージョン</li>
-    <li>• カップサイズ：小 ¥150-180、大 ¥250-300</li>
-  </ul>
-</div>
-
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-15.jpg" alt="白くまアイスクリーム 日本の夏の定番デザート">
-  <figcaption style="font-size: 0.7em; text-align: center;">白くまアイスクリーム 日本の夏の定番デザート</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-13.jpg" alt="白くまアイスクリーム日本の夏の定番デザート">
+  <figcaption style="font-size: 0.7em; text-align: center;">白くまアイスクリーム日本の夏の定番デザート</figcaption>
 </figure>
 
 ---
@@ -380,25 +285,13 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 日本全国で<strong>最も人気のおにぎりフレーバー</strong>！<br>
 <br>
-ツナマヨおにぎりは完璧な組み合わせ<br>
+ツナマヨおにぎりは完璧な組み合わせです。<br>
 香ばしいツナと日本のマヨネーズ、<br>
 パリパリの海苔で巻かれています。</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>🥇 セブンイレブン：</strong>プレミアムツナ、完璧な味付け（¥130-160）</li>
-    <li><strong>🥈 ファミリーマート：</strong>たっぷりツナフィリング（¥130-150）</li>
-    <li><strong>🥉 ローソン：</strong>標準品質、良いバリュー（¥120-150）</li>
-    <li><strong>その他の人気フレーバー：</strong></li>
-    <li>• 鮭（しゃけ）</li>
-    <li>• 梅干し（うめぼし）</li>
-    <li>• 昆布（こんぶ）</li>
-  </ul>
-</div>
-
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-16.jpg" alt="ツナマヨおにぎり 日本で最も人気のおにぎり">
-  <figcaption style="font-size: 0.7em; text-align: center;">ツナマヨおにぎり 日本で最も人気のおにぎり</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-14.jpg" alt="ツナマヨおにぎり日本で最も人気のおにぎり">
+  <figcaption style="font-size: 0.7em; text-align: center;">ツナマヨおにぎり日本で最も人気のおにぎり</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -411,30 +304,18 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 ## おでんシーズン（9月〜3月）
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
-秋と冬の間<br>
-（9月から3月まで）、<br>
+秋と冬の間、<br>
+（9月から3月まで）<br>
 すべてのコンビニが<br>
 <strong>出来立ての熱々おでん</strong>を販売！<br>
 <br>
-おでんは日本の鍋料理で<br>
+おでんは日本の鍋料理です。<br>
 様々な具材を<br>
 軽いだし汁で煮込みます。</p>
 
-<div class="info-box">
-  <ul>
-    <li><strong>人気のおでん具材：</strong></li>
-    <li>• 大根（だいこん）- ¥100</li>
-    <li>• 卵（たまご）- ¥80-100</li>
-    <li>• はんぺん - ¥100</li>
-    <li>• こんにゃく - ¥80</li>
-    <li>• 牛すじ（ぎゅうすじ）- ¥150</li>
-    <li>• 厚揚げ（あつあげ）- ¥100</li>
-  </ul>
-</div>
-
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-17.jpg" alt="コンビニおでんバー だし汁の鍋料理具材">
-  <figcaption style="font-size: 0.7em; text-align: center;">コンビニおでんバー だし汁の鍋料理具材</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-15.jpg" alt="コンビニおでんバーだし汁の鍋料理具材">
+  <figcaption style="font-size: 0.7em; text-align: center;">コンビニおでんバーだし汁の鍋料理具材</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -451,14 +332,14 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 弁当や調理済み食品を購入すると、<br>
-スタッフが温めるか聞いてきます：<br>
+スタッフが温めるか聞いてきます。<br>
 <strong>「あたためますか？」</strong><br>
 <br>
 ✅ <strong>「はい」</strong>と答えると温めてくれます<br>
 ❌ <strong>「大丈夫です」</strong>と答えると温めません</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-18.jpg" alt="コンビニ電子レンジ加熱サービス">
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-16.jpg" alt="コンビニ電子レンジ加熱サービス">
   <figcaption style="font-size: 0.7em; text-align: center;">コンビニ電子レンジ加熱サービス</figcaption>
 </figure>
 
@@ -491,8 +372,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-19.jpg" alt="セブンイレブンのSEVEN Bank ATM 国際カード対応">
-  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブンのSEVEN Bank ATM 国際カード対応</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-17.jpg" alt="セブンイレブンのSEVENBankATM国際カード対応">
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブンのSEVENBankATM国際カード対応</figcaption>
 </figure>
 
 ---
@@ -508,7 +389,7 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 <strong>割引シール</strong>を探しましょう。</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-20.jpg" alt="午後9時以降の弁当割引シール">
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-18.jpg" alt="午後9時以降の弁当割引シール">
   <figcaption style="font-size: 0.7em; text-align: center;">午後9時以降の弁当割引シール</figcaption>
 </figure>
 
@@ -537,8 +418,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-21.jpg" alt="キャベジンとパンシロン コンビニで人気の消化薬">
-  <figcaption style="font-size: 0.7em; text-align: center;">キャベジンとパンシロン コンビニで人気の消化薬</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-19.jpg" alt="キャベジンとパンシロンコンビニで人気の消化薬">
+  <figcaption style="font-size: 0.7em; text-align: center;">キャベジンとパンシロンコンビニで人気の消化薬</figcaption>
 </figure>
 
 ---
