@@ -613,7 +613,7 @@ When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use CSS Gri
   <figcaption style="font-size: 0.7em; text-align: center;">Caption for all three images</figcaption>
 </div>
 
-<!-- 4 images side-by-side -->
+<!-- 4 images in 2x2 tile layout -->
 <div class="image-group-4">
   <figure>
     <img src="/images/posts/post-slug-15.jpg" alt="...">
@@ -635,8 +635,11 @@ When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use CSS Gri
 - ✅ All figcaptions MUST use inline style: `style="font-size: 0.7em; text-align: center;"`
 - ✅ For image groups, figcaption goes OUTSIDE individual `<figure>` tags
 - ✅ Each image in a group gets its own `<figure>` tag with unique number
-- ✅ CSS Grid automatically arranges images horizontally (desktop) or vertically (mobile)
-- ✅ Max-width constraints: 2 images (80%), 3 images (90%), 4 images (100%)
+- ✅ CSS Grid layout:
+  - **2 images**: Side-by-side (max-width: 45%)
+  - **3 images**: Three in a row (max-width: 45%)
+  - **4 images**: 2x2 tile layout - top row: 2 images, bottom row: 2 images (max-width: 50%)
+- ✅ Mobile (< 768px): All image groups automatically switch to single column layout
 
 **Google Maps Embed (Location Information):**
 
@@ -704,21 +707,22 @@ All blog posts share common styles through `/static/css/blog-post-common.css`.
 .tip-box               /* Yellow tip/warning box */
 blockquote             /* Blue left-border quotations */
 
-/* Image Group Layout (Side-by-Side) */
-.image-group-2         /* 2 images horizontally (80% max-width) */
-.image-group-3         /* 3 images horizontally (90% max-width) */
-.image-group-4         /* 4 images horizontally (100% max-width) */
+/* Image Group Layout (CSS Grid) */
+.image-group-2         /* 2 images side-by-side (45% max-width) */
+.image-group-3         /* 3 images in a row (45% max-width) */
+.image-group-4         /* 4 images in 2x2 tile (50% max-width) */
 ```
 
 **CSS Grid Image Groups:**
-- Uses CSS Grid for side-by-side layout on desktop
+- Uses CSS Grid for flexible layout on desktop
 - Automatically switches to single column on mobile (< 768px)
-- Different max-width constraints for natural sizing:
-  - 2 images: 80% of container width
-  - 3 images: 90% of container width
-  - 4 images: 100% of container width
+- Compact sizing for better visual balance:
+  - **2 images**: Side-by-side, 45% max-width
+  - **3 images**: Three in a row, 45% max-width
+  - **4 images**: 2x2 tile layout (top 2, bottom 2), 50% max-width
 - Centered with `margin: 2rem auto`
 - Preserves aspect ratios with `height: auto`
+- Gap between images: 1rem
 
 **Complete Example:**
 ```html
@@ -1536,13 +1540,21 @@ Build Output:    /public/
 **Next Review:** When significant project changes occur
 
 **Recent Updates (2025-11-20):**
-- **BREAKING CHANGE:** Simplified image validation to 1:1 matching (removed featured image exclusion logic)
-- Updated `download_naver_images.py` validation: Naver count = Hugo count (exact match)
-- Changed sequential numbering: 01, 02, 03... (previously 02, 03, 04...)
-- Updated regex pattern to detect images inside CSS Grid `.image-group-2/3/4` divs
-- Featured_image field and first body image now use the **same** 01.jpg file
+- **CSS Update:** Optimized image group sizing for better visual balance
+  - `.image-group-2`: 80% → 45% max-width (more compact)
+  - `.image-group-3`: 90% → 45% max-width (more compact)
+  - `.image-group-4`: Changed from 4-in-a-row to 2x2 tile layout (top 2, bottom 2), 50% max-width
+- **BREAKING CHANGE:** Simplified `download_naver_images.py` - removed all validation logic
+  - No longer checks Hugo markdown files or validates image sequences
+  - Simply downloads images from Naver HTML in order: 01.jpg, 02.jpg, ..., 22.jpg
+  - Usage: `python3 download_naver_images.py <naver.html> <post-slug>`
+- **Image Fix:** Resolved japan-convenience-store-shopping-best-10 image mismatch
+  - Removed 3 phantom storefront images (02-04) that didn't exist in Naver HTML
+  - Remapped all image references to correct sequence (old 05→new 03, etc.)
+  - Updated all captions/descriptions to match Naver HTML exactly
+- Updated 1:1 matching: Featured_image field and first body image use the **same** 01.jpg file
 - Added figcaption styling standard (font-size: 0.7em, center-aligned)
-- Documented CSS Grid image group layout (`.image-group-2/3/4`)
+- Documented CSS Grid image group layout with new sizing constraints
 
 **Update This Document When:**
 - Project structure changes significantly

@@ -87,21 +87,21 @@ blockquote {
   align-items: start;
 }
 
-/* 2개 나란히: 최대 너비 80% */
+/* 2개 나란히: 45% 사이즈 */
 .image-group-2 {
   grid-template-columns: 1fr 1fr !important;
-  max-width: 80%;
+  max-width: 45%;
 }
 
-/* 3개 나란히: 최대 너비 65% */
+/* 3개 나란히: 45% 사이즈 */
 .image-group-3 {
   grid-template-columns: 1fr 1fr 1fr !important;
-  max-width: 65%;
+  max-width: 45%;
 }
 
-/* 4개 나란히: 최대 너비 50% */
+/* 4개 타일 레이아웃: 위 2개, 아래 2개 (50% 사이즈) */
 .image-group-4 {
-  grid-template-columns: 1fr 1fr 1fr 1fr !important;
+  grid-template-columns: 1fr 1fr !important;
   max-width: 50%;
 }
 
