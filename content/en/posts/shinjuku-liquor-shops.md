@@ -18,7 +18,10 @@ with tax-free shopping tips and discount coupons,<br>
 your complete whisky shopping guide! 🍶</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ Want to see Shinjuku's full itinerary at a glance?<br>
-➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><strong>Complete Shinjuku Activities Guide ↗</strong></a></p>
+➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><strong>Complete Shinjuku Activities Guide ↗</strong></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-01.jpg" alt="Shinjuku liquor shops Yamaya Shinanoya Bic Camera whisky tax-free discount coupons">

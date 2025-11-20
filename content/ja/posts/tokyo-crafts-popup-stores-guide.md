@@ -94,7 +94,10 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 **⭐ 代官山必須旅行コースも一緒に確認してみてください**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224032515713" target="_blank">代官山の見どころ、蔦屋書店（T-SITE）からレストラン、セレクトショップ、ショッピングまで完璧コース</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032515713
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">代官山の見どころ、蔦屋書店（T-SITE）からレストラン、セレクトショップ、ショッピングまで完璧コース</a>**
 
 ---
 
@@ -134,7 +137,10 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 **⭐ 羽田空港からの行き方を確認してみてください**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/223995074888" target="_blank">東京羽田空港到着ガイド：スイカ発行、リムジンバス予約及び市内への行き方（2025最新）</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223995074888
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">東京羽田空港到着ガイド：スイカ発行、リムジンバス予約及び市内への行き方（2025最新）</a>**
 
 ---
 
@@ -210,7 +216,10 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 **⭐ 新宿必須旅行コースも一緒に確認してみてください**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿の遊び場所、新宿御苑からレストラン、ショッピング、ゴールデン街まで完璧コース総まとめ</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">新宿の遊び場所、新宿御苑からレストラン、ショッピング、ゴールデン街まで完璧コース総まとめ</a>**
 
 ---
 
@@ -239,10 +248,19 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 下の記事でもっと多くの「東京ショッピングルート」を確認してみてください👇
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224039113760" target="_blank"><b>日本旅行割引クーポン総まとめ2025（ドン・キホーテ、ビックカメラ、百貨店など免税+追加割引）</b></a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224039113760
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>日本旅行割引クーポン総まとめ2025（ドン・キホーテ、ビックカメラ、百貨店など免税+追加割引）</b></a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224022065518" target="_blank"><b>2025年日本ドン・キホーテショッピングリスト必須おすすめアイテム＆割引クーポン、免税方法総まとめ</b></a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224022065518
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>2025年日本ドン・キホーテショッピングリスト必須おすすめアイテム＆割引クーポン、免税方法総まとめ</b></a>**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224034429817" target="_blank"><b>東京アウトレットおすすめ、三井アウトレットパーク木更津割引クーポン、入店ブランド、行き方（御殿場比較）</b></a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224034429817
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>東京アウトレットおすすめ、三井アウトレットパーク木更津割引クーポン、入店ブランド、行き方（御殿場比較）</b></a>**
 
 </div>

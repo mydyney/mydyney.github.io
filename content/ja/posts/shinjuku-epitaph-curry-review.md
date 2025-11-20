@@ -18,7 +18,10 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 メニュー·価格·営業時間まで一度にまとめました。</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐新宿の完全な旅行コースとレストラン·ショッピング·夜景情報を一目で見たいなら<br>
-➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>新宿完全コースまとめ</b></a></p>
+➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>新宿完全コースまとめ</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-01.jpg" alt="新宿カレー店エピタフ 半々カレー 食べログ百名店">
@@ -286,7 +289,10 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 下の**新宿完璧コースガイド**を確認してください！
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>新宿の遊び場所、新宿御苑からレストラン、ショッピング、ゴールデン街まで完璧コース総まとめ</b></a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>新宿の遊び場所、新宿御苑からレストラン、ショッピング、ゴールデン街まで完璧コース総まとめ</b></a>**
 
 **➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>東京都庁無料展望台ライトショー時間、行き方、休館日、新宿夜景コツ総まとめ</b></a>**
 

@@ -17,7 +17,10 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 そしてJR/地下鉄との比較まで、すべてまとめました。</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐新宿の完全な観光コース（レストラン・ショッピング・夜景）を一目で見たいですか？<br>
-➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><b>新宿完全ガイド</b></a></p>
+➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><b>新宿完全ガイド</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg" alt="新宿からディズニーランドへのリムジンバス バスタ新宿時刻表と料金ガイド">
@@ -270,7 +273,10 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 ## 📌 関連旅行ガイド
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">新宿完全コースガイド</a>**
+**➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">新宿完全コースガイド</a>**
 
 **➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方</a>**
 

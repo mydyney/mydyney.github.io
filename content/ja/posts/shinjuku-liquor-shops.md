@@ -16,7 +16,10 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 山崎・響・カバランの価格と免税裏技を完全網羅 🍶<br>
 <br>
 ⭐ 新宿1日動線を一目で見たいなら...<br>
-➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank"><strong>新宿観光完全ガイド ↗</strong></a></p>
+➡️ <!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><strong>新宿観光完全ガイド ↗</strong></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-01.jpg" alt="新宿酒屋 やまや 信濃屋 ビックカメラ ウイスキー 免税 割引クーポン">

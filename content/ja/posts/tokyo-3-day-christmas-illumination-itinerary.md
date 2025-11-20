@@ -57,12 +57,24 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>新宿 ➔ 空港</b><br>
 <b>​</b><br>
 <b>🎁 東京のクリスマスマーケット情報を全部知りたいですか?</b><br>
-<b><a href="https://blog.naver.com/tokyomate/224045496649" target="_blank">➡️ 2025東京クリスマスマーケット、</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224045496649" target="_blank">どこに行くべき?(上野、六本木など)</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224045496649
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 2025東京クリスマスマーケット、</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224045496649
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">どこに行くべき?(上野、六本木など)</a></b><br>
 ​<br>
 <b>🎄 東京の最高のイルミネーションBEST 5情報は?</b><br>
-<b><a href="https://blog.naver.com/tokyomate/224042431249" target="_blank"> ➡️ 2025東京クリスマス</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224042431249" target="_blank">イルミネーション BEST 5</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224042431249
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"> ➡️ 2025東京クリスマス</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224042431249
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">イルミネーション BEST 5</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-02.jpg" alt="六本木ヒルズけやき坂のクリスマスイルミネーション">
@@ -100,13 +112,31 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>新宿ホテル</b>に荷物を預けて<br>
 旅をスタートしましょう。<br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224007949043" target="_blank">➡️東京成田空港到着ガイド:</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224007949043" target="_blank">市内への行き方、交通機関の比較、</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224007949043" target="_blank">Suicaカード、ATM完全ガイド</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224007949043
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️東京成田空港到着ガイド:</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224007949043
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">市内への行き方、交通機関の比較、</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224007949043
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">Suicaカード、ATM完全ガイド</a></b><br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224002738158" target="_blank">➡️ 成田エクスプレス(N'EX)</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224002738158" target="_blank">予約、価格、時刻表完全ガイド</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224002738158" target="_blank">(往復割引、座席のコツ!)</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-03.jpg" alt="仁川-成田便から見える富士山">
@@ -119,7 +149,10 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 ボリューム満点の遅めのランチを食べて<br>
 本格的なコースをスタート。<br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">➡️ 新宿完全活動ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-04.jpg" alt="新宿駅東口">
@@ -134,9 +167,18 @@ SuicaまたはPasmoで<br>
 <b>東京メトロパス</b>利用者は<br>
 <b>Ⓕ副都心線で渋谷駅へ</b><br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224026098490" target="_blank">➡️東京メトロパス(Tokyo Subway Ticket)</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224026098490" target="_blank">交換場所、購入、使用方法、路線完全ガイド</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224026098490" target="_blank">(24、48、72時間)</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224026098490
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️東京メトロパス(Tokyo Subway Ticket)</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224026098490
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">交換場所、購入、使用方法、路線完全ガイド</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224026098490
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">(24、48、72時間)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-05.png" alt="東京メトロパス路線図">
@@ -152,9 +194,18 @@ SuicaまたはPasmoで<br>
 <b>🛍️ 渋谷メガドンキホーテ、パルコ</b><br>
 <b>(オプション) 渋谷スカイ展望台</b><br>
 <b>​</b><br>
-<b><a href="https://blog.naver.com/tokyomate/224031114514" target="_blank">➡️ 渋谷完全活動ガイド</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224022065518" target="_blank">➡️ 2025年日本ドンキホーテショッピングリスト</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224022065518" target="_blank">必買アイテム&割引クーポン、免税方法</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031114514
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 渋谷完全活動ガイド</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224022065518
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 2025年日本ドンキホーテショッピングリスト</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224022065518
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">必買アイテム&割引クーポン、免税方法</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-07.jpg" alt="渋谷メガドンキホーテの入口">
@@ -180,8 +231,14 @@ SuicaまたはPasmoで<br>
 表参道イルミネーションと<br>
 表参道ヒルズを一緒に楽しみましょう。<br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224030294691" target="_blank">➡️ 原宿完全活動ガイド</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224027835049" target="_blank">➡️表参道おすすめコースガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224030294691
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 原宿完全活動ガイド</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224027835049
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️表参道おすすめコースガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-09.png" alt="原宿-表参道クリスマスイルミネーション">
@@ -201,7 +258,10 @@ SuicaまたはPasmoで<br>
 思い出横丁の路地で、<br>
 遅めのディナーまたは夜食を楽しんで<br>
 一日を締めくくりましょう。<br>
-<b><a href="https://blog.naver.com/tokyomate/224035271300" target="_blank">➡️ 新宿完全活動ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-10.jpg" alt="新宿思い出横丁の入口">
@@ -243,7 +303,10 @@ SuicaまたはPasmoで<br>
 <b>🏯 浅草</b><br>
 浅草寺でおみくじを引いて<br>
 仲見世通りでストリートフードを楽しみましょう<br>
-<b><a href="https://blog.naver.com/tokyomate/224024819592" target="_blank">➡️ 浅草観光&レストラン完全ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224024819592
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 浅草観光&レストラン完全ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-11.jpg" alt="浅草浅草寺雷門">
@@ -262,8 +325,14 @@ SuicaまたはPasmoで<br>
 <b>上野公園クリスマスマーケット</b>で<br>
 お祭り気分を味わいましょう。<br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224028694874" target="_blank">➡️ 上野観光</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224028694874" target="_blank">&アメ横市場ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224028694874
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 上野観光</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224028694874
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">&アメ横市場ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-12.jpg" alt="東京最大規模のクリスマスマーケットが開催される上野公園">
@@ -278,8 +347,14 @@ SuicaまたはPasmoで<br>
 さっぱりとした鴨ラーメンを<br>
 ランチに楽しみましょう。<br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224028694874" target="_blank">➡️ 上野観光</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224028694874" target="_blank">&アメ横市場ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224028694874
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 上野観光</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224028694874
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">&アメ横市場ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-13.jpg" alt="上野アメ横レストランラーメン鴨to葱">
@@ -297,8 +372,14 @@ SuicaまたはPasmoで<br>
 コレド室町、ポケモンセンターDXを訪問<br>
 東京駅キャラクターストリートで<br>
 最後のお土産ショッピング<br>
-<b><a href="https://blog.naver.com/tokyomate/224042267263" target="_blank">➡️ 日本橋必見スポット</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224031611221" target="_blank">➡️ 東京駅完全活動ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224042267263
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 日本橋必見スポット</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031611221
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 東京駅完全活動ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.png" alt="日本橋高島屋本店ポケモンセンター東京DX&ポケモンカフェ">
@@ -316,8 +397,14 @@ SuicaまたはPasmoで<br>
 東京駅赤レンガ建築の夜景<br>
 丸の内イルミネーション散策<br>
 KITTEでディナー<br>
-<b><a href="https://blog.naver.com/tokyomate/223680263119" target="_blank">➡️ 東京駅根室花まる回転寿司</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/223680263119" target="_blank">待ち時間と予約のコツ</a></b>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223680263119
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 東京駅根室花まる回転寿司</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223680263119
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">待ち時間と予約のコツ</a></b>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-15.png" alt="東京駅回転寿司レストラン根室花まる">
@@ -389,7 +476,10 @@ KITTEでディナー<br>
 築地市場で、<br>
 新鮮な海鮮と<br>
 玉子焼きで朝食を<br>
-<b><a href="https://blog.naver.com/tokyomate/224037272726" target="_blank">➡️ 築地市場レストランガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224037272726
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 築地市場レストランガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-19.jpg" alt="築地市場の入口">
@@ -406,7 +496,10 @@ KITTEでディナー<br>
 銀座へ(日比谷線1駅)<br>
 ギンザシックス、三越、伊東屋などで<br>
 高級ショッピングとウィンドウショッピング<br>
-<b><a href="https://blog.naver.com/tokyomate/223989943826" target="_blank">➡️ 銀座必見スポット完全ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223989943826
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 銀座必見スポット完全ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-20.jpg" alt="銀座歌舞伎座">
@@ -424,7 +517,10 @@ KITTEでディナー<br>
 銀座近くの有楽町で、<br>
 ひつまぶし(うな丼)レストラン<br>
 うな富士で贅沢なランチ。<br>
-<b><a href="https://blog.naver.com/tokyomate/223914321510" target="_blank">➡️ 炭焼うな富士、ミシュランうなぎ</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914321510
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 炭焼うな富士、ミシュランうなぎ</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-22.jpg" alt="銀座炭焼うな富士有楽町ひつまぶし">
@@ -439,7 +535,10 @@ KITTEでディナー<br>
 <b>🎄 麻布台ヒルズ</b><br>
 <b>クリスマスマーケット</b><br>
 東京タワーの景色とクリスマスマーケットを楽しみましょう<br>
-<b><a href="https://blog.naver.com/tokyomate/224047575500" target="_blank">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224047575500
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-23.png" alt="麻布台ヒルズクリスマスマーケット">
@@ -462,7 +561,10 @@ KITTEでディナー<br>
 六本木ヒルズへ(徒歩10分)<br>
 クリスマスマーケットと<br>
 けやき坂イルミネーション<br>
-<b><a href="https://blog.naver.com/tokyomate/223988228389" target="_blank">➡️ 六本木完全活動ガイド</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223988228389
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 六本木完全活動ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.png" alt="六本木ヒルズクリスマス">
@@ -475,8 +577,14 @@ KITTEでディナー<br>
 ミシュランビブグルマン今かつで<br>
 柔らかいササミカツディナー<br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/223993881300" target="_blank">➡️東京六本木レストランマップ</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/223993881300" target="_blank">ミシュラン、食べログおすすめレストラン</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223993881300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️東京六本木レストランマップ</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223993881300
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">ミシュラン、食べログおすすめレストラン</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-26.jpg" alt="六本木レストラン、今かつ本店ササミカツ">
@@ -538,8 +646,14 @@ KITTEでディナー<br>
 伊勢丹/高島屋デパートでショッピング<br>
 (ランチ) ミシュランうどんきりむぎや<br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/223914223908" target="_blank">➡️東京新宿うどんレストラン、</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/223914223908" target="_blank">きりむぎや甚六ミシュランうどん</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914223908
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️東京新宿うどんレストラン、</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914223908
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">きりむぎや甚六ミシュランうどん</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-30.jpg" alt="東京新宿うどんレストランきりむぎや甚六ミシュランうどん">
@@ -552,9 +666,18 @@ KITTEでディナー<br>
 <b>成田エクスプレス(N'EX)</b>で<br>
 空港へ!<br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224002738158" target="_blank">➡️ 成田エクスプレス(N'EX)</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224002738158" target="_blank">予約、価格、時刻表完全ガイド</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224002738158" target="_blank">(往復割引、座席のコツ!)</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-31.jpg" alt="成田空港出発帰国!!!">
@@ -603,10 +726,22 @@ KITTEでディナー<br>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>交通カード&割引クーポン</b><br>
-<b><a href="https://blog.naver.com/tokyomate/224046408131" target="_blank">➡️ 東京交通カード完全ガイド</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224046408131" target="_blank">(iPhone Suica)</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224046408131
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 東京交通カード完全ガイド</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224046408131
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
-<b><a href="https://blog.naver.com/tokyomate/224039113760" target="_blank">➡️ 日本旅行割引クーポン完全ガイド</a></b><br>
-<b><a href="https://blog.naver.com/tokyomate/224039113760" target="_blank">(ドンキホーテ、ドラッグストア、デパート)</a></b></p>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224039113760
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><br>
+<b><!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224039113760
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b></p>
 
 </div>
