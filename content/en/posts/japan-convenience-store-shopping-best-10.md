@@ -23,7 +23,7 @@ for your Japan trip!</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-02.jpg" alt="Japan's 3 major convenience stores: 7-Eleven, FamilyMart, Lawson comparison">
-  <figcaption>Japan's 3 major convenience stores: 7-Eleven, FamilyMart, Lawson comparison</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Japan's 3 major convenience stores: 7-Eleven, FamilyMart, Lawson comparison</figcaption>
 </figure>
 
 ---
@@ -45,7 +45,7 @@ unique signature products and strengths!</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-03.jpg" alt="7-Eleven storefront with signature green, orange, and red stripes">
-  <figcaption>7-Eleven storefront with signature green, orange, and red stripes</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven storefront with signature green, orange, and red stripes</figcaption>
 </figure>
 
 ---
@@ -80,15 +80,15 @@ unique signature products and strengths!</p>
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-04.jpg" alt="FamilyMart storefront with blue and green branding">
-  <figcaption>FamilyMart storefront with blue and green branding</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-05.jpg" alt="Lawson storefront with iconic blue signage">
-  <figcaption>Lawson storefront with iconic blue signage</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-04.jpg" alt="FamilyMart storefront with blue and green branding">
+  </figure>
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-05.jpg" alt="Lawson storefront with iconic blue signage">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">FamilyMart (left) and Lawson (right) storefronts</figcaption>
+</div>
 
 ---
 
@@ -126,7 +126,7 @@ with perfectly balanced seasoning.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-06.jpg" alt="7-Eleven's famous egg sandwich with fluffy egg salad">
-  <figcaption>7-Eleven's famous egg sandwich with fluffy egg salad</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven's famous egg sandwich with fluffy egg salad</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -156,15 +156,15 @@ with rich, smooth cream filling.</p>
   </ul>
 </div>
 
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-07.jpg" alt="Lawson Uchi Cafe Premium Roll Cake - signature dessert">
-  <figcaption>Lawson Uchi Cafe Premium Roll Cake - signature dessert</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-08.jpg" alt="Lawson Basque Cheesecake - premium burnt cheesecake">
-  <figcaption>Lawson Basque Cheesecake - premium burnt cheesecake</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-07.jpg" alt="Lawson Uchi Cafe Premium Roll Cake - signature dessert">
+  </figure>
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-08.jpg" alt="Lawson Basque Cheesecake - premium burnt cheesecake">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">Lawson Uchi Cafe: Premium Roll Cake (left) and Basque Cheesecake (right)</figcaption>
+</div>
 
 ---
 
@@ -190,7 +190,7 @@ fried chicken.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-09.jpg" alt="FamilyMart's legendary Famichiki fried chicken">
-  <figcaption>FamilyMart's legendary Famichiki fried chicken</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">FamilyMart's legendary Famichiki fried chicken</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -218,15 +218,15 @@ are both excellent choices.</p>
   </ul>
 </div>
 
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-10.jpg" alt="7-Eleven frozen smoothie drinks - summer favorites">
-  <figcaption>7-Eleven frozen smoothie drinks - summer favorites</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-11.jpg" alt="FamilyMart frappe - coffee and dessert flavors">
-  <figcaption>FamilyMart frappe - coffee and dessert flavors</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-10.jpg" alt="7-Eleven frozen smoothie drinks - summer favorites">
+  </figure>
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-11.jpg" alt="FamilyMart frappe - coffee and dessert flavors">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven frozen drinks (left) and FamilyMart frappe (right)</figcaption>
+</div>
 
 ---
 
@@ -255,7 +255,7 @@ they recreate authentic restaurant flavors.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-12.jpg" alt="7-Eleven exclusive restaurant collaboration cup ramen">
-  <figcaption>7-Eleven exclusive restaurant collaboration cup ramen</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven exclusive restaurant collaboration cup ramen</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -285,7 +285,7 @@ that make an excellent snack or side dish.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-13.jpg" alt="7-Eleven smoked eggs - perfectly seasoned snack">
-  <figcaption>7-Eleven smoked eggs - perfectly seasoned snack</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven smoked eggs - perfectly seasoned snack</figcaption>
 </figure>
 
 ---
@@ -312,7 +312,7 @@ and unique flavored chuhai (酎ハイ).</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-14.jpg" alt="Limited edition beer and highball selection at convenience stores">
-  <figcaption>Limited edition beer and highball selection at convenience stores</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Limited edition beer and highball selection at convenience stores</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -345,7 +345,7 @@ and other beloved characters.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-15.jpg" alt="FamilyMart exclusive Line Friends character socks">
-  <figcaption>FamilyMart exclusive Line Friends character socks</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">FamilyMart exclusive Line Friends character socks</figcaption>
 </figure>
 
 ---
@@ -371,7 +371,7 @@ condensed milk, fruits, and sweet beans.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-16.jpg" alt="Shirokuma ice cream - Japanese summer classic dessert">
-  <figcaption>Shirokuma ice cream - Japanese summer classic dessert</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shirokuma ice cream - Japanese summer classic dessert</figcaption>
 </figure>
 
 ---
@@ -402,7 +402,7 @@ wrapped in crispy seaweed.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-17.jpg" alt="Tuna mayo onigiri - Japan's most popular rice ball">
-  <figcaption>Tuna mayo onigiri - Japan's most popular rice ball</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tuna mayo onigiri - Japan's most popular rice ball</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -438,7 +438,7 @@ in a light dashi broth.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-18.jpg" alt="Convenience store oden bar - hot pot ingredients in dashi broth">
-  <figcaption>Convenience store oden bar - hot pot ingredients in dashi broth</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Convenience store oden bar - hot pot ingredients in dashi broth</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -463,7 +463,7 @@ staff will ask if you want it heated:<br>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-19.jpg" alt="Convenience store microwave heating service">
-  <figcaption>Convenience store microwave heating service</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Convenience store microwave heating service</figcaption>
 </figure>
 
 ---
@@ -496,7 +496,7 @@ English menu available on all ATMs!</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-20.jpg" alt="SEVEN Bank ATM at 7-Eleven - international card friendly">
-  <figcaption>SEVEN Bank ATM at 7-Eleven - international card friendly</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">SEVEN Bank ATM at 7-Eleven - international card friendly</figcaption>
 </figure>
 
 ---
@@ -513,7 +513,7 @@ showing 20-50% off.</p>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-21.jpg" alt="After 9 PM discount stickers on bento boxes">
-  <figcaption>After 9 PM discount stickers on bento boxes</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">After 9 PM discount stickers on bento boxes</figcaption>
 </figure>
 
 ---
@@ -542,7 +542,7 @@ basic over-the-counter medicine!<br>
 
 <figure>
   <img src="/images/posts/japan-convenience-store-shopping-best-10-22.jpg" alt="Cabejin and Panciron - popular digestive aids at convenience stores">
-  <figcaption>Cabejin and Panciron - popular digestive aids at convenience stores</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Cabejin and Panciron - popular digestive aids at convenience stores</figcaption>
 </figure>
 
 ---
