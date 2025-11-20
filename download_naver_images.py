@@ -117,9 +117,9 @@ def extract_hugo_images(md_content):
         })
 
     # 2. body images 추출 (<figure> 태그)
-    # figcaption은 선택적 (optional)
+    # figcaption은 선택적 (optional), 내부에 HTML 태그 허용
     figure_pattern = re.compile(
-        r'<figure>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)">\s*(?:<figcaption>([^<]*)</figcaption>\s*)?</figure>',
+        r'<figure>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)">\s*(?:<figcaption>(.*?)</figcaption>\s*)?</figure>',
         re.DOTALL
     )
 
