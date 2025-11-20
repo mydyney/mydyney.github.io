@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-18
-> **Status:** ✅ Complete - 31 posts mapped
+> **Status:** ✅ Complete - 32 posts mapped
 
 ---
 
@@ -20,6 +20,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA) | Date | Status |
 |----------|-------------------|------|--------|
+| 224079692802 | tamiya-plamodel-factory-tokyo-shimbashi | 2025-11-18 | ✅ |
 | 224078737491 | yebisu-garden-place-illumination-christmas-market-2025 | 2025-11-17 | ✅ |
 | 224078087405 | toranomon-hills-hermes-event-2025 | 2025-11-16 | ✅ |
 | 224077357970 | evangelion-30th-roppongi-2025 | 2025-11-16 | ✅ |
@@ -73,6 +74,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
 | 224042431249 | roppongi-hills-hello-kitty-popup-2025, yebisu-garden-place-illumination-christmas-market-2025 | 2025 Tokyo Christmas Illumination BEST 5 (Omotesando, Marunouchi) |
 | 224045496649 | roppongi-hills-hello-kitty-popup-2025 | 2025 Tokyo Christmas Markets Guide (Ueno, Azabudai, etc.) |
+| 224044938913 | tamiya-plamodel-factory-tokyo-shimbashi | Tokyo Shimbashi & Shiodome Must-Visit Places Guide (Restaurants, Night Views) |
+| 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
+| 224022065518 | tamiya-plamodel-factory-tokyo-shimbashi | Japan Don Quijote Shopping List & Discount Coupons Guide |
+| 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi | Japan Kaldi Shopping List Must-Buy Recommendations |
+| 224050488006 | tamiya-plamodel-factory-tokyo-shimbashi | Japan Convenience Store Shopping List BEST 10 |
+| 224034429817 | tamiya-plamodel-factory-tokyo-shimbashi | Mitsui Outlet Park Kisarazu Discount Coupons & Brand Guide |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -100,6 +107,7 @@ sed -i 's|https://blog.naver.com/tokyomate/224065668379|/ja/posts/roppongi-chris
 # Convert all known Naver links to Hugo links
 
 declare -A MAPPINGS=(
+  ["224079692802"]="tamiya-plamodel-factory-tokyo-shimbashi"
   ["224078737491"]="yebisu-garden-place-illumination-christmas-market-2025"
   ["224078087405"]="toranomon-hills-hermes-event-2025"
   ["224077357970"]="evangelion-30th-roppongi-2025"
@@ -151,11 +159,11 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 31
-- **Naver IDs Tracked:** 31
-- **Posts with Internal Links:** 5+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills)
-- **Pending References:** 13
-- **Links Updated:** 0 (all links in shinanoya post need migration)
+- **Total Posts Migrated:** 32
+- **Naver IDs Tracked:** 32
+- **Posts with Internal Links:** 6+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory)
+- **Pending References:** 19
+- **Links Updated:** 0 (all links in shinanoya and tamiya posts need migration)
 - **Last Migration Date:** 2025-11-18
 
 ---
