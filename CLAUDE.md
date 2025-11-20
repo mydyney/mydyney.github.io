@@ -1218,10 +1218,23 @@ Result: 2 links work immediately, 4 marked for future update
 
 See `/LINK_MAPPING.md` for complete tracking database with 30 mapped posts.
 
-**Step 3: Manual Image Download**
-- User downloads images from Naver blog manually
-- Save images to `/static/images/posts/` with naming convention: `{post-slug}-{number}.jpg`
-- Number format: Zero-padded 2 digits (01, 02, 03, ...)
+**Step 3: Validation and Image Download (Integrated)**
+- Run integrated validation and download script:
+  ```bash
+  python3 download_naver_images.py naver.html post-slug
+  ```
+- Script performs automated validation:
+  - Analyzes Naver HTML (extracts all images, removes ad blocks)
+  - Handles image groups (2-4 images) correctly
+  - Validates against Hugo markdown (count, order, sequential numbering)
+  - Reports detailed errors if validation fails
+- Only downloads images if validation passes:
+  - Downloads to `/static/images/posts/` with naming: `{post-slug}-{number}.jpg`
+  - Converts to JPG format with optimization
+  - Numbers sequentially: 01.jpg (featured), 02.jpg+ (body images)
+- If validation fails:
+  - Fix Hugo markdown based on error report
+  - Re-run script until validation passes
 - User commits and pushes images
 
 **Step 4: Test and Deploy**
@@ -1253,10 +1266,12 @@ See `/LINK_MAPPING.md` for complete tracking database with 30 mapped posts.
 # Updates LINK_MAPPING.md with new post entry
 # (NO Korean version created)
 
-# Step 3: User manually downloads images
-# User saves to: static/images/posts/marunouchi-illumination-2025-01.jpg
-#                static/images/posts/marunouchi-illumination-2025-02.jpg
-#                ... (22 total)
+# Step 3: Run integrated validation and download script
+python3 download_naver_images.py naver.html marunouchi-illumination-2025
+# Script validates (count, order, numbering) then downloads if valid
+# Downloads to: static/images/posts/marunouchi-illumination-2025-01.jpg
+#               static/images/posts/marunouchi-illumination-2025-02.jpg
+#               ... (22 total, auto-converted to JPG)
 
 # Step 4: Test and deploy
 hugo server -D
@@ -1266,23 +1281,58 @@ git commit -m "Add images for Marunouchi Illumination 2025"
 git push
 ```
 
-### Migration Script (Legacy - Automated Downloads Blocked)
+### Migration Scripts
+
+#### Primary Script: `download_naver_images.py` (Integrated Validation)
 
 **File:** `download_naver_images.py`
 
-**⚠️ NOTE:** This script is kept for reference but **does not work** due to Naver's 403 Forbidden errors on automated downloads.
+**Purpose:** Validates Hugo markdown against Naver HTML, then downloads images only if validation passes.
 
-**Attempted Capabilities:**
-- Extracts image URLs from Naver Blog HTML
-- Attempts to download from `postfiles.pstatic.net` (fails with 403)
-- Deduplicates URLs
-- Numbers sequentially with zero-padding
+**Key Features:**
+- ✅ **HTML Parsing:** Uses BeautifulSoup to extract images from Naver HTML
+- ✅ **Ad Block Removal:** Automatically removes `ssp-adcontent`, `ad_power_content_wrap`, `data-ad` elements
+- ✅ **Image Group Detection:** Handles Naver image groups (2-4 images) correctly
+- ✅ **Validation First:** Validates image count, order, and sequential numbering BEFORE downloading
+- ✅ **Detailed Error Reports:** Shows exactly what's wrong if validation fails
+- ✅ **Smart Download:** Only downloads if validation passes (saves time/bandwidth)
+- ✅ **Format Conversion:** Converts all images to JPG with optimization
+- ✅ **Sequential Numbering:** 01.jpg (featured), 02.jpg+ (body images)
 
-**Why It Fails:**
-Naver's servers block automated requests with 403 Forbidden errors, even with proper User-Agent headers and Referer headers.
+**Usage:**
+```bash
+python3 download_naver_images.py <naver_html_file> <post-slug>
 
-**Solution:**
-Manual image download by user from Naver blog is the only reliable method.
+# Example:
+python3 download_naver_images.py naver.html japan-convenience-store-shopping-best-10
+```
+
+**Dependencies:**
+```bash
+pip3 install requests pillow beautifulsoup4 lxml
+```
+
+**Workflow:**
+1. Reads Naver HTML → extracts all images in order
+2. Reads Hugo markdown → extracts featured_image + body images
+3. Validates: count match, sequential numbering (02, 03, 04...)
+4. If validation fails → shows detailed error report, exits
+5. If validation passes → downloads all images, converts to JPG
+
+**See:** `README_IMAGE_DOWNLOAD.md` for comprehensive documentation
+
+#### Secondary Script: `check_image_order.py` (Standalone Validator)
+
+**File:** `check_image_order.py`
+
+**Purpose:** Standalone validation script for existing posts (legacy/debugging).
+
+**Usage:**
+```bash
+python3 check_image_order.py <naver_html_file> <post-slug>
+```
+
+**Note:** Most users should use the integrated `download_naver_images.py` instead.
 
 ---
 
@@ -1313,7 +1363,11 @@ git push -u origin claude/branch-name     # Push to branch
 #         - Loads LINK_MAPPING.md (31 mapped posts)
 #         - Auto-converts known Naver links to Hugo links
 #         - Adds TODO comments for unmapped links
-# Step 3: User manually downloads images from Naver
+# Step 3: Run integrated validation & download script
+python3 download_naver_images.py naver.html post-slug
+#         - Validates image count/order against Hugo markdown
+#         - Downloads only if validation passes
+#         - Auto-converts to JPG format
 # Step 4: Test with hugo server -D
 
 # Sitemap verification (IMPORTANT!)
