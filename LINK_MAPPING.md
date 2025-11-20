@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-20
-> **Status:** ✅ Complete - 34 posts mapped
+> **Status:** ✅ Complete - 35 posts mapped
 
 ---
 
@@ -53,6 +53,7 @@ When migrating a Naver blog post to Hugo:
 | 224054635720 | daikanyama-asakura-house | 2025-10-26 | ✅ |
 | 224052787206 | yokohama-vanilla-beans-cafe | 2025-10-24 | ✅ |
 | 224052237062 | yokohama-chinatown-keitokuchin-mapo-tofu | 2025-10-24 | ✅ |
+| 224052117830 | shibuya-ikushika-rice-refill-restaurant | 2025-10-24 | ✅ |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 
 ---
@@ -83,7 +84,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224050488006 | tamiya-plamodel-factory-tokyo-shimbashi | Japan Convenience Store Shopping List BEST 10 |
 | 224034429817 | tamiya-plamodel-factory-tokyo-shimbashi | Mitsui Outlet Park Kisarazu Discount Coupons & Brand Guide |
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
-| 224031114514 | meiji-jingu-gaien-ginkgo-avenue-tokyo | Shibuya Attractions: Shibuya Sky Reservations to Shopping and Restaurants |
+| 224031114514 | meiji-jingu-gaien-ginkgo-avenue-tokyo, shibuya-ikushika-rice-refill-restaurant | Shibuya Attractions: Shibuya Sky Reservations to Shopping and Restaurants |
 | 224038071853 | meiji-jingu-gaien-ginkgo-avenue-tokyo | 2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots |
 | 223979907748 | yokohama-chinatown-keitokuchin-mapo-tofu | Yokohama 1-Day Course: Chinatown Restaurants, Akarenga, Night Views Complete Guide |
 | 223976102621 | yokohama-chinatown-keitokuchin-mapo-tofu | Yokohama Transportation Pass, 'Minato Burari Ticket' Complete Guide |
@@ -147,6 +148,7 @@ declare -A MAPPINGS=(
   ["224054635720"]="daikanyama-asakura-house"
   ["224052787206"]="yokohama-vanilla-beans-cafe"
   ["224052237062"]="yokohama-chinatown-keitokuchin-mapo-tofu"
+  ["224052117830"]="shibuya-ikushika-rice-refill-restaurant"
   ["223664743235"]="shinanoya-roppongi-hills-supermarket"
 )
 
@@ -168,9 +170,9 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 34
-- **Naver IDs Tracked:** 34
-- **Posts with Internal Links:** 8+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, yokohama-chinatown-keitokuchin-mapo-tofu)
+- **Total Posts Migrated:** 35
+- **Naver IDs Tracked:** 35
+- **Posts with Internal Links:** 9+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant)
 - **Pending References:** 24
 - **Links Updated:** 0 (all links in shinanoya and tamiya posts need migration)
 - **Last Migration Date:** 2025-11-20
