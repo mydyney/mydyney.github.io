@@ -28,7 +28,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg" alt="横浜パブロフカフェ">
-  <figcaption>横浜パブロフカフェ - 食べログ百名店5年連続</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜パブロフカフェ - 食べログ百名店5年連続</figcaption>
 </figure>
 
 ## 🔔 'パブロフの犬'？ユニークなパウンドケーキコンセプト
@@ -41,22 +41,22 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-02.jpg" alt="パブロフカフェ エレガントなヨーロッパ風外観">
-  <figcaption>横浜パブロフ元町本店のエレガントなヨーロッパ風外観</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜パブロフ元町本店のエレガントなヨーロッパ風外観</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-03.jpg" alt="パブロフカフェ看板">
-  <figcaption>横浜パブロフ元町本店の看板</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜パブロフ元町本店の看板</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-04.jpg" alt="パブロフカフェ クラシックな店内">
-  <figcaption>横浜食べログ百名店カフェ パブロフのクラシックな店内の様子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜食べログ百名店カフェ パブロフのクラシックな店内の様子</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="パブロフカフェ クラシックな店内">
-  <figcaption>横浜食べログ百名店カフェ パブロフのクラシックな店内の様子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜食べログ百名店カフェ パブロフのクラシックな店内の様子</figcaption>
 </figure>
 
 ---
@@ -76,12 +76,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-06.jpg" alt="パブロフの代表メニュー ケーキセット 5種類の華やかなパウンドケーキ">
-  <figcaption>パブロフの代表メニュー「ケーキセット」- 5種類の華やかなパウンドケーキ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">パブロフの代表メニュー「ケーキセット」- 5種類の華やかなパウンドケーキ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-07.jpg" alt="パブロフの ケーキセットとカフェラテ">
-  <figcaption>パブロフの代表メニュー「ケーキセット」とカフェラテ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">パブロフの代表メニュー「ケーキセット」とカフェラテ</figcaption>
 </figure>
 
 ### 2. フレンチトースト ベリー（フレンチトースト）
@@ -92,7 +92,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-08.jpg" alt="パブロフの人気メニュー フレンチトースト ベリー">
-  <figcaption>パブロフの人気メニュー フレンチトースト ベリー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">パブロフの人気メニュー フレンチトースト ベリー</figcaption>
 </figure>
 
 ### 3. 生ハムモッツァレラサンドイッチ（プリンアラモード）
@@ -103,7 +103,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-09.jpg" alt="パブロフのブランチメニュー 生ハムモッツァレラサンドイッチ">
-  <figcaption>パブロフのブランチメニュー 生ハムモッツァレラサンドイッチ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">パブロフのブランチメニュー 生ハムモッツァレラサンドイッチ</figcaption>
 </figure>
 
 ---
@@ -149,7 +149,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-10.jpg" alt="横浜食べログ百名店カフェ パブロフギフトセット">
-  <figcaption>横浜食べログ百名店カフェ パブロフギフトセット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜食べログ百名店カフェ パブロフギフトセット</figcaption>
 </figure>
 
 ---
@@ -167,12 +167,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="ミセス パブロフ ベーカリーの華やかなクロワッサンショーケース">
-  <figcaption>横浜クロワッサングルメ ミセス パブロフ ベーカリーの華やかなクロワッサンショーケース</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜クロワッサングルメ ミセス パブロフ ベーカリーの華やかなクロワッサンショーケース</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-12.jpg" alt="ミセス パブロフ ベーカリー">
-  <figcaption>横浜クロワッサングルメ <b>ミセス パブロフ ベーカリー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜クロワッサングルメ <b>ミセス パブロフ ベーカリー</b></figcaption>
 </figure>
 
 ---

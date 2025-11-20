@@ -18,7 +18,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg" alt="明治神宮外苑 東京イチョウ並木 11月紅葉名所、ライトアップ、クリスマスマーケット完全ガイド">
-  <figcaption>明治神宮外苑 東京イチョウ並木 11月紅葉名所、ライトアップ、クリスマスマーケット完全ガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 東京イチョウ並木 11月紅葉名所、ライトアップ、クリスマスマーケット完全ガイド</figcaption>
 </figure>
 
 ## はじめに
@@ -49,7 +49,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-02.jpg" alt="明治神宮 vs 明治神宮外苑 位置比較地図（左：明治神宮、右：明治神宮外苑）">
-  <figcaption>明治神宮 vs 明治神宮外苑 位置比較地図（左：明治神宮、右：明治神宮外苑）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮 vs 明治神宮外苑 位置比較地図（左：明治神宮、右：明治神宮外苑）</figcaption>
 </figure>
 
 ---
@@ -64,7 +64,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-03.jpg" alt="明治神宮外苑 東京イチョウ並木 黄金のトンネル全景">
-  <figcaption>明治神宮外苑 東京イチョウ並木 黄金のトンネル全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 東京イチョウ並木 黄金のトンネル全景</figcaption>
 </figure>
 
 ---
@@ -85,7 +85,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-04.jpg" alt="明治神宮外苑 行き方：外苑前駅 4a出口 案内標識">
-  <figcaption>明治神宮外苑 行き方：外苑前駅 4a出口 案内標識</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 行き方：外苑前駅 4a出口 案内標識</figcaption>
 </figure>
 
 ---
@@ -102,7 +102,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-05.jpg" alt="11月末見頃時期の明治神宮外苑イチョウ">
-  <figcaption>11月末見頃時期の明治神宮外苑イチョウ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">11月末見頃時期の明治神宮外苑イチョウ</figcaption>
 </figure>
 
 ### 2. 夜間ライトアップ
@@ -118,7 +118,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-06.jpg" alt="明治神宮外苑 東京イチョウ並木 夜間ライトアップ照明（出典）">
-  <figcaption>明治神宮外苑 東京イチョウ並木 夜間ライトアップ照明（<a href="https://www.metro.tokyo.lg.jp/information/press/2025/11/2025110714?utm_source=chatgpt.com" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 東京イチョウ並木 夜間ライトアップ照明（<a href="https://www.metro.tokyo.lg.jp/information/press/2025/11/2025110714?utm_source=chatgpt.com" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ---
@@ -138,7 +138,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-07.jpg" alt="クリスマスマーケットを準備中の明治神宮外苑 聖徳記念絵画館前 広場">
-  <figcaption>クリスマスマーケットを準備中の明治神宮外苑 聖徳記念絵画館前 広場</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">クリスマスマーケットを準備中の明治神宮外苑 聖徳記念絵画館前 広場</figcaption>
 </figure>
 
 ---
@@ -151,7 +151,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-08.jpg" alt="明治神宮外苑 東京イチョウ並木 フォトゾーン：横断歩道中央">
-  <figcaption>明治神宮外苑 東京イチョウ並木 フォトゾーン：横断歩道中央</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 東京イチョウ並木 フォトゾーン：横断歩道中央</figcaption>
 </figure>
 
 ### 2️⃣ シェイクシャック1号店テラス
@@ -162,7 +162,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-09.jpg" alt="明治神宮外苑 東京イチョウ並木 フォトゾーン：シェイクシャック（Shake Shack）テラス">
-  <figcaption>明治神宮外苑 東京イチョウ並木 フォトゾーン：シェイクシャック（Shake Shack）テラス</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 東京イチョウ並木 フォトゾーン：シェイクシャック（Shake Shack）テラス</figcaption>
 </figure>
 
 ### 3️⃣ 道の両側の歩道
@@ -171,7 +171,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-10.jpg" alt="明治神宮外苑 東京イチョウ並木 フォトゾーン：道の両側歩道">
-  <figcaption>明治神宮外苑 東京イチョウ並木 フォトゾーン：道の両側歩道</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 東京イチョウ並木 フォトゾーン：道の両側歩道</figcaption>
 </figure>
 
 ---
@@ -183,7 +183,7 @@ A：はい、11月見頃時期の週末は本当に多いです。最も良い�
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-11.jpg" alt="明治神宮外苑 東京イチョウ並木 秋の必見スポット">
-  <figcaption>明治神宮外苑 東京イチョウ並木 秋の必見スポット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 東京イチョウ並木 秋の必見スポット</figcaption>
 </figure>
 
 **Q. 周辺に一緒に行けるところはありますか？**

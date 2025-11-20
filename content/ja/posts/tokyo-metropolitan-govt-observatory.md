@@ -19,7 +19,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-01.jpg" alt="東京都庁舎外観">
-  <figcaption>東京都庁舎 - 新宿のシンボル、ツインタワー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京都庁舎 - 新宿のシンボル、ツインタワー</figcaption>
 </figure>
 
 ## 東京の中心にある無料展望台
@@ -38,7 +38,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-02.jpg" alt="展望室からのパノラマビュー">
-  <figcaption>45階から見渡す東京の360度パノラマビュー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">45階から見渡す東京の360度パノラマビュー</figcaption>
 </figure>
 
 ## 北展望室 vs 南展望室
@@ -88,7 +88,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-03.jpg" alt="北展望室内部">
-  <figcaption>北展望室 - 昼夜両方の見学が可能</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">北展望室 - 昼夜両方の見学が可能</figcaption>
 </figure>
 
 ## 360度パノラマビュー - 見えるもの
@@ -99,7 +99,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-04.jpg" alt="昼間の眺望">
-  <figcaption>晴れた日の昼間は東京の広大な街並みを一望</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">晴れた日の昼間は東京の広大な街並みを一望</figcaption>
 </figure>
 
 - **富士山**: 晴れた日には見えます（特に冬季、西方向）
@@ -110,14 +110,14 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-05.jpg" alt="富士山の眺望">
-  <figcaption>晴れた日には展望室から富士山が見えます</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">晴れた日には展望室から富士山が見えます</figcaption>
 </figure>
 
 ### 夜景
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-06.jpg" alt="夜景">
-  <figcaption>東京のイルミネーションが輝く壮大な夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京のイルミネーションが輝く壮大な夜景</figcaption>
 </figure>
 
 - **東京スカイツリー**: 美しくライトアップされたタワー
@@ -132,7 +132,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-07.jpg" alt="展望室から見た東京スカイツリー">
-  <figcaption>夜にライトアップされた東京スカイツリー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">夜にライトアップされた東京スカイツリー</figcaption>
 </figure>
 
 ## TOKYO Night & Light - 壮大なプロジェクションマッピングショー
@@ -141,7 +141,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-08.jpg" alt="TOKYO Night & Lightプロジェクションマッピング">
-  <figcaption>北展望室で開催されるTOKYO Night & Lightプロジェクションマッピングショー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">北展望室で開催されるTOKYO Night & Lightプロジェクションマッピングショー</figcaption>
 </figure>
 
 ### プログラム内容
@@ -151,7 +151,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 **1. ゴジラプログラム**
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-09.jpg" alt="ゴジラプロジェクションマッピング">
-  <figcaption>プロジェクションマッピングで東京を歩き回るゴジラ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">プロジェクションマッピングで東京を歩き回るゴジラ</figcaption>
 </figure>
 
 日本を代表する怪獣ゴジラが東京の街を歩く様子を、迫力のあるサウンドエフェクトとライティングで体験できます。
@@ -159,7 +159,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 **2. ガンダムプログラム**
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-10.jpg" alt="ガンダムプロジェクションマッピング">
-  <figcaption>ライトショーに登場する機動戦士ガンダム</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ライトショーに登場する機動戦士ガンダム</figcaption>
 </figure>
 
 伝説的な機動戦士ガンダムが、ダイナミックな戦闘シーンとともに窓に映し出されます。
@@ -167,7 +167,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 **3. パックマンプログラム**
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-11.jpg" alt="パックマンプロジェクションマッピング">
-  <figcaption>プロジェクションマッピングで再現されたクラシックゲーム・パックマン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">プロジェクションマッピングで再現されたクラシックゲーム・パックマン</figcaption>
 </figure>
 
 懐かしのアーケードゲーム・パックマンを、モダンなプロジェクションマッピングで楽しめます。
@@ -175,7 +175,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 **4. 東京ランドマーク**
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-12.jpg" alt="東京ランドマークのプロジェクション">
-  <figcaption>芸術的なプロジェクションで紹介される東京の有名ランドマーク</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">芸術的なプロジェクションで紹介される東京の有名ランドマーク</figcaption>
 </figure>
 
 美しく作られたプロジェクションアートで、東京の最も有名なランドマークを巡ります。
@@ -228,7 +228,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-13.jpg" alt="プロジェクションマッピングを見る観客">
-  <figcaption>TOKYO Night & Lightショーを楽しむ来場者</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">TOKYO Night & Lightショーを楽しむ来場者</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -241,14 +241,14 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-14.jpg" alt="草間彌生のピアノ">
-  <figcaption>南展望室にある草間彌生デザインのピアノ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">南展望室にある草間彌生デザインのピアノ</figcaption>
 </figure>
 
 このピアノは草間氏の代表的な水玉模様がデザインされており、人気の撮影スポットとなっています。時折、南展望室でライブピアノ演奏が行われ、壮大な街の景色と組み合わせたユニークな文化体験ができます。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-15.jpg" alt="南展望室からの眺望">
-  <figcaption>南展望室からの昼間の眺望</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">南展望室からの昼間の眺望</figcaption>
 </figure>
 
 ## アクセス情報 - 行き方
@@ -261,7 +261,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-16.jpg" alt="新宿駅からの徒歩ルート">
-  <figcaption>新宿駅から東京都庁舎までの徒歩ルート</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅から東京都庁舎までの徒歩ルート</figcaption>
 </figure>
 
 1. **新宿駅西口**から出る
@@ -295,7 +295,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-17.jpg" alt="都庁前駅出口">
-  <figcaption>都庁前駅 - 最も便利な地下鉄アクセス</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">都庁前駅 - 最も便利な地下鉄アクセス</figcaption>
 </figure>
 
 **東京メトロ丸ノ内線**
@@ -323,7 +323,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-18.jpg" alt="建物入口">
-  <figcaption>東京都庁舎のメイン入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京都庁舎のメイン入口</figcaption>
 </figure>
 
 ## 実用的な来場者情報
@@ -359,7 +359,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-19.jpg" alt="展望室エレベーターロビー">
-  <figcaption>展望室専用エレベーターロビー - 入場無料！</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">展望室専用エレベーターロビー - 入場無料！</figcaption>
 </figure>
 
 ### 持ち物
@@ -377,14 +377,14 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-20.jpg" alt="展望室のカフェ">
-  <figcaption>展望室のカフェ - 景色を楽しみながらドリンクを</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">展望室のカフェ - 景色を楽しみながらドリンクを</figcaption>
 </figure>
 
 ### お土産ショップ
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-21.jpg" alt="お土産ショップ">
-  <figcaption>東京をテーマにしたギフトが揃う展望室のお土産ショップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京をテーマにしたギフトが揃う展望室のお土産ショップ</figcaption>
 </figure>
 
 展望室には小さなお土産ショップがあり、以下のものを販売しています：
@@ -415,7 +415,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-22.jpg" alt="夕暮れの眺望">
-  <figcaption>展望室から見る美しい夕暮れ - 人気ですが混雑する時間帯</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">展望室から見る美しい夕暮れ - 人気ですが混雑する時間帯</figcaption>
 </figure>
 
 ### 新宿の他の観光スポットと組み合わせる
@@ -431,7 +431,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-23.jpg" alt="新宿エリアマップ">
-  <figcaption>近隣の観光スポットを示す新宿エリアマップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">近隣の観光スポットを示す新宿エリアマップ</figcaption>
 </figure>
 
 ### 撮影のコツ
@@ -450,7 +450,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-24.jpg" alt="窓の反射撮影">
-  <figcaption>写真での窓の反射を最小限にするコツ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">写真での窓の反射を最小限にするコツ</figcaption>
 </figure>
 
 ### バリアフリー
@@ -463,7 +463,7 @@ TOKYO Night & Lightプロジェクションマッピングショーも体験で�
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-25.jpg" alt="バリアフリー設備">
-  <figcaption>バリアフリーアクセスで誰でも壮大な景色を楽しめます</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">バリアフリーアクセスで誰でも壮大な景色を楽しめます</figcaption>
 </figure>
 
 ## なぜ東京都庁展望室を訪れるべきか？

@@ -19,7 +19,7 @@ All the latest 2025 information compiled.</p>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-01.jpg" alt="Shinjuku Gyoen Starbucks and autumn leaves, opening hours and running course guide">
-  <figcaption>Shinjuku Gyoen Starbucks and autumn leaves, opening hours and running course guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks and autumn leaves, opening hours and running course guide</figcaption>
 </figure>
 
 ## ⭐ Shinjuku Gyoen Hub Course - Quick Preview
@@ -47,7 +47,7 @@ If you're looking for something like Central Park in Tokyo, the answer is Shinju
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-02.jpg" alt="Tokyo Shinjuku Gyoen landscape | Urban national garden scenery">
-  <figcaption>Tokyo Shinjuku Gyoen landscape | Urban national garden scenery</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Shinjuku Gyoen landscape | Urban national garden scenery</figcaption>
 </figure>
 
 **🌸 Official Name:** Shinjuku Gyoen (新宿御苑, Shinjuku Gyoen)
@@ -64,7 +64,7 @@ In the midst of Shinjuku's dense buildings, when you want to rest quietly, it's 
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-03.jpg" alt="Shinjuku Gyoen natural scenery | Healing walk in downtown Tokyo">
-  <figcaption>Shinjuku Gyoen natural scenery | Healing walk in downtown Tokyo</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen natural scenery | Healing walk in downtown Tokyo</figcaption>
 </figure>
 
 ---
@@ -87,7 +87,7 @@ Many reviews say "the 500 yen admission to Shinjuku Gyoen was worth it" because 
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-04.jpg" alt="Shinjuku Gyoen admission fee 500 yen | Automatic ticket machine and Suica payment method">
-  <figcaption>Shinjuku Gyoen admission fee 500 yen | Automatic ticket machine and Suica payment method</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen admission fee 500 yen | Automatic ticket machine and Suica payment method</figcaption>
 </figure>
 
 ### ✅ Shinjuku Gyoen Regular Closure Days
@@ -100,7 +100,7 @@ Many reviews say "the 500 yen admission to Shinjuku Gyoen was worth it" because 
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-05.jpg" alt="Shinjuku Gyoen Japanese garden autumn leaves | Tokyo autumn foliage spot">
-  <figcaption>Shinjuku Gyoen Japanese garden autumn leaves | Tokyo autumn foliage spot</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Japanese garden autumn leaves | Tokyo autumn foliage spot</figcaption>
 </figure>
 
 ### ✅ Shinjuku Gyoen Opening Hours·Operating Hours (by Season)
@@ -119,7 +119,7 @@ During cherry blossom and autumn foliage seasons, **entering right after opening
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-06.jpg" alt="Shinjuku Gyoen fallen leaves walking path | Autumn Tokyo walking destination">
-  <figcaption>Shinjuku Gyoen fallen leaves walking path | Autumn Tokyo walking destination</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen fallen leaves walking path | Autumn Tokyo walking destination</figcaption>
 </figure>
 
 ### 🍁 Shinjuku Gyoen Weekend Morning Opening (for Running)
@@ -140,7 +140,7 @@ It's perfect for those planning a quiet **Shinjuku Gyoen running** session early
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-07.jpg" alt="Shinjuku Gyoen weekend morning opening notice | Running available time information">
-  <figcaption>Shinjuku Gyoen weekend morning opening notice | Running available time information</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen weekend morning opening notice | Running available time information</figcaption>
 </figure>
 
 ### ✅ Shinjuku Gyoen Reservations
@@ -155,7 +155,7 @@ There are periods when the official website operates an advance reservation syst
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-08.jpg" alt="Shinjuku Gyoen plane tree avenue | Photo spot good for picnic and walking">
-  <figcaption>Shinjuku Gyoen plane tree avenue | Photo spot good for picnic and walking</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen plane tree avenue | Photo spot good for picnic and walking</figcaption>
 </figure>
 
 ---
@@ -175,7 +175,7 @@ You can walk from JR Shinjuku Station, but **Shinjuku-gyoenmae Station is the mo
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-09.jpg" alt="Shinjuku Gyoen English landscape garden | Popular picnic blanket location">
-  <figcaption>Shinjuku Gyoen English landscape garden | Popular picnic blanket location</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen English landscape garden | Popular picnic blanket location</figcaption>
 </figure>
 
 ### ✅ Shinjuku Gyoen 3 Gates Summary
@@ -184,7 +184,7 @@ Shinjuku Gyoen has three main entrances/gates. When confused about "which gate s
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-10.jpg" alt="Shinjuku Gyoen entrance map | Shinjuku Gate, Okido Gate, Sendagaya Gate locations">
-  <figcaption>Shinjuku Gyoen entrance map | Shinjuku Gate, Okido Gate, Sendagaya Gate locations</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen entrance map | Shinjuku Gate, Okido Gate, Sendagaya Gate locations</figcaption>
 </figure>
 
 ### 1️⃣ Shinjuku Gate (新宿門)
@@ -197,7 +197,7 @@ The most popular **main entrance**. Lines are longest during cherry blossom seas
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-11.jpg" alt="Shinjuku Gyoen Shinjuku Gate entrance | Tokyo Shinjuku Gyoen main entrance">
-  <figcaption>Shinjuku Gyoen Shinjuku Gate entrance | Tokyo Shinjuku Gyoen main entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Shinjuku Gate entrance | Tokyo Shinjuku Gyoen main entrance</figcaption>
 </figure>
 
 ### 2. Okido Gate (大木戸門)
@@ -208,7 +208,7 @@ The most popular **main entrance**. Lines are longest during cherry blossom seas
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-12.jpg" alt="Shinjuku Gyoen Okido Gate | Closest entrance to Shinjuku-gyoenmae Station">
-  <figcaption>Shinjuku Gyoen Okido Gate | Closest entrance to Shinjuku-gyoenmae Station</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Okido Gate | Closest entrance to Shinjuku-gyoenmae Station</figcaption>
 </figure>
 
 ### 3. Sendagaya Gate (千駄ヶ谷門)
@@ -219,7 +219,7 @@ Popular with tour groups and families, and if you're on "The Garden of Words" pi
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-13.jpg" alt="Shinjuku Gyoen Sendagaya Gate | Recommended entrance for The Garden of Words pilgrimage">
-  <figcaption>Shinjuku Gyoen Sendagaya Gate | Recommended entrance for The Garden of Words pilgrimage</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Sendagaya Gate | Recommended entrance for The Garden of Words pilgrimage</figcaption>
 </figure>
 
 ### 📌 Shinjuku Gyoen Accommodation Tips
@@ -243,7 +243,7 @@ If you're staying 2-3 nights in Shinjuku:
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-14.jpg" alt="Shinjuku Gyoen central pond scenery | Tokyo Shinjuku Gyoen lake view">
-  <figcaption>Shinjuku Gyoen central pond scenery | Tokyo Shinjuku Gyoen lake view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen central pond scenery | Tokyo Shinjuku Gyoen lake view</figcaption>
 </figure>
 
 ---
@@ -267,7 +267,7 @@ The scene where the main characters meet under the pavilion on a rainy day—man
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-15.jpg" alt="Shinjuku Gyoen French garden rose bed | Tokyo flower viewing walking course">
-  <figcaption>Shinjuku Gyoen French garden rose bed | Tokyo flower viewing walking course</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen French garden rose bed | Tokyo flower viewing walking course</figcaption>
 </figure>
 
 ### 🍁 Autumn (Shinjuku Gyoen Autumn Leaves)
@@ -280,7 +280,7 @@ It's also perfect weather for spreading a blanket for a Shinjuku Gyoen picnic.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-16.jpg" alt="Shinjuku Gyoen autumn foliage scenery | Tokyo autumn leaves and picnic spot">
-  <figcaption>Shinjuku Gyoen autumn foliage scenery | Tokyo autumn leaves and picnic spot</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen autumn foliage scenery | Tokyo autumn leaves and picnic spot</figcaption>
 </figure>
 
 ### ❄ Winter – Winter Walks & Quiet Park Views
@@ -291,7 +291,7 @@ With fewer tourists, it's good for **Shinjuku Gyoen running**, and sitting by th
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-17.jpg" alt="Shinjuku Gyoen Japanese garden view | Tokyo garden with The Garden of Words feel">
-  <figcaption>Shinjuku Gyoen Japanese garden view | Tokyo garden with The Garden of Words feel</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Japanese garden view | Tokyo garden with The Garden of Words feel</figcaption>
 </figure>
 
 ---
@@ -323,7 +323,7 @@ Running is only allowed on designated paths shown on the map below.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-18.jpg" alt="Shinjuku Gyoen running course map | 3.5km jogging course and running direction guide">
-  <figcaption>Shinjuku Gyoen running course map | 3.5km jogging course and running direction guide <a href="https://www.env.go.jp/garden/shinjukugyoen/2_guide/running.html" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen running course map | 3.5km jogging course and running direction guide <a href="https://www.env.go.jp/garden/shinjukugyoen/2_guide/running.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 ---
@@ -334,7 +334,7 @@ The most popular spot inside the park is **Shinjuku Gyoen Starbucks**.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-19.jpg" alt="Shinjuku Gyoen Starbucks exterior | Glass-walled cafe in Tokyo park">
-  <figcaption>Shinjuku Gyoen Starbucks exterior | Glass-walled cafe in Tokyo park</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks exterior | Glass-walled cafe in Tokyo park</figcaption>
 </figure>
 
 **📍 Location:** Near the central pond inside the park **(<a href="https://maps.app.goo.gl/iShzw93yNrWdYCzJ7" target="_blank">Google Maps↗</a>)**
@@ -344,22 +344,22 @@ Floor-to-ceiling windows + lake-view seats are highly competitive, but once you 
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-20.jpg" alt="Shinjuku Gyoen Starbucks | Tokyo cafe with lake view">
-  <figcaption>Shinjuku Gyoen Starbucks | Tokyo cafe with lake view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks | Tokyo cafe with lake view</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-21.jpg" alt="Shinjuku Gyoen Starbucks | Tokyo cafe with lake view">
-  <figcaption>Shinjuku Gyoen Starbucks | Tokyo cafe with lake view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks | Tokyo cafe with lake view</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-22.jpg" alt="Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene">
-  <figcaption>Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-23.jpg" alt="Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene">
-  <figcaption>Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene</figcaption>
 </figure>
 
 ---
@@ -380,7 +380,7 @@ There's only a simple kiosk inside the park, and most proper **Shinjuku Gyoen re
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-24.jpg" alt="Shinjuku Gyoen sushi restaurant Takumi Tatsuhiro | Tokyo omakase recommendation">
-  <figcaption>Shinjuku Gyoen sushi restaurant Takumi Tatsuhiro | Tokyo omakase recommendation</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen sushi restaurant Takumi Tatsuhiro | Tokyo omakase recommendation</figcaption>
 </figure>
 
 **3. RAMEN MATSUI (<a href="https://maps.app.goo.gl/M2DyHzc3rMXj9X4y5" target="_blank">Google Maps↗</a>)**
@@ -391,12 +391,12 @@ There's only a simple kiosk inside the park, and most proper **Shinjuku Gyoen re
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-25.jpg" alt="Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant">
-  <figcaption>Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-26.jpg" alt="Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant">
-  <figcaption>Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant</figcaption>
 </figure>
 
 **4. Kirimugi-ya Jinroku (切麦や 甚六) (<a href="https://maps.app.goo.gl/QkMv3TkPmGcuM4io8" target="_blank">Google Maps↗</a>)**
@@ -435,7 +435,7 @@ Normal entry OK on regular days. However, during peak cherry blossom season and 
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-27.jpg" alt="Shinjuku Gyoen sunset view | Tokyo Shinjuku building view and park sunset scenery">
-  <figcaption>Shinjuku Gyoen sunset view | Tokyo Shinjuku building view and park sunset scenery</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen sunset view | Tokyo Shinjuku building view and park sunset scenery</figcaption>
 </figure>
 
 ---

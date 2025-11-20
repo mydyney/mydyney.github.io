@@ -22,7 +22,7 @@ All organized in one place.</p>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-01.jpg" alt="Tokyo Disneyland Complete Guide">
-  <figcaption>Tokyo Disneyland Complete Guide - Tickets, DPA, Afternoon Passes</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Complete Guide - Tickets, DPA, Afternoon Passes</figcaption>
 </figure>
 
 ## 1. Tokyo Disneyland vs DisneySea: Which to Choose? (Complete Comparison)
@@ -78,7 +78,7 @@ The first decision: Tokyo Disneyland or Tokyo DisneySea?
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-02.jpg" alt="Disneyland Cinderella Castle and DisneySea Prometheus Volcano">
-  <figcaption>(Left) DisneySea Prometheus Volcano / (Right) Disneyland Cinderella Castle</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">(Left) DisneySea Prometheus Volcano / (Right) Disneyland Cinderella Castle</figcaption>
 </figure>
 
 ---
@@ -147,7 +147,7 @@ Most reliable, but may have overseas payment difficulties
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-03.jpg" alt="Klook app Tokyo Disneyland ticket search">
-  <figcaption><b>Klook app search screen for 'Tokyo Disneyland' tickets</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Klook app search screen for 'Tokyo Disneyland' tickets</b></figcaption>
 </figure>
 
 ### ④ [Important] Currently Discontinued Tickets
@@ -201,7 +201,7 @@ Center of the Earth 1,500 yen
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-04.jpg" alt="DPA app purchase for Beauty and Beast and Rapunzel">
-  <figcaption>DPA app purchase: Tokyo Disneyland Beauty and the Beast, DisneySea Rapunzel</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">DPA app purchase: Tokyo Disneyland Beauty and the Beast, DisneySea Rapunzel</figcaption>
 </figure>
 
 ### ② [Free] 40th Anniversary Priority Pass
@@ -244,7 +244,7 @@ Magic Lamp Theater (Arabian Coast)<br>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-05.jpg" alt="40th Anniversary Pass app reservation">
-  <figcaption>40th Anniversary Pass app reservation: Disneyland Big Thunder Mountain, DisneySea Raging Spirits</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">40th Anniversary Pass app reservation: Disneyland Big Thunder Mountain, DisneySea Raging Spirits</figcaption>
 </figure>
 
 ### ③ Winning Strategy Tips!
@@ -342,7 +342,7 @@ Dreams Take Flight (Lost River Delta)
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-06.jpg" alt="Entry lottery and DPA screens">
-  <figcaption>Tokyo Disneyland shows, DisneySea shows - Entry lottery screen, DPA also available</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland shows, DisneySea shows - Entry lottery screen, DPA also available</figcaption>
 </figure>
 
 ### ③ [Winning Tips] Strategy?
@@ -462,7 +462,7 @@ Nautilus Galley (Mysterious Island)
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-07.jpg" alt="Alien Mochi green alien-shaped mochi snack">
-  <figcaption>Green Little Green Men shaped mochi treats in Disney snack cup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Green Little Green Men shaped mochi treats in Disney snack cup</figcaption>
 </figure>
 
 ---
@@ -565,7 +565,7 @@ to Disneyland/DisneySea main gates.
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-08.jpg" alt="Tokyo Disneyland Beauty and the Beast attraction">
-  <figcaption>Tokyo Disneyland Beauty and the Beast</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Beauty and the Beast</figcaption>
 </figure>
 
 ---
@@ -620,7 +620,7 @@ Free shuttle bus connecting hotel and resort bus terminal
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-09.jpg" alt="Hilton Tokyo Bay Official Hotel">
-  <figcaption><b>Tokyo Disney Resort Official Hotel: Hilton Tokyo Bay</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Disney Resort Official Hotel: Hilton Tokyo Bay</b></figcaption>
 </figure>
 
 ---
@@ -653,7 +653,7 @@ Free shuttle bus connecting hotel and resort bus terminal
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-10.jpg" alt="Tokyo Disneyland Pooh's Hunny Hunt">
-  <figcaption>Tokyo Disneyland Pooh's Hunny Hunt</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Pooh's Hunny Hunt</figcaption>
 </figure>
 
 ---
@@ -679,7 +679,7 @@ Priority Pass & Standby Pass can be canceled before use (non-recoverable).
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-11.jpg" alt="Tokyo Disneyland Monsters Inc">
-  <figcaption>Tokyo Disneyland Monsters, Inc.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Monsters, Inc.</figcaption>
 </figure>
 
 ---

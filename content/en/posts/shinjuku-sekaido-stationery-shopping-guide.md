@@ -18,7 +18,7 @@ Essential travel tips at a glance.</p>
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg" alt="Shinjuku SEKAIDO main store tax-free vs membership discount comparison">
-  <figcaption>Shinjuku SEKAIDO Main Store: Tax-Free vs Membership Discount</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Main Store: Tax-Free vs Membership Discount</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ For complete Shinjuku travel course with restaurants, shopping, and nightlife information<br>
@@ -35,7 +35,7 @@ A must-visit paradise for stationery lovers, even on a short itinerary. From jou
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-02.jpg" alt="Shinjuku SEKAIDO main store red exterior">
-  <figcaption>Shinjuku SEKAIDO Main Store Red Exterior</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Main Store Red Exterior</figcaption>
 </figure>
 
 ### 🏬 SEKAIDO Main Store Information
@@ -73,7 +73,7 @@ SEKAIDO has a **membership card system with up to 30% discount**.
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-03.jpg" alt="SEKAIDO membership card discount price table">
-  <figcaption>SEKAIDO Membership Card Discount Price Table</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">SEKAIDO Membership Card Discount Price Table</figcaption>
 </figure>
 
 ### 1. Membership Card Fee (Paid)
@@ -121,7 +121,7 @@ For oil paints (30% discount), the difference is even greater. In this case, mem
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-04.jpg" alt="SEKAIDO membership card information">
-  <figcaption>SEKAIDO Membership Card Information</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">SEKAIDO Membership Card Information</figcaption>
 </figure>
 
 ---
@@ -132,7 +132,7 @@ SEKAIDO main store has 6 floors total. Navigate directly based on your purpose!
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-05.jpg" alt="SEKAIDO floor guide">
-  <figcaption>SEKAIDO Floor Guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">SEKAIDO Floor Guide</figcaption>
 </figure>
 
 ### 6F: Art School / Gallery
@@ -153,7 +153,7 @@ Oil paints, watercolors, acrylic paints, canvas, easels, sketchbooks, pastels, p
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-06.jpg" alt="Shinjuku SEKAIDO paint selection">
-  <figcaption>Shinjuku SEKAIDO Paint Selection</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Paint Selection</figcaption>
 </figure>
 
 ### 2F: Design / Drafting / Manga / Paper
@@ -162,7 +162,7 @@ Markers, Copics, illustration boards, architectural models, manga/comic supplies
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-07.jpg" alt="Shinjuku SEKAIDO screen tone">
-  <figcaption>Shinjuku SEKAIDO Screen Tone</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Screen Tone</figcaption>
 </figure>
 
 ### 1F: Stationery / Office Supplies / Premium Writing Instruments
@@ -171,12 +171,12 @@ Files, notebooks, planners, pens, journaling stickers, washi tape, stationery, g
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-08.jpg" alt="Shinjuku SEKAIDO postcards">
-  <figcaption>Shinjuku SEKAIDO Postcards</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Postcards</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-09.jpg" alt="Shinjuku SEKAIDO magnets">
-  <figcaption>Shinjuku SEKAIDO Magnets</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Magnets</figcaption>
 </figure>
 
 ---
@@ -191,7 +191,7 @@ Overwhelmingly cheaper than Korea!
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-10.jpg" alt="Shinjuku SEKAIDO Copic marker display">
-  <figcaption>Shinjuku SEKAIDO Copic Marker Display</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Copic Marker Display</figcaption>
 </figure>
 
 ### 2. Washi Tape / Masking Tape (1F)
@@ -200,7 +200,7 @@ Limited editions not available in Korea
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-11.jpg" alt="Shinjuku SEKAIDO masking tape">
-  <figcaption>Shinjuku SEKAIDO Masking Tape</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Masking Tape</figcaption>
 </figure>
 
 ### 3. Journaling Stickers (1F)
@@ -209,7 +209,7 @@ Paradise of cute characters and aesthetic stickers
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-12.jpg" alt="Shinjuku SEKAIDO Christmas journaling stickers">
-  <figcaption>Shinjuku SEKAIDO Christmas Journaling Stickers</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Christmas Journaling Stickers</figcaption>
 </figure>
 
 ### 4. Japanese Brand Pens (1F)
@@ -226,7 +226,7 @@ Essential for art majors
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-13.jpg" alt="Shinjuku SEKAIDO Holbein watercolor paints">
-  <figcaption>Shinjuku SEKAIDO Holbein Watercolor Paints</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO Holbein Watercolor Paints</figcaption>
 </figure>
 
 ### 7. Kuretake Brush Pens (3F)
@@ -247,7 +247,7 @@ Various paper textures, affordable prices
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-14.jpg" alt="Shinjuku SEKAIDO MONO pencils">
-  <figcaption>Shinjuku SEKAIDO MONO Pencils</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku SEKAIDO MONO Pencils</figcaption>
 </figure>
 
 ---

@@ -18,7 +18,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-01.jpg" alt="東京クラフト ポップアップストアとストア 免税と割引クーポン">
-  <figcaption>東京クラフト ポップアップストア＆ストア 免税+割引クーポン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京クラフト ポップアップストア＆ストア 免税+割引クーポン</figcaption>
 </figure>
 
 東京クラフト（TOKYO CRAFTS）のテントと焚き火台、オフラインストアをお探しですか？
@@ -53,7 +53,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-02.jpg" alt="東京クラフト 代官山ポップアップストア 案内ポスター">
-  <figcaption>東京クラフト 代官山ポップアップストア案内（<a href="https://tokyocrafts.jp/en/blogs/news/place-in-daikanyama2025" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京クラフト 代官山ポップアップストア案内（<a href="https://tokyocrafts.jp/en/blogs/news/place-in-daikanyama2025" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ## 🍁 PLACE in DAIKANYAMA
@@ -179,7 +179,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-03.jpg" alt="エルブレス5%割引クーポン 免税クーポン">
-  <figcaption>エルブレス5%クーポン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エルブレス5%クーポン</figcaption>
 </figure>
 
 ## ⛺ アルペン東京（Alpen TOKYO）
@@ -211,7 +211,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="アルペン東京5%割引クーポン 免税クーポン">
-  <figcaption><b>アルペン東京5%クーポン</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>アルペン東京5%クーポン</b></figcaption>
 </figure>
 
 **⭐ 新宿必須旅行コースも一緒に確認してみてください**

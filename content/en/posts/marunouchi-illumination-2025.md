@@ -19,7 +19,7 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-01.jpg" alt="Tokyo Marunouchi Illumination 2025 with Disney 100th Anniversary Collaboration">
-  <figcaption>Tokyo Marunouchi Illumination 2025 with Disney 100th Anniversary Collaboration</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Marunouchi Illumination 2025 with Disney 100th Anniversary Collaboration</figcaption>
 </figure>
 
 <p>Now in its 23rd year, the Tokyo Station Marunouchi Illumination is especially special in 2025 with a Disney 100th anniversary collaboration! This post covers everything from illumination schedules and times to the Christmas Market and Disney Stamp Rally!</p>
@@ -28,7 +28,7 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-02.jpg" alt="Marunouchi Illumination Night View">
-  <figcaption>Marunouchi Illumination Night View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Illumination Night View</figcaption>
 </figure>
 
 <p>The approximately 1.2km section of Marunouchi Nakadori Street shines as a winter landmark with about 1.2 million champagne gold LEDs.</p>
@@ -46,14 +46,14 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-03.jpg" alt="Marunouchi Nakadori Illumination Street View">
-  <figcaption>Marunouchi Nakadori Illumination Street View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Nakadori Illumination Street View</figcaption>
 </figure>
 
 <h2>🎄 Marunouchi Christmas Market 2024</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-04.jpg" alt="Christmas Market in front of Tokyo International Forum">
-  <figcaption>Christmas Market in front of Tokyo International Forum</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Christmas Market in front of Tokyo International Forum</figcaption>
 </figure>
 
 <p>A Christmas Market runs alongside the illumination!</p>
@@ -87,21 +87,21 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-05.jpg" alt="Christmas Market Booths and Food Vendors">
-  <figcaption>Christmas Market Booths and Food Vendors</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Christmas Market Booths and Food Vendors</figcaption>
 </figure>
 
 <p>Various food booths selling Glühwein (mulled wine) and German sausages allow you to fully enjoy the Christmas atmosphere.</p>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-06.jpg" alt="Christmas Market Night View with Illumination">
-  <figcaption>Christmas Market Night View with Illumination</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Christmas Market Night View with Illumination</figcaption>
 </figure>
 
 <h2>🏰 Disney 100th Anniversary Collaboration Event</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-07.jpg" alt="Disney 100th Anniversary Collaboration Monument View">
-  <figcaption>Disney 100th Anniversary Collaboration Monument View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disney 100th Anniversary Collaboration Monument View</figcaption>
 </figure>
 
 <p>Celebrating Disney's 100th anniversary, Disney character sculptures and special events are featured throughout the Marunouchi area.</p>
@@ -110,7 +110,7 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-08.jpg" alt="Disney Character Monument - Mickey and Minnie">
-  <figcaption>Disney Character Monument - Mickey and Minnie</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disney Character Monument - Mickey and Minnie</figcaption>
 </figure>
 
 <p><strong>Period:</strong> November 7, 2024 ~ February 16, 2025<br>
@@ -156,19 +156,19 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-09.jpg" alt="Disney Character Monument Close-up">
-  <figcaption>Disney Character Monument Close-up</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disney Character Monument Close-up</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-10.jpg" alt="Disney Characters and Photo Spots">
-  <figcaption>Disney Characters and Photo Spots</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disney Characters and Photo Spots</figcaption>
 </figure>
 
 <h3>2) Disney 100th Anniversary Stamp Rally</h3>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-11.jpg" alt="Disney Stamp Rally Information">
-  <figcaption>Disney Stamp Rally Information</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disney Stamp Rally Information</figcaption>
 </figure>
 
 <div class="info-box">
@@ -198,19 +198,19 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-12.jpg" alt="Stamp Rally Participants">
-  <figcaption>Stamp Rally Participants</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Stamp Rally Participants</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-13.jpg" alt="Stamp Rally Completion Gifts">
-  <figcaption>Stamp Rally Completion Gifts</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Stamp Rally Completion Gifts</figcaption>
 </figure>
 
 <h3>3) Other Disney Collaboration Events</h3>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-14.jpg" alt="LEGO Disney Photo Zone">
-  <figcaption>LEGO Disney Photo Zone</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">LEGO Disney Photo Zone</figcaption>
 </figure>
 
 <ul>
@@ -221,14 +221,14 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-15.jpg" alt="Disney Limited Goods and Drink Vending Machines">
-  <figcaption>Disney Limited Goods and Drink Vending Machines</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disney Limited Goods and Drink Vending Machines</figcaption>
 </figure>
 
 <h2>📍 Access</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-16.jpg" alt="JR Tokyo Station Marunouchi Exit">
-  <figcaption>JR Tokyo Station Marunouchi Exit</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">JR Tokyo Station Marunouchi Exit</figcaption>
 </figure>
 
 <div class="info-box">
@@ -241,14 +241,14 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-17.jpg" alt="From Tokyo Station to Marunouchi Street">
-  <figcaption>From Tokyo Station to Marunouchi Street</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">From Tokyo Station to Marunouchi Street</figcaption>
 </figure>
 
 <h2>💡 Visit Tips</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-18.jpg" alt="Best Photo Spots for Illumination">
-  <figcaption>Best Photo Spots for Illumination</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Best Photo Spots for Illumination</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -262,14 +262,14 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-19.jpg" alt="Illumination and Christmas Tree">
-  <figcaption>Illumination and Christmas Tree</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Illumination and Christmas Tree</figcaption>
 </figure>
 
 <h2>❓ FAQ</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-20.jpg" alt="Marunouchi Illumination Close View">
-  <figcaption>Marunouchi Illumination Close View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Illumination Close View</figcaption>
 </figure>
 
 <p><strong>Q1. Is there an admission fee?</strong><br>
@@ -286,14 +286,14 @@ A. 2025 limited edition Disney original goods are provided. Limited to first 2,0
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-21.jpg" alt="Marunouchi Night View with People">
-  <figcaption>Marunouchi Night View with People</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Night View with People</figcaption>
 </figure>
 
 <h2>Conclusion</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-22.jpg" alt="Final Marunouchi Illumination View">
-  <figcaption>Final Marunouchi Illumination View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Final Marunouchi Illumination View</figcaption>
 </figure>
 
 <p>Tokyo Marunouchi Illumination 2025 is a special event commemorating Disney's 100th anniversary. With various events prepared including illumination, Christmas Market, and Disney Stamp Rally, be sure to include it in your winter Tokyo travel plans!</p>

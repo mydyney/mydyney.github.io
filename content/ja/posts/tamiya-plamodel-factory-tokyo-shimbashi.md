@@ -18,7 +18,7 @@ featured_image: "/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-01.jpg"
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-01.jpg" alt="タミヤプラモデルファクトリー東京新橋店入口全景">
-  <figcaption>タミヤプラモデルファクトリー東京新橋店入口全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京新橋店入口全景</figcaption>
 </figure>
 
 ## はじめに
@@ -56,7 +56,7 @@ Tamiya's NOW, all under one roof.
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-02.jpg" alt="タミヤプラモデルファクトリー東京新橋店コンセプト">
-  <figcaption>タミヤプラモデルファクトリー東京新橋店コンセプト</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京新橋店コンセプト</figcaption>
 </figure>
 
 ---
@@ -84,7 +84,7 @@ Tamiya's NOW, all under one roof.
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-03.jpg" alt="タミヤプラモデルファクトリー東京新橋店位置マップ">
-  <figcaption>タミヤプラモデルファクトリー東京新橋店の場所</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京新橋店の場所</figcaption>
 </figure>
 
 ---
@@ -102,12 +102,12 @@ Tamiya's NOW, all under one roof.
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-04.jpg" alt="タミヤプラモデルファクトリー東京1:1実物大エアロアバンテ展示">
-  <figcaption>タミヤプラモデルファクトリー東京1:1実物大「エアロアバンテ」展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京1:1実物大「エアロアバンテ」展示</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-05.jpg" alt="タミヤプラモデルファクトリー東京1:1実物大エアロアバンテ案内">
-  <figcaption>タミヤプラモデルファクトリー東京1:1実物大エアロアバンテ案内</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京1:1実物大エアロアバンテ案内</figcaption>
 </figure>
 
 ---
@@ -122,14 +122,14 @@ Tamiya's NOW, all under one roof.
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-06.jpg" alt="タミヤプラモデルファクトリー東京ミニ四駆">
-  <figcaption>タミヤプラモデルファクトリー東京ミニ四駆</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京ミニ四駆</figcaption>
 </figure>
 
 公式フロアマップ（A〜Fゾーン）を基準にショッピング動線をご案内します。
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-07.jpg" alt="タミヤプラモデルファクトリー東京フロアガイド">
-  <figcaption>タミヤプラモデルファクトリー東京フロアガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京フロアガイド</figcaption>
 </figure>
 
 - **Aゾーン – スケールモデル①：** 戦車、ミリタリー、飛行機、自動車
@@ -143,7 +143,7 @@ Tamiya's NOW, all under one roof.
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-08.jpg" alt="タミヤプラモデルファクトリー東京内部4m高・100m長陳列棚">
-  <figcaption>タミヤプラモデルファクトリー東京内部：4m高・100m長陳列棚</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京内部：4m高・100m長陳列棚</figcaption>
 </figure>
 
 ---
@@ -162,7 +162,7 @@ Tamiya's NOW, all under one roof.
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-09.jpg" alt="タミヤプラモデルファクトリー東京カフェで提供されるオニバスコーヒー">
-  <figcaption>タミヤプラモデルファクトリー東京カフェで提供されるオニバスコーヒー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京カフェで提供されるオニバスコーヒー</figcaption>
 </figure>
 
 **2. モデラーズスクエア（MODELERS SQUARE）**
@@ -199,12 +199,12 @@ A. はい、組み立て中に紛失・破損した部品や「タミヤカス�
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-10.jpg" alt="タミヤプラモデルファクトリー東京記念品コーナー1">
-  <figcaption>タミヤプラモデルファクトリー東京記念品コーナー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京記念品コーナー</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-11.jpg" alt="タミヤプラモデルファクトリー東京記念品コーナー2">
-  <figcaption>タミヤプラモデルファクトリー東京記念品コーナー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タミヤプラモデルファクトリー東京記念品コーナー</figcaption>
 </figure>
 
 ---

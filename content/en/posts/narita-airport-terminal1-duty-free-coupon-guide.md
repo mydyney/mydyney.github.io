@@ -18,7 +18,7 @@ Complete guide to whisky, sake, snacks, perfume, and luxury brands!</p>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-01.jpg" alt="Narita Airport Terminal 1 ANA duty-free shop 5% coupon shopping list">
-  <figcaption>Narita Airport Terminal 1 ANA Duty-Free Shop 5% Coupon Shopping List</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Narita Airport Terminal 1 ANA Duty-Free Shop 5% Coupon Shopping List</figcaption>
 </figure>
 
 ## 📍 Overview
@@ -58,7 +58,7 @@ Narita Airport has 3 terminals, which can be confusing when returning home. Chec
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-02.jpg" alt="Narita Airport terminal airline guide">
-  <figcaption>Narita Airport Terminal Airline Guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Narita Airport Terminal Airline Guide</figcaption>
 </figure>
 
 ---
@@ -77,7 +77,7 @@ This coupon is **free to download**.
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-03.jpg" alt="Klook ANA duty-free 5% discount coupon page">
-  <figcaption>Klook ANA Duty-Free 5% Discount Coupon Page Screenshot</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Klook ANA Duty-Free 5% Discount Coupon Page Screenshot</figcaption>
 </figure>
 
 ---
@@ -125,29 +125,29 @@ The most popular items. You should buy Narita Airport duty-free whisky when in s
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-04.jpg" alt="Narita Airport duty-free whisky corner">
-  <figcaption>Narita Airport Duty-Free Whisky Corner</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Narita Airport Duty-Free Whisky Corner</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-05.jpg" alt="Narita Airport duty-free whisky Yamazaki and Hibiki">
-  <figcaption>Narita Airport Duty-Free Whisky Yamazaki and Hibiki</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Narita Airport Duty-Free Whisky Yamazaki and Hibiki</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-06.jpg" alt="Narita Airport duty-free whisky Yamazaki and Hibiki bottles">
-  <figcaption>Narita Airport Duty-Free Whisky Collection</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Narita Airport Duty-Free Whisky Collection</figcaption>
 </figure>
 
 **🥃 Sake** - Dassai 23, Kubota Manju
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-07.jpg" alt="Narita Airport duty-free sake Dassai">
-  <figcaption>Narita Airport Duty-Free Sake Dassai</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Narita Airport Duty-Free Sake Dassai</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-08.jpg" alt="Narita Airport duty-free sake Dassai bottles">
-  <figcaption>Narita Airport Duty-Free Sake Collection</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Narita Airport Duty-Free Sake Collection</figcaption>
 </figure>
 
 ### 2. Narita Airport Duty-Free Snacks & Souvenirs
@@ -158,21 +158,21 @@ Snacks are a must-buy course as Narita Airport duty-free souvenirs.
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-09.jpg" alt="Tokyo Banana Narita Airport duty-free snacks">
-  <figcaption>Tokyo Banana - Narita Airport Duty-Free Snacks</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Banana - Narita Airport Duty-Free Snacks</figcaption>
 </figure>
 
 **🍪 Shiroi Koibito**
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-10.jpg" alt="Shiroi Koibito Narita Airport duty-free snacks">
-  <figcaption>Shiroi Koibito - Narita Airport Duty-Free Snacks</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shiroi Koibito - Narita Airport Duty-Free Snacks</figcaption>
 </figure>
 
 **🍪 Royce Chocolate**
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-11.jpg" alt="Royce chocolate Narita Airport duty-free snacks">
-  <figcaption>Royce Chocolate - Narita Airport Duty-Free Snacks</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Royce Chocolate - Narita Airport Duty-Free Snacks</figcaption>
 </figure>
 
 ### 3. Narita Airport Duty-Free Cosmetics, Perfume & Brands

@@ -18,7 +18,7 @@ Tax-free and discount coupon information all in one place.</p>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-01.jpg" alt="Tokyo Crafts popup store and shop tax-free and discount coupons">
-  <figcaption>Tokyo Crafts popup store & shop tax-free + discount coupons</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Crafts popup store & shop tax-free + discount coupons</figcaption>
 </figure>
 
 Looking for Tokyo Crafts (TOKYO CRAFTS) tents and fire stands at offline stores?
@@ -53,7 +53,7 @@ A special 3-day event where you can touch and experience Tokyo Crafts products i
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-02.jpg" alt="Tokyo Crafts Daikanyama popup store announcement poster">
-  <figcaption>Tokyo Crafts Daikanyama popup store announcement (<a href="https://tokyocrafts.jp/en/blogs/news/place-in-daikanyama2025" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Crafts Daikanyama popup store announcement (<a href="https://tokyocrafts.jp/en/blogs/news/place-in-daikanyama2025" target="_blank">Source</a>)</figcaption>
 </figure>
 
 ## 🍁 PLACE in DAIKANYAMA
@@ -179,7 +179,7 @@ This is **'Plan B'** for such people. These stores aren't on the official retail
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-03.jpg" alt="L-Breath 5% discount coupon tax-free coupon">
-  <figcaption>L-Breath 5% coupon</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">L-Breath 5% coupon</figcaption>
 </figure>
 
 ## ⛺ Alpen TOKYO
@@ -211,7 +211,7 @@ This is **'Plan B'** for such people. These stores aren't on the official retail
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="Alpen Tokyo 5% discount coupon tax-free coupon">
-  <figcaption><b>Alpen Tokyo 5% coupon</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Alpen Tokyo 5% coupon</b></figcaption>
 </figure>
 
 **⭐ Check essential Shinjuku travel courses too**

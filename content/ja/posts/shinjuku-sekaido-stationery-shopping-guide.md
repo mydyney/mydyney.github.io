@@ -18,7 +18,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg" alt="新宿世界堂本店 免税VS会員割引">
-  <figcaption>新宿世界堂本店：免税VS会員割引</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿世界堂本店：免税VS会員割引</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ 新宿全体の旅行コースとグルメ・ショッピング・夜景情報を一目で見たいなら<br>
@@ -35,7 +35,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-02.jpg" alt="新宿世界堂本店赤い外観">
-  <figcaption>新宿世界堂本店赤い外観全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿世界堂本店赤い外観全景</figcaption>
 </figure>
 
 ### 🏬 世界堂本店営業情報
@@ -73,7 +73,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-03.jpg" alt="世界堂会員カード割引価格表">
-  <figcaption>世界堂会員カード割引価格表</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">世界堂会員カード割引価格表</figcaption>
 </figure>
 
 ### 1. 会員カード入会費（有料）
@@ -121,7 +121,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-04.jpg" alt="世界堂会員カード案内文">
-  <figcaption>世界堂会員カード案内文</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">世界堂会員カード案内文</figcaption>
 </figure>
 
 ---
@@ -132,7 +132,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-05.jpg" alt="世界堂フロアガイド">
-  <figcaption>世界堂フロアガイド（FLOOR GUIDE）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">世界堂フロアガイド（FLOOR GUIDE）</figcaption>
 </figure>
 
 ### 6F: アートスクール / ギャラリー
@@ -153,7 +153,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-06.jpg" alt="新宿文具店世界堂絵の具">
-  <figcaption>新宿文具店世界堂の絵の具</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂の絵の具</figcaption>
 </figure>
 
 ### 2F: デザイン / 製図 / マンガ / 紙
@@ -162,7 +162,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-07.jpg" alt="新宿文具店世界堂スクリーントーン">
-  <figcaption>新宿文具店世界堂スクリーントーン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂スクリーントーン</figcaption>
 </figure>
 
 ### 1F: 文具 / 事務用品 / 高級筆記具
@@ -171,12 +171,12 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-08.jpg" alt="新宿文具店世界堂葉書">
-  <figcaption>新宿文具店世界堂葉書</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂葉書</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-09.jpg" alt="新宿文具店世界堂マグネット">
-  <figcaption>新宿文具店世界堂マグネット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂マグネット</figcaption>
 </figure>
 
 ---
@@ -191,7 +191,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-10.jpg" alt="新宿文具店世界堂コピックマーカー陳列棚">
-  <figcaption>新宿文具店世界堂コピックマーカー陳列棚</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂コピックマーカー陳列棚</figcaption>
 </figure>
 
 ### 2. マスキングテープ (Washi Tape)：（1階）
@@ -200,7 +200,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-11.jpg" alt="新宿文具店世界堂マスキングテープ">
-  <figcaption>新宿文具店世界堂マスキングテープ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂マスキングテープ</figcaption>
 </figure>
 
 ### 3. 手帳デコステッカー：（1階）
@@ -209,7 +209,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-12.jpg" alt="新宿文具店世界堂クリスマス手帳デコステッカー">
-  <figcaption>新宿文具店世界堂クリスマス手帳デコステッカー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂クリスマス手帳デコステッカー</figcaption>
 </figure>
 
 ### 4. 日本ブランドペン：（1階）
@@ -226,7 +226,7 @@ Gペン、スプーンペンなど
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-13.jpg" alt="新宿文具店世界堂ホルベイン水彩絵の具">
-  <figcaption>新宿文具店世界堂ホルベイン水彩絵の具</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂ホルベイン水彩絵の具</figcaption>
 </figure>
 
 ### 7. 呉竹筆ペン：（3階）
@@ -247,7 +247,7 @@ Gペン、スプーンペンなど
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-14.jpg" alt="新宿文具店世界堂MONO鉛筆">
-  <figcaption>新宿文具店世界堂MONO鉛筆</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿文具店世界堂MONO鉛筆</figcaption>
 </figure>
 
 ---

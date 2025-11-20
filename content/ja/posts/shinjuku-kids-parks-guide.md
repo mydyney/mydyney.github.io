@@ -26,7 +26,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-01.jpg" alt="新宿発 子どもと行く5大キッズパーク">
-  <figcaption>新宿発 子どもと行く5大キッズパーク</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿発 子どもと行く5大キッズパーク</figcaption>
 </figure>
 
 ## 新宿は大人の街？
@@ -47,7 +47,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-02.jpg" alt="新宿からバスで行ける東京ディズニーランド シンデレラ城全景、家族旅行人気コース">
-  <figcaption>新宿からバスで行ける東京ディズニーランド シンデレラ城全景、家族旅行人気コース</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿からバスで行ける東京ディズニーランド シンデレラ城全景、家族旅行人気コース</figcaption>
 </figure>
 
 新宿からバスで40分程度。
@@ -82,7 +82,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター">
-  <figcaption>サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター <a href="#" target="_blank">（出典）</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター <a href="#" target="_blank">（出典）</a></figcaption>
 </figure>
 
 ハローキティ、シナモロール、マイメロディ…
@@ -113,7 +113,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-04.jpg" alt="富士急ハイランド内トーマスランド全景">
-  <figcaption>富士急ハイランド内トーマスランド全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">富士急ハイランド内トーマスランド全景</figcaption>
 </figure>
 
 電車オタク、トーマス好きな子どもに一度は必ず見せたい場所が、富士急ハイランドの中のトーマスランドです。
@@ -244,27 +244,27 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-05.jpg" alt="大月駅と富士急ハイランド駅を運行するトーマスランド号">
-  <figcaption>大月駅と富士急ハイランド駅を運行するトーマスランド号</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行するトーマスランド号</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="大月駅と富士急ハイランド駅を運行するトーマスランド号">
-  <figcaption>大月駅と富士急ハイランド駅を運行するトーマスランド号</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行するトーマスランド号</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-07.jpg" alt="大月駅と富士急ハイランド駅を運行する富士山ビュー特急">
-  <figcaption>大月駅と富士急ハイランド駅を運行する富士山ビュー特急</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行する富士山ビュー特急</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="大月駅と富士急ハイランド駅を運行する富士山ビュー特急">
-  <figcaption>大月駅と富士急ハイランド駅を運行する富士山ビュー特急</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行する富士山ビュー特急</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-09.jpg" alt="大月駅と富士急ハイランド駅を運行するフジサン特急">
-  <figcaption>大月駅と富士急ハイランド駅を運行するフジサン特急</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行するフジサン特急</figcaption>
 </figure>
 
 #### 🚌 方法3：バスタ新宿 → 富士急ハイランド
@@ -287,7 +287,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-10.jpg" alt="冬季よみうりランド Jewellumination 夜間照明、新宿から京王線で行ける家族遊園地">
-  <figcaption>冬季よみうりランド Jewellumination 夜間照明、新宿から京王線で行ける家族遊園地 <a href="https://www.gotokyo.org/kr/spot/ev136/index.html" target="_blank">（写真出典）</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">冬季よみうりランド Jewellumination 夜間照明、新宿から京王線で行ける家族遊園地 <a href="https://www.gotokyo.org/kr/spot/ev136/index.html" target="_blank">（写真出典）</a></figcaption>
 </figure>
 
 新宿から約35分の距離。
@@ -319,7 +319,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-11.jpg" alt="東京の真ん中に位置する東京ドームシティ遊園地、大観覧車">
-  <figcaption>東京の真ん中に位置する東京ドームシティ遊園地、大観覧車</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京の真ん中に位置する東京ドームシティ遊園地、大観覧車</figcaption>
 </figure>
 
 新宿から最も近い都心型遊園地が東京ドームシティです。
@@ -349,7 +349,7 @@ JR中央・総武線（黄色）新宿駅乗車 → 水道橋駅（水道橋駅�
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-12.jpg" alt="東京ドームシティ ASOBono 室内キッズパーク、児童が走り回るのに良い東京室内遊び場">
-  <figcaption>東京ドームシティ ASOBono 室内キッズパーク、児童が走り回るのに良い東京室内遊び場</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ドームシティ ASOBono 室内キッズパーク、児童が走り回るのに良い東京室内遊び場</figcaption>
 </figure>
 
 ---

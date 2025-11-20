@@ -19,7 +19,7 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-01.jpg" alt="2025年六本木東京ミッドタウン クリスマスイルミネーション メインナイトビュー">
-  <figcaption>2025年六本木東京ミッドタウン クリスマスイルミネーション メインナイトビュー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木東京ミッドタウン クリスマスイルミネーション メインナイトビュー</figcaption>
 </figure>
 
 <p>六本木の冬を代表するイベント、東京ミッドタウンのクリスマスが2025年も開催されます。煌びやかなイルミネーション、巨大なサンタツリー、クリスマスマルシェ、屋外アイススケートリンクなど、冬のロマンチックな雰囲気を満喫できるスポットとして人気を集めています。</p>
@@ -77,28 +77,28 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-02.jpg" alt="東京ミッドタウン クリスマスイベント 総合案内板">
-  <figcaption>東京ミッドタウン クリスマスイベント 総合案内板</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン クリスマスイベント 総合案内板</figcaption>
 </figure>
 
 <h2>✨ ミッドタウン クリスマスイルミネーション 2024</h2>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-03.jpg" alt="ミッドタウン ガーデンエリア イルミネーション全景">
-  <figcaption>ミッドタウン ガーデンエリア イルミネーション全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウン ガーデンエリア イルミネーション全景</figcaption>
 </figure>
 
 <p>東京ミッドタウンのガーデンエリア全体が幻想的な光の空間に変わります。約2,000平方メートルの芝生広場に約20万球のLEDライトが設置され、クリスマスシーズンのロマンチックな雰囲気を演出します。</p>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-04.jpg" alt="イルミネーション ライトアップ近景">
-  <figcaption>イルミネーション ライトアップ近景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">イルミネーション ライトアップ近景</figcaption>
 </figure>
 
 <p>今年のテーマは「MIDTOWN SNOW GARDEN」で、雪が降り積もったような白とブルーのLEDライトが幻想的な冬の庭園を演出します。夕方5時から夜11時まで点灯され、静かな雰囲気の中で散策を楽しむことができます。</p>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-05.jpg" alt="イルミネーショントンネル 夜景">
-  <figcaption>イルミネーショントンネル 夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">イルミネーショントンネル 夜景</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -109,28 +109,28 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-06.jpg" alt="ミッドタウンガレリア1階 サンタツリー 全体">
-  <figcaption>ミッドタウンガレリア1階 サンタツリー 全体</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウンガレリア1階 サンタツリー 全体</figcaption>
 </figure>
 
 <p>ミッドタウン・ガレリア1階のアトリウムには、高さ5メートルの特別なサンタツリーが登場します。伝統的なクリスマスツリーとは異なり、数百個のサンタクロース人形で飾られたユニークなツリーは、東京ミッドタウンのクリスマスを象徴するランドマークとなっています。</p>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-07.jpg" alt="サンタツリー ディテール クローズアップ">
-  <figcaption>サンタツリー ディテール クローズアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サンタツリー ディテール クローズアップ</figcaption>
 </figure>
 
 <p>赤と白を基調とした温かみのある照明と、様々なポーズのサンタ人形が可愛らしい雰囲気を演出します。子供から大人まで楽しめる記念撮影スポットとして人気を集めています。</p>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-08.jpg" alt="サンタツリー サイドビュー">
-  <figcaption>サンタツリー サイドビュー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サンタツリー サイドビュー</figcaption>
 </figure>
 
 <h2>⛸️ MIDTOWN ICE RINK（ミッドタウン アイススケートリンク）</h2>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-09.jpg" alt="ミッドタウン アイススケートリンク 全景">
-  <figcaption>ミッドタウン アイススケートリンク 全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウン アイススケートリンク 全景</figcaption>
 </figure>
 
 <p>東京ミッドタウンの芝生広場には、都心にいながら冬のスポーツを楽しめる屋外アイススケートリンクが登場します。約170平方メートル規模のリンクで、2025年2月中旬まで運営されます。</p>
@@ -146,7 +146,7 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-10.jpg" alt="アイススケートリンク 利用客の様子">
-  <figcaption>アイススケートリンク 利用客の様子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">アイススケートリンク 利用客の様子</figcaption>
 </figure>
 
 <p>夜にはイルミネーションに包まれながらスケートを楽しむことができ、ロマンチックな雰囲気を満喫できます。初心者用のヘルパーも用意されているので、スケート初心者やお子様連れのファミリーも安全に楽しめます。</p>
@@ -155,35 +155,35 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-11.jpg" alt="クリスマスマルシェ 全体の雰囲気">
-  <figcaption>クリスマスマルシェ 全体の雰囲気</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">クリスマスマルシェ 全体の雰囲気</figcaption>
 </figure>
 
 <p>ヨーロッパのクリスマスマーケットの雰囲気を東京で楽しめるクリスマスマルシェが開催されます。木製の可愛らしい小屋が立ち並び、様々なクリスマスグッズ、ホットドリンク、季節の料理を販売します。</p>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-12.jpg" alt="マルシェ ブース 詳細">
-  <figcaption>マルシェ ブース 詳細</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">マルシェ ブース 詳細</figcaption>
 </figure>
 
 <p>ホットワイン（グリューワイン）、ホットチョコレート、焼き栗、ソーセージなど、寒い冬にぴったりの温かい食べ物と飲み物を味わえます。クリスマスオーナメント、手作り雑貨、アクセサリーなどユニークなプレゼントを探すのにも最適です。</p>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-13.jpg" alt="マルシェ 夜景とイルミネーション">
-  <figcaption>マルシェ 夜景とイルミネーション</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">マルシェ 夜景とイルミネーション</figcaption>
 </figure>
 
 <h2>🏢 東京ミッドタウン内部 ガレリア ショッピング＆ダイニング</h2>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-14.jpg" alt="ミッドタウン ガレリア 内部 1階">
-  <figcaption>ミッドタウン ガレリア 内部 1階</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウン ガレリア 内部 1階</figcaption>
 </figure>
 
 <p>東京ミッドタウン・ガレリアには、約130店舗のショップとレストランが入っています。ファッション、雑貨、レストラン、カフェなど多様なブランドがあり、ショッピングと食事を同時に楽しめます。</p>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-15.jpg" alt="ガレリア 2階・3階 ショッピングエリア">
-  <figcaption>ガレリア 2階・3階 ショッピングエリア</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ガレリア 2階・3階 ショッピングエリア</figcaption>
 </figure>
 
 <h3>おすすめレストラン＆カフェ</h3>
@@ -197,7 +197,7 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-16.jpg" alt="ガレリア レストランエリア">
-  <figcaption>ガレリア レストランエリア</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ガレリア レストランエリア</figcaption>
 </figure>
 
 <h2>🚇 アクセス情報</h2>
@@ -213,14 +213,14 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-17.jpg" alt="東京ミッドタウン 外観 夜景">
-  <figcaption>東京ミッドタウン 外観 夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン 外観 夜景</figcaption>
 </figure>
 
 <h2>💡 訪問のヒント</h2>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-18.jpg" alt="ミッドタウン タワー ライトアップ">
-  <figcaption>ミッドタウン タワー ライトアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウン タワー ライトアップ</figcaption>
 </figure>
 
 <ol>
@@ -232,7 +232,7 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-19.jpg" alt="東京ミッドタウン 全体ビュー">
-  <figcaption>東京ミッドタウン 全体ビュー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン 全体ビュー</figcaption>
 </figure>
 
 <h2>❓ よくある質問（Q&amp;A）</h2>

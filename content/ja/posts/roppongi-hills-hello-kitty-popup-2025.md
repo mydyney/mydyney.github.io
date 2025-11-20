@@ -19,7 +19,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg" alt="ハローキティ ピクニックガーデン ポップアップストア メインビジュアル">
-  <figcaption>六本木ヒルズのハローキティ ピクニックガーデン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズのハローキティ ピクニックガーデン</figcaption>
 </figure>
 
 <p style="text-align: center;">高さ2メートルの巨大キティゲートと<br>
@@ -94,7 +94,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-02.jpg" alt="六本木ヒルズ ハローキティポップアップ フォトゾーン">
-  <figcaption>六本木ヒルズ ハローキティポップアップ フォトゾーン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ フォトゾーン</figcaption>
 </figure>
 
 ## 🎁 [必須] 無料香水＆ステッカープレゼント - このポップアップの核心特典！
@@ -109,17 +109,17 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-03.jpg" alt="4種類の香水比較">
-  <figcaption>六本木ヒルズ ハローキティポップアップ 香り体験 4種類の香水比較</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ 香り体験 4種類の香水比較</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-04.jpg" alt="香水ディスプレイテーブル">
-  <figcaption>香り体験エリアの香水ディスプレイテーブル</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">香り体験エリアの香水ディスプレイテーブル</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-05.jpg" alt="ミニボトル香水無料プレゼント">
-  <figcaption>ミニボトル香水無料プレゼント</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ミニボトル香水無料プレゼント</figcaption>
 </figure>
 
 ### 2. 限定版オリジナルステッカー
@@ -138,7 +138,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-06.jpg" alt="2メートル巨大キティフェイスゲート">
-  <figcaption>六本木ヒルズ ハローキティポップアップ 2メートル巨大「キティフェイスゲート」</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ 2メートル巨大「キティフェイスゲート」</figcaption>
 </figure>
 
 ### 2. ピクニックフォトゾーン
@@ -152,12 +152,12 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-07.jpg" alt="ピクニックフォトゾーン ビュー1">
-  <figcaption>六本木ヒルズ ハローキティポップアップ ピクニックフォトゾーン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ ピクニックフォトゾーン</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-08.jpg" alt="ピクニックフォトゾーン ビュー2">
-  <figcaption>六本木ヒルズ ハローキティポップアップ ピクニックフォトゾーン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ ピクニックフォトゾーン</figcaption>
 </figure>
 
 ### 3. 「ハウンドトゥース」りんごの木
@@ -168,7 +168,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-09.jpg" alt="ハウンドトゥースりんごの木">
-  <figcaption>六本木ヒルズ ハローキティポップアップ ハウンドトゥースりんごの木</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ ハウンドトゥースりんごの木</figcaption>
 </figure>
 
 ### 4. [限定版] グッズ販売
@@ -182,17 +182,17 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-10.jpg" alt="限定版グッズリスト">
-  <figcaption>六本木ヒルズ ハローキティポップアップ 限定版グッズリスト</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ 限定版グッズリスト</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-11.jpg" alt="限定グッズアイテム1">
-  <figcaption>六本木ヒルズ ハローキティポップアップ 限定版グッズ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ 限定版グッズ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-12.jpg" alt="限定グッズアイテム2">
-  <figcaption>六本木ヒルズ ハローキティポップアップ 限定版グッズ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ 限定版グッズ</figcaption>
 </figure>
 
 ## 📌 [必読] 入場方法
@@ -206,37 +206,37 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-13.jpg" alt="オンライン予約QRコード">
-  <figcaption>六本木ヒルズ ハローキティポップアップ オンライン予約QRコード</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ ハローキティポップアップ オンライン予約QRコード</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-14.jpg" alt="チケット予約方法 ステップ1">
-  <figcaption>チケットオンライン予約方法（1人2枚まで予約可能） - ステップ1</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">チケットオンライン予約方法（1人2枚まで予約可能） - ステップ1</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-15.jpg" alt="チケット予約方法 ステップ2">
-  <figcaption>チケットオンライン予約方法 - ステップ2</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">チケットオンライン予約方法 - ステップ2</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-16.jpg" alt="チケット予約方法 ステップ3">
-  <figcaption>チケットオンライン予約方法 - ステップ3</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">チケットオンライン予約方法 - ステップ3</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-17.jpg" alt="チケット予約方法 ステップ4">
-  <figcaption>チケットオンライン予約方法 - ステップ4</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">チケットオンライン予約方法 - ステップ4</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-18.jpg" alt="QRコード確認とリストバンド交換">
-  <figcaption>入場10分前にQRコードが送信され、QR確認後リストバンドに交換します</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">入場10分前にQRコードが送信され、QR確認後リストバンドに交換します</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-19.jpg" alt="入場リストバンド">
-  <figcaption>QRコード確認後の入場リストバンド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">QRコード確認後の入場リストバンド</figcaption>
 </figure>
 
 ## 📍 「ハローキティ」の次は、どこへ行く？（六本木コース）
@@ -264,7 +264,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-20.jpg" alt="六本木イルミネーション">
-  <figcaption>六本木イルミネーション</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木イルミネーション</figcaption>
 </figure>
 
 ## 🎄 一緒に見るとよい東京クリスマスガイド

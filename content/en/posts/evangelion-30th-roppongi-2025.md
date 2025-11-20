@@ -19,21 +19,21 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-01.jpg" alt="Roppongi Hills Tokyo City View Observatory where Evangelion 30th Anniversary Exhibition is held">
-  <figcaption>Roppongi Hills Tokyo City View Observatory where Evangelion 30th Anniversary Exhibition is held</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Hills Tokyo City View Observatory where Evangelion 30th Anniversary Exhibition is held</figcaption>
 </figure>
 
 <p>The Evangelion 30th Anniversary Exhibition "ALL OF EVANGELION" has finally opened at Roppongi's Tokyo City View. This guide covers all essential information including ticket booking, limited goods, collaboration drinks, and viewing tips.</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-02.jpg" alt="Large Evangelion Unit-01 figure installed at the entrance of Roppongi Evangelion 30th Anniversary Exhibition">
-  <figcaption>Large Evangelion Unit-01 figure installed at the entrance of Roppongi Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Large Evangelion Unit-01 figure installed at the entrance of Roppongi Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <h2>📅 Evangelion 30th Anniversary Exhibition Official Information</h2>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-03.jpg" alt="Entrance to Evangelion 30th Anniversary Exhibition inside Roppongi Hills Tokyo City View Observatory">
-  <figcaption>Entrance to Evangelion 30th Anniversary Exhibition inside Roppongi Hills Tokyo City View Observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Entrance to Evangelion 30th Anniversary Exhibition inside Roppongi Hills Tokyo City View Observatory</figcaption>
 </figure>
 
 <p>One of the most special exhibitions in Tokyo is being held at <strong>Roppongi Hills Observatory (Tokyo City View, 52F)</strong>. This exhibition offers a special experience where you can enjoy both Tokyo's panoramic night view and 30 years of Evangelion history together.</p>
@@ -99,7 +99,7 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-04.jpg" alt="Evangelion 30th Anniversary Exhibition 'ALL OF EVANGELION' Poster">
-  <figcaption>Evangelion 30th Anniversary Exhibition 'ALL OF EVANGELION' Poster</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Evangelion 30th Anniversary Exhibition 'ALL OF EVANGELION' Poster</figcaption>
 </figure>
 
 <h3>🎁 Weekday Limited Bonus (Real Visit Review!)</h3>
@@ -112,7 +112,7 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-05.jpg" alt="Official logo emblem of Roppongi Evangelion 30th Anniversary Special Exhibition (EVANGELION 30th Anniv.)">
-  <figcaption>Official logo emblem of Roppongi Evangelion 30th Anniversary Special Exhibition (EVANGELION 30th Anniv.)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Official logo emblem of Roppongi Evangelion 30th Anniversary Special Exhibition (EVANGELION 30th Anniv.)</figcaption>
 </figure>
 
 <h2>🎬 Roppongi Evangelion Exhibition Highlights</h2>
@@ -125,7 +125,7 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-06.jpg" alt="Roppongi Evangelion Unit-01 large figure photo zone with Tokyo night view background">
-  <figcaption>Roppongi Evangelion Unit-01 large figure photo zone with Tokyo night view background</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Evangelion Unit-01 large figure photo zone with Tokyo night view background</figcaption>
 </figure>
 
 <h3>2️⃣ From TV Series to Rebuild Films (Production Materials Exhibition)</h3>
@@ -138,12 +138,12 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-07.jpg" alt="Initial setting materials from Evangelion 30th Anniversary Exhibition">
-  <figcaption>Initial setting materials from Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Initial setting materials from Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-08.jpg" alt="Character setting sheets on display at Evangelion 30th Anniversary Exhibition">
-  <figcaption>Character setting sheets on display at Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Character setting sheets on display at Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <h4>(2) TV Series: 270 Original Cel Artworks 🖼️</h4>
@@ -154,17 +154,17 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-09.jpg" alt="Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition">
-  <figcaption>Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-10.jpg" alt="Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition">
-  <figcaption>Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-11.jpg" alt="Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition">
-  <figcaption>Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Close-up of Neon Genesis Evangelion TV series cel artwork revealed at Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <h4>(3) Rebuild Films [:1.0, :2.0, :3.0]: Key Animation and Layouts</h4>
@@ -173,12 +173,12 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-12.jpg" alt="Close-up of Rebuild film key animation revealed at Evangelion 30th Anniversary Exhibition">
-  <figcaption>Close-up of Rebuild film key animation revealed at Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Close-up of Rebuild film key animation revealed at Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-13.jpg" alt="Close-up of Rebuild film key animation revealed at Evangelion 30th Anniversary Exhibition">
-  <figcaption>Close-up of Rebuild film key animation revealed at Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Close-up of Rebuild film key animation revealed at Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <h4>(4) Final Film [:3.0+1.0]: The Culmination's Production Process</h4>
@@ -187,7 +187,7 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-14.jpg" alt="Evangelion: 3.0+1.0 key animation display at Evangelion 30th Anniversary Exhibition">
-  <figcaption>Evangelion: 3.0+1.0 key animation display at Evangelion 30th Anniversary Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Evangelion: 3.0+1.0 key animation display at Evangelion 30th Anniversary Exhibition</figcaption>
 </figure>
 
 <h3>3️⃣ Obsession with 'Sound' (Audio Materials, Previews)</h3>
@@ -201,12 +201,12 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-15.jpg" alt="Evangelion special exhibition support messages">
-  <figcaption>Evangelion special exhibition support messages</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Evangelion special exhibition support messages</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-16.jpg" alt="Evangelion special exhibition support messages">
-  <figcaption>Evangelion special exhibition support messages</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Evangelion special exhibition support messages</figcaption>
 </figure>
 
 <h2>🎁 Official Goods and Collaboration Drinks</h2>
@@ -231,7 +231,7 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-17.jpg" alt="Roppongi Evangelion 30th Anniversary Exhibition limited goods store interior">
-  <figcaption>Roppongi Evangelion 30th Anniversary Exhibition limited goods store interior</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Evangelion 30th Anniversary Exhibition limited goods store interior</figcaption>
 </figure>
 
 <h3>② 30th Anniversary Collaboration Drinks (Cafe)</h3>
@@ -240,7 +240,7 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-18.jpg" alt="Entrance to 'THE SUN & THE MOON' cafe selling Evangelion 30th anniversary collaboration drinks and desserts">
-  <figcaption>Entrance to 'THE SUN & THE MOON' cafe selling Evangelion 30th anniversary collaboration drinks and desserts</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Entrance to 'THE SUN & THE MOON' cafe selling Evangelion 30th anniversary collaboration drinks and desserts</figcaption>
 </figure>
 
 <h2>❓ Q&A + Directions</h2>
@@ -253,12 +253,12 @@ A: No, the goods shop is located along the exit route after viewing the exhibiti
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-19.jpg" alt="Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View">
-  <figcaption>Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-20.jpg" alt="Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View">
-  <figcaption>Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View</figcaption>
 </figure>
 
 <h2>🚍 How to Get to Roppongi Hills (Tokyo City View)</h2>
@@ -279,12 +279,12 @@ A: No, the goods shop is located along the exit route after viewing the exhibiti
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-21.jpg" alt="Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory">
-  <figcaption>Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-22.jpg" alt="Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory">
-  <figcaption>Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory</figcaption>
 </figure>
 
 <h2>Conclusion</h2>

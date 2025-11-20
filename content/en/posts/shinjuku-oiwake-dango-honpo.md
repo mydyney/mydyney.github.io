@@ -23,7 +23,7 @@ Chewy texture on a different level from convenience store dango, plus traditiona
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-01.jpg" alt="Shinjuku dango restaurant Oiwake Dango Honpo 300-year traditional dessert">
-  <figcaption>Shinjuku dango restaurant Oiwake Dango Honpo 300-year traditional dessert</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku dango restaurant Oiwake Dango Honpo 300-year traditional dessert</figcaption>
 </figure>
 
 ---
@@ -42,7 +42,7 @@ Oiwake Dango Honpo uses mochi made fresh every morning without preservatives or 
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-02.jpg" alt="Shinjuku dango restaurant Oiwake Dango Honpo — 300-year traditional Japanese dessert, mitarashi dango and red bean dango recommended">
-  <figcaption>Shinjuku dango restaurant Oiwake Dango Honpo — 300-year traditional Japanese dessert, mitarashi dango and red bean dango recommended</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku dango restaurant Oiwake Dango Honpo — 300-year traditional Japanese dessert, mitarashi dango and red bean dango recommended</figcaption>
 </figure>
 
 **📍Location:** Right in front of Shinjuku-sanchome Station C1 exit **(across from Isetan Department Store)**
@@ -55,7 +55,7 @@ The 1st floor is takeout-only, with display cases full of dozens of dango and wa
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-03.jpg" alt="Oiwake Dango Shinjuku flagship store display — red bean, mitarashi, seasonal limited dango">
-  <figcaption>Oiwake Dango Shinjuku flagship store display — red bean, mitarashi, seasonal limited dango</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Oiwake Dango Shinjuku flagship store display — red bean, mitarashi, seasonal limited dango</figcaption>
 </figure>
 
 If you're wondering what to choose, try these 3 👇
@@ -66,7 +66,7 @@ The basic signature menu with sweet-salty soy sauce glaze. The chewy texture of 
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-04.jpg" alt="Shinjuku dango restaurant mitarashi dango — Sweet-salty soy sauce and freshly grilled mochi texture">
-  <figcaption>Shinjuku dango restaurant mitarashi dango — Sweet-salty soy sauce and freshly grilled mochi texture</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku dango restaurant mitarashi dango — Sweet-salty soy sauce and freshly grilled mochi texture</figcaption>
 </figure>
 
 **2️⃣ Tsubuan / Koshian (Red Bean Dango)**
@@ -78,12 +78,12 @@ The high quality of the red beans gives a subtle, refined sweetness.
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-05.jpg" alt="Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison">
-  <figcaption>Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-06.jpg" alt="Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison">
-  <figcaption>Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison</figcaption>
 </figure>
 
 **3️⃣ Seasonal Limited Dango**
@@ -92,7 +92,7 @@ Spring brings cherry blossom, autumn brings chestnut, yuzu, and ginger dango. Ea
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-07.jpg" alt="Oiwake Dango seasonal limited — Autumn chestnut, yuzu dango and spring cherry blossom dango">
-  <figcaption>Oiwake Dango seasonal limited — Autumn chestnut, yuzu dango and spring cherry blossom dango</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Oiwake Dango seasonal limited — Autumn chestnut, yuzu dango and spring cherry blossom dango</figcaption>
 </figure>
 
 ---
@@ -111,7 +111,7 @@ You can enjoy these. It's the perfect Shinjuku dessert spot to rest during shopp
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-08.jpg" alt="Oiwake Dango Honpo Shinjuku flagship store — Matcha an dango">
-  <figcaption>Oiwake Dango Honpo Shinjuku flagship store — Matcha an dango</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Oiwake Dango Honpo Shinjuku flagship store — Matcha an dango</figcaption>
 </figure>
 
 ---
@@ -122,7 +122,7 @@ Dango and mochi have a same-day expiration date. For gifts, afternoon purchase o
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-09.jpg" alt="Oiwake Dango — 'Mame Daifuku (豆大福)' 3-piece set using Hokkaido red peas">
-  <figcaption>Oiwake Dango — 'Mame Daifuku (豆大福)' 3-piece set using Hokkaido red peas</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Oiwake Dango — 'Mame Daifuku (豆大福)' 3-piece set using Hokkaido red peas</figcaption>
 </figure>
 
 ---

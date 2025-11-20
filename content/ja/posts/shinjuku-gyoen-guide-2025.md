@@ -19,7 +19,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-01.jpg" alt="新宿御苑スターバックスと紅葉、入園時間及びランニングコースガイド">
-  <figcaption>新宿御苑スターバックスと紅葉、入園時間及びランニングコースガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックスと紅葉、入園時間及びランニングコースガイド</figcaption>
 </figure>
 
 ## ⭐ 新宿御苑ハブコース 先に見る
@@ -47,7 +47,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-02.jpg" alt="東京新宿御苑全景｜都心の中の国立庭園風景">
-  <figcaption>東京新宿御苑全景｜都心の中の国立庭園風景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京新宿御苑全景｜都心の中の国立庭園風景</figcaption>
 </figure>
 
 **🌸 正式名称：** 新宿御苑（しんじゅくぎょえん、Shinjuku Gyoen）
@@ -64,7 +64,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-03.jpg" alt="新宿御苑自然風景｜東京都心で楽しむ癒しの散歩">
-  <figcaption>新宿御苑自然風景｜東京都心で楽しむ癒しの散歩</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑自然風景｜東京都心で楽しむ癒しの散歩</figcaption>
 </figure>
 
 ---
@@ -87,7 +87,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-04.jpg" alt="新宿御苑入園料500円｜自動発券機とSuica決済方法">
-  <figcaption>新宿御苑入園料500円｜自動発券機とSuica決済方法</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑入園料500円｜自動発券機とSuica決済方法</figcaption>
 </figure>
 
 ### ✅ 新宿御苑定期休園日
@@ -100,7 +100,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-05.jpg" alt="新宿御苑日本庭園紅葉｜東京秋紅葉名所">
-  <figcaption>新宿御苑日本庭園紅葉｜東京秋紅葉名所</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑日本庭園紅葉｜東京秋紅葉名所</figcaption>
 </figure>
 
 ### ✅ 新宿御苑入園時間・営業時間（季節別）
@@ -119,7 +119,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-06.jpg" alt="新宿御苑落ち葉道散歩コース｜秋の東京散策旅行地">
-  <figcaption>新宿御苑落ち葉道散歩コース｜秋の東京散策旅行地</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑落ち葉道散歩コース｜秋の東京散策旅行地</figcaption>
 </figure>
 
 ### 🍁 新宿御苑週末朝開園（ランニング用）
@@ -140,7 +140,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-07.jpg" alt="新宿御苑週末朝開園案内｜ランニング可能時間情報">
-  <figcaption>新宿御苑週末朝開園案内｜ランニング可能時間情報</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑週末朝開園案内｜ランニング可能時間情報</figcaption>
 </figure>
 
 ### ✅ 新宿御苑予約
@@ -155,7 +155,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-08.jpg" alt="新宿御苑プラタナス並木道｜ピクニックと散歩に良い写真スポット">
-  <figcaption>新宿御苑プラタナス並木道｜ピクニックと散歩に良い写真スポット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑プラタナス並木道｜ピクニックと散歩に良い写真スポット</figcaption>
 </figure>
 
 ---
@@ -175,7 +175,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-09.jpg" alt="新宿御苑イギリス風景式庭園｜シートピクニック人気場所">
-  <figcaption>新宿御苑イギリス風景式庭園｜シートピクニック人気場所</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑イギリス風景式庭園｜シートピクニック人気場所</figcaption>
 </figure>
 
 ### ✅ 新宿御苑出入口3カ所整理
@@ -184,7 +184,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-10.jpg" alt="新宿御苑入口地図｜新宿門・大木戸門・千駄ヶ谷門出入口位置">
-  <figcaption>新宿御苑入口地図｜新宿門・大木戸門・千駄ヶ谷門出入口位置</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑入口地図｜新宿門・大木戸門・千駄ヶ谷門出入口位置</figcaption>
 </figure>
 
 ### 1️⃣ 新宿門（新宿門）
@@ -197,7 +197,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-11.jpg" alt="新宿御苑新宿門入口｜東京新宿御苑メイン出入口">
-  <figcaption>新宿御苑新宿門入口｜東京新宿御苑メイン出入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑新宿門入口｜東京新宿御苑メイン出入口</figcaption>
 </figure>
 
 ### 2. 大木戸門（大木戸門）
@@ -208,7 +208,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-12.jpg" alt="新宿御苑大木戸門｜新宿御苑前駅から最も近い入口">
-  <figcaption>新宿御苑大木戸門｜新宿御苑前駅から最も近い入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑大木戸門｜新宿御苑前駅から最も近い入口</figcaption>
 </figure>
 
 ### 3. 千駄ヶ谷門（千駄ヶ谷門）
@@ -219,7 +219,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-13.jpg" alt="新宿御苑千駄ヶ谷門｜言の葉の庭聖地巡礼推奨出入口">
-  <figcaption>新宿御苑千駄ヶ谷門｜言の葉の庭聖地巡礼推奨出入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑千駄ヶ谷門｜言の葉の庭聖地巡礼推奨出入口</figcaption>
 </figure>
 
 ### 📌 新宿御苑宿泊施設のヒント
@@ -243,7 +243,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-14.jpg" alt="新宿御苑中央池風景｜東京新宿御苑湖ビュー">
-  <figcaption>新宿御苑中央池風景｜東京新宿御苑湖ビュー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑中央池風景｜東京新宿御苑湖ビュー</figcaption>
 </figure>
 
 ---
@@ -267,7 +267,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-15.jpg" alt="新宿御苑フランス式庭園バラ花壇｜東京花見散歩コース">
-  <figcaption>新宿御苑フランス式庭園バラ花壇｜東京花見散歩コース</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑フランス式庭園バラ花壇｜東京花見散歩コース</figcaption>
 </figure>
 
 ### 🍁 秋（新宿御苑紅葉）
@@ -280,7 +280,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-16.jpg" alt="新宿御苑秋紅葉風景｜東京紅葉狩り・ピクニック名所">
-  <figcaption>新宿御苑秋紅葉風景｜東京紅葉狩り・ピクニック名所</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑秋紅葉風景｜東京紅葉狩り・ピクニック名所</figcaption>
 </figure>
 
 ### ❄ 冬 – 冬散歩 & 静かな公園ビュー
@@ -291,7 +291,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-17.jpg" alt="新宿御苑日本庭園全景｜言の葉の庭の雰囲気の東京庭園">
-  <figcaption>新宿御苑日本庭園全景｜言の葉の庭の雰囲気の東京庭園</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑日本庭園全景｜言の葉の庭の雰囲気の東京庭園</figcaption>
 </figure>
 
 ---
@@ -323,7 +323,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-18.jpg" alt="新宿御苑ランニングコース地図｜3.5kmジョギングコースとランニング方向案内">
-  <figcaption>新宿御苑ランニングコース地図｜3.5kmジョギングコースとランニング方向案内 <a href="https://www.env.go.jp/garden/shinjukugyoen/2_guide/running.html" target="_blank">（出典）</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑ランニングコース地図｜3.5kmジョギングコースとランニング方向案内 <a href="https://www.env.go.jp/garden/shinjukugyoen/2_guide/running.html" target="_blank">（出典）</a></figcaption>
 </figure>
 
 ---
@@ -334,7 +334,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-19.jpg" alt="新宿御苑スターバックス外観｜東京公園内ガラス張りカフェ">
-  <figcaption>新宿御苑スターバックス外観｜東京公園内ガラス張りカフェ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス外観｜東京公園内ガラス張りカフェ</figcaption>
 </figure>
 
 **📍 位置：** 公園中央池付近 **(<a href="https://maps.app.goo.gl/iShzw93yNrWdYCzJ7" target="_blank">Googleマップ↗</a>)**
@@ -344,22 +344,22 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-20.jpg" alt="新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ">
-  <figcaption>新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-21.jpg" alt="新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ">
-  <figcaption>新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-22.jpg" alt="新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場">
-  <figcaption>新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-23.jpg" alt="新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場">
-  <figcaption>新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場</figcaption>
 </figure>
 
 ---
@@ -380,7 +380,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-24.jpg" alt="新宿御苑近くの寿司グルメ匠 達広｜東京おまかせ推薦">
-  <figcaption>新宿御苑近くの寿司グルメ匠 達広｜東京おまかせ推薦</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑近くの寿司グルメ匠 達広｜東京おまかせ推薦</figcaption>
 </figure>
 
 **3. ラーメン松井 RAMEN MATSUI (<a href="https://maps.app.goo.gl/M2DyHzc3rMXj9X4y5" target="_blank">Googleマップ↗</a>)**
@@ -391,12 +391,12 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-25.jpg" alt="新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂">
-  <figcaption>新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-26.jpg" alt="新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂">
-  <figcaption>新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂</figcaption>
 </figure>
 
 **4. 切麦や 甚六（きりむぎや じんろく）(<a href="https://maps.app.goo.gl/QkMv3TkPmGcuM4io8" target="_blank">Googleマップ↗</a>)**
@@ -435,7 +435,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-27.jpg" alt="新宿御苑夕焼け夜景｜東京新宿ビルビューと公園夕焼け風景">
-  <figcaption>新宿御苑夕焼け夜景｜東京新宿ビルビューと公園夕焼け風景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑夕焼け夜景｜東京新宿ビルビューと公園夕焼け風景</figcaption>
 </figure>
 
 ---

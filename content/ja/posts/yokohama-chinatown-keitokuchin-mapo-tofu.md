@@ -26,7 +26,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg" alt="横浜中華街グルメ 景徳鎮">
-  <figcaption>横浜中華街グルメ 景徳鎮</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜中華街グルメ 景徳鎮</figcaption>
 </figure>
 
 ---
@@ -52,7 +52,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-02.jpg" alt="横浜中華街グルメ「景徳鎮」の風格ある外観">
-  <figcaption>横浜中華街グルメ「景徳鎮」の風格ある外観</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜中華街グルメ「景徳鎮」の風格ある外観</figcaption>
 </figure>
 
 ---
@@ -80,7 +80,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-03.jpg" alt="景徳鎮のシグネチャーメニュー、四川麻婆豆腐、麻婆豆腐（まーぼーどうふ）">
-  <figcaption>景徳鎮のシグネチャーメニュー、四川麻婆豆腐、麻婆豆腐（まーぼーどうふ）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">景徳鎮のシグネチャーメニュー、四川麻婆豆腐、麻婆豆腐（まーぼーどうふ）</figcaption>
 </figure>
 
 ---
@@ -100,22 +100,22 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-04.jpg" alt="景徳鎮の小籠包、小籠包（しょうろんぽう）">
-  <figcaption>景徳鎮の小籠包、小籠包（しょうろんぽう）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">景徳鎮の小籠包、小籠包（しょうろんぽう）</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-05.jpg" alt="景徳鎮の酢豚、酢豚（すぶた）">
-  <figcaption>景徳鎮の酢豚、酢豚（すぶた）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">景徳鎮の酢豚、酢豚（すぶた）</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-06.jpg" alt="景徳鎮のチャーハン、チャーハン">
-  <figcaption>景徳鎮のチャーハン、チャーハン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">景徳鎮のチャーハン、チャーハン</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-07.jpg" alt="景徳鎮の青椒肉絲、青椒肉絲（チンジャオロース）">
-  <figcaption>景徳鎮の青椒肉絲、青椒肉絲（チンジャオロース）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">景徳鎮の青椒肉絲、青椒肉絲（チンジャオロース）</figcaption>
 </figure>
 
 ---
@@ -141,7 +141,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-08.jpg" alt="あかいくつバス 中華街停留所">
-  <figcaption>あかいくつバス 中華街停留所</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">あかいくつバス 中華街停留所</figcaption>
 </figure>
 
 <div style="margin: 2rem 0;">

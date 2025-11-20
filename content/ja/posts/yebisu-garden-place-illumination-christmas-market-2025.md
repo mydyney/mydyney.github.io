@@ -22,7 +22,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-01.jpg" alt="2025恵比寿ガーデンプレイス時計広場の10mクリスマスツリーとシャンパンゴールドイルミネーション全景">
-  <figcaption>2025恵比寿ガーデンプレイス時計広場の10mクリスマスツリーとシャンパンゴールドイルミネーション全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025恵比寿ガーデンプレイス時計広場の10mクリスマスツリーとシャンパンゴールドイルミネーション全景</figcaption>
 </figure>
 
 ## 概要
@@ -63,7 +63,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-02.jpg" alt="2025年冬恵比寿ガーデンプレイスイルミネーションと時計広場からセンター広場まで続く夜景全景">
-  <figcaption>2025年冬恵比寿ガーデンプレイスイルミネーションと時計広場からセンター広場まで続く夜景全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年冬恵比寿ガーデンプレイスイルミネーションと時計広場からセンター広場まで続く夜景全景</figcaption>
 </figure>
 
 ---
@@ -76,7 +76,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-03.jpg" alt="恵比寿ガーデンプレイス時計広場">
-  <figcaption>恵比寿ガーデンプレイス時計広場</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿ガーデンプレイス時計広場</figcaption>
 </figure>
 
 ### 🎄 10mクリスマスツリー
@@ -89,7 +89,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-04.jpg" alt="恵比寿ガーデンプレイス時計広場に設置された10m大型クリスマスツリー">
-  <figcaption>恵比寿ガーデンプレイス時計広場に設置された10m大型クリスマスツリー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿ガーデンプレイス時計広場に設置された10m大型クリスマスツリー</figcaption>
 </figure>
 
 ### 🎁 時計広場クリスマスマーケット
@@ -101,7 +101,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-05.jpg" alt="恵比寿ガーデンプレイス2025時計広場クリスマスマーケット風景">
-  <figcaption>恵比寿ガーデンプレイス2025時計広場クリスマスマーケット風景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿ガーデンプレイス2025時計広場クリスマスマーケット風景</figcaption>
 </figure>
 
 ### ☕ ウェスティンホテル東京フードトラック
@@ -134,7 +134,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-06.jpg" alt="2025恵比寿ガーデンプレイスBaccaratシャンデリア、8500ピースクリスタルとレッドカーペットフォトゾーン全景">
-  <figcaption>2025恵比寿ガーデンプレイスBaccaratシャンデリア、8500ピースクリスタルとレッドカーペットフォトゾーン全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025恵比寿ガーデンプレイスBaccaratシャンデリア、8500ピースクリスタルとレッドカーペットフォトゾーン全景</figcaption>
 </figure>
 
 ### 🌟 シャンパンゴールドイルミネーション
@@ -159,7 +159,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-07.jpg" alt="恵比寿ガーデンプレイス時計広場からセンター広場へ続くシャンパンゴールドイルミネーション散策路">
-  <figcaption><b>恵比寿ガーデンプレイス時計広場からセンター広場へ続くシャンパンゴールドイルミネーション散策路</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>恵比寿ガーデンプレイス時計広場からセンター広場へ続くシャンパンゴールドイルミネーション散策路</b></figcaption>
 </figure>
 
 ---
@@ -176,7 +176,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-08.jpg" alt="2025恵比寿ガーデンプレイスクリスマスマーケットが開かれるシャトー広場ジョエル・ロブション前">
-  <figcaption>2025恵比寿ガーデンプレイスクリスマスマーケットが開かれるシャトー広場ジョエル・ロブション前</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025恵比寿ガーデンプレイスクリスマスマーケットが開かれるシャトー広場ジョエル・ロブション前</figcaption>
 </figure>
 
 ここには時計広場とはまた違う特別なグルメフードトラックが入ります。
@@ -205,7 +205,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-09.jpg" alt="2025年冬無料DJミュージックテラスが開かれる恵比寿ガーデンプレイスBLUE NOTE PLACE">
-  <figcaption>2025年冬無料DJミュージックテラスが開かれる恵比寿ガーデンプレイスBLUE NOTE PLACE</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年冬無料DJミュージックテラスが開かれる恵比寿ガーデンプレイスBLUE NOTE PLACE</figcaption>
 </figure>
 
 ---
@@ -237,7 +237,7 @@ Top of Yebisuという無料展望台があります。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-10.jpg" alt="恵比寿ガーデンプレイスTop of Yebisu無料展望台から見える2025年冬東京タワー夜景">
-  <figcaption>恵比寿ガーデンプレイスTop of Yebisu無料展望台から見える2025年冬東京タワー夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿ガーデンプレイスTop of Yebisu無料展望台から見える2025年冬東京タワー夜景</figcaption>
 </figure>
 
 ---
@@ -264,7 +264,7 @@ Top of Yebisuという無料展望台があります。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-11.jpg" alt="ヱビスブルワリー東京タップルームで楽しむヱビスビールフライトセット2025年冬メニュー">
-  <figcaption><b>ヱビスブルワリー東京タップルームで楽しむヱビスビールフライトセット2025年冬メニュー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>ヱビスブルワリー東京タップルームで楽しむヱビスビールフライトセット2025年冬メニュー</b></figcaption>
 </figure>
 
 ---
@@ -287,7 +287,7 @@ Top of Yebisuという無料展望台があります。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-12.jpg" alt="恵比寿駅東口出口から恵比寿ガーデンプレイスへつながるスカイウォーク冬移動経路案内">
-  <figcaption><b>恵比寿駅東口出口から恵比寿ガーデンプレイスへつながるスカイウォーク冬移動経路案内</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>恵比寿駅東口出口から恵比寿ガーデンプレイスへつながるスカイウォーク冬移動経路案内</b></figcaption>
 </figure>
 
 ---
@@ -318,17 +318,17 @@ A. 地下2階 **Foodies' Garden** にはカルディ（KALDI）、セントラ�
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-13.jpg" alt="恵比寿ガーデンプレイス地下2階フーディーズガーデン入口">
-  <figcaption>恵比寿ガーデンプレイス地下2階フーディーズガーデン入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿ガーデンプレイス地下2階フーディーズガーデン入口</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-14.jpg" alt="恵比寿ガーデンプレイス地下2階セントラルスクエアお菓子コーナー">
-  <figcaption>恵比寿ガーデンプレイス地下2階セントラルスクエアお菓子コーナー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿ガーデンプレイス地下2階セントラルスクエアお菓子コーナー</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-15.jpg" alt="恵比寿ガーデンプレイス地下2階セントラルスクエアお菓子コーナー">
-  <figcaption>恵比寿ガーデンプレイス地下2階セントラルスクエアお菓子コーナー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿ガーデンプレイス地下2階セントラルスクエアお菓子コーナー</figcaption>
 </figure>
 
 ---

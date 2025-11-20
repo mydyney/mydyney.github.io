@@ -23,7 +23,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-01.jpg" alt="新宿だんご屋 追分だんご本舗 300年伝統デザート">
-  <figcaption>新宿だんご屋 追分だんご本舗 300年伝統デザート</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿だんご屋 追分だんご本舗 300年伝統デザート</figcaption>
 </figure>
 
 ---
@@ -42,7 +42,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-02.jpg" alt="新宿だんご屋 追分だんご本舗 — 300年伝統和菓子、みたらしだんごとあんだんごおすすめ">
-  <figcaption>新宿だんご屋 追分だんご本舗 — 300年伝統和菓子、みたらしだんごとあんだんごおすすめ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿だんご屋 追分だんご本舗 — 300年伝統和菓子、みたらしだんごとあんだんごおすすめ</figcaption>
 </figure>
 
 **📍場所：** 新宿三丁目駅C1出口すぐ前 **（伊勢丹百貨店の向かい）**
@@ -55,7 +55,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-03.jpg" alt="追分だんご新宿旗艦店ディスプレイ — あんこ、みたらし、季節限定だんご">
-  <figcaption>追分だんご新宿旗艦店ディスプレイ — あんこ、みたらし、季節限定だんご</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">追分だんご新宿旗艦店ディスプレイ — あんこ、みたらし、季節限定だんご</figcaption>
 </figure>
 
 何を選ぶか迷ったら、この3つをお試しください 👇
@@ -66,7 +66,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-04.jpg" alt="新宿だんご屋みたらしだんご — 甘辛醤油と焼きたてお餅の食感">
-  <figcaption>新宿だんご屋みたらしだんご — 甘辛醤油と焼きたてお餅の食感</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿だんご屋みたらしだんご — 甘辛醤油と焼きたてお餅の食感</figcaption>
 </figure>
 
 **2️⃣ つぶあん / こしあん（あんだんご）**
@@ -78,12 +78,12 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-05.jpg" alt="新宿追分だんごあんだんご — こしあんとつぶあんの比較">
-  <figcaption>新宿追分だんごあんだんご — こしあんとつぶあんの比較</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿追分だんごあんだんご — こしあんとつぶあんの比較</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-06.jpg" alt="新宿追分だんごあんだんご — こしあんとつぶあんの比較">
-  <figcaption>新宿追分だんごあんだんご — こしあんとつぶあんの比較</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿追分だんごあんだんご — こしあんとつぶあんの比較</figcaption>
 </figure>
 
 **3️⃣ 季節限定だんご**
@@ -92,7 +92,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-07.jpg" alt="追分だんご季節限定 — 秋の栗、柚子だんごと春の桜だんご">
-  <figcaption>追分だんご季節限定 — 秋の栗、柚子だんごと春の桜だんご</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">追分だんご季節限定 — 秋の栗、柚子だんごと春の桜だんご</figcaption>
 </figure>
 
 ---
@@ -111,7 +111,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-08.jpg" alt="追分だんご本舗新宿旗艦店 — 抹茶あんだんご">
-  <figcaption>追分だんご本舗新宿旗艦店 — 抹茶あんだんご</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">追分だんご本舗新宿旗艦店 — 抹茶あんだんご</figcaption>
 </figure>
 
 ---
@@ -122,7 +122,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-09.jpg" alt="追分だんご — 北海道産赤エンドウを使った「豆大福」3個セット">
-  <figcaption>追分だんご — 北海道産赤エンドウを使った「豆大福」3個セット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">追分だんご — 北海道産赤エンドウを使った「豆大福」3個セット</figcaption>
 </figure>
 
 ---

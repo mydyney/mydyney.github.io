@@ -19,21 +19,21 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-01.jpg" alt="エヴァンゲリオン30周年展が開催される六本木ヒルズ展望台東京シティビュー全景">
-  <figcaption>エヴァンゲリオン30周年展が開催される六本木ヒルズ展望台東京シティビュー全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展が開催される六本木ヒルズ展望台東京シティビュー全景</figcaption>
 </figure>
 
 <p>六本木の東京シティビューでエヴァンゲリオン30周年記念展「ALL OF EVANGELION」がついに開幕しました。チケット予約、限定グッズ、コラボドリンク、鑑賞のコツまで、訪問前に必要な核心情報だけを正確にまとめました。</p>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-02.jpg" alt="六本木エヴァンゲリオン30周年展示会入口に設置されたエヴァンゲリオン初号機大型フィギュア">
-  <figcaption>六本木エヴァンゲリオン30周年展示会入口に設置されたエヴァンゲリオン初号機大型フィギュア</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木エヴァンゲリオン30周年展示会入口に設置されたエヴァンゲリオン初号機大型フィギュア</figcaption>
 </figure>
 
 <h2>📅 エヴァンゲリオン30周年特別展公式情報</h2>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-03.jpg" alt="六本木ヒルズ展望台東京シティビュー内のエヴァンゲリオン30周年展示館入口">
-  <figcaption>六本木ヒルズ展望台東京シティビュー内のエヴァンゲリオン30周年展示館入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ展望台東京シティビュー内のエヴァンゲリオン30周年展示館入口</figcaption>
 </figure>
 
 <p>東京旅行中、最も特別な展示の一つが開催される場所、それが<strong>六本木ヒルズ展望台（東京シティビュー、52階）</strong>です。今回の展示は、東京のパノラマ夜景とともにエヴァンゲリオン30年の歴史を一度に楽しめる特別な構成で、オープン前から大きな期待を集めました。</p>
@@ -99,7 +99,7 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-04.jpg" alt="エヴァンゲリオン30周年記念展「ALL OF EVANGELION」ポスター">
-  <figcaption>エヴァンゲリオン30周年記念展「ALL OF EVANGELION」ポスター</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年記念展「ALL OF EVANGELION」ポスター</figcaption>
 </figure>
 
 <h3>🎁 平日限定特典（実際の訪問レビュー！）</h3>
@@ -112,7 +112,7 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-05.jpg" alt="六本木エヴァンゲリオン30周年記念特別展の公式ロゴエンブレム（EVANGELION 30th Anniv.）">
-  <figcaption>六本木エヴァンゲリオン30周年記念特別展の公式ロゴエンブレム（EVANGELION 30th Anniv.）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木エヴァンゲリオン30周年記念特別展の公式ロゴエンブレム（EVANGELION 30th Anniv.）</figcaption>
 </figure>
 
 <h2>🎬 六本木エヴァンゲリオン展示ハイライト</h2>
@@ -125,7 +125,7 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-06.jpg" alt="東京夜景を背景にした六本木エヴァンゲリオン初号機大型フィギュアフォトゾーン">
-  <figcaption>東京夜景を背景にした六本木エヴァンゲリオン初号機大型フィギュアフォトゾーン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京夜景を背景にした六本木エヴァンゲリオン初号機大型フィギュアフォトゾーン</figcaption>
 </figure>
 
 <h3>2️⃣ TVシリーズから新劇場版まで（制作資料展示）</h3>
@@ -138,12 +138,12 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-07.jpg" alt="エヴァンゲリオン30周年展の初期設定資料">
-  <figcaption>エヴァンゲリオン30周年展の初期設定資料</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展の初期設定資料</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-08.jpg" alt="エヴァンゲリオン30周年展のキャラクター設定シート">
-  <figcaption>エヴァンゲリオン30周年展のキャラクター設定シート</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展のキャラクター設定シート</figcaption>
 </figure>
 
 <h4>（2）TV版：「セル画」原本270点 🖼️</h4>
@@ -154,17 +154,17 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-09.jpg" alt="エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ">
-  <figcaption>エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-10.jpg" alt="エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ">
-  <figcaption>エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-11.jpg" alt="エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ">
-  <figcaption>エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展で公開された新世紀エヴァンゲリオンTV版セル画クローズアップ</figcaption>
 </figure>
 
 <h4>（3）新劇場版［：序、：破、：Q］：原画とレイアウト</h4>
@@ -173,12 +173,12 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-12.jpg" alt="エヴァンゲリオン30周年展で公開された新劇場版原画クローズアップ">
-  <figcaption>エヴァンゲリオン30周年展で公開された新劇場版原画クローズアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展で公開された新劇場版原画クローズアップ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-13.jpg" alt="エヴァンゲリオン30周年展で公開された新劇場版原画クローズアップ">
-  <figcaption>エヴァンゲリオン30周年展で公開された新劇場版原画クローズアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展で公開された新劇場版原画クローズアップ</figcaption>
 </figure>
 
 <h4>（4）完結［：シン］：結実の制作過程</h4>
@@ -187,7 +187,7 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-14.jpg" alt="エヴァンゲリオン30周年展で公開されたシン・エヴァンゲリオン劇場版原画展示">
-  <figcaption>エヴァンゲリオン30周年展で公開されたシン・エヴァンゲリオン劇場版原画展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展で公開されたシン・エヴァンゲリオン劇場版原画展示</figcaption>
 </figure>
 
 <h3>3️⃣ 「音」までこだわった現場（音声資料、予告編）</h3>
@@ -201,12 +201,12 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-15.jpg" alt="エヴァンゲリオン特別展応援メッセージ">
-  <figcaption>エヴァンゲリオン特別展応援メッセージ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン特別展応援メッセージ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-16.jpg" alt="エヴァンゲリオン特別展応援メッセージ">
-  <figcaption>エヴァンゲリオン特別展応援メッセージ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン特別展応援メッセージ</figcaption>
 </figure>
 
 <h2>🎁 公式グッズおよびコラボドリンク</h2>
@@ -231,7 +231,7 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-17.jpg" alt="六本木エヴァンゲリオン30周年展覧会限定グッズ販売ストア全景">
-  <figcaption>六本木エヴァンゲリオン30周年展覧会限定グッズ販売ストア全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木エヴァンゲリオン30周年展覧会限定グッズ販売ストア全景</figcaption>
 </figure>
 
 <h3>② 30周年コラボドリンク（カフェ）</h3>
@@ -240,7 +240,7 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-18.jpg" alt="エヴァンゲリオン30周年コラボドリンクおよびデザートを販売する「THE SUN & THE MOON」カフェ入口">
-  <figcaption>エヴァンゲリオン30周年コラボドリンクおよびデザートを販売する「THE SUN & THE MOON」カフェ入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年コラボドリンクおよびデザートを販売する「THE SUN & THE MOON」カフェ入口</figcaption>
 </figure>
 
 <h2>❓ Q&A + アクセス</h2>
@@ -253,12 +253,12 @@ A: いいえ、グッズショップは展示鑑賞を終えた後の退場動�
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-19.jpg" alt="六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター">
-  <figcaption>六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-20.jpg" alt="六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター">
-  <figcaption>六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター</figcaption>
 </figure>
 
 <h2>🚍 六本木ヒルズ（東京シティビュー）へのアクセス</h2>
@@ -279,12 +279,12 @@ A: いいえ、グッズショップは展示鑑賞を終えた後の退場動�
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-21.jpg" alt="六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景">
-  <figcaption>六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/evangelion-30th-roppongi-2025-22.jpg" alt="六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景">
-  <figcaption>六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景</figcaption>
 </figure>
 
 <h2>おわりに</h2>

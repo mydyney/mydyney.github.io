@@ -18,7 +18,7 @@ Experience authentic Edomae sushi in a quiet Shinjuku location.</p>
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-01.jpg" alt="Takumi Tatsuhiro Shinjuku Michelin sushi restaurant lunch omakase">
-  <figcaption>Tokyo Shinjuku Michelin Sushi Restaurant Takumi Tatsuhiro Lunch Omakase</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Shinjuku Michelin Sushi Restaurant Takumi Tatsuhiro Lunch Omakase</figcaption>
 </figure>
 
 Unlike the bustling Shinjuku Station area restaurants,
@@ -51,7 +51,7 @@ with hundreds of reviews accumulated.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-02.jpg" alt="Takumi Tatsuhiro exterior near Shinjuku Gyoenmae Station Exit 2">
-  <figcaption>Takumi Tatsuhiro exterior within 400m of Shinjuku restaurants, near Shinjuku Gyoenmae Station Exit 2</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Takumi Tatsuhiro exterior within 400m of Shinjuku restaurants, near Shinjuku Gyoenmae Station Exit 2</figcaption>
 </figure>
 
 ---
@@ -101,7 +101,7 @@ Tokyo Metro Marunouchi Line **Shinjuku Gyoenmae Station** Exit 2, approximately 
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-03.jpg" alt="Takumi Tatsuhiro Shinjuku Michelin sushi hinoki counter and omakase seating">
-  <figcaption>Shinjuku Michelin Sushi Takumi Tatsuhiro Hinoki Counter and Omakase Seating</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi Takumi Tatsuhiro Hinoki Counter and Omakase Seating</figcaption>
 </figure>
 
 ---
@@ -129,7 +129,7 @@ refreshingly open the sushi course.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-04.jpg" alt="Takumi Tatsuhiro Shinjuku Michelin sushi lunch tsumami sea grapes seaweed">
-  <figcaption>Shinjuku Michelin Sushi Takumi Tatsuhiro Lunch Tsumami (Sea Grapes & Seaweed)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi Takumi Tatsuhiro Lunch Tsumami (Sea Grapes & Seaweed)</figcaption>
 </figure>
 
 **Course 2. Nigiri – Splendid Alfonsino (Kinmedai)**
@@ -141,7 +141,7 @@ adds umami.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-05.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase nigiri splendid alfonsino kinmedai">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Splendid Alfonsino Kinmedai)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Splendid Alfonsino Kinmedai)</figcaption>
 </figure>
 
 **Course 3. Tsumami – Mozuku Seaweed**
@@ -154,7 +154,7 @@ The ginger on top enhances the aroma.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-06.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase tsumami mozuku">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Mozuku)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Mozuku)</figcaption>
 </figure>
 
 **Course 4. Nigiri – Bigfin Reef Squid (Aori Ika)**
@@ -166,7 +166,7 @@ the squid's unique sweetness pleasantly lingers.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-07.jpg" alt="Takumi Tatsuhiro Shinjuku Michelin sushi nigiri bigfin reef squid aori ika">
-  <figcaption>Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Bigfin Reef Squid Aori Ika)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Bigfin Reef Squid Aori Ika)</figcaption>
 </figure>
 
 **Course 5. Nigiri – Flounder (Hirame)**
@@ -178,7 +178,7 @@ pairs well with red vinegar shari.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-08.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase nigiri flounder hirame">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Flounder Hirame)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Flounder Hirame)</figcaption>
 </figure>
 
 **Course 6. Tsumami – Grilled Butterfish**
@@ -192,7 +192,7 @@ cuts through any richness.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-09.jpg" alt="Takumi Tatsuhiro Shinjuku Michelin sushi tsumami grilled butterfish">
-  <figcaption>Shinjuku Michelin Sushi, Takumi Tatsuhiro Tsumami (Grilled Butterfish)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Tsumami (Grilled Butterfish)</figcaption>
 </figure>
 
 **Course 7. Nigiri – Horse Mackerel (Aji)**
@@ -205,7 +205,7 @@ leaving only nutty oil flavor without any fishiness.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-10.jpg" alt="Takumi Tatsuhiro Shinjuku sushi restaurant nigiri horse mackerel aji">
-  <figcaption>Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Horse Mackerel Aji)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Horse Mackerel Aji)</figcaption>
 </figure>
 
 **Course 8. Koburi-don – Salmon Roe (Ikura)**
@@ -218,7 +218,7 @@ pairs perfectly with the rice.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-11.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase course salmon roe ikura">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Course (Salmon Roe Ikura)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Course (Salmon Roe Ikura)</figcaption>
 </figure>
 
 **Course 9. Nigiri – Yellowtail Belly (Buri Toro)**
@@ -231,7 +231,7 @@ melts softly with red vinegar shari.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-12.jpg" alt="Takumi Tatsuhiro Shinjuku Michelin sushi nigiri yellowtail belly buri">
-  <figcaption>Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Yellowtail Belly Buri)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Yellowtail Belly Buri)</figcaption>
 </figure>
 
 **Course 10. Tsumami – Steamed Spanish Mackerel (Sawara)**
@@ -244,7 +244,7 @@ serving as a good break between sushi.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-13.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase tsumami steamed Spanish mackerel">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Steamed Spanish Mackerel)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Steamed Spanish Mackerel)</figcaption>
 </figure>
 
 **Course 11. Nigiri – Kuruma Prawn (Kuruma Ebi)**
@@ -257,7 +257,7 @@ were explosive combined with red vinegar shari.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-14.jpg" alt="Takumi Tatsuhiro Shinjuku sushi restaurant nigiri kuruma prawn kuruma ebi">
-  <figcaption>Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Kuruma Prawn Kuruma Ebi)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Kuruma Prawn Kuruma Ebi)</figcaption>
 </figure>
 
 **Course 12. Nigiri – Tuna Belly (Toro)**
@@ -270,7 +270,7 @@ one of "today's highlights" memorable pieces.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-15.jpg" alt="Takumi Tatsuhiro Shinjuku Michelin sushi nigiri tuna belly toro">
-  <figcaption>Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Tuna Belly Toro)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Tuna Belly Toro)</figcaption>
 </figure>
 
 **Course 13. Nigiri – Lean Tuna (Akami)**
@@ -283,7 +283,7 @@ showing another charm of tuna.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-16.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase nigiri lean tuna akami">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Lean Tuna Akami)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Lean Tuna Akami)</figcaption>
 </figure>
 
 **Course 14. Gunkan-maki – Sea Urchin (Uni)**
@@ -296,7 +296,7 @@ Quality was definite, befitting Tokyo Michelin sushi.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-17.jpg" alt="Takumi Tatsuhiro Shinjuku sushi restaurant gunkan maki sea urchin uni">
-  <figcaption>Shinjuku Sushi Restaurant, Takumi Tatsuhiro Gunkan-maki (Sea Urchin Uni)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Restaurant, Takumi Tatsuhiro Gunkan-maki (Sea Urchin Uni)</figcaption>
 </figure>
 
 **Course 15. Soup – Miso Shiru**
@@ -308,7 +308,7 @@ preparing for the upcoming nigiri.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-18.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase soup miso shiru">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Soup (Miso Shiru)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Soup (Miso Shiru)</figcaption>
 </figure>
 
 **Course 16. Nigiri – Gizzard Shad (Kohada)**
@@ -322,7 +322,7 @@ only kohada's unique umami and aroma remain cleanly.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-19.jpg" alt="Takumi Tatsuhiro Shinjuku Michelin sushi nigiri gizzard shad kohada">
-  <figcaption>Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Gizzard Shad Kohada)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Gizzard Shad Kohada)</figcaption>
 </figure>
 
 **Course 17. Nigiri – Sea Eel (Anago)**
@@ -334,7 +334,7 @@ becoming one with shari in exquisite texture.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-20.jpg" alt="Takumi Tatsuhiro Shinjuku sushi restaurant nigiri sea eel anago">
-  <figcaption>Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Sea Eel Anago)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Sea Eel Anago)</figcaption>
 </figure>
 
 **Course 18. Tsumami – Egg Custard (Chawanmushi)**
@@ -347,7 +347,7 @@ aroma is refreshing, taste very smooth.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-21.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase tsumami chawanmushi">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Chawanmushi)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Chawanmushi)</figcaption>
 </figure>
 
 **Course 19. Grilled Egg – Gyoku**
@@ -361,7 +361,7 @@ to be enjoyed like dessert.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-22.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase grilled egg gyoku">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Omakase (Grilled Egg Gyoku)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Omakase (Grilled Egg Gyoku)</figcaption>
 </figure>
 
 **Course 20. Dessert – Black Bean Ice Cream**
@@ -373,7 +373,7 @@ it was the perfect finish to the long sushi course.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-23.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase lunch dessert black bean ice cream">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Lunch Dessert (Black Bean Ice Cream)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Lunch Dessert (Black Bean Ice Cream)</figcaption>
 </figure>
 
 ---
@@ -412,7 +412,7 @@ high-end **recommended Shinjuku sushi omakase course**.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-24.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase interior view">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Interior View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Interior View</figcaption>
 </figure>
 
 ---
@@ -432,7 +432,7 @@ high-end **recommended Shinjuku sushi omakase course**.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-25.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase entrance">
-  <figcaption>Shinjuku Sushi Omakase, Takumi Tatsuhiro Entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Entrance</figcaption>
 </figure>
 
 ---

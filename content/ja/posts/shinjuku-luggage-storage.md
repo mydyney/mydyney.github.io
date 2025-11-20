@@ -19,7 +19,7 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-01.jpg" alt="新宿駅荷物預かりコインロッカー場所と預かりセンター2025">
-  <figcaption>新宿駅荷物預かりコインロッカー場所と荷物預かりセンター予約総まとめ 2025年最新版</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅荷物預かりコインロッカー場所と荷物預かりセンター予約総まとめ 2025年最新版</figcaption>
 </figure>
 
 ## はじめに
@@ -49,14 +49,14 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-02.jpg" alt="新宿駅コインロッカー鍵式使用方法">
-  <figcaption>新宿駅コインロッカー鍵式使用方法（<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅コインロッカー鍵式使用方法（<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 - 荷物を取り出す際は、決済した交通カードを再度タッチします。
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-03.jpg" alt="新宿駅コインロッカータッチパネル決済と交通カード利用方法">
-  <figcaption>新宿駅コインロッカータッチパネル決済と交通カード利用方法（<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅コインロッカータッチパネル決済と交通カード利用方法（<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ---
@@ -77,7 +77,7 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-04.jpg" alt="新宿駅コインロッカーサイズ別料金表">
-  <figcaption>新宿駅コインロッカーサイズ別料金表（小型300円～大型900円）（<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅コインロッカーサイズ別料金表（小型300円～大型900円）（<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ---
@@ -109,7 +109,7 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-05.jpg" alt="京王線新宿駅コインロッカーリアルタイム空き状況画面">
-  <figcaption>京王線新宿駅コインロッカーリアルタイム空き状況確認画面（<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">京王線新宿駅コインロッカーリアルタイム空き状況確認画面（<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ### 4. 小田急線新宿駅南改札口2カ所（2階）
@@ -121,7 +121,7 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-06.jpg" alt="小田急線新宿駅南改札口荷物預かりコインロッカー場所">
-  <figcaption>小田急線新宿駅南改札口荷物預かりコインロッカー場所</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">小田急線新宿駅南改札口荷物預かりコインロッカー場所</figcaption>
 </figure>
 
 ---
@@ -156,12 +156,12 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-07.jpg" alt="新宿駅西口荷物預かり小田急観光サービスセンター">
-  <figcaption>新宿駅西口荷物預かり小田急観光サービスセンター（<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅西口荷物預かり小田急観光サービスセンター（<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-08.jpg" alt="新宿駅南口荷物預かり小田急観光サービスセンター">
-  <figcaption>新宿駅南口荷物預かり小田急観光サービスセンター（<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅南口荷物預かり小田急観光サービスセンター（<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ### 2. 佐川サービスセンター（バスタ新宿3階）
@@ -201,7 +201,7 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-09.jpg" alt="京王百貨店新宿店ecbo cloak荷物預かりサービス">
-  <figcaption>京王百貨店新宿店ecbo cloak荷物預かりサービス案内（外国人客カウンター）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">京王百貨店新宿店ecbo cloak荷物預かりサービス案内（外国人客カウンター）</figcaption>
 </figure>
 
 ### 4. Bounce（バウンス）

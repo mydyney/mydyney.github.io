@@ -24,7 +24,7 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg" alt="新宿思い出横丁ゴールデン街一人飲み比較">
-  <figcaption>新宿思い出横丁ゴールデン街一人飲み比較</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿思い出横丁ゴールデン街一人飲み比較</figcaption>
 </figure>
 
 ---
@@ -87,12 +87,12 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-02.jpg" alt="新宿思い出横丁焼き鳥横丁入口">
-  <figcaption>（左）新宿思い出横丁焼き鳥横丁、（右）新宿ゴールデン街バー横丁入口 — 東京の夜の雰囲気を代表する2大名所。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">（左）新宿思い出横丁焼き鳥横丁、（右）新宿ゴールデン街バー横丁入口 — 東京の夜の雰囲気を代表する2大名所。</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-03.jpg" alt="新宿ゴールデン街バー横丁入口">
-  <figcaption>新宿ゴールデン街バー横丁入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ゴールデン街バー横丁入口</figcaption>
 </figure>
 
 ---
@@ -121,7 +121,7 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-04.jpg" alt="新宿思い出横丁焼き鳥名店ささもと - 炭火の香り豊かな串焼きと昭和の情緒が生きる東京代表居酒屋">
-  <figcaption>新宿思い出横丁焼き鳥名店ささもと - 炭火の香り豊かな串焼きと昭和の情緒が生きる東京代表居酒屋。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿思い出横丁焼き鳥名店ささもと - 炭火の香り豊かな串焼きと昭和の情緒が生きる東京代表居酒屋。</figcaption>
 </figure>
 
 **✅ おすすめ店**
@@ -149,7 +149,7 @@ YouTubeホン・ソクチョン、イ・ウォンイルの東京行列店にも�
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-05.jpg" alt="新宿思い出横丁ささもと - 地元民も行列する焼き鳥串焼き名所、濃い醤油と火の香りが絶品">
-  <figcaption><b>新宿思い出横丁ささもと - 地元民も行列する焼き鳥串焼き名所、濃い醤油と火の香りが絶品。</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>新宿思い出横丁ささもと - 地元民も行列する焼き鳥串焼き名所、濃い醤油と火の香りが絶品。</b></figcaption>
 </figure>
 
 **2️⃣ もつ焼ウッチャン（もつ焼ウッチャン 新宿思い出横丁店）**
@@ -182,7 +182,7 @@ YouTubeホン・ソクチョン、イ・ウォンイルの東京行列店にも�
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-06.jpg" alt="新宿ゴールデン街店舗マップ - 約200軒の小さなバーとラーメン凪、ナグネなど人気店が密集した東京ゴールデン街ガイド">
-  <figcaption>新宿ゴールデン街店舗マップ - 約200軒の小さなバーとラーメン凪、ナグネなど人気店が密集した東京ゴールデン街ガイド。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ゴールデン街店舗マップ - 約200軒の小さなバーとラーメン凪、ナグネなど人気店が密集した東京ゴールデン街ガイド。</figcaption>
 </figure>
 
 **1️⃣ ラーメン凪（すごい煮干ラーメン凪 新宿ゴールデン街店本館）**
@@ -248,7 +248,7 @@ YouTuberカン・ナミおすすめラーメン店として話題！
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-07.jpg" alt="新宿ゴールデン街ネオン看板通り - 狭い路地に個性あふれる小さなバーが並ぶ東京代表ナイトスポット">
-  <figcaption>新宿ゴールデン街ネオン看板通り - 狭い路地に個性あふれる小さなバーが並ぶ東京代表ナイトスポット。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ゴールデン街ネオン看板通り - 狭い路地に個性あふれる小さなバーが並ぶ東京代表ナイトスポット。</figcaption>
 </figure>
 
 ---

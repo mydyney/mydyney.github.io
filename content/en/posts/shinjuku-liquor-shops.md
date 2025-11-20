@@ -25,7 +25,7 @@ your complete whisky shopping guide! 🍶</p>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-01.jpg" alt="Shinjuku liquor shops Yamaya Shinanoya Bic Camera whisky tax-free discount coupons">
-  <figcaption>Shinjuku liquor shops Yamaya, Shinanoya, Bic Camera tax-free + discount coupons</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku liquor shops Yamaya, Shinanoya, Bic Camera tax-free + discount coupons</figcaption>
 </figure>
 
 ---
@@ -40,7 +40,7 @@ Shinjuku liquor shops especially stock limited whiskies and Japanese whiskies li
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-02.jpg" alt="Shinjuku liquor shop recommendation Don Quijote whisky limited edition (Tokyo whisky shopping)">
-  <figcaption>Shinjuku liquor shop recommendation Don Quijote whisky limited edition (Tokyo whisky shopping)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku liquor shop recommendation Don Quijote whisky limited edition (Tokyo whisky shopping)</figcaption>
 </figure>
 
 ---
@@ -60,7 +60,7 @@ Easy tax-free shopping and great for getting a sense of prices.
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-03.jpg" alt="Shinjuku liquor shop Bic Camera whisky corner tax-free tips (Kavalan, Yamazaki)">
-  <figcaption>Shinjuku liquor shop Bic Camera whisky corner tax-free tips (Kavalan, Yamazaki)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku liquor shop Bic Camera whisky corner tax-free tips (Kavalan, Yamazaki)</figcaption>
 </figure>
 
 ### 2️⃣ Shinjuku Kabukicho / East Exit
@@ -73,7 +73,7 @@ This area has a slightly higher chance of finding Japanese whisky or rare bottle
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-04.jpg" alt="Shinjuku liquor shop Shinanoya">
-  <figcaption>Shinjuku liquor shop Shinanoya</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku liquor shop Shinanoya</figcaption>
 </figure>
 
 ---
@@ -91,7 +91,7 @@ Yamazaki has the fiercest competition. If you see it on the shelf, grab it immed
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-05.jpg" alt="Ginza Lotte Duty Free Yamazaki 12 Year whisky official price">
-  <figcaption>Ginza Lotte Duty Free Yamazaki 12 Year whisky official price</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ginza Lotte Duty Free Yamazaki 12 Year whisky official price</figcaption>
 </figure>
 
 ---
@@ -106,7 +106,7 @@ Hibiki is slightly easier to find than Yamazaki.
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-06.jpg" alt="Ginza Lotte Duty Free Hibiki Japanese Harmony tax-free price (Tokyo whisky)">
-  <figcaption>Ginza Lotte Duty Free Hibiki Japanese Harmony tax-free price (Tokyo whisky)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ginza Lotte Duty Free Hibiki Japanese Harmony tax-free price (Tokyo whisky)</figcaption>
 </figure>
 
 ### 📌 [Must Read] Yamazaki & Hibiki Price/Lineup Guide
@@ -123,7 +123,7 @@ To avoid being shocked by premium prices at liquor shops, check the **official Y
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-07.jpg" alt="Suntory whisky lineup (Yamazaki, Hakushu, Hibiki comparison)">
-  <figcaption><strong>Suntory whisky lineup (Yamazaki, Hakushu, Hibiki comparison)</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Suntory whisky lineup (Yamazaki, Hakushu, Hibiki comparison)</strong></figcaption>
 </figure>
 
 ---
@@ -150,7 +150,7 @@ If Ginza is on your travel itinerary, I recommend visiting **Ginza Lotte Duty Fr
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-08.jpg" alt="Ginza Lotte Duty Free Suntory whisky corner (Yamazaki, Hakushu, Hibiki)">
-  <figcaption><strong>Ginza Lotte Duty Free Suntory whisky corner (Yamazaki, Hakushu, Hibiki)</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Ginza Lotte Duty Free Suntory whisky corner (Yamazaki, Hakushu, Hibiki)</strong></figcaption>
 </figure>
 
 ---
@@ -178,7 +178,7 @@ If you want to know the exact official Japanese prices for Dassai 23, 45, and 39
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-09.jpg" alt="Liquor shop Dassai sake corner Dassai 39, 23, 45">
-  <figcaption><strong>Liquor shop Dassai sake corner Dassai 39, 23, 45</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Liquor shop Dassai sake corner Dassai 39, 23, 45</strong></figcaption>
 </figure>
 
 ### 4️⃣ **Bic Camera Tax-Free 10% + 3-7% Discount Coupon**
@@ -193,7 +193,7 @@ You can shop for electronics, medicine, and sake all at once, making it the most
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-10.jpg" alt="Shinjuku Bic Camera discount coupon tax-free 10% + additional 7% shopping tips">
-  <figcaption><strong>Shinjuku Bic Camera discount coupon tax-free 10% + additional 7% shopping tips</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Shinjuku Bic Camera discount coupon tax-free 10% + additional 7% shopping tips</strong></figcaption>
 </figure>
 
 ---
@@ -210,7 +210,7 @@ This itinerary lets you complete Shinjuku shopping + whisky shopping + night vie
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-11.jpg" alt="Shinjuku night view spot Tokyo Metropolitan Government Building observatory Mt. Fuji view (Tokyo travel course)">
-  <figcaption>Shinjuku night view spot Tokyo Metropolitan Government Building observatory Mt. Fuji view (Tokyo travel course)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku night view spot Tokyo Metropolitan Government Building observatory Mt. Fuji view (Tokyo travel course)</figcaption>
 </figure>
 
 ---

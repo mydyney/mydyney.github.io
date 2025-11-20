@@ -19,7 +19,7 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-01.jpg" alt="Toranomon Hills HERMES Event Tokyo Node Free Exhibition">
-  <figcaption>Toranomon Hills HERMES Event Tokyo Node Free Exhibition</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Toranomon Hills HERMES Event Tokyo Node Free Exhibition</figcaption>
 </figure>
 
 <p>The HERMES event at Toranomon Hills was so popular that reservations sold out instantly. I was lucky enough to attend 'MYSTERY AT THE GROOMS' held at TOKYO NODE (Tokyo Node Gallery) on the 45th floor of Toranomon Hills. I'll share my event review, online game tips for those who missed out, and detailed directions to Tokyo Node.</p>
@@ -38,7 +38,7 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-02.jpg" alt="Toranomon Hills Special Exhibition HERMES Horse Hunt">
-  <figcaption>Toranomon Hills Special Exhibition HERMES Horse Hunt</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Toranomon Hills Special Exhibition HERMES Horse Hunt</figcaption>
 </figure>
 
 <h2>ℹ️ Toranomon Hills HERMES Exhibition Information</h2>
@@ -82,7 +82,7 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-03.jpg" alt="Toranomon Hills 45F Tokyo Node Panoramic View">
-  <figcaption>Toranomon Hills 45F Tokyo Node Panoramic View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Toranomon Hills 45F Tokyo Node Panoramic View</figcaption>
 </figure>
 
 <h2>🕵️‍♂️ 'Finding HERMES Horses' Vivid Experience Review</h2>
@@ -93,7 +93,7 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-04.jpg" alt="HERMES Experience Exhibition Start - Grooms Explaining the Situation">
-  <figcaption>HERMES Experience Exhibition Start - Grooms Explaining the Horses Have Escaped</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">HERMES Experience Exhibition Start - Grooms Explaining the Horses Have Escaped</figcaption>
 </figure>
 
 <p><strong>⭐ Essential Item: Charged Smartphone!</strong></p>
@@ -101,12 +101,12 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-05.jpg" alt="Horse Hunt Smartphone Game Starting in Experience Space">
-  <figcaption>Horse Hunt Smartphone Game Starting in Experience Space</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Horse Hunt Smartphone Game Starting in Experience Space</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-06.jpg" alt="Horse Hunt Smartphone Game Starting in Experience Space">
-  <figcaption>Horse Hunt Smartphone Game Starting in Experience Space</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Horse Hunt Smartphone Game Starting in Experience Space</figcaption>
 </figure>
 
 <p>The event involved touring 6 different spaces over 70 minutes to complete missions.</p>
@@ -117,61 +117,61 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-07.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
-  <figcaption>HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-08.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
-  <figcaption>HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-09.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
-  <figcaption>HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-10.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
-  <figcaption>HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
 </figure>
 
 <p>It was enjoyable solo, and there were actually many families with children. (However, reservations are only for elementary school age and above)</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-11.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption>Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-12.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption>Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-13.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption>Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-14.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption>Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
 </figure>
 
 <p>From curious children to experienced adults, it was a time where everyone could happily immerse themselves as HERMES detectives.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-15.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption>Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-16.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption>Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-17.jpg" alt="Final Password is 1837 - The Year HERMES Was Founded">
-  <figcaption>Final Password is 1837 - The Year HERMES Was Founded</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Final Password is 1837 - The Year HERMES Was Founded</figcaption>
 </figure>
 
 <h2>🗺️ How to Get to Toranomon Hills TOKYO NODE 45F</h2>
@@ -193,7 +193,7 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-18.jpg" alt="Tokyo Metro Hibiya Line (H) Toranomon Hills Station Connecting Passage">
-  <figcaption>Tokyo Metro Hibiya Line (H) Toranomon Hills Station Connecting Passage</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Metro Hibiya Line (H) Toranomon Hills Station Connecting Passage</figcaption>
 </figure>
 
 <p><strong>📍 How to Get to 45F (Important)</strong></p>
@@ -207,12 +207,12 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-19.jpg" alt="Basement Level Tokyo Node Entrance Shuttle Elevator Passage">
-  <figcaption>Basement Level Tokyo Node Entrance Shuttle Elevator Passage</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Basement Level Tokyo Node Entrance Shuttle Elevator Passage</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-20.jpg" alt="Toranomon Hills 8F TOKYO NODE Entrance High-Rise Elevator Transfer Area">
-  <figcaption>Toranomon Hills 8F TOKYO NODE Entrance High-Rise Elevator Transfer Area</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Toranomon Hills 8F TOKYO NODE Entrance High-Rise Elevator Transfer Area</figcaption>
 </figure>
 
 <h2>💻 It's Not Over Yet! Online 'Horse Hunt' Game</h2>
@@ -228,12 +228,12 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-21.jpg" alt="Exhibition Ticket, Commemorative Postcard, Completion Commemorative Notebook">
-  <figcaption>Exhibition Ticket, Commemorative Postcard, Completion Commemorative Notebook</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Exhibition Ticket, Commemorative Postcard, Completion Commemorative Notebook</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-22.jpg" alt="HERMES Exhibition at Tokyo Node Observatory on 45th Floor">
-  <figcaption>HERMES Exhibition at Tokyo Node Observatory on 45th Floor</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">HERMES Exhibition at Tokyo Node Observatory on 45th Floor</figcaption>
 </figure>
 
 <p>The Toranomon Hills HERMES event is a very special free exhibition available for the short period until November 24th.</p>

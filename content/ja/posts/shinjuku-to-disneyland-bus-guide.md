@@ -24,7 +24,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg" alt="新宿からディズニーランドへのリムジンバス バスタ新宿時刻表と料金ガイド">
-  <figcaption>新宿からディズニーランドへのリムジンバス バスタ新宿時刻表と料金ガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿からディズニーランドへのリムジンバス バスタ新宿時刻表と料金ガイド</figcaption>
 </figure>
 
 新宿を出発して子連れの家族旅行を計画しているなら、
@@ -77,7 +77,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-02.jpg" alt="東京ディズニーランド シンデレラ城、新宿からバスで到着後の入場ゲート">
-  <figcaption>東京ディズニーランド シンデレラ城、新宿からバスで到着後の入場ゲート</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド シンデレラ城、新宿からバスで到着後の入場ゲート</figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-03.jpg" alt="バスタ新宿4Fバスターミナル、ディズニーランド行きリムジンバス乗り場">
-  <figcaption>バスタ新宿4Fバスターミナル、ディズニーランド行きリムジンバス乗り場</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">バスタ新宿4Fバスターミナル、ディズニーランド行きリムジンバス乗り場</figcaption>
 </figure>
 
 ---
@@ -138,7 +138,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-04.jpg" alt="バスタ新宿4Fバスターミナル、ディズニーランド行きリムジンバス乗り場">
-  <figcaption>バスタ新宿4Fバスターミナル、ディズニーランド行きリムジンバス乗り場</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">バスタ新宿4Fバスターミナル、ディズニーランド行きリムジンバス乗り場</figcaption>
 </figure>
 
 ---
@@ -179,7 +179,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-05.jpg" alt="東京ディズニーランド夜の花火、ディズニーシーの夜景">
-  <figcaption>東京ディズニーランド夜の花火、ディズニーシーの夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド夜の花火、ディズニーシーの夜景</figcaption>
 </figure>
 
 ---
@@ -217,7 +217,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-06.jpg" alt="ディズニーランド リトルグリーンメンもち、東京ディズニーランドの人気スナック">
-  <figcaption>ディズニーランド リトルグリーンメンもち、東京ディズニーランドの人気スナック</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニーランド リトルグリーンメンもち、東京ディズニーランドの人気スナック</figcaption>
 </figure>
 
 ---
@@ -247,7 +247,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-07.jpg" alt="東京ディズニーランド 美女と野獣の城、新宿から1時間の家族旅行スポット">
-  <figcaption>東京ディズニーランド 美女と野獣の城、新宿から1時間の家族旅行スポット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド 美女と野獣の城、新宿から1時間の家族旅行スポット</figcaption>
 </figure>
 
 ---
@@ -266,7 +266,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-08.jpg" alt="バスタ新宿の夜景、深夜バスターミナル帰りのシーン">
-  <figcaption><b>バスタ新宿の夜景、深夜バスターミナル帰りのシーン</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>バスタ新宿の夜景、深夜バスターミナル帰りのシーン</b></figcaption>
 </figure>
 
 ---

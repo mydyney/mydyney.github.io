@@ -19,7 +19,7 @@ Complete guide to one of Tokyo's must-visit spots!</p>
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-01.jpg" alt="Tokyo Metropolitan Government Building exterior">
-  <figcaption>Tokyo Metropolitan Government Building - Iconic twin towers in Shinjuku</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Metropolitan Government Building - Iconic twin towers in Shinjuku</figcaption>
 </figure>
 
 ## Free Admission Observatory in the Heart of Tokyo
@@ -38,7 +38,7 @@ The Tokyo Metropolitan Government Observatory is one of Tokyo's best-kept secret
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-02.jpg" alt="Panoramic view from observatory">
-  <figcaption>Breathtaking 360° panoramic view of Tokyo from the 45th floor</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Breathtaking 360° panoramic view of Tokyo from the 45th floor</figcaption>
 </figure>
 
 ## North Observatory vs South Observatory
@@ -88,7 +88,7 @@ The Tokyo Metropolitan Government Building has two observatories in its twin tow
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-03.jpg" alt="North Observatory interior">
-  <figcaption>North Observatory - Available for both day and night visits</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">North Observatory - Available for both day and night visits</figcaption>
 </figure>
 
 ## 360° Panoramic Views - What You Can See
@@ -99,7 +99,7 @@ On a clear day, the observatory offers breathtaking views of Tokyo's most iconic
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-04.jpg" alt="Daytime view from observatory">
-  <figcaption>Clear daytime view showcasing Tokyo's sprawling cityscape</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Clear daytime view showcasing Tokyo's sprawling cityscape</figcaption>
 </figure>
 
 - **Mount Fuji**: Visible on clear days, especially in winter (west direction)
@@ -110,14 +110,14 @@ On a clear day, the observatory offers breathtaking views of Tokyo's most iconic
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-05.jpg" alt="Mount Fuji view">
-  <figcaption>Mount Fuji visible on clear days from the observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Mount Fuji visible on clear days from the observatory</figcaption>
 </figure>
 
 ### Night Views
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-06.jpg" alt="Night view from observatory">
-  <figcaption>Spectacular night view of Tokyo's illuminated cityscape</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Spectacular night view of Tokyo's illuminated cityscape</figcaption>
 </figure>
 
 - **Tokyo Skytree**: Beautifully illuminated tower
@@ -132,7 +132,7 @@ On a clear day, the observatory offers breathtaking views of Tokyo's most iconic
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-07.jpg" alt="Tokyo Skytree from observatory">
-  <figcaption>Tokyo Skytree illuminated at night as seen from the observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree illuminated at night as seen from the observatory</figcaption>
 </figure>
 
 ## TOKYO Night & Light - Spectacular Projection Mapping Show
@@ -141,7 +141,7 @@ One of the highlights of visiting the North Observatory is the **TOKYO Night & L
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-08.jpg" alt="TOKYO Night & Light projection mapping">
-  <figcaption>TOKYO Night & Light projection mapping show at the North Observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">TOKYO Night & Light projection mapping show at the North Observatory</figcaption>
 </figure>
 
 ### Featured Programs
@@ -151,7 +151,7 @@ The projection mapping show features several themed programs throughout the year
 **1. Godzilla Program**
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-09.jpg" alt="Godzilla projection mapping">
-  <figcaption>Godzilla roaring through Tokyo in the projection mapping show</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Godzilla roaring through Tokyo in the projection mapping show</figcaption>
 </figure>
 
 Experience the iconic Japanese monster Godzilla stomping through Tokyo's cityscape with dramatic sound effects and lighting.
@@ -159,7 +159,7 @@ Experience the iconic Japanese monster Godzilla stomping through Tokyo's citysca
 **2. Gundam Program**
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-10.jpg" alt="Gundam projection mapping">
-  <figcaption>Mobile Suit Gundam featured in the light show</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Mobile Suit Gundam featured in the light show</figcaption>
 </figure>
 
 Watch the legendary Mobile Suit Gundam come to life with dynamic battle scenes projected onto the windows.
@@ -167,7 +167,7 @@ Watch the legendary Mobile Suit Gundam come to life with dynamic battle scenes p
 **3. Pac-Man Program**
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-11.jpg" alt="Pac-Man projection mapping">
-  <figcaption>Classic Pac-Man game reimagined in projection mapping</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Classic Pac-Man game reimagined in projection mapping</figcaption>
 </figure>
 
 Enjoy the nostalgic arcade game Pac-Man in a modern projection mapping interpretation.
@@ -175,7 +175,7 @@ Enjoy the nostalgic arcade game Pac-Man in a modern projection mapping interpret
 **4. Tokyo Landmarks**
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-12.jpg" alt="Tokyo landmarks projection">
-  <figcaption>Tokyo's famous landmarks showcased in artistic projections</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo's famous landmarks showcased in artistic projections</figcaption>
 </figure>
 
 Tour Tokyo's most famous landmarks through beautifully crafted projection art.
@@ -228,7 +228,7 @@ The projection mapping show runs year-round with different seasonal themes. Here
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-13.jpg" alt="Crowd watching projection mapping">
-  <figcaption>Visitors enjoying the TOKYO Night & Light show</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Visitors enjoying the TOKYO Night & Light show</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -241,14 +241,14 @@ While the South Observatory operates only during daytime hours, it features a un
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-14.jpg" alt="Yayoi Kusama piano">
-  <figcaption>Piano designed by Yayoi Kusama at the South Observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Piano designed by Yayoi Kusama at the South Observatory</figcaption>
 </figure>
 
 The piano features Kusama's signature polka dot design and is a popular photo spot. Occasionally, live piano performances are held at the South Observatory, creating a unique cultural experience combined with spectacular city views.
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-15.jpg" alt="South Observatory view">
-  <figcaption>Daytime view from the South Observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Daytime view from the South Observatory</figcaption>
 </figure>
 
 ## Access Information - How to Get There
@@ -261,7 +261,7 @@ The Tokyo Metropolitan Government Building is conveniently located in Shinjuku, 
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-16.jpg" alt="Walking route from Shinjuku Station">
-  <figcaption>Walking route from Shinjuku Station to Tokyo Metropolitan Government Building</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Walking route from Shinjuku Station to Tokyo Metropolitan Government Building</figcaption>
 </figure>
 
 1. Exit from **Shinjuku Station West Exit**
@@ -295,7 +295,7 @@ The Tokyo Metropolitan Government Building is conveniently located in Shinjuku, 
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-17.jpg" alt="Tochomae Station exit">
-  <figcaption>Tochomae Station - Most convenient subway access</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tochomae Station - Most convenient subway access</figcaption>
 </figure>
 
 **Tokyo Metro Marunouchi Line**
@@ -323,7 +323,7 @@ The Tokyo Metropolitan Government Building is conveniently located in Shinjuku, 
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-18.jpg" alt="Building entrance">
-  <figcaption>Main entrance to the Tokyo Metropolitan Government Building</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Main entrance to the Tokyo Metropolitan Government Building</figcaption>
 </figure>
 
 ## Practical Visitor Information
@@ -359,7 +359,7 @@ The Tokyo Metropolitan Government Building is conveniently located in Shinjuku, 
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-19.jpg" alt="Observatory elevator lobby">
-  <figcaption>Dedicated elevator lobby for the observatory - Free admission!</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Dedicated elevator lobby for the observatory - Free admission!</figcaption>
 </figure>
 
 ### What to Bring
@@ -377,14 +377,14 @@ The Tokyo Metropolitan Government Building is conveniently located in Shinjuku, 
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-20.jpg" alt="Observatory cafe">
-  <figcaption>Cafe at the observatory - Perfect for enjoying the view with a drink</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Cafe at the observatory - Perfect for enjoying the view with a drink</figcaption>
 </figure>
 
 ### Souvenir Shop
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-21.jpg" alt="Souvenir shop">
-  <figcaption>Observatory souvenir shop with Tokyo-themed gifts</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Observatory souvenir shop with Tokyo-themed gifts</figcaption>
 </figure>
 
 The observatory features a small souvenir shop selling:
@@ -415,7 +415,7 @@ The observatory features a small souvenir shop selling:
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-22.jpg" alt="Sunset view">
-  <figcaption>Beautiful sunset view from the observatory - Popular but crowded time</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Beautiful sunset view from the observatory - Popular but crowded time</figcaption>
 </figure>
 
 ### Combining with Other Shinjuku Attractions
@@ -431,7 +431,7 @@ The Tokyo Metropolitan Government Observatory is perfectly located to combine wi
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-23.jpg" alt="Shinjuku area map">
-  <figcaption>Shinjuku area map showing nearby attractions</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku area map showing nearby attractions</figcaption>
 </figure>
 
 ### Photography Tips
@@ -450,7 +450,7 @@ The Tokyo Metropolitan Government Observatory is perfectly located to combine wi
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-24.jpg" alt="Window reflection photography">
-  <figcaption>Tips for minimizing window reflections in your photos</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tips for minimizing window reflections in your photos</figcaption>
 </figure>
 
 ### Accessibility
@@ -463,7 +463,7 @@ The Tokyo Metropolitan Government Observatory is perfectly located to combine wi
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-25.jpg" alt="Accessible facilities">
-  <figcaption>Barrier-free access ensures everyone can enjoy the spectacular views</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Barrier-free access ensures everyone can enjoy the spectacular views</figcaption>
 </figure>
 
 ## Why Visit Tokyo Metropolitan Government Observatory?

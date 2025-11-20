@@ -19,7 +19,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-01.jpg" alt="成田空港から新宿への行き方 - 成田エクスプレスとリムジンバス比較">
-  <figcaption>成田空港から新宿への行き方 - 成田エクスプレス(N'EX)とリムジンバス比較(出典:JR東日本)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港から新宿への行き方 - 成田エクスプレス(N'EX)とリムジンバス比較(出典:JR東日本)</figcaption>
 </figure>
 
 ## 成田空港 → 新宿:2つのルート一目で確認
@@ -177,7 +177,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-02.jpg" alt="成田空港第1ターミナル成田エクスプレス券売機">
-  <figcaption>成田空港第1ターミナルの成田エクスプレス(N'EX)券売機</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港第1ターミナルの成田エクスプレス(N'EX)券売機</figcaption>
 </figure>
 
 ---
@@ -426,7 +426,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-03.jpg" alt="成田空港第1ターミナルリムジンバスチケットカウンター">
-  <figcaption>成田空港第1ターミナルのリムジンバスチケットカウンター</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港第1ターミナルのリムジンバスチケットカウンター</figcaption>
 </figure>
 
 ---

@@ -19,7 +19,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-01.jpg" alt="2025年東京丸の内イルミネーションとディズニー100周年コラボ">
-  <figcaption>2025年東京丸の内イルミネーションとディズニー100周年コラボ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年東京丸の内イルミネーションとディズニー100周年コラボ</figcaption>
 </figure>
 
 <p>今年で23回目を迎える東京駅丸の内イルミネーション！2025年はディズニーと100周年コラボも実施し、さらに特別です。このポスティングでは、イルミネーション期間、時間、そしてクリスマスマーケットとディズニースタンプラリーまで一緒に完全ガイドいたします！</p>
@@ -28,7 +28,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-02.jpg" alt="丸の内イルミネーション夜景全景">
-  <figcaption>丸の内イルミネーション夜景全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内イルミネーション夜景全景</figcaption>
 </figure>
 
 <p>丸の内仲通り約1.2km区間が約120万個のシャンパンゴールドLEDで輝く冬の名所です。</p>
@@ -46,14 +46,14 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-03.jpg" alt="丸の内仲通りイルミネーション通り全景">
-  <figcaption>丸の内仲通りイルミネーション通り全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内仲通りイルミネーション通り全景</figcaption>
 </figure>
 
 <h2>🎄 丸の内クリスマスマーケット2024</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-04.jpg" alt="東京国際フォーラム前クリスマスマーケット全景">
-  <figcaption>東京国際フォーラム前クリスマスマーケット全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京国際フォーラム前クリスマスマーケット全景</figcaption>
 </figure>
 
 <p>イルミネーションと一緒にクリスマスマーケットも開催されます！</p>
@@ -87,21 +87,21 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-05.jpg" alt="クリスマスマーケットブースと食品販売">
-  <figcaption>クリスマスマーケットブースと食品販売</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">クリスマスマーケットブースと食品販売</figcaption>
 </figure>
 
 <p>グリューワイン(mulled wine)とドイツソーセージなど様々なフードブースが運営され、クリスマス雰囲気を満喫できます。</p>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-06.jpg" alt="クリスマスマーケット夜景とイルミネーション">
-  <figcaption>クリスマスマーケット夜景とイルミネーション</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">クリスマスマーケット夜景とイルミネーション</figcaption>
 </figure>
 
 <h2>🏰 ディズニー100周年記念コラボイベント</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-07.jpg" alt="ディズニー100周年コラボモニュメント全景">
-  <figcaption>ディズニー100周年コラボモニュメント全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニー100周年コラボモニュメント全景</figcaption>
 </figure>
 
 <p>ディズニー100周年を記念して、丸の内地域各所にディズニーキャラクター造形物と特別イベントが展開されます。</p>
@@ -110,7 +110,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-08.jpg" alt="ディズニーキャラクターモニュメント - ミッキーとミニー">
-  <figcaption>ディズニーキャラクターモニュメント - ミッキーとミニー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニーキャラクターモニュメント - ミッキーとミニー</figcaption>
 </figure>
 
 <p><strong>期間:</strong> 2024年11月7日 ～ 2025年2月16日<br>
@@ -156,19 +156,19 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-09.jpg" alt="ディズニーキャラクター造形物クローズアップ">
-  <figcaption>ディズニーキャラクター造形物クローズアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニーキャラクター造形物クローズアップ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-10.jpg" alt="ディズニーキャラクターとフォトスポット">
-  <figcaption>ディズニーキャラクターとフォトスポット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニーキャラクターとフォトスポット</figcaption>
 </figure>
 
 <h3>2) ディズニー100周年スタンプラリー</h3>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-11.jpg" alt="ディズニースタンプラリー案内">
-  <figcaption>ディズニースタンプラリー案内</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニースタンプラリー案内</figcaption>
 </figure>
 
 <div class="info-box">
@@ -198,19 +198,19 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-12.jpg" alt="スタンプラリー参加者">
-  <figcaption>スタンプラリー参加者</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">スタンプラリー参加者</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-13.jpg" alt="スタンプラリー完走記念品">
-  <figcaption>スタンプラリー完走記念品</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">スタンプラリー完走記念品</figcaption>
 </figure>
 
 <h3>3) その他ディズニーコラボイベント</h3>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-14.jpg" alt="LEGOディズニーフォトゾーン">
-  <figcaption>LEGOディズニーフォトゾーン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">LEGOディズニーフォトゾーン</figcaption>
 </figure>
 
 <ul>
@@ -221,14 +221,14 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-15.jpg" alt="ディズニー限定グッズとドリンク自動販売機">
-  <figcaption>ディズニー限定グッズとドリンク自動販売機</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニー限定グッズとドリンク自動販売機</figcaption>
 </figure>
 
 <h2>📍 アクセス</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-16.jpg" alt="JR東京駅丸の内出口">
-  <figcaption>JR東京駅丸の内出口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">JR東京駅丸の内出口</figcaption>
 </figure>
 
 <div class="info-box">
@@ -241,14 +241,14 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-17.jpg" alt="東京駅から丸の内通りへの道">
-  <figcaption>東京駅から丸の内通りへの道</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅から丸の内通りへの道</figcaption>
 </figure>
 
 <h2>💡 訪問のヒント</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-18.jpg" alt="イルミネーションベストフォトスポット">
-  <figcaption>イルミネーションベストフォトスポット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">イルミネーションベストフォトスポット</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -262,14 +262,14 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-19.jpg" alt="イルミネーションとクリスマスツリー">
-  <figcaption>イルミネーションとクリスマスツリー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">イルミネーションとクリスマスツリー</figcaption>
 </figure>
 
 <h2>❓ よくある質問 (Q&A)</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-20.jpg" alt="丸の内イルミネーション近景">
-  <figcaption>丸の内イルミネーション近景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内イルミネーション近景</figcaption>
 </figure>
 
 <p><strong>Q1. 入場料はありますか？</strong><br>
@@ -286,14 +286,14 @@ A. 2025年限定ディズニーオリジナルグッズが提供されます。�
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-21.jpg" alt="丸の内夜景と人々">
-  <figcaption>丸の内夜景と人々</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内夜景と人々</figcaption>
 </figure>
 
 <h2>おわりに</h2>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-22.jpg" alt="丸の内イルミネーション全景最後">
-  <figcaption>丸の内イルミネーション全景最後</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内イルミネーション全景最後</figcaption>
 </figure>
 
 <p>東京丸の内イルミネーション2025はディズニー100周年を記念する特別なイベントです。イルミネーション、クリスマスマーケット、ディズニースタンプラリーまで様々なイベントが用意されていますので、この冬の東京旅行計画にぜひ含めてみてください！</p>

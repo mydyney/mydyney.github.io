@@ -24,7 +24,7 @@ And pros/cons compared to JR/subway - all summarized in one place.</p>
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg" alt="Shinjuku to Disneyland limousine bus Busta Shinjuku schedule and fare guide">
-  <figcaption>Shinjuku to Disneyland limousine bus Busta Shinjuku schedule and fare guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku to Disneyland limousine bus Busta Shinjuku schedule and fare guide</figcaption>
 </figure>
 
 If you're planning a family trip with children departing from Shinjuku,
@@ -77,7 +77,7 @@ If traveling with children, the limousine bus with "seat reservation + luggage s
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-02.jpg" alt="Tokyo Disneyland Cinderella Castle, entrance gate after arriving from Shinjuku by bus">
-  <figcaption>Tokyo Disneyland Cinderella Castle, entrance gate after arriving from Shinjuku by bus</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Cinderella Castle, entrance gate after arriving from Shinjuku by bus</figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ Shinjuku Station South Exit → Escalator next to NEWoMan department store → G
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-03.jpg" alt="Busta Shinjuku 4F bus terminal, Disneyland limousine bus boarding area">
-  <figcaption>Busta Shinjuku 4F bus terminal, Disneyland limousine bus boarding area</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Busta Shinjuku 4F bus terminal, Disneyland limousine bus boarding area</figcaption>
 </figure>
 
 ---
@@ -138,7 +138,7 @@ Saturdays/Sundays require advance booking! (7:00 buses fill up quickly)
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-04.jpg" alt="Busta Shinjuku 4F bus terminal, Disneyland limousine bus boarding area">
-  <figcaption>Busta Shinjuku 4F bus terminal, Disneyland limousine bus boarding area</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Busta Shinjuku 4F bus terminal, Disneyland limousine bus boarding area</figcaption>
 </figure>
 
 ---
@@ -179,7 +179,7 @@ The last buses after 21:00 (21:10-21:30) are available!
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-05.jpg" alt="Tokyo Disneyland night fireworks, DisneySea night view">
-  <figcaption>Tokyo Disneyland night fireworks, DisneySea night view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland night fireworks, DisneySea night view</figcaption>
 </figure>
 
 ---
@@ -217,7 +217,7 @@ Families with children recommended for front row/window seats!
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-06.jpg" alt="Disneyland Little Green Men mochi, popular Tokyo Disneyland snack">
-  <figcaption>Disneyland Little Green Men mochi, popular Tokyo Disneyland snack</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disneyland Little Green Men mochi, popular Tokyo Disneyland snack</figcaption>
 </figure>
 
 ---
@@ -247,7 +247,7 @@ Families with children recommended for front row/window seats!
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-07.jpg" alt="Tokyo Disneyland Beauty and the Beast Castle, family travel spot 1 hour from Shinjuku">
-  <figcaption>Tokyo Disneyland Beauty and the Beast Castle, family travel spot 1 hour from Shinjuku</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Beauty and the Beast Castle, family travel spot 1 hour from Shinjuku</figcaption>
 </figure>
 
 ---
@@ -266,7 +266,7 @@ Families with children recommended for front row/window seats!
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-08.jpg" alt="Busta Shinjuku night view, late-night bus terminal return scene">
-  <figcaption><b>Busta Shinjuku night view, late-night bus terminal return scene</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Busta Shinjuku night view, late-night bus terminal return scene</b></figcaption>
 </figure>
 
 ---

@@ -27,7 +27,7 @@ We've compiled all the essential tips for your visit!</p>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-01.jpg" alt="Former Asakura House Daikanyama">
-  <figcaption>Tokyo Daikanyama Former Asakura House</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Daikanyama Former Asakura House</figcaption>
 </figure>
 
 ---
@@ -53,7 +53,7 @@ you can only find here.</p>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-02.jpg" alt="Former Asakura House antique garden">
-  <figcaption>The antique garden of Former Asakura House in Daikanyama, Tokyo</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">The antique garden of Former Asakura House in Daikanyama, Tokyo</figcaption>
 </figure>
 
 ---
@@ -77,22 +77,22 @@ and the garden views.</p>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-03.jpg" alt="Interior tatami room of Former Asakura House">
-  <figcaption>Interior tatami room of Former Asakura House</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Interior tatami room of Former Asakura House</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-04.jpg" alt="Interior staircase to second floor of Former Asakura House">
-  <figcaption>Interior staircase to second floor of Former Asakura House</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Interior staircase to second floor of Former Asakura House</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-05.jpg" alt="Interior closet and books of Former Asakura House">
-  <figcaption>Interior view of Former Asakura House showing closet and books</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Interior view of Former Asakura House showing closet and books</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-06.jpg" alt="Window overlooking the garden at Former Asakura House">
-  <figcaption>Window overlooking the garden at Former Asakura House</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Window overlooking the garden at Former Asakura House</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
@@ -110,12 +110,12 @@ Daikanyama's hidden autumn foliage spot.</p>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-07.jpg" alt="Japanese garden of Former Asakura House">
-  <figcaption>The Japanese garden of Former Asakura House</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">The Japanese garden of Former Asakura House</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-08.jpg" alt="Japanese garden of Former Asakura House">
-  <figcaption>The Japanese garden of Former Asakura House</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">The Japanese garden of Former Asakura House</figcaption>
 </figure>
 
 ---
@@ -154,7 +154,7 @@ so please use convenient public transportation.</p>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-09.jpg" alt="Former Asakura House visitor tip: socks required">
-  <figcaption>Former Asakura House essential visitor tip: socks required</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Former Asakura House essential visitor tip: socks required</figcaption>
 </figure>
 
 ---
@@ -196,7 +196,7 @@ Tokyu Toyoko Line<br>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-10.jpg" alt="Entrance of Former Asakura House">
-  <figcaption>Entrance of Former Asakura House</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Entrance of Former Asakura House</figcaption>
 </figure>
 
 ---

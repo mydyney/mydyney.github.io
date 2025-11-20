@@ -24,7 +24,7 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg" alt="Shinjuku Omoide Yokocho vs Golden Gai solo drinking comparison">
-  <figcaption>Shinjuku Omoide Yokocho vs Golden Gai solo drinking comparison</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Omoide Yokocho vs Golden Gai solo drinking comparison</figcaption>
 </figure>
 
 ---
@@ -86,12 +86,12 @@ Essential guide for Shinjuku night course beginners!
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-02.jpg" alt="Shinjuku Omoide Yokocho yakitori alley entrance">
-  <figcaption>(Left) Shinjuku Omoide Yokocho yakitori alley, (Right) Shinjuku Golden Gai bar street entrance - two iconic spots representing Tokyo's nightlife atmosphere.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">(Left) Shinjuku Omoide Yokocho yakitori alley, (Right) Shinjuku Golden Gai bar street entrance - two iconic spots representing Tokyo's nightlife atmosphere.</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-03.jpg" alt="Shinjuku Golden Gai bar street entrance">
-  <figcaption>Shinjuku Golden Gai bar street entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Golden Gai bar street entrance</figcaption>
 </figure>
 
 ---
@@ -120,7 +120,7 @@ With a cold beer - a symbolic Shinjuku street.
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-04.jpg" alt="Shinjuku Omoide Yokocho yakitori restaurant Sasamoto - charcoal-grilled skewers with Showa nostalgia">
-  <figcaption>Shinjuku Omoide Yokocho yakitori restaurant Sasamoto - charcoal-grilled skewers and Showa nostalgia at Tokyo's representative izakaya.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Omoide Yokocho yakitori restaurant Sasamoto - charcoal-grilled skewers and Showa nostalgia at Tokyo's representative izakaya.</figcaption>
 </figure>
 
 **✅ Recommended Restaurants**
@@ -148,7 +148,7 @@ And you say "Stop!" when you're full for the bill.
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-05.jpg" alt="Shinjuku Omoide Yokocho Sasamoto - locals queue for yakitori skewers, rich soy sauce and fire aroma are excellent">
-  <figcaption><b>Shinjuku Omoide Yokocho Sasamoto - locals queue for yakitori skewers, rich soy sauce and fire aroma are excellent.</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Shinjuku Omoide Yokocho Sasamoto - locals queue for yakitori skewers, rich soy sauce and fire aroma are excellent.</b></figcaption>
 </figure>
 
 **2️⃣ Motsuyaki Uchan (もつ焼ウッチャン 新宿思い出横丁店)**
@@ -181,7 +181,7 @@ Famous among foreigners but still maintaining local sensibility, this is a bar s
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-06.jpg" alt="Shinjuku Golden Gai shop map - guide to Tokyo Golden Gai street with about 200 small bars and popular shops like Ramen Nagi and Nagune">
-  <figcaption>Shinjuku Golden Gai shop map - guide to Tokyo Golden Gai street with about 200 small bars and popular shops like Ramen Nagi and Nagune.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Golden Gai shop map - guide to Tokyo Golden Gai street with about 200 small bars and popular shops like Ramen Nagi and Nagune.</figcaption>
 </figure>
 
 **1️⃣ Ramen Nagi (すごい煮干ラーメン凪 新宿ゴールデン街店本館)**
@@ -247,7 +247,7 @@ Rather than a 'dating street,' this is **Tokyo's nightlife space for enjoying hu
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-07.jpg" alt="Shinjuku Golden Gai neon sign street - Tokyo's representative nightlife spot with narrow alleys lined with unique small bars">
-  <figcaption>Shinjuku Golden Gai neon sign street - Tokyo's representative nightlife spot with narrow alleys lined with unique small bars.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Golden Gai neon sign street - Tokyo's representative nightlife spot with narrow alleys lined with unique small bars.</figcaption>
 </figure>
 
 ---
