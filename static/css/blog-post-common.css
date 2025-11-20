@@ -77,8 +77,60 @@ blockquote {
   margin: 1.5rem 0;
 }
 
+/* 이미지 그룹 (2개, 3개, 4개 나란히 배치) */
+.image-group-2,
+.image-group-3,
+.image-group-4 {
+  display: grid;
+  gap: 15px;
+  margin: 2rem 0;
+}
+
+.image-group-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.image-group-3 {
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.image-group-4 {
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.image-group-2 figure,
+.image-group-3 figure,
+.image-group-4 figure {
+  margin: 0;
+}
+
+.image-group-2 img,
+.image-group-3 img,
+.image-group-4 img {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* 그룹 전체에 대한 figcaption */
+.image-group-2 > figcaption,
+.image-group-3 > figcaption,
+.image-group-4 > figcaption {
+  grid-column: 1 / -1;
+  margin-top: 0.5rem;
+}
+
+/* 모바일에서는 단일 컬럼으로 변경 */
 @media (max-width: 768px) {
   .blog-container { font-size: 0.95rem; }
   .info-box { padding: 1rem; }
   .schedule-table { font-size: 0.85rem; }
+
+  .image-group-2,
+  .image-group-3,
+  .image-group-4 {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
 }

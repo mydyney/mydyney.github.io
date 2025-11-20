@@ -130,14 +130,15 @@ The world's largest **"Animate Ikebukuro Flagship Store"** and the densely packe
   <figcaption style="font-size: 0.7em; text-align: center;">Animate Cafe Stand Hareza Ikebukuro in Naka-Ikebukuro Park</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-10.jpg" alt="K-BOOKS anime, manga, idol goods, doujinshi specialty store location map">
-</figure>
-
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-11.jpg" alt="K-BOOKS location guide">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/ikebukuro-complete-guide-10.jpg" alt="K-BOOKS anime, manga, idol goods, doujinshi specialty store location map">
+  </figure>
+  <figure>
+    <img src="/images/posts/ikebukuro-complete-guide-11.jpg" alt="K-BOOKS location guide">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">K-BOOKS location map - anime, manga, idol goods, doujinshi specialty stores</figcaption>
-</figure>
+</div>
 
 ### 3. Anime Tokyo Station (アニメ東京ステーション)
 

@@ -130,14 +130,15 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">中池袋公園のアニメイトカフェスタンドHareza池袋</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-10.jpg" alt="K-BOOKSアニメ・マンガ・アイドルグッズ・同人誌専門店位置図">
-</figure>
-
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-11.jpg" alt="K-BOOKS位置ガイド">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/ikebukuro-complete-guide-10.jpg" alt="K-BOOKSアニメ・マンガ・アイドルグッズ・同人誌専門店位置図">
+  </figure>
+  <figure>
+    <img src="/images/posts/ikebukuro-complete-guide-11.jpg" alt="K-BOOKS位置ガイド">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">K-BOOKS位置図 - アニメ・マンガ・アイドルグッズ・同人誌専門店</figcaption>
-</figure>
+</div>
 
 ### 3. アニメ東京ステーション(アニメ東京ステーション)
 
