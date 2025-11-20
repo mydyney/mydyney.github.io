@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-11-18
-> **Status:** ✅ Complete - 32 posts mapped
+> **Last Updated:** 2025-11-20
+> **Status:** ✅ Complete - 33 posts mapped
 
 ---
 
@@ -21,6 +21,7 @@ When migrating a Naver blog post to Hugo:
 | Naver ID | Hugo Slug (EN/JA) | Date | Status |
 |----------|-------------------|------|--------|
 | 224079692802 | tamiya-plamodel-factory-tokyo-shimbashi | 2025-11-18 | ✅ |
+| 224079015302 | meiji-jingu-gaien-ginkgo-avenue-tokyo | 2025-11-17 | ✅ |
 | 224078737491 | yebisu-garden-place-illumination-christmas-market-2025 | 2025-11-17 | ✅ |
 | 224078087405 | toranomon-hills-hermes-event-2025 | 2025-11-16 | ✅ |
 | 224077357970 | evangelion-30th-roppongi-2025 | 2025-11-16 | ✅ |
@@ -67,7 +68,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223678791563 | yebisu-garden-place-illumination-christmas-market-2025 | How to Get to Yebisu Garden Place and Coin Locker Locations |
 | 223681272647 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025 | How to Get to Roppongi Hills and Coin Locker Locations |
 | 223987954990 | evangelion-30th-roppongi-2025 | 2025 Roppongi Hills Observatory Complete Guide |
-| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket | Complete Guide to Roppongi Attractions |
+| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket, meiji-jingu-gaien-ginkgo-avenue-tokyo | Complete Guide to Roppongi Attractions |
 | 223991251786 | shinanoya-roppongi-hills-supermarket | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
 | 223993881300 | evangelion-30th-roppongi-2025 | Tokyo Roppongi Restaurant Map |
 | 224010546735 | shinanoya-roppongi-hills-supermarket | Japanese Whisky Recommendations and Price Guide |
@@ -80,6 +81,9 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi | Japan Kaldi Shopping List Must-Buy Recommendations |
 | 224050488006 | tamiya-plamodel-factory-tokyo-shimbashi | Japan Convenience Store Shopping List BEST 10 |
 | 224034429817 | tamiya-plamodel-factory-tokyo-shimbashi | Mitsui Outlet Park Kisarazu Discount Coupons & Brand Guide |
+| 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
+| 224031114514 | meiji-jingu-gaien-ginkgo-avenue-tokyo | Shibuya Attractions: Shibuya Sky Reservations to Shopping and Restaurants |
+| 224038071853 | meiji-jingu-gaien-ginkgo-avenue-tokyo | 2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -108,6 +112,7 @@ sed -i 's|https://blog.naver.com/tokyomate/224065668379|/ja/posts/roppongi-chris
 
 declare -A MAPPINGS=(
   ["224079692802"]="tamiya-plamodel-factory-tokyo-shimbashi"
+  ["224079015302"]="meiji-jingu-gaien-ginkgo-avenue-tokyo"
   ["224078737491"]="yebisu-garden-place-illumination-christmas-market-2025"
   ["224078087405"]="toranomon-hills-hermes-event-2025"
   ["224077357970"]="evangelion-30th-roppongi-2025"
@@ -159,12 +164,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 32
-- **Naver IDs Tracked:** 32
-- **Posts with Internal Links:** 6+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory)
-- **Pending References:** 19
+- **Total Posts Migrated:** 33
+- **Naver IDs Tracked:** 33
+- **Posts with Internal Links:** 7+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo)
+- **Pending References:** 22
 - **Links Updated:** 0 (all links in shinanoya and tamiya posts need migration)
-- **Last Migration Date:** 2025-11-18
+- **Last Migration Date:** 2025-11-20
 
 ---
 
