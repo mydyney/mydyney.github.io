@@ -101,6 +101,7 @@ def extract_naver_images(html_content):
 def extract_hugo_images(md_content):
     """
     Hugo 마크다운에서 모든 이미지를 순서대로 추출
+    - 단일 figure 태그와 image-group 내부의 figure 모두 감지
 
     Returns:
         list: [{'path': str, 'caption': str, 'type': str}, ...]
@@ -116,10 +117,11 @@ def extract_hugo_images(md_content):
             'type': 'featured'
         })
 
-    # 2. body images 추출 (<figure> 태그)
-    # figcaption은 선택적 (optional), 내부에 HTML 태그 허용
+    # 2. body images 추출
+    # 패턴: <figure> 내부의 <img> 태그를 모두 찾음 (단일 figure 또는 image-group 내부 모두 포함)
+    # <figure>와 </figure> 사이에 있는 <img> 태그만 매칭
     figure_pattern = re.compile(
-        r'<figure>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)">\s*(?:<figcaption>(.*?)</figcaption>\s*)?</figure>',
+        r'<figure[^>]*>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)"[^>]*>',
         re.DOTALL
     )
 
@@ -127,7 +129,7 @@ def extract_hugo_images(md_content):
         images.append({
             'path': match.group(1),
             'alt': match.group(2),
-            'caption': match.group(3) if match.group(3) else "No caption",
+            'caption': "Body image",
             'type': 'body'
         })
 
