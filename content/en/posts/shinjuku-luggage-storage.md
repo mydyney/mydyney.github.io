@@ -19,7 +19,7 @@ Plus prices and reservation methods - everything you need for 2025!</p>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-01.jpg" alt="Shinjuku Station luggage storage coin locker locations and centers 2025">
-  <figcaption>Shinjuku Station Luggage Storage Coin Locker Locations and Centers - Complete 2025 Guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Station Luggage Storage Coin Locker Locations and Centers - Complete 2025 Guide</figcaption>
 </figure>
 
 ## Introduction
@@ -49,14 +49,14 @@ Japanese coin lockers come in 2 types.
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-02.jpg" alt="Shinjuku Station coin locker key type usage method">
-  <figcaption>Shinjuku Station Coin Locker Key Type Usage Method (<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Station Coin Locker Key Type Usage Method (<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 - To retrieve luggage, tap your payment IC card again.
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-03.jpg" alt="Shinjuku Station coin locker touch panel payment and IC card usage">
-  <figcaption>Shinjuku Station Coin Locker Touch Panel Payment and IC Card Usage (<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Station Coin Locker Touch Panel Payment and IC Card Usage (<a href="https://www.keiochika.co.jp/locker/howtouse.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 ---
@@ -77,7 +77,7 @@ The ¥500 coin locker at Shinjuku Station is perfect for one carry-on suitcase -
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-04.jpg" alt="Shinjuku Station coin locker size and price chart">
-  <figcaption>Shinjuku Station Coin Locker Price Chart by Size (Small ¥300 ~ Large ¥900) (<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Station Coin Locker Price Chart by Size (Small ¥300 ~ Large ¥900) (<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 ---
@@ -109,7 +109,7 @@ With 10 locker locations total, you can check locker sizes and availability in r
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-05.jpg" alt="Keio Line Shinjuku Station coin locker real-time availability screen">
-  <figcaption>Keio Line Shinjuku Station Coin Locker Real-Time Availability Screen (<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Keio Line Shinjuku Station Coin Locker Real-Time Availability Screen (<a href="https://www.keiochika.co.jp/locker/service/size.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 ### 4. Odakyu Line Shinjuku Station South Gate - 2 Locations (2F)
@@ -121,7 +121,7 @@ With 10 locker locations total, you can check locker sizes and availability in r
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-06.jpg" alt="Odakyu Line Shinjuku Station south gate luggage storage coin locker location">
-  <figcaption>Odakyu Line Shinjuku Station South Gate Luggage Storage Coin Locker Location</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Odakyu Line Shinjuku Station South Gate Luggage Storage Coin Locker Location</figcaption>
 </figure>
 
 ---
@@ -156,12 +156,12 @@ There's also a service that transports luggage from Hakone-Yumoto Station to you
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-07.jpg" alt="Shinjuku Station west exit luggage storage Odakyu tourist service center">
-  <figcaption>Shinjuku Station West Exit Luggage Storage Odakyu Tourist Service Center (<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Station West Exit Luggage Storage Odakyu Tourist Service Center (<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-08.jpg" alt="Shinjuku Station south exit luggage storage Odakyu tourist service center">
-  <figcaption>Shinjuku Station South Exit Luggage Storage Odakyu Tourist Service Center (<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Station South Exit Luggage Storage Odakyu Tourist Service Center (<a href="https://odakyu-global.com/services/odakyu-sightseeing-service-center-west/" target="_blank">Source</a>)</figcaption>
 </figure>
 
 ### 2. Sagawa Service Center (Busta Shinjuku 3F)
@@ -201,7 +201,7 @@ Great for sending luggage ahead and sightseeing light on your first travel day.
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-09.jpg" alt="Keio Department Store Shinjuku ecbo cloak luggage storage service">
-  <figcaption>Keio Department Store Shinjuku ecbo cloak Luggage Storage Service (Foreign Customer Counter)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Keio Department Store Shinjuku ecbo cloak Luggage Storage Service (Foreign Customer Counter)</figcaption>
 </figure>
 
 ### 4. Bounce

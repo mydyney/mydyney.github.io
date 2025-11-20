@@ -18,7 +18,7 @@ Clear directions so first-timers won't get lost.</p>
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg" alt="Meiji Jingu Gaien Tokyo ginkgo tree avenue autumn foliage, light-up, 2025 Christmas market complete guide">
-  <figcaption>Meiji Jingu Gaien Tokyo ginkgo tree avenue autumn foliage, light-up, 2025 Christmas market complete guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Tokyo ginkgo tree avenue autumn foliage, light-up, 2025 Christmas market complete guide</figcaption>
 </figure>
 
 ## Introduction
@@ -49,7 +49,7 @@ The two locations are over 30 minutes apart on foot. To see the ginkgo tree aven
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-02.jpg" alt="Meiji Jingu vs Meiji Jingu Gaien location comparison map (left: Meiji Jingu, right: Meiji Jingu Gaien)">
-  <figcaption>Meiji Jingu vs Meiji Jingu Gaien location comparison map (left: Meiji Jingu, right: Meiji Jingu Gaien)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu vs Meiji Jingu Gaien location comparison map (left: Meiji Jingu, right: Meiji Jingu Gaien)</figcaption>
 </figure>
 
 ---
@@ -64,7 +64,7 @@ By late November, the entire street turns golden, creating the feeling of walkin
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-03.jpg" alt="Meiji Jingu Gaien Tokyo ginkgo avenue golden tunnel view">
-  <figcaption>Meiji Jingu Gaien Tokyo ginkgo avenue golden tunnel view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Tokyo ginkgo avenue golden tunnel view</figcaption>
 </figure>
 
 ---
@@ -85,7 +85,7 @@ This station is served by the **Ginza Line (G), Hanzomon Line (Z), and Oedo Line
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-04.jpg" alt="Meiji Jingu Gaien access guide: Gaienmae Station Exit 4a signboard">
-  <figcaption>Meiji Jingu Gaien access guide: Gaienmae Station Exit 4a signboard</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien access guide: Gaienmae Station Exit 4a signboard</figcaption>
 </figure>
 
 ---
@@ -102,7 +102,7 @@ The leaves start turning mid-November and reach their peak during the last week 
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-05.jpg" alt="Meiji Jingu Gaien ginkgo trees at peak season in late November">
-  <figcaption>Meiji Jingu Gaien ginkgo trees at peak season in late November</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien ginkgo trees at peak season in late November</figcaption>
 </figure>
 
 ### 2. Night Light-Up
@@ -118,7 +118,7 @@ If you're planning an evening visit, don't miss the 2025 light-up schedule.
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-06.jpg" alt="Meiji Jingu Gaien Tokyo ginkgo avenue night light-up illumination (source)">
-  <figcaption>Meiji Jingu Gaien Tokyo ginkgo avenue night light-up illumination (<a href="https://www.metro.tokyo.lg.jp/information/press/2025/11/2025110714?utm_source=chatgpt.com" target="_blank">source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Tokyo ginkgo avenue night light-up illumination (<a href="https://www.metro.tokyo.lg.jp/information/press/2025/11/2025110714?utm_source=chatgpt.com" target="_blank">source</a>)</figcaption>
 </figure>
 
 ---
@@ -138,7 +138,7 @@ Themed around Grimm Brothers' fairy tales and European stories, it creates a gor
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-07.jpg" alt="Meiji Jingu Gaien Seitoku Memorial Picture Gallery courtyard preparing for Christmas Market">
-  <figcaption>Meiji Jingu Gaien Seitoku Memorial Picture Gallery courtyard preparing for Christmas Market</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Seitoku Memorial Picture Gallery courtyard preparing for Christmas Market</figcaption>
 </figure>
 
 ---
@@ -151,7 +151,7 @@ The crosswalk in the middle of the ginkgo avenue. The standard shot is taken fro
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-08.jpg" alt="Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: crosswalk center">
-  <figcaption>Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: crosswalk center</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: crosswalk center</figcaption>
 </figure>
 
 ### 2️⃣ Shake Shack Flagship Store Terrace
@@ -162,7 +162,7 @@ Sitting on the outdoor terrace, you can comfortably overlook the ginkgo avenue f
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-09.jpg" alt="Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: Shake Shack terrace">
-  <figcaption>Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: Shake Shack terrace</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: Shake Shack terrace</figcaption>
 </figure>
 
 ### 3️⃣ Sidewalks on Both Sides
@@ -171,7 +171,7 @@ Rather than the road, walking on the sidewalk and stepping on fallen ginkgo leav
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-10.jpg" alt="Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: sidewalks on both sides">
-  <figcaption>Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: sidewalks on both sides</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Tokyo ginkgo avenue photo zone: sidewalks on both sides</figcaption>
 </figure>
 
 ---
@@ -183,7 +183,7 @@ A: Yes, weekends during the November peak season are extremely crowded. The best
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-11.jpg" alt="Meiji Jingu Gaien Tokyo ginkgo avenue autumn must-visit destination">
-  <figcaption>Meiji Jingu Gaien Tokyo ginkgo avenue autumn must-visit destination</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Tokyo ginkgo avenue autumn must-visit destination</figcaption>
 </figure>
 
 **Q. Are there nearby places worth visiting together?**

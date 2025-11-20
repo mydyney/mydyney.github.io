@@ -27,7 +27,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-01.jpg" alt="代官山旧朝倉家住宅">
-  <figcaption>東京代官山旧朝倉家住宅</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京代官山旧朝倉家住宅</figcaption>
 </figure>
 
 ---
@@ -53,7 +53,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-02.jpg" alt="旧朝倉家住宅の風情ある庭園">
-  <figcaption>東京代官山「旧朝倉家住宅」の風情ある庭園</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京代官山「旧朝倉家住宅」の風情ある庭園</figcaption>
 </figure>
 
 ---
@@ -77,22 +77,22 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-03.jpg" alt="旧朝倉家住宅の内部畳の間の様子">
-  <figcaption>旧朝倉家住宅の内部畳の間の様子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">旧朝倉家住宅の内部畳の間の様子</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-04.jpg" alt="旧朝倉家住宅の内部2階への階段">
-  <figcaption>旧朝倉家住宅の内部2階への階段</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">旧朝倉家住宅の内部2階への階段</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-05.jpg" alt="旧朝倉家住宅の内部の様子、衣装箪笥と書棚">
-  <figcaption>旧朝倉家住宅の内部の様子、衣装箪笥と書棚</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">旧朝倉家住宅の内部の様子、衣装箪笥と書棚</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-06.jpg" alt="旧朝倉家住宅の庭園が見える窓">
-  <figcaption>旧朝倉家住宅の庭園が見える窓</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">旧朝倉家住宅の庭園が見える窓</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
@@ -110,12 +110,12 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-07.jpg" alt="旧朝倉家住宅の日本庭園">
-  <figcaption>旧朝倉家住宅の日本庭園</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">旧朝倉家住宅の日本庭園</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-08.jpg" alt="旧朝倉家住宅の日本庭園">
-  <figcaption>旧朝倉家住宅の日本庭園</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">旧朝倉家住宅の日本庭園</figcaption>
 </figure>
 
 ---
@@ -154,7 +154,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-09.jpg" alt="旧朝倉家住宅訪問のお役立ち情報：靴下必須">
-  <figcaption>旧朝倉家住宅訪問のお役立ち情報：靴下必須</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">旧朝倉家住宅訪問のお役立ち情報：靴下必須</figcaption>
 </figure>
 
 ---
@@ -196,7 +196,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 <figure>
   <img src="/images/posts/daikanyama-asakura-house-10.jpg" alt="旧朝倉家住宅の入口の様子">
-  <figcaption>旧朝倉家住宅の入口の様子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">旧朝倉家住宅の入口の様子</figcaption>
 </figure>
 
 ---

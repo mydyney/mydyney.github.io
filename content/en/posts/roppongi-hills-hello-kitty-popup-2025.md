@@ -19,7 +19,7 @@ at Roppongi Hills!</p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg" alt="Hello Kitty Picnic Garden popup store main visual">
-  <figcaption>Hello Kitty Picnic Garden at Roppongi Hills</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Hello Kitty Picnic Garden at Roppongi Hills</figcaption>
 </figure>
 
 <p style="text-align: center;">Featuring a giant 2-meter Kitty gate,<br>
@@ -90,7 +90,7 @@ at <strong>Roppongi Hills Oyane Plaza</strong>.</p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-02.jpg" alt="Roppongi Hills Hello Kitty popup photo zone">
-  <figcaption>Hello Kitty popup photo zone at Roppongi Hills</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Hello Kitty popup photo zone at Roppongi Hills</figcaption>
 </figure>
 
 ## 🎁 [Must-Get] Free Perfume & Stickers - The Main Attraction!
@@ -104,17 +104,17 @@ one free perfume mini bottle</strong><br>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-03.jpg" alt="Four types of perfume comparison">
-  <figcaption>Four fragrance options comparison at Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Four fragrance options comparison at Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-04.jpg" alt="Perfume display table">
-  <figcaption>Perfume display table at fragrance experience area</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Perfume display table at fragrance experience area</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-05.jpg" alt="Free perfume mini bottle gift">
-  <figcaption>Free perfume mini bottle gift</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Free perfume mini bottle gift</figcaption>
 </figure>
 
 ### 2. Limited Edition Original Sticker
@@ -134,7 +134,7 @@ welcomes you from the entrance.</p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-06.jpg" alt="2-meter giant Kitty Face Gate">
-  <figcaption>2-meter giant 'Kitty Face Gate' at Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2-meter giant 'Kitty Face Gate' at Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 ### 2. Picnic Photo Zone
@@ -146,12 +146,12 @@ having a picnic with Kitty!</p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-07.jpg" alt="Picnic photo zone view 1">
-  <figcaption>Picnic photo zone at Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Picnic photo zone at Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-08.jpg" alt="Picnic photo zone view 2">
-  <figcaption>Picnic photo zone at Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Picnic photo zone at Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 ### 3. 'Houndstooth' Apple Tree
@@ -162,7 +162,7 @@ matching Kitty's design.</p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-09.jpg" alt="Houndstooth apple tree">
-  <figcaption>Houndstooth apple tree at Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Houndstooth apple tree at Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 ### 4. [Limited Edition] Merchandise Sales
@@ -175,17 +175,17 @@ called 'Monochrome Girly Twin Coordinate Design'<br>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-10.jpg" alt="Limited edition merchandise list">
-  <figcaption>Limited edition merchandise list at Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Limited edition merchandise list at Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-11.jpg" alt="Limited merchandise item 1">
-  <figcaption>Limited edition merchandise at Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Limited edition merchandise at Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-12.jpg" alt="Limited merchandise item 2">
-  <figcaption>Limited edition merchandise at Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Limited edition merchandise at Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 ## 📌 [Must-Read] Entry Method
@@ -198,37 +198,37 @@ Exchange QR code for wristband to enter</p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-13.jpg" alt="Online reservation QR code">
-  <figcaption>Online reservation QR code for Roppongi Hills Hello Kitty popup</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Online reservation QR code for Roppongi Hills Hello Kitty popup</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-14.jpg" alt="Ticket reservation method step 1">
-  <figcaption>Ticket online reservation method (up to 2 tickets per person) - Step 1</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ticket online reservation method (up to 2 tickets per person) - Step 1</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-15.jpg" alt="Ticket reservation method step 2">
-  <figcaption>Ticket online reservation method - Step 2</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ticket online reservation method - Step 2</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-16.jpg" alt="Ticket reservation method step 3">
-  <figcaption>Ticket online reservation method - Step 3</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ticket online reservation method - Step 3</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-17.jpg" alt="Ticket reservation method step 4">
-  <figcaption>Ticket online reservation method - Step 4</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ticket online reservation method - Step 4</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-18.jpg" alt="QR code confirmation and wristband exchange">
-  <figcaption>QR code sent 10 minutes before entry, exchange for wristband after confirmation</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">QR code sent 10 minutes before entry, exchange for wristband after confirmation</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-19.jpg" alt="Entry wristband">
-  <figcaption>Entry wristband after QR code confirmation</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Entry wristband after QR code confirmation</figcaption>
 </figure>
 
 ## 📍 After 'Hello Kitty', Where to Next? (Roppongi Course)
@@ -256,7 +256,7 @@ at Roppongi Hills!</p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-20.jpg" alt="Roppongi illumination">
-  <figcaption>Roppongi illumination</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi illumination</figcaption>
 </figure>
 
 ## 🎄 Recommended Tokyo Christmas Guides

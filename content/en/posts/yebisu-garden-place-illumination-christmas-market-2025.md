@@ -22,7 +22,7 @@ to Yebisu Garden Place's 2025~2026 winter season information.</p>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-01.jpg" alt="2025 Yebisu Garden Place clock square 10m Christmas tree and champagne gold illumination panorama">
-  <figcaption>2025 Yebisu Garden Place clock square 10m Christmas tree and champagne gold illumination panorama</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Yebisu Garden Place clock square 10m Christmas tree and champagne gold illumination panorama</figcaption>
 </figure>
 
 ## Overview
@@ -63,7 +63,7 @@ All combined into a perfect winter experience.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-02.jpg" alt="2025 winter Yebisu Garden Place illumination night view from clock square to center plaza">
-  <figcaption>2025 winter Yebisu Garden Place illumination night view from clock square to center plaza</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 winter Yebisu Garden Place illumination night view from clock square to center plaza</figcaption>
 </figure>
 
 ---
@@ -76,7 +76,7 @@ This is also famous as the "1 o'clock meeting place" where Domyoji and Makino me
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-03.jpg" alt="Yebisu Garden Place clock square">
-  <figcaption>Yebisu Garden Place clock square</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yebisu Garden Place clock square</figcaption>
 </figure>
 
 ### 🎄 10m Christmas Tree
@@ -89,7 +89,7 @@ creating a European small-town atmosphere together with champagne gold lighting.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-04.jpg" alt="10m giant Christmas tree installed at Yebisu Garden Place clock square">
-  <figcaption>10m giant Christmas tree installed at Yebisu Garden Place clock square</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">10m giant Christmas tree installed at Yebisu Garden Place clock square</figcaption>
 </figure>
 
 ### 🎁 Clock Square Christmas Market
@@ -101,7 +101,7 @@ A market selling Christmas gifts, accessories, and decorations operates around C
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-05.jpg" alt="Yebisu Garden Place 2025 clock square Christmas market scene">
-  <figcaption>Yebisu Garden Place 2025 clock square Christmas market scene</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yebisu Garden Place 2025 clock square Christmas market scene</figcaption>
 </figure>
 
 ### ☕ Westin Hotel Tokyo Food Truck
@@ -134,7 +134,7 @@ The night view combined with champagne gold lighting is breathtaking in person.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-06.jpg" alt="2025 Yebisu Garden Place Baccarat chandelier, 8500 crystal pieces and red carpet photo zone panorama">
-  <figcaption>2025 Yebisu Garden Place Baccarat chandelier, 8500 crystal pieces and red carpet photo zone panorama</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Yebisu Garden Place Baccarat chandelier, 8500 crystal pieces and red carpet photo zone panorama</figcaption>
 </figure>
 
 ### 🌟 Champagne Gold Illumination
@@ -159,7 +159,7 @@ If you're curious about the 2024 scene, check out the archive post below.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-07.jpg" alt="Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza">
-  <figcaption><b>Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza</b></figcaption>
 </figure>
 
 ---
@@ -175,7 +175,7 @@ The European small-town atmosphere is even stronger here than at Clock Square, s
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-08.jpg" alt="2025 Yebisu Garden Place Christmas market at Chateau Plaza in front of Joel Robuchon">
-  <figcaption>2025 Yebisu Garden Place Christmas market at Chateau Plaza in front of Joel Robuchon</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Yebisu Garden Place Christmas market at Chateau Plaza in front of Joel Robuchon</figcaption>
 </figure>
 
 Special gourmet food trucks different from Clock Square come here.
@@ -203,7 +203,7 @@ makes your Yebisu Garden Place evening experience even richer.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-09.jpg" alt="2025 winter free DJ music terrace at Yebisu Garden Place BLUE NOTE PLACE">
-  <figcaption>2025 winter free DJ music terrace at Yebisu Garden Place BLUE NOTE PLACE</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 winter free DJ music terrace at Yebisu Garden Place BLUE NOTE PLACE</figcaption>
 </figure>
 
 ---
@@ -235,7 +235,7 @@ For detailed information, check out the dedicated post.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-10.jpg" alt="Tokyo Tower night view visible from Yebisu Garden Place Top of Yebisu free observatory 2025 winter">
-  <figcaption>Tokyo Tower night view visible from Yebisu Garden Place Top of Yebisu free observatory 2025 winter</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Tower night view visible from Yebisu Garden Place Top of Yebisu free observatory 2025 winter</figcaption>
 </figure>
 
 ---
@@ -262,7 +262,7 @@ It's a space worth visiting if you like beer.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-11.jpg" alt="Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu">
-  <figcaption><b>Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu</b></figcaption>
 </figure>
 
 ---
@@ -285,7 +285,7 @@ takes you directly to the Yebisu Garden Place entrance.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-12.jpg" alt="Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide">
-  <figcaption><b>Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide</b></figcaption>
 </figure>
 
 ---
@@ -316,17 +316,17 @@ A. The basement 2nd floor **Foodies' Garden** has KALDI, Central Square, Meidi-y
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-13.jpg" alt="Yebisu Garden Place basement 2 Foodies Garden entrance">
-  <figcaption>Yebisu Garden Place basement 2 Foodies Garden entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yebisu Garden Place basement 2 Foodies Garden entrance</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-14.jpg" alt="Yebisu Garden Place basement 2 Central Square candy section">
-  <figcaption>Yebisu Garden Place basement 2 Central Square candy section</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yebisu Garden Place basement 2 Central Square candy section</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-15.jpg" alt="Yebisu Garden Place basement 2 Central Square candy section">
-  <figcaption>Yebisu Garden Place basement 2 Central Square candy section</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yebisu Garden Place basement 2 Central Square candy section</figcaption>
 </figure>
 
 ---

@@ -25,7 +25,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-01.jpg" alt="新宿カレー店エピタフ 半々カレー 食べログ百名店">
-  <figcaption>新宿カレー店エピタフ 半々カレー 食べログ百名店</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿カレー店エピタフ 半々カレー 食べログ百名店</figcaption>
 </figure>
 
 新宿カレー店をお探しですか?
@@ -49,7 +49,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-02.jpg" alt="新宿三丁目 新宿カレー店 エピタフカレー 店舗入口全景">
-  <figcaption>新宿三丁目 新宿カレー店 エピタフカレー 店舗入口全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿三丁目 新宿カレー店 エピタフカレー 店舗入口全景</figcaption>
 </figure>
 
 今では狭いバー(Bar)ではなく、12席の快適なカウンター食堂で伝説のカレーを味わえます。
@@ -66,12 +66,12 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-03.jpg" alt="エピタフカレー メニュー価格、トッピング及びドリンク、注文のコツ">
-  <figcaption>エピタフカレー メニュー価格、トッピング及びドリンク、注文のコツ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エピタフカレー メニュー価格、トッピング及びドリンク、注文のコツ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-04.jpg" alt="エピタフカレー メニューボードと注文ガイド">
-  <figcaption>エピタフカレー メニューボードと注文ガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エピタフカレー メニューボードと注文ガイド</figcaption>
 </figure>
 
 しかし、このメニューにはカレー名が書かれていません。
@@ -85,7 +85,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-05.jpg" alt="エピタフカレー 今日のカレー3種とメニュー、新宿キーマカレーとポークビンダルー案内">
-  <figcaption>エピタフカレー 今日のカレー3種とメニュー、新宿キーマカレーとポークビンダルー案内</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エピタフカレー 今日のカレー3種とメニュー、新宿キーマカレーとポークビンダルー案内</figcaption>
 </figure>
 
 ## ✅ 注文方法及び価格完全まとめ
@@ -151,7 +151,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-06.jpg" alt="新宿カレー専門店エピタフカレー ポークビンダルー1種プレート">
-  <figcaption>新宿カレー専門店エピタフカレー ポークビンダルー1種プレート</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿カレー専門店エピタフカレー ポークビンダルー1種プレート</figcaption>
 </figure>
 
 ---
@@ -162,7 +162,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-07.jpg" alt="豚挽肉ごぼうキーマカレーとかぼちゃココナッツカレーが一緒に盛られたエピタフ2種あいがけカレー">
-  <figcaption>豚挽肉ごぼうキーマカレーとかぼちゃココナッツカレーが一緒に盛られたエピタフ2種あいがけカレー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">豚挽肉ごぼうキーマカレーとかぼちゃココナッツカレーが一緒に盛られたエピタフ2種あいがけカレー</figcaption>
 </figure>
 
 **ポークビンダルー（ポークビンダルー）**は日本式ルーカレーではなく、強烈な香辛料の**スパイスカレー**です。**強い酸味、旨味、辛味が爆発する味**です。
@@ -175,7 +175,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-08.jpg" alt="豚挽肉とごぼうが入ったエピタフカレーの新宿キーマカレークローズアップ">
-  <figcaption>豚挽肉とごぼうが入ったエピタフカレーの新宿キーマカレークローズアップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">豚挽肉とごぼうが入ったエピタフカレーの新宿キーマカレークローズアップ</figcaption>
 </figure>
 
 ---
@@ -245,7 +245,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-09.jpg" alt="エピタフ代表カレー商品 ポークビンダルーカレーとケララ風チキンカレー">
-  <figcaption><b>エピタフ代表カレー商品 ポークビンダルーカレーとケララ風チキンカレー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>エピタフ代表カレー商品 ポークビンダルーカレーとケララ風チキンカレー</b></figcaption>
 </figure>
 
 ---
@@ -272,7 +272,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-10.jpg" alt="新宿カレー店 エピタフカレー 12席カウンター内部全景と待合スペース">
-  <figcaption>新宿カレー店 エピタフカレー 12席カウンター内部全景と待合スペース</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿カレー店 エピタフカレー 12席カウンター内部全景と待合スペース</figcaption>
 </figure>
 
 ---

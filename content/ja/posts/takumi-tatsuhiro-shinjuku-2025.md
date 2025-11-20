@@ -18,7 +18,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-01.jpg" alt="匠達広 新宿 ミシュラン寿司店 ランチおまかせ">
-  <figcaption>東京新宿ミシュラン寿司店 匠 達広 ランチおまかせ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京新宿ミシュラン寿司店 匠 達広 ランチおまかせ</figcaption>
 </figure>
 
 賑やかな新宿駅周辺の飲食店とは異なり、
@@ -51,7 +51,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-02.jpg" alt="新宿御苑前駅2番出口近く匠達広外観">
-  <figcaption>新宿レストラン400m圏内、新宿御苑前駅2番出口近くの寿司 匠 達広 外観</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿レストラン400m圏内、新宿御苑前駅2番出口近くの寿司 匠 達広 外観</figcaption>
 </figure>
 
 ---
@@ -101,7 +101,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-03.jpg" alt="匠達広 新宿ミシュラン寿司 檜カウンターとおまかせ席">
-  <figcaption>新宿ミシュラン寿司 匠 達広 檜カウンターとおまかせ席全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司 匠 達広 檜カウンターとおまかせ席全景</figcaption>
 </figure>
 
 ---
@@ -130,7 +130,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-04.jpg" alt="匠達広 新宿ミシュラン寿司ランチつまみ 海ぶどう・わかめ">
-  <figcaption>新宿ミシュラン寿司 匠 達広 ランチつまみ(海ぶどう・わかめ)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司 匠 達広 ランチつまみ(海ぶどう・わかめ)</figcaption>
 </figure>
 
 **2コース目. にぎり – 金目鯛(きんめだい)**
@@ -142,7 +142,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-05.jpg" alt="匠達広 新宿寿司おまかせ にぎり 金目鯛きんめだい">
-  <figcaption>新宿寿司おまかせ、匠 達広 にぎり(金目鯛きんめだい)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 にぎり(金目鯛きんめだい)</figcaption>
 </figure>
 
 **3コース目. つまみ – もずく**
@@ -155,7 +155,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-06.jpg" alt="匠達広 新宿寿司おまかせ つまみ もずく">
-  <figcaption>新宿寿司おまかせ、匠 達広 つまみ(もずく)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 つまみ(もずく)</figcaption>
 </figure>
 
 **4コース目. にぎり – 障泥烏賊(あおりいか)**
@@ -167,7 +167,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-07.jpg" alt="匠達広 新宿ミシュラン寿司 にぎり 障泥烏賊あおりいか">
-  <figcaption>新宿ミシュラン寿司、匠 達広 にぎり(障泥烏賊あおりいか)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 にぎり(障泥烏賊あおりいか)</figcaption>
 </figure>
 
 **5コース目. にぎり – 鮃(ひらめ)**
@@ -179,7 +179,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-08.jpg" alt="匠達広 新宿寿司おまかせ にぎり 鮃ひらめ">
-  <figcaption>新宿寿司おまかせ、匠 達広 にぎり(鮃ひらめ)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 にぎり(鮃ひらめ)</figcaption>
 </figure>
 
 **6コース目. つまみ – えぼ鯛焼き**
@@ -193,7 +193,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-09.jpg" alt="匠達広 新宿ミシュラン寿司 つまみ えぼ鯛焼き">
-  <figcaption>新宿ミシュラン寿司、匠 達広 つまみ(えぼ鯛焼き)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 つまみ(えぼ鯛焼き)</figcaption>
 </figure>
 
 **7コース目. にぎり – 鯵(あじ)**
@@ -206,7 +206,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-10.jpg" alt="匠達広 新宿寿司店 にぎり 鯵あじ">
-  <figcaption>新宿寿司店、匠 達広 にぎり(鯵あじ)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司店、匠 達広 にぎり(鯵あじ)</figcaption>
 </figure>
 
 **8コース目. 小丼 – いくら**
@@ -219,7 +219,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-11.jpg" alt="匠達広 新宿寿司おまかせ コース いくら">
-  <figcaption>新宿寿司おまかせ、匠 達広 コース(いくら)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 コース(いくら)</figcaption>
 </figure>
 
 **9コース目. にぎり – 鰤(ぶり)トロ**
@@ -232,7 +232,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-12.jpg" alt="匠達広 新宿ミシュラン寿司 にぎり 鰤腹身ぶり">
-  <figcaption>新宿ミシュラン寿司、匠 達広 にぎり(鰤腹身ぶり)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 にぎり(鰤腹身ぶり)</figcaption>
 </figure>
 
 **10コース目. つまみ – 鰆(さわら)蒸し**
@@ -245,7 +245,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-13.jpg" alt="匠達広 新宿寿司おまかせ つまみ 鰆蒸し">
-  <figcaption>新宿寿司おまかせ、匠 達広 つまみ(鰆蒸し)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 つまみ(鰆蒸し)</figcaption>
 </figure>
 
 **11コース目. にぎり – 車海老(くるまえび)**
@@ -258,7 +258,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-14.jpg" alt="匠達広 新宿寿司店 にぎり 車海老くるまえび">
-  <figcaption>新宿寿司店、匠 達広 にぎり(車海老くるまえび)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司店、匠 達広 にぎり(車海老くるまえび)</figcaption>
 </figure>
 
 **12コース目. にぎり – 鮪(まぐろ)トロ**
@@ -271,7 +271,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-15.jpg" alt="匠達広 新宿ミシュラン寿司 にぎり 鮪腹身トロ">
-  <figcaption>新宿ミシュラン寿司、匠 達広 にぎり(鮪腹身トロ)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 にぎり(鮪腹身トロ)</figcaption>
 </figure>
 
 **13コース目. にぎり – 鮪(まぐろ)赤身**
@@ -284,7 +284,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-16.jpg" alt="匠達広 新宿寿司おまかせ にぎり 鮪赤身">
-  <figcaption>新宿寿司おまかせ、匠 達広 にぎり(鮪赤身)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 にぎり(鮪赤身)</figcaption>
 </figure>
 
 **14コース目. 軍艦巻き – 雲丹(うに)**
@@ -297,7 +297,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-17.jpg" alt="匠達広 新宿寿司店 軍艦巻き 雲丹うに">
-  <figcaption>新宿寿司店、匠 達広 軍艦巻き(雲丹うに)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司店、匠 達広 軍艦巻き(雲丹うに)</figcaption>
 </figure>
 
 **15コース目. 汁物 – 味噌汁**
@@ -309,7 +309,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-18.jpg" alt="匠達広 新宿寿司おまかせ 汁物 味噌汁">
-  <figcaption>新宿寿司おまかせ、匠 達広 汁物(味噌汁)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 汁物(味噌汁)</figcaption>
 </figure>
 
 **16コース目. にぎり – 小鰭(こはだ)**
@@ -323,7 +323,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-19.jpg" alt="匠達広 新宿ミシュラン寿司 にぎり 小鰭こはだ">
-  <figcaption>新宿ミシュラン寿司、匠 達広 にぎり(小鰭こはだ)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 にぎり(小鰭こはだ)</figcaption>
 </figure>
 
 **17コース目. にぎり – 穴子(あなご)**
@@ -335,7 +335,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-20.jpg" alt="匠達広 新宿寿司店 にぎり 穴子あなご">
-  <figcaption>新宿寿司店、匠 達広 にぎり(穴子あなご)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司店、匠 達広 にぎり(穴子あなご)</figcaption>
 </figure>
 
 **18コース目. つまみ – 茶碗蒸し**
@@ -348,7 +348,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-21.jpg" alt="匠達広 新宿寿司おまかせ つまみ 茶碗蒸し">
-  <figcaption>新宿寿司おまかせ、匠 達広 つまみ(茶碗蒸し)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 つまみ(茶碗蒸し)</figcaption>
 </figure>
 
 **19コース目. 玉子焼き – ぎょく**
@@ -362,7 +362,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-22.jpg" alt="匠達広 新宿寿司おまかせ 玉子焼きぎょく">
-  <figcaption>新宿寿司おまかせ、匠 達広 おまかせ(玉子焼きぎょく)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 おまかせ(玉子焼きぎょく)</figcaption>
 </figure>
 
 **20コース目. デザート – 黒豆アイスクリーム**
@@ -374,7 +374,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-23.jpg" alt="匠達広 新宿寿司おまかせランチデザート 黒豆アイスクリーム">
-  <figcaption>新宿寿司おまかせ、匠 達広 ランチデザート(黒豆アイスクリーム)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 ランチデザート(黒豆アイスクリーム)</figcaption>
 </figure>
 
 ---
@@ -413,7 +413,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-24.jpg" alt="匠達広 新宿寿司おまかせ 内部全景">
-  <figcaption>新宿寿司おまかせ、匠 達広 内部全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 内部全景</figcaption>
 </figure>
 
 ---
@@ -433,7 +433,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-25.jpg" alt="匠達広 新宿寿司おまかせ 入口">
-  <figcaption>新宿寿司おまかせ、匠 達広 入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 入口</figcaption>
 </figure>
 
 ---

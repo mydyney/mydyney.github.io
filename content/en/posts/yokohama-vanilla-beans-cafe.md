@@ -26,7 +26,7 @@ gift-perfect <b>'Chocola'</b> - complete guide!</p>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-01.jpg" alt="Yokohama Vanilla Beans Tabelog Top 100 cafe">
-  <figcaption>Yokohama Vanilla Beans Tabelog Top 100 Cafe</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans Tabelog Top 100 Cafe</figcaption>
 </figure>
 
 ---
@@ -53,7 +53,7 @@ their 'taste' is perfectly validated.</p>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-02.jpg" alt="Red brick interior of Vanilla Beans Minato Mirai main store">
-  <figcaption>Red brick interior of Vanilla Beans Minato Mirai main store in Yokohama</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Red brick interior of Vanilla Beans Minato Mirai main store in Yokohama</figcaption>
 </figure>
 
 ---
@@ -78,22 +78,22 @@ truly a 'chocolate festival.'</p>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-03.jpg" alt="Vanilla Beans main store exclusive Vanilla Beans Parfait">
-  <figcaption>Vanilla Beans Minato Mirai main store exclusive menu 'Vanilla Beans Parfait'</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Vanilla Beans Minato Mirai main store exclusive menu 'Vanilla Beans Parfait'</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-04.jpg" alt="Vanilla Beans frozen chocolate drink, Chocolafe">
-  <figcaption>Vanilla Beans Frozen Chocolate Drink, Chocolafe</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Vanilla Beans Frozen Chocolate Drink, Chocolafe</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-05.jpg" alt="Vanilla Beans main store summer limited menu white peach chocolafe">
-  <figcaption>Yokohama Vanilla Beans main store summer limited menu, White Peach Chocolafe</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans main store summer limited menu, White Peach Chocolafe</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-06.jpg" alt="Vanilla Beans main store summer limited menu white peach chocolafe">
-  <figcaption>Yokohama Vanilla Beans main store summer limited menu, White Peach Chocolafe</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans main store summer limited menu, White Peach Chocolafe</figcaption>
 </figure>
 
 ---
@@ -114,7 +114,7 @@ sandwiched between crispy cookies—<br>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-07.jpg" alt="Yokohama Vanilla Beans Chocola">
-  <figcaption>Yokohama Vanilla Beans Chocola (<a href="https://www.vanillabeans.yokohama/view/item/000000000069?category_page_id=ct3" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans Chocola (<a href="https://www.vanillabeans.yokohama/view/item/000000000069?category_page_id=ct3" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;"><b>​</b><br>
@@ -125,27 +125,27 @@ create perfect harmony.</p>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-08.jpg" alt="Yokohama Vanilla Beans Paris Trois">
-  <figcaption>Yokohama Vanilla Beans Paris Trois (<a href="https://www.vanillabeans.yokohama/view/item/000000000143?category_page_id=ct58" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans Paris Trois (<a href="https://www.vanillabeans.yokohama/view/item/000000000143?category_page_id=ct58" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-09.jpg" alt="Yokohama Vanilla Beans tablet chocolates and various gifts">
-  <figcaption>Yokohama Vanilla Beans tablet chocolates and various gifts</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans tablet chocolates and various gifts</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-10.jpg" alt="Yokohama Vanilla Beans tablet chocolates and various gifts">
-  <figcaption>Yokohama Vanilla Beans tablet chocolates and various gifts</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans tablet chocolates and various gifts</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-11.jpg" alt="Yokohama Vanilla Beans tablet chocolates and various gifts">
-  <figcaption>Yokohama Vanilla Beans tablet chocolates and various gifts</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans tablet chocolates and various gifts</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-12.jpg" alt="Yokohama Vanilla Beans tablet chocolates and various gifts">
-  <figcaption>Yokohama Vanilla Beans tablet chocolates and various gifts</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans tablet chocolates and various gifts</figcaption>
 </figure>
 
 ---
@@ -189,7 +189,7 @@ create perfect harmony.</p>
 
 <figure>
   <img src="/images/posts/yokohama-vanilla-beans-cafe-13.jpg" alt="Vanilla Beans main store entrance">
-  <figcaption>Yokohama Vanilla Beans main store entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Vanilla Beans main store entrance</figcaption>
 </figure>
 
 ---

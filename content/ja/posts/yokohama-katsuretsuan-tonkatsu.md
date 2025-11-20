@@ -25,7 +25,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg" alt="横浜勝烈庵レストラン">
-  <figcaption>横浜勝烈庵 - カツレツ90年の伝統</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜勝烈庵 - カツレツ90年の伝統</figcaption>
 </figure>
 
 ## ✨ とんかつではなく、横浜の「カツレツ」
@@ -38,7 +38,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-02.jpg" alt="勝烈庵店内の伝統的な雰囲気">
-  <figcaption>勝烈庵本店内部 - 90年の伝統ある上品な雰囲気</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">勝烈庵本店内部 - 90年の伝統ある上品な雰囲気</figcaption>
 </figure>
 
 ---
@@ -53,7 +53,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-03.jpg" alt="勝烈庵特製ソース">
-  <figcaption>勝烈庵の特製秘伝ソース</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">勝烈庵の特製秘伝ソース</figcaption>
 </figure>
 
 ### 2. サクサクの「生パン粉」
@@ -62,7 +62,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-04.jpg" alt="外はサクサク中は柔らかいカツレツ">
-  <figcaption>外はサクサク、中は柔らかく - 横浜オリジナルカツレツの正統</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">外はサクサク、中は柔らかく - 横浜オリジナルカツレツの正統</figcaption>
 </figure>
 
 ---
@@ -77,19 +77,19 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-05.jpg" alt="ヒレかつ定食 ヒレカツレツとキャベツ">
-  <figcaption><b>ヒレかつ定食 - ヒレカツレツとキャベツ</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>ヒレかつ定食 - ヒレカツレツとキャベツ</b></figcaption>
 </figure>
 
 **ロースかつ定食：2,200円（脂の乗ったロースカツレツ）**
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-06.jpg" alt="ロースかつ定食 ロースカツレツ">
-  <figcaption><b>ロースかつ定食 - ロースカツレツとご飯、味噌汁セット</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>ロースかつ定食 - ロースカツレツとご飯、味噌汁セット</b></figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-07.jpg" alt="勝烈庵メニュー">
-  <figcaption><b>勝烈庵のメニュー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>勝烈庵のメニュー</b></figcaption>
 </figure>
 
 ---
@@ -102,7 +102,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-08.jpg" alt="勝烈庵入口 棟方志功の書の看板">
-  <figcaption>勝烈庵入口 - 棟方志功の手書き看板</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">勝烈庵入口 - 棟方志功の手書き看板</figcaption>
 </figure>
 
 ---

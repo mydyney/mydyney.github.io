@@ -28,7 +28,7 @@ we'll cover everything perfectly.</p>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg" alt="Yokohama Pavlov Cafe">
-  <figcaption>Yokohama Pavlov Cafe - Tabelog Top 100 Sweets for 5 Years</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Pavlov Cafe - Tabelog Top 100 Sweets for 5 Years</figcaption>
 </figure>
 
 ## 🔔 'Pavlov's Dog'? Unique Pound Cake Concept
@@ -41,22 +41,22 @@ With the concept of a charming patisserie encountered on the streets of Paris, i
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-02.jpg" alt="Pavlov Cafe elegant European exterior">
-  <figcaption>Yokohama Pavlov Original Store's Elegant European-Style Exterior</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Pavlov Original Store's Elegant European-Style Exterior</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-03.jpg" alt="Pavlov Cafe signboard">
-  <figcaption>Yokohama Pavlov Original Store Signboard</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Pavlov Original Store Signboard</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-04.jpg" alt="Pavlov Cafe classic interior">
-  <figcaption>Yokohama Tabelog Top 100 Cafe Pavlov's Classic Interior</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Tabelog Top 100 Cafe Pavlov's Classic Interior</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="Pavlov Cafe interior seating">
-  <figcaption>Yokohama Tabelog Top 100 Cafe Pavlov's Classic Interior</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Tabelog Top 100 Cafe Pavlov's Classic Interior</figcaption>
 </figure>
 
 ---
@@ -76,12 +76,12 @@ The ultimate 'sampler' menu where you can taste various signature pound cakes fr
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-06.jpg" alt="Pavlov's signature Cake Set with 5 colorful pound cakes">
-  <figcaption>Pavlov's Signature Menu 'Cake Set' - 5 Types of Gorgeous Pound Cakes</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Pavlov's Signature Menu 'Cake Set' - 5 Types of Gorgeous Pound Cakes</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-07.jpg" alt="Pavlov's Cake Set with cafe latte">
-  <figcaption>Pavlov's Signature Menu 'Cake Set' with Cafe Latte</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Pavlov's Signature Menu 'Cake Set' with Cafe Latte</figcaption>
 </figure>
 
 ### 2. French Toast Berry (フレンチトースト)
@@ -92,7 +92,7 @@ Luxury French toast with thick brioche bread topped generously with cream and fr
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-08.jpg" alt="Pavlov's popular French Toast Berry">
-  <figcaption>Pavlov's Popular Menu French Toast Berry</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Pavlov's Popular Menu French Toast Berry</figcaption>
 </figure>
 
 ### 3. Prosciutto Mozzarella Sandwich (プリンアラモード)
@@ -103,7 +103,7 @@ A sweet and salty sandwich perfect for brunch.
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-09.jpg" alt="Pavlov's brunch menu Prosciutto Mozzarella Sandwich">
-  <figcaption>Pavlov's Brunch Menu Prosciutto Mozzarella Sandwich</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Pavlov's Brunch Menu Prosciutto Mozzarella Sandwich</figcaption>
 </figure>
 
 ---
@@ -149,7 +149,7 @@ Minatomirai Line
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-10.jpg" alt="Yokohama Tabelog Top 100 Cafe Pavlov gift set">
-  <figcaption>Yokohama Tabelog Top 100 Cafe Pavlov Gift Set</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Tabelog Top 100 Cafe Pavlov Gift Set</figcaption>
 </figure>
 
 ---
@@ -166,12 +166,12 @@ From basic plain croissants, to 'meal croissants' prepared like cooking, to jewe
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="Mrs. Pavlov Bakery's gorgeous croissant showcase">
-  <figcaption>Yokohama Croissant Restaurant Mrs. Pavlov Bakery's Gorgeous Croissant Showcase</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Croissant Restaurant Mrs. Pavlov Bakery's Gorgeous Croissant Showcase</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-12.jpg" alt="Mrs. Pavlov Bakery">
-  <figcaption>Yokohama Croissant Restaurant <b>Mrs. Pavlov Bakery</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Croissant Restaurant <b>Mrs. Pavlov Bakery</b></figcaption>
 </figure>
 
 ---

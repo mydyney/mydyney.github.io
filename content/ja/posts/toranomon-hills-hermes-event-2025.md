@@ -19,7 +19,7 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-01.jpg" alt="虎ノ門ヒルズエルメスイベント東京ノード無料展示">
-  <figcaption>虎ノ門ヒルズエルメスイベント東京ノード無料展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">虎ノ門ヒルズエルメスイベント東京ノード無料展示</figcaption>
 </figure>
 
 <p>虎ノ門ヒルズのエルメスイベントは、予約が瞬時に完売するほど大人気でした。幸運にも虎ノ門ヒルズ45階の東京ノード（Tokyo Node Gallery）で開催された「MYSTERY AT THE GROOMS」に参加してきました。イベントレビュー、予約を逃した方のためのオンラインゲームのヒント、東京ノードへの詳しいアクセス方法をご紹介します。</p>
@@ -38,7 +38,7 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-02.jpg" alt="虎ノ門ヒルズ特別展示エルメスの馬探し">
-  <figcaption>虎ノ門ヒルズ特別展示エルメスの馬探し</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">虎ノ門ヒルズ特別展示エルメスの馬探し</figcaption>
 </figure>
 
 <h2>ℹ️ 虎ノ門ヒルズエルメス展示情報</h2>
@@ -82,7 +82,7 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-03.jpg" alt="虎ノ門ヒルズ45階東京ノードの開放的な展望">
-  <figcaption>虎ノ門ヒルズ45階東京ノードの開放的な展望</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">虎ノ門ヒルズ45階東京ノードの開放的な展望</figcaption>
 </figure>
 
 <h2>🕵️‍♂️ 「エルメスの馬探し」生き生きとした体験レビュー</h2>
@@ -93,7 +93,7 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-04.jpg" alt="エルメス体験展示の始まり、グルームたちが馬が逃げた状況を説明中">
-  <figcaption>エルメス体験展示の始まり、グルームたちが馬が逃げた状況を説明中</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エルメス体験展示の始まり、グルームたちが馬が逃げた状況を説明中</figcaption>
 </figure>
 
 <p><strong>⭐ 必須準備物：充電されたスマートフォン！</strong></p>
@@ -101,12 +101,12 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-05.jpg" alt="体験空間に入ってから始まる馬探しスマートフォンゲーム">
-  <figcaption>体験空間に入ってから始まる馬探しスマートフォンゲーム</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">体験空間に入ってから始まる馬探しスマートフォンゲーム</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-06.jpg" alt="体験空間に入ってから始まる馬探しスマートフォンゲーム">
-  <figcaption>体験空間に入ってから始まる馬探しスマートフォンゲーム</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">体験空間に入ってから始まる馬探しスマートフォンゲーム</figcaption>
 </figure>
 
 <p>イベントは定められた70分間、合計6つの空間を巡りながらミッションを遂行する方式でした。</p>
@@ -117,61 +117,61 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-07.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
-  <figcaption>エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-08.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
-  <figcaption>エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-09.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
-  <figcaption>エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-10.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
-  <figcaption>エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
 </figure>
 
 <p>一人で行っても十分楽しめましたし、実際に子供と一緒に来た家族連れの訪問客も多かったです。（ただし、小学生以上から予約が必要）</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-11.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption>6つの空間でエルメスの馬を探す体験型展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-12.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption>6つの空間でエルメスの馬を探す体験型展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-13.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption>6つの空間でエルメスの馬を探す体験型展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-14.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption>6つの空間でエルメスの馬を探す体験型展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
 </figure>
 
 <p>好奇心旺盛な子供たちから経験豊富な大人まで、誰もがエルメス探偵となって楽しく没入できる時間でした。</p>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-15.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption>6つの空間でエルメスの馬を探す体験型展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-16.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption>6つの空間でエルメスの馬を探す体験型展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-17.jpg" alt="最後のパスワードはエルメスが誕生した年である1837">
-  <figcaption>最後のパスワードはエルメスが誕生した年である1837</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">最後のパスワードはエルメスが誕生した年である1837</figcaption>
 </figure>
 
 <h2>🗺️ 虎ノ門ヒルズ TOKYO NODE 45階への行き方</h2>
@@ -193,7 +193,7 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-18.jpg" alt="東京メトロ日比谷線(H) 虎ノ門ヒルズ駅連絡通路">
-  <figcaption>東京メトロ日比谷線(H) 虎ノ門ヒルズ駅連絡通路</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京メトロ日比谷線(H) 虎ノ門ヒルズ駅連絡通路</figcaption>
 </figure>
 
 <p><strong>📍 45階への行き方（重要）</strong></p>
@@ -207,12 +207,12 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-19.jpg" alt="地下階東京ノード入口シャトルエレベーターへ行く通路">
-  <figcaption>地下階東京ノード入口シャトルエレベーターへ行く通路</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">地下階東京ノード入口シャトルエレベーターへ行く通路</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-20.jpg" alt="虎ノ門ヒルズ8階TOKYO NODE入口で45階高層部へ上がるエレベーター乗換区域">
-  <figcaption>虎ノ門ヒルズ8階TOKYO NODE入口で45階高層部へ上がるエレベーター乗換区域</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">虎ノ門ヒルズ8階TOKYO NODE入口で45階高層部へ上がるエレベーター乗換区域</figcaption>
 </figure>
 
 <h2>💻 まだ終わりじゃない！オンライン「馬探し」ゲーム</h2>
@@ -228,12 +228,12 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-21.jpg" alt="展示入場券、記念はがき、体験完了記念ノート">
-  <figcaption>展示入場券、記念はがき、体験完了記念ノート</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">展示入場券、記念はがき、体験完了記念ノート</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-22.jpg" alt="45階東京ノード展望台で開催されたエルメス展示">
-  <figcaption>45階東京ノード展望台で開催されたエルメス展示</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">45階東京ノード展望台で開催されたエルメス展示</figcaption>
 </figure>
 
 <p>虎ノ門ヒルズエルメスイベントは、11月24日という短い期間だけ会える非常に特別な無料展示です。</p>

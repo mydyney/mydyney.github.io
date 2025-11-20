@@ -25,7 +25,7 @@ we'll cover everything perfectly.</p>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg" alt="Yokohama Katsuretsuan Restaurant">
-  <figcaption>Yokohama Katsuretsuan - 90 Years of Tradition in Katsuretsu</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Katsuretsuan - 90 Years of Tradition in Katsuretsu</figcaption>
 </figure>
 
 ## ✨ Not Tonkatsu, but Yokohama's 'Katsuretsu'
@@ -38,7 +38,7 @@ It's so iconic that locals call it "the taste of Yokohama."
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-02.jpg" alt="Katsuretsuan interior with traditional atmosphere">
-  <figcaption>Katsuretsuan Main Store Interior - 90 Years of Elegant Atmosphere</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Katsuretsuan Main Store Interior - 90 Years of Elegant Atmosphere</figcaption>
 </figure>
 
 ---
@@ -53,7 +53,7 @@ Vegetables and fruits are **boiled for two days** and **aged overnight** to crea
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-03.jpg" alt="Katsuretsuan special sauce">
-  <figcaption>Katsuretsuan's Special Traditional Sauce</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Katsuretsuan's Special Traditional Sauce</figcaption>
 </figure>
 
 ### 2. Crispy 'Fresh Breadcrumbs'
@@ -62,7 +62,7 @@ Using homemade 'fresh breadcrumbs', the coating is light and crispy, while the m
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-04.jpg" alt="Crispy outside, tender inside katsuretsu">
-  <figcaption>Crispy Outside, Tender Inside - The Classic Yokohama Original Katsuretsu</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Crispy Outside, Tender Inside - The Classic Yokohama Original Katsuretsu</figcaption>
 </figure>
 
 ---
@@ -77,19 +77,19 @@ Katsuretsu is a fully cooked Western-style dish, featuring a crispy exterior wit
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-05.jpg" alt="Hire Katsu Set with tenderloin katsuretsu and cabbage">
-  <figcaption><b>Hire Katsu Set - Tenderloin Katsuretsu with Cabbage</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Hire Katsu Set - Tenderloin Katsuretsu with Cabbage</b></figcaption>
 </figure>
 
 **Rosu Katsu Set (ロースかつ定食): 2,200 yen (Rich Pork Loin Katsuretsu)**
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-06.jpg" alt="Rosu Katsu Set with pork loin katsuretsu">
-  <figcaption><b>Rosu Katsu Set - Pork Loin Katsuretsu with Rice and Miso Soup</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Rosu Katsu Set - Pork Loin Katsuretsu with Rice and Miso Soup</b></figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-07.jpg" alt="Katsuretsuan menu">
-  <figcaption><b>Katsuretsuan Menu</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Katsuretsuan Menu</b></figcaption>
 </figure>
 
 ---
@@ -102,7 +102,7 @@ World-renowned woodblock artist **Munakata Shiko (棟方志功)** personally wro
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-08.jpg" alt="Katsuretsuan entrance with Munakata Shiko's calligraphy signboard">
-  <figcaption>Katsuretsuan Entrance - Munakata Shiko's Handwritten Signboard</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Katsuretsuan Entrance - Munakata Shiko's Handwritten Signboard</figcaption>
 </figure>
 
 ---

@@ -25,7 +25,7 @@ From ¥1,200 you can enjoy premium shabu-shabu!</p>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg" alt="Nakameguro Lettuce Shabu-Shabu Main Store entrance on 2nd floor">
-  <figcaption>Nakameguro Lettuce Shabu-Shabu Main Store entrance on 2nd floor</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Nakameguro Lettuce Shabu-Shabu Main Store entrance on 2nd floor</figcaption>
 </figure>
 
 ---
@@ -47,7 +47,7 @@ Creating the ultimate personalized shabu-shabu experience.</p>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-02.jpg" alt="Lettuce Shabu-Shabu 1-person pot concept with individual burners">
-  <figcaption>Lettuce Shabu-Shabu 1-person pot concept with individual burners</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Lettuce Shabu-Shabu 1-person pot concept with individual burners</figcaption>
 </figure>
 
 ---
@@ -101,12 +101,12 @@ The combinations are endless!</p>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-03.jpg" alt="Lettuce Shabu-Shabu unlimited sauce bar with 8 varieties">
-  <figcaption>Lettuce Shabu-Shabu unlimited sauce bar with 8 varieties</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Lettuce Shabu-Shabu unlimited sauce bar with 8 varieties</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-04.jpg" alt="Recommended sauce combination recipes at sauce bar">
-  <figcaption>Recommended sauce combination recipes at sauce bar</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Recommended sauce combination recipes at sauce bar</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -147,7 +147,7 @@ All sets include unlimited vegetables and rice!</p>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-05.jpg" alt="Weekday lunch set menu board showing three pricing tiers">
-  <figcaption>Weekday lunch set menu board showing three pricing tiers</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Weekday lunch set menu board showing three pricing tiers</figcaption>
 </figure>
 
 ---
@@ -167,12 +167,12 @@ Makes this an unforgettable shabu-shabu experience!</p>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-06.jpg" alt="Premium beef tongue and pork combination set">
-  <figcaption>Premium beef tongue and pork combination set</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Premium beef tongue and pork combination set</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-07.jpg" alt="Fresh seasonal vegetables platter for shabu-shabu">
-  <figcaption>Fresh seasonal vegetables platter for shabu-shabu</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Fresh seasonal vegetables platter for shabu-shabu</figcaption>
 </figure>
 
 ---
@@ -201,7 +201,7 @@ Makes this an unforgettable shabu-shabu experience!</p>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-08.jpg" alt="Nakameguro Station area location map">
-  <figcaption>Nakameguro Station area location map</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Nakameguro Station area location map</figcaption>
 </figure>
 
 <div style="margin: 2rem 0;">

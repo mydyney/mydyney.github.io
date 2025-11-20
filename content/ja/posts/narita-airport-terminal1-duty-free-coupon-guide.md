@@ -18,7 +18,7 @@ ANA DUTY & TAX FREE SHOPでKlook 5%割引クーポン活用<br>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-01.jpg" alt="成田空港第1ターミナルANA免税店5%クーポンショッピングリスト">
-  <figcaption>成田空港第1ターミナルANA免税店5%クーポンショッピングリスト</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港第1ターミナルANA免税店5%クーポンショッピングリスト</figcaption>
 </figure>
 
 ## 📍 概要
@@ -58,7 +58,7 @@ ANA DUTY & TAX FREE SHOPでKlook 5%割引クーポン活用<br>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-02.jpg" alt="成田空港ターミナル別航空会社案内">
-  <figcaption>成田空港ターミナル別航空会社案内</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港ターミナル別航空会社案内</figcaption>
 </figure>
 
 ---
@@ -77,7 +77,7 @@ Klookで成田空港免税店予約クーポンを事前に受け取っておけ
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-03.jpg" alt="Klook ANA免税店5%割引クーポンページ">
-  <figcaption>Klook ANA免税店5%割引クーポンページキャプチャ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Klook ANA免税店5%割引クーポンページキャプチャ</figcaption>
 </figure>
 
 ---
@@ -125,29 +125,29 @@ Klookで成田空港免税店予約クーポンを事前に受け取っておけ
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-04.jpg" alt="成田空港免税店ウイスキーコーナー">
-  <figcaption>成田空港免税店ウイスキーコーナー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港免税店ウイスキーコーナー</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-05.jpg" alt="成田空港免税店ウイスキー山崎と響">
-  <figcaption>成田空港免税店ウイスキー山崎と響</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港免税店ウイスキー山崎と響</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-06.jpg" alt="成田空港免税店ウイスキーボトル">
-  <figcaption>成田空港免税店ウイスキーコレクション</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港免税店ウイスキーコレクション</figcaption>
 </figure>
 
 **🥃 日本酒** - 獺祭23、久保田 萬寿
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-07.jpg" alt="成田空港免税店日本酒獺祭">
-  <figcaption>成田空港免税店日本酒獺祭</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港免税店日本酒獺祭</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-08.jpg" alt="成田空港免税店日本酒獺祭ボトル">
-  <figcaption>成田空港免税店日本酒コレクション</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港免税店日本酒コレクション</figcaption>
 </figure>
 
 ### 2. 成田空港免税店お菓子＆お土産
@@ -158,21 +158,21 @@ Klookで成田空港免税店予約クーポンを事前に受け取っておけ
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-09.jpg" alt="東京ばな奈成田空港免税店お菓子">
-  <figcaption>東京ばな奈 - 成田空港免税店お菓子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ばな奈 - 成田空港免税店お菓子</figcaption>
 </figure>
 
 **🍪 白い恋人**
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-10.jpg" alt="白い恋人成田空港免税店お菓子">
-  <figcaption>白い恋人 - 成田空港免税店お菓子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">白い恋人 - 成田空港免税店お菓子</figcaption>
 </figure>
 
 **🍪 ロイズチョコレート**
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-11.jpg" alt="ロイズチョコレート成田空港免税店お菓子">
-  <figcaption>ロイズチョコレート - 成田空港免税店お菓子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ロイズチョコレート - 成田空港免税店お菓子</figcaption>
 </figure>
 
 ### 3. 成田空港免税店化粧品、香水＆ブランド

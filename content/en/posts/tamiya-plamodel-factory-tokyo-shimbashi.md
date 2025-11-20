@@ -18,7 +18,7 @@ Hours and location all in one place.</p>
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-01.jpg" alt="Tamiya Plamodel Factory Tokyo Shimbashi store entrance">
-  <figcaption>Tamiya Plamodel Factory Tokyo Shimbashi store entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo Shimbashi store entrance</figcaption>
 </figure>
 
 ## Introduction
@@ -51,7 +51,7 @@ It's not just a store—it's Tamiya's representative showroom that broadcasts th
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-02.jpg" alt="Tamiya Plamodel Factory Tokyo Shimbashi store concept">
-  <figcaption>Tamiya Plamodel Factory Tokyo Shimbashi store concept</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo Shimbashi store concept</figcaption>
 </figure>
 
 ---
@@ -79,7 +79,7 @@ The location is close to Ginza and Tokyo Tower, making it very easy to incorpora
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-03.jpg" alt="Tamiya Plamodel Factory Tokyo Shimbashi store location map">
-  <figcaption>Tamiya Plamodel Factory Tokyo Shimbashi store location</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo Shimbashi store location</figcaption>
 </figure>
 
 ---
@@ -97,12 +97,12 @@ This is the **official photo zone of Tamiya's Tokyo store**, where all visitors 
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-04.jpg" alt="Tamiya Plamodel Factory Tokyo 1:1 full-scale Aero Avante display">
-  <figcaption>Tamiya Plamodel Factory Tokyo 1:1 full-scale 'Aero Avante' display</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo 1:1 full-scale 'Aero Avante' display</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-05.jpg" alt="Tamiya Plamodel Factory Tokyo 1:1 full-scale Aero Avante information">
-  <figcaption>Tamiya Plamodel Factory Tokyo 1:1 full-scale Aero Avante information</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo 1:1 full-scale Aero Avante information</figcaption>
 </figure>
 
 ---
@@ -117,14 +117,14 @@ For those with childhood memories, it will feel like a "new yet somehow nostalgi
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-06.jpg" alt="Tamiya Plamodel Factory Tokyo Mini 4WD cars">
-  <figcaption>Tamiya Plamodel Factory Tokyo Mini 4WD cars</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo Mini 4WD cars</figcaption>
 </figure>
 
 Here's a guide to the shopping flow based on the official floor map (Zones A-F).
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-07.jpg" alt="Tamiya Plamodel Factory Tokyo floor guide">
-  <figcaption>Tamiya Plamodel Factory Tokyo floor guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo floor guide</figcaption>
 </figure>
 
 - **Zone A – Scale Models ①:** Tanks, military, aircraft, automobiles
@@ -138,7 +138,7 @@ If you want to quickly find what you're looking for, check this configuration in
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-08.jpg" alt="Tamiya Plamodel Factory Tokyo interior 4m high, 100m long display shelves">
-  <figcaption>Tamiya Plamodel Factory Tokyo interior: 4m high, 100m long display shelves</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo interior: 4m high, 100m long display shelves</figcaption>
 </figure>
 
 ---
@@ -157,7 +157,7 @@ Inside Tamiya Plamodel Factory Tokyo, there's a popular Tokyo roastery café, ON
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-09.jpg" alt="ONIBUS COFFEE served at Tamiya Plamodel Factory Tokyo café">
-  <figcaption>ONIBUS COFFEE served at Tamiya Plamodel Factory Tokyo café</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ONIBUS COFFEE served at Tamiya Plamodel Factory Tokyo café</figcaption>
 </figure>
 
 **2. MODELERS SQUARE**
@@ -194,12 +194,12 @@ A. Yes, you can order lost or damaged parts during assembly, or original parts f
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-10.jpg" alt="Tamiya Plamodel Factory Tokyo souvenir corner 1">
-  <figcaption>Tamiya Plamodel Factory Tokyo souvenir corner</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo souvenir corner</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-11.jpg" alt="Tamiya Plamodel Factory Tokyo souvenir corner 2">
-  <figcaption>Tamiya Plamodel Factory Tokyo souvenir corner</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tamiya Plamodel Factory Tokyo souvenir corner</figcaption>
 </figure>
 
 ---

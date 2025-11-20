@@ -104,7 +104,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-01.jpg" alt="2025年六本木ヒルズクリスマスイルミネーション">
-  <figcaption>2025年六本木ヒルズクリスマスイルミネーション</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木ヒルズクリスマスイルミネーション</figcaption>
 </figure>
 
 <p>2025年六本木イルミネーションがついに点灯を開始しました。けやき坂通り、66プラザツリー、毛利庭園、そしてクリスマスマーケットまで、今年の公式スケジュールと点灯時間を完璧にまとめました。</p>
@@ -167,7 +167,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-02.jpg" alt="2025年六本木ヒルズけやき坂通りSNOW&BLUEイルミネーション夜景">
-  <figcaption>2025年六本木ヒルズけやき坂通りSNOW&BLUEイルミネーション夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木ヒルズけやき坂通りSNOW&BLUEイルミネーション夜景</figcaption>
 </figure>
 
 <h2>🚇 六本木イルミネーションへのアクセス（最速ルート）</h2>
@@ -184,7 +184,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-03.jpg" alt="日比谷線六本木駅からエスカレーターで繋がる66プラザ">
-  <figcaption>日比谷線六本木駅からエスカレーターで繋がる66プラザ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">日比谷線六本木駅からエスカレーターで繋がる66プラザ</figcaption>
 </figure>
 
 <h2>✨ 2025年六本木イルミネーション詳細情報</h2>
@@ -201,7 +201,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-04.jpg" alt="六本木イルミネーション公式フォトスポットB地点撮影 けやき坂イルミネーション（エンポリオアルマーニ前）">
-  <figcaption>六本木イルミネーション公式フォトスポットB地点撮影 けやき坂イルミネーション（エンポリオアルマーニ前）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木イルミネーション公式フォトスポットB地点撮影 けやき坂イルミネーション（エンポリオアルマーニ前）</figcaption>
 </figure>
 
 <h3>🧡 66プラザ「Luminous Bouquet」</h3>
@@ -217,7 +217,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-05.jpg" alt="六本木ヒルズ66プラザママン前クリスマスツリーLuminous Bouquet">
-  <figcaption>六本木ヒルズ66プラザママン前クリスマスツリーLuminous Bouquet</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ66プラザママン前クリスマスツリーLuminous Bouquet</figcaption>
 </figure>
 
 <h3>💚 毛利庭園（モリガーデン）</h3>
@@ -232,7 +232,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-06.jpg" alt="六本木ヒルズ毛利庭園クリスマスイルミネーション">
-  <figcaption>六本木ヒルズ毛利庭園クリスマスイルミネーション</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ毛利庭園クリスマスイルミネーション</figcaption>
 </figure>
 
 <h2>📸 公式フォトスポットBEST 5（2025年公式マップ）</h2>
@@ -246,7 +246,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-07.jpg" alt="2025年六本木イルミネーション公式フォトスポットA、C、D、E地点マップ">
-  <figcaption>2025年六本木イルミネーション公式フォトスポットA、C、D、E地点マップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木イルミネーション公式フォトスポットA、C、D、E地点マップ</figcaption>
 </figure>
 
 <h2>📍 地図にない おすすめフォトスポット（歩道橋・ルイヴィトン前）</h2>
@@ -255,12 +255,12 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-08.jpg" alt="六本木イルミネーション必見フォトスポットけやき坂歩道橋">
-  <figcaption>六本木イルミネーション必見フォトスポット けやき坂歩道橋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木イルミネーション必見フォトスポット けやき坂歩道橋</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-09.jpg" alt="六本木イルミネーション必見フォトスポットけやき坂歩道橋の人々">
-  <figcaption>六本木イルミネーション必見フォトスポット けやき坂歩道橋の人々</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木イルミネーション必見フォトスポット けやき坂歩道橋の人々</figcaption>
 </figure>
 
 <p><strong>2. ルイヴィトン前横断歩道</strong> <strong>📍</strong> <a href="https://maps.app.goo.gl/u2WgQP29jpdbNtCX8" target="_blank" rel="noopener noreferrer">地図を見る</a><br>
@@ -268,12 +268,12 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-10.jpg" alt="六本木イルミネーションスポット ルイヴィトン前横断歩道">
-  <figcaption>六本木イルミネーションスポット ルイヴィトン前横断歩道</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木イルミネーションスポット ルイヴィトン前横断歩道</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-11.jpg" alt="ルイヴィトン前から見た六本木イルミネーションフォトスポットSNOW&BLUE">
-  <figcaption>ルイヴィトン前から見た六本木イルミネーションフォトスポットSNOW&BLUE</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ルイヴィトン前から見た六本木イルミネーションフォトスポットSNOW&BLUE</figcaption>
 </figure>
 
 <h2>🎅 六本木ヒルズクリスマスマーケット2025</h2>
@@ -297,7 +297,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-12.jpg" alt="六本木ヒルズクリスマスマーケット2025ドイツ式ブースとグリューワイン">
-  <figcaption>六本木ヒルズクリスマスマーケット2025 ドイツ式ブースとグリューワイン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズクリスマスマーケット2025 ドイツ式ブースとグリューワイン</figcaption>
 </figure>
 
 <p><strong>🎄 東京の他のクリスマスマーケットが気になる方は？</strong><br>
@@ -315,7 +315,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-13.jpg" alt="2025年六本木ヒルズ新規イベントJRAゾートロープおよびティファニーWhirling Wish作品">
-  <figcaption>2025年六本木ヒルズ新規イベント JRAゾートロープおよびティファニーWhirling Wish作品</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木ヒルズ新規イベント JRAゾートロープおよびティファニーWhirling Wish作品</figcaption>
 </figure>
 
 <h3>3. Whirling Wish – Tiffany & Co.</h3>
@@ -324,7 +324,7 @@ blockquote {
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-14.jpg" alt="六本木ヒルズクリスマス ティファニーツリー">
-  <figcaption>六本木ヒルズクリスマス ティファニーツリー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズクリスマス ティファニーツリー</figcaption>
 </figure>
 
 <h2>💡 六本木イルミネーション Q&A</h2>

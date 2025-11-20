@@ -23,7 +23,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-01.jpg" alt="新宿酒屋 やまや 信濃屋 ビックカメラ ウイスキー 免税 割引クーポン">
-  <figcaption>新宿酒屋 やまや、信濃屋、ビックカメラ 免税＋割引クーポン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿酒屋 やまや、信濃屋、ビックカメラ 免税＋割引クーポン</figcaption>
 </figure>
 
 ---
@@ -38,7 +38,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-02.jpg" alt="新宿酒屋おすすめ ドンキホーテ ウイスキー限定版（東京ウイスキーショッピング）">
-  <figcaption>新宿酒屋おすすめ ドンキホーテ ウイスキー限定版（東京ウイスキーショッピング）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿酒屋おすすめ ドンキホーテ ウイスキー限定版（東京ウイスキーショッピング）</figcaption>
 </figure>
 
 ---
@@ -58,7 +58,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-03.jpg" alt="新宿酒屋 ビックカメラ ウイスキーコーナー 免税のコツ（カバラン・山崎）">
-  <figcaption>新宿酒屋 ビックカメラ ウイスキーコーナー 免税のコツ（カバラン・山崎）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿酒屋 ビックカメラ ウイスキーコーナー 免税のコツ（カバラン・山崎）</figcaption>
 </figure>
 
 ### 2️⃣ 新宿歌舞伎町・東口
@@ -71,7 +71,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-04.jpg" alt="新宿酒屋 信濃屋">
-  <figcaption>新宿酒屋 信濃屋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿酒屋 信濃屋</figcaption>
 </figure>
 
 ---
@@ -89,7 +89,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-05.jpg" alt="銀座ロッテ免税店 山崎12年 ウイスキー 正価">
-  <figcaption>銀座ロッテ免税店 山崎12年 ウイスキー 正価</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">銀座ロッテ免税店 山崎12年 ウイスキー 正価</figcaption>
 </figure>
 
 ---
@@ -104,7 +104,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-06.jpg" alt="銀座ロッテ免税店 響 ジャパニーズハーモニー 免税価格（東京ウイスキー）">
-  <figcaption>銀座ロッテ免税店 響 ジャパニーズハーモニー 免税価格（東京ウイスキー）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">銀座ロッテ免税店 響 ジャパニーズハーモニー 免税価格（東京ウイスキー）</figcaption>
 </figure>
 
 ### 📌 [必読] 山崎・響 価格/ラインナップガイド
@@ -121,7 +121,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-07.jpg" alt="サントリーウイスキー ラインナップ（山崎・白州・響 比較）">
-  <figcaption><strong>サントリーウイスキー ラインナップ（山崎・白州・響 比較）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>サントリーウイスキー ラインナップ（山崎・白州・響 比較）</strong></figcaption>
 </figure>
 
 ---
@@ -148,7 +148,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-08.jpg" alt="銀座ロッテ免税店 サントリーウイスキーコーナー（山崎・白州・響）">
-  <figcaption><strong>銀座ロッテ免税店 サントリーウイスキーコーナー（山崎・白州・響）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>銀座ロッテ免税店 サントリーウイスキーコーナー（山崎・白州・響）</strong></figcaption>
 </figure>
 
 ---
@@ -176,7 +176,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-09.jpg" alt="酒屋 獺祭 日本酒コーナー 獺祭39、23、45">
-  <figcaption><strong>酒屋 獺祭 日本酒コーナー 獺祭39、23、45</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>酒屋 獺祭 日本酒コーナー 獺祭39、23、45</strong></figcaption>
 </figure>
 
 ### 4️⃣ **ビックカメラ 免税10% + 3~7%割引クーポン**
@@ -191,7 +191,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-10.jpg" alt="新宿ビックカメラ 割引クーポン 免税10%+追加7% ショッピングのコツ">
-  <figcaption><strong>新宿ビックカメラ 割引クーポン 免税10%+追加7% ショッピングのコツ</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>新宿ビックカメラ 割引クーポン 免税10%+追加7% ショッピングのコツ</strong></figcaption>
 </figure>
 
 ---
@@ -208,7 +208,7 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-11.jpg" alt="新宿夜景スポット 東京都庁展望台 富士山ビュー（東京旅行コース）">
-  <figcaption>新宿夜景スポット 東京都庁展望台 富士山ビュー（東京旅行コース）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿夜景スポット 東京都庁展望台 富士山ビュー（東京旅行コース）</figcaption>
 </figure>
 
 ---

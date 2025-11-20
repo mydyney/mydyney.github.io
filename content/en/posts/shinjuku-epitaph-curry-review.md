@@ -25,7 +25,7 @@ Menu·prices·business hours all summarized at once.</p>
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-01.jpg" alt="Shinjuku curry restaurant Epitaph half-and-half curry Tabelog top 100">
-  <figcaption>Shinjuku curry restaurant Epitaph half-and-half curry Tabelog top 100</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku curry restaurant Epitaph half-and-half curry Tabelog top 100</figcaption>
 </figure>
 
 Looking for a Shinjuku curry restaurant?
@@ -49,7 +49,7 @@ However, in May 2020, it officially moved near Shinjuku-sanchome Station (2nd Si
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-02.jpg" alt="Shinjuku-sanchome Shinjuku curry restaurant Epitaph Curry storefront entrance view">
-  <figcaption>Shinjuku-sanchome Shinjuku curry restaurant Epitaph Curry storefront entrance view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku-sanchome Shinjuku curry restaurant Epitaph Curry storefront entrance view</figcaption>
 </figure>
 
 Now you can taste the legendary curry in a comfortable 12-seat counter restaurant instead of a cramped bar.
@@ -66,12 +66,12 @@ When you sit down, you'll first receive the menu below.
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-03.jpg" alt="Epitaph Curry menu prices, toppings and drinks, ordering tips">
-  <figcaption>Epitaph Curry menu prices, toppings and drinks, ordering tips</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Epitaph Curry menu prices, toppings and drinks, ordering tips</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-04.jpg" alt="Epitaph Curry menu board and ordering guide">
-  <figcaption>Epitaph Curry menu board and ordering guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Epitaph Curry menu board and ordering guide</figcaption>
 </figure>
 
 However, this menu doesn't have the curry names written on it.
@@ -85,7 +85,7 @@ In other words, you have to look at the blackboard inside the store to see 'toda
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-05.jpg" alt="Epitaph Curry today's 3 curries and menu, Shinjuku keema curry and pork vindaloo guide">
-  <figcaption>Epitaph Curry today's 3 curries and menu, Shinjuku keema curry and pork vindaloo guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Epitaph Curry today's 3 curries and menu, Shinjuku keema curry and pork vindaloo guide</figcaption>
 </figure>
 
 ## ✅ Ordering Method and Complete Price Summary
@@ -151,7 +151,7 @@ If you're wearing white clothes, feel free to request one!
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-06.jpg" alt="Shinjuku curry specialty restaurant Epitaph Curry pork vindaloo 1-type plate">
-  <figcaption>Shinjuku curry specialty restaurant Epitaph Curry pork vindaloo 1-type plate</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku curry specialty restaurant Epitaph Curry pork vindaloo 1-type plate</figcaption>
 </figure>
 
 ---
@@ -162,7 +162,7 @@ The menu is 3 types of curry that change daily, and I chose the **2-type aigake 
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-07.jpg" alt="Epitaph 2-type aigake curry with minced pork burdock keema curry and pumpkin coconut curry">
-  <figcaption>Epitaph 2-type aigake curry with minced pork burdock keema curry and pumpkin coconut curry</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Epitaph 2-type aigake curry with minced pork burdock keema curry and pumpkin coconut curry</figcaption>
 </figure>
 
 **Pork Vindaloo (ポークビンダルー)** is not Japanese roux curry but a **spice curry** with intense spices. **It's a flavor explosion of strong sourness, umami, and spiciness.**
@@ -175,7 +175,7 @@ The sauce isn't saucy, and the minced meat is seasoned moderately, making it per
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-08.jpg" alt="Close-up of Epitaph Curry's Shinjuku keema curry with minced pork and burdock root">
-  <figcaption>Close-up of Epitaph Curry's Shinjuku keema curry with minced pork and burdock root</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Close-up of Epitaph Curry's Shinjuku keema curry with minced pork and burdock root</figcaption>
 </figure>
 
 ---
@@ -241,7 +241,7 @@ Epitaph Curry is a unique **Shinjuku curry specialty restaurant** that doesn't o
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-09.jpg" alt="Epitaph signature curry products pork vindaloo curry and Kerala-style chicken curry">
-  <figcaption><b>Epitaph signature curry products pork vindaloo curry and Kerala-style chicken curry</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Epitaph signature curry products pork vindaloo curry and Kerala-style chicken curry</b></figcaption>
 </figure>
 
 ---
@@ -268,7 +268,7 @@ If you go believing only old Golden Gai information, you'll 100% make a wasted t
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-10.jpg" alt="Shinjuku curry restaurant Epitaph Curry 12-seat counter interior view and waiting area">
-  <figcaption>Shinjuku curry restaurant Epitaph Curry 12-seat counter interior view and waiting area</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku curry restaurant Epitaph Curry 12-seat counter interior view and waiting area</figcaption>
 </figure>
 
 ---

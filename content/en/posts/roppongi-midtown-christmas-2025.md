@@ -18,7 +18,7 @@ Essential winter travel guide all in one place.</p>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-01.jpg" alt="2025 Roppongi Tokyo Midtown Christmas Illumination Main Night View">
-  <figcaption>2025 Roppongi Tokyo Midtown Christmas Illumination Main Night View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Roppongi Tokyo Midtown Christmas Illumination Main Night View</figcaption>
 </figure>
 
 ---
@@ -31,7 +31,7 @@ If you want to experience Tokyo Midtown Christmas, Roppongi Midtown Christmas ma
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-02.jpg" alt="Garden bench with 2025 Roppongi Midtown Christmas illumination">
-  <figcaption>Garden bench with 2025 Roppongi Midtown Christmas illumination</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Garden bench with 2025 Roppongi Midtown Christmas illumination</figcaption>
 </figure>
 
 ---
@@ -99,7 +99,7 @@ This is official event information for one of Tokyo's Christmas season highlight
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-03.jpg" alt="2025 Roppongi Tokyo Midtown Christmas garden illumination panorama">
-  <figcaption>2025 Roppongi Tokyo Midtown Christmas garden illumination panorama</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Roppongi Tokyo Midtown Christmas garden illumination panorama</figcaption>
 </figure>
 
 ### 📌 [IMPORTANT] Roppongi Hills vs Tokyo Midtown (Must Read!)
@@ -130,12 +130,12 @@ The snow-falling area reminiscent of "White Christmas" is the perfect spot for p
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-04.jpg" alt="Fantastic lighting display at Tokyo Midtown Christmas Garden Lights">
-  <figcaption>Fantastic lighting display at Tokyo Midtown Christmas Garden Lights</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Fantastic lighting display at Tokyo Midtown Christmas Garden Lights</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-05.jpg" alt="Magical illumination scenes at Christmas Garden Lights">
-  <figcaption>Magical illumination scenes at Christmas Garden Lights</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Magical illumination scenes at Christmas Garden Lights</figcaption>
 </figure>
 
 ### ❄️ Limited Special Effects (Bubbles + Snow)
@@ -149,7 +149,7 @@ The snow-falling area reminiscent of "White Christmas" is the perfect spot for p
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-06.jpg" alt="Tokyo Midtown Christmas Garden Lights bubble and snow effect scenes">
-  <figcaption>Tokyo Midtown Christmas Garden Lights bubble and snow effect scenes</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Midtown Christmas Garden Lights bubble and snow effect scenes</figcaption>
 </figure>
 
 ---
@@ -167,7 +167,7 @@ With the theme of "Emotion Palette", this tree expresses various emotions in the
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-07.jpg" alt="Emotion Palette Tree, the main tree of Roppongi Tokyo Midtown Christmas">
-  <figcaption>Emotion Palette Tree, the main tree of Roppongi Tokyo Midtown Christmas</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Emotion Palette Tree, the main tree of Roppongi Tokyo Midtown Christmas</figcaption>
 </figure>
 
 ---
@@ -184,17 +184,17 @@ Elegant gold-toned lights warmly greet visitors from the garden entrance.
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-08.jpg" alt="Gold-toned light promenade night view at Roppongi Tokyo Midtown">
-  <figcaption>Gold-toned light promenade night view at Roppongi Tokyo Midtown</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Gold-toned light promenade night view at Roppongi Tokyo Midtown</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-09.jpg" alt="Illuminated staircase fountain along Roppongi Tokyo Midtown promenade">
-  <figcaption>Illuminated staircase fountain along Roppongi Tokyo Midtown promenade</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Illuminated staircase fountain along Roppongi Tokyo Midtown promenade</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-10.jpg" alt="Fountain stairs with lighting along the promenade">
-  <figcaption>Fountain stairs with lighting along the promenade</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Fountain stairs with lighting along the promenade</figcaption>
 </figure>
 
 ---
@@ -220,17 +220,17 @@ On Galleria 3F, there's a 'Santa Surprise' photo spot with "Boss Santa", an adve
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-11.jpg" alt="Gorgeous Christmas decorations inside Roppongi Midtown Galleria">
-  <figcaption>Gorgeous Christmas decorations inside Roppongi Midtown Galleria</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Gorgeous Christmas decorations inside Roppongi Midtown Galleria</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-12.jpg" alt="Santa Tree installed inside Roppongi Midtown Galleria">
-  <figcaption>Santa Tree installed inside Roppongi Midtown Galleria</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Santa Tree installed inside Roppongi Midtown Galleria</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-13.jpg" alt="Close-up of the indoor Santa Tree decorations">
-  <figcaption>Close-up of the indoor Santa Tree decorations</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Close-up of the indoor Santa Tree decorations</figcaption>
 </figure>
 
 ---
@@ -247,12 +247,12 @@ The Roppongi Midtown Christmas Market has a charming appeal different from Germa
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-14.jpg" alt="Roppongi Midtown B1F Christmas Marche panorama">
-  <figcaption>Roppongi Midtown B1F Christmas Marche panorama</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Midtown B1F Christmas Marche panorama</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-15.jpg" alt="Christmas Marche stalls and decorations">
-  <figcaption>Christmas Marche stalls and decorations</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Christmas Marche stalls and decorations</figcaption>
 </figure>
 
 ---
@@ -274,7 +274,7 @@ The highlight of Roppongi Christmas, an outdoor ice rink in the heart of the cit
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-16.jpg" alt="Roppongi Tokyo Midtown Ice Rink (Yunth MIDTOWN ICE RINK) night view">
-  <figcaption>Roppongi Tokyo Midtown Ice Rink (Yunth MIDTOWN ICE RINK) night view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Tokyo Midtown Ice Rink (Yunth MIDTOWN ICE RINK) night view</figcaption>
 </figure>
 
 ---
@@ -301,7 +301,7 @@ Be sure to refer to this when deciding your visit date.
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-17.jpg" alt="Finding hidden Santa decorations at Tokyo Midtown Christmas Garden Lights">
-  <figcaption>Finding hidden Santa decorations at Tokyo Midtown Christmas Garden Lights</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Finding hidden Santa decorations at Tokyo Midtown Christmas Garden Lights</figcaption>
 </figure>
 
 ---
@@ -330,7 +330,7 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-18.jpg" alt="Illumination view from Napule restaurant at Roppongi Midtown">
-  <figcaption>Illumination view from Napule restaurant at Roppongi Midtown</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Illumination view from Napule restaurant at Roppongi Midtown</figcaption>
 </figure>
 
 **④ Tsuru Tontan Roppongi (TsuruTonTan)**
@@ -369,7 +369,7 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-19.jpg" alt="Roppongi Tokyo Midtown PLEATS PLEASE ISSEY MIYAKE Store">
-  <figcaption>Roppongi Tokyo Midtown PLEATS PLEASE ISSEY MIYAKE Store</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Tokyo Midtown PLEATS PLEASE ISSEY MIYAKE Store</figcaption>
 </figure>
 
 ---

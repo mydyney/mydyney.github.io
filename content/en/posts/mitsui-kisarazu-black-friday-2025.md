@@ -19,7 +19,7 @@ Check out shuttle bus info, free luggage storage tips at a glance.</p>
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg" alt="Mitsui Outlet Park Kisarazu Black Friday Sale 2025">
-  <figcaption>Mitsui Outlet Park Kisarazu Black Friday Sale 2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Mitsui Outlet Park Kisarazu Black Friday Sale 2025</figcaption>
 </figure>
 
 Planning a Tokyo trip in November? Here's news you absolutely can't miss: Tokyo Black Friday 2025!
@@ -62,7 +62,7 @@ Here's the official discount information. I've organized the major brands.
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-02.jpg" alt="Céline store at Kisarazu Outlet Black Friday">
-  <figcaption>Céline store at Kisarazu Outlet Black Friday</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Céline store at Kisarazu Outlet Black Friday</figcaption>
 </figure>
 
 ### 2. Women's & Men's Fashion (Casual & Select Shops)
@@ -110,7 +110,7 @@ Many people ask about **Montbell** and **Snow Peak** - they are not included in 
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-03.jpg" alt="Nike outlet at Kisarazu Black Friday Sale 30% OFF">
-  <figcaption>Nike outlet at Kisarazu Black Friday Sale 30% OFF</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Nike outlet at Kisarazu Black Friday Sale 30% OFF</figcaption>
 </figure>
 
 ### 5. Shoes & Bags
@@ -136,7 +136,7 @@ Many people ask about **Montbell** and **Snow Peak** - they are not included in 
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-04.jpg" alt="DEAN & DELUCA store at Kisarazu Outlet Black Friday Sale">
-  <figcaption>DEAN & DELUCA store at Kisarazu Outlet Black Friday Sale</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">DEAN & DELUCA store at Kisarazu Outlet Black Friday Sale</figcaption>
 </figure>
 
 ---
@@ -176,7 +176,7 @@ A winter-exclusive event running concurrently with the Black Friday sale period!
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-05.jpg" alt="Pikachu plushies at Pokémon Store in Kisarazu Outlet">
-  <figcaption>Pikachu plushies at Pokémon Store in Kisarazu Outlet</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Pikachu plushies at Pokémon Store in Kisarazu Outlet</figcaption>
 </figure>
 
 ---
@@ -204,7 +204,7 @@ For comprehensive information on getting to Kisarazu Outlet (shuttle bus timetab
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-06.jpg" alt="Kisarazu Outlet bus stop (Tokyo Yaesu Bus Terminal, Shinjuku Busta, Haneda Airport connections)">
-  <figcaption>Kisarazu Outlet bus stop (Tokyo Yaesu Bus Terminal, Shinjuku Busta, Haneda Airport connections)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Kisarazu Outlet bus stop (Tokyo Yaesu Bus Terminal, Shinjuku Busta, Haneda Airport connections)</figcaption>
 </figure>
 
 ### 2. Luggage Storage is Free!
@@ -224,7 +224,7 @@ For comprehensive information on getting to Kisarazu Outlet (shuttle bus timetab
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-07.jpg" alt="Kaldi store Queen Amand spread at Kisarazu Outlet">
-  <figcaption>Kaldi store Queen Amand spread at Kisarazu Outlet</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Kaldi store Queen Amand spread at Kisarazu Outlet</figcaption>
 </figure>
 
 ---

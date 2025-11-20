@@ -19,7 +19,7 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg" alt="三井アウトレットパーク木更津 ブラックフライデーセール2025">
-  <figcaption>三井アウトレットパーク木更津 ブラックフライデーセール2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">三井アウトレットパーク木更津 ブラックフライデーセール2025</figcaption>
 </figure>
 
 11月に東京旅行を計画中ですか？それなら絶対に見逃せないニュース。東京ブラックフライデー2025です！
@@ -62,7 +62,7 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-02.jpg" alt="木更津アウトレット セリーヌ店舗 ブラックフライデー">
-  <figcaption>木更津アウトレット セリーヌ店舗 ブラックフライデー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津アウトレット セリーヌ店舗 ブラックフライデー</figcaption>
 </figure>
 
 ### 2. レディース・メンズファッション（カジュアル＆セレクトショップ）
@@ -110,7 +110,7 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-03.jpg" alt="木更津 ナイキアウトレット ブラックフライデーセール30％案内">
-  <figcaption>木更津 ナイキアウトレット ブラックフライデーセール30％案内</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津 ナイキアウトレット ブラックフライデーセール30％案内</figcaption>
 </figure>
 
 ### 5. シューズ＆バッグ
@@ -136,7 +136,7 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-04.jpg" alt="木更津アウトレット DEAN & DELUCA店舗 ブラックフライデーセール">
-  <figcaption>木更津アウトレット DEAN & DELUCA店舗 ブラックフライデーセール</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津アウトレット DEAN & DELUCA店舗 ブラックフライデーセール</figcaption>
 </figure>
 
 ---
@@ -176,7 +176,7 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-05.jpg" alt="木更津アウトレット ポケモンストア店舗のピカチュウぬいぐるみたち">
-  <figcaption>木更津アウトレット ポケモンストア店舗のピカチュウぬいぐるみたち</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津アウトレット ポケモンストア店舗のピカチュウぬいぐるみたち</figcaption>
 </figure>
 
 ---
@@ -204,7 +204,7 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-06.jpg" alt="木更津アウトレット バス停留所（東京八重洲バスターミナル、新宿バスタ、羽田空港連結）">
-  <figcaption>木更津アウトレット バス停留所（東京八重洲バスターミナル、新宿バスタ、羽田空港連結）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津アウトレット バス停留所（東京八重洲バスターミナル、新宿バスタ、羽田空港連結）</figcaption>
 </figure>
 
 ### 2. 荷物預かりは無料！
@@ -224,7 +224,7 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/mitsui-kisarazu-black-friday-2025-07.jpg" alt="木更津アウトレット カルディ店舗 クイーンアマンドスプレッド">
-  <figcaption>木更津アウトレット カルディ店舗 クイーンアマンドスプレッド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津アウトレット カルディ店舗 クイーンアマンドスプレッド</figcaption>
 </figure>
 
 ---

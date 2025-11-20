@@ -22,7 +22,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-01.jpg" alt="東京ディズニーランド完全ガイド">
-  <figcaption>東京ディズニーランド完全ガイド - チケット、DPA、午後パス</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド完全ガイド - チケット、DPA、午後パス</figcaption>
 </figure>
 
 ## 1. 東京ディズニーランド vs ディズニーシー：どちらを選ぶ？（完全比較）
@@ -78,7 +78,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-02.jpg" alt="ディズニーランド シンデレラ城とディズニーシー プロメテウス火山">
-  <figcaption>（左）ディズニーシー プロメテウス火山 /（右）ディズニーランド シンデレラ城</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">（左）ディズニーシー プロメテウス火山 /（右）ディズニーランド シンデレラ城</figcaption>
 </figure>
 
 ---
@@ -147,7 +147,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-03.jpg" alt="Klookアプリ 東京ディズニーランドチケット検索">
-  <figcaption><b>Klookアプリで「東京ディズニーランド」チケット検索画面</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Klookアプリで「東京ディズニーランド」チケット検索画面</b></figcaption>
 </figure>
 
 ### ④ [重要] 現在販売終了のチケット
@@ -201,7 +201,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-04.jpg" alt="DPAアプリ購入画面 美女と野獣とラプンツェル">
-  <figcaption>DPAアプリ購入：東京ディズニーランド 美女と野獣、ディズニーシー ラプンツェル</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">DPAアプリ購入：東京ディズニーランド 美女と野獣、ディズニーシー ラプンツェル</figcaption>
 </figure>
 
 ### ② [無料] 40周年記念プライオリティパス
@@ -244,7 +244,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-05.jpg" alt="40周年記念パス アプリ予約画面">
-  <figcaption>40周年記念パス アプリ予約：ディズニーランド ビッグサンダーマウンテン、ディズニーシー レイジングスピリッツ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">40周年記念パス アプリ予約：ディズニーランド ビッグサンダーマウンテン、ディズニーシー レイジングスピリッツ</figcaption>
 </figure>
 
 ### ③ 攻略のコツ！
@@ -342,7 +342,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-06.jpg" alt="抽選とDPA画面">
-  <figcaption>東京ディズニーランドショー、ディズニーシーショー - 抽選画面、DPAも利用可能</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランドショー、ディズニーシーショー - 抽選画面、DPAも利用可能</figcaption>
 </figure>
 
 ### ③ [攻略のコツ] 戦略は？
@@ -462,7 +462,7 @@ S.S.コロンビア・ダイニングルーム（アメリカンウォーター�
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-07.jpg" alt="エイリアン・モチ 緑色のエイリアン形モチスナック">
-  <figcaption>緑色のリトルグリーンメン形モチスナック ディズニースナックカップ入り</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">緑色のリトルグリーンメン形モチスナック ディズニースナックカップ入り</figcaption>
 </figure>
 
 ---
@@ -565,7 +565,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-08.jpg" alt="東京ディズニーランド 美女と野獣アトラクション">
-  <figcaption>東京ディズニーランド 美女と野獣</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド 美女と野獣</figcaption>
 </figure>
 
 ---
@@ -620,7 +620,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-09.jpg" alt="ヒルトン東京ベイ オフィシャルホテル">
-  <figcaption><b>東京ディズニーリゾート・オフィシャルホテル：ヒルトン東京ベイ</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>東京ディズニーリゾート・オフィシャルホテル：ヒルトン東京ベイ</b></figcaption>
 </figure>
 
 ---
@@ -653,7 +653,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-10.jpg" alt="東京ディズニーランド プーさんのハニーハント">
-  <figcaption>東京ディズニーランド プーさんのハニーハント</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド プーさんのハニーハント</figcaption>
 </figure>
 
 ---
@@ -679,7 +679,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-11.jpg" alt="東京ディズニーランド モンスターズ・インク">
-  <figcaption>東京ディズニーランド モンスターズ・インク</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド モンスターズ・インク</figcaption>
 </figure>
 
 ---

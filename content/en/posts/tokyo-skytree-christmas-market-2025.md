@@ -104,14 +104,14 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-01.jpg" alt="Tokyo Skytree Christmas Market 2025 and illuminated 4th floor Sky Arena night view">
-  <figcaption>Tokyo Skytree Christmas Market 2025 and illuminated 4th floor Sky Arena night view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree Christmas Market 2025 and illuminated 4th floor Sky Arena night view</figcaption>
 </figure>
 
 <p>The Tokyo Skytree Christmas Market 2025 officially opened on November 6th. Celebrating its 10th anniversary this year, the 4th floor Sky Arena has been transformed into a fairytale wonderland with the theme <strong>"Christmas Market in a Picture Book"</strong>.</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-02.jpg" alt="Tokyo Skytree 1st floor Sky Arena 'Christmas Market in a Picture Book' panoramic view 2025">
-  <figcaption>Tokyo Skytree 1st floor Sky Arena 'Christmas Market in a Picture Book' panoramic view 2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree 1st floor Sky Arena 'Christmas Market in a Picture Book' panoramic view 2025</figcaption>
 </figure>
 
 <h2>🎄 2025 Official Schedule, Hours & Location</h2>
@@ -151,7 +151,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-03.jpg" alt="Christmas market stalls and visitors at Tokyo Skytree 4th floor Sky Arena 2025">
-  <figcaption>Christmas market stalls and visitors at Tokyo Skytree 4th floor Sky Arena 2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Christmas market stalls and visitors at Tokyo Skytree 4th floor Sky Arena 2025</figcaption>
 </figure>
 
 <h2>🚇 How to Get to Skytree Christmas Market</h2>
@@ -172,17 +172,17 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-04.jpg" alt="Oshiage Station Exit B3 connected to Tokyo Skytree">
-  <figcaption>Oshiage Station Exit B3 connected to Tokyo Skytree</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Oshiage Station Exit B3 connected to Tokyo Skytree</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-05.jpg" alt="Golden Christmas illumination at Tokyo Skytree 1st floor plaza">
-  <figcaption>Golden Christmas illumination at Tokyo Skytree 1st floor plaza</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Golden Christmas illumination at Tokyo Skytree 1st floor plaza</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-06.jpg" alt="Outdoor escalator leading to 4th floor Sky Arena Christmas Market">
-  <figcaption>Outdoor escalator leading to 4th floor Sky Arena Christmas Market</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Outdoor escalator leading to 4th floor Sky Arena Christmas Market</figcaption>
 </figure>
 
 <h2>🎁 2025 Christmas Market New Menu (3 Items)</h2>
@@ -201,7 +201,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-07.jpg" alt="4-meter giant stollen being sliced and sold at Tokyo Skytree Christmas Market 2025">
-  <figcaption>4-meter giant stollen being sliced and sold at Tokyo Skytree Christmas Market 2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">4-meter giant stollen being sliced and sold at Tokyo Skytree Christmas Market 2025</figcaption>
 </figure>
 
 <h3>2. Handmade Fresh Baumkuchen</h3>
@@ -210,7 +210,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-08.jpg" alt="Freshly baked handmade baumkuchen - new menu item at Tokyo Skytree Christmas Market 2025">
-  <figcaption>Freshly baked handmade baumkuchen - new menu item at Tokyo Skytree Christmas Market 2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Freshly baked handmade baumkuchen - new menu item at Tokyo Skytree Christmas Market 2025</figcaption>
 </figure>
 
 <h3>3. 🍩 Handmade Donuts</h3>
@@ -219,7 +219,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-09.jpg" alt="Handmade donuts - new menu item at Tokyo Skytree Christmas Market 2025">
-  <figcaption>Handmade donuts - new menu item at Tokyo Skytree Christmas Market 2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Handmade donuts - new menu item at Tokyo Skytree Christmas Market 2025</figcaption>
 </figure>
 
 <h2>🎅 Market Food & Attractions Summary</h2>
@@ -230,7 +230,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-10.jpg" alt="Christmas market hut displaying traditional German Erzgebirge wooden figurines and ornaments">
-  <figcaption>Christmas market hut displaying traditional German Erzgebirge wooden figurines and ornaments</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Christmas market hut displaying traditional German Erzgebirge wooden figurines and ornaments</figcaption>
 </figure>
 
 <h3>2. Signature Food Lineup</h3>
@@ -248,12 +248,12 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-11.jpg" alt="German sausage and potato plate at Tokyo Skytree Christmas Market">
-  <figcaption>German sausage and potato plate at Tokyo Skytree Christmas Market</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">German sausage and potato plate at Tokyo Skytree Christmas Market</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-12.jpg" alt="Tokyo Skytree Christmas Market 2025 limited edition mug and warm glühwein">
-  <figcaption>Tokyo Skytree Christmas Market 2025 limited edition mug and warm glühwein</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree Christmas Market 2025 limited edition mug and warm glühwein</figcaption>
 </figure>
 
 <h3>3. Christmas Goods & Souvenirs</h3>
@@ -268,7 +268,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-13.jpg" alt="Christmas market shop selling nutcracker dolls and German Erzgebirge figurines and goods">
-  <figcaption>Christmas market shop selling nutcracker dolls and German Erzgebirge figurines and goods</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Christmas market shop selling nutcracker dolls and German Erzgebirge figurines and goods</figcaption>
 </figure>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1rem;">
@@ -307,12 +307,12 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-16.jpg" alt="Tokyo Skytree Christmas special lighting in 3 types (Ornament, Elegant, Santa Claus)">
-  <figcaption>Tokyo Skytree Christmas special lighting in 3 types (Ornament, Elegant, Santa Claus)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree Christmas special lighting in 3 types (Ornament, Elegant, Santa Claus)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-17.jpg" alt="Tokyo Skytree observation deck illuminated">
-  <figcaption>Tokyo Skytree observation deck illuminated</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree observation deck illuminated</figcaption>
 </figure>
 
 <h2>📸 Best 3 Christmas Photo Spots</h2>
@@ -323,12 +323,12 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-18.jpg" alt="Main Christmas tree and Skytree tower at Tokyo Skytree 4th floor Sky Arena 2025">
-  <figcaption>Main Christmas tree and Skytree tower at Tokyo Skytree 4th floor Sky Arena 2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Main Christmas tree and Skytree tower at Tokyo Skytree 4th floor Sky Arena 2025</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-19.jpg" alt="Close-up view of Sky Arena's main Christmas tree">
-  <figcaption>Close-up view of Sky Arena's main Christmas tree</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Close-up view of Sky Arena's main Christmas tree</figcaption>
 </figure>
 
 <h3>⭐ 2) 1st Floor Illumination Zone</h3>
@@ -337,7 +337,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-20.jpg" alt="Tokyo Skytree Town 1st floor illumination photo zone decorated with golden lights">
-  <figcaption>Tokyo Skytree Town 1st floor illumination photo zone decorated with golden lights</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree Town 1st floor illumination photo zone decorated with golden lights</figcaption>
 </figure>
 
 <h3>⭐ 3) Outdoor Escalator (1F → 4F)</h3>
@@ -346,7 +346,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-21.jpg" alt="Outdoor escalator leading to 4th floor market with Skytree tower backdrop">
-  <figcaption>Outdoor escalator leading to 4th floor market with Skytree tower backdrop</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Outdoor escalator leading to 4th floor market with Skytree tower backdrop</figcaption>
 </figure>
 
 <h2>🎪 Skytree Winter Events</h2>
@@ -363,7 +363,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-22.jpg" alt="Inside Tokyo Skytree observation deck with night view through windows">
-  <figcaption>Inside Tokyo Skytree observation deck with night view through windows</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Inside Tokyo Skytree observation deck with night view through windows</figcaption>
 </figure>
 
 <h3>② Spotted Garden Eel Christmas Tree (Aquarium)</h3>
@@ -376,7 +376,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-23.jpg" alt="Sumida Aquarium entrance located on 5th floor of Tokyo Skytree">
-  <figcaption>Sumida Aquarium entrance located on 5th floor of Tokyo Skytree</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sumida Aquarium entrance located on 5th floor of Tokyo Skytree</figcaption>
 </figure>
 
 <h3>③ Laid-Back Camp△ 10th Anniversary Exhibition</h3>
@@ -389,7 +389,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-24.jpg" alt="Official poster for Laid-Back Camp 10th anniversary exhibition at Tokyo Skytree">
-  <figcaption>Official poster for Laid-Back Camp 10th anniversary exhibition at Tokyo Skytree</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Official poster for Laid-Back Camp 10th anniversary exhibition at Tokyo Skytree</figcaption>
 </figure>
 
 <h3>④ The Apothecary Diaries Original Art Exhibition</h3>
@@ -402,7 +402,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-25.jpg" alt="The Apothecary Diaries original art exhibition at Tokyo Skytree">
-  <figcaption>The Apothecary Diaries original art exhibition at Tokyo Skytree</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">The Apothecary Diaries original art exhibition at Tokyo Skytree</figcaption>
 </figure>
 
 <h3>⑤ Christmas Violin Live (Free)</h3>
@@ -415,7 +415,7 @@ Essential winter destination in Tokyo, check it out now!</p>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-26.jpg" alt="Christmas illumination and decorative installations at Tokyo Skytree Town">
-  <figcaption>Christmas illumination and decorative installations at Tokyo Skytree Town</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Christmas illumination and decorative installations at Tokyo Skytree Town</figcaption>
 </figure>
 
 <h2>💡 Q&A (Tickets, Night Views & Restaurant Tips)</h2>
@@ -428,7 +428,7 @@ A. If you're going to the observatory, advance booking is essential during Chris
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-27.jpg" alt="Tokyo Skytree observation deck information based on weather conditions">
-  <figcaption>Tokyo Skytree observation deck information based on weather conditions</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree observation deck information based on weather conditions</figcaption>
 </figure>
 
 <p><strong>Q. What's the difference between Skytree night view vs illumination?</strong><br>
@@ -443,17 +443,17 @@ A. Tokyo Skytree's restaurants are concentrated in the 'Tokyo Solamachi' shoppin
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-28.jpg" alt="Conveyor belt sushi at 'Toriton' restaurant in Tokyo Skytree Solamachi">
-  <figcaption>Conveyor belt sushi at 'Toriton' restaurant in Tokyo Skytree Solamachi</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Conveyor belt sushi at 'Toriton' restaurant in Tokyo Skytree Solamachi</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-29.jpg" alt="Tsukemen at 'Rokurinsha' restaurant in Tokyo Skytree Solamachi">
-  <figcaption>Tsukemen at 'Rokurinsha' restaurant in Tokyo Skytree Solamachi</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tsukemen at 'Rokurinsha' restaurant in Tokyo Skytree Solamachi</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-christmas-market-2025-30.jpg" alt="Matcha ice cream parfait at 'Gion Tsujiri' in Tokyo Skytree Solamachi">
-  <figcaption>Matcha ice cream parfait at 'Gion Tsujiri' in Tokyo Skytree Solamachi</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Matcha ice cream parfait at 'Gion Tsujiri' in Tokyo Skytree Solamachi</figcaption>
 </figure>
 
 <h2>🎯 2025 Tokyo Winter Recommended Itinerary</h2>

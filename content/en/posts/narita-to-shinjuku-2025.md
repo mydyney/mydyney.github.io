@@ -19,7 +19,7 @@ Choose the perfect Narita-Shinjuku route that fits your budget and schedule.</p>
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-01.jpg" alt="Narita Airport to Shinjuku - Narita Express vs Airport Limousine comparison">
-  <figcaption>How to Get from Narita Airport to Shinjuku - Narita Express (N'EX) vs Airport Limousine (Source: JR East)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">How to Get from Narita Airport to Shinjuku - Narita Express (N'EX) vs Airport Limousine (Source: JR East)</figcaption>
 </figure>
 
 ## Narita Airport → Shinjuku: 2 Routes at a Glance
@@ -177,7 +177,7 @@ the fastest, most comfortable, and most punctual method."
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-02.jpg" alt="Narita Express ticket machine at Narita Airport Terminal 1">
-  <figcaption>Narita Express (N'EX) ticket vending machine at Narita Airport Terminal 1</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Narita Express (N'EX) ticket vending machine at Narita Airport Terminal 1</figcaption>
 </figure>
 
 ---
@@ -426,7 +426,7 @@ if you're staying at hotels like Washington Hotel listed above, the limousine bu
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-03.jpg" alt="Airport Limousine ticket counter at Narita Airport Terminal 1">
-  <figcaption>Airport Limousine ticket counter at Narita Airport Terminal 1</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Airport Limousine ticket counter at Narita Airport Terminal 1</figcaption>
 </figure>
 
 ---

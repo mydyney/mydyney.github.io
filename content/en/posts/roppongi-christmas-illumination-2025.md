@@ -104,7 +104,7 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-01.jpg" alt="2025 Roppongi Hills Christmas Illumination">
-  <figcaption>2025 Roppongi Hills Christmas Illumination</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Roppongi Hills Christmas Illumination</figcaption>
 </figure>
 
 <p>The 2025 Roppongi Illumination has finally begun. We've perfectly compiled this year's official schedule and lighting times for Keyakizaka Street, 66 Plaza Tree, Mori Garden, and the Christmas Market.</p>
@@ -167,7 +167,7 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-02.jpg" alt="2025 Roppongi Hills Keyakizaka Street SNOW&BLUE Illumination Night View">
-  <figcaption>2025 Roppongi Hills Keyakizaka Street SNOW&BLUE Illumination Night View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Roppongi Hills Keyakizaka Street SNOW&BLUE Illumination Night View</figcaption>
 </figure>
 
 <h2>🚇 How to Get to Roppongi Illumination (Fastest Route)</h2>
@@ -184,7 +184,7 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-03.jpg" alt="66 Plaza connected by escalator from Roppongi Station Hibiya Line">
-  <figcaption>66 Plaza connected by escalator from Roppongi Station Hibiya Line</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">66 Plaza connected by escalator from Roppongi Station Hibiya Line</figcaption>
 </figure>
 
 <h2>✨ 2025 Roppongi Illumination Detailed Information</h2>
@@ -201,7 +201,7 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-04.jpg" alt="Roppongi Illumination Official Photo Spot B Point Keyakizaka Illumination (in front of Emporio Armani)">
-  <figcaption>Roppongi Illumination Official Photo Spot B Point - Keyakizaka Illumination (Emporio Armani)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Illumination Official Photo Spot B Point - Keyakizaka Illumination (Emporio Armani)</figcaption>
 </figure>
 
 <h3>🧡 66 Plaza "Luminous Bouquet"</h3>
@@ -217,7 +217,7 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-05.jpg" alt="Roppongi Hills 66 Plaza Christmas Tree Luminous Bouquet in front of Maman">
-  <figcaption>Roppongi Hills 66 Plaza Christmas Tree Luminous Bouquet in front of Maman</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Hills 66 Plaza Christmas Tree Luminous Bouquet in front of Maman</figcaption>
 </figure>
 
 <h3>💚 Mori Garden</h3>
@@ -232,7 +232,7 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-06.jpg" alt="Roppongi Hills Mori Garden Christmas Illumination">
-  <figcaption>Roppongi Hills Mori Garden Christmas Illumination</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Hills Mori Garden Christmas Illumination</figcaption>
 </figure>
 
 <h2>📸 Official Photo Spots BEST 5 (2025 Official Map)</h2>
@@ -246,7 +246,7 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-07.jpg" alt="2025 Roppongi Illumination Official Photo Spots A, C, D, E Map">
-  <figcaption>2025 Roppongi Illumination Official Photo Spots A, C, D, E Map</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Roppongi Illumination Official Photo Spots A, C, D, E Map</figcaption>
 </figure>
 
 <h2>📍 Recommended Photo Spots Not on the Map (Pedestrian Bridge & Louis Vuitton)</h2>
@@ -255,12 +255,12 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-08.jpg" alt="Roppongi Illumination Must-Visit Photo Spot Keyakizaka Pedestrian Bridge">
-  <figcaption>Roppongi Illumination Must-Visit Photo Spot - Keyakizaka Pedestrian Bridge</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Illumination Must-Visit Photo Spot - Keyakizaka Pedestrian Bridge</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-09.jpg" alt="Roppongi Illumination Must-Visit Photo Spot Keyakizaka Pedestrian Bridge with People">
-  <figcaption>Roppongi Illumination Must-Visit Photo Spot - Keyakizaka Pedestrian Bridge with People</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Illumination Must-Visit Photo Spot - Keyakizaka Pedestrian Bridge with People</figcaption>
 </figure>
 
 <p><strong>2. Louis Vuitton Crosswalk</strong> <strong>📍</strong> <a href="https://maps.app.goo.gl/u2WgQP29jpdbNtCX8" target="_blank" rel="noopener noreferrer">View Map</a><br>
@@ -268,12 +268,12 @@ Essential Tokyo winter travel guide to Roppongi Hills.</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-10.jpg" alt="Roppongi Illumination Spot Louis Vuitton Crosswalk">
-  <figcaption>Roppongi Illumination Spot - Louis Vuitton Crosswalk</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Illumination Spot - Louis Vuitton Crosswalk</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-11.jpg" alt="Roppongi Illumination Photo Spot SNOW&BLUE viewed from Louis Vuitton">
-  <figcaption>Roppongi Illumination Photo Spot SNOW&BLUE viewed from Louis Vuitton</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Illumination Photo Spot SNOW&BLUE viewed from Louis Vuitton</figcaption>
 </figure>
 
 <h2>🎅 Roppongi Hills Christmas Market 2025</h2>
@@ -297,7 +297,7 @@ Enjoy German goods from "Käthe Wohlfahrt" and Glühwein (warm wine).</p>
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-12.jpg" alt="Roppongi Hills Christmas Market 2025 German-style booths and Glühwein">
-  <figcaption>Roppongi Hills Christmas Market 2025 - German-style booths and Glühwein</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Hills Christmas Market 2025 - German-style booths and Glühwein</figcaption>
 </figure>
 
 <p><strong>🎄 Curious about other Christmas markets in Tokyo?</strong><br>
@@ -315,7 +315,7 @@ In addition to Roppongi, check out our guide for all Tokyo Christmas markets in 
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-13.jpg" alt="2025 Roppongi Hills New Event JRA Zoetrope and Tiffany Whirling Wish installation">
-  <figcaption>2025 Roppongi Hills New Event - JRA Zoetrope and Tiffany Whirling Wish</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Roppongi Hills New Event - JRA Zoetrope and Tiffany Whirling Wish</figcaption>
 </figure>
 
 <h3>3. Whirling Wish – Tiffany & Co.</h3>
@@ -324,7 +324,7 @@ In addition to Roppongi, check out our guide for all Tokyo Christmas markets in 
 
 <figure>
   <img src="/images/posts/roppongi-christmas-illumination-2025-14.jpg" alt="Roppongi Hills Christmas Tiffany Tree">
-  <figcaption>Roppongi Hills Christmas Tiffany Tree</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Hills Christmas Tiffany Tree</figcaption>
 </figure>
 
 <h2>💡 Roppongi Illumination Q&A</h2>

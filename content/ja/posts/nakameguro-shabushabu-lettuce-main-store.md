@@ -24,7 +24,7 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg" alt="中目黒 レタスしゃぶしゃぶ本店 2階の入口">
-  <figcaption>中目黒 レタスしゃぶしゃぶ本店 2階の入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">中目黒 レタスしゃぶしゃぶ本店 2階の入口</figcaption>
 </figure>
 
 ---
@@ -46,7 +46,7 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-02.jpg" alt="レタスしゃぶしゃぶ 1人1鍋システム 個別コンロ付き">
-  <figcaption>レタスしゃぶしゃぶ 1人1鍋システム 個別コンロ付き</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">レタスしゃぶしゃぶ 1人1鍋システム 個別コンロ付き</figcaption>
 </figure>
 
 ---
@@ -100,12 +100,12 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-03.jpg" alt="レタスしゃぶしゃぶ 無制限タレバー 8種類">
-  <figcaption>レタスしゃぶしゃぶ 無制限タレバー 8種類</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">レタスしゃぶしゃぶ 無制限タレバー 8種類</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-04.jpg" alt="タレバーのおすすめ組み合わせレシピ">
-  <figcaption>タレバーのおすすめ組み合わせレシピ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">タレバーのおすすめ組み合わせレシピ</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -146,7 +146,7 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-05.jpg" alt="平日ランチセットメニュー 3つの価格帯">
-  <figcaption>平日ランチセットメニュー 3つの価格帯</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">平日ランチセットメニュー 3つの価格帯</figcaption>
 </figure>
 
 ---
@@ -166,12 +166,12 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-06.jpg" alt="プレミアム牛タンと豚肉の組み合わせセット">
-  <figcaption>プレミアム牛タンと豚肉の組み合わせセット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">プレミアム牛タンと豚肉の組み合わせセット</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-07.jpg" alt="新鮮な季節の野菜盛り合わせ">
-  <figcaption>新鮮な季節の野菜盛り合わせ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新鮮な季節の野菜盛り合わせ</figcaption>
 </figure>
 
 ---
@@ -200,7 +200,7 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 
 <figure>
   <img src="/images/posts/nakameguro-shabushabu-lettuce-main-store-08.jpg" alt="中目黒駅周辺 位置マップ">
-  <figcaption>中目黒駅周辺 位置マップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">中目黒駅周辺 位置マップ</figcaption>
 </figure>
 
 <div style="margin: 2rem 0;">

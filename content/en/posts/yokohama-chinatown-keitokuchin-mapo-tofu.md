@@ -21,7 +21,7 @@ And spice level selection tips!</p>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg" alt="Yokohama Chinatown restaurant Keitokuchin">
-  <figcaption>Yokohama Chinatown restaurant Keitokuchin</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Chinatown restaurant Keitokuchin</figcaption>
 </figure>
 
 ---
@@ -44,7 +44,7 @@ It's highly popular even among locals.</p>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-02.jpg" alt="Keitokuchin's traditional exterior in Yokohama Chinatown">
-  <figcaption>Keitokuchin's traditional exterior in Yokohama Chinatown</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Keitokuchin's traditional exterior in Yokohama Chinatown</figcaption>
 </figure>
 
 ---
@@ -72,7 +72,7 @@ The safest and most delicious choice.</p>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-03.jpg" alt="Keitokuchin's signature Sichuan mapo tofu, 麻婆豆腐 (mapo dofu)">
-  <figcaption>Keitokuchin's signature Sichuan mapo tofu, 麻婆豆腐 (mapo dofu)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Keitokuchin's signature Sichuan mapo tofu, 麻婆豆腐 (mapo dofu)</figcaption>
 </figure>
 
 ---
@@ -92,22 +92,22 @@ Be sure to try it!</p>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-04.jpg" alt="Keitokuchin's xiaolongbao, 小籠包 (xiao long bao)">
-  <figcaption>Keitokuchin's xiaolongbao, 小籠包 (xiao long bao)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Keitokuchin's xiaolongbao, 小籠包 (xiao long bao)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-05.jpg" alt="Keitokuchin's sweet and sour pork, 酢豚 (subuta)">
-  <figcaption>Keitokuchin's sweet and sour pork, 酢豚 (subuta)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Keitokuchin's sweet and sour pork, 酢豚 (subuta)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-06.jpg" alt="Keitokuchin's fried rice, チャーハン (chahan)">
-  <figcaption>Keitokuchin's fried rice, チャーハン (chahan)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Keitokuchin's fried rice, チャーハン (chahan)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-07.jpg" alt="Keitokuchin's green pepper steak, 青椒肉絲 (chinjaorosu)">
-  <figcaption>Keitokuchin's green pepper steak, 青椒肉絲 (chinjaorosu)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Keitokuchin's green pepper steak, 青椒肉絲 (chinjaorosu)</figcaption>
 </figure>
 
 ---
@@ -133,7 +133,7 @@ Be sure to try it!</p>
 
 <figure>
   <img src="/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-08.jpg" alt="Akai Kutsu Bus Chinatown stop">
-  <figcaption>Akai Kutsu Bus Chinatown stop</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Akai Kutsu Bus Chinatown stop</figcaption>
 </figure>
 
 <div style="margin: 2rem 0;">
