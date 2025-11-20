@@ -99,134 +99,6 @@ def extract_naver_images(html_content):
     return images
 
 
-def extract_hugo_images(md_content):
-    """
-    Hugo 마크다운에서 모든 이미지를 순서대로 추출
-    - 단일 figure 태그와 image-group 내부의 figure 모두 감지
-
-    Returns:
-        list: [{'path': str, 'caption': str, 'type': str}, ...]
-    """
-    images = []
-
-    # 1. featured_image 추출 (Front Matter)
-    featured_match = re.search(r'featured_image:\s*"(/images/posts/[^"]+)"', md_content)
-    if featured_match:
-        images.append({
-            'path': featured_match.group(1),
-            'caption': 'Featured image',
-            'type': 'featured'
-        })
-
-    # 2. body images 추출
-    # 패턴: <figure> 내부의 <img> 태그를 모두 찾음 (단일 figure 또는 image-group 내부 모두 포함)
-    # <figure>와 </figure> 사이에 있는 <img> 태그만 매칭
-    figure_pattern = re.compile(
-        r'<figure[^>]*>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)"[^>]*>',
-        re.DOTALL
-    )
-
-    for match in figure_pattern.finditer(md_content):
-        images.append({
-            'path': match.group(1),
-            'alt': match.group(2),
-            'caption': "Body image",
-            'type': 'body'
-        })
-
-    return images
-
-
-def validate_image_mapping(naver_images, hugo_images, post_slug):
-    """
-    네이버와 Hugo 이미지를 비교하여 검증
-
-    Returns:
-        bool: 검증 통과 여부
-    """
-    print("\n" + "="*80)
-    print(f"🔍 이미지 순서 검증: {post_slug}")
-    print("="*80)
-
-    # Featured image와 body images 분리
-    featured_img = None
-    body_images = []
-
-    for img in hugo_images:
-        if img.get('type') == 'featured':
-            featured_img = img
-        else:
-            body_images.append(img)
-
-    print(f"\n📊 이미지 개수:")
-    print(f"   네이버 HTML: {len(naver_images)}개")
-    print(f"   Hugo 마크다운: {len(body_images)}개 (body images)")
-    if featured_img:
-        print(f"   Featured image: {featured_img['path']} (검증에서 제외)")
-
-    # 이미지 개수 확인
-    if len(body_images) == 0:
-        print("\n❌ Hugo 마크다운에 body 이미지가 없습니다!")
-        return False
-
-    # 네이버 이미지 개수 = Hugo body 이미지 개수 (1:1 매칭)
-    naver_count = len(naver_images)
-    hugo_count = len(body_images)
-
-    if naver_count != hugo_count:
-        print(f"\n❌ 이미지 개수 불일치!")
-        print(f"   차이: {abs(naver_count - hugo_count)}개")
-
-        if hugo_count > naver_count:
-            print(f"\n⚠️  Hugo에 {hugo_count - naver_count}개의 추가 이미지가 있습니다!")
-            print(f"   네이버에 없는 이미지를 Hugo에서 삭제해야 합니다.")
-        else:
-            print(f"\n⚠️  Hugo에 {naver_count - hugo_count}개의 이미지가 부족합니다!")
-            print(f"   Hugo 마크다운에 이미지를 추가해야 합니다.")
-
-        print("\n💡 수정 방법:")
-        print("   1. Hugo 마크다운 파일을 열어 이미지 개수를 확인하세요")
-        print("   2. 네이버 HTML과 동일한 개수로 맞추세요")
-        print("   3. 다시 이 스크립트를 실행하세요")
-        return False
-
-    # 순서 검증
-    print(f"\n📋 이미지 매핑 검증:")
-    print("-" * 80)
-
-    all_match = True
-    for i in range(naver_count):
-        naver_img = naver_images[i]
-        hugo_img = body_images[i]  # body images와 1:1 매칭
-
-        expected_num = str(i + 1).zfill(2)  # 01, 02, 03...
-        actual_num_match = re.search(r'-(\d+)\.jpg', hugo_img['path'])
-        actual_num = actual_num_match.group(1) if actual_num_match else "??"
-
-        match_status = "✅" if expected_num == actual_num else "❌"
-
-        print(f"{match_status} 이미지 #{i+1}:")
-        print(f"   네이버: {naver_img['caption'][:60]}")
-        print(f"   Hugo:   {hugo_img.get('caption', hugo_img.get('alt', ''))[:60]}")
-        print(f"   파일:   {post_slug}-{actual_num}.jpg (예상: {expected_num}.jpg)")
-
-        if expected_num != actual_num:
-            all_match = False
-
-    print("\n" + "="*80)
-
-    if all_match:
-        print("✅ 검증 통과! 이미지 다운로드를 시작합니다.")
-        return True
-    else:
-        print("❌ 검증 실패! 이미지 순서를 수정한 후 다시 시도하세요.")
-        print("\n💡 수정 방법:")
-        print("   1. Hugo 마크다운에서 이미지 번호가 순차적인지 확인")
-        print("   2. 01, 02, 03, 04, 05... (누락 없이)")
-        print("   3. 네이버에 없는 이미지를 Hugo에서 삭제")
-        return False
-
-
 def download_image(url, save_dir, post_slug, index):
     """이미지 다운로드 및 JPG로 변환"""
     try:
@@ -280,26 +152,9 @@ def main():
         print(f"❌ HTML 파일을 찾을 수 없습니다: {html_file}")
         sys.exit(1)
 
-    # 2. Hugo 마크다운 파일 확인
-    md_file_en = Path(f"content/en/posts/{post_slug}.md")
-    md_file_ja = Path(f"content/ja/posts/{post_slug}.md")
-
-    md_file = None
-    if md_file_en.exists():
-        md_file = md_file_en
-    elif md_file_ja.exists():
-        md_file = md_file_ja
-    else:
-        print(f"❌ Hugo 마크다운 파일을 찾을 수 없습니다:")
-        print(f"   - {md_file_en}")
-        print(f"   - {md_file_ja}")
-        print("\n💡 먼저 Hugo 마크다운 파일을 작성한 후 이미지를 다운로드하세요.")
-        sys.exit(1)
-
     print(f"📖 읽기: {html_file}")
-    print(f"📖 읽기: {md_file}")
 
-    # 3. 네이버 HTML에서 이미지 추출
+    # 2. 네이버 HTML에서 이미지 추출
     with open(html_file, 'r', encoding='utf-8') as f:
         html_content = f.read()
 
@@ -311,37 +166,15 @@ def main():
         sys.exit(1)
 
     print(f"✓ 발견된 이미지: {len(naver_images)}개")
-    for i, img in enumerate(naver_images[:3], 1):
-        print(f"   {i}. {img['caption'][:50]}...")
-    if len(naver_images) > 3:
-        print(f"   ... 외 {len(naver_images) - 3}개")
+    for i, img in enumerate(naver_images[:5], 1):
+        print(f"   {i}. {img['caption'][:60]}...")
+    if len(naver_images) > 5:
+        print(f"   ... 외 {len(naver_images) - 5}개")
 
-    # 4. Hugo 마크다운에서 이미지 추출
-    print("\n🔍 Hugo 마크다운 분석 중...")
-    with open(md_file, 'r', encoding='utf-8') as f:
-        md_content = f.read()
-
-    hugo_images = extract_hugo_images(md_content)
-
-    if not hugo_images:
-        print("❌ Hugo 마크다운에 이미지가 없습니다.")
-        print("\n💡 먼저 Hugo 마크다운에 <figure> 태그로 이미지를 추가하세요.")
-        sys.exit(1)
-
-    print(f"✓ 발견된 이미지: {len(hugo_images)}개")
-
-    # 5. 검증
-    is_valid = validate_image_mapping(naver_images, hugo_images, post_slug)
-
-    if not is_valid:
-        print("\n" + "="*80)
-        print("🛑 검증 실패로 다운로드를 중단합니다.")
-        print("="*80)
-        sys.exit(1)
-
-    # 6. 다운로드 시작
+    # 3. 다운로드 시작
     print("\n" + "="*80)
     print("💾 이미지 다운로드 시작")
+    print(f"   순서대로 01.jpg ~ {len(naver_images):02d}.jpg 로 저장합니다")
     print("="*80)
 
     save_dir = Path('static/images/posts')
@@ -355,7 +188,7 @@ def main():
         if filename:
             success_count += 1
 
-    # 7. 완료
+    # 4. 완료
     print("\n" + "="*80)
     print("✅ 다운로드 완료!")
     print("="*80)
