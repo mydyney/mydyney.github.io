@@ -30,7 +30,7 @@ starting right now!</p>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-02.jpg" alt="Map showing Ikebukuro's contrasting East and West Exit areas">
-  <figcaption>Ikebukuro - East and West are like two completely different cities!</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro - East and West are like two completely different cities!</figcaption>
 </figure>
 
 ---
@@ -53,12 +53,12 @@ This guide will introduce you to the perfect itinerary to enjoy the charms of bo
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-03.jpg" alt="Ikebukuro Station East Exit (Higashiguchi)">
-  <figcaption>Ikebukuro Station East Exit (Higashiguchi)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro Station East Exit (Higashiguchi)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-04.jpg" alt="Lively street scene at Ikebukuro East Exit">
-  <figcaption>Vibrant street scene at Ikebukuro East Exit</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Vibrant street scene at Ikebukuro East Exit</figcaption>
 </figure>
 
 ---
@@ -79,7 +79,7 @@ For just **500 yen for adults / 250 yen for children**, we highly recommend the 
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-05.jpg" alt="Cute red IKEBUS electric bus">
-  <figcaption>Ikebukuro sightseeing essential - the adorable red IKEBUS</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro sightseeing essential - the adorable red IKEBUS</figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ An overwhelmingly large Pokémon sanctuary. From limited edition goods to the "P
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-06.jpg" alt="Pokémon Center Mega Tokyo and Pikachu Sweets Cafe">
-  <figcaption><b>Ikebukuro Pokémon Center Mega Tokyo</b> Pikachu Sweets Cafe</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Ikebukuro Pokémon Center Mega Tokyo</b> Pikachu Sweets Cafe</figcaption>
 </figure>
 
 **😊 Sunshine Aquarium:**
@@ -111,7 +111,7 @@ Various events and performances are held at the fountain square in the center of
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-07.jpg" alt="Ikebukuro Sunshine City Pokémon Center Mega Tokyo">
-  <figcaption>Ikebukuro Sunshine City Pokémon Center Mega Tokyo</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro Sunshine City Pokémon Center Mega Tokyo</figcaption>
 </figure>
 
 ### 2. Animate Flagship Store & Otome Road
@@ -122,12 +122,12 @@ The world's largest **"Animate Ikebukuro Flagship Store"** and the densely packe
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-08.jpg" alt="Animate Ikebukuro Flagship Store">
-  <figcaption>Animate Ikebukuro Flagship Store</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Animate Ikebukuro Flagship Store</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-09.jpg" alt="Animate Cafe Stand Hareza Ikebukuro in Naka-Ikebukuro Park">
-  <figcaption>Animate Cafe Stand Hareza Ikebukuro in Naka-Ikebukuro Park</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Animate Cafe Stand Hareza Ikebukuro in Naka-Ikebukuro Park</figcaption>
 </figure>
 
 <figure>
@@ -136,7 +136,7 @@ The world's largest **"Animate Ikebukuro Flagship Store"** and the densely packe
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-11.jpg" alt="K-BOOKS location guide">
-  <figcaption>K-BOOKS location map - anime, manga, idol goods, doujinshi specialty stores</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">K-BOOKS location map - anime, manga, idol goods, doujinshi specialty stores</figcaption>
 </figure>
 
 ### 3. Anime Tokyo Station (アニメ東京ステーション)
@@ -161,7 +161,7 @@ The **10th-floor rooftop garden**, called "Toshima no Mori" (Toshima Forest), is
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-13.jpg" alt="Toshima Ward Office 10th floor free observatory and rest area, Toshima no Mori">
-  <figcaption>Toshima Ward Office 10th floor free observatory & rest area - "Toshima no Mori" <a href="https://www15.j-server.com/LUCTOSHIMA/ns/tl.cgi/https%3a//www.city.toshima.lg.jp/chosha/10f.html?SLANG=ja&TLANG=ko&XMODE=0&XPARAM=q,&XCHARSET=utf-8&XPORG=,&XJSID=0" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Toshima Ward Office 10th floor free observatory & rest area - "Toshima no Mori" <a href="https://www15.j-server.com/LUCTOSHIMA/ns/tl.cgi/https%3a//www.city.toshima.lg.jp/chosha/10f.html?SLANG=ja&TLANG=ko&XMODE=0&XPARAM=q,&XCHARSET=utf-8&XPORG=,&XJSID=0" target="_blank">(Source)</a></figcaption>
 </figure>
 
 ### 5. Major Department Stores & Shopping Malls
@@ -210,7 +210,7 @@ Tabelog Top 100 Udon Shops. The signature dish is "tsuke udon" with incredibly c
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-14.jpg" alt="Ramen Gokan (五感) Ikebukuro Michelin Bib Gourmand Ramen">
-  <figcaption>Ramen Gokan (五感) Ikebukuro Michelin Bib Gourmand Ramen</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ramen Gokan (五感) Ikebukuro Michelin Bib Gourmand Ramen</figcaption>
 </figure>
 
 ### 2. Other Restaurants & Cafes
@@ -243,7 +243,7 @@ Near Animate
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-15.jpg" alt="I'm donut Ikebukuro branch">
-  <figcaption>I'm donut Ikebukuro branch</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">I'm donut Ikebukuro branch</figcaption>
 </figure>
 
 ---
@@ -266,7 +266,7 @@ When night falls, colorful lights illuminate it, making it a great place to rela
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="Tokyo Metropolitan Theatre">
-  <figcaption><b>Global Ring Theatre and Tokyo Metropolitan Theatre</b> <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Global Ring Theatre and Tokyo Metropolitan Theatre</b> <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 ### 2. West Exit Gourmet
@@ -297,7 +297,7 @@ A unique creative curry restaurant, as the name "Mars Curry" suggests
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-19.jpg" alt="Ikebukuro symbol owl statue">
-  <figcaption>Ikebukuro's symbol - owl (fukuro) statue</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro's symbol - owl (fukuro) statue</figcaption>
 </figure>
 
 ---
@@ -315,7 +315,7 @@ As the new Halloween mecca replacing "Shibuya," be sure to visit if the timing w
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-20.jpg" alt="Ikebukuro Halloween Cosplay Festival">
-  <figcaption><b>Ikebukuro Halloween Cosplay Festival</b> <a href="https://ikebukurocosplay.jp/en/" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Ikebukuro Halloween Cosplay Festival</b> <a href="https://ikebukurocosplay.jp/en/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 ---

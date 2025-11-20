@@ -30,7 +30,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-02.jpg" alt="池袋の対照的な東口と西口エリアを示す地図">
-  <figcaption>池袋 - 東と西は全く違う二つの都市！</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋 - 東と西は全く違う二つの都市！</figcaption>
 </figure>
 
 ---
@@ -53,12 +53,12 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-03.jpg" alt="池袋駅東口(ひがしぐち)">
-  <figcaption>池袋駅東口(ひがしぐち)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋駅東口(ひがしぐち)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-04.jpg" alt="池袋東口の賑やかな街並み">
-  <figcaption>池袋東口の活気ある街並み</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋東口の活気ある街並み</figcaption>
 </figure>
 
 ---
@@ -79,7 +79,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-05.jpg" alt="可愛い赤いIKEBUS電気バス">
-  <figcaption>池袋観光の必需品 - 愛らしい赤いIKEBUS</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋観光の必需品 - 愛らしい赤いIKEBUS</figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-06.jpg" alt="ポケモンセンターメガトウキョーとピカチュウスイーツカフェ">
-  <figcaption><b>池袋ポケモンセンターメガトウキョー</b> ピカチュウスイーツカフェ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>池袋ポケモンセンターメガトウキョー</b> ピカチュウスイーツカフェ</figcaption>
 </figure>
 
 **😊 サンシャイン水族館：**
@@ -111,7 +111,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-07.jpg" alt="池袋サンシャインシティポケモンセンターメガトウキョー">
-  <figcaption>池袋サンシャインシティポケモンセンターメガトウキョー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋サンシャインシティポケモンセンターメガトウキョー</figcaption>
 </figure>
 
 ### 2. アニメイト本店 & 乙女ロード
@@ -122,12 +122,12 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-08.jpg" alt="アニメイト池袋本店">
-  <figcaption>アニメイト池袋本店</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">アニメイト池袋本店</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-09.jpg" alt="中池袋公園のアニメイトカフェスタンドHareza池袋">
-  <figcaption>中池袋公園のアニメイトカフェスタンドHareza池袋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">中池袋公園のアニメイトカフェスタンドHareza池袋</figcaption>
 </figure>
 
 <figure>
@@ -136,7 +136,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-11.jpg" alt="K-BOOKS位置ガイド">
-  <figcaption>K-BOOKS位置図 - アニメ・マンガ・アイドルグッズ・同人誌専門店</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">K-BOOKS位置図 - アニメ・マンガ・アイドルグッズ・同人誌専門店</figcaption>
 </figure>
 
 ### 3. アニメ東京ステーション(アニメ東京ステーション)
@@ -161,7 +161,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-13.jpg" alt="豊島区役所10階無料展望台と休憩所、豊島の森">
-  <figcaption>豊島区役所10階無料展望台&休憩所 - 「豊島の森」 <a href="https://www15.j-server.com/LUCTOSHIMA/ns/tl.cgi/https%3a//www.city.toshima.lg.jp/chosha/10f.html?SLANG=ja&TLANG=ko&XMODE=0&XPARAM=q,&XCHARSET=utf-8&XPORG=,&XJSID=0" target="_blank">(出典)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">豊島区役所10階無料展望台&休憩所 - 「豊島の森」 <a href="https://www15.j-server.com/LUCTOSHIMA/ns/tl.cgi/https%3a//www.city.toshima.lg.jp/chosha/10f.html?SLANG=ja&TLANG=ko&XMODE=0&XPARAM=q,&XCHARSET=utf-8&XPORG=,&XJSID=0" target="_blank">(出典)</a></figcaption>
 </figure>
 
 ### 5. 大型百貨店&ショッピングモール
@@ -210,7 +210,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-14.jpg" alt="ラーメン五感(五感) 池袋ミシュランビブグルマンラーメン">
-  <figcaption>ラーメン五感(五感) 池袋ミシュランビブグルマンラーメン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ラーメン五感(五感) 池袋ミシュランビブグルマンラーメン</figcaption>
 </figure>
 
 ### 2. その他のレストラン&カフェ
@@ -243,7 +243,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-15.jpg" alt="I'm donut池袋店">
-  <figcaption>I'm donut池袋店</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">I'm donut池袋店</figcaption>
 </figure>
 
 ---
@@ -266,7 +266,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="東京芸術劇場">
-  <figcaption><b>グローバルリングシアターと東京芸術劇場</b> <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(出典)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>グローバルリングシアターと東京芸術劇場</b> <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(出典)</a></figcaption>
 </figure>
 
 ### 2. 西口グルメ
@@ -297,7 +297,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-19.jpg" alt="池袋のシンボルふくろう像">
-  <figcaption>池袋のシンボル - ふくろう(ふくろう)像</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋のシンボル - ふくろう(ふくろう)像</figcaption>
 </figure>
 
 ---
@@ -315,7 +315,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-20.jpg" alt="池袋ハロウィンコスプレフェスティバル">
-  <figcaption><b>池袋ハロウィンコスプレフェスティバル</b> <a href="https://ikebukurocosplay.jp/en/" target="_blank">(出典)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>池袋ハロウィンコスプレフェスティバル</b> <a href="https://ikebukurocosplay.jp/en/" target="_blank">(出典)</a></figcaption>
 </figure>
 
 ---
