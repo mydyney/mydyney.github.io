@@ -249,10 +249,10 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 <h2>🎄 2025年東京のクリスマス</h2>
 
 <p><strong>🚶 核心だけ！東京クリスマス3泊4日旅行日程</strong></p>
-<p><strong>➡️ <a href="/ja/posts/tokyo-christmas-3-day-itinerary/">東京3泊4日クリスマスイルミネーションおすすめコース＆クリスマスマーケット完全ガイド</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/">東京3泊4日クリスマスイルミネーションおすすめコース＆クリスマスマーケット完全ガイド</a></strong></p>
 
 <p><strong>🌟 11月4日開始 六本木ヒルズイルミネーション</strong></p>
-<p><strong>➡️ <a href="/ja/posts/roppongi-hills-christmas-2025/">六本木イルミネーション2025：期間、時間、必須スポット完全ガイド</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/roppongi-christmas-illumination-2025/">六本木イルミネーション2025：期間、時間、必須スポット完全ガイド</a></strong></p>
 
 <p><strong>🌟 11月6日開始 東京スカイツリークリスマスマーケット</strong></p>
 <p><strong>➡️ <a href="/ja/posts/tokyo-skytree-christmas-market-2025/">2025東京スカイツリークリスマスマーケット完全ガイド</a></strong></p>
