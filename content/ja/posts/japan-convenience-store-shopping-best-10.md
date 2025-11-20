@@ -21,8 +21,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 日本旅行の完璧ガイド!</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-02.jpg" alt="日本3大コンビニ：セブンイレブン、ファミリーマート、ローソン比較">
-  <figcaption>日本3大コンビニ：セブンイレブン、ファミリーマート、ローソン比較</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-01.jpg" alt="日本3大コンビニ：セブンイレブン、ファミリーマート、ローソン比較">
+  <figcaption style="font-size: 0.7em; text-align: center;">日本3大コンビニ：セブンイレブン、ファミリーマート、ローソン比較</figcaption>
 </figure>
 
 ---
@@ -43,8 +43,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 シグネチャー商品と強みがあります！</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-03.jpg" alt="セブンイレブンの店舗外観 緑、オレンジ、赤のストライプ">
-  <figcaption>セブンイレブンの店舗外観 緑、オレンジ、赤のストライプ</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-02.jpg" alt="セブンイレブンの店舗外観 緑、オレンジ、赤のストライプ">
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブンの店舗外観 緑、オレンジ、赤のストライプ</figcaption>
 </figure>
 
 ---
@@ -79,15 +79,15 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-04.jpg" alt="ファミリーマートの店舗外観 青と緑のブランディング">
-  <figcaption>ファミリーマートの店舗外観 青と緑のブランディング</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-05.jpg" alt="ローソンの店舗外観 象徴的な青い看板">
-  <figcaption>ローソンの店舗外観 象徴的な青い看板</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-03.jpg" alt="ファミリーマートの店舗外観 青と緑のブランディング">
+  </figure>
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-04.jpg" alt="ローソンの店舗外観 象徴的な青い看板">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">ファミリーマート（左）とローソン（右）の店舗外観</figcaption>
+</div>
 
 ---
 
@@ -124,8 +124,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-06.jpg" alt="セブンイレブンの有名なたまごサンド ふわふわたまごサラダ">
-  <figcaption>セブンイレブンの有名なたまごサンド ふわふわたまごサラダ</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-05.jpg" alt="セブンイレブンの有名なたまごサンド ふわふわたまごサラダ">
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブンの有名なたまごサンド ふわふわたまごサラダ</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -155,15 +155,15 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
   </ul>
 </div>
 
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-07.jpg" alt="ローソン Uchi Cafe プレミアムロールケーキ シグネチャーデザート">
-  <figcaption>ローソン Uchi Cafe プレミアムロールケーキ シグネチャーデザート</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-08.jpg" alt="ローソン バスクチーズケーキ プレミアム焦がしチーズケーキ">
-  <figcaption>ローソン バスクチーズケーキ プレミアム焦がしチーズケーキ</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-06.jpg" alt="ローソン Uchi Cafe プレミアムロールケーキ シグネチャーデザート">
+  </figure>
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-07.jpg" alt="ローソン バスクチーズケーキ プレミアム焦がしチーズケーキ">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">ローソン Uchi Cafe：プレミアムロールケーキ（左）とバスクチーズケーキ（右）</figcaption>
+</div>
 
 ---
 
@@ -187,8 +187,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-09.jpg" alt="ファミリーマートの伝説のファミチキ唐揚げ">
-  <figcaption>ファミリーマートの伝説のファミチキ唐揚げ</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-08.jpg" alt="ファミリーマートの伝説のファミチキ唐揚げ">
+  <figcaption style="font-size: 0.7em; text-align: center;">ファミリーマートの伝説のファミチキ唐揚げ</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -216,15 +216,15 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
   </ul>
 </div>
 
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-10.jpg" alt="セブンイレブン フローズンスムージードリンク 夏のお気に入り">
-  <figcaption>セブンイレブン フローズンスムージードリンク 夏のお気に入り</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-11.jpg" alt="ファミリーマート フラッペ コーヒーとデザートフレーバー">
-  <figcaption>ファミリーマート フラッペ コーヒーとデザートフレーバー</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-09.jpg" alt="セブンイレブン フローズンスムージードリンク 夏のお気に入り">
+  </figure>
+  <figure>
+    <img src="/images/posts/japan-convenience-store-shopping-best-10-10.jpg" alt="ファミリーマート フラッペ コーヒーとデザートフレーバー">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブン フローズンドリンク（左）とファミリーマート フラッペ（右）</figcaption>
+</div>
 
 ---
 
@@ -252,8 +252,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-12.jpg" alt="セブンイレブン限定レストランコラボカップラーメン">
-  <figcaption>セブンイレブン限定レストランコラボカップラーメン</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-11.jpg" alt="セブンイレブン限定レストランコラボカップラーメン">
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブン限定レストランコラボカップラーメン</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -282,8 +282,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-13.jpg" alt="セブンイレブン 燻製卵 完璧に味付けされたスナック">
-  <figcaption>セブンイレブン 燻製卵 完璧に味付けされたスナック</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-12.jpg" alt="セブンイレブン 燻製卵 完璧に味付けされたスナック">
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブン 燻製卵 完璧に味付けされたスナック</figcaption>
 </figure>
 
 ---
@@ -309,8 +309,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-14.jpg" alt="コンビニの限定ビールとハイボールの品揃え">
-  <figcaption>コンビニの限定ビールとハイボールの品揃え</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-13.jpg" alt="コンビニの限定ビールとハイボールの品揃え">
+  <figcaption style="font-size: 0.7em; text-align: center;">コンビニの限定ビールとハイボールの品揃え</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -342,8 +342,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-15.jpg" alt="ファミリーマート限定LINE Friendsキャラクター靴下">
-  <figcaption>ファミリーマート限定LINE Friendsキャラクター靴下</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-14.jpg" alt="ファミリーマート限定LINE Friendsキャラクター靴下">
+  <figcaption style="font-size: 0.7em; text-align: center;">ファミリーマート限定LINE Friendsキャラクター靴下</figcaption>
 </figure>
 
 ---
@@ -368,8 +368,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-16.jpg" alt="白くまアイスクリーム 日本の夏の定番デザート">
-  <figcaption>白くまアイスクリーム 日本の夏の定番デザート</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-15.jpg" alt="白くまアイスクリーム 日本の夏の定番デザート">
+  <figcaption style="font-size: 0.7em; text-align: center;">白くまアイスクリーム 日本の夏の定番デザート</figcaption>
 </figure>
 
 ---
@@ -397,8 +397,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-17.jpg" alt="ツナマヨおにぎり 日本で最も人気のおにぎり">
-  <figcaption>ツナマヨおにぎり 日本で最も人気のおにぎり</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-16.jpg" alt="ツナマヨおにぎり 日本で最も人気のおにぎり">
+  <figcaption style="font-size: 0.7em; text-align: center;">ツナマヨおにぎり 日本で最も人気のおにぎり</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -433,8 +433,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-18.jpg" alt="コンビニおでんバー だし汁の鍋料理具材">
-  <figcaption>コンビニおでんバー だし汁の鍋料理具材</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-17.jpg" alt="コンビニおでんバー だし汁の鍋料理具材">
+  <figcaption style="font-size: 0.7em; text-align: center;">コンビニおでんバー だし汁の鍋料理具材</figcaption>
 </figure>
 
 <div class="tip-box">
@@ -458,8 +458,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 ❌ <strong>「大丈夫です」</strong>と答えると温めません</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-19.jpg" alt="コンビニ電子レンジ加熱サービス">
-  <figcaption>コンビニ電子レンジ加熱サービス</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-18.jpg" alt="コンビニ電子レンジ加熱サービス">
+  <figcaption style="font-size: 0.7em; text-align: center;">コンビニ電子レンジ加熱サービス</figcaption>
 </figure>
 
 ---
@@ -491,8 +491,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-20.jpg" alt="セブンイレブンのSEVEN Bank ATM 国際カード対応">
-  <figcaption>セブンイレブンのSEVEN Bank ATM 国際カード対応</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-19.jpg" alt="セブンイレブンのSEVEN Bank ATM 国際カード対応">
+  <figcaption style="font-size: 0.7em; text-align: center;">セブンイレブンのSEVEN Bank ATM 国際カード対応</figcaption>
 </figure>
 
 ---
@@ -508,8 +508,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 <strong>割引シール</strong>を探しましょう。</p>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-21.jpg" alt="午後9時以降の弁当割引シール">
-  <figcaption>午後9時以降の弁当割引シール</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-20.jpg" alt="午後9時以降の弁当割引シール">
+  <figcaption style="font-size: 0.7em; text-align: center;">午後9時以降の弁当割引シール</figcaption>
 </figure>
 
 ---
@@ -537,8 +537,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 </div>
 
 <figure>
-  <img src="/images/posts/japan-convenience-store-shopping-best-10-22.jpg" alt="キャベジンとパンシロン コンビニで人気の消化薬">
-  <figcaption>キャベジンとパンシロン コンビニで人気の消化薬</figcaption>
+  <img src="/images/posts/japan-convenience-store-shopping-best-10-21.jpg" alt="キャベジンとパンシロン コンビニで人気の消化薬">
+  <figcaption style="font-size: 0.7em; text-align: center;">キャベジンとパンシロン コンビニで人気の消化薬</figcaption>
 </figure>
 
 ---

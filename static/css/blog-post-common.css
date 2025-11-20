@@ -77,8 +77,74 @@ blockquote {
   margin: 1.5rem 0;
 }
 
+/* 이미지 그룹 (2개, 3개, 4개 나란히 배치) */
+.image-group-2,
+.image-group-3,
+.image-group-4 {
+  display: grid !important;
+  gap: 1rem;
+  margin: 2rem auto;
+  align-items: start;
+}
+
+/* 2개 나란히: 최대 너비 80% */
+.image-group-2 {
+  grid-template-columns: 1fr 1fr !important;
+  max-width: 80%;
+}
+
+/* 3개 나란히: 최대 너비 65% */
+.image-group-3 {
+  grid-template-columns: 1fr 1fr 1fr !important;
+  max-width: 65%;
+}
+
+/* 4개 나란히: 최대 너비 50% */
+.image-group-4 {
+  grid-template-columns: 1fr 1fr 1fr 1fr !important;
+  max-width: 50%;
+}
+
+.image-group-2 figure,
+.image-group-3 figure,
+.image-group-4 figure {
+  margin: 0 !important;
+  display: flex;
+  flex-direction: column;
+}
+
+.image-group-2 img,
+.image-group-3 img,
+.image-group-4 img {
+  margin: 0 !important;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  display: block;
+}
+
+/* 그룹 전체에 대한 figcaption */
+.image-group-2 > figcaption,
+.image-group-3 > figcaption,
+.image-group-4 > figcaption {
+  grid-column: 1 / -1;
+  margin-top: 0.5rem;
+  text-align: center !important;
+  font-size: 0.7em !important;
+  color: #666;
+}
+
+/* 모바일에서는 단일 컬럼으로 변경 */
 @media (max-width: 768px) {
   .blog-container { font-size: 0.95rem; }
   .info-box { padding: 1rem; }
   .schedule-table { font-size: 0.85rem; }
+
+  .image-group-2,
+  .image-group-3,
+  .image-group-4 {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
 }

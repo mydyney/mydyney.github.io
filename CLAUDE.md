@@ -478,13 +478,18 @@ tokyo-ramen-street-02.jpg
 - The `download_naver_images.py` script saves all images as `.jpg`
 - Use `.jpg` for consistency and optimal web performance
 
-**📊 Image Numbering Structure:**
-- **`{slug}-01.jpg`**: Featured image (Front Matter `featured_image` field)
-  - Used for social media previews and meta tags
-  - Typically the same as the first body image but serves different purposes
-- **`{slug}-02.jpg` and up**: Body images (displayed in post content)
-  - `02.jpg`: First image in post body (after intro paragraph)
-  - `03.jpg`, `04.jpg`, etc.: Subsequent images in order
+**📊 Image Numbering Structure (1:1 Matching):**
+- **`{slug}-01.jpg`**: First image (used in both `featured_image` field AND first `<figure>` in body)
+  - Serves dual purpose: social media preview + first visible image
+- **`{slug}-02.jpg` and up**: Subsequent images in sequential order
+  - `02.jpg`: Second image in post
+  - `03.jpg`, `04.jpg`, etc.: Following images in order
+
+**⚠️ CRITICAL: 1:1 Matching Rule**
+- Naver HTML image count = Hugo markdown image count (exact match)
+- If Naver has 22 images → Hugo must have 22 images (01.jpg through 22.jpg)
+- **No separate counting** for featured vs body images anymore
+- `featured_image` field uses the same 01.jpg that appears as first `<figure>` in body
 
 **Example:**
 ```yaml
@@ -493,17 +498,20 @@ featured_image: "/images/posts/tokyo-guide-01.jpg"  # Social media preview
 
 # Body (after intro paragraph)
 <figure>
-  <img src="/images/posts/tokyo-guide-02.jpg" alt="...">  # First visible image
+  <img src="/images/posts/tokyo-guide-01.jpg" alt="...">  # Same image as featured
 </figure>
 <figure>
-  <img src="/images/posts/tokyo-guide-03.jpg" alt="...">  # Second image
+  <img src="/images/posts/tokyo-guide-02.jpg" alt="...">  # Second image
+</figure>
+<figure>
+  <img src="/images/posts/tokyo-guide-03.jpg" alt="...">  # Third image
 </figure>
 ```
 
 **💡 Important:**
-- Total images = body images + 1 (featured image)
-- If post has 21 body images, total is 22 images (01.jpg through 22.jpg)
-- Featured image (01.jpg) and first body image (02.jpg) are often the same visual
+- Total images in Hugo = Total images in Naver HTML (1:1)
+- If post has 22 images in Naver, create 22 `<figure>` tags in Hugo (01.jpg through 22.jpg)
+- Featured_image field and first body image use the **same** 01.jpg file
 
 **Storage Location:**
 ```
@@ -566,12 +574,69 @@ Final line wrapping up intro.</p>
 ```
 
 **Image Format (Using `<figure>` Tags):**
+
+**Single Images:**
 ```html
 <figure>
-  <img src="/images/posts/post-slug-01.jpg" alt="Descriptive alt text">
-  <figcaption>Image caption in Korean/English/Japanese</figcaption>
+  <img src="/images/posts/post-slug-02.jpg" alt="Descriptive alt text">
+  <figcaption style="font-size: 0.7em; text-align: center;">Image caption</figcaption>
 </figure>
 ```
+
+**Grouped Images (2, 3, or 4 images side-by-side):**
+
+When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use CSS Grid layout:
+
+```html
+<!-- 2 images side-by-side -->
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/post-slug-10.jpg" alt="First image">
+  </figure>
+  <figure>
+    <img src="/images/posts/post-slug-11.jpg" alt="Second image">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">Caption for both images</figcaption>
+</div>
+
+<!-- 3 images side-by-side -->
+<div class="image-group-3">
+  <figure>
+    <img src="/images/posts/post-slug-12.jpg" alt="First image">
+  </figure>
+  <figure>
+    <img src="/images/posts/post-slug-13.jpg" alt="Second image">
+  </figure>
+  <figure>
+    <img src="/images/posts/post-slug-14.jpg" alt="Third image">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">Caption for all three images</figcaption>
+</div>
+
+<!-- 4 images side-by-side -->
+<div class="image-group-4">
+  <figure>
+    <img src="/images/posts/post-slug-15.jpg" alt="...">
+  </figure>
+  <figure>
+    <img src="/images/posts/post-slug-16.jpg" alt="...">
+  </figure>
+  <figure>
+    <img src="/images/posts/post-slug-17.jpg" alt="...">
+  </figure>
+  <figure>
+    <img src="/images/posts/post-slug-18.jpg" alt="...">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">Caption for all four images</figcaption>
+</div>
+```
+
+**Important Notes:**
+- ✅ All figcaptions MUST use inline style: `style="font-size: 0.7em; text-align: center;"`
+- ✅ For image groups, figcaption goes OUTSIDE individual `<figure>` tags
+- ✅ Each image in a group gets its own `<figure>` tag with unique number
+- ✅ CSS Grid automatically arranges images horizontally (desktop) or vertically (mobile)
+- ✅ Max-width constraints: 2 images (80%), 3 images (90%), 4 images (100%)
 
 **Google Maps Embed (Location Information):**
 
@@ -638,7 +703,22 @@ All blog posts share common styles through `/static/css/blog-post-common.css`.
 .schedule-table        /* Styled table for schedules */
 .tip-box               /* Yellow tip/warning box */
 blockquote             /* Blue left-border quotations */
+
+/* Image Group Layout (Side-by-Side) */
+.image-group-2         /* 2 images horizontally (80% max-width) */
+.image-group-3         /* 3 images horizontally (90% max-width) */
+.image-group-4         /* 4 images horizontally (100% max-width) */
 ```
+
+**CSS Grid Image Groups:**
+- Uses CSS Grid for side-by-side layout on desktop
+- Automatically switches to single column on mobile (< 768px)
+- Different max-width constraints for natural sizing:
+  - 2 images: 80% of container width
+  - 3 images: 90% of container width
+  - 4 images: 100% of container width
+- Centered with `margin: 2rem auto`
+- Preserves aspect ratios with `height: auto`
 
 **Complete Example:**
 ```html
@@ -662,13 +742,29 @@ From attractions to restaurants,<br>
 Complete information at a glance.</p>
 
 <figure>
-  <img src="/images/posts/tokyo-guide-01.jpg" alt="Tokyo cityscape">
-  <figcaption>Tokyo cityscape</figcaption>
+  <img src="/images/posts/tokyo-guide-02.jpg" alt="Tokyo cityscape">
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo cityscape</figcaption>
 </figure>
 
 <p>Introduction paragraph...</p>
 
 <h2>Section Title</h2>
+
+<figure>
+  <img src="/images/posts/tokyo-guide-03.jpg" alt="Another image">
+  <figcaption style="font-size: 0.7em; text-align: center;">Image description</figcaption>
+</figure>
+
+<!-- Example of grouped images (2 side-by-side) -->
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/tokyo-guide-04.jpg" alt="First image">
+  </figure>
+  <figure>
+    <img src="/images/posts/tokyo-guide-05.jpg" alt="Second image">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">Caption for both images</figcaption>
+</div>
 
 <div class="info-box">
   <ul>
@@ -695,8 +791,10 @@ Complete information at a glance.</p>
 
 **Important Notes:**
 - ✅ DO use common CSS classes from `blog-post-common.css`
-- ❌ DO NOT add inline `<style>` blocks in posts
+- ❌ DO NOT add inline `<style>` blocks in posts (except for figcaption styling)
 - ✅ Wrap content in `<div class="blog-container">` for consistent styling
+- ✅ ALL figcaptions MUST have inline style: `style="font-size: 0.7em; text-align: center;"`
+- ✅ Use `.image-group-2/3/4` classes for side-by-side image layouts
 - 🎨 CSS is automatically loaded via `layouts/partials/head-additions.html`
 
 **CSS Files:**
@@ -785,8 +883,10 @@ Change `6` to desired number.
 
 **Blog Post Styling:**
 - Use shared CSS file: `/static/css/blog-post-common.css`
-- Available classes: `.blog-container`, `.info-box`, `.schedule-table`, `.tip-box`
-- DO NOT add `<style>` blocks in individual posts
+- Available classes: `.blog-container`, `.info-box`, `.schedule-table`, `.tip-box`, `.image-group-2/3/4`
+- DO NOT add `<style>` blocks in individual posts (except figcaption inline styles)
+- ALL figcaptions MUST use: `style="font-size: 0.7em; text-align: center;"`
+- Use `.image-group-N` for side-by-side image layouts (2, 3, or 4 images)
 - For new styles, add to `blog-post-common.css` for reusability
 
 **Commit Messages:**
@@ -961,7 +1061,7 @@ git push
 | File | Purpose | Notes |
 |------|---------|-------|
 | `static/css/blog-cards.css` | Blog card styles for post listings | Modern magazine-style cards with gradients |
-| `static/css/blog-post-common.css` | Shared styles for blog post content | Classes: `.blog-container`, `.info-box`, `.schedule-table`, `.tip-box` |
+| `static/css/blog-post-common.css` | Shared styles for blog post content | Classes: `.blog-container`, `.info-box`, `.schedule-table`, `.tip-box`, `.image-group-2/3/4` |
 | `static/css/related-posts.css` | Related posts sidebar styles | Compact horizontal card layout with thumbnails |
 | `layouts/partials/head-additions.html` | CSS loader for custom styles | Automatically loads all three CSS files |
 | `layouts/partials/menu-contextual.html` | Related posts sidebar component | Custom partial overriding theme default, displays up to 6 related posts |
@@ -1226,12 +1326,12 @@ See `/LINK_MAPPING.md` for complete tracking database with 30 mapped posts.
 - Script performs automated validation:
   - Analyzes Naver HTML (extracts all images, removes ad blocks)
   - Handles image groups (2-4 images) correctly
-  - Validates against Hugo markdown (count, order, sequential numbering)
+  - Validates against Hugo markdown with **1:1 matching** (count, order, sequential numbering)
   - Reports detailed errors if validation fails
 - Only downloads images if validation passes:
   - Downloads to `/static/images/posts/` with naming: `{post-slug}-{number}.jpg`
   - Converts to JPG format with optimization
-  - Numbers sequentially: 01.jpg (featured), 02.jpg+ (body images)
+  - Numbers sequentially: **01.jpg, 02.jpg, 03.jpg...** (1:1 matching with Naver order)
 - If validation fails:
   - Fix Hugo markdown based on error report
   - Re-run script until validation passes
@@ -1293,11 +1393,28 @@ git push
 - ✅ **HTML Parsing:** Uses BeautifulSoup to extract images from Naver HTML
 - ✅ **Ad Block Removal:** Automatically removes `ssp-adcontent`, `ad_power_content_wrap`, `data-ad` elements
 - ✅ **Image Group Detection:** Handles Naver image groups (2-4 images) correctly
-- ✅ **Validation First:** Validates image count, order, and sequential numbering BEFORE downloading
+- ✅ **1:1 Matching Validation:** Validates image count, order, and sequential numbering with exact 1:1 match BEFORE downloading
 - ✅ **Detailed Error Reports:** Shows exactly what's wrong if validation fails
 - ✅ **Smart Download:** Only downloads if validation passes (saves time/bandwidth)
 - ✅ **Format Conversion:** Converts all images to JPG with optimization
-- ✅ **Sequential Numbering:** 01.jpg (featured), 02.jpg+ (body images)
+- ✅ **Sequential Numbering:** 01.jpg, 02.jpg, 03.jpg... (1:1 matching with Naver HTML order)
+- ✅ **CSS Grid Support:** Detects images inside `.image-group-2/3/4` divs correctly
+
+**Regex Pattern for Hugo Markdown:**
+```python
+# Extracts ALL <figure> tags (standalone and inside image-group divs)
+figure_pattern = re.compile(
+    r'<figure[^>]*>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)"[^>]*>',
+    re.DOTALL
+)
+```
+
+**Pattern Features:**
+- `<figure[^>]*>` - Matches `<figure>` tag with any attributes
+- `[^>]*` after `<img>` - Allows additional attributes on img tag
+- **Does NOT require closing `</figure>`** - This allows matching figures inside `.image-group-N` divs where figcaption is outside individual figures
+- `re.DOTALL` - Allows `.` to match newlines (multi-line patterns)
+- **Works with CSS Grid layouts** - Detects all figures regardless of container structure
 
 **Usage:**
 ```bash
@@ -1314,10 +1431,10 @@ pip3 install requests pillow beautifulsoup4 lxml
 
 **Workflow:**
 1. Reads Naver HTML → extracts all images in order
-2. Reads Hugo markdown → extracts featured_image + body images
-3. Validates: count match, sequential numbering (02, 03, 04...)
+2. Reads Hugo markdown → extracts all images (featured_image + all `<figure>` tags)
+3. Validates with **1:1 matching**: exact count match, sequential numbering (01, 02, 03...)
 4. If validation fails → shows detailed error report, exits
-5. If validation passes → downloads all images, converts to JPG
+5. If validation passes → downloads all images sequentially, converts to JPG
 
 **See:** `README_IMAGE_DOWNLOAD.md` for comprehensive documentation
 
@@ -1414,9 +1531,18 @@ Build Output:    /public/
 
 ## Document Maintenance
 
-**Last Updated:** 2025-11-16
+**Last Updated:** 2025-11-20
 **Updated By:** Claude (AI Assistant)
 **Next Review:** When significant project changes occur
+
+**Recent Updates (2025-11-20):**
+- **BREAKING CHANGE:** Simplified image validation to 1:1 matching (removed featured image exclusion logic)
+- Updated `download_naver_images.py` validation: Naver count = Hugo count (exact match)
+- Changed sequential numbering: 01, 02, 03... (previously 02, 03, 04...)
+- Updated regex pattern to detect images inside CSS Grid `.image-group-2/3/4` divs
+- Featured_image field and first body image now use the **same** 01.jpg file
+- Added figcaption styling standard (font-size: 0.7em, center-aligned)
+- Documented CSS Grid image group layout (`.image-group-2/3/4`)
 
 **Update This Document When:**
 - Project structure changes significantly
