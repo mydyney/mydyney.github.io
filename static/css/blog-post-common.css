@@ -81,28 +81,34 @@ blockquote {
 .image-group-2,
 .image-group-3,
 .image-group-4 {
-  display: grid;
+  display: grid !important;
   gap: 1rem;
-  margin: 2rem 0;
+  margin: 2rem auto;
   align-items: start;
 }
 
+/* 2개 나란히: 최대 너비 80% */
 .image-group-2 {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: 1fr 1fr !important;
+  max-width: 80%;
 }
 
+/* 3개 나란히: 최대 너비 90% */
 .image-group-3 {
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: 1fr 1fr 1fr !important;
+  max-width: 90%;
 }
 
+/* 4개 나란히: 최대 너비 100% */
 .image-group-4 {
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: 1fr 1fr 1fr 1fr !important;
+  max-width: 100%;
 }
 
 .image-group-2 figure,
 .image-group-3 figure,
 .image-group-4 figure {
-  margin: 0;
+  margin: 0 !important;
   display: flex;
   flex-direction: column;
 }
@@ -115,6 +121,7 @@ blockquote {
   height: auto;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  display: block;
 }
 
 /* 그룹 전체에 대한 figcaption */
@@ -123,8 +130,8 @@ blockquote {
 .image-group-4 > figcaption {
   grid-column: 1 / -1;
   margin-top: 0.5rem;
-  text-align: center;
-  font-size: 0.7em;
+  text-align: center !important;
+  font-size: 0.7em !important;
   color: #666;
 }
 
