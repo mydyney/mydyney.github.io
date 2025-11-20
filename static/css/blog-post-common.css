@@ -93,16 +93,16 @@ blockquote {
   max-width: 80%;
 }
 
-/* 3개 나란히: 최대 너비 90% */
+/* 3개 나란히: 최대 너비 65% */
 .image-group-3 {
   grid-template-columns: 1fr 1fr 1fr !important;
-  max-width: 90%;
+  max-width: 65%;
 }
 
-/* 4개 나란히: 최대 너비 100% */
+/* 4개 나란히: 최대 너비 50% */
 .image-group-4 {
   grid-template-columns: 1fr 1fr 1fr 1fr !important;
-  max-width: 100%;
+  max-width: 50%;
 }
 
 .image-group-2 figure,
