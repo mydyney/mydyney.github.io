@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-20
-> **Status:** ✅ Complete - 37 posts mapped
+> **Status:** ✅ Complete - 38 posts mapped
 
 ---
 
@@ -56,6 +56,7 @@ When migrating a Naver blog post to Hugo:
 | 224052117830 | shibuya-ikushika-rice-refill-restaurant | 2025-10-24 | ✅ |
 | 224052025195 | nakameguro-shabushabu-lettuce-main-store | 2025-10-24 | ✅ |
 | 224050488006 | japan-convenience-store-shopping-best-10 | 2025-10-23 | ✅ |
+| 224050101070 | ikebukuro-complete-guide | 2025-10-22 | ✅ |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 
 ---
@@ -80,12 +81,16 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224042431249 | roppongi-hills-hello-kitty-popup-2025, yebisu-garden-place-illumination-christmas-market-2025 | 2025 Tokyo Christmas Illumination BEST 5 (Omotesando, Marunouchi) |
 | 224045496649 | roppongi-hills-hello-kitty-popup-2025 | 2025 Tokyo Christmas Markets Guide (Ueno, Azabudai, etc.) |
 | 224044938913 | tamiya-plamodel-factory-tokyo-shimbashi | Tokyo Shimbashi & Shiodome Must-Visit Places Guide (Restaurants, Night Views) |
-| 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10 | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
+| 224035271300 | ikebukuro-complete-guide | Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping |
+| 224038568654 | ikebukuro-complete-guide | 2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro) |
+| 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
 | 224022065518 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10 | Japan Don Quijote Shopping List & Discount Coupons Guide |
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10 | Japan Kaldi Shopping List Must-Buy Recommendations |
 | 224034429817 | tamiya-plamodel-factory-tokyo-shimbashi | Mitsui Outlet Park Kisarazu Discount Coupons & Brand Guide |
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
-| 224031114514 | meiji-jingu-gaien-ginkgo-avenue-tokyo, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store | Shibuya Attractions: Shibuya Sky Reservations to Shopping and Restaurants |
+| 224028694874 | ikebukuro-complete-guide | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
+| 224031114514 | meiji-jingu-gaien-ginkgo-avenue-tokyo, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, ikebukuro-complete-guide | Shibuya Attractions: Shibuya Sky Reservations to Shopping and Restaurants |
+| 224031611221 | ikebukuro-complete-guide | Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage |
 | 224032086475 | nakameguro-shabushabu-lettuce-main-store | Nakameguro Complete Guide: Meguro River Cherry Blossoms, Trendy Cafes, Boutiques |
 | 224032515713 | nakameguro-shabushabu-lettuce-main-store | Daikanyama Complete Guide: T-Site Bookstore, Fashion Shops, Cafe Hopping |
 | 224038071853 | meiji-jingu-gaien-ginkgo-avenue-tokyo | 2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots |
@@ -154,6 +159,7 @@ declare -A MAPPINGS=(
   ["224052117830"]="shibuya-ikushika-rice-refill-restaurant"
   ["224052025195"]="nakameguro-shabushabu-lettuce-main-store"
   ["224050488006"]="japan-convenience-store-shopping-best-10"
+  ["224050101070"]="ikebukuro-complete-guide"
   ["223664743235"]="shinanoya-roppongi-hills-supermarket"
 )
 
@@ -175,11 +181,11 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 37
-- **Naver IDs Tracked:** 37
-- **Posts with Internal Links:** 11+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10)
-- **Pending References:** 25
-- **Links Updated:** 0 (all links in shinanoya and tamiya posts need migration)
+- **Total Posts Migrated:** 38
+- **Naver IDs Tracked:** 38
+- **Posts with Internal Links:** 12+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide)
+- **Pending References:** 28
+- **Links Updated:** 0 (all links in posts need migration)
 - **Last Migration Date:** 2025-11-20
 
 ---
