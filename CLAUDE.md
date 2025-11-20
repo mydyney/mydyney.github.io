@@ -478,13 +478,18 @@ tokyo-ramen-street-02.jpg
 - The `download_naver_images.py` script saves all images as `.jpg`
 - Use `.jpg` for consistency and optimal web performance
 
-**📊 Image Numbering Structure:**
-- **`{slug}-01.jpg`**: Featured image (Front Matter `featured_image` field)
-  - Used for social media previews and meta tags
-  - Typically the same as the first body image but serves different purposes
-- **`{slug}-02.jpg` and up**: Body images (displayed in post content)
-  - `02.jpg`: First image in post body (after intro paragraph)
-  - `03.jpg`, `04.jpg`, etc.: Subsequent images in order
+**📊 Image Numbering Structure (1:1 Matching):**
+- **`{slug}-01.jpg`**: First image (used in both `featured_image` field AND first `<figure>` in body)
+  - Serves dual purpose: social media preview + first visible image
+- **`{slug}-02.jpg` and up**: Subsequent images in sequential order
+  - `02.jpg`: Second image in post
+  - `03.jpg`, `04.jpg`, etc.: Following images in order
+
+**⚠️ CRITICAL: 1:1 Matching Rule**
+- Naver HTML image count = Hugo markdown image count (exact match)
+- If Naver has 22 images → Hugo must have 22 images (01.jpg through 22.jpg)
+- **No separate counting** for featured vs body images anymore
+- `featured_image` field uses the same 01.jpg that appears as first `<figure>` in body
 
 **Example:**
 ```yaml
@@ -493,17 +498,20 @@ featured_image: "/images/posts/tokyo-guide-01.jpg"  # Social media preview
 
 # Body (after intro paragraph)
 <figure>
-  <img src="/images/posts/tokyo-guide-02.jpg" alt="...">  # First visible image
+  <img src="/images/posts/tokyo-guide-01.jpg" alt="...">  # Same image as featured
 </figure>
 <figure>
-  <img src="/images/posts/tokyo-guide-03.jpg" alt="...">  # Second image
+  <img src="/images/posts/tokyo-guide-02.jpg" alt="...">  # Second image
+</figure>
+<figure>
+  <img src="/images/posts/tokyo-guide-03.jpg" alt="...">  # Third image
 </figure>
 ```
 
 **💡 Important:**
-- Total images = body images + 1 (featured image)
-- If post has 21 body images, total is 22 images (01.jpg through 22.jpg)
-- Featured image (01.jpg) and first body image (02.jpg) are often the same visual
+- Total images in Hugo = Total images in Naver HTML (1:1)
+- If post has 22 images in Naver, create 22 `<figure>` tags in Hugo (01.jpg through 22.jpg)
+- Featured_image field and first body image use the **same** 01.jpg file
 
 **Storage Location:**
 ```
@@ -1318,12 +1326,12 @@ See `/LINK_MAPPING.md` for complete tracking database with 30 mapped posts.
 - Script performs automated validation:
   - Analyzes Naver HTML (extracts all images, removes ad blocks)
   - Handles image groups (2-4 images) correctly
-  - Validates against Hugo markdown (count, order, sequential numbering)
+  - Validates against Hugo markdown with **1:1 matching** (count, order, sequential numbering)
   - Reports detailed errors if validation fails
 - Only downloads images if validation passes:
   - Downloads to `/static/images/posts/` with naming: `{post-slug}-{number}.jpg`
   - Converts to JPG format with optimization
-  - Numbers sequentially: 01.jpg (featured), 02.jpg+ (body images)
+  - Numbers sequentially: **01.jpg, 02.jpg, 03.jpg...** (1:1 matching with Naver order)
 - If validation fails:
   - Fix Hugo markdown based on error report
   - Re-run script until validation passes
@@ -1385,26 +1393,28 @@ git push
 - ✅ **HTML Parsing:** Uses BeautifulSoup to extract images from Naver HTML
 - ✅ **Ad Block Removal:** Automatically removes `ssp-adcontent`, `ad_power_content_wrap`, `data-ad` elements
 - ✅ **Image Group Detection:** Handles Naver image groups (2-4 images) correctly
-- ✅ **Validation First:** Validates image count, order, and sequential numbering BEFORE downloading
+- ✅ **1:1 Matching Validation:** Validates image count, order, and sequential numbering with exact 1:1 match BEFORE downloading
 - ✅ **Detailed Error Reports:** Shows exactly what's wrong if validation fails
 - ✅ **Smart Download:** Only downloads if validation passes (saves time/bandwidth)
 - ✅ **Format Conversion:** Converts all images to JPG with optimization
-- ✅ **Sequential Numbering:** 01.jpg (featured), 02.jpg+ (body images)
-- ✅ **Flexible Parsing:** Supports optional figcaption and HTML tags within figcaption
+- ✅ **Sequential Numbering:** 01.jpg, 02.jpg, 03.jpg... (1:1 matching with Naver HTML order)
+- ✅ **CSS Grid Support:** Detects images inside `.image-group-2/3/4` divs correctly
 
 **Regex Pattern for Hugo Markdown:**
 ```python
-# Extracts <figure> tags with optional figcaption (supports HTML inside)
+# Extracts ALL <figure> tags (standalone and inside image-group divs)
 figure_pattern = re.compile(
-    r'<figure>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)">\s*(?:<figcaption>(.*?)</figcaption>\s*)?</figure>',
+    r'<figure[^>]*>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)"[^>]*>',
     re.DOTALL
 )
 ```
 
 **Pattern Features:**
-- `(?:...)?` - Makes figcaption optional (some figures may not have captions)
-- `.*?` - Non-greedy match for figcaption content (allows HTML tags like `<b>`, `<a>`, `<strong>`)
-- `re.DOTALL` - Allows `.` to match newlines (multi-line figcaptions)
+- `<figure[^>]*>` - Matches `<figure>` tag with any attributes
+- `[^>]*` after `<img>` - Allows additional attributes on img tag
+- **Does NOT require closing `</figure>`** - This allows matching figures inside `.image-group-N` divs where figcaption is outside individual figures
+- `re.DOTALL` - Allows `.` to match newlines (multi-line patterns)
+- **Works with CSS Grid layouts** - Detects all figures regardless of container structure
 
 **Usage:**
 ```bash
@@ -1421,10 +1431,10 @@ pip3 install requests pillow beautifulsoup4 lxml
 
 **Workflow:**
 1. Reads Naver HTML → extracts all images in order
-2. Reads Hugo markdown → extracts featured_image + body images
-3. Validates: count match, sequential numbering (02, 03, 04...)
+2. Reads Hugo markdown → extracts all images (featured_image + all `<figure>` tags)
+3. Validates with **1:1 matching**: exact count match, sequential numbering (01, 02, 03...)
 4. If validation fails → shows detailed error report, exits
-5. If validation passes → downloads all images, converts to JPG
+5. If validation passes → downloads all images sequentially, converts to JPG
 
 **See:** `README_IMAGE_DOWNLOAD.md` for comprehensive documentation
 
@@ -1526,10 +1536,13 @@ Build Output:    /public/
 **Next Review:** When significant project changes occur
 
 **Recent Updates (2025-11-20):**
+- **BREAKING CHANGE:** Simplified image validation to 1:1 matching (removed featured image exclusion logic)
+- Updated `download_naver_images.py` validation: Naver count = Hugo count (exact match)
+- Changed sequential numbering: 01, 02, 03... (previously 02, 03, 04...)
+- Updated regex pattern to detect images inside CSS Grid `.image-group-2/3/4` divs
+- Featured_image field and first body image now use the **same** 01.jpg file
 - Added figcaption styling standard (font-size: 0.7em, center-aligned)
 - Documented CSS Grid image group layout (`.image-group-2/3/4`)
-- Updated `download_naver_images.py` regex pattern documentation
-- Added support for optional figcaption and HTML tags in figcaption
 
 **Update This Document When:**
 - Project structure changes significantly
