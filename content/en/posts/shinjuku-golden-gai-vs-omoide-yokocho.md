@@ -84,15 +84,15 @@ Essential guide for Shinjuku night course beginners!
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-02.jpg" alt="Shinjuku Omoide Yokocho yakitori alley entrance">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-02.jpg" alt="Shinjuku Omoide Yokocho yakitori alley entrance">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-03.jpg" alt="Shinjuku Golden Gai bar street entrance">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">(Left) Shinjuku Omoide Yokocho yakitori alley, (Right) Shinjuku Golden Gai bar street entrance - two iconic spots representing Tokyo's nightlife atmosphere.</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-03.jpg" alt="Shinjuku Golden Gai bar street entrance">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Golden Gai bar street entrance</figcaption>
-</figure>
+</div>
 
 ---
 

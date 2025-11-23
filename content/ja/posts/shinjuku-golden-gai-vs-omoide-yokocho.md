@@ -85,15 +85,15 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-02.jpg" alt="新宿思い出横丁焼き鳥横丁入口">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-02.jpg" alt="新宿思い出横丁焼き鳥横丁入口">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-03.jpg" alt="新宿ゴールデン街バー横丁入口">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">（左）新宿思い出横丁焼き鳥横丁、（右）新宿ゴールデン街バー横丁入口 — 東京の夜の雰囲気を代表する2大名所。</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-03.jpg" alt="新宿ゴールデン街バー横丁入口">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿ゴールデン街バー横丁入口</figcaption>
-</figure>
+</div>
 
 ---
 
