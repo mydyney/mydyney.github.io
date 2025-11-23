@@ -77,74 +77,155 @@ blockquote {
   margin: 1.5rem 0;
 }
 
-/* 이미지 그룹 (2개, 3개, 4개 나란히 배치) */
+/* 이미지 그룹 (2개, 3개, 4개 나란히 배치) - 전체 폭 강제 */
+/* Targeting all possible parent contexts to override Ananke/Tachyons */
+article .image-group-2,
+article .image-group-3,
+article .image-group-4,
+.lh-copy .image-group-2,
+.lh-copy .image-group-3,
+.lh-copy .image-group-4,
+.nested-copy-line-height .image-group-2,
+.nested-copy-line-height .image-group-3,
+.nested-copy-line-height .image-group-4,
+.blog-container .image-group-2,
+.blog-container .image-group-3,
+.blog-container .image-group-4,
+div.image-group-2,
+div.image-group-3,
+div.image-group-4,
 .image-group-2,
 .image-group-3,
 .image-group-4 {
   display: grid !important;
-  gap: 1rem;
-  margin: 2rem auto;
-  align-items: start;
+  width: 100% !important;
+  max-width: 100% !important;
+  max-width: none !important;
+  min-width: 100% !important;
+  gap: 1rem !important;
+  margin: 2rem 0 !important;
+  padding: 0 !important;
+  align-items: start !important;
+  box-sizing: border-box !important;
+  float: none !important;
+  clear: both !important;
+  position: relative !important;
+  left: 0 !important;
+  right: 0 !important;
+  transform: none !important;
+  flex: none !important;
+  flex-shrink: 0 !important;
+  flex-grow: 0 !important;
 }
 
-/* 2개 나란히: 45% 사이즈 */
+/* 2개 나란히: 각 이미지 = 가로폭/2 */
+.blog-container .image-group-2,
 .image-group-2 {
   grid-template-columns: 1fr 1fr !important;
-  max-width: 45%;
 }
 
-/* 3개 나란히: 45% 사이즈 */
+/* 3개 나란히: 각 이미지 = 가로폭/3 */
+.blog-container .image-group-3,
 .image-group-3 {
   grid-template-columns: 1fr 1fr 1fr !important;
-  max-width: 45%;
 }
 
-/* 4개 타일 레이아웃: 위 2개, 아래 2개 (50% 사이즈) */
+/* 4개 격자형: 2x2, 각 이미지 = 가로폭/2 */
+.blog-container .image-group-4,
 .image-group-4 {
   grid-template-columns: 1fr 1fr !important;
-  max-width: 50%;
 }
 
+/* figure 요소 - 그리드 셀 전체 차지 */
+.blog-container .image-group-2 figure,
+.blog-container .image-group-3 figure,
+.blog-container .image-group-4 figure,
 .image-group-2 figure,
 .image-group-3 figure,
 .image-group-4 figure {
   margin: 0 !important;
-  display: flex;
-  flex-direction: column;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 0 !important;
+  display: block !important;
+  float: none !important;
 }
 
+/* 이미지 - 셀 전체 폭 */
+.blog-container .image-group-2 img,
+.blog-container .image-group-3 img,
+.blog-container .image-group-4 img,
 .image-group-2 img,
 .image-group-3 img,
 .image-group-4 img {
   margin: 0 !important;
-  width: 100%;
-  height: auto;
+  padding: 0 !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  min-width: 100% !important;
+  height: auto !important;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  display: block;
+  display: block !important;
+  object-fit: cover;
 }
 
 /* 그룹 전체에 대한 figcaption */
+.blog-container .image-group-2 > figcaption,
+.blog-container .image-group-3 > figcaption,
+.blog-container .image-group-4 > figcaption,
 .image-group-2 > figcaption,
 .image-group-3 > figcaption,
 .image-group-4 > figcaption {
-  grid-column: 1 / -1;
-  margin-top: 0.5rem;
+  grid-column: 1 / -1 !important;
+  width: 100% !important;
+  margin-top: 0.5rem !important;
   text-align: center !important;
   font-size: 0.7em !important;
   color: #666;
 }
 
-/* 모바일에서는 단일 컬럼으로 변경 */
+/* 모바일에서도 한 줄에 표시 (가로 폭을 이미지 수로 나눔) */
 @media (max-width: 768px) {
   .blog-container { font-size: 0.95rem; }
   .info-box { padding: 1rem; }
   .schedule-table { font-size: 0.85rem; }
 
+  /* 모바일: 그룹 전체 폭 100%, 이미지는 한 줄에 배치 */
+  .blog-container .image-group-2,
+  .blog-container .image-group-3,
+  .blog-container .image-group-4,
   .image-group-2,
   .image-group-3,
   .image-group-4 {
-    grid-template-columns: 1fr;
-    gap: 10px;
+    width: 100% !important;
+    gap: 6px !important;
+    margin: 1.5rem 0 !important;
+  }
+
+  /* 2개: 각 50% */
+  .blog-container .image-group-2,
+  .image-group-2 {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  /* 3개: 각 33.33% */
+  .blog-container .image-group-3,
+  .image-group-3 {
+    grid-template-columns: 1fr 1fr 1fr !important;
+  }
+
+  /* 4개: 2x2 레이아웃 (각 50%, 2행) */
+  .blog-container .image-group-4,
+  .image-group-4 {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  /* 모바일에서 이미지 border-radius 줄임 */
+  .image-group-2 img,
+  .image-group-3 img,
+  .image-group-4 img {
+    border-radius: 4px !important;
   }
 }
