@@ -99,15 +99,15 @@ Complete access guide to Tokyo Node all in one place.</p>
 <p><strong>⭐ Essential Item: Charged Smartphone!</strong></p>
 <p>This event required using your personal smartphone to find clues and solve quizzes. Without battery, you essentially couldn't experience it.</p>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-05.jpg" alt="Horse Hunt Smartphone Game Starting in Experience Space">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-05.jpg" alt="Horse Hunt Smartphone Game Starting in Experience Space">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-06.jpg" alt="Horse Hunt Smartphone Game Starting in Experience Space">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Horse Hunt Smartphone Game Starting in Experience Space</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-06.jpg" alt="Horse Hunt Smartphone Game Starting in Experience Space">
-  <figcaption style="font-size: 0.7em; text-align: center;">Horse Hunt Smartphone Game Starting in Experience Space</figcaption>
-</figure>
+</div>
 
 <p>The event involved touring 6 different spaces over 70 minutes to complete missions.</p>
 
@@ -115,59 +115,59 @@ Complete access guide to Tokyo Node all in one place.</p>
 
 <p>The set quality and creative content were so impressive that it truly felt like "This is HERMES" - hard to believe it was a free event.</p>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-07.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-07.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-08.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
-</figure>
+</div>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-08.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-09.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-10.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-09.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
-  <figcaption style="font-size: 0.7em; text-align: center;">HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-10.jpg" alt="HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set">
-  <figcaption style="font-size: 0.7em; text-align: center;">HERMES Horse Hunt Event Mysterious and Immersive Exhibition Set</figcaption>
-</figure>
+</div>
 
 <p>It was enjoyable solo, and there were actually many families with children. (However, reservations are only for elementary school age and above)</p>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-11.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-11.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-12.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
-</figure>
+</div>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-12.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-13.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-14.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-13.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-14.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
-</figure>
+</div>
 
 <p>From curious children to experienced adults, it was a time where everyone could happily immerse themselves as HERMES detectives.</p>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-15.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-15.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-16.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-16.jpg" alt="Experience Exhibition in 6 Spaces to Find HERMES Horses">
-  <figcaption style="font-size: 0.7em; text-align: center;">Experience Exhibition in 6 Spaces to Find HERMES Horses</figcaption>
-</figure>
+</div>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-17.jpg" alt="Final Password is 1837 - The Year HERMES Was Founded">
