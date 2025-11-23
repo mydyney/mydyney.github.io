@@ -342,25 +342,25 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 **☕ 特徴**
 ガラス張り + 湖ビュー席の競争は激しいですが、席さえ取れれば「東京最高の癒しカフェビュー」レベルです。
 
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-20.jpg" alt="新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-20.jpg" alt="新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-21.jpg" alt="新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ</figcaption>
-</figure>
+</div>
 
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-21.jpg" alt="新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス｜湖ビューと共に楽しむ東京カフェ</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-22.jpg" alt="新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-22.jpg" alt="新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-23.jpg" alt="新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-23.jpg" alt="新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑スターバックス待ち｜モバイルオーダー利用ヒントと待ち列現場</figcaption>
-</figure>
+</div>
 
 ---
 
@@ -389,15 +389,15 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 
 **✅ <a href="https://www.tablecheck.com/ko/shops/ramen-matsui/reserve" target="_blank">ラーメン松井オンライン予約</a>**
 
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-25.jpg" alt="新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-25.jpg" alt="新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-26.jpg" alt="新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-26.jpg" alt="新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑ラーメングルメラーメン松井｜東京塩ラーメン人気食堂</figcaption>
-</figure>
+</div>
 
 **4. 切麦や 甚六（きりむぎや じんろく）(<a href="https://maps.app.goo.gl/QkMv3TkPmGcuM4io8" target="_blank">Googleマップ↗</a>)**
 - 2023年ミシュランビブグルマン

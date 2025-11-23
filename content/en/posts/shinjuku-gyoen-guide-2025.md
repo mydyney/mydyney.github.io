@@ -342,25 +342,25 @@ The most popular spot inside the park is **Shinjuku Gyoen Starbucks**.
 **☕ Features**
 Floor-to-ceiling windows + lake-view seats are highly competitive, but once you secure a seat, it's "Tokyo's best healing cafe view" level.
 
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-20.jpg" alt="Shinjuku Gyoen Starbucks | Tokyo cafe with lake view">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-20.jpg" alt="Shinjuku Gyoen Starbucks | Tokyo cafe with lake view">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-21.jpg" alt="Shinjuku Gyoen Starbucks | Tokyo cafe with lake view">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks | Tokyo cafe with lake view</figcaption>
-</figure>
+</div>
 
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-21.jpg" alt="Shinjuku Gyoen Starbucks | Tokyo cafe with lake view">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks | Tokyo cafe with lake view</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-22.jpg" alt="Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-22.jpg" alt="Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-23.jpg" alt="Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-23.jpg" alt="Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks waiting | Mobile order tips and queue scene</figcaption>
-</figure>
+</div>
 
 ---
 
@@ -389,15 +389,15 @@ There's only a simple kiosk inside the park, and most proper **Shinjuku Gyoen re
 
 **✅ <a href="https://www.tablecheck.com/ko/shops/ramen-matsui/reserve" target="_blank">Book Ramen Matsui online</a>**
 
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-25.jpg" alt="Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-25.jpg" alt="Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gyoen-guide-2025-26.jpg" alt="Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gyoen-guide-2025-26.jpg" alt="Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant</figcaption>
-</figure>
+</div>
 
 **4. Kirimugi-ya Jinroku (切麦や 甚六) (<a href="https://maps.app.goo.gl/QkMv3TkPmGcuM4io8" target="_blank">Google Maps↗</a>)**
 - Michelin Bib Gourmand 2023
