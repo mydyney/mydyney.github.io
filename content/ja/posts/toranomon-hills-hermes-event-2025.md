@@ -99,15 +99,15 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 <p><strong>⭐ 必須準備物：充電されたスマートフォン！</strong></p>
 <p>このイベントは個人のスマートフォンで手がかりを探し、クイズを解く方式でした。バッテリーがないと実質的に体験不可能でした。</p>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-05.jpg" alt="体験空間に入ってから始まる馬探しスマートフォンゲーム">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-05.jpg" alt="体験空間に入ってから始まる馬探しスマートフォンゲーム">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-06.jpg" alt="体験空間に入ってから始まる馬探しスマートフォンゲーム">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">体験空間に入ってから始まる馬探しスマートフォンゲーム</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-06.jpg" alt="体験空間に入ってから始まる馬探しスマートフォンゲーム">
-  <figcaption style="font-size: 0.7em; text-align: center;">体験空間に入ってから始まる馬探しスマートフォンゲーム</figcaption>
-</figure>
+</div>
 
 <p>イベントは定められた70分間、合計6つの空間を巡りながらミッションを遂行する方式でした。</p>
 
@@ -115,59 +115,59 @@ featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
 
 <p>本当にこれが無料イベントなのかと思うほど、セットのクオリティと創意的なコンテンツの両方が「さすがエルメス」という感嘆を誘いました。</p>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-07.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-07.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-08.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
-</figure>
+</div>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-08.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-09.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-10.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-09.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
-  <figcaption style="font-size: 0.7em; text-align: center;">エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-10.jpg" alt="エルメス馬探しイベント内部の神秘的で没入感のある展示セット">
-  <figcaption style="font-size: 0.7em; text-align: center;">エルメス馬探しイベント内部の神秘的で没入感のある展示セット</figcaption>
-</figure>
+</div>
 
 <p>一人で行っても十分楽しめましたし、実際に子供と一緒に来た家族連れの訪問客も多かったです。（ただし、小学生以上から予約が必要）</p>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-11.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-11.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-12.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
-</figure>
+</div>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-12.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-13.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-14.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-13.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-14.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
-</figure>
+</div>
 
 <p>好奇心旺盛な子供たちから経験豊富な大人まで、誰もがエルメス探偵となって楽しく没入できる時間でした。</p>
 
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-15.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-15.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+  </figure>
+  <figure>
+    <img src="/images/posts/toranomon-hills-hermes-event-2025-16.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/toranomon-hills-hermes-event-2025-16.jpg" alt="6つの空間でエルメスの馬を探す体験型展示">
-  <figcaption style="font-size: 0.7em; text-align: center;">6つの空間でエルメスの馬を探す体験型展示</figcaption>
-</figure>
+</div>
 
 <figure>
   <img src="/images/posts/toranomon-hills-hermes-event-2025-17.jpg" alt="最後のパスワードはエルメスが誕生した年である1837">
