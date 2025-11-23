@@ -78,7 +78,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-02.jpg" alt="ディズニーランド シンデレラ城とディズニーシー プロメテウス火山">
-  <figcaption style="font-size: 0.7em; text-align: center;">（左）ディズニーシー プロメテウス火山 /（右）ディズニーランド シンデレラ城</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">（左）ディズニーシー プロメテウス火山 /（右）ディズニーランド シンデレラ城（<a href="https://www.tokyodisneyresort.jp/treasure/tdr40th/" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ---
@@ -199,10 +199,15 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/tokyo-disneyland-complete-guide-04.jpg" alt="DPAアプリ購入画面 美女と野獣とラプンツェル">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/tokyo-disneyland-complete-guide-04.jpg" alt="DPAアプリ購入画面 美女と野獣">
+  </figure>
+  <figure>
+    <img src="/images/posts/tokyo-disneyland-complete-guide-05.jpg" alt="DPAアプリ購入画面 ラプンツェル">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">DPAアプリ購入：東京ディズニーランド 美女と野獣、ディズニーシー ラプンツェル</figcaption>
-</figure>
+</div>
 
 ### ② [無料] 40周年記念プライオリティパス
 
@@ -242,10 +247,15 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/tokyo-disneyland-complete-guide-05.jpg" alt="40周年記念パス アプリ予約画面">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/tokyo-disneyland-complete-guide-06.jpg" alt="40周年記念パス アプリ予約画面 ビッグサンダーマウンテン">
+  </figure>
+  <figure>
+    <img src="/images/posts/tokyo-disneyland-complete-guide-07.jpg" alt="40周年記念パス アプリ予約画面 レイジングスピリッツ">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">40周年記念パス アプリ予約：ディズニーランド ビッグサンダーマウンテン、ディズニーシー レイジングスピリッツ</figcaption>
-</figure>
+</div>
 
 ### ③ 攻略のコツ！
 
@@ -340,10 +350,15 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/tokyo-disneyland-complete-guide-06.jpg" alt="抽選とDPA画面">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/tokyo-disneyland-complete-guide-08.jpg" alt="東京ディズニーランド ショー抽選とDPA画面">
+  </figure>
+  <figure>
+    <img src="/images/posts/tokyo-disneyland-complete-guide-09.jpg" alt="東京ディズニーシー ショー抽選とDPA画面">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランドショー、ディズニーシーショー - 抽選画面、DPAも利用可能</figcaption>
-</figure>
+</div>
 
 ### ③ [攻略のコツ] 戦略は？
 
@@ -461,7 +476,7 @@ S.S.コロンビア・ダイニングルーム（アメリカンウォーター�
 - ポップコーン（キャラメル、カレー、ガーリックシュリンプ、ストロベリー）
 
 <figure>
-  <img src="/images/posts/tokyo-disneyland-complete-guide-07.jpg" alt="エイリアン・モチ 緑色のエイリアン形モチスナック">
+  <img src="/images/posts/tokyo-disneyland-complete-guide-10.jpg" alt="エイリアン・モチ 緑色のエイリアン形モチスナック">
   <figcaption style="font-size: 0.7em; text-align: center;">緑色のリトルグリーンメン形モチスナック ディズニースナックカップ入り</figcaption>
 </figure>
 
@@ -564,7 +579,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 ディズニーランド/ディズニーシーメインゲートへの**直行バス**が運行。
 
 <figure>
-  <img src="/images/posts/tokyo-disneyland-complete-guide-08.jpg" alt="東京ディズニーランド 美女と野獣アトラクション">
+  <img src="/images/posts/tokyo-disneyland-complete-guide-11.jpg" alt="東京ディズニーランド 美女と野獣アトラクション">
   <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド 美女と野獣</figcaption>
 </figure>
 
@@ -619,7 +634,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 **ホテルニューオータニ幕張**
 
 <figure>
-  <img src="/images/posts/tokyo-disneyland-complete-guide-09.jpg" alt="ヒルトン東京ベイ オフィシャルホテル">
+  <img src="/images/posts/tokyo-disneyland-complete-guide-12.jpg" alt="ヒルトン東京ベイ オフィシャルホテル">
   <figcaption style="font-size: 0.7em; text-align: center;"><b>東京ディズニーリゾート・オフィシャルホテル：ヒルトン東京ベイ</b></figcaption>
 </figure>
 
@@ -652,7 +667,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 **➡️ [ディズニーシーマップ（日本語版）](https://media2.tokyodisneyresort.jp/home/download/map/TDS_map_ja.pdf)**
 
 <figure>
-  <img src="/images/posts/tokyo-disneyland-complete-guide-10.jpg" alt="東京ディズニーランド プーさんのハニーハント">
+  <img src="/images/posts/tokyo-disneyland-complete-guide-13.jpg" alt="東京ディズニーランド プーさんのハニーハント">
   <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド プーさんのハニーハント</figcaption>
 </figure>
 
@@ -678,7 +693,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 プライオリティパス＆スタンバイパスは使用前ならキャンセル可能（回復不可）。
 
 <figure>
-  <img src="/images/posts/tokyo-disneyland-complete-guide-11.jpg" alt="東京ディズニーランド モンスターズ・インク">
+  <img src="/images/posts/tokyo-disneyland-complete-guide-14.jpg" alt="東京ディズニーランド モンスターズ・インク">
   <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド モンスターズ・インク</figcaption>
 </figure>
 
