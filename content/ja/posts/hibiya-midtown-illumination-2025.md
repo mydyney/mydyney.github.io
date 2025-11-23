@@ -116,15 +116,15 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン クリスマス ズートピア2 テーマツリー</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-07.jpg" alt="日比谷ミッドタウン クリスマス ズートピア2テーマツリーと動物装飾とゴジラ">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-07.jpg" alt="日比谷ミッドタウン クリスマス ズートピア2テーマツリーと動物装飾とゴジラ">
+  </figure>
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-08.jpg" alt="日比谷ミッドタウン ズートピア2 テーマツリーと夜景">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン クリスマス ズートピア2テーマツリーと動物装飾とゴジラ</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-08.jpg" alt="日比谷ミッドタウン ズートピア2 テーマツリーと夜景">
-  <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン ズートピア2 テーマツリーと夜景</figcaption>
-</figure>
+</div>
 
 ---
 
@@ -145,15 +145,15 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン ステップ広場イルミネーション</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-10.jpg" alt="日比谷ミッドタウン ステップ広場 カツラの木と夜景">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-10.jpg" alt="日比谷ミッドタウン ステップ広場 カツラの木と夜景">
+  </figure>
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-11.jpg" alt="日比谷ミッドタウン ステップ広場 カツラの木イルミネーション">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン ステップ広場 カツラの木と夜景</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-11.jpg" alt="日比谷ミッドタウン ステップ広場 カツラの木イルミネーション">
-  <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン ステップ広場 カツラの木イルミネーション</figcaption>
-</figure>
+</div>
 
 ---
 
@@ -215,29 +215,29 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 ♻️ エコイルミネーション: 日比谷ミッドタウンのすべての照明は「グリーンエネルギー」(太陽光など)を使用し、6階ウィンターガーデンには植物と微生物の力で電気を作る「植物灯」も使用されているそうです。
 
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-16.jpg" alt="日比谷ミッドタウン6階パークビューガーデン無料休憩スペース ベンチとソファ">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-16.jpg" alt="日比谷ミッドタウン6階パークビューガーデン無料休憩スペース ベンチとソファ">
+  </figure>
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-17.jpg" alt="日比谷ミッドタウン6階パークビューガーデン 休憩エリア">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン6階パークビューガーデン無料休憩スペース ベンチとソファ</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-17.jpg" alt="日比谷ミッドタウン6階パークビューガーデン 休憩エリア">
-  <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン6階パークビューガーデン 休憩エリア</figcaption>
-</figure>
+</div>
 
 1階広場より人が少なく、ゆっくり写真を撮るのに最適です。
 
 日比谷ミッドタウンに行かれたら、ぜひ6階に上がってみてください!
 
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-18.jpg" alt="日比谷ミッドタウン6階パークビューガーデンから見下ろす日比谷公園夜景">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-18.jpg" alt="日比谷ミッドタウン6階パークビューガーデンから見下ろす日比谷公園夜景">
+  </figure>
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-19.jpg" alt="6階から眺める日比谷公園パノラマビュー">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">日比谷ミッドタウン6階パークビューガーデンから見下ろす日比谷公園夜景</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-19.jpg" alt="6階から眺める日比谷公園パノラマビュー">
-  <figcaption style="font-size: 0.7em; text-align: center;">6階から眺める日比谷公園パノラマビュー</figcaption>
-</figure>
+</div>
 
 ---
 

@@ -116,15 +116,15 @@ Combined with the surrounding cube-shaped lights, it provides a dynamic and spec
   <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Midtown Christmas Zootopia 2 themed main tree</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-07.jpg" alt="Hibiya Midtown Christmas Zootopia 2 theme tree with animal decorations and Godzilla">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-07.jpg" alt="Hibiya Midtown Christmas Zootopia 2 theme tree with animal decorations and Godzilla">
+  </figure>
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-08.jpg" alt="Hibiya Midtown Christmas Zootopia 2 theme tree and night view">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Midtown Christmas Zootopia 2 theme tree with animal decorations and Godzilla</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-08.jpg" alt="Hibiya Midtown Christmas Zootopia 2 theme tree and night view">
-  <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Midtown Christmas Zootopia 2 theme tree and night view</figcaption>
-</figure>
+</div>
 
 ---
 
@@ -145,15 +145,15 @@ True to its name as the 'eternal heart tree', it's a great spot for taking photo
   <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Midtown Step Square illumination</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-10.jpg" alt="Hibiya Midtown Step Square katsura tree and night view">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-10.jpg" alt="Hibiya Midtown Step Square katsura tree and night view">
+  </figure>
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-11.jpg" alt="Hibiya Midtown Step Square katsura tree illumination">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Midtown Step Square katsura tree and night view</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-11.jpg" alt="Hibiya Midtown Step Square katsura tree illumination">
-  <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Midtown Step Square katsura tree illumination</figcaption>
-</figure>
+</div>
 
 ---
 
@@ -215,29 +215,29 @@ You can enjoy a fantastic 'winter garden' where lights change to music.
 
 ♻️ Eco-Friendly Illumination: All lights at Hibiya Midtown use 'green energy' (solar, etc.), and the 6th floor Winter Garden also uses 'plant lights' that generate electricity through the power of plants and microorganisms.
 
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-16.jpg" alt="Hibiya Midtown 6th floor Park View Garden free lounge benches and sofas">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-16.jpg" alt="Hibiya Midtown 6th floor Park View Garden free lounge benches and sofas">
+  </figure>
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-17.jpg" alt="Hibiya Midtown 6th floor Park View Garden seating area">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Midtown 6th floor Park View Garden free lounge benches and sofas</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-17.jpg" alt="Hibiya Midtown 6th floor Park View Garden seating area">
-  <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Midtown 6th floor Park View Garden seating area</figcaption>
-</figure>
+</div>
 
 There are fewer people than the 1st floor square, making it great for leisurely taking photos.
 
 If you visit Hibiya Midtown, be sure to go up to the 6th floor!
 
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-18.jpg" alt="Hibiya Park night view from Hibiya Midtown 6th floor Park View Garden">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-18.jpg" alt="Hibiya Park night view from Hibiya Midtown 6th floor Park View Garden">
+  </figure>
+  <figure>
+    <img src="/images/posts/hibiya-midtown-illumination-2025-19.jpg" alt="Panoramic Hibiya Park view from 6th floor">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Park night view from Hibiya Midtown 6th floor Park View Garden</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/hibiya-midtown-illumination-2025-19.jpg" alt="Panoramic Hibiya Park view from 6th floor">
-  <figcaption style="font-size: 0.7em; text-align: center;">Panoramic Hibiya Park view from 6th floor</figcaption>
-</figure>
+</div>
 
 ---
 
