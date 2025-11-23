@@ -49,15 +49,15 @@ With the concept of a charming patisserie encountered on the streets of Paris, i
   <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Pavlov Original Store Signboard</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-04.jpg" alt="Pavlov Cafe classic interior">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-04.jpg" alt="Pavlov Cafe classic interior">
+  </figure>
+  <figure>
+    <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="Pavlov Cafe interior seating">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Tabelog Top 100 Cafe Pavlov's Classic Interior</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="Pavlov Cafe interior seating">
-  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Tabelog Top 100 Cafe Pavlov's Classic Interior</figcaption>
-</figure>
+</div>
 
 ---
 
