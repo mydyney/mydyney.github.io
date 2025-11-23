@@ -76,15 +76,15 @@ The basic signature menu with sweet-salty soy sauce glaze. The chewy texture of 
 
 The high quality of the red beans gives a subtle, refined sweetness.
 
-<figure>
-  <img src="/images/posts/shinjuku-oiwake-dango-honpo-05.jpg" alt="Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-oiwake-dango-honpo-05.jpg" alt="Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-oiwake-dango-honpo-06.jpg" alt="Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-oiwake-dango-honpo-06.jpg" alt="Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison</figcaption>
-</figure>
+</div>
 
 **3️⃣ Seasonal Limited Dango**
 
