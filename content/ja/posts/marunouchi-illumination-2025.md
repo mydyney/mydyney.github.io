@@ -85,17 +85,17 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/marunouchi-illumination-2025-05.jpg" alt="クリスマスマーケットブースと食品販売">
-  <figcaption style="font-size: 0.7em; text-align: center;">クリスマスマーケットブースと食品販売</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/marunouchi-illumination-2025-05.jpg" alt="クリスマスマーケットブースと食品販売">
+  </figure>
+  <figure>
+    <img src="/images/posts/marunouchi-illumination-2025-06.jpg" alt="クリスマスマーケット夜景とイルミネーション">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">（左）クリスマスマーケットブースと食品販売、（右）クリスマスマーケット夜景とイルミネーション</figcaption>
+</div>
 
 <p>グリューワイン(mulled wine)とドイツソーセージなど様々なフードブースが運営され、クリスマス雰囲気を満喫できます。</p>
-
-<figure>
-  <img src="/images/posts/marunouchi-illumination-2025-06.jpg" alt="クリスマスマーケット夜景とイルミネーション">
-  <figcaption style="font-size: 0.7em; text-align: center;">クリスマスマーケット夜景とイルミネーション</figcaption>
-</figure>
 
 <h2>🏰 ディズニー100周年記念コラボイベント</h2>
 
@@ -154,15 +154,15 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 </ul>
 </div>
 
-<figure>
-  <img src="/images/posts/marunouchi-illumination-2025-09.jpg" alt="ディズニーキャラクター造形物クローズアップ">
-  <figcaption style="font-size: 0.7em; text-align: center;">ディズニーキャラクター造形物クローズアップ</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/marunouchi-illumination-2025-10.jpg" alt="ディズニーキャラクターとフォトスポット">
-  <figcaption style="font-size: 0.7em; text-align: center;">ディズニーキャラクターとフォトスポット</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/marunouchi-illumination-2025-09.jpg" alt="ディズニーキャラクター造形物クローズアップ">
+  </figure>
+  <figure>
+    <img src="/images/posts/marunouchi-illumination-2025-10.jpg" alt="ディズニーキャラクターとフォトスポット">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">（左）ディズニーキャラクター造形物クローズアップ、（右）ディズニーキャラクターとフォトスポット</figcaption>
+</div>
 
 <h3>2) ディズニー100周年スタンプラリー</h3>
 

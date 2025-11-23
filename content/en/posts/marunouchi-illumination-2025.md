@@ -85,17 +85,17 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/marunouchi-illumination-2025-05.jpg" alt="Christmas Market Booths and Food Vendors">
-  <figcaption style="font-size: 0.7em; text-align: center;">Christmas Market Booths and Food Vendors</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/marunouchi-illumination-2025-05.jpg" alt="Christmas Market Booths and Food Vendors">
+  </figure>
+  <figure>
+    <img src="/images/posts/marunouchi-illumination-2025-06.jpg" alt="Christmas Market Night View with Illumination">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">(Left) Christmas Market Booths and Food Vendors, (Right) Christmas Market Night View with Illumination</figcaption>
+</div>
 
 <p>Various food booths selling Glühwein (mulled wine) and German sausages allow you to fully enjoy the Christmas atmosphere.</p>
-
-<figure>
-  <img src="/images/posts/marunouchi-illumination-2025-06.jpg" alt="Christmas Market Night View with Illumination">
-  <figcaption style="font-size: 0.7em; text-align: center;">Christmas Market Night View with Illumination</figcaption>
-</figure>
 
 <h2>🏰 Disney 100th Anniversary Collaboration Event</h2>
 
@@ -154,15 +154,15 @@ Essential for Winter Tokyo Travel - Check Out the Latest Marunouchi Information.
 </ul>
 </div>
 
-<figure>
-  <img src="/images/posts/marunouchi-illumination-2025-09.jpg" alt="Disney Character Monument Close-up">
-  <figcaption style="font-size: 0.7em; text-align: center;">Disney Character Monument Close-up</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/marunouchi-illumination-2025-10.jpg" alt="Disney Characters and Photo Spots">
-  <figcaption style="font-size: 0.7em; text-align: center;">Disney Characters and Photo Spots</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/marunouchi-illumination-2025-09.jpg" alt="Disney Character Monument Close-up">
+  </figure>
+  <figure>
+    <img src="/images/posts/marunouchi-illumination-2025-10.jpg" alt="Disney Characters and Photo Spots">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">(Left) Disney Character Monument Close-up, (Right) Disney Characters and Photo Spots</figcaption>
+</div>
 
 <h3>2) Disney 100th Anniversary Stamp Rally</h3>
 
