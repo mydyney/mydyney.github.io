@@ -21,6 +21,20 @@
   margin: 1.5rem 0;
 }
 
+/* 단일 figure 요소 가운데 정렬 */
+.blog-container > figure,
+.blog-container figure:not(.image-group-2 figure):not(.image-group-3 figure):not(.image-group-4 figure) {
+  display: block;
+  text-align: center;
+  margin: 1.5rem auto;
+}
+
+.blog-container > figure img,
+.blog-container figure:not(.image-group-2 figure):not(.image-group-3 figure):not(.image-group-4 figure) img {
+  display: block;
+  margin: 0 auto;
+}
+
 .info-box {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
