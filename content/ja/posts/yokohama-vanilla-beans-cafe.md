@@ -86,15 +86,15 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">バニラビーンズフローズンチョコレートドリンク、ショコラフェ</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/yokohama-vanilla-beans-cafe-05.jpg" alt="横浜バニラビーンズ本店夏季限定メニュー、ホワイトピーチショコラフェ">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/yokohama-vanilla-beans-cafe-05.jpg" alt="横浜バニラビーンズ本店夏季限定メニュー、ホワイトピーチショコラフェ">
+  </figure>
+  <figure>
+    <img src="/images/posts/yokohama-vanilla-beans-cafe-06.jpg" alt="横浜バニラビーンズ本店夏季限定メニュー、ホワイトピーチショコラフェ">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">横浜バニラビーンズ本店夏季限定メニュー、ホワイトピーチショコラフェ</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/yokohama-vanilla-beans-cafe-06.jpg" alt="横浜バニラビーンズ本店夏季限定メニュー、ホワイトピーチショコラフェ">
-  <figcaption style="font-size: 0.7em; text-align: center;">横浜バニラビーンズ本店夏季限定メニュー、ホワイトピーチショコラフェ</figcaption>
-</figure>
+</div>
 
 ---
 
@@ -127,25 +127,21 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">横浜バニラビーンズパリトロワ (<a href="https://www.vanillabeans.yokohama/view/item/000000000143?category_page_id=ct58" target="_blank">出典</a>)</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/yokohama-vanilla-beans-cafe-09.jpg" alt="横浜バニラビーンズタブレットチョコレートなど様々なギフト">
+<div class="image-group-4">
+  <figure>
+    <img src="/images/posts/yokohama-vanilla-beans-cafe-09.jpg" alt="横浜バニラビーンズタブレットチョコレートなど様々なギフト">
+  </figure>
+  <figure>
+    <img src="/images/posts/yokohama-vanilla-beans-cafe-10.jpg" alt="横浜バニラビーンズタブレットチョコレートなど様々なギフト">
+  </figure>
+  <figure>
+    <img src="/images/posts/yokohama-vanilla-beans-cafe-11.jpg" alt="横浜バニラビーンズタブレットチョコレートなど様々なギフト">
+  </figure>
+  <figure>
+    <img src="/images/posts/yokohama-vanilla-beans-cafe-12.jpg" alt="横浜バニラビーンズタブレットチョコレートなど様々なギフト">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">横浜バニラビーンズタブレットチョコレートなど様々なギフト</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/yokohama-vanilla-beans-cafe-10.jpg" alt="横浜バニラビーンズタブレットチョコレートなど様々なギフト">
-  <figcaption style="font-size: 0.7em; text-align: center;">横浜バニラビーンズタブレットチョコレートなど様々なギフト</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/yokohama-vanilla-beans-cafe-11.jpg" alt="横浜バニラビーンズタブレットチョコレートなど様々なギフト">
-  <figcaption style="font-size: 0.7em; text-align: center;">横浜バニラビーンズタブレットチョコレートなど様々なギフト</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/yokohama-vanilla-beans-cafe-12.jpg" alt="横浜バニラビーンズタブレットチョコレートなど様々なギフト">
-  <figcaption style="font-size: 0.7em; text-align: center;">横浜バニラビーンズタブレットチョコレートなど様々なギフト</figcaption>
-</figure>
+</div>
 
 ---
 
