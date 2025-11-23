@@ -216,10 +216,10 @@ div.image-group-4,
     grid-template-columns: 1fr 1fr 1fr !important;
   }
 
-  /* 4개: 각 25% (한 줄에 4개) */
+  /* 4개: 2x2 레이아웃 (각 50%, 2행) */
   .blog-container .image-group-4,
   .image-group-4 {
-    grid-template-columns: 1fr 1fr 1fr 1fr !important;
+    grid-template-columns: 1fr 1fr !important;
   }
 
   /* 모바일에서 이미지 border-radius 줄임 */
