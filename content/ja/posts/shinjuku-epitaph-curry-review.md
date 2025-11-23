@@ -64,15 +64,15 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 席に着くとまず下のメニューを受け取ります。
 
-<figure>
-  <img src="/images/posts/shinjuku-epitaph-curry-review-03.jpg" alt="エピタフカレー メニュー価格、トッピング及びドリンク、注文のコツ">
-  <figcaption style="font-size: 0.7em; text-align: center;">エピタフカレー メニュー価格、トッピング及びドリンク、注文のコツ</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-epitaph-curry-review-04.jpg" alt="エピタフカレー メニューボードと注文ガイド">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-epitaph-curry-review-03.jpg" alt="エピタフカレー メニュー価格、トッピング及びドリンク、注文のコツ">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-epitaph-curry-review-04.jpg" alt="エピタフカレー メニューボードと注文ガイド">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">エピタフカレー メニューボードと注文ガイド</figcaption>
-</figure>
+</div>
 
 しかし、このメニューにはカレー名が書かれていません。
 
