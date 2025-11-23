@@ -186,20 +186,46 @@ div.image-group-4,
   color: #666;
 }
 
-/* 모바일에서는 단일 컬럼으로 변경 */
+/* 모바일에서도 한 줄에 표시 (가로 폭을 이미지 수로 나눔) */
 @media (max-width: 768px) {
   .blog-container { font-size: 0.95rem; }
   .info-box { padding: 1rem; }
   .schedule-table { font-size: 0.85rem; }
 
+  /* 모바일: 그룹 전체 폭 100%, 이미지는 한 줄에 배치 */
   .blog-container .image-group-2,
   .blog-container .image-group-3,
   .blog-container .image-group-4,
   .image-group-2,
   .image-group-3,
   .image-group-4 {
-    grid-template-columns: 1fr !important;
     width: 100% !important;
-    gap: 10px !important;
+    gap: 6px !important;
+    margin: 1.5rem 0 !important;
+  }
+
+  /* 2개: 각 50% */
+  .blog-container .image-group-2,
+  .image-group-2 {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
+  /* 3개: 각 33.33% */
+  .blog-container .image-group-3,
+  .image-group-3 {
+    grid-template-columns: 1fr 1fr 1fr !important;
+  }
+
+  /* 4개: 각 25% (한 줄에 4개) */
+  .blog-container .image-group-4,
+  .image-group-4 {
+    grid-template-columns: 1fr 1fr 1fr 1fr !important;
+  }
+
+  /* 모바일에서 이미지 border-radius 줄임 */
+  .image-group-2 img,
+  .image-group-3 img,
+  .image-group-4 img {
+    border-radius: 4px !important;
   }
 }
