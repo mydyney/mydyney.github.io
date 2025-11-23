@@ -87,22 +87,22 @@ blockquote {
   align-items: start;
 }
 
-/* 2개 나란히: 45% 사이즈 */
+/* 2개 나란히: 전체 폭 */
 .image-group-2 {
   grid-template-columns: 1fr 1fr !important;
-  max-width: 45%;
+  max-width: 100%;
 }
 
-/* 3개 나란히: 45% 사이즈 */
+/* 3개 나란히: 전체 폭 */
 .image-group-3 {
   grid-template-columns: 1fr 1fr 1fr !important;
-  max-width: 45%;
+  max-width: 100%;
 }
 
-/* 4개 타일 레이아웃: 위 2개, 아래 2개 (50% 사이즈) */
+/* 4개 타일 레이아웃: 위 2개, 아래 2개 (전체 폭) */
 .image-group-4 {
   grid-template-columns: 1fr 1fr !important;
-  max-width: 50%;
+  max-width: 100%;
 }
 
 .image-group-2 figure,
