@@ -76,15 +76,15 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 小豆の質が高く、上品で繊細な甘さがあります。
 
-<figure>
-  <img src="/images/posts/shinjuku-oiwake-dango-honpo-05.jpg" alt="新宿追分だんごあんだんご — こしあんとつぶあんの比較">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-oiwake-dango-honpo-05.jpg" alt="新宿追分だんごあんだんご — こしあんとつぶあんの比較">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-oiwake-dango-honpo-06.jpg" alt="新宿追分だんごあんだんご — こしあんとつぶあんの比較">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">新宿追分だんごあんだんご — こしあんとつぶあんの比較</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-oiwake-dango-honpo-06.jpg" alt="新宿追分だんごあんだんご — こしあんとつぶあんの比較">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿追分だんごあんだんご — こしあんとつぶあんの比較</figcaption>
-</figure>
+</div>
 
 **3️⃣ 季節限定だんご**
 
