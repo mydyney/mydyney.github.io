@@ -1,10 +1,10 @@
 ---
-title: "Tokyo Metropolitan Government Observatory: Free Admission, Night Views & Projection Mapping Guide"
-date: 2025-11-04T03:15:00+09:00
+title: "Tokyo Metropolitan Government Observatory: Free Admission, Light Show Times, Directions & Night View Tips"
+date: 2025-11-02T16:22:00+09:00
 draft: false
 translationKey: "tokyo-metropolitan-govt-observatory"
-description: "Complete guide to Tokyo Metropolitan Government Observatory's free observation deck with stunning 360° views, TOKYO Night & Light projection mapping show, and access from Shinjuku Station"
-summary: "Experience breathtaking 360° views of Tokyo for free at the Tokyo Metropolitan Government Observatory. Discover the TOKYO Night & Light projection mapping show featuring Godzilla, Gundam, and Pac-Man, plus detailed access information and visiting tips."
+description: "Complete guide to Tokyo Metropolitan Government Observatory's free observation deck - light show schedule, how to get there, closure days, and tips for enjoying Shinjuku's best night views"
+summary: "Experience breathtaking 360° views of Tokyo for free at the Tokyo Metropolitan Government Observatory. Discover the TOKYO Night & Light projection mapping show featuring Godzilla and Gundam, plus detailed access information and visiting tips."
 tags: ["tokyo", "shinjuku", "observatory", "free attraction", "night view", "projection mapping"]
 categories: ["Shinjuku/Shin-Okubo"]
 featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
@@ -12,486 +12,289 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">🏙️ Tokyo's best free attraction!<br>
-Tokyo Metropolitan Government Observatory with stunning 360° views,<br>
-Experience the spectacular TOKYO Night & Light projection mapping show,<br>
-Complete guide to one of Tokyo's must-visit spots!</p>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">🌃 Enjoy Shinjuku nights for free at the Tokyo Metropolitan Government Observatory!<br>
+See Mt. Fuji, Skytree, and Tokyo Tower from the 45th floor,<br>
+Plus the 'TOKYO Night & Light' projection mapping on the 1st floor.<br>
+Here's everything you need for the ultimate free night view experience!</p>
 
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-01.jpg" alt="Tokyo Metropolitan Government Building exterior">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Metropolitan Government Building - Iconic twin towers in Shinjuku</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-01.jpg" alt="Tokyo Metropolitan Government Observatory">
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Metropolitan Government Building - Your gateway to free panoramic views</figcaption>
 </figure>
 
-## Free Admission Observatory in the Heart of Tokyo
+⭐ Want to see all of Shinjuku's attractions, restaurants, shopping, and night views at once?
+➡️ <a href="/posts/shinjuku-complete-guide/" style="color: #667eea;">Complete Shinjuku Guide</a>
 
-The Tokyo Metropolitan Government Observatory is one of Tokyo's best-kept secrets - a completely **free observation deck** offering spectacular 360-degree panoramic views of the city. Located in the iconic twin towers of the Tokyo Metropolitan Government Building in Shinjuku, this observatory provides views rivaling those of paid attractions like Tokyo Skytree or Roppongi Hills.
+## 🌆 Tokyo Metropolitan Government Observatory Basic Information
 
-<div class="info-box">
-<ul>
-<li><strong>Admission:</strong> Completely FREE</li>
-<li><strong>Height:</strong> 202 meters (45th floor)</li>
-<li><strong>View:</strong> 360° panoramic views of Tokyo</li>
-<li><strong>Special Feature:</strong> TOKYO Night & Light projection mapping show</li>
-<li><strong>Location:</strong> 5-minute walk from Shinjuku Station</li>
-</ul>
-</div>
+### South vs North Observatory - What's the Difference?
 
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-02.jpg" alt="Panoramic view from observatory">
-  <figcaption style="font-size: 0.7em; text-align: center;">Breathtaking 360° panoramic view of Tokyo from the 45th floor</figcaption>
-</figure>
-
-## North Observatory vs South Observatory
-
-The Tokyo Metropolitan Government Building has two observatories in its twin towers. Both offer the same spectacular views, but there are some differences to note:
+<a href="https://www.zaimu.metro.tokyo.lg.jp/documents/d/zaimu/tenboukaishitsu-pdf" target="_blank" style="color: #667eea;"><strong>✅ Official Observatory Schedule (South & North operating hours)</strong></a>
 
 <table class="schedule-table">
 <thead>
 <tr>
-<th>Feature</th>
-<th>North Observatory</th>
 <th>South Observatory</th>
+<th>North Observatory</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><strong>Operating Hours</strong></td>
-<td>9:30 AM - 11:00 PM<br>(Last entry 10:30 PM)</td>
-<td>9:30 AM - 5:30 PM<br>(Last entry 5:00 PM)</td>
+<td>⏰ 9:30 - 21:30</td>
+<td>⏰ 9:30 - 17:00<br>(21:30 on South closure days)</td>
 </tr>
 <tr>
-<td><strong>Regular Closure</strong></td>
-<td>1st & 3rd Tuesday<br>(Next day if holiday)</td>
-<td>1st Tuesday<br>(Next day if holiday)</td>
+<td>📅 1st & 3rd Tuesday each month<br>(Next weekday if holiday)</td>
+<td>📅 2nd & 4th Monday each month<br>(Next weekday if holiday)</td>
 </tr>
 <tr>
-<td><strong>Views</strong></td>
-<td>Same panoramic views</td>
-<td>Same panoramic views</td>
+<td colspan="2">❌ Year-end/New Year (Dec 29-31, Jan 2-3) both observatories closed</td>
 </tr>
 <tr>
-<td><strong>Special Features</strong></td>
-<td>TOKYO Night & Light show<br>Evening/night visits</td>
-<td>Yayoi Kusama designed piano<br>Daytime only</td>
+<td colspan="2">💰 Admission: FREE</td>
 </tr>
 <tr>
-<td><strong>Cafe</strong></td>
-<td>Available</td>
-<td>Available</td>
+<td>Kusama Yayoi designed<br>"Memory Piano"</td>
+<td>-</td>
+</tr>
+<tr>
+<td>Gift Shop: TOKYO Mikke!</td>
+<td>Cafe: CAFE&SHOP SOCOCOCO</td>
 </tr>
 </tbody>
 </table>
 
-<div class="tip-box">
-<p><strong>Recommendation:</strong> Visit the North Observatory for night views and the spectacular TOKYO Night & Light projection mapping show. The South Observatory is perfect for daytime visits and features a unique piano designed by renowned artist Yayoi Kusama.</p>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/tokyo-metropolitan-govt-observatory-02.jpg" alt="South Observatory entrance">
+  </figure>
+  <figure>
+    <img src="/images/posts/tokyo-metropolitan-govt-observatory-03.jpg" alt="North Observatory entrance">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">South Observatory (left) and North Observatory (right) entrances</figcaption>
 </div>
 
+---
+
+## 🌃 360° Panoramic Views from the 45th Floor
+
+**The Tokyo Metropolitan Government Observatory stands 202 meters high**, offering a complete view of Tokyo's skyline.
+
+Check out what landmarks you can see from each direction before you go!
+
+### [Northeast] Tokyo Skytree
+
+Looking northeast, you can spot Tokyo's other symbol - the Tokyo Skytree.
+
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-03.jpg" alt="North Observatory interior">
-  <figcaption style="font-size: 0.7em; text-align: center;">North Observatory - Available for both day and night visits</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-04.jpg" alt="Skytree view diagram">
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree view from the observatory <a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank">(Source)</a></figcaption>
 </figure>
 
-## 360° Panoramic Views - What You Can See
-
-On a clear day, the observatory offers breathtaking views of Tokyo's most iconic landmarks:
-
-### Daytime Views
-
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-04.jpg" alt="Daytime view from observatory">
-  <figcaption style="font-size: 0.7em; text-align: center;">Clear daytime view showcasing Tokyo's sprawling cityscape</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-05.jpg" alt="Tokyo Skytree night view">
+  <figcaption style="font-size: 0.7em; text-align: center;">Skytree night view from the observatory</figcaption>
 </figure>
 
-- **Mount Fuji**: Visible on clear days, especially in winter (west direction)
-- **Tokyo Skytree**: The world's tallest tower at 634 meters (east direction)
-- **Tokyo Tower**: Iconic red tower in the city center
-- **Shinjuku Skyscrapers**: Surrounding high-rise buildings and business district
-- **Meiji Shrine Forest**: Green oasis in the urban landscape
+### [Southeast] Shinjuku Gyoen & Meiji Shrine
+
+Looking southeast, you'll see the massive green spaces of **Shinjuku Gyoen (Garden)** and Meiji Shrine in the heart of the city.
 
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-05.jpg" alt="Mount Fuji view">
-  <figcaption style="font-size: 0.7em; text-align: center;">Mount Fuji visible on clear days from the observatory</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-06.jpg" alt="Shinjuku Gyoen view diagram">
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen view from the observatory <a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank">(Source)</a></figcaption>
 </figure>
 
-### Night Views
-
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-06.jpg" alt="Night view from observatory">
-  <figcaption style="font-size: 0.7em; text-align: center;">Spectacular night view of Tokyo's illuminated cityscape</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-07.jpg" alt="Meiji Shrine sunset view">
+  <figcaption style="font-size: 0.7em; text-align: center;">Sunset view toward Meiji Shrine</figcaption>
 </figure>
 
-- **Tokyo Skytree**: Beautifully illuminated tower
-- **Rainbow Bridge**: Colorful bridge lighting
-- **Shinjuku Neon**: Vibrant city lights
-- **Tokyo Bay**: Waterfront area with city lights reflecting on water
-- **Endless City Lights**: The sprawling metropolis lit up at night
+### [Southwest] Shinjuku Park Tower
 
-<div class="tip-box">
-<p><strong>Best Time for Mount Fuji:</strong> Winter months (December to February) offer the clearest views of Mount Fuji. Visit early morning or late afternoon for the best visibility. The mountain is rarely visible during summer due to haze and clouds.</p>
-</div>
+Looking southwest, you'll see the distinctive **Shinjuku Park Tower** and **Tokyo Opera City**.
 
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-07.jpg" alt="Tokyo Skytree from observatory">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree illuminated at night as seen from the observatory</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-08.jpg" alt="Park Tower view diagram">
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Park Tower view from the observatory <a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank">(Source)</a></figcaption>
 </figure>
 
-## TOKYO Night & Light - Spectacular Projection Mapping Show
-
-One of the highlights of visiting the North Observatory is the **TOKYO Night & Light** projection mapping show. This free light show transforms the observatory's floor-to-ceiling windows into a stunning canvas featuring popular Japanese characters and Tokyo landmarks.
-
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-08.jpg" alt="TOKYO Night & Light projection mapping">
-  <figcaption style="font-size: 0.7em; text-align: center;">TOKYO Night & Light projection mapping show at the North Observatory</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-09.jpg" alt="Shinjuku Park Tower sunset">
+  <figcaption style="font-size: 0.7em; text-align: center;">Sunset view of Shinjuku Park Tower</figcaption>
 </figure>
 
-### Featured Programs
+### [West] Mt. Fuji (The Best View!)
 
-The projection mapping show features several themed programs throughout the year:
+Looking west on clear days, you can see **Mt. Fuji**! The best visibility is from December to February when temperatures are low and the air is clear.
 
-**1. Godzilla Program**
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-09.jpg" alt="Godzilla projection mapping">
-  <figcaption style="font-size: 0.7em; text-align: center;">Godzilla roaring through Tokyo in the projection mapping show</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-10.jpg" alt="Mt. Fuji view diagram">
+  <figcaption style="font-size: 0.7em; text-align: center;">Mt. Fuji view from the observatory <a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank">(Source)</a></figcaption>
 </figure>
 
-Experience the iconic Japanese monster Godzilla stomping through Tokyo's cityscape with dramatic sound effects and lighting.
-
-**2. Gundam Program**
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-10.jpg" alt="Gundam projection mapping">
-  <figcaption style="font-size: 0.7em; text-align: center;">Mobile Suit Gundam featured in the light show</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-11.jpg" alt="Mt. Fuji sunset">
+  <figcaption style="font-size: 0.7em; text-align: center;">Mt. Fuji at sunset from the observatory</figcaption>
 </figure>
 
-Watch the legendary Mobile Suit Gundam come to life with dynamic battle scenes projected onto the windows.
-
-**3. Pac-Man Program**
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-11.jpg" alt="Pac-Man projection mapping">
-  <figcaption style="font-size: 0.7em; text-align: center;">Classic Pac-Man game reimagined in projection mapping</figcaption>
-</figure>
-
-Enjoy the nostalgic arcade game Pac-Man in a modern projection mapping interpretation.
-
-**4. Tokyo Landmarks**
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-12.jpg" alt="Tokyo landmarks projection">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo's famous landmarks showcased in artistic projections</figcaption>
-</figure>
-
-Tour Tokyo's most famous landmarks through beautifully crafted projection art.
-
-### TOKYO Night & Light Show Schedule 2025
-
-The projection mapping show runs year-round with different seasonal themes. Here's the complete schedule:
-
-<table class="schedule-table">
-<thead>
-<tr>
-<th>Period</th>
-<th>Program Theme</th>
-<th>Show Times</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>January - March</strong></td>
-<td>Winter Illumination × Godzilla</td>
-<td>Every 30 minutes<br>First show: 5:00 PM<br>Last show: 10:30 PM</td>
-</tr>
-<tr>
-<td><strong>April - June</strong></td>
-<td>Spring Cherry Blossoms × Gundam</td>
-<td>Every 30 minutes<br>First show: 6:00 PM<br>Last show: 10:30 PM</td>
-</tr>
-<tr>
-<td><strong>July - September</strong></td>
-<td>Summer Festivals × Pac-Man</td>
-<td>Every 30 minutes<br>First show: 6:30 PM<br>Last show: 10:30 PM</td>
-</tr>
-<tr>
-<td><strong>October - December</strong></td>
-<td>Autumn Leaves × Tokyo Landmarks</td>
-<td>Every 30 minutes<br>First show: 5:00 PM<br>Last show: 10:30 PM</td>
-</tr>
-</tbody>
-</table>
-
-<div class="info-box">
-<ul>
-<li><strong>Duration:</strong> Each show is approximately 5-7 minutes</li>
-<li><strong>Frequency:</strong> Every 30 minutes</li>
-<li><strong>Location:</strong> North Observatory only</li>
-<li><strong>Admission:</strong> FREE (included with free observatory admission)</li>
-<li><strong>Best Viewing:</strong> Arrive 10 minutes before show time to secure a good spot</li>
-</ul>
-</div>
-
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-13.jpg" alt="Crowd watching projection mapping">
-  <figcaption style="font-size: 0.7em; text-align: center;">Visitors enjoying the TOKYO Night & Light show</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-12.jpg" alt="Mt. Fuji night view">
+  <figcaption style="font-size: 0.7em; text-align: center;">Mt. Fuji at night from the observatory</figcaption>
 </figure>
 
 <div class="tip-box">
-<p><strong>Photography Tip:</strong> The projection mapping looks stunning in photos! Use a tripod or stabilize your camera for better night shots. The show creates beautiful reflections on the windows combined with the real Tokyo cityscape.</p>
+<p><strong>⚠️ Tripod Use Prohibited</strong><br>
+For safety reasons, tripod photography is not allowed inside the observatory.</p>
 </div>
 
-## South Observatory - Yayoi Kusama Piano
+---
 
-While the South Observatory operates only during daytime hours, it features a unique attraction: a piano designed by world-renowned artist **Yayoi Kusama**.
+## Tokyo Sky Guide
 
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-14.jpg" alt="Yayoi Kusama piano">
-  <figcaption style="font-size: 0.7em; text-align: center;">Piano designed by Yayoi Kusama at the South Observatory</figcaption>
-</figure>
+This is an observatory-exclusive guide provided by the Tokyo Metropolitan Government. **No app installation required!**
 
-The piano features Kusama's signature polka dot design and is a popular photo spot. Occasionally, live piano performances are held at the South Observatory, creating a unique cultural experience combined with spectacular city views.
+Simply scan the QR code with your smartphone to instantly access information about observatory landmarks in multiple languages including English!
 
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-15.jpg" alt="South Observatory view">
-  <figcaption style="font-size: 0.7em; text-align: center;">Daytime view from the South Observatory</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-13.jpg" alt="Tokyo Sky Guide app">
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Observatory Guide App</strong> <a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank">(Source)</a></figcaption>
 </figure>
 
-## Access Information - How to Get There
+---
 
-The Tokyo Metropolitan Government Building is conveniently located in Shinjuku, one of Tokyo's major transportation hubs.
+## Kusama Yayoi's "Memory Piano" (South Observatory)
 
-### From Shinjuku Station
+**Hours:**
+- Morning: 10:00 - 12:00
+- Afternoon: 14:00 - 16:00
 
-**Walking Route (Recommended - 5-10 minutes)**
+**Maximum 5 minutes per person.** If you want to play again, you'll need to line up again.
+
+Duets are allowed, but joining someone mid-performance is not permitted.
 
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-16.jpg" alt="Walking route from Shinjuku Station">
-  <figcaption style="font-size: 0.7em; text-align: center;">Walking route from Shinjuku Station to Tokyo Metropolitan Government Building</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-14.jpg" alt="Kusama Yayoi Memory Piano">
+  <figcaption style="font-size: 0.7em; text-align: center;">South Observatory's "Memory Piano" designed by Kusama Yayoi <a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank">(Source)</a></figcaption>
 </figure>
 
-1. Exit from **Shinjuku Station West Exit**
-2. Walk through the underground passage towards the Metropolitan Government Building
-3. Follow signs for "Tokyo Metropolitan Government Building" (東京都庁)
-4. Surface at the building plaza
-5. Enter the main building and take the dedicated elevator to the observatory
+---
 
-**Underground Route (Weather Protection)**
-- From Shinjuku Station, use the underground passage system
-- Follow signs for "Tochomae" (都庁前)
-- Completely sheltered from rain and heat
-- Takes about 8-10 minutes
+## 🌟 Must-See! Tokyo Metropolitan Government Light Show
 
-<div class="info-box">
-<ul>
-<li><strong>From JR Shinjuku Station:</strong> West Exit → 8-10 minute walk</li>
-<li><strong>From Shinjuku Station (Metro):</strong> Exit A4 → 5 minute walk</li>
-<li><strong>From Tochomae Station:</strong> Direct underground connection</li>
-<li><strong>From Shinjuku-Nishiguchi Station:</strong> Exit D5 → 4 minute walk</li>
-</ul>
+### 'TOKYO Night & Light' Projection Mapping (Free Viewing)
+
+The best attraction in Shinjuku for 2025! This massive projection mapping show uses the east wall of the Tokyo Metropolitan Government Building No. 1 as its canvas.
+
+This show has been certified by **GUINNESS WORLD RECORDS™** as the "Largest Architectural Projection Mapping" at **13,904.956㎡**!
+
+### 1. Light Show Viewing Tips
+
+**Venue: Tokyo Metropolitan Government Citizens' Plaza** (1st floor outdoor area, NOT the observatory!)
+
+**Cost: 🌟 FREE**
+
+📌 **Pro Tip!** Watch the sunset from the observatory, then come down for the light show - the perfect course!
+
+<figure>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-15.jpg" alt="People waiting for light show">
+  <figcaption style="font-size: 0.7em; text-align: center;">Crowds gathering at Citizens' Plaza waiting for the light show</figcaption>
+</figure>
+
+### 2. 2025 Show Times (Timetable)
+
+The light show runs every evening at 30-minute intervals for 15 minutes each. (※ May be cancelled in bad weather)
+
+<figure>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-16.jpg" alt="Light show annual schedule">
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Metropolitan Government Light Show Annual Schedule</figcaption>
+</figure>
+
+**Tokyo Metropolitan Government Light Show Annual Schedule**
+
+| Time | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
+|------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+| 17:30 | ○ | | | | | | | | | | ○ | ○ |
+| 18:00 | ○ | ○ | | | | | | | | ○ | ○ | ○ |
+| 18:30 | ○ | ○ | ○ | | | | | | ○ | ○ | ○ | ○ |
+| 19:00 | ○ | ○ | ○ | ○ | | | | | ○ | ○ | ○ | ○ |
+| 19:30 | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ |
+| 20:00 | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ |
+| 20:30 | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ |
+| 21:00 | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ |
+| 21:30 | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ | ○ |
+
+### 3. Featured Programs (Godzilla, Gundam)
+
+Different shows run throughout the year, with special collaborations like 'Godzilla' and 'Gundam' being extremely popular!
+
+**TOKYO GODZILLAs** (Sat, Sun, Holidays)
+Celebrating Godzilla's 70th anniversary! Watch as Godzilla attacks the Tokyo Metropolitan Government Building, featuring an overwhelming finale with historic Godzillas.
+
+**TOKYO GUNDAM IN THE FUTURE** (Sat, Sun, Holidays)
+A space elevator heading from Tokyo to space. See 'Mobile Suits' working not as weapons of war, but for space development.
+
+**PAC-MAN eats TOKYO** (Daily)
+A giant Pac-Man game board appears on the building!
+
+※ Other programs include 'Ukiyo-e', 'Aimer' collaborations, and more.
+
+<a href="https://tokyoprojectionmappingproject.jp/en/#timetable" target="_blank" style="color: #667eea;"><strong>✅ Check Today's Program</strong></a>
+➡️ Official Program: <a href="https://tokyoprojectionmappingproject.jp/en/" target="_blank" style="color: #667eea;">https://tokyoprojectionmappingproject.jp/en/</a>
+
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/tokyo-metropolitan-govt-observatory-17.jpg" alt="Gundam light show">
+  </figure>
+  <figure>
+    <img src="/images/posts/tokyo-metropolitan-govt-observatory-18.jpg" alt="Godzilla light show">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">Gundam and Godzilla featured in the light show <a href="https://tokyoprojectionmappingproject.jp/en/contents/" target="_blank">(Source)</a></figcaption>
 </div>
 
-### By Subway
+---
 
-**Toei Oedo Line**
-- Get off at **Tochomae Station** (都庁前駅)
-- Direct underground connection to the building
-- Exit B2 leads directly to the observatory elevator lobby
-- Walking time: 1-2 minutes
+## 🧭 How to Get to the Observatory
 
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-17.jpg" alt="Tochomae Station exit">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tochomae Station - Most convenient subway access</figcaption>
-</figure>
+### 🚇 Oedo Line Tochomae Station (Most Convenient)
 
-**Tokyo Metro Marunouchi Line**
-- Get off at **Nishi-Shinjuku Station** (西新宿駅)
-- Exit 2 → 8 minute walk
-- Alternative route from Shinjuku area
+Directly connected via Exit A4.
 
-### Building Location
+### 🚶 JR Shinjuku Station (10-minute walk)
 
-<div style="margin: 2rem 0;">
-  <iframe src="https://www.google.com/maps?q=35.689487,139.691706&hl=en&z=17&output=embed"
-          width="100%" height="400"
-          style="border:0; border-radius:8px;"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <p style="text-align:center; margin-top:0.5rem; font-size:0.9rem; color:#666;">
-    <strong>Tokyo Metropolitan Government Building</strong><br>
-    2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 163-8001<br>
-    <a href="https://www.google.com/maps/place/Tokyo+Metropolitan+Government+Building/@35.689487,139.691706,17z?hl=en"
-       target="_blank"
-       style="color:#667eea;">View on Google Maps</a>
-  </p>
-</div>
+Exit from the West Exit and use the underground passage! (Highly recommended) The signs are clear, and you can walk without worrying about heat or cold.
+
+To enter the observatory, take the 'Observatory Elevator' from the 1st floor of the main building.
+
+On regular holidays (Sat, Sun, holidays), the 2nd floor entrance is closed, so you must enter through the 1st floor main entrance!
 
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-18.jpg" alt="Building entrance">
-  <figcaption style="font-size: 0.7em; text-align: center;">Main entrance to the Tokyo Metropolitan Government Building</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-19.jpg" alt="Oedo Line Tochomae Station A4 Exit">
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Oedo Line Tochomae Station</strong> Exit A4 directly connected to Tokyo Metropolitan Government Building</figcaption>
 </figure>
 
-## Practical Visitor Information
+### Wait Times & Temporary Closures
 
-### Observatory Details
+On weekends and around sunset, waits can exceed 30 minutes.
 
-<div class="info-box">
-<ul>
-<li><strong>Address:</strong> 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo 163-8001</li>
-<li><strong>Observatory Floor:</strong> 45th Floor (both North and South towers)</li>
-<li><strong>Height:</strong> 202 meters</li>
-<li><strong>Admission:</strong> FREE</li>
-<li><strong>Security:</strong> Bag check and metal detector screening required</li>
-<li><strong>Facilities:</strong> Restrooms, cafe, souvenir shop</li>
-</ul>
-</div>
+Check the <a href="https://zaimu-metro-tokyo.j-server.com/LUCAIZAIMU/ns/tl.cgi/https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou?SLANG=ja&TLANG=en&XMODE=0&XCHARSET=utf-8&XJSID=0" target="_blank" style="color: #667eea;"><strong>Tokyo Metropolitan Government website</strong></a> for temporary closures due to bad weather or real-time crowd information!
 
-### Opening Hours
-
-**North Observatory**
-- **Hours:** 9:30 AM - 11:00 PM (Last entry 10:30 PM)
-- **Closed:** 1st and 3rd Tuesday of each month (or next day if Tuesday is a holiday)
-- **Best for:** Night views, TOKYO Night & Light projection mapping
-
-**South Observatory**
-- **Hours:** 9:30 AM - 5:30 PM (Last entry 5:00 PM)
-- **Closed:** 1st Tuesday of each month (or next day if Tuesday is a holiday)
-- **Best for:** Daytime views, Yayoi Kusama piano
-
-<div class="tip-box">
-<p><strong>Holiday Closures:</strong> Both observatories close on December 29-31 and January 2-3 for New Year holidays. Always check the official website before visiting to confirm opening hours, as they may change for special events or maintenance.</p>
-</div>
+**Tokyo Tourism Official X (Twitter)**
+➡️ @tocho_tenbou (<a href="https://twitter.com/tocho_tenbou" target="_blank" style="color: #667eea;">https://twitter.com/tocho_tenbou</a>)
 
 <figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-19.jpg" alt="Observatory elevator lobby">
-  <figcaption style="font-size: 0.7em; text-align: center;">Dedicated elevator lobby for the observatory - Free admission!</figcaption>
+  <img src="/images/posts/tokyo-metropolitan-govt-observatory-20.jpg" alt="Queue waiting time">
+  <figcaption style="font-size: 0.7em; text-align: center;">Expect 30+ minute waits on weekends and around sunset</figcaption>
 </figure>
 
-### What to Bring
+---
 
-**Recommended Items:**
-- Camera or smartphone for photos
-- Light jacket (observatory can be air-conditioned)
-- Binoculars for distant views (optional)
-- Tripod for night photography (if allowed - check current policy)
+## 📍 Where to Go After the Observatory? (Shinjuku Course)
 
-**Not Allowed:**
-- Large luggage (coin lockers available on lower floors)
-- Tripods may be restricted during busy times
-- Professional filming equipment requires permission
+Experience the stunning light show and enjoy the million-dollar Shinjuku night view for free from the 45th floor!
 
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-20.jpg" alt="Observatory cafe">
-  <figcaption style="font-size: 0.7em; text-align: center;">Cafe at the observatory - Perfect for enjoying the view with a drink</figcaption>
-</figure>
+Create an unforgettable Tokyo night. 😊
 
-### Souvenir Shop
-
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-21.jpg" alt="Souvenir shop">
-  <figcaption style="font-size: 0.7em; text-align: center;">Observatory souvenir shop with Tokyo-themed gifts</figcaption>
-</figure>
-
-The observatory features a small souvenir shop selling:
-- Tokyo-themed merchandise
-- Postcards and photo prints
-- Character goods (Godzilla, Gundam, etc.)
-- Traditional Japanese crafts
-- Local snacks and sweets
-
-## Visiting Tips & Recommendations
-
-### Best Time to Visit
-
-**For Mount Fuji Views:**
-- **Season:** December to February (winter)
-- **Time:** Early morning (9:30-11:00 AM) or late afternoon
-- **Weather:** Clear, dry days after cold fronts pass through
-
-**For Night Views:**
-- **Time:** 6:00 PM - 8:00 PM (twilight to full darkness)
-- **Season:** Year-round, but winter offers clearest air
-- **Bonus:** Catch the TOKYO Night & Light projection mapping show
-
-**For Fewer Crowds:**
-- **Weekday mornings:** 9:30-11:00 AM
-- **Weekday afternoons:** 2:00-4:00 PM
-- **Avoid:** Weekends, holidays, and sunset time (5:00-7:00 PM)
-
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-22.jpg" alt="Sunset view">
-  <figcaption style="font-size: 0.7em; text-align: center;">Beautiful sunset view from the observatory - Popular but crowded time</figcaption>
-</figure>
-
-### Combining with Other Shinjuku Attractions
-
-The Tokyo Metropolitan Government Observatory is perfectly located to combine with other Shinjuku area attractions:
-
-**Nearby Attractions (5-15 minute walk):**
-- **Shinjuku Gyoen National Garden** (15 min walk) - Beautiful traditional Japanese garden
-- **Shinjuku Central Park** (5 min walk) - Urban park with seasonal events
-- **Omoide Yokocho** (10 min walk) - Traditional izakaya alley
-- **Kabukicho** (12 min walk) - Entertainment district
-- **Isetan Department Store** (15 min walk) - Luxury shopping
-
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-23.jpg" alt="Shinjuku area map">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku area map showing nearby attractions</figcaption>
-</figure>
-
-### Photography Tips
-
-<div class="tip-box">
-<p><strong>Camera Settings for Night Views:</strong></p>
-<ul>
-<li>Use manual mode or night mode</li>
-<li>ISO 800-3200 depending on light conditions</li>
-<li>Stabilize camera against window or use tripod (if allowed)</li>
-<li>Turn off flash (it reflects on windows)</li>
-<li>Shoot at an angle to minimize window reflections</li>
-<li>For projection mapping: video mode captures the show better than photos</li>
-</ul>
-</div>
-
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-24.jpg" alt="Window reflection photography">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tips for minimizing window reflections in your photos</figcaption>
-</figure>
-
-### Accessibility
-
-- Wheelchair accessible throughout
-- Dedicated elevators for observatory access
-- Accessible restrooms available
-- Staff assistance available upon request
-- Barrier-free viewing areas
-
-<figure>
-  <img src="/images/posts/tokyo-metropolitan-govt-observatory-25.jpg" alt="Accessible facilities">
-  <figcaption style="font-size: 0.7em; text-align: center;">Barrier-free access ensures everyone can enjoy the spectacular views</figcaption>
-</figure>
-
-## Why Visit Tokyo Metropolitan Government Observatory?
-
-The Tokyo Metropolitan Government Observatory offers an unbeatable combination:
-
-✅ **Completely FREE admission** - No tickets needed
-✅ **Same spectacular views** as expensive observatories
-✅ **Unique projection mapping show** - TOKYO Night & Light
-✅ **Convenient Shinjuku location** - Easy access from major stations
-✅ **Open until 11:00 PM** - Plenty of time for night views
-✅ **Cultural elements** - Yayoi Kusama piano, character programs
-✅ **Less crowded** than Tokyo Skytree or Tokyo Tower
-✅ **Multiple visit options** - Both day and night experiences
-
-Whether you're a first-time visitor to Tokyo or a seasoned traveler, the Tokyo Metropolitan Government Observatory is a must-visit attraction that offers incredible value, stunning views, and unique experiences - all without spending a yen!
-
-## Official Information
-
-**Official Website:** [Tokyo Metropolitan Government Building Observatory](https://www.yokoso.metro.tokyo.lg.jp/en/)
-
-**Contact:**
-- Phone: +81-3-5320-7890 (Observatory information)
-- Languages: Japanese, English, Chinese, Korean information available
-
-**Latest Updates:**
-- Check official website for temporary closures
-- Projection mapping schedule may vary seasonally
-- Special events and programs announced on website
+➡️ <a href="/posts/shinjuku-complete-guide/" style="color: #667eea;"><strong>Complete Shinjuku Guide: Shinjuku Gyoen, Restaurants, Shopping, Golden Gai, and More</strong></a>
 
 </div>
