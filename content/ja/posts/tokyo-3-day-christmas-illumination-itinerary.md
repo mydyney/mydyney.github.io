@@ -181,12 +181,12 @@ SuicaまたはPasmoで<br>
 <a href="#" style="color: #667eea;">(24、48、72時間)</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-05.png" alt="東京メトロパス路線図">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-05.jpg" alt="東京メトロパス路線図">
   <figcaption style="font-size: 0.7em; text-align: center;">東京メトロパス利用可能路線</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-06.png" alt="東京メトロパス利用可能地下鉄路線">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-06.jpg" alt="東京メトロパス利用可能地下鉄路線">
   <figcaption style="font-size: 0.7em; text-align: center;">東京メトロパス利用可能地下鉄路線</figcaption>
 </figure>
 
@@ -219,7 +219,7 @@ SuicaまたはPasmoで<br>
 青の洞窟イルミネーションを楽しみましょう。</p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-08.png" alt="渋谷宮下公園屋上のイルミネーション">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-08.jpg" alt="渋谷宮下公園屋上のイルミネーション">
   <figcaption style="font-size: 0.7em; text-align: center;">渋谷宮下公園屋上のイルミネーション</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ SuicaまたはPasmoで<br>
 <a href="#" style="color: #667eea;">➡️表参道おすすめコースガイド</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-09.png" alt="原宿-表参道クリスマスイルミネーション">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-09.jpg" alt="原宿-表参道クリスマスイルミネーション">
   <figcaption style="font-size: 0.7em; text-align: center;">原宿-表参道クリスマスイルミネーション</figcaption>
 </figure>
 
@@ -382,7 +382,7 @@ SuicaまたはPasmoで<br>
 <a href="#" style="color: #667eea;">➡️ 東京駅完全活動ガイド</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.png" alt="日本橋高島屋本店ポケモンセンター東京DX&ポケモンカフェ">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.jpg" alt="日本橋高島屋本店ポケモンセンター東京DX&ポケモンカフェ">
   <figcaption style="font-size: 0.7em; text-align: center;">日本橋高島屋本店 <b>ポケモンセンター東京DX&ポケモンカフェ</b></figcaption>
 </figure>
 
@@ -407,17 +407,17 @@ KITTEでディナー<br>
 <a href="#" style="color: #667eea;">待ち時間と予約のコツ</a></b>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-15.png" alt="東京駅回転寿司レストラン根室花まる">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-15.jpg" alt="東京駅回転寿司レストラン根室花まる">
   <figcaption style="font-size: 0.7em; text-align: center;">東京駅回転寿司レストラン根室花まる</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-16.png" alt="東京駅赤レンガ建築夜景">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-16.jpg" alt="東京駅赤レンガ建築夜景">
   <figcaption style="font-size: 0.7em; text-align: center;"><b>東京駅赤レンガ建築夜景</b></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-17.png" alt="東京駅丸の内イルミネーション">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-17.jpg" alt="東京駅丸の内イルミネーション">
   <figcaption style="font-size: 0.7em; text-align: center;"><b>東京駅丸の内イルミネーション</b></figcaption>
 </figure>
 
@@ -541,12 +541,12 @@ KITTEでディナー<br>
 <a href="#" style="color: #667eea;">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-23.png" alt="麻布台ヒルズクリスマスマーケット">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-23.jpg" alt="麻布台ヒルズクリスマスマーケット">
   <figcaption style="font-size: 0.7em; text-align: center;">麻布台ヒルズクリスマスマーケット</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-24.png" alt="東京タワーの景色とクリスマスマーケットを一緒に楽しめる麻布台ヒルズ">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-24.jpg" alt="東京タワーの景色とクリスマスマーケットを一緒に楽しめる麻布台ヒルズ">
   <figcaption style="font-size: 0.7em; text-align: center;">麻布台ヒルズ - 東京タワーの景色&クリスマスマーケット</figcaption>
 </figure>
 
@@ -567,7 +567,7 @@ KITTEでディナー<br>
 <a href="#" style="color: #667eea;">➡️ 六本木完全活動ガイド</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.png" alt="六本木ヒルズクリスマス">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.jpg" alt="六本木ヒルズクリスマス">
   <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズクリスマス</figcaption>
 </figure>
 
@@ -602,12 +602,12 @@ KITTEでディナー<br>
 <b>Ⓔ大江戸線で新宿駅へ</b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-27.png" alt="六本木東京ミッドタウンクリスマスイルミネーション">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-27.jpg" alt="六本木東京ミッドタウンクリスマスイルミネーション">
   <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウンクリスマスイルミネーション</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-28.png" alt="六本木東京ミッドタウンクリスマスアイスリンク">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-28.jpg" alt="六本木東京ミッドタウンクリスマスアイスリンク">
   <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウンクリスマスアイスリンク</figcaption>
 </figure>
 
@@ -635,7 +635,7 @@ KITTEでディナー<br>
 都会のオアシス新宿御苑を散策</p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-29.png" alt="東京紅葉スポット新宿御苑">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-29.jpg" alt="東京紅葉スポット新宿御苑">
   <figcaption style="font-size: 0.7em; text-align: center;">東京紅葉スポット新宿御苑 (<a href="https://www.env.go.jp/garden/shinjukugyoen/index.html" target="_blank">出典</a>)</figcaption>
 </figure>
 
@@ -716,7 +716,7 @@ KITTEでディナー<br>
 が最も現実的なおすすめ予算です。</p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-32.png" alt="六本木東京ミッドタウンサンタツリー">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-32.jpg" alt="六本木東京ミッドタウンサンタツリー">
   <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウンサンタツリー</figcaption>
 </figure>
 

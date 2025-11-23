@@ -181,12 +181,12 @@ With Suica or Pasmo<br>
 <a href="#" style="color: #667eea;">(24, 48, 72 hours)</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-05.png" alt="Tokyo Subway Ticket route map">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-05.jpg" alt="Tokyo Subway Ticket route map">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Subway Ticket Available Routes</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-06.png" alt="Tokyo Subway Ticket available subway lines">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-06.jpg" alt="Tokyo Subway Ticket available subway lines">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Subway Ticket Available Subway Lines</figcaption>
 </figure>
 
@@ -219,7 +219,7 @@ As the sun sets,<br>
 enjoy the Blue Cave illumination.</p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-08.png" alt="Shibuya Miyashita Park rooftop illumination">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-08.jpg" alt="Shibuya Miyashita Park rooftop illumination">
   <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Miyashita Park Rooftop Illumination</figcaption>
 </figure>
 
@@ -241,7 +241,7 @@ Omotesando Hills together.<br>
 <a href="#" style="color: #667eea;">➡️Omotesando Recommended Course Guide</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-09.png" alt="Harajuku-Omotesando Christmas illumination">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-09.jpg" alt="Harajuku-Omotesando Christmas illumination">
   <figcaption style="font-size: 0.7em; text-align: center;">Harajuku-Omotesando Christmas Illumination</figcaption>
 </figure>
 
@@ -381,7 +381,7 @@ Tokyo Station Character Street<br>
 <a href="#" style="color: #667eea;">➡️ Tokyo Station Complete Activity Guide</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.png" alt="Nihonbashi Takashimaya main store Pokémon Center Tokyo DX & Pokémon Cafe">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.jpg" alt="Nihonbashi Takashimaya main store Pokémon Center Tokyo DX & Pokémon Cafe">
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Takashimaya Main Store <b>Pokémon Center Tokyo DX & Pokémon Cafe</b></figcaption>
 </figure>
 
@@ -406,17 +406,17 @@ Dinner at KITTE<br>
 <a href="#" style="color: #667eea;">Wait time and reservation tips</a></b>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-15.png" alt="Tokyo Station kaiten sushi restaurant Nemuro Hanamaru">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-15.jpg" alt="Tokyo Station kaiten sushi restaurant Nemuro Hanamaru">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Kaiten Sushi Restaurant Nemuro Hanamaru</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-16.png" alt="Tokyo Station red brick building night view">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-16.jpg" alt="Tokyo Station red brick building night view">
   <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Station Red Brick Building Night View</b></figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-17.png" alt="Tokyo Station Marunouchi illumination">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-17.jpg" alt="Tokyo Station Marunouchi illumination">
   <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Station Marunouchi Illumination</b></figcaption>
 </figure>
 
@@ -540,12 +540,12 @@ Enjoy Tokyo Tower view and Christmas Market<br>
 <a href="#" style="color: #667eea;">➡️ Azabudai Hills Complete Guide</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-23.png" alt="Azabudai Hills Christmas Market">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-23.jpg" alt="Azabudai Hills Christmas Market">
   <figcaption style="font-size: 0.7em; text-align: center;">Azabudai Hills Christmas Market</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-24.png" alt="Azabudai Hills where you can enjoy Tokyo Tower view and Christmas market together">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-24.jpg" alt="Azabudai Hills where you can enjoy Tokyo Tower view and Christmas market together">
   <figcaption style="font-size: 0.7em; text-align: center;">Azabudai Hills - Tokyo Tower View & Christmas Market</figcaption>
 </figure>
 
@@ -566,7 +566,7 @@ Keyakizaka Illumination<br>
 <a href="#" style="color: #667eea;">➡️ Roppongi Complete Activity Guide</a></b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.png" alt="Roppongi Hills Christmas">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.jpg" alt="Roppongi Hills Christmas">
   <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Hills Christmas</figcaption>
 </figure>
 
@@ -601,12 +601,12 @@ for complete conquest.<br>
 <b>Ⓔ Oedo Line to Shinjuku Station</b></p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-27.png" alt="Roppongi Tokyo Midtown Christmas illumination">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-27.jpg" alt="Roppongi Tokyo Midtown Christmas illumination">
   <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Tokyo Midtown Christmas Illumination</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-28.png" alt="Roppongi Tokyo Midtown Christmas ice rink">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-28.jpg" alt="Roppongi Tokyo Midtown Christmas ice rink">
   <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Tokyo Midtown Christmas Ice Rink</figcaption>
 </figure>
 
@@ -634,7 +634,7 @@ After hotel checkout, drop luggage<br>
 Walk in urban oasis Shinjuku Gyoen</p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-29.png" alt="Tokyo autumn foliage spot Shinjuku Gyoen">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-29.jpg" alt="Tokyo autumn foliage spot Shinjuku Gyoen">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Autumn Foliage Spot Shinjuku Gyoen (<a href="https://www.env.go.jp/garden/shinjukugyoen/index.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
@@ -714,7 +714,7 @@ approximately 500,000-700,000 won (50,000-70,000 yen) per person<br>
 is the most realistic recommended budget.</p>
 
 <figure>
-  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-32.png" alt="Roppongi Tokyo Midtown Santa tree">
+  <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-32.jpg" alt="Roppongi Tokyo Midtown Santa tree">
   <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Tokyo Midtown Santa Tree</figcaption>
 </figure>
 
