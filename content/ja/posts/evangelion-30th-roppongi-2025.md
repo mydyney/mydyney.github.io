@@ -136,15 +136,15 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <p>1995年10月4日、「新世紀エヴァンゲリオン」TVシリーズは数多くの試行錯誤の末に誕生しました。今回の展示では、作品の設計図と呼ばれる「設定資料」原本を通じて、この膨大な世界観がどのように企画されたのか、その誕生の瞬間を直接確認できます。</p>
 
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-07.jpg" alt="エヴァンゲリオン30周年展の初期設定資料">
-  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展の初期設定資料</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-08.jpg" alt="エヴァンゲリオン30周年展のキャラクター設定シート">
-  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展のキャラクター設定シート</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-07.jpg" alt="エヴァンゲリオン30周年展の初期設定資料">
+  </figure>
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-08.jpg" alt="エヴァンゲリオン30周年展のキャラクター設定シート">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン30周年展の初期設定資料およびキャラクター設定シートが展示された様子</figcaption>
+</div>
 
 <h4>（2）TV版：「セル画」原本270点 🖼️</h4>
 
@@ -199,15 +199,15 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 <li><strong>🎬 絵コンテと予告編：</strong> フィルム制作の基礎となる<strong>絵コンテ（ストーリーボード）</strong>とともに、多くのファンの記憶に残る「葛城ミサト」のナレーションが入ったTV版予告編映像集も上映されます。約30秒の予告編を通じて、放映当時視聴者が感じたあの期待感と緊張感を一緒に体験してみてください。</li>
 </ul>
 
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-15.jpg" alt="エヴァンゲリオン特別展応援メッセージ">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-15.jpg" alt="エヴァンゲリオン特別展応援メッセージ">
+  </figure>
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-16.jpg" alt="エヴァンゲリオン特別展応援メッセージ">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン特別展応援メッセージ</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-16.jpg" alt="エヴァンゲリオン特別展応援メッセージ">
-  <figcaption style="font-size: 0.7em; text-align: center;">エヴァンゲリオン特別展応援メッセージ</figcaption>
-</figure>
+</div>
 
 <h2>🎁 公式グッズおよびコラボドリンク</h2>
 
@@ -251,15 +251,15 @@ A: いいえ、安全と混雑防止のため、再入場は一般的に不可�
 <p><strong>Q2. エヴァンゲリオン30周年グッズだけを別に買えますか？</strong><br>
 A: いいえ、グッズショップは展示鑑賞を終えた後の退場動線に位置しています。展覧会入場が必要です。</p>
 
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-19.jpg" alt="六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-19.jpg" alt="六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター">
+  </figure>
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-20.jpg" alt="六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-20.jpg" alt="六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター">
-  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ東京シティビューに貼られているエヴァンゲリオン30周年記念特別展公式案内ポスター</figcaption>
-</figure>
+</div>
 
 <h2>🚍 六本木ヒルズ（東京シティビュー）へのアクセス</h2>
 
@@ -277,15 +277,15 @@ A: いいえ、グッズショップは展示鑑賞を終えた後の退場動�
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">六本木ヒルズへのアクセスとコインロッカー位置</a></strong></p>
 
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-21.jpg" alt="六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-21.jpg" alt="六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景">
+  </figure>
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-22.jpg" alt="六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-22.jpg" alt="六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景">
-  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ展望台東京シティビューから眺める東京タワーと東京スカイツリーのパノラマ夜景</figcaption>
-</figure>
+</div>
 
 <h2>おわりに</h2>
 
