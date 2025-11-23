@@ -64,15 +64,15 @@ Of course, its reputation as a Tabelog top 100 restaurant (3.76 rating) remains 
 
 When you sit down, you'll first receive the menu below.
 
-<figure>
-  <img src="/images/posts/shinjuku-epitaph-curry-review-03.jpg" alt="Epitaph Curry menu prices, toppings and drinks, ordering tips">
-  <figcaption style="font-size: 0.7em; text-align: center;">Epitaph Curry menu prices, toppings and drinks, ordering tips</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-epitaph-curry-review-04.jpg" alt="Epitaph Curry menu board and ordering guide">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-epitaph-curry-review-03.jpg" alt="Epitaph Curry menu prices, toppings and drinks, ordering tips">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-epitaph-curry-review-04.jpg" alt="Epitaph Curry menu board and ordering guide">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Epitaph Curry menu board and ordering guide</figcaption>
-</figure>
+</div>
 
 However, this menu doesn't have the curry names written on it.
 

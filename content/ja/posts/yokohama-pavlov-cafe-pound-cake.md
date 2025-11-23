@@ -49,15 +49,15 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">横浜パブロフ元町本店の看板</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-04.jpg" alt="パブロフカフェ クラシックな店内">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-04.jpg" alt="パブロフカフェ クラシックな店内">
+  </figure>
+  <figure>
+    <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="パブロフカフェ クラシックな店内">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">横浜食べログ百名店カフェ パブロフのクラシックな店内の様子</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-05.jpg" alt="パブロフカフェ クラシックな店内">
-  <figcaption style="font-size: 0.7em; text-align: center;">横浜食べログ百名店カフェ パブロフのクラシックな店内の様子</figcaption>
-</figure>
+</div>
 
 ---
 
