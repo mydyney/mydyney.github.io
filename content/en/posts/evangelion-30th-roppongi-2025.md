@@ -136,15 +136,15 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <p>On October 4, 1995, the 'Neon Genesis Evangelion' TV series was born after countless trials and errors. This exhibition allows you to directly witness the birth through original 'setting materials' - the blueprints that show how this vast worldview was conceived.</p>
 
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-07.jpg" alt="Initial setting materials from Evangelion 30th Anniversary Exhibition">
-  <figcaption style="font-size: 0.7em; text-align: center;">Initial setting materials from Evangelion 30th Anniversary Exhibition</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-08.jpg" alt="Character setting sheets on display at Evangelion 30th Anniversary Exhibition">
-  <figcaption style="font-size: 0.7em; text-align: center;">Character setting sheets on display at Evangelion 30th Anniversary Exhibition</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-07.jpg" alt="Initial setting materials from Evangelion 30th Anniversary Exhibition">
+  </figure>
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-08.jpg" alt="Character setting sheets on display at Evangelion 30th Anniversary Exhibition">
+  </figure>
+  <figcaption style="font-size: 0.7em; text-align: center;">Initial setting materials and character setting sheets on display at Evangelion 30th Anniversary Exhibition</figcaption>
+</div>
 
 <h4>(2) TV Series: 270 Original Cel Artworks 🖼️</h4>
 
@@ -199,15 +199,15 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 <li><strong>🎬 Storyboards and Previews:</strong> Along with <strong>storyboards</strong> that form the basis of film production, a compilation of TV series preview videos featuring the memorable narration by 'Misato Katsuragi' is also screened. Through the approximately 30-second previews, experience the anticipation and tension that viewers felt during the original broadcast.</li>
 </ul>
 
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-15.jpg" alt="Evangelion special exhibition support messages">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-15.jpg" alt="Evangelion special exhibition support messages">
+  </figure>
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-16.jpg" alt="Evangelion special exhibition support messages">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Evangelion special exhibition support messages</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-16.jpg" alt="Evangelion special exhibition support messages">
-  <figcaption style="font-size: 0.7em; text-align: center;">Evangelion special exhibition support messages</figcaption>
-</figure>
+</div>
 
 <h2>🎁 Official Goods and Collaboration Drinks</h2>
 
@@ -251,15 +251,15 @@ A: No, re-entry is generally not allowed for safety and crowd control.</p>
 <p><strong>Q2. Can I buy Evangelion 30th Anniversary goods separately?</strong><br>
 A: No, the goods shop is located along the exit route after viewing the exhibition. Exhibition entry is required.</p>
 
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-19.jpg" alt="Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-19.jpg" alt="Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View">
+  </figure>
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-20.jpg" alt="Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-20.jpg" alt="Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View">
-  <figcaption style="font-size: 0.7em; text-align: center;">Official information poster for Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View</figcaption>
-</figure>
+</div>
 
 <h2>🚍 How to Get to Roppongi Hills (Tokyo City View)</h2>
 
@@ -277,15 +277,15 @@ A: No, the goods shop is located along the exit route after viewing the exhibiti
      Hugo: /posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">How to Get to Roppongi Hills and Coin Locker Locations</a></strong></p>
 
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-21.jpg" alt="Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-21.jpg" alt="Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory">
+  </figure>
+  <figure>
+    <img src="/images/posts/evangelion-30th-roppongi-2025-22.jpg" alt="Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/evangelion-30th-roppongi-2025-22.jpg" alt="Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory">
-  <figcaption style="font-size: 0.7em; text-align: center;">Panoramic Tokyo night view of Tokyo Tower and Tokyo Skytree from Roppongi Hills Tokyo City View Observatory</figcaption>
-</figure>
+</div>
 
 <h2>Conclusion</h2>
 
