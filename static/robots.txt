@@ -1,0 +1,18 @@
+# robots.txt for tripmate.news
+# Tokyo Mate - Tokyo Travel Guide
+
+User-agent: *
+Allow: /
+
+# Sitemap locations
+Sitemap: https://tripmate.news/sitemap.xml
+Sitemap: https://tripmate.news/en/sitemap.xml
+Sitemap: https://tripmate.news/ja/sitemap.xml
+
+# Crawl-delay (optional, be nice to server)
+Crawl-delay: 1
+
+# Disallow admin/system paths (if any)
+Disallow: /admin/
+Disallow: /.git/
+Disallow: /resources/

@@ -43,6 +43,13 @@ googleAnalytics = "G-NZ22T8HRR3"
   recent_posts_number = 3
   # Google AdSense
   adsense_publisher_id = "ca-pub-8704780774924832"
+  # SEO 설정
+  author = "Tokyo Mate"
+  keywords = ["Tokyo travel", "Japan travel guide", "Tokyo restaurants", "Tokyo tourism", "Japan food", "Tokyo tips"]
+  # Site verification (add your codes when available)
+  # google_site_verification = "your-google-verification-code"
+  # naver_site_verification = "your-naver-verification-code"
+  # bing_site_verification = "your-bing-verification-code"
 
 # 추가 권장 설정
 [sitemap]
