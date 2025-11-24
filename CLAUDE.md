@@ -465,6 +465,171 @@ translationKey: "tokyo-guide-2025"
 
 **Note:** Korean language support has been removed. Only create English and Japanese versions.
 
+### SEO-Optimized Content Conversion (Korean → EN/JA)
+
+When converting Korean Naver blog posts to English and Japanese, follow these SEO optimization guidelines:
+
+#### 1. Title Optimization
+
+**English Titles:**
+- Length: **50-60 characters** (optimal for Google SERP)
+- Include primary keyword near the beginning
+- Use power words: "Complete Guide", "Best", "Top", "2025", etc.
+- Format: `[Primary Keyword]: [Benefit/Detail] | [Year/Location]`
+
+**Japanese Titles:**
+- Length: **30-35 characters** (Japanese characters count more)
+- Include primary keyword (in Japanese)
+- Use engaging suffixes: `完全ガイド`, `徹底解説`, `おすすめ`, `まとめ`
+- Format: `【場所/イベント】[キーワード]の[ベネフィット]`
+
+**Examples:**
+```yaml
+# English
+title: "Roppongi Christmas Illumination 2025: Complete Guide to Tokyo's Best Light Display"
+
+# Japanese
+title: "【六本木】クリスマスイルミネーション2025完全ガイド"
+```
+
+#### 2. Meta Description Optimization
+
+**English Description:**
+- Length: **150-160 characters**
+- Include primary + secondary keywords naturally
+- Add call-to-action or value proposition
+- Mention location (Tokyo, Japan) for local SEO
+
+**Japanese Description:**
+- Length: **100-120 characters** (Japanese)
+- Include relevant Japanese keywords
+- Natural, engaging tone
+- End with appeal: `必見です`, `チェック`, `おすすめ`
+
+**Examples:**
+```yaml
+# English
+description: "Complete guide to Roppongi Christmas Illumination 2025 in Tokyo. Dates, hours, best photo spots, access info, and insider tips for the perfect winter visit."
+
+# Japanese
+description: "六本木クリスマスイルミネーション2025の完全ガイド。開催期間、点灯時間、撮影スポット、アクセス情報を徹底解説。冬の東京観光に必見です。"
+```
+
+#### 3. URL Slug Optimization
+
+**Rules:**
+- Use **English keywords only** (even for Japanese posts)
+- Lowercase, hyphen-separated
+- Include primary keyword + location/year if relevant
+- Keep under 60 characters
+- Avoid stop words (the, a, an, of, etc.)
+
+**Examples:**
+```
+✅ Good: roppongi-christmas-illumination-2025
+✅ Good: shinjuku-gyoen-autumn-guide
+✅ Good: tokyo-ramen-street-best-shops
+
+❌ Bad: the-best-roppongi-christmas-illumination-of-2025
+❌ Bad: 六本木イルミネーション (Japanese characters)
+❌ Bad: roppongi_christmas_illumination (underscores)
+```
+
+#### 4. Heading Structure (H2/H3)
+
+**SEO Heading Rules:**
+- **H1**: Title only (automatically from front matter)
+- **H2**: Main sections with keywords
+- **H3**: Subsections for detailed topics
+- Include keywords naturally in H2 headings
+
+**English H2 Examples:**
+```html
+<h2>📍 Location & Access Information</h2>
+<h2>🎄 2025 Event Schedule & Hours</h2>
+<h2>📸 Best Photo Spots</h2>
+<h2>🍽️ Nearby Restaurants & Cafes</h2>
+<h2>💡 Insider Tips for Your Visit</h2>
+```
+
+**Japanese H2 Examples:**
+```html
+<h2>📍 アクセス・場所情報</h2>
+<h2>🎄 2025年開催スケジュール</h2>
+<h2>📸 おすすめ撮影スポット</h2>
+<h2>🍽️ 周辺グルメ・カフェ情報</h2>
+<h2>💡 訪問のコツ・注意点</h2>
+```
+
+#### 5. Image Alt Text Optimization
+
+**Rules:**
+- Describe the image content clearly
+- Include relevant keywords naturally
+- Language-specific alt text (EN for English posts, JA for Japanese)
+- Max 125 characters
+
+**Format:** `[Subject] [Action/State] [Location/Context]`
+
+**Examples:**
+```html
+<!-- English -->
+<img src="..." alt="Roppongi Hills Christmas illumination display with giant Christmas tree at night">
+<img src="..." alt="Tokyo Skytree Christmas market food stalls with visitors">
+
+<!-- Japanese -->
+<img src="..." alt="六本木ヒルズのクリスマスイルミネーション、巨大ツリーの夜景">
+<img src="..." alt="東京スカイツリーのクリスマスマーケット、屋台と来場者">
+```
+
+#### 6. Keyword Strategy by Language
+
+**English Keywords Focus:**
+- "Tokyo [topic] guide"
+- "[Location] travel tips"
+- "Best [topic] in Tokyo"
+- "[Event] 2025 dates hours"
+- "Japan travel [topic]"
+
+**Japanese Keywords Focus:**
+- 「東京 [トピック] おすすめ」
+- 「[場所] 観光 ガイド」
+- 「[イベント] 2025 日程」
+- 「[場所] アクセス 行き方」
+- 「[トピック] 完全ガイド」
+
+#### 7. Content Structure for SEO
+
+**Recommended Structure:**
+1. **Intro** (100-150 words) - Hook + what reader will learn
+2. **Key Info Box** - Dates, hours, location, admission (quick reference)
+3. **Main Content** - H2 sections with images
+4. **Practical Info** - Access, tips, nearby attractions
+5. **Map Embed** - Google Maps for location
+6. **Related Posts** - Internal links (auto-generated)
+
+**Internal Linking:**
+- Link to related posts using mapped Hugo URLs
+- Use descriptive anchor text (not "click here")
+- 2-3 internal links per 1000 words
+
+#### 8. SEO Checklist for Each Post
+
+Before finalizing any converted post, verify:
+
+```
+□ Title: EN 50-60 chars / JA 30-35 chars with keyword
+□ Description: EN 150-160 chars / JA 100-120 chars with keyword
+□ Slug: English, keyword-rich, under 60 chars
+□ H2 headings: Include keywords, use emojis for visual appeal
+□ Images: All have descriptive alt text in target language
+□ featured_image: Set for social media preview
+□ translationKey: Identical across EN/JA versions
+□ Tags: 5-7 relevant tags per post
+□ Categories: 1-2 appropriate categories
+□ Internal links: Link to related posts where relevant
+```
+
 ### Images
 
 **Naming Convention:**
