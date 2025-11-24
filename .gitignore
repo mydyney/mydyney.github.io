@@ -1,0 +1,35 @@
+# Hugo build output - Let GitHub Actions handle this
+public/
+
+# Hugo resources cache
+resources/_gen/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+
+# Local environment files
+.env
+.env.local
+
+# Node modules (if any)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Naver blog HTML files (for migration)
+*.html
+!layouts/**/*.html
+!themes/**/*.html
