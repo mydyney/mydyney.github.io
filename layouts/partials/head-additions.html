@@ -10,3 +10,46 @@
 
 <!-- Related Posts Styles -->
 <link rel="stylesheet" href="{{ "css/related-posts.css" | relURL }}">
+
+<!-- SEO: Hreflang tags for multilingual support -->
+{{ if .IsTranslated }}
+  {{- $defined := dict .Language.Lang . -}}
+  {{- range .Translations -}}
+    {{- $defined = merge $defined (dict .Language.Lang .) -}}
+  {{- end -}}
+  {{- range $lang, $page := $defined -}}
+    <link rel="alternate" hreflang="{{ $lang }}" href="{{ $page.Permalink }}">
+  {{- end -}}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{ else }}
+  {{- range .Site.Languages -}}
+    {{- if eq .Lang $.Site.Language.Lang -}}
+      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ $.Permalink }}">
+      <link rel="alternate" hreflang="x-default" href="{{ $.Permalink }}">
+    {{- end -}}
+  {{- end -}}
+{{ end }}
+
+<!-- SEO: Additional meta tags -->
+<meta name="theme-color" content="#667eea">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="format-detection" content="telephone=no">
+
+<!-- SEO: Site verification (add your codes here if needed) -->
+{{- with .Site.Params.google_site_verification }}
+<meta name="google-site-verification" content="{{ . }}">
+{{- end }}
+{{- with .Site.Params.naver_site_verification }}
+<meta name="naver-site-verification" content="{{ . }}">
+{{- end }}
+{{- with .Site.Params.bing_site_verification }}
+<meta name="msvalidate.01" content="{{ . }}">
+{{- end }}
+
+<!-- Favicon -->
+<link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
