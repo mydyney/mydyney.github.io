@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-24
-> **Status:** ✅ Complete - 39 posts mapped
+> **Status:** ✅ Complete - 40 posts mapped
 
 ---
 
@@ -59,6 +59,7 @@ When migrating a Naver blog post to Hugo:
 | 224050488006 | japan-convenience-store-shopping-best-10 | 2025-10-23 | ✅ |
 | 224050101070 | ikebukuro-complete-guide | 2025-10-22 | ✅ |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
+| 223992588094 | tokyo-september-festivals-2025 | 2025-09-02 | ✅ |
 
 ---
 
@@ -74,11 +75,13 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223678791563 | yebisu-garden-place-illumination-christmas-market-2025 | How to Get to Yebisu Garden Place and Coin Locker Locations |
 | 223681272647 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025 | How to Get to Roppongi Hills and Coin Locker Locations |
 | 223987954990 | evangelion-30th-roppongi-2025 | 2025 Roppongi Hills Observatory Complete Guide |
-| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket, meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025 | Complete Guide to Roppongi Attractions |
+| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket, meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-september-festivals-2025 | Complete Guide to Roppongi Attractions |
 | 223991251786 | shinanoya-roppongi-hills-supermarket | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
 | 223993881300 | evangelion-30th-roppongi-2025 | Tokyo Roppongi Restaurant Map |
 | 224010546735 | shinanoya-roppongi-hills-supermarket | Japanese Whisky Recommendations and Price Guide |
+| 224024530348 | tokyo-september-festivals-2025 | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025, tokyo-christmas-markets-guide-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
+| 223989943826 | tokyo-september-festivals-2025 | Ginza Must-Visit Spots Complete Guide (Shopping, Restaurants, Tips) |
 | 224042431249 | roppongi-hills-hello-kitty-popup-2025, yebisu-garden-place-illumination-christmas-market-2025, tokyo-christmas-markets-guide-2025 | 2025 Tokyo Christmas Illumination BEST 5 (Omotesando, Marunouchi) |
 | 224044938913 | tamiya-plamodel-factory-tokyo-shimbashi | Tokyo Shimbashi & Shiodome Must-Visit Places Guide (Restaurants, Night Views) |
 | 224035271300 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025 | Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping |
@@ -169,6 +172,7 @@ declare -A MAPPINGS=(
   ["224050488006"]="japan-convenience-store-shopping-best-10"
   ["224050101070"]="ikebukuro-complete-guide"
   ["223664743235"]="shinanoya-roppongi-hills-supermarket"
+  ["223992588094"]="tokyo-september-festivals-2025"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -189,10 +193,10 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 39
-- **Naver IDs Tracked:** 39
-- **Posts with Internal Links:** 13+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025)
-- **Pending References:** 35
+- **Total Posts Migrated:** 40
+- **Naver IDs Tracked:** 40
+- **Posts with Internal Links:** 14+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-september-festivals-2025)
+- **Pending References:** 37
 - **Links Updated:** 0 (all links in posts need migration)
 - **Last Migration Date:** 2025-11-24
 
