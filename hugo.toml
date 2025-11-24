@@ -46,8 +46,8 @@ googleAnalytics = "G-NZ22T8HRR3"
   # SEO 설정
   author = "Tokyo Mate"
   keywords = ["Tokyo travel", "Japan travel guide", "Tokyo restaurants", "Tokyo tourism", "Japan food", "Tokyo tips"]
-  # Site verification (add your codes when available)
-  # google_site_verification = "your-google-verification-code"
+  # Site verification
+  google_site_verification = "d6lMOY48NTiBYDen3-BEN08FCjQkm0FqKK7XTgBJHiE"
   # naver_site_verification = "your-naver-verification-code"
   # bing_site_verification = "your-bing-verification-code"
 
