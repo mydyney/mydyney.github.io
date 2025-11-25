@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-24
-> **Status:** ✅ Complete - 47 posts mapped
+> **Status:** ✅ Complete - 48 posts mapped
 
 ---
 
@@ -67,6 +67,7 @@ When migrating a Naver blog post to Hugo:
 | 224085135200 | azabudai-hills-christmas-market-2025 | 2025-11-23 | ✅ |
 | 224085358394 | roppongi-hills-christmas-market-2025 | 2025-11-23 | ✅ |
 | 224085512487 | tokyo-node-dining-toranomon-hills-lunch | 2025-11-23 | ✅ |
+| 224086214573 | meiji-jingu-gaien-christmas-market-2025 | 2025-11-24 | ✅ |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 | 223992588094 | tokyo-september-festivals-2025 | 2025-09-02 | ✅ |
 
@@ -118,7 +119,6 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223989943826 | tokyo-october-festivals-2025 | Complete Guide to Ginza Attractions (Shopping, Restaurants, Tips) |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
-| 224086214573 | tokyo-christmas-markets-guide-2025 | 2025 Meiji Jingu Gaien Christmas Market: Tickets & Mug Benefits Guide |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -193,6 +193,7 @@ declare -A MAPPINGS=(
   ["224085135200"]="azabudai-hills-christmas-market-2025"
   ["224085358394"]="roppongi-hills-christmas-market-2025"
   ["224085512487"]="tokyo-node-dining-toranomon-hills-lunch"
+  ["224086214573"]="meiji-jingu-gaien-christmas-market-2025"
   ["223664743235"]="shinanoya-roppongi-hills-supermarket"
   ["223992588094"]="tokyo-september-festivals-2025"
 )
@@ -215,10 +216,10 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 47
-- **Naver IDs Tracked:** 47
-- **Posts with Internal Links:** 16+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025)
-- **Pending References:** 33
+- **Total Posts Migrated:** 48
+- **Naver IDs Tracked:** 48
+- **Posts with Internal Links:** 17+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025)
+- **Pending References:** 32
 - **Links Updated:** 0 (all links in posts need migration)
 - **Last Migration Date:** 2025-11-24
 
