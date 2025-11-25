@@ -1520,12 +1520,145 @@ See `/LINK_MAPPING.md` for complete tracking database with 30 mapped posts.
   - Re-run script until validation passes
 - User commits and pushes images
 
-**Step 4: Test and Deploy**
+**Step 4: Test Locally**
 - Test locally with `hugo server -D`
 - Verify all images display correctly
 - Check social media preview (featured_image)
-- Push to remote branch
-- Create Pull Request
+- Verify all internal links work correctly
+- Test responsive design on mobile/tablet
+
+**Step 5: Create Pull Request**
+
+After completing EN/JA blog post creation, commit changes and create a PR with detailed information.
+
+**5.1. Commit and Push:**
+```bash
+# Stage all changes
+git add LINK_MAPPING.md content/en/posts/*.md content/ja/posts/*.md
+
+# Commit with descriptive message
+git commit -m "Add [Post Title] blog post (EN/JA) with link conversion"
+
+# Push to branch
+git push -u origin claude/[branch-name]
+```
+
+**5.2. Create PR via GitHub Web Interface:**
+
+⚠️ **Note:** The `gh` CLI is not available in this environment. Create PR manually via GitHub web interface.
+
+**PR Title Format:**
+```
+Add [Post Title] Blog Post (EN/JA) with [Key Feature]
+```
+
+**Examples:**
+- `Add Meiji Jingu Gaien Christmas Market 2025 Blog Post (EN/JA) with Full Link Conversion`
+- `Add Roppongi Hills Illumination 2025 Blog Post (EN/JA) with SEO Optimization`
+
+**PR Description Template:**
+```markdown
+## Summary
+[1-2 sentence overview of the blog post content and key features]
+
+## Changes
+
+### 1. New Blog Posts Created
+- **English Version:** `content/en/posts/[slug].md`
+  - SEO-optimized title ([X] chars): "[Full Title]"
+  - Meta description ([X] chars) for social media preview
+  - [X] image references with descriptive alt text
+  - All [X] internal links converted to Hugo format
+
+- **Japanese Version:** `content/ja/posts/[slug].md`
+  - Japanese title ([X] chars): "[Japanese Title]"
+  - Same translationKey for multilingual coordination
+  - All [X] internal links converted with `/ja/` prefix
+  - Same [X] image references
+
+### 2. Link Mapping Database Updated
+- **File:** `LINK_MAPPING.md`
+- Added new post entry: `[Naver ID] → [slug]`
+- Updated statistics: [N] → [N+1] posts migrated
+- Removed post from "Pending Link References" section (if applicable)
+- Added mapping to batch conversion script
+
+## Internal Link Conversion Details
+
+**Total Links Found:** [X]
+**Successfully Converted:** [X] ([XX]% ✅)
+
+Converted posts:
+- [list of converted post slugs]
+
+## Content Highlights
+
+### Event/Topic Information Covered
+- [Key point 1]
+- [Key point 2]
+- [Key point 3]
+
+### SEO Optimization
+- ✅ Keyword-rich titles (EN 50-60 chars, JA 30-35 chars)
+- ✅ Meta descriptions within character limits
+- ✅ Descriptive alt text for all images
+- ✅ Structured H2/H3 headings with keywords
+- ✅ Internal linking to related content
+- ✅ Featured image for social media preview
+
+## Testing
+
+✅ All internal links verified against LINK_MAPPING.md
+✅ TranslationKey consistent across EN/JA versions
+✅ Front matter validation (dates, categories, tags)
+✅ Image paths follow naming convention
+✅ Hugo syntax validation
+
+## Files Changed
+
+- `content/en/posts/[slug].md` (new, [X] lines)
+- `content/ja/posts/[slug].md` (new, [X] lines)
+- `LINK_MAPPING.md` (modified, +[X] lines)
+
+## Breaking Changes
+
+None
+
+## Next Steps After Merge
+
+1. Download images using migration script:
+   ```bash
+   python3 download_naver_images.py naver.html [slug]
+   ```
+
+2. Commit and push images ([X] files)
+
+3. Verify production deployment at:
+   - EN: https://tripmate.news/posts/[slug]/
+   - JA: https://tripmate.news/ja/posts/[slug]/
+
+## Related
+
+- Naver Blog Post ID: [ID]
+- Migration Session: [branch-name]
+- LINK_MAPPING.md: Updated to [N] posts
+```
+
+**5.3. PR Creation Checklist:**
+
+Before creating the PR, ensure:
+- ✅ Branch name follows convention: `claude/[descriptive-name]-[session-id]`
+- ✅ All files committed and pushed
+- ✅ PR title is clear and descriptive
+- ✅ PR description includes all sections (Summary, Changes, Testing, Files Changed)
+- ✅ Internal link conversion details documented
+- ✅ SEO optimization checklist completed
+- ✅ Next steps clearly outlined
+
+**Step 6: After PR Merge**
+- Download images using migration script
+- Commit and push images to main branch
+- Verify production deployment
 
 **Example Workflow:**
 
@@ -1556,9 +1689,23 @@ python3 download_naver_images.py naver.html marunouchi-illumination-2025
 #               static/images/posts/marunouchi-illumination-2025-02.jpg
 #               ... (22 total, auto-converted to JPG)
 
-# Step 4: Test and deploy
+# Step 4: Test locally
 hugo server -D
 # User verifies everything works (including auto-converted links!)
+
+# Step 5: Create Pull Request
+# 5.1. Commit and push blog posts
+git add LINK_MAPPING.md content/en/posts/marunouchi-illumination-2025.md content/ja/posts/marunouchi-illumination-2025.md
+git commit -m "Add Marunouchi Illumination 2025 blog post (EN/JA) with link conversion"
+git push -u origin claude/translate-korean-doc-01HHJyhanP2K842HsBJapxDG
+
+# 5.2. Create PR via GitHub web interface with:
+#   - Title: "Add Marunouchi Illumination 2025 Blog Post (EN/JA) with Full Link Conversion"
+#   - Description: Use PR template from Step 5 above
+#   - Include: Summary, Changes, Link Conversion Details, Testing, Files Changed
+
+# Step 6: After PR merge - Download and commit images
+python3 download_naver_images.py naver.html marunouchi-illumination-2025
 git add static/images/posts/marunouchi-illumination-2025-*.jpg
 git commit -m "Add images for Marunouchi Illumination 2025"
 git push
@@ -1717,7 +1864,16 @@ Build Output:    /public/
 **Updated By:** Claude (AI Assistant)
 **Next Review:** When significant project changes occur
 
-**Recent Updates (2025-11-24):**
+**Recent Updates (2025-11-24 - Latest):**
+- **Migration Workflow Enhancement:**
+  - Added **Step 5: Create Pull Request** to migration workflow
+  - Comprehensive PR title and description template with examples
+  - PR creation checklist for quality assurance
+  - Updated example workflow to include PR creation step
+  - Restructured workflow: Test Locally (Step 4) → Create PR (Step 5) → Download Images (Step 6)
+  - Ensures all EN/JA blog post migrations include proper documentation via PRs
+
+**Recent Updates (2025-11-24 - Morning):**
 - **SEO Optimization:**
   - Added `robots.txt` with sitemap references
   - Added `favicon.svg` (TM logo with purple gradient)
