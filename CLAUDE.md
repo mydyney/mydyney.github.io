@@ -472,46 +472,49 @@ When converting Korean Naver blog posts to English and Japanese, follow these SE
 #### 1. Title Optimization
 
 **English Titles:**
-- Length: **50-60 characters** (optimal for Google SERP)
-- Include primary keyword near the beginning
+- Length: **50-80 characters** (key info in first 55 chars for Google SERP display)
+- Include primary keyword near the beginning (within first 50 chars)
 - Use power words: "Complete Guide", "Best", "Top", "2025", etc.
 - Format: `[Primary Keyword]: [Benefit/Detail] | [Year/Location]`
+- Longer titles OK if main keyword is front-loaded
 
 **Japanese Titles:**
-- Length: **30-35 characters** (Japanese characters count more)
-- Include primary keyword (in Japanese)
+- Length: **35-55 characters** (key info in first 35 chars)
+- Include primary keyword (in Japanese) near the beginning
 - Use engaging suffixes: `完全ガイド`, `徹底解説`, `おすすめ`, `まとめ`
-- Format: `【場所/イベント】[キーワード]の[ベネフィット]`
+- Format: `【場所/イベント】[キーワード]の[ベネフィット]` or `[場所][キーワード]完全ガイド`
 
 **Examples:**
 ```yaml
-# English
+# English (74 chars - OK because key info "Roppongi Christmas Illumination 2025" is in first 40)
 title: "Roppongi Christmas Illumination 2025: Complete Guide to Tokyo's Best Light Display"
 
-# Japanese
-title: "【六本木】クリスマスイルミネーション2025完全ガイド"
+# Japanese (42 chars - OK because key info "六本木イルミネーション2025" is in first 20)
+title: "六本木イルミネーション2025完全ガイド - 点灯時間、クリスマスマーケット"
 ```
 
 #### 2. Meta Description Optimization
 
 **English Description:**
-- Length: **150-160 characters**
+- Length: **150-180 characters** (Google displays ~155-160, but longer is OK)
 - Include primary + secondary keywords naturally
 - Add call-to-action or value proposition
 - Mention location (Tokyo, Japan) for local SEO
+- Front-load important info within first 150 chars
 
 **Japanese Description:**
-- Length: **100-120 characters** (Japanese)
+- Length: **100-140 characters**
 - Include relevant Japanese keywords
 - Natural, engaging tone
-- End with appeal: `必見です`, `チェック`, `おすすめ`
+- End with appeal: `必見です`, `チェック`, `おすすめ`, `完全ガイド`
+- Front-load key info within first 100 chars
 
 **Examples:**
 ```yaml
-# English
+# English (168 chars)
 description: "Complete guide to Roppongi Christmas Illumination 2025 in Tokyo. Dates, hours, best photo spots, access info, and insider tips for the perfect winter visit."
 
-# Japanese
+# Japanese (125 chars)
 description: "六本木クリスマスイルミネーション2025の完全ガイド。開催期間、点灯時間、撮影スポット、アクセス情報を徹底解説。冬の東京観光に必見です。"
 ```
 
@@ -618,8 +621,8 @@ description: "六本木クリスマスイルミネーション2025の完全ガ�
 Before finalizing any converted post, verify:
 
 ```
-□ Title: EN 50-60 chars / JA 30-35 chars with keyword
-□ Description: EN 150-160 chars / JA 100-120 chars with keyword
+□ Title: EN 50-80 chars (key info in first 55) / JA 35-55 chars (key info in first 35)
+□ Description: EN 150-180 chars / JA 100-140 chars with keyword front-loaded
 □ Slug: English, keyword-rich, under 60 chars
 □ H2 headings: Include keywords, use emojis for visual appeal
 □ Images: All have descriptive alt text in target language
