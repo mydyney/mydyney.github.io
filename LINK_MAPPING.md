@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-11-24
-> **Status:** ✅ Complete - 48 posts mapped
+> **Last Updated:** 2025-11-25
+> **Status:** ✅ Complete - 53 posts mapped
 
 ---
 
@@ -20,6 +20,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA) | Date | Status |
 |----------|-------------------|------|--------|
+| 224086928640 | japan-convenience-store-oden-guide | 2025-11-25 | ✅ |
 | 224046791144 | azabujuban-naniwaya-taiyaki | 2025-10-19 | ✅ |
 | 224046408131 | tokyo-transportation-card-guide-2025 | 2025-10-19 | ✅ |
 | 224038071853 | tokyo-autumn-foliage-best-spots-2025 | 2025-10-12 | ✅ |
@@ -152,6 +153,7 @@ sed -i 's|https://blog.naver.com/tokyomate/224065668379|/ja/posts/roppongi-chris
 # Convert all known Naver links to Hugo links
 
 declare -A MAPPINGS=(
+  ["224086928640"]="japan-convenience-store-oden-guide"
   ["224046791144"]="azabujuban-naniwaya-taiyaki"
   ["224046408131"]="tokyo-transportation-card-guide-2025"
   ["224038071853"]="tokyo-autumn-foliage-best-spots-2025"
@@ -224,8 +226,8 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 52
-- **Naver IDs Tracked:** 52
+- **Total Posts Migrated:** 53
+- **Naver IDs Tracked:** 53
 - **Posts with Internal Links:** 19+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki)
 - **Pending References:** 36
 - **Links Updated:** 0 (all links in posts need migration)
