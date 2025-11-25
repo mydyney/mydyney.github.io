@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-11-25
-> **Status:** ✅ Complete - 54 posts mapped
+> **Status:** ✅ Complete - 55 posts mapped
 
 ---
 
@@ -64,6 +64,7 @@ When migrating a Naver blog post to Hugo:
 | 224052025195 | nakameguro-shabushabu-lettuce-main-store | 2025-10-24 | ✅ |
 | 224050488006 | japan-convenience-store-shopping-best-10 | 2025-10-23 | ✅ |
 | 224050101070 | ikebukuro-complete-guide | 2025-10-22 | ✅ |
+| 224049240457 | tokyo-skytree-reservation-discount-guide | 2025-10-21 | ✅ |
 | 224042431249 | tokyo-christmas-illumination-best-5-2025 | 2025-10-15 | ✅ |
 | 224083451617 | tokyo-dome-city-christmas-illumination-2025 | 2025-11-21 | ✅ |
 | 224084373557 | ueno-christmas-market-2025 | 2025-11-22 | ✅ |
@@ -88,6 +89,11 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223668826357 | yebisu-garden-place-illumination-christmas-market-2025 | 2024 Yebisu Garden Place Christmas Archive |
 | 223678791563 | yebisu-garden-place-illumination-christmas-market-2025 | How to Get to Yebisu Garden Place and Coin Locker Locations |
 | 223681272647 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025 | How to Get to Roppongi Hills and Coin Locker Locations |
+| 223695518100 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Town Pokemon Center Detailed Review |
+| 223697732942 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Conveyor Belt Sushi Restaurant Triton (Queue Number Tips) |
+| 223699626846 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Dessert Spot: Gion Tsujiri Matcha Ice Cream Review |
+| 223700095268 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Free Observatory: SKYTREE VIEW |
+| 223700200846 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Illumination & Christmas Market Detailed Review |
 | 223987954990 | evangelion-30th-roppongi-2025 | 2025 Roppongi Hills Observatory Complete Guide |
 | 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket, meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, azabujuban-naniwaya-taiyaki | Complete Guide to Roppongi Attractions |
 | 223991251786 | shinanoya-roppongi-hills-supermarket | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
@@ -126,7 +132,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223980166231 | tokyo-october-festivals-2025 | Harajuku Omotesando Super Yosakoi Festival August Guide |
 | 223989943826 | tokyo-october-festivals-2025 | Complete Guide to Ginza Attractions (Shopping, Restaurants, Tips) |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
-| 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
+| 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide | Tokyo Asakusa Attractions & Restaurant Complete Guide |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -198,6 +204,7 @@ declare -A MAPPINGS=(
   ["224052025195"]="nakameguro-shabushabu-lettuce-main-store"
   ["224050488006"]="japan-convenience-store-shopping-best-10"
   ["224050101070"]="ikebukuro-complete-guide"
+  ["224049240457"]="tokyo-skytree-reservation-discount-guide"
   ["224042431249"]="tokyo-christmas-illumination-best-5-2025"
   ["224083451617"]="tokyo-dome-city-christmas-illumination-2025"
   ["224084373557"]="ueno-christmas-market-2025"
@@ -228,10 +235,10 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 54
-- **Naver IDs Tracked:** 54
-- **Posts with Internal Links:** 19+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki)
-- **Pending References:** 36
+- **Total Posts Migrated:** 55
+- **Naver IDs Tracked:** 55
+- **Posts with Internal Links:** 20+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide)
+- **Pending References:** 41
 - **Links Updated:** 0 (all links in posts need migration)
 - **Last Migration Date:** 2025-11-25
 
