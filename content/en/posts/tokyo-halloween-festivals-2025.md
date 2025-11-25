@@ -128,7 +128,7 @@ Roppongi Hills Halloween is a 'stamp rally' format using the 'Hills App'. It's a
 - **Charge Your Transit Card in Advance!** Subway stations will be very crowded on event days, so recharge your Suica or PASMO beforehand.
 
 <figure>
-  <img src="/images/posts/tokyo-halloween-festivals-2025-08.jpg" alt="Tokyo preparing for Halloween festival season">
+  <img src="/images/posts/tokyo-halloween-festivals-2025-07.jpg" alt="Tokyo preparing for Halloween festival season">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo is getting ready for Halloween!</figcaption>
 </figure>
 

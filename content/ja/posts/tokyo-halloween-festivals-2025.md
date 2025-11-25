@@ -128,7 +128,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 - **交通カードのチャージは事前に！** イベント当日は地下鉄駅が非常に混雑するので、移動に使うSuicaやPASMOは事前にチャージしておきましょう。
 
 <figure>
-  <img src="/images/posts/tokyo-halloween-festivals-2025-08.jpg" alt="東京がハロウィンフェスティバルの準備中">
+  <img src="/images/posts/tokyo-halloween-festivals-2025-07.jpg" alt="東京がハロウィンフェスティバルの準備中">
   <figcaption style="font-size: 0.7em; text-align: center;">東京はハロウィン祭り準備中！</figcaption>
 </figure>
 
