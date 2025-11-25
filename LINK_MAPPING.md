@@ -20,6 +20,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA) | Date | Status |
 |----------|-------------------|------|--------|
+| 224046408131 | tokyo-transportation-card-guide-2025 | 2025-10-19 | ✅ |
 | 224038071853 | tokyo-autumn-foliage-best-spots-2025 | 2025-10-12 | ✅ |
 | 224045496649 | tokyo-christmas-markets-guide-2025 | 2025-10-18 | ✅ |
 | 224026292057 | tokyo-october-festivals-2025 | 2025-09-29 | ✅ |
@@ -89,13 +90,17 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223991251786 | shinanoya-roppongi-hills-supermarket | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
 | 223993881300 | evangelion-30th-roppongi-2025 | Tokyo Roppongi Restaurant Map |
 | 224010546735 | shinanoya-roppongi-hills-supermarket | Japanese Whisky Recommendations and Price Guide |
+| 224007949043 | tokyo-transportation-card-guide-2025 | Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
+| 223995074888 | tokyo-transportation-card-guide-2025 | Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
+| 224026098490 | tokyo-transportation-card-guide-2025 | Tokyo Subway Pass Complete Guide (Exchange Locations, Purchase, Usage) |
+| 224002738158 | tokyo-transportation-card-guide-2025 | Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide |
 | 224024530348 | tokyo-september-festivals-2025 | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025, tokyo-christmas-markets-guide-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
 | 223989943826 | tokyo-september-festivals-2025, tokyo-october-festivals-2025 | Ginza Must-Visit Spots Complete Guide (Shopping, Restaurants, Tips) |
 | 224044938913 | tamiya-plamodel-factory-tokyo-shimbashi | Tokyo Shimbashi & Shiodome Must-Visit Places Guide (Restaurants, Night Views) |
 | 224035271300 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping |
 | 224038568654 | ikebukuro-complete-guide, tokyo-october-festivals-2025 | 2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro) |
-| 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
+| 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025 | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
 | 224022065518 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, tokyo-christmas-markets-guide-2025 | Japan Don Quijote Shopping List & Discount Coupons Guide |
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10 | Japan Kaldi Shopping List Must-Buy Recommendations |
 | 224034429817 | tamiya-plamodel-factory-tokyo-shimbashi | Mitsui Outlet Park Kisarazu Discount Coupons & Brand Guide |
@@ -109,7 +114,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224037212344 | tokyo-autumn-foliage-best-spots-2025 | Tokyo Kichijoji Must-Visit Places: Complete Course (with Ghibli Museum) |
 | 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
 | 224019480188 | tokyo-october-festivals-2025, tokyo-autumn-foliage-best-spots-2025 | Hakone Travel Perfect Course (Hakone Free Pass & Romancecar Reservation) |
-| 224025699867 | tokyo-autumn-foliage-best-spots-2025 | Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison |
+| 224025699867 | tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025 | Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison |
 | 224026292057 | tokyo-autumn-foliage-best-spots-2025 | 2025 Tokyo October Festivals & Must-Visit Places |
 | 223979907748 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama 1-Day Course: Chinatown Restaurants, Akarenga, Night Views Complete Guide |
 | 223976102621 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama Transportation Pass, 'Minato Burari Ticket' Complete Guide |
@@ -146,6 +151,7 @@ sed -i 's|https://blog.naver.com/tokyomate/224065668379|/ja/posts/roppongi-chris
 # Convert all known Naver links to Hugo links
 
 declare -A MAPPINGS=(
+  ["224046408131"]="tokyo-transportation-card-guide-2025"
   ["224038071853"]="tokyo-autumn-foliage-best-spots-2025"
   ["224045496649"]="tokyo-christmas-markets-guide-2025"
   ["224026292057"]="tokyo-october-festivals-2025"
@@ -216,12 +222,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 48
-- **Naver IDs Tracked:** 48
-- **Posts with Internal Links:** 17+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025)
-- **Pending References:** 32
+- **Total Posts Migrated:** 49
+- **Naver IDs Tracked:** 49
+- **Posts with Internal Links:** 18+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025)
+- **Pending References:** 36
 - **Links Updated:** 0 (all links in posts need migration)
-- **Last Migration Date:** 2025-11-24
+- **Last Migration Date:** 2025-11-25
 
 ---
 
