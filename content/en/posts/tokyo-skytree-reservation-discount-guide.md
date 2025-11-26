@@ -301,7 +301,7 @@ During winter season, spectacular Christmas markets and illuminations are held r
     <img src="/images/posts/tokyo-skytree-reservation-discount-guide-23.jpg" alt="Tokyo Skytree Christmas market with festive decorations">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Skytree Christmas Illumination and Market</figcaption>
-</figure>
+</div>
 
 ---
 
