@@ -76,6 +76,22 @@
   border: 1px solid #ddd;
 }
 
+/* info-box 안에 있는 테이블: 보라색 배경과 대비되도록 스타일 조정 */
+.info-box .schedule-table th {
+  background: #2d3748;
+  color: white;
+  font-weight: 600;
+}
+
+.info-box .schedule-table td {
+  background: white;
+  color: #1a202c;
+}
+
+.info-box .schedule-table {
+  margin: 1rem 0;
+}
+
 blockquote {
   border-left: 4px solid #3498db;
   padding: 1rem 1.5rem;
