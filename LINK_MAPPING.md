@@ -66,6 +66,7 @@ When migrating a Naver blog post to Hugo:
 | 224050101070 | ikebukuro-complete-guide | 2025-10-22 | ✅ |
 | 224049240457 | tokyo-skytree-reservation-discount-guide | 2025-10-21 | ✅ |
 | 224047793364 | toranomon-hills-complete-guide | 2025-10-20 | ✅ |
+| 224047575500 | azabudai-hills-complete-guide | 2025-10-20 | ✅ |
 | 224042431249 | tokyo-christmas-illumination-best-5-2025 | 2025-10-15 | ✅ |
 | 224083451617 | tokyo-dome-city-christmas-illumination-2025 | 2025-11-21 | ✅ |
 | 224084373557 | ueno-christmas-market-2025 | 2025-11-22 | ✅ |
@@ -97,8 +98,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223700095268 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Free Observatory: SKYTREE VIEW |
 | 223700200846 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Illumination & Christmas Market Detailed Review |
 | 223987954990 | evangelion-30th-roppongi-2025 | 2025 Roppongi Hills Observatory Complete Guide |
-| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket, meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, azabujuban-naniwaya-taiyaki, toranomon-hills-complete-guide | Complete Guide to Roppongi Attractions |
-| 224047575500 | toranomon-hills-complete-guide | Tokyo Azabudai Hills Attractions: Observatory, Restaurants, teamLab |
+| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket, meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, azabujuban-naniwaya-taiyaki, toranomon-hills-complete-guide, azabudai-hills-complete-guide | Complete Guide to Roppongi Attractions |
 | 223991251786 | shinanoya-roppongi-hills-supermarket | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
 | 223993881300 | evangelion-30th-roppongi-2025 | Tokyo Roppongi Restaurant Map |
 | 224010546735 | shinanoya-roppongi-hills-supermarket | Japanese Whisky Recommendations and Price Guide |
@@ -130,8 +130,13 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224026292057 | tokyo-autumn-foliage-best-spots-2025 | 2025 Tokyo October Festivals & Must-Visit Places |
 | 223979907748 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama 1-Day Course: Chinatown Restaurants, Akarenga, Night Views Complete Guide |
 | 223976102621 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama Transportation Pass, 'Minato Burari Ticket' Complete Guide |
-| 223672616108 | tokyo-christmas-markets-guide-2025 | Tokyo Azabudai Hills teamLab Borderless Museum Guide |
-| 223716380927 | tokyo-christmas-markets-guide-2025 | Tokyo Azabudai Hills Observatory Cafe Sky Room Guide |
+| 223672616108 | tokyo-christmas-markets-guide-2025, azabudai-hills-complete-guide | Tokyo Azabudai Hills teamLab Borderless Museum Guide |
+| 223716380927 | tokyo-christmas-markets-guide-2025, azabudai-hills-complete-guide | Tokyo Azabudai Hills Observatory Cafe Sky Room Guide |
+| 223968462793 | azabudai-hills-complete-guide | Comme'N Tokyo Azabudai Hills Bakery Review |
+| 223708789355 | azabudai-hills-complete-guide | Criollo Chocolatier Review |
+| 223671427079 | azabudai-hills-complete-guide | 2024 Tokyo Azabudai Hills Christmas Market Review |
+| 223958175295 | azabudai-hills-complete-guide | Tokyo Azabudai Hills Summer Festival Review |
+| 223915389552 | azabudai-hills-complete-guide | Series Michelin 1-Star Chinese Restaurant Review |
 | 223980166231 | tokyo-october-festivals-2025 | Harajuku Omotesando Super Yosakoi Festival August Guide |
 | 223989943826 | tokyo-october-festivals-2025 | Complete Guide to Ginza Attractions (Shopping, Restaurants, Tips) |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
@@ -209,6 +214,7 @@ declare -A MAPPINGS=(
   ["224050101070"]="ikebukuro-complete-guide"
   ["224049240457"]="tokyo-skytree-reservation-discount-guide"
   ["224047793364"]="toranomon-hills-complete-guide"
+  ["224047575500"]="azabudai-hills-complete-guide"
   ["224042431249"]="tokyo-christmas-illumination-best-5-2025"
   ["224083451617"]="tokyo-dome-city-christmas-illumination-2025"
   ["224084373557"]="ueno-christmas-market-2025"
@@ -239,10 +245,10 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 56
-- **Naver IDs Tracked:** 56
-- **Posts with Internal Links:** 21+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide)
-- **Pending References:** 43
+- **Total Posts Migrated:** 57
+- **Naver IDs Tracked:** 57
+- **Posts with Internal Links:** 22+ (evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide)
+- **Pending References:** 47
 - **Links Updated:** 0 (all links in posts need migration)
 - **Last Migration Date:** 2025-11-25
 
