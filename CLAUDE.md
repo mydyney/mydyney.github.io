@@ -1,6 +1,6 @@
 # CLAUDE.md - AI Assistant Guide
 
-> **Last Updated:** 2025-11-18
+> **Last Updated:** 2025-11-25
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Site:** https://tripmate.news
 > **Type:** Hugo Static Site for GitHub Pages
@@ -328,6 +328,13 @@ Any related issues or context
 **Environment Variables:**
 - `HUGO_ENVIRONMENT=production`
 - `TZ=Asia/Seoul`
+
+**⚠️ CRITICAL: baseURL Configuration:**
+- **NEVER** use `--baseURL "${{ steps.pages.outputs.base_url }}/"` in workflow
+- **ALWAYS** let Hugo use `baseURL` from `hugo.toml` (https://tripmate.news)
+- GitHub Pages auto-generated URL does NOT match custom domain
+- Using wrong baseURL causes 404/403 errors across entire site
+- Correct build command: `hugo --minify` (no baseURL flag)
 
 **Deployment URL:** https://tripmate.news (via GitHub Pages)
 
@@ -1317,6 +1324,13 @@ git push
    - DO NOT delete or modify unless changing domain
    - Required for custom domain to work
 
+9. **GitHub Actions baseURL (CRITICAL)**
+   - **NEVER** override baseURL in `.github/workflows/hugo.yml`
+   - Build command must be: `hugo --minify` (no --baseURL flag)
+   - Let Hugo use baseURL from `hugo.toml` (https://tripmate.news)
+   - Using `--baseURL "${{ steps.pages.outputs.base_url }}/"` causes 404/403 errors
+   - GitHub Pages auto URL doesn't match custom domain
+
 ### 🚫 Do NOT Do
 
 1. **Do NOT** modify files inside `/themes/ananke/` directly
@@ -1349,6 +1363,12 @@ git push
 8. **Do NOT** commit the `public/` directory
    - It's now gitignored - GitHub Actions generates it automatically
    - If accidentally staged, use `git rm -r --cached public/`
+
+9. **Do NOT** add `--baseURL` flag to GitHub Actions workflow
+   - Causes 404/403 errors by overriding custom domain
+   - Build command must be: `hugo --minify` only
+   - Never use: `--baseURL "${{ steps.pages.outputs.base_url }}/"`
+   - Let Hugo use `hugo.toml` baseURL setting
 
 ### ✅ Best Practices
 
@@ -1860,11 +1880,27 @@ Build Output:    /public/
 
 ## Document Maintenance
 
-**Last Updated:** 2025-11-24
+**Last Updated:** 2025-11-25
 **Updated By:** Claude (AI Assistant)
 **Next Review:** When significant project changes occur
 
-**Recent Updates (2025-11-24 - Latest):**
+**Recent Updates (2025-11-25 - Latest):**
+- **CRITICAL FIX: GitHub Actions baseURL Configuration:**
+  - Fixed 404/403 errors caused by incorrect baseURL in workflow
+  - **Removed** `--baseURL "${{ steps.pages.outputs.base_url }}/"` from hugo build command
+  - Build command now correctly uses: `hugo --minify` (no baseURL flag)
+  - Hugo now uses baseURL from `hugo.toml` (https://tripmate.news) matching custom domain
+  - Added comprehensive warnings in CLAUDE.md to prevent future mistakes
+  - **Impact:** Prevents site-wide 404/403 errors when deploying to GitHub Pages with custom domain
+
+- **UI/UX Improvements:**
+  - Changed blog card image aspect ratio from 5:3 to 16:9 for better visual balance
+  - Updated mobile breakpoint from 768px to 800px for improved responsiveness
+  - Fixed table styling in info-box: dark header (#2d3748) with white text for readability
+  - Fixed Tokyo Skytree guide HTML structure: corrected image-group-2 closing tag
+  - Reverted custom single.html layout to restore theme default behavior
+
+**Recent Updates (2025-11-24):**
 - **Migration Workflow Enhancement:**
   - Added **Step 5: Create Pull Request** to migration workflow
   - Comprehensive PR title and description template with examples
