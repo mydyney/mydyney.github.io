@@ -387,6 +387,11 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
   </tbody>
 </table>
 
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-24.jpg" alt="豊洲市場の人気朝食レストラン">
+  <figcaption style="font-size: 0.7em; text-align: center;">豊洲市場の朝食風景</figcaption>
+</figure>
+
 <h3>ディナーおすすめ</h3>
 
 <figure>
@@ -430,6 +435,11 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
     </tr>
   </tbody>
 </table>
+
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-25.jpg" alt="夕暮れ時のお台場ウォーターフロントレストラン">
+  <figcaption style="font-size: 0.7em; text-align: center;">夕日を眺めながらの素敵なウォーターフロントダイニング</figcaption>
+</figure>
 
 <div class="tip-box">
   <p><strong>🌃 夕食のコツ:</strong> レインボーブリッジビューのレストランは、特に夕暮れ時に人気です。窓側席を予約するか、平日の17:30までに到着すれば当日席を確保できます。ライトアップされた橋はロマンティックな雰囲気を演出し、特別な日にぴったりです。</p>
@@ -598,10 +608,25 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
   </tbody>
 </table>
 
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-26.jpg" alt="春のお台場海浜公園の桜">
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場ウォーターフロント沿いの春の桜</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-27.jpg" alt="お台場ビーチでの夏のアクティビティ">
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場ビーチの夏の楽しみ - ビーチバレーとウォータースポーツ</figcaption>
+</figure>
+
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223690406760
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><strong>🎆 冬のイベント:</strong> <a href="#" style="color: #667eea;">お台場レインボー花火2024 - スケジュール&ベスト鑑賞スポット</a></p>
+
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-28.jpg" alt="豊洲・有明・お台場の3エリアパノラマビュー">
+  <figcaption style="font-size: 0.7em; text-align: center;">豊洲・有明・お台場ウォーターフロントエリアの全景</figcaption>
+</figure>
 
 <h2>✅ 最終チェックリスト</h2>
 

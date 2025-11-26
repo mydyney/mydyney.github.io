@@ -387,6 +387,11 @@ Experience Tokyo's modern attractions all in one trip!</p>
   </tbody>
 </table>
 
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-24.jpg" alt="Popular breakfast restaurant at Toyosu Market">
+  <figcaption style="font-size: 0.7em; text-align: center;">Morning dining scene at Toyosu Market</figcaption>
+</figure>
+
 <h3>Dinner Recommendations</h3>
 
 <figure>
@@ -430,6 +435,11 @@ Experience Tokyo's modern attractions all in one trip!</p>
     </tr>
   </tbody>
 </table>
+
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-25.jpg" alt="Odaiba waterfront restaurants at sunset">
+  <figcaption style="font-size: 0.7em; text-align: center;">Sunset dining with stunning waterfront views</figcaption>
+</figure>
 
 <div class="tip-box">
   <p><strong>🌃 Evening Dining Tip:</strong> Restaurants with Rainbow Bridge views are especially popular at sunset. Make reservations for window seats, or arrive by 5:30 PM on weekdays for walk-in seating. The illuminated bridge creates a romantic atmosphere perfect for special occasions.</p>
@@ -598,10 +608,25 @@ Experience Tokyo's modern attractions all in one trip!</p>
   </tbody>
 </table>
 
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-26.jpg" alt="Cherry blossoms at Odaiba seaside park in spring">
+  <figcaption style="font-size: 0.7em; text-align: center;">Spring cherry blossoms along Odaiba waterfront</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-27.jpg" alt="Summer beach activities at Odaiba Beach">
+  <figcaption style="font-size: 0.7em; text-align: center;">Summer fun at Odaiba Beach - beach volleyball and water sports</figcaption>
+</figure>
+
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223690406760
      Hugo: /posts/[SLUG_TBD]/ -->
 <p><strong>🎆 Winter Event:</strong> <a href="#" style="color: #667eea;">Odaiba Rainbow Fireworks 2024 - Schedule & Best Viewing Spots</a></p>
+
+<figure>
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-28.jpg" alt="Odaiba panoramic view with all three areas">
+  <figcaption style="font-size: 0.7em; text-align: center;">Complete view of Toyosu, Ariake, and Odaiba waterfront areas</figcaption>
+</figure>
 
 <h2>✅ Final Checklist</h2>
 
