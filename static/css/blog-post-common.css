@@ -107,26 +107,32 @@ blockquote {
   margin: 1.5rem 0;
 }
 
-/* 이미지 그룹 (2개, 3개, 4개 나란히 배치) - 전체 폭 강제 */
+/* 이미지 그룹 (2개, 3개, 4개, 9개 나란히 배치) - 전체 폭 강제 */
 /* Targeting all possible parent contexts to override Ananke/Tachyons */
 article .image-group-2,
 article .image-group-3,
 article .image-group-4,
+article .image-group-9,
 .lh-copy .image-group-2,
 .lh-copy .image-group-3,
 .lh-copy .image-group-4,
+.lh-copy .image-group-9,
 .nested-copy-line-height .image-group-2,
 .nested-copy-line-height .image-group-3,
 .nested-copy-line-height .image-group-4,
+.nested-copy-line-height .image-group-9,
 .blog-container .image-group-2,
 .blog-container .image-group-3,
 .blog-container .image-group-4,
+.blog-container .image-group-9,
 div.image-group-2,
 div.image-group-3,
 div.image-group-4,
+div.image-group-9,
 .image-group-2,
 .image-group-3,
-.image-group-4 {
+.image-group-4,
+.image-group-9 {
   display: grid !important;
   width: 100% !important;
   max-width: 100% !important;
@@ -166,13 +172,30 @@ div.image-group-4,
   grid-template-columns: 1fr 1fr !important;
 }
 
+/* 9개 격자형: 2열, 마지막 1개는 중앙 배치 */
+.blog-container .image-group-9,
+.image-group-9 {
+  grid-template-columns: 1fr 1fr !important;
+}
+
+/* 9개 그룹의 마지막 이미지(9번째)를 중앙 배치 */
+.blog-container .image-group-9 figure:nth-child(9),
+.image-group-9 figure:nth-child(9) {
+  grid-column: 1 / -1 !important;
+  max-width: 50% !important;
+  margin: 0 auto !important;
+  justify-self: center !important;
+}
+
 /* figure 요소 - 그리드 셀 전체 차지 */
 .blog-container .image-group-2 figure,
 .blog-container .image-group-3 figure,
 .blog-container .image-group-4 figure,
+.blog-container .image-group-9 figure,
 .image-group-2 figure,
 .image-group-3 figure,
-.image-group-4 figure {
+.image-group-4 figure,
+.image-group-9 figure {
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
@@ -186,9 +209,11 @@ div.image-group-4,
 .blog-container .image-group-2 img,
 .blog-container .image-group-3 img,
 .blog-container .image-group-4 img,
+.blog-container .image-group-9 img,
 .image-group-2 img,
 .image-group-3 img,
-.image-group-4 img {
+.image-group-4 img,
+.image-group-9 img {
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
@@ -205,9 +230,11 @@ div.image-group-4,
 .blog-container .image-group-2 > figcaption,
 .blog-container .image-group-3 > figcaption,
 .blog-container .image-group-4 > figcaption,
+.blog-container .image-group-9 > figcaption,
 .image-group-2 > figcaption,
 .image-group-3 > figcaption,
-.image-group-4 > figcaption {
+.image-group-4 > figcaption,
+.image-group-9 > figcaption {
   grid-column: 1 / -1 !important;
   width: 100% !important;
   margin-top: 0.5rem !important;
@@ -226,9 +253,11 @@ div.image-group-4,
   .blog-container .image-group-2,
   .blog-container .image-group-3,
   .blog-container .image-group-4,
+  .blog-container .image-group-9,
   .image-group-2,
   .image-group-3,
-  .image-group-4 {
+  .image-group-4,
+  .image-group-9 {
     width: 100% !important;
     gap: 6px !important;
     margin: 1.5rem 0 !important;
@@ -252,10 +281,17 @@ div.image-group-4,
     grid-template-columns: 1fr 1fr !important;
   }
 
+  /* 9개: 2열 레이아웃 유지 (모바일에서도 동일) */
+  .blog-container .image-group-9,
+  .image-group-9 {
+    grid-template-columns: 1fr 1fr !important;
+  }
+
   /* 모바일에서 이미지 border-radius 줄임 */
   .image-group-2 img,
   .image-group-3 img,
-  .image-group-4 img {
+  .image-group-4 img,
+  .image-group-9 img {
     border-radius: 4px !important;
   }
 }
