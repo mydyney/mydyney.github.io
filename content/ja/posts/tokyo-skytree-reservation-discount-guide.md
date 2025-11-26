@@ -301,7 +301,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
     <img src="/images/posts/tokyo-skytree-reservation-discount-guide-23.jpg" alt="東京スカイツリークリスマスマーケットとお祭り装飾">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">東京スカイツリークリスマスイルミネーションとマーケット</figcaption>
-</figure>
+</div>
 
 ---
 
