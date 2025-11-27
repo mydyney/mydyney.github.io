@@ -7,7 +7,7 @@ tags: ["odaiba", "ariake", "toyosu", "yurikamome", "tokyo-waterfront", "teamlab-
 translationKey: "odaiba-ariake-toyosu-complete-guide"
 description: "Complete guide to exploring Odaiba, Ariake & Toyosu in one day. Includes Yurikamome 1-day pass tips, Toyosu Market, teamLab Planets, MUJI Ariake, Rainbow Bridge night views & more!"
 summary: "Discover Tokyo's waterfront trio: Odaiba landmarks, Ariake shopping & Toyosu seafood markets. One-day itinerary with transport tips, photo spots & hidden gems."
-featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.png"
+featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 ---
 
 <div class="blog-container">
@@ -60,7 +60,7 @@ To explore all three areas, you'll use the Yurikamome at least 3-4 times. The **
 **🚫 Tokyo Subway Ticket (Metro Pass)**
 
 <figure>
-  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-04.png" alt="Rainbow Bridge illumination view from Odaiba at night">
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-04.jpg" alt="Rainbow Bridge illumination view from Odaiba at night">
   <figcaption style="font-size: 0.7em; text-align: center;">Odaiba Rainbow Bridge night view</figcaption>
 </figure>
 
@@ -160,7 +160,7 @@ The smartest way to enjoy Manyo Club is the 'Morning Bath (朝風呂)' plan. At 
 ▶️ **[Book Discounted Manyo Club Tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1144330&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F103671-toyosu-manyo-club-onsen-experience-tokyo%2F)**
 
 <figure>
-  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-06.png" alt="Toyosu Manyo Club rooftop footbath with Tokyo Bay panoramic views">
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-06.jpg" alt="Toyosu Manyo Club rooftop footbath with Tokyo Bay panoramic views">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Toyosu Manyo Club <a href="https://tokyo-toyosu.manyo.co.jp/" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ teamLab Planets is an immersive media art museum where you experience with all f
 - **Flower Garden:** Space filled with countless fresh flowers hanging from the ceiling, creating a fantastic atmosphere with fragrance.
 
 <figure>
-  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-07.png" alt="teamLab Planets Tokyo immersive digital art exhibition with LED crystal universe">
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-07.jpg" alt="teamLab Planets Tokyo immersive digital art exhibition with LED crystal universe">
   <figcaption style="font-size: 0.7em; text-align: center;">Toyosu teamLab Planets Tokyo <a href="https://teamlabplanets.dmm.com/en" target="_blank">(Source)</a></figcaption>
 </figure>
 
@@ -300,7 +300,7 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
      Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;"><strong>December 2024 Odaiba Rainbow Fireworks & Illumination Guide</strong></a>**
 
 <figure>
-  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-19.png" alt="Rainbow Bridge illuminated at night with Tokyo Tower in background">
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-19.jpg" alt="Rainbow Bridge illuminated at night with Tokyo Tower in background">
   <figcaption style="font-size: 0.7em; text-align: center;"><b>Odaiba landmark Rainbow Bridge</b></figcaption>
 </figure>
 
@@ -310,7 +310,7 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
 - **Highlights:** Transforms from 'Unicorn Mode' to 'Destroy Mode' like in the original series, with spectacular evening shows enhanced by lighting and music.
 
 <figure>
-  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-20.png" alt="Life-size Unicorn Gundam statue at DiverCity Tokyo Plaza with LED lights">
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-20.jpg" alt="Life-size Unicorn Gundam statue at DiverCity Tokyo Plaza with LED lights">
   <figcaption style="font-size: 0.7em; text-align: center;"><b>Odaiba landmark life-size Unicorn Gundam</b></figcaption>
 </figure>
 
@@ -321,7 +321,7 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
 - **Digimon Adventure** featured it as an actual battle location, making it a pilgrimage site for fans. As the official **One Piece** broadcaster, it frequently hosts related events and pop-up stores.
 
 <figure>
-  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-21.png" alt="Fuji TV headquarters building with iconic spherical Hachitama observatory">
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-21.jpg" alt="Fuji TV headquarters building with iconic spherical Hachitama observatory">
   <figcaption style="font-size: 0.7em; text-align: center;">Odaiba landmark Fuji TV headquarters</figcaption>
 </figure>
 
@@ -400,7 +400,7 @@ Opened March 2024 - the world's first immersive theme park. A revolutionary ente
 **▶️ [Book Immersive Sherlock Program Tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1144408&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F106576-1-day-immersive-fort-tokyo-1-day-ticket-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D10d35ea5ab)**
 
 <figure>
-  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-28.png" alt="Immersive Fort Tokyo Sherlock Holmes interactive mystery experience">
+  <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-28.jpg" alt="Immersive Fort Tokyo Sherlock Holmes interactive mystery experience">
   <figcaption style="font-size: 0.7em; text-align: center;">Odaiba Immersive Fort Tokyo - Immersive Sherlock Program <a href="https://immersivefort.com/" target="_blank"><b>(Source)</b></a></figcaption>
 </figure>
 

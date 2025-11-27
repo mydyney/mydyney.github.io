@@ -178,11 +178,11 @@ div.image-group-9,
   grid-template-columns: 1fr 1fr !important;
 }
 
-/* 9개 그룹의 마지막 이미지(9번째)를 중앙 배치 */
+/* 9개 그룹의 마지막 이미지(9번째)를 위 2개 이미지 폭 100% 크기로 배치 */
 .blog-container .image-group-9 figure:nth-child(9),
 .image-group-9 figure:nth-child(9) {
   grid-column: 1 / -1 !important;
-  max-width: 50% !important;
+  max-width: 100% !important;
   margin: 0 auto !important;
   justify-self: center !important;
 }
