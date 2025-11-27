@@ -257,6 +257,8 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <p>有明ガーデンの無印良品旗艦店は、<strong>ブランド最大の店舗</strong>で、家具のディスプレイルーム、ベーカリー、無印ブランドの食事を提供するレストランなど、拡張された商品ラインナップを特徴としています。</p>
 
+- **営業時間:** 平日 10:00〜20:00 / 土日祝 10:00〜21:00
+
 <div class="image-group-9">
   <figure>
     <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-10.jpg" alt="無印良品有明旗艦店の店内エリア1">
