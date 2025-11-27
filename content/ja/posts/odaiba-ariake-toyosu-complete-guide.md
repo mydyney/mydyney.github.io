@@ -224,7 +224,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 - **旅行者に完璧な設備:** 免税ショッピング可能、無料Wi-Fi、充電ステーション、無料ウォーターディスペンサーで旅行中の休憩に最適。
 
-- **営業時間:** 平日 10:00〜20:00 / 土日祝 10:00〜21:00
+- **営業時間:** 平日 10:00 〜 20:00 / 土日祝 10:00 〜 21:00
 
 <div class="image-group-9">
   <figure>

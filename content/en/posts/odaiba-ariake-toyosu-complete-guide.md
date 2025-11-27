@@ -224,7 +224,7 @@ The MUJI here isn't just a store - it's the **Kanto region's largest flagship st
 
 - **Perfect Traveler Amenities:** Tax-free shopping available, free Wi-Fi, charging stations and free water dispensers make it ideal for resting during travels.
 
-- **Hours:** Weekdays 10:00~20:00 / Weekends & Holidays 10:00~21:00
+- **Hours:** Weekdays 10:00 ~ 20:00 / Weekends & Holidays 10:00 ~ 21:00
 
 <div class="image-group-9">
   <figure>
