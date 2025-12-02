@@ -97,7 +97,7 @@ An overwhelmingly large Pokémon sanctuary. From limited edition goods to the "P
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-06.jpg" alt="Pokémon Center Mega Tokyo and Pikachu Sweets Cafe">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Ikebukuro Pokémon Center Mega Tokyo</b> Pikachu Sweets Cafe</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro Pokémon Center Mega Tokyo Pikachu Sweets Cafe</figcaption>
 </figure>
 
 **😊 Sunshine Aquarium:**
@@ -267,7 +267,7 @@ When night falls, colorful lights illuminate it, making it a great place to rela
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="Tokyo Metropolitan Theatre">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Global Ring Theatre and Tokyo Metropolitan Theatre</b> <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Global Ring Theatre and Tokyo Metropolitan Theatre <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 ### 2. West Exit Gourmet
@@ -316,7 +316,7 @@ As the new Halloween mecca replacing "Shibuya," be sure to visit if the timing w
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-20.jpg" alt="Ikebukuro Halloween Cosplay Festival">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Ikebukuro Halloween Cosplay Festival</b> <a href="https://ikebukurocosplay.jp/en/" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro Halloween Cosplay Festival <a href="https://ikebukurocosplay.jp/en/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 ---

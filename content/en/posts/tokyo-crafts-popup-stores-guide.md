@@ -211,7 +211,7 @@ This is **'Plan B'** for such people. These stores aren't on the official retail
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="Alpen Tokyo 5% discount coupon tax-free coupon">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Alpen Tokyo 5% coupon</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Alpen Tokyo 5% coupon</figcaption>
 </figure>
 
 **⭐ Check essential Shinjuku travel courses too**

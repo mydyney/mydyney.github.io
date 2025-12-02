@@ -97,7 +97,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-06.jpg" alt="ポケモンセンターメガトウキョーとピカチュウスイーツカフェ">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>池袋ポケモンセンターメガトウキョー</b> ピカチュウスイーツカフェ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋ポケモンセンターメガトウキョー ピカチュウスイーツカフェ</figcaption>
 </figure>
 
 **😊 サンシャイン水族館：**
@@ -267,7 +267,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="東京芸術劇場">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>グローバルリングシアターと東京芸術劇場</b> <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(出典)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">グローバルリングシアターと東京芸術劇場 <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(出典)</a></figcaption>
 </figure>
 
 ### 2. 西口グルメ
@@ -316,7 +316,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-20.jpg" alt="池袋ハロウィンコスプレフェスティバル">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>池袋ハロウィンコスプレフェスティバル</b> <a href="https://ikebukurocosplay.jp/en/" target="_blank">(出典)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋ハロウィンコスプレフェスティバル <a href="https://ikebukurocosplay.jp/en/" target="_blank">(出典)</a></figcaption>
 </figure>
 
 ---

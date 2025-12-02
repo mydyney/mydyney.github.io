@@ -241,7 +241,7 @@ Epitaph Curry is a unique **Shinjuku curry specialty restaurant** that doesn't o
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-09.jpg" alt="Epitaph signature curry products pork vindaloo curry and Kerala-style chicken curry">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Epitaph signature curry products pork vindaloo curry and Kerala-style chicken curry</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Epitaph signature curry products pork vindaloo curry and Kerala-style chicken curry</figcaption>
 </figure>
 
 ---

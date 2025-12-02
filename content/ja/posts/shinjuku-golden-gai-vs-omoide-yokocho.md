@@ -149,7 +149,7 @@ YouTubeホン・ソクチョン、イ・ウォンイルの東京行列店にも�
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-05.jpg" alt="新宿思い出横丁ささもと - 地元民も行列する焼き鳥串焼き名所、濃い醤油と火の香りが絶品">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>新宿思い出横丁ささもと - 地元民も行列する焼き鳥串焼き名所、濃い醤油と火の香りが絶品。</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿思い出横丁ささもと - 地元民も行列する焼き鳥串焼き名所、濃い醤油と火の香りが絶品。</figcaption>
 </figure>
 
 **2️⃣ もつ焼ウッチャン（もつ焼ウッチャン 新宿思い出横丁店）**

@@ -172,7 +172,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-12.jpg" alt="ミセス パブロフ ベーカリー">
-  <figcaption style="font-size: 0.7em; text-align: center;">横浜クロワッサングルメ <b>ミセス パブロフ ベーカリー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">横浜クロワッサングルメ ミセス パブロフ ベーカリー</figcaption>
 </figure>
 
 ---

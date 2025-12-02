@@ -159,7 +159,7 @@ If you're curious about the 2024 scene, check out the archive post below.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-07.jpg" alt="Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza</figcaption>
 </figure>
 
 ---
@@ -262,7 +262,7 @@ It's a space worth visiting if you like beer.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-11.jpg" alt="Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu</figcaption>
 </figure>
 
 ---
@@ -285,7 +285,7 @@ takes you directly to the Yebisu Garden Place entrance.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-12.jpg" alt="Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide</figcaption>
 </figure>
 
 ---

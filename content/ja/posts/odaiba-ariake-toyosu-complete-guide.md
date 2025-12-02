@@ -19,7 +19,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-02.jpg" alt="レインボーブリッジと東京タワーを背景にしたお台場東京ウォーターフロントビュー">
-  <figcaption style="font-size: 0.7em; text-align: center;">お台場東京マーク <a href="https://maps.app.goo.gl/j5oCJ3kja6Hmnan79" target="_blank"><b>(ロケーション)</b></a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場東京マーク <a href="https://maps.app.goo.gl/j5oCJ3kja6Hmnan79" target="_blank">(ロケーション)</a></figcaption>
 </figure>
 
 ## ✨ お台場・有明・豊洲を一緒に訪れる理由
@@ -34,7 +34,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-03.jpg" alt="お台場・有明・豊洲を結ぶゆりかもめモノレール">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>お台場・有明・豊洲を結ぶゆりかもめモノレール</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場・有明・豊洲を結ぶゆりかもめモノレール</figcaption>
 </figure>
 
 ---
@@ -301,7 +301,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-19.jpg" alt="東京タワーを背景に夜間ライトアップされたレインボーブリッジ">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>お台場ランドマーク レインボーブリッジ</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場ランドマーク レインボーブリッジ</figcaption>
 </figure>
 
 **🤖 ダイバーシティ実物大ガンダム:ただ立っているだけではない!**
@@ -311,7 +311,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-20.jpg" alt="LEDライト付きダイバーシティ東京プラザの実物大ユニコーンガンダム像">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>お台場ランドマーク 実物大ユニコーンガンダム</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場ランドマーク 実物大ユニコーンガンダム</figcaption>
 </figure>
 
 **📺 フジテレビ本社:浮遊する巨大球体の謎**
@@ -338,7 +338,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-22.jpg" alt="ダイバーシティお台場のうんこミュージアムカラフルなうんこテーマインタラクティブ展示">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>お台場ダイバーシティ うんこミュージアム</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場ダイバーシティ うんこミュージアム</figcaption>
 </figure>
 
 <figure>
@@ -348,7 +348,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-24.jpg" alt="キャラクターグッズとインタラクティブ展示のあるドラえもん未来デパート">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>お台場ダイバーシティ ドラえもん未来デパート</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場ダイバーシティ ドラえもん未来デパート</figcaption>
 </figure>
 
 **2. [アクアシティお台場](https://maps.app.goo.gl/jcaCqLJadv1eNrv29) - 台場駅**
@@ -362,12 +362,12 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-25.jpg" alt="おもちゃディスプレイのあるアクアシティお台場のトイザらス店内">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>アクアシティお台場 トイザらス</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">アクアシティお台場 トイザらス</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-26.jpg" alt="アクアシティからレインボーブリッジと東京の街並みを見下ろすスターバックステラスビュー">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>お台場アクアシティ スターバックステラスからのレインボーブリッジ&東京の街並みビュー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場アクアシティ スターバックステラスからのレインボーブリッジ&東京の街並みビュー</figcaption>
 </figure>
 
 **3. [デックス東京ビーチ](https://maps.app.goo.gl/aQcvYZ7tcphMf66y5) - お台場海浜公園駅**
@@ -385,7 +385,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-27.jpg" alt="祝祭ライトディスプレイのあるデックス東京ビーチクリスマスイルミネーション">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>デックス東京ビーチ クリスマスイルミネーション</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">デックス東京ビーチ クリスマスイルミネーション</figcaption>
 </figure>
 
 **🎡 世界初イマーシブテーマパーク**
@@ -401,7 +401,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-28.jpg" alt="イマーシブ・フォート東京シャーロック・ホームズインタラクティブミステリー体験">
-  <figcaption style="font-size: 0.7em; text-align: center;">お台場イマーシブ・フォート東京 - イマーシブシャーロックプログラム <a href="https://immersivefort.com/" target="_blank"><b>(出典)</b></a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">お台場イマーシブ・フォート東京 - イマーシブシャーロックプログラム <a href="https://immersivefort.com/" target="_blank">(出典)</a></figcaption>
 </figure>
 
 ---

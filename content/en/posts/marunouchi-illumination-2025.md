@@ -177,7 +177,7 @@ If you visit between Nov 13-27, you can see the lights and Disney monuments, but
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-11.jpg" alt="2025 Marunouchi Illumination Disney Collaboration Official Map">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>2025 Marunouchi Illumination Disney Collaboration Official Map (MAP)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025 Marunouchi Illumination Disney Collaboration Official Map (MAP)</figcaption>
 </figure>
 
 <h3>① Maru Building 1F (MAP 1)</h3>
@@ -191,7 +191,7 @@ If you visit between Nov 13-27, you can see the lights and Disney monuments, but
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-12.jpg" alt="Marunouchi Disney Monument Mickey and Friends (Maru Building 1F)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Marunouchi Disney Monument &lt;Mickey and Friends&gt; (Maru Building 1F)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Disney Monument &lt;Mickey and Friends&gt; (Maru Building 1F)</figcaption>
 </figure>
 
 <h3>② Shin-Marunouchi Building 3F (MAP 2)</h3>
@@ -210,7 +210,7 @@ If you visit between Nov 13-27, you can see the lights and Disney monuments, but
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-13.jpg" alt="Marunouchi Disney Monument Toy Story (Marunouchi OAZO)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Marunouchi Disney Monument &lt;Toy Story&gt; (Marunouchi OAZO)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Disney Monument &lt;Toy Story&gt; (Marunouchi OAZO)</figcaption>
 </figure>
 
 <h3>④ Marunouchi Terrace 1F Outdoor (MAP 4)</h3>
@@ -222,7 +222,7 @@ If you visit between Nov 13-27, you can see the lights and Disney monuments, but
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-14.jpg" alt="Marunouchi Disney Monument Rapunzel (Marunouchi Terrace)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Marunouchi Disney Monument &lt;Rapunzel&gt; (Marunouchi Terrace)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Disney Monument &lt;Rapunzel&gt; (Marunouchi Terrace)</figcaption>
 </figure>
 
 <h3>⑤ Marunouchi Brick Square 1F Outdoor (MAP 5)</h3>
@@ -234,7 +234,7 @@ If you visit between Nov 13-27, you can see the lights and Disney monuments, but
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-15.jpg" alt="Disney Holiday Monument Zootopia 2 (Marunouchi Brick Square)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Disney Holiday Monument &lt;Zootopia 2&gt; (Marunouchi Brick Square)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disney Holiday Monument &lt;Zootopia 2&gt; (Marunouchi Brick Square)</figcaption>
 </figure>
 
 <h3>⑥ Shin Tokyo Building 1F (MAP 6)</h3>
@@ -246,7 +246,7 @@ If you visit between Nov 13-27, you can see the lights and Disney monuments, but
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-16.jpg" alt="Disney Holiday Monument Winnie the Pooh (Shin Tokyo Building)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Disney Holiday Monument &lt;Winnie the Pooh&gt; (Shin Tokyo Building)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Disney Holiday Monument &lt;Winnie the Pooh&gt; (Shin Tokyo Building)</figcaption>
 </figure>
 
 ---
@@ -274,7 +274,7 @@ If you visit between Nov 13-27, you can see the lights and Disney monuments, but
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-17.jpg" alt="Marunouchi Disney Stamp Rally diary with stamps">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Marunouchi Disney Stamp Rally diary with stamps</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Disney Stamp Rally diary with stamps</figcaption>
 </figure>
 
 <p><b>Rewards:</b><br>
@@ -326,12 +326,12 @@ If you visit between Nov 13-27, you can see the lights and Disney monuments, but
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-20.jpg" alt="Marunouchi Limited Disney Oolong Tea Vending Machine (Toy Story, OAZO)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Marunouchi Limited Disney Oolong Tea Vending Machine (Toy Story, OAZO)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Limited Disney Oolong Tea Vending Machine (Toy Story, OAZO)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-21.jpg" alt="Marunouchi Limited Disney Oolong Tea Vending Machine (Zootopia, Brick Square)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Marunouchi Limited Disney Oolong Tea Vending Machine (Zootopia, Brick Square)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Limited Disney Oolong Tea Vending Machine (Zootopia, Brick Square)</figcaption>
 </figure>
 
 ---
@@ -349,7 +349,7 @@ A: <b>Food/drink shops start from November 28</b>. Market hours are 11:00~22:00.
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-22.jpg" alt="Marunouchi Illumination food trucks start November 28!">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Marunouchi Illumination food trucks start November 28!</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Illumination food trucks start November 28!</figcaption>
 </figure>
 
 <p><b>Q3. Can I enter the Disney goods pop-up store immediately?</b><br>

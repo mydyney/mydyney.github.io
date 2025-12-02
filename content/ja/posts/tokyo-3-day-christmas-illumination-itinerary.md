@@ -383,7 +383,7 @@ SuicaまたはPasmoで<br>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.jpg" alt="日本橋高島屋本店ポケモンセンター東京DX&ポケモンカフェ">
-  <figcaption style="font-size: 0.7em; text-align: center;">日本橋高島屋本店 <b>ポケモンセンター東京DX&ポケモンカフェ</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">日本橋高島屋本店 ポケモンセンター東京DX&ポケモンカフェ</figcaption>
 </figure>
 
 ​
@@ -413,12 +413,12 @@ KITTEでディナー<br>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-16.jpg" alt="東京駅赤レンガ建築夜景">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>東京駅赤レンガ建築夜景</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅赤レンガ建築夜景</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-17.jpg" alt="東京駅丸の内イルミネーション">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>東京駅丸の内イルミネーション</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅丸の内イルミネーション</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
@@ -524,7 +524,7 @@ KITTEでディナー<br>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-22.jpg" alt="銀座炭焼うな富士有楽町ひつまぶし">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>銀座炭焼うな富士有楽町ひつまぶし</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">銀座炭焼うな富士有楽町ひつまぶし</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>

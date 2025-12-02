@@ -77,19 +77,19 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-05.jpg" alt="ヒレかつ定食 ヒレカツレツとキャベツ">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>ヒレかつ定食 - ヒレカツレツとキャベツ</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ヒレかつ定食 - ヒレカツレツとキャベツ</figcaption>
 </figure>
 
 **ロースかつ定食：2,200円（脂の乗ったロースカツレツ）**
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-06.jpg" alt="ロースかつ定食 ロースカツレツ">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>ロースかつ定食 - ロースカツレツとご飯、味噌汁セット</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ロースかつ定食 - ロースカツレツとご飯、味噌汁セット</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-07.jpg" alt="勝烈庵メニュー">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>勝烈庵のメニュー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">勝烈庵のメニュー</figcaption>
 </figure>
 
 ---

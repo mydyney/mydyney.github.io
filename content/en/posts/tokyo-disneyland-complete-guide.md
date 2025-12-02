@@ -147,7 +147,7 @@ Most reliable, but may have overseas payment difficulties
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-03.jpg" alt="Klook app Tokyo Disneyland ticket search">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Klook app search screen for 'Tokyo Disneyland' tickets</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Klook app search screen for 'Tokyo Disneyland' tickets</figcaption>
 </figure>
 
 ### ④ [Important] Currently Discontinued Tickets
@@ -635,7 +635,7 @@ Free shuttle bus connecting hotel and resort bus terminal
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-12.jpg" alt="Hilton Tokyo Bay Official Hotel">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Disney Resort Official Hotel: Hilton Tokyo Bay</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disney Resort Official Hotel: Hilton Tokyo Bay</figcaption>
 </figure>
 
 ---
