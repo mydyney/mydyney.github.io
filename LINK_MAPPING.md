@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-11-26
-> **Status:** ✅ Complete - 59 posts mapped
+> **Last Updated:** 2025-11-27
+> **Status:** ✅ Complete - 60 posts mapped
 
 ---
 
@@ -79,6 +79,7 @@ When migrating a Naver blog post to Hugo:
 | 224086214573 | meiji-jingu-gaien-christmas-market-2025 | 2025-11-24 | ✅ |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 | 223992588094 | tokyo-september-festivals-2025 | 2025-09-02 | ✅ |
+| 224089448937 | shinjuku-station-breakfast-best-8 | 2025-11-27 | ✅ |
 
 ---
 
@@ -229,6 +230,7 @@ declare -A MAPPINGS=(
   ["224086214573"]="meiji-jingu-gaien-christmas-market-2025"
   ["223664743235"]="shinanoya-roppongi-hills-supermarket"
   ["223992588094"]="tokyo-september-festivals-2025"
+  ["224089448937"]="shinjuku-station-breakfast-best-8"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -249,12 +251,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 59
-- **Naver IDs Tracked:** 59
+- **Total Posts Migrated:** 60
+- **Naver IDs Tracked:** 60
 - **Posts with Internal Links:** 24+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide)
 - **Pending References:** 47
 - **Links Updated:** 0 (all links in posts need migration)
-- **Last Migration Date:** 2025-11-26
+- **Last Migration Date:** 2025-11-27
 
 ---
 
