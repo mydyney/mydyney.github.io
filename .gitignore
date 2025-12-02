@@ -4,6 +4,10 @@ public/
 # Hugo resources cache
 resources/_gen/
 
+# CRITICAL: Root CNAME causes GitHub Pages to switch to "Branch" mode
+# Only use static/CNAME for GitHub Actions deployment
+/CNAME
+
 # OS files
 .DS_Store
 Thumbs.db
