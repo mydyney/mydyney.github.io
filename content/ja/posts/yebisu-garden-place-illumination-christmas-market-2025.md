@@ -159,7 +159,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-07.jpg" alt="恵比寿ガーデンプレイス時計広場からセンター広場へ続くシャンパンゴールドイルミネーション散策路">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>恵比寿ガーデンプレイス時計広場からセンター広場へ続くシャンパンゴールドイルミネーション散策路</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿ガーデンプレイス時計広場からセンター広場へ続くシャンパンゴールドイルミネーション散策路</figcaption>
 </figure>
 
 ---
@@ -264,7 +264,7 @@ Top of Yebisuという無料展望台があります。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-11.jpg" alt="ヱビスブルワリー東京タップルームで楽しむヱビスビールフライトセット2025年冬メニュー">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>ヱビスブルワリー東京タップルームで楽しむヱビスビールフライトセット2025年冬メニュー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ヱビスブルワリー東京タップルームで楽しむヱビスビールフライトセット2025年冬メニュー</figcaption>
 </figure>
 
 ---
@@ -287,7 +287,7 @@ Top of Yebisuという無料展望台があります。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-12.jpg" alt="恵比寿駅東口出口から恵比寿ガーデンプレイスへつながるスカイウォーク冬移動経路案内">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>恵比寿駅東口出口から恵比寿ガーデンプレイスへつながるスカイウォーク冬移動経路案内</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">恵比寿駅東口出口から恵比寿ガーデンプレイスへつながるスカイウォーク冬移動経路案内</figcaption>
 </figure>
 
 ---

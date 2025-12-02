@@ -266,7 +266,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-08.jpg" alt="バスタ新宿の夜景、深夜バスターミナル帰りのシーン">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>バスタ新宿の夜景、深夜バスターミナル帰りのシーン</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">バスタ新宿の夜景、深夜バスターミナル帰りのシーン</figcaption>
 </figure>
 
 ---

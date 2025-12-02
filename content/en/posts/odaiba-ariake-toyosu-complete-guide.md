@@ -19,7 +19,7 @@ Complete guide with transport tips and insider secrets!</p>
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-02.jpg" alt="Odaiba Tokyo waterfront view with Rainbow Bridge and Tokyo Tower">
-  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba Tokyo Mark <a href="https://maps.app.goo.gl/j5oCJ3kja6Hmnan79" target="_blank"><b>(Location)</b></a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba Tokyo Mark <a href="https://maps.app.goo.gl/j5oCJ3kja6Hmnan79" target="_blank">(Location)</a></figcaption>
 </figure>
 
 ## ✨ Why Visit Odaiba, Ariake & Toyosu Together?
@@ -34,7 +34,7 @@ Each area offers unique attractions. Visiting all three in one day creates the p
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-03.jpg" alt="Yurikamome monorail connecting Odaiba Ariake and Toyosu">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Yurikamome monorail connecting Odaiba, Ariake & Toyosu</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yurikamome monorail connecting Odaiba, Ariake & Toyosu</figcaption>
 </figure>
 
 ---
@@ -301,7 +301,7 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-19.jpg" alt="Rainbow Bridge illuminated at night with Tokyo Tower in background">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Odaiba landmark Rainbow Bridge</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba landmark Rainbow Bridge</figcaption>
 </figure>
 
 **🤖 DiverCity Life-Size Gundam: Not Just Standing There!**
@@ -311,7 +311,7 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-20.jpg" alt="Life-size Unicorn Gundam statue at DiverCity Tokyo Plaza with LED lights">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Odaiba landmark life-size Unicorn Gundam</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba landmark life-size Unicorn Gundam</figcaption>
 </figure>
 
 **📺 Fuji TV Headquarters: The Mystery of the Floating Giant Sphere**
@@ -338,7 +338,7 @@ Shopping mall symbolized by the life-size **Unicorn Gundam**. Don't miss the spe
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-22.jpg" alt="Unko Museum colorful poop-themed interactive exhibition at DiverCity Odaiba">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Odaiba DiverCity Unko (Poop) Museum</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba DiverCity Unko (Poop) Museum</figcaption>
 </figure>
 
 <figure>
@@ -348,7 +348,7 @@ Shopping mall symbolized by the life-size **Unicorn Gundam**. Don't miss the spe
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-24.jpg" alt="Doraemon Future Department Store with character merchandise and interactive exhibits">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Odaiba DiverCity Doraemon Future Department Store</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba DiverCity Doraemon Future Department Store</figcaption>
 </figure>
 
 **2. [Aqua City Odaiba](https://maps.app.goo.gl/jcaCqLJadv1eNrv29) - Daiba Station**
@@ -362,12 +362,12 @@ Shopping mall with the most beautiful views of the Statue of Liberty and Rainbow
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-25.jpg" alt="Toys R Us store interior at Aqua City Odaiba with toy displays">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Aqua City Odaiba Toys "R" Us</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Aqua City Odaiba Toys "R" Us</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-26.jpg" alt="Starbucks terrace view overlooking Rainbow Bridge and Tokyo cityscape from Aqua City">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Odaiba Aqua City Starbucks terrace view of Rainbow Bridge & Tokyo cityscape</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba Aqua City Starbucks terrace view of Rainbow Bridge & Tokyo cityscape</figcaption>
 </figure>
 
 **3. [Decks Tokyo Beach](https://maps.app.goo.gl/aQcvYZ7tcphMf66y5) - Odaiba Kaihinkoen Station**
@@ -385,7 +385,7 @@ Sanctuary of indoor theme parks: Tokyo Joypolis, Legoland, Madame Tussauds and m
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-27.jpg" alt="Decks Tokyo Beach Christmas illumination with festive light displays">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Decks Tokyo Beach Christmas illumination</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Decks Tokyo Beach Christmas illumination</figcaption>
 </figure>
 
 **🎡 World's First Immersive Theme Park**
@@ -401,7 +401,7 @@ Opened March 2024 - the world's first immersive theme park. A revolutionary ente
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-28.jpg" alt="Immersive Fort Tokyo Sherlock Holmes interactive mystery experience">
-  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba Immersive Fort Tokyo - Immersive Sherlock Program <a href="https://immersivefort.com/" target="_blank"><b>(Source)</b></a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Odaiba Immersive Fort Tokyo - Immersive Sherlock Program <a href="https://immersivefort.com/" target="_blank">(Source)</a></figcaption>
 </figure>
 
 ---

@@ -245,7 +245,7 @@ featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-09.jpg" alt="エピタフ代表カレー商品 ポークビンダルーカレーとケララ風チキンカレー">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>エピタフ代表カレー商品 ポークビンダルーカレーとケララ風チキンカレー</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">エピタフ代表カレー商品 ポークビンダルーカレーとケララ風チキンカレー</figcaption>
 </figure>
 
 ---

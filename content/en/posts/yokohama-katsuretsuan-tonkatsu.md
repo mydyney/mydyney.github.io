@@ -77,19 +77,19 @@ Katsuretsu is a fully cooked Western-style dish, featuring a crispy exterior wit
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-05.jpg" alt="Hire Katsu Set with tenderloin katsuretsu and cabbage">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Hire Katsu Set - Tenderloin Katsuretsu with Cabbage</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Hire Katsu Set - Tenderloin Katsuretsu with Cabbage</figcaption>
 </figure>
 
 **Rosu Katsu Set (ロースかつ定食): 2,200 yen (Rich Pork Loin Katsuretsu)**
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-06.jpg" alt="Rosu Katsu Set with pork loin katsuretsu">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Rosu Katsu Set - Pork Loin Katsuretsu with Rice and Miso Soup</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Rosu Katsu Set - Pork Loin Katsuretsu with Rice and Miso Soup</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-07.jpg" alt="Katsuretsuan menu">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Katsuretsuan Menu</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Katsuretsuan Menu</figcaption>
 </figure>
 
 ---

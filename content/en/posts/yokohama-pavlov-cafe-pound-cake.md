@@ -171,7 +171,7 @@ From basic plain croissants, to 'meal croissants' prepared like cooking, to jewe
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-12.jpg" alt="Mrs. Pavlov Bakery">
-  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Croissant Restaurant <b>Mrs. Pavlov Bakery</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Croissant Restaurant Mrs. Pavlov Bakery</figcaption>
 </figure>
 
 ---

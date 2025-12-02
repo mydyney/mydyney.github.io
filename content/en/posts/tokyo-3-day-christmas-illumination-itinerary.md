@@ -382,7 +382,7 @@ Tokyo Station Character Street<br>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.jpg" alt="Nihonbashi Takashimaya main store Pokémon Center Tokyo DX & Pokémon Cafe">
-  <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Takashimaya Main Store <b>Pokémon Center Tokyo DX & Pokémon Cafe</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Takashimaya Main Store Pokémon Center Tokyo DX & Pokémon Cafe</figcaption>
 </figure>
 
 ​
@@ -412,12 +412,12 @@ Dinner at KITTE<br>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-16.jpg" alt="Tokyo Station red brick building night view">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Station Red Brick Building Night View</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Red Brick Building Night View</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-17.jpg" alt="Tokyo Station Marunouchi illumination">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Station Marunouchi Illumination</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Marunouchi Illumination</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
@@ -523,7 +523,7 @@ Unafuji for luxurious lunch.<br>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-22.jpg" alt="Ginza Sumiyaki Unafuji Yurakucho hitsumabushi">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Ginza Sumiyaki Unafuji Yurakucho Hitsumabushi</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ginza Sumiyaki Unafuji Yurakucho Hitsumabushi</figcaption>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>

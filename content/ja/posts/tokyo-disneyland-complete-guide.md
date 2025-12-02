@@ -147,7 +147,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-03.jpg" alt="Klookアプリ 東京ディズニーランドチケット検索">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Klookアプリで「東京ディズニーランド」チケット検索画面</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Klookアプリで「東京ディズニーランド」チケット検索画面</figcaption>
 </figure>
 
 ### ④ [重要] 現在販売終了のチケット
@@ -635,7 +635,7 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-12.jpg" alt="ヒルトン東京ベイ オフィシャルホテル">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>東京ディズニーリゾート・オフィシャルホテル：ヒルトン東京ベイ</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーリゾート・オフィシャルホテル：ヒルトン東京ベイ</figcaption>
 </figure>
 
 ---

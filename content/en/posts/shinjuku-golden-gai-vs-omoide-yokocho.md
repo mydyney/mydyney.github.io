@@ -148,7 +148,7 @@ And you say "Stop!" when you're full for the bill.
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-05.jpg" alt="Shinjuku Omoide Yokocho Sasamoto - locals queue for yakitori skewers, rich soy sauce and fire aroma are excellent">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Shinjuku Omoide Yokocho Sasamoto - locals queue for yakitori skewers, rich soy sauce and fire aroma are excellent.</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Omoide Yokocho Sasamoto - locals queue for yakitori skewers, rich soy sauce and fire aroma are excellent.</figcaption>
 </figure>
 
 **2️⃣ Motsuyaki Uchan (もつ焼ウッチャン 新宿思い出横丁店)**

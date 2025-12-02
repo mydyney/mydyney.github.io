@@ -177,7 +177,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-11.jpg" alt="2025年丸の内イルミネーション ディズニーコラボ公式MAP">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>2025年丸の内イルミネーション ディズニーコラボ公式MAP</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年丸の内イルミネーション ディズニーコラボ公式MAP</figcaption>
 </figure>
 
 <h3>① 丸ビル 1F (MAP 1)</h3>
@@ -191,7 +191,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-12.jpg" alt="丸の内ディズニーモニュメント ミッキー＆フレンズ (丸ビル1F)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>丸の内ディズニーモニュメント〈ミッキー＆フレンズ〉(丸ビル1F)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内ディズニーモニュメント〈ミッキー＆フレンズ〉(丸ビル1F)</figcaption>
 </figure>
 
 <h3>② 新丸の内ビル 3F (MAP 2)</h3>
@@ -210,7 +210,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-13.jpg" alt="丸の内ディズニーモニュメント トイ・ストーリー (丸の内オアゾ)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>丸の内ディズニーモニュメント〈トイ・ストーリー〉(丸の内オアゾ)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内ディズニーモニュメント〈トイ・ストーリー〉(丸の内オアゾ)</figcaption>
 </figure>
 
 <h3>④ 丸の内テラス 1F 屋外 (MAP 4)</h3>
@@ -222,7 +222,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-14.jpg" alt="丸の内ディズニーモニュメント ラプンツェル (丸の内テラス)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>丸の内ディズニーモニュメント〈ラプンツェル〉(丸の内テラス)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内ディズニーモニュメント〈ラプンツェル〉(丸の内テラス)</figcaption>
 </figure>
 
 <h3>⑤ 丸の内ブリックスクエア 1F 屋外 (MAP 5)</h3>
@@ -234,7 +234,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-15.jpg" alt="ディズニーホリデーモニュメント ズートピア2 (丸の内ブリックスクエア)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>ディズニーホリデーモニュメント〈ズートピア2〉(丸の内ブリックスクエア)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニーホリデーモニュメント〈ズートピア2〉(丸の内ブリックスクエア)</figcaption>
 </figure>
 
 <h3>⑥ 新東京ビル 1F (MAP 6)</h3>
@@ -246,7 +246,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-16.jpg" alt="ディズニーホリデーモニュメント くまのプーさん (新東京ビル)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>ディズニーホリデーモニュメント〈くまのプーさん〉(新東京ビル)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ディズニーホリデーモニュメント〈くまのプーさん〉(新東京ビル)</figcaption>
 </figure>
 
 ---
@@ -274,7 +274,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-17.jpg" alt="丸の内ディズニースタンプラリー日記 スタンプ付き">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>丸の内ディズニースタンプラリー日記 スタンプ付き</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内ディズニースタンプラリー日記 スタンプ付き</figcaption>
 </figure>
 
 <p><b>特典:</b><br>
@@ -326,12 +326,12 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-20.jpg" alt="丸の内限定ディズニー烏龍茶自動販売機 (トイ・ストーリー、OAZO)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>丸の内限定ディズニー烏龍茶自動販売機 (トイ・ストーリー、OAZO)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内限定ディズニー烏龍茶自動販売機 (トイ・ストーリー、OAZO)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-21.jpg" alt="丸の内限定ディズニー烏龍茶自動販売機 (ズートピア、ブリックスクエア)">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>丸の内限定ディズニー烏龍茶自動販売機 (ズートピア、ブリックスクエア)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内限定ディズニー烏龍茶自動販売機 (ズートピア、ブリックスクエア)</figcaption>
 </figure>
 
 ---
@@ -349,7 +349,7 @@ A: <b>フード・ドリンク店舗は11月28日から開始</b>。マーケッ
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-22.jpg" alt="丸の内イルミネーション フードトラックは11月28日スタート！">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>丸の内イルミネーション フードトラックは11月28日スタート！</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">丸の内イルミネーション フードトラックは11月28日スタート！</figcaption>
 </figure>
 
 <p><b>Q3. ディズニーグッズのポップアップストアにすぐ入れますか？</b><br>

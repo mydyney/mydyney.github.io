@@ -815,6 +815,7 @@ When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use CSS Gri
 
 **Important Notes:**
 - ✅ All figcaptions MUST use inline style: `style="font-size: 0.7em; text-align: center;"`
+- ✅ DO NOT use `<b>` or `<strong>` tags in figcaptions - keep text plain without bold formatting
 - ✅ For image groups, figcaption goes OUTSIDE individual `<figure>` tags
 - ✅ Each image in a group gets its own `<figure>` tag with unique number
 - ✅ CSS Grid layout:

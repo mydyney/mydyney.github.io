@@ -211,7 +211,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="アルペン東京5%割引クーポン 免税クーポン">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>アルペン東京5%クーポン</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">アルペン東京5%クーポン</figcaption>
 </figure>
 
 **⭐ 新宿必須旅行コースも一緒に確認してみてください**

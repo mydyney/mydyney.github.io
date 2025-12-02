@@ -266,7 +266,7 @@ Families with children recommended for front row/window seats!
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-08.jpg" alt="Busta Shinjuku night view, late-night bus terminal return scene">
-  <figcaption style="font-size: 0.7em; text-align: center;"><b>Busta Shinjuku night view, late-night bus terminal return scene</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Busta Shinjuku night view, late-night bus terminal return scene</figcaption>
 </figure>
 
 ---
