@@ -76,6 +76,9 @@ googleAnalytics = "G-NZ22T8HRR3"
   tag = "tags"
   category = "categories"
 
+# Pagination 설정
+paginate = 18
+
 # RSS 피드 설정
 [outputFormats]
   [outputFormats.RSS]
