@@ -97,7 +97,7 @@ Ezoicのデータ取り扱いについての詳細は、以下をご覧くださ
 
 本プライバシーポリシーについてご質問がある場合は、以下までご連絡ください：
 
-**メール**：[your-email@example.com]
+**メール**：tripmate.news@gmail.com
 
 **ウェブサイト**：https://tripmate.news
 
