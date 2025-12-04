@@ -1,0 +1,6 @@
+# This file is automatically updated daily by GitHub Actions
+# Source: https://srv.adstxtmanager.com/19390/tripmate.news
+# Last manual update: 2025-12-04
+#
+# This file will be automatically replaced with the latest version from Ezoic
+# Do not edit manually - changes will be overwritten
