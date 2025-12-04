@@ -9,14 +9,11 @@
 */}}
 
 {{- $placementId := .Get 0 | default (.Get "id") -}}
-{{- if $placementId -}}
-<!-- Ezoic Ad Placement {{ $placementId }} -->
+{{- if $placementId }}
 <div id="ezoic-pub-ad-placeholder-{{ $placementId }}"></div>
 <script>
     ezstandalone.cmd.push(function () {
         ezstandalone.showAds({{ $placementId }});
     });
 </script>
-{{- else -}}
-<!-- Error: Ezoic ad placement ID is required. Usage: {{< ezoic-ad 101 >}} -->
 {{- end -}}
