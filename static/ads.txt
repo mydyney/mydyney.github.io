@@ -1,6 +1,10 @@
-# This file is automatically updated daily by GitHub Actions
-# Source: https://srv.adstxtmanager.com/19390/tripmate.news
-# Last manual update: 2025-12-04
-#
-# This file will be automatically replaced with the latest version from Ezoic
-# Do not edit manually - changes will be overwritten
+# ads.txt for tripmate.news
+# Updated: 2025-12-04
+# Managed by Ezoic
+
+# Ezoic (Primary Ad Network)
+ezoic.com, 19390, DIRECT
+google.com, pub-9840788431761504, RESELLER, f08c47fec0942fa0
+
+# This file will be automatically updated by Ezoic after approval
+# Auto-update source: https://srv.adstxtmanager.com/19390/tripmate.news
