@@ -1,0 +1,22 @@
+{{/*
+  Ezoic Ad Shortcode for use in Markdown content
+
+  Usage in markdown:
+  {{< ezoic-ad 101 >}}
+
+  Or with named parameter:
+  {{< ezoic-ad id=101 >}}
+*/}}
+
+{{- $placementId := .Get 0 | default (.Get "id") -}}
+{{- if $placementId -}}
+<!-- Ezoic Ad Placement {{ $placementId }} -->
+<div id="ezoic-pub-ad-placeholder-{{ $placementId }}"></div>
+<script>
+    ezstandalone.cmd.push(function () {
+        ezstandalone.showAds({{ $placementId }});
+    });
+</script>
+{{- else -}}
+<!-- Error: Ezoic ad placement ID is required. Usage: {{< ezoic-ad 101 >}} -->
+{{- end -}}
