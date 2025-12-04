@@ -48,6 +48,8 @@ Ezoicのデータ取り扱いについての詳細は、以下をご覧くださ
 - [Ezoicプライバシーポリシー](https://www.ezoic.com/privacy-policy/)
 - [Ezoic Cookieポリシー](https://www.ezoic.com/cookie-policy/)
 
+<span id="ezoic-privacy-policy-embed"></span>
+
 ### Google Analytics
 当サイトでは、ウェブサイトのトラフィックを分析するためにGoogle Analyticsを使用しています。Google Analyticsは、ユーザーが本サイトをどのくらいの頻度で訪問するか、どのページを訪問するか、本サイトに訪問する前にどのサイトを利用したかなどの情報を収集します。
 

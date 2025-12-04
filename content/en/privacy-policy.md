@@ -49,6 +49,8 @@ For more information about Ezoic's data practices, please visit:
 - [Ezoic Privacy Policy](https://www.ezoic.com/privacy-policy/)
 - [Ezoic Cookie Policy](https://www.ezoic.com/cookie-policy/)
 
+<span id="ezoic-privacy-policy-embed"></span>
+
 ### Google Analytics
 We use Google Analytics to analyze website traffic. Google Analytics collects information such as how often users visit our Site, what pages they visit, and what other sites they used prior to coming to our Site.
 
