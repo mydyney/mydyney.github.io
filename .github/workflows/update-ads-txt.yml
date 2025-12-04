@@ -28,8 +28,14 @@ jobs:
       - name: Fetch latest ads.txt from Ezoic
         run: |
           echo "Fetching ads.txt from Ezoic..."
-          curl -L -f https://srv.adstxtmanager.com/19390/tripmate.news -o static/ads.txt
-          echo "ads.txt fetched successfully"
+          if curl -L -f https://srv.adstxtmanager.com/19390/tripmate.news -o static/ads.txt.tmp 2>/dev/null; then
+            mv static/ads.txt.tmp static/ads.txt
+            echo "✅ ads.txt fetched successfully from Ezoic"
+          else
+            echo "⚠️ Could not fetch ads.txt from Ezoic (site may not be approved yet)"
+            echo "Using existing ads.txt file"
+            rm -f static/ads.txt.tmp
+          fi
 
       - name: Check if ads.txt changed
         id: check_changes
