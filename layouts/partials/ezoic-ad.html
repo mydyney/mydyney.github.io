@@ -1,0 +1,25 @@
+{{/*
+  Ezoic Ad Placement Partial
+
+  Usage in layouts:
+  {{ partial "ezoic-ad.html" (dict "id" 101) }}
+
+  Usage in markdown (requires Hugo shortcode):
+  {{< ezoic-ad 101 >}}
+
+  Parameters:
+  - id (required): Ezoic placement ID from your dashboard
+*/}}
+
+{{- $placementId := .id -}}
+{{- if $placementId -}}
+<!-- Ezoic Ad Placement {{ $placementId }} -->
+<div id="ezoic-pub-ad-placeholder-{{ $placementId }}"></div>
+<script>
+    ezstandalone.cmd.push(function () {
+        ezstandalone.showAds({{ $placementId }});
+    });
+</script>
+{{- else -}}
+<!-- Error: Ezoic ad placement ID is required -->
+{{- end -}}
