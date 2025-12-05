@@ -66,11 +66,11 @@
         {{ end }}
       {{ else }}
         <!-- No translation for current page, link to home page in each language -->
-        {{ range .Site.Languages }}
-          {{ if eq .Lang $.Language.Lang }}
-            <a href="{{ absLangURL "/" .Lang }}" class="language-link active">{{ .LanguageName }}</a>
+        {{ range $.Site.Home.AllTranslations }}
+          {{ if eq .Language.Lang $.Language.Lang }}
+            <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
           {{ else }}
-            <a href="{{ absLangURL "/" .Lang }}" class="language-link">{{ .LanguageName }}</a>
+            <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
           {{ end }}
         {{ end }}
       {{ end }}
