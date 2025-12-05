@@ -6,7 +6,7 @@ translationKey: "tokyo-september-festivals-2025"
 description: "2025年9月の東京のお祭り・イベント完全ガイド。コスモス畑からオクトーバーフェスト、アートナイトから花火大会まで、天気と服装のアドバイスも含めて徹底解説。"
 summary: "2025年9月の東京のお祭り・イベント完全ガイド。天気と服装のアドバイス付き。"
 tags: ["東京 祭り", "9月 東京", "東京 イベント 2025", "東京 天気", "日本 旅行"]
-categories: ["Festival Calendar"]
+categories: ["イベントカレンダー"]
 featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 ---
 

@@ -6,7 +6,7 @@ translationKey: "shimokitazawa-tokyo-travel-guide"
 description: "2025年東京下北沢旅行完全ガイド。アクセス、半日コース、ヴィンテージショップ（ニューヨークジョー、フラミンゴ、ビッグタイム）、リロード、ライブハウス、ぼっち・ざ・ろっく！聖地巡礼、食べログ認証レストラン、Moon Art Night情報まとめ。"
 summary: "2025東京下北沢旅行ガイド。アクセス情報、半日コース、ヴィンテージショッピング、カフェ、レストラン、ライブハウス、ぼっち・ざ・ろっく！聖地巡礼、インサイダーコツ全部まとめ。"
 tags: ["下北沢", "東京旅行", "ヴィンテージショッピング", "東京カフェ", "東京レストラン", "ぼっち・ざ・ろっく", "東京インディーズ音楽", "日本旅行"]
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 featured_image: "/images/posts/shimokitazawa-tokyo-travel-guide-01.jpg"
 ---
 

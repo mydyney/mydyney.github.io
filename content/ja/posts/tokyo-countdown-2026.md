@@ -6,7 +6,7 @@ translationKey: "tokyo-countdown-2026"
 description: "東京都庁でのHappy New Year Tokyo 2026カウントダウンイベント完全ガイド。12月7日応募締切！初音ミク、Shigekix、ハローキティなど豪華ラインアップと最高の観覧スポットをご紹介。"
 summary: "12月7日まで応募！東京最大のカウントダウンイベントHappy New Year Tokyo 2026の初音ミク、Shigekixラインアップ、無料抽選応募、新宿での最高の観覧スポットを完全ガイド。"
 tags: ["東京カウントダウン", "ハッピーニューイヤー東京", "新宿", "東京イベント", "大晦日東京", "初音ミク", "東京都庁", "日本年越し"]
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 featured_image: "/images/posts/tokyo-countdown-2026-01.jpg"
 ---
 

@@ -6,7 +6,7 @@ translationKey: "tokyo-disneyland-complete-guide"
 description: "東京ディズニーランドの完全ガイド：チケット、ディズニープレミアアクセス（DPA）、午後パス、ショー、レストラン、ホテル、交通アクセス、完璧なディズニー体験のための攻略法"
 summary: "東京ディズニーランド完全攻略：変動価格制チケット、DPAと無料パス、ショー予約、レストラン予約、ホテルオプション、交通アクセス、最高のディズニー体験のための必須情報"
 tags: ["東京", "ディズニーランド", "ディズニーリゾート", "テーマパーク", "家族旅行", "ディズニーチケット"]
-categories: ["Disneyland"]
+categories: ["ディズニーランド"]
 featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 ---
 

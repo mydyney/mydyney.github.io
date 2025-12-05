@@ -6,7 +6,7 @@ translationKey: "shinjuku-neon-walk-tokyo-illumination-2025-2026"
 description: "新宿ネオンウォーク東京イルミネーション2025-2026完全ガイド。開催期間、点灯時間、Zone A-Dフォトゾーン、AIアート体験、フードトラック、デジタルスタンプラリーと景品情報、冬の東京観光に必見です。"
 summary: "冬の東京必見コース！新宿ネオンウォークイルミネーション2025-2026の期間、時間、フォトゾーン、スタンプラリー、フードトラック情報を公式資料をもとに総まとめ。"
 tags: ["新宿", "東京イルミネーション", "東京冬", "ネオンウォーク", "東京イベント", "日本旅行", "東京都庁", "東京クリスマス"]
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-01.jpg"
 ---
 

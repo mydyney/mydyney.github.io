@@ -6,7 +6,7 @@ translationKey: "omotesando-illumination-2025"
 description: "2025年表参道イルミネーション完全ガイド。FENDI ゴールデンケヤキ期間（12月1日〜28日）、点灯時間、原宿・表参道駅からのアクセス、ベスト5フォトスポット、表参道ヒルズツリー、観覧コツ、渋谷青の洞窟への接続まとめ。"
 summary: "2025表参道イルミネーション完全ガイド。期間、点灯時間、アクセス情報、おすすめコース、フォトスポット、表参道ヒルズツリー、インサイダーコツ全部まとめ。"
 tags: ["表参道", "東京イルミネーション", "東京クリスマス", "FENDI", "原宿", "東京冬", "日本旅行", "東京ライト"]
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 featured_image: "/images/posts/omotesando-illumination-2025-01.jpg"
 ---
 
