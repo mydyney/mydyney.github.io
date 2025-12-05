@@ -5,7 +5,7 @@ draft: false
 translationKey: "toranomon-hills-complete-guide"
 description: "虎ノ門ヒルズ2025完全ガイド：4つのタワー解説（ステーション、ビジネス、森、ガラス）、T-Marketフードホール、TOKYO NODE無料展望台、虎ノ門横丁居酒屋通り、アンダーズホテル、公式トラノモンキャラクター。"
 summary: "東京の虎ノ門ヒルズを発見：4タワー複合施設でT-Market、TOKYO NODE展望台（45階）、虎ノ門横丁居酒屋通り、高級アンダーズホテル、ドラえもんをモチーフにした限定トラノモンキャラクター。"
-tags: ["toranomon-hills", "tokyo-observatory", "tokyo-restaurants", "izakaya", "t-market", "tokyo-node", "andaz-hotel", "business-district"]
+tags: ["虎ノ門ヒルズ", "東京展望台", "東京レストラン", "居酒屋", "Tマーケット", "東京ノード", "アンダーズホテル", "ビジネス街"]
 categories: ["Travel Guide"]
 featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 ---

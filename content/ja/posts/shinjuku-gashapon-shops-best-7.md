@@ -3,7 +3,7 @@ title: "新宿ガチャガチャショップおすすめBEST 7 場所・レア�
 date: 2025-11-27T16:58:00+09:00
 draft: false
 categories: ["Shinjuku/Shin-Okubo"]
-tags: ["shinjuku", "gashapon", "gacha", "tokyo-shopping", "anime-merchandise", "kabukicho", "tokyo-guide"]
+tags: ["新宿", "ガシャポン", "ガチャ", "東京ショッピング", "アニメグッズ", "歌舞伎町", "東京ガイド"]
 translationKey: "shinjuku-gashapon-guide-2025"
 description: "新宿のガチャガチャショップおすすめTOP 7を完全ガイド!ガチャガチャの森、C-pla、歌舞伎町タワーnamcoなど、場所・営業時間・レアアイテム攻略・お得情報を徹底解説。初心者でも迷わず楽しめる東京カプセルトイの聖地巡り決定版。"
 summary: "新宿のガチャガチャショップBEST 7を完全ガイド!場所、営業時間、レアアイテム、お得な攻略法まで、初心者でも迷わず楽しめるカプセルトイ巡りの決定版。"

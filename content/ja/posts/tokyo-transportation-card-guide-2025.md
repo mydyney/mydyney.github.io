@@ -5,7 +5,7 @@ draft: false
 translationKey: "tokyo-transportation-card-guide-2025"
 description: "2025年版、東京交通カード完全ガイド。iPhoneスイカ、ウェルカムスイカ、PASMOの発行方法、比較表、お得な活用法を徹底解説。旅行者必見の情報満載です。"
 summary: "東京の交通カードで迷っていませんか?2025年最新情報!iPhoneモバイルスイカ、ウェルカムスイカ、PASMOの選び方を完全解説します。"
-tags: ["tokyo", "transportation", "suica", "pasmo", "travel-tips", "2025"]
+tags: ["東京", "交通", "スイカ", "パスモ", "旅行情報", "2025"]
 categories: ["Transportation"]
 featured_image: "/images/posts/tokyo-transportation-card-guide-2025-01.jpg"
 ---

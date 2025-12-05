@@ -5,7 +5,7 @@ draft: false
 translationKey: "azabudai-hills-complete-guide"
 description: "麻布台ヒルズ2025完全ガイド：東京タワー正面ビューの33階スカイルーム展望台、再オープンしたteamLabボーダレスチケット情報、麻布台ヒルズマーケットのグルメレストラン、ミシュラン店、高級ショッピング、季節イベント。"
 summary: "東京の麻布台ヒルズを発見：33階スカイルームカフェ展望台、teamLabボーダレス美術館、ミシュランレストランを含むプレミアム麻布台ヒルズマーケット、高級ショッピング、完璧な半日コース。"
-tags: ["azabudai-hills", "tokyo-observatory", "teamlab-borderless", "tokyo-restaurants", "tokyo-shopping", "michelin", "sky-room-cafe", "tokyo-tower-view"]
+tags: ["麻布台ヒルズ", "東京展望台", "チームラボボーダレス", "東京レストラン", "東京ショッピング", "ミシュラン", "スカイルームカフェ", "東京タワービュー"]
 categories: ["Travel Guide"]
 featured_image: "/images/posts/azabudai-hills-complete-guide-01.jpg"
 ---
