@@ -1,0 +1,79 @@
+<footer class="site-footer">
+  <div class="footer-content">
+    <div class="footer-grid">
+      <!-- About Section -->
+      <div class="footer-section">
+        <div class="footer-logo">
+          <h3>Tokyo Mate</h3>
+          <p class="footer-tagline">東京メイト</p>
+        </div>
+        <p class="footer-description">
+          Your ultimate guide to Tokyo, Japan. Discover the best restaurants, travel tips, and hidden gems in Tokyo.
+        </p>
+        <p class="footer-description-ja">
+          東京の最高のレストラン、旅行のヒント、隠れた名所を発見しましょう。
+        </p>
+      </div>
+
+      <!-- Quick Links -->
+      <div class="footer-section">
+        <h4 class="footer-heading">Quick Links</h4>
+        <ul class="footer-links">
+          <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+          <li><a href="{{ .Site.BaseURL }}posts/">Blog Posts</a></li>
+          <li><a href="{{ .Site.BaseURL }}categories/">Categories</a></li>
+          <li><a href="{{ .Site.BaseURL }}tags/">Tags</a></li>
+        </ul>
+      </div>
+
+      <!-- Categories -->
+      <div class="footer-section">
+        <h4 class="footer-heading">Categories</h4>
+        <ul class="footer-links">
+          {{ range first 5 .Site.Taxonomies.categories.ByCount }}
+          <li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+
+      <!-- Contact & Legal -->
+      <div class="footer-section">
+        <h4 class="footer-heading">Contact & Legal</h4>
+        <ul class="footer-links">
+          <li>
+            <a href="mailto:tripmate.news@gmail.com">
+              <svg class="footer-icon" viewBox="0 0 20 20" fill="currentColor">
+                <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"/>
+                <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"/>
+              </svg>
+              tripmate.news@gmail.com
+            </a>
+          </li>
+          <li><a href="{{ .Site.BaseURL }}privacy-policy/">Privacy Policy</a></li>
+          <li><span class="footer-location">📍 Tokyo, Japan</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Language Selector -->
+    {{ if .IsTranslated }}
+    <div class="footer-language">
+      <span class="language-label">Languages:</span>
+      {{ range .Translations }}
+        <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
+      {{ end }}
+      <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
+    </div>
+    {{ end }}
+
+    <!-- Copyright Bar -->
+    <div class="footer-bottom">
+      <div class="footer-copyright">
+        <p>&copy; {{ now.Format "2006" }} Tokyo Mate. All rights reserved.</p>
+      </div>
+      <div class="footer-credits">
+        <p>Made with ❤️ in Tokyo</p>
+      </div>
+    </div>
+  </div>
+</footer>
