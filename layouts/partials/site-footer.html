@@ -56,15 +56,25 @@
     </div>
 
     <!-- Language Selector -->
-    {{ if .IsTranslated }}
     <div class="footer-language">
       <span class="language-label">Languages:</span>
-      <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
-      {{ range .Translations }}
-        <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
+      {{ if .IsTranslated }}
+        <!-- Current page has translations -->
+        <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
+        {{ range .Translations }}
+          <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
+        {{ end }}
+      {{ else }}
+        <!-- No translation for current page, link to home page in each language -->
+        {{ range .Site.Languages }}
+          {{ if eq .Lang $.Language.Lang }}
+            <a href="{{ .Lang | relLangURL "/" }}" class="language-link active">{{ .LanguageName }}</a>
+          {{ else }}
+            <a href="{{ .Lang | relLangURL "/" }}" class="language-link">{{ .LanguageName }}</a>
+          {{ end }}
+        {{ end }}
       {{ end }}
     </div>
-    {{ end }}
 
     <!-- Copyright Bar -->
     <div class="footer-bottom">
