@@ -68,9 +68,9 @@
         <!-- No translation for current page, link to home page in each language -->
         {{ range .Site.Languages }}
           {{ if eq .Lang $.Language.Lang }}
-            <a href="{{ .Lang | relLangURL "/" }}" class="language-link active">{{ .LanguageName }}</a>
+            <a href="{{ absLangURL "/" .Lang }}" class="language-link active">{{ .LanguageName }}</a>
           {{ else }}
-            <a href="{{ .Lang | relLangURL "/" }}" class="language-link">{{ .LanguageName }}</a>
+            <a href="{{ absLangURL "/" .Lang }}" class="language-link">{{ .LanguageName }}</a>
           {{ end }}
         {{ end }}
       {{ end }}
