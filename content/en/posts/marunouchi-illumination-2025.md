@@ -17,10 +17,7 @@ Disney collaboration, Christmas Market info all in one.<br>
 Holiday monument locations, limited goods, restaurant menus and essential tips!<br>
 <br>
 <b>⭐ Want to see all Tokyo Christmas illuminations?</b><br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Tokyo Christmas Illumination BEST 5 ↗</b></a></p>
+➡️ <a href="/posts/tokyo-christmas-illumination-best-5-2025/" target="_blank"><b>2025 Tokyo Christmas Illumination BEST 5 ↗</b></a></p>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-01.jpg" alt="2025 Tokyo Marunouchi Disney Collaboration Illumination">
@@ -374,10 +371,7 @@ A: Yes, you can use JAPAN-FREE-WIFI (SSID).</p>
 ➡️ <a href="/posts/roppongi-christmas-illumination-2025/" target="_blank"><b>Roppongi Illumination 2025 Complete Guide</b></a></p>
 
 <p><b>✨ Tokyo Skytree Christmas Market (starts Nov 6)</b><br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224074888771
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Tokyo Skytree Christmas Market Complete Guide</b></a></p>
+➡️ <a href="/posts/tokyo-skytree-christmas-market-2025/" target="_blank"><b>2025 Tokyo Skytree Christmas Market Complete Guide</b></a></p>
 
 <p><b>✨ Hibiya Midtown Illumination (starts Nov 13)</b><br>
 ➡️ <a href="/posts/hibiya-midtown-illumination-2025/" target="_blank"><b>2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration Guide</b></a></p>

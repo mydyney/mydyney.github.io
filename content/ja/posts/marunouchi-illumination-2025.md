@@ -17,10 +17,7 @@ featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 ホリデーモニュメントの場所、限定グッズ、レストランメニュー、必見情報！<br>
 <br>
 <b>⭐ 東京クリスマスイルミネーションを全部見たい？</b><br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025年東京クリスマスイルミネーションBEST5 ↗</b></a></p>
+➡️ <a href="/ja/posts/tokyo-christmas-illumination-best-5-2025/" target="_blank"><b>2025年東京クリスマスイルミネーションBEST5 ↗</b></a></p>
 
 <figure>
   <img src="/images/posts/marunouchi-illumination-2025-01.jpg" alt="2025年東京丸の内ディズニーコラボイルミネーション">
@@ -374,10 +371,7 @@ A: はい、JAPAN-FREE-WIFI (SSID)が利用可能です。</p>
 ➡️ <a href="/ja/posts/roppongi-christmas-illumination-2025/" target="_blank"><b>2025年六本木イルミネーション完全ガイド</b></a></p>
 
 <p><b>✨ 東京スカイツリークリスマスマーケット (11月6日開始)</b><br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224074888771
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025年東京スカイツリー クリスマスマーケット完全ガイド</b></a></p>
+➡️ <a href="/ja/posts/tokyo-skytree-christmas-market-2025/" target="_blank"><b>2025年東京スカイツリー クリスマスマーケット完全ガイド</b></a></p>
 
 <p><b>✨ 日比谷ミッドタウンイルミネーション (11月13日開始)</b><br>
 ➡️ <a href="/ja/posts/hibiya-midtown-illumination-2025/" target="_blank"><b>2025年日比谷ミッドタウンイルミネーション・ズートピア2コラボガイド</b></a></p>
