@@ -59,10 +59,10 @@
     {{ if .IsTranslated }}
     <div class="footer-language">
       <span class="language-label">Languages:</span>
+      <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
       {{ range .Translations }}
         <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
       {{ end }}
-      <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
     </div>
     {{ end }}
 
