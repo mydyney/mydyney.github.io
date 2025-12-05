@@ -6,7 +6,7 @@ translationKey: "hibiya-park-tokyo-guide"
 description: "日比谷公園の完全ガイド。アクセス情報、ランニングコース、紅葉スポット、夜景、レストラン、2025年フェスティバルカレンダーまで。銀座・有楽町エリアの完璧な都会のオアシス。"
 summary: "東京日比谷公園の2025年完全ガイド。散策ルート、紅葉、ランニングコース、レストラン、四季折々のイベント情報をご紹介します。"
 tags: ["日比谷公園", "東京", "東京公園", "東京ランニング", "東京紅葉", "銀座", "有楽町", "東京観光", "日本旅行"]
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 ---
 

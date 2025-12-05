@@ -6,7 +6,7 @@ translationKey: "yokohama-katsuretsuan-tonkatsu"
 description: "1927年創業の横浜カツレツ元祖レストラン「勝烈庵」完全ガイド。90年の伝統、秘伝のソース、ご飯とキャベツ食べ放題、メニュー価格、馬車道本店含む全3店舗情報。"
 summary: "横浜式カツレツ90年の伝統・勝烈庵：一晩熟成の秘伝ソース、生パン粉、ご飯とキャベツ食べ放題、棟方志功の作品、全3店舗完全ガイド。"
 tags: ["横浜", "とんかつ", "勝烈庵", "カツレツ", "レストラン", "日本食", "横浜グルメ"]
-categories: ["Yokohama"]
+categories: ["横浜"]
 featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 ---
 

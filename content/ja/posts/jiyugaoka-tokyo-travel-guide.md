@@ -6,7 +6,7 @@ translationKey: "jiyugaoka-tokyo-travel-guide"
 description: "自由が丘の半日観光コース、トレンディなカフェ、有名ケーキ店、おしゃれな雑貨店、アクセス情報まで完全ガイド。地元の雰囲気を楽しむ自由が丘観光の決定版。"
 summary: "自由が丘のおすすめカフェ、ケーキ店、雑貨店、半日散策コースまで。東京の隠れた魅力スポット自由が丘の完全ガイドです。"
 tags: ["自由が丘", "東京", "東京観光", "東京カフェ", "東京ショッピング", "東京スイーツ", "東京下町", "日本旅行"]
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 ---
 

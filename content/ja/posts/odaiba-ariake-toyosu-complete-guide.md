@@ -2,7 +2,7 @@
 title: "お台場・有明・豊洲1日観光完全ガイド:東京ウォーターフロントおすすめコース2025"
 date: 2025-10-17T02:56:00+09:00
 draft: false
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 tags: ["お台場", "有明", "豊洲", "ゆりかもめ", "東京ウォーターフロント", "チームラボプラネッツ", "豊洲市場", "無印良品有明"]
 translationKey: "odaiba-ariake-toyosu-complete-guide"
 description: "お台場・有明・豊洲を1日で完全攻略!ゆりかもめ一日乗車券の活用法、豊洲市場、チームラボプラネッツ、無印良品有明、レインボーブリッジ夜景など完全ガイド。"

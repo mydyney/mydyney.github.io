@@ -6,7 +6,7 @@ translationKey: "yokohama-pavlov-cafe-pound-cake"
 description: "横浜元町のカフェ パブロフ完全ガイド - 食べログスイーツ百名店5年連続選出。白餡入りのしっとりパウンドケーキ、フレンチトースト、パブロフの犬コンセプトで有名。メニュー、価格、予約、訪問のコツ。"
 summary: "横浜の宝石のようなカフェ パブロフ：食べログ百名店5年連続、白餡入りユニークパウンドケーキ、フレンチトースト、クロワッサンベーカリー、メニューとアクセス含む完全訪問ガイド。"
 tags: ["横浜", "カフェ", "パブロフ", "パウンドケーキ", "フレンチトースト", "食べログ", "元町"]
-categories: ["Yokohama"]
+categories: ["横浜"]
 featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 ---
 

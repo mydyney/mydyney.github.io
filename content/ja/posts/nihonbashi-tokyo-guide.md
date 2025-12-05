@@ -6,7 +6,7 @@ translationKey: "nihonbashi-tokyo-guide"
 description: "日本橋東京旅行完全ガイド2025。無料シャトルバス（メトロリンク）、半日散策コース、ポケモンセンターDX、日本橋麒麟像、三越本店、クルーズ、おすすめレストラン3選（とんかつはじめ、金子半之助、つじ半）をご紹介。"
 summary: "日本橋東京完全ガイド。無料シャトルバスアクセス、おすすめ半日コース、ポケモンセンター、デパート、クルーズ、訪れるべきレストラン3選をまとめました。"
 tags: ["日本橋", "東京旅行", "とんかつはじめ", "ポケモンセンター", "東京グルメ", "三越", "東京デパート", "日本旅行"]
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 ---
 
