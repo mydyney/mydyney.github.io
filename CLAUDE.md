@@ -1,6 +1,6 @@
 # CLAUDE.md - AI Assistant Guide
 
-> **Last Updated:** 2025-11-25
+> **Last Updated:** 2025-12-05
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Site:** https://tripmate.news
 > **Type:** Hugo Static Site for GitHub Pages
@@ -471,6 +471,170 @@ translationKey: "tokyo-guide-2025"
 **Language Switcher:** Hugo will automatically show language switcher when posts share `translationKey`.
 
 **Note:** Korean language support has been removed. Only create English and Japanese versions.
+
+### Tag Management and Multilingual Tags
+
+**⚠️ CRITICAL RULE: Tags Must Match Content Language**
+
+When creating or editing blog posts, **ALWAYS** ensure tags match the language of the post content:
+
+- ✅ **English posts** (`content/en/posts/`) → **English tags only**
+- ✅ **Japanese posts** (`content/ja/posts/`) → **Japanese tags only**
+- ❌ **NEVER mix languages** in tags within a single post
+
+**Why This Matters:**
+- **SEO:** Search engines prefer language consistency
+- **UX:** Users expect tags in the same language as the content
+- **Discoverability:** Language-appropriate tags improve content discovery
+
+**Examples:**
+
+```yaml
+# ✅ CORRECT - English post with English tags
+# content/en/posts/toranomon-hills-complete-guide.md
+---
+title: "Tokyo Toranomon Hills 2025 Complete Guide"
+tags: ["toranomon-hills", "tokyo-observatory", "tokyo-restaurants", "izakaya", "t-market"]
+---
+
+# ✅ CORRECT - Japanese post with Japanese tags
+# content/ja/posts/toranomon-hills-complete-guide.md
+---
+title: "東京虎ノ門ヒルズ2025完全ガイド"
+tags: ["虎ノ門ヒルズ", "東京展望台", "東京レストラン", "居酒屋", "Tマーケット"]
+---
+
+# ❌ WRONG - Japanese post with English tags
+# content/ja/posts/toranomon-hills-complete-guide.md
+---
+title: "東京虎ノ門ヒルズ2025完全ガイド"
+tags: ["toranomon-hills", "tokyo-observatory", "tokyo-restaurants"]  # ← ERROR!
+---
+```
+
+### English-Japanese Tag Mapping
+
+When creating new posts or converting existing content, use this mapping to ensure consistency across languages:
+
+| English Tag | Japanese Tag | Category |
+|-------------|--------------|----------|
+| `andaz-hotel` | `アンダーズホテル` | Hotels |
+| `anime-merchandise` | `アニメグッズ` | Shopping |
+| `azabudai-hills` | `麻布台ヒルズ` | Locations |
+| `azabujuban` | `麻布十番` | Locations |
+| `business-district` | `ビジネス街` | Areas |
+| `cash-only` | `現金のみ` | Payment |
+| `cosplay` | `コスプレ` | Culture |
+| `disneyland` | `ディズニーランド` | Attractions |
+| `family-events` | `家族イベント` | Events |
+| `gacha` | `ガチャ` | Entertainment |
+| `gashapon` | `ガシャポン` | Entertainment |
+| `halloween` | `ハロウィン` | Events |
+| `ikebukuro` | `池袋` | Locations |
+| `izakaya` | `居酒屋` | Dining |
+| `kabukicho` | `歌舞伎町` | Locations |
+| `michelin` | `ミシュラン` | Dining |
+| `observation-deck` | `展望台` | Attractions |
+| `pasmo` | `パスモ` | Transportation |
+| `shibuya` | `渋谷` | Locations |
+| `shinjuku` | `新宿` | Locations |
+| `sky-room-cafe` | `スカイルームカフェ` | Dining |
+| `solamachi` | `ソラマチ` | Shopping |
+| `suica` | `スイカ` | Transportation |
+| `sweets` | `スイーツ` | Food |
+| `t-market` | `Tマーケット` | Shopping |
+| `taiyaki` | `たい焼き` | Food |
+| `teamlab-borderless` | `チームラボボーダレス` | Attractions |
+| `ticket-discount` | `チケット割引` | Travel Tips |
+| `tokyo` | `東京` | Locations |
+| `tokyo-attractions` | `東京観光` | Travel |
+| `tokyo-festivals` | `東京祭り` | Events |
+| `tokyo-guide` | `東京ガイド` | Travel |
+| `tokyo-node` | `東京ノード` | Locations |
+| `tokyo-observatory` | `東京展望台` | Attractions |
+| `tokyo-restaurants` | `東京レストラン` | Dining |
+| `tokyo-shopping` | `東京ショッピング` | Shopping |
+| `tokyo-skytree` | `東京スカイツリー` | Attractions |
+| `tokyo-tower-view` | `東京タワービュー` | Views |
+| `toranomon-hills` | `虎ノ門ヒルズ` | Locations |
+| `traditional-food` | `和食` | Food |
+| `transportation` | `交通` | Travel |
+| `travel-tips` | `旅行情報` | Travel |
+| `2025` | `2025` | Years (keep as-is) |
+
+**Tag Naming Conventions:**
+
+- **English tags:** Use `kebab-case` (lowercase with hyphens)
+  - ✅ `tokyo-restaurants`, `christmas-market`, `travel-tips`
+  - ❌ `Tokyo_Restaurants`, `ChristmasMarket`, `Travel Tips`
+
+- **Japanese tags:** Use natural Japanese text (hiragana, katakana, kanji)
+  - ✅ `東京レストラン`, `クリスマスマーケット`, `旅行情報`
+  - ❌ No special formatting needed
+
+- **Proper nouns/Brand names:** Keep original form in both languages
+  - English: `t-market`, `tokyo-node`, `teamlab-borderless`
+  - Japanese: `Tマーケット`, `東京ノード`, `チームラボボーダレス`
+
+- **Numbers/Years:** Keep as-is in both languages
+  - Both: `2025`, `2026`
+
+**Updating the Tag Mapping:**
+
+When you create a new tag that doesn't exist in the mapping above:
+
+1. **Add both English and Japanese versions** to the table above
+2. **Maintain alphabetical order** by English tag
+3. **Include category** for better organization
+4. **Update the conversion script** (`convert_tags_to_japanese.py`) with the new mapping:
+
+```python
+TAG_MAPPING = {
+    # ... existing mappings ...
+    "new-english-tag": "新しい日本語タグ",  # Add here
+    # ... rest of mappings ...
+}
+```
+
+5. **Document the update** in your commit message:
+```bash
+git commit -m "docs: Add new tag mapping for [tag-name]
+
+Added English-Japanese tag mapping:
+- English: new-english-tag
+- Japanese: 新しい日本語タグ
+- Category: [category-name]"
+```
+
+**Bulk Tag Conversion:**
+
+If you need to convert multiple posts at once, use the provided utility script:
+
+```bash
+# Convert all English tags to Japanese in Japanese posts
+python3 convert_tags_to_japanese.py
+
+# The script will:
+# 1. Scan all files in content/ja/posts/
+# 2. Replace English tags with Japanese equivalents
+# 3. Preserve tags already in Japanese
+# 4. Report number of files processed
+```
+
+**Verification:**
+
+Before committing tag changes, verify consistency:
+
+```bash
+# Check English posts have English tags
+grep "^tags:" content/en/posts/*.md | head -5
+
+# Check Japanese posts have Japanese tags
+grep "^tags:" content/ja/posts/*.md | head -5
+
+# Look for mixed language tags (should return nothing)
+grep "^tags:" content/ja/posts/*.md | grep -E "[a-z]+-[a-z]+"
+```
 
 ### SEO-Optimized Content Conversion (Korean → EN/JA)
 
@@ -1881,11 +2045,22 @@ Build Output:    /public/
 
 ## Document Maintenance
 
-**Last Updated:** 2025-11-25
+**Last Updated:** 2025-12-05
 **Updated By:** Claude (AI Assistant)
 **Next Review:** When significant project changes occur
 
-**Recent Updates (2025-11-25 - Latest):**
+**Recent Updates (2025-12-05 - Latest):**
+- **Tag Management Guidelines:**
+  - Added comprehensive "Tag Management and Multilingual Tags" section
+  - **CRITICAL RULE:** English posts must use English tags, Japanese posts must use Japanese tags
+  - Added complete English-Japanese tag mapping table (45+ tag pairs)
+  - Included tag naming conventions for both languages
+  - Added instructions for updating tag mapping when creating new tags
+  - Documented bulk tag conversion script usage
+  - Added verification commands to check tag consistency
+  - **Impact:** Ensures SEO consistency and better user experience across multilingual content
+
+**Recent Updates (2025-11-25):**
 - **CRITICAL FIX: GitHub Actions baseURL Configuration:**
   - Fixed 404/403 errors caused by incorrect baseURL in workflow
   - **Removed** `--baseURL "${{ steps.pages.outputs.base_url }}/"` from hugo build command
