@@ -5,7 +5,7 @@ draft: false
 translationKey: "tokyo-halloween-festivals-2025"
 description: "東京ハロウィン2025完全ガイド。渋谷を避けるべき理由と最高の代替イベント：池袋コスプレフェス、ディズニーハロウィン、サンリオピューロランド、ファミリーパレード情報。"
 summary: "東京ハロウィン2025のベストフェスティバルを紹介。渋谷が禁止の理由と、池袋コスプレフェス、ディズニーハロウィン、ファミリーパレードなど素晴らしい代替イベントを発見。"
-tags: ["halloween", "tokyo-festivals", "ikebukuro", "disneyland", "shibuya", "cosplay", "family-events"]
+tags: ["ハロウィン", "東京祭り", "池袋", "ディズニーランド", "渋谷", "コスプレ", "家族イベント"]
 categories: ["フェスティバルガイド"]
 featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 ---

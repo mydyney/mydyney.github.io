@@ -5,7 +5,7 @@ draft: false
 translationKey: "azabujuban-naniwaya-taiyaki"
 description: "東京3大たい焼きの一つ、麻布十番の100年老舗「浪花家総本店」完全ガイド。尻尾まであんこたっぷり、パリパリの皮が特徴。現金のみ対応の支払い情報も詳しく解説。"
 summary: "麻布十番の100年老舗「浪花家総本店」で東京3大たい焼きを味わう。メニュー、営業情報、現金のみ支払いの注意点まで完全ガイド。"
-tags: ["azabujuban", "taiyaki", "sweets", "traditional-food", "tokyo-restaurants", "cash-only"]
+tags: ["麻布十番", "たい焼き", "スイーツ", "和食", "東京レストラン", "現金のみ"]
 categories: ["Restaurants"]
 featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"
 ---

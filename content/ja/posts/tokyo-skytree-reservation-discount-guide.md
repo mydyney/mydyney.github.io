@@ -5,7 +5,7 @@ draft: false
 translationKey: "tokyo-skytree-reservation-discount-guide"
 description: "東京スカイツリー2025完全ガイド：展望デッキ（350m）vs展望回廊（450m）比較、最大25%オフの割引チケット予約方法、ソラマチショッピング＆レストラン、アクセス情報、無料展望台情報まとめ。"
 summary: "東京スカイツリー完全ガイド：展望デッキ（350m）vs展望回廊（450m）比較、オンライン予約で15～25%割引、ソラマチのポケモンセンター、寿司レストラン、デザートスポットを紹介。"
-tags: ["tokyo-skytree", "tokyo-attractions", "observation-deck", "solamachi", "tokyo-shopping", "tokyo-restaurants", "ticket-discount"]
+tags: ["東京スカイツリー", "東京観光", "展望台", "ソラマチ", "東京ショッピング", "東京レストラン", "チケット割引"]
 categories: ["Travel Guide"]
 featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 ---

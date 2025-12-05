@@ -5,7 +5,7 @@ draft: false
 translationKey: "tokyo-dome-city-christmas-illumination-2025"
 description: "東京ドームシティ クリスマスイルミネーション2025のTXTコラボ、SNOW DOMEテーマ、ノルディッククリスマスマーケット、期間、時間、無料入場、アクセス情報を完全ガイド。"
 summary: "東京ドームシティ クリスマスイルミネーション2025のTXTコラボ、期間、時間、無料入場情報を完全ガイド。"
-tags: ["東京ドーム", "クリスマスイルミネーション", "txt", "東京クリスマス", "イルミネーション", "東京旅行"]
+tags: ["東京ドーム", "クリスマスイルミネーション", "TXT", "東京クリスマス", "イルミネーション", "東京旅行"]
 categories: ["旅行情報"]
 featured_image: "/images/posts/tokyo-dome-city-christmas-illumination-2025-01.jpg"
 ---
