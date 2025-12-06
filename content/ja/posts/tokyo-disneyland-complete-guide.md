@@ -709,7 +709,8 @@ DPA（有料）、40周年記念パス（無料）、スタンバイパス（無
 
 **📍 関連東京旅行情報**
 
-**➡️ [日本旅行割引クーポン2025（ドン・キホーテ、百貨店）](https://blog.naver.com/tokyomate/224039113760)**
+**➡️ [日本旅行割引クーポン2025（ドン・キホーテ、百貨店）](/ja/posts/japan-travel-discount-coupons-2025/)**
+<br>
 **➡️ [東京交通カード完全ガイド（iPhone Suica、PASMO）](/ja/posts/tokyo-transportation-card-guide-2025/)**
 
 </div>
