@@ -23,7 +23,7 @@ Here's everything you need for the ultimate free night view experience!</p>
 </figure>
 
 ⭐ Want to see all of Shinjuku's attractions, restaurants, shopping, and night views at once?
-➡️ <a href="/posts/shinjuku-complete-guide/" style="color: #667eea;">Complete Shinjuku Guide</a>
+➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Guide</a>
 
 ## 🌆 Tokyo Metropolitan Government Observatory Basic Information
 
@@ -295,6 +295,6 @@ Experience the stunning light show and enjoy the million-dollar Shinjuku night v
 
 Create an unforgettable Tokyo night. 😊
 
-➡️ <a href="/posts/shinjuku-complete-guide/" style="color: #667eea;"><strong>Complete Shinjuku Guide: Shinjuku Gyoen, Restaurants, Shopping, Golden Gai, and More</strong></a>
+➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Complete Shinjuku Guide: Shinjuku Gyoen, Restaurants, Shopping, Golden Gai, and More</strong></a>
 
 </div>

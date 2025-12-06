@@ -23,7 +23,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 </figure>
 
 ⭐新宿全体の旅行コースとグルメ・ショッピング・夜景情報を一目で見たいなら
-➡️ <a href="/ja/posts/shinjuku-complete-guide/" style="color: #667eea;">新宿観光完全コース総まとめ</a>
+➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿観光完全コース総まとめ</a>
 
 ## 🌆 東京都庁展望台の基本情報
 
@@ -296,6 +296,6 @@ A4出口と直接連結されています。
 
 忘れられない東京の夜を作ってみてください。 😊
 
-➡️ <a href="/ja/posts/shinjuku-complete-guide/" style="color: #667eea;"><strong>新宿観光、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ</strong></a>
+➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿観光、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ</strong></a>
 
 </div>
