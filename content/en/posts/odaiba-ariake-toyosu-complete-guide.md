@@ -295,7 +295,7 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
 - **Plot Twist:** Despite its name, it's not rainbow-colored normally! (Cool white in summer, warm white in winter)
 - **Real Rainbow: When?** Only once a year during year-end season (December), the main towers illuminate in brilliant rainbow colors.
 
-➡️ **<a href="/posts/odaiba-rainbow-fireworks-2025/" style="color: #667eea;"><strong>December 2024 Odaiba Rainbow Fireworks & Illumination Guide</strong></a>**
+➡️ **<a href="/posts/odaiba-rainbow-fireworks-2025/" style="color: #667eea;"><strong>Odaiba Rainbow Fireworks & Illumination Guide</strong></a>**
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-19.jpg" alt="Rainbow Bridge illuminated at night with Tokyo Tower in background">

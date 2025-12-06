@@ -295,7 +295,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 - **意外な事実:** 名前とは裏腹に、通常は虹色ではありません!(夏はクールホワイト、冬はウォームホワイト)
 - **本物のレインボー:いつ?** 年末シーズン(12月)の年1回のみ、主塔が鮮やかな虹色にライトアップされます。
 
-➡️ **<a href="/ja/posts/odaiba-rainbow-fireworks-2025/" style="color: #667eea;"><strong>2024年12月お台場レインボー花火&イルミネーションガイド</strong></a>**
+➡️ **<a href="/ja/posts/odaiba-rainbow-fireworks-2025/" style="color: #667eea;"><strong>お台場レインボー花火&イルミネーションガイド</strong></a>**
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-19.jpg" alt="東京タワーを背景に夜間ライトアップされたレインボーブリッジ">
