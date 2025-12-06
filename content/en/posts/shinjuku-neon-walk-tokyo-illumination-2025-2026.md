@@ -324,6 +324,6 @@ That's all from Tokyo Mate!
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Shinjuku Things to Do: Perfect Course from Shinjuku Gyoen to Restaurants & Shopping</strong></a>
+**➡️** <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Shinjuku Things to Do: Perfect Course from Shinjuku Gyoen to Restaurants & Shopping</strong></a>
 
 </div>

@@ -63,20 +63,22 @@ def extract_naver_images(html_content):
         # 단일 이미지
         if 'se-image' in component.get('class', []):
             img = component.find('img', class_='se-image-resource')
-            if img and img.get('src'):
-                caption_elem = component.find('div', class_='se-caption')
-                caption = caption_elem.get_text(strip=True) if caption_elem else "No caption"
+            if img:
+                # Prefer data-lazy-src if available, else src
+                url = img.get('data-lazy-src') or img.get('src')
+                if url:
+                    caption_elem = component.find('div', class_='se-caption')
+                    caption = caption_elem.get_text(strip=True) if caption_elem else "No caption"
 
-                # 고해상도 URL 사용
-                url = img['src']
-                if '?type=' not in url:
-                    url = url.split('?')[0] + '?type=w773'
+                    # 고해상도 URL 사용 (Handle both query params and clean URLs)
+                    if '?type=' not in url:
+                        url = url.split('?')[0] + '?type=w773'
 
-                images.append({
-                    'url': url,
-                    'caption': caption,
-                    'type': 'single'
-                })
+                    images.append({
+                        'url': url,
+                        'caption': caption,
+                        'type': 'single'
+                    })
 
         # 이미지 그룹 (2개, 3개, 4개 등)
         elif 'se-imageGroup' in component.get('class', []):
@@ -85,8 +87,8 @@ def extract_naver_images(html_content):
             group_caption = caption_elem.get_text(strip=True) if caption_elem else "No caption"
 
             for idx, img in enumerate(group_images):
-                if img.get('src'):
-                    url = img['src']
+                url = img.get('data-lazy-src') or img.get('src')
+                if url:
                     if '?type=' not in url:
                         url = url.split('?')[0] + '?type=w773'
 
