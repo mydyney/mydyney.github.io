@@ -306,7 +306,7 @@ featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
 
 **🚶 核心だけコク！コク！東京クリスマス3泊4日旅行日程**
 
-➡️ <a href="/ja/posts/tokyo-3-day-christmas-itinerary/" target="_blank"><b>東京3泊4日クリスマスイルミネーションおすすめコース＆クリスマスマーケット（動線、費用総まとめ）</b></a>
+➡️ <a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/" target="_blank"><b>東京3泊4日クリスマスイルミネーションおすすめコース＆クリスマスマーケット（動線、費用総まとめ）</b></a>
 
 **🌟 2025年 東京クリスマスイルミネーション総まとめ**
 

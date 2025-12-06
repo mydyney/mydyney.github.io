@@ -300,7 +300,7 @@ Yes! Many family events including Santa greetings, choir performances, and limit
 
 **🚶 Tokyo Christmas 3-Day 4-Night Itinerary**
 
-➡️ <a href="/posts/tokyo-3-day-christmas-itinerary/" target="_blank"><b>Tokyo 3-Day Christmas Illumination Course & Markets (Routes, Budget Complete Guide)</b></a>
+➡️ <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" target="_blank"><b>Tokyo 3-Day Christmas Illumination Course & Markets (Routes, Budget Complete Guide)</b></a>
 
 **🌟 2025 Tokyo Christmas Illumination Complete Guide**
 
