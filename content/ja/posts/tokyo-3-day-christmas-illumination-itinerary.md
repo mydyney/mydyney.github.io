@@ -115,15 +115,15 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-airport-arrival-guide/" style="color: #667eea;">➡️東京成田空港到着ガイド:</a></b><br>
+<a href="#" style="color: #667eea;">➡️東京成田空港到着ガイド:</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-airport-arrival-guide/" style="color: #667eea;">市内への行き方、交通機関の比較、</a></b><br>
+<a href="#" style="color: #667eea;">市内への行き方、交通機関の比較、</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-airport-arrival-guide/" style="color: #667eea;">Suicaカード、ATM完全ガイド</a></b><br>
+<a href="#" style="color: #667eea;">Suicaカード、ATM完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 ​<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
@@ -152,7 +152,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b></p>
+<a href="#" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-04.jpg" alt="新宿駅東口">
@@ -261,7 +261,7 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b></p>
+<a href="#" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-10.jpg" alt="新宿思い出横丁の入口">
@@ -306,7 +306,7 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024819592
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/asakusa-complete-guide-2025/" style="color: #667eea;">➡️ 浅草観光&レストラン完全ガイド</a></b></p>
+<a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;">➡️ 浅草観光&レストラン完全ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-11.jpg" alt="浅草浅草寺雷門">
@@ -379,7 +379,7 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/tokyo-station-guide/" style="color: #667eea;">➡️ 東京駅完全活動ガイド</a></b></p>
+<a href="#" style="color: #667eea;">➡️ 東京駅完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224031611221 -> tokyo-station-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.jpg" alt="日本橋高島屋本店ポケモンセンター東京DX&ポケモンカフェ">
@@ -499,7 +499,7 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;">➡️ 銀座必見スポット完全ガイド</a></b></p>
+<a href="#" style="color: #667eea;">➡️ 銀座必見スポット完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/223989943826 -> ginza-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-20.jpg" alt="銀座歌舞伎座">
@@ -736,7 +736,7 @@ KITTEでディナー<br>
 <a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 
-<b><a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><br>
-<b><a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b></p>
+<b><a href="#" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --><br>
+<b><a href="#" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --></p>
 
 </div>
