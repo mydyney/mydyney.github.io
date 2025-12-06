@@ -563,10 +563,7 @@ Don't miss a bowl of warm convenience store oden this winter on your Japan trip!
 
 **👉** <a href="/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>Japan Convenience Store Shopping List: Fail-Proof BEST 10 (7-Eleven, FamilyMart, Lawson Comparison)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/[SLUG_TBD]/ -->
-**👉** <a href="#" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
+**👉** <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477

@@ -559,10 +559,7 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 
 **👉** <a href="/ja/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>日本コンビニ買い物リスト失敗のないBEST10（セブンイレブン、ファミリーマート、ローソン比較）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-**👉** <a href="#" style="color: #667eea;"><strong>日本旅行割引クーポン総整理2025（ドン・キホーテ、ビックカメラ、百貨店など免税+追加割引）</strong></a>
+**👉** <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本旅行割引クーポン総整理2025（ドン・キホーテ、ビックカメラ、百貨店など免税+追加割引）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
