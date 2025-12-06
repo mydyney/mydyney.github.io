@@ -298,19 +298,19 @@ A: いいえ、グッズショップは展示鑑賞を終えた後の退場動�
 <p><strong>🤖 エヴァンゲリオン展示がある六本木ヒルズ展望台についてもっと知りたい方は？</strong><br>
 <strong>➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987954990
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-hills-observatory-guide/ -->
 <a href="#" style="color: #667eea;">2025六本木ヒルズ展望台最新総まとめ（割引予約、休館日）</a></strong></p>
 
 <p><strong>🤖 六本木に来たけど、六本木のすべての遊び場が気になる方は？</strong><br>
 <strong>➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;">六本木遊び場総まとめ（展望台、美術館、ショッピング、グルメA to Z）</a></strong></p>
 
 <p><strong>🤖 食べログが検証した六本木グルメマップが必要な方は？</strong><br>
 <strong>➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-restaurant-map/ -->
 <a href="#" style="color: #667eea;">東京六本木グルメマップ ミシュラン、食べログおすすめグルメ</a></strong></p>
 
 <p><strong>🤖 六本木ヒルズクリスマスイベントが気になる方は？</strong><br>
