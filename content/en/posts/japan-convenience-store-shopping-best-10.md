@@ -471,11 +471,8 @@ you can buy digestive aids at convenience stores:<br>
 Looking for more Japan shopping guides?<br>
 Check out these related articles!</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
-<p style="text-align: center;"><strong>🎫</strong> <a href="#" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide</strong></a><br>
-<a href="#" style="color: #667eea;">Don Quijote, Bic Camera, Department Store Coupons</a></p>
+<p style="text-align: center;"><strong>🎫</strong> <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide</strong></a><br>
+<a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Don Quijote, Bic Camera, Department Store Coupons</a></p>
 
 <p style="text-align: center;"><strong>🛒</strong> <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Don Quijote Shopping List & Discount Coupons Guide</strong></a><br>
 <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">Must-buy items and maximum savings tips</a></p>

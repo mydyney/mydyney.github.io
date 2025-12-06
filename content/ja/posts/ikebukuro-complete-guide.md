@@ -176,10 +176,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 **😊 ビックカメラ&ヤマダ電機：**
 家電製品のショッピングも完璧。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
-**✅ <a href="#" style="color: #667eea;">西武、ドン・キホーテ、ビックカメラ、ヤマダ電機割引クーポン利用</a>**
+**✅ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">西武、ドン・キホーテ、ビックカメラ、ヤマダ電機割引クーポン利用</a>**
 
 ---
 
@@ -327,10 +324,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 **青春の街：新宿/渋谷**
 山手線で直接移動可能です。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/shinjuku-guide-2025/ -->
-**➡️ <a href="#" style="color: #667eea;">新宿観光スポット - 新宿御苑からグルメ、ショッピングまで</a>**
+**➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿観光スポット - 新宿御苑からグルメ、ショッピングまで</a>**
 
 **➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷観光スポット - 渋谷スカイ予約からグルメまで</a>**
 

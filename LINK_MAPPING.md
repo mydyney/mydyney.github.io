@@ -95,6 +95,8 @@ When migrating a Naver blog post to Hugo:
 | 224002738158 | narita-express-guide | 2025-12-06 | ✅ |
 | 224034429817 | mitsui-outlet-kisarazu-guide | 2025-12-06 | ✅ |
 | 224022065518 | don-quijote-shopping-guide-2025 | 2025-09-26 | ✅ |
+| 224035271300 | shinjuku-guide-2025 | 2025-10-09 | ✅ |
+| 224039113760 | japan-travel-discount-coupons-2025 | 2025-10-12 | ✅ |
 
 ---
 

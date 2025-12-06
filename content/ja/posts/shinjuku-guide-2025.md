@@ -165,10 +165,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 **📌 マストバイ・ショッピングリスト＆割引クーポン**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /ja/posts/don-quijote-shopping-guide-2025/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">ドン・キホーテ 買い物リスト＆クーポン・免税方法（ラー油、目薬など）</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">ドン・キホーテ 買い物リスト＆クーポン・免税方法（ラー油、目薬など）</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
@@ -286,10 +283,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 - 特徴：滑らかでコシのある麺と、深い旨味のある出汁の調和。
 - **✅ 切麦や 甚六 オンライン予約**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /ja/posts/shinjuku-udon-guide/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/shinjuku-udon-guide/" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="切麦や 甚六 うどん">
@@ -337,10 +331,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 - **甘味処 / 食べログ百名店**
 - 様々な種類のモチモチのお団子が味わえる、老舗の和菓子店。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224068891338
-     Hugo: /ja/posts/shinjuku-oiwake-dango-honpo/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">創業300年を誇る東京・新宿の代表的な団子店「追分だんご本舗」↗</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">創業300年を誇る東京・新宿の代表的な団子店「追分だんご本舗」↗</a></strong></p>
 
 <div class="se-component se-imageGroup se-l-collage" id="SE-d8d48a2c-974d-4432-be89-2cd2e055d13c">
     <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
@@ -454,10 +445,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 新宿駅は東京近郊旅行の重要な出発点でもあります。小田急線を使えば温泉で有名な**「箱根」**へ、京王線を使えばハイキングに最適な**「高尾山」**へ乗り換えなしで行けます。新宿に1泊以上滞在するなら、日帰り旅行を計画してみるのも良いでしょう。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /ja/posts/hakone-day-trip-course/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/hakone-day-trip-course/" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="箱根">
@@ -475,10 +463,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**があるので、合わせて計画するのもおすすめです。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /ja/posts/ghibli-museum-reservation-guide/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/ghibli-museum-reservation-guide/" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
 
 <hr class="se-hr">
 
@@ -486,19 +471,13 @@ JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**が
 
 **⭐ 一緒に読むと良い東京ガイド**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/narita-express-guide/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/narita-express-guide/" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031114514
      Hugo: /ja/posts/shibuya-complete-guide-2025/ -->
 <p><strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷 遊び場、渋谷スカイ予約からショッピング、グルメまで完璧コース推奨</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /ja/posts/mitsui-outlet-kisarazu-guide/ -->
-<p><strong>➡️ <a href="/#" style="color: #667eea;">バスタ新宿出発！木更津三井アウトレットへの行き方、割引クーポン、入店ブランド</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">バスタ新宿出発！木更津三井アウトレットへの行き方、割引クーポン、入店ブランド</a></strong></p>
 
 </div>

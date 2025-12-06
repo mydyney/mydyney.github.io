@@ -176,10 +176,7 @@ The Ikebukuro East Exit branch is famous for its large scale.
 **😊 Bic Camera & Yamada Denki:**
 Perfect for electronics shopping.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
-**✅ <a href="#" style="color: #667eea;">Use Seibu, Don Quijote, Bic Camera, Yamada Denki Discount Coupons</a>**
+**✅ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Use Seibu, Don Quijote, Bic Camera, Yamada Denki Discount Coupons</a>**
 
 ---
 
@@ -327,10 +324,7 @@ As the new Halloween mecca replacing "Shibuya," be sure to visit if the timing w
 **Youth Districts: Shinjuku/Shibuya**
 You can travel directly on the Yamanote Line.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/shinjuku-guide-2025/ -->
-**➡️ <a href="#" style="color: #667eea;">Shinjuku Attractions - From Shinjuku Gyoen to Restaurants and Shopping</a>**
+**➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Shinjuku Attractions - From Shinjuku Gyoen to Restaurants and Shopping</a>**
 
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/

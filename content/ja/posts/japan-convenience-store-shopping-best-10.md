@@ -430,11 +430,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 さらに日本のショッピングガイドをお探しですか？<br>
 これらの関連記事をチェック！</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
-<p style="text-align: center;"><strong>🎫</strong> <a href="#" style="color: #667eea;"><strong>日本旅行割引クーポン完全ガイド</strong></a><br>
-<a href="#" style="color: #667eea;">ドン・キホーテ、ビックカメラ、百貨店クーポン</a></p>
+<p style="text-align: center;"><strong>🎫</strong> <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行割引クーポン完全ガイド</strong></a><br>
+<a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">ドン・キホーテ、ビックカメラ、百貨店クーポン</a></p>
 
 <p style="text-align: center;"><strong>🛒</strong> <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト＆割引クーポンガイド</strong></a><br>
 <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">必須アイテムと最大限の節約ヒント</a></p>
