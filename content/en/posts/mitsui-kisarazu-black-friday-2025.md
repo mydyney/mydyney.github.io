@@ -239,6 +239,6 @@ Highly recommended as the perfect way to end your day!
 [Shinjuku Things to Do: Complete course from Shinjuku Gyoen to restaurants, shopping, and Golden Gai](/posts/shinjuku-guide-2025/)
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /posts/[SLUG_TBD]/ -->
-➡️ [Tokyo Station Things to Do: From Character Street to restaurants, night views, and coin lockers for luggage storage](/#)
+➡️ [Tokyo Station Things to Do: From Character Street to restaurants, night views, and coin lockers for luggage storage](#)
 
 </div>
