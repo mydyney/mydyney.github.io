@@ -172,10 +172,7 @@ Essential for cameras, game consoles, beauty devices, and more!
 
 📌 For detailed directions, brands, and restaurant info about **'Kisarazu Outlet'** near Tokyo, check the complete guide below!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /posts/mitsui-outlet-park-kisarazu-guide/ -->
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Tokyo Outlet Recommendation: MITSUI OUTLET PARK Kisarazu Complete Guide</strong></a>
+➡️ <a href="/posts/mitsui-outlet-kisarazu-guide/" target="_blank" style="color: #667eea;"><strong>Tokyo Outlet Recommendation: MITSUI OUTLET PARK Kisarazu Complete Guide</strong></a>
 
 **2. DiverCity Tokyo Plaza, LaLaport Toyosu/Tokyo Bay/Fukuoka/EXPOCITY, COREDO Muromachi/LaZona Kawasaki Plaza ➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142093&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F98058-mitsui-outlet-park-mitsui-shopping-park-tourist-privilege-discount-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76a092f762" target="_blank" style="color: #667eea;"><strong>Klook Coupon</strong></a>**
 

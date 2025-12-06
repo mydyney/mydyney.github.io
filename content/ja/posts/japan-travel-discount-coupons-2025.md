@@ -172,10 +172,7 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 📌 東京近郊「**木更津アウトレット**」の詳しいアクセス、入店ブランド、グルメ情報が知りたい方は、下記の完璧ガイドをチェックしてください！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /ja/posts/mitsui-outlet-park-kisarazu-guide/ -->
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>東京アウトレットおすすめ、三井アウトレットパーク木更津完璧ガイド</strong></a>
+➡️ <a href="/ja/posts/mitsui-outlet-kisarazu-guide/" target="_blank" style="color: #667eea;"><strong>東京アウトレットおすすめ、三井アウトレットパーク木更津完璧ガイド</strong></a>
 
 **2. ダイバーシティ東京プラザ、ララポート豊洲/東京ベイ/福岡/エキスポシティ、COREDO室町/ラゾーナ川崎プラザ ➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142093&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F98058-mitsui-outlet-park-mitsui-shopping-park-tourist-privilege-discount-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76a092f762" target="_blank" style="color: #667eea;"><strong>Klookクーポン</strong></a>**
 
