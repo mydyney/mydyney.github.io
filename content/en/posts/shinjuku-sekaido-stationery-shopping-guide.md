@@ -256,10 +256,14 @@ Shinjuku SEKAIDO is the heart of Tokyo stationery shopping and a paradise for ar
 
 Now that you've mastered the comparison between membership discounts and tax-free benefits, enjoy shopping while saving both time and money.
 
-**Related Articles:**
-- <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>➡️ Complete Shinjuku Travel Guide - From Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>
-- <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/223693165027" style="color: #667eea;"><b>➡️ Tokyo Ginza Representative Stationery Store: Itoya Main Store</b></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /posts/shinjuku-guide-2025/ -->
+<b>➡️ <a href="#" style="color: #667eea;">Complete Shinjuku Travel Guide - From Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a></b>
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223693165027
+     Hugo: /posts/ginza-itoya-stationery-guide/ -->
+<b>➡️ <a href="#" style="color: #667eea;">Tokyo Ginza Representative Stationery Store: Itoya Main Store</a></b>
 
 </div>
