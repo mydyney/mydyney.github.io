@@ -209,11 +209,11 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 ​<br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/yokohama-one-day-itinerary/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 横浜1日コース </b></a><br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/yokohama-one-day-itinerary/ -->
 <a href="#" style="color: #667eea;"><b>中華街グルメ、赤レンガ、夜景スポット完全ガイド</b></a></p>
 
 ---
@@ -226,7 +226,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 ​<br>
 <b>➡️</b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/yokohama-minato-burari-ticket-guide/ -->
 <a href="#" style="color: #667eea;"><b> 横浜交通パス、「みなとぶらりチケット」完全ガイド</b></a></p>
 
 </div>
