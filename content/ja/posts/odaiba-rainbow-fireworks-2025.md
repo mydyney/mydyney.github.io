@@ -240,7 +240,7 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 浅草からお台場へクルーズで！お台場のアトラクションを一日中楽しみ、19時の花火でクライマックスを迎えます。
 
-<strong>➡️ [東京お台場完全ガイド：完璧な1日コース（有明、豊洲接続）](/posts/odaiba-ariake-toyosu-complete-guide/)</strong>
+<strong>➡️ [東京お台場完全ガイド：完璧な1日コース（有明、豊洲接続）](/ja/posts/odaiba-ariake-toyosu-complete-guide/)</strong>
 
 <strong>🧡 [夜] ゆりかもめ＆新橋</strong>
 
