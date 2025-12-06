@@ -1731,9 +1731,16 @@ When creating Hugo posts, the AI will:
    - Extract Naver post ID (e.g., `223681272647` from `https://blog.naver.com/tokyomate/223681272647`)
    - Check if mapping exists in LINK_MAPPING.md
 
-   - **If mapped:** ✅ Automatically convert to Hugo link
+   - **If mapped AND Hugo post file exists:** ✅ Automatically convert to Hugo link
 
-     **⚠️ CRITICAL - Link Format Rules:**
+     **⚠️ CRITICAL - Link Conversion Rules:**
+
+     **Rule 1: Always verify file existence BEFORE creating working links**
+     - Check if `content/en/posts/{slug}.md` actually exists
+     - **If file exists:** Create working link with proper URL format
+     - **If file does NOT exist:** Use `#` placeholder + TODO comment (even if mapped in LINK_MAPPING.md)
+
+     **Rule 2: Link Format**
      - **English posts:** Use `/posts/slug/` (NO `/en/` prefix - English is default language)
      - **Japanese posts:** Use `/ja/posts/slug/` (WITH `/ja/` prefix)
 
@@ -1749,25 +1756,37 @@ When creating Hugo posts, the AI will:
      <a href="/ja/posts/roppongi-christmas-illumination-2025/">関連記事</a>
      ```
 
-   - **If not mapped:** ⏳ Add TODO comment for future migration
+   - **If not mapped OR file does not exist:** ⏳ **ALWAYS use `#` placeholder + TODO comment**
+
+     **⚠️ CRITICAL: Never create broken links (404 errors)**
+     - **ALWAYS use `href="#"` when Hugo post file doesn't exist**
+     - **ALWAYS add TODO comment with Naver URL and expected Hugo URL**
+     - This applies even if the post is mapped in LINK_MAPPING.md
+
      ```html
+     <!-- Example 1: Not mapped at all -->
      <!-- TODO: Update link after migration
           Naver: https://blog.naver.com/tokyomate/223681272647
           Hugo: /posts/[SLUG_TBD]/ -->  <!-- English: no /en/ prefix -->
      <a href="#" style="color: #667eea;">Related Article</a>
 
-     <!-- For bold links, wrap text in <strong> tags: -->
-     <a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide</strong></a>
-
-     <!-- Japanese TODO: -->
+     <!-- Example 2: Mapped but file doesn't exist yet -->
      <!-- TODO: Update link after migration
-          Naver: https://blog.naver.com/tokyomate/223681272647
-          Hugo: /ja/posts/[SLUG_TBD]/ -->  <!-- Japanese: with /ja/ prefix -->
-     <a href="#" style="color: #667eea;">関連記事</a>
+          Naver: https://blog.naver.com/tokyomate/224022065518
+          Hugo: /posts/don-quijote-shopping-guide-2025/ -->
+     <a href="#" style="color: #667eea;"><strong>→ Tokyo Don Quijote Shopping Guide</strong></a>
 
-     <!-- For bold links, wrap text in <strong> tags: -->
-     <a href="#" style="color: #667eea;"><strong>→ [詳しく見る] 完全ガイド</strong></a>
+     <!-- Example 3: Japanese version (same rules apply) -->
+     <!-- TODO: Update link after migration
+          Naver: https://blog.naver.com/tokyomate/224022065518
+          Hugo: /ja/posts/don-quijote-shopping-guide-2025/ -->
+     <a href="#" style="color: #667eea;"><strong>➡️ 東京ドンキホーテショッピングガイド</strong></a>
      ```
+
+     **Why this matters:**
+     - ❌ `/posts/non-existent-slug/` → 404 error (bad user experience)
+     - ✅ `#` placeholder → Page stays functional, link can be updated later
+     - ✅ TODO comment → Easy to find and update when post is migrated
 
 3. **Update LINK_MAPPING.md:**
    - Add new post to Quick Reference Table
