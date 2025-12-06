@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-06
-> **Status:** ✅ Complete - 65 posts mapped
+> **Status:** ✅ Complete - 70 posts mapped
 
 ---
 
@@ -149,6 +149,9 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223989943826 | tokyo-october-festivals-2025 | Complete Guide to Ginza Attractions (Shopping, Restaurants, Tips) |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide, odaiba-rainbow-fireworks-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
+| 224039113760 | japan-travel-discount-coupons-2025 | Japan Travel Discount Coupons (Don Quijote, Bic Camera, etc.) |
+| 224022065518 | don-quijote-shopping-guide-2025 | Don Quijote Shopping List & Discount Coupon Guide |
+| 224033964477 | kaldi-coffee-farm-shopping-list | Kaldi Coffee Farm Shopping List & Must-Buy Items |
 | 224035271300 | shinjuku-guide-2025 | Complete Shinjuku Travel Guide |
 | 223693165027 | ginza-itoya-stationery-guide | Tokyo Ginza Representative Stationery Store: Itoya Main Store |
 | ~~223690406760~~ | odaiba-ariake-toyosu-complete-guide | ✅ **MIGRATED** → odaiba-rainbow-fireworks-2025 |
@@ -251,6 +254,9 @@ declare -A MAPPINGS=(
   ["224096203397"]="shimokitazawa-tokyo-travel-guide"
   ["224035271300"]="shinjuku-guide-2025"
   ["223693165027"]="ginza-itoya-stationery-guide"
+  ["224039113760"]="japan-travel-discount-coupons-2025"
+  ["224022065518"]="don-quijote-shopping-guide-2025"
+  ["224033964477"]="kaldi-coffee-farm-shopping-list"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
