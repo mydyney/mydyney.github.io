@@ -432,19 +432,16 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
 <p style="text-align: center;"><strong>🎫</strong> <a href="#" style="color: #667eea;"><strong>日本旅行割引クーポン完全ガイド</strong></a><br>
 <a href="#" style="color: #667eea;">ドン・キホーテ、ビックカメラ、百貨店クーポン</a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>🛒</strong> <a href="#" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト＆割引クーポンガイド</strong></a><br>
-<a href="#" style="color: #667eea;">必須アイテムと最大限の節約ヒント</a></p>
+<p style="text-align: center;"><strong>🛒</strong> <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト＆割引クーポンガイド</strong></a><br>
+<a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">必須アイテムと最大限の節約ヒント</a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト必須おすすめ</strong></a><br>
 <a href="#" style="color: #667eea;">コーヒー、スナック、グルメフードガイド</a></p>
 
