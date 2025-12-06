@@ -83,9 +83,6 @@ Besides Shinjuku Station, using nearby subway stations like **'Shinjuku-sanchome
 **📌 How to Get to Shinjuku from Narita Airport**
 First gateway to Shinjuku! If you are wondering about the most efficient way to get from 'Narita Airport to Shinjuku', check out the comparison guide between N'EX and Airport Limousine Bus below.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224072190712
-     Hugo: /posts/narita-to-shinjuku-2025/ -->
 <p><strong>➡️ <a href="/posts/narita-to-shinjuku-2025/" style="color: #667eea;">Narita Airport to Shinjuku 2025 Guide | N'EX vs Airport Limousine Comparison</a></strong></p>
 
 <hr class="se-hr">
@@ -103,9 +100,6 @@ Bring a picnic mat to relax on the grass, or enjoy coffee with a park view at **
 
 🍁 **Shinjuku Gyoen Guide:** For cherry blossom/autumn foliage seasons, opening hours, running courses, and APA Hotel locations, check the guide below.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224070032613
-     Hugo: /posts/shinjuku-gyoen-guide-2025/ -->
 <p><strong>➡️ <a href="/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;">Shinjuku Gyoen Complete Guide 2025 (Latest Version)</a></strong></p>
 
 <figure>
@@ -120,9 +114,6 @@ Bring a picnic mat to relax on the grass, or enjoy coffee with a park view at **
 <h3>🔥 Essential Tip Before Shopping!</h3>
 Before starting your shopping at Shinjuku's department stores, Bic Camera, or Don Quijote, check the **'Discount Coupon Guide'** to save at least 15% on your Japan travel shopping expenses! Make sure to grab all available benefits!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
 <p><strong>➡️ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Japan Travel Discount Coupons 2025 (Don Quijote, Bic Camera, Department Stores, etc.)</a></strong></p>
 
 <h3>🛍️ Shinjuku Shopping Spots (Department Stores/Specialty Shops)</h3>
@@ -143,24 +134,15 @@ Shinjuku has large department stores with different charms positioned at each ex
 **📌 Shinjuku Whiskey Shopping (Liquor Shops)**
 For recommended routes for **Yamaya, Shinanoya, and Bic Camera**, plus price comparisons for Yamazaki/Hibiki/Kavalan and duty-free tips, check the guide below.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224072546243
-     Hugo: /posts/shinjuku-liquor-shops/ -->
 <p><strong>➡️ <a href="/posts/shinjuku-liquor-shops/" style="color: #667eea;">Shinjuku Liquor Shop Recommendation | Yamazaki, Hibiki, Kavalan Price Comparison</a></strong></p>
 
 **📌 Outdoor & Camping Gear Heaven!**
 Shinjuku is home to large outdoor shops like **'Alpen Tokyo'** and **'L-Breath'**. For duty-free shopping info on hot brands like **'Tokyo Crafts'**, check the article below.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224066800060
-     Hugo: /posts/tokyo-crafts-popup-stores-guide/ -->
 <p><strong>➡️ <a href="/posts/tokyo-crafts-popup-stores-guide/" style="color: #667eea;">Tokyo Crafts, Snow Peak Outdoor Specialty Stores (Duty-Free, Coupon)</a></strong></p>
 
 **📌 For Stationery Lovers, 'Sekaido' is Essential!**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224064750249
-     Hugo: /posts/shinjuku-sekaido-stationery-shopping-guide/ -->
 <p><strong>➡️ <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" style="color: #667eea;">Shinjuku Sekaido Tokyo Stationery Store Shopping List: Membership Card, Tax-Free, Floor Guide</a></strong></p>
 
 **📌 Must-Buy Shopping Items & Discount Coupons**
@@ -172,9 +154,6 @@ Shinjuku is home to large outdoor shops like **'Alpen Tokyo'** and **'L-Breath'*
      Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">KALDI Coffee Farm Shopping List: Must-Buy Recommendations (Curry Spread, etc.)</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
 <p><strong>➡️ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Bic Camera Discount Coupon (Tax-Free + 3~7% Off)</a></strong></p>
 
 <figure>
@@ -249,9 +228,6 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 - A place where you can experience Michelin sushi at a reasonable price with weekday lunch sets.
 - **✅ Takumi Tatsuhiro Online Reservation**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224071675259
-     Hugo: /posts/takumi-tatsuhiro-shinjuku-2025/ -->
 <p><strong>➡️ <a href="/posts/takumi-tatsuhiro-shinjuku-2025/" style="color: #667eea;">Tokyo Shinjuku Michelin Sushi Takumi Tatsuhiro | Shinjuku Gyoen Lunch Omakase Review</a></strong></p>
 
 **2. Torishige (串焼き 鳥茂)** (South Exit)
@@ -301,9 +277,6 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 
 **📌 Another Tabelog Curry Spot, Epitaph**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224066173929
-     Hugo: /posts/shinjuku-epitaph-curry-review/ -->
 <p><strong>➡️ <a href="/posts/shinjuku-epitaph-curry-review/" style="color: #667eea;">Shinjuku Keema Curry Gourmet, Epitaph Curry, Tabelog 100, Nakamuraya Comparison</a></strong></p>
 
 **2. Shogun Burger Shinjuku Main Store** (East Exit - Kabukicho)
@@ -364,9 +337,6 @@ The most recommended time is **'1 hour before sunset'**. Don't miss the golden t
 - **Closed:** 1st and 3rd Tuesday of every month (If holiday, open and closed next day)
 - *Closed Dec 29 ~ Jan 3 (Except Jan 1)*
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224062023485
-     Hugo: /posts/tokyo-metropolitan-govt-observatory/ -->
 <p><strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">Tokyo Metro Govt Building Free Observatory Light Show Times, Access, Closed Days, Night View Guide</a></strong></p>
 
 <figure>
@@ -382,16 +352,11 @@ The most recommended time is **'1 hour before sunset'**. Don't miss the golden t
 **💡 December Shinjuku Streets are a Light Festival! (2025-2026)**
 Walking with shopping bags, you can meet colorful neon art. The **'Shinjuku Neon Work'** illumination is ongoing from the West Exit to the Govt Building, so enjoy it lightly on your way to dinner after shopping!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223696781916 (Similar topic) or create new
-     Hugo: /posts/shinjuku-neon-work-illumination/ (New Slug) -->
 <p><strong>➡️ <a href="/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026/" style="color: #667eea;">Shinjuku Neon Work Illumination Review & Course</a></strong></p>
 
 **✨ Dec 31, New Year Countdown at Tokyo Metro Govt Building!**
 If you visit Shinjuku at the end of the year, you can enjoy a large-scale New Year countdown event with Hatsune Miku performance and projection mapping instead of the usual night view. (Free advance application required!)
 
-<!-- TODO: Update link after migration
-     Hugo: /posts/happy-new-year-tokyo-2026/ (New Slug) -->
 <p><strong>➡️ <a href="/posts/tokyo-countdown-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 Countdown Free Application</a></strong></p>
 
 <figure>
@@ -427,9 +392,6 @@ The atmosphere of the two alleys looks similar but is completely different.
 Cover charge existence, solo drinking difficulty, hunting atmosphere, recommended restaurants (Ramen Nagi)!
 Check the comparison guide below to choose the night course that suits your taste.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224068585112
-     Hugo: /posts/shinjuku-golden-gai-vs-omoide-yokocho/ -->
 <p><strong>➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;">Shinjuku Golden Gai vs Omoide Yokocho Comparison | Yakitori, Ramen Nagi, Solo Drinking Spots</a></strong></p>
 
 <h3>4. Shinjuku Golden Gai</h3>
@@ -461,9 +423,6 @@ Shinjuku is the best basecamp to leave for **Tokyo's 5 Major Kids Parks** withou
 
 If you are curious about courses with children starting from Shinjuku like **Disneyland, Sanrio Puroland, Thomas Land**, check the dedicated guide below.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224063760866
-     Hugo: /posts/shinjuku-kids-parks-guide/ -->
 <p><strong>➡️ <a href="/posts/shinjuku-kids-parks-guide/" style="color: #667eea;">With Kids from Shinjuku! How to get to 5 Major Kids Parks (Disney, Sanrio, Thomas)</a></strong></p>
 
 Located 20 minutes by JR Chuo Line is Mitaka Station where **'Ghibli Museum'** is located, so planning it together is also a good method.
@@ -484,9 +443,6 @@ The complete recommended course for **Shinjuku attractions** covering nature, sh
      Hugo: /posts/narita-express-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Narita Express (N'EX) Reservation, Price, Timetable (Round Business Discount, Seat Tips!)</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
-     Hugo: /posts/shibuya-complete-guide-2025/ -->
 <p><strong>➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Attractions, Shibuya Sky Reservation to Shopping, Gourmet Perfect Course</a></strong></p>
 
 <p><strong>➡️ <a href="/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">Directions from Busta Shinjuku to Mitsui Outlet Park Kisarazu, Discount Coupons, Brands</a></strong></p>

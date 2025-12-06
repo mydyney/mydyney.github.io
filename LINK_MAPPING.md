@@ -142,6 +142,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224037212344 | tokyo-autumn-foliage-best-spots-2025 | Tokyo Kichijoji Must-Visit Places: Complete Course (with Ghibli Museum) |
 | 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
 | 224008430188 | japan-travel-discount-coupons-2025 | Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Free Tasting) |
+| 224002738158 | narita-express-guide | Narita Express (N'EX) Reservation, Price, Timetable |
 
 
 | 224025699867 | tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025, odaiba-ariake-toyosu-complete-guide | Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison |

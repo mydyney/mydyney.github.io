@@ -83,9 +83,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 **📌 成田空港から新宿へのアクセス**
 新宿旅行の最初の関門！「成田空港から新宿まで」の最も効率的な移動方法について、成田エクスプレス（N'EX）とリムジンバスを徹底比較したガイドは以下をご覧ください。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224072190712
-     Hugo: /ja/posts/narita-to-shinjuku-2025/ -->
 <p><strong>➡️ <a href="/ja/posts/narita-to-shinjuku-2025/" style="color: #667eea;">成田空港から新宿への行き方 2025完全版 | N'EX vs 空港リムジンバス徹底比較</a></strong></p>
 
 <hr class="se-hr">
@@ -103,9 +100,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 🍁 **新宿御苑ガイド：** 桜・紅葉シーズンの情報、開園時間、ランニングコース、APAホテルの位置などは以下のガイドをチェックしてください。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224070032613
-     Hugo: /ja/posts/shinjuku-gyoen-guide-2025/ -->
 <p><strong>➡️ <a href="/ja/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;">新宿御苑 完全ガイド 2025最新版（チケット、営業時間、スタバ情報）</a></strong></p>
 
 <figure>
@@ -120,9 +114,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <h3>🔥 ショッピング前の必須情報！</h3>
 新宿の百貨店、ビックカメラ、ドン・キホーテなどで本格的な買い物を始める前に、日本旅行のショッピング費用を最低でも15%以上節約できる**「割引クーポン総まとめ」**記事をチェックして、受けられる特典はすべて活用しましょう！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
 <p><strong>➡️ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">日本旅行 割引クーポン総まとめ 2025（ドンキ、ビックカメラ、百貨店など）</a></strong></p>
 
 <h3>🛍️ 新宿のショッピングスポット（百貨店・専門店）</h3>
@@ -143,24 +134,15 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 **📌 新宿ウイスキーショッピング（リカーショップ）**
 **やまや、信濃屋、ビックカメラ**のおすすめルートや、山崎・響・カバランの価格比較、免税のコツについては以下の記事を参考にしてください。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224072546243
-     Hugo: /ja/posts/shinjuku-liquor-shops/ -->
 <p><strong>➡️ <a href="/ja/posts/shinjuku-liquor-shops/" style="color: #667eea;">新宿リカーショップ推奨ルート | 山崎・響・カバラン価格比較＆免税ガイド</a></strong></p>
 
 **📌 アウトドア＆キャンプ用品の天国！**
 新宿には**「Alpen TOKYO」**や**「L-Breath」**などの大型アウトドアショップもあります。**「TOKYO CRAFTS」**のような話題のブランドの免税ショッピング情報は以下をご覧ください。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224066800060
-     Hugo: /ja/posts/tokyo-crafts-popup-stores-guide/ -->
 <p><strong>➡️ <a href="/ja/posts/tokyo-crafts-popup-stores-guide/" style="color: #667eea;">TOKYO CRAFTS、スノーピークなどアウトドア専門店の免税・クーポン情報</a></strong></p>
 
 **📌 文具好きなら「世界堂」は外せない！**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224064750249
-     Hugo: /ja/posts/shinjuku-sekaido-stationery-shopping-guide/ -->
 <p><strong>➡️ <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" style="color: #667eea;">新宿世界堂 ショッピングリスト：会員カード、免税手続、フロアガイド</a></strong></p>
 
 **📌 マストバイ・ショッピングリスト＆割引クーポン**
@@ -172,9 +154,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">カルディ（KALDI）買い物リスト：絶対買うべきおすすめ品（塗るカレー、ポーションコーヒー等）</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
 <p><strong>➡️ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">ビックカメラ割引クーポン（免税+3~7%OFF）</a></strong></p>
 
 <figure>
@@ -249,9 +228,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 - 平日ランチセットなら、リーズナブルな価格でミシュランの本格寿司を体験できます。
 - **✅ 匠 達広 オンライン予約**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224071675259
-     Hugo: /ja/posts/takumi-tatsuhiro-shinjuku-2025/ -->
 <p><strong>➡️ <a href="/ja/posts/takumi-tatsuhiro-shinjuku-2025/" style="color: #667eea;">東京・新宿ミシュラン寿司「匠 達広」 | 新宿御苑ランチおまかせ予約・実食レビュー</a></strong></p>
 
 **2. 串焼き 鳥茂**（南口）
@@ -301,9 +277,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 **📌 もう一つのカレー百名店、エピタフ**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224066173929
-     Hugo: /ja/posts/shinjuku-epitaph-curry-review/ -->
 <p><strong>➡️ <a href="/ja/posts/shinjuku-epitaph-curry-review/" style="color: #667eea;">新宿キーマカレーの名店「エピタフカレー」食べログ百名店、中村屋と比較</a></strong></p>
 
 **2. ショーグンバーガー 新宿総本店**（東口 - 歌舞伎町）
@@ -364,9 +337,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 - **休室日：** 第1・第3火曜日（祝日の場合は開室、翌日休室）
 - *※12月29日～1月3日は休室（1月1日は特別開室の可能性あり要確認）*
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224062023485
-     Hugo: /ja/posts/tokyo-metropolitan-govt-observatory/ -->
 <p><strong>➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">東京都庁 無料展望室ガイド：ライトアップ時間、行き方、休室日、夜景完全攻略</a></strong></p>
 
 <figure>
@@ -382,16 +352,11 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 **💡 12月の新宿は街中が光のフェスティバル！ (2025-2026)**
 ショッピングバッグを持って街を歩けば、華やかなネオンアートに出会えます。西口から都庁へと続く**「新宿ネオンワーク」**イルミネーションが開催中ですので、ショッピング後のディナーへの移動がてら気軽に楽しんでみてください！
 
-<!-- TODO: Update link after migration
-     Naver: 223696781916...
-     Hugo: /ja/posts/shinjuku-neon-work-illumination/ -->
 <p><strong>➡️ <a href="/ja/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026/" style="color: #667eea;">新宿ネオンワーク・イルミネーション正直レビュー＆コース</a></strong></p>
 
 **✨ 12月31日、都庁で新年カウントダウン！**
 年末に新宿を訪れるなら、通常の夜景鑑賞の代わりに、初音ミクのパフォーマンスやプロジェクションマッピングが融合した大規模な新年カウントダウンイベントを楽しめます。（※無料事前申込必須！）
 
-<!-- TODO: Update link after migration
-     Hugo: /ja/posts/happy-new-year-tokyo-2026/ -->
 <p><strong>➡️ <a href="/ja/posts/tokyo-countdown-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 カウントダウン無料観覧応募方法</a></strong></p>
 
 <figure>
@@ -428,9 +393,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 チャージ料の有無、一人飲みの難易度、ナンパの雰囲気、おすすめグルメ（ラーメン凪）まで！
 2か所を徹底比較したガイドを確認して、自分の好みに合った夜のコースを選んでください。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224068585112
-     Hugo: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/ -->
 <p><strong>➡️ <a href="/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;">新宿ゴールデン街 vs 思い出横丁 徹底比較 | 焼き鳥・ラーメン凪・一人飲みのおすすめ</a></strong></p>
 
 <h3>4. 新宿ゴールデン街</h3>
@@ -462,9 +424,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 **ディズニーランド、サンリオピューロランド、トーマスランド**など、新宿から出発する子連れコースが気になる方は、以下の専用ガイドをご確認ください。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224063760866
-     Hugo: /ja/posts/shinjuku-kids-parks-guide/ -->
 <p><strong>➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" style="color: #667eea;">新宿から子供と一緒に！5大キッズパークへの行き方（ディズニー、サンリオ、トーマス総整理）</a></strong></p>
 
 JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**があるので、合わせて計画するのもおすすめです。
@@ -485,9 +444,6 @@ JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**が
      Hugo: /ja/posts/narita-express-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
-     Hugo: /ja/posts/shibuya-complete-guide-2025/ -->
 <p><strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷 遊び場、渋谷スカイ予約からショッピング、グルメまで完璧コース推奨</a></strong></p>
 
 <p><strong>➡️ <a href="/ja/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">バスタ新宿出発！木更津三井アウトレットへの行き方、割引クーポン、入店ブランド</a></strong></p>
