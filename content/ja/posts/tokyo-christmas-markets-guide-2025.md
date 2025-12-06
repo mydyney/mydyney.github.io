@@ -137,6 +137,9 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224028694874
+     Hugo: /ja/posts/ueno-ameyoko-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 上野観光完全ガイド：アメ横から公園まで</strong></a>
 
 <figure>
@@ -205,6 +208,9 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223988228389
+     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 六本木観光完全ガイド（イルミネーション、レストラン情報）</strong></a>
 
 **✅ クリスマスマーケットの10店舗メニュー、グリューワイン、マグの詳細はこちら**
@@ -267,11 +273,17 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223979907748
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223979907748
+     Hugo: /ja/posts/yokohama-one-day-itinerary/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 横浜1日コース：中華街グルメ、赤レンガ倉庫、夜景完全ガイド</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223976102621
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223976102621
+     Hugo: /ja/posts/yokohama-minato-burari-ticket-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 横浜1日乗車券「みなとぶらりチケット」完全ガイド</strong></a>
 
 <figure>
@@ -322,11 +334,17 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223672616108
+     Hugo: /ja/posts/azabudai-hills-teamlab-borderless-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 東京・麻布台ヒルズ チームラボボーダレス、地図のないミュージアム</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223716380927
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223716380927
+     Hugo: /ja/posts/azabudai-hills-sky-room-cafe-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 東京・麻布台ヒルズ展望カフェ スカイルーム：夕焼け＆夜景</strong></a>
 
 <div class="image-group-2">
@@ -386,7 +404,10 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024819592
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 東京・浅草観光＆グルメ完全ガイド</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224024819592
+     Hugo: /ja/posts/asakusa-complete-guide/ -->
+<a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ 東京・浅草観光＆グルメ完全ガイド</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-18.jpg" alt="昼間の観光におすすめ、浅草寺の雷門">
@@ -452,11 +473,17 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224027835049
+     Hugo: /ja/posts/omotesando-guide-2025/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 表参道完全ガイド（カフェ、ショッピング、レストラン）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035271300
+     Hugo: /ja/posts/shinjuku-guide-2025/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 新宿観光：新宿御苑からレストラン、ショッピングまで</strong></a>
 
 ---
@@ -553,6 +580,9 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224032769630
+     Hugo: /ja/posts/yebisu-complete-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 恵比寿の必見スポット：ガーデンプレイスからビール記念館まで</strong></a>
 
 <figure>
@@ -578,12 +608,18 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025年日本旅行割引クーポン完全ガイド（ドン・キホーテ、百貨店など）</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224039113760
+     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
+<a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>➡️ 2025年日本旅行割引クーポン完全ガイド（ドン・キホーテ、百貨店など）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224022065518
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025年日本ドン・キホーテ お買い物リスト必須アイテム＆免税ガイド</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224022065518
+     Hugo: /ja/posts/don-quijote-shopping-guide-2025/ -->
+<a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>➡️ 2025年日本ドン・キホーテ お買い物リスト必須アイテム＆免税ガイド</strong></a>
 
 <h2>🍁 待って！11月下旬～12月上旬に旅行予定？</h2>
 
