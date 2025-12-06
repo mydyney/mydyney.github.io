@@ -69,7 +69,7 @@ For detailed Sky Room menu, access directions, sunset/night view tips, and lates
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-sky-room-cafe-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills Observatory Cafe Sky Room: Complete Guide to Menu, Access, Sunset & Night Views</strong></a>
 
 <figure>
@@ -98,7 +98,7 @@ The **'teamLab Borderless'** that sadly closed in Odaiba in 2022 **reopened** in
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-teamlab-borderless-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills teamLab Borderless Complete Guide</strong></a>
 
 <figure>
@@ -121,14 +121,14 @@ This isn't just a food court—it's a premium culinary space gathering Japan's b
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-commen-bakery-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Comme'N Tokyo, Azabudai Hills Bakery Review</strong></a>
 
 - **CRIOLLO**: World-renowned chocolatier's premium chocolates. (Recommended for gifts)
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-criollo-chocolate-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Criollo Chocolatier Chocolate Gift Review</strong></a>
 
 - **BLANCA**: Premium Basque cheesecake shop perfect for gifts
@@ -211,12 +211,12 @@ Azabudai Hills hosts special events each season. Check out last year's event rev
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-christmas-market-review-2024/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>2024 Tokyo Azabudai Hills Christmas Market Review</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223958175295
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-summer-festival-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills Summer Festival (Observatory Cafe Shaved Ice Review)</strong></a>
 
 <figure>
@@ -238,13 +238,16 @@ Right across from Azabudai Hills is 'Series', an innovative Michelin 1-star Chin
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223915389552
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-series-chinese-restaurant/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Chinese Restaurant, Series Michelin 1-Star Course</strong></a>
 
 **🚶‍♂️ 5-Minute Subway! Classic Tokyo Night Views, Roppongi Hills**
 If Azabudai Hills offers 'frontal' Tokyo Tower views, Roppongi Hills shows Tokyo Tower blended with the skyline. Combine both for the ultimate night view tour.
 
-➡️ **<a href="/posts/roppongi-attractions-complete-guide/" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>**
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223988228389
+     Hugo: /posts/roppongi-attractions-guide/ -->
+➡️ **<a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>**
 
 **🚶‍♂️ 3-Minute Subway! Adult Gourmet Space, Toranomon Hills**
 If Azabudai Hills is the center of 'tourism', neighboring Toranomon Hills is the center of 'gourmet dining & business'. Enjoy a special evening at sophisticated izakaya alleys like 'Toranomon Yokocho'.

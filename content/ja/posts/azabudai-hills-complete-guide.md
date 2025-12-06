@@ -69,7 +69,7 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-sky-room-cafe-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京麻布台ヒルズ展望台カフェスカイルーム：メニュー、アクセス、夕暮れ＆夜景完全ガイド</strong></a>
 
 <figure>
@@ -98,7 +98,7 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-teamlab-borderless-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京麻布台ヒルズteamLabボーダレス完全ガイド</strong></a>
 
 <figure>
@@ -121,14 +121,14 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-commen-bakery-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Comme'N Tokyo、麻布台ヒルズベーカリーレビュー</strong></a>
 
 - **CRIOLLO**：世界的に有名なショコラティエのプレミアムチョコレート。（ギフトにおすすめ）
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-criollo-chocolate-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Criolloショコラティエチョコレートギフトレビュー</strong></a>
 
 - **BLANCA**：ギフトに最適なプレミアムバスクチーズケーキショップ
@@ -211,12 +211,12 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-christmas-market-review-2024/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>2024年東京麻布台ヒルズクリスマスマーケットレビュー</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223958175295
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-summer-festival-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京麻布台ヒルズ夏祭り（展望台カフェかき氷レビュー）</strong></a>
 
 <figure>
@@ -238,13 +238,16 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223915389552
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-series-chinese-restaurant/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京麻布台中華料理レストラン、Seriesミシュラン一つ星コース</strong></a>
 
 **🚶‍♂️ 地下鉄5分！クラシック東京夜景、六本木ヒルズ**
 麻布台ヒルズが東京タワーの「正面」ビューを提供するなら、六本木ヒルズはスカイラインと融合した東京タワーを見せてくれます。両方を組み合わせて究極の夜景ツアーを。
 
-➡️ **<a href="/ja/posts/roppongi-attractions-complete-guide/" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、レストラン）</strong></a>**
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223988228389
+     Hugo: /ja/posts/roppongi-attractions-guide/ -->
+➡️ **<a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、レストラン）</strong></a>**
 
 **🚶‍♂️ 地下鉄3分！大人のグルメ空間、虎ノ門ヒルズ**
 麻布台ヒルズが「観光」の中心なら、隣の虎ノ門ヒルズは「グルメダイニング＆ビジネス」の中心です。「虎ノ門横丁」のような洗練された居酒屋通りで特別な夜を楽しんでください。

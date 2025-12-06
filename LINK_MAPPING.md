@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-06
-> **Status:** ✅ Complete - 72 posts mapped
+> **Status:** ✅ Complete - 73 posts mapped
 
 ---
 
@@ -302,6 +302,12 @@ declare -A MAPPINGS=(
   ["223700200846"]="tokyo-skytree-illumination-guide"
   ["223700095268"]="tokyo-skytree-free-observatory"
   ["223913830951"]="toranomon-hills-yakitori-nonotori"
+  ["223716380927"]="azabudai-hills-sky-room-cafe-guide"
+  ["223672616108"]="azabudai-hills-teamlab-borderless-guide"
+  ["223968462793"]="azabudai-hills-commen-bakery-review"
+  ["223708789355"]="azabudai-hills-criollo-chocolate-review"
+  ["223958175295"]="azabudai-hills-summer-festival-review"
+  ["223915389552"]="azabudai-hills-series-chinese-restaurant"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
