@@ -472,19 +472,10 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /ja/posts/omotesando-guide-2025/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 表参道完全ガイド（カフェ、ショッピング、レストラン）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/shinjuku-guide-2025/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 新宿観光：新宿御苑からレストラン、ショッピングまで</strong></a>
+<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>➡️ 新宿観光：新宿御苑からレストラン、ショッピングまで</strong></a>
 
 ---
 

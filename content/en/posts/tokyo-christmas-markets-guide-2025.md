@@ -453,10 +453,7 @@ Before the market opens, we recommend shopping and cafe hopping in nearby **'Omo
 <a href="#" style="color: #667eea;"><strong>➡️ Omotesando Complete Guide (Coffee, Shopping, Restaurants)</strong></a>
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/shinjuku-guide-2025/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping</strong></a>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>➡️ Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping</strong></a>
 
 ---
 
