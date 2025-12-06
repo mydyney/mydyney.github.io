@@ -188,7 +188,8 @@ If you've had sweet desserts, now it's time to taste savory dim sum or mapo tofu
 ### 🚶‍♂️ 10-Minute Akaishutsu Bus! Romantic Waterfront, Akarenga Warehouse
 
 Enjoy a walk around 'Akarenga Warehouse'.
-**➡️ [Yokohama One-Day Course Complete Guide (Akarenga Warehouse, Chinatown)](https://blog.naver.com/tokyomate/223979907748)**
+**➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223979907748 Hugo: /posts/[SLUG_TBD]/ -->
+[Yokohama One-Day Course Complete Guide (Akarenga Warehouse, Chinatown)](#)**
 
 ---
 
@@ -196,8 +197,8 @@ Enjoy a walk around 'Akarenga Warehouse'.
 
 Check out the perfect Yokohama one-day recommended course to fully enjoy Yokohama landmarks!
 
-**➡️ [Yokohama One-Day Course](https://blog.naver.com/tokyomate/223979907748)**
-**[Chinatown Restaurants, Akarenga Soko, Night View Spots Complete Guide](https://blog.naver.com/tokyomate/223979907748)**
+**➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223979907748 Hugo: /posts/[SLUG_TBD]/ -->
+[Yokohama One-Day Course Chinatown Restaurants, Akarenga Soko, Night View Spots Complete Guide](#)**
 
 ---
 
