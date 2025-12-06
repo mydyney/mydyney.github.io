@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-06
-> **Status:** ✅ Complete - 71 posts mapped
+> **Status:** ✅ Complete - 72 posts mapped
 
 ---
 
@@ -94,6 +94,7 @@ When migrating a Naver blog post to Hugo:
 | 224035533672 | ghibli-museum-reservation-guide | 2025-12-06 | ✅ |
 | 224002738158 | narita-express-guide | 2025-12-06 | ✅ |
 | 224034429817 | mitsui-outlet-kisarazu-guide | 2025-12-06 | ✅ |
+| 224022065518 | don-quijote-shopping-guide-2025 | 2025-09-26 | ✅ |
 
 ---
 
@@ -129,8 +130,9 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224035271300 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping |
 | 224038568654 | ikebukuro-complete-guide, tokyo-october-festivals-2025 | 2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro) |
 | 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025, odaiba-ariake-toyosu-complete-guide | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
-| 224022065518 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, tokyo-christmas-markets-guide-2025 | Japan Don Quijote Shopping List & Discount Coupons Guide |
+| ~~224022065518~~ | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, tokyo-christmas-markets-guide-2025 | ✅ **MIGRATED** → don-quijote-shopping-guide-2025 |
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, shibuya-sushi-no-midori-lunch-guide | Japan Kaldi Shopping List Must-Buy Recommendations |
+| 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
 
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
 | 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025 | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
@@ -158,7 +160,6 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide, odaiba-rainbow-fireworks-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
 | 224039113760 | japan-travel-discount-coupons-2025 | Japan Travel Discount Coupons (Don Quijote, Bic Camera, etc.) |
-| 224022065518 | don-quijote-shopping-guide-2025 | Don Quijote Shopping List & Discount Coupon Guide |
 | 224033964477 | kaldi-coffee-farm-shopping-list | Kaldi Coffee Farm Shopping List & Must-Buy Items |
 | 224035271300 | shinjuku-guide-2025 | Complete Shinjuku Travel Guide |
 | 223693165027 | ginza-itoya-stationery-guide | Tokyo Ginza Representative Stationery Store: Itoya Main Store |
@@ -263,8 +264,8 @@ declare -A MAPPINGS=(
   ["224035271300"]="shinjuku-guide-2025"
   ["223693165027"]="ginza-itoya-stationery-guide"
   ["224039113760"]="japan-travel-discount-coupons-2025"
-  ["224022065518"]="don-quijote-shopping-guide-2025"
   ["224033964477"]="kaldi-coffee-farm-shopping-list"
+  ["224022065518"]="don-quijote-shopping-guide-2025"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -285,12 +286,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 65
-- **Naver IDs Tracked:** 65
-- **Posts with Internal Links:** 29+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025)
-- **Pending References:** 51 (removed 1: 223690406760 migrated to odaiba-rainbow-fireworks-2025)
-- **Links Updated:** Verified & Fixed on 2025-12-06 (Updated 21 additional files)
-- **Last Migration Date:** 2025-12-06 (Odaiba Rainbow Fireworks 2025)
+- **Total Posts Migrated:** 72
+- **Naver IDs Tracked:** 72
+- **Posts with Internal Links:** 30+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025)
+- **Pending References:** 52 (removed 1: 224022065518 migrated to don-quijote-shopping-guide-2025, added 1: 224014619007)
+- **Links Updated:** Verified & Fixed on 2025-12-06 (Updated 22 additional files)
+- **Last Migration Date:** 2025-12-06 (Don Quijote Shopping Guide 2025)
 
 ---
 
