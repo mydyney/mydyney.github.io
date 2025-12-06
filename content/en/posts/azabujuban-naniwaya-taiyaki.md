@@ -103,7 +103,7 @@ After filling up on delicious taiyaki, explore the sophisticated "adult neighbor
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/roppongi-attractions-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants)</strong></a>
 
 </div>
