@@ -1,160 +1,366 @@
 ---
-title: "木更津三井アウトレット完全ガイド：新宿からのバス、クーポン、入店ブランド"
-date: 2025-10-14T09:00:00+09:00
+title: "三井アウトレットパーク木更津完全ガイド2025 - アクセス・ブランド・割引クーポン"
+date: 2025-10-08T00:10:00+09:00
 draft: false
-categories: ["Tokyo Shopping"]
-tags: ["kisarazu-outlet", "mitsui-outlet-park", "tokyo-shopping", "busta-shinjuku", "arcteryx", "gucci"]
 translationKey: "mitsui-outlet-kisarazu-guide"
-description: "東京近郊最大級、三井アウトレットパーク木更津への行き方完全ガイド。新宿バスタからの直行バス予約、外国人観光客用追加割引クーポンの貰い方、グッチやアークテリクスなどのブランド情報まで。"
-summary: "東京近郊で最大規模のアウトレット！バスタ新宿から三井アウトレットパーク木更津への直行バスでの行き方、案内所でのクーポンブック受取、グッチ・アークテリクスなどのブランド情報、フードコートのおすすめグルメを完全網羅。"
+description: "三井アウトレットパーク木更津2025完全ガイド - 都心から最高のアクセス、308以上のブランド。新宿・東京駅からの直行バス、割引クーポン、御殿場との比較、レストラン情報など。"
+summary: "東京から最も近いプレミアムアウトレットモール！セリーヌ、デザイナーブランド、日本ブランドまで308店舗以上。新宿から62分、羽田空港から40分。割引クーポン、ブランドガイド、グルメ情報満載。"
+tags: ["東京アウトレット", "三井アウトレットパーク", "木更津", "東京ショッピング", "アウトレット", "割引クーポン", "御殿場比較", "ショッピングガイド", "高級ブランド", "羽田空港"]
+categories: ["ショッピング・ガイド", "東京ショッピング"]
 featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 ---
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">
-東京近郊でショッピング天国をお探しですか？<br>
-<b>三井アウトレットパーク木更津</b>は首都圏最大級の規模を誇ります。<br>
-実は新宿から乗り換えなしで簡単に行けるんです。<br>
-バスの予約から追加クーポンのゲット方法まで、すべてご紹介します。
-</p>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">🛍️ 東京アウトレット、どこへ行く？<br>
+この完全ガイドでは三井アウトレットパーク木更津のすべてを網羅！<br>
+2025年大規模リニューアルで都心からのアクセスがさらに向上！<br>
+新宿・東京駅からの直行バス、ブランドリスト、<br>
+御殿場との比較、限定割引クーポンまで完全解説！</p>
 
 <figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-01.jpg" alt="三井アウトレットパーク木更津 入口">
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-01.jpg" alt="三井アウトレットパーク木更津の入口と東京スカイライン">
+  <figcaption style="font-size: 0.7em; text-align: center;">三井アウトレットパーク木更津 - 東京から最もアクセスしやすいプレミアムアウトレット</figcaption>
 </figure>
 
-<hr class="se-hr">
+## 🤔 東京アウトレット、木更津 vs 御殿場 - どっちを選ぶ？
 
-<h2>🚌 アクセス：バスタ新宿からの直行バス</h2>
+東京近郊のアウトレットを検索すると最もよく出てくる2つの名前、**三井アウトレットパーク木更津**と**御殿場プレミアムアウトレット**。旅行スタイルに合わせて選ぶのが重要です。
 
-木更津アウトレットへ行く最も便利な方法は、**バスタ新宿**（新宿高速バスターミナル）から発車する**直行高速バス**を利用することです。乗り換えなしで約**60分**で到着します（交通状況による）。
-
-### 1. バスターミナルへ
-JR新宿駅新南改札に直結している**「バスタ新宿」**へ向かいます。チケット売り場と乗り場は**4階**にあります。
-
-<figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-02.jpg" alt="バスタ新宿 入口">
-  <figcaption style="font-size: 0.7em; text-align: center;">バスタ新宿（4階）</figcaption>
-</figure>
-
-### 2. チケット購入
-4階の発券機または窓口で購入できます。
-- **区間：** 新宿 ～ 三井アウトレットパーク木更津
-- **運賃：** 片道 約1,600~1,700円 / Suica・PASMO等の交通系ICカード利用可
-- **運行：** 便数は多いですが、週末の午前便は混雑するので早めの確保がおすすめ。
-
-<figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-03.jpg" alt="チケット発券機">
-</figure>
-
-<figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-04.jpg" alt="バス時刻表">
-</figure>
-
-<div class="se-component se-imageGroup se-l-collage">
-    <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
-        <div class="se-module se-module-image" style="flex: 1;">
-            <img src="/images/posts/mitsui-outlet-kisarazu-guide-05.jpg" alt="バス乗り場" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
-        </div>
-        <div class="se-module se-module-image" style="flex: 1;">
-            <img src="/images/posts/mitsui-outlet-kisarazu-guide-06.jpg" alt="バス車内" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
-        </div>
-    </div>
+<div class="info-box">
+  <table class="schedule-table">
+    <thead>
+      <tr>
+        <th>区分</th>
+        <th>三井アウトレットパーク木更津</th>
+        <th>御殿場プレミアムアウトレット</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>位置</strong></td>
+        <td>千葉県木更津</td>
+        <td>静岡県御殿場</td>
+      </tr>
+      <tr>
+        <td><strong>アクセス</strong></td>
+        <td>都心から1時間以内の圧倒的アクセス</td>
+        <td>相対的に遠い（バス約1時間40分）</td>
+      </tr>
+      <tr>
+        <td><strong>規模</strong></td>
+        <td>約308店舗</td>
+        <td>約290店舗</td>
+      </tr>
+      <tr>
+        <td><strong>特徴</strong></td>
+        <td>都心アクセス最強<br>羽田空港利用</td>
+        <td>富士山ビュー + ショッピングと観光<br>箱根フリーパス利用</td>
+      </tr>
+      <tr>
+        <td><strong>ブランド</strong></td>
+        <td>セリーヌ ○<br>プラダ ✗<br>ポロラルフローレン ○<br>コムデギャルソン ✗<br>イッセイミヤケ ✗<br>BAPE ✗<br>オニツカタイガー ○</td>
+        <td>セリーヌ ○<br>プラダ ○<br>ポロラルフローレン ○<br>コムデギャルソン ✗<br>イッセイミヤケ ○<br>BAPE ✗<br>オニツカタイガー ○</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-<hr class="se-hr">
+**✅ 結論：** 短い東京旅行中、半日だけ投資してショッピングしたいなら、答えは**木更津**です！特に2025年大規模リニューアルでさらに強力になりました。
 
-<h2>🎫 到着したらまずはインフォメーションへ！</h2>
+---
 
-到着したら、すぐに買い物を始めないでください！まず**「総合案内所（Information Center）」**へ向かいましょう。
-ここでパスポート（短期滞在）を提示すると、外国人観光客専用の**スペシャルクーポンブック**をもらえます。
+## 💡 旅行初日！or 最終日！羽田空港連携コース
 
-- **特典：** 多くのお店でさらに5~10%割引適用
-- **条件：** パスポート提示
+木更津アウトレットは羽田空港から海底トンネルで移動するため、移動時間が約40分しかかかりません。飛行時間に合わせて旅行の始まりと終わりをさらに充実させることができます。
+
+**コース例：**
+- **旅行初日：** 空港到着 → アウトレットで荷物保管後ショッピング → 東京市内ホテルへ移動
+- **旅行最終日：** ホテルチェックアウト → アウトレットで荷物保管後ショッピング → そのまま空港へ移動（特に夕方/夜便の場合最高！）
+- **料金：** 1,400円、所要時間40分
+
+<div class="info-box">
+  <table class="schedule-table">
+    <thead>
+      <tr>
+        <th>出発便 / 到着便</th>
+        <th colspan="2">運行時間表</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>羽田空港第3ターミナル出発</strong></td>
+        <td colspan="2"><strong>9:20 / 11:10 / 16:55 / 18:15</strong></td>
+      </tr>
+      <tr>
+        <td><strong>三井アウトレット出発</strong></td>
+        <td colspan="2"><strong>10:00 / 11:10 / 16:40 / 18:40</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-07.jpg" alt="総合案内所">
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-02.jpg" alt="羽田空港第3ターミナル木更津アウトレットバス停留所">
+  <figcaption style="font-size: 0.7em; text-align: center;">羽田空港第3ターミナル 木更津アウトレットバス停留所</figcaption>
+</figure>
+
+---
+
+## 🚌 新宿/東京駅から木更津アウトレットへの行き方
+
+新宿、渋谷、東京駅など核心地域から乗り換えなしで一度に行ける直行バスがあり、非常に便利です。
+
+**🚌 新宿出発：**
+- **搭乗場所：** バスタ新宿 4階 3番停留場
+- **所要時間：** 62分
+- **料金：** 1,600円
+
+<div class="info-box">
+  <table class="schedule-table">
+    <thead>
+      <tr>
+        <th>路線</th>
+        <th>平日</th>
+        <th>週末</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>新宿出発</strong></td>
+        <td>9:00 / 9:30 / 10:20 / 11:30 / 12:00</td>
+        <td>8:30 / 9:00 / 9:30 / 10:00 / 10:20 / 10:50 / 11:30 / 12:00 / 13:00</td>
+      </tr>
+      <tr>
+        <td><strong>三井アウトレット出発</strong></td>
+        <td>15:20 / 16:20 / 17:50 / 18:50 / 19:50 / 20:50</td>
+        <td>14:20 / 14:50 / 15:20 / 16:20 / 17:20 / 17:50 / 19:20 / 18:50 / 19:20 / 19:50 / 20:20 / 21:30</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+**🚌 東京駅出発：**
+- **搭乗場所：** バスターミナル八重洲地下2階 12番停留場
+- **所要時間：** 60分
+- **料金：** 1,400円
+
+<div class="info-box">
+  <table class="schedule-table">
+    <thead>
+      <tr>
+        <th>路線</th>
+        <th>平日</th>
+        <th>週末</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>東京駅出発</strong></td>
+        <td>9:05 / 9:25 / 9:55 / 10:25 / 10:55 / 11:15 / 11:35</td>
+        <td>8:45 / 9:05 / 9:25 / 9:45 / 10:05 / 10:25 / 10:45 / 11:05 / 11:25 / 11:45 / 12:05 / 12:25</td>
+      </tr>
+      <tr>
+        <td><strong>三井アウトレット出発</strong></td>
+        <td>14:30 / 15:30 / 15:55 / 16:30 / 16:55 / 17:30 / 18:30 / 19:30 / 20:30</td>
+        <td>14:30 / 15:30 / 15:55 / 16:30 / 16:55 / 17:30 / 17:55 / 18:30 / 18:55 / 19:30 / 19:55 / 20:30</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+**➡️ [渋谷、池袋、品川、横浜、成田空港等出発便運行時間を見る](https://mitsui-shopping-park.com/mop/kisarazu/access/)**
+
+<figure>
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-03.jpg" alt="東京から木更津への海底トンネルルートを示す地図">
+  <figcaption style="font-size: 0.7em; text-align: center;">海底トンネルで移動するため、ラッシュアワー渋滞を考慮して余裕を持った移動時間の確保が必要です</figcaption>
+</figure>
+
+---
+
+## 🎁 到着したら最初にすべきこと！割引クーポン＆プレゼントをもらう
+
+最大10%の追加割引が可能なので、ショッピング開始前に必ずゲットすべき必須アイテムです。
+
+**クーポンの受け取り方：**
+
+1. アウトレット到着後、**総合案内所（Information Center）**に行きます
+2. **パスポート**と**QRコードスクリーンショット**をスタッフに見せます
+3. その場で**実物クーポンブック**と**オリジナル記念品（期間限定）**を受け取れます
+
+<figure>
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-04.jpg" alt="LIVE JAPAN × 三井ショッピングパーク割引クーポンQRコード">
+  <figcaption style="font-size: 0.7em; text-align: center;">LIVE JAPAN × 三井ショッピングパーク割引クーポン</figcaption>
+</figure>
+
+---
+
+## 🔥 2025年ブラックフライデーセール（11/14~30）- 11月訪問者必読！
+
+年間最大割引ブラックフライデーセールが11月14日から30日まで行われます。
+
+**主要セール内容：**
+- ナイキ 30% OFF
+- ルクルーゼ 50% OFF
+- ポケモンイベント
+- その他多数！
+
+詳しいブランド別割引情報は、以下の最新投稿を必ず確認してください！
+
+**➡️ [東京アウトレット三井木更津2025ブラックフライデーセール＆ポケモンイベント](/ja/posts/mitsui-kisarazu-black-friday-2025/)**
+
+---
+
+## ✨ 訪問前に知っておくと良い情報
+
+**主要施設：**
+
+- **無料コインロッカー＆手荷物保管所：** アウトレット各所にキャリーケースが入る大型無料コインロッカー（100円リターン式）があり、満杯の場合は無料手荷物保管所も利用できます
+- **免税（Tax Free）：** ほとんどの店舗で5,000円以上購入時に免税恵恵を受けられます（パスポート必須）
+- **ATM：** セブンイレブン便利店内のセブン銀行ATMで円を引き出せます
+
+<figure>
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-05.jpg" alt="木更津アウトレットの大型無料コインロッカー">
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津アウトレット大型無料コインロッカー</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-08.jpg" alt="クーポンブック交換">
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-06.jpg" alt="木更津セブンイレブン内のセブン銀行ATM">
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津セブンイレブン内のセブン銀行ATM</figcaption>
 </figure>
+
+---
+
+## 🛍️ どんなブランドがある？（代表ブランド＆ショッピングリスト）
+
+木更津アウトレットには約308以上のブランドが入店しており、特に名品から日本ローカルブランドまでバランスのとれたラインナップが魅力的です。すべてのブランドを見て回るのは難しいので、以下の推奨リストを参考にショッピング動線を組んでみてください。
+
+### 👑 絶対訪問！ハイエンドラグジュアリーブランド
+
+**必須訪問：**
+- **セリーヌ（CELINE）** ○
+- サンローラン、ロエベ、バレンシアガ、ボッテガヴェネタ
+
+**その他：**
+- マルニ、クロエ、ジミーチュウ、ヴァレンティノ
 
 <figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-09.jpg" alt="割引クーポンブック">
-  <figcaption style="font-size: 0.7em; text-align: center;">このクーポンブックは必須です！</figcaption>
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-07.jpg" alt="木更津のセリーヌ店舗">
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津セリーヌアウトレット店舗</figcaption>
 </figure>
 
-<hr class="se-hr">
+### 👗 必ず立ち寄るべきファッション＆日本代表ブランド
 
-<h2>🛍️ 人気ブランド＆ショッピングのヒント</h2>
+**日本代表セレクトショップ：**
+- ビームス、ユナイテッドアローズ、シップス、トゥモローランド
 
-約300店舗が集結する木更津。特に人気のブランドをピックアップしました。
+**人気ファッションブランド：**
+- メゾンキツネ、A.P.C.、マーガレットハウエル、ヴィヴィアンウエストウッド
 
-### 1. ラグジュアリーブランド (Gucciなど)
-専用のラグジュアリーゾーンがあります。**Gucci、Burberry、Saint Laurent、Bottega Veneta**などが並びます。
-週末は入店待ちの列ができることもあるので、目当てがあるなら最初に訪問しましょう。
+**コスパ最高カジュアル：**
+- ポロラルフローレン、ラコステ、トミーヒルフィガー、バナナリパブリック、ギャップ、リーバイス、グラニフ、ニューエラ
 
 <figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-10.jpg" alt="Gucci 店舗">
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-08.jpg" alt="木更津のビームス店舗">
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津ビームスアウトレット店舗</figcaption>
 </figure>
+
+### 👟 スポーツ＆アウトドアブランド
+
+**スポーツ：**
+- ナイキ、アディダス、ニューバランス、アンダーアーマー
+
+**日本代表スポーツ：**
+- アシックス、**オニツカタイガー**
+
+**アウトドア：**
+- ザノースフェイス、パタゴニア、アークテリクス、モンベル
 
 <figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-11.jpg" alt="ラグジュアリーゾーン">
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-09.jpg" alt="木更津のオニツカタイガー店舗">
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津オニツカタイガーアウトレット店舗</figcaption>
 </figure>
 
-### 2. アークテリクス & アウトドア
-**Arc'teryx（アークテリクス）**は非常に人気です。在庫状況は変動しますが、ジャケットやバックパックの良い出物が見つかることも。
-**The North Face**や**Snow Peak**、**Nike**の店舗も大型です。
+### 🏠 感性いっぱい！リビング、ビューティー＆ギフト
+
+**キッチン＆リビング：**
+- ルクルーゼ、ストウブ、フランフラン、ディーン＆デルーカ
+
+**ビューティー＆コスメティック：**
+- ロクシタン、サボン、ザコスメティックカンパニーストア（エスティローダー系列）
+
+**ギフト＆フード：**
+- **ゴディバ（GODIVA）**、リンツ、カルディコーヒーファーム
+
+**➡️ [日本カルディショッピングリスト、2025年必ず買うべきカルディ推奨品（スプレッド、ポーションコーヒー、免税꿀팁）](/ja/posts/kaldi-coffee-farm-shopping-list/)**
 
 <figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-12.jpg" alt="アークテリクス店舗">
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-10.jpg" alt="木更津のゴディバ店舗">
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津ゴディバアウトレット店舗</figcaption>
 </figure>
+
+### 👨‍👩‍👧‍👦 子供と一緒！キッズ＆ファミリーブランド
+
+**おもちゃ：**
+- レゴ、**ポケモンストア**、シルバニアファミリー
+
+**キッズファッション：**
+- ギャップ、ベベ、アナスイミニ、ケイトスペードニューヨークキッズ
 
 <figure>
-  <img src="/images/posts/mitsui-outlet-kisarazu-guide-13.jpg" alt="Nike店舗">
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-11.jpg" alt="木更津のポケモンストア">
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津ポケモンストアアウトレット店舗</figcaption>
 </figure>
 
-### 3. キッチンウェア (ル・クルーゼ)
-**Le Creuset（ル・クルーゼ）**の鍋は、重いですが持ち帰れるなら非常にお得な価格で購入できます。
+---
 
-<!-- Image 14 removed -->
+## 🍽️ ショッピングで疲れたら？（アウトレット推薦レストラン）
 
-### 4. その他 (オニツカタイガー、セイコー)
-日本土産として人気の**オニツカタイガー**や、**Seiko**、**G-Shock**などの時計ブランドも充実しています。
+**1. 月島もんじゃ くうや**
 
-<!-- Images 15, 16 removed -->
+- **分野：** もんじゃ焼き
+- **特徴：** 東京の名物「月島もんじゃくうや」の千葉初進出！焼き鉄板でじゅうじゅう焼けていく生地を小さなヘラでこそげ食べる楽しさがあります
 
-<hr class="se-hr">
+**2. 松戸富田製麺**
 
-<h2>🍜 ランチのおすすめ：松戸富田製麺</h2>
+- **分野：** つけめん
+- **特徴：** 日本最高のラーメンの一つに数えられる「富田」のアウトレット版。濃厚で深い海鮮豚骨スープと極太麺が特徴で、ラーメンマニアなら見逃せません
 
-ここのフードコートはレベルが高いことで知られています。
-特におすすめは、つけ麺の絶対王者「とみ田」の支店、**「松戸富田製麺」**です。
-濃厚な魚介豚骨スープと極太麺の組み合わせは最高です。行列ができることも多いですが、回転は早めです。
+**3. 日本橋 天丼 金子半之助**
 
-<!-- Images 17, 18, 19 removed -->
+- **分野：** 天丼
+- **特徴：** 日本橋の本店はいつも長い列ができる天丼の名店。注文後すぐに揚げたサクサクの天ぷらと秘伝のタレがかかったご飯の調和が絶品です
 
-<hr class="se-hr">
+<figure>
+  <img src="/images/posts/mitsui-outlet-kisarazu-guide-12.jpg" alt="木更津の月島もんじゃくうやレストラン">
+  <figcaption style="font-size: 0.7em; text-align: center;">木更津もんじゃ焼き店 月島もんじゃくうや</figcaption>
+</figure>
 
-<h2>🚌 新宿への帰り方</h2>
+---
 
-到着時に帰りのバス時刻表を確認しておきましょう。
-新宿行きのバス乗り場は、通常降りた場所と同じエリアにあります。乗り場近くの自販機でチケットを購入できます。
+## ✅ 最後に
 
-<!-- Images 20, 21 removed -->
+東京アウトレットショッピング、もう悩む必要はありませんよね？都心からの圧倒的なアクセス、2025年リニューアルでさらに強力になったブランドラインナップを備えた**三井アウトレットパーク木更津**で楽しいショッピングを計画してみてください。このガイドと共に後悔のないショッピングを楽しんでいただければ幸いです！
 
-**木更津の夕日：**
-東京湾に面しており、観覧車越しに見る夕日はとてもロマンチックです。買い物の締めに最適です。
+**⭐ 一緒に読むと良い記事：**
 
-<!-- Image 22 removed -->
+**➡️ [NEW: 東京アウトレット三井木更津2025ブラックフライデーセール（11/14~30）＆ポケモンフェスティバル](/ja/posts/mitsui-kisarazu-black-friday-2025/)**
 
-<hr class="se-hr">
+**➡️ [新宿完全ガイド：新宿御苑からレストラン、ショッピング、ゴールデン街まで](/ja/posts/shinjuku-guide-2025/)**
 
-**まとめ：**
-三井アウトレットパーク木更津は、新宿から日帰りで最高に楽しめるショッピングスポットです。
-便利な直行バス、豊富なブランドラインナップ、そして外国人旅行者特典を活用して、お得にショッピングを楽しんでください。
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031611221
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+**➡️ <a href="#" style="color: #667eea;"><strong>東京駅ガイド：キャラクターストリート、レストラン、夜景、荷物保管</strong></a>**
 
-<p><strong>➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全ガイドに戻る</a></strong></p>
+**➡️ [日本ドン・キホーテショッピングリスト＆割引クーポンガイド](/ja/posts/don-quijote-shopping-guide-2025/)**
+
+**➡️ [日本カルディショッピングリスト：必ず買うべき推奨品（スプレッド、ポーションコーヒー、免税꿀팁）](/ja/posts/kaldi-coffee-farm-shopping-list/)**
+
+**🔥 日本ショッピング前必須チェック！**
+
+アウトレットだけでなく、ドン・キホーテ、ビックカメラ、デパートなど日本のすべてのショッピングスポットで使える割引クーポン情報が気になる方は、以下の「割引クーポン総まとめ」投稿を一緒に確認してすべての恵恵を受け取ってください！
+
+**➡️ [日本旅行割引クーポン総まとめ2025（ドン・キホーテ、ビックカメラ、デパート等）](/ja/posts/japan-travel-discount-coupons-2025/)**
 
 </div>
