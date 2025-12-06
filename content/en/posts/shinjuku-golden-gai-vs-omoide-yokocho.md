@@ -18,7 +18,7 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐Want to see the complete Shinjuku travel course with restaurants, shopping, and night views at a glance?<br>
 ➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Guide ↗</b></a></p>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Complete Shinjuku Guide ↗</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg" alt="Shinjuku Omoide Yokocho vs Golden Gai solo drinking comparison">
@@ -266,7 +266,7 @@ But depending on your travel style, you'll experience completely different 'Shin
 **📌 Related Shinjuku Travel Guides**
 
 **➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Complete Shinjuku Course Guide ↗</a>**
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Course Guide ↗</a>**
 
 **➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Free Observatory Light Show Tips ↗</a>**
 
