@@ -242,6 +242,9 @@ If you're curious about more things to do, restaurants, and shopping courses in 
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Shinjuku Things to Do: Complete Course from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a>**
 
 **➡️ <!-- Link updated -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">Hakone Travel: Day Trip vs Ryokan Overnight Perfect Course Recommendations (Hakone Free Pass, Romance Car Reservations)</a>**
 
 </div>
