@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-11-27
-> **Status:** ✅ Complete - 60 posts mapped
+> **Last Updated:** 2025-12-06
+> **Status:** ✅ Complete - 62 posts mapped
 
 ---
 
@@ -81,6 +81,7 @@ When migrating a Naver blog post to Hugo:
 | 223992588094 | tokyo-september-festivals-2025 | 2025-09-02 | ✅ |
 | 224089448937 | shinjuku-station-breakfast-best-8 | 2025-11-27 | ✅ |
 | 224098870040 | shibuya-sushi-no-midori-lunch-guide | 2025-12-05 | ✅ |
+| 224098592756 | shibuya-blue-cave-illumination-2025 | 2025-12-06 | ✅ |
 
 ---
 
@@ -146,6 +147,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide | Tokyo Asakusa Attractions & Restaurant Complete Guide |
 | 223690406760 | odaiba-ariake-toyosu-complete-guide | Odaiba Rainbow Fireworks 2024 Schedule & Best Viewing Spots |
 | 224096203397 | shibuya-sushi-no-midori-lunch-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
+| 224096781916 | shibuya-blue-cave-illumination-2025 | 2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -234,6 +236,7 @@ declare -A MAPPINGS=(
   ["223992588094"]="tokyo-september-festivals-2025"
   ["224089448937"]="shinjuku-station-breakfast-best-8"
   ["224098870040"]="shibuya-sushi-no-midori-lunch-guide"
+  ["224098592756"]="shibuya-blue-cave-illumination-2025"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -254,12 +257,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 61
-- **Naver IDs Tracked:** 61
-- **Posts with Internal Links:** 25+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide)
-- **Pending References:** 51 (added 4 new references from shibuya-sushi-no-midori-lunch-guide)
+- **Total Posts Migrated:** 62
+- **Naver IDs Tracked:** 62
+- **Posts with Internal Links:** 26+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025)
+- **Pending References:** 52 (added 1 new reference from shibuya-blue-cave-illumination-2025: 224096781916 Omotesando Illumination)
 - **Links Updated:** 0 (all links in posts need migration)
-- **Last Migration Date:** 2025-12-05
+- **Last Migration Date:** 2025-12-06
 
 ---
 
