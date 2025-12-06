@@ -735,13 +735,8 @@ KITTEでディナー<br>
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b></p>
+
+<b><a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><br>
+<b><a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b></p>
 
 </div>

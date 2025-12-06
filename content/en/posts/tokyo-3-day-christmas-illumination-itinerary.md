@@ -648,8 +648,8 @@ is the most realistic recommended budget.</p>
 <a href="/posts/tokyo-transportation-card-guide-2025/" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 <b><!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224039113760" style="color: #667eea;">➡️ Japan Travel Discount Coupons Complete Guide</a></b><br>
+<a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">➡️ Japan Travel Discount Coupons Complete Guide</a></b><br>
 <b><!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224039113760" style="color: #667eea;">(Don Quijote, Drugstores, Department Stores)</a></b></p>
+<a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">(Don Quijote, Drugstores, Department Stores)</a></b></p>
 
 </div>
