@@ -236,12 +236,12 @@ It's rare to find a place in the heart of Shibuya where you can eat your fill of
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">Shibuya Sky Reservation, Shopping & Restaurant Complete Course</a></strong></p>
+<p><strong>➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Sky Reservation, Shopping & Restaurant Complete Course</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: /posts/harajuku-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">Harajuku Harry Potter Store, Takeshita Street & Cat Street Walking Course</a></strong></p>
+<p><strong>➡️ <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;">Harajuku Harry Potter Store, Takeshita Street & Cat Street Walking Course</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224096203397

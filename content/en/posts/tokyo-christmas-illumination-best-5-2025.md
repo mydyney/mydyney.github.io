@@ -28,7 +28,7 @@ with dates, access info, and insider tips!</p>
   <!-- TODO: Update link after migration
        Naver: /posts/tokyo-christmas-markets-guide-2025/
        Hugo: /posts/[SLUG_TBD]/ -->
-  <p><a href="#" style="color:#667eea;"><strong>➡️ 2025 Tokyo Christmas Markets Complete Guide</strong></a></p>
+  <p><a href="/posts/tokyo-christmas-markets-guide-2025/" style="color:#667eea;"><strong>➡️ 2025 Tokyo Christmas Markets Complete Guide</strong></a></p>
 </div>
 
 <h2>✨ 2025 Tokyo: A Fantastic Winter Story of Lights</h2>
@@ -286,7 +286,7 @@ The Tembo Deck at 350m and Tembo Galleria at 450m are decorated with Christmas t
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-christmas-markets-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where to Go? (Ueno, Roppongi, Yokohama Complete Guide)</strong></a></p>
+<p><a href="/posts/tokyo-christmas-markets-guide-2025/" style="color:#667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where to Go? (Ueno, Roppongi, Yokohama Complete Guide)</strong></a></p>
 
 <h2>🍁 Traveling Late November to Early December? Catch the Autumn Leaves Too!</h2>
 
@@ -295,7 +295,7 @@ The Tembo Deck at 350m and Tembo Galleria at 450m are decorated with Christmas t
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-autumn-foliage-best-spots-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots</strong></a></p>
+<p><a href="/posts/tokyo-autumn-foliage-best-spots-2025/" style="color:#667eea;"><strong>➡️ 2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots</strong></a></p>
 
 ---
 

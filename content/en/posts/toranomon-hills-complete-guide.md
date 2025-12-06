@@ -209,7 +209,7 @@ If Toranomon Hills is the center of 'business', neighboring 'Azabudai Hills' is 
 <!-- TODO: Update link after migration
      Naver: /posts/azabudai-hills-complete-guide/
      Hugo: /posts/[SLUG_TBD]/ -->
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills Attractions: Observatory, Restaurants, teamLab</strong></a>
+➡️ <a href="/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><strong>Tokyo Azabudai Hills Attractions: Observatory, Restaurants, teamLab</strong></a>
 
 **🚶‍♂️ 5-Minute Subway! Classic Tokyo Night Views, Roppongi Hills**
 Take the subway 5 minutes to reach 'Roppongi Hills'.

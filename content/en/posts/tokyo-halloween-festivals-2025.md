@@ -121,7 +121,7 @@ Roppongi Hills Halloween is a 'stamp rally' format using the 'Hills App'. It's a
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224022065518
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>2025 Japan Don Quijote Shopping List (Halloween Costume Prep!)</strong></a>**
+**➡️ <a href="/posts/ikebukuro-complete-guide/" style="color: #667eea;"><strong>2025 Japan Don Quijote Shopping List (Halloween Costume Prep!)</strong></a>**
 
 - **Be Courteous When Taking Photos!** When you want to photograph awesome cosplayers, it's basic etiquette to first ask permission: "May I take a photo? (Shashin totte mo ii desu ka? 写真撮ってもいいですか?)"
 

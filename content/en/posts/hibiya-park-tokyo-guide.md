@@ -243,7 +243,7 @@ The Christmas market formerly held at Hibiya Park has moved to Meiji Jingu Gaien
 <!-- TODO: Update link after migration
      Naver: /posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Cup Benefits</strong></a>
+**➡️** <a href="/posts/meiji-jingu-gaien-christmas-market-2025/" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Cup Benefits</strong></a>
 
 <figure>
   <img src="/images/posts/hibiya-park-tokyo-guide-12.jpg" alt="Hibiya Park Tokyo autumn scenery in the heart of the city">
@@ -265,7 +265,7 @@ If you have any questions during your trip, feel free to leave a comment anytime
 <!-- TODO: Update link after migration
      Naver: /posts/hibiya-midtown-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025 Tokyo Midtown Hibiya Illumination · Zootopia 2 Collaboration</strong></a>
+**➡️** <a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>2025 Tokyo Midtown Hibiya Illumination · Zootopia 2 Collaboration</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826

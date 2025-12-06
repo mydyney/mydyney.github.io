@@ -319,7 +319,7 @@ That's all from Tokyo Mate!
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison (2025 Latest Edition)</strong></a>
+**➡️** <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison (2025 Latest Edition)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300

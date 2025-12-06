@@ -406,6 +406,6 @@ I hope your Tokyo trip becomes more special. Please leave any questions in the c
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Shibuya Sky, Shopping, Restaurants & Activities Complete Guide</strong></a>
+**➡️** <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky, Shopping, Restaurants & Activities Complete Guide</strong></a>
 
 </div>

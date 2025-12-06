@@ -253,7 +253,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-christmas-markets-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where to Go? (Roppongi, Skytree, etc.)</strong></a></p>
+<p><a href="/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where to Go? (Roppongi, Skytree, etc.)</strong></a></p>
 
 <p><strong>🌟 Nov 4 Start: Roppongi Hills Illumination</strong></p>
 <p><a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;"><strong>➡️ Roppongi Hills Illumination 2025: Dates, Hours, Must-See Spots Complete Guide</strong></a></p>
@@ -268,7 +268,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ Tokyo Marunouchi Illumination 2025 Complete Guide</strong></a></p>
+<p><a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>➡️ Tokyo Marunouchi Illumination 2025 Complete Guide</strong></a></p>
 
 <p><strong>🌟 Nov 13 Start: Hibiya Midtown Illumination</strong></p>
 <p><a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>➡️ 2025 Hibiya Midtown Illumination Complete Guide</strong></a></p>
@@ -280,6 +280,6 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-dome-city-christmas-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Dome City Illumination Complete Guide</strong></a></p>
+<p><a href="/posts/tokyo-dome-city-christmas-illumination-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Dome City Illumination Complete Guide</strong></a></p>
 
 </div>

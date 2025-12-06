@@ -232,7 +232,7 @@ Complete guide including course details and online reservation tips.</p>
 <!-- TODO: Update link after migration
      Naver: /posts/toranomon-hills-complete-guide/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;"><strong>Toranomon Hills Complete Guide: Observatory, Restaurants, Yokocho, T-Market</strong></a></p>
+<p><a href="/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>Toranomon Hills Complete Guide: Observatory, Restaurants, Yokocho, T-Market</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223913830951

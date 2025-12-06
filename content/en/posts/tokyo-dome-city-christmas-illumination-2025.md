@@ -189,7 +189,7 @@ and the Nordic Christmas Market schedule—your complete winter guide to Tokyo D
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5 (Roppongi, Marunouchi Tips)</strong></a></p>
+<p><a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5 (Roppongi, Marunouchi Tips)</strong></a></p>
 
 <p><strong>🌟 Nov 4 Start: Roppongi Hills Illumination</strong></p>
 <p><a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;"><strong>➡️ Roppongi Hills Illumination 2025: Dates, Hours, Must-See Spots Complete Guide</strong></a></p>

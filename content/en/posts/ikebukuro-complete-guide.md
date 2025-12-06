@@ -312,7 +312,7 @@ As the new Halloween mecca replacing "Shibuya," be sure to visit if the timing w
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-halloween-festivals-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro)</a>**
+**➡️ <a href="/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro)</a>**
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-20.jpg" alt="Ikebukuro Halloween Cosplay Festival">
@@ -335,7 +335,7 @@ You can travel directly on the Yamanote Line.
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">Shibuya Attractions - From Shibuya Sky Reservations to Restaurants</a>**
+**➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Attractions - From Shibuya Sky Reservations to Restaurants</a>**
 
 **🚇 JR Yamanote Line 20 minutes!**
 **Traditional District: Ueno**

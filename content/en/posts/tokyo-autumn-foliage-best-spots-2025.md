@@ -114,11 +114,11 @@ your complete guide to Tokyo's autumn colors!</p>
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Shibuya Attractions: From Shibuya Sky Reservations to Shopping & Restaurants</strong></a></p>
+<p>➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Attractions: From Shibuya Sky Reservations to Shopping & Restaurants</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: /posts/harajuku-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a></p>
+<p>➡️ <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-05.jpg" alt="Yoyogi Park autumn scenery with colorful trees and open lawn areas">
@@ -244,7 +244,7 @@ your complete guide to Tokyo's autumn colors!</p>
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-october-festivals-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>2025 Tokyo October Festivals & Must-Visit Places</strong></a></p>
+<p>➡️ <a href="/posts/tokyo-october-festivals-2025/" style="color: #667eea;"><strong>2025 Tokyo October Festivals & Must-Visit Places</strong></a></p>
 
 ---
 
@@ -255,7 +255,7 @@ your complete guide to Tokyo's autumn colors!</p>
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>2025 Tokyo Christmas Illumination BEST 5</strong></a></p>
+<p>➡️ <a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>2025 Tokyo Christmas Illumination BEST 5</strong></a></p>
 
 <p>➡️ <a href="/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;"><strong>2025 Tokyo Christmas Markets Guide: Where to Go? (Ueno, Roppongi & More)</strong></a></p>
 

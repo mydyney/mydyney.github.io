@@ -201,7 +201,7 @@ A: The ginkgo avenue is in the 'Aoyama' area, very close to 'Omotesando,' making
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Shibuya Attractions: From Shibuya Sky Reservations to Shopping and Restaurants - Perfect Course Recommendations</strong></a>
+**➡️** <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Attractions: From Shibuya Sky Reservations to Shopping and Restaurants - Perfect Course Recommendations</strong></a>
 
 - **Roppongi** → Illumination / Night views / Mori Art Museum
 
@@ -231,6 +231,6 @@ Don't confuse it with 'Meiji Jingu,' and visit during the most beautiful peak se
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-autumn-foliage-best-spots-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots (Peak Timing, Light-Up Information Complete Guide)</strong></a>
+**➡️** <a href="/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots (Peak Timing, Light-Up Information Complete Guide)</strong></a>
 
 </div>

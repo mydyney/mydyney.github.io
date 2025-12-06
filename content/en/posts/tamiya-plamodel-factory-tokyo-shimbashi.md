@@ -221,7 +221,7 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
 <!-- TODO: Update link after migration
      Naver: /posts/shinbashi-shiodome-evening-course/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Tokyo Shimbashi & Shiodome Must-Visit Places: Evening Course Walking Through Past and Future (Restaurants, Night Views)</strong></a>
+**➡️** <a href="/posts/shinbashi-shiodome-evening-course/" style="color: #667eea;"><strong>Tokyo Shimbashi & Shiodome Must-Visit Places: Evening Course Walking Through Past and Future (Restaurants, Night Views)</strong></a>
 
 ## 🎁 Tokyo Shopping Guides
 
@@ -243,7 +243,7 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
 <!-- TODO: Update link after migration
      Naver: /posts/japan-convenience-store-shopping-best-10/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Japan Convenience Store Shopping List Fail-Proof BEST 10 (7-Eleven, Family Mart, Lawson Comparison)</strong></a>
+**➡️** <a href="/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>Japan Convenience Store Shopping List Fail-Proof BEST 10 (7-Eleven, Family Mart, Lawson Comparison)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224034429817

@@ -363,12 +363,12 @@ Even first-time visitors to Shinjuku gacha (gashapon) will find this guide suffi
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-luggage-storage/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **No more luggage worries!** **➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Station Luggage Storage 100% Success Guide, Coin Locker Locations & Tips</strong></a>**
+- **No more luggage worries!** **➡️ <a href="/posts/shinjuku-luggage-storage/" style="color: #667eea;"><strong>Shinjuku Station Luggage Storage 100% Success Guide, Coin Locker Locations & Tips</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-station-breakfast-best-8/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **Opens at 7 AM for breakfast!** **➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Station Breakfast 7-8 AM Opening, Brunch & Home-style Meals</strong></a>**
+- **Opens at 7 AM for breakfast!** **➡️ <a href="/posts/shinjuku-station-breakfast-best-8/" style="color: #667eea;"><strong>Shinjuku Station Breakfast 7-8 AM Opening, Brunch & Home-style Meals</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
@@ -378,16 +378,16 @@ Even first-time visitors to Shinjuku gacha (gashapon) will find this guide suffi
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-gyoen-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **Autumn Picnic** ➡️ **<a href="#" style="color: #667eea;"><strong>Shinjuku Gyoen Admission, Hours, Starbucks & Picnic Guide</strong></a>**
+- **Autumn Picnic** ➡️ **<a href="/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;"><strong>Shinjuku Gyoen Admission, Hours, Starbucks & Picnic Guide</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-metropolitan-govt-observatory/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **Free Night View** **➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Free Observatory Access & Night View Tips</strong></a>**
+- **Free Night View** **➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Free Observatory Access & Night View Tips</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **Shinjuku Nights ➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Comparison</strong></a>**
+- **Shinjuku Nights ➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Comparison</strong></a>**
 
 </div>
