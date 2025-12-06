@@ -233,10 +233,7 @@ A. はい、組み立て中に紛失・破損した部品や「タミヤカス�
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>日本旅行割引クーポン完全ガイド（ドン・キホーテ、ビックカメラ、百貨店など免税＋追加割引）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト必須おすすめ品＆割引クーポン、免税方法完全ガイド（ラー油、目薬など）</strong></a>
+**➡️** <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト必須おすすめ品＆割引クーポン、免税方法完全ガイド（ラー油、目薬など）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
@@ -246,11 +243,8 @@ A. はい、組み立て中に紛失・破損した部品や「タミヤカス�
 <!-- TODO: Update link after migration
      Naver: /ja/posts/japan-convenience-store-shopping-best-10/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>日本コンビニショッピングリスト失敗なしBEST10（セブンイレブン、ファミリーマート、ローソン比較）</strong></a>
+**➡️** <a href="/ja/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>日本コンビニショッピングリスト失敗なしBEST10（セブンイレブン、ファミリーマート、ローソン比較）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>東京アウトレット推薦：三井アウトレットパーク木更津割引クーポン、入店ブランド、行き方（御殿場比較）</strong></a>
+**➡️** <a href="/ja/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;"><strong>東京アウトレット推薦：三井アウトレットパーク木更津割引クーポン、入店ブランド、行き方（御殿場比較）</strong></a>
 
 </div>

@@ -230,10 +230,7 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores + Additional Discounts)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Japan Don Quijote Shopping List Must-Buy Items & Discount Coupons, Tax-Free Methods Complete Guide (Rayu, Eye Drops, etc.)</strong></a>
+**➡️** <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Don Quijote Shopping List Must-Buy Items & Discount Coupons, Tax-Free Methods Complete Guide (Rayu, Eye Drops, etc.)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
@@ -245,9 +242,6 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>Japan Convenience Store Shopping List Fail-Proof BEST 10 (7-Eleven, Family Mart, Lawson Comparison)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Tokyo Outlet Recommendation: Mitsui Outlet Park Kisarazu Discount Coupons, Tenant Brands, How to Get There (Gotemba Comparison)</strong></a>
+**➡️** <a href="/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;"><strong>Tokyo Outlet Recommendation: Mitsui Outlet Park Kisarazu Discount Coupons, Tenant Brands, How to Get There (Gotemba Comparison)</strong></a>
 
 </div>
