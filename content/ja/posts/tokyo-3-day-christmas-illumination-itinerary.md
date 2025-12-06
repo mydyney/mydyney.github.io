@@ -128,15 +128,18 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-express-guide/" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/narita-express-guide/ -->
+<a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-express-guide/" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
+     Hugo: /ja/posts/narita-express-guide/ -->
+<a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-express-guide/" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
+     Hugo: /ja/posts/narita-express-guide/ -->
+<a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-03.jpg" alt="仁川-成田便から見える富士山">
@@ -672,15 +675,18 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-express-guide/" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/narita-express-guide/ -->
+<a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-express-guide/" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
+     Hugo: /ja/posts/narita-express-guide/ -->
+<a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/narita-express-guide/" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
+     Hugo: /ja/posts/narita-express-guide/ -->
+<a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-31.jpg" alt="成田空港出発帰国!!!">

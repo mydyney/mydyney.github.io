@@ -112,11 +112,14 @@ and start your journey.<br>
 <a href="#" style="color: #667eea;">Suica card, ATM complete guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 ​<br>
 <b><!-- Link updated -->
-<a href="/posts/narita-express-guide/" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /posts/narita-express-guide/ -->
+<a href="#" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
 <b><!-- Link updated -->
-<a href="/posts/narita-express-guide/" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
+<a href="#" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
 <b><!-- Link updated -->
-<a href="/posts/narita-express-guide/" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
+<a href="#" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-03.jpg" alt="Mt. Fuji view from Incheon-Narita flight">
@@ -593,11 +596,14 @@ Take <b>Narita Express (N'EX)</b><br>
 to the airport!<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="/posts/narita-express-guide/" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /posts/narita-express-guide/ -->
+<a href="#" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
 <b><!-- Link updated -->
-<a href="/posts/narita-express-guide/" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
+<a href="#" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
 <b><!-- Link updated -->
-<a href="/posts/narita-express-guide/" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
+<a href="#" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-31.jpg" alt="Narita Airport departure home!!!">
