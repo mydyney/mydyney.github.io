@@ -498,6 +498,6 @@ The complete recommended course for **Shinjuku attractions** covering nature, sh
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224034429817
      Hugo: /posts/mitsui-outlet-kisarazu-guide/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">Directions from Busta Shinjuku to Mitsui Outlet Park Kisarazu, Discount Coupons, Brands</a></strong></p>
+<p><strong>➡️ <a href="/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">Directions from Busta Shinjuku to Mitsui Outlet Park Kisarazu, Discount Coupons, Brands</a></strong></p>
 
 </div>
