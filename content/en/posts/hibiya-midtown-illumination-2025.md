@@ -287,12 +287,12 @@ Enjoy Tokyo's winter nights with a smart course that allows you to walk from Mar
 
 **⭐ Great travel companion, Tokyo Station Marunouchi**
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /posts/[SLUG_TBD]/ -->
+➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /posts/tokyo-station-guide/ -->
 [Tokyo Station Things to Do, from Character Street to Restaurants, Night Views, Luggage Storage Coin Lockers](#)
 
 **⭐ Great travel companion, Ginza**
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223989943826 Hugo: /posts/[SLUG_TBD]/ -->
+➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223989943826 Hugo: /posts/ginza-guide-2025/ -->
 [Ginza Must-Visit Places, Recommended Course Complete Guide (Shopping, Restaurants, Tips)](#)
 
 ## 🎄 Christmas in Tokyo 2025
@@ -317,7 +317,7 @@ Enjoy Tokyo's winter nights with a smart course that allows you to walk from Mar
 
 If you're curious about the 2024 Midtown Moana Illumination review from last year, check out the post below!
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223686466421 Hugo: /posts/[SLUG_TBD]/ -->
+➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223686466421 Hugo: /posts/hibiya-midtown-illumination-review-2024/ -->
 [View 2024 Hibiya Midtown Illumination Review](#)
 
 </div>

@@ -287,12 +287,12 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 **⭐ 一緒に旅行するのに良いおすすめコース、東京駅丸の内**
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /ja/posts/[SLUG_TBD]/ -->
+➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /ja/posts/tokyo-station-guide/ -->
 [東京駅の見どころ、キャラクターストリートからレストラン、夜景、荷物預けコインロッカー](#)
 
 **⭐ 一緒に旅行するのに良いおすすめコース、銀座**
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223989943826 Hugo: /ja/posts/[SLUG_TBD]/ -->
+➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223989943826 Hugo: /ja/posts/ginza-guide-2025/ -->
 [銀座行くべき場所、失敗しないおすすめコース完全ガイド(ショッピング、レストラン、お得情報)](#)
 
 ## 🎄 2025年東京のクリスマス
@@ -317,7 +317,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 昨年開催された2024年ミッドタウンモアナイルミネーションのレビューが気になる方は下記の投稿をご参照ください!
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223686466421 Hugo: /ja/posts/[SLUG_TBD]/ -->
+➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223686466421 Hugo: /ja/posts/hibiya-midtown-illumination-review-2024/ -->
 [2024年日比谷ミッドタウンイルミネーションレビューを見る](#)
 
 </div>
