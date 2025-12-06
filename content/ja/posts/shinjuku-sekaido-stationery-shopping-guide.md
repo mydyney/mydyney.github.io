@@ -22,10 +22,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ 新宿全体の旅行コースとグルメ・ショッピング・夜景情報を一目で見たいなら<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>新宿観光スポット完璧コース総まとめ</b></a></p>
+<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>新宿観光スポット完璧コース総まとめ</b></a></p>
 
 ## 📍 世界堂とは？
 
@@ -259,13 +256,10 @@ Gペン、スプーンペンなど
 これで会員割引と免税の比較までマスターしたので、時間・お金の両方を節約するショッピングを楽しんでください。
 
 **関連記事：**
-- <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>➡️ 新宿観光スポット完璧コース総まとめ - 新宿御苑からグルメ、ショッピング、ゴールデン街まで</b></a>
+<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>➡️ 新宿観光スポット完璧コース総まとめ - 新宿御苑からグルメ、ショッピング、ゴールデン街まで</b></a>
 - <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223693165027
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/ginza-itoya-stationery-guide/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 東京銀座代表文具店：伊東屋本店</b></a>
 
 </div>

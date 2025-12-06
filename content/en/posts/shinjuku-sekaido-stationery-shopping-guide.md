@@ -23,7 +23,7 @@ Essential travel tips at a glance.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ For complete Shinjuku travel course with restaurants, shopping, and nightlife information<br>
 ➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Travel Guide</b></a></p>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Complete Shinjuku Travel Guide</b></a></p>
 
 ## 📍 What is SEKAIDO?
 
@@ -256,10 +256,7 @@ Shinjuku SEKAIDO is the heart of Tokyo stationery shopping and a paradise for ar
 
 Now that you've mastered the comparison between membership discounts and tax-free benefits, enjoy shopping while saving both time and money.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/shinjuku-guide-2025/ -->
-<b>➡️ <a href="#" style="color: #667eea;">Complete Shinjuku Travel Guide - From Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a></b>
+<b>➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Travel Guide - From Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a></b>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223693165027
