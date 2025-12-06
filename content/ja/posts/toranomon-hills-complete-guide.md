@@ -100,7 +100,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223913830951
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/toranomon-hills-yakitori-nonotori/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>焼き鳥おまかせ、野野鳥げん長レビュー</strong></a>
 
 <figure>
@@ -208,8 +208,8 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/azabudai-hills-complete-guide/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-➡️ <a href="#" style="color: #667eea;"><strong>東京麻布台ヒルズ見どころ：展望台、グルメ、チームラボまで</strong></a>
+     Hugo: /ja/posts/azabudai-hills-complete-guide/ -->
+➡️ <a href="/ja/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><strong>東京麻布台ヒルズ見どころ：展望台、グルメ、チームラボまで</strong></a>
 
 **🚶‍♂️ 地下鉄5分！東京夜景のクラシック、六本木ヒルズ**
 地下鉄5分で「六本木ヒルズ」に到着します。
@@ -217,7 +217,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、グルメ）</strong></a>
 
 </div>

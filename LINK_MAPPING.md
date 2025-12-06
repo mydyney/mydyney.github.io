@@ -89,8 +89,6 @@ When migrating a Naver blog post to Hugo:
 | 224096781916 | omotesando-illumination-2025 | 2025-12-06 | ✅ |
 | 224095124866 | shinjuku-neon-work-illumination | 2025-12-06 | ✅ |
 | 224095118118 | tokyo-countdown-2026 | 2025-12-06 | ✅ |
-
-
 | 224034429817 | mitsui-outlet-kisarazu-guide | 2025-12-06 | ✅ |
 | 224022065518 | don-quijote-shopping-guide-2025 | 2025-09-26 | ✅ |
 | 224035271300 | shinjuku-guide-2025 | 2025-10-09 | ✅ |
@@ -259,7 +257,7 @@ declare -A MAPPINGS=(
   ["224030294691"]="harajuku-complete-guide-2025"
   ["224099089089"]="odaiba-rainbow-fireworks-2025"
   ["224096781916"]="omotesando-illumination-2025"
-  ["224024819592"]="asakusa-complete-guide-2025"
+  ["224024819592"]="asakusa-complete-guide"
   ["224096203397"]="shimokitazawa-tokyo-travel-guide"
   ["224035271300"]="shinjuku-guide-2025"
   ["223693165027"]="ginza-itoya-stationery-guide"
@@ -298,6 +296,12 @@ declare -A MAPPINGS=(
   ["223680263119"]="tokyo-station-nemuro-hanamaru-sushi-guide"
   ["224032515713"]="daikanyama-guide"
   ["224032086475"]="nakameguro-guide"
+  ["223695518100"]="tokyo-skytree-pokemon-center-review"
+  ["223697732942"]="tokyo-skytree-triton-sushi-guide"
+  ["223699626846"]="tokyo-skytree-gion-tsujiri-matcha"
+  ["223700200846"]="tokyo-skytree-illumination-guide"
+  ["223700095268"]="tokyo-skytree-free-observatory"
+  ["223913830951"]="toranomon-hills-yakitori-nonotori"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do

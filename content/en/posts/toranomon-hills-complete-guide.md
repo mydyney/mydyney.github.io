@@ -100,7 +100,7 @@ Introducing the yakitori omakase restaurant on Station Tower 4F.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223913830951
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/toranomon-hills-yakitori-nonotori/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Yakitori Omakase, Nonotori Gencho Review</strong></a>
 
 <figure>
@@ -208,7 +208,7 @@ If Toranomon Hills is the center of 'business', neighboring 'Azabudai Hills' is 
 
 <!-- TODO: Update link after migration
      Naver: /posts/azabudai-hills-complete-guide/
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-complete-guide/ -->
 ➡️ <a href="/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><strong>Tokyo Azabudai Hills Attractions: Observatory, Restaurants, teamLab</strong></a>
 
 **🚶‍♂️ 5-Minute Subway! Classic Tokyo Night Views, Roppongi Hills**
@@ -217,7 +217,7 @@ Experience another stunning Tokyo night view from 'Mori Art Museum' and 'Tokyo C
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/roppongi-attractions-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>
 
 </div>
