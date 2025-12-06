@@ -488,7 +488,7 @@ The complete recommended course for **Shinjuku attractions** covering nature, sh
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /posts/narita-express-guide/ -->
-<p><strong>➡️ <a href="/posts/narita-express-guide/" style="color: #667eea;">Narita Express (N'EX) Reservation, Price, Timetable (Round Business Discount, Seat Tips!)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Narita Express (N'EX) Reservation, Price, Timetable (Round Business Discount, Seat Tips!)</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031114514
