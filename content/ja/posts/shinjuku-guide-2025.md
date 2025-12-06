@@ -346,12 +346,12 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
     <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
         <div class="se-module se-module-image" style="flex: 1;">
             <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
-                <img src="/images/posts/shinjuku-guide-2025-oiwake-1.jpg" alt="Oiwake Dango 1" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
+                <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="Oiwake Dango 1" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
             </a>
         </div>
         <div class="se-module se-module-image" style="flex: 1;">
             <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
-                <img src="/images/posts/shinjuku-guide-2025-oiwake-2.jpg" alt="Oiwake Dango 2" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
+                <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="Oiwake Dango 2" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
             </a>
         </div>
     </div>
