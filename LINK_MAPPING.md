@@ -83,6 +83,7 @@ When migrating a Naver blog post to Hugo:
 | 224098870040 | shibuya-sushi-no-midori-lunch-guide | 2025-12-05 | ✅ |
 | 224098592756 | shibuya-blue-cave-illumination-2025 | 2025-12-06 | ✅ |
 | 224031114514 | shibuya-complete-guide-2025 | 2025-10-03 | ✅ |
+| 224030294691 | harajuku-complete-guide-2025 | 2025-10-03 | ✅ |
 
 ---
 
@@ -127,7 +128,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224031611221 | ikebukuro-complete-guide | Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage |
 | 224032086475 | nakameguro-shabushabu-lettuce-main-store | Nakameguro Complete Guide: Meguro River Cherry Blossoms, Trendy Cafes, Boutiques |
 | 224032515713 | nakameguro-shabushabu-lettuce-main-store | Daikanyama Complete Guide: T-Site Bookstore, Fashion Shops, Cafe Hopping |
-| 224030294691 | tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide | Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street |
+| ~~224030294691~~ | tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide, omotesando-complete-guide-2025, shinjuku-complete-guide-2025 | ✅ **MIGRATED** → harajuku-complete-guide-2025 |
 | 224037212344 | tokyo-autumn-foliage-best-spots-2025 | Tokyo Kichijoji Must-Visit Places: Complete Course (with Ghibli Museum) |
 | 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
 | 224019480188 | tokyo-october-festivals-2025, tokyo-autumn-foliage-best-spots-2025 | Hakone Travel Perfect Course (Hakone Free Pass & Romancecar Reservation) |
@@ -239,6 +240,7 @@ declare -A MAPPINGS=(
   ["224098870040"]="shibuya-sushi-no-midori-lunch-guide"
   ["224098592756"]="shibuya-blue-cave-illumination-2025"
   ["224031114514"]="shibuya-complete-guide-2025"
+  ["224030294691"]="harajuku-complete-guide-2025"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -259,12 +261,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 63
-- **Naver IDs Tracked:** 63
-- **Posts with Internal Links:** 27+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025)
+- **Total Posts Migrated:** 64
+- **Naver IDs Tracked:** 64
+- **Posts with Internal Links:** 28+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025)
 - **Pending References:** 52 (added 1 new reference from shibuya-blue-cave-illumination-2025: 224096781916 Omotesando Illumination)
 - **Links Updated:** 0 (all links in posts need migration)
-- **Last Migration Date:** 2025-12-06
+- **Last Migration Date:** 2025-12-06 (Harajuku guide)
 
 ---
 
