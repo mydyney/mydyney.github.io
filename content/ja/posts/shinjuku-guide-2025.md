@@ -499,6 +499,6 @@ JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**が
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224034429817
      Hugo: /ja/posts/mitsui-outlet-kisarazu-guide/ -->
-<p><strong>➡️ <a href="/ja/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">バスタ新宿出発！木更津三井アウトレットへの行き方、割引クーポン、入店ブランド</a></strong></p>
+<p><strong>➡️ <a href="/#" style="color: #667eea;">バスタ新宿出発！木更津三井アウトレットへの行き方、割引クーポン、入店ブランド</a></strong></p>
 
 </div>

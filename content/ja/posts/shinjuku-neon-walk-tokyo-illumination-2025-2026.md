@@ -324,6 +324,6 @@ Tokyo Mateでした！
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>新宿観光スポット：新宿御苑からレストラン、ショッピングまで完璧コース</strong></a>
+**➡️** <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿観光スポット：新宿御苑からレストラン、ショッピングまで完璧コース</strong></a>
 
 </div>
