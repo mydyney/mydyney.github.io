@@ -289,6 +289,13 @@ declare -A MAPPINGS=(
   ["223686466421"]="hibiya-midtown-illumination-review-2024"
   ["223979907748"]="yokohama-one-day-itinerary"
   ["223976102621"]="yokohama-minato-burari-ticket-guide"
+  ["224026098490"]="tokyo-subway-ticket-guide"
+  ["224027835049"]="omotesando-guide-2025"
+  ["224028694874"]="ueno-ameyoko-guide"
+  ["224037272726"]="tsukiji-market-restaurant-guide"
+  ["223914321510"]="sumiyaki-unafuji-yurakucho"
+  ["224042267263"]="nihonbashi-guide"
+  ["223680263119"]="tokyo-station-nemuro-hanamaru-sushi-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
