@@ -456,7 +456,7 @@ Shinjuku Station is also a key departure point for travel to Tokyo's suburbs. Yo
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
      Hugo: /posts/hakone-day-trip-course/ -->
-<p><strong>➡️ <a href="/posts/hakone-day-trip-course/" style="color: #667eea;">Hakone Day Trip vs 1 Night Perfect Course (Hakone Free Pass, Romancecar Reservation)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Hakone Day Trip vs. 2D1N Perfect Course (Hakone Freepass, Romancecar Tips)</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="Hakone">
@@ -477,7 +477,7 @@ Located 20 minutes by JR Chuo Line is Mitaka Station where **'Ghibli Museum'** i
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035533672
      Hugo: /posts/ghibli-museum-reservation-guide/ -->
-<p><strong>➡️ <a href="/posts/ghibli-museum-reservation-guide/" style="color: #667eea;">Tokyo Ghibli Museum Reservation Method</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Tokyo Ghibli Museum Reservation Method Summary</a></strong></p>
 
 <hr class="se-hr">
 
@@ -498,6 +498,6 @@ The complete recommended course for **Shinjuku attractions** covering nature, sh
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224034429817
      Hugo: /posts/mitsui-outlet-kisarazu-guide/ -->
-<p><strong>➡️ <a href="/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">Departing from Busta Shinjuku! How to get to Kisarazu Mitsui Outlet, Coupons, Brands</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Directions from Busta Shinjuku to Mitsui Outlet Park Kisarazu, Discount Coupons, Brands</a></strong></p>
 
 </div>

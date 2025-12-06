@@ -457,7 +457,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
      Hugo: /ja/posts/hakone-day-trip-course/ -->
-<p><strong>➡️ <a href="/ja/posts/hakone-day-trip-course/" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="箱根">
@@ -478,7 +478,7 @@ JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**が
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035533672
      Hugo: /ja/posts/ghibli-museum-reservation-guide/ -->
-<p><strong>➡️ <a href="/ja/posts/ghibli-museum-reservation-guide/" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
 
 <hr class="se-hr">
 
@@ -499,6 +499,6 @@ JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**が
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224034429817
      Hugo: /ja/posts/mitsui-outlet-kisarazu-guide/ -->
-<p><strong>➡️ <a href="/ja/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">バスタ新宿出発！木更津三井アウトレットへの行き方、割引クーポン、入店ブランド</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">バスタ新宿出発！木更津三井アウトレットへの行き方、割引クーポン、入店ブランド</a></strong></p>
 
 </div>
