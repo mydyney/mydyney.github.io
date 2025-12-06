@@ -235,10 +235,10 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 一日を完璧に締めくくるコースとして強くおすすめします！
 
-**➡️ <!-- Link updated -->
-[新宿の遊び場、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ](/ja/posts/shinjuku-guide-2025/)**
+➡️ <!-- Link updated -->
+[新宿の遊び場、新宿御苑からグルメ、ショッピング、ゴールデン街まで完璧コース総まとめ](/ja/posts/shinjuku-guide-2025/)
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ [東京駅の遊び場、キャラクターストリートからグルメ、夜景、荷物預かりコインロッカー](/#)**
+➡️ [東京駅の遊び場、キャラクターストリートからグルメ、夜景、荷物預かりコインロッカー](/#)
 
 </div>
