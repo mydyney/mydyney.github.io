@@ -168,12 +168,12 @@ Shinjuku is home to large outdoor shops like **'Alpen Tokyo'** and **'L-Breath'*
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224022065518
      Hugo: /posts/don-quijote-shopping-guide-2025/ -->
-<p><strong>➡️ <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">Don Quijote Shopping List, Coupons, Tax-Free Method (Chili Oil, Eye Drops, etc.)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Don Quijote Shopping List & Coupon/Tax-Free Guide (Chili Oil, Eye Drops, etc.)</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
-<p><strong>➡️ <a href="/posts/kaldi-coffee-farm-shopping-list/" style="color: #667eea;">Kaldi Shopping List: Must-Buy Recommendations (Spreads, Potion Coffee, Duty-Free Tips)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">KALDI Coffee Farm Shopping List: Must-Buy Recommendations (Curry Spread, etc.)</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
@@ -289,7 +289,7 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /posts/shinjuku-udon-guide/ -->
-<p><strong>➡️ <a href="/posts/shinjuku-udon-guide/" style="color: #667eea;">Shinjuku Udon Gourmet: Kirimugiya Jinroku Queue Tips & Recommended Menu</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Shinjuku Udon Gourmet: Kirimugiya Jinroku Queue Tips & Recommended Menu</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="Kirimugiya Jinroku Udon">
@@ -340,7 +340,7 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224068891338
      Hugo: /posts/shinjuku-oiwake-dango-honpo/ -->
-<p><strong>➡️ <a href="/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">Tokyo's Representative Dango Shop with 300 Years of Tradition ↗</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Tokyo's Representative Dango Shop with 300 Years of Tradition ↗</a></strong></p>
 
 <div class="se-component se-imageGroup se-l-collage" id="SE-d8d48a2c-974d-4432-be89-2cd2e055d13c">
     <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">

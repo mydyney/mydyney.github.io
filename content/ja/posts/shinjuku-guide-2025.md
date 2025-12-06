@@ -168,12 +168,12 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224022065518
      Hugo: /ja/posts/don-quijote-shopping-guide-2025/ -->
-<p><strong>➡️ <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">ドン・キホーテ 買い物リスト＆クーポン・免税方法（ラー油、目薬など）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">ドン・キホーテ 買い物リスト＆クーポン・免税方法（ラー油、目薬など）</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-<p><strong>➡️ <a href="/ja/posts/kaldi-coffee-farm-shopping-list/" style="color: #667eea;">カルディ（KALDI）買い物リスト：絶対買うべきおすすめ品（塗るカレー、ポーションコーヒー等）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">カルディ（KALDI）買い物リスト：絶対買うべきおすすめ品（塗るカレー、ポーションコーヒー等）</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
@@ -289,7 +289,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /ja/posts/shinjuku-udon-guide/ -->
-<p><strong>➡️ <a href="/ja/posts/shinjuku-udon-guide/" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="切麦や 甚六 うどん">
@@ -340,7 +340,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224068891338
      Hugo: /ja/posts/shinjuku-oiwake-dango-honpo/ -->
-<p><strong>➡️ <a href="/ja/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">創業300年を誇る東京・新宿の代表的な団子店「追分だんご本舗」↗</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">創業300年を誇る東京・新宿の代表的な団子店「追分だんご本舗」↗</a></strong></p>
 
 <div class="se-component se-imageGroup se-l-collage" id="SE-d8d48a2c-974d-4432-be89-2cd2e055d13c">
     <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
