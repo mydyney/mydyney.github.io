@@ -85,6 +85,7 @@ When migrating a Naver blog post to Hugo:
 | 224031114514 | shibuya-complete-guide-2025 | 2025-10-03 | ✅ |
 | 224030294691 | harajuku-complete-guide-2025 | 2025-10-03 | ✅ |
 | 224099089089 | odaiba-rainbow-fireworks-2025 | 2025-12-06 | ✅ |
+| 224096781916 | omotesando-illumination-2025 | 2025-12-06 | ✅ |
 
 ---
 
@@ -243,6 +244,7 @@ declare -A MAPPINGS=(
   ["224031114514"]="shibuya-complete-guide-2025"
   ["224030294691"]="harajuku-complete-guide-2025"
   ["224099089089"]="odaiba-rainbow-fireworks-2025"
+  ["224096781916"]="omotesando-illumination-2025"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do

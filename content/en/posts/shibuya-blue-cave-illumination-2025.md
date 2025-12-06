@@ -192,17 +192,13 @@ Unlike the glamorous chandelier-like Roppongi, Shibuya Blue Cave was charming fo
 
 🚶 Daytime at **Shibuya Sky** → Evening finish at Blue Cave
 
-**➡️**
-<!-- Link updated -->
-<a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky Perfect Course from Reservations to Shopping and Restaurants</strong></a>
+**➡️** <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky Perfect Course from Reservations to Shopping and Restaurants</strong></a>
 
 🚶 Omotesando/Harajuku Shopping **→ Omotesando Illumination → Shibuya Blue Cave (Walking)**
 
 **➡️** <a href="/posts/omotesando-complete-guide/"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture</strong></a>
 
-**➡️**
-<!-- Link updated -->
-<a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a>
+**➡️** <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a>
 
 ---
 
@@ -214,9 +210,7 @@ Unlike the glamorous chandelier-like Roppongi, Shibuya Blue Cave was charming fo
 
 ### 🌟 Omotesando & Harajuku Christmas
 
-**➡️**
-<!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224096781916" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
+**➡️** <a href="/posts/omotesando-illumination-2025/" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
 
 ### 🌟 Meiji Jingu Gaien Christmas
 
