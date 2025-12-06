@@ -118,10 +118,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 
 - **コスチュームはどこで？** 急いでコスチュームが必要なら**「ドン・キホーテ」**で様々な衣装と小物を販売しています。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>2025年日本ドン・キホーテショッピングリスト（ハロウィンコスチューム準備！）</strong></a>**
+**➡️ <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>2025年日本ドン・キホーテショッピングリスト（ハロウィンコスチューム準備！）</strong></a>**
 
 - **撮影はマナーを守って！** 素敵なコスプレイヤーを撮影したい時は必ず「写真撮ってもいいですか？」と先に許可を求めるのが基本マナーです。
 
@@ -152,12 +149,12 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/omotesando-guide-2025/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>表参道完璧ガイド（パンプキンパレードと一緒に楽しむ）</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>六本木完璧ガイド（ハロウィンスタンプラリーと一緒に楽しむ）</strong></a>**
 
 </div>

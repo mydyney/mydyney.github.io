@@ -118,10 +118,7 @@ Roppongi Hills Halloween is a 'stamp rally' format using the 'Hills App'. It's a
 
 - **Where to Get Costumes?** If you need a costume urgently, **'Don Quijote'** sells various outfits and props.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="/posts/ikebukuro-complete-guide/" style="color: #667eea;"><strong>2025 Japan Don Quijote Shopping List (Halloween Costume Prep!)</strong></a>**
+**➡️ <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>2025 Japan Don Quijote Shopping List (Halloween Costume Prep!)</strong></a>**
 
 - **Be Courteous When Taking Photos!** When you want to photograph awesome cosplayers, it's basic etiquette to first ask permission: "May I take a photo? (Shashin totte mo ii desu ka? 写真撮ってもいいですか?)"
 
@@ -152,12 +149,12 @@ As the hot Halloween festivities wind down at the end of October, Tokyo welcomes
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/omotesando-guide-2025/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide (Enjoy with Pumpkin Parade)</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/roppongi-attractions-guide/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>Roppongi Complete Guide (Enjoy with Halloween Stamp Rally)</strong></a>**
 
 </div>
