@@ -35,7 +35,7 @@ Shinjuku Gyoen is the heart of the "Shinjuku Morning Course."
 **⭐ Want to see Shinjuku's full-day itinerary at a glance?**
 
 **➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Complete Shinjuku Activities Guide ↗</a>**
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Activities Guide ↗</a>**
 
 ---
 
@@ -443,7 +443,7 @@ Shinjuku Gyoen is like a "Shinjuku morning course hub."
 To make your Shinjuku itinerary richer, combine it with the articles below.
 
 **🌿 Full Shinjuku day course:** <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Complete Shinjuku Activities Guide↗</a>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Activities Guide↗</a>
 
 **🏙 Night view:** <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building free observation deck light show & Shinjuku night view tips↗</a>
 
