@@ -178,7 +178,7 @@ Perfect for electronics shopping.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
 **✅ <a href="#" style="color: #667eea;">Use Seibu, Don Quijote, Bic Camera, Yamada Denki Discount Coupons</a>**
 
 ---
@@ -329,7 +329,7 @@ You can travel directly on the Yamanote Line.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/shinjuku-guide-2025/ -->
 **➡️ <a href="#" style="color: #667eea;">Shinjuku Attractions - From Shinjuku Gyoen to Restaurants and Shopping</a>**
 
 <!-- TODO: Update link after migration
@@ -343,7 +343,7 @@ Yamanote Line in the opposite direction from Shinjuku!
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/ueno-ameyoko-guide/ -->
 **➡️ <a href="#" style="color: #667eea;">Ueno Attractions - From Ameyoko Market and Restaurants to Ueno Park</a>**
 
 **🚇 Marunouchi Line 16 minutes!**
@@ -352,7 +352,7 @@ You can travel with a subway pass.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/tokyo-station-guide/ -->
 **➡️ <a href="#" style="color: #667eea;">Tokyo Station Attractions - Character Street, Restaurants, Night Views, Luggage Storage Lockers</a>**
 
 </div>

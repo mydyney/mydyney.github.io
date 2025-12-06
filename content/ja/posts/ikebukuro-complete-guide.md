@@ -178,7 +178,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
 **✅ <a href="#" style="color: #667eea;">西武、ドン・キホーテ、ビックカメラ、ヤマダ電機割引クーポン利用</a>**
 
 ---
@@ -311,8 +311,8 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-halloween-festivals-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">2025年東京ハロウィン祭名所BEST 4(池袋)</a>**
+     Hugo: /ja/posts/tokyo-halloween-festivals-2025/ -->
+**➡️ <a href="/ja/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025年東京ハロウィン祭名所BEST 4(池袋)</a>**
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-20.jpg" alt="池袋ハロウィンコスプレフェスティバル">
@@ -329,13 +329,10 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/shinjuku-guide-2025/ -->
 **➡️ <a href="#" style="color: #667eea;">新宿観光スポット - 新宿御苑からグルメ、ショッピングまで</a>**
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shibuya-complete-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">渋谷観光スポット - 渋谷スカイ予約からグルメまで</a>**
+**➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷観光スポット - 渋谷スカイ予約からグルメまで</a>**
 
 **🚇 JR山手線20分！**
 **伝統の街：上野**
@@ -343,7 +340,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/ueno-ameyoko-guide/ -->
 **➡️ <a href="#" style="color: #667eea;">上野観光スポット - アメ横市場、グルメから上野公園まで</a>**
 
 **🚇 丸ノ内線16分！**
@@ -352,7 +349,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/tokyo-station-guide/ -->
 **➡️ <a href="#" style="color: #667eea;">東京駅観光スポット - キャラクターストリート、グルメ、夜景、荷物保管ロッカー</a>**
 
 </div>
