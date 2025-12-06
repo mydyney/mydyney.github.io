@@ -235,8 +235,13 @@ After shopping at Kisarazu Outlet, how about enjoying the spectacular night view
 
 Highly recommended as the perfect way to end your day!
 
-**➡️ [Shinjuku Things to Do: Complete course from Shinjuku Gyoen to restaurants, shopping, and Golden Gai](https://blog.naver.com/tokyomate/224035271300)**
+**➡️ <!-- Link updated -->
+[Shinjuku Things to Do: Complete course from Shinjuku Gyoen to restaurants, shopping, and Golden Gai](/posts/shinjuku-guide-2025/)**
 
-**➡️ [Tokyo Station Things to Do: From Character Street to restaurants, night views, and coin lockers for luggage storage](https://blog.naver.com/tokyomate/224031611221)**
+**➡️ <!-- Link updated -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031611221
+     Hugo: /posts/[SLUG_TBD]/ -->
+[Tokyo Station Things to Do: From Character Street to restaurants, night views, and coin lockers for luggage storage](#)**
 
 </div>
