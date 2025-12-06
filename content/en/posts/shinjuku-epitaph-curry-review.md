@@ -18,10 +18,8 @@ Shinjuku keema curry and Nakamuraya·Gyutan curry·soup curry restaurant compari
 Menu·prices·business hours all summarized at once.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐Want to see Shinjuku's complete travel course and restaurant·shopping·night view information at a glance?<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Complete Shinjuku Course Summary</b></a></p>
+➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Course Summary</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-01.jpg" alt="Shinjuku curry restaurant Epitaph half-and-half curry Tabelog top 100">
@@ -285,10 +283,8 @@ if you're curious about more things to do and shopping information around Shinju
 
 please check out the **complete Shinjuku course guide** below!
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Shinjuku Things to Do: Complete Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Shinjuku Things to Do: Complete Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>**
 
 **➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show Times, Access, Closed Days, Shinjuku Night View Complete Tips</b></a>**
 

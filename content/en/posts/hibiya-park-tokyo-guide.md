@@ -241,7 +241,7 @@ Japan's representative gardening and flower market event held from October 18 (S
 The Christmas market formerly held at Hibiya Park has moved to Meiji Jingu Gaien and Shiba Park as of 2025.
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224086214573
+     Naver: /posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Cup Benefits</strong></a>
 
@@ -263,7 +263,7 @@ If you have any questions during your trip, feel free to leave a comment anytime
 ## 🧡 Related Hibiya Park Travel Guides
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076762296
+     Naver: /posts/hibiya-midtown-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Tokyo Midtown Hibiya Illumination · Zootopia 2 Collaboration</strong></a>
 

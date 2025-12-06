@@ -109,10 +109,8 @@ The star of Tokyo's 2025 Christmas. **'Christmas Advent'**, Japan's largest Chri
 **⏰ Hours: Daily 12:00 PM - 10:30 PM**
 **📍 Location: <a href="https://maps.app.goo.gl/n5upeajDoPH8BKf28" target="_blank">Ueno Onshi Park</a>, Hakamakoshi Plaza**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224084373557
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ [Essential Guide] 2025 Tokyo Ueno Christmas Market: Dates, Hours, Illumination, Free Admission & Access Guide</strong></a>
+<!-- Link updated -->
+<a href="/posts/ueno-christmas-market-2025/" style="color: #667eea;"><strong>➡️ [Essential Guide] 2025 Tokyo Ueno Christmas Market: Dates, Hours, Illumination, Free Admission & Access Guide</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-02.jpg" alt="Stunning night view of Fukuoka Christmas Market coming to Ueno in 2025">
@@ -134,10 +132,8 @@ The **'Original Commemorative Mug'** that's hugely popular every year in Fukuoka
 **☀️ What to Do During the Day?**
 Ueno Park, where the market is held, is home to Japan's top cultural facilities including **Tokyo National Museum** and **National Museum of Western Art**. We recommend exploring the museums during the day, then heading to the Christmas market in the evening.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Complete Course from Ameyoko Market to Park</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224028694874" style="color: #667eea;"><strong>➡️ Ueno Attractions: Complete Course from Ameyoko Market to Park</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-04.jpg" alt="Ueno Ameyoko Market, great for daytime visits">
@@ -154,10 +150,8 @@ Now in its 19th year as a symbol of Tokyo illumination. Roppongi Hills Christmas
 
 **📍 Want detailed info on the 10 booth menus, glühwein, and original mugs at Roppongi Hills Market?**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085358394
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ [Essential Detailed Guide] 2025 Roppongi Hills Christmas Market: Dates, Hours, Location, Original Mugs Complete Guide</strong></a>
+<!-- Link updated -->
+<a href="/posts/roppongi-hills-christmas-market-2025/" style="color: #667eea;"><strong>➡️ [Essential Detailed Guide] 2025 Roppongi Hills Christmas Market: Dates, Hours, Location, Original Mugs Complete Guide</strong></a>
 
 **🗓️ Dates: November 22 (Sat) - December 25 (Thu), 2025**
 **⏰ Hours: 11:00 AM - 9:00 PM**
@@ -202,17 +196,13 @@ Before the illumination lights up, we recommend visiting the 'Evangelion 30th An
 
 <a href="/posts/evangelion-30th-roppongi-2025/" style="color: #667eea;"><strong>➡️ Evangelion 30th Anniversary Exhibition at Roppongi Hills Tokyo City View (ALL OF EVANGELION)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Complete Guide to Roppongi Attractions (Illumination, Restaurant Info)</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223988228389" style="color: #667eea;"><strong>➡️ Complete Guide to Roppongi Attractions (Illumination, Restaurant Info)</strong></a>
 
 **✅ View detailed info on 10 booth menus, glühwein, and mugs at the Christmas Market**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085358394
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025 Roppongi Hills Christmas Market: Dates, Hours, Location, Original Mugs Complete Guide</strong></a>
+<!-- Link updated -->
+<a href="/posts/roppongi-hills-christmas-market-2025/" style="color: #667eea;"><strong>➡️ 2025 Roppongi Hills Christmas Market: Dates, Hours, Location, Original Mugs Complete Guide</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-08.jpg" alt="Roppongi Hills City View observatory with Evangelion 30th Anniversary Exhibition">
@@ -264,15 +254,11 @@ If you have time, also check out another Christmas event at 'Yokohama Park' just
 **🌃 Recommended Connected Course**
 This is a perfect day trip course from Tokyo. We recommend exploring **'Chinatown'** or **'Minato Mirai'** during the day, then heading to the Christmas market in the evening.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Yokohama 1-Day Course: Chinatown Restaurants, Akarenga Soko, Night View Complete Guide</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223979907748" style="color: #667eea;"><strong>➡️ Yokohama 1-Day Course: Chinatown Restaurants, Akarenga Soko, Night View Complete Guide</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Yokohama All-Day Transportation Pass: Minato Burari Ticket</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223976102621" style="color: #667eea;"><strong>➡️ Yokohama All-Day Transportation Pass: Minato Burari Ticket</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-11.jpg" alt="Colorful entrance of Yokohama Chinatown, great for daytime visits">
@@ -287,10 +273,8 @@ This is a perfect day trip course from Tokyo. We recommend exploring **'Chinatow
 
 A new hotspot that successfully completed its first Christmas in 2024. The market in the spacious central plaza is less crowded than other places while offering the best night view spot with **Tokyo Tower right in front of you**.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085135200
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ [Essential Detailed Guide] 2025 Azabudai Hills Christmas Market (Dates, Hours, Access, All 17 Booths Complete Guide)</strong></a>
+<!-- Link updated -->
+<a href="/posts/azabudai-hills-christmas-market-2025/" style="color: #667eea;"><strong>➡️ [Essential Detailed Guide] 2025 Azabudai Hills Christmas Market (Dates, Hours, Access, All 17 Booths Complete Guide)</strong></a>
 
 **🗓️ Dates: November 22 (Sat) - December 25 (Thu), 2025**
 **⏰ Hours: 11:00 AM - 9:00 PM**
@@ -319,15 +303,11 @@ A massive fir tree glowing warmly in champagne gold lighting stands in the centr
 **☀️ What to Do During the Day?**
 Before the market opens, we recommend experiencing fantastic media art at Azabudai Hills' other attraction **'teamLab Borderless'**, or enjoying Tokyo's panoramic view at the **'Sky Room'** observatory cafe.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills teamLab Borderless, Museum Without Maps</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223672616108" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills teamLab Borderless, Museum Without Maps</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills Observatory Cafe Sky Room: Sunset & Night Views</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223716380927" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills Observatory Cafe Sky Room: Sunset & Night Views</strong></a>
 
 <div class="image-group-2">
   <figure>
@@ -383,10 +363,8 @@ The Tembo Deck at 350m and Tembo Galleria at 450m are decorated with Christmas t
 **☀️ What to Do During the Day?**
 Before the market opens, we recommend exploring **'Tokyo Solamachi'** shopping mall right below Skytree, or combining it with a stroll through **Asakusa's** Sensoji Temple and Nakamise-dori across the river.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Asakusa Attractions & Restaurant Complete Guide</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224024819592" style="color: #667eea;"><strong>➡️ Tokyo Asakusa Attractions & Restaurant Complete Guide</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-18.jpg" alt="Kaminarimon at Asakusa Sensoji, great to visit together during daytime">
@@ -416,10 +394,8 @@ The 'Tokyo Christmas Market' carrying on the legacy of the former Hibiya Park ma
 
 ※ For detailed info on admission prices, advance booking, mug perks, VIP rooms, and more, see the detailed guide below.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224086214573
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025 Meiji Jingu Gaien Christmas Market: Tickets, Prices, Hours, Mug Benefits Complete Guide</strong></a>
+<!-- Link updated -->
+<a href="/posts/meiji-jingu-gaien-christmas-market-2025/" style="color: #667eea;"><strong>➡️ 2025 Meiji Jingu Gaien Christmas Market: Tickets, Prices, Hours, Mug Benefits Complete Guide</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-19.jpg" alt="2025 Meiji Jingu Gaien Christmas Market pyramid">
@@ -449,15 +425,11 @@ A massive 14m-tall 'Christmas Pyramid' will be installed. (World's first with 2 
 **☀️ What to Do During the Day?**
 Before the market opens, we recommend shopping and cafe hopping in nearby **'Omotesando'**, or heading to **'Shinjuku'** for a stroll through Shinjuku Gyoen.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Omotesando Complete Guide (Coffee, Shopping, Restaurants)</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224027835049" style="color: #667eea;"><strong>➡️ Omotesando Complete Guide (Coffee, Shopping, Restaurants)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><strong>➡️ Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping</strong></a>
 
 ---
 
@@ -550,10 +522,8 @@ At Clock Plaza, **'The Westin Tokyo'** operates its own food truck. Enjoy high-q
 **☀️ What to Do During the Day?**
 Before the illumination starts, we recommend enjoying beer tasting at the **'Yebisu Beer Museum (Yebisu Brewery Tokyo)'** right next door, or having lunch at one of the stylish surrounding restaurants.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032769630
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Ebisu Must-Visit Spots: From Garden Place to Beer Museum</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224032769630" style="color: #667eea;"><strong>➡️ Ebisu Must-Visit Spots: From Garden Place to Beer Museum</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-29.jpg" alt="Yebisu Brewery Tokyo beer inside Ebisu Garden Place, great for daytime visits">
@@ -568,31 +538,23 @@ We hope this guide helps you find the perfect place that matches your taste and 
 
 **🎄 For the best Tokyo 'illumination' spots to enhance your Christmas market experience, check the article below!**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5</strong></a>
+<!-- Link updated -->
+<a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5</strong></a>
 
 **⭐ Related Articles**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Department Stores, etc.)</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224039113760" style="color: #667eea;"><strong>➡️ Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Department Stores, etc.)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025 Japan Don Quijote Shopping List Must-Haves & Tax-Free Guide</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224022065518" style="color: #667eea;"><strong>➡️ 2025 Japan Don Quijote Shopping List Must-Haves & Tax-Free Guide</strong></a>
 
 <h2>🍁 Wait! Traveling Late November to Early December?</h2>
 
 'Christmas illumination/markets' perfectly overlap with Tokyo's peak autumn foliage season!
 Plan a perfect itinerary enjoying romantic autumn leaves during the day and sparkling Christmas at night!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038071853
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots</strong></a>
+<!-- Link updated -->
+<a href="/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots</strong></a>
 
 </div>

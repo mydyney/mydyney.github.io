@@ -267,7 +267,7 @@ echo "Link conversion complete!"
 - **Naver IDs Tracked:** 65
 - **Posts with Internal Links:** 29+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025)
 - **Pending References:** 51 (removed 1: 223690406760 migrated to odaiba-rainbow-fireworks-2025)
-- **Links Updated:** 0 (all links in posts need migration)
+- **Links Updated:** Batch update ran on 2025-12-06 (Updated 65+ posts)
 - **Last Migration Date:** 2025-12-06 (Odaiba Rainbow Fireworks 2025)
 
 ---

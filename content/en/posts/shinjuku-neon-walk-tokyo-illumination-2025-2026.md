@@ -33,7 +33,7 @@ However! If you're visiting the Tokyo Metropolitan Government Building observati
 
 Today, based on official information, I'll summarize the **Shinjuku illumination course that you can thoroughly enjoy together with the Tokyo Metropolitan Government Building without disappointment**. ✨
 
-**➡️** <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank" style="color: #667eea;"><strong>Tokyo Metropolitan Government Free Observatory Light Show Times, Access, Closed Days & Night View Tips</strong></a>
+**➡️** <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank" style="color: #667eea;"><strong>Tokyo Metropolitan Government Free Observatory Light Show Times, Access, Closed Days & Night View Tips</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-02.jpg" alt="Tokyo Metropolitan Government Building light show at night">
@@ -317,7 +317,7 @@ That's all from Tokyo Mate!
 ## 🧡 Related Shinjuku Travel Guides
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224068585112
+     Naver: /posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison (2025 Latest Edition)</strong></a>
 

@@ -257,7 +257,7 @@ Essential for clothing, luxury goods, and sundries shopping! Most issue **5% dis
 
 **3. Narita Airport Terminal 1 (ANA Duty Free)**
 
-<a href="https://blog.naver.com/tokyomate/224064132817" target="_blank" style="color: #667eea;"><strong>➡️ Narita Airport Terminal 1 Duty Free 5% Discount Coupon: Whisky, Sake, Perfume Shopping List Complete Guide</strong></a>
+<a href="/posts/narita-airport-terminal1-duty-free-coupon-guide/" target="_blank" style="color: #667eea;"><strong>➡️ Narita Airport Terminal 1 Duty Free 5% Discount Coupon: Whisky, Sake, Perfume Shopping List Complete Guide</strong></a>
 
 <figure>
   <img src="/images/posts/japan-travel-discount-coupons-2025-05.jpg" alt="Ginza LOTTE Duty Free discount coupon">
@@ -344,6 +344,6 @@ The more you know, the more you save - **Japan travel discount coupons!** Just t
 
 ➡️ <a href="https://blog.naver.com/tokyomate/224033964477" target="_blank" style="color: #667eea;"><strong>Japan KALDI Shopping List, Must-Buy KALDI Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
 
-➡️ <a href="https://blog.naver.com/tokyomate/224050488006" target="_blank" style="color: #667eea;"><strong>Complete Guide to Japanese Convenience Stores! (7-Eleven, FamilyMart, Lawson Comparison)</strong></a>
+➡️ <a href="/posts/japan-convenience-store-shopping-best-10/" target="_blank" style="color: #667eea;"><strong>Complete Guide to Japanese Convenience Stores! (7-Eleven, FamilyMart, Lawson Comparison)</strong></a>
 
 </div>

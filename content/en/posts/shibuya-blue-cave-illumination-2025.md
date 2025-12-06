@@ -110,10 +110,8 @@ I really loved starting with the **Omotesando Illumination first, then walking**
 3. Walk slowly along the edge of Yoyogi Park, and suddenly the **blue zelkova tree tunnel with branches meeting overhead** unfolds before you
 
 **➡️ [Related Article]**
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224096781916
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224096781916" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-05.jpg" alt="Golden lights of Omotesando Illumination 2025 street view connecting to Shibuya Blue Cave">
@@ -195,20 +193,16 @@ Unlike the glamorous chandelier-like Roppongi, Shibuya Blue Cave was charming fo
 🚶 Daytime at **Shibuya Sky** → Evening finish at Blue Cave
 
 **➡️**
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Shibuya Sky Perfect Course from Reservations to Shopping and Restaurants</strong></a>
+<!-- Link updated -->
+<a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky Perfect Course from Reservations to Shopping and Restaurants</strong></a>
 
 🚶 Omotesando/Harajuku Shopping **→ Omotesando Illumination → Shibuya Blue Cave (Walking)**
 
 **➡️** <a href="/posts/omotesando-complete-guide/"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture</strong></a>
 
 **➡️**
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224030294691
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a>
+<!-- Link updated -->
+<a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a>
 
 ---
 
@@ -221,10 +215,8 @@ Unlike the glamorous chandelier-like Roppongi, Shibuya Blue Cave was charming fo
 ### 🌟 Omotesando & Harajuku Christmas
 
 **➡️**
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224096781916
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224096781916" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
 
 ### 🌟 Meiji Jingu Gaien Christmas
 

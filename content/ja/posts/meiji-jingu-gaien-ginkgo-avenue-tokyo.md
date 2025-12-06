@@ -199,7 +199,7 @@ A：イチョウ並木は「青山」地域にあります。「表参道」と�
 - **渋谷** → スカイ展望台・ショッピングルート
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>渋谷の見どころ：渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong></a>
 
@@ -229,7 +229,7 @@ A：イチョウ並木は「青山」地域にあります。「表参道」と�
 **🍂 東京を代表する美しい紅葉スポット BEST5**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038071853
+     Naver: /ja/posts/tokyo-autumn-foliage-best-spots-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025年東京紅葉時期＆おすすめスポット BEST 5（見頃時期、ライトアップ情報完全ガイド）</strong></a>
 

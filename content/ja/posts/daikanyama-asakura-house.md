@@ -235,11 +235,11 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 <a href="#" style="color: #667eea;"><b>（代官山から徒歩10分）</b></a><br>
 <b>​</b><br>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 渋谷完全活動ガイド</b></a><br>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><b>（代官山から地下鉄3分）</b></a></p>
 

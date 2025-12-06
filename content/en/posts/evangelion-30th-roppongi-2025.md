@@ -272,10 +272,8 @@ A: No, the goods shop is located along the exit route after viewing the exhibiti
 </div>
 
 <p><strong>⭐ Need detailed directions to Roppongi Hills and coin locker information?</strong><br>
-<strong>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681272647
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">How to Get to Roppongi Hills and Coin Locker Locations</a></strong></p>
+<strong>➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223681272647" style="color: #667eea;">How to Get to Roppongi Hills and Coin Locker Locations</a></strong></p>
 
 <div class="image-group-2">
   <figure>
@@ -296,22 +294,16 @@ A: No, the goods shop is located along the exit route after viewing the exhibiti
 <h3>⭐ Related Roppongi Travel Guides</h3>
 
 <p><strong>🤖 Want to know more about Roppongi Hills Observatory where the Evangelion exhibition is held?</strong><br>
-<strong>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223987954990
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">2025 Roppongi Hills Observatory Complete Guide (Discount Tickets, Closed Days)</a></strong></p>
+<strong>➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223987954990" style="color: #667eea;">2025 Roppongi Hills Observatory Complete Guide (Discount Tickets, Closed Days)</a></strong></p>
 
 <p><strong>🤖 At Roppongi and curious about all attractions?</strong><br>
-<strong>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</a></strong></p>
+<strong>➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223988228389" style="color: #667eea;">Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</a></strong></p>
 
 <p><strong>🤖 Need a Tabelog-verified Roppongi restaurant map?</strong><br>
-<strong>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223993881300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Tokyo Roppongi Restaurant Map - Michelin & Tabelog Recommendations</a></strong></p>
+<strong>➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223993881300" style="color: #667eea;">Tokyo Roppongi Restaurant Map - Michelin & Tabelog Recommendations</a></strong></p>
 
 <p><strong>🤖 Curious about Roppongi Hills Christmas events?</strong><br>
 <strong>➡️ <a href="/posts/roppongi-christmas-illumination-2025/" target="_blank">Roppongi Illumination 2025 - Period, Lighting Times, Must-See Spots Complete Guide</a></strong></p>

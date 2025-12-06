@@ -18,10 +18,8 @@ photo spots, food trucks, and how to get there from Ueno Station.<br>
 Don't miss the beautiful lights and Santa photo zone!</p>
 
 <p style="text-align: center;"><strong>⭐ Want all Tokyo Christmas Market info?</strong><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where Should You Go?</strong></a></p>
+<!-- Link updated -->
+<a href="/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where Should You Go?</strong></a></p>
 
 <figure>
   <img src="/images/posts/ueno-christmas-market-2025-01.jpg" alt="Ueno Christmas Market 2025 night view">
@@ -253,7 +251,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 
 <p><strong>🌟 2025 Tokyo Christmas Markets Summary</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /posts/tokyo-christmas-markets-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where to Go? (Roppongi, Skytree, etc.)</strong></a></p>
 
@@ -268,7 +266,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 
 <p><strong>🌟 Nov 13 Start: Tokyo Marunouchi Illumination</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ Tokyo Marunouchi Illumination 2025 Complete Guide</strong></a></p>
 
@@ -280,7 +278,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 
 <p><strong>🌟 Nov 17 Start: Tokyo Dome City Illumination</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224083451617
+     Naver: /posts/tokyo-dome-city-christmas-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Dome City Illumination Complete Guide</strong></a></p>
 

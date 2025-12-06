@@ -219,7 +219,7 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
 ## 🧡 Related Shimbashi Travel Guides
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224044938913
+     Naver: /posts/shinbashi-shiodome-evening-course/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Tokyo Shimbashi & Shiodome Must-Visit Places: Evening Course Walking Through Past and Future (Restaurants, Night Views)</strong></a>
 
@@ -241,7 +241,7 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
 **➡️** <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List, Must-Buy Kaldi Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224050488006
+     Naver: /posts/japan-convenience-store-shopping-best-10/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Japan Convenience Store Shopping List Fail-Proof BEST 10 (7-Eleven, Family Mart, Lawson Comparison)</strong></a>
 

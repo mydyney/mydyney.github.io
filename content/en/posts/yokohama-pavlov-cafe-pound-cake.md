@@ -183,7 +183,7 @@ From basic plain croissants, to 'meal croissants' prepared like cooking, to jewe
 ### 🚶‍♂️ 5-Minute Walk! Gourmet Paradise, Yokohama Chinatown
 
 If you've had sweet desserts, now it's time to taste savory dim sum or mapo tofu in 'Chinatown'!
-**➡️ [Chinatown Restaurant 'Keitokuchin' (Mapo Tofu)](https://blog.naver.com/tokyomate/224052237062)**
+**➡️ [Chinatown Restaurant 'Keitokuchin' (Mapo Tofu)](/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
 
 ### 🚶‍♂️ 10-Minute Akaishutsu Bus! Romantic Waterfront, Akarenga Warehouse
 

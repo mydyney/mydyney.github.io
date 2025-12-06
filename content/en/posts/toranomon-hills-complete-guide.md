@@ -207,7 +207,7 @@ There's also a small shop selling 'Toranomon' character merchandise next to the 
 If Toranomon Hills is the center of 'business', neighboring 'Azabudai Hills' is the center of 'tourism'. Combine both Hills to conquer Tokyo's latest architecture and culture in one day!
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224047575500
+     Naver: /posts/azabudai-hills-complete-guide/
      Hugo: /posts/[SLUG_TBD]/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills Attractions: Observatory, Restaurants, teamLab</strong></a>
 

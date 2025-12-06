@@ -361,12 +361,12 @@ Even first-time visitors to Shinjuku gacha (gashapon) will find this guide suffi
 ## 🧡 Related Shinjuku Travel Guides
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224073290696
+     Naver: /posts/shinjuku-luggage-storage/
      Hugo: /posts/[SLUG_TBD]/ -->
 - **No more luggage worries!** **➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Station Luggage Storage 100% Success Guide, Coin Locker Locations & Tips</strong></a>**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224089448937
+     Naver: /posts/shinjuku-station-breakfast-best-8/
      Hugo: /posts/[SLUG_TBD]/ -->
 - **Opens at 7 AM for breakfast!** **➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Station Breakfast 7-8 AM Opening, Brunch & Home-style Meals</strong></a>**
 
@@ -376,17 +376,17 @@ Even first-time visitors to Shinjuku gacha (gashapon) will find this guide suffi
 - **Itinerary Planning** **➡️ <a href="#" style="color: #667eea;"><strong>Complete Shinjuku Guide: Restaurants, Shopping & Activities Course</strong></a>**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224070032613
+     Naver: /posts/shinjuku-gyoen-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 - **Autumn Picnic** ➡️ **<a href="#" style="color: #667eea;"><strong>Shinjuku Gyoen Admission, Hours, Starbucks & Picnic Guide</strong></a>**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224062023485
+     Naver: /posts/tokyo-metropolitan-govt-observatory/
      Hugo: /posts/[SLUG_TBD]/ -->
 - **Free Night View** **➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Free Observatory Access & Night View Tips</strong></a>**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224068585112
+     Naver: /posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /posts/[SLUG_TBD]/ -->
 - **Shinjuku Nights ➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Comparison</strong></a>**
 

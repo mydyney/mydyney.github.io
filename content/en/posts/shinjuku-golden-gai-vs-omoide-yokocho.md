@@ -17,10 +17,8 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 2025 Shinjuku night guide with yakitori restaurants, Ramen Nagi, and solo drinking tips.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐Want to see the complete Shinjuku travel course with restaurants, shopping, and night views at a glance?<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Complete Shinjuku Guide ↗</b></a></p>
+➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Guide ↗</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg" alt="Shinjuku Omoide Yokocho vs Golden Gai solo drinking comparison">
@@ -267,10 +265,8 @@ But depending on your travel style, you'll experience completely different 'Shin
 
 **📌 Related Shinjuku Travel Guides**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Complete Shinjuku Course Guide ↗</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Complete Shinjuku Course Guide ↗</a>**
 
 **➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Free Observatory Light Show Tips ↗</a>**
 

@@ -26,7 +26,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   <p><strong>🎄 クリスマスマーケット情報をお探しですか？</strong></p>
   <p>上野、六本木、横浜など、クリスマスマーケット専門ガイドをご覧ください！</p>
   <!-- TODO: Update link after migration
-       Naver: https://blog.naver.com/tokyomate/224045496649
+       Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
        Hugo: /ja/posts/[SLUG_TBD]/ -->
   <p><a href="#" style="color:#667eea;"><strong>➡️ 2025年東京クリスマスマーケット完全ガイド</strong></a></p>
 </div>
@@ -284,7 +284,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 <p>イルミネーションと一緒に楽しむべきクリスマスの花、「クリスマスマーケット」情報は下記の「マーケット専門ガイド」で完璧にまとめています！今年新しくオープンする上野公園情報もお見逃しなく！</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2025年東京クリスマスマーケット、どこに行く？（上野、六本木、横浜など完全ガイド）</strong></a></p>
 
@@ -293,7 +293,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 <p>「クリスマスイルミネーション/マーケット」は東京の紅葉ピーク時期と完璧に重なります！昼はロマンチックな紅葉を、夜はキラキラ輝くクリスマスを楽しむ完璧なコースを計画してみてください！</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038071853
+     Naver: /ja/posts/tokyo-autumn-foliage-best-spots-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2025年東京紅葉時期＆おすすめ名所 BEST 5</strong></a></p>
 

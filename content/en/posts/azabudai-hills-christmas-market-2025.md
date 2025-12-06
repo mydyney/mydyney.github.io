@@ -18,10 +18,8 @@ Santa events, and Tokyo Tower night view photo spots -<br>
 everything you need to know in one place.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ Want all Tokyo Christmas Market info?<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Tokyo Christmas Markets - Where to Go?</b></a></p>
+➡️ <!-- Link updated -->
+<a href="/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;"><b>2025 Tokyo Christmas Markets - Where to Go?</b></a></p>
 
 <figure>
   <img src="/images/posts/azabudai-hills-christmas-market-2025-01.jpg" alt="2025 Azabudai Hills Christmas Market central plaza with arch gate and champagne gold tree">
@@ -279,10 +277,8 @@ Yes! Many family events including Santa greetings, choir performances, and limit
 - Santa Greeting dates: 11/22-24, 11/29, 11/30, 12/20, 12/21, 12/25
 
 🎁 **Want to see last year's (2024) atmosphere?**
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2024 Azabudai Hills Christmas Market Review (Including Tokyo Tower Night Views)</b></a>
+➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223671427079" style="color: #667eea;"><b>2024 Azabudai Hills Christmas Market Review (Including Tokyo Tower Night Views)</b></a>
 
 <figure>
   <img src="/images/posts/azabudai-hills-christmas-market-2025-20.jpg" alt="Families taking photos under the champagne gold Christmas tree at Azabudai Hills Christmas Market">
@@ -295,10 +291,8 @@ Yes! Many family events including Santa greetings, choir performances, and limit
 
 🧡 **More Azabudai Hills Travel Guides**
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224047575500
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Tokyo Azabudai Hills Guide: Observatory to Restaurants, teamLab - Complete Course</b></a>
+➡️ <!-- Link updated -->
+<a href="/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><b>Tokyo Azabudai Hills Guide: Observatory to Restaurants, teamLab - Complete Course</b></a>
 
 ---
 
@@ -310,10 +304,8 @@ Yes! Many family events including Santa greetings, choir performances, and limit
 
 **🌟 2025 Tokyo Christmas Illumination Complete Guide**
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Tokyo Christmas Illumination BEST 5 (Roppongi, Marunouchi Tips)</b></a>
+➡️ <!-- Link updated -->
+<a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><b>2025 Tokyo Christmas Illumination BEST 5 (Roppongi, Marunouchi Tips)</b></a>
 
 **🌟 Roppongi Hills Illumination - Started November 4**
 
@@ -321,17 +313,13 @@ Yes! Many family events including Santa greetings, choir performances, and limit
 
 **🌟 Tokyo Skytree Christmas Market - Started November 6**
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224074888771
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)</b></a>
+➡️ <!-- Link updated -->
+<a href="/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;"><b>2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)</b></a>
 
 **🌟 Ebisu Garden Place Illumination - Started November 8**
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224078737491
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Ebisu Garden Place Illumination & Christmas Market Guide</b></a>
+➡️ <!-- Link updated -->
+<a href="/posts/yebisu-garden-place-illumination-christmas-market-2025/" style="color: #667eea;"><b>2025 Ebisu Garden Place Illumination & Christmas Market Guide</b></a>
 
 **🌟 Tokyo Station Marunouchi Illumination - Started November 13**
 
@@ -339,30 +327,22 @@ Yes! Many family events including Santa greetings, choir performances, and limit
 
 **🌟 Hibiya Midtown Illumination - Started November 13**
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076762296
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Hibiya Midtown Illumination · Zootopia 2 Collab · Marunouchi Walking Course</b></a>
+➡️ <!-- Link updated -->
+<a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><b>2025 Hibiya Midtown Illumination · Zootopia 2 Collab · Marunouchi Walking Course</b></a>
 
 **🌟 Roppongi Midtown Illumination - Started November 13**
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076977654
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Roppongi Tokyo Midtown Christmas Guide (Illumination, Ice Rink, Restaurants)</b></a>
+➡️ <!-- Link updated -->
+<a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;"><b>2025 Roppongi Tokyo Midtown Christmas Guide (Illumination, Ice Rink, Restaurants)</b></a>
 
 **🌟 Tokyo Dome City Illumination - Started November 17**
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224083451617
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Tokyo Dome City Christmas Illumination Guide (TXT Collaboration)</b></a>
+➡️ <!-- Link updated -->
+<a href="/posts/tokyo-dome-city-christmas-illumination-2025/" style="color: #667eea;"><b>2025 Tokyo Dome City Christmas Illumination Guide (TXT Collaboration)</b></a>
 
 **🌟 Ueno Christmas Market - Started November 19**
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224084373557
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Tokyo Ueno Christmas Market: Dates, Hours, Illumination, Free Admission, Access Guide</b></a>
+➡️ <!-- Link updated -->
+<a href="/posts/ueno-christmas-market-2025/" style="color: #667eea;"><b>2025 Tokyo Ueno Christmas Market: Dates, Hours, Illumination, Free Admission, Access Guide</b></a>
 
 </div>

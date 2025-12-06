@@ -34,10 +34,8 @@ Shinjuku Gyoen is the heart of the "Shinjuku Morning Course."
 
 **⭐ Want to see Shinjuku's full-day itinerary at a glance?**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Complete Shinjuku Activities Guide ↗</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Complete Shinjuku Activities Guide ↗</a>**
 
 ---
 
@@ -403,10 +401,8 @@ There's only a simple kiosk inside the park, and most proper **Shinjuku Gyoen re
 - Michelin Bib Gourmand 2023
 - Soft yet chewy noodles with deep broth flavor
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Shinjuku udon restaurant, Kirimugi-ya Jinroku waiting tips and recommended menu↗</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223914223908" style="color: #667eea;">Shinjuku udon restaurant, Kirimugi-ya Jinroku waiting tips and recommended menu↗</a>**
 
 **5. Konjiki Hototogisu (金色不如帰 新宿御苑本店) (<a href="https://maps.app.goo.gl/zCcbYP5JQYeJm31y9" target="_blank">Google Maps↗</a>)**
 - Michelin Bib Gourmand 2025
@@ -446,10 +442,8 @@ Shinjuku Gyoen is like a "Shinjuku morning course hub."
 
 To make your Shinjuku itinerary richer, combine it with the articles below.
 
-**🌿 Full Shinjuku day course:** <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Complete Shinjuku Activities Guide↗</a>
+**🌿 Full Shinjuku day course:** <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Complete Shinjuku Activities Guide↗</a>
 
 **🏙 Night view:** <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building free observation deck light show & Shinjuku night view tips↗</a>
 

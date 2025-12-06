@@ -171,7 +171,7 @@ featured_image: "/images/posts/tokyo-dome-city-christmas-illumination-2025-01.jp
   <li><a href="/ja/posts/marunouchi-illumination-2025/" style="color:#667eea;">丸の内イルミネーション2025</a> - 電車で約15分</li>
   <li><a href="/ja/posts/roppongi-christmas-illumination-2025/" style="color:#667eea;">六本木けやき坂イルミネーション2025</a> - 電車で約20分</li>
   <!-- TODO: Update link after migration
-       Naver: https://blog.naver.com/tokyomate/224042431249
+       Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
        Hugo: /ja/posts/[SLUG_TBD]/ -->
   <li><a href="#" style="color:#667eea;">東京クリスマスイルミネーション BEST 5</a></li>
 </ul>

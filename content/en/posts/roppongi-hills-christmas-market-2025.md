@@ -298,7 +298,7 @@ plus recommended routes to plan your Tokyo winter Christmas trip.</p>
 <p><a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>→ Tokyo 3-Night 4-Day Christmas Illumination Recommended Course & Markets (Routes & Budget Guide)</strong></a></p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ 2025 Tokyo Christmas Illumination BEST 5 (Roppongi, Marunouchi Tips)</strong></a></p>
 

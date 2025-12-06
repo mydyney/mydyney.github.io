@@ -257,7 +257,7 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 **3. 成田空港第1ターミナル（ANA免税店）**
 
-<a href="https://blog.naver.com/tokyomate/224064132817" target="_blank" style="color: #667eea;"><strong>➡️ 成田空港第1ターミナル免税店5%割引クーポン：ウイスキー、日本酒、香水ショッピングリスト完全ガイド</strong></a>
+<a href="/ja/posts/narita-airport-terminal1-duty-free-coupon-guide/" target="_blank" style="color: #667eea;"><strong>➡️ 成田空港第1ターミナル免税店5%割引クーポン：ウイスキー、日本酒、香水ショッピングリスト完全ガイド</strong></a>
 
 <figure>
   <img src="/images/posts/japan-travel-discount-coupons-2025-05.jpg" alt="銀座ロッテ免税店割引クーポン">
@@ -344,6 +344,6 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 ➡️ <a href="https://blog.naver.com/tokyomate/224033964477" target="_blank" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
 
-➡️ <a href="https://blog.naver.com/tokyomate/224050488006" target="_blank" style="color: #667eea;"><strong>日本コンビニ完全攻略！（セブンイレブン、ファミマ、ローソン比較完全ガイド）</strong></a>
+➡️ <a href="/ja/posts/japan-convenience-store-shopping-best-10/" target="_blank" style="color: #667eea;"><strong>日本コンビニ完全攻略！（セブンイレブン、ファミマ、ローソン比較完全ガイド）</strong></a>
 
 </div>

@@ -209,10 +209,8 @@ Comme des Garçons, Porter, and other trendy shops.<br>
 A hidden relaxation spot<br>
 With panoramic views of Shibuya.<br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
-     Hugo: /posts/[SLUG_TBD]/ -->
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Complete Shibuya Attractions Guide</strong></a><br>
+<!-- Link updated -->
+<strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Complete Shibuya Attractions Guide</strong></a><br>
 <a href="#" style="color: #667eea;"><strong>(Parco, Shibuya Sky)</strong></a></p>
 
 </div>

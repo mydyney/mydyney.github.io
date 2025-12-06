@@ -182,7 +182,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 **👉 [横浜1日コース完全ガイド（中華街、夜景スポット）](https://blog.naver.com/tokyomate/223979907748)**
 **👉 [横浜お得な交通パス：みなとぶらりチケット](https://blog.naver.com/tokyomate/223976102621)**
-**👉 [横浜中華街レストラン「慶徳珍」（麻婆豆腐）](https://blog.naver.com/tokyomate/224052237062)**
+**👉 [横浜中華街レストラン「慶徳珍」（麻婆豆腐）](/ja/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
 
 ---
 

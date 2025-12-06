@@ -197,12 +197,12 @@ This has been Tokyo Mate.
 ## 🧡 Related Shinjuku Travel Guides
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224073290696
+     Naver: /posts/shinjuku-luggage-storage/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Shinjuku Station Luggage Storage Complete Guide: 100% Coin Locker Finding Method</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224072546243
+     Naver: /posts/shinjuku-liquor-shops/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Shinjuku Liquor Shop Recommendations | Yamaya, Shinanoya, Bic Camera Whiskey Discount Coupons</strong></a>
 

@@ -298,7 +298,7 @@ featured_image: "/images/posts/roppongi-hills-christmas-market-2025-01.jpg"
 <p><a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>→ 東京3泊4日クリスマスイルミネーションおすすめコース＆マーケット（動線・予算ガイド）</strong></a></p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ 2025年 東京クリスマスイルミネーション BEST 5（六本木、丸の内ヒント）</strong></a></p>
 

@@ -197,12 +197,12 @@ Tokyo Mateでした。
 ## 🧡 関連新宿旅行ガイド
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224073290696
+     Naver: /ja/posts/shinjuku-luggage-storage/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>新宿駅コインロッカー完全ガイド：100%コインロッカー発見方法</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224072546243
+     Naver: /ja/posts/shinjuku-liquor-shops/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>新宿酒屋おすすめ｜やまや、信濃屋、ビックカメラウイスキー割引クーポン</strong></a>
 

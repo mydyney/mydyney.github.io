@@ -112,11 +112,11 @@ your complete guide to Tokyo's autumn colors!</p>
 <p><strong>📍 Nearby attractions: Harajuku & Shibuya</strong></p>
 <p>After a picnic at Yoyogi Park, explore the latest trends on Takeshita Street in Harajuku, then head to Shibuya for an energetic evening—a perfect course for an active day.</p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Shibuya Attractions: From Shibuya Sky Reservations to Shopping & Restaurants</strong></a></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224030294691
+     Naver: /posts/harajuku-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a></p>
 
@@ -242,7 +242,7 @@ your complete guide to Tokyo's autumn colors!</p>
      Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison</strong></a></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224026292057
+     Naver: /posts/tokyo-october-festivals-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>2025 Tokyo October Festivals & Must-Visit Places</strong></a></p>
 
@@ -253,7 +253,7 @@ your complete guide to Tokyo's autumn colors!</p>
 <p>If you're planning a romantic autumn trip to Tokyo for the fall foliage, don't miss information about the <strong>'Christmas Illuminations'</strong> and <strong>'Markets'</strong> that will light up the night! (Most begin mid-November, coinciding with the autumn colors!)</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>2025 Tokyo Christmas Illumination BEST 5</strong></a></p>
 

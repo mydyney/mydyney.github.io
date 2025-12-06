@@ -18,7 +18,7 @@ FENDIシャンパンゴールドのケヤキ並木から表参道ヒルズツリ
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ 東京クリスマスイルミネーション全体情報が知りたいなら<br>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025年東京クリスマスイルミネーション BEST 5</strong></a></p>
 
@@ -229,7 +229,7 @@ FENDIシャンパンゴールドのケヤキ並木から表参道ヒルズツリ
 - **日程コツ：** 午後に[明治神宮外苑クリスマスマーケット]見物後 → 夕方に[表参道]に移れば完璧です。表参道と原宿おすすめコースは以下の総整理ガイドを参照してください。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224086214573
+     Naver: /ja/posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025明治神宮外苑クリスマスマーケット 入場券・時間・マグカップ特典総整理</strong></a>
 
@@ -239,7 +239,7 @@ FENDIシャンパンゴールドのケヤキ並木から表参道ヒルズツリ
 **➡️** <a href="#" style="color: #667eea;"><strong>表参道完璧ガイド：コーヒー、ショッピング、レストラン、建築まで総整理</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224030294691
+     Naver: /ja/posts/harajuku-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>原宿ハリーポッターストア、竹下通り、キャットストリート総整理</strong></a>
 
@@ -258,85 +258,85 @@ FENDIシャンパンゴールドのケヤキ並木から表参道ヒルズツリ
 **🎄 東京クリスマス必須コース 一目で見る**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224055756731
+     Naver: /ja/posts/tokyo-3-day-christmas-illumination-itinerary/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>東京3泊4日イルミネーション＆クリスマスマーケット完璧日程表</strong></a>
 
 **🌟 2025東京クリスマスマーケット どこに行く？**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>東京クリスマスマーケット 好み直撃総整理（上野、麻布台ヒルズ、六本木など）</strong></a>
 
 **🌟 六本木クリスマス**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224065668379
+     Naver: /ja/posts/roppongi-christmas-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025六本木ヒルズ 点灯時間・フォトスポット・ルート総整理</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085358394
+     Naver: /ja/posts/roppongi-hills-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025六本木ヒルズ クリスマスマーケット・マグカップ・位置・コツ総整理</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076977654
+     Naver: /ja/posts/roppongi-midtown-christmas-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025六本木ミッドタウン イルミネーション・アイスリンク・レストラン</strong></a>
 
 **🌟 麻布台ヒルズクリスマス**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085135200
+     Naver: /ja/posts/azabudai-hills-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025麻布台ヒルズ クリスマスマーケット・ブース17個完全分析</strong></a>
 
 **🌟 恵比寿クリスマス**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224078737491
+     Naver: /ja/posts/yebisu-garden-place-illumination-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025恵比寿ガーデンプレイス イルミネーション＆クリスマスマーケット</strong></a>
 
 **🌟 丸の内＆日比谷クリスマス**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076486004
+     Naver: /ja/posts/marunouchi-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025丸の内イルミネーション・ディズニーコラボ・スタンプラリー</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076762296
+     Naver: /ja/posts/hibiya-midtown-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025日比谷イルミネーション・ズートピア2コラボ・徒歩コース</strong></a>
 
 **🌟 東京スカイツリークリスマス**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224074888771
+     Naver: /ja/posts/tokyo-skytree-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025スカイツリーマーケット 公式日程・新メニュー・フォトゾーンガイド</strong></a>
 
 **🌟 上野公園クリスマス**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224084373557
+     Naver: /ja/posts/ueno-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025上野クリスマスマーケット・無料入場・アクセス総整理</strong></a>
 
 **🌟 東京ドームシティクリスマス**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224083451617
+     Naver: /ja/posts/tokyo-dome-city-christmas-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025東京ドーム イルミネーション期間・時間・TXTコラボ</strong></a>
 
 **🌟 明治神宮外苑クリスマス**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224086214573
+     Naver: /ja/posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025明治神宮外苑 クリスマスマーケット 入場券・マグカップ特典</strong></a>
 

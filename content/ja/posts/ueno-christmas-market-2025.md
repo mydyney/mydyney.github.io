@@ -19,7 +19,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 
 <p style="text-align: center;"><strong>⭐ 東京クリスマスマーケット情報をまとめてチェック！</strong><br>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年東京クリスマスマーケットどこに行く？</strong></a></p>
 
@@ -253,7 +253,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 
 <p><strong>🌟 2025年東京クリスマスマーケットまとめ</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 2025年東京クリスマスマーケットどこに行く？（六本木、スカイツリーなど）</strong></a></p>
 
@@ -268,7 +268,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 
 <p><strong>🌟 11月13日スタート：東京丸の内イルミネーション</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 東京丸の内イルミネーション2025完全ガイド</strong></a></p>
 
@@ -280,7 +280,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 
 <p><strong>🌟 11月17日スタート：東京ドームシティイルミネーション</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224083451617
+     Naver: /ja/posts/tokyo-dome-city-christmas-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 2025年東京ドームシティイルミネーション完全ガイド</strong></a></p>
 

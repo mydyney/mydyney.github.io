@@ -239,7 +239,7 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 <strong>🏛️ 代官山の見どころ：</strong><a href="#" style="color: #667eea;">蔦屋書店、おしゃれなショップ、カフェ巡りガイド</a><br>
 <br>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>🛍️ 渋谷の見どころ：</strong><a href="#" style="color: #667eea;">たった1駅！渋谷完全ガイド（パルコ、渋谷スカイ）</a></p>
 

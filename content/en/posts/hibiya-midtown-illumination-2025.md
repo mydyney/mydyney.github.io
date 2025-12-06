@@ -258,7 +258,7 @@ Don't go to Hibiya Park just based on reviews from last year or the year before.
 
 We recommend enjoying the illumination at Midtown Hibiya, and then moving to 'Shiba Park' or 'Meiji Jingu' for the Christmas market.
 
-➡️ [2025 Tokyo Christmas Market, Where to Go? (Ueno, Roppongi, Yokohama Complete Guide)](https://blog.naver.com/tokyomate/224045496649)
+➡️ [2025 Tokyo Christmas Market, Where to Go? (Ueno, Roppongi, Yokohama Complete Guide)](/posts/tokyo-christmas-markets-guide-2025/)
 
 ---
 

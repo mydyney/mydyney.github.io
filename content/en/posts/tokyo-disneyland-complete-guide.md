@@ -710,6 +710,6 @@ A happy day is already halfway prepared ✨
 **📍 Related Tokyo Travel Tips**
 
 **➡️ [Japan Travel Discount Coupons 2025 (Don Quijote, Department Stores)](https://blog.naver.com/tokyomate/224039113760)**
-**➡️ [Tokyo Transport Card Complete Guide (iPhone Suica, PASMO)](https://blog.naver.com/tokyomate/224046408131)**
+**➡️ [Tokyo Transport Card Complete Guide (iPhone Suica, PASMO)](/posts/tokyo-transportation-card-guide-2025/)**
 
 </div>

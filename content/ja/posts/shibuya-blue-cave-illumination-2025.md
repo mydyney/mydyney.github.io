@@ -196,7 +196,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 **➡️**
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>渋谷スカイ完全コース：予約からショッピング、レストランまで</strong></a>
 
@@ -206,7 +206,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 **➡️**
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224030294691
+     Naver: /ja/posts/harajuku-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>原宿アトラクション：ハリーポッターストアから竹下通り＆キャットストリート</strong></a>
 

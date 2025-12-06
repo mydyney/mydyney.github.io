@@ -208,14 +208,10 @@ head to Yokohama's key attractions!</p>
 Explore Yokohama landmarks perfectly<br>
 with this recommended 1-day course!<br>
 ​<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>➡️ Yokohama 1-Day Course </b></a><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Chinatown Restaurants, Akarenga, Night Views Complete Guide</b></a></p>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223979907748" style="color: #667eea;"><b>➡️ Yokohama 1-Day Course </b></a><br>
+<!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223979907748" style="color: #667eea;"><b>Chinatown Restaurants, Akarenga, Night Views Complete Guide</b></a></p>
 
 ---
 
@@ -225,9 +221,7 @@ If you're planning to explore Yokohama all day,<br>
 to save on transportation,<br>
 the 'Minato Bura Ticket' is essential!<br>
 ​<br>
-<b>➡️</b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b> Yokohama Transportation Pass, 'Minato Bura Ticket' Complete Guide</b></a></p>
+<b>➡️</b><!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223976102621" style="color: #667eea;"><b> Yokohama Transportation Pass, 'Minato Bura Ticket' Complete Guide</b></a></p>
 
 </div>

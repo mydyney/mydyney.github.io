@@ -184,7 +184,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 ### 🚶‍♂️ 徒歩5分！美食の天国、横浜中華街
 
 甘いデザートを食べたら、今度は'中華街'で香ばしい点心や麻婆豆腐を味わう番！
-**➡️ [中華街グルメ'慶徳珍'（麻婆豆腐）](https://blog.naver.com/tokyomate/224052237062)**
+**➡️ [中華街グルメ'慶徳珍'（麻婆豆腐）](/ja/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
 
 ### 🚶‍♂️ 赤い靴バス10分！ロマンティックな海、赤レンガ倉庫
 

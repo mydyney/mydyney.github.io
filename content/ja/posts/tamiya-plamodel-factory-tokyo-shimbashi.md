@@ -222,7 +222,7 @@ A. はい、組み立て中に紛失・破損した部品や「タミヤカス�
 ## 🧡 関連新橋旅行ガイド
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224044938913
+     Naver: /ja/posts/shinbashi-shiodome-evening-course/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>東京新橋・汐留の見どころ：過去と未来を歩く夕方コース（グルメ、夜景）</strong></a>
 
@@ -244,7 +244,7 @@ A. はい、組み立て中に紛失・破損した部品や「タミヤカス�
 **➡️** <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税のコツ）</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224050488006
+     Naver: /ja/posts/japan-convenience-store-shopping-best-10/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>日本コンビニショッピングリスト失敗なしBEST10（セブンイレブン、ファミリーマート、ローソン比較）</strong></a>
 

@@ -22,10 +22,8 @@ Essential travel tips at a glance.</p>
 </figure>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ For complete Shinjuku travel course with restaurants, shopping, and nightlife information<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Complete Shinjuku Travel Guide</b></a></p>
+➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Travel Guide</b></a></p>
 
 ## 📍 What is SEKAIDO?
 
@@ -259,13 +257,9 @@ Shinjuku SEKAIDO is the heart of Tokyo stationery shopping and a paradise for ar
 Now that you've mastered the comparison between membership discounts and tax-free benefits, enjoy shopping while saving both time and money.
 
 **Related Articles:**
-- <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>➡️ Complete Shinjuku Travel Guide - From Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>
-- <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223693165027
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>➡️ Tokyo Ginza Representative Stationery Store: Itoya Main Store</b></a>
+- <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>➡️ Complete Shinjuku Travel Guide - From Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>
+- <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223693165027" style="color: #667eea;"><b>➡️ Tokyo Ginza Representative Stationery Store: Itoya Main Store</b></a>
 
 </div>

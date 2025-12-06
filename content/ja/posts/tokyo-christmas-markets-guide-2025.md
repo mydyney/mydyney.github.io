@@ -110,7 +110,7 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 **📍 場所：<a href="https://maps.app.goo.gl/n5upeajDoPH8BKf28" target="_blank">上野恩賜公園</a>、袴腰広場**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224084373557
+     Naver: /ja/posts/ueno-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 【必見】2025年東京上野クリスマスマーケット：開催期間・時間・イルミネーション・無料入場＆アクセスガイド</strong></a>
 
@@ -155,7 +155,7 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 **📍 六本木ヒルズマーケットの10店舗のメニュー、グリューワイン、オリジナルマグの詳細情報は？**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085358394
+     Naver: /ja/posts/roppongi-hills-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 【必見詳細ガイド】2025年六本木ヒルズ クリスマスマーケット：開催期間・時間・場所・オリジナルマグ完全ガイド</strong></a>
 
@@ -210,7 +210,7 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 **✅ クリスマスマーケットの10店舗メニュー、グリューワイン、マグの詳細はこちら**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085358394
+     Naver: /ja/posts/roppongi-hills-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年六本木ヒルズ クリスマスマーケット：開催期間・時間・場所・オリジナルマグ完全ガイド</strong></a>
 
@@ -288,7 +288,7 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 2024年に初のクリスマスを成功させた新名所。広々とした中央広場で開かれるマーケットは、他の場所より混雑が少なく、**東京タワーが目の前**という最高の夜景スポットを誇ります。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085135200
+     Naver: /ja/posts/azabudai-hills-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 【必見詳細ガイド】2025年麻布台ヒルズ クリスマスマーケット（開催期間・時間・アクセス・全17店舗完全ガイド）</strong></a>
 
@@ -417,7 +417,7 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 ※入場料、事前予約、マグ特典、VIPルームなどの詳細は下記のガイドをご覧ください。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224086214573
+     Naver: /ja/posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年明治神宮外苑 クリスマスマーケット：チケット・料金・時間・マグ特典完全ガイド</strong></a>
 
@@ -569,7 +569,7 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 **🎄 クリスマスマーケット体験をさらに盛り上げる東京のベスト「イルミネーション」スポットは下記をチェック！**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年東京クリスマスイルミネーション BEST 5</strong></a>
 
@@ -591,7 +591,7 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 昼間はロマンチックな紅葉、夜は煌めくクリスマスを楽しむ完璧なプランを立てましょう！
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038071853
+     Naver: /ja/posts/tokyo-autumn-foliage-best-spots-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年東京紅葉シーズン＆おすすめスポット BEST 5</strong></a>
 

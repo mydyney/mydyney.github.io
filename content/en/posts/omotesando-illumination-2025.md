@@ -17,10 +17,8 @@ From FENDI champagne gold keyaki trees to Omotesando Hills tree and Harajuku ill
 Check out the perfect viewing course, photo spots, and insider tips for a flawless visit.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ Want comprehensive Tokyo Christmas illumination info?<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
-     Hugo: /posts/[SLUG_TBD]/ -->
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025 Tokyo Christmas Illumination BEST 5</strong></a></p>
+<!-- Link updated -->
+<strong>➡️</strong> <a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>2025 Tokyo Christmas Illumination BEST 5</strong></a></p>
 
 <figure>
   <img src="/images/posts/omotesando-illumination-2025-01.jpg" alt="2025 Omotesando Illumination dates, hours, location, photo spots complete guide">
@@ -229,7 +227,7 @@ Car headlight trails blend with golden keyaki trees for dynamic photos.
 - **Itinerary Tip:** Afternoon at [Meiji Jingu Gaien Christmas Market] → Evening transition to [Omotesando] is perfect. For recommended Omotesando and Harajuku courses, check the comprehensive guides below.
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224086214573
+     Naver: /posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets, Hours, Mug Benefits Complete Guide</strong></a>
 
@@ -239,7 +237,7 @@ Car headlight trails blend with golden keyaki trees for dynamic photos.
 **➡️** <a href="#" style="color: #667eea;"><strong>Omotesando Perfect Guide: Coffee, Shopping, Restaurants & Architecture Complete</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224030294691
+     Naver: /posts/harajuku-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Harajuku Harry Potter Store, Takeshita Street, Cat Street Complete Guide</strong></a>
 
@@ -258,85 +256,85 @@ If planning a Tokyo Christmas trip, I strongly recommend making this place, alon
 **🎄 Tokyo Christmas Must-See Courses at a Glance**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224055756731
+     Naver: /posts/tokyo-3-day-christmas-illumination-itinerary/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Tokyo 3 Night 4 Day Illumination & Christmas Market Perfect Itinerary</strong></a>
 
 **🌟 2025 Tokyo Christmas Markets - Where to Go?**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /posts/tokyo-christmas-markets-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Tokyo Christmas Markets Complete Guide (Ueno, Azabudai Hills, Roppongi, etc.)</strong></a>
 
 **🌟 Roppongi Christmas**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224065668379
+     Naver: /posts/roppongi-christmas-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Roppongi Hills Lighting Hours, Photo Spots, Route Complete Guide</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085358394
+     Naver: /posts/roppongi-hills-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Roppongi Hills Christmas Market, Mugs, Location & Tips Complete</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076977654
+     Naver: /posts/roppongi-midtown-christmas-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Roppongi Midtown Illumination, Ice Rink & Restaurants</strong></a>
 
 **🌟 Azabudai Hills Christmas**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224085135200
+     Naver: /posts/azabudai-hills-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Azabudai Hills Christmas Market - Complete Analysis of 17 Booths</strong></a>
 
 **🌟 Ebisu Christmas**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224078737491
+     Naver: /posts/yebisu-garden-place-illumination-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Ebisu Garden Place Illumination & Christmas Market</strong></a>
 
 **🌟 Marunouchi & Hibiya Christmas**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076486004
+     Naver: /posts/marunouchi-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Marunouchi Illumination, Disney Collaboration & Stamp Rally</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224076762296
+     Naver: /posts/hibiya-midtown-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Hibiya Illumination, Zootopia 2 Collaboration & Walking Course</strong></a>
 
 **🌟 Tokyo Skytree Christmas**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224074888771
+     Naver: /posts/tokyo-skytree-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Skytree Market Official Schedule, New Menu & Photo Zone Guide</strong></a>
 
 **🌟 Ueno Park Christmas**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224084373557
+     Naver: /posts/ueno-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Ueno Christmas Market - Free Entry & Access Complete Guide</strong></a>
 
 **🌟 Tokyo Dome City Christmas**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224083451617
+     Naver: /posts/tokyo-dome-city-christmas-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Tokyo Dome Illumination Dates, Hours & TXT Collaboration</strong></a>
 
 **🌟 Meiji Jingu Gaien Christmas**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224086214573
+     Naver: /posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Benefits</strong></a>
 

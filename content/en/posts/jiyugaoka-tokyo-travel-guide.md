@@ -404,7 +404,7 @@ I hope your Tokyo trip becomes more special. Please leave any questions in the c
 **➡️** <a href="#" style="color: #667eea;"><strong>Nakameguro Boutiques, Cafes & Walking Course Complete Guide</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Shibuya Sky, Shopping, Restaurants & Activities Complete Guide</strong></a>
 

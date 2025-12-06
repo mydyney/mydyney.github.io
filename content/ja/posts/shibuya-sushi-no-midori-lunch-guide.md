@@ -234,12 +234,12 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 <h2>🧡 一緒に見ると良い渋谷旅行ガイド</h2>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">渋谷スカイ予約・ショッピング・グルメまで完璧コース</a></strong></p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224030294691
+     Naver: /ja/posts/harajuku-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">原宿ハリーポッターストア・竹下通り・キャットストリート徒歩コース</a></strong></p>
 

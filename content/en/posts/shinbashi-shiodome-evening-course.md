@@ -242,7 +242,7 @@ The complete opposite of Shinbashi's down-to-earth atmosphere, enjoy shopping an
 Shimbashi Station is the starting point of the Yurikamome to Odaiba. After enjoying round one at an izakaya, I recommend taking the Yurikamome to admire Odaiba's fantastic night views.
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224043919463
+     Naver: /posts/odaiba-ariake-toyosu-complete-guide/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Odaiba Must-Visit Spots: Complete One-Day Recommended Course</strong></a>**
 

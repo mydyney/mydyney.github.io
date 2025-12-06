@@ -33,7 +33,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 今日は公式情報をもとに、がっかりせず**都庁と組み合わせて満喫できる新宿イルミネーションコース**をまとめますね。✨
 
-**➡️** <a href="https://blog.naver.com/tokyomate/224062023485" target="_blank" style="color: #667eea;"><strong>東京都庁無料展望台ライトショー時間、アクセス、休館日、夜景꿀팁</strong></a>
+**➡️** <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank" style="color: #667eea;"><strong>東京都庁無料展望台ライトショー時間、アクセス、休館日、夜景꿀팁</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-02.jpg" alt="東京都庁ライトショーの夜景">
@@ -317,7 +317,7 @@ Tokyo Mateでした！
 ## 🧡 一緒に見ると良い新宿旅行ガイド
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224068585112
+     Naver: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 完全比較（2025最新版）</strong></a>
 

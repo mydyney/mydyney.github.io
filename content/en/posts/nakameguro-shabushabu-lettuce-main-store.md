@@ -229,19 +229,13 @@ Makes this an unforgettable shabu-shabu experience!</p>
 After a satisfying meal at Lettuce,<br>
 Explore the charming Nakameguro and Daikanyama neighborhoods!<br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032086475
-     Hugo: /posts/[SLUG_TBD]/ -->
-<strong>🌸 Nakameguro Attractions:</strong> <a href="#" style="color: #667eea;">Meguro River cherry blossoms, trendy cafes, and boutiques complete guide</a><br>
+<!-- Link updated -->
+<strong>🌸 Nakameguro Attractions:</strong> <a href="https://blog.naver.com/tokyomate/224032086475" style="color: #667eea;">Meguro River cherry blossoms, trendy cafes, and boutiques complete guide</a><br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032515713
-     Hugo: /posts/[SLUG_TBD]/ -->
-<strong>🏛️ Daikanyama Attractions:</strong> <a href="#" style="color: #667eea;">T-Site bookstore, fashionable shops, and cafe hopping guide</a><br>
+<!-- Link updated -->
+<strong>🏛️ Daikanyama Attractions:</strong> <a href="https://blog.naver.com/tokyomate/224032515713" style="color: #667eea;">T-Site bookstore, fashionable shops, and cafe hopping guide</a><br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
-     Hugo: /posts/[SLUG_TBD]/ -->
-<strong>🛍️ Shibuya Attractions:</strong> <a href="#" style="color: #667eea;">Just one station away! Complete Shibuya guide (Parco, Shibuya Sky)</a></p>
+<!-- Link updated -->
+<strong>🛍️ Shibuya Attractions:</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Just one station away! Complete Shibuya guide (Parco, Shibuya Sky)</a></p>
 
 </div>

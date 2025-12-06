@@ -292,7 +292,7 @@ Have a wonderful Tokyo trip! :D
 **➡️** <a href="#" style="color: #667eea;"><strong>Shinjuku Travel Course: Perfect Guide from Gyoen to Restaurants & Golden Gai</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Shibuya Travel Course: Shibuya Sky Reservation Tips & Complete Shopping Guide</strong></a>
 

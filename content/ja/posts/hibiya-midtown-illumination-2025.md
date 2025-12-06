@@ -258,7 +258,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 ミッドタウン日比谷でイルミネーションを楽しみ、クリスマスマーケットは「芝公園」や「明治神宮」に移動することをおすすめします。
 
-➡️ [2025年東京クリスマスマーケット、どこに行く? (上野、六本木、横浜など完全ガイド)](https://blog.naver.com/tokyomate/224045496649)
+➡️ [2025年東京クリスマスマーケット、どこに行く? (上野、六本木、横浜など完全ガイド)](/ja/posts/tokyo-christmas-markets-guide-2025/)
 
 ---
 

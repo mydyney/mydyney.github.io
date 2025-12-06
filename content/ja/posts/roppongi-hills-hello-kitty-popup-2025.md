@@ -296,7 +296,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 総まとめされたガイドです。</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025 東京クリスマスマーケット、どこへ行く？<br>（上野、麻布台など）</a></strong><br>
 <em>(移行後にリンクを更新します)</em></p>
@@ -309,7 +309,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 名所だけを集めました。</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025年東京クリスマスイルミネーション BEST 5<br>（表参道、丸の内完全ガイド）</a></strong><br>
 <em>(移行後にリンクを更新します)</em></p>

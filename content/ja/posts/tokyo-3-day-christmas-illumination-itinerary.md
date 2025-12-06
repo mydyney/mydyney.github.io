@@ -58,21 +58,21 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>​</b><br>
 <b>🎁 東京のクリスマスマーケット情報を全部知りたいですか?</b><br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">➡️ 2025東京クリスマスマーケット、</a></b><br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">どこに行くべき?(上野、六本木など)</a></b><br>
 ​<br>
 <b>🎄 東京の最高のイルミネーションBEST 5情報は?</b><br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"> ➡️ 2025東京クリスマス</a></b><br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">イルミネーション BEST 5</a></b></p>
 
@@ -195,7 +195,7 @@ SuicaまたはPasmoで<br>
 <b>(オプション) 渋谷スカイ展望台</b><br>
 <b>​</b><br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">➡️ 渋谷完全活動ガイド</a></b><br>
 <b><!-- TODO: Update link after migration
@@ -232,7 +232,7 @@ SuicaまたはPasmoで<br>
 表参道ヒルズを一緒に楽しみましょう。<br>
 ​<br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224030294691
+     Naver: /ja/posts/harajuku-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">➡️ 原宿完全活動ガイド</a></b><br>
 <b><!-- TODO: Update link after migration
@@ -536,7 +536,7 @@ KITTEでディナー<br>
 <b>クリスマスマーケット</b><br>
 東京タワーの景色とクリスマスマーケットを楽しみましょう<br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224047575500
+     Naver: /ja/posts/azabudai-hills-complete-guide/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
 
@@ -727,11 +727,11 @@ KITTEでディナー<br>
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>交通カード&割引クーポン</b><br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224046408131
+     Naver: /ja/posts/tokyo-transportation-card-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">➡️ 東京交通カード完全ガイド</a></b><br>
 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224046408131
+     Naver: /ja/posts/tokyo-transportation-card-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>

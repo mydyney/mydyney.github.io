@@ -112,11 +112,11 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <p><strong>📍 一緒に楽しめるエリア：原宿＆渋谷</strong></p>
 <p>代々木公園でピクニックを楽しんだ後、すぐ隣の原宿竹下通りで最新トレンドを見て、夕方は渋谷に移動して華やかな夜を楽しむエネルギッシュなコースが作れます。</p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>渋谷の遊び場、渋谷スカイ予約からショッピング、グルメまで</strong></a></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224030294691
+     Naver: /ja/posts/harajuku-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>原宿の遊び場、ハリーポッターストアから竹下通り、キャットストリートまで総まとめ</strong></a></p>
 
@@ -242,7 +242,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>東京メトロパス vs JR都区内パス完全比較</strong></a></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224026292057
+     Naver: /ja/posts/tokyo-october-festivals-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>2025年東京10月祭り・おすすめスポット総まとめ</strong></a></p>
 
@@ -253,7 +253,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <p>ロマンチックな東京の秋紅葉を計画されているなら、夜を華やかに彩る<strong>「クリスマスイルミネーション」</strong>と<strong>「マーケット」</strong>情報も絶対にお見逃しなく！（ほとんどが11月中旬から紅葉と一緒に始まります！）</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>2025年東京クリスマスイルミネーションBEST 5</strong></a></p>
 

@@ -199,7 +199,7 @@ A: The ginkgo avenue is in the 'Aoyama' area, very close to 'Omotesando,' making
 - **Shibuya** → Sky Observatory, shopping route
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Shibuya Attractions: From Shibuya Sky Reservations to Shopping and Restaurants - Perfect Course Recommendations</strong></a>
 
@@ -229,7 +229,7 @@ Don't confuse it with 'Meiji Jingu,' and visit during the most beautiful peak se
 **🍂 Tokyo's Best 5 Beautiful Autumn Foliage Spots**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038071853
+     Naver: /posts/tokyo-autumn-foliage-best-spots-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots (Peak Timing, Light-Up Information Complete Guide)</strong></a>
 

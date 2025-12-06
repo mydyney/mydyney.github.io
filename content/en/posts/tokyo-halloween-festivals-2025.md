@@ -51,7 +51,7 @@ Affectionately known as **'Ikeharo (イケハロ)'**, this has become Tokyo's la
 **📌 Pro Tip:** Ikebukuro offers more than just the Halloween festival—it's packed with attractions like **Sunshine City, Pokémon Center, and Animate**. Check out our complete Ikebukuro guide below to plan the perfect day trip before or after the Halloween festival!
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224050101070
+     Naver: /posts/ikebukuro-complete-guide/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="/posts/ikebukuro-complete-guide/" style="color: #667eea;"><strong>Tokyo Ikebukuro Complete Guide: East (Food/Otaku) vs West (Art) Recommended Routes</strong></a>**
 

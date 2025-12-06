@@ -207,7 +207,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 虎ノ門ヒルズが「ビジネス」の中心なら、すぐ隣の「麻布台ヒルズ」は「観光」の中心です。2つのヒルズをまとめて東京の最新建築と文化を一日で制覇してみてください！
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224047575500
+     Naver: /ja/posts/azabudai-hills-complete-guide/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京麻布台ヒルズ見どころ：展望台、グルメ、チームラボまで</strong></a>
 

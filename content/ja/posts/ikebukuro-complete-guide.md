@@ -310,7 +310,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 「渋谷」に代わる新しいハロウィンの聖地なので、時期が合えばぜひ訪れてみてください！
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038568654
+     Naver: /ja/posts/tokyo-halloween-festivals-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;">2025年東京ハロウィン祭名所BEST 4(池袋)</a>**
 
@@ -333,7 +333,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 **➡️ <a href="#" style="color: #667eea;">新宿観光スポット - 新宿御苑からグルメ、ショッピングまで</a>**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;">渋谷観光スポット - 渋谷スカイ予約からグルメまで</a>**
 

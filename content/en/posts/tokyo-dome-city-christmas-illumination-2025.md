@@ -17,10 +17,8 @@ From the main "SNOW DOME" theme to the TXT (TOMORROW X TOGETHER) collaboration,<
 and the Nordic Christmas Market schedule—your complete winter guide to Tokyo Dome.</p>
 
 <p style="text-align: center;"><strong>⭐ Want to see all Tokyo Christmas Illumination spots?</strong><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5</strong></a></p>
+<!-- Link updated -->
+<a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-dome-city-christmas-illumination-2025-01.jpg" alt="Tokyo Dome City Christmas Illumination 2025">
@@ -189,7 +187,7 @@ and the Nordic Christmas Market schedule—your complete winter guide to Tokyo D
 
 <p><strong>🌟 2025 Tokyo Christmas Illumination Summary</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5 (Roppongi, Marunouchi Tips)</strong></a></p>
 

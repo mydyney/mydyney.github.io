@@ -242,7 +242,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 新橋駅はお台場へ向かう「ゆりかもめ」の出発点です。居酒屋で1次会を楽しんだ後、ゆりかもめに乗ってお台場の幻想的な夜景を鑑賞するコースをおすすめします。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224043919463
+     Naver: /ja/posts/odaiba-ariake-toyosu-complete-guide/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>東京お台場おすすめスポット：一日完成！おすすめコース総まとめ</strong></a>**
 

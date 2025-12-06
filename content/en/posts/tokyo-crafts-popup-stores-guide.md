@@ -94,10 +94,8 @@ A special 3-day event where you can touch and experience Tokyo Crafts products i
 
 **⭐ Check out essential Daikanyama travel courses too**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032515713
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Daikanyama Must-See Places: Perfect Course from Tsutaya (T-SITE) to Restaurants, Boutiques, and Shopping</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224032515713" style="color: #667eea;">Daikanyama Must-See Places: Perfect Course from Tsutaya (T-SITE) to Restaurants, Boutiques, and Shopping</a>**
 
 ---
 
@@ -137,10 +135,8 @@ As of November 2025, this is the only official retailer in Tokyo!
 
 **⭐ Check how to get there from Haneda Airport**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223995074888
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Tokyo Haneda Airport Arrival Guide: Suica Card, Limousine Bus Booking & How to Get to City (2025 Latest)</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223995074888" style="color: #667eea;">Tokyo Haneda Airport Arrival Guide: Suica Card, Limousine Bus Booking & How to Get to City (2025 Latest)</a>**
 
 ---
 
@@ -216,10 +212,8 @@ This is **'Plan B'** for such people. These stores aren't on the official retail
 
 **⭐ Check essential Shinjuku travel courses too**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Shinjuku Things to Do: Perfect Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Shinjuku Things to Do: Perfect Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a>**
 
 ---
 
@@ -248,19 +242,13 @@ it's experiencing 'Tokyo aesthetic brands' in person.
 
 Check out more 'Tokyo shopping routes' in the articles below👇
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Japan Travel Discount Coupons Complete Summary 2025 (Don Quijote, Bic Camera, Department Stores etc. Tax-Free + Additional Discounts)</b></a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224039113760" style="color: #667eea;"><b>Japan Travel Discount Coupons Complete Summary 2025 (Don Quijote, Bic Camera, Department Stores etc. Tax-Free + Additional Discounts)</b></a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>2025 Japan Don Quijote Shopping List Essential Recommendations & Discount Coupons, Tax-Free Methods Complete Summary</b></a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224022065518" style="color: #667eea;"><b>2025 Japan Don Quijote Shopping List Essential Recommendations & Discount Coupons, Tax-Free Methods Complete Summary</b></a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Tokyo Outlet Recommendation, Mitsui Outlet Park Kisarazu Discount Coupons, Tenant Brands, How to Get There (Gotemba Comparison)</b></a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224034429817" style="color: #667eea;"><b>Tokyo Outlet Recommendation, Mitsui Outlet Park Kisarazu Discount Coupons, Tenant Brands, How to Get There (Gotemba Comparison)</b></a>**
 
 </div>

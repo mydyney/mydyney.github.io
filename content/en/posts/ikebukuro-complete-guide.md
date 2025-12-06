@@ -310,7 +310,7 @@ Every last weekend of October, the Ikebukuro East Exit area transforms into Toky
 As the new Halloween mecca replacing "Shibuya," be sure to visit if the timing works out!
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038568654
+     Naver: /posts/tokyo-halloween-festivals-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;">2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro)</a>**
 
@@ -333,7 +333,7 @@ You can travel directly on the Yamanote Line.
 **➡️ <a href="#" style="color: #667eea;">Shinjuku Attractions - From Shinjuku Gyoen to Restaurants and Shopping</a>**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="#" style="color: #667eea;">Shibuya Attractions - From Shibuya Sky Reservations to Restaurants</a>**
 

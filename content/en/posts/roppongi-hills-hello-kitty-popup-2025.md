@@ -287,7 +287,7 @@ including 'Ueno' and 'Azabudai Hills'<br>
 compiled in one guide.</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224045496649
+     Naver: /posts/tokyo-christmas-markets-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025 Tokyo Christmas Markets: Where to Go?<br>(Ueno, Azabudai, etc.)</a></strong><br>
 <em>(Link will be updated after migration)</em></p>
@@ -300,7 +300,7 @@ we've compiled only the best<br>
 including 'Marunouchi' and 'Omotesando'.</p>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224042431249
+     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025 Tokyo Christmas Illumination BEST 5<br>(Omotesando, Marunouchi Complete Guide)</a></strong><br>
 <em>(Link will be updated after migration)</em></p>

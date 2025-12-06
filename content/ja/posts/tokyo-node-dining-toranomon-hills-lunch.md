@@ -230,7 +230,7 @@ featured_image: "/images/posts/tokyo-node-dining-toranomon-hills-lunch-01.jpg"
 
 <p><strong>合わせて読みたい虎ノ門ヒルズ旅行ガイド：</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224047793364
+     Naver: /ja/posts/toranomon-hills-complete-guide/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>東京 虎ノ門ヒルズ見どころガイド：展望台、グルメ、横丁、T-Market</strong></a></p>
 

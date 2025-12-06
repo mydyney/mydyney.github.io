@@ -51,7 +51,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 **📌 お得情報:** 池袋はハロウィン祭り以外にも**サンシャインシティ、ポケモンセンター、アニメイト**など見どころ満載の場所です。ハロウィン祭りの前後に一緒に巡るのに最適な「池袋完璧ガイド」を下記で確認し、完璧な1日コースを計画しましょう！
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224050101070
+     Naver: /ja/posts/ikebukuro-complete-guide/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️ <a href="/ja/posts/ikebukuro-complete-guide/" style="color: #667eea;"><strong>東京池袋遊び場完璧ガイド：東口（グルメ/オタク）vs 西口（アート）おすすめコース総まとめ</strong></a>**
 

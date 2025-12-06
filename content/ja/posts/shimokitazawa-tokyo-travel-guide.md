@@ -292,7 +292,7 @@ Suica/Pasmoカードを使用するか、個別に切符を購入する必要が
 **➡️** <a href="#" style="color: #667eea;"><strong>新宿旅行コース：御苑からレストラン＆ゴールデン街まで完璧ガイド</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
+     Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>渋谷旅行コース：渋谷スカイ予約コツ＆完全ショッピングガイド</strong></a>
 

@@ -16,10 +16,8 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 Chewy texture on a different level from convenience store dango, plus traditional wagashi gift wrapping—everything perfectly covered.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐Want to see Shinjuku's complete travel course and restaurant/shopping/night view info at a glance?<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>Complete Shinjuku Activities Guide ↗</b></a></p>
+➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Activities Guide ↗</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-01.jpg" alt="Shinjuku dango restaurant Oiwake Dango Honpo 300-year traditional dessert">
@@ -161,10 +159,8 @@ Soft mochi, sweet-salty soy sauce, and neat packaging — 300 years of tradition
 
 **⭐ Shinjuku Travel Guide Series**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Complete Shinjuku Activities Guide ↗</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Complete Shinjuku Activities Guide ↗</a>**
 
 **➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building Free Observatory Light Show Hours, Closed Days, Shinjuku Night View Tips ↗</a>**
 
@@ -176,23 +172,17 @@ Soft mochi, sweet-salty soy sauce, and neat packaging — 300 years of tradition
 
 **➡️ <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo Stationery Store Membership Card, Tax-Free Guide ↗</a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Shinjuku Udon Restaurant Kirimugi-ya Jinroku Michelin Udon↗</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223914223908" style="color: #667eea;">Shinjuku Udon Restaurant Kirimugi-ya Jinroku Michelin Udon↗</a>**
 
 **➡️ <a href="/posts/shinjuku-epitaph-curry-review/" target="_blank">Shinjuku Keema Curry Restaurant Epitaph Curry ↗</a>**
 
 💡 Want to see Ginza dessert gifts too?
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223694645793
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Tokyo Ginza Strawberry Mochi, Akebono Ginza Flagship Store ↗</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/223694645793" style="color: #667eea;">Tokyo Ginza Strawberry Mochi, Akebono Ginza Flagship Store ↗</a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025044772
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Tokyo Parents Gift, If You're Worried, Ginza Kuya Monaka ↗</a>**
+**➡️ <!-- Link updated -->
+<a href="https://blog.naver.com/tokyomate/224025044772" style="color: #667eea;">Tokyo Parents Gift, If You're Worried, Ginza Kuya Monaka ↗</a>**
 
 </div>

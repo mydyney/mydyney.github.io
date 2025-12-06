@@ -203,7 +203,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 10月のハイライトであるハロウィンを本格的に楽しみたいなら、「渋谷禁止！」情報から池袋、ディズニーランドの最新イベント情報まで網羅した下記のガイドを必ずチェックしてください。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038568654
+     Naver: /ja/posts/tokyo-halloween-festivals-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年 東京ハロウィン スポットBEST 4（渋谷禁止！、池袋、ディズニーランド）</strong></a>
 
@@ -228,7 +228,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 🍁10月下旬からは徐々に紅葉が始まります。11月の紅葉旅行を計画中の方や、東京の秋をもっと感じたい方は、下記の紅葉名所ガイドを参考にしてください。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224038071853
+     Naver: /ja/posts/tokyo-autumn-foliage-best-spots-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年 東京紅葉の時期＆おすすめスポットBEST 5</strong></a>
 

@@ -164,10 +164,8 @@ Be sure to try it!</p>
 Discover the perfect one-day itinerary<br>
 To fully enjoy Yokohama's landmarks!<br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /posts/[SLUG_TBD]/ -->
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Yokohama 1-Day Itinerary: Chinatown Restaurants, Akarenga, Night Views Complete Guide</strong></a><br>
+<!-- Link updated -->
+<strong>➡️</strong> <a href="https://blog.naver.com/tokyomate/223979907748" style="color: #667eea;"><strong>Yokohama 1-Day Itinerary: Chinatown Restaurants, Akarenga, Night Views Complete Guide</strong></a><br>
 <br>
 <br>
 <strong>🚇 Conquer Yokohama with the 'Minato Burari Ticket'!</strong><br>
@@ -176,10 +174,8 @@ If you're planning to explore Yokohama all day,<br>
 To save on transportation costs,<br>
 <strong>The 'Minato Burari Ticket' is a must!</strong><br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /posts/[SLUG_TBD]/ -->
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Yokohama Transportation Pass,</strong></a><br>
+<!-- Link updated -->
+<strong>➡️</strong> <a href="https://blog.naver.com/tokyomate/223976102621" style="color: #667eea;"><strong>Yokohama Transportation Pass,</strong></a><br>
 <a href="#" style="color: #667eea;"><strong>'Minato Burari Ticket' Complete Guide</strong></a></p>
 
 </div>
