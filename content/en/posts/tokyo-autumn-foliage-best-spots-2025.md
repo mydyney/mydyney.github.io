@@ -65,7 +65,7 @@ your complete guide to Tokyo's autumn colors!</p>
 <p>After strolling through the ginkgo avenue, explore the sophisticated boutiques, galleries, and stylish cafes along Aoyama and Omotesando streets.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/omotesando-guide-2025/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants & Architecture</strong></a></p>
 
 <figure>
@@ -88,10 +88,7 @@ your complete guide to Tokyo's autumn colors!</p>
 
 <p><strong>📍 Nearby attractions: Shinjuku</strong></p>
 <p>Enjoy a leisurely morning viewing autumn colors at Shinjuku Gyoen, then spend the afternoon shopping and dining at Shinjuku's department stores—a perfect day course.</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Attractions Complete Guide (Restaurants, Shopping, Recommended Course)</strong></a></p>
+<p>➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Shinjuku Attractions Complete Guide (Restaurants, Shopping, Recommended Course)</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-04.jpg" alt="Shinjuku Gyoen National Garden autumn colors with maple trees reflected in pond">
@@ -111,13 +108,7 @@ your complete guide to Tokyo's autumn colors!</p>
 
 <p><strong>📍 Nearby attractions: Harajuku & Shibuya</strong></p>
 <p>After a picnic at Yoyogi Park, explore the latest trends on Takeshita Street in Harajuku, then head to Shibuya for an energetic evening—a perfect course for an active day.</p>
-<!-- TODO: Update link after migration
-     Naver: /posts/shibuya-complete-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Attractions: From Shibuya Sky Reservations to Shopping & Restaurants</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: /posts/harajuku-complete-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a></p>
 
 <figure>
@@ -241,9 +232,6 @@ your complete guide to Tokyo's autumn colors!</p>
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-october-festivals-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="/posts/tokyo-october-festivals-2025/" style="color: #667eea;"><strong>2025 Tokyo October Festivals & Must-Visit Places</strong></a></p>
 
 ---
@@ -252,16 +240,10 @@ your complete guide to Tokyo's autumn colors!</p>
 
 <p>If you're planning a romantic autumn trip to Tokyo for the fall foliage, don't miss information about the <strong>'Christmas Illuminations'</strong> and <strong>'Markets'</strong> that will light up the night! (Most begin mid-November, coinciding with the autumn colors!)</p>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>2025 Tokyo Christmas Illumination BEST 5</strong></a></p>
 
 <p>➡️ <a href="/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;"><strong>2025 Tokyo Christmas Markets Guide: Where to Go? (Ueno, Roppongi & More)</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Department Stores & More)</strong></a></p>
+<p>➡️ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Department Stores & More)</strong></a></p>
 
 </div>

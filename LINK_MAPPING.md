@@ -140,6 +140,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224032515713 | nakameguro-shabushabu-lettuce-main-store | Daikanyama Complete Guide: T-Site Bookstore, Fashion Shops, Cafe Hopping |
 | ~~224030294691~~ | tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide, omotesando-complete-guide-2025, shinjuku-complete-guide-2025 | ✅ **MIGRATED** → harajuku-complete-guide-2025 |
 | 224037212344 | tokyo-autumn-foliage-best-spots-2025 | Tokyo Kichijoji Must-Visit Places: Complete Course (with Ghibli Museum) |
+| 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
 | 224008430188 | japan-travel-discount-coupons-2025 | Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Free Tasting) |
 
 
