@@ -189,8 +189,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 ### 🚶‍♂️ 赤い靴バス10分！ロマンティックな海、赤レンガ倉庫
 
 '赤レンガ倉庫'の散歩をお楽しみください。
-**➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223979907748 Hugo: /ja/posts/[SLUG_TBD]/ -->
-[横浜1日コース完全ガイド（赤レンガ倉庫、中華街）](#)**
+**➡️ [横浜1日コース完全ガイド（赤レンガ倉庫、中華街）](#)**<!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
 
 ---
 
@@ -198,8 +197,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 横浜ランドマークを完璧に楽しめる横浜1日おすすめコースをご覧ください！
 
-**➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223979907748 Hugo: /ja/posts/[SLUG_TBD]/ -->
-[横浜1日コース 中華街グルメ、赤レンガソコ、夜景スポット総まとめ](#)**
+**➡️ [横浜1日コース 中華街グルメ、赤レンガソコ、夜景スポット総まとめ](#)**<!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
 
 ---
 
