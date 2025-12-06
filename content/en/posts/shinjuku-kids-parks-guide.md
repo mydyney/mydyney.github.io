@@ -20,7 +20,7 @@ This is your dedicated Shinjuku family travel guide.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐If you want to see all Shinjuku travel courses and restaurants, shopping, and night view info at a glance<br>
 ➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Attractions Guide</b></a></p>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Complete Shinjuku Attractions Guide</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-01.jpg" alt="5 major kids parks departing from Shinjuku">
@@ -336,7 +336,8 @@ Space museum **"TeNQ"**
 For **Shinjuku children's attractions**, this is the strongest half-day rainy day course.
 
 <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035895968" style="color: #667eea;"><b>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels - Complete Guide</b></a>
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224035895968 Hugo: /posts/tokyo-dome-city-guide/ -->
+<a href="#" style="color: #667eea;"><b>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels - Complete Guide</b></a>
 
 ### 🚆 How to Get There from Shinjuku
 
@@ -393,7 +394,7 @@ Shinjuku attraction recommendations—especially for children and elementary stu
 For adult-focused Shinjuku sights and places to visit, check out the posts below.
 
 ➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Shinjuku Attractions: From Shinjuku Gyoen to Restaurants, Shopping, Golden Gai - Complete Course Guide</b></a>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Shinjuku Attractions: From Shinjuku Gyoen to Restaurants, Shopping, Golden Gai - Complete Course Guide</b></a>
 
 ➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show, Gundam, Godzilla Times, Access, Closed Days, Night View Tips - Complete Guide</b></a>
 
