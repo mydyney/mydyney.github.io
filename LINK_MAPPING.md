@@ -168,6 +168,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223670085459 | tokyo-christmas-illumination-best-5-2025 | 2024 Roppongi Hills Christmas Market Review |
 | 223688700265 | tokyo-christmas-illumination-best-5-2025 | 2024 Tokyo Omotesando Illumination and Harajuku Free Observatory |
 | 223689247336 | tokyo-christmas-illumination-best-5-2025 | 2024 Tokyo Shibuya Miyashita Park Christmas Illumination |
+| 223691772722 | nihonbashi-tokyo-guide | Tokyo Nihonbashi Pokemon Center Tokyo DX & Pokemon Cafe Guide |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -318,6 +319,7 @@ declare -A MAPPINGS=(
   ["223670085459"]="roppongi-hills-christmas-market-review-2024"
   ["223688700265"]="omotesando-illumination-harajuku-observatory-review-2024"
   ["223689247336"]="shibuya-miyashita-park-illumination-review-2024"
+  ["223691772722"]="nihonbashi-pokemon-center-dx-cafe-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do

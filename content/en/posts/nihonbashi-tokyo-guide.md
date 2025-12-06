@@ -136,7 +136,10 @@ A paradise for Pokemon fans located in Takashimaya S.C. New Building. Full of li
 
 If you're curious about detailed interior views, limited edition goods, and the 100% reservation-only Pokemon Cafe, check out the detailed guide below!
 
-➡️ <a href="https://blog.naver.com/tokyomate/223691772722" target="_blank" style="color: #667eea;"><strong>Tokyo Nihonbashi Pokemon Center Tokyo DX & Pokemon Cafe, 5 Minutes from Tokyo Station</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223691772722
+     Hugo: /posts/nihonbashi-pokemon-center-dx-cafe-guide/ -->
+➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Nihonbashi Pokemon Center Tokyo DX & Pokemon Cafe, 5 Minutes from Tokyo Station</strong></a>
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-12.jpg" alt="Pokemon Cafe on same floor as Pokemon Center DX">
@@ -290,18 +293,18 @@ Nihonbashi is located in central Tokyo, making it a perfect starting point for a
 
 Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach Tokyo Station. Explore the massive underground shopping area with Character Street and Ramen Street, or enjoy the beautiful Marunouchi Station building's night view.
 
-➡️ <a href="https://blog.naver.com/tokyomate/224031611221" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
+➡️ <a href="/posts/tokyo-station-guide/" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
 
 **🚇 2 Minutes by Subway (Ginza Line)! Luxury Shopping Center, Ginza**
 
 If you want to enjoy modern, sophisticated shopping different from Nihonbashi's traditional atmosphere, take the Ginza Line subway two stops. World-class luxury brands, upscale department stores, and atmospheric cafes await you.
 
-➡️ <a href="https://blog.naver.com/tokyomate/223989943826" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
+➡️ <a href="/posts/ginza-guide-2025/" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
 
 **🚇 10 Minutes by Subway (Ginza Line)! Traditional Tokyo Scenery, Asakusa**
 
 If you want to experience lively traditional commoner culture different from Nihonbashi's business-oriented tradition, use the Asakusa subway line. Enjoy Tokyo's oldest temple, Senso-ji, and Nakamise-dori's street food.
 
-➡️ <a href="https://blog.naver.com/tokyomate/224024819592" target="_blank" style="color: #667eea;"><strong>Tokyo Asakusa Activities & Restaurants Complete Guide (Senso-ji, Gyukatsu, Hotel Recommendations)</strong></a>
+➡️ <a href="/posts/asakusa-complete-guide/" target="_blank" style="color: #667eea;"><strong>Tokyo Asakusa Activities & Restaurants Complete Guide (Senso-ji, Gyukatsu, Hotel Recommendations)</strong></a>
 
 </div>
