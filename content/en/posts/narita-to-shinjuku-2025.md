@@ -83,7 +83,8 @@ the fastest, most comfortable, and most punctual method."
 - **Advantages**: All reserved seats, wide seat spacing + ample luggage rack
 - **Disadvantages**: Expensive one-way, **strongly recommend round-trip ticket**
 
-**➡️ [Narita Express (N'EX) Reservation & Seat Selection Complete Guide↗](/posts/narita-express-guide/)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /posts/narita-express-guide/ -->
+**➡️ [Narita Express (N'EX) Reservation & Seat Selection Complete Guide↗](#)**
 
 - **Booking Methods**: Klook, KKday / JR East Service Center
 
@@ -497,7 +498,8 @@ In addition to Shinjuku-bound transportation, if you need more detailed informat
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224007949043 Hugo: /posts/narita-airport-arrival-guide/ -->
 **➡️ [Tokyo Narita Airport Arrival Guide (Getting to the City, Suica, ATM Complete Guide) ↗](#)**
 
-**➡️ [Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide ↗](/posts/narita-express-guide/)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /posts/narita-express-guide/ -->
+**➡️ [Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide ↗](#)**
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /posts/narita-airport-limousine-guide/ -->
 **➡️ [Narita Airport Limousine & Budget Express Bus Complete Guide (Reservations, Prices) ↗](#)**

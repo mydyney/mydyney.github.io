@@ -83,7 +83,8 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 - **利点**:全席指定席、広い座席間隔+大きな荷物置き場
 - **欠点**:片道が高い、**往復券を強く推奨**
 
-**➡️ [成田エクスプレス(N'EX)予約・座席選択完全ガイド↗](/ja/posts/narita-express-guide/)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /ja/posts/narita-express-guide/ -->
+**➡️ [成田エクスプレス(N'EX)予約・座席選択完全ガイド↗](#)**
 
 - **予約方法**:Klook、KKday / JR東日本サービスセンター
 
@@ -497,7 +498,8 @@ A. この場合、以下のいずれかを選ぶしかありません:
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224007949043 Hugo: /ja/posts/narita-airport-arrival-guide/ -->
 **➡️ [東京成田空港到着ガイド(市内への行き方、Suica、ATM完全ガイド)↗](#)**
 
-**➡️ [成田エクスプレス(N'EX)予約、料金、時刻表完全ガイド↗](/ja/posts/narita-express-guide/)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /ja/posts/narita-express-guide/ -->
+**➡️ [成田エクスプレス(N'EX)予約、料金、時刻表完全ガイド↗](#)**
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /ja/posts/narita-airport-limousine-guide/ -->
 **➡️ [成田空港リムジンバス&格安エクスプレスバス完全ガイド(予約、料金)↗](#)**

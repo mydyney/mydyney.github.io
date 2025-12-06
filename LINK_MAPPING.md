@@ -275,6 +275,7 @@ declare -A MAPPINGS=(
   ["224035533672"]="ghibli-museum-reservation-guide"
   ["224031611221"]="tokyo-station-guide"
   ["224003374650"]="skyliner-reservation-guide"
+  ["224002738158"]="narita-express-guide"
   ["224007949043"]="narita-airport-arrival-guide"
   ["224004709356"]="narita-airport-limousine-guide"
   ["223989943826"]="ginza-guide-2025"
