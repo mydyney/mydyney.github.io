@@ -19,7 +19,7 @@ your complete whisky shopping guide! 🍶</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐ Want to see Shinjuku's full itinerary at a glance?<br>
 ➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><strong>Complete Shinjuku Activities Guide ↗</strong></a></p>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Complete Shinjuku Activities Guide ↗</strong></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-01.jpg" alt="Shinjuku liquor shops Yamaya Shinanoya Bic Camera whisky tax-free discount coupons">
@@ -215,17 +215,18 @@ This itinerary lets you complete Shinjuku shopping + whisky shopping + night vie
 
 If you want to know more about Shinjuku activities, restaurants, and night view courses, check out the 'Complete Shinjuku Course' guide below!
 
-**➡️ [Complete Shinjuku Guide from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai ↗](https://blog.naver.com/tokyomate/224035271300)**
+**➡️ [Complete Shinjuku Guide from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai ↗](/posts/shinjuku-guide-2025/)**
 
 **➡️ [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips ↗](/posts/tokyo-metropolitan-govt-observatory/)**
 
 ### ⭐ Related Shopping Guides
 
-**➡️ [Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, Department Stores Tax-Free + Additional Discounts) ↗](https://blog.naver.com/tokyomate/224039113760)**
+**➡️ [Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, Department Stores Tax-Free + Additional Discounts) ↗](/posts/japan-travel-discount-coupons-2025/)**
 
-**➡️ [Japan Don Quijote Shopping List Must-Buy Items & Discount Coupons, Tax-Free Guide (La-Yu, Eye Drops, etc.) ↗](https://blog.naver.com/tokyomate/224022065518)**
+**➡️ [Japan Don Quijote Shopping List Must-Buy Items & Discount Coupons, Tax-Free Guide (La-Yu, Eye Drops, etc.) ↗](/posts/don-quijote-shopping-guide-2025/)**
 
-**➡️ [Japan Kaldi Shopping List Must-Buy Kaldi Items (Spread, Portion Coffee, Tax-Free Tips) ↗](https://blog.naver.com/tokyomate/224033964477)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224033964477 Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
+**➡️ [Japan Kaldi Shopping List Must-Buy Kaldi Items (Spread, Portion Coffee, Tax-Free Tips) ↗](#)**
 
 **➡️ [Complete Japan Convenience Store Guide! (7-Eleven, FamilyMart, Lawson Comparison) ↗](/posts/japan-convenience-store-shopping-best-10/)**
 

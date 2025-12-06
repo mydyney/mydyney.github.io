@@ -16,10 +16,8 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 山崎・響・カバランの価格と免税裏技を完全網羅 🍶<br>
 <br>
 ⭐ 新宿1日動線を一目で見たいなら...<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>新宿観光完全ガイド ↗</strong></a></p>
+➡️ <!-- Link updated -->
+<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿観光完全ガイド ↗</strong></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-01.jpg" alt="新宿酒屋 やまや 信濃屋 ビックカメラ ウイスキー 免税 割引クーポン">
@@ -215,17 +213,18 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 新宿のもっと多くの観光スポット、グルメ、夜景コースが知りたい方は、下記の「新宿完全コース」ガイドをご確認ください！
 
-**➡️ [新宿御苑からグルメ、ショッピング、ゴールデン街まで 新宿観光完全ガイド ↗](https://blog.naver.com/tokyomate/224035271300)**
+**➡️ [新宿御苑からグルメ、ショッピング、ゴールデン街まで 新宿観光完全ガイド ↗](/ja/posts/shinjuku-guide-2025/)**
 
 **➡️ [東京都庁 無料展望台 ライトショー・新宿夜景 裏技 ↗](/ja/posts/tokyo-metropolitan-govt-observatory/)**
 
 ### ⭐ 一緒に見るとよいショッピングガイド
 
-**➡️ [日本旅行 割引クーポン完全ガイド2025（ドン・キホーテ、ビックカメラ、デパートなど 免税+追加割引）↗](https://blog.naver.com/tokyomate/224039113760)**
+**➡️ [日本旅行 割引クーポン完全ガイド2025（ドン・キホーテ、ビックカメラ、デパートなど 免税+追加割引） ↗](/ja/posts/japan-travel-discount-coupons-2025/)**
 
-**➡️ [日本ドン・キホーテ ショッピングリスト 必須おすすめ品 & 割引クーポン、免税方法完全ガイド（ラー油、目薬など）↗](https://blog.naver.com/tokyomate/224022065518)**
+**➡️ [日本ドン・キホーテ ショッピングリスト 必須おすすめ品 & 割引クーポン、免税方法完全ガイド（ラー油、目薬など） ↗](/ja/posts/don-quijote-shopping-guide-2025/)**
 
-**➡️ [日本カルディ ショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技）↗](https://blog.naver.com/tokyomate/224033964477)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224033964477 Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
+**➡️ [日本カルディ ショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技） ↗](#)**
 
 **➡️ [日本コンビニ完全制覇！（セブンイレブン、ファミマ、ローソン比較完全ガイド）↗](/ja/posts/japan-convenience-store-shopping-best-10/)**
 
