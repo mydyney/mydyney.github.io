@@ -18,7 +18,7 @@ And pros/cons compared to JR/subway - all summarized in one place.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐Want to see the complete Shinjuku travel course with restaurants, shopping, and night views at a glance?<br>
 ➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Guide</b></a></p>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Complete Shinjuku Guide</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg" alt="Shinjuku to Disneyland limousine bus Busta Shinjuku schedule and fare guide">
@@ -272,7 +272,7 @@ Families with children recommended for front row/window seats!
 ## 📌 Related Travel Guides
 
 **➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;">Complete Shinjuku Course Guide</a>**
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Course Guide</a>**
 
 **➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks</a>**
 
