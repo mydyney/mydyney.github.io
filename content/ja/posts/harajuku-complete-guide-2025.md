@@ -78,6 +78,12 @@ featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
   <figure>
     <img src="/images/posts/harajuku-complete-guide-2025-08.jpg" alt="ハリーポッターバタービール">
   </figure>
+  <figure>
+    <img src="/images/posts/harajuku-complete-guide-2025-09.jpg" alt="ハリーポッターストア内部">
+  </figure>
+  <figure>
+    <img src="/images/posts/harajuku-complete-guide-2025-10.jpg" alt="ハリーポッターコレクタブル">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">ハリーポッター杖とバタービール</figcaption>
 </div>
 
@@ -91,22 +97,22 @@ featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
 - <strong>ショッピング：</strong><strong>[パリスキッズ](https://maps.app.goo.gl/CMJLbPrFsRn2ord16)</strong>（安いアクセサリー）、<strong>[ダイソー原宿](https://maps.app.goo.gl/Ast9jFpMNvTrMgqR8)</strong>などを見て回る楽しみが満載
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-09.jpg" alt="JR原宿駅竹下口側の竹下通り入口">
+  <img src="/images/posts/harajuku-complete-guide-2025-11.jpg" alt="JR原宿駅竹下口側の竹下通り入口">
   <figcaption style="font-size: 0.7em; text-align: center;">竹下通り入口（JR原宿駅竹下口側）</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-10.jpg" alt="マリオンクレープ店舗">
+    <img src="/images/posts/harajuku-complete-guide-2025-12.jpg" alt="マリオンクレープ店舗">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-11.jpg" alt="スウィートボックスクレープ店舗">
+    <img src="/images/posts/harajuku-complete-guide-2025-13.jpg" alt="スウィートボックスクレープ店舗">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">マリオンクレープとスウィートボックスクレープ全景</figcaption>
 </div>
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-12.jpg" alt="竹下通りショッピング雰囲気">
+  <img src="/images/posts/harajuku-complete-guide-2025-14.jpg" alt="竹下通りショッピング雰囲気">
 </figure>
 
 ---
@@ -121,16 +127,16 @@ featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
 📌 現代カードの日本提携サービスを利用すれば、<strong>税込22,000円以上決済時5%を即時割引</strong>受けられます（～2025年12月24日まで）
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-13.jpg" alt="ラフォーレ原宿ビル">
+  <img src="/images/posts/harajuku-complete-guide-2025-15.jpg" alt="ラフォーレ原宿ビル">
   <figcaption style="font-size: 0.7em; text-align: center;">ラフォーレ原宿</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-14.jpg" alt="GR8店舗内部">
+    <img src="/images/posts/harajuku-complete-guide-2025-16.jpg" alt="GR8店舗内部">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-15.jpg" alt="ラフォーレのヒューマンメイド店舗">
+    <img src="/images/posts/harajuku-complete-guide-2025-17.jpg" alt="ラフォーレのヒューマンメイド店舗">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">ラフォーレ原宿1階GR8とヒューマンメイド店舗の様子</figcaption>
 </div>
@@ -147,12 +153,12 @@ featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
 - <strong>[HUMAN MADE OFFLINE STORE（ヒューマンメイド）](https://maps.app.goo.gl/yMx8zCxbcWUhj6En8)：</strong>BAPEの創立者ニゴー（NIGO）が作った別のブランド。ヴィンテージアメリカンカジュアルをベースにしたウィットのあるデザインが特徴です。
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-16.jpg" alt="ベイプストア原宿">
+  <img src="/images/posts/harajuku-complete-guide-2025-18.jpg" alt="ベイプストア原宿">
   <figcaption style="font-size: 0.7em; text-align: center;">ベイプストア原宿</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-17.jpg" alt="HUMAN MADE OFFLINE STORE">
+  <img src="/images/posts/harajuku-complete-guide-2025-19.jpg" alt="HUMAN MADE OFFLINE STORE">
   <figcaption style="font-size: 0.7em; text-align: center;">HUMAN MADE OFFLINE STORE</figcaption>
 </figure>
 
@@ -167,16 +173,16 @@ featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
 
 <div class="image-group-4">
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-18.jpg" alt="キディランドキャラクターグッズ">
+    <img src="/images/posts/harajuku-complete-guide-2025-20.jpg" alt="キディランドキャラクターグッズ">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-19.jpg" alt="キディランド店内">
+    <img src="/images/posts/harajuku-complete-guide-2025-21.jpg" alt="キディランド店内">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-20.jpg" alt="キャットストリートブティック">
+    <img src="/images/posts/harajuku-complete-guide-2025-22.jpg" alt="キャットストリートブティック">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-21.jpg" alt="キャットストリートカフェ雰囲気">
+    <img src="/images/posts/harajuku-complete-guide-2025-23.jpg" alt="キャットストリートカフェ雰囲気">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">キディランドとキャットストリートのショップ</figcaption>
 </div>

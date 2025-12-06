@@ -78,6 +78,12 @@ Recently, the official Harry Potter merchandise shop <strong>'[Mahou Dokoro](htt
   <figure>
     <img src="/images/posts/harajuku-complete-guide-2025-08.jpg" alt="Harry Potter Butterbeer">
   </figure>
+  <figure>
+    <img src="/images/posts/harajuku-complete-guide-2025-09.jpg" alt="Harry Potter store interior">
+  </figure>
+  <figure>
+    <img src="/images/posts/harajuku-complete-guide-2025-10.jpg" alt="Harry Potter collectibles">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Harry Potter wands and Butterbeer</figcaption>
 </div>
 
@@ -91,22 +97,22 @@ Takeshita Street (竹下通り) is synonymous with Harajuku. The narrow alley is
 - <strong>Shopping:</strong> Fun browsing at <strong>[Paris Kids](https://maps.app.goo.gl/CMJLbPrFsRn2ord16)</strong> (affordable accessories), <strong>[Daiso Harajuku](https://maps.app.goo.gl/Ast9jFpMNvTrMgqR8)</strong>
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-09.jpg" alt="Takeshita Street entrance from JR Harajuku Station">
+  <img src="/images/posts/harajuku-complete-guide-2025-11.jpg" alt="Takeshita Street entrance from JR Harajuku Station">
   <figcaption style="font-size: 0.7em; text-align: center;">Takeshita Street entrance (JR Harajuku Station Takeshita Exit side)</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-10.jpg" alt="Marion Crepes storefront">
+    <img src="/images/posts/harajuku-complete-guide-2025-12.jpg" alt="Marion Crepes storefront">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-11.jpg" alt="Sweet Box Crepes storefront">
+    <img src="/images/posts/harajuku-complete-guide-2025-13.jpg" alt="Sweet Box Crepes storefront">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Marion Crepes and Sweet Box Crepes storefronts</figcaption>
 </div>
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-12.jpg" alt="Takeshita Street shopping atmosphere">
+  <img src="/images/posts/harajuku-complete-guide-2025-14.jpg" alt="Takeshita Street shopping atmosphere">
 </figure>
 
 ---
@@ -121,16 +127,16 @@ To see Harajuku fashion's present, head to Laforet department store.
 📌 Using Hyundai Card's Japan partnership service, you can get <strong>5% instant discount on purchases over 22,000 yen including tax</strong> (~December 24, 2025)
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-13.jpg" alt="Laforet Harajuku building">
+  <img src="/images/posts/harajuku-complete-guide-2025-15.jpg" alt="Laforet Harajuku building">
   <figcaption style="font-size: 0.7em; text-align: center;">Laforet Harajuku</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-14.jpg" alt="GR8 store interior">
+    <img src="/images/posts/harajuku-complete-guide-2025-16.jpg" alt="GR8 store interior">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-15.jpg" alt="Human Made store in Laforet">
+    <img src="/images/posts/harajuku-complete-guide-2025-17.jpg" alt="Human Made store in Laforet">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Laforet Harajuku 1F GR8 and Human Made store views</figcaption>
 </div>
@@ -147,12 +153,12 @@ To see Harajuku fashion's present, head to Laforet department store.
 - <strong>[HUMAN MADE OFFLINE STORE](https://maps.app.goo.gl/yMx8zCxbcWUhj6En8):</strong> Another brand by NIGO, founder of BAPE. Features witty designs based on vintage American casual.
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-16.jpg" alt="BAPE Store Harajuku">
+  <img src="/images/posts/harajuku-complete-guide-2025-18.jpg" alt="BAPE Store Harajuku">
   <figcaption style="font-size: 0.7em; text-align: center;">BAPE Store Harajuku</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/harajuku-complete-guide-2025-17.jpg" alt="HUMAN MADE OFFLINE STORE">
+  <img src="/images/posts/harajuku-complete-guide-2025-19.jpg" alt="HUMAN MADE OFFLINE STORE">
   <figcaption style="font-size: 0.7em; text-align: center;">HUMAN MADE OFFLINE STORE</figcaption>
 </figure>
 
@@ -167,16 +173,16 @@ To see Harajuku fashion's present, head to Laforet department store.
 
 <div class="image-group-4">
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-18.jpg" alt="Kiddyland character goods">
+    <img src="/images/posts/harajuku-complete-guide-2025-20.jpg" alt="Kiddyland character goods">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-19.jpg" alt="Kiddyland store interior">
+    <img src="/images/posts/harajuku-complete-guide-2025-21.jpg" alt="Kiddyland store interior">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-20.jpg" alt="Cat Street boutique">
+    <img src="/images/posts/harajuku-complete-guide-2025-22.jpg" alt="Cat Street boutique">
   </figure>
   <figure>
-    <img src="/images/posts/harajuku-complete-guide-2025-21.jpg" alt="Cat Street cafe atmosphere">
+    <img src="/images/posts/harajuku-complete-guide-2025-23.jpg" alt="Cat Street cafe atmosphere">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Kiddyland and Cat Street shops</figcaption>
 </div>
