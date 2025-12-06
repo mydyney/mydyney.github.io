@@ -163,18 +163,31 @@ featured_image: "/images/posts/tokyo-dome-city-christmas-illumination-2025-01.jp
   </ul>
 </div>
 
-<h2>周辺イルミネーション情報</h2>
+<h2>🎄 2025 東京クリスマス完全ガイド</h2>
 
-<p>東京ドームシティ周辺には他にも素敵なイルミネーションスポットがあります：</p>
+<p><strong>🚶 東京クリスマス3泊4日必須コース</strong></p>
+<p><a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>➡️ 東京クリスマスイルミネーション3泊4日モデルコース＆クリスマスマーケット完全ガイド</strong></a></p>
 
-<ul>
-  <li><a href="/ja/posts/marunouchi-illumination-2025/" style="color:#667eea;">丸の内イルミネーション2025</a> - 電車で約15分</li>
-  <li><a href="/ja/posts/roppongi-christmas-illumination-2025/" style="color:#667eea;">六本木けやき坂イルミネーション2025</a> - 電車で約20分</li>
-  <!-- TODO: Update link after migration
-       Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
-       Hugo: /ja/posts/[SLUG_TBD]/ -->
-  <li><a href="#" style="color:#667eea;">東京クリスマスイルミネーション BEST 5</a></li>
-</ul>
+<p><strong>🌟 2025 東京クリスマスイルミネーション総まとめ</strong></p>
+<p><a href="/ja/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>➡️ 2025 東京クリスマスイルミネーションベスト5 (六本木、丸の内攻略法)</strong></a></p>
+
+<p><strong>🌟 11/4開始：六本木ヒルズイルミネーション</strong></p>
+<p><a href="/ja/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;"><strong>➡️ 2025 六本木ヒルズイルミネーション：期間、時間、見どころ完全ガイド</strong></a></p>
+
+<p><strong>🌟 11/6開始：東京スカイツリークリスマスマーケット</strong></p>
+<p><a href="/ja/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;"><strong>➡️ 2025 東京スカイツリー クリスマスマーケット完全ガイド</strong></a></p>
+
+<p><strong>🌟 11/8開始：恵比寿ガーデンプレイスイルミネーション</strong></p>
+<p><a href="/ja/posts/yebisu-garden-place-illumination-christmas-market-2025/" style="color: #667eea;"><strong>➡️ 2025恵比寿ガーデンプレイスイルミネーション・クリスマスマーケット完全ガイド</strong></a></p>
+
+<p><strong>🌟 11/13開始：東京丸の内イルミネーション</strong></p>
+<p><a href="/ja/posts/marunouchi-illumination-2025/" style="color: #667eea;"><strong>➡️ 東京丸の内イルミネーション2025完全ガイド｜ディズニーコラボ、クリスマスマーケット、スタンプラリー</strong></a></p>
+
+<p><strong>🌟 11/13開始：日比谷ミッドタウンイルミネーション</strong></p>
+<p><a href="/ja/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>➡️ 2025年 日比谷ミッドタウンイルミネーション · ズートピア2コラボ · 丸の内徒歩コース完全ガイド</strong></a></p>
+
+<p><strong>🌟 11/13開始：六本木東京ミッドタウンイルミネーション</strong></p>
+<p><a href="/ja/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;"><strong>➡️ 六本木東京ミッドタウン クリスマス2025：イルミネーション、サンタツリー、マルシェ＆スケートリンク完全ガイド</strong></a></p>
 
 <p>東京ドームシティのウィンターイルミネーションは、<strong>入場無料</strong>で楽しめる東京有数のイルミネーションスポット。TXTとのコラボレーションで、今年は特に注目度が高くなっています。ぜひ幻想的な冬の世界を体験してみてください！</p>
 

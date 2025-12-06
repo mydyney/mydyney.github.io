@@ -236,16 +236,16 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">渋谷スカイ予約・ショッピング・グルメまで完璧コース</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷スカイ予約・ショッピング・グルメまで完璧コース</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/harajuku-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">原宿ハリーポッターストア・竹下通り・キャットストリート徒歩コース</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/harajuku-complete-guide-2025/" style="color: #667eea;">原宿ハリーポッターストア・竹下通り・キャットストリート徒歩コース</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224096203397
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">下北沢ヴィンテージショッピング・グルメ・必須コース（渋谷から10分）</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/shimokitazawa-tokyo-travel-guide/" style="color: #667eea;">下北沢ヴィンテージショッピング・グルメ・必須コース（渋谷から10分）</a></strong></p>
 
 </div>
