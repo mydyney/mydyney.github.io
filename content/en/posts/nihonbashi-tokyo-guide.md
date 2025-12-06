@@ -293,13 +293,19 @@ Nihonbashi is located in central Tokyo, making it a perfect starting point for a
 
 Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach Tokyo Station. Explore the massive underground shopping area with Character Street and Ramen Street, or enjoy the beautiful Marunouchi Station building's night view.
 
-➡️ <a href="/posts/tokyo-station-guide/" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031611221
+     Hugo: /posts/tokyo-station-guide/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
 
 **🚇 2 Minutes by Subway (Ginza Line)! Luxury Shopping Center, Ginza**
 
 If you want to enjoy modern, sophisticated shopping different from Nihonbashi's traditional atmosphere, take the Ginza Line subway two stops. World-class luxury brands, upscale department stores, and atmospheric cafes await you.
 
-➡️ <a href="/posts/ginza-guide-2025/" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223989943826
+     Hugo: /posts/ginza-guide-2025/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
 
 **🚇 10 Minutes by Subway (Ginza Line)! Traditional Tokyo Scenery, Asakusa**
 
