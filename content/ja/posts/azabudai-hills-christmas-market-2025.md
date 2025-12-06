@@ -281,7 +281,7 @@ featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
 🎁 **昨年（2024）の現場の雰囲気が気になるなら？**
 ➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-christmas-market-review-2024/ -->
 <a href="#" style="color: #667eea;"><b>2024 麻布台ヒルズ クリスマスマーケット現場レビュー（東京タワー夜景含む）</b></a>
 
 <figure>

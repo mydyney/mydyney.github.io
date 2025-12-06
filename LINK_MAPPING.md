@@ -266,6 +266,7 @@ declare -A MAPPINGS=(
   ["224039113760"]="japan-travel-discount-coupons-2025"
   ["224033964477"]="kaldi-coffee-farm-shopping-list"
   ["224022065518"]="don-quijote-shopping-guide-2025"
+  ["223671427079"]="azabudai-hills-christmas-market-review-2024"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
