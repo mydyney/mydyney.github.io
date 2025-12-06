@@ -286,10 +286,8 @@ Have a wonderful Tokyo trip! :D
 
 ## 🧡 Related Tokyo Travel Guides
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Shinjuku Travel Course: Perfect Guide from Gyoen to Restaurants & Golden Gai</strong></a>
+
+**➡️** <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Shinjuku Travel Course: Perfect Guide from Gyoen to Restaurants & Golden Gai</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/
