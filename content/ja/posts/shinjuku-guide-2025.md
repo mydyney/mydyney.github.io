@@ -376,12 +376,12 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <p><strong>➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">東京都庁 無料展望室ガイド：ライトアップ時間、行き方、休室日、夜景完全攻略</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="東京都庁">
+  <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="東京都庁">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿無料展望台、東京都庁</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="東京都庁 入口">
+  <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="東京都庁 入口">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿無料展望台 東京都庁入口</figcaption>
 </figure>
 
@@ -401,7 +401,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <p><strong>➡️ <a href="/ja/posts/happy-new-year-tokyo-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 カウントダウン無料観覧応募方法</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="新宿イルミネーション ネオンワーク">
+  <img src="/images/posts/shinjuku-guide-2025-16.jpg" alt="新宿イルミネーション ネオンワーク">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿イルミネーション ネオンワーク</figcaption>
 </figure>
 
@@ -411,12 +411,12 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 タワー内のフードホール、ゲームセンター、映画館などで、安全かつ快適に歌舞伎町のエネルギーを楽しむことができます。
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-16.jpg" alt="新宿歌舞伎町 入口">
+  <img src="/images/posts/shinjuku-guide-2025-17.jpg" alt="新宿歌舞伎町 入口">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿 歌舞伎町 入口</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-17.jpg" alt="東急歌舞伎町タワー">
+  <img src="/images/posts/shinjuku-guide-2025-18.jpg" alt="東急歌舞伎町タワー">
   <figcaption style="font-size: 0.7em; text-align: center;">東急歌舞伎町タワー</figcaption>
 </figure>
 
@@ -425,7 +425,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 昭和の風情を感じながら、冷たいビールを一杯飲むのに最適な場所です。
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-18.jpg" alt="思い出横丁">
+  <img src="/images/posts/shinjuku-guide-2025-19.jpg" alt="思い出横丁">
   <figcaption style="font-size: 0.7em; text-align: center;">思い出横丁</figcaption>
 </figure>
 
@@ -444,7 +444,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 店ごとに個性がはっきりしており常連客も多く、映画『ジョン・ウィック』の撮影地としても有名です。特別な雰囲気でカクテルを一杯楽しみたい時におすすめです。
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-19.jpg" alt="新宿ゴールデン街">
+  <img src="/images/posts/shinjuku-guide-2025-20.jpg" alt="新宿ゴールデン街">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ゴールデン街</figcaption>
 </figure>
 
@@ -460,7 +460,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <p><strong>➡️ <a href="/ja/posts/hakone-day-trip-course/" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-20.jpg" alt="箱根">
+  <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="箱根">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿近郊旅行、箱根</figcaption>
 </figure>
 

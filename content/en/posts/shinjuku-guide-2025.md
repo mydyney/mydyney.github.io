@@ -376,12 +376,12 @@ The most recommended time is **'1 hour before sunset'**. Don't miss the golden t
 <p><strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">Tokyo Metro Govt Building Free Observatory Light Show Times, Access, Closed Days, Night View Guide</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="Tokyo Metropolitan Government Building">
+  <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="Tokyo Metropolitan Government Building">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Free Observatory, Tokyo Metropolitan Government Building</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="Tokyo Metropolitan Government Building Entrance">
+  <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="Tokyo Metropolitan Government Building Entrance">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Free Observatory Tokyo Metro Govt Building Entrance</figcaption>
 </figure>
 
@@ -401,7 +401,7 @@ If you visit Shinjuku at the end of the year, you can enjoy a large-scale New Ye
 <p><strong>➡️ <a href="/posts/happy-new-year-tokyo-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 Countdown Free Application</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="Shinjuku Illumination Neon Work">
+  <img src="/images/posts/shinjuku-guide-2025-16.jpg" alt="Shinjuku Illumination Neon Work">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Illumination Neon Work</figcaption>
 </figure>
 
@@ -411,12 +411,12 @@ There are many attractions like the 'Godzilla Head' and iconic red arch. Recentl
 You can safely enjoy Kabukicho's energy at the food hall, arcade, and cinema inside the tower.
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-16.jpg" alt="Shinjuku Kabukicho Entrance">
+  <img src="/images/posts/shinjuku-guide-2025-17.jpg" alt="Shinjuku Kabukicho Entrance">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Kabukicho Entrance</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-17.jpg" alt="Tokyu Kabukicho Tower">
+  <img src="/images/posts/shinjuku-guide-2025-18.jpg" alt="Tokyu Kabukicho Tower">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyu Kabukicho Tower</figcaption>
 </figure>
 
@@ -424,7 +424,7 @@ You can safely enjoy Kabukicho's energy at the food hall, arcade, and cinema ins
 Literally 'Memories Alley', narrow alleys are packed with **Yakitori** shops on both sides. It's a great place to have a cold beer while feeling the Showa era atmosphere.
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-18.jpg" alt="Omoide Yokocho">
+  <img src="/images/posts/shinjuku-guide-2025-19.jpg" alt="Omoide Yokocho">
   <figcaption style="font-size: 0.7em; text-align: center;">Omoide Yokocho</figcaption>
 </figure>
 
@@ -443,7 +443,7 @@ A unique street where over 200 tiny bars are densely packed.
 Each shop has a distinct personality with many regulars, and it is also famous as a filming location for the movie 'John Wick'. Recommended when you want a cocktail in a special atmosphere.
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-19.jpg" alt="Shinjuku Golden Gai">
+  <img src="/images/posts/shinjuku-guide-2025-20.jpg" alt="Shinjuku Golden Gai">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Golden Gai</figcaption>
 </figure>
 
@@ -459,7 +459,7 @@ Shinjuku Station is also a key departure point for travel to Tokyo's suburbs. Yo
 <p><strong>➡️ <a href="/posts/hakone-day-trip-course/" style="color: #667eea;">Hakone Day Trip vs 1 Night Perfect Course (Hakone Free Pass, Romancecar Reservation)</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-20.jpg" alt="Hakone">
+  <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="Hakone">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Suburb Travel, Hakone</figcaption>
 </figure>
 
