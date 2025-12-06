@@ -1,48 +1,50 @@
 ---
-title: "新宿完全攻略ガイド：新宿御苑、ショッピング、グルメ、ゴールデン街"
+title: "新宿完全ガイド：御苑、ショッピング、グルメ、ゴールデン街から近郊旅行まで"
 date: 2025-10-09T01:18:00+09:00
 draft: false
 categories: ["Shinjuku & Harajuku"]
-tags: ["shinjuku", "shinjuku-gyoen", "golden-gai", "tokyo-shopping", "tokyo-food-guide"]
+tags: ["shinjuku", "shinjuku-gyoen", "golden-gai", "tokyo-shopping", "tokyo-food-guide", "kabukicho", "omoide-yokocho"]
 translationKey: "shinjuku-guide-2025"
-description: "新宿観光のすべて：新宿御苑から厳選グルメ、ショッピングモール（伊勢丹、ルミネ）、ゴールデン街のナイトライフまで。迷わず楽しめる完全モデルコース。"
-summary: "新宿駅の出口解説から、1日おすすめコース（御苑、買い物、夜景）、そしてミシュランラーメンやうどんなどの必食グルメスポットまで徹底紹介。"
+description: "新宿観光のすべて：新宿御苑からミシュラン・食べロググルメ、伊勢丹・ルミネなどのショッピング、歌舞伎町・ゴールデン街のナイトライフ、箱根などの近郊旅行まで完全網羅。"
+summary: "新宿のおすすめコース完全ガイド：複雑な駅出口の解説から、1日モデルコース（御苑・買物・夜景）、ミシュラン寿司・ラーメン、カフェ、ゴールデン街や歌舞伎町タワーなどの最新スポットまで。"
 featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 ---
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">世界一の乗降客数を誇る巨大ターミナル、新宿！<br>
-どこから回ればいいか迷っていませんか？<br>
-都会のオアシス<b>新宿御苑</b>から、ミシュラン星付き<b>レストラン</b>、<br>
-百貨店での優雅な<b>ショッピング</b>、そして<b>ゴールデン街</b>のディープな夜まで。<br>
-迷わず新宿を満喫するための完璧なモデルコースをご紹介します。</p>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">
+世界一の乗降客数を誇る巨大ターミナル、新宿！<br>
+広すぎてどこから行けばいいか迷っていませんか？<br>
+都会のオアシス<b>新宿御苑</b>からミシュラン・食べログ<b>グルメ</b>、<br>
+百貨店での<b>ショッピング</b>、そして<b>ゴールデン街</b>のディープな夜まで。<br>
+迷わず新宿を楽しみ尽くすための完璧なモデルコースをご紹介します。
+</p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-01.jpg" alt="新宿の街並み">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿の街並み</figcaption>
 </figure>
 
 <hr class="se-hr">
 
-<h2>✨ 新宿の基本知識（出口と交通）</h2>
+<h2>✨ 新宿の基本知識（出口＆交通ガイド）</h2>
 
-新宿攻略の第一歩は、巨大な**新宿駅**を理解すること。ギネスにも認定された**世界一忙しい駅**であり、**出口は200以上**。まさに迷宮です。大きく分けて3つのエリアがあります。
+新宿攻略の第一歩は、巨大な**「新宿駅」**を理解することです。
+ギネスブックにも**「世界で最も忙しい駅」**として認定されており、**200以上の出口**がある巨大迷路のような場所です。新宿は大きく3つのエリアに分かれています。
 
 <ul>
-<li><b>東口（East Exit）：ショッピングと歓楽街の中心</b></li>
+<li><b>東口エリア：ショッピングと歓楽街の中心</b></li>
 </ul>
-**伊勢丹、ルミネエスト、歌舞伎町、ゴールデン街、ドン・キホーテ**などが集まっています。最も「新宿らしい」賑やかなエリアです。
+**伊勢丹百貨店、ルミネEST、歌舞伎町、ゴールデン街、ドン・キホーテ**などはすべてここに集まっています。新宿の象徴的なスポットが集まるエリアです。
 
 <figure>
-  <img src="/images/posts/shinjuku-guide-2025-02.jpg" alt="新宿駅東口 ルミネエスト">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅東口 ルミネエスト</figcaption>
+  <img src="/images/posts/shinjuku-guide-2025-02.jpg" alt="新宿駅東口 ルミネEST">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅東口 ルミネEST</figcaption>
 </figure>
 
 <ul>
-<li><b>南口（South Exit）＆新南口：モダンな待ち合わせスポット</b></li>
+<li><b>南口＆新南口エリア：洗練された待ち合わせスポット</b></li>
 </ul>
-高速バスターミナル**バスタ新宿**、**高島屋、NEWoMan、ルミネ1・2**があります。新南口の**Suicaペンギン広場**は有名な待ち合わせ場所です。
+高速バスターミナル**「バスタ新宿」**や**タカシマヤタイムズスクエア、NEWoMan、ルミネ1＆2**がある最もモダンなエリアです。新南口の**「Suicaのペンギン広場」**は有名な待ち合わせ場所です。
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-03.jpg" alt="新宿駅南口 バスタ新宿">
@@ -50,140 +52,145 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 </figure>
 
 <ul>
-<li><b>西口（West Exit）：オフィス街、夜景、そして思い出横丁</b></li>
+<li><b>西口エリア：オフィス街、夜景、思い出横丁</b></li>
 </ul>
-**東京都庁（無料展望台）**、**ヨドバシカメラ・ビックカメラ**などの家電量販店、駅直結の**小田急・京王百貨店**があります。レトロな飲み屋街**思い出横丁**も西口です。
+**東京都庁（無料展望室）**や**ヨドバシカメラ・ビックカメラ**などの家電量販店街があります。**小田急百貨店・京王百貨店**は駅直結です。焼き鳥で有名な**「思い出横丁」**も西口の近くにあります。
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-04.jpg" alt="西口 モード学園コクーンタワー">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿西口のモード学園コクーンタワー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿西口 モード学園コクーンタワー</figcaption>
 </figure>
 
-**📌 交通のヒント：** 目的地によっては、新宿駅だけでなく、地下鉄の**「新宿三丁目」**や**「新宿御苑前」**を利用すると、歩く距離を大幅に短縮できます。
+**📌 交通のヒント：**
+目的地によっては、広い新宿駅を歩くよりも**「新宿三丁目駅」**や**「新宿御苑前駅」**などの近隣地下鉄駅を利用したほうが大幅に歩く距離を短縮できます。
 
 <hr class="se-hr">
 
-<h2>🚶‍♂️ 新宿おすすめコース（午前・午後・夜）</h2>
+<h2>🚶‍♂️ 新宿おすすめコース（午前～午後～夜）</h2>
 
-<b>🌿 午前（10:00~13:00）：自然の中で癒やしを</b>
-- **新宿御苑**で散歩をしてリフレッシュ。
+<b>🌿 午前（10:00~13:00）：自然の中で癒しを</b>
+- **新宿御苑**の散策で旅をスタート。
 - 公園内の**スターバックス**でのブランチがおすすめ！
 
 <b>🛍️ 午後（13:00~18:00）：ショッピング＆グルメ</b>
-- 代表的な百貨店やブランドショップで**ショッピング**。
-- **食べログ百名店**などの厳選グルメでランチ。
+- 代表的な百貨店やブランドショップで**ショッピング**を満喫。
+- **食べログ百名店**などの実力派レストランでランチ。
 
-<b>🌃 夜（18:00~）：夜景とナイトライフ</b>
-- **東京都庁展望台**で無料の夜景鑑賞。
-- **思い出横丁**や**ゴールデン街**でディナーと一杯。
+<b>🌃 夜（18:00~）：眠らない街を楽しむ</b>
+- **東京都庁展望室**で無料の夜景鑑賞。
+- **思い出横丁**や**ゴールデン街**でディナーとお酒。
 
-<hr class="se-hr">
-
-<h3>📌 成田空港から新宿へのアクセス</h3>
-新宿への最初の関門！成田空港から新宿への最も効率的な移動方法については、以下のN'EXとリムジンバスの比較ガイドをご覧ください。
+**📌 成田空港から新宿へのアクセス**
+新宿旅行の最初の関門！「成田空港から新宿まで」の最も効率的な移動方法について、成田エクスプレス（N'EX）とリムジンバスを徹底比較したガイドは以下をご覧ください。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224072190712
-     Hugo: /posts/narita-to-shinjuku-2025/ -->
-<p><strong>➡️ <a href="/posts/narita-to-shinjuku-2025/" style="color: #667eea;">成田空港から新宿へ 2025徹底ガイド | N'EX vs リムジンバス比較</a></strong></p>
+     Hugo: /ja/posts/narita-to-shinjuku-2025/ -->
+<p><strong>➡️ <a href="/ja/posts/narita-to-shinjuku-2025/" style="color: #667eea;">成田空港から新宿への行き方 2025完全版 | N'EX vs 空港リムジンバス徹底比較</a></strong></p>
 
 <hr class="se-hr">
 
 <h2>🌿 午前コース：都会のオアシス、新宿御苑</h2>
 
-ビル群の中に広がる**新宿御苑**は、イギリス風景式庭園、フランス式整形庭園、日本庭園を組み合わせた名園。都会の喧騒を離れるのに最適な場所です。
+新宿のビル群の中に位置する**新宿御苑**は、イギリス風景式庭園、フランス式整形庭園、日本庭園を組み合わせた広大な公園で、都会の喧騒を離れて穏やかな時間を過ごすのに最適な場所です。
 
-- 入園料：大人 500円
-- 休園日：月曜日（祝日の場合は翌平日）
-- 開園時間：9:00 ~ 16:00（季節により変動）
+- **入園料：** 大人500円
+- **休園日：** 毎週月曜日（月曜日が祝日の場合は翌平日）
+- **開園時間：** 9:00 ~ 16:00（季節により変動あり）
 
-**📌 おすすめ：** レジャーシートを持って芝生でくつろいだり、**スターバックス新宿御苑店**で景色を眺めながらコーヒーを楽しんだりするのが最高です。
+**📌 おすすめの楽しみ方：**
+レジャーシートを持参して芝生でくつろいだり、**スターバックス新宿御苑店**で公園の景色を眺めながらコーヒーを楽しむのがおすすめです。
+
+🍁 **新宿御苑ガイド：** 桜・紅葉シーズンの情報、開園時間、ランニングコース、APAホテルの位置などは以下のガイドをチェックしてください。
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224070032613
+     Hugo: /ja/posts/shinjuku-gyoen-guide-2025/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;">新宿御苑 完全ガイド 2025最新版（チケット、営業時間、スタバ情報）</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-05.jpg" alt="新宿御苑の紅葉">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑の紅葉</figcaption>
 </figure>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224070032613
-     Hugo: /posts/shinjuku-gyoen-guide-2025/ -->
-<p><strong>➡️ <a href="/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;">新宿御苑 完全ガイド 2025：チケット、スタバ、季節の見どころ</a></strong></p>
-
 <hr class="se-hr">
 
-<h2>🛍️ 午後コース1：新宿ショッピング攻略</h2>
+<h2>🛍️ 午後コース1：新宿ショッピング完全攻略</h2>
 
-<h3>🔥 買い物前の必須情報！</h3>
-百貨店、ビックカメラ、ドン・キホーテで買い物をする前に、「割引クーポンガイド」をチェックして、旅のショッピング代を少なくとも15%節約しましょう！
+<h3>🔥 ショッピング前の必須情報！</h3>
+新宿の百貨店、ビックカメラ、ドン・キホーテなどで本格的な買い物を始める前に、日本旅行のショッピング費用を最低でも15%以上節約できる**「割引クーポン総まとめ」**記事をチェックして、受けられる特典はすべて活用しましょう！
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
-<p><strong>➡️ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">日本旅行 割引クーポン総まとめ 2025（ドンキ、ビックカメラ、百貨店）</a></strong></p>
+     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
+<p><strong>➡️ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">日本旅行 割引クーポン総まとめ 2025（ドンキ、ビックカメラ、百貨店など）</a></strong></p>
 
-<h3>🛍️ おすすめショッピングスポット（百貨店・専門店）</h3>
+<h3>🛍️ 新宿のショッピングスポット（百貨店・専門店）</h3>
+新宿には出口ごとに異なる魅力を持つ大型百貨店があります。
 
-出口ごとに異なる魅力を持つ百貨店があります。
+- **東口：** ラグジュアリーとトレンドの発信地。**伊勢丹**、**ルミネEST**（若者向け）。
+- **南口：** ファミリー向け。**タカシマヤ**、洗練された**NEWoMan**（ニュウマン）、**ルミネ1＆2**。
+- **西口：** 食品・お土産が充実。駅直結の**京王百貨店**、**小田急百貨店**。
 
-- **東口：** ラグジュアリーとトレンド。**伊勢丹**（高級）、**ルミネエスト**（若者向けファッション）。
-- **南口：** ファミリーにも。**高島屋**（クラシック）、**NEWoMan**（洗練/セレクト）、**ルミネ1・2**。
-- **西口：** 駅直結の**京王百貨店**、**小田急百貨店**（食品・お土産に定評あり）。
+<!-- Coupons -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">京王百貨店 割引クーポン（3,000円以上購入で5~6%OFF）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">小田急百貨店 割引クーポン（1,000円以上購入で6%OFF）</a></strong></p>
+*（※割引対象外ブランドもあるので、買い物前に確認してください！）*
 
-**⚠️ クーポン情報：**
-- **京王百貨店：** 3,000円以上の購入で5-6% OFF。
-- **小田急百貨店：** 1,000円以上の購入で6% OFF。
-*（対象外ブランドにご注意ください！）*
-
-<h3>🛍️ 代表的ブランド＆専門店</h3>
-
-ユニクロ、ドン・キホーテ、カルディ、無印良品、ビックカメラ、**世界堂（文具）**、**紀伊國屋書店**など、まさにショッピング天国です。
+<h3>🛍️ 代表的なブランド＆専門店</h3>
+**ユニクロ、ドン・キホーテ、カルディ、無印良品、ビックカメラ**、**世界堂（文具）**、**紀伊國屋書店**など、ないものがないショッピング天国です。
 
 **📌 新宿ウイスキーショッピング（リカーショップ）**
-やまや、信濃屋、ビックカメラのおすすめルートや、山崎・響・カバランの価格比較、免税のコツは以下の記事で。
+**やまや、信濃屋、ビックカメラ**のおすすめルートや、山崎・響・カバランの価格比較、免税のコツについては以下の記事を参考にしてください。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224072546243
-     Hugo: /posts/shinjuku-liquor-shops/ -->
-<p><strong>➡️ <a href="/posts/shinjuku-liquor-shops/" style="color: #667eea;">新宿リカーショップガイド | 山崎・響 価格比較＆免税購入のコツ</a></strong></p>
+     Hugo: /ja/posts/shinjuku-liquor-shops/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-liquor-shops/" style="color: #667eea;">新宿リカーショップ推奨ルート | 山崎・響・カバラン価格比較＆免税ガイド</a></strong></p>
 
-**📌 アウトドア＆キャンプ用品の聖地**
-「Alpen Tokyo」や「L-Breath」などの大型店があります。「Tokyo Crafts」などの人気ブランドの免税情報は以下をチェック。
+**📌 アウトドア＆キャンプ用品の天国！**
+新宿には**「Alpen TOKYO」**や**「L-Breath」**などの大型アウトドアショップもあります。**「TOKYO CRAFTS」**のような話題のブランドの免税ショッピング情報は以下をご覧ください。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224066800060
-     Hugo: /posts/tokyo-crafts-popup-stores-guide/ -->
-<p><strong>➡️ <a href="/posts/tokyo-crafts-popup-stores-guide/" style="color: #667eea;">Tokyo Crafts、スノーピーク アウトドアショップ（免税・クーポン）</a></strong></p>
+     Hugo: /ja/posts/tokyo-crafts-popup-stores-guide/ -->
+<p><strong>➡️ <a href="/ja/posts/tokyo-crafts-popup-stores-guide/" style="color: #667eea;">TOKYO CRAFTS、スノーピークなどアウトドア専門店の免税・クーポン情報</a></strong></p>
 
 **📌 文具好きなら「世界堂」は外せない！**
 
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-06.jpg" alt="世界堂 新宿本店">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿の画材・文具の殿堂：世界堂</figcaption>
-</figure>
-
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224064750249
-     Hugo: /posts/shinjuku-sekaido-stationery-shopping-guide/ -->
-<p><strong>➡️ <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" style="color: #667eea;">世界堂 新宿本店 ショッピングガイド：会員割引 vs 免税＆フロアガイド</a></strong></p>
+     Hugo: /ja/posts/shinjuku-sekaido-stationery-shopping-guide/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" style="color: #667eea;">新宿世界堂 ショッピングリスト：会員カード、免税手続、フロアガイド</a></strong></p>
 
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-07.jpg" alt="紀伊國屋書店 新宿本店">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿の書店：紀伊國屋書店 本店</figcaption>
-</figure>
-
-**📌 マストバイ・アイテム＆クーポン**
+**📌 マストバイ・ショッピングリスト＆割引クーポン**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /posts/don-quijote-shopping-guide-2025/ -->
-<p><strong>➡️ <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">ドン・キホーテ 買い物リスト＆割引クーポン（ラー油、目薬など）</a></strong></p>
+     Hugo: /ja/posts/don-quijote-shopping-guide-2025/ -->
+<p><strong>➡️ <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">ドン・キホーテ 買い物リスト＆クーポン・免税方法（ラー油、目薬など）</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
-<p><strong>➡️ <a href="/posts/kaldi-coffee-farm-shopping-list/" style="color: #667eea;">カルディ（KALDI）買い物リスト：絶対買うべきおすすめ品（スプレッド、コーヒー）</a></strong></p>
+     Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
+<p><strong>➡️ <a href="/ja/posts/kaldi-coffee-farm-shopping-list/" style="color: #667eea;">カルディ（KALDI）買い物リスト：絶対買うべきおすすめ品（塗るカレー、ポーションコーヒー等）</a></strong></p>
 
-<h3>🛍️ 新宿お土産リスト（スイーツ）</h3>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224039113760
+     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
+<p><strong>➡️ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">ビックカメラ割引クーポン（免税+3~7%OFF）</a></strong></p>
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-06.jpg" alt="世界堂 新宿本店">
+  <figcaption style="font-size: 0.7em; text-align: center;">画材・文具の殿堂：世界堂 新宿本店</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-07.jpg" alt="紀伊國屋書店 新宿本店">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿の書店、紀伊國屋書店 新宿本店</figcaption>
+</figure>
+
+<h3>🛍️ 新宿お土産リスト（スイーツ・手土産）</h3>
 
 <table class="schedule-table">
   <thead>
@@ -196,17 +203,17 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
   <tbody>
     <tr>
       <td>ヨックモック (Yoku Moku)</td>
-      <td>シガール</td>
+      <td>シガール（葉巻状クッキー）</td>
       <td>伊勢丹、高島屋</td>
     </tr>
     <tr>
       <td>エシレ (Échiré)</td>
-      <td>フィナンシェ、サブレ</td>
+      <td>フィナンシェ、バタークッキー</td>
       <td>伊勢丹</td>
     </tr>
     <tr>
-      <td>ノワ・ドゥ・ブール</td>
-      <td>フィナンシェ</td>
+      <td>ノワ・ドゥ・ブール (noix de beurre)</td>
+      <td>焼きたてフィナンシェ</td>
       <td>伊勢丹</td>
     </tr>
     <tr>
@@ -216,7 +223,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
     </tr>
     <tr>
       <td>とらや (Toraya)</td>
-      <td>羊羹（ようかん）</td>
+      <td>羊羹</td>
       <td>高島屋、京王、小田急</td>
     </tr>
   </tbody>
@@ -224,124 +231,263 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-08.jpg" alt="ヨックモック シガール">
-  <figcaption style="font-size: 0.7em; text-align: center;">ヨックモック シガール - 定番のお土産</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ヨックモック シガール、旅行土産の定番</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-09.jpg" alt="とらや 羊羹">
-  <figcaption style="font-size: 0.7em; text-align: center;">とらやの羊羹 - 目上の方へのギフトに</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">とらやの羊羹、ご両親への手土産に</figcaption>
 </figure>
 
 <hr class="se-hr">
 
 <h2>🍽️ 午後コース2：新宿グルメリスト（ミシュラン・食べログ）</h2>
 
-新宿は飲食店の激戦区。迷ったらまずは確実な**ミシュラン**や**食べログ百名店**から選んでみましょう。
+新宿はまさにグルメの激戦区です。選択肢が多すぎて迷うなら、まずは**ミシュラン**や**食べログ**で評価された間違いのないお店から攻略しましょう。
 
-<h3>👑 特別な日の食事（寿司・焼き鳥）</h3>
+<h3>👑 特別な日＆格式ある食事</h3>
 
-**1. 匠 達広**（東口・御苑）
-- 寿司 / ミシュラン1つ星
-- 平日ランチセットならリーズナブルにミシュランのお寿司を楽しめます。
+**1. 匠 達広**（東口 - 御苑付近）
+- **寿司 / ミシュラン1つ星**
+- 平日ランチセットなら、リーズナブルな価格でミシュランの本格寿司を体験できます。
+- **✅ 匠 達広 オンライン予約**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224071675259
-     Hugo: /posts/takumi-tatsuhiro-shinjuku-2025/ -->
-<p><strong>➡️ <a href="/posts/takumi-tatsuhiro-shinjuku-2025/" style="color: #667eea;">新宿ミシュラン寿司「匠 達広」ランチおまかせ予約レビュー</a></strong></p>
+     Hugo: /ja/posts/takumi-tatsuhiro-shinjuku-2025/ -->
+<p><strong>➡️ <a href="/ja/posts/takumi-tatsuhiro-shinjuku-2025/" style="color: #667eea;">東京・新宿ミシュラン寿司「匠 達広」 | 新宿御苑ランチおまかせ予約・実食レビュー</a></strong></p>
 
 **2. 串焼き 鳥茂**（南口）
-- 焼き鳥（豚・牛） / ミシュランビブグルマン、食べログ百名店（8年連続）
-- 創業70年の老舗。鶏ではなく豚や牛の内臓肉を使った創作串焼きの名店です。
+- **串焼き / ミシュラン・ビブグルマン、食べログ百名店（8年連続）**
+- 創業70年以上の歴史を誇る串焼きの聖地。一般的な焼き鳥とは一線を画す、豚の内臓肉を中心とした独創的な串焼きです。
+- **✅ 鳥茂 オンライン予約**
 
-<h3>🍜 有名ラーメン＆うどん</h3>
+<h3>🍜 新宿の代表的なラーメン＆うどん</h3>
 
-**1. 麺屋 翔 本店**（西口）
-- ラーメン / 食べログ百名店（複数回受賞）
-- 鶏の旨味が凝縮された、透き通った塩ラーメンが絶品。
+**1. 麺屋翔 本店**（西口）
+- **ラーメン / 食べログ百名店（2017~2023, 2025）**
+- 鶏ベースの透き通った、深みのある「塩ラーメン」が代表メニュー。
 
-**2. SOBA HOUSE 金色不如帰**（東口・御苑）
-- ラーメン / 食べログ百名店、元ミシュラン1つ星
-- ハマグリと真鯛の出汁にトリュフやポルチーニのペーストを合わせた世界的名店。
+**2. SOBAHOUSE 金色不如帰**（東口 - 御苑付近）
+- **ラーメン / 食べログ百名店、元ミシュラン1つ星**
+- ハマグリと真鯛の出汁にトリュフ/キノコペーストの風味が香る、世界的なラーメン店。
 
-**3. Ramen Break Beats / ラーメン マツ**（東口・御苑）
-- ラーメン / ミシュランビブグルマン（2024）、食べログ百名店
-- 素材の味を極限まで引き出した高級感ある塩ラーメン。
+**3. RAMEN MATSUI**（東口 - 御苑付近）
+- **ラーメン / ミシュラン・ビブグルマン (2024)、食べログ百名店**
+- 素材本来の味を極限まで引き出した贅沢な「塩ラーメン」で有名。
+- **✅ RAMEN MATSUI オンライン予約**
 
 **4. うどん 慎**（南口）
-- うどん / 食べログ百名店（複数年）
-- 注文が入ってから切り、茹で上げる究極のコシと喉越しのうどん。
+- **うどん / 食べログ百名店（複数回受賞）**
+- 注文が入ってから切って茹で上げる、究極の「打ちたて・切りたて・茹でたて」のもちもち食感。
 
-**5. 切麦や 甚六**（東口・御苑）
-- うどん / ミシュランビブグルマン（2023）、食べログ百名店
-- 滑らかながらもしっかりとしたコシのある麺と、深い旨味の出汁との調和。
-
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="切麦や 甚六 うどん">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿うどんの名店：切麦や 甚六</figcaption>
-</figure>
+**5. 切麦や 甚六**（東口 - 御苑付近）
+- **うどん / ミシュラン・ビブグルマン (2023)、食べログ百名店（複数回受賞）**
+- 特徴：滑らかでコシのある麺と、深い旨味のある出汁の調和。
+- **✅ 切麦や 甚六 オンライン予約**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /posts/[SLUG_TBD]/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">新宿うどん「切麦や 甚六」行列・待ち時間＆メニュー完全ガイド</a></strong></p>
+     Hugo: /ja/posts/shinjuku-udon-guide/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-udon-guide/" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
 
-<h3>🍔 気軽に行列グルメ</h3>
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="切麦や 甚六 うどん">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿うどんの名店、切麦や 甚六</figcaption>
+</figure>
+
+<h3>🍔 行列のできるカジュアルグルメ</h3>
 
 **1. 東京ドミニカ**（東口）
-- カレー / 食べログ百名店
-- スープカレーの名店。黒いビジュアルとスパイシーな「大人の味」が特徴。
+- **カレー / 食べログ百名店**
+- 黒いビジュアルが特徴的な、スパイシーな「大人の味」のスープカレー。
 
-**📌 絶品キーマカレーなら：エピタフカレー**
+**📌 もう一つのカレー百名店、エピタフ**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224066173929
-     Hugo: /posts/shinjuku-epitaph-curry-review/ -->
-<p><strong>➡️ <a href="/posts/shinjuku-epitaph-curry-review/" style="color: #667eea;">新宿キーマカレー：エピタフカレー（食べログ百名店）vs 中村屋</a></strong></p>
+     Hugo: /ja/posts/shinjuku-epitaph-curry-review/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-epitaph-curry-review/" style="color: #667eea;">新宿キーマカレーの名店「エピタフカレー」食べログ百名店、中村屋と比較</a></strong></p>
 
-**2. SHOGUN BURGER 新宿**（東口・歌舞伎町）
-- ハンバーガー / 食べログ百名店
-- 和牛100%パティの溢れる肉汁とスモーキーな香りがたまりません。
+**2. ショーグンバーガー 新宿総本店**（東口 - 歌舞伎町）
+- **ハンバーガー / 食べログ百名店（複数回受賞）**
+- 和牛100%パティの溢れる肉汁と炭火の香りが絶品。
 
-**3. かつくら 新宿高島屋店**（南口）
-- とんかつ / 京都の名店
-- 百貨店内で、ご飯・味噌汁・キャベツお代わり自由のプレミアムなとんかつを。
+**3. 食堂 わた**（東口 - 御苑付近）
+- **日本料理・定食 / ミシュラン・ビブグルマン**
+- 旬の食材を使った丁寧で健康的な日本家庭料理（おばんざい）の専門店。
+- **✅ 食堂 わた オンライン予約**
 
-**4. 追分だんご本舗**（東口）
-- 和菓子・団子
-- ショッピングの合間の糖分補給に最適。
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-11.jpg" alt="ショーグンバーガー 新宿">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ハンバーガーの名店、ショーグンバーガー新宿総本店</figcaption>
+</figure>
+
+<h3>☕ 休憩におすすめのカフェ＆スイーツ</h3>
+
+**1. カフェ アリヤ (Cafe Aaliya)**（東口）
+- **カフェ / 食べログ百名店**
+- 口の中でとろける、ふわふわで分厚いフレンチトーストが看板メニュー。
+
+**2. オールシーズンズコーヒー (ALL SEASONS COFFEE)**（東口 - 御苑付近）
+- **カフェ / 食べログ百名店**
+- 専門バリスタが淹れる高品質なスペシャルティコーヒーと、自家製チーズケーキ。
+
+**3. 追分だんご本舗**（東口）
+- **甘味処 / 食べログ百名店**
+- 様々な種類のモチモチのお団子が味わえる、老舗の和菓子店。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224068891338
-     Hugo: /posts/shinjuku-oiwake-dango-honpo/ -->
-<p><strong>➡️ <a href="/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">新宿 追分だんご本舗：老舗和菓子カフェでお団子休憩</a></strong></p>
+     Hugo: /ja/posts/shinjuku-oiwake-dango-honpo/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">創業300年を誇る東京・新宿の代表的な団子店「追分だんご本舗」↗</a></strong></p>
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="追分だんご">
+</figure>
 
 <hr class="se-hr">
 
-<h2>🌃 夜コース：夜景とあのアリー</h2>
+<h2>🌃 夜コース：夜景とロマンチックな新宿の夜</h2>
 
-<h3>1. 東京都庁展望台（無料）</h3>
-東京最高の無料夜景スポットの一つ。南展望室にはピアノやカフェもあります。
+<h3>1. 東京都庁 無料展望室</h3>
+東京の100万ドルの夜景を無料で楽しめる穴場スポット。
+地上45階、高さ202mから眺める新宿のビル群、東京タワー、スカイツリーが織りなすパノラマビューは圧巻です。
+一番のおすすめ時間帯は**「日没1時間前」**。刻々と変わる空の色、赤く染まる夕焼け、そして宝石のように輝きだす夜景まで楽しめるゴールデンタイムをお見逃しなく。
+
+- **開室時間：** 9:30 ~ 22:00（最終入室 21:30）
+- **休室日：** 第1・第3火曜日（祝日の場合は開室、翌日休室）
+- *※12月29日～1月3日は休室（1月1日は特別開室の可能性あり要確認）*
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224062023485
-     Hugo: /posts/tokyo-metropolitan-govt-observatory/ -->
-<p><strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">東京都庁展望台ガイド：無料夜景＆都庁ピアノ</a></strong></p>
+     Hugo: /ja/posts/tokyo-metropolitan-govt-observatory/ -->
+<p><strong>➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">東京都庁 無料展望室ガイド：ライトアップ時間、行き方、休室日、夜景完全攻略</a></strong></p>
 
-<h3>2. 思い出横丁 vs ゴールデン街</h3>
-昭和レトロな雰囲気を体験しましょう。
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="東京都庁">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿無料展望台、東京都庁</figcaption>
+</figure>
 
-- **思い出横丁（しょんべん横丁）：**焼き鳥の煙と赤提灯。ビールと串焼きで乾杯。
-- **ゴールデン街：** 200以上の小さなバーが密集。チャージを払って数席のバーで飲む独特の文化。
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="東京都庁 入口">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿無料展望台 東京都庁入口</figcaption>
+</figure>
+
+**💡 12月の新宿は街中が光のフェスティバル！ (2025-2026)**
+ショッピングバッグを持って街を歩けば、華やかなネオンアートに出会えます。西口から都庁へと続く**「新宿ネオンワーク」**イルミネーションが開催中ですので、ショッピング後のディナーへの移動がてら気軽に楽しんでみてください！
+
+<!-- TODO: Update link after migration
+     Naver: 223696781916...
+     Hugo: /ja/posts/shinjuku-neon-work-illumination/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-neon-work-illumination/" style="color: #667eea;">新宿ネオンワーク・イルミネーション正直レビュー＆コース</a></strong></p>
+
+**✨ 12月31日、都庁で新年カウントダウン！**
+年末に新宿を訪れるなら、通常の夜景鑑賞の代わりに、初音ミクのパフォーマンスやプロジェクションマッピングが融合した大規模な新年カウントダウンイベントを楽しめます。（※無料事前申込必須！）
+
+<!-- TODO: Update link after migration
+     Hugo: /ja/posts/happy-new-year-tokyo-2026/ -->
+<p><strong>➡️ <a href="/ja/posts/happy-new-year-tokyo-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 カウントダウン無料観覧応募方法</a></strong></p>
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="新宿イルミネーション ネオンワーク">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿イルミネーション ネオンワーク</figcaption>
+</figure>
+
+<h3>2. 歌舞伎町＆東急歌舞伎町タワー散策</h3>
+華やかなネオンサインと活気あふれる雰囲気を感じたいなら、**歌舞伎町**は外せません。
+「ゴジラヘッド」や象徴的な赤いアーチなど見どころ満載です。最近では**「東急歌舞伎町タワー」**が新たなランドマークとして定着しました。
+タワー内のフードホール、ゲームセンター、映画館などで、安全かつ快適に歌舞伎町のエネルギーを楽しむことができます。
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-16.jpg" alt="新宿歌舞伎町 入口">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿 歌舞伎町 入口</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-17.jpg" alt="東急歌舞伎町タワー">
+  <figcaption style="font-size: 0.7em; text-align: center;">東急歌舞伎町タワー</figcaption>
+</figure>
+
+<h3>3. 思い出横丁</h3>
+文字通り「思い出」の詰まった路地。狭い路地の両側に**焼き鳥**店がひしめき合っています。
+昭和の風情を感じながら、冷たいビールを一杯飲むのに最適な場所です。
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-18.jpg" alt="思い出横丁">
+  <figcaption style="font-size: 0.7em; text-align: center;">思い出横丁</figcaption>
+</figure>
+
+**📌 思い出横丁 vs ゴールデン街、どっちに行く？**
+2つの横丁の雰囲気は似ているようで全く異なります。
+チャージ料の有無、一人飲みの難易度、ナンパの雰囲気、おすすめグルメ（ラーメン凪）まで！
+2か所を徹底比較したガイドを確認して、自分の好みに合った夜のコースを選んでください。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224068585112
-     Hugo: /posts/shinjuku-golden-gai-vs-omoide-yokocho/ -->
-<p><strong>➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;">新宿ナイトライフ：ゴールデン街 vs 思い出横丁 徹底比較</a></strong></p>
+     Hugo: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;">新宿ゴールデン街 vs 思い出横丁 徹底比較 | 焼き鳥・ラーメン凪・一人飲みのおすすめ</a></strong></p>
+
+<h3>4. 新宿ゴールデン街</h3>
+200軒以上の極小バーが密集するユニークな通り。
+店ごとに個性がはっきりしており常連客も多く、映画『ジョン・ウィック』の撮影地としても有名です。特別な雰囲気でカクテルを一杯楽しみたい時におすすめです。
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-19.jpg" alt="新宿ゴールデン街">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ゴールデン街</figcaption>
+</figure>
 
 <hr class="se-hr">
 
-<h2>🎁 まとめ</h2>
+<h2>💡 新宿から行く近郊旅行（箱根・高尾山）</h2>
 
-新宿は複雑ですが、**「午前は御苑、午後は百貨店、夜は横丁/ゴールデン街」**と決めて動けば十分に楽しめます。目的地に合わせて東口・西口・南口を使い分けて、体力を温存しましょう！
+新宿駅は東京近郊旅行の重要な出発点でもあります。小田急線を使えば温泉で有名な**「箱根」**へ、京王線を使えばハイキングに最適な**「高尾山」**へ乗り換えなしで行けます。新宿に1泊以上滞在するなら、日帰り旅行を計画してみるのも良いでしょう。
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /ja/posts/hakone-day-trip-course/ -->
+<p><strong>➡️ <a href="/ja/posts/hakone-day-trip-course/" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
+
+<figure>
+  <img src="/images/posts/shinjuku-guide-2025-20.jpg" alt="箱根">
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿近郊旅行、箱根</figcaption>
+</figure>
+
+新宿は「バスタ新宿」「京王線」「JR」を通じて、**東京5大キッズパーク**へ乗り換えなしで行ける最高のベースキャンプです。
+
+**ディズニーランド、サンリオピューロランド、トーマスランド**など、新宿から出発する子連れコースが気になる方は、以下の専用ガイドをご確認ください。
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224063760866
+     Hugo: /ja/posts/shinjuku-kids-parks-guide/ -->
+<p><strong>➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" style="color: #667eea;">新宿から子供と一緒に！5大キッズパークへの行き方（ディズニー、サンリオ、トーマス総整理）</a></strong></p>
+
+JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**があるので、合わせて計画するのもおすすめです。
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035533672
+     Hugo: /ja/posts/ghibli-museum-reservation-guide/ -->
+<p><strong>➡️ <a href="/ja/posts/ghibli-museum-reservation-guide/" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
+
+<hr class="se-hr">
+
+自然、ショッピング、グルメ、夜景まで網羅した**新宿観光のおすすめコース**をご紹介しました。複雑だと思っていた新宿が少し身近に感じられましたか？このガイドと共に、新宿の多彩な魅力を思う存分楽しんでください。
+
+**⭐ 一緒に読むと良い東京ガイド**
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/narita-express-guide/ -->
+<p><strong>➡️ <a href="/ja/posts/narita-express-guide/" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031114514
+     Hugo: /ja/posts/shibuya-complete-guide-2025/ -->
+<p><strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷 遊び場、渋谷スカイ予約からショッピング、グルメまで完璧コース推奨</a></strong></p>
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224034429817
+     Hugo: /ja/posts/mitsui-outlet-kisarazu-guide/ -->
+<p><strong>➡️ <a href="/ja/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">バスタ新宿出発！木更津三井アウトレットへの行き方、割引クーポン、入店ブランド</a></strong></p>
 
 </div>

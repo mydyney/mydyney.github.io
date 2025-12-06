@@ -86,6 +86,13 @@ When migrating a Naver blog post to Hugo:
 | 224030294691 | harajuku-complete-guide-2025 | 2025-10-03 | ✅ |
 | 224099089089 | odaiba-rainbow-fireworks-2025 | 2025-12-06 | ✅ |
 | 224096781916 | omotesando-illumination-2025 | 2025-12-06 | ✅ |
+| 224095124866 | shinjuku-neon-work-illumination | 2025-12-06 | ✅ |
+| 224095118118 | happy-new-year-tokyo-2026 | 2025-12-06 | ✅ |
+| 223914223908 | shinjuku-udon-guide | 2025-12-06 | ✅ |
+| 224019480188 | hakone-day-trip-course | 2025-12-06 | ✅ |
+| 224035533672 | ghibli-museum-reservation-guide | 2025-12-06 | ✅ |
+| 224002738158 | narita-express-guide | 2025-12-06 | ✅ |
+| 224034429817 | mitsui-outlet-kisarazu-guide | 2025-12-06 | ✅ |
 
 ---
 
@@ -114,7 +121,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224007949043 | tokyo-transportation-card-guide-2025 | Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
 | 223995074888 | tokyo-transportation-card-guide-2025 | Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
 | 224026098490 | tokyo-transportation-card-guide-2025 | Tokyo Subway Pass Complete Guide (Exchange Locations, Purchase, Usage) |
-| 224002738158 | tokyo-transportation-card-guide-2025 | Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide |
+
 | 224024530348 | tokyo-september-festivals-2025 | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025, tokyo-christmas-markets-guide-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
 | 223989943826 | tokyo-september-festivals-2025, tokyo-october-festivals-2025 | Ginza Must-Visit Spots Complete Guide (Shopping, Restaurants, Tips) |
@@ -123,7 +130,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025, odaiba-ariake-toyosu-complete-guide | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
 | 224022065518 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, tokyo-christmas-markets-guide-2025 | Japan Don Quijote Shopping List & Discount Coupons Guide |
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, shibuya-sushi-no-midori-lunch-guide | Japan Kaldi Shopping List Must-Buy Recommendations |
-| 224034429817 | tamiya-plamodel-factory-tokyo-shimbashi | Mitsui Outlet Park Kisarazu Discount Coupons & Brand Guide |
+
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
 | 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025 | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
 | ~~224031114514~~ | meiji-jingu-gaien-ginkgo-avenue-tokyo, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, ikebukuro-complete-guide, tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide | ✅ **MIGRATED** → shibuya-complete-guide-2025 |
@@ -132,8 +139,8 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224032515713 | nakameguro-shabushabu-lettuce-main-store | Daikanyama Complete Guide: T-Site Bookstore, Fashion Shops, Cafe Hopping |
 | ~~224030294691~~ | tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide, omotesando-complete-guide-2025, shinjuku-complete-guide-2025 | ✅ **MIGRATED** → harajuku-complete-guide-2025 |
 | 224037212344 | tokyo-autumn-foliage-best-spots-2025 | Tokyo Kichijoji Must-Visit Places: Complete Course (with Ghibli Museum) |
-| 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
-| 224019480188 | tokyo-october-festivals-2025, tokyo-autumn-foliage-best-spots-2025 | Hakone Travel Perfect Course (Hakone Free Pass & Romancecar Reservation) |
+
+
 | 224025699867 | tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025, odaiba-ariake-toyosu-complete-guide | Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison |
 | 224026292057 | tokyo-autumn-foliage-best-spots-2025 | 2025 Tokyo October Festivals & Must-Visit Places |
 | 223979907748 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama 1-Day Course: Chinatown Restaurants, Akarenga, Night Views Complete Guide |
