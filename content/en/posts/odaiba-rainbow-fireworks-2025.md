@@ -234,9 +234,10 @@ Not satisfied with just watching fireworks? We recommend the perfect day course:
 
 <strong>🧡 [Morning~Afternoon] Asakusa Travel</strong>
 
-Explore Asakusa Sensoji with its Edo atmosphere, fill up on delicious gyukatsu, then head to the water bus pier.
-
-<strong>➡️ [Tokyo Asakusa Complete Guide: Sensoji, Demon Slayer, Gyukatsu, Hotel Recommendations](/posts/asakusa-complete-guide-2025/)</strong>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224024819592
+     Hugo: /posts/asakusa-complete-guide-2025/ -->
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Tokyo Asakusa Complete Guide: Sensoji, Demon Slayer, Gyukatsu, Hotel Recommendations</strong></a>
 
 <strong>🧡 [Travel~Evening] Odaiba Arrival & Fireworks</strong>
 

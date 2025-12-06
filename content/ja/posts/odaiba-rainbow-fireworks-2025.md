@@ -234,9 +234,10 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 <strong>🧡 [午前〜午後] 浅草観光</strong>
 
-江戸の雰囲気が漂う浅草浅草寺を探索し、美味しい牛カツで満腹になったら、水上バス乗り場へ。
-
-<strong>➡️ [東京浅草完全ガイド：浅草寺、鬼滅の刃、牛カツ、ホテルおすすめ](/posts/asakusa-complete-guide-2025/)</strong>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224024819592
+     Hugo: /ja/posts/asakusa-complete-guide-2025/ -->
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>東京浅草完全ガイド：浅草寺、鬼滅の刃、牛カツ、ホテルおすすめ</strong></a>
 
 <strong>🧡 [移動〜夕方] お台場到着＆花火</strong>
 
