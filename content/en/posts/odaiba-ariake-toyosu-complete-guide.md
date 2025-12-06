@@ -295,7 +295,7 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
 - **Plot Twist:** Despite its name, it's not rainbow-colored normally! (Cool white in summer, warm white in winter)
 - **Real Rainbow: When?** Only once a year during year-end season (December), the main towers illuminate in brilliant rainbow colors.
 
-➡️ **<!-- Link updated --><a href="https://blog.naver.com/tokyomate/223690406760" style="color: #667eea;"><strong>December 2024 Odaiba Rainbow Fireworks & Illumination Guide</strong></a>**
+➡️ **<a href="/posts/odaiba-rainbow-fireworks-2025/" style="color: #667eea;"><strong>December 2024 Odaiba Rainbow Fireworks & Illumination Guide</strong></a>**
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-19.jpg" alt="Rainbow Bridge illuminated at night with Tokyo Tower in background">
@@ -410,7 +410,7 @@ Today we introduced a perfect one-day itinerary combining **Odaiba** with **Aria
 
 **➡️ [Tokyo Subway Pass vs JR Tokunai Pass - Complete Comparison!](/posts/tokyo-transportation-card-guide-2025/)**
 
-**➡️ <!-- Link updated --><a href="https://blog.naver.com/tokyomate/224039113760" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, Department Stores)</strong></a>**
+**➡️ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, Department Stores)</strong></a>**
 
 ---
 
@@ -422,7 +422,7 @@ After perfectly enjoying Odaiba's night views, discover more of Tokyo's charms u
 
 Take the **water bus (Tokyo Cruise)** departing from Odaiba Seaside Park to enjoy Tokyo's changing scenery - Rainbow Bridge, Skytree and more - from the water while reaching Asakusa directly. Experience romantic travel different from market bustle.
 
-➡️ **<!-- Link updated --><a href="https://blog.naver.com/tokyomate/224024819592" style="color: #667eea;"><strong>Tokyo Asakusa Attractions & Restaurant Complete Guide (Sensoji, Demon Slayer, Gyukatsu, Hotel Recommendations)</strong></a>**
+➡️ **<a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>Tokyo Asakusa Attractions & Restaurant Complete Guide (Sensoji, Demon Slayer, Gyukatsu, Hotel Recommendations)</strong></a>**
 
 **🚝 15-Minute Monorail! Salaryman's Sanctuary - Shimbashi & Shiodome**
 

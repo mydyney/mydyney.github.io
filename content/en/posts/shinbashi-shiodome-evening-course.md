@@ -193,6 +193,9 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223915132048
      Hugo: /posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223915132048
+     Hugo: /posts/shinbashi-tonkatsu-horiichi/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Shinbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review</strong></a>**
 
 - **<a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">Tonkatsu Akashi (とんかつ 明石)</a>**: Hidden affordable tonkatsu gem loved by local office workers (Tabelog 100 Famous Restaurants 5 times)
@@ -217,6 +220,9 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914321510
      Hugo: /posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914321510
+     Hugo: /posts/sumiyaki-unafuji-yurakucho/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Eel Restaurant | Sumiyaki Unafuji Yurakucho Review</strong></a>**
 
 <figure>
@@ -235,6 +241,9 @@ The complete opposite of Shinbashi's down-to-earth atmosphere, enjoy shopping an
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /posts/[SLUG_TBD]/ -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223989943826
+     Hugo: /posts/ginza-guide-2025/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>Ginza Must-Visit Spots: Complete Recommended Course Guide</strong></a>**
 
 - **🚝 15 Minutes by Monorail! Futuristic Night Views, Odaiba**

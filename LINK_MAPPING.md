@@ -164,6 +164,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | ~~223690406760~~ | odaiba-ariake-toyosu-complete-guide | ✅ **MIGRATED** → odaiba-rainbow-fireworks-2025 |
 | 224096203397 | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
 | 224096781916 | shibuya-blue-cave-illumination-2025 | 2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide |
+| 223915132048 | shinbashi-shiodome-evening-course | Tokyo Shinbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -310,6 +311,7 @@ declare -A MAPPINGS=(
   ["223915389552"]="azabudai-hills-series-chinese-restaurant"
   ["224025699867"]="tokyo-subway-pass-vs-jr-tokunai-pass"
   ["224032769630"]="yebisu-complete-guide"
+  ["223915132048"]="shinbashi-tonkatsu-horiichi"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do

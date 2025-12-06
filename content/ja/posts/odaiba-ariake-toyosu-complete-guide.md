@@ -295,9 +295,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 - **意外な事実:** 名前とは裏腹に、通常は虹色ではありません!(夏はクールホワイト、冬はウォームホワイト)
 - **本物のレインボー:いつ?** 年末シーズン(12月)の年1回のみ、主塔が鮮やかな虹色にライトアップされます。
 
-➡️ **<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223690406760
-     Hugo: /ja/posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;"><strong>2024年12月お台場レインボー花火&イルミネーションガイド</strong></a>**
+➡️ **<a href="/ja/posts/odaiba-rainbow-fireworks-2025/" style="color: #667eea;"><strong>2024年12月お台場レインボー花火&イルミネーションガイド</strong></a>**
 
 <figure>
   <img src="/images/posts/odaiba-ariake-toyosu-complete-guide-19.jpg" alt="東京タワーを背景に夜間ライトアップされたレインボーブリッジ">
@@ -412,9 +410,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 **➡️ [東京メトロパス vs JR都内パス - 完全比較!](/ja/posts/tokyo-transportation-card-guide-2025/)**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;"><strong>日本旅行割引クーポン完全ガイド2025(ドン・キホーテ、ビックカメラ、デパート)</strong></a>**
+**➡️ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行割引クーポン完全ガイド2025(ドン・キホーテ、ビックカメラ、デパート)</strong></a>**
 
 ---
 
@@ -426,9 +422,7 @@ featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 
 お台場海浜公園から出発する**水上バス(東京クルーズ)**に乗って、レインボーブリッジ、スカイツリーなどの東京の変わりゆく景色を水上から楽しみながら浅草に直行。市場の喧騒とは異なるロマンチックな旅を体験。
 
-➡️ **<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /ja/posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;"><strong>東京浅草アトラクション&レストラン完全ガイド(浅草寺、鬼滅の刃、牛かつ、ホテルおすすめ)</strong></a>**
+➡️ **<a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>東京浅草アトラクション&レストラン完全ガイド(浅草寺、鬼滅の刃、牛かつ、ホテルおすすめ)</strong></a>**
 
 **🚝 15分のモノレール!サラリーマンの聖地 - 新橋&汐留**
 
