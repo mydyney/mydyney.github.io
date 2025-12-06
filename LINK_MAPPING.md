@@ -270,7 +270,9 @@ declare -A MAPPINGS=(
   ["223987954990"]="roppongi-hills-observatory-guide"
   ["223988228389"]="roppongi-attractions-guide"
   ["223993881300"]="roppongi-restaurant-map"
-  ["224031611221"]="tokyo-station-guide"
+  ["223914223908"]="shinjuku-udon-guide"
+  ["224019480188"]="hakone-day-trip-course"
+  ["224035533672"]="ghibli-museum-reservation-guide"
   ["223989943826"]="ginza-guide-2025"
   ["223686466421"]="hibiya-midtown-illumination-review-2024"
 )
