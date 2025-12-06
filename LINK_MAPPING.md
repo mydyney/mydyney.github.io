@@ -150,7 +150,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide, odaiba-rainbow-fireworks-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
 | ~~223690406760~~ | odaiba-ariake-toyosu-complete-guide | ✅ **MIGRATED** → odaiba-rainbow-fireworks-2025 |
-| 224096203397 | shibuya-sushi-no-midori-lunch-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
+| 224096203397 | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
 | 224096781916 | shibuya-blue-cave-illumination-2025 | 2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
@@ -246,6 +246,7 @@ declare -A MAPPINGS=(
   ["224099089089"]="odaiba-rainbow-fireworks-2025"
   ["224096781916"]="omotesando-illumination-2025"
   ["224024819592"]="asakusa-complete-guide-2025"
+  ["224096203397"]="shimokitazawa-tokyo-travel-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
