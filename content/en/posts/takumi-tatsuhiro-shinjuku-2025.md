@@ -447,7 +447,7 @@ After enjoying sushi omakase:
 
 You can complete a full day course.
 
-**🌿 Full Shinjuku Day Course: [Shinjuku Things to Do Complete Course Guide↗](https://blog.naver.com/tokyomate/224035271300)**
+**🌿 Full Shinjuku Day Course: [Shinjuku Things to Do Complete Course Guide↗](/posts/shinjuku-guide-2025/)**
 
 **🍁 Walk: [Shinjuku Gyoen Opening Hours, Autumn Leaves, Picnic↗](/posts/shinjuku-gyoen-guide-2025/)**
 
