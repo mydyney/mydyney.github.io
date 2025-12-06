@@ -324,10 +324,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 
 **🧡 一緒に見たい新宿旅行ガイド**
 - **荷物の心配終わり！ ➡️ [新宿駅荷物預け100%成功法、コインロッカー位置&裏技](/ja/posts/shinjuku-luggage-storage/)**
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-- **日程計画 ➡️** <a href="#" style="color: #667eea;"><strong>新宿グルメ・ショッピング・遊びどころ完璧まとめコース</strong></a>
+- **日程計画 ➡️ [新宿グルメ・ショッピング・遊びどころ完璧まとめコース](/ja/posts/shinjuku-guide-2025/)**
 - **無料夜景 ➡️ [東京都庁無料展望台への行き方・夜景名所ヒント](/ja/posts/tokyo-metropolitan-govt-observatory/)**
 - **ピクニック ➡️ [新宿御苑入場料・時間・スタバ・ピクニックガイド](/ja/posts/shinjuku-gyoen-guide-2025/)**
 

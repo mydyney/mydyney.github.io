@@ -324,10 +324,7 @@ Found your Shinjuku Station breakfast solution? Store heavy luggage in coin lock
 
 **🧡 Related Shinjuku Travel Guides**
 - **No More Luggage Worries! ➡️ [Shinjuku Station Luggage Storage 100% Success Guide: Coin Locker Locations & Tips](/posts/shinjuku-luggage-storage/)**
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-- **Itinerary Planning ➡️** <a href="#" style="color: #667eea;"><strong>Complete Shinjuku Course: Restaurants, Shopping & Activities Guide</strong></a>
+- **Itinerary Planning ➡️ [Complete Shinjuku Course: Restaurants, Shopping & Activities Guide](/posts/shinjuku-guide-2025/)**
 - **Free Night View ➡️ [Tokyo Metropolitan Government Building Free Observatory Access & Best Night View Tips](/posts/tokyo-metropolitan-govt-observatory/)**
 - **Picnic ➡️ [Shinjuku Gyoen Admission, Hours, Starbucks & Picnic Guide](/posts/shinjuku-gyoen-guide-2025/)**
 
