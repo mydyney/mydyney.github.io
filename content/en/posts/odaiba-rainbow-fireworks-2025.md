@@ -5,7 +5,7 @@ draft: false
 translationKey: "odaiba-rainbow-fireworks-2025"
 description: "Complete guide to Odaiba Rainbow Fireworks 2025: December schedule, best viewing spots, access guide, night cruise options, and essential tips for Tokyo's winter fireworks spectacular."
 summary: "Everything you need for Odaiba fireworks: December 2025 schedule, top 5 viewing spots, and insider tips."
-tags: ["odaiba", "fireworks", "tokyo-events", "winter-events", "rainbow-bridge", "december-2025", "christmas-eve"]
+tags: ["odaiba", "fireworks", "tokyo-events", "winter-events", "rainbow-bridge", "christmas-eve"]
 categories: ["Events & Festivals"]
 featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 ---
