@@ -234,10 +234,7 @@ Not satisfied with just watching fireworks? We recommend the perfect day course:
 
 <strong>🧡 [Morning~Afternoon] Asakusa Travel</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /posts/asakusa-complete-guide-2025/ -->
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Tokyo Asakusa Complete Guide: Sensoji, Demon Slayer, Gyukatsu, Hotel Recommendations</strong></a>
+<strong>➡️</strong> <a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>Tokyo Asakusa Complete Guide: Sensoji, Demon Slayer, Gyukatsu, Hotel Recommendations</strong></a>
 
 <strong>🧡 [Travel~Evening] Odaiba Arrival & Fireworks</strong>
 
