@@ -168,12 +168,12 @@ Each card is sold by different companies, so be careful! Check the detailed issu
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/narita-airport-arrival-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223995074888
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/haneda-airport-arrival-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
 
 ---
@@ -212,7 +212,7 @@ Then use **'Suica (or PASMO)'** for **JR lines not covered by subway pass** or w
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/tokyo-subway-ticket-guide/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass (Tokyo Subway Ticket) Exchange Locations, Purchase & Usage Complete Guide</strong></a>
 
 ---
@@ -227,7 +227,7 @@ Check the guide below for a perfect comparison of the two passes' pros and cons,
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass vs JR Tokunai Pass, Perfect Comparison!</strong></a>
 
 <figure>
@@ -245,12 +245,12 @@ Now that you've prepared your essential Tokyo travel item—the 'transportation 
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/narita-express-guide/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
+     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
+**➡️** <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
 
 </div>
