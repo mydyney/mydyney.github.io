@@ -205,13 +205,19 @@ From Skytree observation deck discount booking tips to Solamachi shopping mall's
 
 ### ⭐ More Great Tokyo Travel Guides
 
-<a href="/posts/don-quijote-shopping-guide-2025/"><strong>➡️ Tokyo Don Quijote Shopping List: Must-Buy Items & Discount Coupons Complete Guide</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224022065518
+     Hugo: /posts/don-quijote-shopping-guide-2025/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Don Quijote Shopping List: Must-Buy Items & Discount Coupons Complete Guide</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031937227
      Hugo: /posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Akihabara Attractions: Figure Shops, Restaurants, Gacha, Anime Pilgrimage Recommended Course Complete Guide</strong></a>
 
-<a href="/posts/hakone-day-trip-course/"><strong>➡️ Hakone Travel: Day Trip vs Ryokan Overnight Perfect Course Recommendations</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /posts/hakone-day-trip-course/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ Hakone Travel: Day Trip vs Ryokan Overnight Perfect Course Recommendations</strong></a>
 
 </div>

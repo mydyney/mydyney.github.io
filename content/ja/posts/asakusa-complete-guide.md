@@ -205,13 +205,19 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 
 ### ⭐ 一緒に見るとよい東京旅行ガイド
 
-<a href="/ja/posts/don-quijote-shopping-guide-2025/"><strong>➡️ 東京ドンキホーテショッピングリスト必須おすすめ品・割引クーポン総まとめ</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224022065518
+     Hugo: /ja/posts/don-quijote-shopping-guide-2025/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ 東京ドンキホーテショッピングリスト必須おすすめ品・割引クーポン総まとめ</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031937227
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 秋葉原の見どころ、フィギュアショップ、レストラン、ガチャ、アニメ聖地巡礼おすすめコース総まとめ</strong></a>
 
-<a href="/ja/posts/hakone-day-trip-course/"><strong>➡️ 箱根旅行、日帰り vs 旅館1泊完璧コースおすすめ</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /ja/posts/hakone-day-trip-course/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ 箱根旅行、日帰り vs 旅館1泊完璧コースおすすめ</strong></a>
 
 </div>
