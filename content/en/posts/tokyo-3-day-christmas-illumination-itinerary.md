@@ -574,9 +574,12 @@ Isetan/Takashimaya department store shopping<br>
 (Lunch) Michelin udon Kirimugiya<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="/posts/shinjuku-udon-guide/" style="color: #667eea;">➡️Tokyo Shinjuku Udon Restaurant,</a></b><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914223908
+     Hugo: /posts/shinjuku-udon-guide/ -->
+<a href="#" style="color: #667eea;">➡️Tokyo Shinjuku Udon Restaurant,</a></b><br>
 <b><!-- Link updated -->
-<a href="/posts/shinjuku-udon-guide/" style="color: #667eea;">Kirimugiya Jinroku Michelin Udon</a></b></p>
+<a href="#" style="color: #667eea;">Kirimugiya Jinroku Michelin Udon</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-30.jpg" alt="Tokyo Shinjuku udon restaurant Kirimugiya Jinroku Michelin udon">

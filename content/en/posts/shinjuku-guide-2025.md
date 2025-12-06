@@ -283,7 +283,10 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 - Feature: Harmony of smooth yet chewy noodles and deep umami broth.
 - **✅ Kirimugiya Jinroku Online Reservation**
 
-<p><strong>➡️ <a href="/posts/shinjuku-udon-guide/" style="color: #667eea;">Shinjuku Udon Gourmet: Kirimugiya Jinroku Queue Tips & Recommended Menu</a></strong></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914223908
+     Hugo: /posts/shinjuku-udon-guide/ -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">Shinjuku Udon Gourmet: Kirimugiya Jinroku Queue Tips & Recommended Menu</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="Kirimugiya Jinroku Udon">

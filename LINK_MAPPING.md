@@ -89,7 +89,7 @@ When migrating a Naver blog post to Hugo:
 | 224096781916 | omotesando-illumination-2025 | 2025-12-06 | ✅ |
 | 224095124866 | shinjuku-neon-work-illumination | 2025-12-06 | ✅ |
 | 224095118118 | tokyo-countdown-2026 | 2025-12-06 | ✅ |
-| 223914223908 | shinjuku-udon-guide | 2025-12-06 | ✅ |
+
 | 224019480188 | hakone-day-trip-course | 2025-12-06 | ✅ |
 | 224035533672 | ghibli-museum-reservation-guide | 2025-12-06 | ✅ |
 | 224002738158 | narita-express-guide | 2025-12-06 | ✅ |

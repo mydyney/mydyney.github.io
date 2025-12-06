@@ -649,11 +649,14 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/shinjuku-udon-guide/" style="color: #667eea;">➡️東京新宿うどんレストラン、</a></b><br>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914223908
+     Hugo: /ja/posts/shinjuku-udon-guide/ -->
+<a href="#" style="color: #667eea;">➡️東京新宿うどんレストラン、</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="/ja/posts/shinjuku-udon-guide/" style="color: #667eea;">きりむぎや甚六ミシュランうどん</a></b></p>
+     Hugo: /ja/posts/shinjuku-udon-guide/ -->
+<a href="#" style="color: #667eea;">きりむぎや甚六ミシュランうどん</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-30.jpg" alt="東京新宿うどんレストランきりむぎや甚六ミシュランうどん">

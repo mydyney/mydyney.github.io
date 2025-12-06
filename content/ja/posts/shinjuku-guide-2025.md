@@ -283,7 +283,10 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 - 特徴：滑らかでコシのある麺と、深い旨味のある出汁の調和。
 - **✅ 切麦や 甚六 オンライン予約**
 
-<p><strong>➡️ <a href="/ja/posts/shinjuku-udon-guide/" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914223908
+     Hugo: /ja/posts/shinjuku-udon-guide/ -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="切麦や 甚六 うどん">
