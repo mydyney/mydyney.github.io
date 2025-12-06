@@ -172,7 +172,10 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 📌 東京近郊「**木更津アウトレット**」の詳しいアクセス、入店ブランド、グルメ情報が知りたい方は、下記の完璧ガイドをチェックしてください！
 
-➡️ <a href="https://blog.naver.com/tokyomate/224034429817" target="_blank" style="color: #667eea;"><strong>東京アウトレットおすすめ、三井アウトレットパーク木更津完璧ガイド</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224034429817
+     Hugo: /ja/posts/mitsui-outlet-park-kisarazu-guide/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>東京アウトレットおすすめ、三井アウトレットパーク木更津完璧ガイド</strong></a>
 
 **2. ダイバーシティ東京プラザ、ララポート豊洲/東京ベイ/福岡/エキスポシティ、COREDO室町/ラゾーナ川崎プラザ ➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142093&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F98058-mitsui-outlet-park-mitsui-shopping-park-tourist-privilege-discount-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76a092f762" target="_blank" style="color: #667eea;"><strong>Klookクーポン</strong></a>**
 
@@ -205,7 +208,7 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 📌 **新宿**には「伊勢丹」、「高島屋」、「京王」、「小田急」など日本の代表的な**デパート**がすべて集まっており、「デパートショッピングツアー」を楽しむのに良いです。詳しい動線と情報は下記の新宿ガイドを参照してください。
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank" style="color: #667eea;"><strong>新宿遊び場、新宿御苑からグルメ、ショッピングまで完璧コース総まとめ</strong></a>**
+**➡️ <a href="/ja/posts/shinjuku-guide-2025/" target="_blank" style="color: #667eea;"><strong>新宿遊び場、新宿御苑からグルメ、ショッピングまで完璧コース総まとめ</strong></a>**
 
 **1. 小田急百貨店新宿店 ➡️ <a href="https://livejapan.com/public/operation/coupon/odakyudepartmentstore/en.html" target="_blank" style="color: #667eea;"><strong>Live JAPANクーポン</strong></a> 、➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142121&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F84376-odakyu-department-store-shinjuku-tokyo%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da85884e090" target="_blank" style="color: #667eea;"><strong>Klookクーポン</strong></a>**
 
@@ -248,7 +251,10 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 📌 **山崎、響**などのウイスキー在庫及び無料試飲会情報は下記の詳細ガイドで確認してください！
 
-➡️ <a href="https://blog.naver.com/tokyomate/224008430188" target="_blank" style="color: #667eea;"><strong>銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224008430188
+     Hugo: /ja/posts/ginza-lotte-duty-free-whisky-guide/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</strong></a>
 
 **2. ジャパンデューティーフリー銀座 ➡️ <a href="https://livejapan.com/public/operation/coupon/japandutyfree/en.html" target="_blank" style="color: #667eea;"><strong>Live JAPANクーポン</strong></a>**
 
@@ -336,13 +342,22 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 **⭐ 一緒に読むと良い記事**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/223991251786" target="_blank" style="color: #667eea;"><strong>獺祭23、45、39日本公式ホームページ価格完全ガイド</strong></a>**
+**➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>獺祭23、45、39日本公式ホームページ価格完全ガイド</strong></a>**
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223991251786
+     Hugo: /ja/posts/shinanoya-roppongi-hills-supermarket/ -->
 
-➡️ <a href="https://blog.naver.com/tokyomate/224010546735" target="_blank" style="color: #667eea;"><strong>日本ウイスキー山崎、響公式価格完全ガイド＆初心者・ギフト用おすすめ</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224010546735
+     Hugo: /ja/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>日本ウイスキー山崎、響公式価格完全ガイド＆初心者・ギフト用おすすめ</strong></a>
 
-➡️ <a href="https://blog.naver.com/tokyomate/224022065518" target="_blank" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト必須おすすめ＆割引クーポン、免税方法完全ガイド</strong></a>
+➡️ <a href="/ja/posts/don-quijote-shopping-guide-2025/" target="_blank" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト必須おすすめ＆割引クーポン、免税方法完全ガイド</strong></a>
 
-➡️ <a href="https://blog.naver.com/tokyomate/224033964477" target="_blank" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224033964477
+     Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
 
 ➡️ <a href="/ja/posts/japan-convenience-store-shopping-best-10/" target="_blank" style="color: #667eea;"><strong>日本コンビニ完全攻略！（セブンイレブン、ファミマ、ローソン比較完全ガイド）</strong></a>
 

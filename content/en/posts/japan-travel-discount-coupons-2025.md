@@ -172,7 +172,10 @@ Essential for cameras, game consoles, beauty devices, and more!
 
 📌 For detailed directions, brands, and restaurant info about **'Kisarazu Outlet'** near Tokyo, check the complete guide below!
 
-➡️ <a href="https://blog.naver.com/tokyomate/224034429817" target="_blank" style="color: #667eea;"><strong>Tokyo Outlet Recommendation: MITSUI OUTLET PARK Kisarazu Complete Guide</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224034429817
+     Hugo: /posts/mitsui-outlet-park-kisarazu-guide/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Tokyo Outlet Recommendation: MITSUI OUTLET PARK Kisarazu Complete Guide</strong></a>
 
 **2. DiverCity Tokyo Plaza, LaLaport Toyosu/Tokyo Bay/Fukuoka/EXPOCITY, COREDO Muromachi/LaZona Kawasaki Plaza ➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142093&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F98058-mitsui-outlet-park-mitsui-shopping-park-tourist-privilege-discount-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76a092f762" target="_blank" style="color: #667eea;"><strong>Klook Coupon</strong></a>**
 
@@ -205,7 +208,7 @@ Essential for clothing, luxury goods, and sundries shopping! Most issue **5% dis
 
 📌 **Shinjuku** has all of Japan's representative **department stores** like 'Isetan', 'Takashimaya', 'Keio', and 'Odakyu' gathered together, great for a 'department store shopping tour'. For detailed routes and information, see the Shinjuku guide below.
 
-**➡️ <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank" style="color: #667eea;"><strong>Shinjuku Activities: Perfect Course from Shinjuku Gyoen to Restaurants & Shopping</strong></a>**
+**➡️ <a href="/posts/shinjuku-guide-2025/" target="_blank" style="color: #667eea;"><strong>Shinjuku Activities: Perfect Course from Shinjuku Gyoen to Restaurants & Shopping</strong></a>**
 
 **1. Odakyu Department Store Shinjuku (Odakyu) ➡️ <a href="https://livejapan.com/public/operation/coupon/odakyudepartmentstore/en.html" target="_blank" style="color: #667eea;"><strong>Live JAPAN Coupon</strong></a> , ➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142121&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F84376-odakyu-department-store-shinjuku-tokyo%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da85884e090" target="_blank" style="color: #667eea;"><strong>Klook Coupon</strong></a>**
 
@@ -248,7 +251,10 @@ Essential for clothing, luxury goods, and sundries shopping! Most issue **5% dis
 
 📌 For **Yamazaki, Hibiki** whisky stock and free tasting event info, check the detailed guide below!
 
-➡️ <a href="https://blog.naver.com/tokyomate/224008430188" target="_blank" style="color: #667eea;"><strong>Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Free Tasting)</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224008430188
+     Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Free Tasting)</strong></a>
 
 **2. Japan Duty Free GINZA ➡️ <a href="https://livejapan.com/public/operation/coupon/japandutyfree/en.html" target="_blank" style="color: #667eea;"><strong>Live JAPAN Coupon</strong></a>**
 
@@ -336,13 +342,22 @@ The more you know, the more you save - **Japan travel discount coupons!** Just t
 
 **⭐ Related Articles**
 
-**➡️ <a href="https://blog.naver.com/tokyomate/223991251786" target="_blank" style="color: #667eea;"><strong>Dassai 23, 45, 39 Japan Official Website Price Complete Guide</strong></a>**
+**➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Dassai 23, 45, 39 Japan Official Website Price Complete Guide</strong></a>**
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223991251786
+     Hugo: /posts/shinanoya-roppongi-hills-supermarket/ -->
 
-➡️ <a href="https://blog.naver.com/tokyomate/224010546735" target="_blank" style="color: #667eea;"><strong>Japanese Whisky Yamazaki, Hibiki Official Price Complete Guide & Beginner/Gift Recommendations</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224010546735
+     Hugo: /posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Japanese Whisky Yamazaki, Hibiki Official Price Complete Guide & Beginner/Gift Recommendations</strong></a>
 
-➡️ <a href="https://blog.naver.com/tokyomate/224022065518" target="_blank" style="color: #667eea;"><strong>Japan Don Quijote Shopping List Essential Recommendations & Discount Coupons, Tax-Free Method Complete Guide</strong></a>
+➡️ <a href="/posts/don-quijote-shopping-guide-2025/" target="_blank" style="color: #667eea;"><strong>Japan Don Quijote Shopping List Essential Recommendations & Discount Coupons, Tax-Free Method Complete Guide</strong></a>
 
-➡️ <a href="https://blog.naver.com/tokyomate/224033964477" target="_blank" style="color: #667eea;"><strong>Japan KALDI Shopping List, Must-Buy KALDI Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224033964477
+     Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Japan KALDI Shopping List, Must-Buy KALDI Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
 
 ➡️ <a href="/posts/japan-convenience-store-shopping-best-10/" target="_blank" style="color: #667eea;"><strong>Complete Guide to Japanese Convenience Stores! (7-Eleven, FamilyMart, Lawson Comparison)</strong></a>
 
