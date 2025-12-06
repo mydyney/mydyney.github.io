@@ -296,6 +296,8 @@ declare -A MAPPINGS=(
   ["223914321510"]="sumiyaki-unafuji-yurakucho"
   ["224042267263"]="nihonbashi-guide"
   ["223680263119"]="tokyo-station-nemuro-hanamaru-sushi-guide"
+  ["224032515713"]="daikanyama-guide"
+  ["224032086475"]="nakameguro-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
