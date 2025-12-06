@@ -342,9 +342,20 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
      Hugo: /ja/posts/shinjuku-oiwake-dango-honpo/ -->
 <p><strong>➡️ <a href="/ja/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">創業300年を誇る東京・新宿の代表的な団子店「追分だんご本舗」↗</a></strong></p>
 
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="追分だんご">
-</figure>
+<div class="se-component se-imageGroup se-l-collage" id="SE-d8d48a2c-974d-4432-be89-2cd2e055d13c">
+    <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
+        <div class="se-module se-module-image" style="flex: 1;">
+            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
+                <img src="/images/posts/shinjuku-guide-2025-oiwake-1.jpg" alt="Oiwake Dango 1" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
+            </a>
+        </div>
+        <div class="se-module se-module-image" style="flex: 1;">
+            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
+                <img src="/images/posts/shinjuku-guide-2025-oiwake-2.jpg" alt="Oiwake Dango 2" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
+            </a>
+        </div>
+    </div>
+</div>
 
 <hr class="se-hr">
 

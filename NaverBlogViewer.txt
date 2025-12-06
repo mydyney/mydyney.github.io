@@ -1581,7 +1581,7 @@ a.itemTagfont:hover , a.itemTagfont:active {font-size:9pt;font-family:돋움, �
 	};
 </script>
 
-<script id="gnb-script" type="text/javascript" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?Sat Dec 06 14:04:47 KST 2025" charset="utf-8"></script>
+<script id="gnb-script" type="text/javascript" src="https://ssl.pstatic.net/static.gn/templates/gnb_utf8.nhn?Sat Dec 06 14:18:24 KST 2025" charset="utf-8"></script>
 <script type="text/javascript">
     var doc = document.documentElement;
     doc.setAttribute('data-useragent',navigator.userAgent);
@@ -1898,7 +1898,7 @@ var hasProduct = 'false' === 'true';
 var feEnv = 'real';
 var infEnv = 'real';
 var	gbIsInf = "" == "true" ? true : false;
-var endPageProductMap = JSON.parse('{"224035271300":{"sellerNo":0,"hasProduct":false,"secedeSellerHasProduct":false,"productList":[],"delivery":{"merchantName":"","deliveryCompany":"","returnShippingFee":0,"exchangeShippingFee":0,"address1":"","address2":"","zipCode":"","phoneNumber":"","feePrice":0,"conditionalFree":0,"etcDeliveryFee":0},"postProductStatus":null,"temporaryStopSeller":false,"leaveRequestSeller":false,"tradeInterruptionSeller":false}}');
+var endPageProductMap = JSON.parse('{"224035271300":{"sellerNo":0,"hasProduct":false,"secedeSellerHasProduct":false,"productList":[],"delivery":{"merchantName":"","deliveryCompany":"","returnShippingFee":0,"exchangeShippingFee":0,"address1":"","address2":"","zipCode":"","phoneNumber":"","feePrice":0,"conditionalFree":0,"etcDeliveryFee":0},"postProductStatus":null,"tradeInterruptionSeller":false,"temporaryStopSeller":false,"leaveRequestSeller":false}}');
 var feMobileUrl= "https://fe-m.blog.naver.com";
 
 var blogModuleJs= "https://feblog.pstatic.net/module/real/market/market_1.0.0/js/market.js";
@@ -2204,7 +2204,7 @@ function splugin_oninitialize(nCount) {
                    공유하기
                 <span class="ico_share _title_share_icon"></span>
                </a>
-                <a href="#" class="_report _param(https://srp2.naver.com/report?svc=BLG&exit=close&ctype=AA01&cwriterenc=hjwhODe5ojHYdWeGjIYrX8lX10EoifnaY%2FCn%2B%2FHmNS0%3D&ctitle=%EC%8B%A0%EC%A3%BC%EC%BF%A0%20%EB%86%80%EA%B1%B0%EB%A6%AC%2C%20%EC%8B%A0%EC%A3%BC%EC%BF%A0%20%EA%B5%90%EC%97%94%EB%B6%80%ED%84%B0%20%EB%A7%9B%EC%A7%91%2C%20%EC%87%BC%ED%95%91%2C%20%EA%B3%A8%EB%93%A0%EA%B0%80%EC%9D%B4%EA%B9%8C%EC%A7%80%20%EC%99%84%EB%B2%BD%20%EC%BD%94%EC%8A%A4%20%EC%B4%9D%EC%A0%95%EB%A6%AC&cwriter=gogo****&dark=disable&memtype=Y&env=pc&cnickname=gogo****&vsvc=BLG&cid=tokyomate%40%40165326515%40%40mylog%40%40224035271300) _returnFalse">신고하기<span class="ico_report"></span></a>
+                <a href="#" class="_report _param(https://srp2.naver.com/report?svc=BLG&exit=close&ctype=AA01&cwriterenc=nXOYjoQIv%2BCiilUy4ZPHUFrgNQ0Le%2FmmqNIk4SvzsC0%3D&ctitle=%EC%8B%A0%EC%A3%BC%EC%BF%A0%20%EB%86%80%EA%B1%B0%EB%A6%AC%2C%20%EC%8B%A0%EC%A3%BC%EC%BF%A0%20%EA%B5%90%EC%97%94%EB%B6%80%ED%84%B0%20%EB%A7%9B%EC%A7%91%2C%20%EC%87%BC%ED%95%91%2C%20%EA%B3%A8%EB%93%A0%EA%B0%80%EC%9D%B4%EA%B9%8C%EC%A7%80%20%EC%99%84%EB%B2%BD%20%EC%BD%94%EC%8A%A4%20%EC%B4%9D%EC%A0%95%EB%A6%AC&cwriter=gogo****&dark=disable&memtype=Y&env=pc&cnickname=gogo****&vsvc=BLG&cid=tokyomate%40%40165326515%40%40mylog%40%40224035271300) _returnFalse">신고하기<span class="ico_report"></span></a>
 		</div>
 	</div>
     <input type="text" value="https://blog.naver.com/tokyomate/224035271300" alt="url" class="copyTargetUrl" style="display:none;" title="URL 복사">
@@ -3473,7 +3473,7 @@ $Fn(function() {
 
 
 
-<div id="socialPluginInfoJson" style="display:none">[{&#034;title&#034;:&#034;신주쿠 놀거리, 신주쿠 교엔부터 맛집, 쇼핑, 골든가이까지 완벽 코스 총정리&#034;,&#034;source&#034;:&#034;https://blog.naver.com/tokyomate/224035271300&#034;,&#034;blogName&#034;:&#034;도쿄메이트..&#034;,&#034;domainIdOrBlogId&#034;:&#034;tokyomate&#034;,&#034;nicknameOrBlogId&#034;:&#034;도쿄메이트&#034;,&#034;logNo&#034;:224035271300,&#034;smartEditorVersion&#034;:4,&#034;meDisplay&#034;:true,&#034;lineDisplay&#034;:true,&#034;outsideDisplay&#034;:true,&#034;cafeDisplay&#034;:true,&#034;blogDisplay&#034;:true}]</div>
+<div id="socialPluginInfoJson" style="display:none">[{&#034;title&#034;:&#034;신주쿠 놀거리, 신주쿠 교엔부터 맛집, 쇼핑, 골든가이까지 완벽 코스 총정리&#034;,&#034;source&#034;:&#034;https://blog.naver.com/tokyomate/224035271300&#034;,&#034;blogName&#034;:&#034;도쿄메이트..&#034;,&#034;domainIdOrBlogId&#034;:&#034;tokyomate&#034;,&#034;nicknameOrBlogId&#034;:&#034;도쿄메이트&#034;,&#034;logNo&#034;:224035271300,&#034;smartEditorVersion&#034;:4,&#034;meDisplay&#034;:true,&#034;outsideDisplay&#034;:true,&#034;lineDisplay&#034;:true,&#034;cafeDisplay&#034;:true,&#034;blogDisplay&#034;:true}]</div>
 <script type="text/javascript">
     var thumbnailTypeW3840EnableDomainListJson = '["https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://postfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogfiles.pstatic.net","https://blogpfthumb-phinf.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net","https://blogthumb.pstatic.net"]';
     var photoViewerSocialPluginInfoJson = document.getElementById('socialPluginInfoJson').innerText;
