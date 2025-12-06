@@ -281,6 +281,7 @@ declare -A MAPPINGS=(
   ["223989943826"]="ginza-guide-2025"
   ["224032515713"]="daikanyama-guide"
   ["223995074888"]="haneda-airport-arrival-guide"
+  ["224010546735"]="japanese-whisky-yamazaki-hibiki-price-guide"
   ["224034429817"]="mitsui-outlet-park-kisarazu-guide"
   ["223694645793"]="ginza-akebono-strawberry-mochi"
   ["224025044772"]="ginza-kuya-monaka-reservation-guide"

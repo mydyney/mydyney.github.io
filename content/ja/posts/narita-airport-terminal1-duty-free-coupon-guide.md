@@ -216,13 +216,11 @@ JAL、エアプレミア等利用。第1ターミナルと同じくらい規模�
 お得なショッピングで楽しい東京旅行を締めくくりましょう！
 
 **関連記事:**
-- <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>➡️ 日本旅行割引クーポン総まとめ2025（ドンキホーテ、ビックカメラ、デパート等免税+追加割引）</b></a>
-- <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<!-- Link updated -->
+<a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><b>➡️ 日本旅行割引クーポン総まとめ2025（ドンキホーテ、ビックカメラ、デパート等免税+追加割引）</b></a>
+<br><br>
+<!-- Link updated -->
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224010546735 Hugo: /ja/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 日本ウイスキー山崎、響公式価格総まとめ及び入門者、ギフト用おすすめ</b></a>
 
 </div>
