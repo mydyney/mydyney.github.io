@@ -173,7 +173,7 @@ featured_image: "/images/posts/tokyo-dome-city-christmas-illumination-2025-01.jp
   <!-- TODO: Update link after migration
        Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
        Hugo: /ja/posts/[SLUG_TBD]/ -->
-  <li><a href="#" style="color:#667eea;">東京クリスマスイルミネーション BEST 5</a></li>
+  <li><a href="/ja/posts/tokyo-christmas-illumination-best-5-2025/" style="color:#667eea;">東京クリスマスイルミネーション BEST 5</a></li>
 </ul>
 
 <p>東京ドームシティのウィンターイルミネーションは、<strong>入場無料</strong>で楽しめる東京有数のイルミネーションスポット。TXTとのコラボレーションで、今年は特に注目度が高くなっています。ぜひ幻想的な冬の世界を体験してみてください！</p>
