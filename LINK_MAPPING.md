@@ -165,6 +165,9 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224096203397 | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
 | 224096781916 | shibuya-blue-cave-illumination-2025 | 2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide |
 | 223915132048 | shinbashi-shiodome-evening-course | Tokyo Shinbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review |
+| 223670085459 | tokyo-christmas-illumination-best-5-2025 | 2024 Roppongi Hills Christmas Market Review |
+| 223688700265 | tokyo-christmas-illumination-best-5-2025 | 2024 Tokyo Omotesando Illumination and Harajuku Free Observatory |
+| 223689247336 | tokyo-christmas-illumination-best-5-2025 | 2024 Tokyo Shibuya Miyashita Park Christmas Illumination |
 
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 
@@ -312,6 +315,9 @@ declare -A MAPPINGS=(
   ["224025699867"]="tokyo-subway-pass-vs-jr-tokunai-pass"
   ["224032769630"]="yebisu-complete-guide"
   ["223915132048"]="shinbashi-tonkatsu-horiichi"
+  ["223670085459"]="roppongi-hills-christmas-market-review-2024"
+  ["223688700265"]="omotesando-illumination-harajuku-observatory-review-2024"
+  ["223689247336"]="shibuya-miyashita-park-illumination-review-2024"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do

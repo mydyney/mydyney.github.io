@@ -25,9 +25,6 @@ with dates, access info, and insider tips!</p>
 <div class="tip-box">
   <p><strong>🎄 Looking for Christmas Market info?</strong></p>
   <p>Check out our dedicated Christmas Market guide with info on Ueno, Roppongi, Yokohama and more!</p>
-  <!-- TODO: Update link after migration
-       Naver: /posts/tokyo-christmas-markets-guide-2025/
-       Hugo: /posts/[SLUG_TBD]/ -->
   <p><a href="/posts/tokyo-christmas-markets-guide-2025/" style="color:#667eea;"><strong>➡️ 2025 Tokyo Christmas Markets Complete Guide</strong></a></p>
 </div>
 
@@ -83,7 +80,7 @@ with dates, access info, and insider tips!</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/roppongi-hills-christmas-market-review-2024/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Roppongi Hills Christmas Market Review</strong></a></p>
 
 <figure>
@@ -154,9 +151,9 @@ with dates, access info, and insider tips!</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223688700265
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/omotesando-illumination-harajuku-observatory-review-2024/ -->
 <p><strong>📌 Want more details about last year's Omotesando Christmas?</strong><br>
-<a href="#" style="color:#667eea;"><strong>➡️ 2024 Tokyo Omotesando Illumination and Harajuku Free Observatory</strong></a></p>
+<a href="/posts/omotesando-illumination-harajuku-observatory-review-2024/" style="color:#667eea;"><strong>➡️ 2024 Tokyo Omotesando Illumination and Harajuku Free Observatory</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-07.jpg" alt="2024 Omotesando Fendi Illumination">
@@ -178,9 +175,9 @@ with dates, access info, and insider tips!</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223689247336
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/shibuya-miyashita-park-illumination-review-2024/ -->
 <p><strong>📌 Curious about more Shibuya Christmas spots besides "Blue Cave"?</strong><br>
-<a href="#" style="color:#667eea;"><strong>➡️ 2024 Tokyo Shibuya Miyashita Park Christmas Illumination</strong></a></p>
+<a href="/posts/shibuya-miyashita-park-illumination-review-2024/" style="color:#667eea;"><strong>➡️ 2024 Tokyo Shibuya Miyashita Park Christmas Illumination</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-08.jpg" alt="2024 Shibuya Miyashita Park Illumination">
@@ -224,7 +221,7 @@ with dates, access info, and insider tips!</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/azabudai-hills-christmas-market-review-2024/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Tokyo Azabudai Hills Christmas Market Review</strong></a></p>
 
 <figure>
@@ -236,10 +233,7 @@ with dates, access info, and insider tips!</p>
 
 <p>Rainbow fireworks and drone shows light up the winter night alongside illuminations.</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223690406760
-     Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Tokyo Odaiba Rainbow Fireworks and Illumination</strong></a></p>
+<p><a href="/posts/odaiba-rainbow-fireworks-2025/" style="color:#667eea;"><strong>➡️ 2024 Tokyo Odaiba Rainbow Fireworks and Illumination</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-11.jpg" alt="2024 Tokyo Odaiba Rainbow Fireworks">
@@ -259,7 +253,7 @@ with dates, access info, and insider tips!</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700200846
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/tokyo-skytree-illumination-guide/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ Tokyo Skytree Illumination and Christmas Market</strong></a></p>
 
 <p><strong>🎄 Completely New "Christmas Special Lighting" for Skytree!</strong><br>
@@ -283,18 +277,12 @@ The Tembo Deck at 350m and Tembo Galleria at 450m are decorated with Christmas t
 
 <p>The flower of Christmas that you must enjoy alongside illuminations - "Christmas Markets" - are completely covered in our dedicated "Market Guide" below! Don't miss the new Ueno Park info!</p>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-markets-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="/posts/tokyo-christmas-markets-guide-2025/" style="color:#667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where to Go? (Ueno, Roppongi, Yokohama Complete Guide)</strong></a></p>
 
 <h2>🍁 Traveling Late November to Early December? Catch the Autumn Leaves Too!</h2>
 
 <p>'Christmas illuminations/markets' perfectly overlap with Tokyo's peak autumn foliage season! Plan the perfect itinerary enjoying romantic autumn leaves during the day and sparkling Christmas lights at night!</p>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-autumn-foliage-best-spots-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="/posts/tokyo-autumn-foliage-best-spots-2025/" style="color:#667eea;"><strong>➡️ 2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots</strong></a></p>
 
 ---

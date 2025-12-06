@@ -25,10 +25,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 <div class="tip-box">
   <p><strong>🎄 クリスマスマーケット情報をお探しですか？</strong></p>
   <p>上野、六本木、横浜など、クリスマスマーケット専門ガイドをご覧ください！</p>
-  <!-- TODO: Update link after migration
-       Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
-       Hugo: /ja/posts/[SLUG_TBD]/ -->
-  <p><a href="#" style="color:#667eea;"><strong>➡️ 2025年東京クリスマスマーケット完全ガイド</strong></a></p>
+  <p><a href="/ja/posts/tokyo-christmas-markets-guide-2025/" style="color:#667eea;"><strong>➡️ 2025年東京クリスマスマーケット完全ガイド</strong></a></p>
 </div>
 
 <h2>✨ 2025年東京、光に彩られた幻想的な冬物語</h2>
@@ -83,7 +80,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-hills-christmas-market-review-2024/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2024年六本木ヒルズ クリスマスマーケット レビュー</strong></a></p>
 
 <figure>
@@ -154,9 +151,9 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223688700265
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/omotesando-illumination-harajuku-observatory-review-2024/ -->
 <p><strong>📌 昨年の表参道クリスマス、もっと詳しく見たい方は？</strong><br>
-<a href="#" style="color:#667eea;"><strong>➡️ 2024年東京表参道イルミネーションと原宿無料展望台</strong></a></p>
+<a href="/ja/posts/omotesando-illumination-harajuku-observatory-review-2024/" style="color:#667eea;"><strong>➡️ 2024年東京表参道イルミネーションと原宿無料展望台</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-07.jpg" alt="2024年表参道フェンディイルミネーション">
@@ -178,9 +175,9 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223689247336
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/shibuya-miyashita-park-illumination-review-2024/ -->
 <p><strong>📌 「青の洞窟」以外にも渋谷の他のクリスマス風景が気になる方は？</strong><br>
-<a href="#" style="color:#667eea;"><strong>➡️ 2024年東京渋谷ミヤシタパーク クリスマスイルミネーション</strong></a></p>
+<a href="/ja/posts/shibuya-miyashita-park-illumination-review-2024/" style="color:#667eea;"><strong>➡️ 2024年東京渋谷ミヤシタパーク クリスマスイルミネーション</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-08.jpg" alt="2024年渋谷ミヤシタパークイルミネーション">
@@ -224,7 +221,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/azabudai-hills-christmas-market-review-2024/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2024年東京麻布台ヒルズ クリスマスマーケット レビュー</strong></a></p>
 
 <figure>
@@ -236,10 +233,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 
 <p>冬の夜空を彩るレインボー花火とドローンショーがイルミネーションと共に開催されます。</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223690406760
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024年東京お台場レインボー花火とイルミネーション</strong></a></p>
+<p><a href="/ja/posts/odaiba-rainbow-fireworks-2025/" style="color:#667eea;"><strong>➡️ 2024年東京お台場レインボー花火とイルミネーション</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-11.jpg" alt="2024年東京お台場レインボー花火">
@@ -259,7 +253,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700200846
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/tokyo-skytree-illumination-guide/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 東京スカイツリー イルミネーションとクリスマスマーケット</strong></a></p>
 
 <p><strong>🎄 完全に新しくなったスカイツリーの「クリスマス特別ライティング」</strong><br>
@@ -283,19 +277,13 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 
 <p>イルミネーションと一緒に楽しむべきクリスマスの花、「クリスマスマーケット」情報は下記の「マーケット専門ガイド」で完璧にまとめています！今年新しくオープンする上野公園情報もお見逃しなく！</p>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2025年東京クリスマスマーケット、どこに行く？（上野、六本木、横浜など完全ガイド）</strong></a></p>
+<p><a href="/ja/posts/tokyo-christmas-markets-guide-2025/" style="color:#667eea;"><strong>➡️ 2025年東京クリスマスマーケット、どこに行く？（上野、六本木、横浜など完全ガイド）</strong></a></p>
 
 <h2>🍁 11月末～12月初旬の旅行なら紅葉も見られます！</h2>
 
 <p>「クリスマスイルミネーション/マーケット」は東京の紅葉ピーク時期と完璧に重なります！昼はロマンチックな紅葉を、夜はキラキラ輝くクリスマスを楽しむ完璧なコースを計画してみてください！</p>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-autumn-foliage-best-spots-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2025年東京紅葉時期＆おすすめ名所 BEST 5</strong></a></p>
+<p><a href="/ja/posts/tokyo-autumn-foliage-best-spots-2025/" style="color:#667eea;"><strong>➡️ 2025年東京紅葉時期＆おすすめ名所 BEST 5</strong></a></p>
 
 ---
 
