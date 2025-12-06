@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-06
-> **Status:** ✅ Complete - 63 posts mapped
+> **Status:** ✅ Complete - 65 posts mapped
 
 ---
 
@@ -84,6 +84,7 @@ When migrating a Naver blog post to Hugo:
 | 224098592756 | shibuya-blue-cave-illumination-2025 | 2025-12-06 | ✅ |
 | 224031114514 | shibuya-complete-guide-2025 | 2025-10-03 | ✅ |
 | 224030294691 | harajuku-complete-guide-2025 | 2025-10-03 | ✅ |
+| 224099089089 | odaiba-rainbow-fireworks-2025 | 2025-12-06 | ✅ |
 
 ---
 
@@ -146,8 +147,8 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223980166231 | tokyo-october-festivals-2025 | Harajuku Omotesando Super Yosakoi Festival August Guide |
 | 223989943826 | tokyo-october-festivals-2025 | Complete Guide to Ginza Attractions (Shopping, Restaurants, Tips) |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
-| 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide | Tokyo Asakusa Attractions & Restaurant Complete Guide |
-| 223690406760 | odaiba-ariake-toyosu-complete-guide | Odaiba Rainbow Fireworks 2024 Schedule & Best Viewing Spots |
+| 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide, odaiba-rainbow-fireworks-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
+| ~~223690406760~~ | odaiba-ariake-toyosu-complete-guide | ✅ **MIGRATED** → odaiba-rainbow-fireworks-2025 |
 | 224096203397 | shibuya-sushi-no-midori-lunch-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
 | 224096781916 | shibuya-blue-cave-illumination-2025 | 2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide |
 
@@ -241,6 +242,7 @@ declare -A MAPPINGS=(
   ["224098592756"]="shibuya-blue-cave-illumination-2025"
   ["224031114514"]="shibuya-complete-guide-2025"
   ["224030294691"]="harajuku-complete-guide-2025"
+  ["224099089089"]="odaiba-rainbow-fireworks-2025"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -261,12 +263,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 64
-- **Naver IDs Tracked:** 64
-- **Posts with Internal Links:** 28+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025)
-- **Pending References:** 52 (added 1 new reference from shibuya-blue-cave-illumination-2025: 224096781916 Omotesando Illumination)
+- **Total Posts Migrated:** 65
+- **Naver IDs Tracked:** 65
+- **Posts with Internal Links:** 29+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025)
+- **Pending References:** 51 (removed 1: 223690406760 migrated to odaiba-rainbow-fireworks-2025)
 - **Links Updated:** 0 (all links in posts need migration)
-- **Last Migration Date:** 2025-12-06 (Harajuku guide)
+- **Last Migration Date:** 2025-12-06 (Odaiba Rainbow Fireworks 2025)
 
 ---
 
