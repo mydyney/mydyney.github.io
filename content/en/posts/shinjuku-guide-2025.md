@@ -391,14 +391,14 @@ Walking with shopping bags, you can meet colorful neon art. The **'Shinjuku Neon
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223696781916 (Similar topic) or create new
      Hugo: /posts/shinjuku-neon-work-illumination/ (New Slug) -->
-<p><strong>➡️ <a href="/posts/shinjuku-neon-work-illumination/" style="color: #667eea;">Shinjuku Neon Work Illumination Review & Course</a></strong></p>
+<p><strong>➡️ <a href="/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026/" style="color: #667eea;">Shinjuku Neon Work Illumination Review & Course</a></strong></p>
 
 **✨ Dec 31, New Year Countdown at Tokyo Metro Govt Building!**
 If you visit Shinjuku at the end of the year, you can enjoy a large-scale New Year countdown event with Hatsune Miku performance and projection mapping instead of the usual night view. (Free advance application required!)
 
 <!-- TODO: Update link after migration
      Hugo: /posts/happy-new-year-tokyo-2026/ (New Slug) -->
-<p><strong>➡️ <a href="/posts/happy-new-year-tokyo-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 Countdown Free Application</a></strong></p>
+<p><strong>➡️ <a href="/posts/tokyo-countdown-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 Countdown Free Application</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-16.jpg" alt="Shinjuku Illumination Neon Work">

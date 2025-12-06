@@ -391,14 +391,14 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: 223696781916...
      Hugo: /ja/posts/shinjuku-neon-work-illumination/ -->
-<p><strong>➡️ <a href="/ja/posts/shinjuku-neon-work-illumination/" style="color: #667eea;">新宿ネオンワーク・イルミネーション正直レビュー＆コース</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026/" style="color: #667eea;">新宿ネオンワーク・イルミネーション正直レビュー＆コース</a></strong></p>
 
 **✨ 12月31日、都庁で新年カウントダウン！**
 年末に新宿を訪れるなら、通常の夜景鑑賞の代わりに、初音ミクのパフォーマンスやプロジェクションマッピングが融合した大規模な新年カウントダウンイベントを楽しめます。（※無料事前申込必須！）
 
 <!-- TODO: Update link after migration
      Hugo: /ja/posts/happy-new-year-tokyo-2026/ -->
-<p><strong>➡️ <a href="/ja/posts/happy-new-year-tokyo-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 カウントダウン無料観覧応募方法</a></strong></p>
+<p><strong>➡️ <a href="/ja/posts/tokyo-countdown-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 カウントダウン無料観覧応募方法</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-16.jpg" alt="新宿イルミネーション ネオンワーク">
