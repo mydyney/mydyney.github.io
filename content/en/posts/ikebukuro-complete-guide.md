@@ -326,9 +326,6 @@ You can travel directly on the Yamanote Line.
 
 **➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Shinjuku Attractions - From Shinjuku Gyoen to Restaurants and Shopping</a>**
 
-<!-- TODO: Update link after migration
-     Naver: /posts/shibuya-complete-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 **➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Attractions - From Shibuya Sky Reservations to Restaurants</a>**
 
 **🚇 JR Yamanote Line 20 minutes!**
