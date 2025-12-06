@@ -16,10 +16,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 コンビニだんごとは次元の違うもっちり食感と、伝統的な和菓子のギフト包装まで完璧にカバー。</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐新宿の完全な観光コースとレストラン・ショッピング・夜景情報を一目で見たいですか？<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><b>新宿完全観光ガイド ↗</b></a></p>
+<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>新宿完全観光ガイド ↗</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-oiwake-dango-honpo-01.jpg" alt="新宿だんご屋 追分だんご本舗 300年伝統デザート">
@@ -161,10 +158,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 **⭐ 新宿旅行ガイドシリーズ**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">新宿完全観光ガイド ↗</a>**
+**<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全観光ガイド ↗</a>**
 
 **➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショー時間、休館日、新宿夜景のコツ ↗</a>**
 
@@ -176,23 +170,17 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 **➡️ <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">新宿世界堂 東京文具店 会員カード、免税ガイド ↗</a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+**<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223914223908 Hugo: /ja/posts/shinjuku-udon-guide/ -->
 <a href="#" style="color: #667eea;">新宿うどん店 切麦や甚六 ミシュランうどん↗</a>**
 
 **➡️ <a href="/ja/posts/shinjuku-epitaph-curry-review/" target="_blank">新宿キーマカレー店 エピタフカレー ↗</a>**
 
 💡 銀座デザートギフトも見たいですか？
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223694645793
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+**<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223694645793 Hugo: /ja/posts/ginza-akebono-strawberry-mochi/ -->
 <a href="#" style="color: #667eea;">東京銀座いちご大福、あけぼの銀座旗艦店 ↗</a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025044772
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+**<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224025044772 Hugo: /ja/posts/ginza-kuya-monaka-reservation-guide/ -->
 <a href="#" style="color: #667eea;">東京の両親へのギフト、迷ったら銀座空也最中 ↗</a>**
 
 </div>

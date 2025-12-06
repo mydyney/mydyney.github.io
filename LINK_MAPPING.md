@@ -279,6 +279,8 @@ declare -A MAPPINGS=(
   ["224007949043"]="narita-airport-arrival-guide"
   ["224004709356"]="narita-airport-limousine-guide"
   ["223989943826"]="ginza-guide-2025"
+  ["223694645793"]="ginza-akebono-strawberry-mochi"
+  ["224025044772"]="ginza-kuya-monaka-reservation-guide"
   ["223686466421"]="hibiya-midtown-illumination-review-2024"
 )
 
