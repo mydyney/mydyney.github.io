@@ -287,6 +287,8 @@ declare -A MAPPINGS=(
   ["223694645793"]="ginza-akebono-strawberry-mochi"
   ["224025044772"]="ginza-kuya-monaka-reservation-guide"
   ["223686466421"]="hibiya-midtown-illumination-review-2024"
+  ["223979907748"]="yokohama-one-day-itinerary"
+  ["223976102621"]="yokohama-minato-burari-ticket-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do

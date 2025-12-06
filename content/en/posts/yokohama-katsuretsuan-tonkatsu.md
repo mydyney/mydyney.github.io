@@ -180,8 +180,10 @@ Directly connected to Yokohama Station West Exit. Best accessibility!
 
 The 'Bashamichi Main Store' is at the center of a Yokohama one-day trip course. After your meal, enjoy these nearby attractions too 👇
 
-**👉 [Yokohama One-Day Itinerary Complete Guide (Chinatown, Night Views)](https://blog.naver.com/tokyomate/223979907748)**
-**👉 [Yokohama Budget Transport Pass: Minato Burari Ticket](https://blog.naver.com/tokyomate/223976102621)**
+**👉 [Yokohama One-Day Itinerary Complete Guide (Chinatown, Night Views)](/posts/yokohama-one-day-itinerary/)**<!-- TODO: Link updated, verify migration -->
+<br>
+**👉 [Yokohama Budget Transport Pass: Minato Burari Ticket](#)**<!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide -->
+<br>
 **👉 [Yokohama Chinatown Restaurant 'Keitokuchin' (Mapo Tofu)](/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
 
 ---
