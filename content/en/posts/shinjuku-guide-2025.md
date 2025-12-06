@@ -447,7 +447,10 @@ Each shop has a distinct personality with many regulars, and it is also famous a
 
 Shinjuku Station is also a key departure point for travel to Tokyo's suburbs. You can go directly to **'Hakone'**, famous for hot springs, using the Odakyu Line, or **'Mt. Takao'**, great for hiking, using the Keio Line. If you stay in Shinjuku for more than one night, planning a day trip is also a good idea.
 
-<p><strong>➡️ <a href="/posts/hakone-day-trip-course/" style="color: #667eea;">Hakone Day Trip vs. 2D1N Perfect Course (Hakone Freepass, Romancecar Tips)</a></strong></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /posts/hakone-day-trip-course/ -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">Hakone Day Trip vs. 2D1N Perfect Course (Hakone Freepass, Romancecar Tips)</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="Hakone">
@@ -465,7 +468,10 @@ If you are curious about courses with children starting from Shinjuku like **Dis
 
 Located 20 minutes by JR Chuo Line is Mitaka Station where **'Ghibli Museum'** is located, so planning it together is also a good method.
 
-<p><strong>➡️ <a href="/posts/ghibli-museum-reservation-guide/" style="color: #667eea;">Tokyo Ghibli Museum Reservation Method Summary</a></strong></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035533672
+     Hugo: /posts/ghibli-museum-reservation-guide/ -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">Tokyo Ghibli Museum Reservation Method Summary</a></strong></p>
 
 <hr class="se-hr">
 
@@ -473,7 +479,10 @@ The complete recommended course for **Shinjuku attractions** covering nature, sh
 
 **⭐ Related Tokyo Guides**
 
-<p><strong>➡️ <a href="/posts/narita-express-guide/" style="color: #667eea;">Narita Express (N'EX) Reservation, Price, Timetable (Round Business Discount, Seat Tips!)</a></strong></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /posts/narita-express-guide/ -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">Narita Express (N'EX) Reservation, Price, Timetable (Round Business Discount, Seat Tips!)</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031114514

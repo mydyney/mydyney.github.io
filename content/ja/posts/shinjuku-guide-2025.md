@@ -448,7 +448,10 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 新宿駅は東京近郊旅行の重要な出発点でもあります。小田急線を使えば温泉で有名な**「箱根」**へ、京王線を使えばハイキングに最適な**「高尾山」**へ乗り換えなしで行けます。新宿に1泊以上滞在するなら、日帰り旅行を計画してみるのも良いでしょう。
 
-<p><strong>➡️ <a href="/ja/posts/hakone-day-trip-course/" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /ja/posts/hakone-day-trip-course/ -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="箱根">
@@ -466,7 +469,10 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**があるので、合わせて計画するのもおすすめです。
 
-<p><strong>➡️ <a href="/ja/posts/ghibli-museum-reservation-guide/" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224035533672
+     Hugo: /ja/posts/ghibli-museum-reservation-guide/ -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
 
 <hr class="se-hr">
 
@@ -474,7 +480,10 @@ JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**が
 
 **⭐ 一緒に読むと良い東京ガイド**
 
-<p><strong>➡️ <a href="/ja/posts/narita-express-guide/" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224002738158
+     Hugo: /ja/posts/narita-express-guide/ -->
+<p><strong>➡️ <a href="#" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031114514
