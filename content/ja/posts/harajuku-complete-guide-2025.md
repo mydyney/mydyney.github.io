@@ -195,7 +195,8 @@ featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
 
 <strong>⭐ 一緒に見ると良い東京旅行ガイド</strong>
 
-<strong>➡️ [表参道完全ガイド：コーヒー、ショッピング、グルメ、建築まで総まとめ](/ja/posts/omotesando-complete-guide-2025/)</strong>
+<strong>**➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /ja/posts/[SLUG_TBD]/ -->
+[表参道完全ガイド：コーヒー、ショッピング、グルメ、建築まで総まとめ](#)**</strong>
 
 <strong>➡️ [渋谷完全ガイド：スカイ展望台予約から買い物、グルメまで完璧コース](/ja/posts/shibuya-complete-guide-2025/)</strong>
 

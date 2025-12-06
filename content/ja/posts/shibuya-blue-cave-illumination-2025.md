@@ -198,7 +198,11 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 🚶 表参道・原宿ショッピング**→ 表参道イルミネーション → 渋谷青の洞窟（徒歩）**
 
-**➡️** <a href="/ja/posts/omotesando-complete-guide/"><strong>表参道完全ガイド：カフェ、ショッピング、レストラン、建築</strong></a>
+**➡️**
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224027835049
+     Hugo: /ja/posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><strong>表参道完全ガイド：カフェ、ショッピング、レストラン、建築</strong></a>
 
 **➡️** <a href="/ja/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>原宿アトラクション：ハリーポッターストアから竹下通り＆キャットストリート</strong></a>
 

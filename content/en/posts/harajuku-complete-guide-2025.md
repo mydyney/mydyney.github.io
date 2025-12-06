@@ -195,7 +195,8 @@ After exploring Harajuku, cross just one street to the sophisticated Omotesando,
 
 <strong>⭐ Related Tokyo Travel Guides</strong>
 
-<strong>➡️ [Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture](/posts/omotesando-complete-guide-2025/)</strong>
+<strong>**➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /posts/[SLUG_TBD]/ -->
+[Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture](#)**</strong>
 
 <strong>➡️ [Shibuya Complete Guide: Sky Observatory, Shopping, Restaurants & Perfect Itinerary](/posts/shibuya-complete-guide-2025/)</strong>
 

@@ -196,7 +196,11 @@ Unlike the glamorous chandelier-like Roppongi, Shibuya Blue Cave was charming fo
 
 🚶 Omotesando/Harajuku Shopping **→ Omotesando Illumination → Shibuya Blue Cave (Walking)**
 
-**➡️** <a href="/posts/omotesando-complete-guide/"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture</strong></a>
+**➡️**
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224027835049
+     Hugo: /posts/[SLUG_TBD]/ -->
+<a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture</strong></a>
 
 **➡️** <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a>
 
