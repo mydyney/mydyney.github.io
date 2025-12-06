@@ -365,7 +365,7 @@ A: Yes, you can use JAPAN-FREE-WIFI (SSID).</p>
 <h3>🎄 2025 Tokyo Christmas</h3>
 
 <p><b>⭐ Tokyo Christmas 3 Night 4 Day Itinerary</b><br>
-➡️ <a href="/posts/tokyo-3-day-christmas-itinerary/" target="_blank"><b>Tokyo 3N4D Christmas Illumination Course & Christmas Market (Route, Budget Guide)</b></a></p>
+➡️ <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" target="_blank"><b>Tokyo 3N4D Christmas Illumination Course & Christmas Market (Route, Budget Guide)</b></a></p>
 
 <p><b>✨ Roppongi Hills Illumination (starts Nov 4)</b><br>
 ➡️ <a href="/posts/roppongi-christmas-illumination-2025/" target="_blank"><b>Roppongi Illumination 2025 Complete Guide</b></a></p>

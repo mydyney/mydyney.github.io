@@ -365,7 +365,7 @@ A: はい、JAPAN-FREE-WIFI (SSID)が利用可能です。</p>
 <h3>🎄 2025年東京クリスマス</h3>
 
 <p><b>⭐ 東京クリスマス3泊4日プラン</b><br>
-➡️ <a href="/ja/posts/tokyo-3-day-christmas-itinerary/" target="_blank"><b>東京3泊4日クリスマスイルミネーションコース＆クリスマスマーケット (ルート・予算ガイド)</b></a></p>
+➡️ <a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/" target="_blank"><b>東京3泊4日クリスマスイルミネーションコース＆クリスマスマーケット (ルート・予算ガイド)</b></a></p>
 
 <p><b>✨ 六本木ヒルズイルミネーション (11月4日開始)</b><br>
 ➡️ <a href="/ja/posts/roppongi-christmas-illumination-2025/" target="_blank"><b>2025年六本木イルミネーション完全ガイド</b></a></p>
