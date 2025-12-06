@@ -19,7 +19,7 @@ Menu·prices·business hours all summarized at once.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐Want to see Shinjuku's complete travel course and restaurant·shopping·night view information at a glance?<br>
 ➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Complete Shinjuku Course Summary</b></a></p>
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Complete Shinjuku Course Summary</b></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-01.jpg" alt="Shinjuku curry restaurant Epitaph half-and-half curry Tabelog top 100">
@@ -284,7 +284,7 @@ if you're curious about more things to do and shopping information around Shinju
 please check out the **complete Shinjuku course guide** below!
 
 **➡️ <!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224035271300" style="color: #667eea;"><b>Shinjuku Things to Do: Complete Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>**
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Shinjuku Things to Do: Complete Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>**
 
 **➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show Times, Access, Closed Days, Shinjuku Night View Complete Tips</b></a>**
 
