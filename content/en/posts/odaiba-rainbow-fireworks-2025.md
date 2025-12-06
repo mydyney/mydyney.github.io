@@ -49,13 +49,18 @@ This year's <strong>Odaiba Rainbow Fireworks 2025</strong> will be held 5 times 
 
 <strong>📅 2025 Odaiba Fireworks Official Schedule</strong>
 
-| Date | Time | Event |
-|------|------|-------|
-| December 6 (Sat) | From 19:00, approx. 5 min | Opening (Start) |
-| December 13 (Sat) | From 19:00, approx. 5 min | Regular Fireworks |
-| December 20 (Sat) | From 19:00, approx. 5 min | 🎵 Music Fireworks |
-| December 24 (Wed) | From 19:00, approx. 5 min | 🎄 Christmas Eve Special |
-| December 27 (Sat) | From 19:00, approx. 5 min | Year-End Finale |
+<table class="schedule-table">
+  <thead>
+    <tr><th>Date</th><th>Time</th><th>Event</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>December 6 (Sat)</td><td>From 19:00, approx. 5 min</td><td>Opening (Start)</td></tr>
+    <tr><td>December 13 (Sat)</td><td>From 19:00, approx. 5 min</td><td>Regular Fireworks</td></tr>
+    <tr><td>December 20 (Sat)</td><td>From 19:00, approx. 5 min</td><td>🎵 Music Fireworks</td></tr>
+    <tr><td>December 24 (Wed)</td><td>From 19:00, approx. 5 min</td><td>🎄 Christmas Eve Special</td></tr>
+    <tr><td>December 27 (Sat)</td><td>From 19:00, approx. 5 min</td><td>Year-End Finale</td></tr>
+  </tbody>
+</table>
 
 <strong>📍 Location: Odaiba Seaside Park</strong>
 
