@@ -370,10 +370,7 @@ Even first-time visitors to Shinjuku gacha (gashapon) will find this guide suffi
      Hugo: /posts/[SLUG_TBD]/ -->
 - **Opens at 7 AM for breakfast!** **➡️ <a href="/posts/shinjuku-station-breakfast-best-8/" style="color: #667eea;"><strong>Shinjuku Station Breakfast 7-8 AM Opening, Brunch & Home-style Meals</strong></a>**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /posts/[SLUG_TBD]/ -->
-- **Itinerary Planning** **➡️ <a href="#" style="color: #667eea;"><strong>Complete Shinjuku Guide: Restaurants, Shopping & Activities Course</strong></a>**
+- **Itinerary Planning** **➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Complete Shinjuku Guide: Restaurants, Shopping & Activities Course</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-gyoen-guide-2025/

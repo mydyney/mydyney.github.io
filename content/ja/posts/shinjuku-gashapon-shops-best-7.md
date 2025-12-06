@@ -370,10 +370,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 - **7時開店の朝食店!** **➡️ <a href="#" style="color: #667eea;"><strong>新宿駅朝食 7~8時オープン・ブランチ・家庭料理</strong></a>**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-- **スケジュール計画** **➡️ <a href="#" style="color: #667eea;"><strong>新宿グルメ・ショッピング・遊び完璧整理コース</strong></a>**
+- **スケジュール計画** **➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿グルメ・ショッピング・遊び完璧整理コース</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-gyoen-guide-2025/
