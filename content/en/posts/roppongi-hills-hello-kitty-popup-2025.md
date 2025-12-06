@@ -239,10 +239,7 @@ at Roppongi Hills!</p>
 
 ### 1. Observatory/Museum
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Complete Guide to Roppongi Attractions</a></strong><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Complete Guide to Roppongi Attractions</a></strong><!-- TODO: https://blog.naver.com/tokyomate/223988228389 -> roppongi-attractions-guide --><br>
 <strong>(Observatory, Museums, Restaurants)</strong><br>
 <em>(Link will be updated after migration)</em></p>
 

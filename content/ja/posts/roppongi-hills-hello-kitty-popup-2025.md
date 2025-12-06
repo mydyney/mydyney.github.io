@@ -247,10 +247,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 ### 1. 展望台/美術館
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木の楽しみ方総まとめ</a></strong><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木の楽しみ方総まとめ</a></strong><!-- TODO: https://blog.naver.com/tokyomate/223988228389 -> roppongi-attractions-guide --><br>
 <strong>（展望台、美術館、レストラン）</strong><br>
 <em>(移行後にリンクを更新します)</em></p>
 
