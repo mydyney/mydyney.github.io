@@ -64,7 +64,8 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 ちなみに「成田新宿スカイライナー」ルートもありますが、上野駅または日暮里駅で1回乗り換えが必要なので、この記事では**「直行ルートのみ:成田エクスプレス vs リムジンバス」**比較に焦点を当てます。
 (スカイライナーは別の詳細記事で整理する予定です。)
 
-**➡️ [スカイライナー vs N'EX比較、上野・新宿完全ガイド↗](https://blog.naver.com/tokyomate/224003374650)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /ja/posts/skyliner-reservation-guide/ -->
+**➡️ [スカイライナー vs N'EX比較、上野・新宿完全ガイド↗](#)**
 
 ---
 
@@ -82,7 +83,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 - **利点**:全席指定席、広い座席間隔+大きな荷物置き場
 - **欠点**:片道が高い、**往復券を強く推奨**
 
-**➡️ [成田エクスプレス(N'EX)予約・座席選択完全ガイド↗](https://blog.naver.com/tokyomate/224002738158)**
+**➡️ [成田エクスプレス(N'EX)予約・座席選択完全ガイド↗](/ja/posts/narita-express-guide/)**
 
 - **予約方法**:Klook、KKday / JR東日本サービスセンター
 
@@ -209,7 +210,8 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 - **利点**:荷物の心配なし、家族・子供連れに最適
 - **欠点**:交通状況の影響あり、一部時間帯は予約が必要
 
-**➡️ [成田空港リムジンバス完全ガイド↗](https://blog.naver.com/tokyomate/224004709356)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /ja/posts/narita-airport-limousine-guide/ -->
+**➡️ [成田空港リムジンバス完全ガイド↗](#)**
 
 - **予約方法**:Klook / 空港チケットカウンター
 
@@ -492,19 +494,22 @@ A. この場合、以下のいずれかを選ぶしかありません:
 
 新宿行き交通手段以外にも、各交通手段の詳細情報や完全空港ガイドが必要な場合は、以下の詳細ガイドをご覧ください。
 
-**➡️ [東京成田空港到着ガイド(市内への行き方、Suica、ATM完全ガイド)↗](https://blog.naver.com/tokyomate/224007949043)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224007949043 Hugo: /ja/posts/narita-airport-arrival-guide/ -->
+**➡️ [東京成田空港到着ガイド(市内への行き方、Suica、ATM完全ガイド)↗](#)**
 
-**➡️ [成田エクスプレス(N'EX)予約、料金、時刻表完全ガイド↗](https://blog.naver.com/tokyomate/224002738158)**
+**➡️ [成田エクスプレス(N'EX)予約、料金、時刻表完全ガイド↗](/ja/posts/narita-express-guide/)**
 
-**➡️ [成田空港リムジンバス&格安エクスプレスバス完全ガイド(予約、料金)↗](https://blog.naver.com/tokyomate/224004709356)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /ja/posts/narita-airport-limousine-guide/ -->
+**➡️ [成田空港リムジンバス&格安エクスプレスバス完全ガイド(予約、料金)↗](#)**
 
-**➡️ [スカイライナー予約、料金、時刻表完全ガイド(N'EX比較)↗](https://blog.naver.com/tokyomate/224003374650)**
+<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /ja/posts/skyliner-reservation-guide/ -->
+**➡️ [スカイライナー予約、料金、時刻表完全ガイド(N'EX比較)↗](#)**
 
 **➡️ [成田空港第1ターミナル免税店5%割引クーポン(ショッピングリスト)↗](/ja/posts/narita-airport-terminal1-duty-free-coupon-guide/)**
 
 ### ⭐ 関連新宿旅行ガイド
 
-**🌿 新宿1日コース:[新宿観光完全コースガイド↗](https://blog.naver.com/tokyomate/224035271300)**
+**🌿 新宿1日コース:[新宿観光完全コースガイド↗](/ja/posts/shinjuku-guide-2025/)**
 
 **🍁 散策:[新宿御苑営業時間、紅葉、ピクニック↗](/ja/posts/shinjuku-gyoen-guide-2025/)**
 

@@ -274,6 +274,9 @@ declare -A MAPPINGS=(
   ["224019480188"]="hakone-day-trip-course"
   ["224035533672"]="ghibli-museum-reservation-guide"
   ["224031611221"]="tokyo-station-guide"
+  ["224003374650"]="skyliner-reservation-guide"
+  ["224007949043"]="narita-airport-arrival-guide"
+  ["224004709356"]="narita-airport-limousine-guide"
   ["223989943826"]="ginza-guide-2025"
   ["223686466421"]="hibiya-midtown-illumination-review-2024"
 )
