@@ -221,6 +221,6 @@ JAL、エアプレミア等利用。第1ターミナルと同じくらい規模�
 <br><br>
 <!-- Link updated -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224010546735 Hugo: /ja/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>➡️ 日本ウイスキー山崎、響公式価格総まとめ及び入門者、ギフト用おすすめ</b></a>
+<a href="#" style="color: #667eea;"><b>➡️ 日本ウイスキー山崎、響公式価格総まとめ及び入門者、ギフト用おすすめ</b></a>
 
 </div>

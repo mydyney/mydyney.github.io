@@ -1414,12 +1414,12 @@ python3 fetch_content.py "https://blog.naver.com/tokyomate/[POST_ID]"
 # - Analyze Naver HTML structure
 # - Create content/en/posts/[slug].md (English version)
 # - Create content/ja/posts/[slug].md (Japanese version)
-# - Use javascript:void(0) placeholders for unmapped internal links with TODO comments
+# - Use # placeholders for unmapped internal links with TODO comments
 # - Include Naver link and intended slug in TODO comments
 # Format: <!-- TODO: Update link after migration
 #              Naver: https://blog.naver.com/tokyomate/[ID]
 #              Hugo: /posts/[slug]/ -->
-#         <a href="javascript:void(0)">Link Text</a>
+#         <a href="#">Link Text</a>
 
 # STEP 4: Update LINK_MAPPING.md
 # A. Add to Quick Reference Table
@@ -1463,8 +1463,8 @@ git push
 grep -l "[NAVER_ID]" content/en/posts/*.md content/ja/posts/*.md
 
 # Replace TODO placeholders with live links
-# English posts: href="javascript:void(0)" → href="/posts/[slug]/"
-# Japanese posts: href="javascript:void(0)" → href="/ja/posts/[slug]/"
+# English posts: href="#" → href="/posts/[slug]/"
+# Japanese posts: href="#" → href="/ja/posts/[slug]/"
 
 # Example Python script:
 python3 << 'EOF'
@@ -1479,7 +1479,7 @@ for file in ["content/en/posts/*.md"]:
     content = open(file).read()
     # Replace TODO + placeholder with live link
     content = re.sub(
-        r'<!-- TODO:.*?' + naver_id + r'.*?-->\s*<a href="javascript:void\(0\)"([^>]*)>([^<]+)</a>',
+        r'<!-- TODO:.*?' + naver_id + r'.*?-->\s*<a href="#"([^>]*)>([^<]+)</a>',
         r'<a href="' + en_slug + r'"\1>\2</a>',
         content, flags=re.DOTALL
     )

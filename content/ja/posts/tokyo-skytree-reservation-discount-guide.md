@@ -126,7 +126,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700095268
      Hugo: /ja/posts/tokyo-skytree-free-observatory/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京スカイツリー無料展望台：SKYTREE VIEW</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー無料展望台：SKYTREE VIEW</strong></a>**
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-06.jpg" alt="東京スカイツリー2つの展望台、展望デッキと展望回廊の比較">
@@ -180,7 +180,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223695518100
      Hugo: /ja/posts/tokyo-skytree-pokemon-center-review/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京スカイツリータウンポケモンセンター詳細レビュー</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリータウンポケモンセンター詳細レビュー</strong></a>**
 
 <div class="image-group-2">
   <figure>
@@ -230,7 +230,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223697732942
      Hugo: /ja/posts/tokyo-skytree-triton-sushi-guide/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京スカイツリー回転寿司レストラントリトン（整理券番号のコツ）</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー回転寿司レストラントリトン（整理券番号のコツ）</strong></a>**
 
 <div class="image-group-2">
   <figure>
@@ -266,7 +266,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223699626846
      Hugo: /ja/posts/tokyo-skytree-gion-tsujiri-matcha/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京スカイツリーデザートスポット：祇園辻利抹茶アイスクリームレビュー</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリーデザートスポット：祇園辻利抹茶アイスクリームレビュー</strong></a>**
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-19.jpg" alt="東京スカイツリーの祇園辻利抹茶アイスとデザート">
@@ -296,7 +296,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700200846
      Hugo: /ja/posts/tokyo-skytree-illumination-guide/ -->
-➡️ **<a href="javascript:void(0)" style="color: #667eea;"><strong>東京スカイツリーイルミネーション＆クリスマスマーケット詳細レビュー</strong></a>**
+➡️ **<a href="#" style="color: #667eea;"><strong>東京スカイツリーイルミネーション＆クリスマスマーケット詳細レビュー</strong></a>**
 
 <div class="image-group-2">
   <figure>

@@ -261,6 +261,6 @@ Now that you've mastered the comparison between membership discounts and tax-fre
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223693165027
      Hugo: /posts/ginza-itoya-stationery-guide/ -->
-<b>➡️ <a href="javascript:void(0)" style="color: #667eea;">Tokyo Ginza Representative Stationery Store: Itoya Main Store</a></b>
+<b>➡️ <a href="#" style="color: #667eea;">Tokyo Ginza Representative Stationery Store: Itoya Main Store</a></b>
 
 </div>

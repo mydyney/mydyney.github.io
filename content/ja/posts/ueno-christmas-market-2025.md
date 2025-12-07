@@ -21,7 +21,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 2025年東京クリスマスマーケットどこに行く？</strong></a></p>
+<a href="#" style="color: #667eea;"><strong>➡️ 2025年東京クリスマスマーケットどこに行く？</strong></a></p>
 
 <figure>
   <img src="/images/posts/ueno-christmas-market-2025-01.jpg" alt="上野クリスマスマーケット2025夜景">
@@ -216,7 +216,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 成田空港から上野へのアクセス方法（スカイライナー予約、料金、時刻表）</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ 成田空港から上野へのアクセス方法（スカイライナー予約、料金、時刻表）</strong></a></p>
 
 <figure>
   <img src="/images/posts/ueno-christmas-market-2025-23.jpg" alt="京成上野駅から上野公園への階段">
@@ -231,7 +231,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 上野観光スポット：アメ横グルメから上野公園完全コース</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ 上野観光スポット：アメ横グルメから上野公園完全コース</strong></a></p>
 
 <figure>
   <img src="/images/posts/ueno-christmas-market-2025-24.jpg" alt="上野公園近くのアメ横入口">
@@ -255,7 +255,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 2025年東京クリスマスマーケットどこに行く？（六本木、スカイツリーなど）</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ 2025年東京クリスマスマーケットどこに行く？（六本木、スカイツリーなど）</strong></a></p>
 
 <p><strong>🌟 11月4日スタート：六本木ヒルズイルミネーション</strong></p>
 <p><a href="/ja/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;"><strong>➡️ 六本木ヒルズイルミネーション2025：期間・時間・見どころ完全ガイド</strong></a></p>
@@ -270,7 +270,7 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 東京丸の内イルミネーション2025完全ガイド</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ 東京丸の内イルミネーション2025完全ガイド</strong></a></p>
 
 <p><strong>🌟 11月13日スタート：日比谷ミッドタウンイルミネーション</strong></p>
 <p><a href="/ja/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>➡️ 2025年日比谷ミッドタウンイルミネーション完全ガイド</strong></a></p>
@@ -282,6 +282,6 @@ featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-dome-city-christmas-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 2025年東京ドームシティイルミネーション完全ガイド</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ 2025年東京ドームシティイルミネーション完全ガイド</strong></a></p>
 
 </div>

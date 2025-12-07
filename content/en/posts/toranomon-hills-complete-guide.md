@@ -101,7 +101,7 @@ Introducing the yakitori omakase restaurant on Station Tower 4F.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223913830951
      Hugo: /posts/toranomon-hills-yakitori-nonotori/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Yakitori Omakase, Nonotori Gencho Review</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>Yakitori Omakase, Nonotori Gencho Review</strong></a>
 
 <figure>
   <img src="/images/posts/toranomon-hills-complete-guide-05.jpg" alt="Toranomon Hills Station Tower new hotspot T-Market entrance opened in 2024">
@@ -218,6 +218,6 @@ Experience another stunning Tokyo night view from 'Mori Art Museum' and 'Tokyo C
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>
 
 </div>

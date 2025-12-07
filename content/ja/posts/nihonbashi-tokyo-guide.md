@@ -139,7 +139,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223691772722
      Hugo: /ja/posts/nihonbashi-pokemon-center-dx-cafe-guide/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京日本橋ポケモンセンター東京DX＆ポケモンカフェ、東京駅から5分</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>東京日本橋ポケモンセンター東京DX＆ポケモンカフェ、東京駅から5分</strong></a>
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-12.jpg" alt="ポケモンセンターDXと同じフロアにあるポケモンカフェ">
@@ -296,7 +296,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /ja/posts/tokyo-station-guide/ -->
-➡️ <a href="javascript:void(0)" target="_blank" style="color: #667eea;"><strong>東京駅のアクティビティ、キャラクターストリートからレストラン＆夜景まで完璧なコース</strong></a>
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>東京駅のアクティビティ、キャラクターストリートからレストラン＆夜景まで完璧なコース</strong></a>
 
 **🚇 地下鉄で2分（銀座線）！高級ショッピングセンター、銀座**
 
@@ -305,7 +305,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /ja/posts/ginza-guide-2025/ -->
-➡️ <a href="javascript:void(0)" target="_blank" style="color: #667eea;"><strong>銀座観光スポット、完全おすすめコース（ショッピング、レストラン、ヒント）</strong></a>
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>銀座観光スポット、完全おすすめコース（ショッピング、レストラン、ヒント）</strong></a>
 
 **🚇 地下鉄で10分（銀座線）！伝統的な東京の風景、浅草**
 

@@ -124,8 +124,8 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 - **西口：** 食品・お土産が充実。駅直結の**京王百貨店**、**小田急百貨店**。
 
 <!-- Coupons -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">京王百貨店 割引クーポン（3,000円以上購入で5~6%OFF）</a></strong></p>
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">小田急百貨店 割引クーポン（1,000円以上購入で6%OFF）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">京王百貨店 割引クーポン（3,000円以上購入で5~6%OFF）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">小田急百貨店 割引クーポン（1,000円以上購入で6%OFF）</a></strong></p>
 *（※割引対象外ブランドもあるので、買い物前に確認してください！）*
 
 <h3>🛍️ 代表的なブランド＆専門店</h3>
@@ -152,7 +152,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">カルディ（KALDI）買い物リスト：絶対買うべきおすすめ品（塗るカレー、ポーションコーヒー等）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">カルディ（KALDI）買い物リスト：絶対買うべきおすすめ品（塗るカレー、ポーションコーヒー等）</a></strong></p>
 
 <p><strong>➡️ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">ビックカメラ割引クーポン（免税+3~7%OFF）</a></strong></p>
 
@@ -262,7 +262,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /ja/posts/shinjuku-udon-guide/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="切麦や 甚六 うどん">
@@ -312,12 +312,12 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <div class="se-component se-imageGroup se-l-collage" id="SE-d8d48a2c-974d-4432-be89-2cd2e055d13c">
     <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
         <div class="se-module se-module-image" style="flex: 1;">
-            <a href="javascript:void(0)" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
+            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
                 <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="Oiwake Dango 1" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
             </a>
         </div>
         <div class="se-module se-module-image" style="flex: 1;">
-            <a href="javascript:void(0)" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
+            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
                 <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="Oiwake Dango 2" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
             </a>
         </div>
@@ -413,7 +413,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
      Hugo: /ja/posts/hakone-day-trip-course/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="箱根">
@@ -431,7 +431,7 @@ JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**が
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035533672
      Hugo: /ja/posts/ghibli-museum-reservation-guide/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
 
 <hr class="se-hr">
 
@@ -442,7 +442,7 @@ JR中央線で20分の三鷹駅には**「三鷹の森ジブリ美術館」**が
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
 
 <p><strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷 遊び場、渋谷スカイ予約からショッピング、グルメまで完璧コース推奨</a></strong></p>
 

@@ -175,7 +175,7 @@ Perfect as a walking course after dinner before the countdown. Check out the pos
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224095124866
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Shinjuku Neon Walk Tokyo Illumination 2025-2026 Complete Guide</strong></a>
+**➡️** <a href="#" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Shinjuku Neon Walk Tokyo Illumination 2025-2026 Complete Guide</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-07.jpg" alt="Shinjuku Neon Walk Tokyo illumination 2025-2026">

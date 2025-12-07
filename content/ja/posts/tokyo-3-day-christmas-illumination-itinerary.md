@@ -60,21 +60,21 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b><!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 2025東京クリスマスマーケット、</a></b><br>
+<a href="#" style="color: #667eea;">➡️ 2025東京クリスマスマーケット、</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">どこに行くべき?(上野、六本木など)</a></b><br>
+<a href="#" style="color: #667eea;">どこに行くべき?(上野、六本木など)</a></b><br>
 ​<br>
 <b>🎄 東京の最高のイルミネーションBEST 5情報は?</b><br>
 <b><!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"> ➡️ 2025東京クリスマス</a></b><br>
+<a href="#" style="color: #667eea;"> ➡️ 2025東京クリスマス</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">イルミネーション BEST 5</a></b></p>
+<a href="#" style="color: #667eea;">イルミネーション BEST 5</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-02.jpg" alt="六本木ヒルズけやき坂のクリスマスイルミネーション">
@@ -115,15 +115,15 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️東京成田空港到着ガイド:</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
+<a href="#" style="color: #667eea;">➡️東京成田空港到着ガイド:</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">市内への行き方、交通機関の比較、</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
+<a href="#" style="color: #667eea;">市内への行き方、交通機関の比較、</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">Suicaカード、ATM完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
+<a href="#" style="color: #667eea;">Suicaカード、ATM完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 ​<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
@@ -131,15 +131,15 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
+<a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
+<a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
+<a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-03.jpg" alt="仁川-成田便から見える富士山">
@@ -155,7 +155,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
+<a href="#" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-04.jpg" alt="新宿駅東口">
@@ -173,15 +173,15 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️東京メトロパス(Tokyo Subway Ticket)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224026098490 -> tokyo-subway-ticket-guide --><br>
+<a href="#" style="color: #667eea;">➡️東京メトロパス(Tokyo Subway Ticket)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224026098490 -> tokyo-subway-ticket-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">交換場所、購入、使用方法、路線完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224026098490 -> tokyo-subway-ticket-guide --><br>
+<a href="#" style="color: #667eea;">交換場所、購入、使用方法、路線完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224026098490 -> tokyo-subway-ticket-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">(24、48、72時間)</a></b></p>
+<a href="#" style="color: #667eea;">(24、48、72時間)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-05.jpg" alt="東京メトロパス路線図">
@@ -241,7 +241,7 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️表参道おすすめコースガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224027835049 -> omotesando-guide-2025 --></p>
+<a href="#" style="color: #667eea;">➡️表参道おすすめコースガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224027835049 -> omotesando-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-09.jpg" alt="原宿-表参道クリスマスイルミネーション">
@@ -264,7 +264,7 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
+<a href="#" style="color: #667eea;">➡️ 新宿完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-10.jpg" alt="新宿思い出横丁の入口">
@@ -331,11 +331,11 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 上野観光</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --><br>
+<a href="#" style="color: #667eea;">➡️ 上野観光</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">&アメ横市場ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --></p>
+<a href="#" style="color: #667eea;">&アメ横市場ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-12.jpg" alt="東京最大規模のクリスマスマーケットが開催される上野公園">
@@ -353,11 +353,11 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 上野観光</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --><br>
+<a href="#" style="color: #667eea;">➡️ 上野観光</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">&アメ横市場ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --></p>
+<a href="#" style="color: #667eea;">&アメ横市場ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-13.jpg" alt="上野アメ横レストランラーメン鴨to葱">
@@ -378,11 +378,11 @@ SuicaまたはPasmoで<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224042267263
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 日本橋必見スポット</a></b><!-- TODO: https://blog.naver.com/tokyomate/224042267263 -> nihonbashi-guide --><br>
+<a href="#" style="color: #667eea;">➡️ 日本橋必見スポット</a></b><!-- TODO: https://blog.naver.com/tokyomate/224042267263 -> nihonbashi-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 東京駅完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224031611221 -> tokyo-station-guide --></p>
+<a href="#" style="color: #667eea;">➡️ 東京駅完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224031611221 -> tokyo-station-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.jpg" alt="日本橋高島屋本店ポケモンセンター東京DX&ポケモンカフェ">
@@ -403,11 +403,11 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223680263119
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 東京駅根室花まる回転寿司</a></b><!-- TODO: https://blog.naver.com/tokyomate/223680263119 -> tokyo-station-nemuro-hanamaru-sushi-guide --><br>
+<a href="#" style="color: #667eea;">➡️ 東京駅根室花まる回転寿司</a></b><!-- TODO: https://blog.naver.com/tokyomate/223680263119 -> tokyo-station-nemuro-hanamaru-sushi-guide --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223680263119
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">待ち時間と予約のコツ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223680263119 -> tokyo-station-nemuro-hanamaru-sushi-guide -->
+<a href="#" style="color: #667eea;">待ち時間と予約のコツ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223680263119 -> tokyo-station-nemuro-hanamaru-sushi-guide -->
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-15.jpg" alt="東京駅回転寿司レストラン根室花まる">
@@ -482,7 +482,7 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224037272726
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 築地市場レストランガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224037272726 -> tsukiji-market-restaurant-guide --></p>
+<a href="#" style="color: #667eea;">➡️ 築地市場レストランガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224037272726 -> tsukiji-market-restaurant-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-19.jpg" alt="築地市場の入口">
@@ -502,7 +502,7 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 銀座必見スポット完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/223989943826 -> ginza-guide-2025 --></p>
+<a href="#" style="color: #667eea;">➡️ 銀座必見スポット完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/223989943826 -> ginza-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-20.jpg" alt="銀座歌舞伎座">
@@ -523,7 +523,7 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914321510
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 炭焼うな富士、ミシュランうなぎ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223914321510 -> sumiyaki-unafuji-yurakucho --></p>
+<a href="#" style="color: #667eea;">➡️ 炭焼うな富士、ミシュランうなぎ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223914321510 -> sumiyaki-unafuji-yurakucho --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-22.jpg" alt="銀座炭焼うな富士有楽町ひつまぶし">
@@ -541,7 +541,7 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: /ja/posts/azabudai-hills-complete-guide/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
+<a href="#" style="color: #667eea;">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-23.jpg" alt="麻布台ヒルズクリスマスマーケット">
@@ -580,11 +580,11 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️東京六本木レストランマップ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --><br>
+<a href="#" style="color: #667eea;">➡️東京六本木レストランマップ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">ミシュラン、食べログおすすめレストラン</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --></p>
+<a href="#" style="color: #667eea;">ミシュラン、食べログおすすめレストラン</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-26.jpg" alt="六本木レストラン、今かつ本店ササミカツ">
@@ -652,11 +652,11 @@ KITTEでディナー<br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /ja/posts/shinjuku-udon-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️東京新宿うどんレストラン、</a></b><br>
+<a href="#" style="color: #667eea;">➡️東京新宿うどんレストラン、</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /ja/posts/shinjuku-udon-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">きりむぎや甚六ミシュランうどん</a></b></p>
+<a href="#" style="color: #667eea;">きりむぎや甚六ミシュランうどん</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-30.jpg" alt="東京新宿うどんレストランきりむぎや甚六ミシュランうどん">
@@ -675,15 +675,15 @@ KITTEでディナー<br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
+<a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
+<a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
+<a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-31.jpg" alt="成田空港出発帰国!!!">
@@ -735,14 +735,14 @@ KITTEでディナー<br>
 <b><!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-transportation-card-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ 東京交通カード完全ガイド</a></b><br>
+<a href="#" style="color: #667eea;">➡️ 東京交通カード完全ガイド</a></b><br>
 <b><!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-transportation-card-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;">(iPhone Suica)</a></b><br>
+<a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 
-<b><a href="javascript:void(0)" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --><br>
-<b><a href="javascript:void(0)" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --></p>
+<b><a href="#" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --><br>
+<b><a href="#" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --></p>
 
 </div>

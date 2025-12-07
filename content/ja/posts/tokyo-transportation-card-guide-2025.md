@@ -169,12 +169,12 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
      Hugo: /ja/posts/narita-airport-arrival-guide/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京成田空港到着ガイド(Suica/PASMO発行所含む)</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>東京成田空港到着ガイド(Suica/PASMO発行所含む)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223995074888
      Hugo: /ja/posts/haneda-airport-arrival-guide/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京羽田空港到着ガイド(Suica/PASMO発行所含む)</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>東京羽田空港到着ガイド(Suica/PASMO発行所含む)</strong></a>
 
 ---
 
@@ -213,7 +213,7 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /ja/posts/tokyo-subway-ticket-guide/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>東京地下鉄パス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong></a>
+**➡️** <a href="#" style="color: #667eea;"><strong>東京地下鉄パス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong></a>
 
 ---
 
@@ -228,7 +228,7 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京地下鉄パス vs JR都区内パス、完璧比較!</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>東京地下鉄パス vs JR都区内パス、完璧比較!</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-09.jpg" alt="JR都区内パス1日券利用可能地図">
@@ -246,7 +246,7 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>成田エクスプレス(N'EX)予約、価格、時刻表総まとめ</strong></a>
+**➡️** <a href="#" style="color: #667eea;"><strong>成田エクスプレス(N'EX)予約、価格、時刻表総まとめ</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760

@@ -124,8 +124,8 @@ Shinjuku has large department stores with different charms positioned at each ex
 - **West Exit:** Famous for food/gifts. **Keio**, Classic **Odakyu**.
 
 <!-- Coupons -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">Keio Department Store Coupon (5-6% off for purchases over 3,000 yen)</a></strong></p>
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">Odakyu Department Store Coupon (6% off for purchases over 1,000 yen)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Keio Department Store Coupon (5-6% off for purchases over 3,000 yen)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Odakyu Department Store Coupon (6% off for purchases over 1,000 yen)</a></strong></p>
 *(Note: Many brands are excluded from coupons, so check before shopping!)*
 
 <h3>🛍️ Representative Brands & Specialty Stores</h3>
@@ -152,7 +152,7 @@ Shinjuku is home to large outdoor shops like **'Alpen Tokyo'** and **'L-Breath'*
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">KALDI Coffee Farm Shopping List: Must-Buy Recommendations (Curry Spread, etc.)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">KALDI Coffee Farm Shopping List: Must-Buy Recommendations (Curry Spread, etc.)</a></strong></p>
 
 <p><strong>➡️ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Bic Camera Discount Coupon (Tax-Free + 3~7% Off)</a></strong></p>
 
@@ -262,7 +262,7 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /posts/shinjuku-udon-guide/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">Shinjuku Udon Gourmet: Kirimugiya Jinroku Queue Tips & Recommended Menu</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Shinjuku Udon Gourmet: Kirimugiya Jinroku Queue Tips & Recommended Menu</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-10.jpg" alt="Kirimugiya Jinroku Udon">
@@ -312,12 +312,12 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 <div class="se-component se-imageGroup se-l-collage" id="SE-d8d48a2c-974d-4432-be89-2cd2e055d13c">
     <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
         <div class="se-module se-module-image" style="flex: 1;">
-            <a href="javascript:void(0)" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
+            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
                 <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="Oiwake Dango 1" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
             </a>
         </div>
         <div class="se-module se-module-image" style="flex: 1;">
-            <a href="javascript:void(0)" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
+            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
                 <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="Oiwake Dango 2" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
             </a>
         </div>
@@ -412,7 +412,7 @@ Shinjuku Station is also a key departure point for travel to Tokyo's suburbs. Yo
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
      Hugo: /posts/hakone-day-trip-course/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">Hakone Day Trip vs. 2D1N Perfect Course (Hakone Freepass, Romancecar Tips)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Hakone Day Trip vs. 2D1N Perfect Course (Hakone Freepass, Romancecar Tips)</a></strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-21.jpg" alt="Hakone">
@@ -430,7 +430,7 @@ Located 20 minutes by JR Chuo Line is Mitaka Station where **'Ghibli Museum'** i
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035533672
      Hugo: /posts/ghibli-museum-reservation-guide/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">Tokyo Ghibli Museum Reservation Method Summary</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Tokyo Ghibli Museum Reservation Method Summary</a></strong></p>
 
 <hr class="se-hr">
 
@@ -441,7 +441,7 @@ The complete recommended course for **Shinjuku attractions** covering nature, sh
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /posts/narita-express-guide/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">Narita Express (N'EX) Reservation, Price, Timetable (Round Business Discount, Seat Tips!)</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">Narita Express (N'EX) Reservation, Price, Timetable (Round Business Discount, Seat Tips!)</a></strong></p>
 
 <p><strong>➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Attractions, Shibuya Sky Reservation to Shopping, Gourmet Perfect Course</a></strong></p>
 

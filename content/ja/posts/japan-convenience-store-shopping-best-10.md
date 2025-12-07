@@ -439,8 +439,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="javascript:void(0)" style="color: #667eea;"><strong>日本カルディショッピングリスト必須おすすめ</strong></a><br>
-<a href="javascript:void(0)" style="color: #667eea;">コーヒー、スナック、グルメフードガイド</a></p>
+<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト必須おすすめ</strong></a><br>
+<a href="#" style="color: #667eea;">コーヒー、スナック、グルメフードガイド</a></p>
 
 ---
 

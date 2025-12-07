@@ -215,24 +215,24 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032515713
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>➡️ 代官山の見どころ、</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="#" style="color: #667eea;"><b>➡️ 代官山の見どころ、</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032515713
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>蔦屋（T-SITE）からグルメ、</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="#" style="color: #667eea;"><b>蔦屋（T-SITE）からグルメ、</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032515713
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>セレクトショップまで完璧コース</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="#" style="color: #667eea;"><b>セレクトショップまで完璧コース</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
 <b>​</b><br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032086475
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>➡️ 中目黒の見どころ</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<a href="#" style="color: #667eea;"><b>➡️ 中目黒の見どころ</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032086475
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>（代官山から徒歩10分）</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<a href="#" style="color: #667eea;"><b>（代官山から徒歩10分）</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
 <b>​</b><br>
 <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>➡️ 渋谷完全活動ガイド</b></a><br>
 <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>（代官山から地下鉄3分）</b></a></p>

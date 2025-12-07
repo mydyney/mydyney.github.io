@@ -135,7 +135,7 @@ all in one comprehensive guide!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024530348
      Hugo: /posts/roppongi-art-night-guide/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ [See Details] Roppongi Art Night Recommended Lineup</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ [See Details] Roppongi Art Night Recommended Lineup</strong></a></p>
 
 <table class="schedule-table">
   <tbody>
@@ -212,6 +212,6 @@ all in one comprehensive guide!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /posts/ginza-guide-2025/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ [See Details] Ginza Must-Visit Spots: Local Recommended Course (Shopping, Restaurants, Tips)</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>→ [See Details] Ginza Must-Visit Spots: Local Recommended Course (Shopping, Restaurants, Tips)</strong></a></p>
 
 </div>

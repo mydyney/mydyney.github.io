@@ -38,7 +38,7 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007665631
      Hugo: /ja/posts/narita-to-asakusa-subway-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ [詳しく見る] 成田空港から浅草まで地下鉄で行く方法</strong></a>
+<a href="#" style="color: #667eea;"><strong>➡️ [詳しく見る] 成田空港から浅草まで地下鉄で行く方法</strong></a>
 
 <figure>
   <img src="/images/posts/asakusa-complete-guide-03.jpg" alt="雷門の巨大な提灯の下に隠された龍の彫刻">
@@ -52,7 +52,7 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223980220327
      Hugo: /ja/posts/tokyo-august-festivals-sumida-river/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><strong>🔗 8月東京祭り、浅草隅田川灯籠流し完全ガイド</strong></a>
+<a href="#" style="color: #667eea;"><strong>🔗 8月東京祭り、浅草隅田川灯籠流し完全ガイド</strong></a>
 
 ## 🏮 2. 浅草観光スポット・見どころBEST 5
 
@@ -137,7 +137,7 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025343414
      Hugo: /ja/posts/asakusa-asahi-beer-sky-room-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 浅草アサヒビールスカイルーム、リニューアル後夜景名所として再オープン！（2025年最新情報）</strong></a>
+<a href="#" style="color: #667eea;"><strong>➡️ 浅草アサヒビールスカイルーム、リニューアル後夜景名所として再オープン！（2025年最新情報）</strong></a>
 
 ## 🍜 3. 浅草おすすめレストラン（食べログ百名店厳選）
 
@@ -201,7 +201,7 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/ueno-ameyoko-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 上野の見どころ、アメ横市場グルメから上野公園まで</strong></a>
+<a href="#" style="color: #667eea;"><strong>➡️ 上野の見どころ、アメ横市場グルメから上野公園まで</strong></a>
 
 ### ⭐ 一緒に見るとよい東京旅行ガイド
 
@@ -210,11 +210,11 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031937227
      Hugo: /ja/posts/akihabara-complete-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 秋葉原の見どころ、フィギュアショップ、レストラン、ガチャ、アニメ聖地巡礼おすすめコース総まとめ</strong></a>
+<a href="#" style="color: #667eea;"><strong>➡️ 秋葉原の見どころ、フィギュアショップ、レストラン、ガチャ、アニメ聖地巡礼おすすめコース総まとめ</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
      Hugo: /ja/posts/hakone-day-trip-course/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ 箱根旅行、日帰り vs 旅館1泊完璧コースおすすめ</strong></a>
+<a href="#" style="color: #667eea;"><strong>➡️ 箱根旅行、日帰り vs 旅館1泊完璧コースおすすめ</strong></a>
 
 </div>

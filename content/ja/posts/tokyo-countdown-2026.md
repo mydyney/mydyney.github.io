@@ -175,7 +175,7 @@ A. がっかりしすぎないでください！メイン広場には入れま�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224095124866
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>新宿ネオンウォーク東京イルミネーション2025-2026完全ガイド</strong></a>
+**➡️** <a href="#" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>新宿ネオンウォーク東京イルミネーション2025-2026完全ガイド</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-07.jpg" alt="新宿ネオンウォーク東京イルミネーション2025-2026">
@@ -199,11 +199,11 @@ Tokyo Mateでした。
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-luggage-storage/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>新宿駅コインロッカー完全ガイド：100%コインロッカー発見方法</strong></a>
+**➡️** <a href="#" style="color: #667eea;"><strong>新宿駅コインロッカー完全ガイド：100%コインロッカー発見方法</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-liquor-shops/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>新宿酒屋おすすめ｜やまや、信濃屋、ビックカメラウイスキー割引クーポン</strong></a>
+**➡️** <a href="#" style="color: #667eea;"><strong>新宿酒屋おすすめ｜やまや、信濃屋、ビックカメラウイスキー割引クーポン</strong></a>
 
 </div>

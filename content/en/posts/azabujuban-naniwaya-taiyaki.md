@@ -104,6 +104,6 @@ After filling up on delicious taiyaki, explore the sophisticated "adult neighbor
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants)</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants)</strong></a>
 
 </div>

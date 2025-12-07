@@ -230,10 +230,10 @@ After a satisfying meal at Lettuce,<br>
 Explore the charming Nakameguro and Daikanyama neighborhoods!<br>
 <br>
 <!-- Link updated -->
-<strong>🌸 Nakameguro Attractions:</strong> <a href="javascript:void(0)" style="color: #667eea;">Meguro River cherry blossoms, trendy cafes, and boutiques complete guide</a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<strong>🌸 Nakameguro Attractions:</strong> <a href="#" style="color: #667eea;">Meguro River cherry blossoms, trendy cafes, and boutiques complete guide</a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
 <br>
 <!-- Link updated -->
-<strong>🏛️ Daikanyama Attractions:</strong> <a href="javascript:void(0)" style="color: #667eea;">T-Site bookstore, fashionable shops, and cafe hopping guide</a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<strong>🏛️ Daikanyama Attractions:</strong> <a href="#" style="color: #667eea;">T-Site bookstore, fashionable shops, and cafe hopping guide</a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
 <br>
 <!-- Link updated -->
 <strong>🛍️ Shibuya Attractions:</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Just one station away! Complete Shibuya guide (Parco, Shibuya Sky)</a></p>

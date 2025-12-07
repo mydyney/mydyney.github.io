@@ -234,7 +234,7 @@ Car headlight trails blend with golden keyaki trees for dynamic photos.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>Omotesando Perfect Guide: Coffee, Shopping, Restaurants & Architecture Complete</strong></a>
+**➡️** <a href="#" style="color: #667eea;"><strong>Omotesando Perfect Guide: Coffee, Shopping, Restaurants & Architecture Complete</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /posts/harajuku-complete-guide-2025/

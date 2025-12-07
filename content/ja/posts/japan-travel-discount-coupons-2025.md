@@ -251,7 +251,7 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /ja/posts/ginza-lotte-duty-free-whisky-guide/ -->
-➡️ <a href="javascript:void(0)" target="_blank" style="color: #667eea;"><strong>銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</strong></a>
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</strong></a>
 
 **2. ジャパンデューティーフリー銀座 ➡️ <a href="https://livejapan.com/public/operation/coupon/japandutyfree/en.html" target="_blank" style="color: #667eea;"><strong>Live JAPANクーポン</strong></a>**
 
@@ -339,7 +339,7 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 **⭐ 一緒に読むと良い記事**
 
-**➡️ <a href="javascript:void(0)" target="_blank" style="color: #667eea;"><strong>獺祭23、45、39日本公式ホームページ価格完全ガイド</strong></a>**
+**➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>獺祭23、45、39日本公式ホームページ価格完全ガイド</strong></a>**
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
      Hugo: /ja/posts/shinanoya-roppongi-hills-supermarket/ -->
@@ -347,14 +347,14 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010546735
      Hugo: /ja/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
-➡️ <a href="javascript:void(0)" target="_blank" style="color: #667eea;"><strong>日本ウイスキー山崎、響公式価格完全ガイド＆初心者・ギフト用おすすめ</strong></a>
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>日本ウイスキー山崎、響公式価格完全ガイド＆初心者・ギフト用おすすめ</strong></a>
 
 ➡️ <a href="/ja/posts/don-quijote-shopping-guide-2025/" target="_blank" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト必須おすすめ＆割引クーポン、免税方法完全ガイド</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-➡️ <a href="javascript:void(0)" target="_blank" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
+➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
 
 ➡️ <a href="/ja/posts/japan-convenience-store-shopping-best-10/" target="_blank" style="color: #667eea;"><strong>日本コンビニ完全攻略！（セブンイレブン、ファミマ、ローソン比較完全ガイド）</strong></a>
 

@@ -237,7 +237,7 @@ Complete guide including course details and online reservation tips.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223913830951
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>Nonotori Gencho: Yakitori Omakase at Toranomon Hills</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>Nonotori Gencho: Yakitori Omakase at Toranomon Hills</strong></a></p>
 
 <p><a href="/posts/tamiya-plamodel-factory-tokyo-shimbashi/" style="color: #667eea;"><strong>2025 Tamiya Plamodel Factory Tokyo (6,000+ Items, Mini Cars, Cafe)</strong></a></p>
 

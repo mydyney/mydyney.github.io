@@ -169,12 +169,12 @@ Each card is sold by different companies, so be careful! Check the detailed issu
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007949043
      Hugo: /posts/narita-airport-arrival-guide/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223995074888
      Hugo: /posts/haneda-airport-arrival-guide/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
 
 ---
 
@@ -213,7 +213,7 @@ Then use **'Suica (or PASMO)'** for **JR lines not covered by subway pass** or w
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /posts/tokyo-subway-ticket-guide/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Subway Pass (Tokyo Subway Ticket) Exchange Locations, Purchase & Usage Complete Guide</strong></a>
+**➡️** <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass (Tokyo Subway Ticket) Exchange Locations, Purchase & Usage Complete Guide</strong></a>
 
 ---
 
@@ -228,7 +228,7 @@ Check the guide below for a perfect comparison of the two passes' pros and cons,
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Subway Pass vs JR Tokunai Pass, Perfect Comparison!</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass vs JR Tokunai Pass, Perfect Comparison!</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-09.jpg" alt="JR Tokunai Pass 1-day coverage map showing usable areas">
@@ -246,7 +246,7 @@ Now that you've prepared your essential Tokyo travel item—the 'transportation 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /posts/narita-express-guide/ -->
-**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide</strong></a>
+**➡️** <a href="#" style="color: #667eea;"><strong>Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760

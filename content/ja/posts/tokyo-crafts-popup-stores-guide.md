@@ -98,7 +98,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
      Naver: https://blog.naver.com/tokyomate/224032515713
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224032515713 Hugo: /ja/posts/daikanyama-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">代官山の見どころ、蔦屋書店（T-SITE）からレストラン、セレクトショップ、ショッピングまで完璧コース</a>**
+<a href="#" style="color: #667eea;">代官山の見どころ、蔦屋書店（T-SITE）からレストラン、セレクトショップ、ショッピングまで完璧コース</a>**
 
 ---
 
@@ -142,7 +142,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
      Naver: https://blog.naver.com/tokyomate/223995074888
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223995074888 Hugo: /ja/posts/haneda-airport-arrival-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">東京羽田空港到着ガイド：スイカ発行、リムジンバス予約及び市内への行き方（2025最新）</a>**
+<a href="#" style="color: #667eea;">東京羽田空港到着ガイド：スイカ発行、リムジンバス予約及び市内への行き方（2025最新）</a>**
 
 ---
 
@@ -264,6 +264,6 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
      Naver: https://blog.naver.com/tokyomate/224034429817
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224034429817 Hugo: /ja/posts/mitsui-outlet-park-kisarazu-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>東京アウトレットおすすめ、三井アウトレットパーク木更津割引クーポン、入店ブランド、行き方（御殿場比較）</b></a>**
+<a href="#" style="color: #667eea;"><b>東京アウトレットおすすめ、三井アウトレットパーク木更津割引クーポン、入店ブランド、行き方（御殿場比較）</b></a>**
 
 </div>

@@ -232,12 +232,12 @@ featured_image: "/images/posts/tokyo-node-dining-toranomon-hills-lunch-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/toranomon-hills-complete-guide/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>東京 虎ノ門ヒルズ見どころガイド：展望台、グルメ、横丁、T-Market</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>東京 虎ノ門ヒルズ見どころガイド：展望台、グルメ、横丁、T-Market</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223913830951
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>野の鳥 源長：虎ノ門ヒルズの焼き鳥おまかせ</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>野の鳥 源長：虎ノ門ヒルズの焼き鳥おまかせ</strong></a></p>
 
 <p><a href="/ja/posts/tamiya-plamodel-factory-tokyo-shimbashi/" style="color: #667eea;"><strong>2025 タミヤプラモデルファクトリー東京（6,000種以上・ミニカー・カフェ）</strong></a></p>
 

@@ -150,11 +150,11 @@ As the hot Halloween festivities wind down at the end of October, Tokyo welcomes
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /posts/omotesando-guide-2025/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Omotesando Complete Guide (Enjoy with Pumpkin Parade)</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide (Enjoy with Pumpkin Parade)</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Roppongi Complete Guide (Enjoy with Halloween Stamp Rally)</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>Roppongi Complete Guide (Enjoy with Halloween Stamp Rally)</strong></a>**
 
 </div>

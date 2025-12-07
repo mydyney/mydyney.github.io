@@ -123,7 +123,7 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">日本カルディショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技）</a></strong></p>
+<p><strong>➡️ <a href="#" style="color: #667eea;">日本カルディショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技）</a></strong></p>
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-05.jpg" alt="スシノミドリ発券機とQRコード待ち時間確認システムディスプレイ">

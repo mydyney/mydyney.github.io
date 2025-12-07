@@ -22,7 +22,7 @@
 
     // Add click handlers to all pending links
     document.addEventListener('click', function (e) {
-        const link = e.target.closest('a[href="javascript:void(0)"]');
+        const link = e.target.closest('a[href="#"]');
         if (link) {
             e.preventDefault();
             showToast();

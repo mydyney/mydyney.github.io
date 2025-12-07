@@ -79,7 +79,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター">
-  <figcaption style="font-size: 0.7em; text-align: center;">サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター <a href="javascript:void(0)" target="_blank">（出典）</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター <a href="#" target="_blank">（出典）</a></figcaption>
 </figure>
 
 ハローキティ、シナモロール、マイメロディ…
@@ -333,7 +333,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 新宿の遊び場、幼児基準では、雨の日半日コース最強者と言えます。
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224035895968 Hugo: /ja/posts/tokyo-dome-city-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>➡️ 東京ドームガイド：コンサート、野球、観光、グルメ、ホテルまで完全まとめ</b></a>
+<a href="#" style="color: #667eea;"><b>➡️ 東京ドームガイド：コンサート、野球、観光、グルメ、ホテルまで完全まとめ</b></a>
 
 ### 🚆 新宿からの行き方
 

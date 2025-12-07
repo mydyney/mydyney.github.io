@@ -159,11 +159,11 @@ and tips for early morning and late night flights all covered here.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223956785387
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ Haneda Airport AMEX Centurion Lounge Opening Visit Review (Food, Ramen, Desserts)</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>→ Haneda Airport AMEX Centurion Lounge Opening Visit Review (Food, Ramen, Desserts)</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223996626324
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ Haneda Airport Departure Complete Guide: Early Morning Bus, Check-in, Restaurants, Duty-Free, Lounges, Onsen, Capsule Hotels</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>→ Haneda Airport Departure Complete Guide: Early Morning Bus, Check-in, Restaurants, Duty-Free, Lounges, Onsen, Capsule Hotels</strong></a></p>
 
 </div>

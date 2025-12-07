@@ -105,21 +105,21 @@ Drop off luggage at <b>Shinjuku hotel</b><br>
 and start your journey.<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️Tokyo Narita Airport Arrival Guide:</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
+<a href="#" style="color: #667eea;">➡️Tokyo Narita Airport Arrival Guide:</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">How to get downtown, transportation comparison,</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
+<a href="#" style="color: #667eea;">How to get downtown, transportation comparison,</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">Suica card, ATM complete guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
+<a href="#" style="color: #667eea;">Suica card, ATM complete guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224007949043 -> narita-airport-arrival-guide --><br>
 ​<br>
 <b><!-- Link updated -->
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /posts/narita-express-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
+<a href="#" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
+<a href="#" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
+<a href="#" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-03.jpg" alt="Mt. Fuji view from Incheon-Narita flight">
@@ -133,7 +133,7 @@ Enjoy a hearty late lunch<br>
 and start your real itinerary.<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Shinjuku Complete Activity Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
+<a href="#" style="color: #667eea;">➡️ Shinjuku Complete Activity Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-04.jpg" alt="Shinjuku Station East Exit">
@@ -149,11 +149,11 @@ With Suica or Pasmo<br>
 <b>Ⓕ Fukutoshin Line to Shibuya Station</b><br>
 ​<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️Tokyo Metro Pass (Tokyo Subway Ticket)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224026098490 -> tokyo-subway-ticket-guide --><br>
+<a href="#" style="color: #667eea;">➡️Tokyo Metro Pass (Tokyo Subway Ticket)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224026098490 -> tokyo-subway-ticket-guide --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">Exchange locations, purchase, usage, routes complete guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224026098490 -> tokyo-subway-ticket-guide --><br>
+<a href="#" style="color: #667eea;">Exchange locations, purchase, usage, routes complete guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224026098490 -> tokyo-subway-ticket-guide --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">(24, 48, 72 hours)</a></b></p>
+<a href="#" style="color: #667eea;">(24, 48, 72 hours)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-05.jpg" alt="Tokyo Subway Ticket route map">
@@ -203,7 +203,7 @@ Omotesando Hills together.<br>
 <b><!-- Link updated -->
 <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;">➡️ Harajuku Complete Activity Guide</a></b><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️Omotesando Recommended Course Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224027835049 -> omotesando-guide-2025 --></p>
+<a href="#" style="color: #667eea;">➡️Omotesando Recommended Course Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224027835049 -> omotesando-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-09.jpg" alt="Harajuku-Omotesando Christmas illumination">
@@ -224,7 +224,7 @@ filled with kushiyaki smoke,<br>
 enjoy late dinner or snacks<br>
 to end the day.<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Shinjuku Complete Activity Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
+<a href="#" style="color: #667eea;">➡️ Shinjuku Complete Activity Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224035271300 -> shinjuku-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-10.jpg" alt="Shinjuku Omoide Yokocho entrance">
@@ -287,9 +287,9 @@ Take subway (Ginza Line) to Ueno<br>
 for festival atmosphere.<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Ueno Activities</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --><br>
+<a href="#" style="color: #667eea;">➡️ Ueno Activities</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">& Ameyoko Market Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --></p>
+<a href="#" style="color: #667eea;">& Ameyoko Market Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-12.jpg" alt="Ueno Park where Tokyo's largest Christmas market will be held">
@@ -304,9 +304,9 @@ enjoy clean duck ramen<br>
 at Kamonegi for lunch.<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Ueno Activities</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --><br>
+<a href="#" style="color: #667eea;">➡️ Ueno Activities</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">& Ameyoko Market Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --></p>
+<a href="#" style="color: #667eea;">& Ameyoko Market Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224028694874 -> ueno-ameyoko-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-13.jpg" alt="Ueno Ameyoko restaurant Ramen Kamonegi">
@@ -325,9 +325,9 @@ Visit Coredo Muromachi, Pokémon Center DX<br>
 Last souvenir shopping at<br>
 Tokyo Station Character Street<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Nihonbashi Must-Visit Places</a></b><!-- TODO: https://blog.naver.com/tokyomate/224042267263 -> nihonbashi-guide --><br>
+<a href="#" style="color: #667eea;">➡️ Nihonbashi Must-Visit Places</a></b><!-- TODO: https://blog.naver.com/tokyomate/224042267263 -> nihonbashi-guide --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Tokyo Station Complete Activity Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224031611221 -> tokyo-station-guide --></p>
+<a href="#" style="color: #667eea;">➡️ Tokyo Station Complete Activity Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224031611221 -> tokyo-station-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-14.jpg" alt="Nihonbashi Takashimaya main store Pokémon Center Tokyo DX & Pokémon Cafe">
@@ -346,9 +346,9 @@ Tokyo Station red brick building night view<br>
 Marunouchi Illumination walk<br>
 Dinner at KITTE<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Tokyo Station Nemuro Hanamaru Kaiten Sushi</a></b><!-- TODO: https://blog.naver.com/tokyomate/223680263119 -> tokyo-station-nemuro-hanamaru-sushi-guide --><br>
+<a href="#" style="color: #667eea;">➡️ Tokyo Station Nemuro Hanamaru Kaiten Sushi</a></b><!-- TODO: https://blog.naver.com/tokyomate/223680263119 -> tokyo-station-nemuro-hanamaru-sushi-guide --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">Wait time and reservation tips</a></b><!-- TODO: https://blog.naver.com/tokyomate/223680263119 -> tokyo-station-nemuro-hanamaru-sushi-guide -->
+<a href="#" style="color: #667eea;">Wait time and reservation tips</a></b><!-- TODO: https://blog.naver.com/tokyomate/223680263119 -> tokyo-station-nemuro-hanamaru-sushi-guide -->
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-15.jpg" alt="Tokyo Station kaiten sushi restaurant Nemuro Hanamaru">
@@ -421,7 +421,7 @@ At Tsukiji Market,<br>
 fresh seafood and<br>
 tamagoyaki (egg roll) for breakfast<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Tsukiji Market Restaurant Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224037272726 -> tsukiji-market-restaurant-guide --></p>
+<a href="#" style="color: #667eea;">➡️ Tsukiji Market Restaurant Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224037272726 -> tsukiji-market-restaurant-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-19.jpg" alt="Tsukiji Market entrance">
@@ -439,7 +439,7 @@ To Ginza (Hibiya Line 1 stop)<br>
 Luxury shopping and window shopping at<br>
 Ginza Six, Mitsukoshi, Itoya, etc.<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Ginza Must-Visit Places Complete Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/223989943826 -> ginza-guide-2025 --></p>
+<a href="#" style="color: #667eea;">➡️ Ginza Must-Visit Places Complete Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/223989943826 -> ginza-guide-2025 --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-20.jpg" alt="Ginza Kabukiza Theatre">
@@ -458,7 +458,7 @@ Near Ginza in Yurakucho,<br>
 Hitsumabushi (eel bowl) restaurant<br>
 Unafuji for luxurious lunch.<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Sumiyaki Unafuji, Michelin Grilled Eel</a></b><!-- TODO: https://blog.naver.com/tokyomate/223914321510 -> sumiyaki-unafuji-yurakucho --></p>
+<a href="#" style="color: #667eea;">➡️ Sumiyaki Unafuji, Michelin Grilled Eel</a></b><!-- TODO: https://blog.naver.com/tokyomate/223914321510 -> sumiyaki-unafuji-yurakucho --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-22.jpg" alt="Ginza Sumiyaki Unafuji Yurakucho hitsumabushi">
@@ -498,7 +498,7 @@ To Roppongi Hills (10-min walk)<br>
 Christmas Market and<br>
 Keyakizaka Illumination<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Roppongi Complete Activity Guide</a></b><!-- TODO: /posts/roppongi-attractions-guide -> roppongi-complete-guide --></p>
+<a href="#" style="color: #667eea;">➡️ Roppongi Complete Activity Guide</a></b><!-- TODO: /posts/roppongi-attractions-guide -> roppongi-complete-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.jpg" alt="Roppongi Hills Christmas">
@@ -512,9 +512,9 @@ Michelin Bib Gourmand Imakatsu<br>
 for tender Sasami Katsu dinner<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️Tokyo Roppongi Restaurant Map</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --><br>
+<a href="#" style="color: #667eea;">➡️Tokyo Roppongi Restaurant Map</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">Michelin, Tabelog Recommended Restaurants</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --></p>
+<a href="#" style="color: #667eea;">Michelin, Tabelog Recommended Restaurants</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-26.jpg" alt="Roppongi restaurant, Imakatsu main store Sasami Katsu">
@@ -580,9 +580,9 @@ Isetan/Takashimaya department store shopping<br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /posts/shinjuku-udon-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️Tokyo Shinjuku Udon Restaurant,</a></b><br>
+<a href="#" style="color: #667eea;">➡️Tokyo Shinjuku Udon Restaurant,</a></b><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">Kirimugiya Jinroku Michelin Udon</a></b></p>
+<a href="#" style="color: #667eea;">Kirimugiya Jinroku Michelin Udon</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-30.jpg" alt="Tokyo Shinjuku udon restaurant Kirimugiya Jinroku Michelin udon">
@@ -599,11 +599,11 @@ to the airport!<br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /posts/narita-express-guide/ -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
+<a href="#" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
+<a href="#" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
+<a href="#" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-31.jpg" alt="Narita Airport departure home!!!">
@@ -657,8 +657,8 @@ is the most realistic recommended budget.</p>
 <a href="/posts/tokyo-transportation-card-guide-2025/" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">➡️ Japan Travel Discount Coupons Complete Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --><br>
+<a href="#" style="color: #667eea;">➡️ Japan Travel Discount Coupons Complete Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --><br>
 <b><!-- Link updated -->
-<a href="javascript:void(0)" style="color: #667eea;">(Don Quijote, Drugstores, Department Stores)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --></p>
+<a href="#" style="color: #667eea;">(Don Quijote, Drugstores, Department Stores)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --></p>
 
 </div>

@@ -73,7 +73,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681272647
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">六本木ヒルズへの行き方とコインロッカーの場所</a></strong><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木ヒルズへの行き方とコインロッカーの場所</a></strong><br>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6599599,139.729758&hl=ja&z=17&output=embed"
@@ -246,7 +246,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 ### 1. 展望台/美術館
 
-<p style="text-align: center;"><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">六本木の楽しみ方総まとめ</a></strong><!-- TODO: /ja/posts/roppongi-attractions-guide -> roppongi-attractions-guide --><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木の楽しみ方総まとめ</a></strong><!-- TODO: /ja/posts/roppongi-attractions-guide -> roppongi-attractions-guide --><br>
 <strong>（展望台、美術館、レストラン）</strong><br>
 
 ### 2. 六本木ヒルズクリスマスイルミネーション
@@ -254,7 +254,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-christmas-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">六本木イルミネーション2025 期間、点灯時間、必須スポット、<br>六本木ヒルズクリスマスマーケット完全ガイド</a></strong><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木イルミネーション2025 期間、点灯時間、必須スポット、<br>六本木ヒルズクリスマスマーケット完全ガイド</a></strong><br>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-20.jpg" alt="六本木イルミネーション">
@@ -279,7 +279,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-3-day-christmas-illumination-itinerary/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">東京3泊4日クリスマス特別コース<br>（動線、費用総まとめ）</a></strong><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">東京3泊4日クリスマス特別コース<br>（動線、費用総まとめ）</a></strong><br>
 
 ### 2. 東京クリスマスマーケット 好み別総まとめ
 
@@ -291,7 +291,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">2025 東京クリスマスマーケット、どこへ行く？<br>（上野、麻布台など）</a></strong><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025 東京クリスマスマーケット、どこへ行く？<br>（上野、麻布台など）</a></strong><br>
 
 ### 3. 東京クリスマスイルミネーション BEST 5
 
@@ -303,6 +303,6 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">2025年東京クリスマスイルミネーション BEST 5<br>（表参道、丸の内完全ガイド）</a></strong><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025年東京クリスマスイルミネーション BEST 5<br>（表参道、丸の内完全ガイド）</a></strong><br>
 
 </div>

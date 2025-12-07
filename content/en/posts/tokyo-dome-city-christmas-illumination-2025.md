@@ -176,7 +176,7 @@ and the Nordic Christmas Market schedule—your complete winter guide to Tokyo D
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035895968
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels Complete Guide</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels Complete Guide</strong></a></p>
 
 <hr>
 

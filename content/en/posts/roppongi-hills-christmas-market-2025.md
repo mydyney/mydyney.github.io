@@ -71,7 +71,7 @@ plus recommended routes to plan your Tokyo winter Christmas trip.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681272647
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ [See Details] How to Get to Roppongi Hills & Coin Locker Locations</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>→ [See Details] How to Get to Roppongi Hills & Coin Locker Locations</strong></a></p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-christmas-market-2025-04.jpg" alt="2025 Roppongi Hills Christmas Market wreath decoration">
@@ -266,7 +266,7 @@ plus recommended routes to plan your Tokyo winter Christmas trip.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ Tokyo Roppongi Restaurant Guide: Michelin & Tabelog Recommendations</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>→ Tokyo Roppongi Restaurant Guide: Michelin & Tabelog Recommendations</strong></a></p>
 <p><a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;"><strong>→ 2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</strong></a></p>
 
 <div class="image-group-2">
@@ -292,7 +292,7 @@ plus recommended routes to plan your Tokyo winter Christmas trip.</p>
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ Roppongi Complete Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>→ Roppongi Complete Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
 
 <p><strong>2025 Tokyo Christmas:</strong></p>
 <p><a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>→ Tokyo 3-Night 4-Day Christmas Illumination Recommended Course & Markets (Routes & Budget Guide)</strong></a></p>

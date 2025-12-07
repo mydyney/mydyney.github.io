@@ -21,7 +21,7 @@ featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2025年東京クリスマスマーケット どこへ行く？</b></a></p>
+<a href="#" style="color: #667eea;"><b>2025年東京クリスマスマーケット どこへ行く？</b></a></p>
 
 <figure>
   <img src="/images/posts/azabudai-hills-christmas-market-2025-01.jpg" alt="2025 麻布台ヒルズ クリスマスマーケット中央広場全景、アーチ型ゲートとシャンパンゴールドツリー">
@@ -282,7 +282,7 @@ featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
 ➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223671427079
      Hugo: /ja/posts/azabudai-hills-christmas-market-review-2024/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2024 麻布台ヒルズ クリスマスマーケット現場レビュー（東京タワー夜景含む）</b></a>
+<a href="#" style="color: #667eea;"><b>2024 麻布台ヒルズ クリスマスマーケット現場レビュー（東京タワー夜景含む）</b></a>
 
 <figure>
   <img src="/images/posts/azabudai-hills-christmas-market-2025-20.jpg" alt="シャンパンゴールド クリスマスツリーの下で家族と一緒に写真を撮る麻布台ヒルズ クリスマーケット訪問者たち">
@@ -298,7 +298,7 @@ featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/azabudai-hills-complete-guide/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>東京 麻布台ヒルズ行くべき場所、展望台からグルメ、チームラボまで完璧コース総まとめ</b></a>
+<a href="#" style="color: #667eea;"><b>東京 麻布台ヒルズ行くべき場所、展望台からグルメ、チームラボまで完璧コース総まとめ</b></a>
 
 ---
 
@@ -313,7 +313,7 @@ featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2025年 東京クリスマスイルミネーション BEST 5（六本木、丸の内コツ総まとめ）</b></a>
+<a href="#" style="color: #667eea;"><b>2025年 東京クリスマスイルミネーション BEST 5（六本木、丸の内コツ総まとめ）</b></a>
 
 **🌟 六本木ヒルズ イルミネーション 11月4日開始**
 
@@ -324,14 +324,14 @@ featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-skytree-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2025 東京スカイツリー クリスマスマーケット完全整理（公式日程、新メニュー、フォトスポットコツ総まとめ）</b></a>
+<a href="#" style="color: #667eea;"><b>2025 東京スカイツリー クリスマスマーケット完全整理（公式日程、新メニュー、フォトスポットコツ総まとめ）</b></a>
 
 **🌟 恵比寿ガーデンプレイス イルミネーション 11月8日開始**
 
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/yebisu-garden-place-illumination-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2025 恵比寿ガーデンプレイス イルミネーション、クリスマスマーケット最新ガイド</b></a>
+<a href="#" style="color: #667eea;"><b>2025 恵比寿ガーデンプレイス イルミネーション、クリスマスマーケット最新ガイド</b></a>
 
 **🌟 東京駅 丸の内イルミネーション 11月13日開始**
 
@@ -342,27 +342,27 @@ featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/hibiya-midtown-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2025 日比谷ミッドタウン イルミネーション・ズートピア2コラボ・丸の内徒歩コース完全整理</b></a>
+<a href="#" style="color: #667eea;"><b>2025 日比谷ミッドタウン イルミネーション・ズートピア2コラボ・丸の内徒歩コース完全整理</b></a>
 
 **🌟 六本木ミッドタウン イルミネーション 11月13日開始**
 
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-midtown-christmas-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2025 六本木 東京ミッドタウン クリスマス総まとめ（イルミネーション、アイスリンク、グルメ）</b></a>
+<a href="#" style="color: #667eea;"><b>2025 六本木 東京ミッドタウン クリスマス総まとめ（イルミネーション、アイスリンク、グルメ）</b></a>
 
 **🌟 東京ドームシティ イルミネーション 11月17日開始**
 
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-dome-city-christmas-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2025 東京ドームシティ クリスマスイルミネーション期間時間総まとめ TXTコラボ</b></a>
+<a href="#" style="color: #667eea;"><b>2025 東京ドームシティ クリスマスイルミネーション期間時間総まとめ TXTコラボ</b></a>
 
 **🌟 上野公園 クリスマスマーケット 11月19日開始**
 
 ➡️ <!-- TODO: Update link after migration
      Naver: /ja/posts/ueno-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="javascript:void(0)" style="color: #667eea;"><b>2025 東京 上野クリスマスマーケット期間・時間・イルミネーション・無料入場・行き方総まとめ</b></a>
+<a href="#" style="color: #667eea;"><b>2025 東京 上野クリスマスマーケット期間・時間・イルミネーション・無料入場・行き方総まとめ</b></a>
 
 </div>

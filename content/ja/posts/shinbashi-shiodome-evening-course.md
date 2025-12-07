@@ -193,7 +193,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223915132048
      Hugo: /ja/posts/shinbashi-tonkatsu-horiichi/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京新橋とんかつ名店 | 黒豚ほり壱ミシュラン黒豚とんかつレビュー</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>東京新橋とんかつ名店 | 黒豚ほり壱ミシュラン黒豚とんかつレビュー</strong></a>**
 
 - **<a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">とんかつ 明石（とんかつ 明石）</a>**: 地元サラリーマンに愛されてきたコスパの良い隠れたとんかつ名店（食べログ百名店5回）
 - **<a href="https://maps.app.goo.gl/926aMoTsKrGEPawH8" target="_blank">牛かつ おか田（牛かつ おか田）</a>**: 東京牛かつの元祖格。レア状態の牛肉を個人コンロで直接焼いて食べる楽しみ
@@ -217,7 +217,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914321510
      Hugo: /ja/posts/sumiyaki-unafuji-yurakucho/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京うなぎ名店 | 炭焼 うな富士 有楽町店レビュー</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>東京うなぎ名店 | 炭焼 うな富士 有楽町店レビュー</strong></a>**
 
 <figure>
   <img src="/images/posts/shinbashi-shiodome-evening-course-11.jpg" alt="炭焼うな富士有楽町店うなぎ名店ひつまぶし">
@@ -235,7 +235,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /ja/posts/ginza-guide-2025/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>銀座おすすめスポット：完璧なコースガイド総まとめ</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>銀座おすすめスポット：完璧なコースガイド総まとめ</strong></a>**
 
 - **🚝 モノレールで15分！未来都市の夜景、お台場**
 

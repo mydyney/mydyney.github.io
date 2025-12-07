@@ -214,7 +214,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ How to Get from Narita Airport to Ueno (Skyliner Reservation, Price, Schedule)</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ How to Get from Narita Airport to Ueno (Skyliner Reservation, Price, Schedule)</strong></a></p>
 
 <figure>
   <img src="/images/posts/ueno-christmas-market-2025-23.jpg" alt="Stairs from Keisei Ueno Station to Ueno Park">
@@ -229,7 +229,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Ueno Attractions: Ameyoko Market Food to Ueno Park Complete Course</strong></a></p>
+<p><a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Ameyoko Market Food to Ueno Park Complete Course</strong></a></p>
 
 <figure>
   <img src="/images/posts/ueno-christmas-market-2025-24.jpg" alt="Ameyoko Market entrance near Ueno Park">

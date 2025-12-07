@@ -154,7 +154,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668826357
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;">2024恵比寿ガーデンプレイスクリスマスレビュー（昨年のアーカイブ）</a>**
+**➡️ <a href="#" style="color: #667eea;">2024恵比寿ガーデンプレイスクリスマスレビュー（昨年のアーカイブ）</a>**
 *（リンクは移行後に更新されます）*
 
 <figure>
@@ -232,7 +232,7 @@ Top of Yebisuという無料展望台があります。
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668328703
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-➡️ <a href="javascript:void(0)" style="color: #667eea;">東京恵比寿ガーデンプレイス無料展望台、トップオブエビス完璧ガイド</a>
+➡️ <a href="#" style="color: #667eea;">東京恵比寿ガーデンプレイス無料展望台、トップオブエビス完璧ガイド</a>
 *（リンクは移行後に更新されます）*
 
 <figure>
@@ -259,7 +259,7 @@ Top of Yebisuという無料展望台があります。
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223665548720
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;">ヱビスブルワリー東京、ビール好きなら必ず行くべき場所</a>**
+**➡️ <a href="#" style="color: #667eea;">ヱビスブルワリー東京、ビール好きなら必ず行くべき場所</a>**
 *（リンクは移行後に更新されます）*
 
 <figure>
@@ -282,7 +282,7 @@ Top of Yebisuという無料展望台があります。
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;">東京恵比寿ガーデンプレイスへの行き方とコインロッカーの場所</a>**
+**➡️ <a href="#" style="color: #667eea;">東京恵比寿ガーデンプレイスへの行き方とコインロッカーの場所</a>**
 *（リンクは移行後に更新されます）*
 
 <figure>
@@ -350,7 +350,7 @@ A. 地下2階 **Foodies' Garden** にはカルディ（KALDI）、セントラ�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;">恵比寿見どころ、恵比寿ガーデンプレイスからビール博物館、グルメまで完璧ガイド</a>**
+**➡️ <a href="#" style="color: #667eea;">恵比寿見どころ、恵比寿ガーデンプレイスからビール博物館、グルメまで完璧ガイド</a>**
 *（リンクは移行後に更新されます）*
 
 ---

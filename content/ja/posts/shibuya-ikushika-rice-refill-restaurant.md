@@ -221,7 +221,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<strong>➡️</strong> <a href="javascript:void(0)" style="color: #667eea;"><strong>渋谷の見どころ完璧ガイド</strong></a><br>
-<a href="javascript:void(0)" style="color: #667eea;"><strong>（パルコ、渋谷スカイ）</strong></a></p>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>渋谷の見どころ完璧ガイド</strong></a><br>
+<a href="#" style="color: #667eea;"><strong>（パルコ、渋谷スカイ）</strong></a></p>
 
 </div>

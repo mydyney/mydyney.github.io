@@ -335,7 +335,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/ueno-ameyoko-guide/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;">上野観光スポット - アメ横市場、グルメから上野公園まで</a>**
+**➡️ <a href="#" style="color: #667eea;">上野観光スポット - アメ横市場、グルメから上野公園まで</a>**
 
 **🚇 丸ノ内線16分！**
 **東京の中心：東京駅**
@@ -344,6 +344,6 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /ja/posts/tokyo-station-guide/ -->
-**➡️ <a href="javascript:void(0)" style="color: #667eea;">東京駅観光スポット - キャラクターストリート、グルメ、夜景、荷物保管ロッカー</a>**
+**➡️ <a href="#" style="color: #667eea;">東京駅観光スポット - キャラクターストリート、グルメ、夜景、荷物保管ロッカー</a>**
 
 </div>
