@@ -143,9 +143,7 @@ all in one comprehensive guide!</p>
     <tr><td><strong>⏰ Hours</strong></td><td><strong>Sep 26 (Fri) 18:30-22:00 / Sep 27 (Sat) 13:00-22:00 / Sep 28 (Sun) 13:00-20:00</strong></td></tr>
     <tr><td><strong>📍 Location</strong></td><td><strong><a href="https://maps.app.goo.gl/ECniJW1AL2k7qmd36" target="_blank">Roppongi Hills</a>, <a href="https://maps.app.goo.gl/d4coCUY6shpMrGZ89" target="_blank">Tokyo Midtown</a> and surrounding Roppongi area (Roppongi Station)</strong></td></tr>
     <tr><td><strong>💸 Admission</strong></td><td><strong>Mostly free (some exhibitions paid)</strong></td></tr>
-    <tr><td><strong>💡 Tip</strong></td><td><!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ --><strong>Check out the <a href="javascript:void(0)" style="color: #667eea;">Roppongi Attractions Guide</a> to create your own art tour course!</strong></td></tr>
+    <tr><td><strong>💡 Tip</strong></td><td><strong>Check out the <a href="/posts/roppongi-attractions-guide/" style="color: #667eea;">Roppongi Attractions Guide</a> to create your own art tour course!</strong></td></tr>
   </tbody>
 </table>
 
@@ -209,10 +207,7 @@ all in one comprehensive guide!</p>
 
 <h3>More Useful Tokyo Travel Tips</h3>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ -->
-<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
+<p><a href="/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826

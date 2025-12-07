@@ -5,43 +5,47 @@
 <!-- Ezoic Header Script -->
 <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
 <script>
-    window.ezstandalone = window.ezstandalone || {};
-    ezstandalone.cmd = ezstandalone.cmd || [];
+  window.ezstandalone = window.ezstandalone || {};
+  ezstandalone.cmd = ezstandalone.cmd || [];
 </script>
 
 <!-- Google AdSense Auto Ads -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8704780774924832"
-     crossorigin="anonymous"></script>
+  crossorigin="anonymous"></script>
 
 <!-- Custom Blog Card Styles -->
-<link rel="stylesheet" href="{{ "css/blog-cards.css" | relURL }}">
+<link rel="stylesheet" href="{{ " css/blog-cards.css" | relURL }}">
 
 <!-- Blog Post Common Styles -->
-<link rel="stylesheet" href="{{ "css/blog-post-common.css" | relURL }}">
+<link rel="stylesheet" href="{{ " css/blog-post-common.css" | relURL }}">
 
 <!-- Related Posts Styles -->
-<link rel="stylesheet" href="{{ "css/related-posts.css" | relURL }}">
+<link rel="stylesheet" href="{{ " css/related-posts.css" | relURL }}">
 
 <!-- Footer Styles -->
-<link rel="stylesheet" href="{{ "css/footer.css" | relURL }}">
+<link rel="stylesheet" href="{{ " css/footer.css" | relURL }}">
+
+<!-- Toast Notification Styles -->
+<link rel="stylesheet" href="{{ " css/toast-notification.css" | relURL }}">
+<script defer src="{{ " js/toast-notification.js" | relURL }}"></script>
 
 <!-- SEO: Hreflang tags for multilingual support -->
 {{ if .IsTranslated }}
-  {{- $defined := dict .Language.Lang . -}}
-  {{- range .Translations -}}
-    {{- $defined = merge $defined (dict .Language.Lang .) -}}
-  {{- end -}}
-  {{- range $lang, $page := $defined -}}
-    <link rel="alternate" hreflang="{{ $lang }}" href="{{ $page.Permalink }}">
-  {{- end -}}
-  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
+{{- $defined := dict .Language.Lang . -}}
+{{- range .Translations -}}
+{{- $defined = merge $defined (dict .Language.Lang .) -}}
+{{- end -}}
+{{- range $lang, $page := $defined -}}
+<link rel="alternate" hreflang="{{ $lang }}" href="{{ $page.Permalink }}">
+{{- end -}}
+<link rel="alternate" hreflang="x-default" href="{{ .Permalink }}">
 {{ else }}
-  {{- range .Site.Languages -}}
-    {{- if eq .Lang $.Site.Language.Lang -}}
-      <link rel="alternate" hreflang="{{ .Lang }}" href="{{ $.Permalink }}">
-      <link rel="alternate" hreflang="x-default" href="{{ $.Permalink }}">
-    {{- end -}}
-  {{- end -}}
+{{- range .Site.Languages -}}
+{{- if eq .Lang $.Site.Language.Lang -}}
+<link rel="alternate" hreflang="{{ .Lang }}" href="{{ $.Permalink }}">
+<link rel="alternate" hreflang="x-default" href="{{ $.Permalink }}">
+{{- end -}}
+{{- end -}}
 {{ end }}
 
 <!-- SEO: Additional meta tags -->
@@ -62,8 +66,8 @@
 {{- end }}
 
 <!-- Favicon -->
-<link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
-<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
+<link rel="icon" type="image/svg+xml" href="{{ " favicon.svg" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ " favicon-32x32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ " favicon-16x16.png" | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ " apple-touch-icon.png" | relURL }}">
+<link rel="manifest" href="{{ " site.webmanifest" | relURL }}">
