@@ -220,10 +220,24 @@ python3 fetch_content.py [URL]
   * Content MUST match image positions EXACTLY
   * Same image at same position = same content context
   * Never add content not in original blog
+  * **Check for grouped images:** Identify if images appear side-by-side in original
+  * **Preserve grouping:** Use appropriate `image-group-X` class (see "Grouped Images" section below)
 - ⚠️ **CRITICAL: CULTURAL ADAPTATION**
   * EN: American English, US cultural references
   * JA: Japanese cultural nuances and expressions
   * Proper localization, not just translation
+- ⚠️ **CRITICAL: JAPANESE CULTURAL ADAPTATION**
+  * **Remove "日本の" prefix:** Since content is FOR Japanese readers ABOUT Japan, avoid redundant "日本の" 
+    * Example: "日本のコーヒー" → "コーヒー"
+    * Example: "日本のショッピング" → "ショッピング"
+  * **Tax-Free Content:** DELETE all tax-free/免税 sections from JA posts (only relevant to foreign tourists)
+  * **Natural phrasing:** Use expressions natural to Japanese readers, not literal translations
+- ⚠️ **CRITICAL: LINK HANDLING**
+  * **Order:** All links MUST be included in the exact same order as the original post
+  * **Verification:** Check `LINK_MAPPING.md` for slug existence
+  * **Placeholders:** If link not yet migrated, use TODO comment with original Naver URL
+  * **Google Maps:** Standardize ALL map links with `📍` emoji suffix
+    * Format: `[Link Text](https://maps.app.goo.gl/...) 📍`
 
 **LINK_MAPPING.md Updates:**
 - Add new entry to Quick Reference Table

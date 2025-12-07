@@ -175,7 +175,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223979907748
      Hugo: /ja/posts/yokohama-one-day-itinerary/ -->
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>日本横浜1日コース 中華街グルメ、赤レンガ倉庫、夜景スポット総まとめ</strong></a><br>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横浜1日コース 中華街グルメ、赤レンガ倉庫、夜景スポット総まとめ</strong></a><br>
 <br>
 <br>
 <strong>🚇 「みなとぶらりチケット」で横浜制覇！</strong><br>
