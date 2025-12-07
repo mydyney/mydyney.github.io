@@ -209,7 +209,6 @@ all in one comprehensive guide!</p>
 
 <p><a href="/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
 
-<!-- TODO: Update link after migration
 <p><a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>→ [See Details] Ginza Must-Visit Spots: Local Recommended Course (Shopping, Restaurants, Tips)</strong></a></p>
 
 </div>

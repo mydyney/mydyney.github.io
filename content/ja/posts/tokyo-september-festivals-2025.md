@@ -209,7 +209,7 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 
 <p><a href="/ja/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>→【詳しく見る】六本木の遊び場完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a></p>
 
-<!-- TODO: Update link after migration
+
 <p><a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>→【詳しく見る】銀座のおすすめスポット、地元民推薦コース（ショッピング、グルメ、裏技）</strong></a></p>
 
 </div>
