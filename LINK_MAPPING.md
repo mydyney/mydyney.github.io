@@ -339,7 +339,7 @@ declare -A MAPPINGS=(
   ["224025699867"]="tokyo-subway-pass-vs-jr-tokunai-pass"
   ["224032769630"]="yebisu-complete-guide"
   ["223915132048"]="shinbashi-tonkatsu-horiichi"
-
+  ["223670085459"]="roppongi-midtown-christmas-review-2024"
   ["223688700265"]="omotesando-illumination-harajuku-observatory-review-2024"
   ["223689247336"]="shibuya-miyashita-park-illumination-review-2024"
   ["223691772722"]="nihonbashi-pokemon-center-dx-cafe-guide"

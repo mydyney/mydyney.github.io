@@ -53,8 +53,8 @@ featured_image: "/images/posts/roppongi-attractions-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /ja/posts/roppongi-midtown-christmas-2025/ -->
-**➡️ [2024 六本木 東京ミッドタウン クリスマスイルミネーションとサンタツリー](/ja/posts/tokyo-christmas-illumination-best-5-2025/)**
+     Hugo: /ja/posts/roppongi-midtown-christmas-review-2024/ -->
+**➡️ [2024 六本木 東京ミッドタウン クリスマスイルミネーションとサンタツリー](#)**
 
 ### ③ けやき坂
 
@@ -126,8 +126,8 @@ featured_image: "/images/posts/roppongi-attractions-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /ja/posts/roppongi-midtown-christmas-2025/ -->
-**➡️ [六本木 東京ミッドタウン クリスマスイルミネーションとサンタツリー](/ja/posts/tokyo-christmas-illumination-best-5-2025/)**
+     Hugo: /ja/posts/roppongi-midtown-christmas-review-2024/ -->
+**➡️ [六本木 東京ミッドタウン クリスマスイルミネーションとサンタツリー](#)**
 
 ![2025 六本木イルミネーション けやき坂 クリスマス](/images/posts/roppongi-attractions-guide-06.jpg)
 
@@ -239,8 +239,6 @@ featured_image: "/images/posts/roppongi-attractions-guide-01.jpg"
 ここまで六本木の楽しみを全て巡りました。華やかな夜景と洗練されたショッピング、深みのあるアートと美味しい料理まで、六本木は本当に多彩な魅力を持つ場所です。
 
 この記事を参考にして、あなただけの完璧な六本木旅行コースを作ってみてください！
-
-六本木旅行についてさらに気になることがあれば、いつでもコメントで残してください！
 
 次は「銀座」旅行記で戻る予定ですので、お気に入り追加して次の꿀팁も見逃さないでください！
 

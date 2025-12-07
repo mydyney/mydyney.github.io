@@ -53,8 +53,8 @@ A complex cultural space with a different charm from Roppongi Hills. Besides lux
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /posts/roppongi-midtown-christmas-2025/ -->
-**➡️ [2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree](/posts/tokyo-christmas-illumination-best-5-2025/)**
+     Hugo: /posts/roppongi-midtown-christmas-review-2024/ -->
+**➡️ [2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree](#)**
 
 ### ③ Keyakizaka Street
 
@@ -126,8 +126,8 @@ Roppongi's winter is one of Tokyo's premier illumination destinations. The light
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /posts/roppongi-midtown-christmas-2025/ -->
-**➡️ [Roppongi Tokyo Midtown Christmas Illumination and Santa Tree](/posts/tokyo-christmas-illumination-best-5-2025/)**
+     Hugo: /posts/roppongi-midtown-christmas-review-2024/ -->
+**➡️ [Roppongi Tokyo Midtown Christmas Illumination and Santa Tree](#)**
 
 ![2025 Roppongi Illumination Keyakizaka Christmas](/images/posts/roppongi-attractions-guide-06.jpg)
 
@@ -239,8 +239,6 @@ For more detailed information on 10 restaurants and a 'Google Restaurant Map' to
 We've explored all of Roppongi's attractions. From spectacular night views to sophisticated shopping, deep art experiences to delicious food, Roppongi truly has diverse charms.
 
 Use this guide to create your perfect Roppongi travel course!
-
-If you have any questions about traveling to Roppongi, feel free to leave a comment anytime!
 
 Next, I'll be back with a 'Ginza' travel guide, so add me as a neighbor and don't miss the next tips!
 

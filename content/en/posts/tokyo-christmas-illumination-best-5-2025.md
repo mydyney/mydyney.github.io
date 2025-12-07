@@ -80,8 +80,8 @@ with dates, access info, and insider tips!</p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /posts/roppongi-hills-christmas-market-review-2024/ -->
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Roppongi Hills Christmas Market Review</strong></a></p>
+     Hugo: /posts/roppongi-midtown-christmas-review-2024/ -->
+<p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-03.jpg" alt="2025 Roppongi Hills Keyakizaka Illumination with Tokyo Tower">
