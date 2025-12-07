@@ -2230,6 +2230,16 @@ git push -u origin claude/branch-name     # Push to branch
 #         - Loads LINK_MAPPING.md (31 mapped posts)
 #         - Auto-converts known Naver links to Hugo links
 #         - Adds TODO comments for unmapped links
+#         ⚠️ CRITICAL: IMAGE POSITIONING
+#         - Verify ALL images from original blog
+#         - Content MUST match image positions EXACTLY
+#         - Same image at same position = same content context
+#         - Never add content not in original blog
+#         ⚠️ CRITICAL: CULTURAL ADAPTATION
+#         - Adapt content for US/Japan cultural contexts
+#         - EN: American English, US cultural references
+#         - JA: Japanese cultural nuances and expressions
+#         - Proper localization, not just translation
 # Step 3: Run integrated validation & download script
 python3 download_naver_images.py naver.html post-slug
 #         - Validates image count/order against Hugo markdown
