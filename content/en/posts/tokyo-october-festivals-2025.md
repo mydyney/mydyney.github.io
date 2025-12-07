@@ -57,8 +57,10 @@ A massive dance festival that shakes up Ikebukuro! Over 100 teams from across Ja
 **💸 Fee**: Free viewing
 **💡 Tip**: This is the grand finale of September's "Fukuro Festival." Don't miss the "Grand Dance" where all teams dance together on the final day!
 
-<!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/223980166231" style="color: #667eea;"><strong>➡️ August Tokyo Festival: Harajuku Omotesando Super Yosakoi</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223980166231
+     Hugo: /posts/harajuku-omotesando-super-yosakoi/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ August Tokyo Festival: Harajuku Omotesando Super Yosakoi</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-october-festivals-2025-02.jpg" alt="Super Yosakoi dancers performing at 2025 Harajuku Omotesando festival">
@@ -200,7 +202,6 @@ Manga and anime characters come to life! Tens of thousands of cosplayers fill Ik
 
 For the full Halloween experience, check our guide covering "Shibuya Ban!" information, Ikebukuro, and Disney Halloween events.
 
-<!-- Link updated -->
 <a href="/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Halloween Festival Top 4 Spots (Shibuya Banned!, Ikebukuro, Disneyland)</strong></a>
 
 <figure>
@@ -223,7 +224,6 @@ October marks the prelude to Tokyo's full autumn foliage season. While downtown 
 
 🍁 Autumn foliage gradually begins from late October. If you're planning a November foliage trip or want more Tokyo autumn vibes, check out our foliage guide below.
 
-<!-- Link updated -->
 <a href="/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Autumn Foliage Season & BEST 5 Spots</strong></a>
 
 ### 1. Tokyo Suburbs - Nikko: The Classic October Foliage Trip
@@ -241,8 +241,10 @@ October marks the prelude to Tokyo's full autumn foliage season. While downtown 
 - **October Status**: Late October brings foliage news from around Lake Ashi and high elevations. Though peak season is November, it's perfect for quietly enjoying autumn's beginning while visiting museums.
 - **Highlight**: Popular with families for combining hot springs and art with beautiful nature.
 
-<!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224019480188" style="color: #667eea;"><strong>➡️ Hakone Travel: Day Trip vs Ryokan 1-Night Perfect Course (Hakone Free Pass, Romancecar Reservations)</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224019480188
+     Hugo: /posts/hakone-day-trip-course/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ Hakone Travel: Day Trip vs Ryokan 1-Night Perfect Course (Hakone Free Pass, Romancecar Reservations)</strong></a>
 
 ### 4. 🍂 Tokyo Downtown Parks (Meiji Jingu Gaien, etc.)
 
@@ -262,13 +264,16 @@ October Tokyo buzzes with energy as tradition, food, and pop culture merge under
 
 Curious about other attractions in the festival areas? Check out these guides:
 
-<!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/224024819592" style="color: #667eea;"><strong>➡️ Tokyo Asakusa Things to Do & Restaurants Guide (Sensoji, Demon Slayer, Gyukatsu, Hotels)</strong></a>
+<a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ Tokyo Asakusa Things to Do & Restaurants Guide (Sensoji, Demon Slayer, Gyukatsu, Hotels)</strong></a>
 
-<!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/223989943826" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223989943826
+     Hugo: /posts/ginza-guide-2025/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
 
-<!-- Link updated -->
-<a href="https://blog.naver.com/tokyomate/223988228389" style="color: #667eea;"><strong>➡️ Roppongi Attractions Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223988228389
+     Hugo: /posts/roppongi-attractions-guide/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ Roppongi Attractions Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
 
 </div>

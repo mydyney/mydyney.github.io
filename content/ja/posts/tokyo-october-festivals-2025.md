@@ -59,7 +59,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223980166231
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/harajuku-omotesando-super-yosakoi/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 8月の東京イベント、原宿表参道スーパーよさこい</strong></a>
 
 <figure>
@@ -202,10 +202,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 
 10月のハイライトであるハロウィンを本格的に楽しみたいなら、「渋谷禁止！」情報から池袋、ディズニーランドの最新イベント情報まで網羅した下記のガイドを必ずチェックしてください。
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-halloween-festivals-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025年 東京ハロウィン スポットBEST 4（渋谷禁止！、池袋、ディズニーランド）</strong></a>
+<a href="/ja/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;"><strong>➡️ 2025年 東京ハロウィン スポットBEST 4（渋谷禁止！、池袋、ディズニーランド）</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-october-festivals-2025-09.jpg" alt="池袋ハロウィンコスプレフェスティバルでコスプレする参加者">
@@ -227,10 +224,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 
 🍁10月下旬からは徐々に紅葉が始まります。11月の紅葉旅行を計画中の方や、東京の秋をもっと感じたい方は、下記の紅葉名所ガイドを参考にしてください。
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-autumn-foliage-best-spots-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 2025年 東京紅葉の時期＆おすすめスポットBEST 5</strong></a>
+<a href="/ja/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>➡️ 2025年 東京紅葉の時期＆おすすめスポットBEST 5</strong></a>
 
 ### 1. 東京近郊 日光：10月紅葉旅行の定番
 
@@ -249,7 +243,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/hakone-day-trip-course/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 箱根旅行、日帰りvs旅館1泊 完璧コース推薦（箱根フリーパス、ロマンスカー予約）</strong></a>
 
 ### 4. 🍂 東京都心の公園（明治神宮外苑など）
@@ -270,19 +264,16 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 
 各お祭りが開催されるエリアの他の楽しみ方が気になる方は、下記の旅行ガイドもぜひチェックしてください！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 東京浅草の見どころ＆グルメ完全ガイド（浅草寺、鬼滅の刃、牛カツ、ホテル推薦）</strong></a>
+<a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ 東京浅草の見どころ＆グルメ完全ガイド（浅草寺、鬼滅の刃、牛カツ、ホテル推薦）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/ginza-guide-2025/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 銀座おすすめスポット、失敗しないコース完全ガイド（ショッピング、グルメ、裏技）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 六本木の楽しみ方完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a>
 
 </div>
