@@ -93,6 +93,8 @@ When migrating a Naver blog post to Hugo:
 | 224022065518 | don-quijote-shopping-guide-2025 | 2025-09-26 | ✅ |
 | 224035271300 | shinjuku-guide-2025 | 2025-10-09 | ✅ |
 | 224039113760 | japan-travel-discount-coupons-2025 | 2025-10-12 | ✅ |
+| 223988228389 | roppongi-attractions-guide | 2024-09-02 | ✅ |
+
 
 ---
 
@@ -113,11 +115,23 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223699626846 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Dessert Spot: Gion Tsujiri Matcha Ice Cream Review |
 | 223700095268 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Free Observatory: SKYTREE VIEW |
 | 223700200846 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Illumination & Christmas Market Detailed Review |
-| 223987954990 | evangelion-30th-roppongi-2025 | 2025 Roppongi Hills Observatory Complete Guide |
-| 223988228389 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket, meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, azabujuban-naniwaya-taiyaki, toranomon-hills-complete-guide, azabudai-hills-complete-guide | Complete Guide to Roppongi Attractions |
-| 223991251786 | shinanoya-roppongi-hills-supermarket | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
-| 223993881300 | evangelion-30th-roppongi-2025 | Tokyo Roppongi Restaurant Map |
-| 224010546735 | shinanoya-roppongi-hills-supermarket | Japanese Whisky Recommendations and Price Guide |
+| 223987954990 | evangelion-30th-roppongi-2025, roppongi-attractions-guide | 2025 Roppongi Hills Observatory Complete Guide |
+| ~~223988228389~~ | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025, shinanoya-roppongi-hills-supermarket, meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, azabujuban-naniwaya-taiyaki, toranomon-hills-complete-guide, azabudai-hills-complete-guide | ✅ **MIGRATED** → roppongi-attractions-guide |
+| 223991251786 | shinanoya-roppongi-hills-supermarket, roppongi-attractions-guide | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
+| 223993881300 | evangelion-30th-roppongi-2025, roppongi-attractions-guide | Tokyo Roppongi Restaurant Map |
+| 224010546735 | shinanoya-roppongi-hills-supermarket, roppongi-attractions-guide | Japanese Whisky Recommendations and Price Guide |
+| 223666751487 | roppongi-attractions-guide | St. Moritz: 80-Year-Old Traditional Bakery in Roppongi |
+| 223667306537 | roppongi-attractions-guide | Streamer Coffee Company: Special Roppongi Cafe |
+| 223667593440 | roppongi-attractions-guide | rem Roppongi: Best Value Hotel Right in Front of Roppongi Station |
+| 223674804939 | roppongi-attractions-guide | Tokyo Roppongi Hills Summer Festival: Doraemon |
+| 223687520605 | roppongi-attractions-guide | August Tokyo Festivals: Roppongi Hills Bon Odori & Azabujuban Summer Festival |
+| 223696568926 | roppongi-attractions-guide | Roppongi Hills Christmas Market: A Little Germany in Tokyo |
+| 223913424029 | roppongi-attractions-guide | Iruca Tokyo Roppongi: Michelin Ramen Restaurant |
+| 223957316412 | roppongi-attractions-guide | Tsurutontan Roppongi: Sanuki Udon Restaurant |
+| 223969429024 | roppongi-attractions-guide | Sarashina Horii Main Store: Roppongi Soba Restaurant |
+| 223985958480 | roppongi-attractions-guide | Imakatsu Roppongi Main Store: Tokyo Tonkatsu Restaurant |
+| 223986407872 | roppongi-attractions-guide | Tsujihan Midtown: Roppongi Kaisendon Restaurant |
+| 223987115708 | roppongi-attractions-guide | Tempura Meshi Kaneko Hannosuke: Roppongi Hills Tempura Restaurant |
 | 224007949043 | tokyo-transportation-card-guide-2025 | Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
 | 223995074888 | tokyo-transportation-card-guide-2025 | Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
 | 224026098490 | tokyo-transportation-card-guide-2025 | Tokyo Subway Pass Complete Guide (Exchange Locations, Purchase, Usage) |
@@ -335,6 +349,18 @@ declare -A MAPPINGS=(
   ["224014619007"]="suntory-whisky-price-guide-japan"
   ["223991251786"]="dassai-sake-price-guide-japan"
   ["224024530348"]="roppongi-art-night-guide"
+  ["223666751487"]="st-moritz-roppongi-bakery"
+  ["223667306537"]="streamer-coffee-roppongi-guide"
+  ["223667593440"]="rem-roppongi-hotel-guide"
+  ["223674804939"]="roppongi-hills-summer-festival-doraemon"
+  ["223687520605"]="roppongi-azabujuban-summer-festivals"
+  ["223696568926"]="roppongi-hills-christmas-market-2025"
+  ["223913424029"]="iruca-tokyo-roppongi-ramen-guide"
+  ["223957316412"]="tsurutontan-roppongi-udon-guide"
+  ["223969429024"]="sarashina-horii-roppongi-soba"
+  ["223985958480"]="imakatsu-roppongi-tonkatsu-guide"
+  ["223986407872"]="tsujihan-midtown-kaisendon-guide"
+  ["223987115708"]="kaneko-hannosuke-roppongi-tempura"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
