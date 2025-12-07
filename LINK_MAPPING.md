@@ -133,7 +133,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
 
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
-| 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025 | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
+| 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, asakusa-complete-guide | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
 | ~~224031114514~~ | meiji-jingu-gaien-ginkgo-avenue-tokyo, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, ikebukuro-complete-guide, tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide | ✅ **MIGRATED** → shibuya-complete-guide-2025 |
 | 224031611221 | ikebukuro-complete-guide, mitsui-outlet-kisarazu-guide | Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage |
 | 224032086475 | nakameguro-shabushabu-lettuce-main-store | Nakameguro Complete Guide: Meguro River Cherry Blossoms, Trendy Cafes, Boutiques |

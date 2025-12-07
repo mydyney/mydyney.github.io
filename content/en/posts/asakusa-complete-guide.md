@@ -198,7 +198,10 @@ From Skytree observation deck discount booking tips to Solamachi shopping mall's
 
 ### 🚇 5 Minutes by Subway! Food & Shopping Paradise: Ueno
 
-<a href="/posts/ueno-ameyoko-guide/" style="color: #667eea;"><strong>➡️ Ueno Attractions: Ameyoko Market Restaurants to Ueno Park</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224028694874
+     Hugo: /posts/ueno-ameyoko-guide/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Ameyoko Market Restaurants to Ueno Park</strong></a>
 
 ### ⭐ More Great Tokyo Travel Guides
 

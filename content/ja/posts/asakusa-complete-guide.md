@@ -198,7 +198,10 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 
 ### 🚇 地下鉄5分！グルメとショッピングの街：上野
 
-<a href="/ja/posts/ueno-ameyoko-guide/" style="color: #667eea;"><strong>➡️ 上野の見どころ、アメ横市場グルメから上野公園まで</strong></a>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224028694874
+     Hugo: /ja/posts/ueno-ameyoko-guide/ -->
+<a href="#" style="color: #667eea;"><strong>➡️ 上野の見どころ、アメ横市場グルメから上野公園まで</strong></a>
 
 ### ⭐ 一緒に見るとよい東京旅行ガイド
 
