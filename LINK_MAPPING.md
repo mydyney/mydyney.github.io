@@ -158,6 +158,13 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
 
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
+| 223691371517 | tokyo-station-guide | Tokyo Station Pokemon Store & Pikachu Card Review |
+| 223707471582 | tokyo-station-guide | Tokyo Ramen Street Best 8 Complete Guide |
+| 223681848151 | tokyo-station-guide | KITTE Marunouchi Christmas Tree & Free Observatory |
+| 223675706489 | tokyo-station-guide | Tokyo Station Breakfast: The Front Room French Toast |
+| 223675952285 | tokyo-station-guide | Marunouchi Building Free Observatory Sunset View |
+| 223684908680 | tokyo-station-guide | Shin-Marunouchi Building Garden Terrace Dinner (Night View) |
+| 223685676173 | tokyo-station-guide | Wadakura Fountain Park Starbucks Review (Night View) |
 | 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, asakusa-complete-guide | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
 | ~~224031114514~~ | meiji-jingu-gaien-ginkgo-avenue-tokyo, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, ikebukuro-complete-guide, tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide | ✅ **MIGRATED** → shibuya-complete-guide-2025 |
 | 224031611221 | ikebukuro-complete-guide, mitsui-outlet-kisarazu-guide | Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage |
@@ -338,6 +345,13 @@ declare -A MAPPINGS=(
   ["223976102621"]="yokohama-minato-burari-ticket-guide"
   ["224026098490"]="tokyo-subway-ticket-guide"
   ["224027835049"]="omotesando-guide-2025"
+  ["223691371517"]="tokyo-station-pokemon-store-review"
+  ["223707471582"]="tokyo-ramen-street-best-8"
+  ["223681848151"]="kitte-marunouchi-christmas-tree-observatory"
+  ["223675706489"]="tokyo-station-breakfast-the-front-room"
+  ["223675952285"]="marunouchi-building-free-observatory"
+  ["223684908680"]="shin-marunouchi-building-terrace-dinner"
+  ["223685676173"]="wadakura-fountain-park-starbucks-review"
   ["224028694874"]="ueno-ameyoko-guide"
   ["224037272726"]="tsukiji-market-restaurant-guide"
   ["223914321510"]="sumiyaki-unafuji-yurakucho"
