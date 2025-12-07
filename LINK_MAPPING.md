@@ -140,6 +140,16 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224024530348 | tokyo-september-festivals-2025 | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025, tokyo-christmas-markets-guide-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
 | ~~223989943826~~ | tokyo-september-festivals-2025, tokyo-october-festivals-2025 | ✅ **MIGRATED** → ginza-guide-2025 |
+| 223694057318 | ginza-guide-2025 | Ginza Six Rooftop Free Observation Deck & Ice Rink |
+| 223709608832 | ginza-guide-2025 | Ginza Lotte Duty Free Shopping (Dassai 23, Yamazaki 12 Year) |
+| 223698121379 | ginza-guide-2025 | Ginza Six Imadeya Sake & Whisky Shopping |
+| 223703326263 | ginza-guide-2025 | Ginza Shiseido Parlour Gift Shopping Guide |
+| 223693467715 | ginza-guide-2025 | Yamanoue Tempura Omakase Ginza Six Restaurant |
+| 223702371242 | ginza-guide-2025 | Ginza Tenryu Grilled Gyoza Restaurant |
+| 224010770861 | ginza-guide-2025 | Ginza Hachigo Reservation & Waiting Guide |
+| 223715784445 | ginza-guide-2025 | Ginza WAKO Tea Salon (Reservation Tips) |
+| 223912913938 | ginza-guide-2025 | Pain Maison Ginza Salt Bread Online Reservation |
+| 223702865232 | ginza-guide-2025 | Sapporo The Bar Ginza Perfect Draft Beer |
 | 224035271300 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping |
 | 224038568654 | ikebukuro-complete-guide, tokyo-october-festivals-2025 | 2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro) |
 | 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025, odaiba-ariake-toyosu-complete-guide | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
@@ -306,6 +316,16 @@ declare -A MAPPINGS=(
   ["224007949043"]="narita-airport-arrival-guide"
   ["224004709356"]="narita-airport-limousine-guide"
   ["223989943826"]="ginza-guide-2025"
+  ["223694057318"]="ginza-six-rooftop-garden"
+  ["223709608832"]="ginza-lotte-duty-free-shopping"
+  ["223698121379"]="ginza-six-imadeya-sake-shopping"
+  ["223703326263"]="ginza-shiseido-parlour-gift-guide"
+  ["223693467715"]="yamanoue-tempura-omakase-ginza"
+  ["223702371242"]="ginza-tenryu-gyoza-restaurant"
+  ["224010770861"]="ginza-hachigo-reservation-guide"
+  ["223715784445"]="ginza-wako-tea-salon"
+  ["223912913938"]="pain-maison-ginza-salt-bread"
+  ["223702865232"]="sapporo-the-bar-ginza"
   ["224032515713"]="daikanyama-guide"
   ["223995074888"]="haneda-airport-arrival-guide"
   ["224010546735"]="japanese-whisky-yamazaki-hibiki-price-guide"
