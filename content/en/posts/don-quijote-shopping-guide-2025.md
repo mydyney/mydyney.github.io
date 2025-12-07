@@ -100,21 +100,21 @@ The soul of Korean izakaya highballs! In Japan, you can buy it at a much lower p
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224014619007
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/suntory-whisky-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Suntory Whisky Official Japan Price Guide (Coming Soon)</a></strong></p>
 
 **⭐ Want more Japanese whisky information? Check this comprehensive guide:**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Yamazaki & Hibiki Official Prices & Gift Recommendations (Coming Soon)</a></strong></p>
 
 **⭐ For Dassai sake grades and latest prices, see this guide:**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/dassai-sake-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Dassai 23, 45, 39 Official Japan Price Guide (Coming Soon)</a></strong></p>
 
 <figure>
@@ -275,12 +275,12 @@ Don Quijote shopping doesn't have to be intimidating anymore, right? This single
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Yamazaki & Hibiki Official Prices & Gift Whisky Recommendations (Coming Soon)</a></strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/dassai-sake-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Dassai 23, 45, 39 Sake Official Japan Price Guide (Coming Soon)</a></strong></p>
 
 </div>
