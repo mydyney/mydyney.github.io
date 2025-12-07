@@ -19,8 +19,8 @@ The world-famous luxury street, Tokyo Ginza (銀座)! When you actually try to p
 I've personally visited countless places and carefully selected only the truly great ones. With this single guide, you can experience everything from Ginza's iconic department store shopping to Michelin restaurants, elegant cafes, and hidden free observation decks.
 
 <figure>
-  <img src="/images/posts/ginza-guide-2025-01.jpg" alt="Ginza Six entrance BIG CAT BANG">
-  <figcaption style="font-size: 0.7em; text-align: center;">Ginza Six entrance BIG CAT BANG</figcaption>
+  <img src="/images/posts/ginza-guide-2025-01.jpg" alt="Ginza Six BIG CAT BANG">
+  <figcaption style="font-size: 0.7em; text-align: center;">Ginza Six BIG CAT BANG (it's replaced. 🥲)</figcaption>
 </figure>
 
 ## Theme 1: Ginza's Symbol - Street Walking and Shopping

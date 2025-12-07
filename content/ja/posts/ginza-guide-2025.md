@@ -19,8 +19,8 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 私が直接訪れた数多くの場所の中から、本当に良かった場所だけを厳選しました。この一つのガイドで、銀座の象徴である百貨店ショッピングからミシュランレストラン、優雅なカフェ、隠れた無料展望台まで、銀座で楽しめるすべてを体験できます。
 
 <figure>
-  <img src="/images/posts/ginza-guide-2025-01.jpg" alt="銀座シックス入口 BIG CAT BANG">
-  <figcaption style="font-size: 0.7em; text-align: center;">銀座シックス入口 BIG CAT BANG</figcaption>
+  <img src="/images/posts/ginza-guide-2025-01.jpg" alt="銀座シックス BIG CAT BANG">
+  <figcaption style="font-size: 0.7em; text-align: center;">銀座シックス BIG CAT BANG (もう見れない. 🥲)</figcaption>
 </figure>
 
 ## テーマ1：銀座の象徴、街歩きとショッピング
