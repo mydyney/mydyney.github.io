@@ -1395,20 +1395,121 @@ git push -u origin <your-branch>
 
 ### 2. Migrating Content from Naver Blog
 
+**Complete Workflow:**
+
 ```bash
-# 1. Save Naver blog post HTML to file
-# 2. Run migration script
-python3 download_naver_images.py naver_post.html post-slug-name
+# STEP 1: Fetch Naver Blog Content
+# User provides Naver blog URL
+python3 fetch_content.py "https://blog.naver.com/tokyomate/[POST_ID]"
+# Output: naver.html
 
-# 3. Script will:
-#    - Download all images
-#    - Save to /static/images/posts/
-#    - Create markdown with local image paths
+# STEP 2: Analyze HTML & Check LINK_MAPPING.md
+# - Count images (including grouped images)
+# - Load LINK_MAPPING.md to check internal links
+# - Verify slugs in 'declare -A MAPPINGS' array
+# - Add new slugs if needed
 
-# 4. Copy/adapt generated markdown to Hugo post
-# 5. Add proper front matter
-# 6. Test and commit
+# STEP 3: Create Blog Posts (EN/JA)
+# Following CLAUDE.md guidelines:
+# - Analyze Naver HTML structure
+# - Create content/en/posts/[slug].md (English version)
+# - Create content/ja/posts/[slug].md (Japanese version)
+# - Use # placeholders for unmapped internal links with TODO comments
+# - Include Naver link and intended slug in TODO comments
+# Format: <!-- TODO: Update link after migration
+#              Naver: https://blog.naver.com/tokyomate/[ID]
+#              Hugo: /posts/[slug]/ -->
+#         <a href="#">Link Text</a>
+
+# STEP 4: Update LINK_MAPPING.md
+# A. Add to Quick Reference Table
+#    | [NAVER_ID] | [slug] | [DATE] | ✅ |
+#
+# B. Add to MAPPINGS array (if not exists)
+#    ["[NAVER_ID]"]="[slug]"
+#
+# C. Update Pending Link References
+#    - Mark migrated post as MIGRATED
+#    - Add new unmapped links to pending table
+
+# STEP 5: Download Images
+python3 download_naver_images.py naver.html "[slug]"
+# Downloads all images to static/images/posts/[slug]-01.jpg, 02.jpg, etc.
+
+# STEP 6: Local Preview
+# Provide user with local preview links:
+# - http://localhost:1313/posts/[slug]/
+# - http://localhost:1313/ja/posts/[slug]/
+
+# STEP 7: User Confirmation
+# Wait for user to review and approve ("OK")
+
+# STEP 8: Git Deployment
+git add content/en/posts/[slug].md content/ja/posts/[slug].md \
+        static/images/posts/[slug]-*.jpg LINK_MAPPING.md
+git commit -m "Add [Title] (EN/JA)
+
+- Created comprehensive guide covering [topics]
+- Added [N] images
+- Updated LINK_MAPPING.md with new slug and pending references
+
+Naver ID: [NAVER_ID]
+Slug: [slug]"
+git push
+
+# STEP 9: Update Existing Posts with New Links
+# After deployment, update all posts that referenced this Naver ID
+# Find all posts with TODO placeholders for this Naver ID
+grep -l "[NAVER_ID]" content/en/posts/*.md content/ja/posts/*.md
+
+# Replace TODO placeholders with live links
+# English posts: href="#" → href="/posts/[slug]/"
+# Japanese posts: href="#" → href="/ja/posts/[slug]/"
+
+# Example Python script:
+python3 << 'EOF'
+import re, os
+
+naver_id = "[NAVER_ID]"
+en_slug = "/posts/[slug]/"
+ja_slug = "/ja/posts/[slug]/"
+
+# Update English files
+for file in ["content/en/posts/*.md"]:
+    content = open(file).read()
+    # Replace TODO + placeholder with live link
+    content = re.sub(
+        r'<!-- TODO:.*?' + naver_id + r'.*?-->\s*<a href="#"([^>]*)>([^<]+)</a>',
+        r'<a href="' + en_slug + r'"\1>\2</a>',
+        content, flags=re.DOTALL
+    )
+    open(file, 'w').write(content)
+
+# Update Japanese files (same pattern with ja_slug)
+EOF
+
+# STEP 10: Commit Link Updates
+git add content/en/posts/*.md content/ja/posts/*.md
+git commit -m "Update internal links to [Title] in existing posts
+
+- Replaced TODO placeholders with live links
+- Updated [N] English posts
+- Updated [N] Japanese posts
+
+Naver ID: [NAVER_ID] → [slug]"
+git push
 ```
+
+**Key Points:**
+
+1. **Always create both EN and JA versions** - No Korean
+2. **Use TODO placeholders** for unmapped links with Naver ID and intended slug
+3. **Update LINK_MAPPING.md** in 3 places: QRT, MAPPINGS, Pending References
+4. **Download images** using the provided script
+5. **Get user approval** before deployment
+6. **Update existing posts** after deployment to activate new links
+7. **Commit twice**: First for new post, second for link updates in existing posts
+
 
 ### 3. Updating Site Configuration
 
