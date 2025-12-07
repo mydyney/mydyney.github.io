@@ -216,7 +216,7 @@ Take the subway 5 minutes to reach 'Roppongi Hills'.
 Experience another stunning Tokyo night view from 'Mori Art Museum' and 'Tokyo City View Observatory'.
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>
 

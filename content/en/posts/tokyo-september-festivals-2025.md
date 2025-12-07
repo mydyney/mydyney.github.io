@@ -144,7 +144,7 @@ all in one comprehensive guide!</p>
     <tr><td><strong>📍 Location</strong></td><td><strong><a href="https://maps.app.goo.gl/ECniJW1AL2k7qmd36" target="_blank">Roppongi Hills</a>, <a href="https://maps.app.goo.gl/d4coCUY6shpMrGZ89" target="_blank">Tokyo Midtown</a> and surrounding Roppongi area (Roppongi Station)</strong></td></tr>
     <tr><td><strong>💸 Admission</strong></td><td><strong>Mostly free (some exhibitions paid)</strong></td></tr>
     <tr><td><strong>💡 Tip</strong></td><td><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ --><strong>Check out the <a href="#" style="color: #667eea;">Roppongi Attractions Guide</a> to create your own art tour course!</strong></td></tr>
   </tbody>
 </table>
@@ -210,7 +210,7 @@ all in one comprehensive guide!</p>
 <h3>More Useful Tokyo Travel Tips</h3>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
 

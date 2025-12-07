@@ -498,7 +498,7 @@ To Roppongi Hills (10-min walk)<br>
 Christmas Market and<br>
 Keyakizaka Illumination<br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">➡️ Roppongi Complete Activity Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/223988228389 -> roppongi-complete-guide --></p>
+<a href="#" style="color: #667eea;">➡️ Roppongi Complete Activity Guide</a></b><!-- TODO: /posts/roppongi-attractions-guide -> roppongi-complete-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.jpg" alt="Roppongi Hills Christmas">

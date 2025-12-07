@@ -298,8 +298,7 @@ A: No, the goods shop is located along the exit route after viewing the exhibiti
 <a href="#" style="color: #667eea;">2025 Roppongi Hills Observatory Complete Guide (Discount Tickets, Closed Days)</a></strong></p>
 
 <p><strong>🤖 At Roppongi and curious about all attractions?</strong><br>
-<strong>➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223988228389 Hugo: /posts/roppongi-attractions-guide/ -->
-<a href="#" style="color: #667eea;">Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</a></strong></p>
+<strong>➡️ <a href="/posts/roppongi-attractions-guide/" style="color: #667eea;">Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</a></strong></p>
 
 <p><strong>🤖 Need a Tabelog-verified Roppongi restaurant map?</strong><br>
 <strong>➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223993881300 Hugo: /posts/roppongi-restaurant-map/ -->

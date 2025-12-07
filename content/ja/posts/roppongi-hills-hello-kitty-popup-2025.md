@@ -246,7 +246,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 
 ### 1. 展望台/美術館
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木の楽しみ方総まとめ</a></strong><!-- TODO: https://blog.naver.com/tokyomate/223988228389 -> roppongi-attractions-guide --><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木の楽しみ方総まとめ</a></strong><!-- TODO: /ja/posts/roppongi-attractions-guide -> roppongi-attractions-guide --><br>
 <strong>（展望台、美術館、レストラン）</strong><br>
 
 ### 2. 六本木ヒルズクリスマスイルミネーション

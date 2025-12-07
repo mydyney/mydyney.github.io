@@ -290,7 +290,7 @@ featured_image: "/images/posts/roppongi-hills-christmas-market-2025-01.jpg"
 
 <p><strong>関連六本木旅行ガイド：</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ 六本木完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a></p>
 

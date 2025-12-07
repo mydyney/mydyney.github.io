@@ -206,10 +206,10 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <a href="/ja/posts/evangelion-30th-roppongi-2025/" style="color: #667eea;"><strong>➡️ 六本木ヒルズ東京シティビュー エヴァンゲリオン30周年記念展（ALL OF EVANGELION）</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 六本木観光完全ガイド（イルミネーション、レストラン情報）</strong></a>
 

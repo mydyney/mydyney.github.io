@@ -206,7 +206,7 @@ A: The ginkgo avenue is in the 'Aoyama' area, very close to 'Omotesando,' making
 - **Roppongi** → Illumination / Night views / Mori Art Museum
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>Roppongi Attractions Complete Guide (Observatory, Art Museum, Shopping, Restaurants A to Z)</strong></a>
 

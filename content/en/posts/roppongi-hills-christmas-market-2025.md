@@ -290,7 +290,7 @@ plus recommended routes to plan your Tokyo winter Christmas trip.</p>
 
 <p><strong>Related Roppongi Travel Guides:</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ Roppongi Complete Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
 

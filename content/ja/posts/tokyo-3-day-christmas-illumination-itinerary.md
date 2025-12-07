@@ -564,10 +564,7 @@ KITTEでディナー<br>
 六本木ヒルズへ(徒歩10分)<br>
 クリスマスマーケットと<br>
 けやき坂イルミネーション<br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">➡️ 六本木完全活動ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/223988228389 -> roppongi-attractions-guide --></p>
+<b><a href="/ja/posts/roppongi-attractions-guide/" style="color: #667eea;">➡️ 六本木完全活動ガイド</a></b><!-- TODO: /ja/posts/roppongi-attractions-guide -> roppongi-attractions-guide --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.jpg" alt="六本木ヒルズクリスマス">

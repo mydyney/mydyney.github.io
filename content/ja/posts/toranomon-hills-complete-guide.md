@@ -216,7 +216,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 「森美術館」と「東京シティビュー展望台」でまた別の感動の東京夜景を体験してください。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、グルメ）</strong></a>
 

@@ -272,7 +272,7 @@ Curious about other attractions in the festival areas? Check out these guides:
 <a href="#" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Roppongi Attractions Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
 

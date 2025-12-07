@@ -27,7 +27,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 📌 **この記事は「六本木観光スポット完全ガイド」シリーズの一部です。**全体のコースが知りたい方は、まず下記の記事をご確認ください！
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>→ [詳しく見る] 六本木観光スポット完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a>
 
@@ -360,7 +360,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 ⭐ **六本木の他の楽しみが知りたい方は？**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ [六本木観光スポット完全ガイド（展望台、フェスティバル、美術館、グルメ A to Z）]</strong></a>
 

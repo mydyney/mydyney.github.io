@@ -206,7 +206,7 @@ A：イチョウ並木は「青山」地域にあります。「表参道」と�
 - **六本木** → イルミネーション・夜景・森美術館
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 **➡️** <a href="#" style="color: #667eea;"><strong>六本木の見どころ完全ガイド（展望台、美術館、ショッピング、レストラン A to Z）</strong></a>
 

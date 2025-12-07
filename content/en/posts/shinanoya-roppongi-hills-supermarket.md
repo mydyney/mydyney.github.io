@@ -27,7 +27,7 @@ Hello!
 📌 **This article is part of the "Complete Guide to Roppongi Attractions" series.** If you want to see the full itinerary, check out the article below first!
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
 
@@ -360,7 +360,7 @@ If you're coming to see the Roppongi Hills Christmas Keyakizaka illumination, be
 ⭐ **Curious about other things to do in Roppongi?**
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ [Complete Guide to Roppongi Attractions (Observatory, Festivals, Museums, Restaurants A to Z)]</strong></a>
 

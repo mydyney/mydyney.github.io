@@ -272,7 +272,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 <a href="#" style="color: #667eea;"><strong>➡️ 銀座おすすめスポット、失敗しないコース完全ガイド（ショッピング、グルメ、裏技）</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 六本木の楽しみ方完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a>
 

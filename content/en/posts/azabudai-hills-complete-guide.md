@@ -245,7 +245,7 @@ Right across from Azabudai Hills is 'Series', an innovative Michelin 1-star Chin
 If Azabudai Hills offers 'frontal' Tokyo Tower views, Roppongi Hills shows Tokyo Tower blended with the skyline. Combine both for the ultimate night view tour.
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
 ➡️ **<a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>**
 

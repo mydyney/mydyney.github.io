@@ -245,7 +245,7 @@ teamLabボーダレスチケット予約のコツ、<br>
 麻布台ヒルズが東京タワーの「正面」ビューを提供するなら、六本木ヒルズはスカイラインと融合した東京タワーを見せてくれます。両方を組み合わせて究極の夜景ツアーを。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
 ➡️ **<a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、レストラン）</strong></a>**
 

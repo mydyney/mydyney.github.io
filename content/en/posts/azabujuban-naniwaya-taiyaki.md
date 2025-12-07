@@ -102,7 +102,7 @@ After filling up on delicious taiyaki, explore the sophisticated "adult neighbor
 **Art & Shopping District: Roppongi Hills** - If you want to experience modern energy and artistic inspiration different from Azabujuban's quaint shopping streets, head to Roppongi Hills.
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants)</strong></a>
 

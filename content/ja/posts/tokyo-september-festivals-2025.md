@@ -144,7 +144,7 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
     <tr><td><strong>📍 場所</strong></td><td><strong><a href="https://maps.app.goo.gl/ECniJW1AL2k7qmd36" target="_blank">六本木ヒルズ</a>、<a href="https://maps.app.goo.gl/d4coCUY6shpMrGZ89" target="_blank">東京ミッドタウン</a>など六本木エリア一帯（六本木駅）</strong></td></tr>
     <tr><td><strong>💸 料金</strong></td><td><strong>ほとんど無料（一部展示は有料）</strong></td></tr>
     <tr><td><strong>💡 ポイント</strong></td><td><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ --><strong><a href="#" style="color: #667eea;">六本木の遊びスポット</a>と合わせて、自分だけのアートツアーコースを作れます！</strong></td></tr>
   </tbody>
 </table>
@@ -210,7 +210,7 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 <h3>合わせて読みたい東京旅行のヒント</h3>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223988228389
+     Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <p><a href="#" style="color: #667eea;"><strong>→【詳しく見る】六本木の遊び場完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a></p>
 

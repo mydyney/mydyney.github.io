@@ -238,7 +238,7 @@ at Roppongi Hills!</p>
 
 ### 1. Observatory/Museum
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Complete Guide to Roppongi Attractions</a></strong><!-- TODO: https://blog.naver.com/tokyomate/223988228389 -> roppongi-attractions-guide --><br>
+<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Complete Guide to Roppongi Attractions</a></strong><!-- TODO: /posts/roppongi-attractions-guide -> roppongi-attractions-guide --><br>
 <strong>(Observatory, Museums, Restaurants)</strong><br>
 
 ### 2. Roppongi Hills Christmas Illumination
