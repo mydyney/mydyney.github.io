@@ -350,7 +350,7 @@ Tokyo outlet shopping - no more hesitation! With unbeatable accessibility from c
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /posts/[SLUG_TBD]/ -->
+     Hugo: /posts/tokyo-station-guide/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Station Guide: Character Street, Restaurants, Night Views, Luggage Storage</strong></a>**
 
 **➡️ [Japan Don Quijote Shopping List & Discount Coupon Guide](/posts/don-quijote-shopping-guide-2025/)**

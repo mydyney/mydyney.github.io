@@ -350,7 +350,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/tokyo-station-guide/ -->
 **➡️ <a href="#" style="color: #667eea;"><strong>東京駅ガイド：キャラクターストリート、レストラン、夜景、荷物保管</strong></a>**
 
 **➡️ [日本ドン・キホーテショッピングリスト＆割引クーポンガイド](/ja/posts/don-quijote-shopping-guide-2025/)**

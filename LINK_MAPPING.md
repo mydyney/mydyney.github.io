@@ -135,7 +135,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
 | 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025 | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
 | ~~224031114514~~ | meiji-jingu-gaien-ginkgo-avenue-tokyo, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, ikebukuro-complete-guide, tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide | ✅ **MIGRATED** → shibuya-complete-guide-2025 |
-| 224031611221 | ikebukuro-complete-guide | Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage |
+| 224031611221 | ikebukuro-complete-guide, mitsui-outlet-kisarazu-guide | Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage |
 | 224032086475 | nakameguro-shabushabu-lettuce-main-store | Nakameguro Complete Guide: Meguro River Cherry Blossoms, Trendy Cafes, Boutiques |
 | 224032515713 | nakameguro-shabushabu-lettuce-main-store | Daikanyama Complete Guide: T-Site Bookstore, Fashion Shops, Cafe Hopping |
 | ~~224030294691~~ | tokyo-autumn-foliage-best-spots-2025, shibuya-sushi-no-midori-lunch-guide, omotesando-complete-guide-2025, shinjuku-complete-guide-2025 | ✅ **MIGRATED** → harajuku-complete-guide-2025 |
@@ -289,7 +289,7 @@ declare -A MAPPINGS=(
   ["223995074888"]="haneda-airport-arrival-guide"
   ["224010546735"]="japanese-whisky-yamazaki-hibiki-price-guide"
   ["224035895968"]="tokyo-dome-city-guide"
-  ["224034429817"]="mitsui-outlet-park-kisarazu-guide"
+  ["224034429817"]="mitsui-outlet-kisarazu-guide"
   ["223694645793"]="ginza-akebono-strawberry-mochi"
   ["224025044772"]="ginza-kuya-monaka-reservation-guide"
   ["223686466421"]="hibiya-midtown-illumination-review-2024"
