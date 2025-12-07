@@ -91,8 +91,6 @@ At **Sensoji Main Hall**, light incense, make a wish, and try your fortune with 
   <figcaption style="font-size: 0.7em; text-align: center;">Sensoji Temple main hall and omikuji fortune-telling</figcaption>
 </div>
 
-**💡 Common Misconception Clarified:** Some visitors worry about visiting Sensoji due to concerns about "Asakusa Shrine war criminal" connections. However, Sensoji is a **Buddhist temple**, not a Shinto shrine, and has **no connection to Yasukuni Shrine**. It's perfectly safe and appropriate to visit.
-
 ### ② Asakusa Culture & Tourism Center (Free Observation Deck)
 
 Located on the 8th floor of the building directly across from Kaminarimon Gate, this free observation deck offers stunning views of Sensoji and Tokyo Skytree. A must-visit viewpoint!
