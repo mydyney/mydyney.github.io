@@ -31,7 +31,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 - **税抜30,000円以上購入時:** 免税10% + 追加7%割引
 
 <div class="info-box">
-  <p><strong>➡️ <a href="https://japanportal.donki-global.com/coupon/cp001_ko.html" target="_blank" style="color: #667eea;">2025年最新ドン・キホーテ割引クーポン発行はこちら</a></strong></p>
+  <p><strong>➡️ <a href="https://japanportal.donki-global.com/coupon/cp001_ko.html" target="_blank" style="color: #f3f700e3;">2025年最新ドン・キホーテ割引クーポン発行はこちら</a></strong></p>
 </div>
 
 <figure>
