@@ -166,6 +166,10 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223693165027 | ginza-itoya-stationery-guide | Tokyo Ginza Representative Stationery Store: Itoya Main Store |
 | ~~223690406760~~ | odaiba-ariake-toyosu-complete-guide | ✅ **MIGRATED** → odaiba-rainbow-fireworks-2025 |
 | 224096203397 | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
+| 224007665631 | asakusa-complete-guide | Narita Airport to Asakusa Subway Guide |
+| 223980220327 | asakusa-complete-guide | August Tokyo Festivals: Sumida River Lantern Floating |
+| 224025343414 | asakusa-complete-guide | Asakusa Asahi Beer Sky Room Night View Guide |
+| 224031937227 | asakusa-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
 | 224096781916 | shibuya-blue-cave-illumination-2025 | 2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide |
 | 223915132048 | shinbashi-shiodome-evening-course | Tokyo Shinbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review |
 | 223670085459 | tokyo-christmas-illumination-best-5-2025 | 2024 Roppongi Hills Christmas Market Review |
@@ -324,6 +328,10 @@ declare -A MAPPINGS=(
   ["223689247336"]="shibuya-miyashita-park-illumination-review-2024"
   ["223691772722"]="nihonbashi-pokemon-center-dx-cafe-guide"
   ["224008430188"]="ginza-lotte-duty-free-whisky-guide"
+  ["224007665631"]="narita-to-asakusa-subway-guide"
+  ["223980220327"]="tokyo-august-festivals-sumida-river"
+  ["224025343414"]="asakusa-asahi-beer-sky-room-guide"
+  ["224031937227"]="akihabara-complete-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
