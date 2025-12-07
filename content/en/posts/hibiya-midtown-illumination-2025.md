@@ -274,7 +274,7 @@ Ginza, Marunouchi, and Yurakucho are all within walking distance.
 - JR Yamanote Line **'Yurakucho Station' (4-minute walk)**
 - Tokyo Metro Marunouchi Line **'Ginza Station' (5-minute walk)**
 
-📍 [Google Maps↗](https://maps.app.goo.gl/E9wkbGKhNezMaP4A6)
+📍 [Google Maps↗](https://maps.app.goo.gl/E9wkbGKhNezMaP4A6) 📍
 
 **Tokyo Midtown Hibiya**
 1 Chome-1-2 Yurakucho, Chiyoda City, Tokyo 100-0006 Japan

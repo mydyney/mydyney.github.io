@@ -53,10 +53,10 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ## 📸 Step1. 渋谷のシンボル、スクランブル交差点＆ハチ公像
 
-渋谷駅を降りて最初に出会う風景。まるで映画の中に入ったような<strong>[スクランブル交差点](https://maps.app.goo.gl/A6pV9gJkrg9CLFUU8)</strong>です。
+渋谷駅を降りて最初に出会う風景。まるで映画の中に入ったような<strong>[スクランブル交差点](https://maps.app.goo.gl/A6pV9gJkrg9CLFUU8) 📍</strong>です。
 
-- <strong>人生ショット名所</strong>：交差点の向かい側<strong>[スターバックス2階](https://maps.app.goo.gl/HuNBNYU6N3hwjzDA9)</strong>の窓際席が最も有名です。
-- <strong>待ち合わせ場所</strong>：交差点のすぐ前には渋谷のもう一つのシンボル、忠犬<strong>「[ハチ公像](https://maps.app.goo.gl/WGqE4kBVxNPRAbKc9)」</strong>があるので一緒に写真を残してみましょう。
+- <strong>人生ショット名所</strong>：交差点の向かい側<strong>[スターバックス2階](https://maps.app.goo.gl/HuNBNYU6N3hwjzDA9) 📍</strong>の窓際席が最も有名です。
+- <strong>待ち合わせ場所</strong>：交差点のすぐ前には渋谷のもう一つのシンボル、忠犬<strong>「[ハチ公像](https://maps.app.goo.gl/WGqE4kBVxNPRAbKc9) 📍」</strong>があるので一緒に写真を残してみましょう。
 
 <figure>
   <img src="/images/posts/shibuya-complete-guide-2025-03.jpg" alt="渋谷スクランブル交差点撮影名所スターバックス2階窓際席">
@@ -71,7 +71,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ## 🏙️ Step2. 東京最高の展望台、渋谷スカイ展望台
 
-**[渋谷スカイ](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6)は単なる展望台ではありません。東京の空と一つになる、圧倒的な経験そのものです。**渋谷スクランブルスクエアビルの屋上に位置するこの場所は、360度パノラマビューはもちろん、様々な楽しみ方が満載で渋谷旅行のハイライトとして挙げられます。
+**[渋谷スカイ](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍は単なる展望台ではありません。東京の空と一つになる、圧倒的な経験そのものです。**渋谷スクランブルスクエアビルの屋上に位置するこの場所は、360度パノラマビューはもちろん、様々な楽しみ方が満載で渋谷旅行のハイライトとして挙げられます。
 
 ### ✅ 予約：100%オンライン事前予約必須！
 
@@ -138,7 +138,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 **複雑で活気ある渋谷でしばし息を整えることができる都心のオアシス！**
 
-過去の古い公園がホテル、ショッピングモール、そして公園が一つに合わさった<strong>「[ミヤシタパーク](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7)」</strong>という素敵な複合文化空間として生まれ変わりました。ショッピングと休息を同時に楽しめるので、渋谷旅行中に必ず一度は立ち寄る価値があります。
+過去の古い公園がホテル、ショッピングモール、そして公園が一つに合わさった<strong>「[ミヤシタパーク](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍」</strong>という素敵な複合文化空間として生まれ変わりました。ショッピングと休息を同時に楽しめるので、渋谷旅行中に必ず一度は立ち寄る価値があります。
 
 <figure>
   <img src="/images/posts/shibuya-complete-guide-2025-05.jpg" alt="都心のオアシス、渋谷ミヤシタパーク">
@@ -147,14 +147,14 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ### ✅ 何ができますか？（階別楽しみ方）
 
-- **[1階 渋谷横丁](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7)**  
+- **[1階 渋谷横丁](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍**  
 ミヤシタパーク1階に位置する室内屋台街。北海道から沖縄まで、日本全国の名物料理と一緒にお酒を一杯するのに最高の場所。
 
 - **2～3階：商業施設（RAYARD MIYASHITA PARK）**  
 約330mの長いショッピングモールには個性あふれるセレクトショップ、グルメがあります。ショッピングを楽しんだり、雰囲気の良いカフェに座ってしばし休憩するのに良いです。
 
 - **屋上：ミヤシタ公園**  
-芝生、ベンチ、スポーツ施設がある緑地空間。特に<strong>[スターバックス屋上テラス](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8)</strong>が人気 - 公園を見下ろしながらコーヒーを楽しめます！
+芝生、ベンチ、スポーツ施設がある緑地空間。特に<strong>[スターバックス屋上テラス](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8) 📍</strong>が人気 - 公園を見下ろしながらコーヒーを楽しめます！
 
 **💡 おすすめ：**渋谷スカイ訪問後、ミヤシタパークのスターバックス屋上で休憩を。高層ビューと公園のリラックスした雰囲気の対比が完璧です！
 
@@ -184,7 +184,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 **日本の若者ファッションのメッカ！**このランドマークビルには若い女性に人気のトレンディブランドがぎっしり。可愛いカジュアルウェアからストリートファッションまで、最新スタイルが見つかります。
 
-<strong>📍 場所：</strong>[渋谷109](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6)  
+<strong>📍 場所：</strong>[渋谷109](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍  
 <strong>営業時間：</strong>10:00-21:00  
 <strong>おすすめ：</strong>3～5階が最もトレンディ
 
@@ -192,7 +192,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 **キャラクターグッズとサブカルチャーの楽園！**パルコはアニメ、ゲームグッズ、ユニークなセレクトショップで有名です。ポケモンセンターと任天堂ストアはファン必訪。
 
-<strong>📍 場所：</strong>[渋谷パルコ](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7)  
+<strong>📍 場所：</strong>[渋谷パルコ](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍  
 <strong>営業時間：</strong>10:00-21:00  
 <strong>必見：</strong>6階 任天堂東京、ポケモンセンター
 
@@ -200,7 +200,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 **洗練されたショッピング＆ダイニング複合施設。**渋谷駅直結のヒカリエは、ファッション、コスメ、グルメレストランでより高級なショッピング体験を提供します。
 
-<strong>📍 場所：</strong>[渋谷ヒカリエ](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6)  
+<strong>📍 場所：</strong>[渋谷ヒカリエ](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍  
 <strong>営業時間：</strong>10:00-21:00（レストランは23:00まで）
 
 <div class="image-group-2">
@@ -228,7 +228,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 - <strong>価格帯：</strong>一品500～2,000円
 - <strong>おすすめ：</strong>カジュアルダイニング、様々な料理を試す、友達と飲む
 
-<strong>📍 場所：</strong>[渋谷横丁](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7)  
+<strong>📍 場所：</strong>[渋谷横丁](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍  
 <strong>営業時間：</strong>11:00-23:00（一部店舗は05:00まで）
 
 ### 🍣 おすすめレストラン
@@ -249,7 +249,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ## 🌆 Step6. 夕方のフィナーレ：渋谷ストリーム
 
-渋谷の一日を<strong>[渋谷ストリーム](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8)</strong>での静かな散歩で締めくくりましょう。2018年にオープンした川沿いの複合施設です。
+渋谷の一日を<strong>[渋谷ストリーム](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8) 📍</strong>での静かな散歩で締めくくりましょう。2018年にオープンした川沿いの複合施設です。
 
 <strong>特別な理由：</strong>
 - 渋谷川沿いの散策路

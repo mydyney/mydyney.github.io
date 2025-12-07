@@ -41,7 +41,7 @@ While Shibuya Scramble Crossing was once the mecca of Halloween celebrations, **
 
 Much safer and more enjoyable official Halloween events are waiting for you instead of Shibuya.
 
-### 🎃 1. Cosplay Paradise: [Ikebukuro Halloween Cosplay Festival](https://maps.app.goo.gl/8hpQ34MXSxLbiPk7A)
+### 🎃 1. Cosplay Paradise: [Ikebukuro Halloween Cosplay Festival](https://maps.app.goo.gl/8hpQ34MXSxLbiPk7A) 📍
 
 Affectionately known as **'Ikeharo (イケハロ)'**, this has become Tokyo's largest Halloween festival. It's an event for both cosplayers and spectators, with a bright, wholesome atmosphere enjoyable for all ages. The main event takes place during daytime hours in the Ikebukuro East Exit area on October 25-26 (Sat-Sun).
 
@@ -60,7 +60,7 @@ Affectionately known as **'Ikeharo (イケハロ)'**, this has become Tokyo's la
   <figcaption style="font-size: 0.7em; text-align: center;">Cosplay Paradise: Ikebukuro Halloween Cosplay Festival (<a href="https://ikebukurocosplay.jp/en/" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
-### 🎃 2. Dreams and Magic: [Tokyo Disney Resort Halloween](https://maps.app.goo.gl/YNU9X7JTwjUoQbcQ8)
+### 🎃 2. Dreams and Magic: [Tokyo Disney Resort Halloween](https://maps.app.goo.gl/YNU9X7JTwjUoQbcQ8) 📍
 
 This year's Disney Halloween stars the **'Villains'**! Under the 'The Villains' Halloween' theme, you can experience a park that's eerily captivating and different from the usual Disney magic.
 
@@ -77,7 +77,7 @@ This year's Disney Halloween stars the **'Villains'**! Under the 'The Villains' 
   <figcaption style="font-size: 0.7em; text-align: center;">Dreams and Magic: Tokyo Disney Resort Halloween Fireworks</figcaption>
 </figure>
 
-### 🎃 3. Cuteness Overload! [Sanrio Puroland Halloween](https://maps.app.goo.gl/TtAtijhAqfqe1oi78)
+### 🎃 3. Cuteness Overload! [Sanrio Puroland Halloween](https://maps.app.goo.gl/TtAtijhAqfqe1oi78) 📍
 
 Perfect for fans of Hello Kitty, Kuromi, My Melody, and other Sanrio characters. As an indoor theme park, you can enjoy comfortably without weather worries, with adorable photo zones everywhere.
 
@@ -90,7 +90,7 @@ Perfect for fans of Hello Kitty, Kuromi, My Melody, and other Sanrio characters.
 
 ### 🎃 4. Family-Friendly! Halloween Parades
 
-- **[Omotesando Halloween Pumpkin Parade](https://maps.app.goo.gl/rKM5d9jjFpz2H5kA6): October 26 (Sun), 1:00 PM ~ 2:30 PM**
+- **[Omotesando Halloween Pumpkin Parade](https://maps.app.goo.gl/rKM5d9jjFpz2H5kA6) 📍: October 26 (Sun), 1:00 PM ~ 2:30 PM**
 
 Japan's first Halloween parade, started in 1982, with tremendous history and popularity. Over 1,000 children in adorable costumes marching along a 1km stretch of Omotesando is a heartwarming spectacle in itself.
 
@@ -101,7 +101,7 @@ Japan's first Halloween parade, started in 1982, with tremendous history and pop
   <figcaption style="font-size: 0.7em; text-align: center;">Family-Friendly Halloween Parade: Omotesando Halloween Pumpkin Parade (<a href="https://halloween.omotesando.or.jp/" target="_blank">Source</a>)</figcaption>
 </figure>
 
-- **[Roppongi Hills Halloween Stamp Rally](https://maps.app.goo.gl/xjC4Sumav8yNxb6m6): October 26 (Sun), 11:00 AM ~ 4:00 PM**
+- **[Roppongi Hills Halloween Stamp Rally](https://maps.app.goo.gl/xjC4Sumav8yNxb6m6) 📍: October 26 (Sun), 11:00 AM ~ 4:00 PM**
 
 Roppongi Hills Halloween is a 'stamp rally' format using the 'Hills App'. It's a fun event where children in costumes explore Roppongi Hills collecting stamps. The first 1,200 participants who collect all 3 stamps receive a premium 'Halloween Pumpkin Cake' from Grand Hyatt Tokyo. (For ages 12 and under only)
 

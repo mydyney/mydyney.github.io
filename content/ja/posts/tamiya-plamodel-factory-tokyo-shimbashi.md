@@ -68,7 +68,7 @@ Tamiya's NOW, all under one roof.
 - **正式名称：** TAMIYA PLAMODEL FACTORY TOKYO
 - **住所：** 東京都港区新橋4-3-1 新虎安田ビル1F
 
-📍[**Googleマップ↗**](https://maps.app.goo.gl/zFgwQXEVBUayVZ1r8)
+📍[**Googleマップ↗**](https://maps.app.goo.gl/zFgwQXEVBUayVZ1r8) 📍
 
 **🚇 地下鉄アクセス：**
 - JR新橋駅烏森口より徒歩約5分

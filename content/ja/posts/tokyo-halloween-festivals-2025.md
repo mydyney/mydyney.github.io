@@ -41,7 +41,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 
 渋谷の代わりに、はるかに安全で楽しい公式ハロウィンイベントが皆さんを待っています。
 
-### 🎃 1. コスプレの聖地：[池袋ハロウィンコスプレフェスティバル](https://maps.app.goo.gl/8hpQ34MXSxLbiPk7A)
+### 🎃 1. コスプレの聖地：[池袋ハロウィンコスプレフェスティバル](https://maps.app.goo.gl/8hpQ34MXSxLbiPk7A) 📍
 
 愛称**「イケハロ」**と呼ばれる、名実ともに東京最大規模のハロウィン祭りとして定着しました。コスプレを「する人」と「見る人」両方のためのイベントで、男女老若誰でも楽しめる明るく健全な雰囲気が特徴です。メインイベントは10月25日（土）〜26日（日）の昼間に池袋東口一帯で開催されます。
 
@@ -60,7 +60,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">コスプレの聖地：池袋ハロウィンコスプレフェスティバル（<a href="https://ikebukurocosplay.jp/en/" target="_blank">写真出典</a>）</figcaption>
 </figure>
 
-### 🎃 2. 夢と魔法の国：[東京ディズニーリゾートハロウィン](https://maps.app.goo.gl/YNU9X7JTwjUoQbcQ8)
+### 🎃 2. 夢と魔法の国：[東京ディズニーリゾートハロウィン](https://maps.app.goo.gl/YNU9X7JTwjUoQbcQ8) 📍
 
 今年のディズニーランドハロウィンの主役は**「ヴィランズ（悪役）」**です！「The Villains' Halloween」テーマのもと、いつもとは違う不気味で魅惑的なパークを楽しめます。
 
@@ -77,7 +77,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">夢と魔法の国：東京ディズニーリゾートハロウィン花火</figcaption>
 </figure>
 
-### 🎃 3. 可愛さ満載！[サンリオピューロランドハロウィン](https://maps.app.goo.gl/TtAtijhAqfqe1oi78)
+### 🎃 3. 可愛さ満載！[サンリオピューロランドハロウィン](https://maps.app.goo.gl/TtAtijhAqfqe1oi78) 📍
 
 ハローキティ、クロミ、マイメロディなどサンリオキャラクターが好きなら最高の選択。屋内テーマパークなので天気の心配なく快適に楽しめ、可愛いフォトゾーンがいっぱいです。
 
@@ -90,7 +90,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 
 ### 🎃 4. 子供と一緒！ファミリーハロウィンパレード
 
-- **[表参道ハロウィンパンプキンパレード](https://maps.app.goo.gl/rKM5d9jjFpz2H5kA6)：10月26日（日）、午後1時〜2時30分**
+- **[表参道ハロウィンパンプキンパレード](https://maps.app.goo.gl/rKM5d9jjFpz2H5kA6) 📍：10月26日（日）、午後1時〜2時30分**
 
 1982年から始まった、日本初のハロウィンパレードで、絶大な歴史と人気を誇ります。1,000人以上の子供たちが可愛いコスチュームを着て表参道の約1kmを行進する姿は、それ自体が愛らしい見どころです。
 
@@ -101,7 +101,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ファミリー向けハロウィンパレード：表参道ハロウィンパンプキンパレード（<a href="https://halloween.omotesando.or.jp/" target="_blank">出典</a>）</figcaption>
 </figure>
 
-- **[六本木ヒルズハロウィンスタンプラリー](https://maps.app.goo.gl/xjC4Sumav8yNxb6m6)：10月26日（日）、午前11時〜午後4時**
+- **[六本木ヒルズハロウィンスタンプラリー](https://maps.app.goo.gl/xjC4Sumav8yNxb6m6) 📍：10月26日（日）、午前11時〜午後4時**
 
 六本木ヒルズハロウィンは「ヒルズアプリ（Hills App）」を利用した「スタンプラリー」形式で開催されます。子供たちがコスチュームを着て六本木ヒルズ各所を探検しながらスタンプを集める楽しいイベントです。スタンプ3つをすべて集めると先着1200名にグランドハイアット東京の高級「ハロウィンかぼちゃケーキ」をプレゼント。（12歳以下のみ参加可能）
 

@@ -38,12 +38,12 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 **明治神宮（明治神宮）：**
 - 原宿駅、明治神宮前駅近く
 - 鬱蒼とした森と神社がある場所
-- 📍[**Googleマップ↗**](https://maps.app.goo.gl/5UWCLELHKMbBSRqW8)
+- 📍[**Googleマップ↗**](https://maps.app.goo.gl/5UWCLELHKMbBSRqW8) 📍
 
 **明治神宮外苑（明治神宮外苑）：**
 - 外苑前駅、青山一丁目駅近く
 - **私たちが探す「東京イチョウ並木」がある場所**
-- 📍[**Googleマップ↗**](https://maps.app.goo.gl/5RebZbknth9xwZZy9)
+- 📍[**Googleマップ↗**](https://maps.app.goo.gl/5RebZbknth9xwZZy9) 📍
 
 二か所は歩いて30分以上離れています。イチョウ並木を見るには必ず**明治神宮外苑**に行く必要があります。
 
@@ -133,7 +133,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 **🗓️ 期間：2025年11月21日（金）～12月25日（木）**
 **⏰ 時間：初日16:00～21:30、その他11:00～21:30**
-**📍 場所：明治神宮外苑 聖徳記念絵画館前** [**Googleマップ↗**](https://maps.app.goo.gl/AQWb1BvzXZjJg1cn9)
+**📍 場所：明治神宮外苑 聖徳記念絵画館前** [**Googleマップ↗**](https://maps.app.goo.gl/AQWb1BvzXZjJg1cn9) 📍
 **💰 入場料：有料**（1,000円～、日程により変動）
 
 <figure>

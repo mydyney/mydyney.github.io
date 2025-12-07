@@ -83,8 +83,8 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 自由が丘駅の**南口**から出て、このヨーロッパ風の通りを発見してください。**「グリーンウェイ」**沿いを歩き始めると、ベンチに座っているだけで癒されます。
 
-**📍** [Googleマップ(自由が丘駅南口)↗](https://maps.app.goo.gl/WCvSbk1SMJFT3UMV6)
-**📍** [Googleマップ(グリーンウェイ)↗](https://maps.app.goo.gl/2BpJx4fkiZxvcXwN6)
+**📍** [Googleマップ(自由が丘駅南口)↗](https://maps.app.goo.gl/WCvSbk1SMJFT3UMV6) 📍
+**📍** [Googleマップ(グリーンウェイ)↗](https://maps.app.goo.gl/2BpJx4fkiZxvcXwN6) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-05.jpg" alt="自由が丘駅南口入口、東京自由が丘半日コースのスタート地点">
@@ -103,7 +103,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **Cuoca**: 高品質な抹茶パウダー、日本の小麦粉、各種ベーキング型—日本では見つけにくい製菓材料が豊富にあります。
 
-**📍** [Googleマップ(Cuoca)↗](https://maps.app.goo.gl/XVGCoU5U9ysHEijc7)
+**📍** [Googleマップ(Cuoca)↗](https://maps.app.goo.gl/XVGCoU5U9ysHEijc7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -132,7 +132,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **オニバスコーヒー(ONIBUS)**: 東京のスペシャルティコーヒーの真骨頂。中目黒に行かなくても、ここで人生が変わるラテを体験できます。ショッピングの休憩に最適なヒップな自由が丘カフェ。
 
-**📍** [Googleマップ(オニバスコーヒー)↗](https://maps.app.goo.gl/LPSXb5MVr2FPWgXv8)
+**📍** [Googleマップ(オニバスコーヒー)↗](https://maps.app.goo.gl/LPSXb5MVr2FPWgXv8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-12.jpg" alt="自由が丘オニバスコーヒー、線路沿いのトレンディなカフェ">
@@ -141,7 +141,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **ダルトン(Dulton)**: 大きなアメリカンヴィンテージ風の雑貨店。建物自体があまりにも美しく、入口での写真は必須!この自由が丘雑貨店では時間が経つのを忘れます—まるでアリ地獄のよう。
 
-**📍** [Googleマップ(ダルトン)↗](https://maps.app.goo.gl/h3TWBr5RvFkPhq5Z7)
+**📍** [Googleマップ(ダルトン)↗](https://maps.app.goo.gl/h3TWBr5RvFkPhq5Z7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -179,7 +179,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **熊野神社**: 賑やかなショッピング地区の裏に隠れた静かな神社。緑豊かな木々の間から見える赤い鳥居が印象的—ショッピング中に静かな日本の美学を体験するのに最適。
 
-**📍** [Googleマップ(熊野神社)↗](https://maps.app.goo.gl/3aDXHHFUBz1Wp1jW8)
+**📍** [Googleマップ(熊野神社)↗](https://maps.app.goo.gl/3aDXHHFUBz1Wp1jW8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-19.jpg" alt="自由が丘熊野神社入口、伝統的な石段と静かな雰囲気">
@@ -188,7 +188,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **古桑庵(こそうあん)**: 伝統的な日本家屋を利用した茶屋。畳の部屋から庭を眺めながら「抹茶白玉」はいかがですか?古桑庵は自由が丘で最も人気の必見コースです。
 
-**📍** [Googleマップ(古桑庵)↗](https://maps.app.goo.gl/Dobnb4nav1sh28Nd8)
+**📍** [Googleマップ(古桑庵)↗](https://maps.app.goo.gl/Dobnb4nav1sh28Nd8) 📍
 
 <div class="image-group-2">
   <figure>
@@ -206,7 +206,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **ラ・ヴィータ**: 「東京のヴェネツィア」として有名ですが、実際はかなりコンパクト。このスポットだけのために訪れると失望するかもしれません—モンサンクレールへの途中で気軽に立ち寄って綺麗な写真を撮ることをおすすめします。
 
-**📍** [Googleマップ(ラ・ヴィータ自由が丘)↗](https://maps.app.goo.gl/XmCQfuf2Y98TgFXo9)
+**📍** [Googleマップ(ラ・ヴィータ自由が丘)↗](https://maps.app.goo.gl/XmCQfuf2Y98TgFXo9) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-23.jpg" alt="自由が丘ラ・ヴィータ、ヴェネツィア風建築のエキゾチックな雰囲気の写真スポット">
@@ -215,7 +215,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **モンサンクレール**: デザートの神様「辻口博啓」の本店。ここは自由が丘のケーキの聖地と呼ばれています。シグネチャーメニュー「C'est la vie」を必ず試してください。
 
-**📍** [Googleマップ(モンサンクレール)↗](https://maps.app.goo.gl/uNtL6s24wCjbuX3s8)
+**📍** [Googleマップ(モンサンクレール)↗](https://maps.app.goo.gl/uNtL6s24wCjbuX3s8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-24.jpg" alt="自由が丘モンサンクレール、有名な東京ケーキ店の外観">
@@ -230,7 +230,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **TODAY'S SPECIAL**: マルシェバッグで有名な店!キッチン用品や食料品など、見どころがたくさん。
 
-**📍** [Googleマップ(TODAY'S SPECIAL)↗](https://maps.app.goo.gl/HSU5ZdEcMUBE3oLi7)
+**📍** [Googleマップ(TODAY'S SPECIAL)↗](https://maps.app.goo.gl/HSU5ZdEcMUBE3oLi7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -271,7 +271,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **サンセットアレイ**: 魅力的な自由が丘雑貨店が集まる路地。夕暮れ時は特に美しい雰囲気です。
 
-**📍** [Googleマップ(サンセットアレイ)↗](https://maps.app.goo.gl/rNYDjcHuSazC245t9)
+**📍** [Googleマップ(サンセットアレイ)↗](https://maps.app.goo.gl/rNYDjcHuSazC245t9) 📍
 
 <div class="image-group-2">
   <figure>
@@ -309,7 +309,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **I'm donut?**: 早朝から並ぶ必要がある新鮮なドーナツショップ。列が短ければ、迷わず購入!
 
-**📍** [Googleマップ(I'm donut?自由が丘)↗](https://maps.app.goo.gl/7oFDSoBST6Sb7KgZ9)
+**📍** [Googleマップ(I'm donut?自由が丘)↗](https://maps.app.goo.gl/7oFDSoBST6Sb7KgZ9) 📍
 
 <div class="image-group-2">
   <figure>
@@ -332,7 +332,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **de aone**: 3階屋上テラス(ハルニワ)からの夕日と富士山の眺めがアートのようなショッピングコンプレックス。
 
-**📍** [Googleマップ(自由が丘de aone)↗](https://maps.app.goo.gl/qsT8BqYLZYLJkwE38)
+**📍** [Googleマップ(自由が丘de aone)↗](https://maps.app.goo.gl/qsT8BqYLZYLJkwE38) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-43.jpg" alt="自由が丘de aoneテラスビル、自由が丘の街並みと夕日の眺め">
@@ -352,7 +352,7 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **Paris S'eveille**: モンサンクレールと同等のTabelog上位パティスリー。遅く到着すると売り切れるので注意!本物の自由が丘レストランを探しているなら強くおすすめ。
 
-**📍** [Googleマップ(Paris S'eveille)↗](https://maps.app.goo.gl/gDDMDzvNSeBuzLpw5)
+**📍** [Googleマップ(Paris S'eveille)↗](https://maps.app.goo.gl/gDDMDzvNSeBuzLpw5) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-45.jpg" alt="自由が丘Paris S'eveille、地元に愛される本格フレンチデザート">
@@ -366,8 +366,8 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 - **自由の女神像**: 駅前ロータリーで自由が丘のシンボルを見ながら駅に戻ります。
 
-**📍** [Googleマップ(自由の女神像)↗](https://maps.app.goo.gl/W3TUiDZjUnSLnPMy6)
-**📍** [Googleマップ(自由が丘駅中央口)↗](https://maps.app.goo.gl/kM3d1qFMu61hNR1dA)
+**📍** [Googleマップ(自由の女神像)↗](https://maps.app.goo.gl/W3TUiDZjUnSLnPMy6) 📍
+**📍** [Googleマップ(自由が丘駅中央口)↗](https://maps.app.goo.gl/kM3d1qFMu61hNR1dA) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-47.jpg" alt="自由が丘駅のランドマーク、自由の女神像">

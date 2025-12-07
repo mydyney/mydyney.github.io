@@ -38,12 +38,12 @@ This is the most common mistake visitors make. Meiji Jingu and Meiji Jingu Gaien
 **Meiji Jingu (明治神宮):**
 - Near Harajuku Station and Meiji-jingumae Station
 - Famous for its lush forest and shrine
-- 📍[**Google Maps↗**](https://maps.app.goo.gl/5UWCLELHKMbBSRqW8)
+- 📍[**Google Maps↗**](https://maps.app.goo.gl/5UWCLELHKMbBSRqW8) 📍
 
 **Meiji Jingu Gaien (明治神宮外苑):**
 - Near Gaienmae Station and Aoyama-itchome Station
 - **Where Tokyo's famous ginkgo tree avenue is located**
-- 📍[**Google Maps↗**](https://maps.app.goo.gl/5RebZbknth9xwZZy9)
+- 📍[**Google Maps↗**](https://maps.app.goo.gl/5RebZbknth9xwZZy9) 📍
 
 The two locations are over 30 minutes apart on foot. To see the ginkgo tree avenue, you must go to **Meiji Jingu Gaien**.
 
@@ -133,7 +133,7 @@ Themed around Grimm Brothers' fairy tales and European stories, it creates a gor
 
 **🗓️ Period: November 21 (Fri) ~ December 25 (Thu), 2025**
 **⏰ Hours: First day 16:00~21:30, Others 11:00~21:30**
-**📍 Location: In front of Meiji Jingu Gaien Seitoku Memorial Picture Gallery** [**Google Maps↗**](https://maps.app.goo.gl/AQWb1BvzXZjJg1cn9)
+**📍 Location: In front of Meiji Jingu Gaien Seitoku Memorial Picture Gallery** [**Google Maps↗**](https://maps.app.goo.gl/AQWb1BvzXZjJg1cn9) 📍
 **💰 Admission: Paid** (from ¥1,000, varies by date)
 
 <figure>

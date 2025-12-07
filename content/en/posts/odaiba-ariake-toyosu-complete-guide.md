@@ -94,7 +94,7 @@ End your perfect day enjoying the romantic night view of Rainbow Bridge and Toky
 
 ## 🍣 [Toyosu] Gourmet & Healing Time
 
-**1. [Toyosu Market (豊洲市場)](https://maps.app.goo.gl/ZhubEdyWxMS6WCq79) - 100% Complete Guide - Yurikamome Shijo-mae Station**
+**1. [Toyosu Market (豊洲市場)](https://maps.app.goo.gl/ZhubEdyWxMS6WCq79) 📍 - 100% Complete Guide - Yurikamome Shijo-mae Station**
 
 **👀 Sightseeing: Explore the Market with Free Tour Course!**
 
@@ -117,19 +117,19 @@ Toyosu Market offers a **free observation course open from 5 AM to 5 PM** for ge
 
 **🍣 Toyosu Market Top Restaurant List**
 
-- **[Sushi-dai (寿司大)](https://maps.app.goo.gl/hMmtuN9CyUEGZf5x5)**
+- **[Sushi-dai (寿司大)](https://maps.app.goo.gl/hMmtuN9CyUEGZf5x5) 📍**
   Legendary 'Best Sushi' establishment from Tsukiji era. Worth the early morning queue!
 
-- **[Daiwa Sushi (大和寿司)](https://maps.app.goo.gl/dFTMk9kRzRCSajwk7)**
+- **[Daiwa Sushi (大和寿司)](https://maps.app.goo.gl/dFTMk9kRzRCSajwk7) 📍**
   Alongside Sushi-dai as one of the market's twin peaks. **[✅Book Online](https://autoreserve.com/ko/restaurants/vcstZEDtWqnM3qnmDrRg?medium_slug=AJvA6Kg5ptKi)**
 
-- **[Tonkatsu Odayasu (とんかつ小田保)](https://maps.app.goo.gl/LeB27oHgPJwX3MXt8)**
+- **[Tonkatsu Odayasu (とんかつ小田保)](https://maps.app.goo.gl/LeB27oHgPJwX3MXt8) 📍**
   Tabelog Top 100 restaurant. Fresh seafood tempura and tonkatsu especially renowned.
 
-- **[Sushidokoro Yamazaki (寿司処 やまざき)](https://maps.app.goo.gl/kiNm3ie184HystSNA)**
+- **[Sushidokoro Yamazaki (寿司処 やまざき)](https://maps.app.goo.gl/kiNm3ie184HystSNA) 📍**
   Enjoy high-quality sushi relatively comfortably. **[✅Book Online](https://autoreserve.com/ko/restaurants/6cB5mKbUnkGBU8q78QhF?medium_slug=AJvA6Kg5ptKi)**
 
-- **[Sushi Sho (鮨晶)](https://maps.app.goo.gl/AncDCRn2kAF38AbD9)**
+- **[Sushi Sho (鮨晶)](https://maps.app.goo.gl/AncDCRn2kAF38AbD9) 📍**
   Rising star gaining attention for delicate and creative sushi.
 
 <figure>
@@ -137,7 +137,7 @@ Toyosu Market offers a **free observation course open from 5 AM to 5 PM** for ge
   <figcaption style="font-size: 0.7em; text-align: center;">Toyosu Market wholesale fish market giant tuna model</figcaption>
 </figure>
 
-**2. [Toyosu Senkaku Banrai & Manyo Club (豊洲 千客万来 & 万葉倶楽部)](https://maps.app.goo.gl/qLpJVhkDzMm9cQhd7) - Yurikamome Shijo-mae Station**
+**2. [Toyosu Senkaku Banrai & Manyo Club (豊洲 千客万来 & 万葉倶楽部)](https://maps.app.goo.gl/qLpJVhkDzMm9cQhd7) 📍 - Yurikamome Shijo-mae Station**
 
 Opened in February 2024! **Toyosu Senkaku Banrai** is a gourmet town recreating Edo-era streets with diverse food options. The highlight is the 24-hour **Manyo Club** onsen facility.
 
@@ -164,7 +164,7 @@ The smartest way to enjoy Manyo Club is the 'Morning Bath (朝風呂)' plan. At 
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Toyosu Manyo Club <a href="https://tokyo-toyosu.manyo.co.jp/" target="_blank">(Source)</a></figcaption>
 </figure>
 
-**3. [teamLab Planets TOKYO](https://maps.app.goo.gl/bh3SBgMXoH9RyLsu9) - Yurikamome Shin-Toyosu Station**
+**3. [teamLab Planets TOKYO](https://maps.app.goo.gl/bh3SBgMXoH9RyLsu9) 📍 - Yurikamome Shin-Toyosu Station**
 
 **"Walk barefoot through water, becoming one with the artwork"**
 
@@ -206,7 +206,7 @@ teamLab Planets is an immersive media art museum where you experience with all f
 
 ## 🛍️ [Ariake] Shopping & Events Rising Star
 
-**1. [Ariake Garden (有明ガーデン)](https://maps.app.goo.gl/Xqd7a17qKcFJxszm7) & [MUJI](https://maps.app.goo.gl/aeSg88SFPKPWk7U89) - Yurikamome Ariake Station**
+**1. [Ariake Garden (有明ガーデン)](https://maps.app.goo.gl/Xqd7a17qKcFJxszm7) 📍 & [MUJI](https://maps.app.goo.gl/aeSg88SFPKPWk7U89) 📍 - Yurikamome Ariake Station**
 
 Massive complex with about 200 shops, restaurants, hotels and even onsen. Perfect choice for comfortable shopping and dining less crowded than Odaiba malls.
 
@@ -259,7 +259,7 @@ The MUJI here isn't just a store - it's the **Kanto region's largest flagship st
 
 **📌 Visiting Tip - Free Ariake Shuttle Bus**
 
-- **Departure Stop: ✈️ [Haneda Airport Terminal 3 Airport Garden Terminal](https://maps.app.goo.gl/wCkY1tG5KTqoUaYR8)**
+- **Departure Stop: ✈️ [Haneda Airport Terminal 3 Airport Garden Terminal](https://maps.app.goo.gl/wCkY1tG5KTqoUaYR8) 📍**
 
 Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save on transportation by using the free shuttle + Yurikamome 1-day pass on your first travel day without activating other passes.
 
@@ -268,7 +268,7 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
   <figcaption style="font-size: 0.7em; text-align: center;">Ariake Free Shuttle Bus (Boarding Location: Haneda Airport Terminal 3 Airport Garden Terminal)</figcaption>
 </figure>
 
-**2. [Ariake Arena](https://maps.app.goo.gl/XvpNUehoXLFftaKa9) & [SMALL WORLDS Miniature Museum Tokyo](https://maps.app.goo.gl/CXqq1cYqLFyNbt4w9)**
+**2. [Ariake Arena](https://maps.app.goo.gl/XvpNUehoXLFftaKa9) 📍 & [SMALL WORLDS Miniature Museum Tokyo](https://maps.app.goo.gl/CXqq1cYqLFyNbt4w9) 📍**
 
 **Ariake Arena** hosts large concerts including K-POP, while **SMALL WORLDS TOKYO** is an indoor theme park enjoying the world of intricate miniatures.
 
@@ -325,12 +325,12 @@ Free shuttle bus runs between 'Haneda Airport Garden' and 'Ariake Garden'. Save 
 
 **🛍️ Shopping Mall Attractions**
 
-**1. [DiverCity Tokyo Plaza](https://maps.app.goo.gl/Nzu6qiUQKzneaVeq8) - Daiba Station**
+**1. [DiverCity Tokyo Plaza](https://maps.app.goo.gl/Nzu6qiUQKzneaVeq8) 📍 - Daiba Station**
 
 Shopping mall symbolized by the life-size **Unicorn Gundam**. Don't miss the spectacular evening transformation performance.
 
-- **Attractions:** Life-size [Unicorn Gundam](https://maps.app.goo.gl/pEMPcHadYYc2JADRA), [Gundam Base Tokyo](https://maps.app.goo.gl/MbyRRSmUwQ2Ge58W8), [Unko Museum](https://maps.app.goo.gl/HQSWek9g2KmbsVu37), [Doraemon Future Department Store](https://maps.app.goo.gl/4gkhTCDXVnB45EYC7)
-- **Dining:** [Tokyo Tsukemen Kyurin (久臨)](https://maps.app.goo.gl/BsNmfaKkb7VLuaTz7)
+- **Attractions:** Life-size [Unicorn Gundam](https://maps.app.goo.gl/pEMPcHadYYc2JADRA) 📍, [Gundam Base Tokyo](https://maps.app.goo.gl/MbyRRSmUwQ2Ge58W8) 📍, [Unko Museum](https://maps.app.goo.gl/HQSWek9g2KmbsVu37) 📍, [Doraemon Future Department Store](https://maps.app.goo.gl/4gkhTCDXVnB45EYC7) 📍
+- **Dining:** [Tokyo Tsukemen Kyurin (久臨)](https://maps.app.goo.gl/BsNmfaKkb7VLuaTz7) 📍
 
 **▶️ [Book Unko Museum Tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1144396&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F26899-unko-museum-ticket-tokyo%2F%3Fspm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3Ddf9ed6b8b9)**
 
@@ -349,12 +349,12 @@ Shopping mall symbolized by the life-size **Unicorn Gundam**. Don't miss the spe
   <figcaption style="font-size: 0.7em; text-align: center;">Odaiba DiverCity Doraemon Future Department Store</figcaption>
 </figure>
 
-**2. [Aqua City Odaiba](https://maps.app.goo.gl/jcaCqLJadv1eNrv29) - Daiba Station**
+**2. [Aqua City Odaiba](https://maps.app.goo.gl/jcaCqLJadv1eNrv29) 📍 - Daiba Station**
 
 Shopping mall with the most beautiful views of the Statue of Liberty and Rainbow Bridge. Best Statue of Liberty views from the 3rd floor deck.
 
-- **Attractions:** [Toys "R" Us·Babies "R" Us](https://maps.app.goo.gl/vXCkjrD7QwNzpw1B9), [Anitouch Zoo](https://maps.app.goo.gl/fiwMtcv3banjZj9b7)
-- **Dining:** Tokyo Ramen Kokugikan [Sandaime Hakata Daruma (三代目 博多だるま)](https://maps.app.goo.gl/NiY7vB1T9jxGsuA89), [KUA'AINA](https://maps.app.goo.gl/f8Vc74LPs4YqbPq9A) Hawaiian Burgers, [Gonpachi (権八)](https://maps.app.goo.gl/9JeJhNvaEcafk97G9) Izakaya
+- **Attractions:** [Toys "R" Us·Babies "R" Us](https://maps.app.goo.gl/vXCkjrD7QwNzpw1B9) 📍, [Anitouch Zoo](https://maps.app.goo.gl/fiwMtcv3banjZj9b7) 📍
+- **Dining:** Tokyo Ramen Kokugikan [Sandaime Hakata Daruma (三代目 博多だるま)](https://maps.app.goo.gl/NiY7vB1T9jxGsuA89) 📍, [KUA'AINA](https://maps.app.goo.gl/f8Vc74LPs4YqbPq9A) 📍 Hawaiian Burgers, [Gonpachi (権八)](https://maps.app.goo.gl/9JeJhNvaEcafk97G9) 📍 Izakaya
 
 **▶️ [Book Anitouch Tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1144399&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F114497-anitouch-aqua-city-odaiba%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D644430c2da)**
 
@@ -368,12 +368,12 @@ Shopping mall with the most beautiful views of the Statue of Liberty and Rainbow
   <figcaption style="font-size: 0.7em; text-align: center;">Odaiba Aqua City Starbucks terrace view of Rainbow Bridge & Tokyo cityscape</figcaption>
 </figure>
 
-**3. [Decks Tokyo Beach](https://maps.app.goo.gl/aQcvYZ7tcphMf66y5) - Odaiba Kaihinkoen Station**
+**3. [Decks Tokyo Beach](https://maps.app.goo.gl/aQcvYZ7tcphMf66y5) 📍 - Odaiba Kaihinkoen Station**
 
 Sanctuary of indoor theme parks: Tokyo Joypolis, Legoland, Madame Tussauds and more. Perfect for rainy days with kids!
 
-- **Attractions:** [Tokyo Joypolis](https://maps.app.goo.gl/Ei4R7tkM6WKvjwTn6), [Legoland Discovery Center](https://maps.app.goo.gl/519FrfiAnkXaFytC9), Haunted House [Daiba Haunted School](https://maps.app.goo.gl/b1ycibCMiFS3iwPN6), [Madame Tussauds](https://maps.app.goo.gl/UuSF424StpCwGe8H8), [Trick Art Museum](https://maps.app.goo.gl/Mgr1uYxLcJ1NXjDRA)
-- **Dining:** [Takoyaki Museum](https://maps.app.goo.gl/T9T4ATEqotVsCv7B9), [Shabu-Shabu Ginhan (しゃぶしゃぶ 吟半)](https://maps.app.goo.gl/cMC5tnLDQFD3JrCu8), **Bills Pancakes**
+- **Attractions:** [Tokyo Joypolis](https://maps.app.goo.gl/Ei4R7tkM6WKvjwTn6) 📍, [Legoland Discovery Center](https://maps.app.goo.gl/519FrfiAnkXaFytC9) 📍, Haunted House [Daiba Haunted School](https://maps.app.goo.gl/b1ycibCMiFS3iwPN6) 📍, [Madame Tussauds](https://maps.app.goo.gl/UuSF424StpCwGe8H8) 📍, [Trick Art Museum](https://maps.app.goo.gl/Mgr1uYxLcJ1NXjDRA) 📍
+- **Dining:** [Takoyaki Museum](https://maps.app.goo.gl/T9T4ATEqotVsCv7B9) 📍, [Shabu-Shabu Ginhan (しゃぶしゃぶ 吟半)](https://maps.app.goo.gl/cMC5tnLDQFD3JrCu8) 📍, **Bills Pancakes**
 
 ▶️ [Book Joypolis Tickets](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1144402&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F41323-tokyo-joypolis%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D60db7e220b)
 ▶️ [Book Legoland Tickets](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1144403&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F5563-legoland-discovery-center-tokyo%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D86d7be8b8f)
@@ -388,7 +388,7 @@ Sanctuary of indoor theme parks: Tokyo Joypolis, Legoland, Madame Tussauds and m
 
 **🎡 World's First Immersive Theme Park**
 
-**[Immersive Fort Tokyo](https://maps.app.goo.gl/qypRz973rthr3fvd7) - Aomi Station**
+**[Immersive Fort Tokyo](https://maps.app.goo.gl/qypRz973rthr3fvd7) 📍 - Aomi Station**
 
 Opened March 2024 - the world's first immersive theme park. A revolutionary entertainment space where audiences become part of the story, solving mysteries and progressing the narrative.
 

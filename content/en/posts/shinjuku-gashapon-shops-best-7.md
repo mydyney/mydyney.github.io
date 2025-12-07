@@ -57,7 +57,7 @@ The first shop to introduce is **Shinjuku Gachapon Forest (Gachagacha no Mori)**
 ### 🟢 Gachapon Forest Shinjuku Subnade Branch
 
 - **Location:** Shinjuku Subnade underground shopping area (B1F)
-  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/QGGTYMzfA1btyUMB6)]**
+  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/QGGTYMzfA1btyUMB6) 📍]**
 - **Hours:** 10:30 AM ~ 9:00 PM
 - **Machines:** Approximately 1,050 units
 - **Features:** Access through the underground shopping area means you can move around comfortably even when it's raining or hot.
@@ -119,7 +119,7 @@ Located on the busiest street at Shinjuku's East Exit, it's the most convenient 
 ### 🟣 C-pla Shinjuku
 
 - **Location:** Adhoc Building 1F & M2F (street-facing)
-  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/QFyUL7AarFphWVzs9)]**
+  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/QFyUL7AarFphWVzs9) 📍]**
 - **Hours:** 10:00 AM ~ 10:00 PM (open late)
 - **Machines:** Approximately 900 units
 - **Features:** Very fast turnover for latest trending character goods like Sanrio and Chiikawa. The store is laid out in a long corridor format, making it easy to browse.
@@ -162,7 +162,7 @@ Are Tokyo nights long but shops close early? Then head to **Shinjuku Kabukicho T
 ### 🔵 Namco Tokyo
 
 - **Location:** Shinjuku Kabukicho Tower 3F
-  *(8-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/E1w5WrhzpAFMi1wt8)]**
+  *(8-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/E1w5WrhzpAFMi1wt8) 📍]**
 - **Hours:** 11:00 AM ~ **1:00 AM (25:00)**
 - **Machines:** 250 units
 - **Features:** Cyberpunk interior with flashy neon signs makes for amazing photos. It's an "adult playground" where you can enjoy beer or cocktails at the bar while getting gacha. 🍻
@@ -208,7 +208,7 @@ Many blogs recommend this, but **for gacha-only visits, it might be disappointin
 ### 🟠 Bic Camera Shinjuku Higashiguchi Store
 
 - **Location:** Bic Camera Shinjuku Higashiguchi Store 6F
-  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/WpHWvCfXPY6tWpPD8)]**
+  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/WpHWvCfXPY6tWpPD8) 📍]**
 - **Hours:** 10:00 AM ~ 10:00 PM (year-round)
 - **Machines:** Approximately 100-150 units (smaller scale)
 - **Honest Check:** Significantly fewer machines compared to dedicated gashapon shops (C-pla, Nomori). While there are rumors about rare items at Shinjuku Bic Camera gashapon, they're often out of stock, so be cautious.
@@ -233,7 +233,7 @@ If you're looking for the official "Bandai" shop, head to Marui Department Store
 ### 🔴 Gashapon Bandai Official Shop (Shinjuku Gashapon Sanctuary)
 
 - **Location:** Shinjuku Marui (0101) Annex Department Store 6F
-  *(Shinjuku-sanchome Station Exit C4 / 8-minute walk from Shinjuku Station Southeast Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/sSrJQBa91TP18xzB7)]**
+  *(Shinjuku-sanchome Station Exit C4 / 8-minute walk from Shinjuku Station Southeast Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/sSrJQBa91TP18xzB7) 📍]**
 - **Hours:** Weekdays 11:00 AM ~ 8:00 PM (Sundays/holidays open at 10:30)
 - **Machines:** 330 units (premium line)
 - **Features:** As the official Bandai store, new releases arrive fastest. Most reliable lineup for Shinjuku gashapon featuring Crayon **Shin-chan**, Sanrio, Haikyuu, and other popular characters.
@@ -290,7 +290,7 @@ The hottest entertainment complex among young people recently. Clean and comfort
 ### 🟡 ME TOKYO SHINJUKU
 
 - **Location:** ME TOKYO B1F
-  *(2-minute walk from Shinjuku Station Southeast Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/zAhzpWDSNrrN6ybC9)]**
+  *(2-minute walk from Shinjuku Station Southeast Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/zAhzpWDSNrrN6ybC9) 📍]**
 - **Hours:** 10:00 AM ~ **1:00 AM (25:00)**
 - **Machines:** Approximately 600 units
 - **Features:** Not just gacha but also 10-yen crane games and latest sticker photo booths (purikura). Very new and clean, with costume rental available on 3F. Perfect for photos and fun with friends!
@@ -321,7 +321,7 @@ If you're staying near Shinjuku's **West Exit (Nishiguchi)**, there's no need to
 ### 🔵 Yodobashi Camera Gashapon Center
 
 - **Location:** Yodobashi Camera Shinjuku Nishiguchi Main Store (Gashapon Center)
-  *(5-minute walk from Shinjuku West Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/M2sn8XwEu3uQgAxb7)]**
+  *(5-minute walk from Shinjuku West Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/M2sn8XwEu3uQgAxb7) 📍]**
 - **Hours:** **9:30 AM** ~ 10:00 PM **(earliest opening!)**
 - **Machines:** Approximately 800-1,000 units (including surrounding areas)
 - **Features:** The entire area around Yodobashi Camera is surrounded by gacha machines. Perfect location for clearing out spare coins before/after using the subway (Keio Line, Odakyu Line).

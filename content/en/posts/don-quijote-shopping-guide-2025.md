@@ -31,7 +31,8 @@ Before diving into the shopping list, grab your Don Quijote discount coupon firs
 - **¥30,000+ (tax excluded):** 10% tax-free + 7% extra discount
 
 <div class="info-box">
-  <p><strong>➡️ <a href="https://japanportal.donki-global.com/coupon/cp001_ko.html" target="_blank" style="color: #667eea;">Get 2025 Don Quijote Discount Coupon Here</a></strong></p>
+  <p><strong>➡️ <a href="https://japanportal.donki-global.com/coupon/cp001_ko.html" target="_blank" style="color: #f3f700e3;">Get 2025 Don Quijote Discount Coupon Here</a></strong></p>
+
 </div>
 
 <figure>

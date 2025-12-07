@@ -56,7 +56,7 @@ Your Harajuku experience varies depending on which station you start from. Choos
 
 🧙‍♂️ <strong>If you're a Harry Potter fan, this is THE destination for your Tokyo trip!</strong>
 
-Recently, the official Harry Potter merchandise shop <strong>'[Mahou Dokoro](https://maps.app.goo.gl/HFVr325EzLqEK5KK6)'</strong> opened in Harajuku. With Hogwarts house robes, wands, limited edition goods, and numerous photo zones, you'll feel like you've stepped into Diagon Alley.
+Recently, the official Harry Potter merchandise shop <strong>'[Mahou Dokoro](https://maps.app.goo.gl/HFVr325EzLqEK5KK6) 📍'</strong> opened in Harajuku. With Hogwarts house robes, wands, limited edition goods, and numerous photo zones, you'll feel like you've stepped into Diagon Alley.
 
 <strong>📌 Tip:</strong> Weekends can have very long wait times, so visiting on weekdays is recommended. Don't miss the Butterbeer on the 2nd floor!
 
@@ -93,8 +93,8 @@ Recently, the official Harry Potter merchandise shop <strong>'[Mahou Dokoro](htt
 
 Takeshita Street (竹下通り) is synonymous with Harajuku. The narrow alley is packed with charming shops and restaurants on both sides.
 
-- <strong>Food:</strong> Don't miss Harajuku crepes (<strong>[Marion Crepes](https://maps.app.goo.gl/rKV4VGxwPB43F6JLA)</strong>, <strong>[Sweet Box Crepes](https://maps.app.goo.gl/aArau1Lo941KPat18)</strong>).
-- <strong>Shopping:</strong> Fun browsing at <strong>[Paris Kids](https://maps.app.goo.gl/CMJLbPrFsRn2ord16)</strong> (affordable accessories), <strong>[Daiso Harajuku](https://maps.app.goo.gl/Ast9jFpMNvTrMgqR8)</strong>
+- <strong>Food:</strong> Don't miss Harajuku crepes (<strong>[Marion Crepes](https://maps.app.goo.gl/rKV4VGxwPB43F6JLA) 📍</strong>, <strong>[Sweet Box Crepes](https://maps.app.goo.gl/aArau1Lo941KPat18) 📍</strong>).
+- <strong>Shopping:</strong> Fun browsing at <strong>[Paris Kids](https://maps.app.goo.gl/CMJLbPrFsRn2ord16) 📍</strong> (affordable accessories), <strong>[Daiso Harajuku](https://maps.app.goo.gl/Ast9jFpMNvTrMgqR8) 📍</strong>
 
 <figure>
   <img src="/images/posts/harajuku-complete-guide-2025-11.jpg" alt="Takeshita Street entrance from JR Harajuku Station">
@@ -121,7 +121,7 @@ Takeshita Street (竹下通り) is synonymous with Harajuku. The narrow alley is
 
 To see Harajuku fashion's present, head to Laforet department store.
 
-- <strong>[Laforet Harajuku](https://maps.app.goo.gl/1qwh1HqXce2HP7db9):</strong> With numerous pop-up stores and emerging designer brands, you can see Tokyo's newest trends at a glance.
+- <strong>[Laforet Harajuku](https://maps.app.goo.gl/1qwh1HqXce2HP7db9) 📍:</strong> With numerous pop-up stores and emerging designer brands, you can see Tokyo's newest trends at a glance.
 - <strong>GR8 (Laforet 1F):</strong> The mecca of high-end street fashion and hard-to-find alternative designer brands. Limited edition collaboration items are released regularly, making it a must-visit for fashion enthusiasts.
 
 📌 Using Hyundai Card's Japan partnership service, you can get <strong>5% instant discount on purchases over 22,000 yen including tax</strong> (~December 24, 2025)
@@ -147,10 +147,10 @@ To see Harajuku fashion's present, head to Laforet department store.
 
 <strong>True street fashion shopping starts in 'Ura-Harajuku' (裏原宿, back alleys of Harajuku).</strong> Discover brands hidden like treasures in the complex alleys behind Takeshita Street!
 
-- <strong>[BAPE STORE®︎](https://maps.app.goo.gl/qDQpjEFoe9xktLwQ6):</strong> Living history of Japanese street fashion. Meet products with the iconic 'Ape Head' logo and 'BAPE Camo' pattern.
-- <strong>[Supreme](https://maps.app.goo.gl/gRwDvTRFcYhNLrny9):</strong> The king of street fashion that needs no introduction. Expect huge lines on new product release days.
-- <strong>[Brandy Melville Japan](https://maps.app.goo.gl/dd1C95t5e3wpG45r9):</strong> Italian brand with overwhelming popularity among women in their 10s-20s with the 'One size fits all' concept. Experience its unique lovely sensibility.
-- <strong>[HUMAN MADE OFFLINE STORE](https://maps.app.goo.gl/yMx8zCxbcWUhj6En8):</strong> Another brand by NIGO, founder of BAPE. Features witty designs based on vintage American casual.
+- <strong>[BAPE STORE®︎](https://maps.app.goo.gl/qDQpjEFoe9xktLwQ6) 📍:</strong> Living history of Japanese street fashion. Meet products with the iconic 'Ape Head' logo and 'BAPE Camo' pattern.
+- <strong>[Supreme](https://maps.app.goo.gl/gRwDvTRFcYhNLrny9) 📍:</strong> The king of street fashion that needs no introduction. Expect huge lines on new product release days.
+- <strong>[Brandy Melville Japan](https://maps.app.goo.gl/dd1C95t5e3wpG45r9) 📍:</strong> Italian brand with overwhelming popularity among women in their 10s-20s with the 'One size fits all' concept. Experience its unique lovely sensibility.
+- <strong>[HUMAN MADE OFFLINE STORE](https://maps.app.goo.gl/yMx8zCxbcWUhj6En8) 📍:</strong> Another brand by NIGO, founder of BAPE. Features witty designs based on vintage American casual.
 
 <figure>
   <img src="/images/posts/harajuku-complete-guide-2025-18.jpg" alt="BAPE Store Harajuku">

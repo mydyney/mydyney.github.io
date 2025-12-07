@@ -56,27 +56,27 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 
 
 **1️⃣ 西口（都庁方面）**
-**① 新八食堂 西口店** 📍[Googleマップ](https://maps.app.goo.gl/njDGY8tX3gahwLqF9)
+**① 新八食堂 西口店** 📍[Googleマップ](https://maps.app.goo.gl/njDGY8tX3gahwLqF9) 📍
 しっかり炭火焼き魚定食で一日を力強くスタート。
-**② おにまる 西新宿店** 📍[Googleマップ](https://maps.app.goo.gl/VkHo3S7FNbyJ7F2G8)
+**② おにまる 西新宿店** 📍[Googleマップ](https://maps.app.goo.gl/VkHo3S7FNbyJ7F2G8) 📍
 テイクアウトして都庁展望台への移動におすすめ。
 
 **2️⃣ 南口・新南口（バスタ新宿方面）**
-**③ ベーカリー＆レストラン 沢村（NEWoMAN 2階）** 📍[Googleマップ](https://maps.app.goo.gl/Mm4DmFaAhT5e2rRF7)
+**③ ベーカリー＆レストラン 沢村（NEWoMAN 2階）** 📍[Googleマップ](https://maps.app.goo.gl/Mm4DmFaAhT5e2rRF7) 📍
 高級パンと料理で新宿ブランチルーティンの完成。
-**④ ブルーボトルコーヒー新宿（NEWoMAN 1階）** 📍[Googleマップ](https://maps.app.goo.gl/W25veK3eSjBy6PpE6)
+**④ ブルーボトルコーヒー新宿（NEWoMAN 1階）** 📍[Googleマップ](https://maps.app.goo.gl/W25veK3eSjBy6PpE6) 📍
 失敗なしのコーヒー。荷物預けて空港へ行く前の「ラストコーヒー」に最高。
-**⑤ だし茶漬け えん（ルミネ1 地下2階）** 📍[Googleマップ](https://maps.app.goo.gl/6eCuF9LhMmS3mRht9)
+**⑤ だし茶漬け えん（ルミネ1 地下2階）** 📍[Googleマップ](https://maps.app.goo.gl/6eCuF9LhMmS3mRht9) 📍
 駅直結。雨の日も傘なしで移動可能な胃に優しい食事。
 
 **3️⃣ 東口（歌舞伎町方面）**
-**⑥ BERG（ルミネEST 地下1階）** 📍[Googleマップ](https://maps.app.goo.gl/TzDmGCoHPFWTAziS9)
+**⑥ BERG（ルミネEST 地下1階）** 📍[Googleマップ](https://maps.app.goo.gl/TzDmGCoHPFWTAziS9) 📍
 ローカルの聖地。モーニングセットとビールで楽しむ本物の新宿感覚。
 
 **4️⃣ 東南口（新宿御苑方面）**
-**⑦ コメダ珈琲店 新宿御苑店** 📍[Googleマップ](https://maps.app.goo.gl/JeC38MStZXtoHAY66)
+**⑦ コメダ珈琲店 新宿御苑店** 📍[Googleマップ](https://maps.app.goo.gl/JeC38MStZXtoHAY66) 📍
 広い座席+コンセント。コスパ抜群モーニングサービス（トースト無料）。
-**⑧ NIGICHA（ニギチャ）** 📍[Googleマップ](https://maps.app.goo.gl/JjbZPcvYrSUqvNz89)
+**⑧ NIGICHA（ニギチャ）** 📍[Googleマップ](https://maps.app.goo.gl/JjbZPcvYrSUqvNz89) 📍
 抹茶+手作りおにぎり。新宿御苑ピクニックの朝食に完璧。
 
 <figure>
@@ -91,7 +91,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 **🐟 店舗タイプ：** 日本の家庭式定食 / 炭火焼き魚専門
 **🕖 営業時間：** 7:00 〜 23:00（年中無休）
 **💰 予算：** 朝定食基準600円前後
-**📍 場所：** 新宿駅西口から徒歩約5分 📍[Googleマップ](https://maps.app.goo.gl/njDGY8tX3gahwLqF9)
+**📍 場所：** 新宿駅西口から徒歩約5分 📍[Googleマップ](https://maps.app.goo.gl/njDGY8tX3gahwLqF9) 📍
 
 **🍱 おすすめメニュー（朝定食）**
 - **朝銀鮭定食：** 一番人気！塩気と脂がしっかりした焼き鮭。
@@ -101,9 +101,9 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 **💡 特徴：** 注文と同時に炭火で焼き上げる焼き魚と、ご飯、汁物、漬物のおかずが一膳で出ます。キオスク注文（韓国語対応）で便利です。朝ビール（160円）もお見逃しなく！
 
 **🐟 新宿周辺の他店舗（早朝オープン！）**
-- **西武新宿店** 4:00〜27:00 / 東口徒歩5分 **[📍Googleマップ](https://maps.app.goo.gl/QBJwUFfYDv4MJnRx7)**
-- **新宿東南店** 4:00〜27:00 / 東南口徒歩3分 **[📍Googleマップ](https://maps.app.goo.gl/uCcN9jWfhsCV39Lv5)**
-- **新宿御苑店** 7:00〜23:00 / 御苑前駅1分 **[📍Googleマップ](https://maps.app.goo.gl/UsYyz5rN1JvQPx7z8)**
+- **西武新宿店** 4:00〜27:00 / 東口徒歩5分 **[📍Googleマップ](https://maps.app.goo.gl/QBJwUFfYDv4MJnRx7) 📍**
+- **新宿東南店** 4:00〜27:00 / 東南口徒歩3分 **[📍Googleマップ](https://maps.app.goo.gl/uCcN9jWfhsCV39Lv5) 📍**
+- **新宿御苑店** 7:00〜23:00 / 御苑前駅1分 **[📍Googleマップ](https://maps.app.goo.gl/UsYyz5rN1JvQPx7z8) 📍**
 
 <figure>
   <img src="/images/posts/shinjuku-station-breakfast-best-8-04.jpg" alt="新宿新八食堂の朝メニュー板">
@@ -125,7 +125,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 - 週末 9:00 〜 21:00
 
 **💰 予算：** 1個400円前後
-**📍 場所：** 新宿駅西口から徒歩7分 📍[Googleマップ](https://maps.app.goo.gl/VkHo3S7FNbyJ7F2G8)
+**📍 場所：** 新宿駅西口から徒歩7分 📍[Googleマップ](https://maps.app.goo.gl/VkHo3S7FNbyJ7F2G8) 📍
 
 **🍱 おすすめメニュー**
 海老天むすび、明太マヨおにぎり
@@ -153,7 +153,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 - レストラン 7:00 〜 23:00
 
 **💰 予算：** ブランチセット基準2,000〜3,000円
-**📍 場所：** NEWoMAN 2階フードホール（新南口直結） 📍[Googleマップ](https://maps.app.goo.gl/Mm4DmFaAhT5e2rRF7)
+**📍 場所：** NEWoMAN 2階フードホール（新南口直結） 📍[Googleマップ](https://maps.app.goo.gl/Mm4DmFaAhT5e2rRF7) 📍
 
 **🍱 おすすめメニュー**
 - フレンチトーストセット、焼きたてクロワッサン
@@ -182,7 +182,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 **☕ 店舗タイプ：** スペシャルティコーヒー / カフェ
 **🕖 営業時間：** 8:00 〜 21:00 / 日曜日 〜 20:30（年中無休）
 **💰 予算：** コーヒー + ワッフル基準1,300円前後
-**📍 場所：** NEWoMAN 1階（新南口直結） 📍[Googleマップ](https://maps.app.goo.gl/W25veK3eSjBy6PpE6)
+**📍 場所：** NEWoMAN 1階（新南口直結） 📍[Googleマップ](https://maps.app.goo.gl/W25veK3eSjBy6PpE6) 📍
 
 **🍱 おすすめメニュー**
 シングルオリジンドリップコーヒー、ニューオーリンズアイスコーヒー
@@ -218,7 +218,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 **🥣 店舗タイプ：** お茶漬け（だし茶漬け）専門店
 **🕖 営業時間：** 8:00 〜 22:00 / 年中無休
 **💰 予算：** お茶漬けセット基準1,000円前後
-**📍 場所：** ルミネ1地下2階（新宿駅直結） 📍[Googleマップ](https://maps.app.goo.gl/6eCuF9LhMmS3mRht9)
+**📍 場所：** ルミネ1地下2階（新宿駅直結） 📍[Googleマップ](https://maps.app.goo.gl/6eCuF9LhMmS3mRht9) 📍
 
 **🍱 おすすめメニュー**
 鯛（タイ）お茶漬け、明太子お茶漬け
@@ -237,7 +237,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 **🍽️ 店舗タイプ：** パブ&カフェ / モーニングセット
 **🕖 営業時間：** 7:00 〜 23:00 / 年中無休
 **💰 予算：** モーニングセット基準399円（12:00まで）
-**📍 場所：** ルミネEST地下1階（東口改札口近く） 📍[Googleマップ](https://maps.app.goo.gl/TzDmGCoHPFWTAziS9)
+**📍 場所：** ルミネEST地下1階（東口改札口近く） 📍[Googleマップ](https://maps.app.goo.gl/TzDmGCoHPFWTAziS9) 📍
 
 **🍱 おすすめメニュー**
 モーニングセット（トースト+コーヒー+ソーセージ）、ホットドッグ、モーニングビール
@@ -266,7 +266,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 **☕ 店舗タイプ：** カフェ / モーニングサービス
 **🕖 営業時間：** 7:00 〜 20:00（年中無休）
 **💰 予算：** モーニングサービス基準500〜700円
-**📍 場所：** 新宿御苑前駅2番出口から徒歩5分 📍[Googleマップ](https://maps.app.goo.gl/JeC38MStZXtoHAY66)
+**📍 場所：** 新宿御苑前駅2番出口から徒歩5分 📍[Googleマップ](https://maps.app.goo.gl/JeC38MStZXtoHAY66) 📍
 
 **🍱 おすすめメニュー**
 - モーニングサービス（午前11時までドリンク注文時、トースト+卵+バター無料）
@@ -274,9 +274,9 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 **💡 特徴：** 座席が広くコンセント/Wi-Fiが完璧です。旅行の予定を整理したり、ノートパソコン作業をするのに最適な場所です。
 
 **☕ 新宿周辺の他店舗**
-- 新宿三丁目店 📍[Googleマップ](https://maps.app.goo.gl/ZAyptJ4GjuCNMG3c6)
-- 新宿靖国通り店 📍[Googleマップ](https://maps.app.goo.gl/EBZZZ1qFjy15FtUu9)
-- 新宿ファーストウエスト店 📍[Googleマップ](https://maps.app.goo.gl/kdJcyZwC59zbVM9S9)
+- 新宿三丁目店 📍[Googleマップ](https://maps.app.goo.gl/ZAyptJ4GjuCNMG3c6) 📍
+- 新宿靖国通り店 📍[Googleマップ](https://maps.app.goo.gl/EBZZZ1qFjy15FtUu9) 📍
+- 新宿ファーストウエスト店 📍[Googleマップ](https://maps.app.goo.gl/kdJcyZwC59zbVM9S9) 📍
 
 <figure>
   <img src="/images/posts/shinjuku-station-breakfast-best-8-19.jpg" alt="コメダ珈琲の朝メニュー、ドリンク注文時トーストと卵サービス">
@@ -293,7 +293,7 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 - 週末：8:00 〜 18:00
 
 **💰 予算：** モーニングセット550円（11:00まで）
-**📍 場所：** 新宿御苑前駅2番出口から徒歩3分 📍[Googleマップ](https://maps.app.goo.gl/JjbZPcvYrSUqvNz89)
+**📍 場所：** 新宿御苑前駅2番出口から徒歩3分 📍[Googleマップ](https://maps.app.goo.gl/JjbZPcvYrSUqvNz89) 📍
 **✅ [抹茶とおにぎりカフェ、NIGICHAを予約する](https://autoreserve.com/ko/restaurants/goJBXuzNQZk3asDYPi8C?medium_slug=AJvA6Kg5ptKi)**
 
 **🍱 おすすめメニュー**

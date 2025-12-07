@@ -47,8 +47,8 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 ### 1️⃣ 新宿駅西側・西新宿（大型マート型）
 
-- **ビックカメラ新宿西口店（酒類コーナー）** (**📍[Googleマップ↗](https://maps.app.goo.gl/CLDHwXPeaDFkZ9qh6)**)
-- **やまや新宿店（大型酒販店）** (**📍[Googleマップ↗](https://maps.app.goo.gl/PkyvHZvbhXGrypBCA)**)
+- **ビックカメラ新宿西口店（酒類コーナー）** (**📍[Googleマップ↗](https://maps.app.goo.gl/CLDHwXPeaDFkZ9qh6) 📍**)
+- **やまや新宿店（大型酒販店）** (**📍[Googleマップ↗](https://maps.app.goo.gl/PkyvHZvbhXGrypBCA) 📍**)
 
 両店ともウイスキー・日本酒・ワインを一度にショッピングできる「倉庫型」の雰囲気です。
 
@@ -61,9 +61,9 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 ### 2️⃣ 新宿歌舞伎町・東口
 
-- **リカーマウンテン歌舞伎町店** (**📍[Googleマップ↗](https://maps.app.goo.gl/4NnDyF3dRUeAso6L8)**)
-- **信濃屋新宿店** (**📍[Googleマップ↗](https://maps.app.goo.gl/f3JvMt91CncngYGJ7)**)
-- **ウイスキー王国** (**📍[Googleマップ↗](https://maps.app.goo.gl/TPF1xddeSffCZhhW9)**)
+- **リカーマウンテン歌舞伎町店** (**📍[Googleマップ↗](https://maps.app.goo.gl/4NnDyF3dRUeAso6L8) 📍**)
+- **信濃屋新宿店** (**📍[Googleマップ↗](https://maps.app.goo.gl/f3JvMt91CncngYGJ7) 📍**)
+- **ウイスキー王国** (**📍[Googleマップ↗](https://maps.app.goo.gl/TPF1xddeSffCZhhW9) 📍**)
 
 こちらは日本産ウイスキーやレアボトルを発見する確率が少し高いです。
 

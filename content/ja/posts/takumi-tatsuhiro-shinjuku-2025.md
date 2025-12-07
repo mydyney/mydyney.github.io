@@ -79,7 +79,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 - ランチおまかせ: 約19,800円
 - ディナーおまかせ: 約29,700円
 
-- **アクセス 📍 [Googleマップ↗](https://maps.app.goo.gl/xHaQdmEeVdW4zmzm8)**
+- **アクセス 📍 [Googleマップ↗](https://maps.app.goo.gl/xHaQdmEeVdW4zmzm8) 📍**
 
 東京メトロ丸ノ内線 **新宿御苑前駅** 2番出口 徒歩約3分
 

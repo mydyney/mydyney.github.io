@@ -57,7 +57,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 ### 🟢 ガチャガチャの森 新宿サブナード店(ガチャガチャの森)
 
 - **場所:** 新宿サブナード(Subnade)地下商店街(地下1階)
-  *(新宿東口徒歩5分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/QGGTYMzfA1btyUMB6)]**
+  *(新宿東口徒歩5分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/QGGTYMzfA1btyUMB6) 📍]**
 - **営業時間:** 午前10:30～21:00
 - **設置数:** 約1,050面
 - **特徴:** 雨が降ったり暑いときに外に出ずに**地下商店街**を通って移動できるので快適です。
@@ -119,7 +119,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 ### 🟣 C-pla(シープラ)新宿
 
 - **場所:** アドホック(Adhoc)ビル1階&M2階(大通り沿い)
-  *(新宿東口徒歩5分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/QFyUL7AarFphWVzs9)]**
+  *(新宿東口徒歩5分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/QFyUL7AarFphWVzs9) 📍]**
 - **営業時間:** 午前10:00～22:00(遅くまで営業)
 - **設置数:** 約900面
 - **特徴:** サンリオ、ちいかわなど最新流行キャラクターグッズの回転率が非常に速いです。店舗が細長い通路形式になっていて見学しやすいです。
@@ -162,7 +162,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 ### 🔵 namco東京(namco TOKYO)
 
 - **場所:** 新宿歌舞伎町タワー3階
-  *(新宿東口徒歩8分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/E1w5WrhzpAFMi1wt8)]**
+  *(新宿東口徒歩8分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/E1w5WrhzpAFMi1wt8) 📍]**
 - **営業時間:** 11:00～**25:00(深夜1時)**
 - **設置数:** 250面
 - **特徴:** 華やかなネオンサインのサイバーパンクインテリアで写真が本当によく撮れます。ガチャを回しながらバー(Bar)でビールやカクテルを飲める「大人のための遊び場」です。🍻
@@ -208,7 +208,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 ### 🟠 ビックカメラ新宿東口店
 
 - **場所:** ビックカメラ新宿東口店6階
-  *(新宿東口徒歩5分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/WpHWvCfXPY6tWpPD8)]**
+  *(新宿東口徒歩5分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/WpHWvCfXPY6tWpPD8) 📍]**
 - **営業時間:** 10:00～22:00(年中無休)
 - **設置数:** 約100面～150面(規模小)
 - **正直チェック:** 専門ガチャショップ(C-pla、ノモリ)に比べてマシン数が著しく少ないです。新宿ビックカメラガチャショップにはレアアイテムが多いという噂がありますが、実際には在庫がない場合が多いので注意してください。
@@ -233,7 +233,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 ### 🔴 ガシャポン バンダイ オフィシャルショップ(新宿ガシャポン聖地)
 
 - **場所:** 新宿マルイ(OIOI)アネックス百貨店6階
-  *(新宿三丁目駅C4出口 / 新宿駅東南口徒歩8分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/sSrJQBa91TP18xzB7)]**
+  *(新宿三丁目駅C4出口 / 新宿駅東南口徒歩8分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/sSrJQBa91TP18xzB7) 📍]**
 - **営業時間:** 平日11:00～20:00(日曜・祝日10:30オープン)
 - **設置数:** 330面(プレミアムライン)
 - **特徴:** バンダイ公式なので新作入荷が最も速いです。新宿ガチャショップの**クレヨンしんちゃん**、サンリオ、ハイキューなど人気キャラクターラインナップが最も確実な場所です。
@@ -290,7 +290,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 ### 🟡 ME TOKYO SHINJUKU(ミー東京)
 
 - **場所:** ME TOKYO地下1階
-  *(新宿駅東南口徒歩2分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/zAhzpWDSNrrN6ybC9)]**
+  *(新宿駅東南口徒歩2分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/zAhzpWDSNrrN6ybC9) 📍]**
 - **営業時間:** 10:00～**25:00(深夜1時)**
 - **設置数:** 約600面
 - **特徴:** ガチャだけでなく10円クレーンゲーム、最新ステッカー写真機(プリクラ)が集まっています。できたばかりでとてもきれいで、3階にはコスプレ衣装レンタルも可能です。友達と写真を撮って遊ぶのに最適!
@@ -321,7 +321,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 ### 🔵 ヨドバシカメラ ガシャポン館
 
 - **場所:** ヨドバシカメラ新宿西口本店(ガシャポン館)
-  *(新宿西口徒歩5分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/M2sn8XwEu3uQgAxb7)]**
+  *(新宿西口徒歩5分)* **[📍[Googleマップ↗](https://maps.app.goo.gl/M2sn8XwEu3uQgAxb7) 📍]**
 - **営業時間:** **9:30**～22:00 **(オープンが最も早い!)**
 - **設置数:** 約800~1,000面(周辺含む)
 - **特徴:** ヨドバシカメラ建物周辺が全てガチャマシンで囲まれています。地下鉄(京王線、小田急線)利用前後に余った小銭を使い切るのに最適な位置です。

@@ -274,7 +274,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 - JR山手線 **「有楽町駅」(徒歩4分)**
 - 東京メトロ丸ノ内線 **「銀座駅」(徒歩5分)**
 
-📍 [Googleマップ↗](https://maps.app.goo.gl/E9wkbGKhNezMaP4A6)
+📍 [Googleマップ↗](https://maps.app.goo.gl/E9wkbGKhNezMaP4A6) 📍
 
 **東京ミッドタウン日比谷**
 〒100-0006 東京都千代田区有楽町1-1-2

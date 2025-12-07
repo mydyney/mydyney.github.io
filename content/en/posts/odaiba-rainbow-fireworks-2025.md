@@ -64,7 +64,7 @@ This year's <strong>Odaiba Rainbow Fireworks 2025</strong> will be held 5 times 
 
 <strong>📍 Location: Odaiba Seaside Park</strong>
 
-[Odaiba Seaside Park](https://maps.app.goo.gl/e7X9iMPhVFyRgBVH7)
+[Odaiba Seaside Park](https://maps.app.goo.gl/e7X9iMPhVFyRgBVH7) 📍
 
 <figure>
   <img src="/images/posts/odaiba-rainbow-fireworks-2025-02.jpg" alt="Odaiba Seaside Park observation deck fireworks view">
@@ -81,7 +81,7 @@ We've compiled the 2025 latest best spots where you can capture the most beautif
 
 ### 1️⃣ Odaiba Seaside Park Observation Deck (Classic Best Spot)
 
-<strong>📍 [View on Google Maps](https://maps.app.goo.gl/e7X9iMPhVFyRgBVH7)</strong>
+<strong>📍 [View on Google Maps](https://maps.app.goo.gl/e7X9iMPhVFyRgBVH7) 📍</strong>
 
 The main spot most people visit. Close to the launch site with overwhelming presence, perfectly capturing <strong>[Rainbow Bridge + Tokyo Tower + Fireworks]</strong> in one frame.
 
@@ -94,7 +94,7 @@ The main spot most people visit. Close to the launch site with overwhelming pres
 
 ### 2️⃣ Odaiba Seaside Park Photo Spot
 
-<strong>📍 [View on Google Maps](https://maps.app.goo.gl/7com4LiKR9Sf3A6Y7)</strong>
+<strong>📍 [View on Google Maps](https://maps.app.goo.gl/7com4LiKR9Sf3A6Y7) 📍</strong>
 
 Going down from the observation deck reveals the seaside park. No obstructions for fully enjoying the fireworks.
 
@@ -107,7 +107,7 @@ Going down from the observation deck reveals the seaside park. No obstructions f
 
 ### 3️⃣ Sky Walk + Near Statue of Liberty
 
-<strong>📍 [View on Google Maps](https://maps.app.goo.gl/3opQk3mYfpGfhJDP7)</strong>
+<strong>📍 [View on Google Maps](https://maps.app.goo.gl/3opQk3mYfpGfhJDP7) 📍</strong>
 
 The aerial walkway connecting Odaiba Seaside Park and commercial facilities (Aqua City, Decks). Slightly elevated position offers clear views, best for capturing the iconic <strong>[Rainbow Bridge + Fireworks]</strong> photo.
 
@@ -118,7 +118,7 @@ The aerial walkway connecting Odaiba Seaside Park and commercial facilities (Aqu
 
 ### 4️⃣ Aqua City + LOVE Monument Area
 
-<strong>📍 [View on Google Maps](https://maps.app.goo.gl/SNvMRgHkjjJEDjXs9)</strong>
+<strong>📍 [View on Google Maps](https://maps.app.goo.gl/SNvMRgHkjjJEDjXs9) 📍</strong>
 
 Near the 'LOVE' sculpture in front of Aqua City. Captures <strong>[Rainbow Bridge + Statue of Liberty + Fireworks]</strong> in one frame.
 
@@ -131,7 +131,7 @@ Near the 'LOVE' sculpture in front of Aqua City. Captures <strong>[Rainbow Bridg
 
 ### 5️⃣ Decks Tokyo Beach 3F Seaside Terrace
 
-<strong>📍 [View on Google Maps](https://maps.app.goo.gl/Rjef3uQtuN4SrmCJ9)</strong>
+<strong>📍 [View on Google Maps](https://maps.app.goo.gl/Rjef3uQtuN4SrmCJ9) 📍</strong>
 
 View winter illumination and fireworks simultaneously, relatively uncrowded for comfortable viewing.
 

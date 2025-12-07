@@ -53,10 +53,10 @@ Wrap up your day walking along the riverside promenade, discovering another side
 
 ## 📸 Step 1. Shibuya's Icons: Scramble Crossing & Hachiko Statue
 
-The first sight when you exit Shibuya Station - the cinematic <strong>[Scramble Crossing](https://maps.app.goo.gl/A6pV9gJkrg9CLFUU8)</strong>.
+The first sight when you exit Shibuya Station - the cinematic <strong>[Scramble Crossing](https://maps.app.goo.gl/A6pV9gJkrg9CLFUU8) 📍</strong>.
 
-- <strong>Best Photo Spot</strong>: The <strong>[Starbucks 2nd floor](https://maps.app.goo.gl/HuNBNYU6N3hwjzDA9)</strong> window seats across from the crossing are the most famous.
-- <strong>Meeting Point</strong>: Right in front of the crossing stands Shibuya's other symbol, the loyal dog <strong>'[Hachiko Statue](https://maps.app.goo.gl/WGqE4kBVxNPRAbKc9)'</strong> - perfect for photos together.
+- <strong>Best Photo Spot</strong>: The <strong>[Starbucks 2nd floor](https://maps.app.goo.gl/HuNBNYU6N3hwjzDA9) 📍</strong> window seats across from the crossing are the most famous.
+- <strong>Meeting Point</strong>: Right in front of the crossing stands Shibuya's other symbol, the loyal dog <strong>'[Hachiko Statue](https://maps.app.goo.gl/WGqE4kBVxNPRAbKc9) 📍'</strong> - perfect for photos together.
 
 <figure>
   <img src="/images/posts/shibuya-complete-guide-2025-03.jpg" alt="Starbucks 2nd floor window seat overlooking Shibuya Scramble Crossing">
@@ -71,7 +71,7 @@ The first sight when you exit Shibuya Station - the cinematic <strong>[Scramble 
 
 ## 🏙️ Step 2. Tokyo's Best Observatory: Shibuya Sky
 
-**[Shibuya Sky](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) is more than just an observation deck. It's an overwhelming experience of becoming one with Tokyo's sky.** Located on the rooftop of Shibuya Scramble Square, this spot offers 360-degree panoramic views and various attractions, making it a highlight of any Shibuya visit.
+**[Shibuya Sky](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍 is more than just an observation deck. It's an overwhelming experience of becoming one with Tokyo's sky.** Located on the rooftop of Shibuya Scramble Square, this spot offers 360-degree panoramic views and various attractions, making it a highlight of any Shibuya visit.
 
 ### ✅ Reservation: 100% Online Pre-booking Required!
 
@@ -138,7 +138,7 @@ The heart of Shibuya Sky! This rooftop offers overwhelming openness with various
 
 **An urban oasis where you can catch your breath in bustling Shibuya!**
 
-The old park has been reborn as <strong>'[Miyashita Park](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7)'</strong>, a wonderful complex combining hotel, shopping mall, and park. Perfect for enjoying shopping and relaxation simultaneously - a must-visit during your Shibuya trip.
+The old park has been reborn as <strong>'[Miyashita Park](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍'</strong>, a wonderful complex combining hotel, shopping mall, and park. Perfect for enjoying shopping and relaxation simultaneously - a must-visit during your Shibuya trip.
 
 <figure>
   <img src="/images/posts/shibuya-complete-guide-2025-05.jpg" alt="Miyashita Park, urban oasis in Shibuya">
@@ -147,14 +147,14 @@ The old park has been reborn as <strong>'[Miyashita Park](https://maps.app.goo.g
 
 ### ✅ What Can You Do? (Attractions by Floor)
 
-- **[1F Shibuya Yokocho](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7)**  
+- **[1F Shibuya Yokocho](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍**  
 Indoor food stall street on Miyashita Park's 1st floor. The best place to enjoy specialty dishes from all over Japan, from Hokkaido to Okinawa, with drinks.
 
 - **2-3F: Commercial Facilities (RAYARD MIYASHITA PARK)**  
 The 330m-long shopping mall features unique select shops and restaurants. Great for shopping or relaxing at atmospheric cafés.
 
 - **Rooftop: Miyashita Park**  
-A green space with lawns, benches, and sports facilities. The <strong>[Starbucks rooftop terrace](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8)</strong> is especially popular - enjoy coffee while overlooking the park!
+A green space with lawns, benches, and sports facilities. The <strong>[Starbucks rooftop terrace](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8) 📍</strong> is especially popular - enjoy coffee while overlooking the park!
 
 **💡 Recommended:** After visiting Shibuya Sky, take a break at Miyashita Park's Starbucks rooftop. The contrast between the high-rise view and the park's relaxed atmosphere is perfect!
 
@@ -184,7 +184,7 @@ Shibuya is a shopping heaven where the latest trends are born. Here are the esse
 
 **The mecca of Japanese youth fashion!** This landmark building is packed with trendy brands popular among young women. From cute casual wear to street fashion, you'll find the latest styles.
 
-<strong>📍 Location:</strong> [Shibuya 109](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6)  
+<strong>📍 Location:</strong> [Shibuya 109](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍  
 <strong>Hours:</strong> 10:00-21:00  
 <strong>Recommended:</strong> Floors 3-5 for the trendiest items
 
@@ -192,7 +192,7 @@ Shibuya is a shopping heaven where the latest trends are born. Here are the esse
 
 **Character goods and subculture paradise!** Parco is famous for anime, game merchandise, and unique select shops. The Pokémon Center and Nintendo Store are must-visits for fans.
 
-<strong>📍 Location:</strong> [Shibuya Parco](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7)  
+<strong>📍 Location:</strong> [Shibuya Parco](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍  
 <strong>Hours:</strong> 10:00-21:00  
 <strong>Must-See:</strong> 6F Nintendo Tokyo, Pokémon Center
 
@@ -200,7 +200,7 @@ Shibuya is a shopping heaven where the latest trends are born. Here are the esse
 
 **Sophisticated shopping and dining complex.** Connected directly to Shibuya Station, Hikarie offers a more upscale shopping experience with fashion, cosmetics, and gourmet restaurants.
 
-<strong>📍 Location:</strong> [Shibuya Hikarie](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6)  
+<strong>📍 Location:</strong> [Shibuya Hikarie](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍  
 <strong>Hours:</strong> 10:00-21:00 (Restaurants until 23:00)
 
 <div class="image-group-2">
@@ -228,7 +228,7 @@ After shopping, it's time for delicious food! Shibuya offers everything from cas
 - <strong>Price Range:</strong> 500-2,000 yen per dish
 - <strong>Perfect for:</strong> Casual dining, trying various dishes, drinking with friends
 
-<strong>📍 Location:</strong> [Shibuya Yokocho](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7)  
+<strong>📍 Location:</strong> [Shibuya Yokocho](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍  
 <strong>Hours:</strong> 11:00-23:00 (Some stalls until 05:00)
 
 ### 🍣 Recommended Restaurants
@@ -249,7 +249,7 @@ Specialty chicken hot pot restaurant, perfect for groups.
 
 ## 🌆 Step 6. Evening Finale: Shibuya Stream
 
-End your Shibuya day with a peaceful walk along <strong>[Shibuya Stream](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8)</strong>, a riverside complex that opened in 2018.
+End your Shibuya day with a peaceful walk along <strong>[Shibuya Stream](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8) 📍</strong>, a riverside complex that opened in 2018.
 
 <strong>What makes it special:</strong>
 - Riverside promenade along the Shibuya River

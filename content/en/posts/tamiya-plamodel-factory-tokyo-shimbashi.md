@@ -63,7 +63,7 @@ Here's the most important basic information. Business hours have changed, so ple
 - **Official Name:** TAMIYA PLAMODEL FACTORY TOKYO
 - **Address:** 1F Shintora Yasuda Bldg, 4-3-1 Shimbashi, Minato-ku, Tokyo
 
-📍[**Google Maps↗**](https://maps.app.goo.gl/zFgwQXEVBUayVZ1r8)
+📍[**Google Maps↗**](https://maps.app.goo.gl/zFgwQXEVBUayVZ1r8) 📍
 
 **🚇 Subway Access:**
 - JR Shimbashi Station (Karasumori Exit): 5-minute walk

@@ -49,8 +49,8 @@ Liquor shops are mainly clustered in two areas: 'Nishi-Shinjuku (West)' and 'Kab
 
 ### 1️⃣ Shinjuku Station West Exit / Nishi-Shinjuku (Large Mart Style)
 
-- **Bic Camera Shinjuku West Exit Store (Liquor Corner)** (**📍[Google Maps↗](https://maps.app.goo.gl/CLDHwXPeaDFkZ9qh6)**)
-- **Yamaya Shinjuku Store (Large Liquor Mart)** (**📍[Google Maps↗](https://maps.app.goo.gl/PkyvHZvbhXGrypBCA)**)
+- **Bic Camera Shinjuku West Exit Store (Liquor Corner)** (**📍[Google Maps↗](https://maps.app.goo.gl/CLDHwXPeaDFkZ9qh6) 📍**)
+- **Yamaya Shinjuku Store (Large Liquor Mart)** (**📍[Google Maps↗](https://maps.app.goo.gl/PkyvHZvbhXGrypBCA) 📍**)
 
 Both locations offer a "warehouse-style" experience where you can shop for whisky, sake, and wine all at once.
 
@@ -63,9 +63,9 @@ Easy tax-free shopping and great for getting a sense of prices.
 
 ### 2️⃣ Shinjuku Kabukicho / East Exit
 
-- **Liquor Mountain Kabukicho Store** (**📍[Google Maps↗](https://maps.app.goo.gl/4NnDyF3dRUeAso6L8)**)
-- **Shinanoya Shinjuku Store** (**📍[Google Maps↗](https://maps.app.goo.gl/f3JvMt91CncngYGJ7)**)
-- **Whisky Kingdom** (ウイスキー王国) (**📍[Google Maps↗](https://maps.app.goo.gl/TPF1xddeSffCZhhW9)**)
+- **Liquor Mountain Kabukicho Store** (**📍[Google Maps↗](https://maps.app.goo.gl/4NnDyF3dRUeAso6L8) 📍**)
+- **Shinanoya Shinjuku Store** (**📍[Google Maps↗](https://maps.app.goo.gl/f3JvMt91CncngYGJ7) 📍**)
+- **Whisky Kingdom** (ウイスキー王国) (**📍[Google Maps↗](https://maps.app.goo.gl/TPF1xddeSffCZhhW9) 📍**)
 
 This area has a slightly higher chance of finding Japanese whisky or rare bottles.
 

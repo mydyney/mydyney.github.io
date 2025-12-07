@@ -64,7 +64,7 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 <strong>📍 場所：お台場海浜公園</strong>
 
-[お台場海浜公園](https://maps.app.goo.gl/e7X9iMPhVFyRgBVH7)
+[お台場海浜公園](https://maps.app.goo.gl/e7X9iMPhVFyRgBVH7) 📍
 
 <figure>
   <img src="/images/posts/odaiba-rainbow-fireworks-2025-02.jpg" alt="お台場海浜公園展望デッキからの花火ビュー">
@@ -81,7 +81,7 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 ### 1️⃣ お台場海浜公園展望デッキ（定番ベストスポット）
 
-<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/e7X9iMPhVFyRgBVH7)</strong>
+<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/e7X9iMPhVFyRgBVH7) 📍</strong>
 
 ほとんどの人が訪れるメインスポット。打ち上げ場所に近く、圧倒的な存在感で、<strong>[レインボーブリッジ＋東京タワー＋花火]</strong>を一枚のフレームに完璧に収められます。
 
@@ -94,7 +94,7 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 ### 2️⃣ お台場海浜公園フォトスポット
 
-<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/7com4LiKR9Sf3A6Y7)</strong>
+<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/7com4LiKR9Sf3A6Y7) 📍</strong>
 
 展望デッキから降りると海浜公園が現れます。障害物がなく、花火を完全に楽しめます。
 
@@ -107,7 +107,7 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 ### 3️⃣ スカイウォーク＋自由の女神像付近
 
-<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/3opQk3mYfpGfhJDP7)</strong>
+<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/3opQk3mYfpGfhJDP7) 📍</strong>
 
 お台場海浜公園と商業施設（アクアシティ、デックス）を結ぶ空中歩道。少し高い位置から明瞭な景色が楽しめ、象徴的な<strong>[レインボーブリッジ＋花火]</strong>の写真を撮るのに最適です。
 
@@ -118,7 +118,7 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 ### 4️⃣ アクアシティ＋LOVEモニュメントエリア
 
-<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/SNvMRgHkjjJEDjXs9)</strong>
+<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/SNvMRgHkjjJEDjXs9) 📍</strong>
 
 アクアシティ前の「LOVE」彫刻の近く。<strong>[レインボーブリッジ＋自由の女神像＋花火]</strong>を一枚のフレームに収められます。
 
@@ -131,7 +131,7 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 ### 5️⃣ デックス東京ビーチ3Fシーサイドテラス
 
-<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/Rjef3uQtuN4SrmCJ9)</strong>
+<strong>📍 [Googleマップで見る](https://maps.app.goo.gl/Rjef3uQtuN4SrmCJ9) 📍</strong>
 
 冬のイルミネーションと花火を同時に鑑賞でき、比較的混雑が少なく快適に観覧できます。
 

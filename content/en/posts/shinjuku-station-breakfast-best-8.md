@@ -56,27 +56,27 @@ We've organized breakfast spots that are easy to reach right after storing lugga
 
 
 **1️⃣ West Exit (Towards Tokyo Metropolitan Government Building)**
-**① Shinpachi Shokudo West Exit Branch** 📍[Google Maps](https://maps.app.goo.gl/njDGY8tX3gahwLqF9)
+**① Shinpachi Shokudo West Exit Branch** 📍[Google Maps](https://maps.app.goo.gl/njDGY8tX3gahwLqF9) 📍
 Start your day strong with hearty grilled fish set meals.
-**② Onimaru Nishi-Shinjuku** 📍[Google Maps](https://maps.app.goo.gl/VkHo3S7FNbyJ7F2G8)
+**② Onimaru Nishi-Shinjuku** 📍[Google Maps](https://maps.app.goo.gl/VkHo3S7FNbyJ7F2G8) 📍
 Perfect for takeout to Tokyo Metropolitan Government Observatory.
 
 **2️⃣ South/New South Exit (Towards Busta Shinjuku)**
-**③ Bakery & Restaurant Sawamura (NEWoMAN 2F)** 📍[Google Maps](https://maps.app.goo.gl/Mm4DmFaAhT5e2rRF7)
+**③ Bakery & Restaurant Sawamura (NEWoMAN 2F)** 📍[Google Maps](https://maps.app.goo.gl/Mm4DmFaAhT5e2rRF7) 📍
 Luxurious bread and dishes complete your Shinjuku brunch routine.
-**④ Blue Bottle Coffee Shinjuku (NEWoMAN 1F)** 📍[Google Maps](https://maps.app.goo.gl/W25veK3eSjBy6PpE6)
+**④ Blue Bottle Coffee Shinjuku (NEWoMAN 1F)** 📍[Google Maps](https://maps.app.goo.gl/W25veK3eSjBy6PpE6) 📍
 Perfect coffee before heading to airport. Great for "last coffee" after storing luggage.
-**⑤ Dashi Chazuke EN (Lumine1 B2F)** 📍[Google Maps](https://maps.app.goo.gl/6eCuF9LhMmS3mRht9)
+**⑤ Dashi Chazuke EN (Lumine1 B2F)** 📍[Google Maps](https://maps.app.goo.gl/6eCuF9LhMmS3mRht9) 📍
 Direct station connection. Accessible even on rainy days without umbrella.
 
 **3️⃣ East Exit (Towards Kabukicho)**
-**⑥ BERG (Lumine EST B1F)** 📍[Google Maps](https://maps.app.goo.gl/TzDmGCoHPFWTAziS9)
+**⑥ BERG (Lumine EST B1F)** 📍[Google Maps](https://maps.app.goo.gl/TzDmGCoHPFWTAziS9) 📍
 Local legend. Enjoy authentic Shinjuku vibes with morning set and beer.
 
 **4️⃣ Southeast Exit (Towards Shinjuku Gyoen)**
-**⑦ Komeda's Coffee Shinjuku Gyoen** 📍[Google Maps](https://maps.app.goo.gl/JeC38MStZXtoHAY66)
+**⑦ Komeda's Coffee Shinjuku Gyoen** 📍[Google Maps](https://maps.app.goo.gl/JeC38MStZXtoHAY66) 📍
 Spacious seats + outlets. Great value morning service (free toast).
-**⑧ NIGICHA** 📍[Google Maps](https://maps.app.goo.gl/JjbZPcvYrSUqvNz89)
+**⑧ NIGICHA** 📍[Google Maps](https://maps.app.goo.gl/JjbZPcvYrSUqvNz89) 📍
 Matcha + handmade onigiri. Perfect for Shinjuku Gyoen picnic breakfast.
 
 <figure>
@@ -91,7 +91,7 @@ Matcha + handmade onigiri. Perfect for Shinjuku Gyoen picnic breakfast.
 **🐟 Restaurant Type:** Japanese home-style set meals / Charcoal-grilled fish specialty
 **🕖 Hours:** 7:00 ~ 23:00 (Open year-round)
 **💰 Budget:** Around 600 yen for breakfast set
-**📍 Location:** 5 min walk from Shinjuku Station West Exit 📍[Google Maps](https://maps.app.goo.gl/njDGY8tX3gahwLqF9)
+**📍 Location:** 5 min walk from Shinjuku Station West Exit 📍[Google Maps](https://maps.app.goo.gl/njDGY8tX3gahwLqF9) 📍
 
 **🍱 Recommended Menu (Breakfast Set 朝定食)**
 - **Breakfast Salted Salmon Set:** Most popular! Savory and rich grilled salmon.
@@ -101,9 +101,9 @@ Matcha + handmade onigiri. Perfect for Shinjuku Gyoen picnic breakfast.
 **💡 Features:** Freshly charcoal-grilled fish served immediately after ordering, comes with rice, soup, and pickled side dishes. Convenient kiosk ordering (Korean language supported). Don't miss the morning beer (160 yen)!
 
 **🐟 Other Shinjuku Area Branches (Early Morning Opening!)**
-- **Seibu-Shinjuku Branch** 4:00~27:00 / 5 min walk from East Exit **[📍Google Maps](https://maps.app.goo.gl/QBJwUFfYDv4MJnRx7)**
-- **Shinjuku Southeast Branch** 4:00~27:00 / 3 min walk from Southeast Exit **[📍Google Maps](https://maps.app.goo.gl/uCcN9jWfhsCV39Lv5)**
-- **Shinjuku Gyoen Branch** 7:00~23:00 / 1 min from Gyoenmae Station **[📍Google Maps](https://maps.app.goo.gl/UsYyz5rN1JvQPx7z8)**
+- **Seibu-Shinjuku Branch** 4:00~27:00 / 5 min walk from East Exit **[📍Google Maps](https://maps.app.goo.gl/QBJwUFfYDv4MJnRx7) 📍**
+- **Shinjuku Southeast Branch** 4:00~27:00 / 3 min walk from Southeast Exit **[📍Google Maps](https://maps.app.goo.gl/uCcN9jWfhsCV39Lv5) 📍**
+- **Shinjuku Gyoen Branch** 7:00~23:00 / 1 min from Gyoenmae Station **[📍Google Maps](https://maps.app.goo.gl/UsYyz5rN1JvQPx7z8) 📍**
 
 <figure>
   <img src="/images/posts/shinjuku-station-breakfast-best-8-04.jpg" alt="Shinpachi Shokudo breakfast menu at Shinjuku">
@@ -125,7 +125,7 @@ Matcha + handmade onigiri. Perfect for Shinjuku Gyoen picnic breakfast.
 - Weekends 9:00 ~ 21:00
 
 **💰 Budget:** Around 400 yen per piece
-**📍 Location:** 7 min walk from Shinjuku Station West Exit 📍[Google Maps](https://maps.app.goo.gl/VkHo3S7FNbyJ7F2G8)
+**📍 Location:** 7 min walk from Shinjuku Station West Exit 📍[Google Maps](https://maps.app.goo.gl/VkHo3S7FNbyJ7F2G8) 📍
 
 **🍱 Recommended Menu**
 Shrimp tempura musubi, Mentaiko mayo onigiri
@@ -153,7 +153,7 @@ Characterized by thick size and full toppings. A favorite spot for working profe
 - Restaurant 7:00 ~ 23:00
 
 **💰 Budget:** 2,000~3,000 yen for brunch set
-**📍 Location:** NEWoMan 2F Food Hall (Direct connection to New South Exit) 📍[Google Maps](https://maps.app.goo.gl/Mm4DmFaAhT5e2rRF7)
+**📍 Location:** NEWoMan 2F Food Hall (Direct connection to New South Exit) 📍[Google Maps](https://maps.app.goo.gl/Mm4DmFaAhT5e2rRF7) 📍
 
 **🍱 Recommended Menu**
 - French toast set, Freshly baked croissant
@@ -182,7 +182,7 @@ Characterized by thick size and full toppings. A favorite spot for working profe
 **☕ Restaurant Type:** Specialty Coffee / Cafe
 **🕖 Hours:** 8:00 ~ 21:00 / Sundays ~ 20:30 (Open year-round)
 **💰 Budget:** Around 1,300 yen for coffee + waffle
-**📍 Location:** NEWoMan 1F (Direct connection to New South Exit) 📍[Google Maps](https://maps.app.goo.gl/W25veK3eSjBy6PpE6)
+**📍 Location:** NEWoMan 1F (Direct connection to New South Exit) 📍[Google Maps](https://maps.app.goo.gl/W25veK3eSjBy6PpE6) 📍
 
 **🍱 Recommended Menu**
 Single origin drip coffee, New Orleans iced coffee
@@ -218,7 +218,7 @@ Single origin drip coffee, New Orleans iced coffee
 **🥣 Restaurant Type:** Ochazuke (Dashi Chazuke) Specialty
 **🕖 Hours:** 8:00 ~ 22:00 / Open year-round
 **💰 Budget:** Around 1,000 yen for ochazuke set
-**📍 Location:** Lumine1 B2F (Direct station connection) 📍[Google Maps](https://maps.app.goo.gl/6eCuF9LhMmS3mRht9)
+**📍 Location:** Lumine1 B2F (Direct station connection) 📍[Google Maps](https://maps.app.goo.gl/6eCuF9LhMmS3mRht9) 📍
 
 **🍱 Recommended Menu**
 Sea bream (tai) ochazuke, Mentaiko ochazuke
@@ -237,7 +237,7 @@ Sea bream (tai) ochazuke, Mentaiko ochazuke
 **🍽️ Restaurant Type:** Pub & Cafe / Morning Set
 **🕖 Hours:** 7:00 ~ 23:00 / Open year-round
 **💰 Budget:** 399 yen for morning set (until 12:00)
-**📍 Location:** Lumine EST B1F (Near East Exit ticket gate) 📍[Google Maps](https://maps.app.goo.gl/TzDmGCoHPFWTAziS9)
+**📍 Location:** Lumine EST B1F (Near East Exit ticket gate) 📍[Google Maps](https://maps.app.goo.gl/TzDmGCoHPFWTAziS9) 📍
 
 **🍱 Recommended Menu**
 Morning set (toast+coffee+sausage), Hot dog, Morning beer
@@ -266,7 +266,7 @@ Morning set (toast+coffee+sausage), Hot dog, Morning beer
 **☕ Restaurant Type:** Cafe / Morning Service
 **🕖 Hours:** 7:00 ~ 20:00 (Open year-round)
 **💰 Budget:** 500~700 yen for morning service
-**📍 Location:** 5 min walk from Shinjuku-Gyoenmae Station Exit 2 📍[Google Maps](https://maps.app.goo.gl/JeC38MStZXtoHAY66)
+**📍 Location:** 5 min walk from Shinjuku-Gyoenmae Station Exit 2 📍[Google Maps](https://maps.app.goo.gl/JeC38MStZXtoHAY66) 📍
 
 **🍱 Recommended Menu**
 - Morning service (free toast + egg + butter with drink order before 11 AM)
@@ -274,9 +274,9 @@ Morning set (toast+coffee+sausage), Hot dog, Morning beer
 **💡 Features:** Spacious seats with perfect outlets/Wi-Fi. Ideal place to organize your travel plans or work on laptop.
 
 **☕ Other Shinjuku Area Branches**
-- Shinjuku Sanchome 📍[Google Maps](https://maps.app.goo.gl/ZAyptJ4GjuCNMG3c6)
-- Shinjuku Yasukuni-dori 📍[Google Maps](https://maps.app.goo.gl/EBZZZ1qFjy15FtUu9)
-- Shinjuku First West 📍[Google Maps](https://maps.app.goo.gl/kdJcyZwC59zbVM9S9)
+- Shinjuku Sanchome 📍[Google Maps](https://maps.app.goo.gl/ZAyptJ4GjuCNMG3c6) 📍
+- Shinjuku Yasukuni-dori 📍[Google Maps](https://maps.app.goo.gl/EBZZZ1qFjy15FtUu9) 📍
+- Shinjuku First West 📍[Google Maps](https://maps.app.goo.gl/kdJcyZwC59zbVM9S9) 📍
 
 <figure>
   <img src="/images/posts/shinjuku-station-breakfast-best-8-19.jpg" alt="Komeda's Coffee morning menu with complimentary toast and egg">
@@ -293,7 +293,7 @@ Morning set (toast+coffee+sausage), Hot dog, Morning beer
 - Weekends: 8:00 ~ 18:00
 
 **💰 Budget:** 550 yen for morning set (until 11:00)
-**📍 Location:** 3 min walk from Shinjuku-Gyoenmae Station Exit 2 📍[Google Maps](https://maps.app.goo.gl/JjbZPcvYrSUqvNz89)
+**📍 Location:** 3 min walk from Shinjuku-Gyoenmae Station Exit 2 📍[Google Maps](https://maps.app.goo.gl/JjbZPcvYrSUqvNz89) 📍
 **✅ [Reserve Matcha & Onigiri Cafe NIGICHA](https://autoreserve.com/ko/restaurants/goJBXuzNQZk3asDYPi8C?medium_slug=AJvA6Kg5ptKi)**
 
 **🍱 Recommended Menu**

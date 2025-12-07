@@ -79,7 +79,7 @@ This creates a very clean flow.
 - Lunch Omakase: approximately 19,800 yen
 - Dinner Omakase: approximately 29,700 yen
 
-- **How to Get There 📍 [Google Maps↗](https://maps.app.goo.gl/xHaQdmEeVdW4zmzm8)**
+- **How to Get There 📍 [Google Maps↗](https://maps.app.goo.gl/xHaQdmEeVdW4zmzm8) 📍**
 
 Tokyo Metro Marunouchi Line **Shinjuku Gyoenmae Station** Exit 2, approximately 3 minutes on foot
 
