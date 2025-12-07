@@ -190,6 +190,86 @@ mydyney.github.io/
 
 ## Development Workflows
 
+### Blog Migration Workflow (Naver → Hugo)
+
+Complete step-by-step process for migrating a Naver blog post to Hugo:
+
+#### Step 1: User Provides Naver Blog URL
+```
+User: "https://blog.naver.com/tokyomate/[POST_ID]"
+```
+
+#### Step 2: Claude Fetches Content
+```bash
+python3 fetch_content.py [URL]
+# Generates: naver.html
+```
+
+#### Step 3: Claude Analyzes and Creates Blog Posts
+
+**Analysis:**
+- Count images and verify order
+- Load LINK_MAPPING.md for internal link conversion
+- Identify all Naver links in content
+
+**Content Creation:**
+- Create `content/en/posts/[slug].md`
+- Create `content/ja/posts/[slug].md`
+- ⚠️ **CRITICAL: IMAGE POSITIONING**
+  * Verify ALL images from original blog
+  * Content MUST match image positions EXACTLY
+  * Same image at same position = same content context
+  * Never add content not in original blog
+- ⚠️ **CRITICAL: CULTURAL ADAPTATION**
+  * EN: American English, US cultural references
+  * JA: Japanese cultural nuances and expressions
+  * Proper localization, not just translation
+
+**LINK_MAPPING.md Updates:**
+- Add new entry to Quick Reference Table
+- Add slug to `declare -A MAPPINGS` array
+- Check and update Pending References
+- Update placeholder links in existing posts
+
+#### Step 4: Claude Downloads Images
+```bash
+python3 download_naver_images.py naver.html "[slug]"
+# Downloads to: static/images/posts/[slug]-01.jpg, [slug]-02.jpg, ...
+# Auto-converts to JPG format
+```
+
+#### Step 5: Claude Provides Local Preview Links
+```
+EN: http://localhost:1313/posts/[slug]/
+JA: http://localhost:1313/ja/posts/[slug]/
+```
+
+#### Step 6: User Reviews and Confirms
+```
+User: "OK" or provides feedback
+```
+
+#### Step 7: Claude Deploys to GitHub
+```bash
+git add .
+git commit -m "Add [slug] blog post (EN/JA)
+
+New Content:
+- Created comprehensive [topic] guide
+- Added [N] images
+- Both English and Japanese versions
+
+Link Updates:
+- Updated LINK_MAPPING.md
+- Activated links in [N] existing posts
+
+Naver ID: [POST_ID]
+Slug: [slug]"
+git push
+```
+
+---
+
 ### Local Development
 
 ```bash
