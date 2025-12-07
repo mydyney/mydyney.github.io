@@ -134,7 +134,7 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024530348
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-art-night-guide/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 【詳しく見る】六本木アートナイト おすすめラインナップ</strong></a></p>
 
 <table class="schedule-table">
@@ -145,7 +145,7 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
     <tr><td><strong>💸 料金</strong></td><td><strong>ほとんど無料（一部展示は有料）</strong></td></tr>
     <tr><td><strong>💡 ポイント</strong></td><td><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /ja/posts/[SLUG_TBD]/ --><strong><a href="#" style="color: #667eea;">六本木の遊びスポット</a>と合わせて、自分だけのアートツアーコースを作れます！</strong></td></tr>
+     Hugo: /ja/posts/roppongi-attractions-guide/ --><strong><a href="#" style="color: #667eea;">六本木の遊びスポット</a>と合わせて、自分だけのアートツアーコースを作れます！</strong></td></tr>
   </tbody>
 </table>
 
@@ -211,12 +211,12 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223988228389
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <p><a href="#" style="color: #667eea;"><strong>→【詳しく見る】六本木の遊び場完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
+     Hugo: /ja/posts/ginza-guide-2025/ -->
 <p><a href="#" style="color: #667eea;"><strong>→【詳しく見る】銀座のおすすめスポット、地元民推薦コース（ショッピング、グルメ、裏技）</strong></a></p>
 
 </div>
