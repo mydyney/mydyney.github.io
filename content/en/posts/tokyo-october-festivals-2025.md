@@ -60,7 +60,7 @@ A massive dance festival that shakes up Ikebukuro! Over 100 teams from across Ja
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223980166231
      Hugo: /posts/harajuku-omotesando-super-yosakoi/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ August Tokyo Festival: Harajuku Omotesando Super Yosakoi</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ August Tokyo Festival: Harajuku Omotesando Super Yosakoi</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-october-festivals-2025-02.jpg" alt="Super Yosakoi dancers performing at 2025 Harajuku Omotesando festival">
@@ -244,7 +244,7 @@ October marks the prelude to Tokyo's full autumn foliage season. While downtown 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
      Hugo: /posts/hakone-day-trip-course/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Hakone Travel: Day Trip vs Ryokan 1-Night Perfect Course (Hakone Free Pass, Romancecar Reservations)</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Hakone Travel: Day Trip vs Ryokan 1-Night Perfect Course (Hakone Free Pass, Romancecar Reservations)</strong></a>
 
 ### 4. 🍂 Tokyo Downtown Parks (Meiji Jingu Gaien, etc.)
 
@@ -269,11 +269,11 @@ Curious about other attractions in the festival areas? Check out these guides:
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /posts/ginza-guide-2025/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Roppongi Attractions Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Roppongi Attractions Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
 
 </div>

@@ -404,7 +404,7 @@ JR新宿駅から歩くこともできますが、**新宿御苑前駅が最も�
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">新宿うどんグルメ、切麦や 甚六待ち時間のヒントとおすすめメニュー↗</a>**
+<a href="javascript:void(0)" style="color: #667eea;">新宿うどんグルメ、切麦や 甚六待ち時間のヒントとおすすめメニュー↗</a>**
 
 **5. 金色不如帰（こんじきほととぎす）新宿御苑本店 (<a href="https://maps.app.goo.gl/zCcbYP5JQYeJm31y9" target="_blank">Googleマップ↗</a>)**
 - 2025年ミシュランビブグルマン

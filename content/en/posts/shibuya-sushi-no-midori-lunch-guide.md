@@ -123,7 +123,7 @@ If you have 30+ minutes left, go shopping at KALDI or Daiso in Mark City basemen
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><strong>➡️ <a href="#" style="color: #667eea;">Japan Kaldi Shopping List: Must-Buy Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</a></strong></p>
+<p><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">Japan Kaldi Shopping List: Must-Buy Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</a></strong></p>
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-05.jpg" alt="Sushi no Midori ticket machine and QR code wait tracking system display">

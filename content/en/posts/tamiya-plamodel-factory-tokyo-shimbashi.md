@@ -228,14 +228,14 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores + Additional Discounts)</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores + Additional Discounts)</strong></a>
 
 **➡️** <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Don Quijote Shopping List Must-Buy Items & Discount Coupons, Tax-Free Methods Complete Guide (Rayu, Eye Drops, etc.)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List, Must-Buy Kaldi Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>Japan Kaldi Shopping List, Must-Buy Kaldi Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /posts/japan-convenience-store-shopping-best-10/

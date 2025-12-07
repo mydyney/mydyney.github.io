@@ -243,7 +243,7 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025明治神宮外苑クリスマスマーケット入場券・マグカップ特典</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>2025明治神宮外苑クリスマスマーケット入場券・マグカップ特典</strong></a>
 
 <figure>
   <img src="/images/posts/hibiya-park-tokyo-guide-12.jpg" alt="東京都心のど真ん中で出会った日比谷公園の秋風景">
@@ -265,11 +265,11 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/hibiya-midtown-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025東京ミッドタウン日比谷イルミネーション・ズートピア2コラボ</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>2025東京ミッドタウン日比谷イルミネーション・ズートピア2コラボ</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>銀座おすすめスポット・失敗なしのショッピング・グルメ・ルート完全ガイド</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>銀座おすすめスポット・失敗なしのショッピング・グルメ・ルート完全ガイド</strong></a>
 
 </div>

@@ -194,21 +194,21 @@ A：イチョウ並木は「青山」地域にあります。「表参道」と�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>表参道完璧ガイド：コーヒー、ショッピング、レストラン、建築まで完全整理（おすすめコース）</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>表参道完璧ガイド：コーヒー、ショッピング、レストラン、建築まで完全整理（おすすめコース）</strong></a>
 
 - **渋谷** → スカイ展望台・ショッピングルート
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>渋谷の見どころ：渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>渋谷の見どころ：渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong></a>
 
 - **六本木** → イルミネーション・夜景・森美術館
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>六本木の見どころ完全ガイド（展望台、美術館、ショッピング、レストラン A to Z）</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>六本木の見どころ完全ガイド（展望台、美術館、ショッピング、レストラン A to Z）</strong></a>
 
 **➡️** <a href="/ja/posts/roppongi-christmas-illumination-2025/"><strong>六本木イルミネーション2025：期間、点灯時間、必須スポット、六本木ヒルズクリスマスマーケット完璧ガイド</strong></a>
 

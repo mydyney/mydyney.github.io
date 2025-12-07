@@ -363,28 +363,28 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-luggage-storage/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-- **荷物の心配終わり!** **➡️ <a href="#" style="color: #667eea;"><strong>新宿駅荷物保管100%成功法、コインロッカー位置&裏技</strong></a>**
+- **荷物の心配終わり!** **➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>新宿駅荷物保管100%成功法、コインロッカー位置&裏技</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-station-breakfast-best-8/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-- **7時開店の朝食店!** **➡️ <a href="#" style="color: #667eea;"><strong>新宿駅朝食 7~8時オープン・ブランチ・家庭料理</strong></a>**
+- **7時開店の朝食店!** **➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>新宿駅朝食 7~8時オープン・ブランチ・家庭料理</strong></a>**
 
 - **スケジュール計画** **➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿グルメ・ショッピング・遊び完璧整理コース</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-gyoen-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-- **紅葉ピクニック** ➡️ **<a href="#" style="color: #667eea;"><strong>新宿御苑入場料・時間・スターバックス・ピクニックガイド</strong></a>**
+- **紅葉ピクニック** ➡️ **<a href="javascript:void(0)" style="color: #667eea;"><strong>新宿御苑入場料・時間・スターバックス・ピクニックガイド</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-metropolitan-govt-observatory/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-- **無料夜景** **➡️ <a href="#" style="color: #667eea;"><strong>東京都庁無料展望台行き方・夜景名所チップ</strong></a>**
+- **無料夜景** **➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京都庁無料展望台行き方・夜景名所チップ</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-- **新宿の夜 ➡️ <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 比較</strong></a>**
+- **新宿の夜 ➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 比較</strong></a>**
 
 </div>

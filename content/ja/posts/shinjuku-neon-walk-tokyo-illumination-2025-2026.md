@@ -319,7 +319,7 @@ Tokyo Mateでした！
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 完全比較（2025最新版）</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 完全比較（2025最新版）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300

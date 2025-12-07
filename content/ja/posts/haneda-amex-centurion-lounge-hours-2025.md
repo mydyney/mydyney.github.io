@@ -159,11 +159,11 @@ featured_image: "/images/posts/haneda-amex-centurion-lounge-hours-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223956785387
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;"><strong>→ 羽田空港アメックスセンチュリオンラウンジオープン訪問レビュー（食事、ラーメン、デザート）</strong></a></p>
+<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ 羽田空港アメックスセンチュリオンラウンジオープン訪問レビュー（食事、ラーメン、デザート）</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223996626324
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;"><strong>→ 羽田空港出国完全ガイド：早朝バス、チェックイン、グルメ、免税店、ラウンジ、温泉、カプセルホテル総まとめ</strong></a></p>
+<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ 羽田空港出国完全ガイド：早朝バス、チェックイン、グルメ、免税店、ラウンジ、温泉、カプセルホテル総まとめ</strong></a></p>
 
 </div>

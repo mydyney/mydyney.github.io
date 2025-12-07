@@ -126,7 +126,7 @@ If the ticket price seems too high, check out the hidden 'free observation deck'
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700095268
      Hugo: /posts/tokyo-skytree-free-observatory/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Free Observatory: SKYTREE VIEW</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Skytree Free Observatory: SKYTREE VIEW</strong></a>**
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-06.jpg" alt="Tokyo Skytree two observation decks Tembo Deck and Tembo Galleria comparison">
@@ -180,7 +180,7 @@ Exclusive "Ascending Rayquaza" limited edition goods only available here!
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223695518100
      Hugo: /posts/tokyo-skytree-pokemon-center-review/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Town Pokemon Center Detailed Review</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Skytree Town Pokemon Center Detailed Review</strong></a>**
 
 <div class="image-group-2">
   <figure>
@@ -230,7 +230,7 @@ Want tips to avoid the massive wait?
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223697732942
      Hugo: /posts/tokyo-skytree-triton-sushi-guide/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Conveyor Belt Sushi Restaurant Triton (Queue Number Tips)</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Skytree Conveyor Belt Sushi Restaurant Triton (Queue Number Tips)</strong></a>**
 
 <div class="image-group-2">
   <figure>
@@ -266,7 +266,7 @@ Perfect for rich matcha ice cream after shopping.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223699626846
      Hugo: /posts/tokyo-skytree-gion-tsujiri-matcha/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Dessert Spot: Gion Tsujiri Matcha Ice Cream Review</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Skytree Dessert Spot: Gion Tsujiri Matcha Ice Cream Review</strong></a>**
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-19.jpg" alt="Gion Tsujiri matcha ice cream and desserts at Tokyo Skytree">
@@ -296,7 +296,7 @@ During winter season, spectacular Christmas markets and illuminations are held r
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700200846
      Hugo: /posts/tokyo-skytree-illumination-guide/ -->
-➡️ **<a href="#" style="color: #667eea;"><strong>Tokyo Skytree Illumination & Christmas Market Detailed Review</strong></a>**
+➡️ **<a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Skytree Illumination & Christmas Market Detailed Review</strong></a>**
 
 <div class="image-group-2">
   <figure>

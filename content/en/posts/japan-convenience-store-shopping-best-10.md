@@ -480,8 +480,8 @@ Check out these related articles!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List Must-Buy Recommendations</strong></a><br>
-<a href="#" style="color: #667eea;">Coffee, snacks, and gourmet food guide</a></p>
+<p style="text-align: center;"><strong>☕</strong> <a href="javascript:void(0)" style="color: #667eea;"><strong>Japan Kaldi Shopping List Must-Buy Recommendations</strong></a><br>
+<a href="javascript:void(0)" style="color: #667eea;">Coffee, snacks, and gourmet food guide</a></p>
 
 ---
 

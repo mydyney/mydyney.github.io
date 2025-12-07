@@ -150,11 +150,11 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /ja/posts/omotesando-guide-2025/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>表参道完璧ガイド（パンプキンパレードと一緒に楽しむ）</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>表参道完璧ガイド（パンプキンパレードと一緒に楽しむ）</strong></a>**
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>六本木完璧ガイド（ハロウィンスタンプラリーと一緒に楽しむ）</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>六本木完璧ガイド（ハロウィンスタンプラリーと一緒に楽しむ）</strong></a>**
 
 </div>

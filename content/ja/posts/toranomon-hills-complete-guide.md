@@ -101,7 +101,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223913830951
      Hugo: /ja/posts/toranomon-hills-yakitori-nonotori/ -->
-➡️ <a href="#" style="color: #667eea;"><strong>焼き鳥おまかせ、野野鳥げん長レビュー</strong></a>
+➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>焼き鳥おまかせ、野野鳥げん長レビュー</strong></a>
 
 <figure>
   <img src="/images/posts/toranomon-hills-complete-guide-05.jpg" alt="2024年オープン虎ノ門ヒルズステーションタワー新スポットT-Market入口">
@@ -218,6 +218,6 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
-➡️ <a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、グルメ）</strong></a>
+➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、グルメ）</strong></a>
 
 </div>

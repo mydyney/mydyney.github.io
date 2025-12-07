@@ -297,6 +297,6 @@ Have a wonderful Tokyo trip! :D
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224037212344
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Kichijoji Travel Course: Boutique Shop Tour & Inokashira Park (Ghibli Museum)</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>Kichijoji Travel Course: Boutique Shop Tour & Inokashira Park (Ghibli Museum)</strong></a>
 
 </div>

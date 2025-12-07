@@ -69,7 +69,7 @@ at <strong>Roppongi Hills Oyane Plaza</strong>.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681272647
      Hugo: /posts/[SLUG_TBD]/ -->
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">How to Get to Roppongi Hills & Coin Locker Locations</a></strong><br>
+<p style="text-align: center;"><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">How to Get to Roppongi Hills & Coin Locker Locations</a></strong><br>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6599599,139.729758&hl=en&z=17&output=embed"
@@ -238,7 +238,7 @@ at Roppongi Hills!</p>
 
 ### 1. Observatory/Museum
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">Complete Guide to Roppongi Attractions</a></strong><!-- TODO: /posts/roppongi-attractions-guide -> roppongi-attractions-guide --><br>
+<p style="text-align: center;"><strong>➡️ <a href="javascript:void(0)" style="color: #667eea;">Complete Guide to Roppongi Attractions</a></strong><!-- TODO: /posts/roppongi-attractions-guide -> roppongi-attractions-guide --><br>
 <strong>(Observatory, Museums, Restaurants)</strong><br>
 
 ### 2. Roppongi Hills Christmas Illumination

@@ -104,6 +104,6 @@ featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
-➡️ <a href="#" style="color: #667eea;"><strong>六本木の遊び場完全ガイド (展望台、美術館、ショッピング、グルメ)</strong></a>
+➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>六本木の遊び場完全ガイド (展望台、美術館、ショッピング、グルメ)</strong></a>
 
 </div>

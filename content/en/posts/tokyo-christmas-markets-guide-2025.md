@@ -136,7 +136,7 @@ Ueno Park, where the market is held, is home to Japan's top cultural facilities 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /posts/ueno-ameyoko-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Complete Course from Ameyoko Market to Park</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Ueno Attractions: Complete Course from Ameyoko Market to Park</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-04.jpg" alt="Ueno Ameyoko Market, great for daytime visits">
@@ -203,7 +203,7 @@ Before the illumination lights up, we recommend visiting the 'Evangelion 30th An
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Complete Guide to Roppongi Attractions (Illumination, Restaurant Info)</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Complete Guide to Roppongi Attractions (Illumination, Restaurant Info)</strong></a>
 
 **✅ View detailed info on 10 booth menus, glühwein, and mugs at the Christmas Market**
 
@@ -264,13 +264,13 @@ This is a perfect day trip course from Tokyo. We recommend exploring **'Chinatow
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223979907748
      Hugo: /posts/yokohama-one-day-itinerary/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Yokohama 1-Day Course: Chinatown Restaurants, Akarenga Soko, Night View Complete Guide</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Yokohama 1-Day Course: Chinatown Restaurants, Akarenga Soko, Night View Complete Guide</strong></a>
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223976102621
      Hugo: /posts/yokohama-minato-burari-ticket-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Yokohama All-Day Transportation Pass: Minato Burari Ticket</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Yokohama All-Day Transportation Pass: Minato Burari Ticket</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-11.jpg" alt="Colorful entrance of Yokohama Chinatown, great for daytime visits">
@@ -319,13 +319,13 @@ Before the market opens, we recommend experiencing fantastic media art at Azabud
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
      Hugo: /posts/azabudai-hills-teamlab-borderless-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills teamLab Borderless, Museum Without Maps</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills teamLab Borderless, Museum Without Maps</strong></a>
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223716380927
      Hugo: /posts/azabudai-hills-sky-room-cafe-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills Observatory Cafe Sky Room: Sunset & Night Views</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills Observatory Cafe Sky Room: Sunset & Night Views</strong></a>
 
 <div class="image-group-2">
   <figure>
@@ -450,7 +450,7 @@ Before the market opens, we recommend shopping and cafe hopping in nearby **'Omo
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /posts/omotesando-guide-2025/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Omotesando Complete Guide (Coffee, Shopping, Restaurants)</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Omotesando Complete Guide (Coffee, Shopping, Restaurants)</strong></a>
 
 <!-- Link updated -->
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>➡️ Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping</strong></a>
@@ -550,7 +550,7 @@ Before the illumination starts, we recommend enjoying beer tasting at the **'Yeb
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /posts/yebisu-complete-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Ebisu Must-Visit Spots: From Garden Place to Beer Museum</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ Ebisu Must-Visit Spots: From Garden Place to Beer Museum</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-29.jpg" alt="Yebisu Brewery Tokyo beer inside Ebisu Garden Place, great for daytime visits">

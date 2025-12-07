@@ -231,12 +231,12 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032086475
      Hugo: /ja/posts/nakameguro-guide/ -->
-<strong>🌸 中目黒の見どころ：</strong><a href="#" style="color: #667eea;">目黒川の桜、トレンディなカフェ、ブティック完全ガイド</a><br>
+<strong>🌸 中目黒の見どころ：</strong><a href="javascript:void(0)" style="color: #667eea;">目黒川の桜、トレンディなカフェ、ブティック完全ガイド</a><br>
 <br>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032515713
      Hugo: /ja/posts/daikanyama-guide/ -->
-<strong>🏛️ 代官山の見どころ：</strong><a href="#" style="color: #667eea;">蔦屋書店、おしゃれなショップ、カフェ巡りガイド</a><br>
+<strong>🏛️ 代官山の見どころ：</strong><a href="javascript:void(0)" style="color: #667eea;">蔦屋書店、おしゃれなショップ、カフェ巡りガイド</a><br>
 <br>
 <strong>🛍️ 渋谷の見どころ：</strong><a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">たった1駅！渋谷完全ガイド（パルコ、渋谷スカイ）</a></p>
 

@@ -378,6 +378,6 @@ A: Yes, you can use JAPAN-FREE-WIFI (SSID).</p>
 
 <p><b>⭐ Tokyo Station Complete Guide</b><br>
 ➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /posts/tokyo-station-guide/ -->
-<a href="#" style="color: #667eea;"><b>Tokyo Station Guide - Character Street, Restaurants, Night Views, Coin Lockers</b></a></p>
+<a href="javascript:void(0)" style="color: #667eea;"><b>Tokyo Station Guide - Character Street, Restaurants, Night Views, Coin Lockers</b></a></p>
 
 </div>

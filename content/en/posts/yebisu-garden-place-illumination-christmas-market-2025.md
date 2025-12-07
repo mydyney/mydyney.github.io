@@ -154,7 +154,7 @@ If you're curious about the 2024 scene, check out the archive post below.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668826357
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">2024 Yebisu Garden Place Christmas Review (Last Year's Archive)</a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;">2024 Yebisu Garden Place Christmas Review (Last Year's Archive)</a>**
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-07.jpg" alt="Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza">
@@ -229,7 +229,7 @@ For detailed information, check out the dedicated post.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668328703
      Hugo: /posts/[SLUG_TBD]/ -->
-➡️ <a href="#" style="color: #667eea;">Tokyo Yebisu Garden Place Free Observatory, Top of Yebisu Complete Guide</a>
+➡️ <a href="javascript:void(0)" style="color: #667eea;">Tokyo Yebisu Garden Place Free Observatory, Top of Yebisu Complete Guide</a>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-10.jpg" alt="Tokyo Tower night view visible from Yebisu Garden Place Top of Yebisu free observatory 2025 winter">
@@ -255,7 +255,7 @@ It's a space worth visiting if you like beer.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223665548720
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">Yebisu Brewery Tokyo, A Must-Visit for Beer Enthusiasts</a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;">Yebisu Brewery Tokyo, A Must-Visit for Beer Enthusiasts</a>**
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-11.jpg" alt="Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu">
@@ -277,7 +277,7 @@ takes you directly to the Yebisu Garden Place entrance.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">How to Get to Tokyo Yebisu Garden Place and Coin Locker Locations</a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;">How to Get to Tokyo Yebisu Garden Place and Coin Locker Locations</a>**
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-12.jpg" alt="Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide">
@@ -344,7 +344,7 @@ create unforgettable memories this winter.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">Yebisu Attractions, Complete Guide from Yebisu Garden Place to Beer Museum and Restaurants</a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;">Yebisu Attractions, Complete Guide from Yebisu Garden Place to Beer Museum and Restaurants</a>**
 
 ---
 

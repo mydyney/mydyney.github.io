@@ -29,7 +29,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
-<a href="#" style="color: #667eea;"><strong>→ [詳しく見る] 六本木観光スポット完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>→ [詳しく見る] 六本木観光スポット完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a>
 
 特別で意味のある東京土産をお探しなら、六本木ヒルズのスーパーマーケット信濃屋をおすすめします。
 
@@ -160,7 +160,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
      Hugo: /ja/posts/dassai-sake-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><strong>→ [詳しく見る] 獺祭23、39、45 日本公式価格総まとめ、酒蔵ツアー</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>→ [詳しく見る] 獺祭23、39、45 日本公式価格総まとめ、酒蔵ツアー</strong></a>
 
 <figure>
   <img src="/images/posts/shinanoya-roppongi-hills-supermarket-15.jpg" alt="信濃屋純米酒">
@@ -362,7 +362,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ [六本木観光スポット完全ガイド（展望台、フェスティバル、美術館、グルメ A to Z）]</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ [六本木観光スポット完全ガイド（展望台、フェスティバル、美術館、グルメ A to Z）]</strong></a>
 
 ⭐ **おすすめ日本ウイスキー情報**
 まだどのウイスキーを買うか悩んでいますか？初心者向けからギフト用まで、下記の総まとめガイドであなたにぴったりの最高の日本ウイスキーを見つけてください！
@@ -370,6 +370,6 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010546735
      Hugo: /ja/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ [詳しく見る] 日本ウイスキーおすすめ＆価格総まとめ（初心者用、ギフト用おすすめ）</strong></a>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ [詳しく見る] 日本ウイスキーおすすめ＆価格総まとめ（初心者用、ギフト用おすすめ）</strong></a>
 
 </div>

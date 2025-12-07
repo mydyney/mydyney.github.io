@@ -135,7 +135,7 @@ all in one comprehensive guide!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024530348
      Hugo: /posts/roppongi-art-night-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ [See Details] Roppongi Art Night Recommended Lineup</strong></a></p>
+<p><a href="javascript:void(0)" style="color: #667eea;"><strong>➡️ [See Details] Roppongi Art Night Recommended Lineup</strong></a></p>
 
 <table class="schedule-table">
   <tbody>
@@ -145,7 +145,7 @@ all in one comprehensive guide!</p>
     <tr><td><strong>💸 Admission</strong></td><td><strong>Mostly free (some exhibitions paid)</strong></td></tr>
     <tr><td><strong>💡 Tip</strong></td><td><!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ --><strong>Check out the <a href="#" style="color: #667eea;">Roppongi Attractions Guide</a> to create your own art tour course!</strong></td></tr>
+     Hugo: /posts/roppongi-attractions-guide/ --><strong>Check out the <a href="javascript:void(0)" style="color: #667eea;">Roppongi Attractions Guide</a> to create your own art tour course!</strong></td></tr>
   </tbody>
 </table>
 
@@ -212,11 +212,11 @@ all in one comprehensive guide!</p>
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
+<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /posts/ginza-guide-2025/ -->
-<p><a href="#" style="color: #667eea;"><strong>→ [See Details] Ginza Must-Visit Spots: Local Recommended Course (Shopping, Restaurants, Tips)</strong></a></p>
+<p><a href="javascript:void(0)" style="color: #667eea;"><strong>→ [See Details] Ginza Must-Visit Spots: Local Recommended Course (Shopping, Restaurants, Tips)</strong></a></p>
 
 </div>

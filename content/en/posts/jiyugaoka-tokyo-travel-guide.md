@@ -401,7 +401,7 @@ I hope your Tokyo trip becomes more special. Please leave any questions in the c
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032086475
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Nakameguro Boutiques, Cafes & Walking Course Complete Guide</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>Nakameguro Boutiques, Cafes & Walking Course Complete Guide</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/

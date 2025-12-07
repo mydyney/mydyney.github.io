@@ -211,6 +211,6 @@ With panoramic views of Shibuya.<br>
 <br>
 <!-- Link updated -->
 <strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Complete Shibuya Attractions Guide</strong></a><br>
-<a href="#" style="color: #667eea;"><strong>(Parco, Shibuya Sky)</strong></a></p>
+<a href="javascript:void(0)" style="color: #667eea;"><strong>(Parco, Shibuya Sky)</strong></a></p>
 
 </div>

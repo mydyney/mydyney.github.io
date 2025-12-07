@@ -224,21 +224,21 @@ A. はい、組み立て中に紛失・破損した部品や「タミヤカス�
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinbashi-shiodome-evening-course/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>東京新橋・汐留の見どころ：過去と未来を歩く夕方コース（グルメ、夜景）</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>東京新橋・汐留の見どころ：過去と未来を歩く夕方コース（グルメ、夜景）</strong></a>
 
 ## 🎁 東京ショッピングガイド
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>日本旅行割引クーポン完全ガイド（ドン・キホーテ、ビックカメラ、百貨店など免税＋追加割引）</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>日本旅行割引クーポン完全ガイド（ドン・キホーテ、ビックカメラ、百貨店など免税＋追加割引）</strong></a>
 
 **➡️** <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト必須おすすめ品＆割引クーポン、免税方法完全ガイド（ラー油、目薬など）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税のコツ）</strong></a>
+**➡️** <a href="javascript:void(0)" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税のコツ）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/japan-convenience-store-shopping-best-10/

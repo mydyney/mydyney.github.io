@@ -295,7 +295,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト、2025年必ず買うべきカルディ推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>日本カルディショッピングリスト、2025年必ず買うべきカルディ推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a>**
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-10.jpg" alt="木更津のゴディバ店舗">
@@ -354,14 +354,14 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /ja/posts/tokyo-station-guide/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>東京駅ガイド：キャラクターストリート、レストラン、夜景、荷物保管</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京駅ガイド：キャラクターストリート、レストラン、夜景、荷物保管</strong></a>**
 
 **➡️ [日本ドン・キホーテショッピングリスト＆割引クーポンガイド](/ja/posts/don-quijote-shopping-guide-2025/)**
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト：必ず買うべき推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>日本カルディショッピングリスト：必ず買うべき推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a>**
 
 **🔥 日本ショッピング前必須チェック！**
 

@@ -139,7 +139,7 @@ If you're curious about detailed interior views, limited edition goods, and the 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223691772722
      Hugo: /posts/nihonbashi-pokemon-center-dx-cafe-guide/ -->
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Nihonbashi Pokemon Center Tokyo DX & Pokemon Cafe, 5 Minutes from Tokyo Station</strong></a>
+➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Nihonbashi Pokemon Center Tokyo DX & Pokemon Cafe, 5 Minutes from Tokyo Station</strong></a>
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-12.jpg" alt="Pokemon Cafe on same floor as Pokemon Center DX">
@@ -296,7 +296,7 @@ Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach To
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /posts/tokyo-station-guide/ -->
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
+➡️ <a href="javascript:void(0)" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
 
 **🚇 2 Minutes by Subway (Ginza Line)! Luxury Shopping Center, Ginza**
 
@@ -305,7 +305,7 @@ If you want to enjoy modern, sophisticated shopping different from Nihonbashi's 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /posts/ginza-guide-2025/ -->
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
+➡️ <a href="javascript:void(0)" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
 
 **🚇 10 Minutes by Subway (Ginza Line)! Traditional Tokyo Scenery, Asakusa**
 

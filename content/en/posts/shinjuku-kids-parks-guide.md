@@ -82,7 +82,7 @@ From Busta Shinjuku's 4th floor terminal (connected to Shinjuku Station's South 
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="Sanrio Puroland indoor parade, Hello Kitty and My Melody characters">
-  <figcaption style="font-size: 0.7em; text-align: center;">Sanrio Puroland indoor parade, Hello Kitty and My Melody characters <a href="#" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sanrio Puroland indoor parade, Hello Kitty and My Melody characters <a href="javascript:void(0)" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Hello Kitty, Cinnamoroll, My Melody...
@@ -337,7 +337,7 @@ For **Shinjuku children's attractions**, this is the strongest half-day rainy da
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224035895968 Hugo: /posts/tokyo-dome-city-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels - Complete Guide</b></a>
+<a href="javascript:void(0)" style="color: #667eea;"><b>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels - Complete Guide</b></a>
 
 ### 🚆 How to Get There from Shinjuku
 

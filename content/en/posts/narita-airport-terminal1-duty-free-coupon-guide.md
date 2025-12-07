@@ -221,6 +221,6 @@ Finish your Tokyo trip with smart shopping!
 <br><br>
 <!-- Link updated -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224010546735 Hugo: /posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ Japanese Whisky Yamazaki, Hibiki Official Price Guide & Beginner/Gift Recommendations</b></a>
+<a href="javascript:void(0)" style="color: #667eea;"><b>➡️ Japanese Whisky Yamazaki, Hibiki Official Price Guide & Beginner/Gift Recommendations</b></a>
 
 </div>

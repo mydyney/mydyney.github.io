@@ -335,7 +335,7 @@ Yamanote Line in the opposite direction from Shinjuku!
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /posts/ueno-ameyoko-guide/ -->
-**➡️ <a href="#" style="color: #667eea;">Ueno Attractions - From Ameyoko Market and Restaurants to Ueno Park</a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;">Ueno Attractions - From Ameyoko Market and Restaurants to Ueno Park</a>**
 
 **🚇 Marunouchi Line 16 minutes!**
 **Center of Tokyo: Tokyo Station**
@@ -344,6 +344,6 @@ You can travel with a subway pass.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /posts/tokyo-station-guide/ -->
-**➡️ <a href="#" style="color: #667eea;">Tokyo Station Attractions - Character Street, Restaurants, Night Views, Luggage Storage Lockers</a>**
+**➡️ <a href="javascript:void(0)" style="color: #667eea;">Tokyo Station Attractions - Character Street, Restaurants, Night Views, Luggage Storage Lockers</a>**
 
 </div>

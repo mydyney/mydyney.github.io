@@ -564,6 +564,6 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**👉** <a href="#" style="color: #667eea;"><strong>日本カルディ買い物リスト2025年必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
+**👉** <a href="javascript:void(0)" style="color: #667eea;"><strong>日本カルディ買い物リスト2025年必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
 
 </div>

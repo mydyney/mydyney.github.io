@@ -66,7 +66,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /ja/posts/omotesando-guide-2025/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>表参道完全ガイド：コーヒー、ショッピング、グルメ、建築まで総まとめ</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>表参道完全ガイド：コーヒー、ショッピング、グルメ、建築まで総まとめ</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-03.jpg" alt="明治神宮外苑のいちょう並木、黄金色のトンネル">
@@ -161,11 +161,11 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224037212344
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>東京 吉祥寺おすすめスポット完全コース（ジブリ美術館連携）</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京 吉祥寺おすすめスポット完全コース（ジブリ美術館連携）</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035533672
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>三鷹の森ジブリ美術館予約方法完全ガイド</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>三鷹の森ジブリ美術館予約方法完全ガイド</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-07.jpg" alt="井の頭公園の紅葉、池のスワンボート">
@@ -202,7 +202,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>箱根旅行完璧コースおすすめ（箱根フリーパス、ロマンスカー予約）</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>箱根旅行完璧コースおすすめ（箱根フリーパス、ロマンスカー予約）</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-08.jpg" alt="高尾山の紅葉、赤とオレンジの葉に覆われた登山道">
@@ -231,7 +231,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>東京メトロパス vs JR都区内パス完全比較</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>東京メトロパス vs JR都区内パス完全比較</strong></a></p>
 <p>➡️ <a href="/ja/posts/tokyo-october-festivals-2025/" style="color: #667eea;"><strong>2025年東京10月祭り・おすすめスポット総まとめ</strong></a></p>
 
 ---

@@ -214,17 +214,17 @@ Daikanyama's sophisticated present.<br>
 ​<br>
 <!-- Link updated -->
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>➡️ Daikanyama Must-Visit Places,</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="javascript:void(0)" style="color: #667eea;"><b>➡️ Daikanyama Must-Visit Places,</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>Complete course from Tsutaya (T-SITE) to restaurants</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="javascript:void(0)" style="color: #667eea;"><b>Complete course from Tsutaya (T-SITE) to restaurants</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>and boutiques</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="javascript:void(0)" style="color: #667eea;"><b>and boutiques</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
 <b>​</b><br>
 <!-- Link updated -->
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>➡️ Nakameguro Must-Visit Places</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<a href="javascript:void(0)" style="color: #667eea;"><b>➡️ Nakameguro Must-Visit Places</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>(10 minutes walk from Daikanyama)</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<a href="javascript:void(0)" style="color: #667eea;"><b>(10 minutes walk from Daikanyama)</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
 <b>​</b><br>
 <!-- Link updated -->
 <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>➡️ Shibuya Complete Activity Guide</b></a><br>

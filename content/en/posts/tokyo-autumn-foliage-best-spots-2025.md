@@ -66,7 +66,7 @@ your complete guide to Tokyo's autumn colors!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /posts/omotesando-guide-2025/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants & Architecture</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants & Architecture</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-03.jpg" alt="Meiji Jingu Gaien ginkgo avenue with golden yellow leaves creating a tunnel effect">
@@ -161,11 +161,11 @@ your complete guide to Tokyo's autumn colors!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224037212344
      Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Kichijoji Must-Visit Places: Perfect Course (with Ghibli Museum)</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Kichijoji Must-Visit Places: Perfect Course (with Ghibli Museum)</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035533672
      Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Mitaka Ghibli Museum Reservation Guide</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Mitaka Ghibli Museum Reservation Guide</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-07.jpg" alt="Inokashira Park autumn foliage with swan boats on the pond">
@@ -202,7 +202,7 @@ your complete guide to Tokyo's autumn colors!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
      Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Hakone Travel Perfect Course (Hakone Free Pass & Romancecar Reservation)</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Hakone Travel Perfect Course (Hakone Free Pass & Romancecar Reservation)</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-08.jpg" alt="Mount Takao autumn foliage with mountain trails covered in red and orange leaves">
@@ -231,7 +231,7 @@ your complete guide to Tokyo's autumn colors!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /posts/[SLUG_TBD]/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison</strong></a></p>
+<p>➡️ <a href="javascript:void(0)" style="color: #667eea;"><strong>Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison</strong></a></p>
 <p>➡️ <a href="/posts/tokyo-october-festivals-2025/" style="color: #667eea;"><strong>2025 Tokyo October Festivals & Must-Visit Places</strong></a></p>
 
 ---

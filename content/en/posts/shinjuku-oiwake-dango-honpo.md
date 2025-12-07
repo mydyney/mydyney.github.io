@@ -174,7 +174,7 @@ Soft mochi, sweet-salty soy sauce, and neat packaging — 300 years of tradition
 
 **➡️ <!-- Link updated -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223914223908 Hugo: /posts/shinjuku-udon-guide/ -->
-<a href="#" style="color: #667eea;">Shinjuku Udon Restaurant Kirimugi-ya Jinroku Michelin Udon↗</a>**
+<a href="javascript:void(0)" style="color: #667eea;">Shinjuku Udon Restaurant Kirimugi-ya Jinroku Michelin Udon↗</a>**
 
 **➡️ <a href="/posts/shinjuku-epitaph-curry-review/" target="_blank">Shinjuku Keema Curry Restaurant Epitaph Curry ↗</a>**
 
@@ -182,10 +182,10 @@ Soft mochi, sweet-salty soy sauce, and neat packaging — 300 years of tradition
 
 **➡️ <!-- Link updated -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223694645793 Hugo: /posts/ginza-akebono-strawberry-mochi/ -->
-<a href="#" style="color: #667eea;">Tokyo Ginza Strawberry Mochi, Akebono Ginza Flagship Store ↗</a>**
+<a href="javascript:void(0)" style="color: #667eea;">Tokyo Ginza Strawberry Mochi, Akebono Ginza Flagship Store ↗</a>**
 
 **➡️ <!-- Link updated -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224025044772 Hugo: /posts/ginza-kuya-monaka-reservation-guide/ -->
-<a href="#" style="color: #667eea;">Tokyo Parents Gift, If You're Worried, Ginza Kuya Monaka ↗</a>**
+<a href="javascript:void(0)" style="color: #667eea;">Tokyo Parents Gift, If You're Worried, Ginza Kuya Monaka ↗</a>**
 
 </div>
