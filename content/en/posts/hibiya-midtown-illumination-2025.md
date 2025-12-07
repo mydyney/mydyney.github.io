@@ -292,8 +292,8 @@ Enjoy Tokyo's winter nights with a smart course that allows you to walk from Mar
 
 **⭐ Great travel companion, Ginza**
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223989943826 Hugo: /posts/ginza-guide-2025/ -->
-[Ginza Must-Visit Places, Recommended Course Complete Guide (Shopping, Restaurants, Tips)](#)
+➡️
+[Ginza Must-Visit Places, Recommended Course Complete Guide (Shopping, Restaurants, Tips)](/posts/ginza-guide-2025/)
 
 ## 🎄 Christmas in Tokyo 2025
 

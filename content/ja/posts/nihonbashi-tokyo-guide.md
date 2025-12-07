@@ -303,9 +303,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 日本橋の伝統的な雰囲気とは異なる、モダンで洗練されたショッピングを楽しみたいなら、銀座線の地下鉄で2駅です。世界クラスの高級ブランド、高級デパート、雰囲気のあるカフェがあなたを待っています。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /ja/posts/ginza-guide-2025/ -->
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>銀座観光スポット、完全おすすめコース（ショッピング、レストラン、ヒント）</strong></a>
+➡️ <a href="/ja/posts/ginza-guide-2025/" target="_blank" style="color: #667eea;"><strong>銀座観光スポット、完全おすすめコース（ショッピング、レストラン、ヒント）</strong></a>
 
 **🚇 地下鉄で10分（銀座線）！伝統的な東京の風景、浅草**
 

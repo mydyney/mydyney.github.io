@@ -268,8 +268,6 @@ If you have any questions during your trip, feel free to leave a comment anytime
 **➡️** <a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>2025 Tokyo Midtown Hibiya Illumination · Zootopia 2 Collaboration</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Ginza Must-Visit Spots · Shopping, Restaurants & Route Complete Guide</strong></a>
+**➡️** <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots · Shopping, Restaurants & Route Complete Guide</strong></a>
 
 </div>

@@ -303,9 +303,7 @@ Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach To
 If you want to enjoy modern, sophisticated shopping different from Nihonbashi's traditional atmosphere, take the Ginza Line subway two stops. World-class luxury brands, upscale department stores, and atmospheric cafes await you.
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /posts/ginza-guide-2025/ -->
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
+➡️ <a href="/posts/ginza-guide-2025/" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
 
 **🚇 10 Minutes by Subway (Ginza Line)! Traditional Tokyo Scenery, Asakusa**
 

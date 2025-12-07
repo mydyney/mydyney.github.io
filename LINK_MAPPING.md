@@ -94,6 +94,7 @@ When migrating a Naver blog post to Hugo:
 | 224035271300 | shinjuku-guide-2025 | 2025-10-09 | ✅ |
 | 224039113760 | japan-travel-discount-coupons-2025 | 2025-10-12 | ✅ |
 | 223988228389 | roppongi-attractions-guide | 2024-09-02 | ✅ |
+| 223989943826 | ginza-guide-2025 | 2025-01-06 | ✅ |
 
 
 ---
@@ -138,7 +139,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 
 | 224024530348 | tokyo-september-festivals-2025 | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025, tokyo-christmas-markets-guide-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
-| 223989943826 | tokyo-september-festivals-2025, tokyo-october-festivals-2025 | Ginza Must-Visit Spots Complete Guide (Shopping, Restaurants, Tips) |
+| ~~223989943826~~ | tokyo-september-festivals-2025, tokyo-october-festivals-2025 | ✅ **MIGRATED** → ginza-guide-2025 |
 | 224035271300 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping |
 | 224038568654 | ikebukuro-complete-guide, tokyo-october-festivals-2025 | 2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro) |
 | 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025, odaiba-ariake-toyosu-complete-guide | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
@@ -171,7 +172,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223958175295 | azabudai-hills-complete-guide | Tokyo Azabudai Hills Summer Festival Review |
 | 223915389552 | azabudai-hills-complete-guide | Series Michelin 1-Star Chinese Restaurant Review |
 | 223980166231 | tokyo-october-festivals-2025 | Harajuku Omotesando Super Yosakoi Festival August Guide |
-| 223989943826 | tokyo-october-festivals-2025 | Complete Guide to Ginza Attractions (Shopping, Restaurants, Tips) |
+
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide, odaiba-rainbow-fireworks-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
 | 224039113760 | japan-travel-discount-coupons-2025 | Japan Travel Discount Coupons (Don Quijote, Bic Camera, etc.) |

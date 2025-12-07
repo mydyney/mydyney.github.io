@@ -242,9 +242,7 @@ The complete opposite of Shinbashi's down-to-earth atmosphere, enjoy shopping an
      Naver: https://blog.naver.com/tokyomate/223989943826
      Hugo: /posts/[SLUG_TBD]/ -->
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /posts/ginza-guide-2025/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>Ginza Must-Visit Spots: Complete Recommended Course Guide</strong></a>**
+**➡️ <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots: Complete Recommended Course Guide</strong></a>**
 
 - **🚝 15 Minutes by Monorail! Futuristic Night Views, Odaiba**
 

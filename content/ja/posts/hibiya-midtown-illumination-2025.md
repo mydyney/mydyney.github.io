@@ -292,8 +292,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 **⭐ 一緒に旅行するのに良いおすすめコース、銀座**
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223989943826 Hugo: /ja/posts/ginza-guide-2025/ -->
-[銀座行くべき場所、失敗しないおすすめコース完全ガイド(ショッピング、レストラン、お得情報)](#)
+➡️[銀座の必見スポット、おすすめコース完全ガイド（ショッピング、グルメ、裏技）](/ja/posts/ginza-guide-2025/)
 
 ## 🎄 2025年東京のクリスマス
 

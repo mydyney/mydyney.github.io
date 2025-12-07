@@ -267,9 +267,7 @@ Curious about other attractions in the festival areas? Check out these guides:
 <a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ Tokyo Asakusa Things to Do & Restaurants Guide (Sensoji, Demon Slayer, Gyukatsu, Hotels)</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /posts/ginza-guide-2025/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
+<a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide

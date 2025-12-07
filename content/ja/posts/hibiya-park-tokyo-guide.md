@@ -268,8 +268,6 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 **➡️** <a href="#" style="color: #667eea;"><strong>2025東京ミッドタウン日比谷イルミネーション・ズートピア2コラボ</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>銀座おすすめスポット・失敗なしのショッピング・グルメ・ルート完全ガイド</strong></a>
+**➡️** <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>銀座おすすめスポット・失敗なしのショッピング・グルメ・ルート完全ガイド</strong></a>
 
 </div>

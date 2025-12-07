@@ -233,9 +233,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 新橋の庶民的な雰囲気とは正反対の、洗練された高級な街でショッピングと優雅な夜を楽しんでください。24時間営業のドン・キホーテショッピングも良い選択肢です。
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /ja/posts/ginza-guide-2025/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>銀座おすすめスポット：完璧なコースガイド総まとめ</strong></a>**
+**➡️ <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>銀座おすすめスポット：完璧なコースガイド総まとめ</strong></a>**
 
 - **🚝 モノレールで15分！未来都市の夜景、お台場**
 

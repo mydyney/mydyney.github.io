@@ -267,9 +267,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 <a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ 東京浅草の見どころ＆グルメ完全ガイド（浅草寺、鬼滅の刃、牛カツ、ホテル推薦）</strong></a>
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /ja/posts/ginza-guide-2025/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 銀座おすすめスポット、失敗しないコース完全ガイド（ショッピング、グルメ、裏技）</strong></a>
+<a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>➡️ 銀座おすすめスポット、失敗しないコース完全ガイド（ショッピング、グルメ、裏技）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
