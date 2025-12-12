@@ -1,6 +1,6 @@
 # CLAUDE.md - AI Assistant Guide
 
-> **Last Updated:** 2025-12-05
+> **Last Updated:** 2025-12-12
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Site:** https://tripmate.news
 > **Type:** Hugo Static Site for GitHub Pages
@@ -1099,7 +1099,7 @@ All blog posts must follow this consistent format:
 1. **Front Matter** (YAML)
 2. **Opening `<div class="blog-container">`**
 3. **Intro Paragraph** (centered, styled)
-4. **First Body Image** (with `<figure>` tag, using `{slug}-02.jpg`)
+4. **First Body Image** (with `<figure>` tag, using `{slug}-01.jpg` - same as featured_image)
 5. **Content** (sections with headings, images, info boxes, tables)
 6. **Closing `</div>`**
 
@@ -1413,8 +1413,10 @@ Change `6` to desired number.
 | Post slugs | Kebab-case | `kirimugiya-jinroku-shinjuku` |
 | Image files | `{slug}-{number}.{ext}` | `tokyo-guide-01.jpg` |
 | Git branches | `claude/{name}-{id}` | `claude/add-feature-abc123` |
-| Categories | Title Case | `["Travel", "Food"]` |
-| Tags | lowercase | `["ramen", "tokyo", "michelin"]` |
+| Categories (EN) | Title Case | `["Travel Guide", "Food & Dining"]` |
+| Categories (JA) | Natural Japanese | `["旅行ガイド", "グルメ"]` |
+| Tags (EN) | kebab-case | `["tokyo-restaurants", "travel-tips"]` |
+| Tags (JA) | Natural Japanese | `["東京レストラン", "旅行情報"]` |
 
 ### Content Patterns
 
@@ -1894,12 +1896,13 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
   - Example: `<div class="se-imageGroup-col-2">` = 2 images = create 2 separate `<figure>` tags
   - DO NOT merge multiple images from a group into one figure
   - Count carefully: if you see 10 `<img>` tags, you need 10 figure tags (even if grouped)
-- **⚠️ CRITICAL: Image Numbering**
-  - `{slug}-01.jpg`: Featured image (Front Matter `featured_image` field only)
-  - `{slug}-02.jpg`: First image in post body (after intro paragraph)
+- **⚠️ CRITICAL: Image Numbering (1:1 Matching)**
+  - `{slug}-01.jpg`: First image - used in BOTH `featured_image` field AND first `<figure>` in body
+  - `{slug}-02.jpg`: Second image in post body
   - `{slug}-03.jpg`, `04.jpg`, etc.: Subsequent body images in order
-  - **Total images = body images + 1 (featured)**
-  - Example: If HTML has 21 images → 22 total (01.jpg for featured + 02.jpg through 22.jpg for body)
+  - **Total images in Hugo = Total images in Naver HTML (exact 1:1 match)**
+  - Example: If HTML has 21 images → 21 Hugo images (01.jpg through 21.jpg)
+  - **Note:** The `featured_image` field and first body `<figure>` share the same 01.jpg file
 - **Translate Korean HTML content to English and Japanese ONLY** (do NOT create Korean version)
 - Create blog posts in 2 languages: English and Japanese
 - Maintain original image positions from Korean HTML
@@ -2384,11 +2387,20 @@ Build Output:    /public/
 
 ## Document Maintenance
 
-**Last Updated:** 2025-12-05
+**Last Updated:** 2025-12-12
 **Updated By:** Claude (AI Assistant)
 **Next Review:** When significant project changes occur
 
-**Recent Updates (2025-12-05 - Latest):**
+**Recent Updates (2025-12-12 - Latest):**
+- **Documentation Clarity Improvements:**
+  - Fixed inconsistent image numbering rules throughout the document
+  - Clarified that `{slug}-01.jpg` serves dual purpose: featured_image + first body image
+  - Updated "Blog Post Format" section to correctly reference `{slug}-01.jpg` for first body image
+  - Clarified 1:1 matching rule: Naver image count = Hugo image count (no +1 for featured)
+  - Enhanced "Naming Conventions" table to explicitly show EN/JA differences for tags and categories
+  - **Impact:** Eliminates confusion about image numbering, ensuring consistent blog post creation
+
+**Recent Updates (2025-12-05):**
 - **Tag and Category Management Guidelines:**
   - Added comprehensive "Tag Management and Multilingual Tags" section
   - Added comprehensive "Category Management and Multilingual Categories" section
