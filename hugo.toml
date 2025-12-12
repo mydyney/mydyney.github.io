@@ -37,6 +37,14 @@ googleAnalytics = "G-NZ22T8HRR3"
     [languages.ja.params]
       description = "東京の旅行ガイドと情報"
 
+  [languages.zh-cn]
+    languageName = "简体中文"
+    title = "东京旅伴"
+    weight = 3
+    contentDir = "content/zh-cn"
+    [languages.zh-cn.params]
+      description = "东京旅游攻略与实用信息"
+
 # 기본 파라미터
 [params]
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
