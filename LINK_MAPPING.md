@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-12-10
-> **Status:** ✅ Complete - 74 posts mapped
+> **Last Updated:** 2025-12-12
+> **Status:** ✅ Complete - 75 posts mapped
 
 ---
 
@@ -98,6 +98,7 @@ When migrating a Naver blog post to Hugo:
 | 223988228389 | roppongi-attractions-guide | 2024-09-02 | ✅ |
 | 223989943826 | ginza-guide-2025 | 2025-01-06 | ✅ |
 | 224100382618 | shinjuku-hotels-best-10 | 2025-12-06 | ✅ |
+| 224105333068 | shibuya-parco-kiwamiya-hamburg-waiting-menu | 2025-12-10 | ✅ |
 
 
 ---
@@ -312,6 +313,8 @@ declare -A MAPPINGS=(
   ["224039113760"]="japan-travel-discount-coupons-2025"
   ["224033964477"]="kaldi-coffee-farm-shopping-list"
   ["224022065518"]="don-quijote-shopping-guide-2025"
+  ["224100382618"]="shinjuku-hotels-best-10"
+  ["224105333068"]="shibuya-parco-kiwamiya-hamburg-waiting-menu"
   ["223671427079"]="azabudai-hills-christmas-market-review-2024"
   ["223987954990"]="roppongi-hills-observatory-guide"
   ["223988228389"]="roppongi-attractions-guide"
@@ -421,12 +424,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 74
-- **Naver IDs Tracked:** 74
-- **Posts with Internal Links:** 30+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10)
+- **Total Posts Migrated:** 75
+- **Naver IDs Tracked:** 75
+- **Posts with Internal Links:** 31+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu)
 - **Pending References:** 52 (removed 1: 224022065518 migrated to don-quijote-shopping-guide-2025, added 1: 224014619007)
-- **Links Updated:** Verified & Fixed on 2025-12-10
-- **Last Migration Date:** 2025-12-10 (Shinjuku Hotels Best 10)
+- **Links Updated:** Verified & Fixed on 2025-12-12
+- **Last Migration Date:** 2025-12-12 (Shibuya Parco Kiwamiya Hamburg)
 
 ---
 
