@@ -1,5 +1,5 @@
 ---
-title: "东京代官山必看，百年古宅「旧朝仓家住宅"（门票、袜子必备、红叶名所）」
+title: "东京代官山必看，百年古宅旧朝仓家住宅（门票、袜子必备、红叶名所）"
 date: 2025-10-26T23:11:00+09:00
 draft: false
 translationKey: "daikanyama-asakura-house"

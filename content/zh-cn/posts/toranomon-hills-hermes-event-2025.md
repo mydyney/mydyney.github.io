@@ -3,8 +3,8 @@ title: "虎之门之丘爱马仕(HERMES)活动2025：神秘马厩展览实拍（
 date: 2025-11-16T14:00:00+09:00
 draft: false
 translationKey: "toranomon-hills-hermes-event-2025"
-description: "虎之门之丘东京Node画廊举办的爱马仕免费展览「神秘马厩"完全攻略 - 预约技巧、交通方式、在线游戏」
-summary: "虎之门之丘东京Node画廊举办的爱马仕免费展览「神秘马厩"完全攻略 - 预约技巧、交通方式、在线游戏」
+description: "虎之门之丘东京Node画廊举办的爱马仕免费展览神秘马厩完全攻略 - 预约技巧、交通方式、在线游戏"
+summary: "虎之门之丘东京Node画廊举办的爱马仕免费展览神秘马厩完全攻略 - 预约技巧、交通方式、在线游戏"
 tags: ["虎之门之丘", "爱马仕", "东京Node", "活动", "展览", "免费", "神秘", "沉浸式"]
 categories: ["东京活动"]
 featured_image: "/images/posts/toranomon-hills-hermes-event-2025-01.jpg"
