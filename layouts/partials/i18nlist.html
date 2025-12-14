@@ -1,21 +1,22 @@
-{{/* Language switcher - Always show all available languages */}}
+{{/* Language switcher - Always show all available languages in native names */}}
 {{ if .Site.IsMultiLingual }}
-<div class="language-switcher {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
-  <ul class="list flex flex-wrap ma0 pa0">
-    {{ range $.Site.Languages }}
-    {{ $isCurrentLang := compare.Eq $.Language.Lang .Lang }}
-    <li class="f6 f5-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
-      {{ if $isCurrentLang }}
-        {{/* Current language - highlighted */}}
-        <span class="white fw6 no-underline">{{ .LanguageName }}</span>
+<ul class="pl0 mr3">
+  {{ $currentLang := .Language.Lang }}
+  {{ range .Site.Languages }}
+    {{ $isCurrent := eq $currentLang .Lang }}
+    <li class="list f5 f4-ns dib pr3 {{ if $isCurrent }}fw6{{ else }}fw4{{ end }}">
+      {{ if $isCurrent }}
+        {{/* Current language - bold white */}}
+        <span class="white no-underline">{{ .LanguageName }}</span>
       {{ else }}
-        {{/* Other languages - clickable */}}
-        <a class="hover-white white-70 no-underline" href="{{ urls.AbsLangURL "" . }}" title="{{ .LanguageName }}">
-          {{ .LanguageName }}
-        </a>
+        {{/* Other languages - clickable, semi-transparent */}}
+        {{ if eq .Lang "en" }}
+          <a class="hover-white white-70 no-underline" href="/" title="{{ .LanguageName }}">{{ .LanguageName }}</a>
+        {{ else }}
+          <a class="hover-white white-70 no-underline" href="/{{ .Lang }}/" title="{{ .LanguageName }}">{{ .LanguageName }}</a>
+        {{ end }}
       {{ end }}
     </li>
-    {{ end }}
-  </ul>
-</div>
+  {{ end }}
+</ul>
 {{ end }}
