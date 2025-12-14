@@ -10,7 +10,8 @@
         <span class="white fw6 no-underline">{{ .LanguageName }}</span>
       {{ else }}
         {{/* Other languages - clickable */}}
-        <a class="hover-white white-70 no-underline" href="{{ .Permalink }}" title="{{ .LanguageName }}">
+        {{ $langURL := cond (eq .Lang "en") "/" (printf "/%s/" .Lang) }}
+        <a class="hover-white white-70 no-underline" href="{{ $langURL }}" title="{{ .LanguageName }}">
           {{ .LanguageName }}
         </a>
       {{ end }}
