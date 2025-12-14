@@ -1,13 +1,13 @@
 ---
-title: 」东京站玩乐景点：角色街、餐厅、夜景、行李寄存」
+title: "东京站玩乐景点：角色街、餐厅、夜景、行李寄存"
 date: 2025-10-24T09:00:00+09:00
 draft: false
-translationKey: 」tokyo-station-guide」
-description: 」东京站玩乐完全攻略：东京站一番街角色街、拉面街、车站便当屋祭、免费夜景展望台（KITTE、丸之内大厦）、以及投币式储物柜信息汇总。」
-summary: 」东京站最佳景点：角色街购物、人气拉面店、夜景优美的免费展望台、以及必备的投币式储物柜信息介绍。」
-tags: [」东京站」, 」丸之内」, 」东京角色街」, 」东京拉面街」, 」东京夜景」, 」行李寄存」]
-categories: [」东京旅行攻略」]
-featured_image: 」/images/posts/tokyo-station-guide-01.jpg」
+translationKey: "tokyo-station-guide"
+description: "东京站玩乐完全攻略：东京站一番街角色街、拉面街、车站便当屋祭、免费夜景展望台（KITTE、丸之内大厦）、以及投币式储物柜信息汇总。"
+summary: "东京站最佳景点：角色街购物、人气拉面店、夜景优美的免费展望台、以及必备的投币式储物柜信息介绍。"
+tags: ["东京站", "丸之内", "东京角色街", "东京拉面街", "东京夜景", "行李寄存"]
+categories: ["东京旅行攻略"]
+featured_image: "/images/posts/tokyo-station-guide-01.jpg"
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: 」日本便利店购物清单零失误BEST10（7-11、全家、罗森对比）」
+title: "日本便利店购物清单零失误BEST10（7-11、全家、罗森对比）"
 date: 2025-10-23T00:00:00+09:00
 draft: false
-translationKey: 」japan-convenience-store-shopping-best-10」
-description: 」日本三大便利店完全对比攻略！7-11、全家、罗森必买单品BEST10介绍。鸡蛋三明治、炸鸡、高端甜品、限定商品全覆盖！」
-summary: 」日本便利店（7-11、全家、罗森）必买购物清单BEST10。鸡蛋三明治、炸鸡、高端甜品、熏制鸡蛋、季节限定商品完全攻略。」
-tags: [」日本购物」, 」便利店」, 」7-11」, 」全家便利店」, 」罗森」, 」购物清单」, 」日本旅行」]
-categories: [」购物指南」]
-featured_image: 」/images/posts/japan-convenience-store-shopping-best-10-01.jpg」
+translationKey: "japan-convenience-store-shopping-best-10"
+description: "日本三大便利店完全对比攻略！7-11、全家、罗森必买单品BEST10介绍。鸡蛋三明治、炸鸡、高端甜品、限定商品全覆盖！"
+summary: "日本便利店（7-11、全家、罗森）必买购物清单BEST10。鸡蛋三明治、炸鸡、高端甜品、熏制鸡蛋、季节限定商品完全攻略。"
+tags: ["日本购物", "便利店", "7-11", "全家便利店", "罗森", "购物清单", "日本旅行"]
+categories: ["购物指南"]
+featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 ---
 
 <div class="blog-container">

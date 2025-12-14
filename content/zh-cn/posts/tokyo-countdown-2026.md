@@ -1,13 +1,13 @@
 ---
-title: 」东京跨年倒数2026报名攻略:Happy New Year Tokyo 阵容＆观赏地点全收录（初音未来・Shigekix）」
+title: "东京跨年倒数2026报名攻略:Happy New Year Tokyo 阵容＆观赏地点全收录（初音未来・Shigekix）"
 date: 2025-12-02T08:40:00+09:00
 draft: false
-translationKey: 」tokyo-countdown-2026」
-description: 」东京都厅Happy New Year Tokyo 2026跨年倒数活动完全攻略。12月7日报名截止！初音未来、Shigekix、Hello Kitty等豪华阵容与最佳观赏点介绍。」
-summary: 」12月7日截止报名！东京最大跨年倒数活动Happy New Year Tokyo 2026的初音未来、Shigekix阵容、免费抽签报名、新宿最佳观赏点完全攻略。」
-tags: [」东京跨年倒数」, 」Happy New Year东京」, 」新宿」, 」东京活动」, 」除夕东京」, 」初音未来」, 」东京都厅」, 」日本跨年」]
-categories: [」旅游信息」]
-featured_image: 」/images/posts/tokyo-countdown-2026-01.jpg」
+translationKey: "tokyo-countdown-2026"
+description: "东京都厅Happy New Year Tokyo 2026跨年倒数活动完全攻略。12月7日报名截止！初音未来、Shigekix、Hello Kitty等豪华阵容与最佳观赏点介绍。"
+summary: "12月7日截止报名！东京最大跨年倒数活动Happy New Year Tokyo 2026的初音未来、Shigekix阵容、免费抽签报名、新宿最佳观赏点完全攻略。"
+tags: ["东京跨年倒数", "Happy New Year东京", "新宿", "东京活动", "除夕东京", "初音未来", "东京都厅", "日本跨年"]
+categories: ["旅游信息"]
+featured_image: "/images/posts/tokyo-countdown-2026-01.jpg"
 ---
 
 <div class="blog-container">

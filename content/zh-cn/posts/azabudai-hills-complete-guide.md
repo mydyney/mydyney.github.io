@@ -1,13 +1,13 @@
 ---
-title: 」东京麻布台之丘2025完全攻略｜展望台、teamLab无界、美食、购物全汇总」
+title: "东京麻布台之丘2025完全攻略｜展望台、teamLab无界、美食、购物全汇总"
 date: 2025-10-20T16:20:00+09:00
 draft: false
-translationKey: 」azabudai-hills-complete-guide」
-description: 」麻布台之丘2025完全攻略：东京塔正面视角的33层SKY ROOM展望台、重新开业的teamLab无界门票信息、麻布台之丘市场美食餐厅、米其林店、高端购物、季节活动。」
-summary: 」发现东京麻布台之丘：33层SKY ROOM咖啡展望台、teamLab无界美术馆、包括米其林餐厅的顶级麻布台之丘市场、高端购物、完美半日路线。」
-tags: [」麻布台之丘」, 」东京展望台」, 」teamLab无界」, 」东京美食」, 」东京购物」, 」米其林」, 」SKY ROOM咖啡」, 」东京塔景观」]
-categories: [」旅行攻略」]
-featured_image: 」/images/posts/azabudai-hills-complete-guide-01.jpg」
+translationKey: "azabudai-hills-complete-guide"
+description: "麻布台之丘2025完全攻略：东京塔正面视角的33层SKY ROOM展望台、重新开业的teamLab无界门票信息、麻布台之丘市场美食餐厅、米其林店、高端购物、季节活动。"
+summary: "发现东京麻布台之丘：33层SKY ROOM咖啡展望台、teamLab无界美术馆、包括米其林餐厅的顶级麻布台之丘市场、高端购物、完美半日路线。"
+tags: ["麻布台之丘", "东京展望台", "teamLab无界", "东京美食", "东京购物", "米其林", "SKY ROOM咖啡", "东京塔景观"]
+categories: ["旅行攻略"]
+featured_image: "/images/posts/azabudai-hills-complete-guide-01.jpg"
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: 」东京六本木MIDTOWN圣诞2025：彩灯・圣诞老人树・集市&溜冰场完全攻略」
+title: "东京六本木MIDTOWN圣诞2025：彩灯・圣诞老人树・集市&溜冰场完全攻略"
 date: 2025-11-15T17:53:00+09:00
 draft: false
-translationKey: 」roppongi-midtown-christmas-2025」
-description: 」2025年六本木东京MIDTOWN圣诞彩灯、圣诞老人树、圣诞集市、溜冰场、餐厅、购物完全信息汇总」
-summary: 」2025年六本木东京MIDTOWN圣诞彩灯、圣诞老人树、圣诞集市、溜冰场、餐厅、购物完全信息汇总」
-tags: [」六本木」, 」圣诞节」, 」东京商场」, 」东京彩灯」, 」东京」, 」冬季活动」, 」溜冰」, 」圣诞市集」]
-categories: [」东京观光景点」]
-featured_image: 」/images/posts/roppongi-midtown-christmas-2025-01.jpg」
+translationKey: "roppongi-midtown-christmas-2025"
+description: "2025年六本木东京MIDTOWN圣诞彩灯、圣诞老人树、圣诞集市、溜冰场、餐厅、购物完全信息汇总"
+summary: "2025年六本木东京MIDTOWN圣诞彩灯、圣诞老人树、圣诞集市、溜冰场、餐厅、购物完全信息汇总"
+tags: ["六本木", "圣诞节", "东京商场", "东京彩灯", "东京", "冬季活动", "溜冰", "圣诞市集"]
+categories: ["东京观光景点"]
+featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 ---
 
 <div class="blog-container">

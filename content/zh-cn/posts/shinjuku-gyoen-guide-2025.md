@@ -1,13 +1,13 @@
 ---
-title: 」东京新宿御苑完全指南｜门票·开园时间·星巴克·樱花·野餐·跑步 (2025)」
+title: "东京新宿御苑完全指南｜门票·开园时间·星巴克·樱花·野餐·跑步 (2025)"
 date: 2025-11-09T17:44:00+09:00
 draft: false
-translationKey: 」shinjuku-gyoen-guide-2025」
-description: 」新宿御苑完全指南 - 门票、开园时间、入口、星巴克咖啡厅、季节风景、野餐贴士、跑步路线2025年最新信息」
-summary: 」关于东京新宿御苑需要了解的一切：门票、营业时间、交通、星巴克、樱花、红叶、野餐规则、跑步路线」
-tags: [」新宿」, 」御苑」, 」东京」, 」公园」, 」樱花」, 」星巴克」, 」野餐」, 」跑步」, 」庭园」]
-categories: [」东京观光」]
-featured_image: 」/images/posts/shinjuku-gyoen-guide-2025-01.jpg」
+translationKey: "shinjuku-gyoen-guide-2025"
+description: "新宿御苑完全指南 - 门票、开园时间、入口、星巴克咖啡厅、季节风景、野餐贴士、跑步路线2025年最新信息"
+summary: "关于东京新宿御苑需要了解的一切：门票、营业时间、交通、星巴克、樱花、红叶、野餐规则、跑步路线"
+tags: ["新宿", "御苑", "东京", "公园", "樱花", "星巴克", "野餐", "跑步", "庭园"]
+categories: ["东京观光"]
+featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: 」东京丸之内彩灯2025完全指南｜迪士尼联动、圣诞市集、集章活动」
+title: "东京丸之内彩灯2025完全指南｜迪士尼联动、圣诞市集、集章活动"
 date: 2025-11-15T08:00:00+09:00
 draft: false
-translationKey: 」marunouchi-illumination-2025」
-description: 」东京丸之内彩灯2025官方时间表！迪士尼联动、圣诞市集、集章活动信息 - 节日纪念碑、限定周边、餐厅菜单、实用信息」
-summary: 」东京丸之内彩灯2025官方时间表！迪士尼联动、圣诞市集、集章活动信息 - 节日纪念碑、限定周边、实用信息」
-tags: [」丸之内」, 」东京旅行」, 」圣诞节」, 」彩灯」, 」迪士尼」, 」东京站」]
-categories: [」旅行信息」]
-featured_image: 」/images/posts/marunouchi-illumination-2025-01.jpg」
+translationKey: "marunouchi-illumination-2025"
+description: "东京丸之内彩灯2025官方时间表！迪士尼联动、圣诞市集、集章活动信息 - 节日纪念碑、限定周边、餐厅菜单、实用信息"
+summary: "东京丸之内彩灯2025官方时间表！迪士尼联动、圣诞市集、集章活动信息 - 节日纪念碑、限定周边、实用信息"
+tags: ["丸之内", "东京旅行", "圣诞节", "彩灯", "迪士尼", "东京站"]
+categories: ["旅行信息"]
+featured_image: "/images/posts/marunouchi-illumination-2025-01.jpg"
 ---
 
 <div class="blog-container">

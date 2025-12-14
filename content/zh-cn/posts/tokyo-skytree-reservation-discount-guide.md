@@ -1,13 +1,13 @@
 ---
-title: 」东京天空树预约折扣2025｜展望台vs展望回廊对比、晴空街道美食完全攻略」
+title: "东京天空树预约折扣2025｜展望台vs展望回廊对比、晴空街道美食完全攻略"
 date: 2025-10-21T23:38:00+09:00
 draft: false
-translationKey: 」tokyo-skytree-reservation-discount-guide」
-description: 」东京天空树2025完全攻略：展望台（350m）vs展望回廊（450m）对比、最高25%折扣门票预约方法、晴空街道购物＆餐厅、交通信息、免费展望台信息汇总。」
-summary: 」东京天空树完全攻略：展望台（350m）vs展望回廊（450m）对比、在线预约享15～25%折扣、晴空街道宝可梦中心、寿司餐厅、甜品景点介绍。」
-tags: [」东京天空树」, 」东京观光」, 」展望台」, 」晴空街道」, 」东京购物」, 」东京餐厅」, 」门票折扣」]
-categories: [」旅行攻略」]
-featured_image: 」/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg」
+translationKey: "tokyo-skytree-reservation-discount-guide"
+description: "东京天空树2025完全攻略：展望台（350m）vs展望回廊（450m）对比、最高25%折扣门票预约方法、晴空街道购物＆餐厅、交通信息、免费展望台信息汇总。"
+summary: "东京天空树完全攻略：展望台（350m）vs展望回廊（450m）对比、在线预约享15～25%折扣、晴空街道宝可梦中心、寿司餐厅、甜品景点介绍。"
+tags: ["东京天空树", "东京观光", "展望台", "晴空街道", "东京购物", "东京餐厅", "门票折扣"]
+categories: ["旅行攻略"]
+featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 ---
 
 <div class="blog-container">

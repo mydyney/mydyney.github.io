@@ -1,13 +1,13 @@
 ---
-title: 」原宿完全攻略2025：从哈利波特商店到竹下通、猫街全覆盖」
+title: "原宿完全攻略2025：从哈利波特商店到竹下通、猫街全覆盖"
 date: 2025-10-03T02:54:00+09:00
 draft: false
-translationKey: 」harajuku-complete-guide-2025」
-description: 」原宿观光完全攻略2025：哈利波特魔法处、竹下通可丽饼、里原宿街头时装、猫街、从表参道到涩谷的完美半日路线。」
-summary: 」原宿的一切：哈利波特商店、竹下通、街头时装、完美路线。」
-tags: [」原宿」, 」竹下通」, 」哈利波特」, 」东京购物」, 」街头时装」, 」猫街」, 」表参道」, 」2025」]
-categories: [」旅行攻略」]
-featured_image: 」/images/posts/harajuku-complete-guide-2025-01.jpg」
+translationKey: "harajuku-complete-guide-2025"
+description: "原宿观光完全攻略2025：哈利波特魔法处、竹下通可丽饼、里原宿街头时装、猫街、从表参道到涩谷的完美半日路线。"
+summary: "原宿的一切：哈利波特商店、竹下通、街头时装、完美路线。"
+tags: ["原宿", "竹下通", "哈利波特", "东京购物", "街头时装", "猫街", "表参道", "2025"]
+categories: ["旅行攻略"]
+featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
 ---
 
 <div class="blog-container">

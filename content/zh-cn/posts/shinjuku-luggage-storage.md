@@ -1,13 +1,13 @@
 ---
-title: 」新宿站行李寄存完全攻略｜100%找到投币储物柜的方法（位置·费用·中心·预约全汇总）」
+title: "新宿站行李寄存完全攻略｜100%找到投币储物柜的方法（位置·费用·中心·预约全汇总）"
 date: 2025-11-12T11:19:00+09:00
 draft: false
-translationKey: 」shinjuku-luggage-storage-2025」
-description: 」2025年新宿站行李寄存完全攻略。投币储物柜的位置、费用、行李寄存中心、预约方法全解析。」
-summary: 」新宿站行李寄存的一切：投币储物柜的位置、费用、寄存中心、预约技巧等2025年最新信息。」
-tags: [」新宿」, 」行李寄存」, 」投币储物柜」, 」旅行信息」, 」东京站」]
-categories: [」旅行信息」]
-featured_image: 」/images/posts/shinjuku-luggage-storage-01.jpg」
+translationKey: "shinjuku-luggage-storage-2025"
+description: "2025年新宿站行李寄存完全攻略。投币储物柜的位置、费用、行李寄存中心、预约方法全解析。"
+summary: "新宿站行李寄存的一切：投币储物柜的位置、费用、寄存中心、预约技巧等2025年最新信息。"
+tags: ["新宿", "行李寄存", "投币储物柜", "旅行信息", "东京站"]
+categories: ["旅行信息"]
+featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 ---
 
 <div class="blog-container">

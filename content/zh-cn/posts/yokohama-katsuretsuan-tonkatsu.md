@@ -1,13 +1,13 @@
 ---
-title: 」横滨胜烈庵:90年传统的横滨式炸排元祖餐厅(菜单、价格、评测)」
+title: "横滨胜烈庵:90年传统的横滨式炸排元祖餐厅(菜单、价格、评测)"
 date: 2025-10-30T17:09:00+09:00
 draft: false
-translationKey: 」yokohama-katsuretsuan-tonkatsu」
-description: 」1927年创业的横滨炸排元祖餐厅「胜烈庵」完全攻略。90年传统、秘制酱汁、米饭卷心菜无限续、菜单价格、马车道本店含全3家店信息。」
-summary: 」横滨式炸排90年传统·胜烈庵:一夜熟成秘制酱汁、生面包糠、米饭卷心菜无限续、栋方志功作品、全3家店完全攻略。」
-tags: [」横滨」, 」炸猪排」, 」胜烈庵」, 」炸排」, 」餐厅」, 」日本料理」, 」横滨美食」]
-categories: [」横滨」]
-featured_image: 」/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg」
+translationKey: "yokohama-katsuretsuan-tonkatsu"
+description: "1927年创业的横滨炸排元祖餐厅「胜烈庵"完全攻略。90年传统、秘制酱汁、米饭卷心菜无限续、菜单价格、马车道本店含全3家店信息。」
+summary: "横滨式炸排90年传统·胜烈庵:一夜熟成秘制酱汁、生面包糠、米饭卷心菜无限续、栋方志功作品、全3家店完全攻略。"
+tags: ["横滨", "炸猪排", "胜烈庵", "炸排", "餐厅", "日本料理", "横滨美食"]
+categories: ["横滨"]
+featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 ---
 
 <div class="blog-container">

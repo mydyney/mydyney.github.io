@@ -1,13 +1,13 @@
 ---
-title: 」东京虎之门山2025完全攻略｜展望台、美食、横丁、T-Market、真实的「虎之门」」
+title: "东京虎之门山2025完全攻略｜展望台、美食、横丁、T-Market、真实的「虎之门"」
 date: 2025-10-20T19:38:00+09:00
 draft: false
-translationKey: 」toranomon-hills-complete-guide」
-description: 」虎之门山2025完全攻略:4座塔楼解说(车站、商业、森、玻璃)、T-Market美食广场、TOKYO NODE免费展望台、虎之门横丁居酒屋街、安达仕酒店、官方虎之门角色。」
-summary: 」探索东京虎之门山:4塔综合体拥有T-Market、TOKYO NODE展望台(45层)、虎之门横丁居酒屋街、高级安达仕酒店、以哆啦A梦为原型的限定虎之门角色。」
-tags: [」虎之门山」, 」东京展望台」, 」东京餐厅」, 」居酒屋」, 」T市场」, 」东京节点」, 」安达仕酒店」, 」商业区」]
-categories: [」旅行攻略」]
-featured_image: 」/images/posts/toranomon-hills-complete-guide-01.jpg」
+translationKey: "toranomon-hills-complete-guide"
+description: "虎之门山2025完全攻略:4座塔楼解说(车站、商业、森、玻璃)、T-Market美食广场、TOKYO NODE免费展望台、虎之门横丁居酒屋街、安达仕酒店、官方虎之门角色。"
+summary: "探索东京虎之门山:4塔综合体拥有T-Market、TOKYO NODE展望台(45层)、虎之门横丁居酒屋街、高级安达仕酒店、以哆啦A梦为原型的限定虎之门角色。"
+tags: ["虎之门山", "东京展望台", "东京餐厅", "居酒屋", "T市场", "东京节点", "安达仕酒店", "商业区"]
+categories: ["旅行攻略"]
+featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 ---
 
 <div class="blog-container">

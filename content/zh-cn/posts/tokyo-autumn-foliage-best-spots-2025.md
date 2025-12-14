@@ -1,13 +1,13 @@
 ---
-title: 」【2025年】东京红叶最佳观赏时间&名所TOP5完全攻略」
+title: "【2025年】东京红叶最佳观赏时间&名所TOP5完全攻略"
 date: 2025-10-12T00:19:00+09:00
 draft: false
-translationKey: 」tokyo-autumn-foliage-best-spots-2025」
-description: 」2025年东京红叶最佳观赏时间预测，绝对要去的TOP5名所特点和灯光秀信息完全汇总。秋季东京旅行必看攻略。」
-summary: 」2025年东京红叶季完全攻略。最佳观赏时间预测、推荐景点TOP5、灯光秀信息详细介绍。」
-tags: [」东京」, 」红叶」, 」秋季」, 」枫叶」, 」银杏」, 」2025」, 」日本旅行」]
-categories: [」观光信息」]
-featured_image: 」/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg」
+translationKey: "tokyo-autumn-foliage-best-spots-2025"
+description: "2025年东京红叶最佳观赏时间预测，绝对要去的TOP5名所特点和灯光秀信息完全汇总。秋季东京旅行必看攻略。"
+summary: "2025年东京红叶季完全攻略。最佳观赏时间预测、推荐景点TOP5、灯光秀信息详细介绍。"
+tags: ["东京", "红叶", "秋季", "枫叶", "银杏", "2025", "日本旅行"]
+categories: ["观光信息"]
+featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 ---
 
 <div class="blog-container">

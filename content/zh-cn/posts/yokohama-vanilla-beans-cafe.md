@@ -1,13 +1,13 @@
 ---
-title: 」横滨咖啡 香草豆 港未来本店:食べログ百名店巧克力芭菲评测」
+title: "横滨咖啡 香草豆 港未来本店:食べログ百名店巧克力芭菲评测"
 date: 2025-10-24T21:04:00+09:00
 draft: false
-translationKey: 」yokohama-vanilla-beans-cafe」
-description: 」横滨香草豆港未来本店完全攻略。连续5年食べログ百名店入选。Bean to bar巧克力专门店的本店限定巧克力芭菲、巧克力夹心礼盒、手工巧克力」
-summary: 」横滨名店香草豆咖啡:连续5年食べログ百名店。本店限定巧克力芭菲与高级巧克力夹心礼盒」
-tags: [」横滨」, 」咖啡」, 」巧克力」, 」香草豆」, 」食べログ百名店」, 」bean to bar」, 」港未来」]
-categories: [」横滨」]
-featured_image: 」/images/posts/yokohama-vanilla-beans-cafe-01.jpg」
+translationKey: "yokohama-vanilla-beans-cafe"
+description: "横滨香草豆港未来本店完全攻略。连续5年食べログ百名店入选。Bean to bar巧克力专门店的本店限定巧克力芭菲、巧克力夹心礼盒、手工巧克力"
+summary: "横滨名店香草豆咖啡:连续5年食べログ百名店。本店限定巧克力芭菲与高级巧克力夹心礼盒"
+tags: ["横滨", "咖啡", "巧克力", "香草豆", "食べログ百名店", "bean to bar", "港未来"]
+categories: ["横滨"]
+featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 ---
 
 <div class="blog-container">

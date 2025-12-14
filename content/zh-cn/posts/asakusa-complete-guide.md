@@ -1,13 +1,13 @@
 ---
-title: 」东京浅草完全攻略2025 - 浅草寺、鬼灭之刃、牛排、酒店推荐」
+title: "东京浅草完全攻略2025 - 浅草寺、鬼灭之刃、牛排、酒店推荐"
 date: 2025-09-28T19:37:00+09:00
 draft: false
-translationKey: 」asakusa-complete-guide」
-description: 」东京浅草2025完全攻略 - 浅草寺、雷门、鬼灭之刃圣地巡礼、米其林认证牛排餐厅、免费展望台、晴空塔景观酒店推荐。完美一日路线全面指南。」
-summary: 」在浅草发现传统东京！浅草寺、仲见世商店街、鬼灭之刃圣地巡礼景点、食べログ百名店牛排、晴空塔景观免费展望台、推荐酒店完全攻略。」
-tags: [」浅草」, 」浅草寺」, 」东京寺庙」, 」鬼灭之刃」, 」牛排」, 」东京美食」, 」雷门」, 」仲见世通」, 」东京展望台」, 」浅草酒店」]
-categories: [」东京旅行攻略」]
-featured_image: 」/images/posts/asakusa-complete-guide-01.jpg」
+translationKey: "asakusa-complete-guide"
+description: "东京浅草2025完全攻略 - 浅草寺、雷门、鬼灭之刃圣地巡礼、米其林认证牛排餐厅、免费展望台、晴空塔景观酒店推荐。完美一日路线全面指南。"
+summary: "在浅草发现传统东京！浅草寺、仲见世商店街、鬼灭之刃圣地巡礼景点、食べログ百名店牛排、晴空塔景观免费展望台、推荐酒店完全攻略。"
+tags: ["浅草", "浅草寺", "东京寺庙", "鬼灭之刃", "牛排", "东京美食", "雷门", "仲见世通", "东京展望台", "浅草酒店"]
+categories: ["东京旅行攻略"]
+featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 ---
 
 <div class="blog-container">

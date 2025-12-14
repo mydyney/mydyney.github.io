@@ -1,13 +1,13 @@
 ---
-title: 」明治神宫外苑东京银杏大道：11月红叶第1景点、夜间灯光・2025圣诞市集・交通攻略」
+title: "明治神宫外苑东京银杏大道：11月红叶第1景点、夜间灯光・2025圣诞市集・交通攻略"
 date: 2025-11-17T18:23:00+09:00
 draft: false
-translationKey: 」meiji-jingu-gaien-ginkgo-avenue-tokyo」
-description: 」明治神宫外苑标志性银杏大道完全攻略 - 东京11月红叶第1景点。最佳观赏期、夜间灯光秀时间表、2025圣诞市集、拍照打卡点、交通方式全面总结。」
-summary: 」东京秋季名所第1位：明治神宫外苑黄金银杏隧道探秘。最佳观赏期、灯光秀时间表、2025圣诞市集、最佳拍照点、外苑前站便捷交通攻略。」
-tags: [」明治神宫外苑」, 」银杏大道」, 」东京红叶」, 」秋季红叶」, 」灯光秀」, 」圣诞市集」, 」表参道」, 」外苑前」, 」东京观光」]
-categories: [」东京观光」, 」表参道」, 」东京秋天」]
-featured_image: 」/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg」
+translationKey: "meiji-jingu-gaien-ginkgo-avenue-tokyo"
+description: "明治神宫外苑标志性银杏大道完全攻略 - 东京11月红叶第1景点。最佳观赏期、夜间灯光秀时间表、2025圣诞市集、拍照打卡点、交通方式全面总结。"
+summary: "东京秋季名所第1位：明治神宫外苑黄金银杏隧道探秘。最佳观赏期、灯光秀时间表、2025圣诞市集、最佳拍照点、外苑前站便捷交通攻略。"
+tags: ["明治神宫外苑", "银杏大道", "东京红叶", "秋季红叶", "灯光秀", "圣诞市集", "表参道", "外苑前", "东京观光"]
+categories: ["东京观光", "表参道", "东京秋天"]
+featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: 」东京迪士尼乐园完全攻略：门票、DPA、午后券、酒店、餐厅&地图」
+title: "东京迪士尼乐园完全攻略：门票、DPA、午后券、酒店、餐厅&地图"
 date: 2025-10-31T18:11:00+09:00
 draft: false
-translationKey: 」tokyo-disneyland-complete-guide」
-description: 」东京迪士尼乐园完全攻略：门票、迪士尼优享通行证（DPA）、午后券、演出、餐厅、酒店、交通、完美迪士尼体验攻略法」
-summary: 」东京迪士尼乐园完全攻略：变动价格门票、DPA与免费通行证、演出预约、餐厅预约、酒店选择、交通、最佳迪士尼体验必备信息」
-tags: [」东京」, 」迪士尼乐园」, 」迪士尼度假区」, 」主题公园」, 」家庭旅行」, 」迪士尼门票」]
-categories: [」迪士尼乐园」]
-featured_image: 」/images/posts/tokyo-disneyland-complete-guide-01.jpg」
+translationKey: "tokyo-disneyland-complete-guide"
+description: "东京迪士尼乐园完全攻略：门票、迪士尼优享通行证（DPA）、午后券、演出、餐厅、酒店、交通、完美迪士尼体验攻略法"
+summary: "东京迪士尼乐园完全攻略：变动价格门票、DPA与免费通行证、演出预约、餐厅预约、酒店选择、交通、最佳迪士尼体验必备信息"
+tags: ["东京", "迪士尼乐园", "迪士尼度假区", "主题公园", "家庭旅行", "迪士尼门票"]
+categories: ["迪士尼乐园"]
+featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 ---
 
 <div class="blog-container">

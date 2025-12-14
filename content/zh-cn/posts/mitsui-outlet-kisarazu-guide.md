@@ -1,13 +1,13 @@
 ---
-title: 」三井奥特莱斯木更津完全指南2025 - 交通·品牌·折扣优惠券」
+title: "三井奥特莱斯木更津完全指南2025 - 交通·品牌·折扣优惠券"
 date: 2025-10-08T00:10:00+09:00
 draft: false
-translationKey: 」mitsui-outlet-kisarazu-guide」
-description: 」三井奥特莱斯木更津2025完全指南 - 距离市中心最佳交通、308家以上品牌。从新宿·东京站直达巴士、折扣优惠券、与御殿场比较、餐厅信息等。」
-summary: 」东京最近的高端奥特莱斯！从Celine、设计师品牌到日本品牌308家以上。从新宿62分钟、羽田机场40分钟。折扣优惠券、品牌指南、美食信息应有尽有。」
-tags: [」东京奥特莱斯」, 」三井奥特莱斯」, 」木更津」, 」东京购物」, 」奥特莱斯」, 」折扣优惠券」, 」御殿场比较」, 」购物指南」, 」奢侈品牌」, 」羽田机场」]
-categories: [」购物指南」, 」东京购物」]
-featured_image: 」/images/posts/mitsui-outlet-kisarazu-guide-01.jpg」
+translationKey: "mitsui-outlet-kisarazu-guide"
+description: "三井奥特莱斯木更津2025完全指南 - 距离市中心最佳交通、308家以上品牌。从新宿·东京站直达巴士、折扣优惠券、与御殿场比较、餐厅信息等。"
+summary: "东京最近的高端奥特莱斯！从Celine、设计师品牌到日本品牌308家以上。从新宿62分钟、羽田机场40分钟。折扣优惠券、品牌指南、美食信息应有尽有。"
+tags: ["东京奥特莱斯", "三井奥特莱斯", "木更津", "东京购物", "奥特莱斯", "折扣优惠券", "御殿场比较", "购物指南", "奢侈品牌", "羽田机场"]
+categories: ["购物指南", "东京购物"]
+featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 ---
 
 <div class="blog-container">

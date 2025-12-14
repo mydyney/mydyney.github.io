@@ -1,13 +1,13 @@
 ---
-title: 」新宿站早餐推荐BEST 8，寄存行李后立刻能去的店（7～8点开门）」
+title: "新宿站早餐推荐BEST 8，寄存行李后立刻能去的店（7～8点开门）"
 date: 2025-11-27T02:19:00+09:00
 draft: false
-translationKey: 」shinjuku-station-breakfast-best-8」
-description: 」新宿站早7～8点开门的早餐店完全攻略。投币柜附近日式早餐・早午餐・饭团都能吃到，东京旅行出发前的最佳地点8选。」
-summary: 」新宿站早7～8点开门，投币柜附近的早餐店8选。从正宗日式定食到时髦早午餐咖啡厅，按出口动线聪明选择。」
-tags: [」新宿」, 」早餐」, 」东京美食」, 」投币柜」, 」日式早餐」, 」东京早午餐」, 」旅游信息」]
-categories: [」东京美食」, 」新宿/新大久保」]
-featured_image: 」/images/posts/shinjuku-station-breakfast-best-8-01.jpg」
+translationKey: "shinjuku-station-breakfast-best-8"
+description: "新宿站早7～8点开门的早餐店完全攻略。投币柜附近日式早餐・早午餐・饭团都能吃到，东京旅行出发前的最佳地点8选。"
+summary: "新宿站早7～8点开门，投币柜附近的早餐店8选。从正宗日式定食到时髦早午餐咖啡厅，按出口动线聪明选择。"
+tags: ["新宿", "早餐", "东京美食", "投币柜", "日式早餐", "东京早午餐", "旅游信息"]
+categories: ["东京美食", "新宿/新大久保"]
+featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 ---
 
 <div class="blog-container">

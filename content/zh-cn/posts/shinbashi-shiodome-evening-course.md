@@ -1,13 +1,13 @@
 ---
-title: 」东京新橋・汐留推荐路线：漫步过去与未来的傍晚散策（美食・夜景攻略）」
+title: "东京新橋・汐留推荐路线：漫步过去与未来的傍晚散策（美食・夜景攻略）"
 date: 2025-10-17T22:46:00+09:00
 draft: false
-translationKey: 」shinbashi-shiodome-evening-course」
-description: 」从新橋烟雾缭绕的居酒屋横丁到汐留绝美夜景，体验真正的东京之夜完全指南。以Tabelog百名店为中心推荐美食。」
-summary: 」上班族圣地新橋的热闹居酒屋横丁与未来都市汐留的夜景完美结合。巡游Tabelog百名店名店和免费展望台的完美傍晚路线。」
-tags: [」新桥」, 」汐留」, 」居酒屋」, 」烤鸡串」, 」夜景」, 」东京美食」, 」Tabelog百名店」, 」汐留Caretta」, 」宫崎骏」]
-categories: [」新桥/汐留」]
-featured_image: 」/images/posts/shinbashi-shiodome-evening-course-01.jpg」
+translationKey: "shinbashi-shiodome-evening-course"
+description: "从新橋烟雾缭绕的居酒屋横丁到汐留绝美夜景，体验真正的东京之夜完全指南。以Tabelog百名店为中心推荐美食。"
+summary: "上班族圣地新橋的热闹居酒屋横丁与未来都市汐留的夜景完美结合。巡游Tabelog百名店名店和免费展望台的完美傍晚路线。"
+tags: ["新桥", "汐留", "居酒屋", "烤鸡串", "夜景", "东京美食", "Tabelog百名店", "汐留Caretta", "宫崎骏"]
+categories: ["新桥/汐留"]
+featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 ---
 
 <div class="blog-container">

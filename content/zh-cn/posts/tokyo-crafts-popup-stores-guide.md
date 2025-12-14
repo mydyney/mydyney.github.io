@@ -1,13 +1,13 @@
 ---
-title: 」东京工艺 快闪店&线下店完全攻略：Tenbi、Wingfort、Makuraito 2（免税·折扣优惠券）」
+title: "东京工艺 快闪店&线下店完全攻略：Tenbi、Wingfort、Makuraito 2（免税·折扣优惠券）"
 date: 2025-11-06T14:33:00+09:00
 draft: false
-translationKey: 」tokyo-crafts-popup-stores-guide」
-description: 」东京工艺快闪店与线下店完全攻略 - Tenbi帐篷、Wingfort避难所、Makuraito 2火炉免税购物与折扣优惠券购买」
-summary: 」东京工艺购物攻略 - 快闪店日程、正规经销店、免税特典、Tenbi、Wingfort、Makuraito 2折扣优惠券」
-tags: [」东京工艺」, 」露营用品」, 」东京购物」, 」Tenbi」, 」Wingfort」, 」Makuraito」, 」免税」, 」快闪店」]
-categories: [」东京购物」]
-featured_image: 」/images/posts/tokyo-crafts-popup-stores-guide-01.jpg」
+translationKey: "tokyo-crafts-popup-stores-guide"
+description: "东京工艺快闪店与线下店完全攻略 - Tenbi帐篷、Wingfort避难所、Makuraito 2火炉免税购物与折扣优惠券购买"
+summary: "东京工艺购物攻略 - 快闪店日程、正规经销店、免税特典、Tenbi、Wingfort、Makuraito 2折扣优惠券"
+tags: ["东京工艺", "露营用品", "东京购物", "Tenbi", "Wingfort", "Makuraito", "免税", "快闪店"]
+categories: ["东京购物"]
+featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 ---
 
 <div class="blog-container">

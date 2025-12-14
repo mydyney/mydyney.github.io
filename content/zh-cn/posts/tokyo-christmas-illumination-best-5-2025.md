@@ -1,13 +1,13 @@
 ---
-title: 」2025年东京圣诞灯饰 BEST 5：六本木·丸之内等完全攻略」
+title: "2025年东京圣诞灯饰 BEST 5：六本木·丸之内等完全攻略"
 date: 2025-10-15T20:25:00+09:00
 draft: false
-translationKey: 」tokyo-christmas-illumination-best-5-2025」
-description: 」2025年东京最佳圣诞灯饰完全攻略：六本木之丘、东京中城、丸之内、表参道、涩谷青之洞窟、惠比寿花园广场的日期、时间、交通信息。」
-summary: 」2025年东京最佳圣诞灯饰完全攻略：日期、时间、优惠信息。」
-tags: [」东京圣诞」, 」灯饰」, 」六本木」, 」丸之内」, 」东京旅行」, 」圣诞2025」]
-categories: [」旅行信息」]
-featured_image: 」/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg」
+translationKey: "tokyo-christmas-illumination-best-5-2025"
+description: "2025年东京最佳圣诞灯饰完全攻略：六本木之丘、东京中城、丸之内、表参道、涩谷青之洞窟、惠比寿花园广场的日期、时间、交通信息。"
+summary: "2025年东京最佳圣诞灯饰完全攻略：日期、时间、优惠信息。"
+tags: ["东京圣诞", "灯饰", "六本木", "丸之内", "东京旅行", "圣诞2025"]
+categories: ["旅行信息"]
+featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 ---
 
 <div class="blog-container">

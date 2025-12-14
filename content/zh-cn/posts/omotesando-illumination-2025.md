@@ -1,13 +1,13 @@
 ---
-title: 」表参道彩灯2025完全攻略｜FENDI金色榉树・期间・时间・打卡点」
+title: "表参道彩灯2025完全攻略｜FENDI金色榉树・期间・时间・打卡点"
 date: 2025-12-03T14:00:00+09:00
 draft: false
-translationKey: 」omotesando-illumination-2025」
-description: 」2025年表参道彩灯完全攻略。FENDI金色榉树期间（12月1日～28日）、点灯时间、原宿・表参道站交通、BEST5打卡点、表参道之丘圣诞树、观赏攻略、连接涩谷青之洞窟路线总结。」
-summary: 」2025表参道彩灯完全攻略。期间、点灯时间、交通信息、推荐路线、打卡点、表参道之丘圣诞树、内幕攻略全面汇总。」
-tags: [」表参道」, 」东京彩灯」, 」东京圣诞」, 」FENDI」, 」原宿」, 」东京冬季」, 」日本旅行」, 」东京灯光秀」]
-categories: [」旅行信息」]
-featured_image: 」/images/posts/omotesando-illumination-2025-01.jpg」
+translationKey: "omotesando-illumination-2025"
+description: "2025年表参道彩灯完全攻略。FENDI金色榉树期间（12月1日～28日）、点灯时间、原宿・表参道站交通、BEST5打卡点、表参道之丘圣诞树、观赏攻略、连接涩谷青之洞窟路线总结。"
+summary: "2025表参道彩灯完全攻略。期间、点灯时间、交通信息、推荐路线、打卡点、表参道之丘圣诞树、内幕攻略全面汇总。"
+tags: ["表参道", "东京彩灯", "东京圣诞", "FENDI", "原宿", "东京冬季", "日本旅行", "东京灯光秀"]
+categories: ["旅行信息"]
+featured_image: "/images/posts/omotesando-illumination-2025-01.jpg"
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: 」东京六本木之丘 Hello Kitty快闪店攻略（期间、免费香水、周边、提前预约攻略）」
+title: "东京六本木之丘 Hello Kitty快闪店攻略（期间、免费香水、周边、提前预约攻略）"
 date: 2025-10-29T15:50:00+09:00
 draft: false
-categories: [」六本木/广尾」]
-tags: [」六本木」, 」Hello Kitty」, 」快闪店」, 」三丽鸥」, 」六本木之丘」, 」东京活动」, 」免费赠品」, 」圣诞」]
-translationKey: 」roppongi-hello-kitty-popup-2025」
-description: 」六本木之丘Hello Kitty野餐花园完全攻略！免费香水迷你瓶、限定周边、预约攻略介绍。2025年东京必看景点！」
-summary: 」六本木之丘Hello Kitty野餐花园完全攻略！免费香水迷你瓶、限定周边、预约攻略介绍。」
-featured_image: 」/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg」
+categories: ["六本木/广尾"]
+tags: ["六本木", "Hello Kitty", "快闪店", "三丽鸥", "六本木之丘", "东京活动", "免费赠品", "圣诞"]
+translationKey: "roppongi-hello-kitty-popup-2025"
+description: "六本木之丘Hello Kitty野餐花园完全攻略！免费香水迷你瓶、限定周边、预约攻略介绍。2025年东京必看景点！"
+summary: "六本木之丘Hello Kitty野餐花园完全攻略！免费香水迷你瓶、限定周边、预约攻略介绍。"
+featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
 ---
 
 <div class="blog-container">

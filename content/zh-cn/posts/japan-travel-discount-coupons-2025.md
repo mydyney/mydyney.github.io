@@ -1,13 +1,13 @@
 ---
-title: 」2025年日本旅行折扣优惠券完全指南：唐吉诃德、Bic Camera、百货店免税+额外折扣」
+title: "2025年日本旅行折扣优惠券完全指南：唐吉诃德、Bic Camera、百货店免税+额外折扣"
 date: 2025-10-13T03:43:00+09:00
 draft: false
-translationKey: 」japan-travel-discount-coupons-2025」
-description: 」2025年日本旅行折扣优惠券完全指南。唐吉诃德、Bic Camera、百货店免税购物+额外折扣。Live JAPAN和Klook所有优惠券一网打尽。」
-summary: 」2025年日本旅行折扣优惠券指南。免税10% + 额外5~7%折扣。Live JAPAN和Klook完全收录。」
-tags: [」日本购物」, 」折扣优惠券」, 」免税」, 」唐吉诃德」, 」Bic Camera」, 」日本旅行」, 」药妆店」, 」百货店」]
-categories: [」旅行信息」]
-featured_image: 」/images/posts/japan-travel-discount-coupons-2025-01.jpg」
+translationKey: "japan-travel-discount-coupons-2025"
+description: "2025年日本旅行折扣优惠券完全指南。唐吉诃德、Bic Camera、百货店免税购物+额外折扣。Live JAPAN和Klook所有优惠券一网打尽。"
+summary: "2025年日本旅行折扣优惠券指南。免税10% + 额外5~7%折扣。Live JAPAN和Klook完全收录。"
+tags: ["日本购物", "折扣优惠券", "免税", "唐吉诃德", "Bic Camera", "日本旅行", "药妆店", "百货店"]
+categories: ["旅行信息"]
+featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 ---
 
 <div class="blog-container">
