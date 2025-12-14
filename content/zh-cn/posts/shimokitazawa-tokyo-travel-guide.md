@@ -1,13 +1,13 @@
 ---
-title: "东京下北泽旅游路线｜古着购物・咖啡厅・餐厅・Live House完全攻略"
+title: 」东京下北泽旅游路线｜古着购物・咖啡厅・餐厅・Live House完全攻略」
 date: 2025-12-03T09:00:00+09:00
 draft: false
-translationKey: "shimokitazawa-tokyo-travel-guide"
-description: "2025年东京下北泽旅游完全攻略。交通、半日路线、古着店（New York Joe、Flamingo、Big Time）、RELOAD、Live House、孤独摇滚圣地巡礼、食べログ认证餐厅、Moon Art Night信息一网打尽。"
-summary: "2025东京下北泽旅游攻略。交通信息、半日路线、古着购物、咖啡厅、餐厅、Live House、孤独摇滚圣地巡礼、避坑技巧全收录。"
-tags: ["下北泽", "东京旅游", "古着购物", "东京咖啡厅", "东京餐厅", "孤独摇滚", "东京独立音乐", "日本旅游"]
-categories: ["旅游信息"]
-featured_image: "/images/posts/shimokitazawa-tokyo-travel-guide-01.jpg"
+translationKey: 」shimokitazawa-tokyo-travel-guide」
+description: 」2025年东京下北泽旅游完全攻略。交通、半日路线、古着店（New York Joe、Flamingo、Big Time）、RELOAD、Live House、孤独摇滚圣地巡礼、食べログ认证餐厅、Moon Art Night信息一网打尽。」
+summary: 」2025东京下北泽旅游攻略。交通信息、半日路线、古着购物、咖啡厅、餐厅、Live House、孤独摇滚圣地巡礼、避坑技巧全收录。」
+tags: [」下北泽」, 」东京旅游」, 」古着购物」, 」东京咖啡厅」, 」东京餐厅」, 」孤独摇滚」, 」东京独立音乐」, 」日本旅游」]
+categories: [」旅游信息」]
+featured_image: 」/images/posts/shimokitazawa-tokyo-travel-guide-01.jpg」
 ---
 
 <div class="blog-container">

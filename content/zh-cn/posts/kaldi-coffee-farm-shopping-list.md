@@ -1,13 +1,13 @@
 ---
-title: "2025年日本KALDI必买推荐：从人气吐司酱到挂耳咖啡的完全指南（附免税信息）"
+title: 」2025年日本KALDI必买推荐：从人气吐司酱到挂耳咖啡的完全指南（附免税信息）」
 date: 2024-04-28T09:00:00+09:00
 draft: false
-categories: ["购物指南"]
-tags: ["KALDI", "东京购物", "日本购物清单", "免税", "咖啡", "吐司酱", "日本食品", "伴手礼", "旅行小贴士"]
-translationKey: "kaldi-coffee-farm-shopping-list"
-description: "2025年KALDI咖啡农场完全指南！人气吐司酱、挂耳咖啡、免税信息等，日本旅行者必看的购物信息全面解析。"
-summary: "2025年KALDI完全指南！从社交媒体热议的吐司酱到上瘾的挂耳咖啡、免税手续 - 完美支持日本人气进口食品店的购物体验。"
-featured_image: "/images/posts/kaldi-coffee-farm-shopping-list-01.jpg"
+categories: [」购物指南」]
+tags: [」KALDI」, 」东京购物」, 」日本购物清单」, 」免税」, 」咖啡」, 」吐司酱」, 」日本食品」, 」伴手礼」, 」旅行小贴士」]
+translationKey: 」kaldi-coffee-farm-shopping-list」
+description: 」2025年KALDI咖啡农场完全指南！人气吐司酱、挂耳咖啡、免税信息等，日本旅行者必看的购物信息全面解析。」
+summary: 」2025年KALDI完全指南！从社交媒体热议的吐司酱到上瘾的挂耳咖啡、免税手续 - 完美支持日本人气进口食品店的购物体验。」
+featured_image: 」/images/posts/kaldi-coffee-farm-shopping-list-01.jpg」
 ---
 
 <div class="blog-container">

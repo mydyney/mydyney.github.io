@@ -1,13 +1,13 @@
 ---
-title: "新宿咖喱肉末名店Epitaph Curry：Tabelog百名店、中村屋、牛舌咖喱比较"
+title: 」新宿咖喱肉末名店Epitaph Curry：Tabelog百名店、中村屋、牛舌咖喱比较」
 date: 2025-11-06T00:07:00+09:00
 draft: false
-translationKey: "shinjuku-epitaph-curry-review"
-description: "Epitaph Curry完全指南，新宿Tabelog百名店咖喱肉末专门店 - 菜单、价格、营业时间、与中村屋、牛舌、汤咖喱比较"
-summary: "新宿Epitaph Curry评测 - Tabelog百名店咖喱肉末专门店菜单指南、点餐技巧、与其他新宿咖喱店比较"
-tags: ["新宿", "咖喱", "Epitaph咖喱", "咖喱肉末", "Tabelog百名店", "日本咖喱", "新宿三丁目"]
-categories: ["东京美食"]
-featured_image: "/images/posts/shinjuku-epitaph-curry-review-01.jpg"
+translationKey: 」shinjuku-epitaph-curry-review」
+description: 」Epitaph Curry完全指南，新宿Tabelog百名店咖喱肉末专门店 - 菜单、价格、营业时间、与中村屋、牛舌、汤咖喱比较」
+summary: 」新宿Epitaph Curry评测 - Tabelog百名店咖喱肉末专门店菜单指南、点餐技巧、与其他新宿咖喱店比较」
+tags: [」新宿」, 」咖喱」, 」Epitaph咖喱」, 」咖喱肉末」, 」Tabelog百名店」, 」日本咖喱」, 」新宿三丁目」]
+categories: [」东京美食」]
+featured_image: 」/images/posts/shinjuku-epitaph-curry-review-01.jpg」
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: "台场彩虹烟花2025：日期・时间・最佳观赏点&交通完全攻略"
+title: 」台场彩虹烟花2025：日期・时间・最佳观赏点&交通完全攻略」
 date: 2025-12-04T13:20:00+09:00
 draft: false
-translationKey: "odaiba-rainbow-fireworks-2025"
-description: "台场彩虹烟花2025完全攻略：12月日期・时间、最佳观赏点、交通方式、夜间游船选择、必备物品全面解析。东京冬季烟花大会完美观赏信息全收录。"
-summary: "台场烟花全攻略：2025年12月日程、TOP5观赏点、实用内幕攻略。"
-tags: ["台场", "烟花", "东京活动", "冬季活动", "彩虹大桥", "平安夜"]
-categories: ["活动・节庆"]
-featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
+translationKey: 」odaiba-rainbow-fireworks-2025」
+description: 」台场彩虹烟花2025完全攻略：12月日期・时间、最佳观赏点、交通方式、夜间游船选择、必备物品全面解析。东京冬季烟花大会完美观赏信息全收录。」
+summary: 」台场烟花全攻略：2025年12月日程、TOP5观赏点、实用内幕攻略。」
+tags: [」台场」, 」烟花」, 」东京活动」, 」冬季活动」, 」彩虹大桥」, 」平安夜」]
+categories: [」活动・节庆」]
+featured_image: 」/images/posts/odaiba-rainbow-fireworks-2025-01.jpg」
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: "新宿霓虹漫步东京灯光秀2025-2026｜期间・打卡区・集章活动完全攻略"
+title: 」新宿霓虹漫步东京灯光秀2025-2026｜期间・打卡区・集章活动完全攻略」
 date: 2025-12-02T08:49:00+09:00
 draft: false
-translationKey: "shinjuku-neon-walk-tokyo-illumination-2025-2026"
-description: "新宿霓虹漫步东京灯光秀2025-2026完全攻略。举办期间、点灯时间、Zone A-D打卡区、AI艺术体验、美食车、数字集章活动与奖品信息，冬季东京观光必看。"
-summary: "冬季东京必去路线！新宿霓虹漫步灯光秀2025-2026的期间、时间、打卡区、集章活动、美食车信息基于官方资料全收录。"
-tags: ["新宿", "东京灯光秀", "东京冬季", "霓虹漫步", "东京活动", "日本旅游", "东京都厅", "东京圣诞"]
-categories: ["旅游信息"]
-featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-01.jpg"
+translationKey: 」shinjuku-neon-walk-tokyo-illumination-2025-2026」
+description: 」新宿霓虹漫步东京灯光秀2025-2026完全攻略。举办期间、点灯时间、Zone A-D打卡区、AI艺术体验、美食车、数字集章活动与奖品信息，冬季东京观光必看。」
+summary: 」冬季东京必去路线！新宿霓虹漫步灯光秀2025-2026的期间、时间、打卡区、集章活动、美食车信息基于官方资料全收录。」
+tags: [」新宿」, 」东京灯光秀」, 」东京冬季」, 」霓虹漫步」, 」东京活动」, 」日本旅游」, 」东京都厅」, 」东京圣诞」]
+categories: [」旅游信息」]
+featured_image: 」/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-01.jpg」
 ---
 
 <div class="blog-container">

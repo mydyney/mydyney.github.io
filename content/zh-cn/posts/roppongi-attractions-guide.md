@@ -1,13 +1,13 @@
 ---
-title: "六本木观光景点完全攻略：展望台、美术馆、购物、美食 A to Z"
+title: 」六本木观光景点完全攻略：展望台、美术馆、购物、美食 A to Z」
 date: 2024-09-02T10:00:00+09:00
 draft: false
-translationKey: "roppongi-attractions-guide"
-description: "发现六本木的全部魅力！从东京City View展望台到艺术美术馆、季节限定节庆、信浓屋高端购物、米其林星级餐厅。完整的六本木旅行攻略。"
-summary: "六本木观光景点完全攻略。东京City View展望台、艺术三角美术馆、季节彩灯、信浓屋超市、高评价餐厅全收录。打造完美六本木旅行计划！"
-tags: ["六本木", "东京观光", "东京展望台", "美术馆", "东京购物", "东京餐厅", "圣诞彩灯", "旅行攻略"]
-categories: ["旅行攻略"]
-featured_image: "/images/posts/roppongi-attractions-guide-01.jpg"
+translationKey: 」roppongi-attractions-guide」
+description: 」发现六本木的全部魅力！从东京City View展望台到艺术美术馆、季节限定节庆、信浓屋高端购物、米其林星级餐厅。完整的六本木旅行攻略。」
+summary: 」六本木观光景点完全攻略。东京City View展望台、艺术三角美术馆、季节彩灯、信浓屋超市、高评价餐厅全收录。打造完美六本木旅行计划！」
+tags: [」六本木」, 」东京观光」, 」东京展望台」, 」美术馆」, 」东京购物」, 」东京餐厅」, 」圣诞彩灯」, 」旅行攻略」]
+categories: [」旅行攻略」]
+featured_image: 」/images/posts/roppongi-attractions-guide-01.jpg」
 ---
 
 <div class="blog-container">

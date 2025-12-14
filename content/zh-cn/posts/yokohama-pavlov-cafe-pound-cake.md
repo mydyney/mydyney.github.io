@@ -1,13 +1,13 @@
 ---
-title: "横滨咖啡 巴甫洛夫元町本店:食べログ百名店磅蛋糕评测(预约、菜单、价格)"
+title: 」横滨咖啡 巴甫洛夫元町本店:食べログ百名店磅蛋糕评测(预约、菜单、价格)」
 date: 2025-10-28T23:48:00+09:00
 draft: false
-translationKey: "yokohama-pavlov-cafe-pound-cake"
-description: "横滨元町咖啡 巴甫洛夫完全攻略 - 食べログ甜品百名店连续5年入选。白豆沙磅蛋糕、法式吐司、巴甫洛夫的狗概念知名。菜单、价格、预约、访问技巧。"
-summary: "横滨宝石般的咖啡 巴甫洛夫:食べログ百名店连续5年,白豆沙独特磅蛋糕、法式吐司、可颂面包坊、含菜单和交通的完全访问攻略。"
-tags: ["横滨", "咖啡", "巴甫洛夫", "磅蛋糕", "法式吐司", "食べログ", "元町"]
-categories: ["横滨"]
-featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
+translationKey: 」yokohama-pavlov-cafe-pound-cake」
+description: 」横滨元町咖啡 巴甫洛夫完全攻略 - 食べログ甜品百名店连续5年入选。白豆沙磅蛋糕、法式吐司、巴甫洛夫的狗概念知名。菜单、价格、预约、访问技巧。」
+summary: 」横滨宝石般的咖啡 巴甫洛夫:食べログ百名店连续5年,白豆沙独特磅蛋糕、法式吐司、可颂面包坊、含菜单和交通的完全访问攻略。」
+tags: [」横滨」, 」咖啡」, 」巴甫洛夫」, 」磅蛋糕」, 」法式吐司」, 」食べログ」, 」元町」]
+categories: [」横滨」]
+featured_image: 」/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg」
 ---
 
 <div class="blog-container">

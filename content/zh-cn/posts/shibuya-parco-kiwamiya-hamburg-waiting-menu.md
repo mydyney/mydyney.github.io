@@ -1,12 +1,12 @@
 ---
-title: "KIWAMIYA汉堡肉 涩谷PARCO店｜等位・菜单・价格・495日元自助套餐完全攻略"
+title: 」KIWAMIYA汉堡肉 涩谷PARCO店｜等位・菜单・价格・495日元自助套餐完全攻略」
 date: 2025-12-10T23:14:00+09:00
 draft: false
-categories: ["涩谷", "餐厅评测"]
-tags: ["涩谷PARCO", "汉堡肉", "KIWAMIYA", "日本料理", "福冈美食", "铁板风格", "自助餐"]
-author: "Tokyo Mate"
-description: "涩谷PARCO B1F KIWAMIYA汉堡肉完全攻略。福冈第1名汉堡肉登陆东京！等位时间、菜单价格、495日元自助套餐、攻略秘诀全面解析。"
-featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg"
+categories: [」涩谷」, 」餐厅评测」]
+tags: [」涩谷PARCO」, 」汉堡肉」, 」KIWAMIYA」, 」日本料理」, 」福冈美食」, 」铁板风格」, 」自助餐」]
+author: 」Tokyo Mate」
+description: 」涩谷PARCO B1F KIWAMIYA汉堡肉完全攻略。福冈第1名汉堡肉登陆东京！等位时间、菜单价格、495日元自助套餐、攻略秘诀全面解析。」
+featured_image: 」/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg」
 ---
 
 福冈传说中的汉堡肉餐厅**KIWAMIYA**登陆东京涩谷PARCO！等位时间、菜单价格、招牌**495日元自助套餐**、涩谷限定菜单完全攻略。

@@ -1,13 +1,13 @@
 ---
-title: "东京都厅展望台：免费入场、灯光秀时间、交通方式、新宿夜景攻略全汇总"
+title: 」东京都厅展望台：免费入场、灯光秀时间、交通方式、新宿夜景攻略全汇总」
 date: 2025-11-02T16:22:00+09:00
 draft: false
-translationKey: "tokyo-metropolitan-govt-observatory"
-description: "东京都厅展望台完全攻略 - 灯光秀时间表、交通方式、闭馆日、新宿最佳夜景观赏技巧全介绍"
-summary: "东京都厅展望台免费360度全景绝佳视野体验。哥斯拉、高达登场的TOKYO Night & Light投影秀、交通信息、参观技巧详细解说。"
-tags: ["东京", "新宿", "展望台", "免费景点", "夜景", "投影秀"]
-categories: ["新宿/新大久保"]
-featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
+translationKey: 」tokyo-metropolitan-govt-observatory」
+description: 」东京都厅展望台完全攻略 - 灯光秀时间表、交通方式、闭馆日、新宿最佳夜景观赏技巧全介绍」
+summary: 」东京都厅展望台免费360度全景绝佳视野体验。哥斯拉、高达登场的TOKYO Night & Light投影秀、交通信息、参观技巧详细解说。」
+tags: [」东京」, 」新宿」, 」展望台」, 」免费景点」, 」夜景」, 」投影秀」]
+categories: [」新宿/新大久保」]
+featured_image: 」/images/posts/tokyo-metropolitan-govt-observatory-01.jpg」
 ---
 
 <div class="blog-container">

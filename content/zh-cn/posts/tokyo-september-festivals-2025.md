@@ -1,13 +1,13 @@
 ---
-title: "【2025年9月】东京祭典·活动完全攻略（天气·着装·日历）"
+title: 」【2025年9月】东京祭典·活动完全攻略（天气·着装·日历）」
 date: 2025-09-02T16:36:00+09:00
 draft: false
-translationKey: "tokyo-september-festivals-2025"
-description: "2025年9月东京祭典·活动完全攻略。从波斯菊花田到慕尼黑啤酒节、艺术之夜到烟花大会，包含天气和着装建议全面解说。"
-summary: "2025年9月东京祭典·活动完全攻略。附天气和着装建议。"
-tags: ["东京祭典", "9月东京", "东京活动2025", "东京天气", "日本旅行"]
-categories: ["节日攻略"]
-featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
+translationKey: 」tokyo-september-festivals-2025」
+description: 」2025年9月东京祭典·活动完全攻略。从波斯菊花田到慕尼黑啤酒节、艺术之夜到烟花大会，包含天气和着装建议全面解说。」
+summary: 」2025年9月东京祭典·活动完全攻略。附天气和着装建议。」
+tags: [」东京祭典」, 」9月东京」, 」东京活动2025」, 」东京天气」, 」日本旅行」]
+categories: [」节日攻略」]
+featured_image: 」/images/posts/tokyo-september-festivals-2025-01.jpg」
 ---
 
 <div class="blog-container">

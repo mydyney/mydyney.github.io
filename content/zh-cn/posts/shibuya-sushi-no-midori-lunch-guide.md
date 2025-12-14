@@ -1,13 +1,13 @@
 ---
-title: "涩谷寿司绿完全攻略｜午餐菜单・预约・排队时间"
+title: 」涩谷寿司绿完全攻略｜午餐菜单・预约・排队时间」
 date: 2025-12-05T09:07:00+09:00
 draft: false
-categories: ["涩谷・原宿"]
-tags: ["涩谷", "寿司", "午餐", "性价比", "东京餐厅", "超值午餐", "排队时间", "预约"]
-translationKey: "shibuya-sushi-no-midori-lunch-guide-2025"
-description: "寿司绿涩谷店完全攻略：超值午餐菜单、二维码排队系统、预约方法、菜单价格，以及性价比王者YAWARAGI LUNCH套餐的真实测评。"
-summary: "涩谷性价比之王寿司店。厚切新鲜食材配智能二维码排队系统。寿司绿YAWARAGI午餐与排队攻略完全指南。"
-featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
+categories: [」涩谷・原宿」]
+tags: [」涩谷」, 」寿司」, 」午餐」, 」性价比」, 」东京餐厅」, 」超值午餐」, 」排队时间」, 」预约」]
+translationKey: 」shibuya-sushi-no-midori-lunch-guide-2025」
+description: 」寿司绿涩谷店完全攻略：超值午餐菜单、二维码排队系统、预约方法、菜单价格，以及性价比王者YAWARAGI LUNCH套餐的真实测评。」
+summary: 」涩谷性价比之王寿司店。厚切新鲜食材配智能二维码排队系统。寿司绿YAWARAGI午餐与排队攻略完全指南。」
+featured_image: 」/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg」
 ---
 
 <div class="blog-container">
