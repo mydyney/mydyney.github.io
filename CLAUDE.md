@@ -216,6 +216,7 @@ python3 fetch_content.py [URL]
 **Content Creation:**
 - Create `content/en/posts/[slug].md`
 - Create `content/ja/posts/[slug].md`
+- Create `content/zh-cn/posts/[slug].md`
 - ⚠️ **CRITICAL: IMAGE POSITIONING**
   * Verify ALL images from original blog
   * Content MUST match image positions EXACTLY
@@ -223,16 +224,31 @@ python3 fetch_content.py [URL]
   * Never add content not in original blog
   * **Check for grouped images:** Identify if images appear side-by-side in original
   * **Preserve grouping:** Use appropriate `image-group-X` class (see "Grouped Images" section below)
-- ⚠️ **CRITICAL: CULTURAL ADAPTATION**
-  * EN: American English, US cultural references
-  * JA: Japanese cultural nuances and expressions
-  * Proper localization, not just translation
-- ⚠️ **CRITICAL: JAPANESE CULTURAL ADAPTATION**
-  * **Remove "日本の" prefix:** Since content is FOR Japanese readers ABOUT Japan, avoid redundant "日本の" 
-    * Example: "日本のコーヒー" → "コーヒー"
-    * Example: "日本のショッピング" → "ショッピング"
-  * **Tax-Free Content:** DELETE all tax-free/免税 sections from JA posts (only relevant to foreign tourists)
-  * **Natural phrasing:** Use expressions natural to Japanese readers, not literal translations
+- ⚠️ **CRITICAL: CULTURAL ADAPTATION & WRITING STYLE**
+  * **English (EN)**: Write from traveler's perspective for English-speaking tourists
+    - Use engaging, traveler-friendly expressions
+    - American English spelling and cultural references
+    - Focus on what international visitors want to know
+    - Natural, conversational tone
+  * **Japanese (JA)**: Write for Japanese local readers
+    - **NEVER use "日本の" prefix** - readers are Japanese, content is about Japan
+    - Example: "日本のコーヒー" → "コーヒー"
+    - Example: "日本のショッピング" → "ショッピング"
+    - Use location names instead of "Japan": "東京", "新宿", specific area names
+    - **DELETE all tax-free/免税 sections** - only relevant to foreign tourists
+    - Natural phrasing that Japanese readers use, not literal translations
+  * **Chinese (ZH-CN)**: Write from traveler's perspective for Chinese-speaking tourists
+    - Use engaging, traveler-friendly expressions (similar to English approach)
+    - Focus on practical information tourists need
+    - Use popular travel terminology: "攻略", "性价比", "必打卡"
+    - Natural, conversational tone appropriate for Chinese travel blogs
+- ⚠️ **CRITICAL: NO AI WRITING TRACES**
+  * **NEVER leave any signs that content was AI-generated**
+  * Avoid overly formal or robotic language patterns
+  * No generic AI phrases like "In conclusion", "It's worth noting", "comprehensive guide"
+  * Use natural, human-like variations in sentence structure
+  * Include personal touches and authentic observations
+  * Write as a real travel blogger would, not as an AI assistant
 - ⚠️ **CRITICAL: LINK HANDLING**
   * **Order:** All links MUST be included in the exact same order as the original post
   * **Verification:** Check `LINK_MAPPING.md` for slug existence
@@ -2442,6 +2458,16 @@ Build Output:    /public/
 **Next Review:** When significant project changes occur
 
 **Recent Updates (2025-12-14 - Latest):**
+- **Blog Writing Guidelines Enhancement:**
+  - **CRITICAL: Added "NO AI WRITING TRACES" rule**
+  - Updated "CULTURAL ADAPTATION & WRITING STYLE" section with detailed guidelines:
+    * English: Traveler's perspective for international tourists
+    * Japanese: Local reader perspective, avoid "日本の" prefix
+    * Chinese: Traveler's perspective similar to English approach
+  - Added specific writing style requirements for each language
+  - Emphasized natural, human-like writing without AI patterns
+  - **Impact:** Ensures all blog content feels authentic and human-written
+
 - **Chinese Language Support Documentation:**
   - Added Chinese (Simplified) to "Languages Supported" section
   - **CRITICAL: Added YAML syntax rules for Chinese content**
