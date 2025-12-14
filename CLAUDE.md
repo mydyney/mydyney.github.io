@@ -1,6 +1,6 @@
 # CLAUDE.md - AI Assistant Guide
 
-> **Last Updated:** 2025-12-12
+> **Last Updated:** 2025-12-13
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Site:** https://tripmate.news
 > **Type:** Hugo Static Site for GitHub Pages
@@ -1847,6 +1847,12 @@ git push
    - Never use: `--baseURL "${{ steps.pages.outputs.base_url }}/"`
    - Let Hugo use `hugo.toml` baseURL setting
 
+10. **Do NOT** create documents or files unless explicitly requested
+   - Only create content when user specifically asks for it
+   - Do not proactively generate README files, documentation, or other markdown files
+   - Exception: Required files for completing a specific task (e.g., blog posts during migration)
+   - If uncertain whether to create a file, ask the user first
+
 ### ✅ Best Practices
 
 1. **Always test locally** with `hugo server` before pushing
@@ -2387,11 +2393,19 @@ Build Output:    /public/
 
 ## Document Maintenance
 
-**Last Updated:** 2025-12-12
+**Last Updated:** 2025-12-13
 **Updated By:** Claude (AI Assistant)
 **Next Review:** When significant project changes occur
 
-**Recent Updates (2025-12-12 - Latest):**
+**Recent Updates (2025-12-13 - Latest):**
+- **Critical Considerations Enhancement:**
+  - Added new prohibition rule #10: "Do NOT create documents or files unless explicitly requested"
+  - Clarified that AI should only create content when user specifically asks for it
+  - Exception: Required files for completing a specific task (e.g., blog posts during migration)
+  - Prevents proactive creation of README files, documentation, or other unrequested files
+  - **Impact:** Ensures AI assistant stays focused on user-requested tasks only
+
+**Recent Updates (2025-12-12):**
 - **Documentation Clarity Improvements:**
   - Fixed inconsistent image numbering rules throughout the document
   - Clarified that `{slug}-01.jpg` serves dual purpose: featured_image + first body image
