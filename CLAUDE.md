@@ -1,6 +1,6 @@
 # CLAUDE.md - AI Assistant Guide
 
-> **Last Updated:** 2025-12-13
+> **Last Updated:** 2025-12-14
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Site:** https://tripmate.news
 > **Type:** Hugo Static Site for GitHub Pages
@@ -39,8 +39,9 @@ This document provides comprehensive guidance for AI assistants working on this 
 
 1. **English** (en) - Primary/Default language
 2. **Japanese** (ja) - Secondary
+3. **Chinese (Simplified)** (zh-cn) - Tertiary
 
-**Note:** Korean language support has been removed. The blog now operates in English and Japanese only.
+**Note:** Korean language support has been removed. The blog now operates in English, Japanese, and Chinese (Simplified).
 
 ### Key Information
 
@@ -215,6 +216,7 @@ python3 fetch_content.py [URL]
 **Content Creation:**
 - Create `content/en/posts/[slug].md`
 - Create `content/ja/posts/[slug].md`
+- Create `content/zh-cn/posts/[slug].md`
 - ⚠️ **CRITICAL: IMAGE POSITIONING**
   * Verify ALL images from original blog
   * Content MUST match image positions EXACTLY
@@ -222,16 +224,31 @@ python3 fetch_content.py [URL]
   * Never add content not in original blog
   * **Check for grouped images:** Identify if images appear side-by-side in original
   * **Preserve grouping:** Use appropriate `image-group-X` class (see "Grouped Images" section below)
-- ⚠️ **CRITICAL: CULTURAL ADAPTATION**
-  * EN: American English, US cultural references
-  * JA: Japanese cultural nuances and expressions
-  * Proper localization, not just translation
-- ⚠️ **CRITICAL: JAPANESE CULTURAL ADAPTATION**
-  * **Remove "日本の" prefix:** Since content is FOR Japanese readers ABOUT Japan, avoid redundant "日本の" 
-    * Example: "日本のコーヒー" → "コーヒー"
-    * Example: "日本のショッピング" → "ショッピング"
-  * **Tax-Free Content:** DELETE all tax-free/免税 sections from JA posts (only relevant to foreign tourists)
-  * **Natural phrasing:** Use expressions natural to Japanese readers, not literal translations
+- ⚠️ **CRITICAL: CULTURAL ADAPTATION & WRITING STYLE**
+  * **English (EN)**: Write from traveler's perspective for English-speaking tourists
+    - Use engaging, traveler-friendly expressions
+    - American English spelling and cultural references
+    - Focus on what international visitors want to know
+    - Natural, conversational tone
+  * **Japanese (JA)**: Write for Japanese local readers
+    - **NEVER use "日本の" prefix** - readers are Japanese, content is about Japan
+    - Example: "日本のコーヒー" → "コーヒー"
+    - Example: "日本のショッピング" → "ショッピング"
+    - Use location names instead of "Japan": "東京", "新宿", specific area names
+    - **DELETE all tax-free/免税 sections** - only relevant to foreign tourists
+    - Natural phrasing that Japanese readers use, not literal translations
+  * **Chinese (ZH-CN)**: Write from traveler's perspective for Chinese-speaking tourists
+    - Use engaging, traveler-friendly expressions (similar to English approach)
+    - Focus on practical information tourists need
+    - Use popular travel terminology: "攻略", "性价比", "必打卡"
+    - Natural, conversational tone appropriate for Chinese travel blogs
+- ⚠️ **CRITICAL: NO AI WRITING TRACES**
+  * **NEVER leave any signs that content was AI-generated**
+  * Avoid overly formal or robotic language patterns
+  * No generic AI phrases like "In conclusion", "It's worth noting", "comprehensive guide"
+  * Use natural, human-like variations in sentence structure
+  * Include personal touches and authentic observations
+  * Write as a real travel blogger would, not as an AI assistant
 - ⚠️ **CRITICAL: LINK HANDLING**
   * **Order:** All links MUST be included in the exact same order as the original post
   * **Verification:** Check `LINK_MAPPING.md` for slug existence
@@ -538,13 +555,50 @@ featured_image: "/images/posts/featured.jpg"
 - `description` - For SEO
 - `summary` - For post listings
 
+**⚠️ CRITICAL: YAML Syntax Rules for Chinese Content**
+
+When creating Chinese (Simplified) blog posts, **NEVER** use the following characters inside YAML quoted strings:
+
+❌ **FORBIDDEN in YAML front matter:**
+- Chinese corner brackets: `「` `」` (U+300C, U+300D)
+- Chinese quotation marks: `"` `"` (U+201C, U+201D)
+- Chinese single quotes: `'` `'` (U+2018, U+2019)
+
+✅ **ALLOWED alternatives:**
+- Use plain text without special quotes in front matter
+- Or use standard ASCII quotes: `"` (U+0022) and `'` (U+0027)
+
+**Examples:**
+
+```yaml
+# ❌ WRONG - Will cause Hugo build failure
+title: "東京「浪花家」完全攻略"
+description: "在百年老店「浪花家」品嘗鯛魚燒"
+
+# ✅ CORRECT - Safe for YAML parsing
+title: "東京浪花家完全攻略"
+description: "在百年老店浪花家品嘗鯛魚燒"
+```
+
+**Why this matters:**
+- Chinese corner brackets `「」` inside YAML quoted strings break YAML parser
+- Hugo cannot parse the front matter and skips the entire post
+- Results in missing content on the website
+- **All 86 Chinese posts must follow this rule**
+
+**Validation:**
+After creating Chinese posts, validate YAML with:
+```bash
+python3 -c "import yaml; yaml.safe_load(open('content/zh-cn/posts/[file].md').read().split('---')[1])"
+```
+
 ### Multilingual Content
 
 **Creating Linked Translations:**
 
-1. Create post in **English and Japanese** with **identical `translationKey`**
-2. Use same date across both versions
-3. Place in respective language directories (`content/en/` and `content/ja/`)
+1. Create post in **English, Japanese, and Chinese (Simplified)** with **identical `translationKey`**
+2. Use same date across all versions
+3. Place in respective language directories (`content/en/`, `content/ja/`, `content/zh-cn/`)
 
 **Example:**
 
@@ -560,11 +614,17 @@ translationKey: "tokyo-guide-2025"
 title: "東京ガイド"
 translationKey: "tokyo-guide-2025"
 ---
+
+# content/zh-cn/posts/tokyo-guide.md
+---
+title: "东京旅游指南"
+translationKey: "tokyo-guide-2025"
+---
 ```
 
 **Language Switcher:** Hugo will automatically show language switcher when posts share `translationKey`.
 
-**Note:** Korean language support has been removed. Only create English and Japanese versions.
+**Note:** Korean language support has been removed. Create English, Japanese, and Chinese (Simplified) versions.
 
 ### Tag Management and Multilingual Tags
 
@@ -2393,11 +2453,34 @@ Build Output:    /public/
 
 ## Document Maintenance
 
-**Last Updated:** 2025-12-13
+**Last Updated:** 2025-12-14
 **Updated By:** Claude (AI Assistant)
 **Next Review:** When significant project changes occur
 
-**Recent Updates (2025-12-13 - Latest):**
+**Recent Updates (2025-12-14 - Latest):**
+- **Blog Writing Guidelines Enhancement:**
+  - **CRITICAL: Added "NO AI WRITING TRACES" rule**
+  - Updated "CULTURAL ADAPTATION & WRITING STYLE" section with detailed guidelines:
+    * English: Traveler's perspective for international tourists
+    * Japanese: Local reader perspective, avoid "日本の" prefix
+    * Chinese: Traveler's perspective similar to English approach
+  - Added specific writing style requirements for each language
+  - Emphasized natural, human-like writing without AI patterns
+  - **Impact:** Ensures all blog content feels authentic and human-written
+
+- **Chinese Language Support Documentation:**
+  - Added Chinese (Simplified) to "Languages Supported" section
+  - **CRITICAL: Added YAML syntax rules for Chinese content**
+  - Documented forbidden characters in YAML front matter:
+    * Chinese corner brackets `「」` (U+300C, U+300D)
+    * Chinese quotation marks `"` `"` (U+201C, U+201D)
+    * Chinese single quotes `'` `'` (U+2018, U+2019)
+  - Added examples of correct vs incorrect YAML formatting
+  - Added validation command for Chinese posts
+  - Updated "Multilingual Content" section to include Chinese
+  - **Impact:** Prevents Hugo build failures caused by YAML parsing errors in Chinese posts
+
+**Previous Updates (2025-12-13):**
 - **Critical Considerations Enhancement:**
   - Added new prohibition rule #10: "Do NOT create documents or files unless explicitly requested"
   - Clarified that AI should only create content when user specifically asks for it
