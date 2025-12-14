@@ -1,13 +1,13 @@
 ---
-title: "【2025年10月】东京节日完全攻略｜拉面节·万圣节"
+title: 」【2025年10月】东京节日完全攻略｜拉面节·万圣节」
 date: 2025-09-29T22:25:00+09:00
 draft: false
-translationKey: "tokyo-october-festivals-2025"
-description: "2025年10月东京节日·祭典完全攻略。拉面节、池袋万圣节、天气·着装技巧到14大必看活动全面解说。"
-summary: "10月东京旅行计划必看！14大祭典、天气·着装技巧、红叶景点全覆盖。"
-tags: ["东京", "节日", "10月", "拉面节", "万圣节", "秋天", "祭典", "2025"]
-categories: ["节日攻略"]
-featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
+translationKey: 」tokyo-october-festivals-2025」
+description: 」2025年10月东京节日·祭典完全攻略。拉面节、池袋万圣节、天气·着装技巧到14大必看活动全面解说。」
+summary: 」10月东京旅行计划必看！14大祭典、天气·着装技巧、红叶景点全覆盖。」
+tags: [」东京」, 」节日」, 」10月」, 」拉面节」, 」万圣节」, 」秋天」, 」祭典」, 」2025」]
+categories: [」节日攻略」]
+featured_image: 」/images/posts/tokyo-october-festivals-2025-01.jpg」
 ---
 
 <div class="blog-container">

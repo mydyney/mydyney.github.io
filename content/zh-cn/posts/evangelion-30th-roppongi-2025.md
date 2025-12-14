@@ -1,13 +1,13 @@
 ---
-title: "新世纪福音战士30周年纪念特别展六本木之丘展望台东京City View完全攻略 (ALL OF EVANGELION)"
+title: 」新世纪福音战士30周年纪念特别展六本木之丘展望台东京City View完全攻略 (ALL OF EVANGELION)」
 date: 2025-11-16T08:00:00+09:00
 draft: false
-translationKey: "evangelion-30th-roppongi-2025"
-description: "新世纪福音战士30周年纪念展六本木东京City View完全攻略！门票预订、展览亮点、限定周边、观展技巧全面总结"
-summary: "新世纪福音战士30周年纪念展六本木东京City View完全攻略！门票预订、展览亮点、限定周边、观展技巧全面总结"
-tags: ["六本木", "东京旅游", "新世纪福音战士", "展览", "东京City View", "展望台"]
-categories: ["旅游信息"]
-featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
+translationKey: 」evangelion-30th-roppongi-2025」
+description: 」新世纪福音战士30周年纪念展六本木东京City View完全攻略！门票预订、展览亮点、限定周边、观展技巧全面总结」
+summary: 」新世纪福音战士30周年纪念展六本木东京City View完全攻略！门票预订、展览亮点、限定周边、观展技巧全面总结」
+tags: [」六本木」, 」东京旅游」, 」新世纪福音战士」, 」展览」, 」东京City View」, 」展望台」]
+categories: [」旅游信息」]
+featured_image: 」/images/posts/evangelion-30th-roppongi-2025-01.jpg」
 ---
 
 <div class="blog-container">

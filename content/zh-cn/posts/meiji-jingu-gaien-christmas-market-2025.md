@@ -1,13 +1,13 @@
 ---
-title: "明治神宫外苑圣诞市集2025：门票・价格・时间・马克杯福利完全攻略"
+title: 」明治神宫外苑圣诞市集2025：门票・价格・时间・马克杯福利完全攻略」
 date: 2025-11-24T18:00:00+09:00
 draft: false
-categories: ["东京活动", "圣诞"]
-tags: ["明治神宫外苑", "圣诞市集", "东京", "冬季活动", "灯光秀", "2025"]
-translationKey: "meiji-jingu-gaien-christmas-market-2025"
-description: "2025年东京・明治神宫外苑圣诞市集完全攻略。预售门票、价格、营业时间、交通信息、限定马克杯福利、2小时停留技巧全介绍。"
-summary: "明治神宫外苑圣诞市集2025全信息：门票价格、营业时间、限定马克杯福利、2小时停留计划详解。"
-featured_image: "/images/posts/meiji-jingu-gaien-christmas-market-2025-01.jpg"
+categories: [」东京活动」, 」圣诞」]
+tags: [」明治神宫外苑」, 」圣诞市集」, 」东京」, 」冬季活动」, 」灯光秀」, 」2025」]
+translationKey: 」meiji-jingu-gaien-christmas-market-2025」
+description: 」2025年东京・明治神宫外苑圣诞市集完全攻略。预售门票、价格、营业时间、交通信息、限定马克杯福利、2小时停留技巧全介绍。」
+summary: 」明治神宫外苑圣诞市集2025全信息：门票价格、营业时间、限定马克杯福利、2小时停留计划详解。」
+featured_image: 」/images/posts/meiji-jingu-gaien-christmas-market-2025-01.jpg」
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: "新宿团子店 追分团子本铺 | 300年传统东京甜点 礼品&便利店团子对比"
+title: 」新宿团子店 追分团子本铺 | 300年传统东京甜点 礼品&便利店团子对比」
 date: 2025-11-08T11:32:00+09:00
 draft: false
-translationKey: "shinjuku-oiwake-dango-honpo"
-description: "新宿追分团子本铺完全攻略 - 300年传统、正宗日式点心、咖啡空间、季节限定菜单、礼品包装技巧"
-summary: "新宿正宗300年老字号团子店 - 手工团子、传统味道、咖啡空间、完美礼品包装"
-tags: ["新宿", "团子", "甜点", "日式点心", "东京", "传统"]
-categories: ["东京美食"]
-featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
+translationKey: 」shinjuku-oiwake-dango-honpo」
+description: 」新宿追分团子本铺完全攻略 - 300年传统、正宗日式点心、咖啡空间、季节限定菜单、礼品包装技巧」
+summary: 」新宿正宗300年老字号团子店 - 手工团子、传统味道、咖啡空间、完美礼品包装」
+tags: [」新宿」, 」团子」, 」甜点」, 」日式点心」, 」东京」, 」传统」]
+categories: [」东京美食」]
+featured_image: 」/images/posts/shinjuku-oiwake-dango-honpo-01.jpg」
 ---
 
 <div class="blog-container">

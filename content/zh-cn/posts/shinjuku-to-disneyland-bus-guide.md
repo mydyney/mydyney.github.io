@@ -1,13 +1,13 @@
 ---
-title: "新宿到迪士尼乐园交通：Busta新宿利木津巴士时刻表·费用·座位技巧完全攻略"
+title: 」新宿到迪士尼乐园交通：Busta新宿利木津巴士时刻表·费用·座位技巧完全攻略」
 date: 2025-11-06T18:26:00+09:00
 draft: false
-translationKey: "shinjuku-to-disneyland-bus-guide"
-description: "从Busta新宿到东京迪士尼乐园的利木津巴士完全攻略 - 详细时刻表、费用、预约技巧、JR/地铁对比"
-summary: "新宿到迪士尼乐园交通 - Busta新宿利木津巴士时刻表、费用、预约方法、电车对比"
-tags: ["新宿", "迪士尼乐园", "Busta新宿", "利木津巴士", "东京迪士尼", "家庭旅行"]
-categories: ["东京旅行信息"]
-featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
+translationKey: 」shinjuku-to-disneyland-bus-guide」
+description: 」从Busta新宿到东京迪士尼乐园的利木津巴士完全攻略 - 详细时刻表、费用、预约技巧、JR/地铁对比」
+summary: 」新宿到迪士尼乐园交通 - Busta新宿利木津巴士时刻表、费用、预约方法、电车对比」
+tags: [」新宿」, 」迪士尼乐园」, 」Busta新宿」, 」利木津巴士」, 」东京迪士尼」, 」家庭旅行」]
+categories: [」东京旅行信息」]
+featured_image: 」/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg」
 ---
 
 <div class="blog-container">

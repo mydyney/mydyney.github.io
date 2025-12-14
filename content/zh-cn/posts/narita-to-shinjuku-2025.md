@@ -1,13 +1,13 @@
 ---
-title: "成田机场到新宿交通攻略2025 | N'EX和利木津巴士完全对比"
+title: 」成田机场到新宿交通攻略2025 | N'EX和利木津巴士完全对比」
 date: 2025-11-11T14:00:00+09:00
 draft: false
-categories: ["旅行信息"]
-tags: ["成田机场", "新宿", "成田特快", "利木津巴士", "东京交通"]
-translationKey: "narita-to-shinjuku-2025"
-description: "2025年成田机场到新宿交通完全攻略。成田特快(N'EX)和利木津巴士的价格、时刻表、预订方法对比。"
-summary: "成田机场到新宿交通完全解析。成田特快和利木津巴士的详细时刻表和推荐方案。"
-featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
+categories: [」旅行信息」]
+tags: [」成田机场」, 」新宿」, 」成田特快」, 」利木津巴士」, 」东京交通」]
+translationKey: 」narita-to-shinjuku-2025」
+description: 」2025年成田机场到新宿交通完全攻略。成田特快(N'EX)和利木津巴士的价格、时刻表、预订方法对比。」
+summary: 」成田机场到新宿交通完全解析。成田特快和利木津巴士的详细时刻表和推荐方案。」
+featured_image: 」/images/posts/narita-to-shinjuku-2025-01.jpg」
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: "新宿黄金街 vs 回忆横丁 完全比较 | 烤鸡串·拉面凪·独酌名店总结 (2025最新版)"
+title: 」新宿黄金街 vs 回忆横丁 完全比较 | 烤鸡串·拉面凪·独酌名店总结 (2025最新版)」
 date: 2025-11-08T00:39:00+09:00
 draft: false
-translationKey: "shinjuku-golden-gai-vs-omoide-yokocho"
-description: "新宿两大夜生活名所，回忆横丁（烤鸡串横丁）与黄金街（酒吧横丁）的完全比较 - 餐厅推荐、独酌技巧"
-summary: "新宿夜间路线指南 - 回忆横丁（烤鸡串横丁）与黄金街（酒吧横丁）比较、餐厅推荐、拉面、独酌技巧"
-tags: ["新宿", "黄金街", "回忆横丁", "烤鸡串", "居酒屋", "酒吧", "拉面凪", "东京夜生活"]
-categories: ["东京美食"]
-featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
+translationKey: 」shinjuku-golden-gai-vs-omoide-yokocho」
+description: 」新宿两大夜生活名所，回忆横丁（烤鸡串横丁）与黄金街（酒吧横丁）的完全比较 - 餐厅推荐、独酌技巧」
+summary: 」新宿夜间路线指南 - 回忆横丁（烤鸡串横丁）与黄金街（酒吧横丁）比较、餐厅推荐、拉面、独酌技巧」
+tags: [」新宿」, 」黄金街」, 」回忆横丁」, 」烤鸡串」, 」居酒屋」, 」酒吧」, 」拉面凪」, 」东京夜生活」]
+categories: [」东京美食」]
+featured_image: 」/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg」
 ---
 
 <div class="blog-container">

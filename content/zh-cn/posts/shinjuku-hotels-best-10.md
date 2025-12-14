@@ -1,13 +1,13 @@
 ---
-title: "新宿酒店推荐10选 | 预算・温泉・亲子完全攻略"
+title: 」新宿酒店推荐10选 | 预算・温泉・亲子完全攻略」
 date: 2025-12-06T16:40:00+09:00
 draft: false
-categories: ["东京酒店"]
-tags: ["新宿酒店", "东京住宿", "东京亲子酒店", "经济型酒店", "温泉酒店"]
-description: "新宿推荐酒店10选完全攻略。从机场直达到温泉亲子酒店，超实用住宿指南。"
-summary: "东京交通枢纽新宿Top10酒店推荐。针对预算型旅客、亲子游、温泉体验的专业攻略。"
-translationKey: "shinjuku-hotels-best-10"
-featured_image: "/images/posts/shinjuku-hotels-best-10-01.jpg"
+categories: [」东京酒店」]
+tags: [」新宿酒店」, 」东京住宿」, 」东京亲子酒店」, 」经济型酒店」, 」温泉酒店」]
+description: 」新宿推荐酒店10选完全攻略。从机场直达到温泉亲子酒店，超实用住宿指南。」
+summary: 」东京交通枢纽新宿Top10酒店推荐。针对预算型旅客、亲子游、温泉体验的专业攻略。」
+translationKey: 」shinjuku-hotels-best-10」
+featured_image: 」/images/posts/shinjuku-hotels-best-10-01.jpg」
 ---
 
 <link rel="stylesheet" href="/css/image-grid.css">

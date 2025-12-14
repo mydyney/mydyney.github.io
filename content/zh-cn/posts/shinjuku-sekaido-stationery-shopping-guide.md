@@ -1,13 +1,13 @@
 ---
-title: "新宿世界堂 东京文具店：会员卡 vs 免税、楼层导览&购物清单"
+title: 」新宿世界堂 东京文具店：会员卡 vs 免税、楼层导览&购物清单」
 date: 2025-11-04T20:49:00+09:00
 draft: false
-translationKey: "shinjuku-sekaido-stationery-shopping-guide"
-description: "新宿世界堂文具店完全攻略 - 会员卡与免税对比、楼层导览、TOP10购物清单、游客必备内幕技巧"
-summary: "新宿世界堂购物攻略 - 会员折扣vs免税优势、6层楼布局、必买商品、旅行技巧"
-tags: ["新宿", "世界堂", "文具", "购物", "画材", "免税", "会员卡", "Copic马克笔"]
-categories: ["东京购物"]
-featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg"
+translationKey: 」shinjuku-sekaido-stationery-shopping-guide」
+description: 」新宿世界堂文具店完全攻略 - 会员卡与免税对比、楼层导览、TOP10购物清单、游客必备内幕技巧」
+summary: 」新宿世界堂购物攻略 - 会员折扣vs免税优势、6层楼布局、必买商品、旅行技巧」
+tags: [」新宿」, 」世界堂」, 」文具」, 」购物」, 」画材」, 」免税」, 」会员卡」, 」Copic马克笔」]
+categories: [」东京购物」]
+featured_image: 」/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg」
 ---
 
 <div class="blog-container">

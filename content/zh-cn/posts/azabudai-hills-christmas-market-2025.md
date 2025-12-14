@@ -1,13 +1,13 @@
 ---
-title: "麻布台之丘圣诞市集2025：日期・营业时间・美食摊位完全攻略（东京塔景观）"
+title: 」麻布台之丘圣诞市集2025：日期・营业时间・美食摊位完全攻略（东京塔景观）」
 date: 2025-11-13T09:00:00+09:00
 draft: false
-categories: ["东京活动", "圣诞"]
-tags: ["麻布台之丘", "圣诞市集", "东京", "冬季活动", "灯光秀", "2025"]
-translationKey: "azabudai-hills-christmas-market-2025"
-description: "2025麻布台之丘圣诞市集完全攻略！开放时间、17个精选摊位（德国美食・手工礼品）、香槟金圣诞树打卡点、东京塔绝美景观，冬季东京必去圣诞活动。"
-summary: "2025麻布台之丘圣诞市集完全攻略！开放时间、17个精选摊位（德国美食・手工礼品）、香槟金圣诞树打卡点、东京塔绝美景观，冬季东京必去圣诞活动。"
-featured_image: "/images/posts/azabudai-hills-christmas-market-2025-01.jpg"
+categories: [」东京活动」, 」圣诞」]
+tags: [」麻布台之丘」, 」圣诞市集」, 」东京」, 」冬季活动」, 」灯光秀」, 」2025」]
+translationKey: 」azabudai-hills-christmas-market-2025」
+description: 」2025麻布台之丘圣诞市集完全攻略！开放时间、17个精选摊位（德国美食・手工礼品）、香槟金圣诞树打卡点、东京塔绝美景观，冬季东京必去圣诞活动。」
+summary: 」2025麻布台之丘圣诞市集完全攻略！开放时间、17个精选摊位（德国美食・手工礼品）、香槟金圣诞树打卡点、东京塔绝美景观，冬季东京必去圣诞活动。」
+featured_image: 」/images/posts/azabudai-hills-christmas-market-2025-01.jpg」
 ---
 
 <div class="blog-container">

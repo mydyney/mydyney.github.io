@@ -1,13 +1,13 @@
 ---
-title: "日本桥东京旅游攻略：炸猪排はじめ、百货店、天丼完美半日路线"
+title: 」日本桥东京旅游攻略：炸猪排はじめ、百货店、天丼完美半日路线」
 date: 2025-10-15T17:23:00+09:00
 draft: false
-translationKey: "nihonbashi-tokyo-guide"
-description: "日本桥东京旅游完全攻略2025。免费接驳巴士（MetroLink）、半日散步路线、宝可梦中心DX、日本桥麒麟像、三越本店、游船、推荐餐厅3选（炸猪排はじめ、金子半之助、つじ半）介绍。"
-summary: "日本桥东京完全攻略。免费接驳巴士交通、推荐半日路线、宝可梦中心、百货店、游船、必去餐厅3选总结。"
-tags: ["日本桥", "东京旅游", "炸猪排はじめ", "宝可梦中心", "东京美食", "三越", "东京百货店", "日本旅行"]
-categories: ["旅行信息"]
-featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
+translationKey: 」nihonbashi-tokyo-guide」
+description: 」日本桥东京旅游完全攻略2025。免费接驳巴士（MetroLink）、半日散步路线、宝可梦中心DX、日本桥麒麟像、三越本店、游船、推荐餐厅3选（炸猪排はじめ、金子半之助、つじ半）介绍。」
+summary: 」日本桥东京完全攻略。免费接驳巴士交通、推荐半日路线、宝可梦中心、百货店、游船、必去餐厅3选总结。」
+tags: [」日本桥」, 」东京旅游」, 」炸猪排はじめ」, 」宝可梦中心」, 」东京美食」, 」三越」, 」东京百货店」, 」日本旅行」]
+categories: [」旅行信息」]
+featured_image: 」/images/posts/nihonbashi-tokyo-guide-01.jpg」
 ---
 
 <div class="blog-container">

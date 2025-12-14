@@ -1,13 +1,13 @@
 ---
-title: "银座必去景点完全攻略（购物、餐厅、优惠信息）"
+title: 」银座必去景点完全攻略（购物、餐厅、优惠信息）」
 date: 2025-01-06T14:30:00+09:00
 draft: false
-translationKey: "ginza-guide-2025"
-description: "从银座百货购物、米其林餐厅、优雅咖啡厅到隐藏的免费观景台。完美银座体验的完全攻略。"
-summary: "当地专家推荐的银座购物、美食、观光完全攻略。"
-tags: ["银座", "东京购物", "奢侈品牌", "东京餐厅", "银座观光"]
-categories: ["东京旅行攻略"]
-featured_image: "/images/posts/ginza-guide-2025-01.jpg"
+translationKey: 」ginza-guide-2025」
+description: 」从银座百货购物、米其林餐厅、优雅咖啡厅到隐藏的免费观景台。完美银座体验的完全攻略。」
+summary: 」当地专家推荐的银座购物、美食、观光完全攻略。」
+tags: [」银座」, 」东京购物」, 」奢侈品牌」, 」东京餐厅」, 」银座观光」]
+categories: [」东京旅行攻略」]
+featured_image: 」/images/posts/ginza-guide-2025-01.jpg」
 ---
 
 <div class="blog-container">

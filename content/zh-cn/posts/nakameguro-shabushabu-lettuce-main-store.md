@@ -1,13 +1,13 @@
 ---
-title: "中目黑美食 Lettuce涮涮锅总店 一人一锅、8种汤底、无限自定义（平日午餐指南）"
+title: 」中目黑美食 Lettuce涮涮锅总店 一人一锅、8种汤底、无限自定义（平日午餐指南）」
 date: 2025-10-24T09:38:00+09:00
 draft: false
-translationKey: "nakameguro-shabushabu-lettuce-main-store"
-description: "中目黑的涮涮锅天堂：Lettuce涮涮锅总店一人一锅系统、8种汤底、无限酱料吧、超值平日午餐套餐完全指南！"
-summary: "中目黑「Lettuce涮涮锅总店」完全指南。一人一锅系统、8种汤底、无限酱料吧、平日午餐套餐1,200日元起的信息介绍。"
-tags: ["中目黑", "涮涮锅", "火锅", "午餐", "东京美食", "代官山"]
-categories: ["目黑·惠比寿", "餐厅点评"]
-featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
+translationKey: 」nakameguro-shabushabu-lettuce-main-store」
+description: 」中目黑的涮涮锅天堂：Lettuce涮涮锅总店一人一锅系统、8种汤底、无限酱料吧、超值平日午餐套餐完全指南！」
+summary: 」中目黑「Lettuce涮涮锅总店」完全指南。一人一锅系统、8种汤底、无限酱料吧、平日午餐套餐1,200日元起的信息介绍。」
+tags: [」中目黑」, 」涮涮锅」, 」火锅」, 」午餐」, 」东京美食」, 」代官山」]
+categories: [」目黑·惠比寿」, 」餐厅点评」]
+featured_image: 」/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg」
 ---
 
 <div class="blog-container">
