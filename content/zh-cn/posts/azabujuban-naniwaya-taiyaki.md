@@ -3,8 +3,8 @@ title: "麻布十番浪花家总本店 - 东京3大鲷鱼烧百年老店完全�
 date: 2025-10-19T23:45:00+09:00
 draft: false
 translationKey: "azabujuban-naniwaya-taiyaki"
-description: "东京3大鲷鱼烧之一，麻布十番百年老店「浪花家总本店"完全攻略。尾巴尖也满是豆沙，酥脆外皮是特色。仅限现金支付信息详细解析。」
-summary: "在麻布十番百年老店「浪花家总本店"品尝东京3大鲷鱼烧。菜单、营业信息、仅限现金支付注意事项完全攻略。」
+description: "东京3大鲷鱼烧之一，麻布十番百年老店浪花家总本店完全攻略。尾巴尖也满是豆沙，酥脆外皮是特色。仅限现金支付信息详细解析。"
+summary: "在麻布十番百年老店浪花家总本店品尝东京3大鲷鱼烧。菜单、营业信息、仅限现金支付注意事项完全攻略。"
 tags: ["麻布十番", "鲷鱼烧", "甜品", "日本料理", "东京美食", "仅限现金"]
 categories: ["餐厅评测"]
 featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"

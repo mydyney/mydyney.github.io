@@ -5,8 +5,8 @@ draft: false
 categories: ["新宿"]
 tags: ["新宿寿司", "米其林寿司", "匠达广", "Omakase", "新宿御苑", "东京餐厅"]
 translationKey: "takumi-tatsuhiro-shinjuku-2025"
-description: "新宿米其林1星寿司店"匠 达广"完全攻略。20道午餐Omakase详细评价、价格、预约、交通信息。"
-summary: "介绍新宿御苑附近的米其林星级寿司店"匠 达广"。午餐Omakase套餐全20道详细评价以及价格、预约方法、交通信息。"
+description: "新宿米其林1星寿司店匠 达广完全攻略。20道午餐Omakase详细评价、价格、预约、交通信息。"
+summary: "介绍新宿御苑附近的米其林星级寿司店匠 达广。午餐Omakase套餐全20道详细评价以及价格、预约方法、交通信息。"
 featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 ---
 

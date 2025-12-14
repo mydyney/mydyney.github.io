@@ -3,8 +3,8 @@ title: "横滨中华街美食 景德镇 食べログ百名店 麻婆豆腐评测
 date: 2025-10-24T12:39:00+09:00
 draft: false
 translationKey: "yokohama-chinatown-keitokuchin-mapo-tofu"
-description: "横滨中华街食べログ百名店,拥有70年传统的川菜名店「景德镇"。正宗麻婆豆腐与辣度选择技巧完全攻略!」
-summary: "横滨中华街食べログ百名店「景德镇(Keitokuchin)"完全攻略。正宗麻婆豆腐、辣度选择技巧、午餐套餐、点心菜单、交通信息介绍。」
+description: "横滨中华街食べログ百名店,拥有70年传统的川菜名店景德镇。正宗麻婆豆腐与辣度选择技巧完全攻略!"
+summary: "横滨中华街食べログ百名店景德镇(Keitokuchin)完全攻略。正宗麻婆豆腐、辣度选择技巧、午餐套餐、点心菜单、交通信息介绍。"
 tags: ["横滨", "中华街", "川菜", "麻婆豆腐", "食べログ百名店", "日本美食", "横滨美食"]
 categories: ["横滨·镰仓", "餐厅评测"]
 featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
