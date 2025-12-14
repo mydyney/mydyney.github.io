@@ -3,6 +3,7 @@ title: "隐私政策"
 date: 2025-12-04T00:00:00+09:00
 draft: false
 type: page
+url: /zh-cn/privacy-policy/
 translationKey: privacy-policy
 ---
 
