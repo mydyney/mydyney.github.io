@@ -1,13 +1,13 @@
 ---
-title: 」2025年东京圣诞市集完全攻略（上野·六本木·横滨等）」
+title: "2025年东京圣诞市集完全攻略（上野·六本木·横滨等）"
 date: 2025-10-18T15:12:00+09:00
 draft: false
-translationKey: 」tokyo-christmas-markets-guide-2025」
-description: 」2025年东京圣诞市集完全攻略。上野公园、六本木之丘、横滨红砖仓库、麻布台之丘、晴空塔、明治神宫外苑、芝公园、惠比寿花园广场8处详解」
-summary: 」2025年东京8处圣诞市集完全攻略 - 从新登场的上野公园到浪漫横滨」
-tags: [」东京」, 」圣诞」, 」圣诞市集」, 」灯饰」, 」冬季」, 」2025」]
-categories: [」活动」]
-featured_image: 」/images/posts/tokyo-christmas-markets-guide-2025-01.jpg」
+translationKey: "tokyo-christmas-markets-guide-2025"
+description: "2025年东京圣诞市集完全攻略。上野公园、六本木之丘、横滨红砖仓库、麻布台之丘、晴空塔、明治神宫外苑、芝公园、惠比寿花园广场8处详解"
+summary: "2025年东京8处圣诞市集完全攻略 - 从新登场的上野公园到浪漫横滨"
+tags: ["东京", "圣诞", "圣诞市集", "灯饰", "冬季", "2025"]
+categories: ["活动"]
+featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 ---
 
 <div class="blog-container">

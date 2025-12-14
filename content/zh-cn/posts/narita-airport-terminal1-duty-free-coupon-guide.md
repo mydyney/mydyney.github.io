@@ -1,13 +1,13 @@
 ---
-title: 」成田机场第1航站楼免税店5%折扣券：威士忌、清酒、香水购物清单完全攻略」
+title: "成田机场第1航站楼免税店5%折扣券：威士忌、清酒、香水购物清单完全攻略"
 date: 2025-11-04T11:51:00+09:00
 draft: false
-translationKey: 」narita-airport-terminal1-duty-free-coupon-guide」
-description: 」成田机场第1航站楼ANA免税店5% Klook折扣券完全攻略 - 威士忌、清酒、零食、香水、品牌商品购物清单和航站楼指南」
-summary: 」成田机场第1航站楼免税店5%折扣券攻略 - 航站楼别航空公司、Klook优惠券使用方法、威士忌/清酒/零食购物清单」
-tags: [」成田机场」, 」免税店」, 」klook优惠券」, 」威士忌」, 」清酒」, 」东京香蕉」, 」ana免税店」, 」机场购物」]
-categories: [」成田机场」]
-featured_image: 」/images/posts/narita-airport-terminal1-duty-free-coupon-guide-01.jpg」
+translationKey: "narita-airport-terminal1-duty-free-coupon-guide"
+description: "成田机场第1航站楼ANA免税店5% Klook折扣券完全攻略 - 威士忌、清酒、零食、香水、品牌商品购物清单和航站楼指南"
+summary: "成田机场第1航站楼免税店5%折扣券攻略 - 航站楼别航空公司、Klook优惠券使用方法、威士忌/清酒/零食购物清单"
+tags: ["成田机场", "免税店", "klook优惠券", "威士忌", "清酒", "东京香蕉", "ana免税店", "机场购物"]
+categories: ["成田机场"]
+featured_image: "/images/posts/narita-airport-terminal1-duty-free-coupon-guide-01.jpg"
 ---
 
 <div class="blog-container">

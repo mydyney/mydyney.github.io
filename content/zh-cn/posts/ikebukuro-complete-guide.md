@@ -1,13 +1,13 @@
 ---
-title: 」东京池袋完全攻略2025：东口(购物/动漫) vs 西口(艺术) - 完美示范路线」
+title: "东京池袋完全攻略2025：东口(购物/动漫) vs 西口(艺术) - 完美示范路线"
 date: 2025-10-22T17:00:00+09:00
 draft: false
-translationKey: 」ikebukuro-complete-guide」
-description: 」发现池袋两个不同世界：热闹的东口（阳光城、Animate、宝可梦中心）vs宁静的西口（东京艺术剧场）。米其林拉面店、宅文化圣地、季节限定万圣节活动全覆盖。」
-summary: 」池袋东口 vs 西口 - 完全不同的体验！购物、动漫文化、米其林拉面、艺术画廊、万圣节庆典。池袋完全攻略2025。」
-tags: [」池袋」, 」东京」, 」阳光城」, 」Animate」, 」拉面」, 」宝可梦中心」, 」东京观光」, 」购物」, 」宅文化」, 」东京艺术」, 」万圣节」]
-categories: [」东京观光景点」]
-featured_image: 」/images/posts/ikebukuro-complete-guide-01.jpg」
+translationKey: "ikebukuro-complete-guide"
+description: "发现池袋两个不同世界：热闹的东口（阳光城、Animate、宝可梦中心）vs宁静的西口（东京艺术剧场）。米其林拉面店、宅文化圣地、季节限定万圣节活动全覆盖。"
+summary: "池袋东口 vs 西口 - 完全不同的体验！购物、动漫文化、米其林拉面、艺术画廊、万圣节庆典。池袋完全攻略2025。"
+tags: ["池袋", "东京", "阳光城", "Animate", "拉面", "宝可梦中心", "东京观光", "购物", "宅文化", "东京艺术", "万圣节"]
+categories: ["东京观光景点"]
+featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 ---
 
 <div class="blog-container">

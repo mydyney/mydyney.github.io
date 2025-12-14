@@ -1,13 +1,13 @@
 ---
-title: 」东京巨蛋城圣诞灯光秀2025：TXT联名完全攻略」
+title: "东京巨蛋城圣诞灯光秀2025：TXT联名完全攻略"
 date: 2025-11-21T14:51:00+09:00
 draft: false
-translationKey: 」tokyo-dome-city-christmas-illumination-2025」
-description: 」东京巨蛋城圣诞灯光秀2025的TXT联名、SNOW DOME主题、北欧圣诞市集、日期、时间、免费入场、交通信息完全攻略。」
-summary: 」东京巨蛋城圣诞灯光秀2025的TXT联名、日期、时间、免费入场信息完全攻略。」
-tags: [」东京巨蛋」, 」圣诞灯光秀」, 」TXT」, 」东京圣诞」, 」灯光秀」, 」东京旅游」]
-categories: [」旅游信息」]
-featured_image: 」/images/posts/tokyo-dome-city-christmas-illumination-2025-01.jpg」
+translationKey: "tokyo-dome-city-christmas-illumination-2025"
+description: "东京巨蛋城圣诞灯光秀2025的TXT联名、SNOW DOME主题、北欧圣诞市集、日期、时间、免费入场、交通信息完全攻略。"
+summary: "东京巨蛋城圣诞灯光秀2025的TXT联名、日期、时间、免费入场信息完全攻略。"
+tags: ["东京巨蛋", "圣诞灯光秀", "TXT", "东京圣诞", "灯光秀", "东京旅游"]
+categories: ["旅游信息"]
+featured_image: "/images/posts/tokyo-dome-city-christmas-illumination-2025-01.jpg"
 ---
 
 <div class="blog-container">

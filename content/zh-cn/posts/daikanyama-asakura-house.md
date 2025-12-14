@@ -1,13 +1,13 @@
 ---
-title: 」东京代官山必看，百年古宅「旧朝仓家住宅」（门票、袜子必备、红叶名所）」
+title: "东京代官山必看，百年古宅「旧朝仓家住宅"（门票、袜子必备、红叶名所）」
 date: 2025-10-26T23:11:00+09:00
 draft: false
-translationKey: 」daikanyama-asakura-house」
-description: 」代官山旧朝仓家住宅完全攻略。拥有百年历史的重要文化财、大正时代建筑、美丽日本庭园、隐藏红叶名所。访问前必备信息：袜子必备、门票、营业时间等」
-summary: 」东京隐藏名所：代官山旧朝仓家住宅。百年重要文化财、美丽日本庭园与红叶。必备信息：必须穿袜子！」
-tags: [」东京」, 」代官山」, 」古宅」, 」日本庭园」, 」重要文化财」, 」红叶」, 」东京观光」]
-categories: [」东京观光景点」]
-featured_image: 」/images/posts/daikanyama-asakura-house-01.jpg」
+translationKey: "daikanyama-asakura-house"
+description: "代官山旧朝仓家住宅完全攻略。拥有百年历史的重要文化财、大正时代建筑、美丽日本庭园、隐藏红叶名所。访问前必备信息：袜子必备、门票、营业时间等"
+summary: "东京隐藏名所：代官山旧朝仓家住宅。百年重要文化财、美丽日本庭园与红叶。必备信息：必须穿袜子！"
+tags: ["东京", "代官山", "古宅", "日本庭园", "重要文化财", "红叶", "东京观光"]
+categories: ["东京观光景点"]
+featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 ---
 
 <div class="blog-container">

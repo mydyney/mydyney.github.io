@@ -1,13 +1,13 @@
 ---
-title: 」2025年上野圣诞市集日期・时间・灯光秀・免费入场・交通完全攻略」
+title: "2025年上野圣诞市集日期・时间・灯光秀・免费入场・交通完全攻略"
 date: 2025-11-22T13:30:00+09:00
 draft: false
-translationKey: 」ueno-christmas-market-2025」
-description: 」2025年上野公园圣诞市集完全攻略。活动日期、营业时间、免费入场、灯光秀、拍照打卡点、美食、上野站交通方式详细介绍。」
-summary: 」2025年上野圣诞市集：日期、时间、免费入场、灯光秀、圣诞老人拍照点、美食&礼品。东京冬季旅行最佳去处。」
-tags: [」上野」, 」圣诞市集」, 」东京圣诞」, 」灯光秀」, 」东京旅游」, 」上野公园」]
-categories: [」旅游信息」]
-featured_image: 」/images/posts/ueno-christmas-market-2025-01.jpg」
+translationKey: "ueno-christmas-market-2025"
+description: "2025年上野公园圣诞市集完全攻略。活动日期、营业时间、免费入场、灯光秀、拍照打卡点、美食、上野站交通方式详细介绍。"
+summary: "2025年上野圣诞市集：日期、时间、免费入场、灯光秀、圣诞老人拍照点、美食&礼品。东京冬季旅行最佳去处。"
+tags: ["上野", "圣诞市集", "东京圣诞", "灯光秀", "东京旅游", "上野公园"]
+categories: ["旅游信息"]
+featured_image: "/images/posts/ueno-christmas-market-2025-01.jpg"
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: 」东京3晚4日圣诞彩灯完全攻略：最佳路线·预算·圣诞市集信息」
+title: "东京3晚4日圣诞彩灯完全攻略：最佳路线·预算·圣诞市集信息"
 date: 2025-10-27T21:41:00+09:00
 draft: false
-translationKey: 」tokyo-3-day-christmas-illumination-itinerary」
-description: 」东京3晚4日圣诞彩灯完整路线。涩谷·新宿·浅草·六本木最佳路线、圣诞市集信息、交通指南、预算全解析」
-summary: 」游览涩谷·表参道·六本木·东京站人气彩灯和圣诞市集的完美3晚4日东京旅行攻略」
-tags: [」东京」, 」圣诞」, 」彩灯」, 」旅行计划」, 」东京观光」, 」圣诞市集」]
-categories: [」东京旅行计划」]
-featured_image: 」/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.jpg」
+translationKey: "tokyo-3-day-christmas-illumination-itinerary"
+description: "东京3晚4日圣诞彩灯完整路线。涩谷·新宿·浅草·六本木最佳路线、圣诞市集信息、交通指南、预算全解析"
+summary: "游览涩谷·表参道·六本木·东京站人气彩灯和圣诞市集的完美3晚4日东京旅行攻略"
+tags: ["东京", "圣诞", "彩灯", "旅行计划", "东京观光", "圣诞市集"]
+categories: ["东京旅行计划"]
+featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.jpg"
 ---
 
 <div class="blog-container">

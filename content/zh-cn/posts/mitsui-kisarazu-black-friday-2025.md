@@ -1,13 +1,13 @@
 ---
-title: 」三井奥特莱斯木更津黑色星期五2025（11/14～30）&宝可梦嘉年华」
+title: "三井奥特莱斯木更津黑色星期五2025（11/14～30）&宝可梦嘉年华"
 date: 2025-11-12T15:01:00+09:00
 draft: false
-translationKey: 」mitsui-kisarazu-black-friday-2025」
-description: 」三井奥特莱斯木更津黑色星期五2025（11月14日～30日）完全指南。耐克、Celine、Le Creuset等最高80% OFF。宝可梦Pika Pika嘉年华同时举办！」
-summary: 」三井奥特莱斯木更津黑色星期五2025（11月14日～30日）完全指南。耐克、Celine、Le Creuset等最高80% OFF。宝可梦Pika Pika嘉年华同时举办！」
-tags: [」购物」, 」奥特莱斯」, 」黑色星期五」, 」木更津」, 」宝可梦」, 」促销」]
-categories: [」购物」]
-featured_image: 」/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg」
+translationKey: "mitsui-kisarazu-black-friday-2025"
+description: "三井奥特莱斯木更津黑色星期五2025（11月14日～30日）完全指南。耐克、Celine、Le Creuset等最高80% OFF。宝可梦Pika Pika嘉年华同时举办！"
+summary: "三井奥特莱斯木更津黑色星期五2025（11月14日～30日）完全指南。耐克、Celine、Le Creuset等最高80% OFF。宝可梦Pika Pika嘉年华同时举办！"
+tags: ["购物", "奥特莱斯", "黑色星期五", "木更津", "宝可梦", "促销"]
+categories: ["购物"]
+featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 ---
 
 <div class="blog-container">

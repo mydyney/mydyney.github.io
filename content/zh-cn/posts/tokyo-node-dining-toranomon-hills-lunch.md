@@ -1,13 +1,13 @@
 ---
-title: 」虎之门之丘 TOKYO NODE DINING｜3,900日元午餐尽享晴空塔景观」
+title: "虎之门之丘 TOKYO NODE DINING｜3,900日元午餐尽享晴空塔景观"
 date: 2025-11-23T12:00:00+09:00
 draft: false
-translationKey: 」tokyo-node-dining-toranomon-hills-lunch」
-description: 」虎之门之丘45层TOKYO NODE DINING享受高级餐饮体验。平日限定CHEF'S LUNCH（3,900日元）详细评价和靠窗座位预约技巧全介绍。」
-summary: 」虎之门之丘45层TOKYO NODE DINING享受高级餐饮体验。平日限定CHEF'S LUNCH（3,900日元）详细评价。」
-tags: [」虎之门之丘」, 」东京高级餐厅」, 」晴空塔景观」, 」意大利餐厅」, 」东京午餐」]
-categories: [」美食」]
-featured_image: 」/images/posts/tokyo-node-dining-toranomon-hills-lunch-01.jpg」
+translationKey: "tokyo-node-dining-toranomon-hills-lunch"
+description: "虎之门之丘45层TOKYO NODE DINING享受高级餐饮体验。平日限定CHEF'S LUNCH（3,900日元）详细评价和靠窗座位预约技巧全介绍。"
+summary: "虎之门之丘45层TOKYO NODE DINING享受高级餐饮体验。平日限定CHEF'S LUNCH（3,900日元）详细评价。"
+tags: ["虎之门之丘", "东京高级餐厅", "晴空塔景观", "意大利餐厅", "东京午餐"]
+categories: ["美食"]
+featured_image: "/images/posts/tokyo-node-dining-toranomon-hills-lunch-01.jpg"
 ---
 
 <div class="blog-container">

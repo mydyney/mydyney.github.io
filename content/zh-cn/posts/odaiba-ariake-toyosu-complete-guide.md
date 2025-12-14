@@ -1,13 +1,13 @@
 ---
-title: 」台场・有明・丰洲1日观光完全攻略:东京水岸推荐路线2025」
+title: "台场・有明・丰洲1日观光完全攻略:东京水岸推荐路线2025"
 date: 2025-10-17T02:56:00+09:00
 draft: false
-categories: [」旅行信息」]
-tags: [」台场」, 」有明」, 」丰洲」, 」百合海鸥号」, 」东京水岸」, 」teamLab Planets」, 」丰洲市场」, 」无印良品有明」]
-translationKey: 」odaiba-ariake-toyosu-complete-guide」
-description: 」台场・有明・丰洲1天完全攻略!百合海鸥号一日券活用法、丰洲市场、teamLab Planets、无印良品有明、彩虹大桥夜景等完全指南。」
-summary: 」东京水岸3区域完全攻略:台场地标、有明购物、丰洲海鲜市场。交通方式、拍照景点、隐藏景点1日示范路线。」
-featured_image: 」/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg」
+categories: ["旅行信息"]
+tags: ["台场", "有明", "丰洲", "百合海鸥号", "东京水岸", "teamLab Planets", "丰洲市场", "无印良品有明"]
+translationKey: "odaiba-ariake-toyosu-complete-guide"
+description: "台场・有明・丰洲1天完全攻略!百合海鸥号一日券活用法、丰洲市场、teamLab Planets、无印良品有明、彩虹大桥夜景等完全指南。"
+summary: "东京水岸3区域完全攻略:台场地标、有明购物、丰洲海鲜市场。交通方式、拍照景点、隐藏景点1日示范路线。"
+featured_image: "/images/posts/odaiba-ariake-toyosu-complete-guide-01.jpg"
 ---
 
 <div class="blog-container">

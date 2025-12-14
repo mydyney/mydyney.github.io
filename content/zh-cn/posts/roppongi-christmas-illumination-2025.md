@@ -1,13 +1,13 @@
 ---
-title: 」六本木彩灯2025完全攻略 - 点灯时间、圣诞市集、打卡点」
+title: "六本木彩灯2025完全攻略 - 点灯时间、圣诞市集、打卡点"
 date: 2025-11-05T15:50:00+09:00
 draft: false
-translationKey: 」roppongi-christmas-illumination-2025」
-description: 」2025年六本木之丘彩灯官方日程和打卡点完全攻略！」
-summary: 」2025年六本木之丘彩灯官方日程和打卡点完全攻略！」
-tags: [」六本木」, 」东京观光」, 」圣诞」, 」彩灯」, 」东京Midtown」]
-categories: [」观光信息」]
-featured_image: 」/images/posts/roppongi-christmas-illumination-2025-01.jpg」
+translationKey: "roppongi-christmas-illumination-2025"
+description: "2025年六本木之丘彩灯官方日程和打卡点完全攻略！"
+summary: "2025年六本木之丘彩灯官方日程和打卡点完全攻略！"
+tags: ["六本木", "东京观光", "圣诞", "彩灯", "东京Midtown"]
+categories: ["观光信息"]
+featured_image: "/images/posts/roppongi-christmas-illumination-2025-01.jpg"
 ---
 
 <div class="blog-container">

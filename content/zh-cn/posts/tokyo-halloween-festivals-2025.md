@@ -1,13 +1,13 @@
 ---
-title: 」东京万圣节2025最佳节日攻略｜涩谷禁止！池袋·迪士尼乐园完全攻略」
+title: "东京万圣节2025最佳节日攻略｜涩谷禁止！池袋·迪士尼乐园完全攻略"
 date: 2025-10-12T15:51:00+09:00
 draft: false
-translationKey: 」tokyo-halloween-festivals-2025」
-description: 」东京万圣节2025完全攻略。应避开涩谷的理由与最佳替代活动：池袋Cosplay节、迪士尼万圣节、三丽鸥彩虹乐园、家庭游行信息。」
-summary: 」东京万圣节2025最佳节日介绍。涩谷禁止的理由，以及池袋Cosplay节、迪士尼万圣节、家庭游行等精彩替代活动。」
-tags: [」万圣节」, 」东京节日」, 」池袋」, 」迪士尼乐园」, 」涩谷」, 」Cosplay」, 」家庭活动」]
-categories: [」节日攻略」]
-featured_image: 」/images/posts/tokyo-halloween-festivals-2025-01.jpg」
+translationKey: "tokyo-halloween-festivals-2025"
+description: "东京万圣节2025完全攻略。应避开涩谷的理由与最佳替代活动：池袋Cosplay节、迪士尼万圣节、三丽鸥彩虹乐园、家庭游行信息。"
+summary: "东京万圣节2025最佳节日介绍。涩谷禁止的理由，以及池袋Cosplay节、迪士尼万圣节、家庭游行等精彩替代活动。"
+tags: ["万圣节", "东京节日", "池袋", "迪士尼乐园", "涩谷", "Cosplay", "家庭活动"]
+categories: ["节日攻略"]
+featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 ---
 
 <div class="blog-container">

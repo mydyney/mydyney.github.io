@@ -1,13 +1,13 @@
 ---
-title: 」自由之丘东京观光攻略:推荐咖啡厅、蛋糕店、杂货店与半日路线完全版」
+title: "自由之丘东京观光攻略:推荐咖啡厅、蛋糕店、杂货店与半日路线完全版"
 date: 2025-11-30T08:00:00+09:00
 draft: false
-translationKey: 」jiyugaoka-tokyo-travel-guide」
-description: 」自由之丘的半日观光路线、潮流咖啡厅、知名蛋糕店、时尚杂货店、交通信息全攻略。享受本地氛围的自由之丘观光决定版。」
-summary: 」自由之丘推荐咖啡厅、蛋糕店、杂货店、半日散步路线全收录。东京隐藏魅力景点自由之丘的完全攻略。」
-tags: [」自由之丘」, 」东京」, 」东京观光」, 」东京咖啡厅」, 」东京购物」, 」东京甜品」, 」东京下町」, 」日本旅游」]
-categories: [」旅游信息」]
-featured_image: 」/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg」
+translationKey: "jiyugaoka-tokyo-travel-guide"
+description: "自由之丘的半日观光路线、潮流咖啡厅、知名蛋糕店、时尚杂货店、交通信息全攻略。享受本地氛围的自由之丘观光决定版。"
+summary: "自由之丘推荐咖啡厅、蛋糕店、杂货店、半日散步路线全收录。东京隐藏魅力景点自由之丘的完全攻略。"
+tags: ["自由之丘", "东京", "东京观光", "东京咖啡厅", "东京购物", "东京甜品", "东京下町", "日本旅游"]
+categories: ["旅游信息"]
+featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 ---
 
 <div class="blog-container">

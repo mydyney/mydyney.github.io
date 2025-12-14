@@ -1,13 +1,13 @@
 ---
-title: 」从新宿与孩子一起！5大儿童乐园交通（三丽鸥、迪士尼、托马斯、读卖、东京巨蛋）」
+title: "从新宿与孩子一起！5大儿童乐园交通（三丽鸥、迪士尼、托马斯、读卖、东京巨蛋）"
 date: 2025-11-04T02:22:00+09:00
 draft: false
-translationKey: 」shinjuku-kids-parks-guide」
-description: 」从新宿可达5大儿童乐园完全指南：迪士尼乐园、三丽鸥彩虹乐园、富士急托马斯乐园、读卖乐园、东京巨蛋城 - 交通、时刻表、家庭旅行贴士」
-summary: 」发现从新宿站轻松可达的5个精彩儿童乐园 - 从迪士尼乐园到室内游乐场，附完整交通指南和时刻表的家庭旅行」
-tags: [」新宿」, 」儿童」, 」家庭旅行」, 」主题公园」, 」东京观光」, 」迪士尼」, 」三丽鸥」, 」托马斯乐园」]
-categories: [」新宿/新大久保」]
-featured_image: 」/images/posts/shinjuku-kids-parks-guide-01.jpg」
+translationKey: "shinjuku-kids-parks-guide"
+description: "从新宿可达5大儿童乐园完全指南：迪士尼乐园、三丽鸥彩虹乐园、富士急托马斯乐园、读卖乐园、东京巨蛋城 - 交通、时刻表、家庭旅行贴士"
+summary: "发现从新宿站轻松可达的5个精彩儿童乐园 - 从迪士尼乐园到室内游乐场，附完整交通指南和时刻表的家庭旅行"
+tags: ["新宿", "儿童", "家庭旅行", "主题公园", "东京观光", "迪士尼", "三丽鸥", "托马斯乐园"]
+categories: ["新宿/新大久保"]
+featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 ---
 
 <div class="blog-container">

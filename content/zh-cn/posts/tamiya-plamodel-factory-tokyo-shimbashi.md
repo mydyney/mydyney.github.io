@@ -1,13 +1,13 @@
 ---
-title: 」2025年田宫拼装模型工厂东京新桥店完全攻略（6,000种类・迷你四驱・咖啡厅）」
+title: "2025年田宫拼装模型工厂东京新桥店完全攻略（6,000种类・迷你四驱・咖啡厅）"
 date: 2025-11-18T11:00:00+09:00
 draft: false
-translationKey: 」tamiya-plamodel-factory-tokyo-shimbashi」
-description: 」东京新桥田宫拼装模型工厂完全攻略：6,000种以上塑料模型、实物原寸迷你四驱、ONIBUS咖啡厅、楼层地图、营业时间、参观技巧」
-summary: 」探索新桥的终极田宫旗舰店！6,000种以上拼装模型、遥控车、迷你四驱、震撼的1:1原寸Aero Avante展示、精品咖啡、体验活动。附楼层地图和参观提示的完全攻略。」
-tags: [」田宫」, 」拼装模型」, 」新桥」, 」购物」, 」模型」, 」迷你四驱」, 」东京购物」, 」塑料模型」, 」遥控车」]
-categories: [」东京购物」, 」新桥」]
-featured_image: 」/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-01.jpg」
+translationKey: "tamiya-plamodel-factory-tokyo-shimbashi"
+description: "东京新桥田宫拼装模型工厂完全攻略：6,000种以上塑料模型、实物原寸迷你四驱、ONIBUS咖啡厅、楼层地图、营业时间、参观技巧"
+summary: "探索新桥的终极田宫旗舰店！6,000种以上拼装模型、遥控车、迷你四驱、震撼的1:1原寸Aero Avante展示、精品咖啡、体验活动。附楼层地图和参观提示的完全攻略。"
+tags: ["田宫", "拼装模型", "新桥", "购物", "模型", "迷你四驱", "东京购物", "塑料模型", "遥控车"]
+categories: ["东京购物", "新桥"]
+featured_image: "/images/posts/tamiya-plamodel-factory-tokyo-shimbashi-01.jpg"
 ---
 
 <div class="blog-container">

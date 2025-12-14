@@ -1,13 +1,13 @@
 ---
-title: 」涩谷青之洞窟彩灯2025完全攻略 - 日期・时间・交通」
+title: "涩谷青之洞窟彩灯2025完全攻略 - 日期・时间・交通"
 date: 2025-12-06T08:00:00+09:00
 draft: false
-categories: [」东京活动」]
-tags: [」涩谷」, 」东京彩灯」, 」青之洞窟」, 」代代木公园」, 」东京圣诞」, 」冬季活动」, 」东京攻略」, 」2025」]
-translationKey: 」shibuya-blue-cave-illumination-2025」
-description: 」2025年涩谷青之洞窟彩灯完全攻略。举办期间、点灯时间、交通信息、拍摄点、游玩贴士全面解析。东京冬季点亮蓝色洞窟的魅力全方位呈现。」
-summary: 」发现东京梦幻蓝色隧道！涩谷青之洞窟彩灯2025日程、时间、交通路线、拍摄点、内幕攻略完全指南。」
-featured_image: 」/images/posts/shibuya-blue-cave-illumination-2025-01.jpg」
+categories: ["东京活动"]
+tags: ["涩谷", "东京彩灯", "青之洞窟", "代代木公园", "东京圣诞", "冬季活动", "东京攻略", "2025"]
+translationKey: "shibuya-blue-cave-illumination-2025"
+description: "2025年涩谷青之洞窟彩灯完全攻略。举办期间、点灯时间、交通信息、拍摄点、游玩贴士全面解析。东京冬季点亮蓝色洞窟的魅力全方位呈现。"
+summary: "发现东京梦幻蓝色隧道！涩谷青之洞窟彩灯2025日程、时间、交通路线、拍摄点、内幕攻略完全指南。"
+featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 ---
 
 <div class="blog-container">

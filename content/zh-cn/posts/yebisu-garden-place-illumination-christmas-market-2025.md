@@ -1,13 +1,13 @@
 ---
-title: 」2025惠比寿花园广场灯光秀・圣诞市集完全攻略（日期、巴卡拉吊灯、美食车）」
+title: "2025惠比寿花园广场灯光秀・圣诞市集完全攻略（日期、巴卡拉吊灯、美食车）"
 date: 2025-11-17T14:49:00+09:00
 draft: false
-categories: [」惠比寿」]
-tags: [」惠比寿」, 」惠比寿花园广场」, 」圣诞灯光秀」, 」圣诞市集」, 」巴卡拉吊灯」, 」东京灯光秀」, 」东京圣诞」, 」冬季活动」]
-translationKey: 」yebisu-garden-place-illumination-2025」
-description: 」惠比寿花园广场2025-2026冬季完全攻略！世界最大级巴卡拉水晶吊灯、10米圣诞树、香槟金灯光秀、2个圣诞市集全面介绍。从日期到交通信息一网打尽。」
-summary: 」惠比寿花园广场2025-2026冬季完全攻略！巴卡拉水晶吊灯、10米圣诞树、香槟金灯光秀、圣诞市集。」
-featured_image: 」/images/posts/yebisu-garden-place-illumination-christmas-market-2025-01.jpg」
+categories: ["惠比寿"]
+tags: ["惠比寿", "惠比寿花园广场", "圣诞灯光秀", "圣诞市集", "巴卡拉吊灯", "东京灯光秀", "东京圣诞", "冬季活动"]
+translationKey: "yebisu-garden-place-illumination-2025"
+description: "惠比寿花园广场2025-2026冬季完全攻略！世界最大级巴卡拉水晶吊灯、10米圣诞树、香槟金灯光秀、2个圣诞市集全面介绍。从日期到交通信息一网打尽。"
+summary: "惠比寿花园广场2025-2026冬季完全攻略！巴卡拉水晶吊灯、10米圣诞树、香槟金灯光秀、圣诞市集。"
+featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market-2025-01.jpg"
 ---
 
 <div class="blog-container">

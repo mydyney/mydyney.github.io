@@ -1,13 +1,13 @@
 ---
-title: 」2025年唐吉诃德购物攻略：必买推荐&折扣优惠券、免税方法完全指南（辣油、眼药水等）」
+title: "2025年唐吉诃德购物攻略：必买推荐&折扣优惠券、免税方法完全指南（辣油、眼药水等）"
 date: 2025-09-26T04:08:00+09:00
 draft: false
-categories: [」购物指南」]
-tags: [」唐吉诃德」, 」东京购物」, 」日本购物清单」, 」免税」, 」折扣优惠券」, 」辣油」, 」眼药水」, 」日本零食」, 」日本美妆」, 」旅行信息」]
-translationKey: 」don-quijote-shopping-guide-2025」
-description: 」2025年最新唐吉诃德完全攻略！从折扣优惠券领取到必买推荐品（辣油、眼药水）、免税技巧全面解析。日本旅行者的零失败购物信息。」
-summary: 」2025年唐吉诃德购物决定版！从折扣优惠券到免税手续、辣油·眼药水等必买15选完全攻略。」
-featured_image: 」/images/posts/don-quijote-shopping-guide-2025-01.jpg」
+categories: ["购物指南"]
+tags: ["唐吉诃德", "东京购物", "日本购物清单", "免税", "折扣优惠券", "辣油", "眼药水", "日本零食", "日本美妆", "旅行信息"]
+translationKey: "don-quijote-shopping-guide-2025"
+description: "2025年最新唐吉诃德完全攻略！从折扣优惠券领取到必买推荐品（辣油、眼药水）、免税技巧全面解析。日本旅行者的零失败购物信息。"
+summary: "2025年唐吉诃德购物决定版！从折扣优惠券到免税手续、辣油·眼药水等必买15选完全攻略。"
+featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 ---
 
 <div class="blog-container">

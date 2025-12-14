@@ -1,13 +1,13 @@
 ---
-title: 」日本便利店关东煮点单攻略2025｜萝卜・魔芋日语短语＆7-11・罗森・全家菜单对比」
+title: "日本便利店关东煮点单攻略2025｜萝卜・魔芋日语短语＆7-11・罗森・全家菜单对比"
 date: 2025-11-25T09:00:00+09:00
 draft: false
-translationKey: 」japan-convenience-store-oden-guide」
-description: 」日本便利店关东煮点单方法完全攻略。萝卜、魔芋、年糕袋点单短语，7-11・罗森・全家菜单对比和价格信息。」
-summary: 」日本便利店关东煮点单方法全掌握！日语短语、菜单对比（7-11・罗森・全家）、2025年冬季旅行必备价格信息完全攻略。」
-tags: [」便利店」, 」关东煮」, 」冬季美食」, 」日式料理」, 」7-11」, 」罗森」, 」全家」]
-categories: [」美食攻略」]
-featured_image: 」/images/posts/japan-convenience-store-oden-guide-01.jpg」
+translationKey: "japan-convenience-store-oden-guide"
+description: "日本便利店关东煮点单方法完全攻略。萝卜、魔芋、年糕袋点单短语，7-11・罗森・全家菜单对比和价格信息。"
+summary: "日本便利店关东煮点单方法全掌握！日语短语、菜单对比（7-11・罗森・全家）、2025年冬季旅行必备价格信息完全攻略。"
+tags: ["便利店", "关东煮", "冬季美食", "日式料理", "7-11", "罗森", "全家"]
+categories: ["美食攻略"]
+featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 ---
 
 <div class="blog-container">

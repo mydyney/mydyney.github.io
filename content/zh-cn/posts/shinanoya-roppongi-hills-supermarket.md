@@ -1,13 +1,13 @@
 ---
-title: 」东京六本木Hills信浓屋超市必买攻略2025：獭祭清酒、地方特产、高端伴手礼完全指南」
+title: "东京六本木Hills信浓屋超市必买攻略2025：獭祭清酒、地方特产、高端伴手礼完全指南"
 date: 2024-08-25T09:00:00+09:00
 draft: false
-categories: [」购物指南」]
-tags: [」六本木」, 」六本木Hills」, 」信浓屋」, 」日本清酒」, 」獭祭」, 」高端超市」, 」东京伴手礼」, 」免税购物」, 」东京购物」]
-translationKey: 」shinanoya-roppongi-hills-supermarket」
-description: 」六本木Hills信浓屋高端超市完全购物指南！从人气清酒獭祭到地方限定零食，外国游客免税购物、必买伴手礼推荐，一篇搞定六本木最佳购物体验。」
-summary: 」六本木Hills信浓屋超市购物攻略！日本人气清酒獭祭全系列、地方限定零食、高端调味料、新鲜食材应有尽有。外国游客免税购物，精选必买伴手礼推荐。」
-featured_image: 」/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg」
+categories: ["购物指南"]
+tags: ["六本木", "六本木Hills", "信浓屋", "日本清酒", "獭祭", "高端超市", "东京伴手礼", "免税购物", "东京购物"]
+translationKey: "shinanoya-roppongi-hills-supermarket"
+description: "六本木Hills信浓屋高端超市完全购物指南！从人气清酒獭祭到地方限定零食，外国游客免税购物、必买伴手礼推荐，一篇搞定六本木最佳购物体验。"
+summary: "六本木Hills信浓屋超市购物攻略！日本人气清酒獭祭全系列、地方限定零食、高端调味料、新鲜食材应有尽有。外国游客免税购物，精选必买伴手礼推荐。"
+featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 ---
 
 <div class="blog-container">

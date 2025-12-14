@@ -1,13 +1,13 @@
 ---
-title: 」2025年 六本木之丘 圣诞市集：期间・时间・地点・原创马克杯完全攻略」
+title: "2025年 六本木之丘 圣诞市集：期间・时间・地点・原创马克杯完全攻略"
 date: 2025-11-23T14:00:00+09:00
 draft: false
-translationKey: 」roppongi-hills-christmas-market-2025」
-description: 」2025年六本木之丘圣诞市集的期间・时间・地点，从原创马克杯・热红酒・德国美食菜单到完全攻略。德国传统装饰、香肠、炖牛肉等10个摊位信息和推荐路线。」
-summary: 」2025年六本木之丘圣诞市集的期间・时间・地点・原创马克杯・10个摊位信息全面收录。推荐东京冬季旅行。」
-tags: [」六本木之丘」, 」圣诞市集」, 」东京圣诞」, 」热红酒」, 」东京冬季」]
-categories: [」活动・节庆」]
-featured_image: 」/images/posts/roppongi-hills-christmas-market-2025-01.jpg」
+translationKey: "roppongi-hills-christmas-market-2025"
+description: "2025年六本木之丘圣诞市集的期间・时间・地点，从原创马克杯・热红酒・德国美食菜单到完全攻略。德国传统装饰、香肠、炖牛肉等10个摊位信息和推荐路线。"
+summary: "2025年六本木之丘圣诞市集的期间・时间・地点・原创马克杯・10个摊位信息全面收录。推荐东京冬季旅行。"
+tags: ["六本木之丘", "圣诞市集", "东京圣诞", "热红酒", "东京冬季"]
+categories: ["活动・节庆"]
+featured_image: "/images/posts/roppongi-hills-christmas-market-2025-01.jpg"
 ---
 
 <div class="blog-container">

@@ -1,13 +1,13 @@
 ---
-title: 」涩谷美食 いくしか（IKUSHIKA），现煮土锅米饭无限续碗 日本家常料理（PARCO地下1层）」
+title: "涩谷美食 いくしか（IKUSHIKA），现煮土锅米饭无限续碗 日本家常料理（PARCO地下1层）"
 date: 2025-10-24T11:00:00+09:00
 draft: false
-translationKey: 」shibuya-ikushika-rice-refill-restaurant」
-description: 」涩谷PARCO地下1层隐藏的真正「米饭美食」いくしか。现煮土锅米饭装在木饭桶里供应，无限续碗！日本家常料理完全攻略。」
-summary: 」涩谷PARCO地下1层「いくしか」完全攻略。单人土锅煮的米饭装入木饭桶无限续碗供应。美味日本家常料理的最佳搭配。」
-tags: [」涩谷」, 」日本料理」, 」米饭」, 」涩谷PARCO」, 」家常料理」, 」东京美食」]
-categories: [」涩谷・原宿」, 」餐厅评测」]
-featured_image: 」/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg」
+translationKey: "shibuya-ikushika-rice-refill-restaurant"
+description: "涩谷PARCO地下1层隐藏的真正「米饭美食"いくしか。现煮土锅米饭装在木饭桶里供应，无限续碗！日本家常料理完全攻略。」
+summary: "涩谷PARCO地下1层「いくしか"完全攻略。单人土锅煮的米饭装入木饭桶无限续碗供应。美味日本家常料理的最佳搭配。」
+tags: ["涩谷", "日本料理", "米饭", "涩谷PARCO", "家常料理", "东京美食"]
+categories: ["涩谷・原宿", "餐厅评测"]
+featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 ---
 
 <div class="blog-container">

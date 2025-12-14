@@ -1,13 +1,13 @@
 ---
-title: 」新宿酒铺推荐 | Yamaya·信浓屋·必酷（Bic Camera）威士忌（山崎·响·噶玛兰 折扣优惠券）」
+title: "新宿酒铺推荐 | Yamaya·信浓屋·必酷（Bic Camera）威士忌（山崎·响·噶玛兰 折扣优惠券）"
 date: 2025-11-11T17:50:00+09:00
 draft: false
-translationKey: 」shinjuku-liquor-shops-guide」
-description: 」2025年新宿酒铺完全攻略！Yamaya、信浓屋、必酷（Bic Camera）山崎·响·噶玛兰免税购物+折扣优惠券精明购买法。」
-summary: 」2025年新宿酒铺完全攻略！Yamaya、信浓屋、必酷（Bic Camera）山崎·响·噶玛兰免税购物+折扣优惠券精明购买法。」
-tags: [」新宿」, 」酒铺」, 」威士忌」, 」山崎」, 」响」, 」噶玛兰」, 」免税」, 」购物」]
-categories: [」新宿/新大久保」]
-featured_image: 」/images/posts/shinjuku-liquor-shops-01.jpg」
+translationKey: "shinjuku-liquor-shops-guide"
+description: "2025年新宿酒铺完全攻略！Yamaya、信浓屋、必酷（Bic Camera）山崎·响·噶玛兰免税购物+折扣优惠券精明购买法。"
+summary: "2025年新宿酒铺完全攻略！Yamaya、信浓屋、必酷（Bic Camera）山崎·响·噶玛兰免税购物+折扣优惠券精明购买法。"
+tags: ["新宿", "酒铺", "威士忌", "山崎", "响", "噶玛兰", "免税", "购物"]
+categories: ["新宿/新大久保"]
+featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 ---
 
 <div class="blog-container">

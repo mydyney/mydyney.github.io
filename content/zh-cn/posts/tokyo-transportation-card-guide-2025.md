@@ -1,13 +1,13 @@
 ---
-title: 」东京交通卡完全攻略2025 - iPhone Suica、Welcome Suica、PASMO全面对比」
+title: "东京交通卡完全攻略2025 - iPhone Suica、Welcome Suica、PASMO全面对比"
 date: 2025-10-19T16:26:00+09:00
 draft: false
-translationKey: 」tokyo-transportation-card-guide-2025」
-description: 」2025年版，东京交通卡完全攻略。iPhone Suica、Welcome Suica、PASMO的发行方法、对比表、实惠活用法全面解说。旅行者必看信息满载。」
-summary: 」东京交通卡选择困扰吗?2025最新信息!iPhone移动Suica、Welcome Suica、PASMO选择方法完全解说。」
-tags: [」东京」, 」交通」, 」Suica」, 」PASMO」, 」旅行信息」, 」2025」]
-categories: [」交通」]
-featured_image: 」/images/posts/tokyo-transportation-card-guide-2025-01.jpg」
+translationKey: "tokyo-transportation-card-guide-2025"
+description: "2025年版，东京交通卡完全攻略。iPhone Suica、Welcome Suica、PASMO的发行方法、对比表、实惠活用法全面解说。旅行者必看信息满载。"
+summary: "东京交通卡选择困扰吗?2025最新信息!iPhone移动Suica、Welcome Suica、PASMO选择方法完全解说。"
+tags: ["东京", "交通", "Suica", "PASMO", "旅行信息", "2025"]
+categories: ["交通"]
+featured_image: "/images/posts/tokyo-transportation-card-guide-2025-01.jpg"
 ---
 
 <div class="blog-container">

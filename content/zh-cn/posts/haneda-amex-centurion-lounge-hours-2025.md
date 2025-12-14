@@ -1,13 +1,13 @@
 ---
-title: 」羽田机场美国运通百夫长贵宾室营业时间调整｜早5点～晚10点 最新信息」
+title: "羽田机场美国运通百夫长贵宾室营业时间调整｜早5点～晚10点 最新信息"
 date: 2025-11-22T15:37:00+09:00
 draft: false
-translationKey: 」haneda-amex-centurion-lounge-hours-2025」
-description: 」羽田机场美国运通百夫长贵宾室从早8点改为早5点开放。现场指示牌最新营业时间、Gate 114附近位置、入场条件、清晨・深夜航班对应时段攻略完全指南。」
-summary: 」羽田机场美国运通百夫长贵宾室营业时间更新为5AM-10PM。位置、入场条件、时段攻略完整总结。」
-tags: [」羽田机场」, 」美国运通贵宾室」, 」百夫长贵宾室」, 」机场贵宾室」, 」东京旅游」]
-categories: [」旅游信息」]
-featured_image: 」/images/posts/haneda-amex-centurion-lounge-hours-2025-01.jpg」
+translationKey: "haneda-amex-centurion-lounge-hours-2025"
+description: "羽田机场美国运通百夫长贵宾室从早8点改为早5点开放。现场指示牌最新营业时间、Gate 114附近位置、入场条件、清晨・深夜航班对应时段攻略完全指南。"
+summary: "羽田机场美国运通百夫长贵宾室营业时间更新为5AM-10PM。位置、入场条件、时段攻略完整总结。"
+tags: ["羽田机场", "美国运通贵宾室", "百夫长贵宾室", "机场贵宾室", "东京旅游"]
+categories: ["旅游信息"]
+featured_image: "/images/posts/haneda-amex-centurion-lounge-hours-2025-01.jpg"
 ---
 
 <div class="blog-container">
