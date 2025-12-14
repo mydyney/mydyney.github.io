@@ -10,7 +10,7 @@
         <span class="white fw6 no-underline">{{ .LanguageName }}</span>
       {{ else }}
         {{/* Other languages - clickable */}}
-        <a class="hover-white white-70 no-underline" href="{{ urls.AbsLangURL "" . }}" title="{{ .LanguageName }}">
+        <a class="hover-white white-70 no-underline" href="{{ .Permalink }}" title="{{ .LanguageName }}">
           {{ .LanguageName }}
         </a>
       {{ end }}
