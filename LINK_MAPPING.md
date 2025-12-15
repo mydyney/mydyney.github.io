@@ -99,7 +99,7 @@ When migrating a Naver blog post to Hugo:
 | 223989943826 | ginza-guide-2025 | 2025-01-06 | ✅ |
 | 224100382618 | shinjuku-hotels-best-10 | 2025-12-06 | ✅ |
 | 224105333068 | shibuya-parco-kiwamiya-hamburg-waiting-menu | 2025-12-10 | ✅ |
-| TBD | shibuya-miyashita-park-yokocho-2025 | 2025-12-15 | ✅ |
+| 224104049826 | shibuya-miyashita-park-yokocho-2025 | 2025-12-15 | ✅ |
 
 
 ---
