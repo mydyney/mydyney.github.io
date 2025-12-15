@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-12-12
-> **Status:** ✅ Complete - 75 posts mapped
+> **Last Updated:** 2025-12-15
+> **Status:** ✅ Complete - 79 posts mapped (1 pending Naver ID)
 
 ---
 
@@ -99,6 +99,7 @@ When migrating a Naver blog post to Hugo:
 | 223989943826 | ginza-guide-2025 | 2025-01-06 | ✅ |
 | 224100382618 | shinjuku-hotels-best-10 | 2025-12-06 | ✅ |
 | 224105333068 | shibuya-parco-kiwamiya-hamburg-waiting-menu | 2025-12-10 | ✅ |
+| 224104049826 | shibuya-miyashita-park-yokocho-2025 | 2025-12-15 | ✅ |
 
 
 ---
