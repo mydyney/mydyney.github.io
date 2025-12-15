@@ -1,265 +1,285 @@
 ---
-title: "渋谷ミヤシタパーク2025完全ガイド - 屋上公園とクリスマスマーケット、横丁の正直レビュー"
+title: "渋谷ミヤシタパーク & 渋谷横丁 (2025クリスマスマーケット・パワーパフガールズ・正直レビュー)"
 date: 2025-12-15T09:00:00+09:00
 draft: false
 translationKey: "shibuya-miyashita-park-yokocho-2025"
-description: "渋谷ミヤシタパークの屋上公園、パープルクリスマスマーケット、パワーパフガールズコラボ、渋谷横丁の正直な評価まで。本当におすすめできる飲食店も紹介。"
-summary: "渋谷ミヤシタパークの屋上オアシス、クリスマスマーケット、パワーパフガールズコラボを完全ガイド。渋谷横丁の実態とおすすめ代替店も。"
-tags: ["渋谷ミヤシタパーク", "渋谷", "東京クリスマスマーケット", "東京屋上", "渋谷横丁", "東京ショッピング", "パワーパフガールズ", "2025"]
+description: "渋谷ミヤシタパークグルメと渋谷横丁バー情報を一気に整理。12月パープルイルミネーションとパワーパフガールズイベント、横丁の高額対策、撮影スポットまで東京旅行者必須情報。"
+summary: "ミヤシタパークグルメと渋谷横丁バー情報を一気に整理。12月パープルイルミネーション、パワーパフガールズ、横丁の高額対策、撮影スポットまで東京旅行者必須情報。"
+tags: ["渋谷ミヤシタパーク", "渋谷", "東京クリスマスマーケット", "渋谷横丁", "東京レストラン", "居酒屋", "パワーパフガールズ", "2025"]
 categories: ["東京観光スポット"]
 featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 ---
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">🎄 渋谷ミヤシタパークの屋上ワンダーランド!<br>
-パープルのクリスマスイルミネーション、パワーパフガールズコラボ、絶景スタバ。<br>
-渋谷横丁で食事を考えている方へ、先に読んでください!<br>
-本音でレビューします。何が良くて、何がイマイチか、どこで食べるべきか。</p>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">🎄 渋谷ミヤシタパークグルメと渋谷横丁バー情報を一度に整理しました。<br>
+12月パープルイルミネーションとパワーパフガールズイベント、横丁の高額を避ける方法、撮影スポットまで東京旅行者必須情報だけを詰め込みました。</p>
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg" alt="渋谷ミヤシタパーク屋上入口とクリスマスイルミネーション">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷ミヤシタパーク - 都会の喧騒を忘れる屋上スポット</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg" alt="渋谷ミヤシタパーク & 渋谷横丁 2025クリスマスマーケット、パワーパフガールズイベント">
+  <figcaption style="font-size: 0.7em; text-align: center;">渋谷ミヤシタパーク & 渋谷横丁 (2025クリスマスマーケット・パワーパフガールズ・正直レビュー)</figcaption>
 </figure>
 
-## 🌳 渋谷ミヤシタパークとは?
+## ようこそ渋谷ミヤシタパークへ
 
-渋谷ミヤシタパークは、かつての宮下公園を再開発し、2020年に誕生した複合施設です。地上4階建てのショッピング施設の屋上に、本物の公園がある斬新な構造。
+こんにちは! 東京旅行を記録する東京メイトです。✈️
 
-渋谷駅直結の好立地で、国内外のブランドショップ、レストラン街、そして4階の屋上公園が楽しめます。渋谷の中心にいながら、緑豊かな空間でリラックスできる貴重なスポットです。
+渋谷の古い公園がヒップなショッピングモール、ホテル、バー街に生まれ変わった**ミヤシタパーク(Miyashita Park)**。最近の東京旅行必須コースですよね?
+
+でも何も知らずに行くと**「高い料金、少ない量、長い待ち時間」**に疲れて失望するかもしれません。今日は**昼(公園/ショッピング)**と**夜(横丁/お酒)**、そして12月限定イベントまで賢く楽しむフルコースを共有します。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-02.jpg" alt="渋谷ミヤシタパーク屋上公園の全景">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷の喧騒を忘れる屋上緑地空間</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-02.jpg" alt="渋谷ミヤシタパーク夜景">
+  <figcaption style="font-size: 0.7em; text-align: center;">渋谷ミヤシタパーク夜景</figcaption>
 </figure>
 
-<div class="info-box">
-<strong>📍 渋谷ミヤシタパーク基本情報</strong>
-<ul>
-<li><strong>住所:</strong> 東京都渋谷区神宮前6-20-10</li>
-<li><strong>アクセス:</strong> 渋谷駅(JR/メトロ)徒歩1分</li>
-<li><strong>営業時間:</strong> ショップ 11:00-21:00、レストラン 11:00-23:00(店舗により異なる)</li>
-<li><strong>入場料:</strong> 無料(屋上公園含む)</li>
-<li><strong>公式サイト:</strong> <a href="https://www.miyashita-park.tokyo/" target="_blank">miyashita-park.tokyo</a></li>
-</ul>
-</div>
+---
 
-## 🎄 2025年12月:パープルクリスマスマーケット
+## 🎄 12月限定! 見逃せないイベント2つ
 
-今年12月、ミヤシタパークの屋上はパープル一色に染まります。通常の赤と金のクリスマスとは一味違う、紫とピンクのイルミネーションが特徴的。
+今(12月)この記事をご覧になっているなら本当にラッキーです。普段は単なる芝生広場だった4階屋上とショッピングモールが完全に変わりましたから。
+
+**1️⃣ 渋谷クリスマスマーケット2025🎄**
+- **期間:** 2025.12.01(月) ~ 12.25(木)
+- **場所:** ミヤシタパーク4階芝生広場
+- **コンセプト:** ヨーロピアンクリスマス (Purple Theme 💜)
+
+今年のコンセプトは**'パープル(Purple)'**です。普通の赤いクリスマスではなく、幻想的なパープルライトが点灯されて雰囲気が本当にすごいです。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-03.jpg" alt="ミヤシタパーク屋上のパープルクリスマスイルミネーション">
-  <figcaption style="font-size: 0.7em; text-align: center;">屋上を彩るパープルクリスマス</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-03.jpg" alt="パープルライトで輝くミヤシタパーク4階イルミネーション">
+  <figcaption style="font-size: 0.7em; text-align: center;">パープルライトで輝くミヤシタパーク4階イルミネーション</figcaption>
 </figure>
-
-このパープルテーマは写真映え抜群。特に夜景と組み合わせると、他のクリスマススポットとは違う雰囲気を楽しめます。12月下旬まで開催され、フードスタンド、ホットドリンク、ホリデーギフトの出店もあります。
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-04.jpg" alt="パープルライトアップのクリスマスマーケット">
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-04.jpg" alt="パープルライトで輝くミヤシタパーク4階クリスマスマーケット">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-05.jpg" alt="クリスマスマーケット屋台エリア">
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-05.jpg" alt="ミヤシタパーク4階クリスマスマーケット全景">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">パープルライトの下で楽しむフードスタンドとホリデーショッピング</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">パープルライトで輝くミヤシタパーク4階クリスマスマーケット全景 — 渋谷クリスマスマーケット</figcaption>
 </div>
 
-<div class="tip-box">
-<p><strong>📸 撮影のコツ:</strong> 日没前後(12月は16:30-17:00頃)が狙い目。パープルライトが点灯し始めるタイミングで、空のブルーアワーとのコントラストが美しい。完全に暗くなってからより映えます。</p>
-</div>
+**2️⃣ パワーパフガールズ X ミヤシタパーク (Y2K感性)💖**
+かわいいもの好きの方はこちらです。ミヤシタパーク全体がパワーパフガールズに占拠されましたから!
+- **フォトゾーン:** South 2F歩道橋 & North 2F中央スペース
+- **ポップアップストア:** South 2F (限定グッズ販売)
+- **特典:** 対象店舗で7,500円以上購入時**'限定コンパクトミラー'プレゼント**(先着順)
 
-## 💖 パワーパフガールズコラボイベント
-
-ブロッサム、バブルス、バターカップがミヤシタパークをジャック!パワーパフガールズコラボで、ポップアップショップ、テーマカフェ、フォトスポットが館内各所に登場。
-
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-06.jpg" alt="パワーパフガールズコラボイベントの看板と装飾">
-  <figcaption style="font-size: 0.7em; text-align: center;">パワーパフガールズがミヤシタパークをジャック</figcaption>
-</figure>
-
-ここでしか手に入らない限定グッズ—トートバッグ、アパレル、ステーショナリーなど、東京限定デザインが揃っています。テーマカフェでは、キャラクターカラーのドリンクやキャラモチーフのデザートも。
+ショッピングモール各所がフォトゾーンなので、Y2K感性ショット必ず残してください!
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-07.jpg" alt="パワーパフガールズ限定グッズとコラボアイテム">
-  <figcaption style="font-size: 0.7em; text-align: center;">東京限定コラボグッズ</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-06.jpg" alt="パワーパフガールズ X ミヤシタパーク クリスマスイベント">
+  <figcaption style="font-size: 0.7em; text-align: center;">パワーパフガールズ X ミヤシタパーク クリスマスイベント</figcaption>
 </figure>
 
-ファンでなくても、フォトスポットは楽しめます。巨大キャラクターカットアウト、カラフルな背景—SNS映え間違いなし。
+---
 
-## ☕ 屋上公園と空中スタバ
+## ☀️ ミヤシタパークグルメ & 楽しみ (昼)
 
-4階の屋上公園は本格的。天然芝、遊歩道、渋谷を見下ろせるベンチ—都会の喧騒から本当に逃れられる場所です。
+イベント見学を終えたら、昼は**4階公園とショッピングモール**を楽しむ番です。
+
+**☕ 屋上公園 & スターバックス**
+ミヤシタパークの象徴である4階屋上公園にはスターバックスがあります。藤原ヒロシがデザインしたFRAGMENTコラボカップで有名です。
+
+- **雰囲気:** 都心の芝生で楽しむコーヒー一杯
+- **裏技:** 週末は席がほぼありません。テイクアウトしてベンチに座るのが精神的に良いです。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-08.jpg" alt="屋上公園の緑地空間と都市景観">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷のネオンジャングルの上に広がる本物の緑地</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-07.jpg" alt="ミヤシタ公園ルーフトップスターバックス">
+  <figcaption style="font-size: 0.7em; text-align: center;">ミヤシタ公園ルーフトップスターバックス</figcaption>
 </figure>
 
-屋上のスターバックスは、東京屈指の眺望スタバかもしれません。公園に面した全面ガラス張り、テラス席もあり、周辺ビルを見下ろす高さにあります。
+<figure>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-08.jpg" alt="藤原ヒロシがデザインしたスターバックス X FRAGMENTコラボカップ">
+  <figcaption style="font-size: 0.7em; text-align: center;">藤原ヒロシがデザインしたスターバックス X FRAGMENTコラボカップ</figcaption>
+</figure>
+
+**🍜 失敗しないミヤシタパークグルメ & カフェ (1~3F)**
+高い横丁より3階フードコートや1~2階のカジュアルレストランがコスパと味両方優れています。失敗しない地元民ピック5カ所をおすすめします。
+
+**1.** <mark>**ミヤシタ 成ル (NORTH 3F)**</mark> 鉄板料理専門居酒屋です。ランチは定食、ディナーは鉄板卵焼きにビール一杯がちょうど良い活気ある場所です。
+
+**2.** <mark>**筋肉食堂 (SOUTH 3F)**</mark> 通称「筋肉食堂」。旅行中タンパク質補給が必要ならここ必須! カロリーは低く美味しい高タンパクステーキハンバーグを売ります。(ダイエッター強力推薦)
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-09.jpg" alt="スターバックス屋上テラス">
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-09.jpg" alt="ミヤシタパークグルメ3階筋肉食堂">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-10.jpg" alt="テラス席からの公園ビュー">
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-10.jpg" alt="ミヤシタパーク3階ミヤシタ成ル">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">絶景スタバ:屋上テラスエディション</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ミヤシタパークグルメ3階筋肉食堂 & ミヤシタ成ル</figcaption>
 </div>
 
-コーヒーを持って外に座るのがおすすめ(天気が良ければ)。午前中は比較的空いていて、午後はショッピング客の休憩で混み合います。
+**3.** <mark>**カフェキツネ (NORTH 2F Café Kitsuné)**</mark> メゾンキツネが運営するヒップなカフェ。シグニチャーの**'きつね形クッキー'**はラテの上に乗せて認証ショット撮るのが定番です。
 
-## 🍜 レストランおすすめ(1F-3F)
-
-ミヤシタパークには3フロアにわたる充実したダイニングエリアがあります。本当に美味しいお店をピックアップ:
+**4.** <mark>**KITH TREATS (NORTH 2F)**</mark> ストリートブランドKITHのシリアルアイスクリームバー。ショッピング中に糖質が落ちたらシェイクやアイスクリームを食べてエネルギーをすぐ補充します。
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-11.jpg" alt="レストランフロア入口">
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-11.jpg" alt="ミヤシタパークカフェ2階カフェキツネ">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-12.jpg" alt="飲食店オプション">
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-12.jpg" alt="ミヤシタパーク2階KITH TREATS">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">レストランフロア:フードコートを超えた充実の選択肢</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ミヤシタパークカフェ2階カフェキツネ & KITH TREATS</figcaption>
 </div>
 
-### おすすめレストラン
-
-**1F - 軽食:**
-- **d47食堂:** 全国各地の郷土料理が楽しめる。一箇所で地方の名物を味わえる貴重なスポット。
-- **Bills:** オーストラリア発のブランチ専門店。リコッタパンケーキが有名。週末は待ち時間覚悟。
+**5.** <mark>**THE MATCHA TOKYO (SOUTH 2F)**</mark> 100%オーガニック抹茶専門店。渋くて濃い日本正統抹茶ラテを味わいたいならスターバックスよりここをおすすめします。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-13.jpg" alt="レストラン料理とメニュー">
-  <figcaption style="font-size: 0.7em; text-align: center;">d47の地方料理とインターナショナルキュイジーヌ</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-13.jpg" alt="ミヤシタパーク階段">
+  <figcaption style="font-size: 0.7em; text-align: center;">ミヤシタパーク階段</figcaption>
 </figure>
 
-**2F - バラエティ:**
-- **シェイクシャック:** チェーンではあるものの、限定メニューあり。
-- **かつ丼たなか:** 本格とんかつ丼。サクサクのカツ、濃厚なタレ、完璧な仕上がり。
+---
 
-**3F - しっかり食事:**
-- **牛かつもと村:** 薄切り牛かつをレアで提供。熱い石で自分で焼くスタイル。
-- **阿夫利ラーメン:** 柚子を効かせた軽やかなラーメン。こってり豚骨とは違う爽やかさ。
+## 🌙 渋谷横丁、果たして行く価値がある? (夜)
+
+日が暮れると1階**'渋谷横丁(Shibuya Yokocho)'**に赤い提灯が灯ります。ここは日本全国のソウルフードを集めた場所、果たしてどうでしょうか?
+
+**⚠️ 正直レビュー:** **"雰囲気は100点、コスパは..."**
+正直に言うと、ここは**'味'より'写真'撮りに行く場所**です。
+
+**💡 東京メイトの推奨戦略**
+**"横丁ではビール一杯だけ! 食事は外で!"**
+1次だけ軽く!
+雰囲気がとても良いので生ビール(なまびーる)一杯に簡単なおつまみ(餃子など)一つだけ頼んで雰囲気だけ楽しんでください。
+
+<div class="schedule-table" style="margin: 2rem 0;">
+  <table>
+    <tbody>
+      <tr style="background-color:#f7f7f7;">
+        <td style="width:33%;">雰囲気</td>
+        <td style="width:67%;">🏮 日本祭り(まつり)のようなワイワイヒップな感性<br>→ 写真は素晴らしく出る</td>
+      </tr>
+      <tr>
+        <td style="background-color:#f7f7f7;">価格</td>
+        <td>💸 量に比べて価格がかなり高い (観光地物価)<br>→ コスパ期待禁止</td>
+      </tr>
+      <tr style="background-color:#f7f7f7;">
+        <td>味</td>
+        <td>まあまあ(So-so)。冷凍製品を温めてくれる感じが強い<br>→ 美食家は失望するかも</td>
+      </tr>
+      <tr>
+        <td style="background-color:#f7f7f7;">追加料金</td>
+        <td><strong>お通し(席料)</strong>と1人1ドリンク必須<br>→ 会計書を見て驚かないで</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-14.jpg" alt="3階レストランエリアの食事スペース">
-  <figcaption style="font-size: 0.7em; text-align: center;">3F:牛かつ、ラーメン、本格飲食店</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-14.jpg" alt="渋谷ミヤシタパーク1階渋谷横丁レビュー">
+  <figcaption style="font-size: 0.7em; text-align: center;">渋谷ミヤシタパーク1階渋谷横丁レビュー</figcaption>
 </figure>
-
-## 🏮 渋谷横丁:正直な評価
-
-ここからは本音トークです。渋谷横丁は地下1階にある「伝統的な飲み屋横丁」をイメージしたフードホール。小さな屋台、赤提灯、狭い座席で昭和の雰囲気を再現。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-15.jpg" alt="渋谷横丁入口と伝統的な提灯">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷横丁:見た目は伝統的、でも実態は...</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-15.jpg" alt="夜になって赤い提灯が灯った渋谷横丁の賑やかな通りの様子">
+  <figcaption style="font-size: 0.7em; text-align: center;">夜になって赤い提灯が灯った渋谷横丁の賑やかな通りの様子</figcaption>
 </figure>
 
-ビジュアルは写真映えします。しかし、実際は...複雑です。
+---
+
+## "じゃあ本当のグルメはどこ?" おすすめ代替
+
+渋谷横丁のコスパが残念なら、徒歩3~5分距離の**本当のローカルバー**に移動してください。ここが本物です。
+
+**🍺 1. のんべい横丁 (Nonbei Yokocho)**
+ミヤシタパークすぐ道向かい、ビルの森の間に隠れた**'飲兵衛の路地'**です。昭和時代のレトロな感性がそのまま残っていて深夜食堂の雰囲気が好きなら強力推薦します。
+
+- **特徴:** 店がとても狭い (4~5席)、隣席客や店主と会話する雰囲気
+- **コスパ:** 価格帯は安くないが、渋谷横丁のような冷凍食品でなく**'本物の料理'**を出してくれます。
+
+**✅ 代表店舗:** **鳥福 (とりふく)**
+- 営業時間: 平日 16:30~21:00
+- **📍[Googleマップで見る](https://maps.app.goo.gl/Rq4BfTTgTZCvLiBLA)** 📍
+
+**📌 [比較] のんべい横丁 vs 渋谷横丁**
+
+<div class="schedule-table" style="margin: 2rem 0;">
+  <table>
+    <tbody>
+      <tr style="background-color:#fff8b2;">
+        <td style="width:50%;">のんべい横丁 (推奨)</td>
+        <td style="width:50%;">渋谷横丁</td>
+      </tr>
+      <tr>
+        <td>狭い路地に40余りのバーが集まった<strong>本物のレトロ街</strong></td>
+        <td>ミヤシタパーク1階の伝統コンセプトフードコート</td>
+      </tr>
+      <tr>
+        <td>Google評点 4.1 (1,058)</td>
+        <td>Google評点 3.0 (3,277)</td>
+      </tr>
+      <tr>
+        <td>📍<a href="https://maps.app.goo.gl/hfgGmK7J9VRaUu1LA" target="_blank">Googleマップ</a></td>
+        <td>📍<a href="https://maps.app.goo.gl/RhD6QAbmbk1NknRx9" target="_blank">Googleマップ</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-16.jpg" alt="渋谷横丁内部の狭い通路">
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-16.jpg" alt="渋谷のんべい横丁代表店舗鳥福">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-17.jpg" alt="横丁の屋台と座席エリア">
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-17.jpg" alt="渋谷のんべい横丁鳥福料理">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">狭い通路、窮屈な空間、観光客で混雑</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">渋谷のんべい横丁代表店舗鳥福</figcaption>
 </div>
 
-### 渋谷横丁のイマイチな点
+**🍢 2. 渋谷森本 (しぶやもりもと)**
+"ちゃんとした焼き鳥を食べたいならここへ。" 渋谷で指折りの焼き鳥の名店で、日本グルメ評価サイト**食べログ焼き鳥百名店(2018, 2019, 2021年)**に選定された検証された場所です。
 
-**価格設定:** 雰囲気代を払っている感じ。料理のクオリティは悪くないが特筆すべきものでもなく、価格は一般的な居酒屋より20-30%高め。
-
-**混雑:** インスタで見た観光客で溢れかえっています。移動も大変、食事を楽しむのはもっと大変。
-
-**本物感:** 横丁の「再現」であって、本物の横丁ではありません。座っているとちょっとテーマパーク感が...。
-
-<div class="tip-box">
-<p><strong>💭 本音:</strong> 写真撮影と横丁体験を味わいたいだけで、観光客価格を気にしないなら行っても良いでしょう。でも、本物の地元の味とコスパを求めるなら?スキップ推奨。下に良い選択肢を紹介します。</p>
-</div>
-
-## 🍻 もっと良い選択肢:本物の横丁と居酒屋
-
-観光客価格なしで本物の体験をしたいなら、こちらをどうぞ:
+- **営業時間:** 16:00 ~ 22:00 (毎週日曜日休業)
+- **注意事項: ⚠️現金のみ可能 (クレジットカード不可)**
+- **📍[Googleマップで見る](https://maps.app.goo.gl/3xKfRqmTtuKUyBfi7)** 📍
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-18.jpg" alt="渋谷周辺の代替居酒屋と横丁の地図">
-  <figcaption style="font-size: 0.7em; text-align: center;">賢い選択:渋谷近くの本物スポット</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-18.jpg" alt="渋谷森本">
+  <figcaption style="font-size: 0.7em; text-align: center;">渋谷森本</figcaption>
 </figure>
 
-### のんべい横丁(渋谷)
+**🍢 3. 鳥竹総本店 (とりたけ)**
+**"渋谷で鶏串の量と味はここが1位です。"** 横丁の冷凍串とは次元が違う、炭火の香りいっぱいの**大王串(おおぐし)**を売る伝説的な老舗です。やはり**食べログ焼き鳥百名店(2019, 2021年)**に選定されました。
 
-本物です。戦後から残る歴史的な飲み屋横丁。小さなバー、地元常連客、安いビール、インスタ映えなし。
-
-- **場所:** 渋谷駅から徒歩5分
-- **雰囲気:** リアル、本格的、現金のみの穴場
-- **価格:** 一人2,000-3,000円(飲食込み)
-
-要注意:スペースは極小(席数6-8程度)、英語が通じない店もあり、現金のみ。でもそれこそが魅力—本物だから。
-
-### おすすめ居酒屋
-
-横丁の混雑なしで質の高い食事と飲み物を楽しむなら:
-
-**鳥福(とりふく):**
-渋谷駅近くの焼き鳥専門店。絶品の鶏串、フレンドリーなスタッフ、手頃な価格。
+- **営業時間:** 12:00 ~ 23:00 (昼酒可能! 🍻)
+- **休業:** 定期休業なし (年末年始 12/31~1/4 休業)
+- **📍[Googleマップで見る](https://maps.app.goo.gl/Q2v3CtJ2rPxk5vfU9)** 📍
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-19.jpg" alt="居酒屋の焼き鳥と本格的な雰囲気">
-  <figcaption style="font-size: 0.7em; text-align: center;">本物の居酒屋体験:質の高い料理、地元の雰囲気</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-19.jpg" alt="鳥竹総本店焼き鳥大王串">
+  <figcaption style="font-size: 0.7em; text-align: center;">鳥竹総本店焼き鳥大王串</figcaption>
 </figure>
 
-**森本(もりもと):**
-海鮮系居酒屋。毎日の鮮魚、焼き魚、豊富な日本酒セレクション。
+---
 
-**鳥竹(とりたけ):**
-もう一つの焼き鳥名店。定番串以外のクリエイティブな鶏料理も。チキン南蛮がおすすめ。
+## ミヤシタパーク3行まとめ
 
-3店とも一人3,000-4,000円(飲み物込み)—横丁と同じくらいですが、料理のクオリティと地元客の雰囲気が全然違います。
+忙しい方のために**渋谷ミヤシタパーク**攻略法を3行にまとめます。
 
-## 🗺️ アクセスと最終アドバイス
+1. **12月必須:** 4階**クリスマスマーケット(パープル)**とパワーパフガールズフォトゾーンは必ず行く!
+2. **夜には:** 渋谷横丁で**'写真'**撮ってビール一杯だけ飲む。(おつまみを頼むと財布が空っぽに 😭)
+3. **夕食:** 本物のグルメは近くの**'鳥竹'**や**'のんべい横丁'**。
 
-**渋谷駅から:**
-- JR出口:ハチ公口から左折、徒歩1-2分
-- メトロ出口:B1/B2出口から直結
+🌟**[昨年の2024ミヤシタパークイルミネーションが気になる?](https://blog.naver.com/tokyomate/223689247336)**
 
-**おすすめ訪問時間:**
-- 屋上公園:午前中(10:00-11:00)静かで落ち着ける
-- クリスマスマーケット:平日夕方(18:00-20:00)週末より空いている
-- レストラン:ランチ(11:30-12:30)待ち時間が短い
+---
 
-**スキップした方が良いもの:**
-- 予算重視または本物の地元雰囲気を求めるなら渋谷横丁
-- 週末午後の屋上スタバ(激混み)
-- 土曜日のショッピング(人混み苦手なら)
+## ✨ 一緒に見るとよい渋谷旅行裏技
 
-**優先すべきもの:**
-- 夕暮れ時のパープルクリスマスライト(12月限定)
-- パワーパフガールズフォトスポット(期間限定コラボ)
-- スカイライン眺望の屋上公園(通年)
-- のんべい横丁または本格居酒屋でディナー
+**"ミヤシタパークの次のコースが悩み?"**
+渋谷スカイ展望台から近くのショッピング、グルメまで完璧な動線です。特にスカイ予約裏技は必須です!
 
-<div style="margin: 2rem 0;">
-  <iframe src="https://www.google.com/maps?q=35.6648,139.7015&hl=ja&z=17&output=embed"
-          width="100%" height="400"
-          style="border:0; border-radius:8px;"
-          allowfullscreen=""
-          loading="lazy"
-          referrerpolicy="no-referrer-when-downgrade"></iframe>
-  <p style="text-align:center; margin-top:0.5rem; font-size:0.9rem; color:#666;">
-    <strong>渋谷ミヤシタパーク</strong><br>
-    東京都渋谷区神宮前6-20-10<br>
-    <a href="https://www.google.com/maps/place/Shibuya+Miyashita+Park/@35.6648,139.7015,17z?hl=ja"
-       target="_blank"
-       style="color:#667eea;">Googleマップで見る</a> 📍
-  </p>
-</div>
+👉 **[ミヤシタパーク近く! 渋谷スカイ & 遊び場コース総整理](https://blog.naver.com/tokyomate/224031114514)**
 
-渋谷ミヤシタパークは屋上の癒しスポットとして本当に価値があります—渋谷の混雑の上に緑地があるのは貴重。パープルクリスマスマーケットは季節限定の楽しみ、パワーパフガールズファンならコラボも見逃せません。
+**"渋谷の夜はここで終わりじゃありません。"**
+ミヤシタパークから徒歩で移動可能な'青の洞窟'イルミネーションまで見て行ってください。12月東京で最もロマンチックな散歩道です。
 
-ただし、食事は賢く選びましょう。観光客価格のフードホールはスキップして、本物の横丁や近くのしっかりした居酒屋へ。その方がずっと良い夜になります。ミヤシタパークはショッピング、屋上リラックス、季節イベントとして楽しむ。食事なら?徒歩5分圏内にもっと良い選択肢があります。
+👉 **[歩いて10分! 渋谷'青の洞窟'イルミネーションへの行き方](https://blog.naver.com/tokyomate/224098592756)**
 
 </div>
