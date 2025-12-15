@@ -18,7 +18,7 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 本音でレビューします。何が良くて、何がイマイチか、どこで食べるべきか。</p>
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-02.jpg" alt="渋谷ミヤシタパーク屋上入口とクリスマスイルミネーション">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg" alt="渋谷ミヤシタパーク屋上入口とクリスマスイルミネーション">
   <figcaption style="font-size: 0.7em; text-align: center;">渋谷ミヤシタパーク - 都会の喧騒を忘れる屋上スポット</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 渋谷駅直結の好立地で、国内外のブランドショップ、レストラン街、そして4階の屋上公園が楽しめます。渋谷の中心にいながら、緑豊かな空間でリラックスできる貴重なスポットです。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-03.jpg" alt="渋谷ミヤシタパーク屋上公園の全景">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-02.jpg" alt="渋谷ミヤシタパーク屋上公園の全景">
   <figcaption style="font-size: 0.7em; text-align: center;">渋谷の喧騒を忘れる屋上緑地空間</figcaption>
 </figure>
 
@@ -49,16 +49,21 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 今年12月、ミヤシタパークの屋上はパープル一色に染まります。通常の赤と金のクリスマスとは一味違う、紫とピンクのイルミネーションが特徴的。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-04.jpg" alt="ミヤシタパーク屋上のパープルクリスマスイルミネーション">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-03.jpg" alt="ミヤシタパーク屋上のパープルクリスマスイルミネーション">
   <figcaption style="font-size: 0.7em; text-align: center;">屋上を彩るパープルクリスマス</figcaption>
 </figure>
 
 このパープルテーマは写真映え抜群。特に夜景と組み合わせると、他のクリスマススポットとは違う雰囲気を楽しめます。12月下旬まで開催され、フードスタンド、ホットドリンク、ホリデーギフトの出店もあります。
 
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-05.jpg" alt="パープルライトアップされた夜のクリスマスマーケット屋台">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-04.jpg" alt="パープルライトアップのクリスマスマーケット">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-05.jpg" alt="クリスマスマーケット屋台エリア">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">パープルライトの下で楽しむフードスタンドとホリデーショッピング</figcaption>
-</figure>
+</div>
 
 <div class="tip-box">
 <p><strong>📸 撮影のコツ:</strong> 日没前後(12月は16:30-17:00頃)が狙い目。パープルライトが点灯し始めるタイミングで、空のブルーアワーとのコントラストが美しい。完全に暗くなってからより映えます。</p>
@@ -93,10 +98,15 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 
 屋上のスターバックスは、東京屈指の眺望スタバかもしれません。公園に面した全面ガラス張り、テラス席もあり、周辺ビルを見下ろす高さにあります。
 
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-09.jpg" alt="スターバックス屋上テラス席と公園ビュー">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-09.jpg" alt="スターバックス屋上テラス">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-10.jpg" alt="テラス席からの公園ビュー">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">絶景スタバ:屋上テラスエディション</figcaption>
-</figure>
+</div>
 
 コーヒーを持って外に座るのがおすすめ(天気が良ければ)。午前中は比較的空いていて、午後はショッピング客の休憩で混み合います。
 
@@ -104,10 +114,15 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 
 ミヤシタパークには3フロアにわたる充実したダイニングエリアがあります。本当に美味しいお店をピックアップ:
 
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-10.jpg" alt="レストランフロアの入口と飲食店オプション">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-11.jpg" alt="レストランフロア入口">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-12.jpg" alt="飲食店オプション">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">レストランフロア:フードコートを超えた充実の選択肢</figcaption>
-</figure>
+</div>
 
 ### おすすめレストラン
 
@@ -115,36 +130,21 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 - **d47食堂:** 全国各地の郷土料理が楽しめる。一箇所で地方の名物を味わえる貴重なスポット。
 - **Bills:** オーストラリア発のブランチ専門店。リコッタパンケーキが有名。週末は待ち時間覚悟。
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-11.jpg" alt="d47食堂の郷土料理">
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-12.jpg" alt="Billsの名物パンケーキ">
-  </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">d47の地方料理とBillsのパンケーキ天国</figcaption>
-</div>
+<figure>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-13.jpg" alt="レストラン料理とメニュー">
+  <figcaption style="font-size: 0.7em; text-align: center;">d47の地方料理とインターナショナルキュイジーヌ</figcaption>
+</figure>
 
 **2F - バラエティ:**
 - **シェイクシャック:** チェーンではあるものの、限定メニューあり。
 - **かつ丼たなか:** 本格とんかつ丼。サクサクのカツ、濃厚なタレ、完璧な仕上がり。
-
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-13.jpg" alt="シェイクシャック限定メニュー">
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-14.jpg" alt="かつ丼たなかのとんかつ丼">
-  </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">シェイクシャック限定メニューとかつ丼たなかのサクサク完璧カツ</figcaption>
-</div>
 
 **3F - しっかり食事:**
 - **牛かつもと村:** 薄切り牛かつをレアで提供。熱い石で自分で焼くスタイル。
 - **阿夫利ラーメン:** 柚子を効かせた軽やかなラーメン。こってり豚骨とは違う爽やかさ。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-15.jpg" alt="3階レストランエリアの食事スペース">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-14.jpg" alt="3階レストランエリアの食事スペース">
   <figcaption style="font-size: 0.7em; text-align: center;">3F:牛かつ、ラーメン、本格飲食店</figcaption>
 </figure>
 
@@ -153,16 +153,21 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 ここからは本音トークです。渋谷横丁は地下1階にある「伝統的な飲み屋横丁」をイメージしたフードホール。小さな屋台、赤提灯、狭い座席で昭和の雰囲気を再現。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-16.jpg" alt="渋谷横丁入口と伝統的な提灯">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-15.jpg" alt="渋谷横丁入口と伝統的な提灯">
   <figcaption style="font-size: 0.7em; text-align: center;">渋谷横丁:見た目は伝統的、でも実態は...</figcaption>
 </figure>
 
 ビジュアルは写真映えします。しかし、実際は...複雑です。
 
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-17.jpg" alt="渋谷横丁内部の狭い通路と屋台">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-16.jpg" alt="渋谷横丁内部の狭い通路">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-17.jpg" alt="横丁の屋台と座席エリア">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">狭い通路、窮屈な空間、観光客で混雑</figcaption>
-</figure>
+</div>
 
 ### 渋谷横丁のイマイチな点
 
@@ -203,8 +208,8 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 渋谷駅近くの焼き鳥専門店。絶品の鶏串、フレンドリーなスタッフ、手頃な価格。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-19.jpg" alt="鳥福居酒屋の焼き鳥串">
-  <figcaption style="font-size: 0.7em; text-align: center;">鳥福:鶏肉が本気を出す店</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-19.jpg" alt="居酒屋の焼き鳥と本格的な雰囲気">
+  <figcaption style="font-size: 0.7em; text-align: center;">本物の居酒屋体験:質の高い料理、地元の雰囲気</figcaption>
 </figure>
 
 **森本(もりもと):**
@@ -212,11 +217,6 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 
 **鳥竹(とりたけ):**
 もう一つの焼き鳥名店。定番串以外のクリエイティブな鶏料理も。チキン南蛮がおすすめ。
-
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-20.jpg" alt="鳥竹居酒屋のカウンター席">
-  <figcaption style="font-size: 0.7em; text-align: center;">鳥竹:上質な焼き鳥、庶民的な価格</figcaption>
-</figure>
 
 3店とも一人3,000-4,000円(飲み物込み)—横丁と同じくらいですが、料理のクオリティと地元客の雰囲気が全然違います。
 

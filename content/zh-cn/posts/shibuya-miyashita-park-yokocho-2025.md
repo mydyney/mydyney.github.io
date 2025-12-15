@@ -18,7 +18,7 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 我们会告诉你什么值得去、什么可以跳过、哪里才是真正的美食天堂。</p>
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-02.jpg" alt="涩谷宫下公园屋顶入口和圣诞灯饰">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg" alt="涩谷宫下公园屋顶入口和圣诞灯饰">
   <figcaption style="font-size: 0.7em; text-align: center;">涩谷宫下公园 - 东京市中心的屋顶绿洲</figcaption>
 </figure>
 
@@ -29,7 +29,7 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 这栋建筑位于涩谷站正上方,交通极其便利。国际品牌、本地日系店铺、三层餐饮楼层应有尽有,然后...惊喜来了。爬到4楼,你会突然置身于一座漂浮在都市喧嚣之上的绿色公园。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-03.jpg" alt="涩谷宫下公园屋顶花园全景">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-02.jpg" alt="涩谷宫下公园屋顶花园全景">
   <figcaption style="font-size: 0.7em; text-align: center;">逃离人群:涩谷中心的屋顶绿地</figcaption>
 </figure>
 
@@ -49,16 +49,21 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 今年12月,宫下公园整个屋顶变身紫色世界。整个圣诞市集用紫色和粉色灯光打造——比传统的红金配色更独特更梦幻。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-04.jpg" alt="宫下公园屋顶紫色圣诞灯饰">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-03.jpg" alt="宫下公园屋顶紫色圣诞灯饰">
   <figcaption style="font-size: 0.7em; text-align: center;">屋顶上的紫色圣诞魔法</figcaption>
 </figure>
 
 紫色主题超级出片,尤其是夜幕降临后,配上脚下的都市灯海,绝对是Instagram爆款打卡地。市集持续到12月下旬,有美食摊位、热饮和节日礼品店。
 
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-05.jpg" alt="紫色灯光下的圣诞市集夜景摊位">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-04.jpg" alt="紫灯下的圣诞市集">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-05.jpg" alt="圣诞市集摊位区域">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">紫光笼罩下的美食摊位和节日购物</figcaption>
-</figure>
+</div>
 
 <div class="tip-box">
 <p><strong>📸 拍照攻略:</strong> 日落时分(12月约16:30-17:00)最佳。紫灯刚亮起时,天空还有蓝调余晖的对比最美。比完全天黑后更出片。</p>
@@ -93,10 +98,15 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 
 屋顶星巴克可能是东京视野最好的星巴克之一。面向公园的落地玻璃窗、户外露台座位,而且高度刚好能俯瞰周边建筑。
 
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-09.jpg" alt="星巴克屋顶露台座位和公园景观">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-09.jpg" alt="星巴克屋顶露台">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-10.jpg" alt="露台座位公园景观">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">有景观的星巴克:屋顶露台版</figcaption>
-</figure>
+</div>
 
 买好咖啡,天气好的话一定要坐户外。上午人少些,下午购物客休息时段会比较挤。
 
@@ -104,10 +114,15 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 
 宫下公园三层楼的餐饮选择非常丰富。这里是真正值得一试的餐厅:
 
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-10.jpg" alt="餐厅楼层入口和用餐区">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-11.jpg" alt="餐厅楼层入口">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-12.jpg" alt="用餐区选择">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">餐厅楼层:超越美食广场的优质选择</figcaption>
-</figure>
+</div>
 
 ### 必吃餐厅推荐
 
@@ -115,36 +130,21 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 - **d47食堂:** 日本各地特色料理。一个地方就能品尝到全国各地的地方美食。
 - **Bills:** 澳洲早午餐专门店,瑞可塔芝士松饼超有名。周末要排队。
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-11.jpg" alt="d47食堂的地方料理">
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-12.jpg" alt="Bills餐厅的招牌松饼">
-  </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">d47地方美食 & Bills松饼天堂</figcaption>
-</div>
+<figure>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-13.jpg" alt="餐厅菜品和菜单">
+  <figcaption style="font-size: 0.7em; text-align: center;">d47地方美食与国际料理</figcaption>
+</figure>
 
 **2F - 国际风味:**
 - **Shake Shack:** 虽然是连锁,但这家有日本限定菜单。
 - **胜丼田中:** 正宗炸猪排盖饭。酥脆猪排、浓郁酱汁,完美。
-
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-13.jpg" alt="Shake Shack日本限定菜单">
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-14.jpg" alt="胜丼田中的炸猪排盖饭">
-  </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">Shake Shack日本特供 & 胜丼田中的酥脆完美</figcaption>
-</div>
 
 **3F - 正餐:**
 - **牛胜元村:** 裹面包粉的薄切牛排半熟上桌,自己在热石板上煎。
 - **阿夫利拉面:** 柚子清汤拉面。比浓郁豚骨汤更清爽。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-15.jpg" alt="3楼餐厅用餐区">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-14.jpg" alt="3楼餐厅用餐区">
   <figcaption style="font-size: 0.7em; text-align: center;">3F用餐区:牛排、拉面等正式餐饮</figcaption>
 </figure>
 
@@ -153,16 +153,21 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 该说实话了。涩谷横丁是地下一层的"传统小巷"美食街,设计成老式日式居酒屋巷子的样子,小摊位、红灯笼、狭窄座位。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-16.jpg" alt="涩谷横丁入口和传统灯笼">
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-15.jpg" alt="涩谷横丁入口和传统灯笼">
   <figcaption style="font-size: 0.7em; text-align: center;">涩谷横丁:看起来传统,实际上...</figcaption>
 </figure>
 
 照片效果很棒。实际体验?有点复杂。
 
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-17.jpg" alt="涩谷横丁内部狭窄通道和摊位">
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-16.jpg" alt="涩谷横丁内部狭窄通道">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-17.jpg" alt="横丁摊位和座位区">
+  </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">狭窄通道、拥挤空间、游客爆满</figcaption>
-</figure>
+</div>
 
 ### 涩谷横丁的缺点
 
@@ -203,8 +208,8 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 涩谷站附近的烤鸡串专门店。出色的烤鸡串、友好的员工、合理的价格。
 
 <figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-19.jpg" alt="鸟福居酒屋的烤鸡串">
-  <figcaption style="font-size: 0.7em; text-align: center;">鸟福:鸡肉的认真姿态</figcaption>
+  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-19.jpg" alt="居酒屋烤鸡串和本地氛围">
+  <figcaption style="font-size: 0.7em; text-align: center;">正宗居酒屋体验:优质食物,本地氛围</figcaption>
 </figure>
 
 **森本:**
@@ -212,11 +217,6 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 
 **鸟竹:**
 另一家烤鸡串名店,除了基本串烧还有创意鸡肉料理。鸡肉南蛮必点。
-
-<figure>
-  <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-20.jpg" alt="鸟竹居酒屋的吧台座位">
-  <figcaption style="font-size: 0.7em; text-align: center;">鸟竹:高品质烤串,亲民价格</figcaption>
-</figure>
 
 这三家人均3000-4000日元(含酒水)——和横丁差不多价格,但食物质量和本地氛围完全不同。
 
