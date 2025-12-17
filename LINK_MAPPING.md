@@ -102,6 +102,7 @@ When migrating a Naver blog post to Hugo:
 | 224104049826 | shibuya-miyashita-park-yokocho-2025 | 2025-12-15 | ✅ |
 | 224104602398 | tokyo-station-sawamura-lunch | 2025-12-18 | ✅ |
 | 224110207709 | tokyo-station-year-end-hours-2026 | 2025-12-18 | ✅ |
+| 224101626196 | shinjuku-chuo-park | 2025-12-18 | ✅ |
 
 
 ---
