@@ -374,6 +374,56 @@ EN: http://localhost:1313/posts/[slug]/
 JA: http://localhost:1313/ja/posts/[slug]/
 ```
 
+#### Step 5.5: Claude Verifies Content Completeness
+
+**MANDATORY VERIFICATION CHECKLIST:**
+
+Before providing preview links to user, verify the following counts match between original Naver HTML and created Hugo posts:
+
+1. **Image Count Verification:**
+   ```bash
+   # Count images in original Naver HTML
+   grep -o '<img' naver.html | wc -l
+   
+   # Count images in Hugo posts (should match for each language)
+   grep -o '<img' content/en/posts/[slug].md | wc -l
+   grep -o '<img' content/ja/posts/[slug].md | wc -l
+   grep -o '<img' content/zh-cn/posts/[slug].md | wc -l
+   ```
+
+2. **Figcaption Count Verification:**
+   ```bash
+   # Count captions in original (look for se-caption or similar)
+   # Count figcaptions in Hugo posts (should match for each language)
+   grep -o '<figcaption' content/en/posts/[slug].md | wc -l
+   grep -o '<figcaption' content/ja/posts/[slug].md | wc -l
+   grep -o '<figcaption' content/zh-cn/posts/[slug].md | wc -l
+   ```
+
+3. **Naver Link Count Verification:**
+   ```bash
+   # Count Naver blog links in original
+   grep -o 'blog.naver.com/tokyomate' naver.html | wc -l
+   
+   # Count converted links + placeholders in Hugo posts (should match for each language)
+   # Count: internal links (/posts/) + TODO placeholders
+   grep -E '(/posts/|TODO: Add link)' content/en/posts/[slug].md | wc -l
+   grep -E '(/posts/|TODO: Add link)' content/ja/posts/[slug].md | wc -l
+   grep -E '(/posts/|TODO: Add link)' content/zh-cn/posts/[slug].md | wc -l
+   ```
+
+**Verification Report Format:**
+```
+✅ Image Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
+✅ Caption Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
+✅ Link Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
+```
+
+**If counts don't match:**
+- Review original HTML to find missing images/captions/links
+- Update all three language versions before providing preview links
+- Re-verify counts until all match
+
 #### Step 6: User Reviews and Confirms
 ```
 User: "OK" or provides feedback
