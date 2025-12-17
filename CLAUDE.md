@@ -200,11 +200,18 @@ Complete step-by-step process for migrating a Naver blog post to Hugo:
 User: "https://blog.naver.com/tokyomate/[POST_ID]"
 ```
 
-#### Step 2: Claude Fetches Content
-```bash
-python3 fetch_content.py [URL]
-# Generates: naver.html
+#### Step 2: User Updates naver.html with Blog Content
 ```
+Claude: "Please update naver.html with the blog HTML content."
+User: (Copies HTML from Naver blog and saves to naver.html)
+User: "완료했습니다" or "Done"
+```
+
+**Instructions for User:**
+- Open the Naver blog post in browser
+- Copy the HTML content of the blog post
+- Save it to `naver.html` in the project root directory
+- Confirm completion
 
 #### Step 3: Claude Analyzes and Creates Blog Posts
 
@@ -217,13 +224,40 @@ python3 fetch_content.py [URL]
 - Create `content/en/posts/[slug].md`
 - Create `content/ja/posts/[slug].md`
 - Create `content/zh-cn/posts/[slug].md`
-- ⚠️ **CRITICAL: IMAGE POSITIONING**
-  * Verify ALL images from original blog
-  * Content MUST match image positions EXACTLY
-  * Same image at same position = same content context
-  * Never add content not in original blog
-  * **Check for grouped images:** Identify if images appear side-by-side in original
-  * **Preserve grouping:** Use appropriate `image-group-X` class (see "Grouped Images" section below)
+- ⚠️ **CRITICAL: COMPLETE CONTENT TRANSLATION**
+  * **Translate ALL text from original blog without omission:**
+    - Every paragraph, sentence, and description must be translated
+    - Do NOT summarize or skip any content
+    - Do NOT add content not in the original
+    - Maintain the same level of detail as the original
+  * **NEVER add content not in original blog:**
+    - Do NOT add headings that don't exist in original
+    - Do NOT add descriptions or explanations not in original
+    - Do NOT add formatting not in original
+    - Only translate what exists in the source HTML
+  * **Preserve ALL formatting from original HTML:**
+    - Bold text (`<b>`, `<strong>`) → Markdown bold (`**text**`)
+    - Section headings and subheadings → Markdown headings (`##`, `###`)
+    - Quotation blocks → Markdown blockquotes (`>`)
+    - Lists and bullet points → Markdown lists
+  * **Match original structure exactly:**
+    - Same number of sections
+    - Same heading hierarchy
+    - Same text emphasis patterns
+  * **Never add extra formatting not in original**
+- ⚠️ **CRITICAL: IMAGE POSITIONING & CAPTIONS**
+  * **Verify ALL images from original blog:**
+    - Content MUST match image positions EXACTLY
+    - Same image at same position = same content context
+    - Never add content not in original blog
+  * **Image grouping is MANDATORY:**
+    - Check for grouped images: Identify if images appear side-by-side in original
+    - Preserve grouping: Use appropriate `image-group-X` class (see "Grouped Images" section below)
+    - Group image positions are MANDATORY - do NOT place grouped images separately
+  * **Preserve figcaptions:**
+    - If original has image captions, translate and include them
+    - Use same caption format as original
+    - Do NOT add captions if original doesn't have them
 - ⚠️ **CRITICAL: CULTURAL ADAPTATION & WRITING STYLE**
   * **English (EN)**: Write from traveler's perspective for English-speaking tourists
     - Use engaging, traveler-friendly expressions
@@ -250,11 +284,25 @@ python3 fetch_content.py [URL]
   * Include personal touches and authentic observations
   * Write as a real travel blogger would, not as an AI assistant
 - ⚠️ **CRITICAL: LINK HANDLING**
+  * **MANDATORY: Check LINK_MAPPING.md FIRST**
+    - Load `LINK_MAPPING.md` before creating any content
+    - Search for ALL Naver blog URLs found in original HTML
+    - Verify if each Naver post has been migrated to Hugo
+  * **Link Conversion Rules:**
+    - **If migrated:** Replace Naver URL with Hugo internal link format: `/posts/[slug]/`
+    - **If NOT migrated:** Use placeholder comment format (see below)
+    - **NEVER include raw Naver blog URLs in final markdown**
+  * **Placeholder Format for Unmigrated Posts:**
+    ```markdown
+    <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/[POST_ID] -->
+    **➡️ [Link Text from Original]**
+    ```
   * **Order:** All links MUST be included in the exact same order as the original post
-  * **Verification:** Check `LINK_MAPPING.md` for slug existence
-  * **Placeholders:** If link not yet migrated, use TODO comment with original Naver URL
   * **Google Maps:** Standardize ALL map links with `📍` emoji suffix
     * Format: `[Link Text](https://maps.app.goo.gl/...) 📍`
+  * **After Content Creation:**
+    - Add unmigrated Naver URLs to "Pending References" section in LINK_MAPPING.md
+    - This creates a TODO list for future migrations
 
 **LINK_MAPPING.md Updates:**
 - Add new entry to Quick Reference Table

@@ -1,5 +1,5 @@
 {{/* Language switcher - Always show all available languages */}}
-{{ if .Site.IsMultiLingual }}
+{{ if hugo.IsMultilingual }}
 <div class="language-switcher {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
   <ul class="list flex flex-wrap ma0 pa0">
     {{ range $.Site.Languages }}
