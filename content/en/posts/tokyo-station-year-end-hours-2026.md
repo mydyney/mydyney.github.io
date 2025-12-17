@@ -1,6 +1,6 @@
 ---
 title: "2026 Tokyo Station Character Street Year-End Hours | Ramen Street & Okashi Land"
-date: 2024-12-08T00:00:00+09:00
+date: 2025-12-08T00:00:00+09:00
 draft: false
 categories: ["Tokyo Station", "Travel Info"]
 tags: ["tokyo-station", "character-street", "ramen-street", "okashi-land", "year-end-hours", "new-year", "shopping"]
