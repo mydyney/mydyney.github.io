@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Station Sawamura Weekday Lunch Review | Unlimited Bread, Salad & Coffee (Shin-Marunouchi Building)"
-date: 2024-12-18T00:00:00+09:00
+date: 2025-12-10T00:00:00+09:00
 draft: false
 categories: ["Tokyo Restaurants", "Tokyo Station"]
 tags: ["tokyo-station", "sawamura", "marunouchi", "bakery", "lunch", "bread", "japanese-cuisine"]

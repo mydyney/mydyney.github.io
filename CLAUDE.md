@@ -216,6 +216,16 @@ User: "완료했습니다" or "Done"
 #### Step 3: Claude Analyzes and Creates Blog Posts
 
 **Analysis:**
+- **Extract publish date from Naver HTML:**
+  ```bash
+  # Find the publish date in the HTML
+  grep -o 'se_publishDate[^>]*>[^<]*' naver.html
+  # Format: "YYYY. MM. DD. HH:MM" (e.g., "2025. 12. 10. 11:49")
+  # Convert to Hugo format: YYYY-MM-DDT00:00:00+09:00
+  ```
+  - **Location in HTML:** `<span class="se_publishDate pcol2">YYYY. MM. DD. HH:MM</span>`
+  - **Use this date** for the `date:` field in frontmatter for all three language versions
+  - **Critical:** Using correct publish date ensures posts appear in proper chronological order on homepage
 - Count images and verify order
 - Load LINK_MAPPING.md for internal link conversion
 - Identify all Naver links in content
