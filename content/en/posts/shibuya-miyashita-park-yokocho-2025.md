@@ -267,7 +267,7 @@ For busy folks, here's the **Shibuya Miyashita Park** strategy in 3 lines.
 2. **Nighttime:** Take **'photos'** at Shibuya Yokocho and have just one beer. (Order snacks and your wallet gets emptied 😭)
 3. **Dinner:** Real gems are nearby **'Toritake'** or **'Nonbei Yokocho.'**
 
-🌟**[Curious about last year's 2024 Miyashita Park illumination?](https://blog.naver.com/tokyomate/223689247336)**
+🌟**[Curious about last year's 2024 Miyashita Park illumination?](/posts/miyashita-park-illumination-2024/)**
 
 ---
 
@@ -276,11 +276,11 @@ For busy folks, here's the **Shibuya Miyashita Park** strategy in 3 lines.
 **"Wondering what to do after Miyashita Park?"**
 From Shibuya Sky observatory to nearby shopping and restaurants—perfect routing. Especially Sky booking tips are essential!
 
-👉 **[Near Miyashita Park! Complete Guide to Shibuya Sky & Activities](https://blog.naver.com/tokyomate/224031114514)**
+👉 **[Near Miyashita Park! Complete Guide to Shibuya Sky & Activities](/posts/shibuya-complete-guide-2025/)**
 
 **"Shibuya nights don't end here."**
 Walk from Miyashita Park to the 'Blue Cave' illumination. December's most romantic stroll in Tokyo.
 
-👉 **[10-Minute Walk! How to Get to Shibuya 'Blue Cave' Illumination](https://blog.naver.com/tokyomate/224098592756)**
+👉 **[10-Minute Walk! How to Get to Shibuya 'Blue Cave' Illumination](/posts/shibuya-blue-cave-illumination-2025/)**
 
 </div>

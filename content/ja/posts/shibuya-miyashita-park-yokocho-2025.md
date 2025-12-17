@@ -266,7 +266,7 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 2. **夜には:** 渋谷横丁で**'写真'**撮ってビール一杯だけ飲む。(おつまみを頼むと財布が空っぽに 😭)
 3. **夕食:** 本物のグルメは近くの**'鳥竹'**や**'のんべい横丁'**。
 
-🌟**[昨年の2024ミヤシタパークイルミネーションが気になる?](https://blog.naver.com/tokyomate/223689247336)**
+🌟**[昨年の2024ミヤシタパークイルミネーションが気になる?](/ja/posts/miyashita-park-illumination-2024/)**
 
 ---
 
@@ -275,11 +275,11 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 **"ミヤシタパークの次のコースが悩み?"**
 渋谷スカイ展望台から近くのショッピング、グルメまで完璧な動線です。特にスカイ予約裏技は必須です!
 
-👉 **[ミヤシタパーク近く! 渋谷スカイ & 遊び場コース総整理](https://blog.naver.com/tokyomate/224031114514)**
+👉 **[ミヤシタパーク近く! 渋谷スカイ & 遊び場コース総整理](/ja/posts/shibuya-complete-guide-2025/)**
 
 **"渋谷の夜はここで終わりじゃありません。"**
 ミヤシタパークから徒歩で移動可能な'青の洞窟'イルミネーションまで見て行ってください。12月東京で最もロマンチックな散歩道です。
 
-👉 **[歩いて10分! 渋谷'青の洞窟'イルミネーションへの行き方](https://blog.naver.com/tokyomate/224098592756)**
+👉 **[歩いて10分! 渋谷'青の洞窟'イルミネーションへの行き方](/ja/posts/shibuya-blue-cave-illumination-2025/)**
 
 </div>
