@@ -279,6 +279,36 @@ User: "완료했습니다" or "Done"
         - Translate link text: "출처" → "Source" (EN), "出典" (JA), "来源" (ZH-CN)
       * Do NOT add captions if original doesn't have them
       * Do NOT skip captions that exist in original
+- ⚠️ **CRITICAL: TABLE FORMATTING**
+  * **Use HTML tables, NOT markdown tables:**
+    - Extract table structure from original Naver HTML
+    - Preserve header row styling (background-color: #f7f7f7)
+    - Center-align all table cells
+    - Use clean, simplified HTML (remove unnecessary Naver classes)
+  * **Table format:**
+    ```html
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+      <thead>
+        <tr style="background-color: #f7f7f7;">
+          <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">Header 1</th>
+          <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">Header 2</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Data 1</td>
+          <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Data 2</td>
+        </tr>
+      </tbody>
+    </table>
+    ```
+  * **Styling rules:**
+    - Header background: `#f7f7f7`
+    - Cell padding: `12px`
+    - Text alignment: `center`
+    - Border: `1px solid #ddd`
+    - Table width: `100%`
+    - Margin: `20px 0`
 - ⚠️ **CRITICAL: CULTURAL ADAPTATION & WRITING STYLE**
   * **English (EN)**: Write from traveler's perspective for English-speaking tourists
     - Use engaging, traveler-friendly expressions
