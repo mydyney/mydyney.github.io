@@ -1,37 +1,35 @@
 {{/* Language switcher - Link to translated pages when available */}}
 {{ if hugo.IsMultilingual }}
-<div class="language-switcher {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "
-  rtl") "pr0 ml3" "pl0 mr3" }}">
+<div class="language-switcher {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pr0 ml3" "pl0 mr3" }}">
   <ul class="list flex flex-wrap ma0 pa0">
     {{ range $.Site.Languages }}
     {{ $lang := .Lang }}
     {{ $langName := .LanguageName }}
     {{ $isCurrentLang := compare.Eq $.Language.Lang $lang }}
-    <li class="f6 f5-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection " rtl") "pl3" "pr3"
-      }}">
+    <li class="f6 f5-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "pl3" "pr3" }}">
       {{ if $isCurrentLang }}
-      {{/* Current language - highlighted */}}
-      <span class="white fw6 no-underline">{{ $langName }}</span>
+        {{/* Current language - highlighted */}}
+        <span class="white fw6 no-underline">{{ $langName }}</span>
       {{ else }}
-      {{/* Other languages - link to translated version if available */}}
-      {{ $translationURL := "" }}
-      {{ range $.Translations }}
-      {{ if eq .Lang $lang }}
-      {{ $translationURL = .RelPermalink }}
-      {{ end }}
-      {{ end }}
-      {{ if $translationURL }}
-      {{/* Translation exists - link to it */}}
-      <a class="hover-white white-70 no-underline" href="{{ $translationURL }}" title="{{ $langName }}">
-        {{ $langName }}
-      </a>
-      {{ else }}
-      {{/* No translation - link to language homepage */}}
-      {{ $langURL := cond (eq $lang "en") "/" (printf "/%s/" $lang) }}
-      <a class="hover-white white-70 no-underline" href="{{ $langURL }}" title="{{ $langName }}">
-        {{ $langName }}
-      </a>
-      {{ end }}
+        {{/* Other languages - link to translated version if available */}}
+        {{ $translationURL := "" }}
+        {{ range $.Translations }}
+          {{ if eq .Lang $lang }}
+            {{ $translationURL = .RelPermalink }}
+          {{ end }}
+        {{ end }}
+        {{ if $translationURL }}
+          {{/* Translation exists - link to it */}}
+          <a class="hover-white white-70 no-underline" href="{{ $translationURL }}" title="{{ $langName }}">
+            {{ $langName }}
+          </a>
+        {{ else }}
+          {{/* No translation - link to language homepage */}}
+          {{ $langURL := cond (eq $lang "en") "/" (printf "/%s/" $lang) }}
+          <a class="hover-white white-70 no-underline" href="{{ $langURL }}" title="{{ $langName }}">
+            {{ $langName }}
+          </a>
+        {{ end }}
       {{ end }}
     </li>
     {{ end }}

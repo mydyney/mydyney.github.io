@@ -254,10 +254,31 @@ User: "완료했습니다" or "Done"
     - Check for grouped images: Identify if images appear side-by-side in original
     - Preserve grouping: Use appropriate `image-group-X` class (see "Grouped Images" section below)
     - Group image positions are MANDATORY - do NOT place grouped images separately
-  * **Preserve figcaptions:**
-    - If original has image captions, translate and include them
-    - Use same caption format as original
-    - Do NOT add captions if original doesn't have them
+  * **Preserve figcaptions - MANDATORY:**
+    - **Extract ALL image captions from original HTML:**
+      * Look for `<div class="se-module se-module-text se-caption">` in Naver HTML
+      * Caption text is inside `<span class="se-fs- se-ff-">` tags
+      * EVERY image with a caption MUST have figcaption in Hugo markdown
+    - **Use proper figcaption format with styling:**
+      ```html
+      <figure>
+        <img src="/images/posts/example.jpg" alt="Description">
+        <figcaption style="font-size: 0.85em; text-align: center;">Caption text here</figcaption>
+      </figure>
+      ```
+      * **Styling rules:**
+        - Font size: `0.85em` (smaller than body text)
+        - Text alignment: `center`
+        - These styles are MANDATORY for all figcaptions
+    - **Translation rules:**
+      * Translate caption to target language (EN/JA/ZH-CN)
+      * Keep same tone and style as original
+      * **Preserve source links if present in original:**
+        - If original caption has a link (e.g., "출처" link), include it in figcaption
+        - Format: `Caption text (<a href="URL" target="_blank">Source</a>)`
+        - Translate link text: "출처" → "Source" (EN), "出典" (JA), "来源" (ZH-CN)
+      * Do NOT add captions if original doesn't have them
+      * Do NOT skip captions that exist in original
 - ⚠️ **CRITICAL: CULTURAL ADAPTATION & WRITING STYLE**
   * **English (EN)**: Write from traveler's perspective for English-speaking tourists
     - Use engaging, traveler-friendly expressions
