@@ -289,6 +289,20 @@ User: "완료했습니다" or "Done"
         - Translate link text: "출처" → "Source" (EN), "出典" (JA), "来源" (ZH-CN)
       * Do NOT add captions if original doesn't have them
       * Do NOT skip captions that exist in original
+- ⚠️ **CRITICAL: HTML STRUCTURE ANALYSIS**
+  * **Completely analyze original HTML to identify and preserve exact positions:**
+    - **Tables:** Count all tables and note their exact positions in content flow
+    - **Links:** Identify all internal/external links and their positions
+    - **Image Groups:** Detect grouped images (side-by-side) and their positions
+  * **Position Mapping:**
+    - Map each element's position relative to surrounding text/headings
+    - Preserve the exact order: text → table → text → image group → text
+    - NEVER reorder or relocate these elements from original positions
+  * **Verification:**
+    - Cross-reference original HTML structure with created Hugo markdown
+    - Ensure tables appear at same position as original
+    - Ensure image groups maintain original grouping and position
+    - Ensure links appear in same context as original
 - ⚠️ **CRITICAL: TABLE FORMATTING**
   * **Use HTML tables, NOT markdown tables:**
     - Extract table structure from original Naver HTML
