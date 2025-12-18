@@ -6,7 +6,7 @@ categories: ["新宿", "東京公園"]
 tags: ["新宿", "中央公園", "スターバックス", "SHUKNOVA", "都庁", "イルミネーション", "遊び場", "公園"]
 translationKey: "shinjuku-chuo-park"
 description: "新宿中央公園完全ガイド：スターバックスSHUKNOVA、遊び場、じゃぶじゃぶ池、冬のイルミネーションTWINKLE PARK、都庁展望台ウォーキングコース。"
-summary: "都庁ビルのすぐ裏にある新宿中央公園の完全ガイド。スターバックスSHUKNOVAブランチ、子供の遊び場、冬のイルミネーション、無料展望台まで、一つのウォーキングコースで楽しめます。"
+summary: "都庁ビルのすぐ裏にある新宿中央公園の完全ガイド。スターバックスSHUKNOVAブランチ、子供の遊び場、冬의 イルミネーション、無料展望台まで、一つのウォーキングコースで楽しめます。"
 featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 ---
 
@@ -26,7 +26,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 ---
 
-## 新宿中央公園：都庁裏の真の「都会のオアシス」
+## 新宿中央公園：都庁裏の真の「都会のオアシ스」
 
 高層ビルの森の中で一息つきたいとき、都庁ビルのすぐ裏にある新宿中央公園は、旅行者にとって完璧な休憩スポットです。
 
@@ -104,7 +104,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 公園のランドマークは間違いなく「SHUKNOVA（しゅくのば）」です。
 
-この建物の1階には武蔵野の森ダイナーとスターバックスが入っており、完璧なブランチスポットです。
+この建物の1階에는 武蔵野の森ダイナーとスターバックスが入っており、完璧なブランチスポットです。
 
 **1️⃣ スターバックス新宿中央公園SHUKNOVA店**
 
@@ -112,7 +112,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 1階の室内席＋屋外テラス席、2階テラスから芝生広場と公園の景色を楽しめます
 
-都庁・西新宿ビル群が調和した景色で写真映えし、コンセント・Wi-Fi対応、軽くノートパソコン作業や読書に最適
+都庁・西新宿ビル群이 調和した景色で写真映えし、コンセント・Wi-Fi対応、軽くノートパソコン作業や読書に最適
 
 **2️⃣ 武蔵野の森ダイナー - ブランチに最適**
 
@@ -133,7 +133,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 **（新宿遊び場情報）**
 
-子供と東京旅行中なら、ここは選択ではなく必須です。都心のど真ん中にこんなに大きな遊び場があるなんて信じられないほどです。
+子供と東京旅行中なら、ここは選択ではなく必須です。都心のど真ん中にこんなに大きな遊び場があるなんて信じられないほどです.
 
 **夏：**じゃぶじゃぶ池で無料水遊びが可能
 
@@ -147,35 +147,25 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 **👉 [新宿子供と一緒！5大キッズパーク行き方](/ja/posts/shinjuku-kids-parks-guide/)**
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-06.jpg" alt="新宿中央公園遊び場">
-</figure>
+<div class="image-group-4">
+  <figure><img src="/images/posts/shinjuku-chuo-park-06.jpg" alt="遊び場 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="遊び場 2"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="遊び場 3"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="遊び場 4"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園のちびっこ広場（遊び場）</figcaption>
+</div>
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="新宿中央公園遊び場ベンチ">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="新宿中央公園じゃぶじゃぶ池">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="新宿中央公園芝生広場">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="新宿中央公園四季の景色">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="新宿中央公園施設">
-</figure>
+<div class="image-group-2">
+  <figure><img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="遊び場ベンチ 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="遊び場ベンチ 2"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園 遊び場のベンチ</figcaption>
+</div>
 
 ---
 
 ## 冬のハイライト：イルミネーションTWINKLE PARK
 
-冬に新宿中央公園を訪れる最大の理由の一つが、イルミネーションイベント「TWINKLE PARK（トゥインクルパーク）」です。
+冬に新宿中央公園を訪れる最大の理由の一つが、イルミネーションイベント「TWINKLE PARK（トゥインクルパーク）」です.
 
 点灯期間：2025.11.29（土）～2026.2.12（木）
 
@@ -185,13 +175,11 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 **👉 [2025年東京クリスマスイルミネーションBEST 5](/ja/posts/tokyo-christmas-illumination-best-5-2025/)**
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="TWINKLE PARKイルミネーション">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="TWINKLE PARK夜景">
-</figure>
+<div class="image-group-2">
+  <figure><img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="TWINKLE PARK 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="TWINKLE PARK 2"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園 イルミネーション TWINKLE PARK</figcaption>
+</div>
 
 ---
 
@@ -201,7 +189,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 **🗺️ おすすめ徒歩コース（所要時間3時間）**
 
-**1️⃣ 新宿駅西口到着**
+**1️⃣ 新숙駅西口到着**
 
 高層ビル街に沿って都庁方面へ徒歩移動（約10分）。
 
@@ -215,7 +203,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 芝生広場、市民の森、水の広場、キッズプラザなどをゆっくり見て回る。
 
-**4️⃣ SHUKNOVAでスターバックスor武蔵野の森ダイナーブランチ/カフェタイム**
+**4️⃣ SHUKNOVAでスターバックスor武蔵野의 森ダイナーブランチ/カフェタイム**
 
 **5️⃣ （冬シーズン）日暮れ頃Twinkle Parkイルミネーション鑑賞**
 
@@ -224,7 +212,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 **👉 [新宿ゴールデン街vs思い出横丁完全比較](/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
 
 <figure>
-  <img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="都庁展望台から見た富士山夜景">
+  <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="都庁展望台から見た富士山夜景">
   <figcaption style="font-size: 0.85em; text-align: center;">都庁展望台から見た富士山夜景</figcaption>
 </figure>
 
@@ -234,7 +222,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 **1️⃣ 朝ランニングor朝散歩＋スターバックスルーティン**
 
-東京出張・長期滞在中なら、出勤前のランニング後にSHUKNOVAスターバックスでモーニングコーヒールーティンとして使うのに最適です。
+東京出張・長期滞在中なら、出勤前のランニング後にSHUKNOVAスターバックスでモーニングコー히ルーティンとして使うのに最適です.
 
 **2️⃣ 新宿で子供と行く場所を探している家族旅行者**
 
@@ -248,12 +236,12 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 大型庭園・桜などは新宿御苑が圧倒的ですが、
 
-「簡単な散歩＋カフェ＋子供遊び場＋イルミネーション」の組み合わせだけを見れば、新宿中央公園も十分魅力的な代替案です。
+「簡単な散歩＋カフェ＋子供遊び場＋イルミネーション」の組み合わせだけを見れば、新宿中央公園も十分魅力的な代替案です.
 
 **👉 [新宿御苑完全ガイド2025](/ja/posts/shinjuku-gyoen-guide-2025/)**
 
 <figure>
-  <img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="新宿中央公園夜景">
+  <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="新宿中央公園夜景">
   <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園夜景</figcaption>
 </figure>
 
@@ -267,7 +255,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 **夕方は**イルミネーションと夜景まで -
 
-一日のリズムをすべて収められる西新宿の核心的な憩いの場です。東京の華やかさも良いですが、時にはこんな緑の休止符が旅をより記憶に残るものにします。
+一日のリズムをすべて収められる西新宿の核心的な憩いの場です. 東京の華やかさも良いですが、時にはこんな緑の休止符が旅をより記憶に残るものにします.
 
 次の東京旅行で新宿を通るなら、
 

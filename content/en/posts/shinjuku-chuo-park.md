@@ -95,7 +95,7 @@ Shinjuku Chuo Park is easily accessible from both subway and JR stations, making
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-04.jpg" alt="Shinjuku Station West Exit Walkway">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Station West Exit Walkway to Tokyo Metropolitan Government and Shinjuku Chuo Park</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Walkway connecting Shinjuku Station West Exit to Tokyo Metropolitan Government and Shinjuku Chuo Park</figcaption>
 </figure>
 
 ---
@@ -147,29 +147,19 @@ If you're traveling to Tokyo with children, this is a must, not an option. It's 
 
 **👉 [Shinjuku Kids Parks Guide - Top 5 Theme Parks](/posts/shinjuku-kids-parks-guide/)**
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-06.jpg" alt="Shinjuku Chuo Park Playground">
-</figure>
+<div class="image-group-4">
+  <figure><img src="/images/posts/shinjuku-chuo-park-06.jpg" alt="Playground 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="Playground 2"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="Playground 3"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="Playground 4"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Playground</figcaption>
+</div>
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="Shinjuku Chuo Park Playground Benches">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="Shinjuku Chuo Park Water Play Area">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="Shinjuku Chuo Park Lawn Plaza">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="Shinjuku Chuo Park Seasonal Views">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="Shinjuku Chuo Park Facilities">
-</figure>
+<div class="image-group-2">
+  <figure><img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="Playground Bench 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="Playground Bench 2"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Playground Benches</figcaption>
+</div>
 
 ---
 
@@ -185,13 +175,11 @@ Lighting Hours: Daily 16:30 ~ 22:00
 
 **👉 [Tokyo Christmas Illumination Best 5 2025](/posts/tokyo-christmas-illumination-best-5-2025/)**
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="TWINKLE PARK Illumination">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="TWINKLE PARK Night View">
-</figure>
+<div class="image-group-2">
+  <figure><img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="TWINKLE PARK 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="TWINKLE PARK 2"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Illumination TWINKLE PARK</figcaption>
+</div>
 
 ---
 
@@ -224,7 +212,7 @@ Leisurely explore the lawn plaza, Citizens' Forest, Water Plaza, Kids Plaza, etc
 **👉 [Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison](/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
 
 <figure>
-  <img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="Mt. Fuji Night View from Tokyo Metropolitan Government Observatory">
+  <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="Mt. Fuji Night View from Tokyo Metropolitan Government Observatory">
   <figcaption style="font-size: 0.85em; text-align: center;">Mt. Fuji Night View from Tokyo Metropolitan Government Observatory</figcaption>
 </figure>
 
@@ -253,7 +241,7 @@ For just "simple stroll + cafe + kids playground + illumination" combination, Sh
 **👉 [Shinjuku Gyoen Complete Guide 2025](/posts/shinjuku-gyoen-guide-2025/)**
 
 <figure>
-  <img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="Shinjuku Chuo Park Night View">
+  <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="Shinjuku Chuo Park Night View">
   <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Night View</figcaption>
 </figure>
 

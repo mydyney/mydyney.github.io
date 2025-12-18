@@ -269,6 +269,9 @@ User: "완료했습니다" or "Done"
       * Look for `<div class="se-module se-module-text se-caption">` in Naver HTML
       * Caption text is inside `<span class="se-fs- se-ff-">` tags
       * EVERY image with a caption MUST have figcaption in Hugo markdown
+    - **REQUIRED: Use HTML for ALL images, not Markdown:**
+      * Every single image must be wrapped in a `<figure>` tag.
+      * Image groups MUST use specific `image-group-X` containers.
     - **Use proper figcaption format with styling:**
       ```html
       <figure>
@@ -1373,7 +1376,7 @@ Final line wrapping up intro.</p>
 
 **Grouped Images (2, 3, or 4 images side-by-side):**
 
-When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use CSS Grid layout:
+When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use HTML containers with CSS Grid layout. **Do NOT use Markdown for these.**
 
 ```html
 <!-- 2 images side-by-side -->
@@ -1384,7 +1387,7 @@ When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use CSS Gri
   <figure>
     <img src="/images/posts/post-slug-11.jpg" alt="Second image">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">Caption for both images</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Caption for both images</figcaption>
 </div>
 
 <!-- 3 images side-by-side -->
@@ -1398,7 +1401,7 @@ When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use CSS Gri
   <figure>
     <img src="/images/posts/post-slug-14.jpg" alt="Third image">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">Caption for all three images</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Caption for all three images</figcaption>
 </div>
 
 <!-- 4 images in 2x2 tile layout -->
@@ -1415,20 +1418,19 @@ When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use CSS Gri
   <figure>
     <img src="/images/posts/post-slug-18.jpg" alt="...">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">Caption for all four images</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Caption for all four images</figcaption>
 </div>
 ```
 
 **Important Notes:**
-- ✅ All figcaptions MUST use inline style: `style="font-size: 0.7em; text-align: center;"`
-- ✅ DO NOT use `<b>` or `<strong>` tags in figcaptions - keep text plain without bold formatting
-- ✅ For image groups, figcaption goes OUTSIDE individual `<figure>` tags
-- ✅ Each image in a group gets its own `<figure>` tag with unique number
-- ✅ CSS Grid layout:
-  - **2 images**: Side-by-side (max-width: 45%)
-  - **3 images**: Three in a row (max-width: 45%)
-  - **4 images**: 2x2 tile layout - top row: 2 images, bottom row: 2 images (max-width: 50%)
-- ✅ Mobile (< 768px): All image groups automatically switch to single column layout
+- ✅ Every image, whether single or in a group, MUST be in its own `<figure>` tag.
+- ✅ All figcaptions MUST use inline style: `style="font-size: 0.85em; text-align: center;"`
+- ✅ For image groups, the figcaption goes OUTSIDE the individual `<figure>` tags but inside the `image-group-X` div.
+- ✅ CSS Grid layout (predefined in CSS):
+  - **2 images**: Side-by-side
+  - **3 images**: Three in a row
+  - **4 images**: 2x2 tile layout
+- ✅ Mobile: All groups automatically switch to an appropriate responsive layout.
 
 **Google Maps Embed (Location Information):**
 

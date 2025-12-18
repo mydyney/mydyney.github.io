@@ -147,29 +147,19 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 **👉 [新宿亲子游！5大主题乐园攻略](/zh-cn/posts/shinjuku-kids-parks-guide/)**
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-06.jpg" alt="新宿中央公园游乐场">
-</figure>
+<div class="image-group-4">
+  <figure><img src="/images/posts/shinjuku-chuo-park-06.jpg" alt="游乐场 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="游乐场 2"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="游乐场 3"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="游乐场 4"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园游乐场</figcaption>
+</div>
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="新宿中央公园游乐场长椅">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="新宿中央公园戏水池">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="新宿中央公园草坪广场">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="新宿中央公园四季景色">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="新宿中央公园设施">
-</figure>
+<div class="image-group-2">
+  <figure><img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="游乐场长椅 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="游乐场长椅 2"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园游乐场长椅</figcaption>
+</div>
 
 ---
 
@@ -185,13 +175,11 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 **👉 [2025年东京圣诞灯光秀BEST 5](/zh-cn/posts/tokyo-christmas-illumination-best-5-2025/)**
 
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="TWINKLE PARK灯光秀">
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="TWINKLE PARK夜景">
-</figure>
+<div class="image-group-2">
+  <figure><img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="TWINKLE PARK 1"></figure>
+  <figure><img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="TWINKLE PARK 2"></figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园灯光秀 TWINKLE PARK</figcaption>
+</div>
 
 ---
 
@@ -224,7 +212,7 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 **👉 [新宿黄金街vs思い出横丁完全对比](/zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
 
 <figure>
-  <img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="从都厅展望台看富士山夜景">
+  <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="从都厅展望台看富士山夜景">
   <figcaption style="font-size: 0.85em; text-align: center;">从都厅展望台看富士山夜景</figcaption>
 </figure>
 
@@ -253,7 +241,7 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 **👉 [新宿御苑完全攻略2025](/zh-cn/posts/shinjuku-gyoen-guide-2025/)**
 
 <figure>
-  <img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="新宿中央公园夜景">
+  <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="新宿中央公园夜景">
   <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园夜景</figcaption>
 </figure>
 
