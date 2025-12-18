@@ -1432,6 +1432,12 @@ When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use HTML co
   - **4 images**: 2x2 tile layout
 - ✅ Mobile: All groups automatically switch to an appropriate responsive layout.
 
+**Aesthetic Standards for Image Groups (Perfect Fit):**
+- **Grid Alignment:** All images in an `image-group-X` must align perfectly along their edges.
+- **Aspect Ratio:** All figures within a group share a uniform aspect ratio (enforced via CSS) to ensure even row heights (Square `1/1` for 2/4/9 groups, `4/3` for 3-groups).
+- **Filling the Cell:** Always use `object-fit: cover` and `height: 100%` on images within groups to ensure they completely fill the grid cell without leaving white space or gaps.
+- **Handling Mixed Dimensions:** When landscape and portrait images are mixed in a group, they MUST be cropped to the shared aspect ratio of the grid row to maintain alignment. This is handled by the `image-group-X` CSS.
+
 **Google Maps Embed (Location Information):**
 
 When a blog post includes a location (restaurant, attraction, etc.), add an interactive Google Maps embed with language-specific settings:

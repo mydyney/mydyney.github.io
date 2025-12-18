@@ -138,7 +138,7 @@ div.image-group-9,
   max-width: 100% !important;
   max-width: none !important;
   min-width: 100% !important;
-  gap: 1rem !important;
+  gap: 8px !important;
   margin: 2rem 0 !important;
   padding: 0 !important;
   align-items: start !important;
@@ -196,13 +196,19 @@ div.image-group-9,
 .image-group-3 figure,
 .image-group-4 figure,
 .image-group-9 figure {
-  margin: 0 !important;
-  padding: 0 !important;
   width: 100% !important;
   max-width: 100% !important;
   min-width: 0 !important;
   display: block !important;
   float: none !important;
+  aspect-ratio: 1 / 1 !important; /* Force square aspect ratio for grid alignment */
+  overflow: hidden !important;
+}
+
+/* 3개 나란히 배치된 경우에는 가로가 좁으므로 가로형 비율(4:3)로 조정하여 세로가 너무 길어지지 않게 함 */
+.blog-container .image-group-3 figure,
+.image-group-3 figure {
+  aspect-ratio: 4 / 3 !important;
 }
 
 /* 이미지 - 셀 전체 폭 */
@@ -217,13 +223,13 @@ div.image-group-9,
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
+  height: 100% !important; /* Fill the aspect-ratio container */
   max-width: 100% !important;
   min-width: 100% !important;
-  height: auto !important;
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   display: block !important;
-  object-fit: cover;
+  object-fit: cover !important; /* Match Naver's "Perfect Fit" look */
 }
 
 /* 그룹 전체에 대한 figcaption */
