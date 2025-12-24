@@ -142,16 +142,15 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <p><strong>➡️ <a href="/ja/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;">渋谷いくしか：炊きたて土鍋ご飯がおかわり自由！絶品定食</a></strong></p>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="カオスキッチンの雰囲気">
-    <figcaption style="font-size: 0.7em; text-align: center;">カオスキッチン (B1F)</figcaption>
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="いくしか 入口">
-    <figcaption style="font-size: 0.7em; text-align: center;">いくしか 入口</figcaption>
-  </figure>
-</div>
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="カオスキッチンの雰囲気">
+  <figcaption style="font-size: 0.7em; text-align: center;">カオスキッチン (B1F)</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="いくしか 入口">
+  <figcaption style="font-size: 0.7em; text-align: center;">いくしか 入口</figcaption>
+</figure>
 
 <hr class="se-hr">
 

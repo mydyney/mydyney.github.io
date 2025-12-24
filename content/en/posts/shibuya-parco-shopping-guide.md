@@ -142,16 +142,15 @@ The line is insane (often 1-2 hours). If you plan to go, check the <b>Waiting St
 
 <p><strong>➡️ <a href="/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;">Shibuya Ikushika: All-You-Can-Eat Rice & Japanese Home Cooking</a></strong></p>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen Atmosphere">
-    <figcaption style="font-size: 0.7em; text-align: center;">Chaos Kitchen (B1F)</figcaption>
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Ikushika Entrance">
-    <figcaption style="font-size: 0.7em; text-align: center;">Ikushika Entrance</figcaption>
-  </figure>
-</div>
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen Atmosphere">
+  <figcaption style="font-size: 0.7em; text-align: center;">Chaos Kitchen (B1F)</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Ikushika Entrance">
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikushika Entrance</figcaption>
+</figure>
 
 <hr class="se-hr">
 

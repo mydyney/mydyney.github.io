@@ -145,16 +145,15 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <p><strong>➡️ <a href="/zh-cn/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;">涩谷 Ikushika：现煮锅烧饭无限续！超好吃的日式家庭料理</a></strong></p>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen 氛围">
-    <figcaption style="font-size: 0.7em; text-align: center;">Chaos Kitchen (B1F)</figcaption>
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Ikushika 入口">
-    <figcaption style="font-size: 0.7em; text-align: center;">Ikushika 入口</figcaption>
-  </figure>
-</div>
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen 氛围">
+  <figcaption style="font-size: 0.7em; text-align: center;">Chaos Kitchen (B1F)</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Ikushika 入口">
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikushika 入口</figcaption>
+</figure>
 
 <hr class="se-hr">
 
