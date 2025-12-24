@@ -54,7 +54,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">1階の必見スポット：Human Made</figcaption>
 </figure>
 
-<p><strong>➡️ Human Made リニューアル情報：Part 1 & Part 2 場所、待ち時間、整理券情報 (近日公開予定)</strong></p>
+<p><strong>➡️ <a href="/ja/posts/shibuya-human-made-offline-store-guide/" style="color: #667eea;">Human Made リニューアル情報：Part 1 & Part 2 場所、待ち時間、整理券情報</a></strong></p>
 
 <hr class="se-hr">
 
@@ -141,7 +141,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <li><b>刀剣乱舞万屋本舗</b></li>
 </ul>
 
-<p><strong>➡️ 6階完全攻略！任天堂・ポケモン・ジャンプショップ グッズ、整理券、免税のコツ総まとめ (近日公開予定)</strong></p>
+<p><strong>➡️ <a href="/ja/posts/shibuya-parco-nintendo-pokemon-guide/" style="color: #667eea;">6階完全攻略！任天堂・ポケモン・ジャンプショップ グッズ、整理券、免税のコツ総まとめ</a></strong></p>
 
 <hr class="se-hr">
 
@@ -239,7 +239,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 </ul>
 
 <p><b>💡 ショッピング前のヒント！</b> パルコでの買い物を快適にするために、近くのコインロッカー情報をチェックしておきましょう。</p>
-<p><strong>➡️ 渋谷駅コインロッカー＆空き状況確認ガイド (近日公開予定)</strong></p>
+<p><strong>➡️ <a href="/ja/posts/shibuya-station-coin-locker-luggage-storage-guide/" style="color: #667eea;">渋谷駅コインロッカー＆空き状況確認ガイド</a></strong></p>
 
 <hr class="se-hr">
 

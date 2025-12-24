@@ -105,7 +105,7 @@ When migrating a Naver blog post to Hugo:
 | 224101626196 | shinjuku-chuo-park | 2025-12-18 | ✅ |
 | 224106627092 | shibuya-parco-shopping-guide | 2025-12-12 | ✅ |
 | 224105736326 | shibuya-human-made-offline-store-guide | 2025-12-11 | ✅ |
-| 224107954391 | shibuya-station-coin-locker-luggage-storage-guide | 2025-12-13 | ✅ |
+| 224107954391 | shibuya-parco-nintendo-pokemon-guide | 2025-12-13 | ✅ |
 
 
 ---

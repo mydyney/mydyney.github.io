@@ -54,7 +54,7 @@ Here is your complete floor-by-floor guide to conquering Shibuya Parco.
   <figcaption style="font-size: 0.7em; text-align: center;">Must-visit on 1F: Human Made</figcaption>
 </figure>
 
-<p><strong>➡️ Human Made Renewal Info: Part 1 & Part 2 Location, Waiting Guide, Ticket Info (Coming Soon)</strong></p>
+<p><strong>➡️ <a href="/posts/shibuya-human-made-offline-store-guide/" style="color: #667eea;">Human Made Renewal Info: Part 1 & Part 2 Location, Waiting Guide, Ticket Info</a></strong></p>
 
 <hr class="se-hr">
 
@@ -141,7 +141,7 @@ The 6th floor is named <b>"CYBERSPACE SHIBUYA"</b> and is dedicated to Japanese 
   <li><b>Touken Ranbu Yorozuya Honpo</b></li>
 </ul>
 
-<p><strong>➡️ 6F Complete Guide! Nintendo, Pokemon, Jump Shop Goods, Tickets & Tax-Free Tips (Coming Soon)</strong></p>
+<p><strong>➡️ <a href="/posts/shibuya-parco-nintendo-pokemon-guide/" style="color: #667eea;">Shibuya Parco 6F Complete Guide: Nintendo, Pokemon & Jump Shop Goods, Tickets & Tax-Free Tips</a></strong></p>
 
 <hr class="se-hr">
 
@@ -239,7 +239,7 @@ The line is insane (1-2 hours wait is common). If you plan to go, check out this
 </ul>
 
 <p><b>💡 Tip before shopping!</b> Parco covers a lot of ground. Check the closest coin lockers/luggage storage beforehand.</p>
-<p><strong>➡️ Shibuya Station Luggage Storage & Finding Vacancies (Pending Migration)</strong></p>
+<p><strong>➡️ <a href="/posts/shibuya-station-coin-locker-luggage-storage-guide/" style="color: #667eea;">Shibuya Station Luggage Storage & Finding Vacancies</a></strong></p>
 
 <hr class="se-hr">
 

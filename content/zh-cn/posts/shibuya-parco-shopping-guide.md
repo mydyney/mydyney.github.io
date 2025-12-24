@@ -54,7 +54,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">1楼必打卡：Human Made</figcaption>
 </figure>
 
-<p><strong>➡️ Human Made 新店情报：Part 1 & Part 2 位置、排队攻略、整理券 (即将更新)</strong></p>
+<p><strong>➡️ <a href="/zh-cn/posts/shibuya-human-made-offline-store-guide/" style="color: #667eea;">Human Made 新店情报：Part 1 & Part 2 位置、排队攻略、整理券</a></strong></p>
 
 <hr class="se-hr">
 
@@ -141,7 +141,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <li><b>刀剑乱舞万屋本铺</b></li>
 </ul>
 
-<p><strong>➡️ 6楼通关攻略！任天堂/宝可梦/Jump Shop 限定周边、整理券、免税指南 (即将更新)</strong></p>
+<p><strong>➡️ <a href="/zh-cn/posts/shibuya-parco-nintendo-pokemon-guide/" style="color: #667eea;">6楼通关攻略！任天堂/宝可梦/Jump Shop 限定周边、整理券、免税指南</a></strong></p>
 
 <hr class="se-hr">
 
@@ -239,7 +239,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 </ul>
 
 <p><b>💡 逛街前的小贴士！</b> PARCO 很大，不想拎着大包小包逛的话，提前找好附近的存包柜。</p>
-<p><strong>➡️ 涩谷站投币储物柜 & 空位查询指南 (即将更新)</strong></p>
+<p><strong>➡️ <a href="/zh-cn/posts/shibuya-station-coin-locker-luggage-storage-guide/" style="color: #667eea;">涩谷站投币储物柜 & 空位查询指南</a></strong></p>
 
 <hr class="se-hr">
 
