@@ -2155,6 +2155,15 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 - **⚠️ CRITICAL: Image groups contain multiple images**
   - Naver Blog uses `<div class="se-imageGroup-item">` for grouped images
   - Each image in a group MUST get its own `<figure>` tag and unique number
+### Formatting & Visuals
+*   **HTML over Markdown:** For bullet points and bold text within blog posts, use HTML tags instead of Markdown syntax to ensure consistent styling.
+    *   **Lists:** Use `<ul>` and `<li>` tags.
+    *   **Bold:** Use `<b>` tags.
+*   **Images:**
+    *   Use `<figure>` and `<figcaption>` for individual images.
+    *   Use `<div class="image-group-2">` (or 3/4) for grouping multiple images side-by-side.
+    *   Images should be center-aligned.
+    *   Include descriptive `alt` text.
   - Example: `<div class="se-imageGroup-col-2">` = 2 images = create 2 separate `<figure>` tags
   - DO NOT merge multiple images from a group into one figure
   - Count carefully: if you see 10 `<img>` tags, you need 10 figure tags (even if grouped)

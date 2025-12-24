@@ -34,11 +34,17 @@ If you are looking for "Japan's current trends" rather than luxury department st
 
 <hr class="se-hr">
 
-<h2>🛍️ 1F: The Face of Trends (Human Made, Discord)</h2>
+<h2>🛍️ 1F: The Face of Trends</h2>
 
-The first floor is home to luxury and high-street brands.
-The most popular shop here is undoubtedly **HUMAN MADE**. NIGO's brand is incredibly popular among foreigners, and there's often a queue just to enter.
-You can also find **Discord Yohji Yamamoto**, **Gucci**, and **Loewe**.
+The first floor is home to luxury and high-street brands. The lineup is impressive:
+
+<ul>
+  <li><b>HUMAN MADE:</b> Recently renewed! Both PART 1 and PART 2 stores are on 1F. Open-run essential!</li>
+  <li><b>PORTER EXCHANGE:</b> Concept store featuring Yoshida Porter's popular 'TANKER' series.</li>
+  <li><b>TAMBURINS:</b> Jennie's famous perfume brand is here.</li>
+  <li><b>LE LABO & DIOR BEAUTY:</b> Perfect for perfume and cosmetics shopping.</li>
+  <li><b>LOEWE & THOM BROWNE:</b> Luxury lineup that needs no introduction.</li>
+</ul>
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-02.jpg" alt="Shibuya Parco Human Made Store">
@@ -78,9 +84,11 @@ Japan's first official Nintendo store. You can buy diverse goods from <b>Mario, 
 *Note: It gets extremely crowded on weekends, so they might distribute numbered tickets.*
 
 <h3>3. Others</h3>
-- <b>Jump Shop:</b> One Piece, Jujutsu Kaisen, Slam Dunk goods.
-- <b>Capcom Store:</b> Monster Hunter, Resident Evil merch.
-- <b>Touken Ranbu Store</b>
+<ul>
+  <li><b>Jump Shop:</b> One Piece, Jujutsu Kaisen, Slam Dunk goods.</li>
+  <li><b>Capcom Store:</b> Monster Hunter, Resident Evil merch.</li>
+  <li><b>Touken Ranbu Store</b></li>
+</ul>
 
 <hr class="se-hr">
 
@@ -127,14 +135,11 @@ There is a <b>Rooftop Park</b> that is open for free. You can enjoy a nice view 
 
 <h2>📝 Summary & Tax-Free Tips</h2>
 
-**1. Tax-Free:**
-Most shops offer tax-free shopping. At Parco, some shops process it directly at the register, while others might aggregate it. **Look for the Tax-Free sign** at each shop. Bring your **Passport**!
-
-**2. Wi-Free:**
-Free Wi-Fi is available throughout the building.
-
-**3. Location:**
-5-minute walk from Shibuya Station. On the way to Yoyogi Park.
+<ul>
+  <li><b>Tax-Free:</b> Most shops offer tax-free shopping. At Parco, some shops process it directly at the register, while others might aggregate it. <b>Look for the Tax-Free sign</b> at each shop. Bring your <b>Passport</b>!</li>
+  <li><b>Wi-Free:</b> Free Wi-Fi is available throughout the building.</li>
+  <li><b>Location:</b> 5-minute walk from Shibuya Station. On the way to Yoyogi Park.</li>
+</ul>
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="Shibuya Parco Shopping Guide">

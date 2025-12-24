@@ -34,11 +34,17 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <hr class="se-hr">
 
-<h2>🛍️ 1F: トレンドの顔 (Human Made, Discord)</h2>
+<h2>🛍️ 1F: トレンドの最前線</h2>
 
-1階はラグジュアリーとハイストリートブランドのフロアです。
-ここで最も注目を集めているのは間違いなく**HUMAN MADE**です。NIGO氏が手掛けるこのブランドは海外からの観光客にも絶大な人気を誇り、入店待ちの列ができることもしばしば。
-他にも**Discord Yohji Yamamoto**、**Gucci**、**Loewe**などが並びます。
+1階はラグジュアリーとハイストリートブランドのフロアです。注目のラインナップはこちら：
+
+<ul>
+  <li><b>HUMAN MADE (ヒューマンメイド):</b> 最近リニューアルオープン！PART 1、PART 2の両店舗が1階にあります。オープンラン必須！</li>
+  <li><b>PORTER EXCHANGE (ポーター エクスチェンジ):</b> 吉田カバンの人気ライン「タンカー(TANKER)」シリーズなどを取り扱うコンセプトストア。</li>
+  <li><b>TAMBURINS (タンバリンズ):</b> BLACKPINKジェニーの愛用香水として有名な韓国発ブランド話題の店舗。</li>
+  <li><b>LE LABO (ルラボ) & DIOR BEAUTY:</b> 香水やコスメのショッピングに最適。</li>
+  <li><b>LOEWE (ロエベ) & THOM BROWNE (トムブラウン):</b> 言わずと知れた名品ブランドも充実。</li>
+</ul>
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-02.jpg" alt="渋谷パルコ Human Made 店舗">
@@ -78,9 +84,11 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 *※週末は大混雑するため、整理券が配布されることがあります。*
 
 <h3>3. その他</h3>
-- <b>ジャンプショップ：</b> ワンピース、呪術廻戦、スラムダンクなどのグッズ。
-- <b>カプコンストア：</b> モンスターハンター、バイオハザードなどのグッズ。
-- <b>刀剣乱舞万屋本舗</b>
+<ul>
+  <li><b>ジャンプショップ：</b> ワンピース、呪術廻戦、スラムダンクなどのグッズ。</li>
+  <li><b>カプコンストア：</b> モンスターハンター、バイオハザードなどのグッズ。</li>
+  <li><b>刀剣乱舞万屋本舗</b></li>
+</ul>
 
 <hr class="se-hr">
 
@@ -127,11 +135,10 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <h2>📝 まとめ</h2>
 
-**1. Wi-Fi:**
-館内では無料Wi-Fiが利用可能です。
-
-**2. ロケーション:**
-渋谷駅から徒歩約5分。代々木公園へ向かう途中にあります。
+<ul>
+  <li><b>Wi-Fi:</b> 館内では無料Wi-Fiが利用可能です。</li>
+  <li><b>ロケーション:</b> 渋谷駅から徒歩約5分。代々木公園へ向かう途中にあります。</li>
+</ul>
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="渋谷パルコ ガイド">

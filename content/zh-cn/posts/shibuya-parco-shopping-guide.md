@@ -35,11 +35,17 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <hr class="se-hr">
 
-<h2>🛍️ 1F: 潮流门面 (Human Made, Discord)</h2>
+<h2>🛍️ 1F: 潮流最前线</h2>
 
-1楼是奢侈品和高街潮牌的聚集地。
-这里的**排队王**绝对是 **HUMAN MADE**。NIGO主理的品牌，在海外游客中人气爆棚，进店经常需要排队。
-还有 **Discord Yohji Yamamoto**、**Gucci**、**Loewe** 等大牌云集。
+1楼是奢侈品和高街潮牌的聚集地。来看看都有哪些狠货：
+
+<ul>
+  <li><b>HUMAN MADE:</b> 最近刚翻新！PART 1 和 PART 2 都在1楼。想买一定要开门就冲！</li>
+  <li><b>PORTER EXCHANGE:</b> 不只能买包，还能买到吉田包大热的 TANKER 系列！</li>
+  <li><b>TAMBURINS:</b> Jennie 同款香水这里也有！BLACKPINK 粉丝必打卡。</li>
+  <li><b>LE LABO & DIOR BEAUTY:</b> 买香水和化妆品来这里绝对没错。</li>
+  <li><b>LOEWE & THOM BROWNE:</b> 这些大牌就不用多介绍了吧，懂得都懂。</li>
+</ul>
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-02.jpg" alt="涩谷PARCO Human Made 店铺">
@@ -80,9 +86,11 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 *⚠️ 注意：周末人超级多，可能会发整理券，建议避开高峰或早去！*
 
 <h3>3. 其他好逛的</h3>
-- <b>Jump Shop:</b> 海贼王、咒术回战、灌篮高手周边。
-- <b>Capcom Store:</b> 怪物猎人、生化危机周边。
-- <b>刀剑乱舞万屋本铺</b>
+<ul>
+  <li><b>Jump Shop:</b> 海贼王、咒术回战、灌篮高手周边。</li>
+  <li><b>Capcom Store:</b> 怪物猎人、生化危机周边。</li>
+  <li><b>刀剑乱舞万屋本铺</b></li>
+</ul>
 
 <hr class="se-hr">
 
@@ -131,14 +139,11 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <h2>📝 实用小贴士</h2>
 
-**1. 免税 (Tax-Free):**
-大部分店铺都支持免税。PARCO有的店是直接在收银台办理，有的是去退税柜台，记得**认准Tax-Free标识**并带好**护照**！
-
-**2. Wi-Fi:**
-馆内有免费Wi-Fi，网速还可以。
-
-**3. 位置:**
-从涩谷站走过来大约5分钟，就在去代代木公园的路上。
+<ul>
+  <li><b>免税 (Tax-Free):</b> 大部分店铺都支持免税。PARCO有的店是直接在收银台办理，有的是去退税柜台，记得<b>认准Tax-Free标识</b>并带好<b>护照</b>！</li>
+  <li><b>Wi-Fi:</b> 馆内有免费Wi-Fi，网速还可以。</li>
+  <li><b>位置:</b> 从涩谷站走过来大约5分钟，就在去代代木公园的路上。</li>
+</ul>
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="涩谷PARCO 指南">
