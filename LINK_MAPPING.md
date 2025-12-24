@@ -103,6 +103,7 @@ When migrating a Naver blog post to Hugo:
 | 224104602398 | tokyo-station-sawamura-lunch | 2025-12-18 | ✅ |
 | 224110207709 | tokyo-station-year-end-hours-2026 | 2025-12-18 | ✅ |
 | 224101626196 | shinjuku-chuo-park | 2025-12-18 | ✅ |
+| 224106627092 | shibuya-parco-shopping-guide | 2025-12-12 | ✅ |
 
 
 ---
@@ -408,6 +409,7 @@ declare -A MAPPINGS=(
   ["223986407872"]="tsujihan-midtown-kaisendon-guide"
   ["223987115708"]="kaneko-hannosuke-roppongi-tempura"
   ["224100382618"]="shinjuku-hotels-best-10"
+  ["224106627092"]="shibuya-parco-shopping-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do

@@ -242,25 +242,25 @@ Between Otsuki Station ↔ Fuji-Q Highland Station, there are **Thomas Land trai
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-05.jpg" alt="Thomas Land train operating between Otsuki and Fuji-Q Highland stations">
-  <figcaption style="font-size: 0.7em; text-align: center;">Thomas Land train operating between Otsuki and Fuji-Q Highland stations</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-05.jpg" alt="Thomas Land train operating between Otsuki and Fuji-Q Highland stations">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="Thomas Land train operating between Otsuki and Fuji-Q Highland stations">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Thomas Land train operating between Otsuki and Fuji-Q Highland stations</figcaption>
+</div>
 
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="Thomas Land train operating between Otsuki and Fuji-Q Highland stations">
-  <figcaption style="font-size: 0.7em; text-align: center;">Thomas Land train operating between Otsuki and Fuji-Q Highland stations</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-07.jpg" alt="Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations">
-  <figcaption style="font-size: 0.7em; text-align: center;">Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations">
-  <figcaption style="font-size: 0.7em; text-align: center;">Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-07.jpg" alt="Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
+</div>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-09.jpg" alt="Fujisan Limited Express operating between Otsuki and Fuji-Q Highland stations">

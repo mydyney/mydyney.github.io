@@ -239,25 +239,25 @@ Hello Kitty、大耳狗、美乐蒂…
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-05.jpg" alt="大月站和富士急乐园站运行的托马斯乐园号">
-  <figcaption style="font-size: 0.7em; text-align: center;">大月站和富士急乐园站运行的托马斯乐园号</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-05.jpg" alt="大月站和富士急乐园站运行的托马斯乐园号">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="大月站和富士急乐园站运行的托马斯乐园号">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">大月站和富士急乐园站运行的托马斯乐园号</figcaption>
+</div>
 
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="大月站和富士急乐园站运行的托马斯乐园号">
-  <figcaption style="font-size: 0.7em; text-align: center;">大月站和富士急乐园站运行的托马斯乐园号</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-07.jpg" alt="大月站和富士急乐园站运行的富士山景观特快">
-  <figcaption style="font-size: 0.7em; text-align: center;">大月站和富士急乐园站运行的富士山景观特快</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="大月站和富士急乐园站运行的富士山景观特快">
-  <figcaption style="font-size: 0.7em; text-align: center;">大月站和富士急乐园站运行的富士山景观特快</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-07.jpg" alt="大月站和富士急乐园站运行的富士山景观特快">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="大月站和富士急乐园站运行的富士山景观特快">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">大月站和富士急乐园站运行的富士山景观特快</figcaption>
+</div>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-09.jpg" alt="大月站和富士急乐园站运行的富士山特快">

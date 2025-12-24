@@ -309,19 +309,14 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 <p><strong>➡️ <a href="/ja/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">創業300年を誇る東京・新宿の代表的な団子店「追分だんご本舗」↗</a></strong></p>
 
-<div class="se-component se-imageGroup se-l-collage" id="SE-d8d48a2c-974d-4432-be89-2cd2e055d13c">
-    <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
-        <div class="se-module se-module-image" style="flex: 1;">
-            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
-                <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="Oiwake Dango 1" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
-            </a>
-        </div>
-        <div class="se-module se-module-image" style="flex: 1;">
-            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
-                <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="Oiwake Dango 2" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
-            </a>
-        </div>
-    </div>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="追分だんご 1">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="追分だんご 2">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">追分だんご本舗 - 店舗・団子</figcaption>
 </div>
 
 <hr class="se-hr">
@@ -339,15 +334,15 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 <p><strong>➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">東京都庁 無料展望室ガイド：ライトアップ時間、行き方、休室日、夜景完全攻略</a></strong></p>
 
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="東京都庁">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿無料展望台、東京都庁</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="東京都庁 入口">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿無料展望台 東京都庁入口</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="東京都庁">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="東京都庁 入口">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿無料展望台、東京都庁 外観と入口</figcaption>
+</div>
 
 **💡 12月の新宿は街中が光のフェスティバル！ (2025-2026)**
 ショッピングバッグを持って街を歩けば、華やかなネオンアートに出会えます。西口から都庁へと続く**「新宿ネオンワーク」**イルミネーションが開催中ですので、ショッピング後のディナーへの移動がてら気軽に楽しんでみてください！

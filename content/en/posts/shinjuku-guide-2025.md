@@ -309,19 +309,14 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 
 <p><strong>➡️ <a href="/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">Tokyo's Representative Dango Shop with 300 Years of Tradition ↗</a></strong></p>
 
-<div class="se-component se-imageGroup se-l-collage" id="SE-d8d48a2c-974d-4432-be89-2cd2e055d13c">
-    <div class="se-section se-section-imageGroup se-section-align-" style="display: flex; gap: 10px;">
-        <div class="se-module se-module-image" style="flex: 1;">
-            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
-                <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="Oiwake Dango 1" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
-            </a>
-        </div>
-        <div class="se-module se-module-image" style="flex: 1;">
-            <a href="#" onclick="return false;" class="se-module-image-link __se_image_link __se_link" data-linktype="img">
-                <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="Oiwake Dango 2" class="se-image-resource" style="width: 100%; height: auto; border-radius: 8px;">
-            </a>
-        </div>
-    </div>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-12.jpg" alt="Oiwake Dango 1">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="Oiwake Dango 2">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Oiwake Dango Honpo - Shop & Dango</figcaption>
 </div>
 
 <hr class="se-hr">
@@ -339,15 +334,15 @@ The most recommended time is **'1 hour before sunset'**. Don't miss the golden t
 
 <p><strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">Tokyo Metro Govt Building Free Observatory Light Show Times, Access, Closed Days, Night View Guide</a></strong></p>
 
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="Tokyo Metropolitan Government Building">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Free Observatory, Tokyo Metropolitan Government Building</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="Tokyo Metropolitan Government Building Entrance">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Free Observatory Tokyo Metro Govt Building Entrance</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="Tokyo Metropolitan Government Building">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="Tokyo Metropolitan Government Building Entrance">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Free Observatory, Tokyo Metropolitan Government Building - Exterior & Entrance</figcaption>
+</div>
 
 **💡 December Shinjuku Streets are a Light Festival! (2025-2026)**
 Walking with shopping bags, you can meet colorful neon art. The **'Shinjuku Neon Work'** illumination is ongoing from the West Exit to the Govt Building, so enjoy it lightly on your way to dinner after shopping!

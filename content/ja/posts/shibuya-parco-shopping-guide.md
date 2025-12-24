@@ -1,0 +1,162 @@
+---
+title: "渋谷パルコ完全攻略 2025：ポケモンセンター、任天堂から人気ブランドまで"
+date: 2025-12-12T07:30:00+09:00
+draft: false
+categories: ["Shibuya & Omotesando"]
+tags: ["shibuya", "shibuya-parco", "tokyo-shopping", "nintendo-tokyo", "pokemon-center-shibuya", "human-made"]
+translationKey: "shibuya-parco-shopping-guide"
+description: "渋谷パルコの最新ガイド：6階の任天堂・ポケモンセンターから1階のヒューマンメイド、地下1階カオスキッチンの極味やハンバーグまで徹底紹介。"
+summary: "渋谷で買い物迷ったらパルコへ！6階「CYBERSPACE SHIBUYA」（任天堂/ポケモン）から、Human Madeなどのトレンドブランド、地下のグルメゾーンまで完全網羅。"
+featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
+---
+
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">
+渋谷でのショッピング、どこから始めようか迷っていませんか？<br>
+答えはシンプル、<b>渋谷パルコ</b>です。<br>
+ファン必見の<b>任天堂＆ポケモン</b>から、<b>Human Made</b>などのトレンドブランド、<br>
+そして話題のグルメスポット<b>カオスキッチン</b>まで。<br>
+渋谷パルコを楽しみ尽くすためのフロア別ガイドをご紹介します。
+</p>
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-01.jpg" alt="渋谷パルコ 外観">
+</figure>
+
+<hr class="se-hr">
+
+<h2>🏢 なぜ「渋谷パルコ」なのか？</h2>
+
+渋谷にはスクランブルスクエアやヒカリエなど多くの商業施設がありますが、**渋谷パルコ**が際立っている理由はただ一つ、**「トレンドとカルチャー」**です。
+単に服を売るだけでなく、最先端のアート、ゲーム、ファッションが一つのビルに集結しています。
+百貨店のようなフォーマルな雰囲気よりも、「今のトレンド」を感じたいなら、ここは外せません。
+
+<hr class="se-hr">
+
+<h2>🛍️ 1F: トレンドの顔 (Human Made, Discord)</h2>
+
+1階はラグジュアリーとハイストリートブランドのフロアです。
+ここで最も注目を集めているのは間違いなく**HUMAN MADE**です。NIGO氏が手掛けるこのブランドは海外からの観光客にも絶大な人気を誇り、入店待ちの列ができることもしばしば。
+他にも**Discord Yohji Yamamoto**、**Gucci**、**Loewe**などが並びます。
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-02.jpg" alt="渋谷パルコ Human Made 店舗">
+  <figcaption style="font-size: 0.7em; text-align: center;">1階の必見スポット：Human Made</figcaption>
+</figure>
+
+<hr class="se-hr">
+
+<h2>📱 3F: ファッション＆雑貨 (Casetify Studio)</h2>
+
+3階にはスタイリッシュなセレクトショップが揃っています。
+特に**Casetify Studio**は見逃せません。その場で自分のiPhoneケースをカスタマイズでき、自分だけのオリジナルケースを作れるスポットとして人気です。
+**オニツカタイガー**などのユニークなファッションブランドもあり、見て回るだけでも楽しいフロアです。
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="渋谷パルコ Casetify Studio">
+  <figcaption style="font-size: 0.7em; text-align: center;">Casetify Studioでカスタムケース作り</figcaption>
+</figure>
+
+<hr class="se-hr">
+
+<h2>🎮 6F: サブカルの聖地「CYBERSPACE」 (ポケモン, 任天堂)</h2>
+
+多くの人がパルコを訪れる最大の理由がここかもしれません！
+6階は**「CYBERSPACE SHIBUYA」**と名付けられ、日本のサブカルチャーに特化したフロアになっています。
+
+<h3>1. ポケモンセンターシブヤ</h3>
+他のポケモンセンターとは全く異なる雰囲気が特徴です。入り口にある培養槽に入った**等身大ミュウツー**は圧巻の迫力。黒を基調としたクールでストリート感のあるグッズが揃っています。
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-04.jpg" alt="ポケモンセンターシブヤ ミュウツー">
+  <figcaption style="font-size: 0.7em; text-align: center;">ポケモンセンターシブヤの等身大ミュウツー</figcaption>
+</figure>
+
+<h3>2. Nintendo TOKYO</h3>
+日本初の任天堂直営オフィシャルストアです。**マリオ、ゼルダ、スプラトゥーン、どうぶつの森**など、多彩なキャラクターグッズが手に入ります。
+*※週末は大混雑するため、整理券が配布されることがあります。*
+
+<h3>3. その他</h3>
+- **ジャンプショップ：** ワンピース、呪術廻戦、スラムダンクなどのグッズ。
+- **カプコンストア：** モンスターハンター、バイオハザードなどのグッズ。
+- **刀剣乱舞万屋本舗**
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="Nintendo TOKYO ストア">
+  <figcaption style="font-size: 0.7em; text-align: center;">巨大なNintendo TOKYOストア</figcaption>
+</figure>
+
+<hr class="se-hr">
+
+<h2>🍽️ B1F: カオスキッチン (極味や ハンバーグ)</h2>
+
+地下1階は普通のフードコートではありません。個性的なバー、レコードショップ、話題の飲食店が混在する**「カオスキッチン」**です。
+
+ここの絶対的エースは**「極味や（きわみや）ハンバーグ」**。
+熱々の石で自分で和牛ハンバーグを焼いて食べるスタイルが大人気です。
+
+**📌 行列攻略のヒント：**
+行列は凄まじく（1～2時間待ちはザラです）、もし行く予定があるなら、以下の**待ち時間短縮＆メニューガイド**をチェックしてみてください。
+
+<p><strong>➡️ <a href="/ja/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/" style="color: #667eea;">渋谷パルコ 極味やハンバーグ：メニュー、値段、行列回避のコツ</a></strong></p>
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="極味やハンバーグ パルコ">
+  <figcaption style="font-size: 0.7em; text-align: center;">大人気の極味やハンバーグ</figcaption>
+</figure>
+
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="カオスキッチンの雰囲気">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="カオスキッチンのネオンサイン">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">地下1階カオスキッチンのユニークな雰囲気</figcaption>
+</div>
+
+<hr class="se-hr">
+
+<h2>🌇 10F: ルーフトップパーク (ROOFTOP PARK)</h2>
+
+買い物の後は10階へ。
+誰でも無料で利用できる**ルーフトップパーク**があります。渋谷のビル群や空を眺めながら一息つける、都会の隠れ家的スポットです。
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="渋谷パルコ ルーフトップパーク">
+  <figcaption style="font-size: 0.7em; text-align: center;">10階ルーフトップパークでリラックス</figcaption>
+</figure>
+
+<hr class="se-hr">
+
+<h2>📝 まとめ</h2>
+
+**1. Wi-Fi:**
+館内では無料Wi-Fiが利用可能です。
+
+**2. ロケーション:**
+渋谷駅から徒歩約5分。代々木公園へ向かう途中にあります。
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-10.jpg" alt="渋谷パルコ ガイド">
+  <figcaption style="font-size: 0.7em; text-align: center;">渋谷パルコでショッピングを楽しんで！</figcaption>
+</figure>
+
+<hr class="se-hr">
+
+<h2>📍 パルコの次はどこへ？</h2>
+
+パルコは渋谷のトレンド発信地のど真ん中にあります。
+せっかくここまで来たなら、パルコのすぐ裏手で開催される**「青の洞窟イルミネーション」**（冬季限定）や、**MIYASHITA PARK**にも足を運んでみてはいかがでしょうか？
+
+<p><strong>➡️ <a href="/ja/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;">渋谷 青の洞窟イルミネーション2025：場所、時間、フォトスポット完全ガイド</a></strong></p>
+
+<p><strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷 完全ガイド：SHIBUYA SKY予約からショッピング、グルメまで</a></strong></p>
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-11.jpg" alt="渋谷 青の洞窟">
+  <figcaption style="font-size: 0.7em; text-align: center;">近くの人気スポット：渋谷 青の洞窟</figcaption>
+</figure>
+
+</div>

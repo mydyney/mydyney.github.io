@@ -334,15 +334,15 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 <p><strong>➡️ <a href="/zh-cn/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">东京都厅 免费展望室指南：灯光秀时间、交通、休息日、夜景完全攻略</a></strong></p>
 
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="东京都厅">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿免费展望台，东京都厅</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="东京都厅 入口">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿免费展望台 东京都厅入口</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-14.jpg" alt="东京都厅">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="东京都厅 入口">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿免费展望台，东京都厅 外观与入口</figcaption>
+</div>
 
 **💡 12月的新宿全城都是灯光节！ (2025-2026)**
 拎着购物袋在街上走，就会遇到华丽的霓虹艺术。从西口到都厅的**"新宿霓虹漫步"**灯展正在举办，购物后去晚餐的路上轻松享受吧！

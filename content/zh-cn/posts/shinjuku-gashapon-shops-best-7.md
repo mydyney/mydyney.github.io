@@ -64,15 +64,15 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 **💡 省钱情报：** 旁边还有另一家大型连锁店"C-pla"，两家加起来光地下就能玩到约2,000台扭蛋机。
 
-<figure>
-  <img src="/images/posts/shinjuku-gashapon-shops-best-7-02.jpg" alt="新宿地下商店街扭蛋森林店铺全景">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿地下商店街扭蛋森林店铺全景</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gashapon-shops-best-7-03.jpg" alt="新宿Subnade 4号出口就能找到的扭蛋森林">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿Subnade 4号口下来就是扭蛋森林</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gashapon-shops-best-7-02.jpg" alt="新宿地下商店街扭蛋森林店铺全景">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gashapon-shops-best-7-03.jpg" alt="新宿Subnade 4号出口就能找到的扭蛋森林">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">扭蛋森林 新宿Subnade店 - 店铺全景</figcaption>
+</div>
 
 <div class="image-group-2">
   <figure>
@@ -172,19 +172,19 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 **⚠️ 注意：** 歌舞伎町地区特性，深夜可能有拉客行为，移动时请走大马路（主干道）。
 
-<figure>
-  <img src="/images/posts/shinjuku-gashapon-shops-best-7-15.jpg" alt="新宿歌舞伎町塔深夜扭蛋店namco东京霓虹灯">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿歌舞伎町塔深夜扭蛋店namco东京霓虹灯</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gashapon-shops-best-7-16.jpg" alt="歌舞伎町塔3层扭蛋店namco东京">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿歌舞伎町塔3层扭蛋店namco东京</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gashapon-shops-best-7-15.jpg" alt="新宿歌舞伎町塔深夜扭蛋店namco东京霓虹灯">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gashapon-shops-best-7-16.jpg" alt="歌舞伎町塔3层扭蛋店namco东京">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿歌舞伎町塔 namco东京 - 店铺全景</figcaption>
+</div>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-17.jpg" alt="Suica（Pasmo）可结算的namco东京智能扭蛋机">
-  <figcaption style="font-size: 0.7em; text-align: center;">Suica（Pasmo）可结算的namco东京智能扭蛋机</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Suica（Pasmo）可结算的namco东京智能扭蛋机</figcaption>
 </figure>
 
 这里发现了小朋友最爱的**"生物大图鉴 独角仙"**系列！扫描真实昆虫制作，逼真到有点吓人。翅膀能张开，腿也能全部活动，才500日元！比国内便宜超多，昆虫迷必入。
@@ -214,15 +214,15 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 - **真实评价：** 和专业扭蛋店（C-pla、森林）比，机台数明显少。新宿BIC CAMERA扭蛋店稀有物品多的传言，实际上缺货的情况不少，需要注意。
 - **推荐对象：** 与其特地找过去，不如**6层玩具区或Canmake购物**时顺便看看。
 
-<figure>
-  <img src="/images/posts/shinjuku-gashapon-shops-best-7-20.jpg" alt="新宿BIC CAMERA东口6层扭蛋区">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿BIC CAMERA东口店6层扭蛋区</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gashapon-shops-best-7-21.jpg" alt="新宿BIC CAMERA咒术回战扭蛋">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿BIC CAMERA咒术回战扭蛋</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gashapon-shops-best-7-20.jpg" alt="新宿BIC CAMERA东口6层扭蛋区">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gashapon-shops-best-7-21.jpg" alt="新宿BIC CAMERA咒术回战扭蛋">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿BIC CAMERA东口店6层 - 扭蛋区</figcaption>
+</div>
 
 ---
 
@@ -338,15 +338,15 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 chiikawa粉丝注意！只要200日元就能拿到**超可爱chiikawa贴纸4张**，性价比爆表。夹在透明手机壳里超可爱，推荐多转几个送朋友！
 
-<figure>
-  <img src="/images/posts/shinjuku-gashapon-shops-best-7-34.jpg" alt="新宿Yodobashi chiikawa贴纸扭蛋">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿Yodobashi chiikawa贴纸扭蛋</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-gashapon-shops-best-7-35.jpg" alt="新宿Yodobashi排球少年扭蛋">
-  <figcaption style="font-size: 0.7em; text-align: center;">新宿Yodobashi排球少年扭蛋</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-gashapon-shops-best-7-34.jpg" alt="新宿Yodobashi chiikawa贴纸扭蛋">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-gashapon-shops-best-7-35.jpg" alt="新宿Yodobashi排球少年扭蛋">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">新宿Yodobashi - chiikawa & 排球少年 扭蛋</figcaption>
+</div>
 
 ---
 

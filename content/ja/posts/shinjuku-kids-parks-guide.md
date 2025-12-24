@@ -239,25 +239,25 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-05.jpg" alt="大月駅と富士急ハイランド駅を運行するトーマスランド号">
-  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行するトーマスランド号</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-05.jpg" alt="大月駅と富士急ハイランド駅を運行するトーマスランド号">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="大月駅と富士急ハイランド駅を運行するトーマスランド号">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">大月駅と富士急ハイランド駅を運行するトーマスランド号</figcaption>
+</div>
 
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="大月駅と富士急ハイランド駅を運行するトーマスランド号">
-  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行するトーマスランド号</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-07.jpg" alt="大月駅と富士急ハイランド駅を運行する富士山ビュー特急">
-  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行する富士山ビュー特急</figcaption>
-</figure>
-
-<figure>
-  <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="大月駅と富士急ハイランド駅を運行する富士山ビュー特急">
-  <figcaption style="font-size: 0.7em; text-align: center;">大月駅と富士急ハイランド駅を運行する富士山ビュー特急</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-07.jpg" alt="大月駅と富士急ハイランド駅を運行する富士山ビュー特急">
+  </figure>
+  <figure>
+    <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="大月駅と富士急ハイランド駅を運行する富士山ビュー特急">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">大月駅と富士急ハイランド駅を運行する富士山ビュー特急</figcaption>
+</div>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-09.jpg" alt="大月駅と富士急ハイランド駅を運行するフジサン特急">

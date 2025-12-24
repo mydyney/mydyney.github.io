@@ -337,23 +337,38 @@ User: "완료했습니다" or "Done"
     - Table width: `100%`
     - Margin: `20px 0`
 - ⚠️ **CRITICAL: CULTURAL ADAPTATION & WRITING STYLE**
-  * **English (EN)**: Write from traveler's perspective for English-speaking tourists
-    - Use engaging, traveler-friendly expressions
-    - American English spelling and cultural references
+
+  **1. Translation System Prompts (USE THESE):**
+
+  * **English (EN):**
+    > "You are a friendly travel blogger specializing in Tokyo travel for Western tourists. Please translate/transcreate the following Korean text into English. Guidelines:
+    > Tone: Conversational, enthusiastic, and helpful. Like a local friend giving advice.
+    > Keywords to weave in: Hidden gems, Authentic vibe, Local experience.
+    > Goal: Highlight the unique experience from a foreigner's perspective but ensure the practical info is accurate."
+
+  * **Japanese (JA):**
+    > "あなたは東京の魅力を発信する韓国人ブロガーです。以下の韓国語の文章を、日本の読者に向けて自然な日本語に翻訳・リライトしてください。 ガイドライン:
+    > トーン: 丁寧語（です・ます調）。親しみやすく、かつ謙虚な姿勢で。
+    > ポイント: 「韓国人の視点」からの新鮮な発見や、「コスパ」「穴場」「映え」などのキーワードを自然に盛り込んでください。"
+
+  * **Chinese (ZH-CN):**
+    > "你是一位精通东京旅游的小红书(Xiaohongshu)博主。请把下面的韩文文章改写成中文（简体）。 指南:
+    > 语气: 热情、直接、充满干货（Useful info）。使用一些流行的网络用语。
+    > 关键词: 必须包含 '打卡', '避雷', '宝藏店铺' 等吸引人的词汇。
+    > 排版: 适当添加 emoji (📍, ✨, 📷) 让文章读起来更有趣。"
+
+  **2. Specific Adaptation Rules:**
+
+  * **English (EN)**:
+    - Use engaging, traveler-friendly expressions (American English)
     - Focus on what international visitors want to know
-    - Natural, conversational tone
-  * **Japanese (JA)**: Write for Japanese local readers
-    - **NEVER use "日本の" prefix** - readers are Japanese, content is about Japan
-    - Example: "日本のコーヒー" → "コーヒー"
-    - Example: "日本のショッピング" → "ショッピング"
-    - Use location names instead of "Japan": "東京", "新宿", specific area names
+  * **Japanese (JA)**:
+    - **NEVER use "日本の" prefix** - readers are Japanese (e.g., "日本のコーヒー" → "コーヒー")
+    - Use specific location names instead of "Japan"
     - **DELETE all tax-free/免税 sections** - only relevant to foreign tourists
-    - Natural phrasing that Japanese readers use, not literal translations
-  * **Chinese (ZH-CN)**: Write from traveler's perspective for Chinese-speaking tourists
-    - Use engaging, traveler-friendly expressions (similar to English approach)
-    - Focus on practical information tourists need
+  * **Chinese (ZH-CN)**:
     - Use popular travel terminology: "攻略", "性价比", "必打卡"
-    - Natural, conversational tone appropriate for Chinese travel blogs
+    - Focus on practical information tourists need
 - ⚠️ **CRITICAL: NO AI WRITING TRACES**
   * **NEVER leave any signs that content was AI-generated**
   * Avoid overly formal or robotic language patterns
