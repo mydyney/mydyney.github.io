@@ -148,9 +148,13 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <div class="image-group-2">
   <figure>
     <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen 氛围">
-  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="涩谷PARCO 空中花园">
-  <figcaption style="font-size: 0.7em; text-align: center;">10楼空中花园放松一下</figcaption>
-</figure>
+    <figcaption style="font-size: 0.7em; text-align: center;">Chaos Kitchen (B1F)</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Ikushika 入口">
+    <figcaption style="font-size: 0.7em; text-align: center;">Ikushika 入口</figcaption>
+  </figure>
+</div>
 
 <hr class="se-hr">
 
@@ -166,6 +170,11 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <p><strong>➡️ 涩谷站行李寄存柜位置 & 空位查询指南 (待更新)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224107954391 -->
 
 <figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="涩谷PARCO 空中花园">
+  <figcaption style="font-size: 0.7em; text-align: center;">10楼空中花园放松一下</figcaption>
+</figure>
+
+<figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="涩谷PARCO 指南">
   <figcaption style="font-size: 0.7em; text-align: center;">祝大家在涩谷PARCO买得开心！</figcaption>
 </figure>
@@ -174,8 +183,8 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <h2>📍 下一站去哪？</h2>
 
-PARCO就在涩谷最热闹的地方。
-来都来了，不如顺便打卡就在PARCO后面的 <b>"青之洞窟灯光秀"</b>（冬季限定），或者去 <b>宫下公园 (MIYASHITA PARK)</b> 逛逛？
+<p>PARCO就在涩谷最热闹的地方。
+来都来了，不如顺便打卡就在PARCO后面的 <b>"青之洞窟灯光秀"</b>（冬季限定），或者去 <b>宫下公园 (MIYASHITA PARK)</b> 逛逛？</p>
 
 <p><strong>➡️ <a href="/zh-cn/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;">涩谷青之洞窟点灯2025：地点、时间、最佳拍照机位攻略</a></strong></p>
 

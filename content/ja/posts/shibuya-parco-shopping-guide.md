@@ -145,8 +145,13 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <div class="image-group-2">
   <figure>
     <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="カオスキッチンの雰囲気">
-  <figcaption style="font-size: 0.7em; text-align: center;">10階ルーフトップパークでリラックス</figcaption>
-</figure>
+    <figcaption style="font-size: 0.7em; text-align: center;">カオスキッチン (B1F)</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="いくしか 入口">
+    <figcaption style="font-size: 0.7em; text-align: center;">いくしか 入口</figcaption>
+  </figure>
+</div>
 
 <hr class="se-hr">
 
@@ -159,6 +164,11 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <p><b>💡 ショッピング前のヒント！</b> パルコでの買い物を快適にするために、近くのコインロッカー情報をチェックしておきましょう。</p>
 <p><strong>➡️ 渋谷駅コインロッカー＆空き状況確認ガイド (近日公開予定)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224107954391 -->
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="渋谷パルコ ルーフトップパーク">
+  <figcaption style="font-size: 0.7em; text-align: center;">10階ルーフトップパークでリラックス</figcaption>
+</figure>
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="渋谷パルコ ガイド">

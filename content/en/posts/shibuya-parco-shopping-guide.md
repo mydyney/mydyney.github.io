@@ -145,8 +145,13 @@ The line is insane (often 1-2 hours). If you plan to go, check the <b>Waiting St
 <div class="image-group-2">
   <figure>
     <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen Atmosphere">
-  <figcaption style="font-size: 0.7em; text-align: center;">Relax at the 10F Rooftop Park</figcaption>
-</figure>
+    <figcaption style="font-size: 0.7em; text-align: center;">Chaos Kitchen (B1F)</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Ikushika Entrance">
+    <figcaption style="font-size: 0.7em; text-align: center;">Ikushika Entrance</figcaption>
+  </figure>
+</div>
 
 <hr class="se-hr">
 
@@ -160,6 +165,11 @@ The line is insane (often 1-2 hours). If you plan to go, check the <b>Waiting St
 
 <p><b>💡 Tip before shopping!</b> Parco covers a lot of ground. Check the closest coin lockers/luggage storage beforehand.</p>
 <p><strong>➡️ Shibuya Station Luggage Storage & Finding Vacancies (Pending Migration)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224107954391 -->
+
+<figure>
+  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="Shibuya Parco Rooftop Park">
+  <figcaption style="font-size: 0.7em; text-align: center;">Relax at the 10F Rooftop Park</figcaption>
+</figure>
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="Shibuya Parco Shopping Guide">
