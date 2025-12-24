@@ -72,8 +72,15 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <h2>📱 3F: CORNER OF TOKYO STREET (Casetify Studio)</h2>
 
+<p><b>🚫 注意！DANTON (丹顿) 店铺在哪？</b></p>
+
 <ul>
   <li><b>Vivienne Westwood ACCESSORIES:</b> 钱包、包包、首饰等配饰专门店。送礼首选！</li>
+  <li><b>GOOD GOODS ISSEY MIYAKE:</b> 可以找到三宅一生独创杂货和“Mokko”包的特别空间。</li>
+  <li><b>COMME des GARÇONS:</b> 不仅2楼有，3楼也有。逛逛不同楼层的产品线很有趣。</li>
+  <li><b>THE NORTH FACE LAB:</b> 和普通门店不同。快来寻找实验性且独特的“紫标 (Purple Label)”单品吧。</li>
+  <li><b>A.P.C.:</b> 牛仔裤、简约包包、T恤的经典之选。</li>
+  <li><b>MM6 Maison Margiela:</b> 马吉拉的休闲副线。</li>
   <li><b>CASETiFY STUDiO:</b> 可以定制手机壳，还有各种联名款。</li>
 </ul>
 
@@ -81,6 +88,15 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="涩谷PARCO Casetify 店铺">
   <figcaption style="font-size: 0.7em; text-align: center;">3楼的 Casetify Studio</figcaption>
 </figure>
+
+<hr class="se-hr">
+
+<h2>👓 4F: Fashion & Culture</h2>
+
+<ul>
+  <li><b>金子眼镜 (KANEKO OPTICAL):</b> 很多韩国游客特意来买眼镜的地方。</li>
+  <li><b>Dr. Martens & Adam et Rope:</b> 鞋类及买手店。</li>
+</ul>
 
 <hr class="se-hr">
 

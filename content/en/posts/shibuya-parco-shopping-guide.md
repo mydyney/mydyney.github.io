@@ -71,8 +71,15 @@ The first floor is home to luxury and high-street brands. The lineup is impressi
 
 <h2>📱 3F: Corner of Tokyo Street (Casetify Studio)</h2>
 
+<p><b>🚫 Caution! Where is the DANTON store?</b></p>
+
 <ul>
   <li><b>Vivienne Westwood ACCESSORIES:</b> Specializes in accessories like wallets, bags, and jewelry. Perfect for gifts!</li>
+  <li><b>GOOD GOODS ISSEY MIYAKE:</b> A special space where you can find Issey Miyake's unique goods and "Mokko" bags.</li>
+  <li><b>COMME des GARÇONS:</b> You can find them on 3F as well as 2F. Enjoy checking out different lineups on each floor.</li>
+  <li><b>THE NORTH FACE LAB:</b> Not your ordinary North Face. Check out the experimental "Purple Label" items.</li>
+  <li><b>A.P.C.:</b> Standard for denim, clean bags, and t-shirts.</li>
+  <li><b>MM6 Maison Margiela:</b> Margiela's casual line.</li>
   <li><b>CASETiFY STUDiO:</b> Great for browsing custom phone cases and various collaboration products.</li>
 </ul>
 
@@ -80,6 +87,15 @@ The first floor is home to luxury and high-street brands. The lineup is impressi
   <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="Shibuya Parco Casetify Store">
   <figcaption style="font-size: 0.7em; text-align: center;">Casetify Studio at 3F</figcaption>
 </figure>
+
+<hr class="se-hr">
+
+<h2>👓 4F: Fashion & Culture</h2>
+
+<ul>
+  <li><b>KANEKO OPTICAL:</b> Many Korean tourists visit specifically to buy glasses here.</li>
+  <li><b>Dr. Martens & Adam et Rope:</b> Shoes and select shop.</li>
+</ul>
 
 <hr class="se-hr">
 

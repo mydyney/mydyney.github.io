@@ -71,8 +71,15 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <h2>📱 3F: CORNER OF TOKYO STREET (Casetify Studio)</h2>
 
+<p><b>🚫 注意！ダントン(DANTON)の店舗はどこ？</b></p>
+
 <ul>
   <li><b>Vivienne Westwood ACCESSORIES (ヴィヴィアン・ウエストウッド):</b> 財布、バッグ、ジュエリーなどのアクセサリー専門店。ギフトに最適！</li>
+  <li><b>GOOD GOODS ISSEY MIYAKE (グッド グッズ イッセイ ミヤケ):</b> イッセイミヤケの独創的な雑貨や「Mokko」バッグに出会える特別な空間です。</li>
+  <li><b>COMME des GARÇONS (コムデギャルソン):</b> 2階だけでなく3階にも店舗があります。層ごとに異なるラインナップを楽しめます。</li>
+  <li><b>THE NORTH FACE LAB (ザ・ノース・フェイス ラボ):</b> 一般的な店舗とは異なります。実験的でユニークな「パープルレーベル」のアイテムを探してみてください。</li>
+  <li><b>A.P.C. (アー・ペー・セー):</b> デニム、シンプルなバッグ、Tシャツの定番。</li>
+  <li><b>MM6 Maison Margiela:</b> マルジェラのカジュアルライン。</li>
   <li><b>CASETiFY STUDiO (ケースティファイ):</b> スマホケースのカスタムや様々なコラボ製品を見るのに最適です。</li>
 </ul>
 
@@ -80,6 +87,15 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="渋谷パルコ Casetify 店舗">
   <figcaption style="font-size: 0.7em; text-align: center;">3階のCasetify Studio</figcaption>
 </figure>
+
+<hr class="se-hr">
+
+<h2>👓 4F: Fashion & Culture</h2>
+
+<ul>
+  <li><b>金子眼鏡 (KANEKO OPTICAL):</b> 韓国からの旅行客が眼鏡を買うためにわざわざ訪れる場所です。</li>
+  <li><b>Dr. Martens (ドクターマーチン) & Adam et Rope:</b> シューズおよびセレクトショップ。</li>
+</ul>
 
 <hr class="se-hr">
 
