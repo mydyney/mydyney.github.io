@@ -51,7 +51,7 @@ The first floor is home to luxury and high-street brands. The lineup is impressi
   <figcaption style="font-size: 0.7em; text-align: center;">Must-check at 1F: Human Made</figcaption>
 </figure>
 
-<p><strong>➡️ <a href="/posts/shibuya-parco-human-made-guide/" style="color: #667eea;">Human Made Renewal: Part 1 & Part 2 Location, Waiting, Curry Up Opening</a></strong></p>
+<p><strong>➡️ Human Made Renewal: Part 1 & Part 2 Location, Waiting, Curry Up Opening (Pending Migration)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224105736326 -->
 
 <hr class="se-hr">
 

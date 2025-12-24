@@ -379,13 +379,12 @@ User: "완료했습니다" or "Done"
 - ⚠️ **CRITICAL: LINK HANDLING**
   * **MANDATORY: Check LINK_MAPPING.md FIRST**
     - Load `LINK_MAPPING.md` before creating any content
-    - Search for ALL Naver blog URLs found in original HTML
-    - Verify if each Naver post has been migrated to Hugo
   * **Link Conversion Rules (MANDATORY):**
-    - **ALL** internal links from the original Naver post MUST be included in the converted post. **DO NOT SKIP ANY LINK.**
-    - **If migrated:** Replace Naver URL with Hugo internal link format: `/posts/[slug]/`
-    - **If NOT migrated:** You MUST include it as a styled placeholder (see below), maintaining the flow of the original post.
-    - **NEVER include raw Naver blog URLs** in the final markdown (unless explicitly instructed for a specific case, but generally use the placeholder).
+    - **Step 1: VERIFY EXISTENCE:** Before creating a live link, you **MUST** verify that the destination file actually exists in the `content` directory (e.g., using `ls`).
+    - **Step 2: Apply Link:**
+        - **If file EXISTS:** Replace Naver URL with Hugo internal link: `/posts/[slug]/`
+        - **If file DOES NOT EXIST (Unmigrated):** You **MUST** use the styled placeholder format below. **NEVER** create a dead link to a non-existent file.
+    - **ALL** internal links from the original Naver post MUST be included (either as live link or placeholder). **DO NOT SKIP ANY LINK.**
   * **Placeholder Format for Unmigrated Posts:**
     ```markdown
     <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/[POST_ID] -->

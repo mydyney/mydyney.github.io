@@ -52,7 +52,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">1楼必逛：Human Made</figcaption>
 </figure>
 
-<p><strong>➡️ <a href="/zh-cn/posts/shibuya-parco-human-made-guide/" style="color: #667eea;">Human Made 焕新日记：Part 1 & Part 2 位置、排队攻略、整理券领取指南</a></strong></p> <!-- Original: https://blog.naver.com/tokyomate/224105736326 -->
+<p><strong>➡️ Human Made 焕新日记：Part 1 & Part 2 位置、排队攻略、整理券领取指南 (待更新)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224105736326 -->
 
 <hr class="se-hr">
 
