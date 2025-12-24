@@ -341,9 +341,6 @@ Animate附近
 **东京中心：东京站**
 地铁通票可达。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /zh-cn/posts/tokyo-station-guide/ -->
-**➡️ <a href="#" style="color: #667eea;">东京站观光景点 - 卡通街、美食、夜景、行李寄存柜</a>**
+**➡️ <a href="/zh-cn/posts/tokyo-station-guide/" style="color: #667eea;">东京站观光景点 - 卡通街、美食、夜景、行李寄存柜</a>**
 
 </div>

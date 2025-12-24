@@ -477,11 +477,8 @@ Check out these related articles!</p>
 <p style="text-align: center;"><strong>🛒</strong> <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Don Quijote Shopping List & Discount Coupons Guide</strong></a><br>
 <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">Must-buy items and maximum savings tips</a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List Must-Buy Recommendations</strong></a><br>
-<a href="#" style="color: #667eea;">Coffee, snacks, and gourmet food guide</a></p>
+<p style="text-align: center;"><strong>☕</strong> <a href="/posts/kaldi-coffee-farm-shopping-list/" style="color: #667eea;"><strong>Japan Kaldi Shopping List Must-Buy Recommendations</strong><br>
+Coffee, snacks, and gourmet food guide</a></p>
 
 ---
 

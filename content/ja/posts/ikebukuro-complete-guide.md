@@ -341,9 +341,6 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 **東京の中心：東京駅**
 地下鉄パスで移動可能です。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /ja/posts/tokyo-station-guide/ -->
-**➡️ <a href="#" style="color: #667eea;">東京駅観光スポット - キャラクターストリート、グルメ、夜景、荷物保管ロッカー</a>**
+**➡️ <a href="/ja/posts/tokyo-station-guide/" style="color: #667eea;">東京駅観光スポット - キャラクターストリート、グルメ、夜景、荷物保管ロッカー</a>**
 
 </div>

@@ -436,11 +436,8 @@ featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 <p style="text-align: center;"><strong>🛒</strong> <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト＆割引クーポンガイド</strong></a><br>
 <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">必須アイテムと最大限の節約ヒント</a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト必須おすすめ</strong></a><br>
-<a href="#" style="color: #667eea;">コーヒー、スナック、グルメフードガイド</a></p>
+<p style="text-align: center;"><strong>☕</strong> <a href="/ja/posts/kaldi-coffee-farm-shopping-list/" style="color: #667eea;"><strong>日本カルディショッピングリスト必須おすすめ</strong><br>
+コーヒー、スナック、グルメフードガイド</a></p>
 
 ---
 

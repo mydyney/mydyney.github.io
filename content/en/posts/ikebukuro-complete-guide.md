@@ -341,9 +341,6 @@ Yamanote Line in the opposite direction from Shinjuku!
 **Center of Tokyo: Tokyo Station**
 You can travel with a subway pass.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /posts/tokyo-station-guide/ -->
-**➡️ <a href="#" style="color: #667eea;">Tokyo Station Attractions - Character Street, Restaurants, Night Views, Luggage Storage Lockers</a>**
+**➡️ <a href="/posts/tokyo-station-guide/" style="color: #667eea;">Tokyo Station Attractions - Character Street, Restaurants, Night Views, Luggage Storage Lockers</a>**
 
 </div>

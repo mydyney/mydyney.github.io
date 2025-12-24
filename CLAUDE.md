@@ -392,9 +392,11 @@ User: "완료했습니다" or "Done"
         - **If file DOES NOT EXIST (Unmigrated):** You **MUST** use the styled placeholder format below. **NEVER** create a dead link to a non-existent file.
     - **ALL** internal links from the original Naver post MUST be included (either as live link or placeholder). **DO NOT SKIP ANY LINK.**
   * **Placeholder Format for Unmigrated Posts:**
-    ```markdown
-    <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/[POST_ID] -->
-    **➡️ [Link Text from Original]**
+    ```html
+    <!-- TODO: Update link after migration
+         Naver: https://blog.naver.com/tokyomate/[POST_ID]
+         Hugo: /posts/[SLUG]/ -->
+    <p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>[Link Text]</strong></a><br>
     ```
   * **Order:** All links MUST be included in the exact same order as the original post
   * **Google Maps:** Standardize ALL map links with `📍` emoji suffix
@@ -455,9 +457,9 @@ Before providing preview links to user, verify the following counts match betwee
    
    # Count converted links + placeholders in Hugo posts (should match for each language)
    # Count: internal links (/posts/) + TODO placeholders
-   grep -E '(/posts/|TODO: Add link)' content/en/posts/[slug].md | wc -l
-   grep -E '(/posts/|TODO: Add link)' content/ja/posts/[slug].md | wc -l
-   grep -E '(/posts/|TODO: Add link)' content/zh-cn/posts/[slug].md | wc -l
+   grep -E '(/posts/|TODO: Update link)' content/en/posts/[slug].md | wc -l
+   grep -E '(/posts/|TODO: Update link)' content/ja/posts/[slug].md | wc -l
+   grep -E '(/posts/|TODO: Update link)' content/zh-cn/posts/[slug].md | wc -l
    ```
 
 **Verification Report Format:**
