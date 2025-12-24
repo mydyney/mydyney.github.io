@@ -381,10 +381,11 @@ User: "완료했습니다" or "Done"
     - Load `LINK_MAPPING.md` before creating any content
     - Search for ALL Naver blog URLs found in original HTML
     - Verify if each Naver post has been migrated to Hugo
-  * **Link Conversion Rules:**
+  * **Link Conversion Rules (MANDATORY):**
+    - **ALL** internal links from the original Naver post MUST be included in the converted post. **DO NOT SKIP ANY LINK.**
     - **If migrated:** Replace Naver URL with Hugo internal link format: `/posts/[slug]/`
-    - **If NOT migrated:** Use placeholder comment format (see below)
-    - **NEVER include raw Naver blog URLs in final markdown**
+    - **If NOT migrated:** You MUST include it as a styled placeholder (see below), maintaining the flow of the original post.
+    - **NEVER include raw Naver blog URLs** in the final markdown (unless explicitly instructed for a specific case, but generally use the placeholder).
   * **Placeholder Format for Unmigrated Posts:**
     ```markdown
     <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/[POST_ID] -->

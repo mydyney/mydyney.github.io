@@ -51,6 +51,8 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">1階の必見スポット：Human Made</figcaption>
 </figure>
 
+<p><strong>➡️ ヒューマンメイド リニューアル情報：Part 1 & Part 2 場所、待ち時間、整理券情報 (近日公開予定)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224105736326 -->
+
 <hr class="se-hr">
 
 <h2>📱 3F: ファッション＆雑貨 (Casetify Studio)</h2>
@@ -90,6 +92,8 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <li><b>刀剣乱舞万屋本舗</b></li>
 </ul>
 
+<p><strong>➡️ 6階完全攻略！任天堂・ポケモン・ジャンプショップ グッズ、整理券、免税のコツ総まとめ (近日公開予定)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224106448442 -->
+
 <hr class="se-hr">
 
 <h2>🍽️ B1F: カオスキッチン (極味や ハンバーグ)</h2>
@@ -108,6 +112,10 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="極味やハンバーグ パルコ">
   <figcaption style="font-size: 0.7em; text-align: center;">大人気の極味やハンバーグ</figcaption>
 </figure>
+
+<p>和食の気分なら<b>「いくしか (Ikushika)」</b>もおすすめ。注文してから炊き上げる土鍋ご飯が絶品です。</p>
+
+<p><strong>➡️ <a href="/ja/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;">渋谷いくしか：炊きたて土鍋ご飯がおかわり自由！絶品定食</a></strong></p>
 
 <div class="image-group-2">
   <figure>
@@ -139,6 +147,9 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <li><b>Wi-Fi:</b> 館内では無料Wi-Fiが利用可能です。</li>
   <li><b>ロケーション:</b> 渋谷駅から徒歩約5分。代々木公園へ向かう途中にあります。</li>
 </ul>
+
+<p><b>💡 ショッピング前のヒント！</b> パルコでの買い物を快適にするために、近くのコインロッカー情報をチェックしておきましょう。</p>
+<p><strong>➡️ 渋谷駅コインロッカー＆空き状況確認ガイド (近日公開予定)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224107954391 -->
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="渋谷パルコ ガイド">

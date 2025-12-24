@@ -52,6 +52,8 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">1楼必逛：Human Made</figcaption>
 </figure>
 
+<p><strong>➡️ <a href="/zh-cn/posts/shibuya-parco-human-made-guide/" style="color: #667eea;">Human Made 焕新日记：Part 1 & Part 2 位置、排队攻略、整理券领取指南</a></strong></p> <!-- Original: https://blog.naver.com/tokyomate/224105736326 -->
+
 <hr class="se-hr">
 
 <h2>📱 3F: 宝藏配饰 (Casetify Studio)</h2>
@@ -92,6 +94,8 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <li><b>刀剑乱舞万屋本铺</b></li>
 </ul>
 
+<p><strong>➡️ 6楼完全攻略！任天堂・宝可梦・Jump Shop 周边、整理券、免税避坑指南 (待更新)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224106448442 -->
+
 <hr class="se-hr">
 
 <h2>🍽️ B1F: Chaos Kitchen (极味耶汉堡排)</h2>
@@ -111,6 +115,10 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="极味耶汉堡排 PARCO">
   <figcaption style="font-size: 0.7em; text-align: center;">超人气的极味耶汉堡排</figcaption>
 </figure>
+
+<p>如果不想排队，推荐试试<b>「Ikushika (いくしか)」</b>。现点现做的锅烧饭定食，米饭香到不行！🍚</p>
+
+<p><strong>➡️ <a href="/zh-cn/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;">涩谷 Ikushika：现煮锅烧饭无限续！超好吃的日式家庭料理</a></strong></p>
 
 <div class="image-group-2">
   <figure>
@@ -144,6 +152,9 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
   <li><b>Wi-Fi:</b> 馆内有免费Wi-Fi，网速还可以。</li>
   <li><b>位置:</b> 从涩谷站走过来大约5分钟，就在去代代木公园的路上。</li>
 </ul>
+
+<p><b>💡 逛街前的小贴士！</b> PARCO 很大，不想拎着大包小包逛街的话，先把行李寄存了吧！</p>
+<p><strong>➡️ 涩谷站行李寄存柜位置 & 空位查询指南 (待更新)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224107954391 -->
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="涩谷PARCO 指南">

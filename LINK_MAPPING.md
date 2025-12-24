@@ -147,6 +147,9 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224026098490 | tokyo-transportation-card-guide-2025 | Tokyo Subway Pass Complete Guide (Exchange Locations, Purchase, Usage) |
 
 | 224024530348 | tokyo-september-festivals-2025 | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
+| 224105736326 | shibuya-parco-shopping-guide | Human Made Renewal (Part 1 & 2 Location, Waiting Guide) |
+| 224106448442 | shibuya-parco-shopping-guide | Shibuya Parco 6F Complete Guide (Nintendo, Pokemon, Jump Shop) |
+| 224107954391 | shibuya-parco-shopping-guide | Shibuya Station Luggage Storage & Coin Locker Guide |
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025, tokyo-christmas-markets-guide-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
 | ~~223989943826~~ | tokyo-september-festivals-2025, tokyo-october-festivals-2025 | ✅ **MIGRATED** → ginza-guide-2025 |
 | 223694057318 | ginza-guide-2025 | Ginza Six Rooftop Free Observation Deck & Ice Rink |

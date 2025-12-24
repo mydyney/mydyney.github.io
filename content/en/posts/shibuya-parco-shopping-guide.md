@@ -51,6 +51,8 @@ The first floor is home to luxury and high-street brands. The lineup is impressi
   <figcaption style="font-size: 0.7em; text-align: center;">Must-check at 1F: Human Made</figcaption>
 </figure>
 
+<p><strong>➡️ <a href="/posts/shibuya-parco-human-made-guide/" style="color: #667eea;">Human Made Renewal: Part 1 & Part 2 Location, Waiting, Curry Up Opening</a></strong></p>
+
 <hr class="se-hr">
 
 <h2>📱 3F: Fashion & Accessories (Casetify Studio)</h2>
@@ -90,6 +92,8 @@ Japan's first official Nintendo store. You can buy diverse goods from <b>Mario, 
   <li><b>Touken Ranbu Store</b></li>
 </ul>
 
+<p><strong>➡️ 6th Floor Complete Guide! Nintendo, Pokemon, Jump Shop Goods, Numbered Tickets, Tax-Free Tips (Pending Migration)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224106448442 -->
+
 <hr class="se-hr">
 
 <h2>🍽️ B1F: Chaos Kitchen (Kiwamiya Hamburg)</h2>
@@ -108,6 +112,10 @@ The line is insane (often 1-2 hours). If you plan to go, check the <b>Waiting St
   <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="Kiwamiya Hamburg Parco">
   <figcaption style="font-size: 0.7em; text-align: center;">The famous Kiwamiya Hamburg</figcaption>
 </figure>
+
+<p>If you're looking for something else, try <b>"Ikushika"</b>. They serve freshly cooked pot rice (kamameshi) that is absolutely delicious.</p>
+
+<p><strong>➡️ <a href="/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;">Shibuya Ikushika: All-You-Can-Eat Rice & Japanese Home Cooking</a></strong></p>
 
 <div class="image-group-2">
   <figure>
@@ -140,6 +148,9 @@ There is a <b>Rooftop Park</b> that is open for free. You can enjoy a nice view 
   <li><b>Wi-Free:</b> Free Wi-Fi is available throughout the building.</li>
   <li><b>Location:</b> 5-minute walk from Shibuya Station. On the way to Yoyogi Park.</li>
 </ul>
+
+<p><b>💡 Tip before shopping!</b> Parco covers a lot of ground. Check the closest coin lockers/luggage storage beforehand.</p>
+<p><strong>➡️ Shibuya Station Luggage Storage & Finding Vacancies (Pending Migration)</strong></p> <!-- Original: https://blog.naver.com/tokyomate/224107954391 -->
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="Shibuya Parco Shopping Guide">
