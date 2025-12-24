@@ -121,18 +121,27 @@ HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場
 *   **雰囲気:** NIGO氏の感性が感じられるヒップな空間
 *   **グッズ:** カレー皿やスプーンなど、可愛いグッズも販売されています
 
-<div class="image-group-2">
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-07.jpg" alt="CURRY UP 店舗外観">
 <figcaption style="font-size: 0.85em; text-align: center;">CURRY UP 店舗外観</figcaption>
 </figure>
-<figure>
-<img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="CURRY UP 店舗内観">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP 店舗内観</figcaption>
-</figure>
-</div>
 
 ショッピングでお腹が空いたら、こちらに立ち寄るのも最高のコースです！
+
+---
+
+## 5. ショッピングのヒント（価格・サイズ感・免税）
+
+HUMAN MADEでのお買い物の際に知っておくと便利なポイントです：
+
+*   **価格帯:** Tシャツ 約1万円〜、パーカー 約3万円〜、アウター 約8万円〜。
+*   **サイズ感:** 日本規格のため、身幅が細めでスリムな作りです。普段より**1〜2サイズアップ**することを強くおすすめします。
+*   **免税 (Tax Free):** 渋谷パルコは免税対応店舗です。必ずパスポートを持参してください！（※一部コラボ商品は対象外の場合あり）
+
+<figure>
+<img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="渋谷HUMAN MADE PART 2 店舗外観">
+<figcaption style="font-size: 0.85em; text-align: center;">渋谷HUMAN MADE PART 2 店舗外観</figcaption>
+</figure>
 
 ---
 

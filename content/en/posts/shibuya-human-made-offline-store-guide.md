@@ -123,18 +123,27 @@ There is also a curry shop produced by Human Made called **CURRY UP** nearby.
 *   **Vibe:** A hip atmosphere where you can feel the sensibility of NIGO.
 *   **Goods:** They also sell cute goods like curry plates and spoons.
 
-<div class="image-group-2">
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-07.jpg" alt="CURRY UP Store Exterior">
 <figcaption style="font-size: 0.85em; text-align: center;">CURRY UP Store Exterior</figcaption>
 </figure>
-<figure>
-<img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="CURRY UP Store Interior">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP Store Interior</figcaption>
-</figure>
-</div>
 
 If you are hungry after shopping, stopping by here is also a great course!
+
+---
+
+## 5. Shopping Tips (Price, Size, Tax Free)
+
+Here are some tips for shopping at Human Made:
+
+*   **Price Range:** Short sleeve T-shirts ~10,000 yen, Hoodies ~30,000 yen, Outerwear ~80,000 yen.
+*   **Size Tip:** Based on Japanese standard sizing, the width is narrow and the fit is slim. I **strongly recommend sizing up 1-2 sizes** from your usual size.
+*   **Tax Free:** Shibuya Parco offers tax-free shopping. Be sure to bring your passport! (Note: Some collaboration items may be excluded)
+
+<figure>
+<img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="Shibuya Parco Human Made PART 2">
+<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Parco Human Made PART 2</figcaption>
+</figure>
 
 ---
 

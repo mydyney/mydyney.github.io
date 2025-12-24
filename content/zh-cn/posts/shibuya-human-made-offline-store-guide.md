@@ -121,18 +121,27 @@ Human Made在 **发售日（通常是周六）** 或联名合作发售日，为�
 *   **氛围:** 充满了NIGO独特的潮流感，很适合打卡拍照 📸
 *   **周边:** 店里还卖可爱的咖喱盘子和勺子等周边！
 
-<div class="image-group-2">
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-07.jpg" alt="CURRY UP 门店外观">
 <figcaption style="font-size: 0.85em; text-align: center;">CURRY UP 门店外观</figcaption>
 </figure>
-<figure>
-<img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="CURRY UP 店内环境">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP 店内环境</figcaption>
-</figure>
-</div>
 
 逛累了来这里吃个饭，休息一下也是绝佳的行程！😋
+
+---
+
+## 5. 购物小贴士 (价格/尺码/免税)
+
+在Human Made购物时的一些实用小贴士：
+
+*   **价格:** 短袖T恤约1万日元起，卫衣约3万日元起，外套约8万日元起。
+*   **尺码建议:** 因为是日本标准尺码，版型偏修身窄小。强烈建议比平时 **选大1-2个尺码**。
+*   **免税 (Tax Free):** 涩谷Parco支持免税。一定要带护照！(注意：部分联名商品可能不支持免税)
+
+<figure>
+<img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="涩谷Human Made PART 2 门店外观">
+<figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 2 门店外观</figcaption>
+</figure>
 
 ---
 
