@@ -200,6 +200,11 @@ Complete step-by-step process for migrating a Naver blog post to Hugo:
 User: "https://blog.naver.com/tokyomate/[POST_ID]"
 ```
 
+**⚠️ CRITICAL AGENT RULE:**
+- **NEVER** try to fetch/scrape the Naver blog URL using browser tools or `read_url_content`.
+- **ALWAYS** wait for the user to provide the content in `naver.html`.
+- The user will manually copy the HTML to `naver.html` because of Naver's anti-bot protections.
+
 #### Step 2: User Updates naver.html with Blog Content
 ```
 Claude: "Please update naver.html with the blog HTML content."
@@ -301,9 +306,20 @@ User: "완료했습니다" or "Done"
     - Map each element's position relative to surrounding text/headings
     - Preserve the exact order: text → table → text → image group → text
     - NEVER reorder or relocate these elements from original positions
+  * **Strict Linear Order (MANDATORY):**
+    - **FOLLOW** the HTML element order exactly (e.g. Text -> Image -> Text).
+    - **DO NOT** reorder elements to group "sections" together if the HTML has them interleaved.
+    - **Example:** If HTML has `[Text A] -> [Image B] -> [Text C]`, you **MUST** output `[Text A] -> [Image B] -> [Text C]`.
+    - **NEVER** move `[Text C]` to be before `[Image B]` just because it belongs to the same topic as `[Text A]`.
+  * **Inline Internal Links (MANDATORY):**
+    - Treat blog post links (e.g., "See also [Title]") appearing in the middle of the text as **CONTENT**, not footer material.
+    - **NEVER** move these links to a "Related Posts" section at the bottom.
+    - **MUST** be placed exactly where they appear in the source HTML (e.g., between two paragraphs).
+  * **Link Preservation (MANDATORY):**
+    - **Duplicate URLs:** If a URL appears multiple times in different contexts (e.g., once as an image source, once as a "Check Availability" text link), you **MUST PRESERVE BOTH**. Never de-duplicate based on URL.
+    - **Actionable Links:** Links that imply an action (e.g., "Reserve here", "Check availability", "Open in Google Maps") **MUST** be preserved as distinct, visible elements (e.g., Callout blocks or bold text). **NEVER** summarize them away or merge them into a general description.
   * **Verification:**
     - **Step 0: Content Inventory (CRITICAL):** Before writing, list ALL headers/sections from the original HTML (e.g., 1F, 2F, 3F, B1) to ensure NOTHING is missed.
-    - Cross-reference original HTML structure with created Hugo markdown
     - Cross-reference original HTML structure with created Hugo markdown
     - Ensure tables appear at same position as original
     - Ensure image groups maintain original grouping and position
