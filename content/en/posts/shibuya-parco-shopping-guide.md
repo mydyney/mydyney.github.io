@@ -66,7 +66,7 @@ This is the main reason many travelers visit Parco!
 The 6th floor is entirely dedicated to **Japanese subculture**, branded as **"CyberSpace Shibuya"**.
 
 <h3>1. Pokemon Center Shibuya</h3>
-It features a totally different vibe from other Pokemon Centers. The **Life-size Mewtwo** in the incubation tank at the entrance is breathtaking. It uses black as a theme color, offering cool, streetwear-inspired Pokemon merch.
+It features a totally different vibe from other Pokemon Centers. The <b>Life-size Mewtwo</b> in the incubation tank at the entrance is breathtaking. It uses black as a theme color, offering cool, streetwear-inspired Pokemon merch.
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-04.jpg" alt="Pokemon Center Shibuya Mewtwo">
@@ -74,44 +74,39 @@ It features a totally different vibe from other Pokemon Centers. The **Life-size
 </figure>
 
 <h3>2. Nintendo Tokyo</h3>
-Japan's first official Nintendo store. You can buy diverse goods from **Mario, Zelda, Splatoon, and Animal Crossing**.
+Japan's first official Nintendo store. You can buy diverse goods from <b>Mario, Zelda, Splatoon, and Animal Crossing</b>.
 *Note: It gets extremely crowded on weekends, so they might distribute numbered tickets.*
 
 <h3>3. Others</h3>
-- **Jump Shop:** One Piece, Jujutsu Kaisen, Slam Dunk goods.
-- **Capcom Store:** Monster Hunter, Resident Evil merch.
-- **Touken Ranbu Store**
-
-<figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="Nintendo Tokyo Store">
-  <figcaption style="font-size: 0.7em; text-align: center;">The massive Nintendo Tokyo Store</figcaption>
-</figure>
+- <b>Jump Shop:</b> One Piece, Jujutsu Kaisen, Slam Dunk goods.
+- <b>Capcom Store:</b> Monster Hunter, Resident Evil merch.
+- <b>Touken Ranbu Store</b>
 
 <hr class="se-hr">
 
 <h2>🍽️ B1F: Chaos Kitchen (Kiwamiya Hamburg)</h2>
 
-The basement isn't your typical food court. It's called **"Chaos Kitchen"** because it mixes obscure dive bars, record shops, and trendy restaurants.
+The basement isn't your typical food court. It's called <b>"Chaos Kitchen"</b> because it mixes obscure dive bars, record shops, and trendy restaurants.
 
-The absolute superstar here is **"Kiwamiya Hamburg"**.
+The absolute superstar here is <b>"Kiwamiya Hamburg"</b>.
 You grill your own Wagyu hamburger steak on a hot stone.
 
-**📌 Waiting Tips:**
-The line is insane (often 1-2 hours). If you plan to go, check the **Waiting Strategy & Menu Guide** below to minimize wait times.
+<b>📌 Waiting Tips:</b>
+The line is insane (often 1-2 hours). If you plan to go, check the <b>Waiting Strategy & Menu Guide</b> below to minimize wait times.
 
 <p><strong>➡️ <a href="/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/" style="color: #667eea;">Shibuya Parco Kiwamiya Hamburg: Menu, Price, and Queue Skipping Tips</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Kiwamiya Hamburg Parco">
+  <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="Kiwamiya Hamburg Parco">
   <figcaption style="font-size: 0.7em; text-align: center;">The famous Kiwamiya Hamburg</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Chaos Kitchen Atmosphere">
+    <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen Atmosphere">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="Chaos Kitchen Neon Signs">
+    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Chaos Kitchen Neon Signs">
   </figure>
   <figcaption style="font-size: 0.85em; text-align: center;">Unique vibes of B1F Chaos Kitchen</figcaption>
 </div>
@@ -121,10 +116,10 @@ The line is insane (often 1-2 hours). If you plan to go, check the **Waiting Str
 <h2>🌇 10F: Rooftop Park (ComDay Park)</h2>
 
 After shopping, head to the 10th floor.
-There is a **Rooftop Park** that is open for free. You can enjoy a nice view of Shibuya skyscrapers. It's a great hidden spot to rest your legs.
+There is a <b>Rooftop Park</b> that is open for free. You can enjoy a nice view of Shibuya skyscrapers. It's a great hidden spot to rest your legs.
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="Shibuya Parco Rooftop Park">
+  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="Shibuya Parco Rooftop Park">
   <figcaption style="font-size: 0.7em; text-align: center;">Relax at the 10F Rooftop Park</figcaption>
 </figure>
 
@@ -142,7 +137,7 @@ Free Wi-Fi is available throughout the building.
 5-minute walk from Shibuya Station. On the way to Yoyogi Park.
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-10.jpg" alt="Shibuya Parco Shopping Guide">
+  <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="Shibuya Parco Shopping Guide">
   <figcaption style="font-size: 0.7em; text-align: center;">Enjoy your shopping at Shibuya Parco!</figcaption>
 </figure>
 
@@ -151,7 +146,7 @@ Free Wi-Fi is available throughout the building.
 <h2>📍 Next Course from Parco?</h2>
 
 Parco is located right in the middle of Shibuya's trendiest area.
-Since you are here, why not check out the **"Blue Cave Illumination"** (winter only) right behind Parco, or head to **Miyashita Park**?
+Since you are here, why not check out the <b>"Blue Cave Illumination"</b> (winter only) right behind Parco, or head to <b>Miyashita Park</b>?
 
 <p><strong>➡️ <a href="/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;">Shibuya Blue Cave Illumination 2025: Location, Time & Photo Spots</a></strong></p>
 

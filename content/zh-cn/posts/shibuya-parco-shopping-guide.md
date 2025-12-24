@@ -67,7 +67,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 6楼被称为 **"CYBERSPACE SHIBUYA"**，完全是日本二次元文化的聚集地。
 
 <h3>1. 涩谷宝可梦中心 (Pokemon Center Shibuya)</h3>
-和别的宝可梦中心画风完全不同！门口培养槽里的 **等身大超梦** 简直帅炸，必打卡！✨
+和别的宝可梦中心画风完全不同！门口培养槽里的 <b>等身大超梦</b> 简直帅炸，必打卡！✨
 这里主打黑色街头风，有很多超酷的联名周边。
 
 <figure>
@@ -76,45 +76,40 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 </figure>
 
 <h3>2. Nintendo TOKYO</h3>
-日本首家任天堂直营店。**马里奥、塞尔达、喷射战士、动物森友会**，周边种类超级全。
+日本首家任天堂直营店。<b>马里奥、塞尔达、喷射战士、动物森友会</b>，周边种类超级全。
 *⚠️ 注意：周末人超级多，可能会发整理券，建议避开高峰或早去！*
 
 <h3>3. 其他好逛的</h3>
-- **Jump Shop:** 海贼王、咒术回战、灌篮高手周边。
-- **Capcom Store:** 怪物猎人、生化危机周边。
-- **刀剑乱舞万屋本铺**
-
-<figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="Nintendo TOKYO 商店">
-  <figcaption style="font-size: 0.7em; text-align: center;">巨大的Nintendo TOKYO商店</figcaption>
-</figure>
+- <b>Jump Shop:</b> 海贼王、咒术回战、灌篮高手周边。
+- <b>Capcom Store:</b> 怪物猎人、生化危机周边。
+- <b>刀剑乱舞万屋本铺</b>
 
 <hr class="se-hr">
 
 <h2>🍽️ B1F: Chaos Kitchen (极味耶汉堡排)</h2>
 
-地下1楼可不是普通的美食广场，这里叫 **"Chaos Kitchen"**。
+地下1楼可不是普通的美食广场，这里叫 <b>"Chaos Kitchen"</b>。
 只有PARCO能把个性酒吧、唱片店和网红餐厅混搭得这么有型。
 
-这里的**绝对C位**是 **"极味耶 (Kiwamiya) 汉堡排"**。
+这里的<b>绝对C位</b>是 <b>"极味耶 (Kiwamiya) 汉堡排"</b>。
 这家的和牛汉堡排需要自己在铁板上煎熟，肉汁四溢，好吃到哭！😭
 
-**📌 避雷指南（排队攻略）：**
-这家人气太旺，排1-2小时是常态。想去的小伙伴，一定要看下面这篇 **排队攻略&菜单指南**，少走弯路！
+<b>📌 避雷指南（排队攻略）：</b>
+这家人气太旺，排1-2小时是常态。想去的小伙伴，一定要看下面这篇 <b>排队攻略&菜单指南</b>，少走弯路！
 
 <p><strong>➡️ <a href="/zh-cn/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/" style="color: #667eea;">涩谷PARCO极味耶汉堡排：菜单价格、排队避雷&免排队技巧</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="极味耶汉堡排 PARCO">
+  <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="极味耶汉堡排 PARCO">
   <figcaption style="font-size: 0.7em; text-align: center;">超人气的极味耶汉堡排</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Chaos Kitchen 氛围">
+    <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen 氛围">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="Chaos Kitchen 霓虹灯">
+    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Chaos Kitchen 霓虹灯">
   </figure>
   <figcaption style="font-size: 0.85em; text-align: center;">地下1楼Chaos Kitchen的独特氛围</figcaption>
 </div>
@@ -124,11 +119,11 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <h2>🌇 10F: 空中花园 (ROOFTOP PARK)</h2>
 
 逛累了直接上10楼。
-这里有个免费开放的 **空中花园**。
-可以俯瞰涩谷的高楼大厦，视野超棒，是市中心难得的 **发呆好去处**。🍃
+这里有个免费开放的 <b>空中花园</b>。
+可以俯瞰涩谷的高楼大厦，视野超棒，是市中心难得的 <b>发呆好去处</b>。🍃
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="涩谷PARCO 空中花园">
+  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="涩谷PARCO 空中花园">
   <figcaption style="font-size: 0.7em; text-align: center;">10楼空中花园放松一下</figcaption>
 </figure>
 
@@ -146,7 +141,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 从涩谷站走过来大约5分钟，就在去代代木公园的路上。
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-10.jpg" alt="涩谷PARCO 指南">
+  <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="涩谷PARCO 指南">
   <figcaption style="font-size: 0.7em; text-align: center;">祝大家在涩谷PARCO买得开心！</figcaption>
 </figure>
 
@@ -155,7 +150,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <h2>📍 下一站去哪？</h2>
 
 PARCO就在涩谷最热闹的地方。
-来都来了，不如顺便打卡就在PARCO后面的 **"青之洞窟灯光秀"**（冬季限定），或者去 **宫下公园 (MIYASHITA PARK)** 逛逛？
+来都来了，不如顺便打卡就在PARCO后面的 <b>"青之洞窟灯光秀"</b>（冬季限定），或者去 <b>宫下公园 (MIYASHITA PARK)</b> 逛逛？
 
 <p><strong>➡️ <a href="/zh-cn/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;">涩谷青之洞窟点灯2025：地点、时间、最佳拍照机位攻略</a></strong></p>
 

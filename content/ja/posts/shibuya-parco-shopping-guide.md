@@ -66,7 +66,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 6階は**「CYBERSPACE SHIBUYA」**と名付けられ、日本のサブカルチャーに特化したフロアになっています。
 
 <h3>1. ポケモンセンターシブヤ</h3>
-他のポケモンセンターとは全く異なる雰囲気が特徴です。入り口にある培養槽に入った**等身大ミュウツー**は圧巻の迫力。黒を基調としたクールでストリート感のあるグッズが揃っています。
+他のポケモンセンターとは全く異なる雰囲気が特徴です。入り口にある培養槽に入った<b>等身大ミュウツー</b>は圧巻の迫力。黒を基調としたクールでストリート感のあるグッズが揃っています。
 
 <figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-04.jpg" alt="ポケモンセンターシブヤ ミュウツー">
@@ -74,44 +74,39 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 </figure>
 
 <h3>2. Nintendo TOKYO</h3>
-日本初の任天堂直営オフィシャルストアです。**マリオ、ゼルダ、スプラトゥーン、どうぶつの森**など、多彩なキャラクターグッズが手に入ります。
+日本初の任天堂直営オフィシャルストアです。<b>マリオ、ゼルダ、スプラトゥーン、どうぶつの森</b>など、多彩なキャラクターグッズが手に入ります。
 *※週末は大混雑するため、整理券が配布されることがあります。*
 
 <h3>3. その他</h3>
-- **ジャンプショップ：** ワンピース、呪術廻戦、スラムダンクなどのグッズ。
-- **カプコンストア：** モンスターハンター、バイオハザードなどのグッズ。
-- **刀剣乱舞万屋本舗**
-
-<figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="Nintendo TOKYO ストア">
-  <figcaption style="font-size: 0.7em; text-align: center;">巨大なNintendo TOKYOストア</figcaption>
-</figure>
+- <b>ジャンプショップ：</b> ワンピース、呪術廻戦、スラムダンクなどのグッズ。
+- <b>カプコンストア：</b> モンスターハンター、バイオハザードなどのグッズ。
+- <b>刀剣乱舞万屋本舗</b>
 
 <hr class="se-hr">
 
 <h2>🍽️ B1F: カオスキッチン (極味や ハンバーグ)</h2>
 
-地下1階は普通のフードコートではありません。個性的なバー、レコードショップ、話題の飲食店が混在する**「カオスキッチン」**です。
+地下1階は普通のフードコートではありません。個性的なバー、レコードショップ、話題の飲食店が混在する<b>「カオスキッチン」</b>です。
 
-ここの絶対的エースは**「極味や（きわみや）ハンバーグ」**。
+ここの絶対的エースは<b>「極味や（きわみや）ハンバーグ」</b>。
 熱々の石で自分で和牛ハンバーグを焼いて食べるスタイルが大人気です。
 
-**📌 行列攻略のヒント：**
-行列は凄まじく（1～2時間待ちはザラです）、もし行く予定があるなら、以下の**待ち時間短縮＆メニューガイド**をチェックしてみてください。
+<b>📌 行列攻略のヒント：</b>
+行列は凄まじく（1～2時間待ちはザラです）、もし行く予定があるなら、以下の<b>待ち時間短縮＆メニューガイド</b>をチェックしてみてください。
 
 <p><strong>➡️ <a href="/ja/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/" style="color: #667eea;">渋谷パルコ 極味やハンバーグ：メニュー、値段、行列回避のコツ</a></strong></p>
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="極味やハンバーグ パルコ">
+  <img src="/images/posts/shibuya-parco-shopping-guide-05.jpg" alt="極味やハンバーグ パルコ">
   <figcaption style="font-size: 0.7em; text-align: center;">大人気の極味やハンバーグ</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="カオスキッチンの雰囲気">
+    <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="カオスキッチンの雰囲気">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="カオスキッチンのネオンサイン">
+    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="カオスキッチンのネオンサイン">
   </figure>
   <figcaption style="font-size: 0.85em; text-align: center;">地下1階カオスキッチンのユニークな雰囲気</figcaption>
 </div>
@@ -121,10 +116,10 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <h2>🌇 10F: ルーフトップパーク (ROOFTOP PARK)</h2>
 
 買い物の後は10階へ。
-誰でも無料で利用できる**ルーフトップパーク**があります。渋谷のビル群や空を眺めながら一息つける、都会の隠れ家的スポットです。
+誰でも無料で利用できる<b>ルーフトップパーク</b>があります。渋谷のビル群や空を眺めながら一息つける、都会の隠れ家的スポットです。
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="渋谷パルコ ルーフトップパーク">
+  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="渋谷パルコ ルーフトップパーク">
   <figcaption style="font-size: 0.7em; text-align: center;">10階ルーフトップパークでリラックス</figcaption>
 </figure>
 
@@ -139,7 +134,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 渋谷駅から徒歩約5分。代々木公園へ向かう途中にあります。
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-10.jpg" alt="渋谷パルコ ガイド">
+  <img src="/images/posts/shibuya-parco-shopping-guide-09.jpg" alt="渋谷パルコ ガイド">
   <figcaption style="font-size: 0.7em; text-align: center;">渋谷パルコでショッピングを楽しんで！</figcaption>
 </figure>
 
@@ -148,7 +143,7 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <h2>📍 パルコの次はどこへ？</h2>
 
 パルコは渋谷のトレンド発信地のど真ん中にあります。
-せっかくここまで来たなら、パルコのすぐ裏手で開催される**「青の洞窟イルミネーション」**（冬季限定）や、**MIYASHITA PARK**にも足を運んでみてはいかがでしょうか？
+せっかくここまで来たなら、パルコのすぐ裏手で開催される<b>「青の洞窟イルミネーション」</b>（冬季限定）や、<b>MIYASHITA PARK</b>にも足を運んでみてはいかがでしょうか？
 
 <p><strong>➡️ <a href="/ja/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;">渋谷 青の洞窟イルミネーション2025：場所、時間、フォトスポット完全ガイド</a></strong></p>
 
