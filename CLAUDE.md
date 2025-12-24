@@ -302,7 +302,9 @@ User: "완료했습니다" or "Done"
     - Preserve the exact order: text → table → text → image group → text
     - NEVER reorder or relocate these elements from original positions
   * **Verification:**
+    - **Step 0: Content Inventory (CRITICAL):** Before writing, list ALL headers/sections from the original HTML (e.g., 1F, 2F, 3F, B1) to ensure NOTHING is missed.
     - Cross-reference original HTML structure with created Hugo markdown
+    - Ensure tables appear at same position as original
     - Ensure tables appear at same position as original
     - Ensure image groups maintain original grouping and position
     - Ensure links appear in same context as original

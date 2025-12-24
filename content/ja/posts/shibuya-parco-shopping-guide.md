@@ -55,20 +55,45 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <hr class="se-hr">
 
-<h2>📱 3F: ファッション＆雑貨 (Casetify Studio)</h2>
+<h2>👗 2F: Mode & Art (THE NORTH FACE LAB, A.P.C.)</h2>
 
-3階にはスタイリッシュなセレクトショップが揃っています。
-特に**Casetify Studio**は見逃せません。その場で自分のiPhoneケースをカスタマイズでき、自分だけのオリジナルケースを作れるスポットとして人気です。
-**オニツカタイガー**などのユニークなファッションブランドもあり、見て回るだけでも楽しいフロアです。
+<p>個性的なブランドやアートを探すなら2階へ。</p>
+
+<ul>
+  <li><b>THE NORTH FACE LAB (ザ・ノース・フェイス ラボ):</b> 通常の店舗とは一味違います。実験的でユニークな「パープルレーベル」のアイテムをチェック。</li>
+  <li><b>A.P.C. (アー・ペー・セー):</b> デニム、シンプルなバッグ、Tシャツの定番。</li>
+  <li><b>COMME des GARÇONS (コムデギャルソン):</b> 2階だけでなく3階にもあります。フロアごとのラインナップの違いを楽しめます。</li>
+  <li><b>GOOD GOODS ISSEY MIYAKE:</b> イッセイミヤケのユニークな雑貨や「Mokko」バッグが見つかる特別な空間。</li>
+  <li><b>MM6 Maison Margiela:</b> マルジェラのカジュアルライン。</li>
+</ul>
+
+<hr class="se-hr">
+
+<h2>📱 3F: CORNER OF TOKYO STREET (Casetify Studio)</h2>
+
+<ul>
+  <li><b>Vivienne Westwood ACCESSORIES (ヴィヴィアン・ウエストウッド):</b> 財布、バッグ、ジュエリーなどのアクセサリー専門店。ギフトに最適！</li>
+  <li><b>CASETiFY STUDiO (ケースティファイ):</b> スマホケースのカスタムや様々なコラボ製品を見るのに最適です。</li>
+</ul>
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="渋谷パルコ Casetify Studio">
-  <figcaption style="font-size: 0.7em; text-align: center;">Casetify Studioでカスタムケース作り</figcaption>
+  <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="渋谷パルコ Casetify 店舗">
+  <figcaption style="font-size: 0.7em; text-align: center;">3階のCasetify Studio</figcaption>
 </figure>
 
 <hr class="se-hr">
 
-<h2>🎮 6F: サブカルの聖地「CYBERSPACE」 (ポケモン, 任天堂)</h2>
+<h2>⛺ 5F: Outdoor & Kidult</h2>
+
+<ul>
+  <li><b>STARBUCKS (スターバックス):</b> ショッピングに疲れたらカフェイン補給！</li>
+  <li><b>POP MART (ポップマート):</b> ランダムフィギュアの聖地。</li>
+  <li><b>NORDISK (ノルディスク):</b> 感性あふれるキャンプ用品ブランド。</li>
+</ul>
+
+<hr class="se-hr">
+
+<h2>🎮 6F: CYBERSPACE SHIBUYA (任天堂 & ポケモン)</h2>
 
 多くの人がパルコを訪れる最大の理由がここかもしれません！
 6階は**「CYBERSPACE SHIBUYA」**と名付けられ、日本のサブカルチャーに特化したフロアになっています。
@@ -120,22 +145,6 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <div class="image-group-2">
   <figure>
     <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="カオスキッチンの雰囲気">
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="カオスキッチンのネオンサイン">
-  </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">地下1階カオスキッチンのユニークな雰囲気</figcaption>
-</div>
-
-<hr class="se-hr">
-
-<h2>🌇 10F: ルーフトップパーク (ROOFTOP PARK)</h2>
-
-買い物の後は10階へ。
-誰でも無料で利用できる<b>ルーフトップパーク</b>があります。渋谷のビル群や空を眺めながら一息つける、都会の隠れ家的スポットです。
-
-<figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="渋谷パルコ ルーフトップパーク">
   <figcaption style="font-size: 0.7em; text-align: center;">10階ルーフトップパークでリラックス</figcaption>
 </figure>
 

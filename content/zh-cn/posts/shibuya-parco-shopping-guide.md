@@ -56,16 +56,41 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 
 <hr class="se-hr">
 
-<h2>📱 3F: 宝藏配饰 (Casetify Studio)</h2>
+<h2>👗 2F: Mode & Art (THE NORTH FACE LAB, A.P.C.)</h2>
 
-3楼有很多设计感十足的买手店。
-特别是 **Casetify Studio**，一定要去！现场可以定制专属iPhone手机壳，作为"东京旅行纪念"非常有意义。📷
-还有 **Onitsuka Tiger (鬼冢虎)** 等日本特色品牌，随便逛逛都很好买。
+<p>想找有个性的品牌和艺术周边，请来2楼。</p>
+
+<ul>
+  <li><b>THE NORTH FACE LAB:</b> 和普通门店不同，这里有实验性且独特的“Purple Label（紫标）”系列。</li>
+  <li><b>A.P.C.:</b> 牛仔裤、简约包包、T恤的经典之选。</li>
+  <li><b>COMME des GARÇONS (川久保玲):</b> 不仅2楼有，3楼也有。每层的选品风格都不同，值得一逛。</li>
+  <li><b>GOOD GOODS ISSEY MIYAKE:</b> 三宅一生独特的杂货和“Mokko”包包的专门店。</li>
+  <li><b>MM6 Maison Margiela:</b> 马吉拉的休闲副线。</li>
+</ul>
+
+<hr class="se-hr">
+
+<h2>📱 3F: CORNER OF TOKYO STREET (Casetify Studio)</h2>
+
+<ul>
+  <li><b>Vivienne Westwood ACCESSORIES:</b> 钱包、包包、首饰等配饰专门店。送礼首选！</li>
+  <li><b>CASETiFY STUDiO:</b> 可以定制手机壳，还有各种联名款。</li>
+</ul>
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="涩谷PARCO Casetify Studio">
-  <figcaption style="font-size: 0.7em; text-align: center;">在Casetify定制手机壳</figcaption>
+  <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="涩谷PARCO Casetify 店铺">
+  <figcaption style="font-size: 0.7em; text-align: center;">3楼的 Casetify Studio</figcaption>
 </figure>
+
+<hr class="se-hr">
+
+<h2>⛺ 5F: Outdoor & Kidult</h2>
+
+<ul>
+  <li><b>STARBUCKS (星巴克):</b> 逛累了补充咖啡因！☕</li>
+  <li><b>POP MART (泡泡玛特):</b> 盲盒圣地。</li>
+  <li><b>NORDISK:</b> 充满感性的露营装备品牌。</li>
+</ul>
 
 <hr class="se-hr">
 
@@ -123,22 +148,6 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <div class="image-group-2">
   <figure>
     <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen 氛围">
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Chaos Kitchen 霓虹灯">
-  </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">地下1楼Chaos Kitchen的独特氛围</figcaption>
-</div>
-
-<hr class="se-hr">
-
-<h2>🌇 10F: 空中花园 (ROOFTOP PARK)</h2>
-
-逛累了直接上10楼。
-这里有个免费开放的 <b>空中花园</b>。
-可以俯瞰涩谷的高楼大厦，视野超棒，是市中心难得的 <b>发呆好去处</b>。🍃
-
-<figure>
   <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="涩谷PARCO 空中花园">
   <figcaption style="font-size: 0.7em; text-align: center;">10楼空中花园放松一下</figcaption>
 </figure>

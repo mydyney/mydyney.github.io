@@ -55,20 +55,45 @@ The first floor is home to luxury and high-street brands. The lineup is impressi
 
 <hr class="se-hr">
 
-<h2>📱 3F: Fashion & Accessories (Casetify Studio)</h2>
+<h2>👗 2F: Mode & Art (The North Face Lab, A.P.C.)</h2>
 
-The 3rd floor features stylish selected shops.
-Don't miss **Casetify Studio**. You can customize your iPhone case on the spot. It's a popular souvenir choice to make a "Tokyo Memory" phone case.
-There are also unique Japanese fashion brands like **Onitsuka Tiger**, making it fun to browse.
+<p>For unique brands and art, head to the 2nd floor.</p>
+
+<ul>
+  <li><b>THE NORTH FACE LAB:</b> Not your ordinary North Face. Check out the experimental "Purple Label" items.</li>
+  <li><b>A.P.C.:</b> Standard for denim, clean bags, and t-shirts.</li>
+  <li><b>COMME des GARÇONS:</b> You can find them on 2F as well as 3F. Enjoy checking out different lineups on each floor.</li>
+  <li><b>GOOD GOODS ISSEY MIYAKE:</b> A special space where you can find Issey Miyake's unique goods and "Mokko" bags.</li>
+  <li><b>MM6 Maison Margiela:</b> Margiela's casual line.</li>
+</ul>
+
+<hr class="se-hr">
+
+<h2>📱 3F: Corner of Tokyo Street (Casetify Studio)</h2>
+
+<ul>
+  <li><b>Vivienne Westwood ACCESSORIES:</b> Specializes in accessories like wallets, bags, and jewelry. Perfect for gifts!</li>
+  <li><b>CASETiFY STUDiO:</b> Great for browsing custom phone cases and various collaboration products.</li>
+</ul>
 
 <figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="Shibuya Parco Casetify Studio">
-  <figcaption style="font-size: 0.7em; text-align: center;">Custom Phone Cases at Casetify Studio</figcaption>
+  <img src="/images/posts/shibuya-parco-shopping-guide-03.jpg" alt="Shibuya Parco Casetify Store">
+  <figcaption style="font-size: 0.7em; text-align: center;">Casetify Studio at 3F</figcaption>
 </figure>
 
 <hr class="se-hr">
 
-<h2>🎮 6F: "CyberSpace" (Pokemon, Nintendo, Jump Shop)</h2>
+<h2>⛺ 5F: Outdoor & Kidult</h2>
+
+<ul>
+  <li><b>STARBUCKS:</b> Caffeine refill when you're tired from shopping!</li>
+  <li><b>POP MART:</b> The holy land of random figures.</li>
+  <li><b>NORDISK:</b> Emotional camping gear brand.</li>
+</ul>
+
+<hr class="se-hr">
+
+<h2>🎮 6F: CyberSpace Shibuya (Nintendo & Pokemon)</h2>
 
 This is the main reason many travelers visit Parco!
 The 6th floor is entirely dedicated to **Japanese subculture**, branded as **"CyberSpace Shibuya"**.
@@ -120,22 +145,6 @@ The line is insane (often 1-2 hours). If you plan to go, check the <b>Waiting St
 <div class="image-group-2">
   <figure>
     <img src="/images/posts/shibuya-parco-shopping-guide-06.jpg" alt="Chaos Kitchen Atmosphere">
-  </figure>
-  <figure>
-    <img src="/images/posts/shibuya-parco-shopping-guide-07.jpg" alt="Chaos Kitchen Neon Signs">
-  </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Unique vibes of B1F Chaos Kitchen</figcaption>
-</div>
-
-<hr class="se-hr">
-
-<h2>🌇 10F: Rooftop Park (ComDay Park)</h2>
-
-After shopping, head to the 10th floor.
-There is a <b>Rooftop Park</b> that is open for free. You can enjoy a nice view of Shibuya skyscrapers. It's a great hidden spot to rest your legs.
-
-<figure>
-  <img src="/images/posts/shibuya-parco-shopping-guide-08.jpg" alt="Shibuya Parco Rooftop Park">
   <figcaption style="font-size: 0.7em; text-align: center;">Relax at the 10F Rooftop Park</figcaption>
 </figure>
 
