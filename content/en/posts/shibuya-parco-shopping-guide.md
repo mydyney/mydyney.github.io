@@ -60,11 +60,11 @@ The first floor is home to luxury and high-street brands. The lineup is impressi
 <p>For unique brands and art, head to the 2nd floor.</p>
 
 <ul>
-  <li><b>THE NORTH FACE LAB:</b> Not your ordinary North Face. Check out the experimental "Purple Label" items.</li>
-  <li><b>A.P.C.:</b> Standard for denim, clean bags, and t-shirts.</li>
-  <li><b>COMME des GARÇONS:</b> You can find them on 2F as well as 3F. Enjoy checking out different lineups on each floor.</li>
-  <li><b>GOOD GOODS ISSEY MIYAKE:</b> A special space where you can find Issey Miyake's unique goods and "Mokko" bags.</li>
-  <li><b>MM6 Maison Margiela:</b> Margiela's casual line.</li>
+  <li><b>COMME des GARÇONS:</b> You can see various collections including the Homme line and Junya Watanabe.</li>
+  <li><b>ISSEY MIYAKE SHIBUYA:</b> Check out this 2F store if you are looking for the "BAO BAO" bag beloved by Koreans.</li>
+  <li><b>AMI PARIS:</b> Known for its heart logo vibe; cardigans and knitwear are popular.</li>
+  <li><b>KENZO & Stone Island:</b> A gathering of brands preferred by men.</li>
+  <li><b>OFFICINE UNIVERSELLE BULY:</b> A perfume/body product shop with an antique interior.</li>
 </ul>
 
 <hr class="se-hr">

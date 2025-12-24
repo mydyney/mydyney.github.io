@@ -61,11 +61,11 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <p>想找有个性的品牌和艺术周边，请来2楼。</p>
 
 <ul>
-  <li><b>THE NORTH FACE LAB:</b> 和普通门店不同，这里有实验性且独特的“Purple Label（紫标）”系列。</li>
-  <li><b>A.P.C.:</b> 牛仔裤、简约包包、T恤的经典之选。</li>
-  <li><b>COMME des GARÇONS (川久保玲):</b> 不仅2楼有，3楼也有。每层的选品风格都不同，值得一逛。</li>
-  <li><b>GOOD GOODS ISSEY MIYAKE:</b> 三宅一生独特的杂货和“Mokko”包包的专门店。</li>
-  <li><b>MM6 Maison Margiela:</b> 马吉拉的休闲副线。</li>
+  <li><b>COMME des GARÇONS (川久保玲):</b> 可以看到Homme线和Junya Watanabe等各种系列。</li>
+  <li><b>ISSEY MIYAKE SHIBUYA (三宅一生):</b> 如果在找韩国人很爱的“BAO BAO”包，请确认这里的2楼店铺。</li>
+  <li><b>AMI PARIS (亚米):</b> 爱心Logo的感性，开衫和针织类很受欢迎。</li>
+  <li><b>KENZO (高田贤三) & Stone Island (石头岛):</b> 聚集了男性偏爱的品牌。</li>
+  <li><b>OFFICINE UNIVERSELLE BULY:</b> 古典装修风格的香水/身体护理用品店。</li>
 </ul>
 
 <hr class="se-hr">

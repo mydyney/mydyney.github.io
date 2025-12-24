@@ -60,11 +60,11 @@ featured_image: "/images/posts/shibuya-parco-shopping-guide-01.jpg"
 <p>個性的なブランドやアートを探すなら2階へ。</p>
 
 <ul>
-  <li><b>THE NORTH FACE LAB (ザ・ノース・フェイス ラボ):</b> 通常の店舗とは一味違います。実験的でユニークな「パープルレーベル」のアイテムをチェック。</li>
-  <li><b>A.P.C. (アー・ペー・セー):</b> デニム、シンプルなバッグ、Tシャツの定番。</li>
-  <li><b>COMME des GARÇONS (コムデギャルソン):</b> 2階だけでなく3階にもあります。フロアごとのラインナップの違いを楽しめます。</li>
-  <li><b>GOOD GOODS ISSEY MIYAKE:</b> イッセイミヤケのユニークな雑貨や「Mokko」バッグが見つかる特別な空間。</li>
-  <li><b>MM6 Maison Margiela:</b> マルジェラのカジュアルライン。</li>
+  <li><b>COMME des GARÇONS (コムデギャルソン):</b> オム(Homme)ラインやジュンヤ・ワタナベなど、様々なコレクションをご覧いただけます。</li>
+  <li><b>ISSEY MIYAKE SHIBUYA (イッセイミヤケ):</b> 韓国の方に人気の「バオバオ(BAO BAO)」バッグをお探しなら、こちらの2階店舗をチェックしてください。</li>
+  <li><b>AMI PARIS (アミ):</b> ハートロゴの感性、カーディガンやニット類が人気です。</li>
+  <li><b>KENZO (ケンゾー) & Stone Island (ストーンアイランド):</b> 男性に好まれるブランドが集まっています。</li>
+  <li><b>OFFICINE UNIVERSELLE BULY (ビュリー):</b> 重厚なインテリアの香水・ボディ用品店。</li>
 </ul>
 
 <hr class="se-hr">

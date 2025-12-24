@@ -304,10 +304,14 @@ User: "완료했습니다" or "Done"
   * **Verification:**
     - **Step 0: Content Inventory (CRITICAL):** Before writing, list ALL headers/sections from the original HTML (e.g., 1F, 2F, 3F, B1) to ensure NOTHING is missed.
     - Cross-reference original HTML structure with created Hugo markdown
-    - Ensure tables appear at same position as original
+    - Cross-reference original HTML structure with created Hugo markdown
     - Ensure tables appear at same position as original
     - Ensure image groups maintain original grouping and position
     - Ensure links appear in same context as original
+  * **Strict Source Adherence (CRITICAL):**
+    - **NO NEW INFORMATION:** Do NOT create, guess, or hallucinations listing details not present in the source HTML.
+    - **Translate ONLY what exists:** If the source says "X is popular", do not add "and stylish". Stick to the source meaning.
+    - **Exact List Match:** If the source lists 3 brands, do not list 5. If it lists 5, do not list 3. Match the item count exactly.
 - ⚠️ **CRITICAL: TABLE FORMATTING**
   * **Use HTML tables, NOT markdown tables:**
     - Extract table structure from original Naver HTML
