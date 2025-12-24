@@ -31,6 +31,10 @@ Human Made在 **发售日（通常是周六）** 或联名合作发售日，为�
 
 ### 📢 发放方式（随机抽选 vs 先到先得）
 根据发售日不同，运营方式也会改变。**请务必确认官方Instagram的公告。**
+
+💖 [HUMAN MADE 官方 NEWS](https://humanmade.jp/)
+💖 [HUMAN MADE 官方 Instagram](https://www.instagram.com/humanmade/)
+
 *   **随机抽选（最常见）:** 在指定时间/地点集合的人群中随机发放号码。（如果抽到“꽝(未中签)”，则无法入店）
 *   **先到先得:** 按照排队顺序发放号码。（人气发售日瞬间就会发完）
 

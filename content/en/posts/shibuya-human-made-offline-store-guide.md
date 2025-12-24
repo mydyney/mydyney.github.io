@@ -33,6 +33,10 @@ It determines your **entry order**, but it is **NOT a guaranteed purchase ticket
 
 ### 📢 Distribution Method (Random vs First-come)
 The method changes depending on the release day. **You MUST check the official Instagram for announcements.**
+
+💖 [HUMAN MADE Official NEWS](https://humanmade.jp/)
+💖 [HUMAN MADE Official Instagram](https://www.instagram.com/humanmade/)
+
 *   **Random Lottery (Most Common):** Numbered tickets are distributed randomly to people gathered at a specific time and place. (If you draw a "blank", you cannot enter.)
 *   **First-come, First-served:** Numbers are given in arrival order. (On popular days, it ends instantly.)
 
