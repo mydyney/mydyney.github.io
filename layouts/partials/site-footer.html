@@ -7,12 +7,23 @@
           <h3>Tokyo Mate</h3>
           <p class="footer-tagline">東京メイト</p>
         </div>
+
+        {{ if eq .Language.Lang "en" }}
         <p class="footer-description">
-          Your ultimate guide to Tokyo, Japan. Discover the best restaurants, travel tips, and hidden gems in Tokyo.
+          <strong>Authentic Tokyo Guide</strong><br>
+          Based on real experiences from the popular Korean blog <strong><a href="https://blog.naver.com/tokyomate" target="_blank" style="color: inherit; text-decoration: underline;">Tokyo Mate</a></strong>, we share local insights, best eats, and hidden gems you won't find in guidebooks.
         </p>
-        <p class="footer-description-ja">
-          東京の最高のレストラン、旅行のヒント、隠れた名所を発見しましょう。
+        {{ else if eq .Language.Lang "ja" }}
+        <p class="footer-description">
+          <strong>東京メイト (Tokyo Mate)</strong><br>
+          韓国の人気ブログ<strong><a href="https://blog.naver.com/tokyomate" target="_blank" style="color: inherit; text-decoration: underline;">Tokyo Mate</a></strong>の実体験に基づき、ガイドブックには載っていない東京の隠れた名所やリアルなグルメ情報をお届けします。
         </p>
+        {{ else if eq .Language.Lang "zh-cn" }}
+        <p class="footer-description">
+          <strong>Tokyo Mate (东京伴侣)</strong><br>
+          基于韩国人气博客<strong><a href="https://blog.naver.com/tokyomate" target="_blank" style="color: inherit; text-decoration: underline;">Tokyo Mate</a></strong>的亲身经历，为您严选东京当地美食与隐秘景点，带您发现最真实的东京。
+        </p>
+        {{ end }}
       </div>
 
       <!-- Quick Links -->
