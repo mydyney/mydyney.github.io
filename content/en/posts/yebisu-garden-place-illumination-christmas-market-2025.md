@@ -189,7 +189,7 @@ Special gourmet food trucks different from Clock Square come here.
 Next to Clock Square, <strong>BLUE NOTE PLACE</strong> hosts a free DJ event <strong>GOOD MUSIC TERRACE</strong> during specific December periods.
 
 - <strong>Period:</strong> December weekends (5-7, 12-14, 19-21) and Christmas season (23-25)
-- <strong>Hours:</strong> (Weekdays) 17:30~20:00 / (Weekends) 15:00~20:00
+- <strong>Hours:</strong> <span>(Weekdays) 17:30~20:00 / (Weekends) 15:00~20:00</span>
 - <strong>Location:</strong> Clock Square, Blue Note Place terrace
 
 ### ☕ BNP STAND
