@@ -48,6 +48,14 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ![デコルテ協賛ディスプレイ1](/images/posts/miyashita-park-illumination-2024-03.jpg)
 ![デコルテ協賛ディスプレイ2](/images/posts/miyashita-park-illumination-2024-04.jpg)
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/223689247336" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
+
 </div>
 
 今年の協賛社は化粧品専門ブランドのデコルテです。

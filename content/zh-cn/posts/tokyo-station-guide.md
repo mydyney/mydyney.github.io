@@ -259,4 +259,12 @@ A3. 可以，如果持有有效JR Pass，向站员出示Pass进入检票口内�
      Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京交通通票推荐，东京Metro通票 vs 都区内通票完全对比</strong></a>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224031611221" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+
 </div>
