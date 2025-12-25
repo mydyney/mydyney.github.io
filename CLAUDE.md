@@ -1643,6 +1643,63 @@ Complete information at a glance.</p>
 - `/static/css/related-posts.css` - Related posts sidebar styles
 - All three are loaded globally via `head-additions.html`
 
+### Editor's Note Section
+
+**⚠️ MANDATORY: Add Editor's Note to ALL blog posts**
+
+Every blog post must include an Editor's Note section at the bottom (before closing `</div>` tag) with language-specific content and the correct Naver blog URL.
+
+**Format:**
+
+```html
+<!-- English Version -->
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
+<!-- Japanese Version -->
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
+
+<!-- Chinese Version -->
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+```
+
+**How to Find Naver Post ID:**
+
+1. Open `LINK_MAPPING.md`
+2. Find the Hugo slug in the Quick Reference Table
+3. Use the corresponding Naver ID from the first column
+4. Replace `[NAVER_POST_ID]` with the actual ID
+
+**Example:**
+
+For post `shinjuku-chuo-park`:
+- Naver ID from LINK_MAPPING.md: `224101626196`
+- Editor's Note link: `https://blog.naver.com/tokyomate/224101626196`
+
+**Placement:**
+- Position: After all content, before closing `</div>` tag
+- Always at the very end of the blog post body
+
+**Styling:**
+- Title: Left-aligned, italic, bold
+- Box: Light gray background (#f7f7f7), blue left border (#667eea)
+- Padding: 15px
+- Link color: Purple-blue (#667eea) with underline
+
 ### Related Posts
 
 **Overview:**

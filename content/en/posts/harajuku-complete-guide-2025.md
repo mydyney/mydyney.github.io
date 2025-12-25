@@ -202,4 +202,12 @@ After exploring Harajuku, cross just one street to the sophisticated Omotesando,
 
 <strong>➡️ [Shinjuku Complete Guide: Gyoen Park, Restaurants, Shopping, Golden Gai](/posts/shinjuku-complete-guide-2025/)</strong>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224030294691" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
 </div>
