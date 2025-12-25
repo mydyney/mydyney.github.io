@@ -171,8 +171,15 @@ KALDI全年推出季节限定商品！秋季会推出以**栗子**和**红薯**�
 
 ## ⭐ 相关日本购物指南
 
-➡️ [**新宿完全指南：新宿御苑·美食·购物·黄金街**](/zh-cn/posts/shinjuku-guide-2025/)  
-➡️ [**2025年唐吉诃德购物清单：必买推荐&折扣优惠券**](/zh-cn/posts/don-quijote-shopping-guide-2025/)  
+➡️ [**新宿完全指南：新宿御苑·美食·购物·黄金街**](/zh-cn/posts/shinjuku-guide-2025/)
+➡️ [**2025年唐吉诃德购物清单：必买推荐&折扣优惠券**](/zh-cn/posts/don-quijote-shopping-guide-2025/)
 ➡️ [**日本便利店完全攻略！（7-11、全家、罗森比较）**](/zh-cn/posts/japan-convenience-store-shopping-best-10/)
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224033964477" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 </div>

@@ -331,4 +331,12 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ➡️ <a href="/zh-cn/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>六本木玩法完全攻略（观景台、美术馆、购物、餐厅）</strong></a>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/223989943826" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+
 </div>
