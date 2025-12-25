@@ -223,4 +223,12 @@ JAL、Air Premia等使用。规模与第1航站楼相当，有"AKIHABARA"等大�
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224010546735 Hugo: /zh-cn/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 日本威士忌山崎、响官方价格总结及入门者、礼品推荐</b></a>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224064132817" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+
 </div>

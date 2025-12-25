@@ -393,4 +393,12 @@ JR中央·总武线（黄色）新宿站上车 → 水道桥站（水道桥駅�
 
 ➡️ <a href="/zh-cn/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>东京都厅免费展望台 灯光秀 高达、哥斯拉时间、交通、休馆日、夜景优惠信息总结</b></a>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224063760866" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+
 </div>

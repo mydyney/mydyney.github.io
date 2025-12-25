@@ -293,4 +293,12 @@ The Tembo Deck at 350m and Tembo Galleria at 450m are decorated with Christmas t
 
 <p><a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color:#667eea;"><strong>➡️ Tokyo 3 Nights 4 Days Christmas Illumination Recommended Course & Christmas Markets (Routes, Budget Complete Guide)</strong></a></p>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224042431249" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
 </div>

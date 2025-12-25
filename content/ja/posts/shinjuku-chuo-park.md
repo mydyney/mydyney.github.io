@@ -179,6 +179,14 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
   <figure><img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="TWINKLE PARK 1"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="TWINKLE PARK 2"></figure>
   <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園 イルミネーション TWINKLE PARK</figcaption>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224101626196" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
+
 </div>
 
 ---

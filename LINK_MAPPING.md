@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-12-15
-> **Status:** ✅ Complete - 79 posts mapped (1 pending Naver ID)
+> **Last Updated:** 2025-12-25
+> **Status:** ✅ Complete - 88 posts mapped
 
 ---
 
@@ -83,6 +83,9 @@ When migrating a Naver blog post to Hugo:
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 | 223992588094 | tokyo-september-festivals-2025 | 2025-09-02 | ✅ |
 | 224089448937 | shinjuku-station-breakfast-best-8 | 2025-11-27 | ✅ |
+| 224090178080 | shinjuku-gashapon-shops-best-7 | 2025-11-27 | ✅ |
+| 224092707353 | jiyugaoka-tokyo-travel-guide | 2025-11-30 | ✅ |
+| 224093593124 | hibiya-park-tokyo-guide | 2025-11-30 | ✅ |
 | 224098870040 | shibuya-sushi-no-midori-lunch-guide | 2025-12-05 | ✅ |
 | 224098592756 | shibuya-blue-cave-illumination-2025 | 2025-12-06 | ✅ |
 | 224031114514 | shibuya-complete-guide-2025 | 2025-10-03 | ✅ |
@@ -308,6 +311,9 @@ declare -A MAPPINGS=(
   ["223664743235"]="shinanoya-roppongi-hills-supermarket"
   ["223992588094"]="tokyo-september-festivals-2025"
   ["224089448937"]="shinjuku-station-breakfast-best-8"
+  ["224090178080"]="shinjuku-gashapon-shops-best-7"
+  ["224092707353"]="jiyugaoka-tokyo-travel-guide"
+  ["224093593124"]="hibiya-park-tokyo-guide"
   ["224098870040"]="shibuya-sushi-no-midori-lunch-guide"
   ["224098592756"]="shibuya-blue-cave-illumination-2025"
   ["224031114514"]="shibuya-complete-guide-2025"

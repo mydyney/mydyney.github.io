@@ -443,4 +443,12 @@ JR中央线20分钟的三鹰站有**"三鹰之森吉卜力美术馆"**，一起�
 
 <p><strong>➡️ <a href="/zh-cn/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;">从Busta新宿出发！木更津三井奥特莱斯交通、折扣优惠券、入驻品牌</a></strong></p>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224035271300" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+
 </div>

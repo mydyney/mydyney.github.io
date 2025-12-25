@@ -238,4 +238,12 @@ Explore the charming Nakameguro and Daikanyama neighborhoods!<br>
 <!-- Link updated -->
 <strong>🛍️ Shibuya Attractions:</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Just one station away! Complete Shibuya guide (Parco, Shibuya Sky)</a></p>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224052025195" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
 </div>

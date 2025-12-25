@@ -348,4 +348,12 @@ However, Tokyo City View (Mori Tower 52F) requires <strong>paid admission</stron
 
 <p>The Roppongi Hills Illumination 2025 is a true highlight of Tokyo's winter season, living up to its reputation as a "street of light and art". Check the official schedule and photo spot map in advance, and enjoy Tokyo's Christmas with a warm cup of Glühwein! 🎅</p>
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224065668379" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
 </div>

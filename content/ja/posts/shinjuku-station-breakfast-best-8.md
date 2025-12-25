@@ -328,4 +328,12 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 - **無料夜景 ➡️ [東京都庁無料展望台への行き方・夜景名所ヒント](/ja/posts/tokyo-metropolitan-govt-observatory/)**
 - **ピクニック ➡️ [新宿御苑入場料・時間・スタバ・ピクニックガイド](/ja/posts/shinjuku-gyoen-guide-2025/)**
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224089448937" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
+
 </div>

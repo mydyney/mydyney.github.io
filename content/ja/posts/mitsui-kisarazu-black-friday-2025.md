@@ -241,4 +241,11 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /ja/posts/tokyo-station-guide/ -->
 ➡️ [東京駅の遊び場、キャラクターストリートからグルメ、夜景、荷物預かりコインロッカー](#)
 
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224073553885" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
+
 </div>

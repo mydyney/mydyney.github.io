@@ -301,4 +301,12 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
 ✔️ **新宿出发→Busta新宿利木津巴士→1小时到达迪士尼乐园！**
 对于行李多、带孩子的家庭，这条路线是最轻松无压力的旅行方式。
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224067094205" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+
 </div>
