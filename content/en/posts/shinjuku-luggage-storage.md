@@ -24,7 +24,7 @@ Plus prices and reservation methods - everything you need for 2025!</p>
 
 ## Introduction
 
-The first gateway to Shinjuku travel is **Shinjuku Station luggage storage**.
+The first gateway to Shinjuku travel is <strong>Shinjuku Station luggage storage</strong>.
 
 Finding a place to store your 28-inch suitcase at the world's busiest Shinjuku Station is literally a battle.
 
@@ -36,13 +36,13 @@ By 10 AM, most large coin lockers are full. Here are 3 practical tips so you won
 
 Japanese coin lockers come in 2 types.
 
-**1. Key Type (Old Model)**
+<strong>1. Key Type (Old Model)</strong>
 - Most common type
 - Only accepts 100 yen coins
 - Put luggage → Insert coins → Turn key to lock
 - Don't lose the key!
 
-**2. Touch Panel Type (New Model)**
+<strong>2. Touch Panel Type (New Model)</strong>
 - Increasingly common type
 - Accepts cash and IC cards (Suica, Pasmo)
 - Put luggage → Select location on screen → Pay → Lock
@@ -103,9 +103,9 @@ Keio Line and Inokashira Line Shinjuku Station, accessible from JR Shinjuku Stat
 
 With 10 locker locations total, you can check locker sizes and availability in real-time on the official website, so no need to wander searching for empty lockers.
 
-**📌 Coin Locker Real-Time Availability (Keio Line Official)**
+<strong>📌 Coin Locker Real-Time Availability (Keio Line Official)</strong>
 
-➡️ **<a href="https://www.keiochika.co.jp/locker/service/shinjuku.html" target="_blank">Check Keio Line Shinjuku Station Coin Locker Real-Time Availability</a>**
+➡️ <strong><a href="https://www.keiochika.co.jp/locker/service/shinjuku.html" target="_blank">Check Keio Line Shinjuku Station Coin Locker Real-Time Availability</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-05.jpg" alt="Keio Line Shinjuku Station coin locker real-time availability screen">
@@ -128,7 +128,7 @@ With 10 locker locations total, you can check locker sizes and availability in r
 
 ## 3. Shinjuku Station Luggage Storage Centers
 
-Around Shinjuku Station, there are also several staffed **luggage storage services (storage centers)** where you can safely store your luggage. Great when all station coin lockers are full, or when you want to send luggage to the airport or hotel.
+Around Shinjuku Station, there are also several staffed <strong>luggage storage services (storage centers)</strong> where you can safely store your luggage. Great when all station coin lockers are full, or when you want to send luggage to the airport or hotel.
 
 ### 1. Odakyu Sightseeing Service Center (West/South Exit)
 
@@ -139,13 +139,13 @@ The famous 'Odakyu Sightseeing Service Center' where you board the Hakone Romanc
 - Dimensions: Total of length + width + height up to 160cm, weight up to 25kg
 - Maximum storage: 3 days (additional fee per day if exceeded)
 
-**🎒 Hakone Hotel Luggage Transport Service (Pro Tip!)**
+<strong>🎒 Hakone Hotel Luggage Transport Service (Pro Tip!)</strong>
 
 There's also a service that transports luggage from Hakone-Yumoto Station to your hotel, and from hotel to station. You can leave luggage at Hakone-Yumoto Station and travel freely without heavy bags.
 
-**📌 Hakone Luggage Storage Service Application**
+<strong>📌 Hakone Luggage Storage Service Application</strong>
 
-**➡️ <a href="https://www.hakonenavi.jp/hakone-luggage-transport-service/kr/" target="_blank">Apply for Hakone Luggage Delivery Service ↗</a>**
+<strong>➡️ <a href="https://www.hakonenavi.jp/hakone-luggage-transport-service/kr/" target="_blank">Apply for Hakone Luggage Delivery Service ↗</a></strong>
 
 | Location | Check-in Time | Pick-up Time |
 |----------|---------------|--------------|
@@ -171,14 +171,14 @@ There's also a service that transports luggage from Hakone-Yumoto Station to you
 - Features: Korean language support available, foreign currency exchange available
 - Hours: 06:30 ~ 23:00 (exceptionally long)
 
-**📍 <a href="https://maps.app.goo.gl/G1v863SfRe4d64M87" target="_blank">View on Google Maps ↗</a>**
+<strong>📍 <a href="https://maps.app.goo.gl/G1v863SfRe4d64M87" target="_blank">View on Google Maps ↗</a></strong>
 
-**🎒 Luggage Storage Prices (Per Day)**
+<strong>🎒 Luggage Storage Prices (Per Day)</strong>
 - Total dimensions up to 100cm: ¥800
 - Total dimensions up to 160cm (suitcase): ¥1,000
 - Total dimensions 161cm and above: ¥1,500
 
-**✈️ Same-Day Hotel Delivery Service, Airport Delivery Service (Pro Tip!)**
+<strong>✈️ Same-Day Hotel Delivery Service, Airport Delivery Service (Pro Tip!)</strong>
 
 If checked in by 11:00 AM, luggage will be delivered to Haneda Airport and hotels in Tokyo's 23 wards, or Urayasu City (Disney) hotels after 4:00 PM the same day.
 
@@ -193,11 +193,11 @@ Great for sending luggage ahead and sightseeing light on your first travel day.
 - Important: 100% advance reservation and payment required (on-site payment not available)
 - Hours: 10:00 ~ 19:00 (department store hours)
 
-**📍 <a href="https://maps.app.goo.gl/XYJHHWSXLP3RThy48" target="_blank">View on Google Maps ↗</a>**
+<strong>📍 <a href="https://maps.app.goo.gl/XYJHHWSXLP3RThy48" target="_blank">View on Google Maps ↗</a></strong>
 
-**📌 Keio Department Store Luggage Storage Reservation**
+<strong>📌 Keio Department Store Luggage Storage Reservation</strong>
 
-**➡️ <a href="https://cloak.ecbo.io/space/9ggys9Au" target="_blank">Apply for Keio Department Store Luggage Storage Service ↗</a>**
+<strong>➡️ <a href="https://cloak.ecbo.io/space/9ggys9Au" target="_blank">Apply for Keio Department Store Luggage Storage Service ↗</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-09.jpg" alt="Keio Department Store Shinjuku ecbo cloak luggage storage service">
@@ -211,24 +211,24 @@ A service similar to Keio Department Store's ecbo cloak where you can apply for 
 - Price: From about ¥800 per day
 - Advantage: Many affiliated locations, so you can choose one close to you
 
-**📌 Bounce Luggage Storage Reservation**
+<strong>📌 Bounce Luggage Storage Reservation</strong>
 
-**➡️ <a href="https://ko.bounce.com/s?_aid=710388ec-b5c6-44d7-b13b-093200d24610&query=%EC%9D%BC%EB%B3%B8%20%EB%8F%84%EC%BF%84%EB%8F%84%20%EC%8B%A0%EC%A3%BC%EC%BF%A0%EA%B5%AC" target="_blank">Apply for Bounce Luggage Storage Reservation ↗</a>**
+<strong>➡️ <a href="https://ko.bounce.com/s?_aid=710388ec-b5c6-44d7-b13b-093200d24610&query=%EC%9D%BC%EB%B3%B8%20%EB%8F%84%EC%BF%84%EB%8F%84%20%EC%8B%A0%EC%A3%BC%EC%BF%A0%EA%B5%AC" target="_blank">Apply for Bounce Luggage Storage Reservation ↗</a></strong>
 
 ---
 
 ## 4. Hotel Free Luggage Storage / Internet Cafe Options
 
-**✅ Hotel Free Luggage Storage (Best Method)**
+<strong>✅ Hotel Free Luggage Storage (Best Method)</strong>
 
 Most hotels like Shinjuku Washington Hotel offer free luggage storage on the day before check-in / after check-out. Stopping by your accommodation first to store luggage is best.
 
-**✅ Shinjuku Internet Cafe (For Early Morning Arrival/Departure)**
+<strong>✅ Shinjuku Internet Cafe (For Early Morning Arrival/Departure)</strong>
 
 Internet cafes like 'Booth' and 'Manboo' offer luggage storage, showers, and rest areas. Shinjuku internet cafes also have 2-person rooms, great for killing time awkwardly in the early morning.
 
-- **Booth (Kabukicho)** **📍 <a href="https://maps.app.goo.gl/pFMe22xm3Xg5gurR6" target="_blank">View on Google Maps ↗</a>**
-- **Manboo (Shinjuku Gyoen)** **📍 <a href="https://maps.app.goo.gl/mCwmZdot7HJywzhz8" target="_blank">View on Google Maps ↗</a>**
+- <strong>Booth (Kabukicho)</strong> <strong>📍 <a href="https://maps.app.goo.gl/pFMe22xm3Xg5gurR6" target="_blank">View on Google Maps ↗</a></strong>
+- <strong>Manboo (Shinjuku Gyoen)</strong> <strong>📍 <a href="https://maps.app.goo.gl/mCwmZdot7HJywzhz8" target="_blank">View on Google Maps ↗</a></strong>
 
 ---
 

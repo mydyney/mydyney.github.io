@@ -23,17 +23,17 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ## はじめに
 
-こんにちは！東京旅行クリエイター**Tokyo Mate**です。
+こんにちは！東京旅行クリエイター<strong>Tokyo Mate</strong>です。
 
 2025-2026の冬、新宿の夜が少し特別になりました。「新宿ネオンウォーク」のおかげです。
 
 正直に言いますと、六本木や丸の内のような華やかな大型イルミネーションを期待して来られると少しがっかりするかもしれません。😅 規模がそれほど大きくはないんです。
 
-しかし！東京都庁展望台に行かれるなら、ぜひお立ち寄りください。どうせ通る道、AIアートとネオンサイン、フードトラックを楽しみながら歩く**東京都庁夜景散策コース**として素晴らしいですから。
+しかし！東京都庁展望台に行かれるなら、ぜひお立ち寄りください。どうせ通る道、AIアートとネオンサイン、フードトラックを楽しみながら歩く<strong>東京都庁夜景散策コース</strong>として素晴らしいですから。
 
-今日は公式情報をもとに、がっかりせず**都庁と組み合わせて満喫できる新宿イルミネーションコース**をまとめますね。✨
+今日は公式情報をもとに、がっかりせず<strong>都庁と組み合わせて満喫できる新宿イルミネーションコース</strong>をまとめますね。✨
 
-**➡️** <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank" style="color: #667eea;"><strong>東京都庁無料展望台ライトショー時間、アクセス、休館日、夜景꿀팁</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank" style="color: #667eea;"><strong>東京都庁無料展望台ライトショー時間、アクセス、休館日、夜景꿀팁</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-02.jpg" alt="東京都庁ライトショーの夜景">
@@ -44,18 +44,18 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ## 1. 新宿ネオンウォーク運営情報（期間/時間）
 
-江戸時代の伝統と現代技術が共存する光の祭典、**新宿ネオンウォーク(Shinjuku Neon Walk)**の基本情報です。
+江戸時代の伝統と現代技術が共存する光の祭典、<strong>新宿ネオンウォーク(Shinjuku Neon Walk)</strong>の基本情報です。
 
 ### 🌟 新宿ネオンウォーク アート イルミネーション（光の祭典）
 
-- **開催期間:** 2025年11月27日(木) ~ 2026年1月7日(水)
-- **点灯時間:** 16:30 ~ 22:00
+- <strong>開催期間:</strong> 2025年11月27日(木) ~ 2026年1月7日(水)
+- <strong>点灯時間:</strong> 16:30 ~ 22:00
 
-**📌 Tip.** 12月31日(水)は**新宿カウントダウンイベント**で**25:00(深夜1時)**まで延長！
+<strong>📌 Tip.</strong> 12月31日(水)は<strong>新宿カウントダウンイベント</strong>で<strong>25:00(深夜1時)</strong>まで延長！
 
-- **入場料:** 無料
-- **場所:** 中央通り（新宿ワシントンホテル～東京都庁間 約200m）
-- **位置:** **📍** <a href="https://maps.app.goo.gl/PcWuQShFkiSaZWGCA" target="_blank" style="color: #667eea;"><strong>Googleマップで見る↗</strong></a>
+- <strong>入場料:</strong> 無料
+- <strong>場所:</strong> 中央通り（新宿ワシントンホテル～東京都庁間 約200m）
+- <strong>位置:</strong> <strong>📍</strong> <a href="https://maps.app.goo.gl/PcWuQShFkiSaZWGCA" target="_blank" style="color: #667eea;"><strong>Googleマップで見る↗</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-03.jpg" alt="新宿ネオンウォーク アートイルミネーション地図 Zone A-D表示">
@@ -64,7 +64,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ### 🚚 Neo ネオン屋台（フードトラック）
 
-おいしい匂いいっぱいのフードトラックゾーンは**運営日が異なります**ので、必ず確認してから行きましょう！
+おいしい匂いいっぱいのフードトラックゾーンは<strong>運営日が異なります</strong>ので、必ず確認してから行きましょう！
 
 <table class="schedule-table">
   <thead>
@@ -95,8 +95,8 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 新宿駅西口から東京都庁まで歩いて行く方法を一番おすすめします！👑
 
-**🚅 JR新宿駅 西口 (West Exit)**
-- 西口から出て**「中央通り(Chuo-dori)」**に沿ってまっすぐ進みます。
+<strong>🚅 JR新宿駅 西口 (West Exit)</strong>
+- 西口から出て<strong>「中央通り(Chuo-dori)」</strong>に沿ってまっすぐ進みます。
 - Zone Aからネオンアートを順番に楽しみながら自然と東京都庁展望台まで続く最も完璧なコース。(徒歩約10~15分)
 
 <figure>
@@ -104,12 +104,12 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
   <figcaption style="font-size: 0.7em; text-align: center;">新宿駅西口とつながる中央通り</figcaption>
 </figure>
 
-**🚅 都営大江戸線(E) 都庁前駅 A1出口**
+<strong>🚅 都営大江戸線(E) 都庁前駅 A1出口</strong>
 - 東京都庁と一番近い駅ですが、ネオンウォーク会場まで逆に遡らなければならず、観覧の流れが途切れます。観覧を終えて帰宅する際に利用することをおすすめします。
 
-**🚅 丸ノ内線(M) 西新宿駅 E7出口:** 徒歩10分
+<strong>🚅 丸ノ内線(M) 西新宿駅 E7出口:</strong> 徒歩10分
 
-**🚌 バス利用方法**（歩くのが大変な時におすすめ）
+<strong>🚌 バス利用方法</strong>（歩くのが大変な時におすすめ）
 - JR新宿駅西口(地下バス乗り場) → 都営バス「都庁循環」乗車 → 「都庁第一本庁舎」下車
 
 ---
@@ -120,7 +120,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ### ⭐ Zone-A: 光の始まり (Light Seeds)
 
-**1. Light Seeds ✨**
+<strong>1. Light Seeds ✨</strong>
 
 街路樹にぶら下がる「光の実」がオーロラレーザーと出会うメインストリート。BGMはなんと<エルデンリング>、<ダークソウル>の作曲家「北村友香」さんが参加しました。
 
@@ -134,7 +134,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ネオンウォークZone A - 光の始まり (Light Seeds)</figcaption>
 </div>
 
-**2. Lucky Neon Art 📸**
+<strong>2. Lucky Neon Art 📸</strong>
 
 入口で「ここに来た！」認証ショット撮るのにちょうど良いネオンサインフォトゾーンです。
 
@@ -152,7 +152,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ### ⭐ Zone-B: AI体験 (Transformirror)
 
-**1. Transformirror 🤖**
+<strong>1. Transformirror 🤖</strong>
 
 カメラの前に立つとAIがあなたを認識して不思議な映像に変えてくれます。子供たちも、カップルも並んで撮る人気1位スポット！
 
@@ -161,7 +161,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ネオンウォークZone B - Transformirror</figcaption>
 </figure>
 
-**2. EDO GATE**
+<strong>2. EDO GATE</strong>
 
 江戸時代の書体で書かれた提灯とサイバーパンクネオンの調和。ヒップな感性写真はここから出ます。
 
@@ -184,10 +184,10 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 おいしい匂いいっぱいのフードトラックゾーンは毎日運営していません。運営日程を必ず確認してから行きましょう！
 
-**😋 おすすめメニュー**
-- **カミマキ寿司:** 一口サイズ！中トロ巻(800円)、エビぼってぃ(700円)
-- **ターキーレッグ(1,200円):** 炎の香りするバーベキュー、ボリューム満点。
-- **抹茶クレープ(900円~):** デザートに完璧。
+<strong>😋 おすすめメニュー</strong>
+- <strong>カミマキ寿司:</strong> 一口サイズ！中トロ巻(800円)、エビぼってぃ(700円)
+- <strong>ターキーレッグ(1,200円):</strong> 炎の香りするバーベキュー、ボリューム満点。
+- <strong>抹茶クレープ(900円~):</strong> デザートに完璧。
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-13.jpg" alt="Zone CのNeo ネオン屋台フードトラック">
@@ -198,14 +198,14 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ### ⭐ Zone-D: 出会いの広場 (KAWAII DOME)
 
-**1. 🌲 Echo Trees:** 2本の木が光で対話する感性的なインスタレーションアート。
+<strong>1. 🌲 Echo Trees:</strong> 2本の木が光で対話する感性的なインスタレーションアート。
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-14.jpg" alt="Zone DのEcho Trees照明アートインスタレーション">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ネオンウォークZone D - Echo Trees</figcaption>
 </figure>
 
-**2. TOKYO KAWAII DOME🌸:** テレビ朝日の人気番組<ももクロちゃんと！>とコラボしたかわいいネオンアートがあり、カップルに大人気。
+<strong>2. TOKYO KAWAII DOME🌸:</strong> テレビ朝日の人気番組<ももクロちゃんと！>とコラボしたかわいいネオンアートがあり、カップルに大人気。
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-15.jpg" alt="TOKYO KAWAII DOMEカラフルなネオンディスプレイ">
@@ -226,22 +226,22 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ## 4. スタンプラリー＆景品（見逃すと損！）
 
-ネオンウォークでただ歩かないで、**スマートフォン**を取り出してください！
+ネオンウォークでただ歩かないで、<strong>スマートフォン</strong>を取り出してください！
 
-新宿イルミネーション散策を楽しみながら**デジタルスタンプ**を集めるとプレゼントがもらえます。
+新宿イルミネーション散策を楽しみながら<strong>デジタルスタンプ</strong>を集めるとプレゼントがもらえます。
 
-- **期間:** 2025年11月27日(木) ~ 2026年1月7日(水)
-- **時間:** 16:30 ~ 22:00
-- **方法:** デジタルマップを開いて**TAP!**（アプリインストール不要 / 日本語・英語対応）
+- <strong>期間:</strong> 2025年11月27日(木) ~ 2026年1月7日(水)
+- <strong>時間:</strong> 16:30 ~ 22:00
+- <strong>方法:</strong> デジタルマップを開いて<strong>TAP!</strong>（アプリインストール不要 / 日本語・英語対応）
 
-**✅** <a href="https://tokyo-nighttime-project.stroly.com/ko" target="_blank" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>(クリック) 新宿イルミネーション デジタルマップを開く</strong></a>
+<strong>✅</strong> <a href="https://tokyo-nighttime-project.stroly.com/ko" target="_blank" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>(クリック) 新宿イルミネーション デジタルマップを開く</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-18.jpg" alt="スタンプラリーアクセス用QRコード案内板">
   <figcaption style="font-size: 0.7em; text-align: center;">スタンプ場所にある案内板QRアクセス可能</figcaption>
 </figure>
 
-**スタンプ場所（10カ所）**
+<strong>スタンプ場所（10カ所）</strong>
 
 ① 新宿ネオンウォーク Transformirror
 ② 新宿ネオンウォーク EDO GATE
@@ -259,10 +259,10 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ネオンスタンプラリー地図 スタンプ場所10カ所 (<a href="https://tokyo-nighttime-project.jp/en/neonwalk/" target="_blank" style="color: #667eea;">出典</a>)</figcaption>
 </figure>
 
-**🎁 景品**
+<strong>🎁 景品</strong>
 
-- **5個獲得（ハーフ賞）:** **即座に当選**！ホテルラウンジ割引券、フードトラック200円割引クーポンなど
-- **10個獲得（コンプリート賞）:** 抽選でQUOカード2,000円券(50名)、限定版Tシャツ(10名)贈呈
+- <strong>5個獲得（ハーフ賞）:</strong> <strong>即座に当選</strong>！ホテルラウンジ割引券、フードトラック200円割引クーポンなど
+- <strong>10個獲得（コンプリート賞）:</strong> 抽選でQUOカード2,000円券(50名)、限定版Tシャツ(10名)贈呈
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-20.jpg" alt="新宿住友ビル snow flowイルミネーションインスタレーション">
@@ -278,26 +278,26 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ## 5. 訪問꿀팁！
 
-**1️⃣ 防寒必須**
+<strong>1️⃣ 防寒必須</strong>
 
-東京の冬の夜、ビルの間を吹く風（ビル風）のせいで体感温度がかなり低いです。**カイロと手袋**は必ず持参してください。
+東京の冬の夜、ビルの間を吹く風（ビル風）のせいで体感温度がかなり低いです。<strong>カイロと手袋</strong>は必ず持参してください。
 
-**2️⃣ ゴールデンタイム**
+<strong>2️⃣ ゴールデンタイム</strong>
 
-**平日17:00~19:00**の間が人が適度で写真撮るのに一番良いです。
+<strong>平日17:00~19:00</strong>の間が人が適度で写真撮るのに一番良いです。
 
-**3️⃣ 12月31日、カウントダウンも一緒に楽しみたい？**
+<strong>3️⃣ 12月31日、カウントダウンも一緒に楽しみたい？</strong>
 
-12月31日には同じ場所（東京都庁広場）で大規模な**新宿カウントダウン**イベント**「Happy New Year Tokyo 2026」**が開催されます。初音ミク公演とプロジェクションマッピングが予定されています。
+12月31日には同じ場所（東京都庁広場）で大規模な<strong>新宿カウントダウン</strong>イベント<strong>「Happy New Year Tokyo 2026」</strong>が開催されます。初音ミク公演とプロジェクションマッピングが予定されています。
 
-みんなで**新宿ハッピーニューイヤー**を叫びたいなら**事前応募（無料）**が必須です！詳しい情報は下の記事で確認してください。
+みんなで<strong>新宿ハッピーニューイヤー</strong>を叫びたいなら<strong>事前応募（無料）</strong>が必須です！詳しい情報は下の記事で確認してください。
 
-**👇 新宿新年カウントダウン 無料応募方法**
+<strong>👇 新宿新年カウントダウン 無料応募方法</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224095118118
      Hugo: /ja/posts/tokyo-countdown-2026/ -->
-**➡️** <a href="/ja/posts/tokyo-countdown-2026/" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Happy New Year Tokyo 2026 申請＆ラインアップ総まとめ</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/tokyo-countdown-2026/" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Happy New Year Tokyo 2026 申請＆ラインアップ総まとめ</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-22.jpg" alt="新宿住友ビル クリスマスイルミネーション全景">
@@ -319,12 +319,20 @@ Tokyo Mateでした！
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 完全比較（2025最新版）</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 完全比較（2025最新版）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿観光スポット：新宿御苑からレストラン、ショッピングまで完璧コース</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿観光スポット：新宿御苑からレストラン、ショッピングまで完璧コース</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224095124866" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

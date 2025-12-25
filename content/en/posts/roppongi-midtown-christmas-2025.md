@@ -23,9 +23,9 @@ Essential winter travel guide all in one place.</p>
 
 ---
 
-**Roppongi Midtown Christmas** is an absolute highlight you can't miss during your Tokyo winter trip.
+<strong>Roppongi Midtown Christmas</strong> is an absolute highlight you can't miss during your Tokyo winter trip.
 
-Based on official information, we'll provide you with a comprehensive guide from MIDTOWN CHRISTMAS 2025 **period, hours, and event schedule to illumination, Santa tree, Christmas marche, and ice rink** all at once.
+Based on official information, we'll provide you with a comprehensive guide from MIDTOWN CHRISTMAS 2025 <strong>period, hours, and event schedule to illumination, Santa tree, Christmas marche, and ice rink</strong> all at once.
 
 If you want to experience Tokyo Midtown Christmas, Roppongi Midtown Christmas market, and Tokyo Midtown restaurants & shopping course in your December Tokyo trip, this single post is all you need.
 
@@ -38,16 +38,16 @@ If you want to experience Tokyo Midtown Christmas, Roppongi Midtown Christmas ma
 
 ## 🎄 Midtown Christmas 2025 Overview
 
-The 2025 Tokyo Midtown Christmas theme is **"Your Christmas Story"**.
+The 2025 Tokyo Midtown Christmas theme is <strong>"Your Christmas Story"</strong>.
 
 The entire Midtown Garden is bathed in elegant gold light, featuring:
 
-- **CHRISTMAS GARDEN LIGHTS**
-- **EMOTION PALETTE TREE (Main Tree)**
-- **Light Promenade**
-- **Santa Tree**
-- **Yunth MIDTOWN ICE RINK**
-- **Christmas Marche & Interior Decorations**
+- <strong>CHRISTMAS GARDEN LIGHTS</strong>
+- <strong>EMOTION PALETTE TREE (Main Tree)</strong>
+- <strong>Light Promenade</strong>
+- <strong>Santa Tree</strong>
+- <strong>Yunth MIDTOWN ICE RINK</strong>
+- <strong>Christmas Marche & Interior Decorations</strong>
 
 Roppongi Midtown transforms into a Christmas town where you can enjoy all day long.
 
@@ -106,12 +106,12 @@ This is official event information for one of Tokyo's Christmas season highlight
 
 These are completely different locations. (10-15 minutes walk apart)
 
-- **Roppongi Hills**: Famous for Keyakizaka Street illumination and German-style Christmas market
-- **Tokyo Midtown**: Famous for garden illumination, ice rink, and Galleria indoor tree
+- <strong>Roppongi Hills</strong>: Famous for Keyakizaka Street illumination and German-style Christmas market
+- <strong>Tokyo Midtown</strong>: Famous for garden illumination, ice rink, and Galleria indoor tree
 
-This post is a '**Tokyo Midtown**' guide!
+This post is a '<strong>Tokyo Midtown</strong>' guide!
 
-⭐ **For Roppongi Hills Illumination that started November 4, check the post below!**
+⭐ <strong>For Roppongi Hills Illumination that started November 4, check the post below!</strong>
 
 ➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)
 
@@ -119,12 +119,12 @@ This post is a '**Tokyo Midtown**' guide!
 
 ## 1️⃣ Christmas Garden Lights (CHRISTMAS GARDEN LIGHTS)
 
-With the theme of **"Christmas Memories"**, it expresses various scenes such as gifts, laughter, snow, and silent nights through lighting displays.
+With the theme of <strong>"Christmas Memories"</strong>, it expresses various scenes such as gifts, laughter, snow, and silent nights through lighting displays.
 
 The snow-falling area reminiscent of "White Christmas" is the perfect spot for photos and videos.
 
-- **Period: November 13 (Thu) ~ December 25 (Thu), 2025**
-- **Time: 17:00 ~ 23:00**
+- <strong>Period: November 13 (Thu) ~ December 25 (Thu), 2025</strong>
+- <strong>Time: 17:00 ~ 23:00</strong>
 - Location: Midtown Garden
 - Admission: Free
 
@@ -140,12 +140,12 @@ The snow-falling area reminiscent of "White Christmas" is the perfect spot for p
 
 ### ❄️ Limited Special Effects (Bubbles + Snow)
 
-- **Operating Period: Until December 12, 2025 (Fri)**
+- <strong>Operating Period: Until December 12, 2025 (Fri)</strong>
 - Bubble effects: Once every 3 minutes
 - Snow effects: Once every 12 minutes
 - Effect duration: Approximately 3 minutes
 
-**※ From December 13 (Sat), only regular illumination will continue without bubble and snow effects.**
+<strong>※ From December 13 (Sat), only regular illumination will continue without bubble and snow effects.</strong>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-06.jpg" alt="Tokyo Midtown Christmas Garden Lights bubble and snow effect scenes">
@@ -160,8 +160,8 @@ Uses real fir trees, characterized by gold light as the base with changes to var
 
 With the theme of "Emotion Palette", this tree expresses various emotions in the Christmas story through colors and light.
 
-- **Period: November 13 (Thu) ~ December 25 (Thu), 2025**
-- **Time: 17:00 ~ 23:00**
+- <strong>Period: November 13 (Thu) ~ December 25 (Thu), 2025</strong>
+- <strong>Time: 17:00 ~ 23:00</strong>
 - Location: Midtown Garden
 - Admission: Free
 
@@ -176,8 +176,8 @@ With the theme of "Emotion Palette", this tree expresses various emotions in the
 
 Elegant gold-toned lights warmly greet visitors from the garden entrance.
 
-- **Period: November 13 (Thu), 2025 ~ February 23 (Mon), 2026**
-- **Time: 17:00 ~ 23:00**
+- <strong>Period: November 13 (Thu), 2025 ~ February 23 (Mon), 2026</strong>
+- <strong>Time: 17:00 ~ 23:00</strong>
 - Location: Midtown Garden, Plaza 1F
 - Admission: Free
 - Feature: Can be enjoyed for a long time even after the Christmas season ends
@@ -211,8 +211,8 @@ The approximately 4m tall tree shower space is filled with numerous Santa figure
 
 Various mini-stories are hidden, making it especially popular with families with children.
 
-- **Period: November 13 (Thu) ~ December 25 (Thu), 2025**
-- **Time: 11:00 ~ 23:00**
+- <strong>Period: November 13 (Thu) ~ December 25 (Thu), 2025</strong>
+- <strong>Time: 11:00 ~ 23:00</strong>
 - Location: Galleria 1F Tree Shower
 - Admission: Free
 
@@ -239,8 +239,8 @@ On Galleria 3F, there's a 'Santa Surprise' photo spot with "Boss Santa", an adve
 
 The Roppongi Midtown Christmas Market has a charming appeal different from German-style markets.
 
-- **Period: November 13 (Thu) ~ December 25 (Thu), 2025**
-- **Time: 11:00 ~ 21:00**
+- <strong>Period: November 13 (Thu) ~ December 25 (Thu), 2025</strong>
+- <strong>Time: 11:00 ~ 21:00</strong>
 - Location: Galleria B1F
 - Feature: Sells Christmas ornaments, sundries, accessories, etc.
 - Tip: Extended hours until 10 PM from Dec 20 (Sat) ~ Dec 25 (Thu)
@@ -261,16 +261,16 @@ The Roppongi Midtown Christmas Market has a charming appeal different from Germa
 
 The highlight of Roppongi Christmas, an outdoor ice rink in the heart of the city. This year collaborates with skincare brand 'Yunth'.
 
-- **Period: November 21 (Fri), 2025 ~ February 23 (Mon), 2026**
-- **Time: 11:00 ~ 21:00 (Last entry 20:00)**
+- <strong>Period: November 21 (Fri), 2025 ~ February 23 (Mon), 2026</strong>
+- <strong>Time: 11:00 ~ 21:00 (Last entry 20:00)</strong>
 - Location: Midtown Lawn Square
-- **Fee: Adult (High school+) ¥2,000 / Children (Jr High-) ¥1,400**
+- <strong>Fee: Adult (High school+) ¥2,000 / Children (Jr High-) ¥1,400</strong>
 
 🎄 Holiday Period Rates (12/13~1/4): Adult ¥2,300 / Children ¥1,700
 
 - Rental: Skates ¥500, Sled ¥500 (Weekdays 11:00~18:00)
 
-**⚠️ The facility is closed on January 1, 2026 (Thu), so the ice rink will not operate.**
+<strong>⚠️ The facility is closed on January 1, 2026 (Thu), so the ice rink will not operate.</strong>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-16.jpg" alt="Roppongi Tokyo Midtown Ice Rink (Yunth MIDTOWN ICE RINK) night view">
@@ -287,17 +287,17 @@ During this period, one-way routes and long waiting lines should be expected as 
 
 Be sure to refer to this when deciding your visit date.
 
-**🚨 Peak Congestion Period: December 19 (Fri) ~ December 25 (Thu)**
+<strong>🚨 Peak Congestion Period: December 19 (Fri) ~ December 25 (Thu)</strong>
 
-**⏰ Peak Congestion Time: Daily 17:00 ~ 19:00**
+<strong>⏰ Peak Congestion Time: Daily 17:00 ~ 19:00</strong>
 
-**📌 Recommended Visit: Weekday visits before December 18 (Thu) are strongly recommended.**
+<strong>📌 Recommended Visit: Weekday visits before December 18 (Thu) are strongly recommended.</strong>
 
-**🚧 Traffic Control Days: Dec 20 (Sat), 21 (Sun), 24 (Wed), 25 (Thu) - Traffic control will be implemented during these 4 days due to extreme congestion.**
+<strong>🚧 Traffic Control Days: Dec 20 (Sat), 21 (Sun), 24 (Wed), 25 (Thu) - Traffic control will be implemented during these 4 days due to extreme congestion.</strong>
 
-**🚫 Special Effects End D-Day: Bubble and snow effects only run until December 12 (Fri)!**
+<strong>🚫 Special Effects End D-Day: Bubble and snow effects only run until December 12 (Fri)!</strong>
 
-**‼️ Important Note: If you leave the line to use the restroom, you cannot return to your original spot and must wait again from the back.**
+<strong>‼️ Important Note: If you leave the line to use the restroom, you cannot return to your original spot and must wait again from the back.</strong>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-17.jpg" alt="Finding hidden Santa decorations at Tokyo Midtown Christmas Garden Lights">
@@ -312,17 +312,17 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 
 ### 1. Tokyo Midtown Restaurant Recommendations
 
-**① Tsujihan (つじ半) - Kaisendon (Seafood Bowl)**
+<strong>① Tsujihan (つじ半) - Kaisendon (Seafood Bowl)</strong>
 - Location: Tokyo Midtown Galleria B1F
 - Feature: Waiting is required, but being indoors means you can wait more comfortably than the Tokyo Station main branch
 
 ➡️ [Tsujihan Midtown Branch, Tokyo Roppongi Kaisendon Restaurant with Short Wait](https://blog.naver.com/tokyomate/223986407872)
 
-**② Ibuki Udon (伊吹うどん)**
+<strong>② Ibuki Udon (伊吹うどん)</strong>
 - Location: Tokyo Midtown Galleria B1F
 - Feature: Perfect warm udon soup restaurant for cold weather
 
-**③ Napule (Napule)**
+<strong>③ Napule (Napule)</strong>
 - Location: Tokyo Midtown Garden Terrace 1F
 - Feature: Pizza restaurant where you can dine while viewing the illumination
 
@@ -333,7 +333,7 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
   <figcaption style="font-size: 0.7em; text-align: center;">Illumination view from Napule restaurant at Roppongi Midtown</figcaption>
 </figure>
 
-**④ Tsuru Tontan Roppongi (TsuruTonTan)**
+<strong>④ Tsuru Tontan Roppongi (TsuruTonTan)</strong>
 - Location: 2-minute walk from Tokyo Midtown
 - Feature: Reservations available and numbered ticket system, great for getting a number and enjoying the illumination
 
@@ -341,13 +341,13 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 
 ➡️ [Tokyo Roppongi Udon Restaurant Tsuru Tontan, Get Number and Travel](https://blog.naver.com/tokyomate/223696568926)
 
-**⑤ Imakatsu Roppongi Main Branch (イマカツ)**
+<strong>⑤ Imakatsu Roppongi Main Branch (イマカツ)</strong>
 - Location: 3-minute walk from Tokyo Midtown
 - Feature: Tonkatsu restaurant selected for Michelin Bib Gourmand
 
 ➡️ [Imakatsu Roppongi Main Branch: Tokyo Tonkatsu Restaurant Wait & Reservation Tips](https://blog.naver.com/tokyomate/223985958480)
 
-**⑥ Iruca Tokyo Roppongi (入鹿TOKYO)**
+<strong>⑥ Iruca Tokyo Roppongi (入鹿TOKYO)</strong>
 - Location: 2-minute walk from Tokyo Midtown
 - Feature: Popular ramen restaurant with impressive truffle aroma
 
@@ -355,15 +355,15 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 
 ### 2. Tokyo Midtown Shopping & Attractions
 
-**① Suntory Museum**
+<strong>① Suntory Museum</strong>
 - Location: Galleria 3F
 - Feature: Art viewing available inside the building
 
-**② MUJI & UNIQLO**
+<strong>② MUJI & UNIQLO</strong>
 - Location: Galleria B1F
 - Feature: Large stores for great shopping
 
-**③ PLEATS PLEASE ISSEY MIYAKE**
+<strong>③ PLEATS PLEASE ISSEY MIYAKE</strong>
 - Location: Galleria 2F
 - Feature: Popular items available
 
@@ -376,25 +376,25 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 
 ## ❓ Frequently Asked Questions (Q&A)
 
-**Q1. Is there an admission fee?**
+<strong>Q1. Is there an admission fee?</strong>
 A. Illuminations, Santa Tree, and Christmas Market are free to view. Only the ice skating rink requires a fee (Adults ¥2,500, Children ¥1,500).
 
-**Q2. Can I enjoy it on rainy days?**
+<strong>Q2. Can I enjoy it on rainy days?</strong>
 A. The ice skating rink may be closed during rain as it's outdoors. However, the Santa Tree is inside the Galleria, so it can be viewed regardless of weather.
 
-**Q3. Is it suitable for families with children?**
+<strong>Q3. Is it suitable for families with children?</strong>
 A. Yes, it's very family-friendly. Nursing rooms and diaper changing facilities are available, and there are many family-oriented restaurants.
 
-**Q4. Is there parking nearby?**
+<strong>Q4. Is there parking nearby?</strong>
 A. You can use Tokyo Midtown's underground parking lot (paid). However, it gets crowded on weekends, so we recommend using public transportation.
 
-**Q5. Can I visit both Roppongi Hills and this on the same day?**
+<strong>Q5. Can I visit both Roppongi Hills and this on the same day?</strong>
 A. Yes, highly recommended. The two locations are 10-15 minutes walk apart. The most efficient course is to stop by Roppongi Hills before sunset to see the Christmas market, then move to Tokyo Midtown after dark to enjoy the garden illumination.
 
-**Q6. Is it directly connected to the subway station?**
+<strong>Q6. Is it directly connected to the subway station?</strong>
 A. Yes, directly connected. Exit 8 of Roppongi Station on the Toei Oedo Line or Tokyo Metro Hibiya Line leads directly to the Tokyo Midtown entrance, which is very convenient.
 
-**Q7. Do they sell Christmas cakes too?**
+<strong>Q7. Do they sell Christmas cakes too?</strong>
 A. Yes, they hold a CHRISTMAS CAKE event from November 13 to December 25. Famous bakeries on Galleria B1 accept reservations and sell gorgeous Christmas-exclusive cakes.
 
 ---
@@ -403,23 +403,23 @@ Roppongi Midtown Christmas will be the best choice for those seeking a sophistic
 
 ## 🎄 Christmas in Tokyo 2025
 
-**⭐ Only the Essentials! Tokyo Christmas 3 Nights 4 Days Itinerary**
+<strong>⭐ Only the Essentials! Tokyo Christmas 3 Nights 4 Days Itinerary</strong>
 
 ➡️ [Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market (Route, Budget Complete Guide)](/posts/tokyo-3-day-christmas-illumination-itinerary/)
 
-**🌟 Roppongi Hills Illumination Starting November 4**
+<strong>🌟 Roppongi Hills Illumination Starting November 4</strong>
 
 ➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)
 
-**🌟 Tokyo Skytree Christmas Market Starting November 6**
+<strong>🌟 Tokyo Skytree Christmas Market Starting November 6</strong>
 
 ➡️ [2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)](/posts/tokyo-skytree-christmas-market-2025/)
 
-**🌟 Tokyo Marunouchi Illumination Starting November 13**
+<strong>🌟 Tokyo Marunouchi Illumination Starting November 13</strong>
 
 ➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](/posts/marunouchi-illumination-2025/)
 
-**🌟 Tokyo Hibiya Midtown Illumination Starting November 13**
+<strong>🌟 Tokyo Hibiya Midtown Illumination Starting November 13</strong>
 
 ➡️ [2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide](/posts/hibiya-midtown-illumination-2025/)
 

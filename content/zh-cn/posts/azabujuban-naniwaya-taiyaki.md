@@ -24,7 +24,7 @@ featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"
 
 ## ✨ 百年传统：东京3大鲷鱼烧，浪花家总本店
 
-1909年（明治42年）创业的 **「浪花家总本店」** 是麻布十番的象征性名店。与四谷的「若叶」、人形町的「柳屋」并称 **「东京3大鲷鱼烧」**。
+1909年（明治42年）创业的 <strong>「浪花家总本店」</strong> 是麻布十番的象征性名店。与四谷的「若叶」、人形町的「柳屋」并称 <strong>「东京3大鲷鱼烧」</strong>。
 
 这里的鲷鱼烧，将熬煮8小时的豆沙满满塞进薄而酥脆的外皮，连尾巴尖也塞满豆沙是特色。咬一口「咔嚓」一声，甜蜜豆沙香气充满口腔。
 
@@ -41,16 +41,16 @@ featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"
 
 1楼是鲷鱼烧外带处。观看师傅用传统方法一个个烘烤的过程也是乐趣之一。
 
-**支付仅限现金。** 信用卡、电子支付、二维码支付全部不可用，访问前务必准备好现金！
+<strong>支付仅限现金。</strong> 信用卡、电子支付、二维码支付全部不可用，访问前务必准备好现金！
 
-**📌 优惠信息：** 冷掉的鲷鱼烧用烤箱或烤面包机稍微加热，酥脆感会复活。
+<strong>📌 优惠信息：</strong> 冷掉的鲷鱼烧用烤箱或烤面包机稍微加热，酥脆感会复活。
 
 ### 2楼：Naniwaya Café（浪花家咖啡馆）
 
 2楼有12个座位的小巧咖啡空间。这里不仅有现烤鲷鱼烧，还能享用深受当地人喜爱的其他菜单：
 
-- **隐藏人气菜单：炒面** - 传统风味的炒面深受常客欢迎。
-- **夏季限定：刨冰** - 夏天在没有空调的2楼，边看师傅在热火炉前烤鲷鱼烧边吃「宇治金时（抹茶红豆刨冰）」别有风味！
+- <strong>隐藏人气菜单：炒面</strong> - 传统风味的炒面深受常客欢迎。
+- <strong>夏季限定：刨冰</strong> - 夏天在没有空调的2楼，边看师傅在热火炉前烤鲷鱼烧边吃「宇治金时（抹茶红豆刨冰）」别有风味！
 
 <figure>
   <img src="/images/posts/azabujuban-naniwaya-taiyaki-04.jpg" alt="Naniwaya Café 2楼供应的炒面">
@@ -61,15 +61,15 @@ featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"
 
 ## 📌 访问前必读！浪花家营业信息
 
-**⏰ 营业时间**
+<strong>⏰ 营业时间</strong>
 - 1楼（鲷鱼烧）：11:00 ~ 19:00
 - 2楼（Naniwaya Café）：10:30 ~ 18:00
 
-**🗓️ 定休日：每周二 + 每月第3周二・周三（连续休业）**
+<strong>🗓️ 定休日：每周二 + 每月第3周二・周三（连续休业）</strong>
 
-**💰 支付信息：仅限现金！（信用卡、电子支付、二维码支付全部不可 ❌）**
+<strong>💰 支付信息：仅限现金！（信用卡、电子支付、二维码支付全部不可 ❌）</strong>
 
-**📍 地点：麻布十番站4号出口步行3分钟**
+<strong>📍 地点：麻布十番站4号出口步行3分钟</strong>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6561898,139.7351081&hl=zh-cn&z=17&output=embed"
@@ -97,9 +97,9 @@ featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"
 
 用美味鲷鱼烧填饱肚子后，漫步精致的「成人街区」麻布十番，然后前往紧邻的六本木或麻布台的路线推荐。
 
-**🚶‍♂️ 步行10分钟！**
+<strong>🚶‍♂️ 步行10分钟！</strong>
 
-**艺术&购物之街：六本木之丘** - 想感受与麻布十番风情商店街不同的现代能量和艺术灵感，请前往六本木之丘。
+<strong>艺术&购物之街：六本木之丘</strong> - 想感受与麻布十番风情商店街不同的现代能量和艺术灵感，请前往六本木之丘。
 
 <!-- TODO: Update link after migration
      Naver: /zh-cn/posts/roppongi-attractions-guide

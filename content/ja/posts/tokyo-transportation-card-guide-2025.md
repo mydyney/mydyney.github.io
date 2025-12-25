@@ -26,9 +26,9 @@ Androidユーザーは<strong>ウェルカムスイカ</strong>と<strong>PASMO<
 
 旅行者が混乱している理由は、この2年間で発行ポリシーが継続的に変わったためです。
 
-- **2023年:** 半導体不足により、通常の「Suica」「PASMO」実物カードの新規発行が全面中止されました。
-- **2024年:** その代替だった観光客専用「PASMOパスポート(サンリオカード)」まで販売終了しました。
-- **2025年現在:** 旅行者向け実物カード「Welcome Suica」と「PASMO」が発行されています。
+- <strong>2023年:</strong> 半導体不足により、通常の「Suica」「PASMO」実物カードの新規発行が全面中止されました。
+- <strong>2024年:</strong> その代替だった観光客専用「PASMOパスポート(サンリオカード)」まで販売終了しました。
+- <strong>2025年現在:</strong> 旅行者向け実物カード「Welcome Suica」と「PASMO」が発行されています。
 
 この複雑な状況、あなたの状況に合わせて明快に整理いたします!
 
@@ -36,13 +36,13 @@ Androidユーザーは<strong>ウェルカムスイカ</strong>と<strong>PASMO<
 
 複雑ですか?2つの質問で決められます。
 
-**質問1. スマートフォンは「iPhone」ですか?**
-⭕️ はい(iPhoneユーザー) ➡️ **質問2に回答!**
-❌ いいえ(Androidユーザー) ➡️ **[ガイドB]へ移動!**
+<strong>質問1. スマートフォンは「iPhone」ですか?</strong>
+⭕️ はい(iPhoneユーザー) ➡️ <strong>質問2に回答!</strong>
+❌ いいえ(Androidユーザー) ➡️ <strong>[ガイドB]へ移動!</strong>
 
-**質問2. Apple Payを使っていますか?**
-⭕️ はい(Apple Pay + iPhone) ➡️ **[ガイドA]へ移動!**
-❌ いいえ(Hyundaiカードなし) ➡️ **[ガイドB]へ移動!**
+<strong>質問2. Apple Payを使っていますか?</strong>
+⭕️ はい(Apple Pay + iPhone) ➡️ <strong>[ガイドA]へ移動!</strong>
+❌ いいえ(Hyundaiカードなし) ➡️ <strong>[ガイドB]へ移動!</strong>
 
 ---
 
@@ -50,12 +50,12 @@ Androidユーザーは<strong>ウェルカムスイカ</strong>と<strong>PASMO<
 
 iPhoneとApple Payをお使いなら、最も便利な「モバイル交通カード」の発行対象です!
 
-- **圧倒的な便利さ:** 実物カードなしで携帯/Apple Watchですべて解決!
-- **コスト削減:** 実物カードのデポジット(500円)が不要です。
-- **永久使用:** 28日有効期限のような制限がなく、次回の旅行でもそのまま使えます。
-- **簡単チャージ:** 現金なしでもクレジットカードでいつでもどこでもすぐチャージできます。
+- <strong>圧倒的な便利さ:</strong> 実物カードなしで携帯/Apple Watchですべて解決!
+- <strong>コスト削減:</strong> 実物カードのデポジット(500円)が不要です。
+- <strong>永久使用:</strong> 28日有効期限のような制限がなく、次回の旅行でもそのまま使えます。
+- <strong>簡単チャージ:</strong> 現金なしでもクレジットカードでいつでもどこでもすぐチャージできます。
 
-**📌 Suica vs PASMO?**
+<strong>📌 Suica vs PASMO?</strong>
 モバイルの場合、SuicaとPASMOは機能が100%同じです。どちらを発行しても全く違いはありませんので、先に見えるものを発行してください。
 
 <div class="image-group-2">
@@ -72,17 +72,17 @@ iPhoneとApple Payをお使いなら、最も便利な「モバイル交通カ�
 
 *(※ 別途「Suica」や「PASMO」アプリをダウンロードする必要なく、iPhone基本の「ウォレット」アプリで発行するのが最も早いです。)*
 
-1. iPhone **「ウォレット(Wallet)」** アプリを起動します。
-2. 右上の **「+」ボタン** を押して **「交通系ICカード」** を選択します。
-3. 日本のリストから **「Suica」** または **「PASMO」** を選択します。
+1. iPhone <strong>「ウォレット(Wallet)」</strong> アプリを起動します。
+2. 右上の <strong>「+」ボタン</strong> を押して <strong>「交通系ICカード」</strong> を選択します。
+3. 日本のリストから <strong>「Suica」</strong> または <strong>「PASMO」</strong> を選択します。
 4. チャージする金額(1,000円から)を選択します。
-5. Apple Payの **「Hyundaiカード」** で決済すると発行が即座に完了します!
+5. Apple Payの <strong>「Hyundaiカード」</strong> で決済すると発行が即座に完了します!
 
-**✅ チャージ方法1. Apple Payでチャージする(Hyundaiカード必要)**
-現在、韓国でApple Payに登録できるカードは **「Hyundaiカード(現代カード)」** が唯一です。したがって、モバイルSuica/PASMOを発行してクレジットカードでチャージするには **Apple Payに登録されたHyundaiカード** が必要です。
+<strong>✅ チャージ方法1. Apple Payでチャージする(Hyundaiカード必要)</strong>
+現在、韓国でApple Payに登録できるカードは <strong>「Hyundaiカード(現代カード)」</strong> が唯一です。したがって、モバイルSuica/PASMOを発行してクレジットカードでチャージするには <strong>Apple Payに登録されたHyundaiカード</strong> が必要です。
 
-**✅ チャージ方法2. 現金チャージ(Hyundaiカードがない時の解決方法)**
-Hyundaiカードがない場合、ウォレット(Wallet)アプリにSuica/PASMOを追加して **JR駅、地下鉄駅、空港内のチケット販売機などで現金チャージが可能です**!(フチュオンニ様からの情報提供🙏)
+<strong>✅ チャージ方法2. 現金チャージ(Hyundaiカードがない時の解決方法)</strong>
+Hyundaiカードがない場合、ウォレット(Wallet)アプリにSuica/PASMOを追加して <strong>JR駅、地下鉄駅、空港内のチケット販売機などで現金チャージが可能です</strong>!(フチュオンニ様からの情報提供🙏)
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-05.jpg" alt="iPhoneウォレットアプリで交通カード選択画面">
@@ -95,7 +95,7 @@ Hyundaiカードがない場合、ウォレット(Wallet)アプリにSuica/PASMO
 
 Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple Pay(Hyundaiカード)がない場合は、実物交通カードを発行する必要があります。
 
-2025年現在、旅行者が選択できる実物カードは **「ウェルカムスイカ(Welcome Suica)」** と **「PASMO」** の2種類です。2つのカードの性格が全く異なりますので、下の表を見て自分に合ったカードを選んでください!
+2025年現在、旅行者が選択できる実物カードは <strong>「ウェルカムスイカ(Welcome Suica)」</strong> と <strong>「PASMO」</strong> の2種類です。2つのカードの性格が全く異なりますので、下の表を見て自分に合ったカードを選んでください!
 
 <div class="info-box">
   <table class="schedule-table">
@@ -138,24 +138,24 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 ### 🚨 最終結論:あなたの性向に合ったカードを選んでください!
 
-**1. ウェルカムスイカ(Welcome Suica) - 「利便性」重視派**
+<strong>1. ウェルカムスイカ(Welcome Suica) - 「利便性」重視派</strong>
 - 「旅行最終日に空港で払い戻しの列に並びたくない!」
 - 「残った残高数百円は記念品としてコンビニで全部使う!」
 - 「現金を引き出したくない、クレジットカードで簡単に発行したい!」
 
-👍 こんな方には赤い桜デザインの **「ウェルカムスイカ」** をおすすめします。
+👍 こんな方には赤い桜デザインの <strong>「ウェルカムスイカ」</strong> をおすすめします。
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-06.jpg" alt="赤い桜デザインのWelcome Suicaカード">
   <figcaption style="font-size: 0.7em; text-align: center;">東京実物交通カード / ウェルカムスイカカード</figcaption>
 </figure>
 
-**2. PASMO - 「経済性」重視派**
+<strong>2. PASMO - 「経済性」重視派</strong>
 - 「1円でも無駄にするのが嫌だ!(払い戻し必須!)」
 - 「後でまた日本に来るかもしれない!(有効期限10年)」
 - 「発行時に現金を使うのは面倒ではない!」
 
-👍 こんな方には **「PASMO」** をおすすめします。
+👍 こんな方には <strong>「PASMO」</strong> をおすすめします。
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-07.jpg" alt="PASMO実物交通カード">
@@ -182,15 +182,15 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 はい、2つのカードの役割が全く異なります!2つのカードを一緒に使う組み合わせが最も経済的です。
 
-**1. Suica/PASMO (T-moneyカード)**
-- **役割:** 「チャージ式」万能カード
-- **使用先:** ⭕️ JR、⭕️ 地下鉄、⭕️ バス、⭕️ コンビニ/自販機
-- 東京のすべての場所で使える **「交通財布」** です。
+<strong>1. Suica/PASMO (T-moneyカード)</strong>
+- <strong>役割:</strong> 「チャージ式」万能カード
+- <strong>使用先:</strong> ⭕️ JR、⭕️ 地下鉄、⭕️ バス、⭕️ コンビニ/自販機
+- 東京のすべての場所で使える <strong>「交通財布」</strong> です。
 
-**2. 東京メトロ パス(地下鉄定期券)**
-- **役割:** 「無制限」地下鉄利用券
-- **使用先:** ⭕️ 地下鉄(24/48/72時間)
-- ❌ **JR、バス、コンビニでは絶対に使えません!**
+<strong>2. 東京メトロ パス(地下鉄定期券)</strong>
+- <strong>役割:</strong> 「無制限」地下鉄利用券
+- <strong>使用先:</strong> ⭕️ 地下鉄(24/48/72時間)
+- ❌ <strong>JR、バス、コンビニでは絶対に使えません!</strong>
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-08.jpg" alt="東京メトロパス 24時間/48時間/72時間券">
@@ -199,27 +199,27 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 ### 🚨 結論:「地下鉄パス + Suica」組み合わせが正解!
 
-旅行動線に **地下鉄に乗ることが1日3〜4回以上** なら、交通費節約のために **「東京メトロ パス」** を使ってください。
+旅行動線に <strong>地下鉄に乗ることが1日3〜4回以上</strong> なら、交通費節約のために <strong>「東京メトロ パス」</strong> を使ってください。
 
-そして **地下鉄パスで行けないJR路線** に乗ったり、**コンビニで飲み物を買う時** は **「Suica(or PASMO)」** で決済するのが最も賢い組み合わせです!
+そして <strong>地下鉄パスで行けないJR路線</strong> に乗ったり、<strong>コンビニで飲み物を買う時</strong> は <strong>「Suica(or PASMO)」</strong> で決済するのが最も賢い組み合わせです!
 
-**⭐ 東京地下鉄パス詳しく見る**
+<strong>⭐ 東京地下鉄パス詳しく見る</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**✅** <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank"><strong>Klook(クルック)で東京地下鉄パス(24/48/72時間券)購入する</strong></a>
+<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank"><strong>Klook(クルック)で東京地下鉄パス(24/48/72時間券)購入する</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /ja/posts/tokyo-subway-ticket-guide/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>東京地下鉄パス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>東京地下鉄パス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong></a>
 
 ---
 
 ## 💡 JR無制限パスはないの?あります!
 
-そんな方のための **「JR都区内パス(JR東京都内パス1日券)」** もあります。
+そんな方のための <strong>「JR都区内パス(JR東京都内パス1日券)」</strong> もあります。
 
 しかし、私の旅行動線に「東京メトロ パス」が有利か、「JR都区内パス」が有利かは、ご自身の宿泊施設と目的地によって完全に異なります!
 
@@ -237,21 +237,29 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 ---
 
-複雑だった **東京交通カード発行**、今は明快に解決しましたか?このガイドがあなたの東京旅行準備を少しでも軽くできたことを願っています。
+複雑だった <strong>東京交通カード発行</strong>、今は明快に解決しましたか?このガイドがあなたの東京旅行準備を少しでも軽くできたことを願っています。
 
 東京旅行の必需品、「交通カード」の準備ができましたか?今度は空港から市内まで最も便利に移動する方法と、そのカードを200%活用できるショッピング裏技も一緒に確認してみてください!
 
-⭐ **一緒に読むと良い記事**
+⭐ <strong>一緒に読むと良い記事</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-guide/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>成田エクスプレス(N'EX)予約、価格、時刻表総まとめ</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>成田エクスプレス(N'EX)予約、価格、時刻表総まとめ</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
      Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
-**➡️** <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行割引クーポン総まとめ2025(ドン・キホーテ、ビックカメラなど)</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行割引クーポン総まとめ2025(ドン・キホーテ、ビックカメラなど)</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224046408131" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

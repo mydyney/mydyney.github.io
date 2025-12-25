@@ -23,11 +23,11 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 東京クラフト（TOKYO CRAFTS）のテントと焚き火台、オフラインストアをお探しですか？
 
-東京旅行中に**感性的なキャンプブランドを直接見たいなら、この記事一つで十分です。**
+東京旅行中に<strong>感性的なキャンプブランドを直接見たいなら、この記事一つで十分です。</strong>
 
 韓国のキャンプ博覧会（GOCAF）で実物を逃したなら、
 
-今回の旅行中にテンビ、ウィングフォート、マクライト2などの人気商品を直接見られる正規取扱店と**ポップアップストア情報、免税（Tax-Free）のコツ、手荷物規定まで**完璧にまとめました！
+今回の旅行中にテンビ、ウィングフォート、マクライト2などの人気商品を直接見られる正規取扱店と<strong>ポップアップストア情報、免税（Tax-Free）のコツ、手荷物規定まで</strong>完璧にまとめました！
 
 ---
 
@@ -37,9 +37,9 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 現在の人気商品は次のとおりです。
 
-- **テント/シェルター**: テンビ（Tenbi）、ウィングフォート（Wingfort）、エピカ（Epica）、ナイトローバー（Night Rover）
-- **焚き火台:** マクライト2（Makuraito 2）（超軽量で最も人気！）
-- **テーブル/棚:** コードユニット（Kodeunit）、MFTマルチフレームテーブル
+- <strong>テント/シェルター</strong>: テンビ（Tenbi）、ウィングフォート（Wingfort）、エピカ（Epica）、ナイトローバー（Night Rover）
+- <strong>焚き火台:</strong> マクライト2（Makuraito 2）（超軽量で最も人気！）
+- <strong>テーブル/棚:</strong> コードユニット（Kodeunit）、MFTマルチフレームテーブル
 
 しかし、これらの商品を東京現地のどこで見られるかという情報はほとんどありません。そこで「東京旅行ブロガー」である私が直接旅行者のためのオフラインストアリストを完全にまとめました。
 
@@ -58,15 +58,15 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 ## 🍁 PLACE in DAIKANYAMA
 
-📍 **場所：** <a href="https://maps.app.goo.gl/8gSsWBGUrkYqCeCs6" target="_blank"><b>THE FACE DAIKANYAMA</b></a>
+📍 <strong>場所：</strong> <a href="https://maps.app.goo.gl/8gSsWBGUrkYqCeCs6" target="_blank"><b>THE FACE DAIKANYAMA</b></a>
 
-🚇 **アクセス**: 東急東横線「代官山駅」徒歩3分
+🚇 <strong>アクセス</strong>: 東急東横線「代官山駅」徒歩3分
 
-**🗓️ 開催スケジュール（たった3日間！）**
+<strong>🗓️ 開催スケジュール（たった3日間！）</strong>
 
-- **11月7日（金）：14:00～20:00**（入場締切19:00）
-- **11月8日（土）：10:00～19:00**（入場締切18:00）
-- **11月9日（日）：10:00～16:00**（入場締切15:00）
+- <strong>11月7日（金）：14:00～20:00</strong>（入場締切19:00）
+- <strong>11月8日（土）：10:00～19:00</strong>（入場締切18:00）
+- <strong>11月9日（日）：10:00～16:00</strong>（入場締切15:00）
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6518037,139.7031519&hl=ja&z=17&output=embed"
@@ -84,15 +84,15 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
   </p>
 </div>
 
-**✨ ポップアップストア特別特典**
+<strong>✨ ポップアップストア特別特典</strong>
 
-- **新製品及び限定版販売：** 10月末発売の新製品はもちろん、**ポップアップ限定アイテム（チタン製品、コラボ製品）**を現場で販売します。
-- **来場者全員にプレゼント：** 来場者にオリジナルステッカープレゼント（数量限定）
-- **全製品展示**: テンビ、ウィングフォートなどのテントからマクライト2焚き火台まで、東京クラフトの人気商品を直接触れます。
+- <strong>新製品及び限定版販売：</strong> 10月末発売の新製品はもちろん、<strong>ポップアップ限定アイテム（チタン製品、コラボ製品）</strong>を現場で販売します。
+- <strong>来場者全員にプレゼント：</strong> 来場者にオリジナルステッカープレゼント（数量限定）
+- <strong>全製品展示</strong>: テンビ、ウィングフォートなどのテントからマクライト2焚き火台まで、東京クラフトの人気商品を直接触れます。
 
-**✔️ 東京旅行日程に合う感性ポップアップスポット！旅行中に一日くらい立ち寄るのに良い感性スポットです。**
+<strong>✔️ 東京旅行日程に合う感性ポップアップスポット！旅行中に一日くらい立ち寄るのに良い感性スポットです。</strong>
 
-**⭐ 代官山必須旅行コースも一緒に確認してみてください**
+<strong>⭐ 代官山必須旅行コースも一緒に確認してみてください</strong>
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032515713
@@ -112,13 +112,13 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 2025年11月基準、東京都内唯一の公式取扱店です！
 
-- **旅行のコツ：** 場所が大田区（大田区）で、羽田空港（HND）と非常に近いです。（京急線利用時便利）
+- <strong>旅行のコツ：</strong> 場所が大田区（大田区）で、羽田空港（HND）と非常に近いです。（京急線利用時便利）
 
-- **おすすめ動線：**
+- <strong>おすすめ動線：</strong>
 1. 羽田空港で入国する初日
 2. 旅行最終日、市内から空港に行く途中に立ち寄ってショッピングするのに最適の場所！
 
-- **参考：** 店舗規模によってテンビ、ウィングフォートなどの大型テントよりはマクライト2焚き火台、コードユニットなどの小型ギア中心に展示される可能性があるので、訪問前に店舗に確認することをお勧めします。
+- <strong>参考：</strong> 店舗規模によってテンビ、ウィングフォートなどの大型テントよりはマクライト2焚き火台、コードユニットなどの小型ギア中心に展示される可能性があるので、訪問前に店舗に確認することをお勧めします。
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.5844147,139.7349506&hl=ja&z=17&output=embed"
@@ -136,7 +136,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
   </p>
 </div>
 
-**⭐ 羽田空港からの行き方を確認してみてください**
+<strong>⭐ 羽田空港からの行き方を確認してみてください</strong>
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223995074888
@@ -150,14 +150,14 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 「日程が合わなくて羽田近くまでは行きにくいです。」
 
-このような方のための**「プランB」**です。これらの店舗は公式取扱店リストにはありませんが、新宿駅にあってアクセスが最高です。東京クラフトの入店有無を確認したり、スノーピーク、コールマンなど他のブランドを一緒にショッピングするのに良いです。
+このような方のための<strong>「プランB」</strong>です。これらの店舗は公式取扱店リストにはありませんが、新宿駅にあってアクセスが最高です。東京クラフトの入店有無を確認したり、スノーピーク、コールマンなど他のブランドを一緒にショッピングするのに良いです。
 
 ## 🏕️ エル ブレス新宿店（L-Breath Shinjuku）
 
-- **特徴：** 新宿駅東南口のすぐ前、地下1階～地上8階全体がアウトドア専門ビルです。アクセス性は最高です。
-- **見どころ：** 東京クラフトの入店有無確認及びスノーピーク、コールマンなど他ブランド比較ショッピングに最適です。
+- <strong>特徴：</strong> 新宿駅東南口のすぐ前、地下1階～地上8階全体がアウトドア専門ビルです。アクセス性は最高です。
+- <strong>見どころ：</strong> 東京クラフトの入店有無確認及びスノーピーク、コールマンなど他ブランド比較ショッピングに最適です。
 
-**📍場所：** JR新宿駅東南口徒歩3分
+<strong>📍場所：</strong> JR新宿駅東南口徒歩3分
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.689212,139.702346&hl=ja&z=17&output=embed"
@@ -175,9 +175,9 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
   </p>
 </div>
 
-- **裏技：** 10%免税+5%追加割引クーポン エルブレスは10%免税（パスポート持参）はもちろん、下記のKlookクーポンを提示すれば免税金額から5%追加割引が可能です！
+- <strong>裏技：</strong> 10%免税+5%追加割引クーポン エルブレスは10%免税（パスポート持参）はもちろん、下記のKlookクーポンを提示すれば免税金額から5%追加割引が可能です！
 
-**➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142147&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D703c9fdb4f" target="_blank"><b>Klookでエル ブレスクーポンをダウンロード</b></a>**
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142147&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D703c9fdb4f" target="_blank"><b>Klookでエル ブレスクーポンをダウンロード</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-03.jpg" alt="エルブレス5%割引クーポン 免税クーポン">
@@ -186,10 +186,10 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 ## ⛺ アルペン東京（Alpen TOKYO）
 
-- **特徴：** GOCAF（韓国キャンプ博覧会）のように**実際のテントが設営（設置）**されているのを見ることができる超大型店舗です。
-- **見どころ：** 8階まで建物全体がスポーツ/アウトドア用品で、テントが実際に設置されているのを見ながらサイズ感を体験するのに良いです。
+- <strong>特徴：</strong> GOCAF（韓国キャンプ博覧会）のように<strong>実際のテントが設営（設置）</strong>されているのを見ることができる超大型店舗です。
+- <strong>見どころ：</strong> 8階まで建物全体がスポーツ/アウトドア用品で、テントが実際に設置されているのを見ながらサイズ感を体験するのに良いです。
 
-**📍場所：** 新宿駅新南口徒歩5分（ユニクロビル8階）
+<strong>📍場所：</strong> 新宿駅新南口徒歩5分（ユニクロビル8階）
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6932868,139.7007565&hl=ja&z=17&output=embed"
@@ -207,16 +207,16 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
   </p>
 </div>
 
-- **裏技：** 10%免税+5%追加割引クーポン アルペン東京も10%免税とともに5%追加割引クーポンを提供します。
+- <strong>裏技：</strong> 10%免税+5%追加割引クーポン アルペン東京も10%免税とともに5%追加割引クーポンを提供します。
 
-**➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142097&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D86d7c92b24" target="_blank"><b>Klookでアルペン東京クーポンをダウンロード</b></a>**
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142097&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D86d7c92b24" target="_blank"><b>Klookでアルペン東京クーポンをダウンロード</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="アルペン東京5%割引クーポン 免税クーポン">
   <figcaption style="font-size: 0.7em; text-align: center;">アルペン東京5%クーポン</figcaption>
 </figure>
 
-**⭐ 新宿必須旅行コースも一緒に確認してみてください**
+<strong>⭐ 新宿必須旅行コースも一緒に確認してみてください</strong>
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
@@ -227,18 +227,18 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 ## 💡 旅行者のための現地購入裏技（Q&A）
 
-キャンプブログにはない、**旅行者だけのための**核心購入ティップです。
+キャンプブログにはない、<strong>旅行者だけのための</strong>核心購入ティップです。
 
-**Q.「コードユニット」テーブルや「マクライト2」焚き火台、キャリーケースに入りますか？**
+<strong>Q.「コードユニット」テーブルや「マクライト2」焚き火台、キャリーケースに入りますか？</strong>
 
-- **✈️ テント（テンビ·ウィングフォートなど）→ 必ず預け荷物です。**（LCC利用時、重量/個数超過で料金が発生する可能性があるので、航空会社別規定を事前確認してください。）
-- **🔥 焚き火台（マクライト2など）→ 新製品は預け可能です。**（ただし、使用痕跡や灰があれば持ち込み不可）
-- **🧳 キャリーケース収納**: マクライト2（A4サイズ水準）とコードユニット（棚）はパッキングが非常にコンパクトで24インチ以上のキャリーケースに十分収納可能です。
-- **🚨 機内持ち込み絶対不可：必ず預け荷物として処理してください。**（金属部品·工具類に分類され、保安検査に引っかかる確率が高いです。）
+- <strong>✈️ テント（テンビ·ウィングフォートなど）→ 必ず預け荷物です。</strong>（LCC利用時、重量/個数超過で料金が発生する可能性があるので、航空会社別規定を事前確認してください。）
+- <strong>🔥 焚き火台（マクライト2など）→ 新製品は預け可能です。</strong>（ただし、使用痕跡や灰があれば持ち込み不可）
+- <strong>🧳 キャリーケース収納</strong>: マクライト2（A4サイズ水準）とコードユニット（棚）はパッキングが非常にコンパクトで24インチ以上のキャリーケースに十分収納可能です。
+- <strong>🚨 機内持ち込み絶対不可：必ず預け荷物として処理してください。</strong>（金属部品·工具類に分類され、保安検査に引っかかる確率が高いです。）
 
-**Q. 韓国ポップアップ（GOCAF）価格と比較するとどうですか？**
+<strong>Q. 韓国ポップアップ（GOCAF）価格と比較するとどうですか？</strong>
 
-基本定価は似ていますが、**最近の円安+10%免税特典（+5%追加割引クーポン）**を加えると**東京現地購入がはるかに安い確率が高いです。**
+基本定価は似ていますが、<strong>最近の円安+10%免税特典（+5%追加割引クーポン）</strong>を加えると<strong>東京現地購入がはるかに安い確率が高いです。</strong>
 
 ---
 

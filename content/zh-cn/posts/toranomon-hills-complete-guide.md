@@ -30,10 +30,10 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 ## ✨ 「虎之门山」,感觉复杂吗?
 
 从最重要的事情开始说明。
-**虎之门山不是一座建筑。**
+<strong>虎之门山不是一座建筑。</strong>
 
-**「森塔」「商业塔」「车站塔」「玻璃塔」**
-**4座巨型大楼汇聚的「综合城市」**。
+<strong>「森塔」「商业塔」「车站塔」「玻璃塔」</strong>
+<strong>4座巨型大楼汇聚的「综合城市」</strong>。
 
 所以第一次来访容易迷路,不知道该去哪里。
 这篇文章将教您如何完美攻略4座塔楼!
@@ -49,12 +49,12 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 来这里的最大理由!
 
-虎之门山有个类似**「哆啦A梦」**的白色猫型机器人,**「虎之门(Toranomon)」**。
+虎之门山有个类似<strong>「哆啦A梦」</strong>的白色猫型机器人,<strong>「虎之门(Toranomon)」</strong>。
 
 结合地名虎之门(虎ノ門)与「哆啦A梦」诞生的官方吉祥物。
 
 只有虎之门山才能遇见的「虎之门」,
-请务必与到处躲藏的**「虎之门」**合影留念!
+请务必与到处躲藏的<strong>「虎之门」</strong>合影留念!
 
 <figure>
   <img src="/images/posts/toranomon-hills-complete-guide-03.jpg" alt="虎之门山吉祥物「虎之门」类似哆啦A梦的可爱形象">
@@ -67,15 +67,15 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 按这个顺序行动,3座核心塔楼一个不漏轻松逛完。
 
-**🚶‍♂️ [起点] 车站塔(新景点)**
+<strong>🚶‍♂️ [起点] 车站塔(新景点)</strong>
 从与「虎之门山站」直连的「车站塔」开始。
 地下2层「T-Market」简餐后,45层「TOKYO NODE」免费展望台欣赏东京全景。
 
-**🚶‍♂️ [移动] 商业塔(美食圣地)**
+<strong>🚶‍♂️ [移动] 商业塔(美食圣地)</strong>
 经空中通道移至「商业塔」。
 地下「虎之门横丁」居酒屋跳场。
 
-**🚶‍♂️ [收尾] 森塔(奢华)**
+<strong>🚶‍♂️ [收尾] 森塔(奢华)</strong>
 「森塔」1层「安达仕酒店」咖啡或2层SAWAMURA(泽村)咖啡,用高级甜点和咖啡收尾。
 
 <figure>
@@ -91,11 +91,11 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 2024年秋季开业的最新最热门建筑。
 与「虎之门山站」直连。
 
-**🏙️ T-Market(地下2层):**
+<strong>🏙️ T-Market(地下2层):</strong>
 与虎之门横丁魅力不同的精致美食广场。
 适合简餐或白天小酌。
 
-**🥢 烤鸡肉串 野野鸟 gen长**
+<strong>🥢 烤鸡肉串 野野鸟 gen长</strong>
 介绍位于车站塔4层的烤鸡肉串主厨套餐餐厅。
 
 <!-- TODO: Update link after migration
@@ -108,27 +108,27 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">2024年开业的虎之门山车站塔新景点「T-Market」入口</figcaption>
 </figure>
 
-**🏙️ TOKYO NODE(8层、45～49层):**
+<strong>🏙️ TOKYO NODE(8层、45～49层):</strong>
 
 承担虎之门山展望台角色的综合文化空间。
 45层画廊举办高品质策划展览,屋顶花园可一览东京塔与都心全景。(45层为免费展望台)
 
-**前往方式**
+<strong>前往方式</strong>
 - B2层→7层电梯
 - 7层→8层扶梯
 - 8层→45层电梯
 
-**展望台营业时间**
+<strong>展望台营业时间</strong>
 - 11:00 ~ 20:00 / 不定休
 
-**🍽️ TOKYO NODE DINING(45层):美食与晴空塔景观**
-车站塔45层有令人惊艳的晴空塔&城市景观全日餐饮空间。**TOKYO NODE DINING**提供意式经典基础的高级料理,**工作日限定CHEF'S LUNCH(3,900日元)**作为性价比高的套餐特别受欢迎。
+<strong>🍽️ TOKYO NODE DINING(45层):美食与晴空塔景观</strong>
+车站塔45层有令人惊艳的晴空塔&城市景观全日餐饮空间。<strong>TOKYO NODE DINING</strong>提供意式经典基础的高级料理,<strong>工作日限定CHEF'S LUNCH(3,900日元)</strong>作为性价比高的套餐特别受欢迎。
 
 如果计划商务午餐或特别约会,请在45层梦幻景观中享受美食。
 
-➡️ **<a href="/zh-cn/posts/tokyo-node-dining-toranomon-hills-lunch/" style="color: #667eea;"><strong>TOKYO NODE DINING CHEF'S LUNCH 3,900日元真实评测&预约技巧</strong></a>**
+➡️ <strong><a href="/zh-cn/posts/tokyo-node-dining-toranomon-hills-lunch/" style="color: #667eea;"><strong>TOKYO NODE DINING CHEF'S LUNCH 3,900日元真实评测&预约技巧</strong></a></strong>
 
-**🍽️ KEI Collection PARIS, apothéose 餐厅(49层)**
+<strong>🍽️ KEI Collection PARIS, apothéose 餐厅(49层)</strong>
 使用49层餐厅可登上非公开空间的屋顶天空花园。
 
 <figure>
@@ -151,16 +151,16 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 ## [核心2] 商业塔
 ## (美食圣地)
 
-**「虎之门山美食」的核心**正是这里,
-商业塔3层的**「虎之门横丁(虎ノ門横丁)」**。
+<strong>「虎之门山美食」的核心</strong>正是这里,
+商业塔3层的<strong>「虎之门横丁(虎ノ門横丁)」</strong>。
 
-**🍻 虎之门横丁(居酒屋街):**
+<strong>🍻 虎之门横丁(居酒屋街):</strong>
 
-汇聚东京知名米其林餐厅、人气店分店的**「成人高级美食广场」**。
+汇聚东京知名米其林餐厅、人气店分店的<strong>「成人高级美食广场」</strong>。
 
-与新桥的老居酒屋氛围不同,在干净精致的环境中享受烤鸡肉串、寿司、中华等**顶级下酒菜与美酒**的**美食天堂**。
+与新桥的老居酒屋氛围不同,在干净精致的环境中享受烤鸡肉串、寿司、中华等<strong>顶级下酒菜与美酒</strong>的<strong>美食天堂</strong>。
 
-**营业时间**
+<strong>营业时间</strong>
 - 周一～周六:11:00～23:00
 - 周日、节假日:11:00～21:00
 
@@ -186,11 +186,11 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 宣告虎之门山开端的首座塔楼。
 
-**🏨 安达仕东京(Andaz Tokyo):**
+<strong>🏨 安达仕东京(Andaz Tokyo):</strong>
 找「虎之门山酒店」就是这里。
-顶级奢华酒店,**51层的「屋顶酒吧」**享受鸡尾酒与夜景是难忘体验。
+顶级奢华酒店,<strong>51层的「屋顶酒吧」</strong>享受鸡尾酒与夜景是难忘体验。
 
-**🏨 「虎之门」周边商店:**
+<strong>🏨 「虎之门」周边商店:</strong>
 1层咖啡旁有销售「虎之门」角色周边的小店。
 
 <figure>
@@ -203,7 +203,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 ## 📍 虎之门山之后,去哪里?
 ## (推荐联动路线)
 
-**🚶‍♂️ 地铁3分钟!东京最佳新景点,麻布台山**
+<strong>🚶‍♂️ 地铁3分钟!东京最佳新景点,麻布台山</strong>
 如果虎之门山是「商务」中心,旁边的「麻布台山」就是「观光」中心。两座山一起游览,一天攻略东京最新建筑与文化!
 
 <!-- TODO: Update link after migration
@@ -211,7 +211,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
      Hugo: /zh-cn/posts/azabudai-hills-complete-guide/ -->
 ➡️ <a href="/zh-cn/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><strong>东京麻布台山看点:展望台、美食、teamLab全收录</strong></a>
 
-**🚶‍♂️ 地铁5分钟!东京夜景经典,六本木山**
+<strong>🚶‍♂️ 地铁5分钟!东京夜景经典,六本木山</strong>
 地铁5分钟抵达「六本木山」。
 在「森美术馆」与「东京城市观景展望台」体验别样的东京夜景感动。
 

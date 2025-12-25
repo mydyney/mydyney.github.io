@@ -10,9 +10,9 @@ summary: "涩谷Parco的Human Made全新升级啦！现在分成了Part 1和Part
 featured_image: "/images/posts/shibuya-human-made-offline-store-guide-01.jpg"
 ---
 
-今天带大家打卡涩谷Parco里超火的潮牌 **Human Made** 线下店！💙
+今天带大家打卡涩谷Parco里超火的潮牌 <strong>Human Made</strong> 线下店！💙
 
-最近，涩谷Parco的Human Made进行了全面升级和扩建！以前所有东西都挤在一起，人超级多。现在分成了 **PART 1（服饰）** 和 **PART 2（杂货）** 两个区域，逛起来舒服多了！✨
+最近，涩谷Parco的Human Made进行了全面升级和扩建！以前所有东西都挤在一起，人超级多。现在分成了 <strong>PART 1（服饰）</strong> 和 <strong>PART 2（杂货）</strong> 两个区域，逛起来舒服多了！✨
 
 但是，因为两个店的位置完全分开，很多人都会走错。今天我就把两个店的位置、售卖商品以及排队攻略一次性整理给大家！📝
 
@@ -23,44 +23,44 @@ featured_image: "/images/posts/shibuya-human-made-offline-store-guide-01.jpg"
 
 ## 1. 排队攻略与整理券系统 (必读!) ⚠️
 
-Human Made在 **发售日（通常是周六）** 或联名合作发售日，为了防止店铺拥挤，会实行 **整理券系统（入店号码牌）**。
+Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发售日，为了防止店铺拥挤，会实行 <strong>整理券系统（入店号码牌）</strong>。
 
 ### 🎫 什么是整理券？
-这是决定 **“入店顺序”** 的券，**并不是“商品购买保证券”**。
+这是决定 <strong>“入店顺序”</strong> 的券，<strong>并不是“商品购买保证券”</strong>。
 即使拿到了整理券并进店，轮到你的时候可能想买的东西已经卖光了。
 
 ### 📢 发放方式（随机抽选 vs 先到先得）
-根据发售日不同，运营方式也会改变。**请务必确认官方Instagram的公告。**
+根据发售日不同，运营方式也会改变。<strong>请务必确认官方Instagram的公告。</strong>
 
 💖 [HUMAN MADE 官方 NEWS](https://humanmade.jp/)
 💖 [HUMAN MADE 官方 Instagram](https://www.instagram.com/humanmade/)
 
-*   **随机抽选（最常见）:** 在指定时间/地点集合的人群中随机发放号码。（如果抽到“꽝(未中签)”，则无法入店）
-*   **先到先得:** 按照排队顺序发放号码。（人气发售日瞬间就会发完）
+*   <strong>随机抽选（最常见）:</strong> 在指定时间/地点集合的人群中随机发放号码。（如果抽到“꽝(未中签)”，则无法入店）
+*   <strong>先到先得:</strong> 按照排队顺序发放号码。（人气发售日瞬间就会发完）
 
 ### 📌 领取方法与注意点
-*   **发放地点:** 通常在 **涩谷Parco 1F 外部通道** 发放。请仔细确认当天工作人员举的牌子。
-*   **必备物品:** **护照（带照片的身份证件）必须携带！** 核对身份非常严格。
-*   **注意:** 为了防止倒卖，严格限制 **1人1张**。如果迟于集合时间，发放就会结束，请务必提前到达。
+*   <strong>发放地点:</strong> 通常在 <strong>涩谷Parco 1F 外部通道</strong> 发放。请仔细确认当天工作人员举的牌子。
+*   <strong>必备物品:</strong> <strong>护照（带照片的身份证件）必须携带！</strong> 核对身份非常严格。
+*   <strong>注意:</strong> 为了防止倒卖，严格限制 <strong>1人1张</strong>。如果迟于集合时间，发放就会结束，请务必提前到达。
 
-通常平日如果没有发售活动，如果需要排队，一般是扫描店门口的 **QR码** 进行登记。
+通常平日如果没有发售活动，如果需要排队，一般是扫描店门口的 <strong>QR码</strong> 进行登记。
 
 ---
 
 ## 2. PART 1: 服饰专卖店 (Parco馆内) 👕
 
-**PART 1** 主要是展示 **服装 (Wear)** 的空间。它就在Parco大楼里面，很好找。
+<strong>PART 1</strong> 主要是展示 <strong>服装 (Wear)</strong> 的空间。它就在Parco大楼里面，很好找。
 
-*   **位置:** 涩谷Parco 1F (馆内)
-*   **商品:** T恤、卫衣、棒球夹克、羽绒服、裤子、外套等
-*   **氛围:** 空间宽敞，可以慢慢挑选试穿。
+*   <strong>位置:</strong> 涩谷Parco 1F (馆内)
+*   <strong>商品:</strong> T恤、卫衣、棒球夹克、羽绒服、裤子、外套等
+*   <strong>氛围:</strong> 空间宽敞，可以慢慢挑选试穿。
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-02.jpg" alt="涩谷Human Made PART 1 门店提货区">
 <figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 1 门店提货区</figcaption>
 </figure>
 
-如果你想买Human Made标志性的爱心T恤或者外套，一定要来 **PART 1**。
+如果你想买Human Made标志性的爱心T恤或者外套，一定要来 <strong>PART 1</strong>。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224105333068
@@ -81,25 +81,25 @@ Human Made在 **发售日（通常是周六）** 或联名合作发售日，为�
 
 ## 3. PART 2: 饰品 & 杂货 (Parco馆外) 🦆
 
-**PART 2** 是集合了 **饰品和生活小物** 的空间。注意！它在Parco大楼 **外面**，不是里面哦！
+<strong>PART 2</strong> 是集合了 <strong>饰品和生活小物</strong> 的空间。注意！它在Parco大楼 <strong>外面</strong>，不是里面哦！
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-03.jpg" alt="涩谷Human Made PART 2 入口">
 <figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 2 入口</figcaption>
 </figure>
 
-这是一个新开的空间，**跟Parco馆内是不通的！** 必须先出到1楼外面。
+这是一个新开的空间，<strong>跟Parco馆内是不通的！</strong> 必须先出到1楼外面。
 
-*   **位置:** 涩谷Parco 1F 外侧
-*   **商品:** 钥匙扣、帽子、包包、生活杂货
-*   **路线:** 沿着Parco建筑物之间的小路走，就能看到专门的入口。
+*   <strong>位置:</strong> 涩谷Parco 1F 外侧
+*   <strong>商品:</strong> 钥匙扣、帽子、包包、生活杂货
+*   <strong>路线:</strong> 沿着Parco建筑物之间的小路走，就能看到专门的入口。
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-04.jpg" alt="涩谷Human Made PART 2 位置地图">
 <figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 2 位置地图</figcaption>
 </figure>
 
-大家最爱的钥匙扣、鸭子地毯、帽子等小物件基本都在这里，如果目标是饰品，请直接冲 **PART 2**！🏃‍♀️
+大家最爱的钥匙扣、鸭子地毯、帽子等小物件基本都在这里，如果目标是饰品，请直接冲 <strong>PART 2</strong>！🏃‍♀️
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224106627092
@@ -110,16 +110,16 @@ Human Made在 **发售日（通常是周六）** 或联名合作发售日，为�
 
 ## 4. [彩蛋] CURRY UP (咖喱店) 🍛
 
-附近还有Human Made主理人NIGO监制的咖喱店 **CURRY UP**。
+附近还有Human Made主理人NIGO监制的咖喱店 <strong>CURRY UP</strong>。
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-06.jpg" alt="CURRY UP 菜单板">
 <figcaption style="font-size: 0.85em; text-align: center;">CURRY UP 菜单板</figcaption>
 </figure>
 
-*   **菜单:** 肉末咖喱(Keema)、黄油鸡肉咖喱等
-*   **氛围:** 充满了NIGO独特的潮流感，很适合打卡拍照 📸
-*   **周边:** 店里还卖可爱的咖喱盘子和勺子等周边！
+*   <strong>菜单:</strong> 肉末咖喱(Keema)、黄油鸡肉咖喱等
+*   <strong>氛围:</strong> 充满了NIGO独特的潮流感，很适合打卡拍照 📸
+*   <strong>周边:</strong> 店里还卖可爱的咖喱盘子和勺子等周边！
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-07.jpg" alt="CURRY UP 门店外观">
@@ -134,9 +134,9 @@ Human Made在 **发售日（通常是周六）** 或联名合作发售日，为�
 
 在Human Made购物时的一些实用小贴士：
 
-*   **价格:** 短袖T恤约1万日元起，卫衣约3万日元起，外套约8万日元起。
-*   **尺码建议:** 因为是日本标准尺码，版型偏修身窄小。强烈建议比平时 **选大1-2个尺码**。
-*   **免税 (Tax Free):** 涩谷Parco支持免税。一定要带护照！(注意：部分联名商品可能不支持免税)
+*   <strong>价格:</strong> 短袖T恤约1万日元起，卫衣约3万日元起，外套约8万日元起。
+*   <strong>尺码建议:</strong> 因为是日本标准尺码，版型偏修身窄小。强烈建议比平时 <strong>选大1-2个尺码</strong>。
+*   <strong>免税 (Tax Free):</strong> 涩谷Parco支持免税。一定要带护照！(注意：部分联名商品可能不支持免税)
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="涩谷Human Made PART 2 门店外观">
@@ -147,9 +147,9 @@ Human Made在 **发售日（通常是周六）** 或联名合作发售日，为�
 
 ## 总结 📝
 
-*   **买衣服** → **PART 1** (Parco馆内 1F)
-*   **买饰品/小物** → **PART 2** (Parco馆外 1F)
-*   **排队** → 现场扫QR码
+*   <strong>买衣服</strong> → <strong>PART 1</strong> (Parco馆内 1F)
+*   <strong>买饰品/小物</strong> → <strong>PART 2</strong> (Parco馆外 1F)
+*   <strong>排队</strong> → 现场扫QR码
 
 祝大家在全新升级的Human Made买到心仪的宝贝！🛍️
 

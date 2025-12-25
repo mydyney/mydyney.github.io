@@ -39,14 +39,14 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 池袋駅は新宿、渋谷と並ぶ東京3大副都心の一つ - 巨大なターミナル駅です。
 
-この駅を中心とした**「東口」と「西口」の魅力が完全に異なる**ことをご存知ですか？
+この駅を中心とした<strong>「東口」と「西口」の魅力が完全に異なる</strong>ことをご存知ですか？
 
-**☀️ 東口(東口):**
-**「観光・グルメ・サブカルチャー」地区**
+<strong>☀️ 東口(東口):</strong>
+<strong>「観光・グルメ・サブカルチャー」地区</strong>
 大型百貨店、サンシャインシティ、アニメイト本店、ラーメン激戦区など - 旅行者向けの華やかなスポットが一箇所に集結。
 
-**🌙 西口(西口):**
-**「芸術と癒し」地区**
+<strong>🌙 西口(西口):</strong>
+<strong>「芸術と癒し」地区</strong>
 東京芸術劇場、グローバルリングシアター、公園など - 地元の人々が頻繁に訪れる落ち着いた洗練された空間。
 
 このガイドでは、両エリアの魅力を楽しむ完璧なモデルコースをご紹介します。
@@ -65,17 +65,17 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ## 🚌 東口 ↔ 西口 楽々移動（IKEBUSお得情報）
 
-池袋は東口と西口を歩いて回るには意外と**広い**です。
+池袋は東口と西口を歩いて回るには意外と<strong>広い</strong>です。
 
-そんな時は、池袋名物の可愛い赤い電気バス**「IKEBUS（イケバス）」**を利用してみてください！
+そんな時は、池袋名物の可愛い赤い電気バス<strong>「IKEBUS（イケバス）」</strong>を利用してみてください！
 
-「サンシャインシティ」「アニメイト」「西口公園」など**東口と西口の主要スポット全てを結んで**くれるので、旅行動線を画期的に短縮してくれる最高のお得情報です。
+「サンシャインシティ」「アニメイト」「西口公園」など<strong>東口と西口の主要スポット全てを結んで</strong>くれるので、旅行動線を画期的に短縮してくれる最高のお得情報です。
 
-わずか**大人500円/子供250円**で**一日中無制限乗車**が可能な**「1日券」**を強くお勧めします！
+わずか<strong>大人500円/子供250円</strong>で<strong>一日中無制限乗車</strong>が可能な<strong>「1日券」</strong>を強くお勧めします！
 
-**✅ <a href="https://travel.willer.co.jp/st/3/ja/pc/tour/package/?mcid=58284" target="_blank">オンラインでチケット購入</a>**
-**➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/img-route-map-big-202410.png" target="_blank">IKEBUSルートA、B地図</a>**
-**➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/route-a-20250501.png" target="_blank">Aルート時刻表</a>、➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/route-b-20251001.png" target="_blank">Bルート時刻表</a>**
+<strong>✅ <a href="https://travel.willer.co.jp/st/3/ja/pc/tour/package/?mcid=58284" target="_blank">オンラインでチケット購入</a></strong>
+<strong>➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/img-route-map-big-202410.png" target="_blank">IKEBUSルートA、B地図</a></strong>
+<strong>➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/route-a-20250501.png" target="_blank">Aルート時刻表</a>、➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/route-b-20251001.png" target="_blank">Bルート時刻表</a></strong>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-05.jpg" alt="可愛い赤いIKEBUS電気バス">
@@ -92,7 +92,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 池袋のランドマーク。この建物一つで一日中過ごせます。
 
-**😊 <a href="https://maps.app.goo.gl/KSwH7N9PdMsLNrmr7" target="_blank">ポケモンセンターメガトウキョー：</a>**
+<strong>😊 <a href="https://maps.app.goo.gl/KSwH7N9PdMsLNrmr7" target="_blank">ポケモンセンターメガトウキョー：</a></strong>
 圧倒的な規模のポケモン聖地。限定グッズはもちろん、「ピカチュウスイーツ」カフェも必須コース。（カフェは事前予約必要）
 
 <figure>
@@ -100,13 +100,13 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">池袋ポケモンセンターメガトウキョー ピカチュウスイーツカフェ</figcaption>
 </figure>
 
-**😊 サンシャイン水族館：**
+<strong>😊 サンシャイン水族館：</strong>
 「空飛ぶペンギン」で有名な都会のオアシス。
 
-**😊 展望台：**
+<strong>😊 展望台：</strong>
 60階展望台から東京全景を一望！
 
-**😊 噴水広場：**
+<strong>😊 噴水広場：</strong>
 ショッピングモール中央の噴水広場では様々なイベントや公演が開催されます。
 
 <figure>
@@ -116,9 +116,9 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ### 2. アニメイト本店 & 乙女ロード
 
-「秋葉原」が男性向けオタク文化の聖地なら、**「池袋」は女性向けオタク文化の聖地**です。
+「秋葉原」が男性向けオタク文化の聖地なら、<strong>「池袋」は女性向けオタク文化の聖地</strong>です。
 
-世界最大規模の**「アニメイト池袋本店」**と、女性向けグッズショップが密集した**「乙女ロード(乙女ロード)」**は、サブカルチャーファンなら必ず訪れるべき場所です。
+世界最大規模の<strong>「アニメイト池袋本店」</strong>と、女性向けグッズショップが密集した<strong>「乙女ロード(乙女ロード)」</strong>は、サブカルチャーファンなら必ず訪れるべき場所です。
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-08.jpg" alt="アニメイト池袋本店">
@@ -142,7 +142,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ### 3. アニメ東京ステーション(アニメ東京ステーション)
 
-2023年末に新しくオープンした**「アニメ東京ステーション」**は、新しい「オタク聖地」として急浮上しています。
+2023年末に新しくオープンした<strong>「アニメ東京ステーション」</strong>は、新しい「オタク聖地」として急浮上しています。
 
 日本アニメーションの歴史を見ることができるアーカイブ展示と、人気作品の企画展示が年中開催される複合文化空間です。
 
@@ -154,11 +154,11 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ### 4. 隠れた無料展望台&休憩所 - <a href="https://maps.app.goo.gl/o5VydqsnuJ53YD1B8" target="_blank">豊島区役所10階</a>
 
-**「豊島の森(豊島の森)」**と呼ばれる**10階屋上庭園**も、誰でも利用できる無料展望台です。ちょっと休憩するのに最適。
+<strong>「豊島の森(豊島の森)」</strong>と呼ばれる<strong>10階屋上庭園</strong>も、誰でも利用できる無料展望台です。ちょっと休憩するのに最適。
 
-**開放時間：9:00〜17:00**
-**夏（7、8月）：9:00〜19:00**
-**冬（11〜1月）：9:00〜16:00**
+<strong>開放時間：9:00〜17:00</strong>
+<strong>夏（7、8月）：9:00〜19:00</strong>
+<strong>冬（11〜1月）：9:00〜16:00</strong>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-13.jpg" alt="豊島区役所10階無料展望台と休憩所、豊島の森">
@@ -167,43 +167,43 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ### 5. 大型百貨店&ショッピングモール
 
-**😊 西武&パルコ：**
+<strong>😊 西武&パルコ：</strong>
 駅直結の大型百貨店。
 
-**😊 ドン・キホーテ：**
+<strong>😊 ドン・キホーテ：</strong>
 池袋東口店は規模が大きいことで有名。
 
-**😊 ビックカメラ&ヤマダ電機：**
+<strong>😊 ビックカメラ&ヤマダ電機：</strong>
 家電製品のショッピングも完璧。
 
-**✅ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">西武、ドン・キホーテ、ビックカメラ、ヤマダ電機割引クーポン利用</a>**
+<strong>✅ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">西武、ドン・キホーテ、ビックカメラ、ヤマダ電機割引クーポン利用</a></strong>
 
 ---
 
 ## 🍜 [東口コース] 池袋グルメ（ラーメン&バーガー）
 
-「サンシャインシティ」がある東口は、東京屈指の**「ラーメン激戦区」**であり、隠れたグルメ街です。
+「サンシャインシティ」がある東口は、東京屈指の<strong>「ラーメン激戦区」</strong>であり、隠れたグルメ街です。
 
 ### 1. ラーメン&うどん
 
-**😊 麺創房 無敵家 <a href="https://maps.app.goo.gl/1D3AkCBtGsVbcxNZ6" target="_blank">(麺創房 無敵家)：</a>**
+<strong>😊 麺創房 無敵家 <a href="https://maps.app.goo.gl/1D3AkCBtGsVbcxNZ6" target="_blank">(麺創房 無敵家)：</a></strong>
 いつも長い列ができる、濃厚豚骨ラーメンの名店。
 
-**😊 ラーメン五感 <a href="https://maps.app.goo.gl/wmWG81LaUicGEiUs7" target="_blank">(Japanese Ramen 五感)：</a>**
-**ミシュランビブグルマン**受賞店。特製醤油ベースのすっきりかつ深いスープが絶品。
-**✅ <a href="https://autoreserve.com/ko/restaurants/sWzcZLjUD7CyU2zJ6TW9?medium_slug=AJvA6Kg5ptKi" target="_blank">ラーメン五感オンライン予約</a>**
+<strong>😊 ラーメン五感 <a href="https://maps.app.goo.gl/wmWG81LaUicGEiUs7" target="_blank">(Japanese Ramen 五感)：</a></strong>
+<strong>ミシュランビブグルマン</strong>受賞店。特製醤油ベースのすっきりかつ深いスープが絶品。
+<strong>✅ <a href="https://autoreserve.com/ko/restaurants/sWzcZLjUD7CyU2zJ6TW9?medium_slug=AJvA6Kg5ptKi" target="_blank">ラーメン五感オンライン予約</a></strong>
 
-**😊 麺処 花田 <a href="https://maps.app.goo.gl/ZmFiKtp3Av3gAGVF9" target="_blank">(麺処 花田)：</a>**
+<strong>😊 麺処 花田 <a href="https://maps.app.goo.gl/ZmFiKtp3Av3gAGVF9" target="_blank">(麺処 花田)：</a></strong>
 食べログ百名店ラーメン
 濃厚で香ばしい「味噌ラーメン」専門
 
-**😊 鶏の穴 <a href="https://maps.app.goo.gl/gFJbAzQPE9dfDY5K9" target="_blank">(鶏の穴)：</a>**
+<strong>😊 鶏の穴 <a href="https://maps.app.goo.gl/gFJbAzQPE9dfDY5K9" target="_blank">(鶏の穴)：</a></strong>
 鶏のエッセンスを凝縮した濃厚でクリーミーな「鶏白湯(とりぱいたん)」ラーメンが有名
 
-**😊 辛し味噌ラーメン鬼金棒 <a href="https://maps.app.goo.gl/98sE7inCSCooCT6n6" target="_blank">(鬼金棒)：</a>**
+<strong>😊 辛し味噌ラーメン鬼金棒 <a href="https://maps.app.goo.gl/98sE7inCSCooCT6n6" target="_blank">(鬼金棒)：</a></strong>
 「鬼の金棒」コンセプトの店。辛さ(カラ)と痺れ(シビ)を調節できる中毒性の高い辛味噌ラーメン名店。
 
-**😊 武蔵野うどん うちたて家 <a href="https://maps.app.goo.gl/qtdo81T4WW9izwVg8" target="_blank">(武蔵野うどん うちたて家)：</a>**
+<strong>😊 武蔵野うどん うちたて家 <a href="https://maps.app.goo.gl/qtdo81T4WW9izwVg8" target="_blank">(武蔵野うどん うちたて家)：</a></strong>
 食べログ百名店うどん。代表メニューは驚くほど弾力のある太麺の「つけうどん」
 
 <figure>
@@ -213,29 +213,29 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ### 2. その他のレストラン&カフェ
 
-**😊 No.18ハンバーガー <a href="https://maps.app.goo.gl/q6uzEC8P67ucUyL29" target="_blank">(No.18ハンバーガー)：</a>**
+<strong>😊 No.18ハンバーガー <a href="https://maps.app.goo.gl/q6uzEC8P67ucUyL29" target="_blank">(No.18ハンバーガー)：</a></strong>
 食べログ百名店、手作りバーガーレストラン
 
-**😊 洋食 <a href="https://maps.app.goo.gl/FtG3Cktd9xoRV8pg9" target="_blank">UCHOUTEN：</a>**
+<strong>😊 洋食 <a href="https://maps.app.goo.gl/FtG3Cktd9xoRV8pg9" target="_blank">UCHOUTEN：</a></strong>
 食べログ百名店洋食
 「黒毛和牛ハンバーグステーキ」が有名
 
-**😊 フォーティントーキョー <a href="https://maps.app.goo.gl/AkJbi4jdQos6xvqNA" target="_blank">(フォーティントーキョー)：</a>**
+<strong>😊 フォーティントーキョー <a href="https://maps.app.goo.gl/AkJbi4jdQos6xvqNA" target="_blank">(フォーティントーキョー)：</a></strong>
 食べログ百名店、ハノイに本店を置く「ベトナムフォー」レストラン
 
-**😊 <a href="https://maps.app.goo.gl/RdJQMbLsPZ7SZ3yh7" target="_blank">COFFEE VALLEY：</a>**
+<strong>😊 <a href="https://maps.app.goo.gl/RdJQMbLsPZ7SZ3yh7" target="_blank">COFFEE VALLEY：</a></strong>
 食べログ百名店カフェ
 スペシャルティコーヒーを味わえる場所
 
-**😊 皇琲亭 <a href="https://maps.app.goo.gl/8mmJFJEg4kdr8gow7" target="_blank">(皇琲亭)：</a>**
+<strong>😊 皇琲亭 <a href="https://maps.app.goo.gl/8mmJFJEg4kdr8gow7" target="_blank">(皇琲亭)：</a></strong>
 食べログ百名店カフェ
 昭和時代の雰囲気を感じられるクラシックな「喫茶店(きっさてん)」
 
-**😊 すずめや <a href="https://maps.app.goo.gl/NPRaDSh5ZqWKwAVS6" target="_blank">(すずめや)：</a>**
+<strong>😊 すずめや <a href="https://maps.app.goo.gl/NPRaDSh5ZqWKwAVS6" target="_blank">(すずめや)：</a></strong>
 食べログ百名店
 「どら焼き」だけを販売する100年伝統の老舗
 
-**😊 I'm donut? <a href="https://maps.app.goo.gl/ezhpbRaMnJqaQEmg9" target="_blank">(I'm donut ?)：</a>**
+<strong>😊 I'm donut? <a href="https://maps.app.goo.gl/ezhpbRaMnJqaQEmg9" target="_blank">(I'm donut ?)：</a></strong>
 言葉の必要のないふわふわドーナツレストラン
 アニメイト近く
 
@@ -254,7 +254,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ドラマ「池袋ウエストゲートパーク(IWGP)」の舞台となったまさにその場所。
 
-現在は美しい野外劇場がある洗練された**「グローバルリングシアター」**として生まれ変わりました。
+現在は美しい野外劇場がある洗練された<strong>「グローバルリングシアター」</strong>として生まれ変わりました。
 
 夜になると華やかな照明が灯り、コーヒー一杯とともに休憩するのに最適です。
 
@@ -269,23 +269,23 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ### 2. 西口グルメ
 
-**😊 麺屋 Hulu-lu <a href="https://maps.app.goo.gl/RXNrHtNi64ZKad9C8" target="_blank">(麺屋 Hulu-lu)：</a>**
+<strong>😊 麺屋 Hulu-lu <a href="https://maps.app.goo.gl/RXNrHtNi64ZKad9C8" target="_blank">(麺屋 Hulu-lu)：</a></strong>
 食べログ百名店ラーメン
 ハワイコンセプトの醤油ラーメン
 
-**😊 あんぷく <a href="https://maps.app.goo.gl/Mb7F2e8b1shuNk9V7" target="_blank">(あんぷく)：</a>**
+<strong>😊 あんぷく <a href="https://maps.app.goo.gl/Mb7F2e8b1shuNk9V7" target="_blank">(あんぷく)：</a></strong>
 食べログ百名店「フュージョンうどん」専門店
 「明太子クリームうどん」「カルボナーラうどん」が有名
-**✅ <a href="https://autoreserve.com/ko/restaurants/NFRvJ7dy83vNdNvMcMg1?medium_slug=AJvA6Kg5ptKi" target="_blank">あんぷくオンライン予約</a>**
+<strong>✅ <a href="https://autoreserve.com/ko/restaurants/NFRvJ7dy83vNdNvMcMg1?medium_slug=AJvA6Kg5ptKi" target="_blank">あんぷくオンライン予約</a></strong>
 
-**😊 うなぎ かぶと <a href="https://maps.app.goo.gl/nk4rLJdephV4ByDa7" target="_blank">(うなぎ かぶと)：</a>**
-**食べログうなぎ百名店**、予約さえ困難な伝説の「うなぎおまかせ」
+<strong>😊 うなぎ かぶと <a href="https://maps.app.goo.gl/nk4rLJdephV4ByDa7" target="_blank">(うなぎ かぶと)：</a></strong>
+<strong>食べログうなぎ百名店</strong>、予約さえ困難な伝説の「うなぎおまかせ」
 
-**😊 PIZZA BORSA <a href="https://maps.app.goo.gl/JsC8v3NEySR2fwtc9" target="_blank">(ピッツァ ボルサ)：</a>**
+<strong>😊 PIZZA BORSA <a href="https://maps.app.goo.gl/JsC8v3NEySR2fwtc9" target="_blank">(ピッツァ ボルサ)：</a></strong>
 食べログ百名店窯焼きピザ
-**✅ <a href="https://autoreserve.com/ko/restaurants/xKCo1692aN1uGuSvtw3i?medium_slug=AJvA6Kg5ptKi" target="_blank">ピザボルサオンライン予約</a>**
+<strong>✅ <a href="https://autoreserve.com/ko/restaurants/xKCo1692aN1uGuSvtw3i?medium_slug=AJvA6Kg5ptKi" target="_blank">ピザボルサオンライン予約</a></strong>
 
-**😊 火星カレー <a href="https://maps.app.goo.gl/yuvhBo3z226ad2RM9" target="_blank">(火星カレー)：</a>**
+<strong>😊 火星カレー <a href="https://maps.app.goo.gl/yuvhBo3z226ad2RM9" target="_blank">(火星カレー)：</a></strong>
 食べログ百名店カレー
 「火星カレー」という名前の通り、個性的な創作カレーレストラン
 
@@ -302,14 +302,14 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ## 🎃 [季節限定] 池袋ハロウィンコスプレ祭
 
-毎年10月最後の週末、池袋東口一帯は東京最大規模の**「ハロウィンコスプレ祭」**に変身します。
+毎年10月最後の週末、池袋東口一帯は東京最大規模の<strong>「ハロウィンコスプレ祭」</strong>に変身します。
 
 「渋谷」に代わる新しいハロウィンの聖地なので、時期が合えばぜひ訪れてみてください！
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-halloween-festivals-2025/
      Hugo: /ja/posts/tokyo-halloween-festivals-2025/ -->
-**➡️ <a href="/ja/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025年東京ハロウィン祭名所BEST 4(池袋)</a>**
+<strong>➡️ <a href="/ja/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025年東京ハロウィン祭名所BEST 4(池袋)</a></strong>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-20.jpg" alt="池袋ハロウィンコスプレフェスティバル">
@@ -320,28 +320,36 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 ## 📍 池袋の次、どこに行く？（おすすめ連携コース）
 
-**🚇 JR山手線10分！**
-**青春の街：新宿/渋谷**
+<strong>🚇 JR山手線10分！</strong>
+<strong>青春の街：新宿/渋谷</strong>
 山手線で直接移動可能です。
 
-**➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿観光スポット - 新宿御苑からグルメ、ショッピングまで</a>**
+<strong>➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿観光スポット - 新宿御苑からグルメ、ショッピングまで</a></strong>
 
-**➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷観光スポット - 渋谷スカイ予約からグルメまで</a>**
+<strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷観光スポット - 渋谷スカイ予約からグルメまで</a></strong>
 
-**🚇 JR山手線20分！**
-**伝統の街：上野**
+<strong>🚇 JR山手線20分！</strong>
+<strong>伝統の街：上野</strong>
 山手線で新宿と反対方向！
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /ja/posts/ueno-ameyoko-guide/ -->
-**➡️ <a href="#" style="color: #667eea;">上野観光スポット - アメ横市場、グルメから上野公園まで</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">上野観光スポット - アメ横市場、グルメから上野公園まで</a></strong>
 
-**🚇 丸ノ内線16分！**
-**東京の中心：東京駅**
+<strong>🚇 丸ノ内線16分！</strong>
+<strong>東京の中心：東京駅</strong>
 地下鉄パスで移動可能です。
 
-**➡️ <a href="/ja/posts/tokyo-station-guide/" style="color: #667eea;">東京駅観光スポット - キャラクターストリート、グルメ、夜景、荷物保管ロッカー</a>**
+<strong>➡️ <a href="/ja/posts/tokyo-station-guide/" style="color: #667eea;">東京駅観光スポット - キャラクターストリート、グルメ、夜景、荷物保管ロッカー</a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224050101070" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

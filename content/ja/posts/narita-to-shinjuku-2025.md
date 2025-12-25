@@ -61,41 +61,41 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
   </tbody>
 </table>
 
-ちなみに「成田新宿スカイライナー」ルートもありますが、上野駅または日暮里駅で1回乗り換えが必要なので、この記事では**「直行ルートのみ:成田エクスプレス vs リムジンバス」**比較に焦点を当てます。
+ちなみに「成田新宿スカイライナー」ルートもありますが、上野駅または日暮里駅で1回乗り換えが必要なので、この記事では<strong>「直行ルートのみ:成田エクスプレス vs リムジンバス」</strong>比較に焦点を当てます。
 (スカイライナーは別の詳細記事で整理する予定です。)
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /ja/posts/skyliner-reservation-guide/ -->
-**➡️ [スカイライナー vs N'EX比較、上野・新宿完全ガイド↗](#)**
+<strong>➡️ [スカイライナー vs N'EX比較、上野・新宿完全ガイド↗](#)</strong>
 
 ---
 
 ## 成田エクスプレス完全ガイド 🚄
 
-**✅ 成田エクスプレス(N'EX)要約**
+<strong>✅ 成田エクスプレス(N'EX)要約</strong>
 「成田空港から新宿への行き方の中で、
 最速、最も快適で、最も時間通りの方法。」
 
 ### 🚄 基本情報
 
-- **ルート:成田空港 ↔ 東京駅 ↔ 渋谷駅 ↔ 新宿駅(乗り換えなし)**
-- **所要時間**:約80分
-- **料金**:片道3,250円 / **往復5,000円(14日以内利用可)**
-- **利点**:全席指定席、広い座席間隔+大きな荷物置き場
-- **欠点**:片道が高い、**往復券を強く推奨**
+- <strong>ルート:成田空港 ↔ 東京駅 ↔ 渋谷駅 ↔ 新宿駅(乗り換えなし)</strong>
+- <strong>所要時間</strong>:約80分
+- <strong>料金</strong>:片道3,250円 / <strong>往復5,000円(14日以内利用可)</strong>
+- <strong>利点</strong>:全席指定席、広い座席間隔+大きな荷物置き場
+- <strong>欠点</strong>:片道が高い、<strong>往復券を強く推奨</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /ja/posts/narita-express-guide/ -->
-**➡️ [成田エクスプレス(N'EX)予約・座席選択完全ガイド↗](#)**
+<strong>➡️ [成田エクスプレス(N'EX)予約・座席選択完全ガイド↗](#)</strong>
 
-- **予約方法**:Klook、KKday / JR東日本サービスセンター
+- <strong>予約方法</strong>:Klook、KKday / JR東日本サービスセンター
 
-**✅ [Klookで成田エクスプレスを予約↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)**
+<strong>✅ [Klookで成田エクスプレスを予約↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)</strong>
 
 ### ⏰ N'EX時刻表(成田空港 → 新宿駅)
 
-**📌 ヒント**
-**フライトが遅れる可能性があるため、**
-**成田入国+荷物受取に最低2時間を確保して**
-**N'EX出発時間を設定すると安全です。**
+<strong>📌 ヒント</strong>
+<strong>フライトが遅れる可能性があるため、</strong>
+<strong>成田入国+荷物受取に最低2時間を確保して</strong>
+<strong>N'EX出発時間を設定すると安全です。</strong>
 
 <table class="schedule-table">
   <thead>
@@ -175,7 +175,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
   </tbody>
 </table>
 
-**※ 時刻表と料金は変更される場合があります。乗車前に成田エクスプレスとリムジンバスの公式サイトで最新情報をご確認ください。**
+<strong>※ 時刻表と料金は変更される場合があります。乗車前に成田エクスプレスとリムジンバスの公式サイトで最新情報をご確認ください。</strong>
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-02.jpg" alt="成田空港第1ターミナル成田エクスプレス券売機">
@@ -186,7 +186,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 ## リムジンバス – 荷物が多い方に最適! 🚌
 
-**✅ リムジンバス要約**
+<strong>✅ リムジンバス要約</strong>
 「成田新宿リムジンに乗って
 スーツケースを一度積んでホテル前まで到着 -
 最も便利な『ドア・トゥ・ドア』ルート。」
@@ -200,27 +200,27 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 - 新宿ワシントンホテル
 - ヒルトン東京
 
-**📌 ヒント**
+<strong>📌 ヒント</strong>
 成田新宿空港バスは少し高いですが...
 上記のワシントンホテルなどに宿泊する場合、リムジンバスが実質的に答えです。
 
 ### 🚌 基本情報
 
-- **所要時間**:約2時間
-- **料金**:3,600円
-- **利点**:荷物の心配なし、家族・子供連れに最適
-- **欠点**:交通状況の影響あり、一部時間帯は予約が必要
+- <strong>所要時間</strong>:約2時間
+- <strong>料金</strong>:3,600円
+- <strong>利点</strong>:荷物の心配なし、家族・子供連れに最適
+- <strong>欠点</strong>:交通状況の影響あり、一部時間帯は予約が必要
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /ja/posts/narita-airport-limousine-guide/ -->
-**➡️ [成田空港リムジンバス完全ガイド↗](#)**
+<strong>➡️ [成田空港リムジンバス完全ガイド↗](#)</strong>
 
-- **予約方法**:Klook / 空港チケットカウンター
+- <strong>予約方法</strong>:Klook / 空港チケットカウンター
 
-**✅ [Klookでリムジンバスを予約↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1121184&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F)**
+<strong>✅ [Klookでリムジンバスを予約↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1121184&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F)</strong>
 
 ### 📍 リムジンバス乗り場
 
-**成田空港 → 新宿リムジンバス乗り場(ターミナル別)**
+<strong>成田空港 → 新宿リムジンバス乗り場(ターミナル別)</strong>
 
 <table class="schedule-table">
   <thead>
@@ -237,7 +237,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 ### 🚌 主要ルート
 
-**1️⃣ 成田空港 → 東京歌舞伎町タワー、西武新宿駅エリア**
+<strong>1️⃣ 成田空港 → 東京歌舞伎町タワー、西武新宿駅エリア</strong>
 
 <table class="schedule-table">
   <thead>
@@ -252,7 +252,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
   </tbody>
 </table>
 
-**2️⃣ 成田空港 → 新宿駅、新宿バスターミナル、主要ホテル**
+<strong>2️⃣ 成田空港 → 新宿駅、新宿バスターミナル、主要ホテル</strong>
 
 <table class="schedule-table">
   <thead>
@@ -441,13 +441,13 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 ### 💰 1) 予算よりも「時間+快適さ」が重要な場合
 
-- **推奨:成田エクスプレス(N'EX)**
-- **理由**:乗り換えなし+電車なので交通の影響なし
+- <strong>推奨:成田エクスプレス(N'EX)</strong>
+- <strong>理由</strong>:乗り換えなし+電車なので交通の影響なし
 
 ### 🧳 2) スーツケース2個以上、家族・子供連れ旅行
 
-- **推奨:リムジンバス**
-- **理由**:運転手が空港で荷物を積み、ホテル前で降ろしてくれるので、実質的に「荷物運搬労働」がゼロ。
+- <strong>推奨:リムジンバス</strong>
+- <strong>理由</strong>:運転手が空港で荷物を積み、ホテル前で降ろしてくれるので、実質的に「荷物運搬労働」がゼロ。
 特に成田空港から新宿ワシントンホテル、京王、ヒルトンなどに行き、ホテル下車ルートがある場合は、リムジンバスを強く推奨します。
 
 ### 🕐 3) 早朝・深夜到着 / 出発時間が微妙な場合
@@ -467,22 +467,22 @@ N'EX/リムジンの最終便時間を確認 - これが必須です。
 
 ## Q&A(よくある質問)
 
-**Q. 成田エクスプレスでSuica(Pasmo)カードは使えますか?**
+<strong>Q. 成田エクスプレスでSuica(Pasmo)カードは使えますか?</strong>
 A. いいえ。
 Suicaは普通電車、地下鉄、山手線では使えますが、
-**成田エクスプレス(N'EX)**には
-別途**指定席特急券**が必要です。
+<strong>成田エクスプレス(N'EX)</strong>には
+別途<strong>指定席特急券</strong>が必要です。
 
-**Q. 3泊4日の旅行でN'EX往復券は使えますか?**
+<strong>Q. 3泊4日の旅行でN'EX往復券は使えますか?</strong>
 A. はい。
-購入日から**往復14日以内に利用可能**なので、
+購入日から<strong>往復14日以内に利用可能</strong>なので、
 「成田-新宿N'EX往復5,000円」は、3泊4日や5泊6日を含むほとんどの東京旅行で完全に活用できます。
 
-**Q. リムジンバスのチケットはクレジットカードで支払えますか?**
+<strong>Q. リムジンバスのチケットはクレジットカードで支払えますか?</strong>
 A. はい。
-成田空港のほとんどのリムジンバスチケットカウンターと券売機で**クレジットカード決済が可能**です。
+成田空港のほとんどのリムジンバスチケットカウンターと券売機で<strong>クレジットカード決済が可能</strong>です。
 
-**Q. 早朝に到着しますが、N'EXもリムジンバスも終わっています。**
+<strong>Q. 早朝に到着しますが、N'EXもリムジンバスも終わっています。</strong>
 A. この場合、以下のいずれかを選ぶしかありません:
 - 成田空港で一泊 → 翌朝N'EX/リムジンバスに乗る
 - 最後の手段:成田新宿タクシーを利用(料金30,000円以上を予想)
@@ -496,28 +496,36 @@ A. この場合、以下のいずれかを選ぶしかありません:
 新宿行き交通手段以外にも、各交通手段の詳細情報や完全空港ガイドが必要な場合は、以下の詳細ガイドをご覧ください。
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224007949043 Hugo: /ja/posts/narita-airport-arrival-guide/ -->
-**➡️ [東京成田空港到着ガイド(市内への行き方、Suica、ATM完全ガイド)↗](#)**
+<strong>➡️ [東京成田空港到着ガイド(市内への行き方、Suica、ATM完全ガイド)↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /ja/posts/narita-express-guide/ -->
-**➡️ [成田エクスプレス(N'EX)予約、料金、時刻表完全ガイド↗](#)**
+<strong>➡️ [成田エクスプレス(N'EX)予約、料金、時刻表完全ガイド↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /ja/posts/narita-airport-limousine-guide/ -->
-**➡️ [成田空港リムジンバス&格安エクスプレスバス完全ガイド(予約、料金)↗](#)**
+<strong>➡️ [成田空港リムジンバス&格安エクスプレスバス完全ガイド(予約、料金)↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /ja/posts/skyliner-reservation-guide/ -->
-**➡️ [スカイライナー予約、料金、時刻表完全ガイド(N'EX比較)↗](#)**
+<strong>➡️ [スカイライナー予約、料金、時刻表完全ガイド(N'EX比較)↗](#)</strong>
 
-**➡️ [成田空港第1ターミナル免税店5%割引クーポン(ショッピングリスト)↗](/ja/posts/narita-airport-terminal1-duty-free-coupon-guide/)**
+<strong>➡️ [成田空港第1ターミナル免税店5%割引クーポン(ショッピングリスト)↗](/ja/posts/narita-airport-terminal1-duty-free-coupon-guide/)</strong>
 
 ### ⭐ 関連新宿旅行ガイド
 
-**🌿 新宿1日コース:[新宿観光完全コースガイド↗](/ja/posts/shinjuku-guide-2025/)**
+<strong>🌿 新宿1日コース:[新宿観光完全コースガイド↗](/ja/posts/shinjuku-guide-2025/)</strong>
 
-**🍁 散策:[新宿御苑営業時間、紅葉、ピクニック↗](/ja/posts/shinjuku-gyoen-guide-2025/)**
+<strong>🍁 散策:[新宿御苑営業時間、紅葉、ピクニック↗](/ja/posts/shinjuku-gyoen-guide-2025/)</strong>
 
-**🏙 夜景:[東京都庁無料展望台光のショー&新宿夜景ヒント↗](/ja/posts/tokyo-metropolitan-govt-observatory/)**
+<strong>🏙 夜景:[東京都庁無料展望台光のショー&新宿夜景ヒント↗](/ja/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
-**🌃 夜の街:[新宿ゴールデン街vs思い出横丁完全比較↗](/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
+<strong>🌃 夜の街:[新宿ゴールデン街vs思い出横丁完全比較↗](/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224072190712" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

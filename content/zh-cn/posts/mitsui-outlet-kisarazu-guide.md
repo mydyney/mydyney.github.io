@@ -25,7 +25,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ## 🤔 东京奥特莱斯，木更津 vs 御殿场 - 选哪个？
 
-搜索东京近郊奥特莱斯时最常出现的两个名字，**三井奥特莱斯木更津**和**御殿场高级奥特莱斯**。根据旅行风格选择很重要。
+搜索东京近郊奥特莱斯时最常出现的两个名字，<strong>三井奥特莱斯木更津</strong>和<strong>御殿场高级奥特莱斯</strong>。根据旅行风格选择很重要。
 
 <div class="info-box">
   <table class="schedule-table">
@@ -66,7 +66,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
   </table>
 </div>
 
-**✅ 结论：** 短暂的东京旅行中，只投入半天时间购物的话，答案是**木更津**！特别是2025年大规模翻新后更加强大。
+<strong>✅ 结论：</strong> 短暂的东京旅行中，只投入半天时间购物的话，答案是<strong>木更津</strong>！特别是2025年大规模翻新后更加强大。
 
 ---
 
@@ -74,10 +74,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 木更津奥特莱斯从羽田机场经海底隧道移动，移动时间仅约40分钟。根据航班时间可以让旅行的开始和结束更加充实。
 
-**路线示例：**
-- **旅行首日：** 到达机场 → 奥特莱斯寄存行李后购物 → 移动至东京市内酒店
-- **旅行最后一天：** 酒店退房 → 奥特莱斯寄存行李后购物 → 直接前往机场（特别是傍晚/夜间航班最棒！）
-- **费用：** 1,400日元，所需时间40分钟
+<strong>路线示例：</strong>
+- <strong>旅行首日：</strong> 到达机场 → 奥特莱斯寄存行李后购物 → 移动至东京市内酒店
+- <strong>旅行最后一天：</strong> 酒店退房 → 奥特莱斯寄存行李后购物 → 直接前往机场（特别是傍晚/夜间航班最棒！）
+- <strong>费用：</strong> 1,400日元，所需时间40分钟
 
 <div class="info-box">
   <table class="schedule-table">
@@ -111,10 +111,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 从新宿、涩谷、东京站等核心地区有无需换乘一次到达的直达巴士，非常便利。
 
-**🚌 新宿出发：**
-- **乘车地点：** 新宿巴士总站 4楼 3号站台
-- **所需时间：** 62分钟
-- **费用：** 1,600日元
+<strong>🚌 新宿出发：</strong>
+- <strong>乘车地点：</strong> 新宿巴士总站 4楼 3号站台
+- <strong>所需时间：</strong> 62分钟
+- <strong>费用：</strong> 1,600日元
 
 <div class="info-box">
   <table class="schedule-table">
@@ -140,10 +140,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
   </table>
 </div>
 
-**🚌 东京站出发：**
-- **乘车地点：** 巴士总站八重洲地下2楼 12号站台
-- **所需时间：** 60分钟
-- **费用：** 1,400日元
+<strong>🚌 东京站出发：</strong>
+- <strong>乘车地点：</strong> 巴士总站八重洲地下2楼 12号站台
+- <strong>所需时间：</strong> 60分钟
+- <strong>费用：</strong> 1,400日元
 
 <div class="info-box">
   <table class="schedule-table">
@@ -169,7 +169,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
   </table>
 </div>
 
-**➡️ [查看从涩谷、池袋、品川、横滨、成田机场等出发的运行时刻](https://mitsui-shopping-park.com/mop/kisarazu/access/)**
+<strong>➡️ [查看从涩谷、池袋、品川、横滨、成田机场等出发的运行时刻](https://mitsui-shopping-park.com/mop/kisarazu/access/)</strong>
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-03.jpg" alt="显示从东京到木更津海底隧道路线的地图">
@@ -182,11 +182,11 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 最高可享10%额外折扣，购物开始前必须获得的必备物品。
 
-**优惠券领取方法：**
+<strong>优惠券领取方法：</strong>
 
-1. 到达奥特莱斯后，前往**综合咨询处（Information Center）**
-2. 向工作人员出示**护照**和**二维码截图**
-3. 现场可领取**实体优惠券手册**和**原创纪念品（限定期间）**
+1. 到达奥特莱斯后，前往<strong>综合咨询处（Information Center）</strong>
+2. 向工作人员出示<strong>护照</strong>和<strong>二维码截图</strong>
+3. 现场可领取<strong>实体优惠券手册</strong>和<strong>原创纪念品（限定期间）</strong>
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-04.jpg" alt="LIVE JAPAN × 三井购物公园折扣优惠券二维码">
@@ -199,7 +199,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 全年最大折扣黑色星期五促销从11月14日至30日举行。
 
-**主要促销内容：**
+<strong>主要促销内容：</strong>
 - 耐克 30% OFF
 - Le Creuset 50% OFF
 - 宝可梦活动
@@ -207,17 +207,17 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 详细的按品牌折扣信息，务必查看以下最新文章！
 
-**➡️ [东京奥特莱斯三井木更津2025黑色星期五促销&宝可梦活动](/zh-cn/posts/mitsui-kisarazu-black-friday-2025/)**
+<strong>➡️ [东京奥特莱斯三井木更津2025黑色星期五促销&宝可梦活动](/zh-cn/posts/mitsui-kisarazu-black-friday-2025/)</strong>
 
 ---
 
 ## ✨ 访问前应该知道的信息
 
-**主要设施：**
+<strong>主要设施：</strong>
 
-- **免费投币柜&行李寄存处：** 奥特莱斯各处有可放入行李箱的大型免费投币柜（100日元返还式），若满员还可使用免费行李寄存处
-- **免税（Tax Free）：** 大多数店铺购买5,000日元以上可享受免税优惠（护照必须）
-- **ATM：** 7-11便利店内的Seven银行ATM可取日元
+- <strong>免费投币柜&行李寄存处：</strong> 奥特莱斯各处有可放入行李箱的大型免费投币柜（100日元返还式），若满员还可使用免费行李寄存处
+- <strong>免税（Tax Free）：</strong> 大多数店铺购买5,000日元以上可享受免税优惠（护照必须）
+- <strong>ATM：</strong> 7-11便利店内的Seven银行ATM可取日元
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-05.jpg" alt="木更津奥特莱斯大型免费投币柜">
@@ -237,11 +237,11 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 👑 必访！高端奢侈品牌
 
-**必须访问：**
-- **Celine（思琳）** ○
+<strong>必须访问：</strong>
+- <strong>Celine（思琳）</strong> ○
 - Saint Laurent、Loewe、Balenciaga、Bottega Veneta
 
-**其他：**
+<strong>其他：</strong>
 - Marni、Chloé、Jimmy Choo、Valentino
 
 <figure>
@@ -251,13 +251,13 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 👗 必逛时尚&日本代表品牌
 
-**日本代表精品店：**
+<strong>日本代表精品店：</strong>
 - Beams、United Arrows、Ships、Tomorrow Land
 
-**人气时尚品牌：**
+<strong>人气时尚品牌：</strong>
 - Maison Kitsuné、A.P.C.、Margaret Howell、Vivienne Westwood
 
-**性价比最高休闲：**
+<strong>性价比最高休闲：</strong>
 - Polo Ralph Lauren、Lacoste、Tommy Hilfiger、Banana Republic、Gap、Levi's、Graniph、New Era
 
 <figure>
@@ -267,13 +267,13 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 👟 运动&户外品牌
 
-**运动：**
+<strong>运动：</strong>
 - Nike、Adidas、New Balance、Under Armour
 
-**日本代表运动：**
-- Asics、**Onitsuka Tiger**
+<strong>日本代表运动：</strong>
+- Asics、<strong>Onitsuka Tiger</strong>
 
-**户外：**
+<strong>户外：</strong>
 - The North Face、Patagonia、Arc'teryx、Montbell
 
 <figure>
@@ -283,19 +283,19 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 🏠 充满品味！生活用品、美容&礼品
 
-**厨房&生活：**
+<strong>厨房&生活：</strong>
 - Le Creuset、Staub、Francfranc、Dean & Deluca
 
-**美容&化妆品：**
+<strong>美容&化妆品：</strong>
 - L'Occitane、Sabon、The Cosmetics Company Store（雅诗兰黛系列）
 
-**礼品&食品：**
-- **Godiva（歌帝梵）**、Lindt、Kaldi Coffee Farm
+<strong>礼品&食品：</strong>
+- <strong>Godiva（歌帝梵）</strong>、Lindt、Kaldi Coffee Farm
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /zh-cn/posts/kaldi-coffee-farm-shopping-list/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单，2025年必买KALDI推荐（酱料、挂耳咖啡、免税小技巧）</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单，2025年必买KALDI推荐（酱料、挂耳咖啡、免税小技巧）</strong></a></strong>
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-10.jpg" alt="木更津的Godiva店铺">
@@ -304,10 +304,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 👨‍👩‍👧‍👦 与孩子一起！儿童&家庭品牌
 
-**玩具：**
-- Lego、**宝可梦商店**、森贝儿家族
+<strong>玩具：</strong>
+- Lego、<strong>宝可梦商店</strong>、森贝儿家族
 
-**儿童时尚：**
+<strong>儿童时尚：</strong>
 - Gap、Bébé、Anna Sui Mini、Kate Spade New York Kids
 
 <figure>
@@ -319,20 +319,20 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ## 🍽️ 购物累了？（奥特莱斯推荐餐厅）
 
-**1. 月岛文字烧 KUUYA**
+<strong>1. 月岛文字烧 KUUYA</strong>
 
-- **类别：** 文字烧
-- **特色：** 东京名物「月岛文字烧KUUYA」千叶首家分店！在烧热的铁板上滋滋作响的面糊用小铲子刮着吃很有乐趣
+- <strong>类别：</strong> 文字烧
+- <strong>特色：</strong> 东京名物「月岛文字烧KUUYA」千叶首家分店！在烧热的铁板上滋滋作响的面糊用小铲子刮着吃很有乐趣
 
-**2. 松户富田制面**
+<strong>2. 松户富田制面</strong>
 
-- **类别：** 蘸面
-- **特色：** 被誉为日本最佳拉面之一的「富田」奥特莱斯版。浓郁深厚的海鲜猪骨汤和极粗面是特色，拉面爱好者不容错过
+- <strong>类别：</strong> 蘸面
+- <strong>特色：</strong> 被誉为日本最佳拉面之一的「富田」奥特莱斯版。浓郁深厚的海鲜猪骨汤和极粗面是特色，拉面爱好者不容错过
 
-**3. 日本桥 天丼 金子半之助**
+<strong>3. 日本桥 天丼 金子半之助</strong>
 
-- **类别：** 天丼
-- **特色：** 日本桥总店总是大排长龙的天丼名店。点单后立即炸制的酥脆天妇罗与秘制酱汁淋在米饭上的和谐绝佳
+- <strong>类别：</strong> 天丼
+- <strong>特色：</strong> 日本桥总店总是大排长龙的天丼名店。点单后立即炸制的酥脆天妇罗与秘制酱汁淋在米饭上的和谐绝佳
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-12.jpg" alt="木更津的月岛文字烧KUUYA餐厅">
@@ -343,31 +343,39 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ## ✅ 结语
 
-东京奥特莱斯购物，现在不用再烦恼了吧？拥有距市中心压倒性优势的交通、2025年翻新后更加强大的品牌阵容的**三井奥特莱斯木更津**，规划愉快的购物之旅吧。希望通过这份指南您能享受无悔的购物体验！
+东京奥特莱斯购物，现在不用再烦恼了吧？拥有距市中心压倒性优势的交通、2025年翻新后更加强大的品牌阵容的<strong>三井奥特莱斯木更津</strong>，规划愉快的购物之旅吧。希望通过这份指南您能享受无悔的购物体验！
 
-**⭐ 值得一起阅读的文章：**
+<strong>⭐ 值得一起阅读的文章：</strong>
 
-**➡️ [NEW: 东京奥特莱斯三井木更津2025黑色星期五促销（11/14~30）&宝可梦嘉年华](/zh-cn/posts/mitsui-kisarazu-black-friday-2025/)**
+<strong>➡️ [NEW: 东京奥特莱斯三井木更津2025黑色星期五促销（11/14~30）&宝可梦嘉年华](/zh-cn/posts/mitsui-kisarazu-black-friday-2025/)</strong>
 
-**➡️ [新宿完全指南：从新宿御苑到餐厅、购物、黄金街](/zh-cn/posts/shinjuku-guide-2025/)**
+<strong>➡️ [新宿完全指南：从新宿御苑到餐厅、购物、黄金街](/zh-cn/posts/shinjuku-guide-2025/)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /zh-cn/posts/tokyo-station-guide/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>东京站指南：角色街、餐厅、夜景、行李寄存</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>东京站指南：角色街、餐厅、夜景、行李寄存</strong></a></strong>
 
-**➡️ [日本唐吉诃德购物清单&折扣优惠券指南](/zh-cn/posts/don-quijote-shopping-guide-2025/)**
+<strong>➡️ [日本唐吉诃德购物清单&折扣优惠券指南](/zh-cn/posts/don-quijote-shopping-guide-2025/)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /zh-cn/posts/kaldi-coffee-farm-shopping-list/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单：必买推荐（酱料、挂耳咖啡、免税小技巧）</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单：必买推荐（酱料、挂耳咖啡、免税小技巧）</strong></a></strong>
 
-**🔥 日本购物前必看！**
+<strong>🔥 日本购物前必看！</strong>
 
 不仅是奥特莱斯，还有唐吉诃德、Bic Camera、百货店等日本所有购物地点可用的折扣优惠券信息，请一并查看以下「折扣优惠券总汇」文章，获取所有优惠！
 
-**➡️ [日本旅行折扣优惠券总汇2025（唐吉诃德、Bic Camera、百货店等）](/zh-cn/posts/japan-travel-discount-coupons-2025/)**
+<strong>➡️ [日本旅行折扣优惠券总汇2025（唐吉诃德、Bic Camera、百货店等）](/zh-cn/posts/japan-travel-discount-coupons-2025/)</strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224034429817" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 
 <div class="editors-note">

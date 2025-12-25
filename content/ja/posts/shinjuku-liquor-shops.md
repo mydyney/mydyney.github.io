@@ -30,7 +30,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 東京でウイスキーショッピングを計画しているなら、新宿はほぼ必須コースです。
 
-JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、**「酒屋聖地巡礼」**が可能です。
+JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、<strong>「酒屋聖地巡礼」</strong>が可能です。
 
 特に新宿の酒屋は、空港免税店では見かけにくい限定ウイスキーや、山崎・響のような日本産ウイスキーが時々入荷されます。
 
@@ -47,8 +47,8 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 ### 1️⃣ 新宿駅西側・西新宿（大型マート型）
 
-- **ビックカメラ新宿西口店（酒類コーナー）** (**📍[Googleマップ↗](https://maps.app.goo.gl/CLDHwXPeaDFkZ9qh6) 📍**)
-- **やまや新宿店（大型酒販店）** (**📍[Googleマップ↗](https://maps.app.goo.gl/PkyvHZvbhXGrypBCA) 📍**)
+- <strong>ビックカメラ新宿西口店（酒類コーナー）</strong> (<strong>📍[Googleマップ↗](https://maps.app.goo.gl/CLDHwXPeaDFkZ9qh6) 📍</strong>)
+- <strong>やまや新宿店（大型酒販店）</strong> (<strong>📍[Googleマップ↗](https://maps.app.goo.gl/PkyvHZvbhXGrypBCA) 📍</strong>)
 
 両店ともウイスキー・日本酒・ワインを一度にショッピングできる「倉庫型」の雰囲気です。
 
@@ -61,9 +61,9 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 ### 2️⃣ 新宿歌舞伎町・東口
 
-- **リカーマウンテン歌舞伎町店** (**📍[Googleマップ↗](https://maps.app.goo.gl/4NnDyF3dRUeAso6L8) 📍**)
-- **信濃屋新宿店** (**📍[Googleマップ↗](https://maps.app.goo.gl/f3JvMt91CncngYGJ7) 📍**)
-- **ウイスキー王国** (**📍[Googleマップ↗](https://maps.app.goo.gl/TPF1xddeSffCZhhW9) 📍**)
+- <strong>リカーマウンテン歌舞伎町店</strong> (<strong>📍[Googleマップ↗](https://maps.app.goo.gl/4NnDyF3dRUeAso6L8) 📍</strong>)
+- <strong>信濃屋新宿店</strong> (<strong>📍[Googleマップ↗](https://maps.app.goo.gl/f3JvMt91CncngYGJ7) 📍</strong>)
+- <strong>ウイスキー王国</strong> (<strong>📍[Googleマップ↗](https://maps.app.goo.gl/TPF1xddeSffCZhhW9) 📍</strong>)
 
 こちらは日本産ウイスキーやレアボトルを発見する確率が少し高いです。
 
@@ -78,12 +78,12 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 旅行者が新宿の酒屋を訪れる最大の理由です。
 
-### 🍷 新宿酒屋 **山崎**
+### 🍷 新宿酒屋 <strong>山崎</strong>
 
 山崎は競争が最も激しいです。陳列されていたらすぐに手に取るべきです。
 
-- **店舗**: やまや → リカーマウンテン → 信濃屋
-- **在庫**: 「山崎12年」以上は発売シーズン以外は見つけにくく、「ノンエイジ（NA）」も開店ダッシュ時にたまに入荷されます。
+- <strong>店舗</strong>: やまや → リカーマウンテン → 信濃屋
+- <strong>在庫</strong>: 「山崎12年」以上は発売シーズン以外は見つけにくく、「ノンエイジ（NA）」も開店ダッシュ時にたまに入荷されます。
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-05.jpg" alt="銀座ロッテ免税店 山崎12年 ウイスキー 正価">
@@ -92,13 +92,13 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 ---
 
-### 🍸 新宿酒屋 **響**
+### 🍸 新宿酒屋 <strong>響</strong>
 
 響は山崎より発見頻度が少し高いです。
 
-- **店舗**: やまや、信濃屋、ウイスキー王国など
-- **在庫**: 響ブレンダーズチョイス、響ジャパニーズハーモニー
-- **価格**: 空港免税や国内より安いですが、プレミアム価格が付いている場合が多いです。
+- <strong>店舗</strong>: やまや、信濃屋、ウイスキー王国など
+- <strong>在庫</strong>: 響ブレンダーズチョイス、響ジャパニーズハーモニー
+- <strong>価格</strong>: 空港免税や国内より安いですが、プレミアム価格が付いている場合が多いです。
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-06.jpg" alt="銀座ロッテ免税店 響 ジャパニーズハーモニー 免税価格（東京ウイスキー）">
@@ -111,11 +111,11 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 「響は種類が何が違うのですか？」
 
-酒屋で高いプレミアム価格に驚かないよう、訪問前に**山崎・響の公式価格**と**サントリーウイスキー全ラインナップ（白州含む）**を下記の記事で事前に確認してください。
+酒屋で高いプレミアム価格に驚かないよう、訪問前に<strong>山崎・響の公式価格</strong>と<strong>サントリーウイスキー全ラインナップ（白州含む）</strong>を下記の記事で事前に確認してください。
 
-**➡️ [日本ウイスキー 山崎・響 公式価格完全ガイド ↗](https://blog.naver.com/tokyomate/224010546735)**
+<strong>➡️ [日本ウイスキー 山崎・響 公式価格完全ガイド ↗](https://blog.naver.com/tokyomate/224010546735)</strong>
 
-**➡️ [サントリーウイスキー ラインナップ、価格、飲み方（山崎・響・白州）↗](https://blog.naver.com/tokyomate/224014619007)**
+<strong>➡️ [サントリーウイスキー ラインナップ、価格、飲み方（山崎・響・白州）↗](https://blog.naver.com/tokyomate/224014619007)</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-07.jpg" alt="サントリーウイスキー ラインナップ（山崎・白州・響 比較）">
@@ -124,13 +124,13 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 ---
 
-### 🥃 新宿酒屋 **カバラン**
+### 🥃 新宿酒屋 <strong>カバラン</strong>
 
 カバランは在庫ストレスが最も少ない「優等生ウイスキー」です。
 
-- **店舗**: ビックカメラ酒類コーナー
+- <strong>店舗</strong>: ビックカメラ酒類コーナー
   新宿酒屋のカバランメッカです。
-- **在庫**: 台湾ウイスキー「カバラン」のラインナップが非常に豊富で価格も良好です。
+- <strong>在庫</strong>: 台湾ウイスキー「カバラン」のラインナップが非常に豊富で価格も良好です。
   （ソリストヴィーニョバリック、オロロソシェリーなど）
 - 電化製品と合算して免税可能です。
 
@@ -140,9 +140,9 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 新宿の酒屋で山崎・響の在庫が見つからなくても、まだ方法が残っています。
 
-旅行コースに銀座があるなら、**銀座ロッテ免税店**の訪問をおすすめします。市内免税店なので空港より在庫が多く、無料試飲会や割引クーポン特典もあります。
+旅行コースに銀座があるなら、<strong>銀座ロッテ免税店</strong>の訪問をおすすめします。市内免税店なので空港より在庫が多く、無料試飲会や割引クーポン特典もあります。
 
-**➡️ [銀座ロッテ免税店 ウイスキー購入ガイド（山崎・響、無料試飲会、割引クーポン）↗](https://blog.naver.com/tokyomate/224008430188)**
+<strong>➡️ [銀座ロッテ免税店 ウイスキー購入ガイド（山崎・響、無料試飲会、割引クーポン）↗](https://blog.naver.com/tokyomate/224008430188)</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-08.jpg" alt="銀座ロッテ免税店 サントリーウイスキーコーナー（山崎・白州・響）">
@@ -153,39 +153,39 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 ## 4. 初心者でも失敗しない新宿酒屋利用のコツ
 
-### 1️⃣ **価格タグは写真で撮る**
+### 1️⃣ <strong>価格タグは写真で撮る</strong>
 
 気に入ったボトルを見つけたら、すぐに手に取る前に価格タグから撮影しておきましょう。
 
 数カ所回れば相場がつかめます。
 
-### 2️⃣ **タックスフリー（免税）の有無を確認**
+### 2️⃣ <strong>タックスフリー（免税）の有無を確認</strong>
 
 大半の大型酒屋は免税対応しています。
 （パスポート持参 / 5,000円以上購入）
 
-### 3️⃣ **獺祭も一緒に購入**
+### 3️⃣ <strong>獺祭も一緒に購入</strong>
 
 「やまや」などの大型酒屋は日本酒コーナーも充実しています。
 
 獺祭23、45、39の正確な日本公式価格が知りたい場合は、下記のガイドを事前に確認してください。
 
-**➡️ [獺祭23、45、39 日本公式ホームページ価格完全ガイド↗](https://blog.naver.com/tokyomate/223991251786)**
+<strong>➡️ [獺祭23、45、39 日本公式ホームページ価格完全ガイド↗](https://blog.naver.com/tokyomate/223991251786)</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-09.jpg" alt="酒屋 獺祭 日本酒コーナー 獺祭39、23、45">
   <figcaption style="font-size: 0.7em; text-align: center;"><strong>酒屋 獺祭 日本酒コーナー 獺祭39、23、45</strong></figcaption>
 </figure>
 
-### 4️⃣ **ビックカメラ 免税10% + 3~7%割引クーポン**
+### 4️⃣ <strong>ビックカメラ 免税10% + 3~7%割引クーポン</strong>
 
 新宿駅すぐ前に位置し、アクセス性が最高。
 
 電化製品はもちろん、医薬品、日本酒まで一度にショッピングできるため、旅行者に最も人気のスポット。
 
-**免税10% + 品目別3~7%追加割引クーポン**
+<strong>免税10% + 品目別3~7%追加割引クーポン</strong>
 
-**✅ [Klookでビックカメラクーポンをダウンロード↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1159187&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F73336-bic-camera-tourist-privilege-discount-coupon-2022%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8cbbe0ca97)**
+<strong>✅ [Klookでビックカメラクーポンをダウンロード↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1159187&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F73336-bic-camera-tourist-privilege-discount-coupon-2022%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8cbbe0ca97)</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-10.jpg" alt="新宿ビックカメラ 割引クーポン 免税10%+追加7% ショッピングのコツ">
@@ -198,9 +198,9 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 ウイスキーだけ買うのが物足りないなら、新宿のショッピングモールとコースを組み合わせましょう。
 
-- **午前**: 新宿ショッピング（伊勢丹、ルミネなどのデパート）
-- **午後**: 新宿酒屋おすすめコース巡回（山崎・響・カバランの相場チェック）
-- **夕方**: 新宿グルメ + 夜景（ゴールデン街など）
+- <strong>午前</strong>: 新宿ショッピング（伊勢丹、ルミネなどのデパート）
+- <strong>午後</strong>: 新宿酒屋おすすめコース巡回（山崎・響・カバランの相場チェック）
+- <strong>夕方</strong>: 新宿グルメ + 夜景（ゴールデン街など）
 
 このように動線を組めば、新宿ショッピング + ウイスキーショッピング + 夜景まで1日で全て解決可能です。
 
@@ -213,20 +213,28 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 新宿のもっと多くの観光スポット、グルメ、夜景コースが知りたい方は、下記の「新宿完全コース」ガイドをご確認ください！
 
-**➡️ [新宿御苑からグルメ、ショッピング、ゴールデン街まで 新宿観光完全ガイド ↗](/ja/posts/shinjuku-guide-2025/)**
+<strong>➡️ [新宿御苑からグルメ、ショッピング、ゴールデン街まで 新宿観光完全ガイド ↗](/ja/posts/shinjuku-guide-2025/)</strong>
 
-**➡️ [東京都庁 無料展望台 ライトショー・新宿夜景 裏技 ↗](/ja/posts/tokyo-metropolitan-govt-observatory/)**
+<strong>➡️ [東京都庁 無料展望台 ライトショー・新宿夜景 裏技 ↗](/ja/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
 ### ⭐ 一緒に見るとよいショッピングガイド
 
-**➡️ [日本旅行 割引クーポン完全ガイド2025（ドン・キホーテ、ビックカメラ、デパートなど 免税+追加割引） ↗](/ja/posts/japan-travel-discount-coupons-2025/)**
+<strong>➡️ [日本旅行 割引クーポン完全ガイド2025（ドン・キホーテ、ビックカメラ、デパートなど 免税+追加割引） ↗](/ja/posts/japan-travel-discount-coupons-2025/)</strong>
 
-**➡️ [日本ドン・キホーテ ショッピングリスト 必須おすすめ品 & 割引クーポン、免税方法完全ガイド（ラー油、目薬など） ↗](/ja/posts/don-quijote-shopping-guide-2025/)**
+<strong>➡️ [日本ドン・キホーテ ショッピングリスト 必須おすすめ品 & 割引クーポン、免税方法完全ガイド（ラー油、目薬など） ↗](/ja/posts/don-quijote-shopping-guide-2025/)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224033964477 Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-**➡️ [日本カルディ ショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技） ↗](#)**
+<strong>➡️ [日本カルディ ショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技） ↗](#)</strong>
 
-**➡️ [日本コンビニ完全制覇！（セブンイレブン、ファミマ、ローソン比較完全ガイド）↗](/ja/posts/japan-convenience-store-shopping-best-10/)**
+<strong>➡️ [日本コンビニ完全制覇！（セブンイレブン、ファミマ、ローソン比較完全ガイド）↗](/ja/posts/japan-convenience-store-shopping-best-10/)</strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224072546243" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

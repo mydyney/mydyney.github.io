@@ -39,14 +39,14 @@ starting right now!</p>
 
 Ikebukuro Station is one of Tokyo's three major sub-centers alongside Shinjuku and Shibuya - a massive transportation hub.
 
-Did you know that the attractions of **"East Exit" and "West Exit"** centered around this station are **completely different**?
+Did you know that the attractions of <strong>"East Exit" and "West Exit"</strong> centered around this station are <strong>completely different</strong>?
 
-**☀️ East Exit (東口):**
-**"Tourism, Dining, and Subculture" District**
+<strong>☀️ East Exit (東口):</strong>
+<strong>"Tourism, Dining, and Subculture" District</strong>
 Large department stores, Sunshine City, Animate flagship store, ramen battleground, and more - a dazzling array of tourist spots all gathered in one place.
 
-**🌙 West Exit (西口):**
-**"Art and Relaxation" District**
+<strong>🌙 West Exit (西口):</strong>
+<strong>"Art and Relaxation" District</strong>
 Tokyo Metropolitan Theatre, Global Ring Theatre, parks, and more - a calm and sophisticated space frequented by locals.
 
 This guide will introduce you to the perfect itinerary to enjoy the charms of both areas.
@@ -65,17 +65,17 @@ This guide will introduce you to the perfect itinerary to enjoy the charms of bo
 
 ## 🚌 Easy Travel Between East ↔ West (IKEBUS Pro Tips)
 
-Ikebukuro is surprisingly **large to walk between the East and West Exits**.
+Ikebukuro is surprisingly <strong>large to walk between the East and West Exits</strong>.
 
-In such cases, try using **"IKEBUS"**, Ikebukuro's adorable red electric bus!
+In such cases, try using <strong>"IKEBUS"</strong>, Ikebukuro's adorable red electric bus!
 
 It connects all the major spots on both East and West sides including "Sunshine City," "Animate," and "Nishiguchi Park," making it the ultimate travel hack that dramatically shortens your route.
 
-For just **500 yen for adults / 250 yen for children**, we highly recommend the **"1-Day Pass"** that allows unlimited rides all day!
+For just <strong>500 yen for adults / 250 yen for children</strong>, we highly recommend the <strong>"1-Day Pass"</strong> that allows unlimited rides all day!
 
-**✅ <a href="https://travel.willer.co.jp/st/3/ja/pc/tour/package/?mcid=58284" target="_blank">Buy Tickets Online</a>**
-**➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/img-route-map-big-202410.png" target="_blank">IKEBUS Route A, B Map</a>**
-**➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/route-a-20250501.png" target="_blank">Route A Timetable</a>, ➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/route-b-20251001.png" target="_blank">Route B Timetable</a>**
+<strong>✅ <a href="https://travel.willer.co.jp/st/3/ja/pc/tour/package/?mcid=58284" target="_blank">Buy Tickets Online</a></strong>
+<strong>➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/img-route-map-big-202410.png" target="_blank">IKEBUS Route A, B Map</a></strong>
+<strong>➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/route-a-20250501.png" target="_blank">Route A Timetable</a>, ➡️ <a href="https://travel.willer.co.jp/static/img/ikebus/home/route-b-20251001.png" target="_blank">Route B Timetable</a></strong>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-05.jpg" alt="Cute red IKEBUS electric bus">
@@ -92,7 +92,7 @@ The heart of Ikebukuro travel. Everything is concentrated at the "East Exit."
 
 Ikebukuro's landmark. You can spend an entire day in this single building.
 
-**😊 <a href="https://maps.app.goo.gl/KSwH7N9PdMsLNrmr7" target="_blank">Pokémon Center Mega Tokyo:</a>**
+<strong>😊 <a href="https://maps.app.goo.gl/KSwH7N9PdMsLNrmr7" target="_blank">Pokémon Center Mega Tokyo:</a></strong>
 An overwhelmingly large Pokémon sanctuary. From limited edition goods to the "Pikachu Sweets" cafe, this is a must-visit course. (Cafe requires advance reservation)
 
 <figure>
@@ -100,13 +100,13 @@ An overwhelmingly large Pokémon sanctuary. From limited edition goods to the "P
   <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro Pokémon Center Mega Tokyo Pikachu Sweets Cafe</figcaption>
 </figure>
 
-**😊 Sunshine Aquarium:**
+<strong>😊 Sunshine Aquarium:</strong>
 An urban oasis famous for its "flying penguins."
 
-**😊 Observatory:**
+<strong>😊 Observatory:</strong>
 Enjoy the entire Tokyo panorama from the 60th-floor observation deck!
 
-**😊 Fountain Square:**
+<strong>😊 Fountain Square:</strong>
 Various events and performances are held at the fountain square in the center of the shopping mall.
 
 <figure>
@@ -116,9 +116,9 @@ Various events and performances are held at the fountain square in the center of
 
 ### 2. Animate Flagship Store & Otome Road
 
-If "Akihabara" is the mecca for male-oriented otaku culture, **"Ikebukuro" is the mecca for female-oriented otaku culture.**
+If "Akihabara" is the mecca for male-oriented otaku culture, <strong>"Ikebukuro" is the mecca for female-oriented otaku culture.</strong>
 
-The world's largest **"Animate Ikebukuro Flagship Store"** and the densely packed **"Otome Road (乙女ロード)"** filled with female-oriented goods shops are must-visit places for subculture fans.
+The world's largest <strong>"Animate Ikebukuro Flagship Store"</strong> and the densely packed <strong>"Otome Road (乙女ロード)"</strong> filled with female-oriented goods shops are must-visit places for subculture fans.
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-08.jpg" alt="Animate Ikebukuro Flagship Store">
@@ -142,7 +142,7 @@ The world's largest **"Animate Ikebukuro Flagship Store"** and the densely packe
 
 ### 3. Anime Tokyo Station (アニメ東京ステーション)
 
-Newly opened at the end of 2023, **"Anime Tokyo Station"** is rapidly emerging as a new "otaku sanctuary."
+Newly opened at the end of 2023, <strong>"Anime Tokyo Station"</strong> is rapidly emerging as a new "otaku sanctuary."
 
 It's a complex cultural space where you can see the history of Japanese animation through archive exhibitions, and special exhibitions of popular works are held year-round.
 
@@ -154,11 +154,11 @@ Located near the "Animate" flagship store, so visit them together!
 
 ### 4. Hidden Free Observatory & Rest Area - <a href="https://maps.app.goo.gl/o5VydqsnuJ53YD1B8" target="_blank">Toshima Ward Office 10th Floor</a>
 
-The **10th-floor rooftop garden**, called "Toshima no Mori" (Toshima Forest), is also a free observation deck open to everyone. Great for a quick break.
+The <strong>10th-floor rooftop garden</strong>, called "Toshima no Mori" (Toshima Forest), is also a free observation deck open to everyone. Great for a quick break.
 
-**Opening Hours: 9:00~17:00**
-**Summer (July, August): 9:00~19:00**
-**Winter (Nov~Jan): 9:00~16:00**
+<strong>Opening Hours: 9:00~17:00</strong>
+<strong>Summer (July, August): 9:00~19:00</strong>
+<strong>Winter (Nov~Jan): 9:00~16:00</strong>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-13.jpg" alt="Toshima Ward Office 10th floor free observatory and rest area, Toshima no Mori">
@@ -167,43 +167,43 @@ The **10th-floor rooftop garden**, called "Toshima no Mori" (Toshima Forest), is
 
 ### 5. Major Department Stores & Shopping Malls
 
-**😊 Seibu & Parco:**
+<strong>😊 Seibu & Parco:</strong>
 Large department stores directly connected to the station.
 
-**😊 Don Quijote:**
+<strong>😊 Don Quijote:</strong>
 The Ikebukuro East Exit branch is famous for its large scale.
 
-**😊 Bic Camera & Yamada Denki:**
+<strong>😊 Bic Camera & Yamada Denki:</strong>
 Perfect for electronics shopping.
 
-**✅ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Use Seibu, Don Quijote, Bic Camera, Yamada Denki Discount Coupons</a>**
+<strong>✅ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Use Seibu, Don Quijote, Bic Camera, Yamada Denki Discount Coupons</a></strong>
 
 ---
 
 ## 🍜 [East Exit Course] Ikebukuro Gourmet (Ramen & Burgers)
 
-The East Exit with "Sunshine City" is one of Tokyo's premier **"ramen battlegrounds"** and a hidden gourmet district.
+The East Exit with "Sunshine City" is one of Tokyo's premier <strong>"ramen battlegrounds"</strong> and a hidden gourmet district.
 
 ### 1. Ramen & Udon
 
-**😊 Mensōbō Mutekiya <a href="https://maps.app.goo.gl/1D3AkCBtGsVbcxNZ6" target="_blank">(麺創房 無敵家):</a>**
+<strong>😊 Mensōbō Mutekiya <a href="https://maps.app.goo.gl/1D3AkCBtGsVbcxNZ6" target="_blank">(麺創房 無敵家):</a></strong>
 Always has a long line - famous for rich tonkotsu ramen.
 
-**😊 Ramen Gokan <a href="https://maps.app.goo.gl/wmWG81LaUicGEiUs7" target="_blank">(Japanese Ramen 五感):</a>**
-**Michelin Bib Gourmand** honoree. The clean yet deep special soy sauce-based soup is exquisite.
-**✅ <a href="https://autoreserve.com/ko/restaurants/sWzcZLjUD7CyU2zJ6TW9?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Ramen Gokan Online</a>**
+<strong>😊 Ramen Gokan <a href="https://maps.app.goo.gl/wmWG81LaUicGEiUs7" target="_blank">(Japanese Ramen 五感):</a></strong>
+<strong>Michelin Bib Gourmand</strong> honoree. The clean yet deep special soy sauce-based soup is exquisite.
+<strong>✅ <a href="https://autoreserve.com/ko/restaurants/sWzcZLjUD7CyU2zJ6TW9?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Ramen Gokan Online</a></strong>
 
-**😊 Mendokoro Hanada <a href="https://maps.app.goo.gl/ZmFiKtp3Av3gAGVF9" target="_blank">(麺処 花田):</a>**
+<strong>😊 Mendokoro Hanada <a href="https://maps.app.goo.gl/ZmFiKtp3Av3gAGVF9" target="_blank">(麺処 花田):</a></strong>
 Tabelog Top 100 Ramen Shops
 Specializes in rich and savory "miso ramen"
 
-**😊 Tori no Ana <a href="https://maps.app.goo.gl/gFJbAzQPE9dfDY5K9" target="_blank">(鶏の穴):</a>**
+<strong>😊 Tori no Ana <a href="https://maps.app.goo.gl/gFJbAzQPE9dfDY5K9" target="_blank">(鶏の穴):</a></strong>
 Famous for rich and creamy "toripaitan (chicken white soup)" ramen that concentrates the essence of chicken
 
-**😊 Karashi Miso Ramen Kikanbō <a href="https://maps.app.goo.gl/98sE7inCSCooCT6n6" target="_blank">(鬼金棒):</a>**
+<strong>😊 Karashi Miso Ramen Kikanbō <a href="https://maps.app.goo.gl/98sE7inCSCooCT6n6" target="_blank">(鬼金棒):</a></strong>
 "Demon's club" concept shop. Addictively spicy miso ramen where you can adjust the heat (kara) and numbing sensation (shibi).
 
-**😊 Musashino Udon Uchitatēya <a href="https://maps.app.goo.gl/qtdo81T4WW9izwVg8" target="_blank">(武蔵野うどん うちたて家):</a>**
+<strong>😊 Musashino Udon Uchitatēya <a href="https://maps.app.goo.gl/qtdo81T4WW9izwVg8" target="_blank">(武蔵野うどん うちたて家):</a></strong>
 Tabelog Top 100 Udon Shops. The signature dish is "tsuke udon" with incredibly chewy and thick noodles
 
 <figure>
@@ -213,29 +213,29 @@ Tabelog Top 100 Udon Shops. The signature dish is "tsuke udon" with incredibly c
 
 ### 2. Other Restaurants & Cafes
 
-**😊 No.18 Burger <a href="https://maps.app.goo.gl/q6uzEC8P67ucUyL29" target="_blank">(No.18ハンバーガー):</a>**
+<strong>😊 No.18 Burger <a href="https://maps.app.goo.gl/q6uzEC8P67ucUyL29" target="_blank">(No.18ハンバーガー):</a></strong>
 Tabelog Top 100 Shops, handmade burger restaurant
 
-**😊 Yōshoku <a href="https://maps.app.goo.gl/FtG3Cktd9xoRV8pg9" target="_blank">UCHOUTEN:</a>**
+<strong>😊 Yōshoku <a href="https://maps.app.goo.gl/FtG3Cktd9xoRV8pg9" target="_blank">UCHOUTEN:</a></strong>
 Tabelog Top 100 Western Food Shops
 Famous for "Kuroge Wagyu Hamburg Steak"
 
-**😊 Pho Tin Tokyo <a href="https://maps.app.goo.gl/AkJbi4jdQos6xvqNA" target="_blank">(フォーティントーキョー):</a>**
+<strong>😊 Pho Tin Tokyo <a href="https://maps.app.goo.gl/AkJbi4jdQos6xvqNA" target="_blank">(フォーティントーキョー):</a></strong>
 Tabelog Top 100 Shops, "Vietnamese pho" restaurant with main branch in Hanoi
 
-**😊 <a href="https://maps.app.goo.gl/RdJQMbLsPZ7SZ3yh7" target="_blank">COFFEE VALLEY:</a>**
+<strong>😊 <a href="https://maps.app.goo.gl/RdJQMbLsPZ7SZ3yh7" target="_blank">COFFEE VALLEY:</a></strong>
 Tabelog Top 100 Cafes
 Where you can taste specialty coffee
 
-**😊 Kōhitei <a href="https://maps.app.goo.gl/8mmJFJEg4kdr8gow7" target="_blank">(皇琲亭):</a>**
+<strong>😊 Kōhitei <a href="https://maps.app.goo.gl/8mmJFJEg4kdr8gow7" target="_blank">(皇琲亭):</a></strong>
 Tabelog Top 100 Cafes
 A classic "kissaten (喫茶店)" where you can feel the Showa-era atmosphere
 
-**😊 Suzumeya <a href="https://maps.app.goo.gl/NPRaDSh5ZqWKwAVS6" target="_blank">(すずめや):</a>**
+<strong>😊 Suzumeya <a href="https://maps.app.goo.gl/NPRaDSh5ZqWKwAVS6" target="_blank">(すずめや):</a></strong>
 Tabelog Top 100 Shops
 100-year-old traditional shop selling only "dorayaki"
 
-**😊 I'm donut? <a href="https://maps.app.goo.gl/ezhpbRaMnJqaQEmg9" target="_blank">(I'm donut ?):</a>**
+<strong>😊 I'm donut? <a href="https://maps.app.goo.gl/ezhpbRaMnJqaQEmg9" target="_blank">(I'm donut ?):</a></strong>
 Fluffy donut restaurant that needs no words
 Near Animate
 
@@ -254,7 +254,7 @@ If you want to spend a quiet evening away from the tourist crowds, head to the "
 
 The very location that was the setting for the drama "Ikebukuro West Gate Park (IWGP)."
 
-Now it has been reborn as the sophisticated **"Global Ring Theatre"** with a beautiful outdoor theater.
+Now it has been reborn as the sophisticated <strong>"Global Ring Theatre"</strong> with a beautiful outdoor theater.
 
 When night falls, colorful lights illuminate it, making it a great place to relax with a cup of coffee.
 
@@ -269,23 +269,23 @@ When night falls, colorful lights illuminate it, making it a great place to rela
 
 ### 2. West Exit Gourmet
 
-**😊 Menya Hulu-lu <a href="https://maps.app.goo.gl/RXNrHtNi64ZKad9C8" target="_blank">(麺屋 Hulu-lu):</a>**
+<strong>😊 Menya Hulu-lu <a href="https://maps.app.goo.gl/RXNrHtNi64ZKad9C8" target="_blank">(麺屋 Hulu-lu):</a></strong>
 Tabelog Top 100 Ramen Shops
 Hawaiian-concept shoyu (soy sauce) ramen
 
-**😊 Anpuku <a href="https://maps.app.goo.gl/Mb7F2e8b1shuNk9V7" target="_blank">(あんぷく):</a>**
+<strong>😊 Anpuku <a href="https://maps.app.goo.gl/Mb7F2e8b1shuNk9V7" target="_blank">(あんぷく):</a></strong>
 Tabelog Top 100 "Fusion Udon" specialty shop
 Famous for "Mentaiko Cream Udon" and "Carbonara Udon"
-**✅ <a href="https://autoreserve.com/ko/restaurants/NFRvJ7dy83vNdNvMcMg1?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Anpuku Online</a>**
+<strong>✅ <a href="https://autoreserve.com/ko/restaurants/NFRvJ7dy83vNdNvMcMg1?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Anpuku Online</a></strong>
 
-**😊 Unagi Kabuto <a href="https://maps.app.goo.gl/nk4rLJdephV4ByDa7" target="_blank">(うなぎ かぶと):</a>**
-**Tabelog Top 100 Eel Shops**, legendary "eel (unagi) omakase" that's even hard to book
+<strong>😊 Unagi Kabuto <a href="https://maps.app.goo.gl/nk4rLJdephV4ByDa7" target="_blank">(うなぎ かぶと):</a></strong>
+<strong>Tabelog Top 100 Eel Shops</strong>, legendary "eel (unagi) omakase" that's even hard to book
 
-**😊 PIZZA BORSA <a href="https://maps.app.goo.gl/JsC8v3NEySR2fwtc9" target="_blank">(ピッツァ ボルサ):</a>**
+<strong>😊 PIZZA BORSA <a href="https://maps.app.goo.gl/JsC8v3NEySR2fwtc9" target="_blank">(ピッツァ ボルサ):</a></strong>
 Tabelog Top 100 wood-fired pizza
-**✅ <a href="https://autoreserve.com/ko/restaurants/xKCo1692aN1uGuSvtw3i?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Pizza Borsa Online</a>**
+<strong>✅ <a href="https://autoreserve.com/ko/restaurants/xKCo1692aN1uGuSvtw3i?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Pizza Borsa Online</a></strong>
 
-**😊 Kaseika <a href="https://maps.app.goo.gl/yuvhBo3z226ad2RM9" target="_blank">(火星カレー):</a>**
+<strong>😊 Kaseika <a href="https://maps.app.goo.gl/yuvhBo3z226ad2RM9" target="_blank">(火星カレー):</a></strong>
 Tabelog Top 100 Curry Shops
 A unique creative curry restaurant, as the name "Mars Curry" suggests
 
@@ -302,14 +302,14 @@ A unique creative curry restaurant, as the name "Mars Curry" suggests
 
 ## 🎃 [Seasonal Limited] Ikebukuro Halloween Cosplay Festival
 
-Every last weekend of October, the Ikebukuro East Exit area transforms into Tokyo's largest **"Halloween Cosplay Festival."**
+Every last weekend of October, the Ikebukuro East Exit area transforms into Tokyo's largest <strong>"Halloween Cosplay Festival."</strong>
 
 As the new Halloween mecca replacing "Shibuya," be sure to visit if the timing works out!
 
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-halloween-festivals-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro)</a>**
+<strong>➡️ <a href="/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro)</a></strong>
 
 <figure>
   <img src="/images/posts/ikebukuro-complete-guide-20.jpg" alt="Ikebukuro Halloween Cosplay Festival">
@@ -320,28 +320,36 @@ As the new Halloween mecca replacing "Shibuya," be sure to visit if the timing w
 
 ## 📍 After Ikebukuro, Where to Go? (Recommended Connection Routes)
 
-**🚇 JR Yamanote Line 10 minutes!**
-**Youth Districts: Shinjuku/Shibuya**
+<strong>🚇 JR Yamanote Line 10 minutes!</strong>
+<strong>Youth Districts: Shinjuku/Shibuya</strong>
 You can travel directly on the Yamanote Line.
 
-**➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Shinjuku Attractions - From Shinjuku Gyoen to Restaurants and Shopping</a>**
+<strong>➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Shinjuku Attractions - From Shinjuku Gyoen to Restaurants and Shopping</a></strong>
 
-**➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Attractions - From Shibuya Sky Reservations to Restaurants</a>**
+<strong>➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Attractions - From Shibuya Sky Reservations to Restaurants</a></strong>
 
-**🚇 JR Yamanote Line 20 minutes!**
-**Traditional District: Ueno**
+<strong>🚇 JR Yamanote Line 20 minutes!</strong>
+<strong>Traditional District: Ueno</strong>
 Yamanote Line in the opposite direction from Shinjuku!
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224028694874
      Hugo: /posts/ueno-ameyoko-guide/ -->
-**➡️ <a href="#" style="color: #667eea;">Ueno Attractions - From Ameyoko Market and Restaurants to Ueno Park</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">Ueno Attractions - From Ameyoko Market and Restaurants to Ueno Park</a></strong>
 
-**🚇 Marunouchi Line 16 minutes!**
-**Center of Tokyo: Tokyo Station**
+<strong>🚇 Marunouchi Line 16 minutes!</strong>
+<strong>Center of Tokyo: Tokyo Station</strong>
 You can travel with a subway pass.
 
-**➡️ <a href="/posts/tokyo-station-guide/" style="color: #667eea;">Tokyo Station Attractions - Character Street, Restaurants, Night Views, Luggage Storage Lockers</a>**
+<strong>➡️ <a href="/posts/tokyo-station-guide/" style="color: #667eea;">Tokyo Station Attractions - Character Street, Restaurants, Night Views, Luggage Storage Lockers</a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224050101070" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 
 <div class="editors-note">

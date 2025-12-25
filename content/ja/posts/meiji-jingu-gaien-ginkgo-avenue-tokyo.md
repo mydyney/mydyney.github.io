@@ -23,11 +23,11 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 ## はじめに
 
-11月の東京紅葉名所1位は間違いなく、**明治神宮外苑イチョウ並木（明治神宮外苑）**です。
+11月の東京紅葉名所1位は間違いなく、<strong>明治神宮外苑イチョウ並木（明治神宮外苑）</strong>です。
 
 黄金のトンネルの見頃時期から祭り・ライトアップ・フォトゾーンまで、旅行者が必ず知っておくべき情報をすべてまとめました。
 
-特に**「明治神宮」とは全く異なる場所**なので、混同しないよう正確な位置をご案内します。
+特に<strong>「明治神宮」とは全く異なる場所</strong>なので、混同しないよう正確な位置をご案内します。
 
 ---
 
@@ -35,17 +35,17 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 最も多くの方が間違える部分です。明治神宮と明治神宮外苑は名前は似ていますが、全く異なる場所です。
 
-**明治神宮（明治神宮）：**
+<strong>明治神宮（明治神宮）：</strong>
 - 原宿駅、明治神宮前駅近く
 - 鬱蒼とした森と神社がある場所
-- 📍[**Googleマップ↗**](https://maps.app.goo.gl/5UWCLELHKMbBSRqW8) 📍
+- 📍[<strong>Googleマップ↗</strong>](https://maps.app.goo.gl/5UWCLELHKMbBSRqW8) 📍
 
-**明治神宮外苑（明治神宮外苑）：**
+<strong>明治神宮外苑（明治神宮外苑）：</strong>
 - 外苑前駅、青山一丁目駅近く
-- **私たちが探す「東京イチョウ並木」がある場所**
-- 📍[**Googleマップ↗**](https://maps.app.goo.gl/5RebZbknth9xwZZy9) 📍
+- <strong>私たちが探す「東京イチョウ並木」がある場所</strong>
+- 📍[<strong>Googleマップ↗</strong>](https://maps.app.goo.gl/5RebZbknth9xwZZy9) 📍
 
-二か所は歩いて30分以上離れています。イチョウ並木を見るには必ず**明治神宮外苑**に行く必要があります。
+二か所は歩いて30分以上離れています。イチョウ並木を見るには必ず<strong>明治神宮外苑</strong>に行く必要があります。
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-02.jpg" alt="明治神宮 vs 明治神宮外苑 位置比較地図（左：明治神宮、右：明治神宮外苑）">
@@ -56,7 +56,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 ## 🍂 明治神宮外苑が11月東京イチョウ並木1位の理由
 
-ここのイチョウは私たちがよく見る丸い形ではなく、空を突き刺すような**尖った円錐形**で管理されています。そのためより独特で壮大な風景を作り出します。
+ここのイチョウは私たちがよく見る丸い形ではなく、空を突き刺すような<strong>尖った円錐形</strong>で管理されています。そのためより独特で壮大な風景を作り出します。
 
 約300mの直線道路の両側に146本のイチョウが並んでいます。
 
@@ -73,15 +73,15 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 最も早くて便利な方法は地下鉄を利用することです。
 
-**1. 東京メトロ銀座線（G）「外苑前駅」**
+<strong>1. 東京メトロ銀座線（G）「外苑前駅」</strong>
 
-**4a出口**から出るとイチョウ並木の入口に近いです（徒歩約5分）。出口から少し歩くだけで、すぐに黄金の風景が広がります。
+<strong>4a出口</strong>から出るとイチョウ並木の入口に近いです（徒歩約5分）。出口から少し歩くだけで、すぐに黄金の風景が広がります。
 
-**2. 東京メトロ「青山一丁目駅」**
+<strong>2. 東京メトロ「青山一丁目駅」</strong>
 
-**銀座線（G）、半蔵門線（Z）、大江戸線（E）**が通る駅です。
+<strong>銀座線（G）、半蔵門線（Z）、大江戸線（E）</strong>が通る駅です。
 
-**1番出口**から出るとイチョウ並木の入口に近いです（徒歩約5分）。外苑前駅と同じくらいの距離です。
+<strong>1番出口</strong>から出るとイチョウ並木の入口に近いです（徒歩約5分）。外苑前駅と同じくらいの距離です。
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-04.jpg" alt="明治神宮外苑 行き方：外苑前駅 4a出口 案内標識">
@@ -96,7 +96,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 ### 1. 東京イチョウ見頃時期
 
-- **時期：毎年11月下旬～12月上旬**
+- <strong>時期：毎年11月下旬～12月上旬</strong>
 
 11月中旬から色づき始め、11月最終週に見頃を迎えます。12月初めを過ぎると葉が多く落ちます。
 
@@ -107,8 +107,8 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 ### 2. 夜間ライトアップ
 
-- **日程：2025年11月22日（土）～11月30日（日）**
-- **時間：16:30～19:30**
+- <strong>日程：2025年11月22日（土）～11月30日（日）</strong>
+- <strong>時間：16:30～19:30</strong>
 
 祭り期間中、日が暮れた後にイチョウ並木に照明を灯すライトアップイベントが行われます。
 
@@ -125,16 +125,16 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 ## 明治神宮外苑「東京クリスマスマーケット」
 
-**「グリム童話の世界へ！華やかなファンタジークリスマス」**
+<strong>「グリム童話の世界へ！華やかなファンタジークリスマス」</strong>
 
 過去日比谷公園の名声を継ぐ「東京クリスマスマーケット」が今年は明治神宮外苑で開催されます。イチョウの見頃時期と完璧に重なります。
 
 グリム童話とヨーロッパの物語をテーマに、多彩な光と音楽の中で華やかで幻想的な祭りの雰囲気を演出します。
 
-**🗓️ 期間：2025年11月21日（金）～12月25日（木）**
-**⏰ 時間：初日16:00～21:30、その他11:00～21:30**
-**📍 場所：明治神宮外苑 聖徳記念絵画館前** [**Googleマップ↗**](https://maps.app.goo.gl/AQWb1BvzXZjJg1cn9) 📍
-**💰 入場料：有料**（1,000円～、日程により変動）
+<strong>🗓️ 期間：2025年11月21日（金）～12月25日（木）</strong>
+<strong>⏰ 時間：初日16:00～21:30、その他11:00～21:30</strong>
+<strong>📍 場所：明治神宮外苑 聖徳記念絵画館前</strong> [<strong>Googleマップ↗</strong>](https://maps.app.goo.gl/AQWb1BvzXZjJg1cn9) 📍
+<strong>💰 入場料：有料</strong>（1,000円～、日程により変動）
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-07.jpg" alt="クリスマスマーケットを準備中の明治神宮外苑 聖徳記念絵画館前 広場">
@@ -156,7 +156,7 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 ### 2️⃣ シェイクシャック1号店テラス
 
-イチョウ並木の入口（外苑前駅方面）に、あの有名な**シェイクシャック（Shake Shack）日本1号店**があります。
+イチョウ並木の入口（外苑前駅方面）に、あの有名な<strong>シェイクシャック（Shake Shack）日本1号店</strong>があります。
 
 屋外テラスに座ると、イチョウ並木を上から快適に眺めながら、バーガーと一緒に思い出の写真を残せます（競争激しい）。
 
@@ -178,39 +178,39 @@ featured_image: "/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-01.jpg"
 
 ## 訪問のヒント Q&A
 
-**Q. 人が多すぎませんか？おすすめの訪問時間帯は？**
-A：はい、11月見頃時期の週末は本当に多いです。最も良い時間帯は**平日午前10時前**です。比較的静かに黄金の散歩を楽しめます。祭りが始まる週末昼間は避けるのが良いです。
+<strong>Q. 人が多すぎませんか？おすすめの訪問時間帯は？</strong>
+A：はい、11月見頃時期の週末は本当に多いです。最も良い時間帯は<strong>平日午前10時前</strong>です。比較的静かに黄金の散歩を楽しめます。祭りが始まる週末昼間は避けるのが良いです。
 
 <figure>
   <img src="/images/posts/meiji-jingu-gaien-ginkgo-avenue-tokyo-11.jpg" alt="明治神宮外苑 東京イチョウ並木 秋の必見スポット">
   <figcaption style="font-size: 0.7em; text-align: center;">明治神宮外苑 東京イチョウ並木 秋の必見スポット</figcaption>
 </figure>
 
-**Q. 周辺に一緒に行けるところはありますか？**
+<strong>Q. 周辺に一緒に行けるところはありますか？</strong>
 A：イチョウ並木は「青山」地域にあります。「表参道」と非常に近く、一緒に組み合わせるのに最適です。
 
-- **表参道** → カフェ・ショッピング・建築探訪
+- <strong>表参道</strong> → カフェ・ショッピング・建築探訪
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224027835049
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>表参道完璧ガイド：コーヒー、ショッピング、レストラン、建築まで完全整理（おすすめコース）</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>表参道完璧ガイド：コーヒー、ショッピング、レストラン、建築まで完全整理（おすすめコース）</strong></a>
 
-- **渋谷** → スカイ展望台・ショッピングルート
+- <strong>渋谷</strong> → スカイ展望台・ショッピングルート
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/shibuya-complete-guide-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>渋谷の見どころ：渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>渋谷の見どころ：渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong></a>
 
-- **六本木** → イルミネーション・夜景・森美術館
+- <strong>六本木</strong> → イルミネーション・夜景・森美術館
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>六本木の見どころ完全ガイド（展望台、美術館、ショッピング、レストラン A to Z）</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>六本木の見どころ完全ガイド（展望台、美術館、ショッピング、レストラン A to Z）</strong></a>
 
-**➡️** <a href="/ja/posts/roppongi-christmas-illumination-2025/"><strong>六本木イルミネーション2025：期間、点灯時間、必須スポット、六本木ヒルズクリスマスマーケット完璧ガイド</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/roppongi-christmas-illumination-2025/"><strong>六本木イルミネーション2025：期間、点灯時間、必須スポット、六本木ヒルズクリスマスマーケット完璧ガイド</strong></a>
 
 ---
 
@@ -222,13 +222,21 @@ A：イチョウ並木は「青山」地域にあります。「表参道」と�
 
 ## 🍁 2025年東京紅葉旅行情報をもっと見る
 
-**🍂 新宿御苑の紅葉を楽しむ**
+<strong>🍂 新宿御苑の紅葉を楽しむ</strong>
 
-**➡️** <a href="/ja/posts/shinjuku-gyoen-guide-2025/"><strong>東京新宿御苑完璧ガイド｜入場料・入場時間・スターバックス・ピクニック・ランニング（2025）</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/shinjuku-gyoen-guide-2025/"><strong>東京新宿御苑完璧ガイド｜入場料・入場時間・スターバックス・ピクニック・ランニング（2025）</strong></a>
 
-**🍂 東京を代表する美しい紅葉スポット BEST5**
+<strong>🍂 東京を代表する美しい紅葉スポット BEST5</strong>
 
-**➡️** <a href="/ja/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>2025年東京紅葉時期＆おすすめスポット BEST 5（見頃時期、ライトアップ情報完全ガイド）</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>2025年東京紅葉時期＆おすすめスポット BEST 5（見頃時期、ライトアップ情報完全ガイド）</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224079015302" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

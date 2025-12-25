@@ -33,9 +33,9 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ## 🔔 'パブロフの犬'？ユニークなパウンドケーキコンセプト
 
-この店の名前'パブロフ（Pavlov）'は、あの有名な実験**'パブロフの犬'**から取られました。
+この店の名前'パブロフ（Pavlov）'は、あの有名な実験<strong>'パブロフの犬'</strong>から取られました。
 
-**「名前を聞くだけで味が思い浮かび唾が湧く」**そんなケーキを作るという意味が込められています。
+<strong>「名前を聞くだけで味が思い浮かび唾が湧く」</strong>そんなケーキを作るという意味が込められています。
 
 パリの街角で偶然出会った可愛いお菓子屋さんをコンセプトに、クラシックで高級感あふれるインテリアが特徴です。
 
@@ -65,12 +65,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ここの代表メニューは、私たちが知っているパサパサしたパウンドケーキではありません。
 
-小麦粉を極少量だけ使用する代わりに**'白餡（白餡）'**を入れて、**'羊羹'のようにしっとり**と柔らかい食感を完成させました。
+小麦粉を極少量だけ使用する代わりに<strong>'白餡（白餡）'</strong>を入れて、<strong>'羊羹'のようにしっとり</strong>と柔らかい食感を完成させました。
 
 ### 1. ケーキセット（ケーキセット）
 
-**本日のパウンドケーキ5種 + ドリンク**
-**2,000円（税別）**
+<strong>本日のパウンドケーキ5種 + ドリンク</strong>
+<strong>2,000円（税別）</strong>
 
 'パブロフ'の様々なシグネチャーパウンドケーキを一度に味わえる最高の'サンプラー'メニューです。
 
@@ -86,7 +86,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ### 2. フレンチトースト ベリー（フレンチトースト）
 
-**1,650円（税別）**
+<strong>1,650円（税別）</strong>
 
 厚めのブリオッシュパンにクリームとフルーツがたっぷり乗ったラグジュアリーフレンチトーストです。
 
@@ -97,7 +97,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ### 3. 生ハムモッツァレラサンドイッチ（プリンアラモード）
 
-**1,600円（税別）**
+<strong>1,600円（税別）</strong>
 
 ブランチメニューにぴったりの甘塩バランスのサンドイッチです。
 
@@ -110,26 +110,26 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ## 📌 訪問前必読！（予約、注意事項）
 
-**⏰ 営業時間：**
-**午前11:00 ～ 午後7:00**
+<strong>⏰ 営業時間：</strong>
+<strong>午前11:00 ～ 午後7:00</strong>
 (L.O. 18:00)
 
-**🗓️ 定休日：毎週月曜日**
+<strong>🗓️ 定休日：毎週月曜日</strong>
 （月曜日が祝日の場合、翌平日休み）
 
-**🚃 アクセス：**
+<strong>🚃 アクセス：</strong>
 みなとみらい線
-**「元町・中華街駅」**
-**3番出口**から徒歩1分
+<strong>「元町・中華街駅」</strong>
+<strong>3番出口</strong>から徒歩1分
 
-**💳 支払い：カード決済可能**
+<strong>💳 支払い：カード決済可能</strong>
 （電子マネー、QR決済は不可）
 
-**⚠️ [重要] 訪問のコツ：**
+<strong>⚠️ [重要] 訪問のコツ：</strong>
 - カフェ席予約不可（ウェイティング必須）
 - スペースの問題でベビーカー入場不可
-- **1人1オーダー必須**
-- **（ドリンクも1オーダーとしてカウント）**
+- <strong>1人1オーダー必須</strong>
+- <strong>（ドリンクも1オーダーとしてカウント）</strong>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.4423658,139.6493223&hl=ja&z=17&output=embed"
@@ -158,12 +158,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 'パブロフ'カフェでパウンドケーキだけ食べて帰るのはもったいない！
 
-すぐ隣には、**'パティシエが本気で作ったクロワッサン専門ベーカリー'**
-**'ミセス パブロフ ベーカリー（Mrs. Pavlov Bakery）'**があります。
+すぐ隣には、<strong>'パティシエが本気で作ったクロワッサン専門ベーカリー'</strong>
+<strong>'ミセス パブロフ ベーカリー（Mrs. Pavlov Bakery）'</strong>があります。
 
-**100% フランス産発酵バター**を使用するのは基本！
+<strong>100% フランス産発酵バター</strong>を使用するのは基本！
 
-基本のプレーンクロワッサンから、料理のように丁寧に作られた'食事代わりクロワッサン'、宝石のように華やかな**'スイーツ（デザート）クロワッサン'**まで、様々なクロワッサンをテイクアウトできます。
+基本のプレーンクロワッサンから、料理のように丁寧に作られた'食事代わりクロワッサン'、宝石のように華やかな<strong>'スイーツ（デザート）クロワッサン'</strong>まで、様々なクロワッサンをテイクアウトできます。
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="ミセス パブロフ ベーカリーの華やかなクロワッサンショーケース">
@@ -184,12 +184,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 ### 🚶‍♂️ 徒歩5分！美食の天国、横浜中華街
 
 甘いデザートを食べたら、今度は'中華街'で香ばしい点心や麻婆豆腐を味わう番！
-**➡️ [中華街グルメ'慶徳珍'（麻婆豆腐）](/ja/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
+<strong>➡️ [中華街グルメ'慶徳珍'（麻婆豆腐）](/ja/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)</strong>
 
 ### 🚶‍♂️ 赤い靴バス10分！ロマンティックな海、赤レンガ倉庫
 
 '赤レンガ倉庫'の散歩をお楽しみください。
-**➡️ [横浜1日コース完全ガイド（赤レンガ倉庫、中華街）](#)**<!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
+<strong>➡️ [横浜1日コース完全ガイド（赤レンガ倉庫、中華街）](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
 
 ---
 
@@ -197,11 +197,11 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 横浜ランドマークを完璧に楽しめる横浜1日おすすめコースをご覧ください！
 
-**➡️ [横浜1日コース 中華街グルメ、赤レンガソコ、夜景スポット総まとめ](#)**<!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
+<strong>➡️ [横浜1日コース 中華街グルメ、赤レンガソコ、夜景スポット総まとめ](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
 
 ---
 
-**「名前を聞くだけで唾が湧く」**
+<strong>「名前を聞くだけで唾が湧く」</strong>
 
 パブロフカフェはスイーツだけでなく、横浜の魅力を体験できる特別な場所です。食べログ百名店5年連続選出、ユニークなパウンドケーキ、エレガントな雰囲気、そして隣のミセス パブロフ ベーカリーで、横浜カフェツアーの完璧な目的地です。
 

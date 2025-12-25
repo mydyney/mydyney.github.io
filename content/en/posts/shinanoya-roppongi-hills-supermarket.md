@@ -24,7 +24,7 @@ Tokyo's celebrity supermarket!</p>
 
 Hello!
 
-📌 **This article is part of the "Complete Guide to Roppongi Attractions" series.** If you want to see the full itinerary, check out the article below first!
+📌 <strong>This article is part of the "Complete Guide to Roppongi Attractions" series.</strong> If you want to see the full itinerary, check out the article below first!
 
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
@@ -42,11 +42,11 @@ It's located at the end of Keyakizaka, where the Roppongi Hills Christmas illumi
 
 ## Shinanoya Roppongi Hills Supermarket Operating Information
 
-**Hours:** 9:00 AM - 11:00 PM
-**Open:** Year-round
+<strong>Hours:</strong> 9:00 AM - 11:00 PM
+<strong>Open:</strong> Year-round
 
-**Location:** Roppongi Hills Gate Tower 1F & 2F (Tsutaya Bookstore building)
-**Map:**
+<strong>Location:</strong> Roppongi Hills Gate Tower 1F & 2F (Tsutaya Bookstore building)
+<strong>Map:</strong>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.660753,139.729167&hl=en&z=17&output=embed"
@@ -64,11 +64,11 @@ It's located at the end of Keyakizaka, where the Roppongi Hills Christmas illumi
   </p>
 </div>
 
-**1F:** Alcohol, cheese, ham, bread, snacks, prepared meals
-**2F:** Vegetables, fruits, meat, fish, seasonings, dairy products, processed foods
+<strong>1F:</strong> Alcohol, cheese, ham, bread, snacks, prepared meals
+<strong>2F:</strong> Vegetables, fruits, meat, fish, seasonings, dairy products, processed foods
 
-**Tax-Free:** Available for alcohol purchases
-**※ NEW Duty-Free Limit from March 21, 2025!**
+<strong>Tax-Free:</strong> Available for alcohol purchases
+<strong>※ NEW Duty-Free Limit from March 21, 2025!</strong>
 The duty-free limit for alcohol when entering Korea has changed. The new limit is up to 2L total volume + $400 total value with no bottle quantity restriction.
 ※ Alcohol purchases are separate from the $800 general duty-free allowance.
 
@@ -351,20 +351,20 @@ Major Japanese supermarkets often sell merchandise like tote bags and t-shirts w
 
 ## Epilogue
 
-> **For Tokyo travel souvenirs,**
-> **Packed with unique regional specialties,**
-> **Shinanoya at Roppongi Hills is the answer**
+> <strong>For Tokyo travel souvenirs,</strong>
+> <strong>Packed with unique regional specialties,</strong>
+> <strong>Shinanoya at Roppongi Hills is the answer</strong>
 
 If you're coming to see the Roppongi Hills Christmas Keyakizaka illumination, be sure to add Shinanoya supermarket to your itinerary. I'm confident you'll find luxurious products and unique regional specialties that will delight your loved ones. I photographed price tags clearly so they can help with your shopping plans.
 
-⭐ **Curious about other things to do in Roppongi?**
+⭐ <strong>Curious about other things to do in Roppongi?</strong>
 
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ [Complete Guide to Roppongi Attractions (Observatory, Festivals, Museums, Restaurants A to Z)]</strong></a>
 
-⭐ **Recommended Japanese Whisky Information**
+⭐ <strong>Recommended Japanese Whisky Information</strong>
 Still wondering which whisky to buy? From beginner-friendly to gift-worthy options, find the perfect Japanese whisky for you in the comprehensive guide below!
 
 <!-- TODO: Update link after migration

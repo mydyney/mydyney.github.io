@@ -61,41 +61,41 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
   </tbody>
 </table>
 
-顺便说一下，虽然也有「成田新宿Skyliner」路线，但需要在上野站或日暮里站换乘1次，所以本文重点介绍**「直达路线：成田特快 vs 利木津巴士」**对比。
+顺便说一下，虽然也有「成田新宿Skyliner」路线，但需要在上野站或日暮里站换乘1次，所以本文重点介绍<strong>「直达路线：成田特快 vs 利木津巴士」</strong>对比。
 (Skyliner将在另一篇详细文章中介绍。)
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /zh-cn/posts/skyliner-reservation-guide/ -->
-**➡️ [Skyliner vs N'EX对比、上野・新宿完全攻略↗](#)**
+<strong>➡️ [Skyliner vs N'EX对比、上野・新宿完全攻略↗](#)</strong>
 
 ---
 
 ## 成田特快完全攻略 🚄
 
-**✅ 成田特快(N'EX)总结**
+<strong>✅ 成田特快(N'EX)总结</strong>
 「成田机场到新宿交通中，
 最快、最舒适、最准时的方法。」
 
 ### 🚄 基本信息
 
-- **路线:成田机场 ↔ 东京站 ↔ 涩谷站 ↔ 新宿站(无需换乘)**
-- **所需时间**:约80分钟
-- **价格**:单程3,250日元 / **往返5,000日元(14天内可用)**
-- **优点**:全席指定座、宽敞座位间距+大型行李架
-- **缺点**:单程较贵，**强烈推荐往返票**
+- <strong>路线:成田机场 ↔ 东京站 ↔ 涩谷站 ↔ 新宿站(无需换乘)</strong>
+- <strong>所需时间</strong>:约80分钟
+- <strong>价格</strong>:单程3,250日元 / <strong>往返5,000日元(14天内可用)</strong>
+- <strong>优点</strong>:全席指定座、宽敞座位间距+大型行李架
+- <strong>缺点</strong>:单程较贵，<strong>强烈推荐往返票</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /zh-cn/posts/narita-express-guide/ -->
-**➡️ [成田特快(N'EX)预订・选座完全攻略↗](#)**
+<strong>➡️ [成田特快(N'EX)预订・选座完全攻略↗](#)</strong>
 
-- **预订方法**:Klook、KKday / JR东日本服务中心
+- <strong>预订方法</strong>:Klook、KKday / JR东日本服务中心
 
-**✅ [在Klook预订成田特快↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)**
+<strong>✅ [在Klook预订成田特快↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)</strong>
 
 ### ⏰ N'EX时刻表(成田机场 → 新宿站)
 
-**📌 小提示**
-**考虑航班可能延误，**
-**成田入境+取行李至少预留2小时**
-**再设定N'EX出发时间比较安全。**
+<strong>📌 小提示</strong>
+<strong>考虑航班可能延误，</strong>
+<strong>成田入境+取行李至少预留2小时</strong>
+<strong>再设定N'EX出发时间比较安全。</strong>
 
 <table class="schedule-table">
   <thead>
@@ -175,7 +175,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
   </tbody>
 </table>
 
-**※ 时刻表和价格可能有变更。乘车前请在成田特快和利木津巴士官网确认最新信息。**
+<strong>※ 时刻表和价格可能有变更。乘车前请在成田特快和利木津巴士官网确认最新信息。</strong>
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-02.jpg" alt="成田机场第1航站楼成田特快售票机">
@@ -186,7 +186,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 ## 利木津巴士 – 行李多的旅客最佳选择! 🚌
 
-**✅ 利木津巴士总结**
+<strong>✅ 利木津巴士总结</strong>
 「坐成田新宿利木津
 行李箱一次搬上车，直达酒店门口 -
 最方便的『门到门』路线。」
@@ -200,27 +200,27 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 - 新宿华盛顿酒店
 - 东京希尔顿酒店
 
-**📌 小提示**
+<strong>📌 小提示</strong>
 成田新宿机场巴士虽然贵一点...
 但如果住在上述华盛顿酒店等，利木津巴士实际上是最佳答案。
 
 ### 🚌 基本信息
 
-- **所需时间**:约2小时
-- **价格**:3,600日元
-- **优点**:行李无忧，家庭・亲子游最佳
-- **缺点**:受交通状况影响，部分时段需要预订
+- <strong>所需时间</strong>:约2小时
+- <strong>价格</strong>:3,600日元
+- <strong>优点</strong>:行李无忧，家庭・亲子游最佳
+- <strong>缺点</strong>:受交通状况影响，部分时段需要预订
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /zh-cn/posts/narita-airport-limousine-guide/ -->
-**➡️ [成田机场利木津巴士完全攻略↗](#)**
+<strong>➡️ [成田机场利木津巴士完全攻略↗](#)</strong>
 
-- **预订方法**:Klook / 机场售票柜台
+- <strong>预订方法</strong>:Klook / 机场售票柜台
 
-**✅ [在Klook预订利木津巴士↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1121184&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F)**
+<strong>✅ [在Klook预订利木津巴士↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1121184&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F)</strong>
 
 ### 📍 利木津巴士乘车点
 
-**成田机场 → 新宿利木津巴士乘车点(各航站楼)**
+<strong>成田机场 → 新宿利木津巴士乘车点(各航站楼)</strong>
 
 <table class="schedule-table">
   <thead>
@@ -237,7 +237,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 ### 🚌 主要路线
 
-**1️⃣ 成田机场 → 东京歌舞伎町大厦、西武新宿站地区**
+<strong>1️⃣ 成田机场 → 东京歌舞伎町大厦、西武新宿站地区</strong>
 
 <table class="schedule-table">
   <thead>
@@ -252,7 +252,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
   </tbody>
 </table>
 
-**2️⃣ 成田机场 → 新宿站、新宿巴士总站、主要酒店**
+<strong>2️⃣ 成田机场 → 新宿站、新宿巴士总站、主要酒店</strong>
 
 <table class="schedule-table">
   <thead>
@@ -441,13 +441,13 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 ### 💰 1) 比起预算更重视「时间+舒适度」
 
-- **推荐:成田特快(N'EX)**
-- **理由**:无需换乘+电车不受交通影响
+- <strong>推荐:成田特快(N'EX)</strong>
+- <strong>理由</strong>:无需换乘+电车不受交通影响
 
 ### 🧳 2) 行李箱2个以上、家庭・亲子游
 
-- **推荐:利木津巴士**
-- **理由**:司机在机场装行李，酒店门口下车，实际上「行李搬运」工作量为零。
+- <strong>推荐:利木津巴士</strong>
+- <strong>理由</strong>:司机在机场装行李，酒店门口下车，实际上「行李搬运」工作量为零。
 特别是从成田机场到新宿华盛顿酒店、京王、希尔顿等，有酒店下车路线的话，强烈推荐利木津巴士。
 
 ### 🕐 3) 清晨・深夜到达 / 出发时间尴尬
@@ -467,22 +467,22 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 ## Q&A(常见问题)
 
-**Q. 成田特快可以用Suica(Pasmo)卡吗?**
+<strong>Q. 成田特快可以用Suica(Pasmo)卡吗?</strong>
 A. 不可以。
 Suica可用于普通电车、地铁、山手线，但
-**成田特快(N'EX)**
-需要另外购买**指定席特快票**。
+<strong>成田特快(N'EX)</strong>
+需要另外购买<strong>指定席特快票</strong>。
 
-**Q. 3晚4天旅行可以用N'EX往返票吗?**
+<strong>Q. 3晚4天旅行可以用N'EX往返票吗?</strong>
 A. 可以。
-购买日起**往返14天内可用**，所以
+购买日起<strong>往返14天内可用</strong>，所以
 「成田-新宿N'EX往返5,000日元」在包括3晚4天、5晚6天在内的大部分东京旅行中都可以充分利用。
 
-**Q. 利木津巴士车票可以刷信用卡吗?**
+<strong>Q. 利木津巴士车票可以刷信用卡吗?</strong>
 A. 可以。
-成田机场大部分利木津巴士售票柜台和自动售票机都**支持信用卡支付**。
+成田机场大部分利木津巴士售票柜台和自动售票机都<strong>支持信用卡支付</strong>。
 
-**Q. 清晨到达，但N'EX和利木津巴士都已结束运营。**
+<strong>Q. 清晨到达，但N'EX和利木津巴士都已结束运营。</strong>
 A. 这种情况只能选择以下方案之一:
 - 在成田机场住一晚 → 第二天早上乘N'EX/利木津巴士
 - 最后的办法:乘成田新宿出租车(预计费用30,000日元以上)
@@ -496,28 +496,36 @@ A. 这种情况只能选择以下方案之一:
 除了新宿交通，如果需要各交通方式的详细信息或完整机场攻略，请查看以下详细指南。
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224007949043 Hugo: /zh-cn/posts/narita-airport-arrival-guide/ -->
-**➡️ [东京成田机场到达攻略(市内交通、Suica、ATM完全指南)↗](#)**
+<strong>➡️ [东京成田机场到达攻略(市内交通、Suica、ATM完全指南)↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /zh-cn/posts/narita-express-guide/ -->
-**➡️ [成田特快(N'EX)预订、价格、时刻表完全攻略↗](#)**
+<strong>➡️ [成田特快(N'EX)预订、价格、时刻表完全攻略↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /zh-cn/posts/narita-airport-limousine-guide/ -->
-**➡️ [成田机场利木津巴士&经济快线巴士完全攻略(预订、价格)↗](#)**
+<strong>➡️ [成田机场利木津巴士&经济快线巴士完全攻略(预订、价格)↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /zh-cn/posts/skyliner-reservation-guide/ -->
-**➡️ [Skyliner预订、价格、时刻表完全攻略(N'EX对比)↗](#)**
+<strong>➡️ [Skyliner预订、价格、时刻表完全攻略(N'EX对比)↗](#)</strong>
 
-**➡️ [成田机场第1航站楼免税店5%折扣券(购物清单)↗](/zh-cn/posts/narita-airport-terminal1-duty-free-coupon-guide/)**
+<strong>➡️ [成田机场第1航站楼免税店5%折扣券(购物清单)↗](/zh-cn/posts/narita-airport-terminal1-duty-free-coupon-guide/)</strong>
 
 ### ⭐ 相关新宿旅游攻略
 
-**🌿 新宿1日行程:[新宿观光完整路线攻略↗](/zh-cn/posts/shinjuku-guide-2025/)**
+<strong>🌿 新宿1日行程:[新宿观光完整路线攻略↗](/zh-cn/posts/shinjuku-guide-2025/)</strong>
 
-**🍁 散步:[新宿御苑营业时间、红叶、野餐↗](/zh-cn/posts/shinjuku-gyoen-guide-2025/)**
+<strong>🍁 散步:[新宿御苑营业时间、红叶、野餐↗](/zh-cn/posts/shinjuku-gyoen-guide-2025/)</strong>
 
-**🏙 夜景:[东京都厅免费展望台灯光秀&新宿夜景提示↗](/zh-cn/posts/tokyo-metropolitan-govt-observatory/)**
+<strong>🏙 夜景:[东京都厅免费展望台灯光秀&新宿夜景提示↗](/zh-cn/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
-**🌃 夜间街区:[新宿黄金街vs思出横丁完全对比↗](/zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
+<strong>🌃 夜间街区:[新宿黄金街vs思出横丁完全对比↗](/zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224072190712" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 
 <div class="editors-note">

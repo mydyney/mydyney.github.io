@@ -24,7 +24,7 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 
 ## 前言
 
-新宿旅行的第一道关卡，就是**新宿站行李寄存**。
+新宿旅行的第一道关卡，就是<strong>新宿站行李寄存</strong>。
 
 在全世界最复杂的新宿站寻找存放28英寸行李箱的地方，简直是一场战争。
 
@@ -36,13 +36,13 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 
 日本的投币储物柜有2种类型。
 
-**1. 钥匙式（旧型）**
+<strong>1. 钥匙式（旧型）</strong>
 - 最常见的类型
 - 只能使用100日元硬币
 - 放入行李 → 投入硬币 → 转动钥匙锁定
 - 不要弄丢钥匙！
 
-**2. 触屏式（新型）**
+<strong>2. 触屏式（新型）</strong>
 - 最近增加的类型
 - 现金、交通卡（Suica、Pasmo）均可支付
 - 放入行李 → 屏幕选择位置 → 支付 → 锁定
@@ -103,9 +103,9 @@ JR新宿站地下1楼东检票口和中央东检票口附近共4处（其中1处
 
 全部10处储物柜的尺寸和空位情况可在官网查询，无需四处寻找空位。
 
-**📌 投币储物柜实时空位情况（京王线官网）**
+<strong>📌 投币储物柜实时空位情况（京王线官网）</strong>
 
-➡️ **<a href="https://www.keiochika.co.jp/locker/service/shinjuku.html" target="_blank">查看京王线新宿站投币储物柜实时空位情况</a>**
+➡️ <strong><a href="https://www.keiochika.co.jp/locker/service/shinjuku.html" target="_blank">查看京王线新宿站投币储物柜实时空位情况</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-05.jpg" alt="京王线新宿站投币储物柜实时空位情况界面">
@@ -128,7 +128,7 @@ JR新宿站地下1楼东检票口和中央东检票口附近共4处（其中1处
 
 ## 3. 新宿站行李寄存中心
 
-新宿站周边也有多家可安心寄存行李的**新宿站行李寄存服务（行李寄存中心）**，配有常驻工作人员。当站内投币储物柜全部使用时，或想将行李配送到机场或酒店时，可以利用这些服务。
+新宿站周边也有多家可安心寄存行李的<strong>新宿站行李寄存服务（行李寄存中心）</strong>，配有常驻工作人员。当站内投币储物柜全部使用时，或想将行李配送到机场或酒店时，可以利用这些服务。
 
 ### 1. 小田急观光咨询处（西口·南口）
 
@@ -139,13 +139,13 @@ JR新宿站地下1楼东检票口和中央东检票口附近共4处（其中1处
 - 尺寸：长+宽+高合计160cm，重量25kg以下
 - 最长保管期限：3天（超过后每天加收费用）
 
-**🎒 箱根酒店行李配送服务（优惠信息！）**
+<strong>🎒 箱根酒店行李配送服务（优惠信息！）</strong>
 
 还有从箱根汤本站到酒店、从酒店到车站的行李配送服务。在箱根汤本站寄存行李，无需担心沉重行李，自由旅行。
 
-**📌 箱根行李寄存服务申请**
+<strong>📌 箱根行李寄存服务申请</strong>
 
-**➡️ <a href="https://www.hakonenavi.jp/hakone-luggage-transport-service/kr/" target="_blank">申请箱根行李配送服务↗</a>**
+<strong>➡️ <a href="https://www.hakonenavi.jp/hakone-luggage-transport-service/kr/" target="_blank">申请箱根行李配送服务↗</a></strong>
 
 | 地点 | 受理时间 | 取件时间 |
 |------|----------|------------------|
@@ -171,14 +171,14 @@ JR新宿站地下1楼东检票口和中央东检票口附近共4处（其中1处
 - 特点：可用中文沟通，有外币兑换机
 - 营业时间：06:30～23:00（时间非常长）
 
-**📍 <a href="https://maps.app.goo.gl/G1v863SfRe4d64M87" target="_blank">在Google地图查看↗</a>**
+<strong>📍 <a href="https://maps.app.goo.gl/G1v863SfRe4d64M87" target="_blank">在Google地图查看↗</a></strong>
 
-**🎒 行李寄存费用（1天标准）**
+<strong>🎒 行李寄存费用（1天标准）</strong>
 - 长+宽+高合计100cm以下：800日元
 - 长+宽+高合计160cm以下（行李箱）：1,000日元
 - 长+宽+高合计161cm以上：1,500日元
 
-**✈️ 当日酒店配送服务、机场配送服务（优惠信息！）**
+<strong>✈️ 当日酒店配送服务、机场配送服务（优惠信息！）</strong>
 
 11:00前办理的行李，可在当日16:00后配送至羽田机场、东京23区内酒店、浦安市内（迪士尼）酒店。
 
@@ -193,11 +193,11 @@ JR新宿站地下1楼东检票口和中央东检票口附近共4处（其中1处
 - 注意：必须100%提前预约·支付（现场不接受付款）
 - 时间：10:00～19:00（百货营业时间）
 
-**📍 <a href="https://maps.app.goo.gl/XYJHHWSXLP3RThy48" target="_blank">在Google地图查看↗</a>**
+<strong>📍 <a href="https://maps.app.goo.gl/XYJHHWSXLP3RThy48" target="_blank">在Google地图查看↗</a></strong>
 
-**📌 京王百货行李寄存预约**
+<strong>📌 京王百货行李寄存预约</strong>
 
-**➡️ <a href="https://cloak.ecbo.io/space/9ggys9Au" target="_blank">申请京王百货行李寄存服务↗</a>**
+<strong>➡️ <a href="https://cloak.ecbo.io/space/9ggys9Au" target="_blank">申请京王百货行李寄存服务↗</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-09.jpg" alt="京王百货新宿店ecbo cloak行李寄存服务">
@@ -211,24 +211,24 @@ JR新宿站地下1楼东检票口和中央东检票口附近共4处（其中1处
 - 费用：1天约800日元起
 - 优点：合作店铺多，可选择离自己最近的地点
 
-**📌 Bounce邦斯行李寄存预约**
+<strong>📌 Bounce邦斯行李寄存预约</strong>
 
-**➡️ <a href="https://ko.bounce.com/s?_aid=710388ec-b5c6-44d7-b13b-093200d24610&query=%EC%9D%BC%EB%B3%B8%20%EB%8F%84%EC%BF%84%EB%8F%84%20%EC%8B%A0%EC%A3%BC%EC%BF%A0%EA%B5%AC" target="_blank">申请Bounce邦斯行李寄存预约↗</a>**
+<strong>➡️ <a href="https://ko.bounce.com/s?_aid=710388ec-b5c6-44d7-b13b-093200d24610&query=%EC%9D%BC%EB%B3%B8%20%EB%8F%84%EC%BF%84%EB%8F%84%20%EC%8B%A0%EC%A3%BC%EC%BF%A0%EA%B5%AC" target="_blank">申请Bounce邦斯行李寄存预约↗</a></strong>
 
 ---
 
 ## 4. 酒店免费行李寄存·网吧利用
 
-**✅ 酒店免费行李寄存（最佳方法）**
+<strong>✅ 酒店免费行李寄存（最佳方法）</strong>
 
 新宿华盛顿酒店等大部分酒店都提供入住前·退房后当日的新宿站行李寄存免费服务。先去住宿地寄存行李最好。
 
-**✅ 新宿网吧（清晨到达·出发时）**
+<strong>✅ 新宿网吧（清晨到达·出发时）</strong>
 
 "Booth"、"Manboo"等网吧可提供行李寄存、淋浴、休息等全方位服务。新宿网吧还有双人间，非常适合清晨打发时间。
 
-- **Booth（歌舞伎町）** **📍 <a href="https://maps.app.goo.gl/pFMe22xm3Xg5gurR6" target="_blank">在Google地图查看↗</a>**
-- **Manboo（新宿御苑）** **📍 <a href="https://maps.app.goo.gl/mCwmZdot7HJywzhz8" target="_blank">在Google地图查看↗</a>**
+- <strong>Booth（歌舞伎町）</strong> <strong>📍 <a href="https://maps.app.goo.gl/pFMe22xm3Xg5gurR6" target="_blank">在Google地图查看↗</a></strong>
+- <strong>Manboo（新宿御苑）</strong> <strong>📍 <a href="https://maps.app.goo.gl/mCwmZdot7HJywzhz8" target="_blank">在Google地图查看↗</a></strong>
 
 ---
 

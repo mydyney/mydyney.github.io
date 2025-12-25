@@ -32,7 +32,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 横滨有与东京不同的独特「炸排(Cutlet)」文化。
 
-胜烈庵自1927年(昭和2年)创业以来,将西式炸排用日式重新诠释,诞生了**「横滨炸排」**。
+胜烈庵自1927年(昭和2年)创业以来,将西式炸排用日式重新诠释,诞生了<strong>「横滨炸排」</strong>。
 
 深受当地人爱戴,被称为「横滨的味道」的象征性存在。
 
@@ -49,7 +49,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 ### 1. 秘传传统酱汁
 
-用蔬菜和水果**熬煮两天**,**熟成一夜**制作的深厚浓郁原创酱汁是胜烈庵的核心。
+用蔬菜和水果<strong>熬煮两天</strong>,<strong>熟成一夜</strong>制作的深厚浓郁原创酱汁是胜烈庵的核心。
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-03.jpg" alt="胜烈庵特制酱汁">
@@ -69,18 +69,18 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 ## 无限续的米饭&卷心菜
 
-所有「定食」菜单**米饭、卷心菜、蚬肉味噌汤无限续**!
+所有「定食」菜单<strong>米饭、卷心菜、蚬肉味噌汤无限续</strong>!
 
 炸排比炸猪排完全熟透的西餐风格,酥脆口感和柔软清淡风味是特征。
 
-**里脊炸排定食:2,200日元(柔软里脊炸排)**
+<strong>里脊炸排定食:2,200日元(柔软里脊炸排)</strong>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-05.jpg" alt="里脊炸排定食 里脊炸排与卷心菜">
   <figcaption style="font-size: 0.7em; text-align: center;">里脊炸排定食 - 里脊炸排与卷心菜</figcaption>
 </figure>
 
-**猪扒炸排定食:2,200日元(肥瘦相间猪扒炸排)**
+<strong>猪扒炸排定食:2,200日元(肥瘦相间猪扒炸排)</strong>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-06.jpg" alt="猪扒炸排定食 猪扒炸排">
@@ -98,7 +98,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 胜烈庵不是普通食堂,而是小型艺术空间。
 
-世界著名版画家**栋方志功(Munakata Shiko)**大师亲笔题写招牌文字,店内展示他的版画作品。
+世界著名版画家<strong>栋方志功(Munakata Shiko)</strong>大师亲笔题写招牌文字,店内展示他的版画作品。
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-08.jpg" alt="胜烈庵入口 栋方志功书法招牌">
@@ -113,10 +113,10 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 ### 1. 马车道总本店
 
-**营业时间:** 11:00 - 21:30 (L.O 21:00)
-**定休日:** 全年无休
-**支付:** 可刷信用卡
-**交通:** 地铁「马车道站」步行1分钟 / JR「关内站」步行5分钟
+<strong>营业时间:</strong> 11:00 - 21:30 (L.O 21:00)
+<strong>定休日:</strong> 全年无休
+<strong>支付:</strong> 可刷信用卡
+<strong>交通:</strong> 地铁「马车道站」步行1分钟 / JR「关内站」步行5分钟
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.4471428,139.634889&hl=zh-CN&z=17&output=embed"
@@ -180,15 +180,15 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 「马车道本店」位于横滨1日旅行路线中心。用餐后,这些周边观光地也请享受 👇
 
-**👉 [横滨1日路线完全攻略(中华街、夜景景点)](/zh-cn/posts/yokohama-one-day-itinerary/)**<!-- TODO: Link updated, verify migration -->
+<strong>👉 [横滨1日路线完全攻略(中华街、夜景景点)](/zh-cn/posts/yokohama-one-day-itinerary/)</strong><!-- TODO: Link updated, verify migration -->
 <br>
-**👉 [横滨实惠交通通票:港未来通票](#)**<!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide -->
+<strong>👉 [横滨实惠交通通票:港未来通票](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide -->
 <br>
-**👉 [横滨中华街餐厅「景德镇」(麻婆豆腐)](/zh-cn/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
+<strong>👉 [横滨中华街餐厅「景德镇」(麻婆豆腐)](/zh-cn/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)</strong>
 
 ---
 
-**「90年传统,一口完美」**
+<strong>「90年传统,一口完美」</strong>
 
 胜烈庵不只是用餐,而是品味横滨历史与文化的场所。一夜熟成的特制酱汁、无限续的米饭和卷心菜、艺术氛围,是横滨旅行的完美目的地。
 

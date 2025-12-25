@@ -28,10 +28,10 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 ## 概要
 
 今年可以一次享受：
-- 世界最大级 **巴卡拉水晶吊灯**
-- **10米大型圣诞树**
-- **时钟广场・城堡广场2处圣诞市集**
-- 香槟金 **圣诞灯光秀**
+- 世界最大级 <strong>巴卡拉水晶吊灯</strong>
+- <strong>10米大型圣诞树</strong>
+- <strong>时钟广场・城堡广场2处圣诞市集</strong>
+- 香槟金 <strong>圣诞灯光秀</strong>
 
 打造完美路线。
 
@@ -40,26 +40,26 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 ## 🎄 2025-2026核心日程一览
 
 ### 🌟 圣诞香槟金灯光秀
-- **日期：** 2025年11月8日（周六）～2026年3月1日（周日）
-- **时间：** 16:00 ~ 23:00
-- **地点：** 时钟广场–中央广场连接路
-- ✔️ **圣诞季后也持续到3月！**
+- <strong>日期：</strong> 2025年11月8日（周六）～2026年3月1日（周日）
+- <strong>时间：</strong> 16:00 ~ 23:00
+- <strong>地点：</strong> 时钟广场–中央广场连接路
+- ✔️ <strong>圣诞季后也持续到3月！</strong>
 
 ### 🎄 10米大型圣诞树
-- **日期：** 2025年11月8日（周六）～2025年12月25日（周四）
-- **时间：** 16:00~23:00
-- **地点：** 时钟广场
-- ✔️ **圣诞树仅展示到12月25日！**
+- <strong>日期：</strong> 2025年11月8日（周六）～2025年12月25日（周四）
+- <strong>时间：</strong> 16:00~23:00
+- <strong>地点：</strong> 时钟广场
+- ✔️ <strong>圣诞树仅展示到12月25日！</strong>
 
 ### 💎 巴卡拉吊灯（Baccarat ETERNAL LIGHTS）
-- **日期：** 2025年11月8日（周六）～2026年1月12日（周一）
-- **时间：** 11:00 ~ 23:00
-- **地点：** 中央广场
+- <strong>日期：</strong> 2025年11月8日（周六）～2026年1月12日（周一）
+- <strong>时间：</strong> 11:00 ~ 23:00
+- <strong>地点：</strong> 中央广场
 
 ### 🎁 圣诞市集（2处）
-- **时钟广场：** 2025年11月8日（周六）～12月25日（周四）
-- **城堡广场：** 2025年11月28日（周五）～12月25日（周四）
-- **时间：** （平日）17:00~20:00 /（周末・节假日）12:00~20:00
+- <strong>时钟广场：</strong> 2025年11月8日（周六）～12月25日（周四）
+- <strong>城堡广场：</strong> 2025年11月28日（周五）～12月25日（周四）
+- <strong>时间：</strong> （平日）17:00~20:00 /（周末・节假日）12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-02.jpg" alt="2025年冬惠比寿花园广场灯光秀与时钟广场到中央广场延伸的夜景全景">
@@ -72,7 +72,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 惠比寿花园广场圣诞从时钟广场开始。
 
-这里也是日剧 **《流星花园》** 中道明寺和杉菜相会的「1点约会地点」而闻名。
+这里也是日剧 <strong>《流星花园》</strong> 中道明寺和杉菜相会的「1点约会地点」而闻名。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-03.jpg" alt="惠比寿花园广场时钟广场">
@@ -84,8 +84,8 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 惠比寿花园广场的标志性主树，
 搭配香槟金灯光营造欧洲小镇氛围。
 
-- **日期：** 2025年11月8日（周六）～2025年12月25日（周四）
-- **时间：** 16:00~23:00
+- <strong>日期：</strong> 2025年11月8日（周六）～2025年12月25日（周四）
+- <strong>时间：</strong> 16:00~23:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-04.jpg" alt="惠比寿花园广场时钟广场设置的10米大型圣诞树">
@@ -96,8 +96,8 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 时钟广场周边开设圣诞礼物小物・装饰・饰品等销售的市集。
 
-- **日期：** 2025年11月8日（周六）～12月25日（周四）
-- **时间：** （平日）17:00~20:00 /（周末）12:00~20:00
+- <strong>日期：</strong> 2025年11月8日（周六）～12月25日（周四）
+- <strong>时间：</strong> （平日）17:00~20:00 /（周末）12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-05.jpg" alt="惠比寿花园广场2025时钟广场圣诞市集景象">
@@ -120,7 +120,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 ## 2️⃣ 巴卡拉吊灯 – 惠比寿代表拍照打卡区
 
-展示世界最大级水晶吊灯的 **中央广场** 是
+展示世界最大级水晶吊灯的 <strong>中央广场</strong> 是
 惠比寿花园广场灯光秀的核心。
 
 - 高约5米
@@ -142,8 +142,8 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 时钟广场到吊灯所在中央广场的整条道路
 被香槟金灯光点亮，成为惠比寿花园广场灯光秀的高光动线。
 
-- **日期：** 2025年11月8日（周六）～2026年3月1日（周日）
-- **时间：** 16:00 ~ 23:00
+- <strong>日期：</strong> 2025年11月8日（周六）～2026年3月1日（周日）
+- <strong>时间：</strong> 16:00 ~ 23:00
 - ✔️ 圣诞过后也持续点灯到3月1日，
 避开年末出行的朋友也是好选择。
 
@@ -154,7 +154,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668826357
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">2024惠比寿花园广场圣诞实拍（去年存档）</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">2024惠比寿花园广场圣诞实拍（去年存档）</a></strong>
 *（链接将在迁移后更新）*
 
 <figure>
@@ -166,13 +166,13 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 ## 3️⃣ 城堡广场市集 – Joel Robuchon前的欧洲风情
 
-11月28日起 **Joel Robuchon（城堡餐厅）前的城堡广场** 也
+11月28日起 <strong>Joel Robuchon（城堡餐厅）前的城堡广场</strong> 也
 单独开设圣诞市集。
 
 比时钟广场更有欧洲小镇氛围，很多人会专程前往。
 
-- **日期：** 2025年11月28日（周五）～12月25日（周四）
-- **时间：** （平日）17:00~20:00 /（周末・节假日）12:00~20:00
+- <strong>日期：</strong> 2025年11月28日（周五）～12月25日（周四）
+- <strong>时间：</strong> （平日）17:00~20:00 /（周末・节假日）12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-08.jpg" alt="2025惠比寿花园广场圣诞市集举办地城堡广场Joel Robuchon前">
@@ -181,19 +181,19 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 这里有与时钟广场不同的特色美食车。
 
-- **PÄRLA（佩拉）：** 神宫外苑、银座等地知名的「大人可丽饼」专门店。可品尝加入朗姆酒的面糊和高级鲜奶油的高端可丽饼。
-- **HELLO GREEN GRUB：** 销售农场直供新鲜蔬菜制作的温暖浓汤。
+- <strong>PÄRLA（佩拉）：</strong> 神宫外苑、银座等地知名的「大人可丽饼」专门店。可品尝加入朗姆酒的面糊和高级鲜奶油的高端可丽饼。
+- <strong>HELLO GREEN GRUB：</strong> 销售农场直供新鲜蔬菜制作的温暖浓汤。
 
 ---
 
 ## 4️⃣ BLUE NOTE PLACE – 免费DJ音乐露台
 
-时钟广场旁的 **BLUE NOTE PLACE** 在12月特定期间
-举办免费DJ活动 **GOOD MUSIC TERRACE**。
+时钟广场旁的 <strong>BLUE NOTE PLACE</strong> 在12月特定期间
+举办免费DJ活动 <strong>GOOD MUSIC TERRACE</strong>。
 
-- **日期：** 12月周末（5-7日、12-14日、19-21日）及圣诞季（23-25日）
-- **时间：** （平日）17:30~20:00 /（周末）15:00~20:00
-- **地点：** 时钟广场、蓝调播放露台
+- <strong>日期：</strong> 12月周末（5-7日、12-14日、19-21日）及圣诞季（23-25日）
+- <strong>时间：</strong> （平日）17:30~20:00 /（周末）15:00~20:00
+- <strong>地点：</strong> 时钟广场、蓝调播放露台
 
 ### ☕ BNP STAND
 
@@ -218,9 +218,9 @@ Top of Yebisu免费展望台。
 虽然不如涩谷Sky、六本木之丘展望台有名，
 但免费欣赏东京塔景观是隐藏名所。
 
-- **地点：** 惠比寿花园广场大厦38・39楼
-- **时间：** 11:00 ~ 23:30
-- **门票：** 免费
+- <strong>地点：</strong> 惠比寿花园广场大厦38・39楼
+- <strong>时间：</strong> 11:00 ~ 23:30
+- <strong>门票：</strong> 免费
 
 ### ⭐ 推荐路线
 
@@ -259,7 +259,7 @@ Top of Yebisu免费展望台。
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223665548720
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">惠比寿酿酒厂东京，啤酒爱好者必去之地</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">惠比寿酿酒厂东京，啤酒爱好者必去之地</a></strong>
 *（链接将在迁移后更新）*
 
 <figure>
@@ -271,7 +271,7 @@ Top of Yebisu免费展望台。
 
 ## 🗺️ 前往惠比寿花园广场的交通
 
-- **JR山手线、东京地铁日比谷线（H）惠比寿（Ebisu）站** 下车
+- <strong>JR山手线、东京地铁日比谷线（H）惠比寿（Ebisu）站</strong> 下车
 - 惠比寿站东口出口 → 利用惠比寿Sky Walk
 
 不怕雨雪，只需乘电动步道5~8分钟
@@ -282,7 +282,7 @@ Top of Yebisu免费展望台。
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">东京惠比寿花园广场交通方式和投币储物柜位置</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">东京惠比寿花园广场交通方式和投币储物柜位置</a></strong>
 *（链接将在迁移后更新）*
 
 <figure>
@@ -294,9 +294,9 @@ Top of Yebisu免费展望台。
 
 ## 🎁 Instagram活动 – Joel Robuchon用餐券抽奖
 
-- **日期：** 2025年11月21日（周五）～12月25日（周四）
-- **奖品：** Joel Robuchon晚餐（2组4人）
-- **参与方法：**
+- <strong>日期：</strong> 2025年11月21日（周五）～12月25日（周四）
+- <strong>奖品：</strong> Joel Robuchon晚餐（2组4人）
+- <strong>参与方法：</strong>
   - 关注惠比寿花园广场官方账号@yebisu_garden_place
   - 为11月21日发布的活动帖点赞
 
@@ -307,14 +307,14 @@ Top of Yebisu免费展望台。
 
 ## ❓ 常见问题Q&A
 
-**Q. 灯光秀、展望台都免费吗？**
+<strong>Q. 灯光秀、展望台都免费吗？</strong>
 A. 是的。吊灯、圣诞树、市集全部免费。
 
-**Q. 市集在哪里举办？**
+<strong>Q. 市集在哪里举办？</strong>
 A. 时钟广场（11/8~）+ 城堡广场（11/28~）2处。
 
-**Q. 商场里有什么店铺？**
-A. 地下2楼 **Foodies' Garden** 有KALDI、Central Square、明治屋等，适合购买旅行纪念品。
+<strong>Q. 商场里有什么店铺？</strong>
+A. 地下2楼 <strong>Foodies' Garden</strong> 有KALDI、Central Square、明治屋等，适合购买旅行纪念品。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-13.jpg" alt="惠比寿花园广场地下2楼Foodies Garden入口">
@@ -350,7 +350,7 @@ A. 地下2楼 **Foodies' Garden** 有KALDI、Central Square、明治屋等，适
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">惠比寿看点、惠比寿花园广场到啤酒博物馆、美食完美攻略</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">惠比寿看点、惠比寿花园广场到啤酒博物馆、美食完美攻略</a></strong>
 *（链接将在迁移后更新）*
 
 ---
@@ -359,27 +359,35 @@ A. 地下2楼 **Foodies' Garden** 有KALDI、Central Square、明治屋等，适
 
 ### ⭐ 精华！东京圣诞3晚4天行程
 
-**➡️ <a href="/zh-cn/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">东京3晚4天圣诞灯光秀推荐路线&圣诞市集（动线・费用总结）</a>**
+<strong>➡️ <a href="/zh-cn/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">东京3晚4天圣诞灯光秀推荐路线&圣诞市集（动线・费用总结）</a></strong>
 
 ### 🌟 11月4日开始 六本木之丘灯光秀
 
-**➡️ <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">六本木灯光秀2025日期、点灯时间、必看景点完全总结</a>**
+<strong>➡️ <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">六本木灯光秀2025日期、点灯时间、必看景点完全总结</a></strong>
 
 ### 🌟 11月6日开始 东京晴空塔圣诞市集
 
-**➡️ <a href="/zh-cn/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;">2025东京晴空塔圣诞市集完全总结（官方日期、新菜单、拍照点技巧总结）</a>**
+<strong>➡️ <a href="/zh-cn/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;">2025东京晴空塔圣诞市集完全总结（官方日期、新菜单、拍照点技巧总结）</a></strong>
 
 ### 🌟 11月13日开始 东京丸之内灯光秀
 
-**➡️ <a href="/zh-cn/posts/marunouchi-illumination-2025/" style="color: #667eea;">东京丸之内灯光秀2025日期、时间总结（迪士尼、圣诞市集、印章拉力赛）</a>**
+<strong>➡️ <a href="/zh-cn/posts/marunouchi-illumination-2025/" style="color: #667eea;">东京丸之内灯光秀2025日期、时间总结（迪士尼、圣诞市集、印章拉力赛）</a></strong>
 
 ### 🌟 11月13日开始 东京日比谷中城灯光秀
 
-**➡️ <a href="/zh-cn/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;">2025日比谷中城灯光秀・疯狂动物城2联名・丸之内步行路线完全总结</a>**
+<strong>➡️ <a href="/zh-cn/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;">2025日比谷中城灯光秀・疯狂动物城2联名・丸之内步行路线完全总结</a></strong>
 
 ### 🌟 11月13日开始 六本木东京中城灯光秀
 
-**➡️ <a href="/zh-cn/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025六本木东京中城圣诞总结（灯光秀、溜冰场、美食）</a>**
+<strong>➡️ <a href="/zh-cn/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025六本木东京中城圣诞总结（灯光秀、溜冰场、美食）</a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224078737491" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 
 <div class="editors-note">

@@ -25,7 +25,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ## 🤔 東京アウトレット、木更津 vs 御殿場 - どっちを選ぶ？
 
-東京近郊のアウトレットを検索すると最もよく出てくる2つの名前、**三井アウトレットパーク木更津**と**御殿場プレミアムアウトレット**。旅行スタイルに合わせて選ぶのが重要です。
+東京近郊のアウトレットを検索すると最もよく出てくる2つの名前、<strong>三井アウトレットパーク木更津</strong>と<strong>御殿場プレミアムアウトレット</strong>。旅行スタイルに合わせて選ぶのが重要です。
 
 <div class="info-box">
   <table class="schedule-table">
@@ -66,7 +66,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
   </table>
 </div>
 
-**✅ 結論：** 短い東京旅行中、半日だけ投資してショッピングしたいなら、答えは**木更津**です！特に2025年大規模リニューアルでさらに強力になりました。
+<strong>✅ 結論：</strong> 短い東京旅行中、半日だけ投資してショッピングしたいなら、答えは<strong>木更津</strong>です！特に2025年大規模リニューアルでさらに強力になりました。
 
 ---
 
@@ -74,10 +74,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 木更津アウトレットは羽田空港から海底トンネルで移動するため、移動時間が約40分しかかかりません。飛行時間に合わせて旅行の始まりと終わりをさらに充実させることができます。
 
-**コース例：**
-- **旅行初日：** 空港到着 → アウトレットで荷物保管後ショッピング → 東京市内ホテルへ移動
-- **旅行最終日：** ホテルチェックアウト → アウトレットで荷物保管後ショッピング → そのまま空港へ移動（特に夕方/夜便の場合最高！）
-- **料金：** 1,400円、所要時間40分
+<strong>コース例：</strong>
+- <strong>旅行初日：</strong> 空港到着 → アウトレットで荷物保管後ショッピング → 東京市内ホテルへ移動
+- <strong>旅行最終日：</strong> ホテルチェックアウト → アウトレットで荷物保管後ショッピング → そのまま空港へ移動（特に夕方/夜便の場合最高！）
+- <strong>料金：</strong> 1,400円、所要時間40分
 
 <div class="info-box">
   <table class="schedule-table">
@@ -111,10 +111,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 新宿、渋谷、東京駅など核心地域から乗り換えなしで一度に行ける直行バスがあり、非常に便利です。
 
-**🚌 新宿出発：**
-- **搭乗場所：** バスタ新宿 4階 3番停留場
-- **所要時間：** 62分
-- **料金：** 1,600円
+<strong>🚌 新宿出発：</strong>
+- <strong>搭乗場所：</strong> バスタ新宿 4階 3番停留場
+- <strong>所要時間：</strong> 62分
+- <strong>料金：</strong> 1,600円
 
 <div class="info-box">
   <table class="schedule-table">
@@ -140,10 +140,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
   </table>
 </div>
 
-**🚌 東京駅出発：**
-- **搭乗場所：** バスターミナル八重洲地下2階 12番停留場
-- **所要時間：** 60分
-- **料金：** 1,400円
+<strong>🚌 東京駅出発：</strong>
+- <strong>搭乗場所：</strong> バスターミナル八重洲地下2階 12番停留場
+- <strong>所要時間：</strong> 60分
+- <strong>料金：</strong> 1,400円
 
 <div class="info-box">
   <table class="schedule-table">
@@ -169,7 +169,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
   </table>
 </div>
 
-**➡️ [渋谷、池袋、品川、横浜、成田空港等出発便運行時間を見る](https://mitsui-shopping-park.com/mop/kisarazu/access/)**
+<strong>➡️ [渋谷、池袋、品川、横浜、成田空港等出発便運行時間を見る](https://mitsui-shopping-park.com/mop/kisarazu/access/)</strong>
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-03.jpg" alt="東京から木更津への海底トンネルルートを示す地図">
@@ -182,11 +182,11 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 最大10%の追加割引が可能なので、ショッピング開始前に必ずゲットすべき必須アイテムです。
 
-**クーポンの受け取り方：**
+<strong>クーポンの受け取り方：</strong>
 
-1. アウトレット到着後、**総合案内所（Information Center）**に行きます
-2. **パスポート**と**QRコードスクリーンショット**をスタッフに見せます
-3. その場で**実物クーポンブック**と**オリジナル記念品（期間限定）**を受け取れます
+1. アウトレット到着後、<strong>総合案内所（Information Center）</strong>に行きます
+2. <strong>パスポート</strong>と<strong>QRコードスクリーンショット</strong>をスタッフに見せます
+3. その場で<strong>実物クーポンブック</strong>と<strong>オリジナル記念品（期間限定）</strong>を受け取れます
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-04.jpg" alt="LIVE JAPAN × 三井ショッピングパーク割引クーポンQRコード">
@@ -199,7 +199,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 年間最大割引ブラックフライデーセールが11月14日から30日まで行われます。
 
-**主要セール内容：**
+<strong>主要セール内容：</strong>
 - ナイキ 30% OFF
 - ルクルーゼ 50% OFF
 - ポケモンイベント
@@ -207,17 +207,17 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 詳しいブランド別割引情報は、以下の最新投稿を必ず確認してください！
 
-**➡️ [東京アウトレット三井木更津2025ブラックフライデーセール＆ポケモンイベント](/ja/posts/mitsui-kisarazu-black-friday-2025/)**
+<strong>➡️ [東京アウトレット三井木更津2025ブラックフライデーセール＆ポケモンイベント](/ja/posts/mitsui-kisarazu-black-friday-2025/)</strong>
 
 ---
 
 ## ✨ 訪問前に知っておくと良い情報
 
-**主要施設：**
+<strong>主要施設：</strong>
 
-- **無料コインロッカー＆手荷物保管所：** アウトレット各所にキャリーケースが入る大型無料コインロッカー（100円リターン式）があり、満杯の場合は無料手荷物保管所も利用できます
-- **免税（Tax Free）：** ほとんどの店舗で5,000円以上購入時に免税恵恵を受けられます（パスポート必須）
-- **ATM：** セブンイレブン便利店内のセブン銀行ATMで円を引き出せます
+- <strong>無料コインロッカー＆手荷物保管所：</strong> アウトレット各所にキャリーケースが入る大型無料コインロッカー（100円リターン式）があり、満杯の場合は無料手荷物保管所も利用できます
+- <strong>免税（Tax Free）：</strong> ほとんどの店舗で5,000円以上購入時に免税恵恵を受けられます（パスポート必須）
+- <strong>ATM：</strong> セブンイレブン便利店内のセブン銀行ATMで円を引き出せます
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-05.jpg" alt="木更津アウトレットの大型無料コインロッカー">
@@ -237,11 +237,11 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 👑 絶対訪問！ハイエンドラグジュアリーブランド
 
-**必須訪問：**
-- **セリーヌ（CELINE）** ○
+<strong>必須訪問：</strong>
+- <strong>セリーヌ（CELINE）</strong> ○
 - サンローラン、ロエベ、バレンシアガ、ボッテガヴェネタ
 
-**その他：**
+<strong>その他：</strong>
 - マルニ、クロエ、ジミーチュウ、ヴァレンティノ
 
 <figure>
@@ -251,13 +251,13 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 👗 必ず立ち寄るべきファッション＆日本代表ブランド
 
-**日本代表セレクトショップ：**
+<strong>日本代表セレクトショップ：</strong>
 - ビームス、ユナイテッドアローズ、シップス、トゥモローランド
 
-**人気ファッションブランド：**
+<strong>人気ファッションブランド：</strong>
 - メゾンキツネ、A.P.C.、マーガレットハウエル、ヴィヴィアンウエストウッド
 
-**コスパ最高カジュアル：**
+<strong>コスパ最高カジュアル：</strong>
 - ポロラルフローレン、ラコステ、トミーヒルフィガー、バナナリパブリック、ギャップ、リーバイス、グラニフ、ニューエラ
 
 <figure>
@@ -267,13 +267,13 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 👟 スポーツ＆アウトドアブランド
 
-**スポーツ：**
+<strong>スポーツ：</strong>
 - ナイキ、アディダス、ニューバランス、アンダーアーマー
 
-**日本代表スポーツ：**
-- アシックス、**オニツカタイガー**
+<strong>日本代表スポーツ：</strong>
+- アシックス、<strong>オニツカタイガー</strong>
 
-**アウトドア：**
+<strong>アウトドア：</strong>
 - ザノースフェイス、パタゴニア、アークテリクス、モンベル
 
 <figure>
@@ -283,19 +283,19 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 🏠 感性いっぱい！リビング、ビューティー＆ギフト
 
-**キッチン＆リビング：**
+<strong>キッチン＆リビング：</strong>
 - ルクルーゼ、ストウブ、フランフラン、ディーン＆デルーカ
 
-**ビューティー＆コスメティック：**
+<strong>ビューティー＆コスメティック：</strong>
 - ロクシタン、サボン、ザコスメティックカンパニーストア（エスティローダー系列）
 
-**ギフト＆フード：**
-- **ゴディバ（GODIVA）**、リンツ、カルディコーヒーファーム
+<strong>ギフト＆フード：</strong>
+- <strong>ゴディバ（GODIVA）</strong>、リンツ、カルディコーヒーファーム
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト、2025年必ず買うべきカルディ推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト、2025年必ず買うべきカルディ推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a></strong>
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-10.jpg" alt="木更津のゴディバ店舗">
@@ -304,10 +304,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ### 👨‍👩‍👧‍👦 子供と一緒！キッズ＆ファミリーブランド
 
-**おもちゃ：**
-- レゴ、**ポケモンストア**、シルバニアファミリー
+<strong>おもちゃ：</strong>
+- レゴ、<strong>ポケモンストア</strong>、シルバニアファミリー
 
-**キッズファッション：**
+<strong>キッズファッション：</strong>
 - ギャップ、ベベ、アナスイミニ、ケイトスペードニューヨークキッズ
 
 <figure>
@@ -319,20 +319,20 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ## 🍽️ ショッピングで疲れたら？（アウトレット推薦レストラン）
 
-**1. 月島もんじゃ くうや**
+<strong>1. 月島もんじゃ くうや</strong>
 
-- **分野：** もんじゃ焼き
-- **特徴：** 東京の名物「月島もんじゃくうや」の千葉初進出！焼き鉄板でじゅうじゅう焼けていく生地を小さなヘラでこそげ食べる楽しさがあります
+- <strong>分野：</strong> もんじゃ焼き
+- <strong>特徴：</strong> 東京の名物「月島もんじゃくうや」の千葉初進出！焼き鉄板でじゅうじゅう焼けていく生地を小さなヘラでこそげ食べる楽しさがあります
 
-**2. 松戸富田製麺**
+<strong>2. 松戸富田製麺</strong>
 
-- **分野：** つけめん
-- **特徴：** 日本最高のラーメンの一つに数えられる「富田」のアウトレット版。濃厚で深い海鮮豚骨スープと極太麺が特徴で、ラーメンマニアなら見逃せません
+- <strong>分野：</strong> つけめん
+- <strong>特徴：</strong> 日本最高のラーメンの一つに数えられる「富田」のアウトレット版。濃厚で深い海鮮豚骨スープと極太麺が特徴で、ラーメンマニアなら見逃せません
 
-**3. 日本橋 天丼 金子半之助**
+<strong>3. 日本橋 天丼 金子半之助</strong>
 
-- **分野：** 天丼
-- **特徴：** 日本橋の本店はいつも長い列ができる天丼の名店。注文後すぐに揚げたサクサクの天ぷらと秘伝のタレがかかったご飯の調和が絶品です
+- <strong>分野：</strong> 天丼
+- <strong>特徴：</strong> 日本橋の本店はいつも長い列ができる天丼の名店。注文後すぐに揚げたサクサクの天ぷらと秘伝のタレがかかったご飯の調和が絶品です
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-12.jpg" alt="木更津の月島もんじゃくうやレストラン">
@@ -343,31 +343,39 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 ## ✅ 最後に
 
-東京アウトレットショッピング、もう悩む必要はありませんよね？都心からの圧倒的なアクセス、2025年リニューアルでさらに強力になったブランドラインナップを備えた**三井アウトレットパーク木更津**で楽しいショッピングを計画してみてください。このガイドと共に後悔のないショッピングを楽しんでいただければ幸いです！
+東京アウトレットショッピング、もう悩む必要はありませんよね？都心からの圧倒的なアクセス、2025年リニューアルでさらに強力になったブランドラインナップを備えた<strong>三井アウトレットパーク木更津</strong>で楽しいショッピングを計画してみてください。このガイドと共に後悔のないショッピングを楽しんでいただければ幸いです！
 
-**⭐ 一緒に読むと良い記事：**
+<strong>⭐ 一緒に読むと良い記事：</strong>
 
-**➡️ [NEW: 東京アウトレット三井木更津2025ブラックフライデーセール（11/14~30）＆ポケモンフェスティバル](/ja/posts/mitsui-kisarazu-black-friday-2025/)**
+<strong>➡️ [NEW: 東京アウトレット三井木更津2025ブラックフライデーセール（11/14~30）＆ポケモンフェスティバル](/ja/posts/mitsui-kisarazu-black-friday-2025/)</strong>
 
-**➡️ [新宿完全ガイド：新宿御苑からレストラン、ショッピング、ゴールデン街まで](/ja/posts/shinjuku-guide-2025/)**
+<strong>➡️ [新宿完全ガイド：新宿御苑からレストラン、ショッピング、ゴールデン街まで](/ja/posts/shinjuku-guide-2025/)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031611221
      Hugo: /ja/posts/tokyo-station-guide/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>東京駅ガイド：キャラクターストリート、レストラン、夜景、荷物保管</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京駅ガイド：キャラクターストリート、レストラン、夜景、荷物保管</strong></a></strong>
 
-**➡️ [日本ドン・キホーテショッピングリスト＆割引クーポンガイド](/ja/posts/don-quijote-shopping-guide-2025/)**
+<strong>➡️ [日本ドン・キホーテショッピングリスト＆割引クーポンガイド](/ja/posts/don-quijote-shopping-guide-2025/)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト：必ず買うべき推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト：必ず買うべき推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a></strong>
 
-**🔥 日本ショッピング前必須チェック！**
+<strong>🔥 日本ショッピング前必須チェック！</strong>
 
 アウトレットだけでなく、ドン・キホーテ、ビックカメラ、デパートなど日本のすべてのショッピングスポットで使える割引クーポン情報が気になる方は、以下の「割引クーポン総まとめ」投稿を一緒に確認してすべての恵恵を受け取ってください！
 
-**➡️ [日本旅行割引クーポン総まとめ2025（ドン・キホーテ、ビックカメラ、デパート等）](/ja/posts/japan-travel-discount-coupons-2025/)**
+<strong>➡️ [日本旅行割引クーポン総まとめ2025（ドン・キホーテ、ビックカメラ、デパート等）](/ja/posts/japan-travel-discount-coupons-2025/)</strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224034429817" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

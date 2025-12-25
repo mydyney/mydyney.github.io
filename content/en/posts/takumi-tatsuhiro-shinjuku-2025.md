@@ -25,28 +25,28 @@ Unlike the bustling Shinjuku Station area restaurants,
 this place is located on the first floor of a quiet alley in Shinjuku 1-chome.
 
 It's a great location to combine with a Shinjuku Gyoen stroll for lunch or dinner,
-famous as **"a Shinjuku sushi omakase where you can experience dinner-level quality at lunch."**
+famous as <strong>"a Shinjuku sushi omakase where you can experience dinner-level quality at lunch."</strong>
 
 ---
 
 ## 1. Shinjuku Michelin 1-Star Sushi Restaurant, Takumi Tatsuhiro
 
 Shinjuku has many conveyor belt sushi, 24-hour sushi, and value-for-money sushi restaurants -
-there are really many **Shinjuku sushi restaurants**.
+there are really many <strong>Shinjuku sushi restaurants</strong>.
 
 Among them,
 on days when you think "I want to try proper sushi today,"
 the place local food lovers visit is
 
-**Shinjuku Michelin Sushi 'Takumi Tatsuhiro (匠 達広 / Takumi Tatsuhiro)'**.
+<strong>Shinjuku Michelin Sushi 'Takumi Tatsuhiro (匠 達広 / Takumi Tatsuhiro)'</strong>.
 
-- **Michelin Guide Tokyo 1-Star (★)**
+- <strong>Michelin Guide Tokyo 1-Star (★)</strong>
 - Rating: "Excellent Cuisine"
 - Genre: Sushi / Japanese Cuisine / Seafood
 - Google Rating: 4.4 (161)
 - Tabelog Rating: 3.64 (Sushi Top 100 2021·2022)
 
-A verified **Tokyo Shinjuku Michelin Sushi Restaurant**
+A verified <strong>Tokyo Shinjuku Michelin Sushi Restaurant</strong>
 with hundreds of reviews accumulated.
 
 <figure>
@@ -65,23 +65,23 @@ When planning your Tokyo Shinjuku travel course:
 
 This creates a very clean flow.
 
-**✅ Reservation Required [Book Takumi Tatsuhiro↗](https://autoreserve.com/ko/restaurants/XfCoemy5j7GvmCD2wX88?medium_slug=AJvA6Kg5ptKi)**
+<strong>✅ Reservation Required [Book Takumi Tatsuhiro↗](https://autoreserve.com/ko/restaurants/XfCoemy5j7GvmCD2wX88?medium_slug=AJvA6Kg5ptKi)</strong>
 
-**⏰ Operating Hours**
+<strong>⏰ Operating Hours</strong>
 - Lunch: 12:00 ~ 14:00 (L.O 13:30)
 - Dinner: 17:00 ~ 22:00 (L.O 21:30)
 - Regular Holidays: Sundays, Public Holiday Mondays
 
-- **Seating**: Counter approximately 10 seats / Private room 1 (4-6 people, max 8)
-- **Payment**: Credit cards accepted
+- <strong>Seating</strong>: Counter approximately 10 seats / Private room 1 (4-6 people, max 8)
+- <strong>Payment</strong>: Credit cards accepted
 
-**💰 Budget** (per person)
+<strong>💰 Budget</strong> (per person)
 - Lunch Omakase: approximately 19,800 yen
 - Dinner Omakase: approximately 29,700 yen
 
-- **How to Get There 📍 [Google Maps↗](https://maps.app.goo.gl/xHaQdmEeVdW4zmzm8) 📍**
+- <strong>How to Get There 📍 [Google Maps↗](https://maps.app.goo.gl/xHaQdmEeVdW4zmzm8) 📍</strong>
 
-Tokyo Metro Marunouchi Line **Shinjuku Gyoenmae Station** Exit 2, approximately 3 minutes on foot
+Tokyo Metro Marunouchi Line <strong>Shinjuku Gyoenmae Station</strong> Exit 2, approximately 3 minutes on foot
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.687,139.707&hl=en&z=17&output=embed"
@@ -108,19 +108,19 @@ Tokyo Metro Marunouchi Line **Shinjuku Gyoenmae Station** Exit 2, approximately 
 
 ## 3. Lunch Omakase Course Review (20 Courses, Actual Order)
 
-'Takumi Tatsuhiro' follows the characteristics of the prestigious **'Sushi Sho (すし匠)' lineage**:
+'Takumi Tatsuhiro' follows the characteristics of the prestigious <strong>'Sushi Sho (すし匠)' lineage</strong>:
 - Tsumami (dishes) and
 - Nigiri (sushi)
 
 alternate in style,
 making it a traditional Edomae sushi omakase perfect for enjoying with sake.
 
-The **lunch omakase (19,800 yen)** course I experienced
+The <strong>lunch omakase (19,800 yen)</strong> course I experienced
 will be introduced in the actual order served.
 
 ---
 
-**Course 1. Tsumami – Sea Grapes and Seaweed**
+<strong>Course 1. Tsumami – Sea Grapes and Seaweed</strong>
 
 Okinawa specialty sea grapes (umibudo),
 served with fresh seaweed and vegetables.
@@ -132,7 +132,7 @@ refreshingly open the sushi course.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi Takumi Tatsuhiro Lunch Tsumami (Sea Grapes & Seaweed)</figcaption>
 </figure>
 
-**Course 2. Nigiri – Splendid Alfonsino (Kinmedai)**
+<strong>Course 2. Nigiri – Splendid Alfonsino (Kinmedai)</strong>
 
 Beautiful red-tinted white fish nigiri.
 The skin side lightly seared for both nuttiness and chewiness.
@@ -144,7 +144,7 @@ adds umami.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Splendid Alfonsino Kinmedai)</figcaption>
 </figure>
 
-**Course 3. Tsumami – Mozuku Seaweed**
+<strong>Course 3. Tsumami – Mozuku Seaweed</strong>
 
 A seaweed dish following right after the sushi.
 Okinawan mozuku seaweed enjoyed with
@@ -157,7 +157,7 @@ The ginger on top enhances the aroma.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Mozuku)</figcaption>
 </figure>
 
-**Course 4. Nigiri – Bigfin Reef Squid (Aori Ika)**
+<strong>Course 4. Nigiri – Bigfin Reef Squid (Aori Ika)</strong>
 
 Bigfin reef squid (aori ika), called the 'king of squid.'
 Fine scoring maximizes its soft and chewy texture.
@@ -169,7 +169,7 @@ the squid's unique sweetness pleasantly lingers.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Bigfin Reef Squid Aori Ika)</figcaption>
 </figure>
 
-**Course 5. Nigiri – Flounder (Hirame)**
+<strong>Course 5. Nigiri – Flounder (Hirame)</strong>
 
 Well-aged flounder (hirame).
 Lightly brushed with soy sauce for a glossy appearance.
@@ -181,7 +181,7 @@ pairs well with red vinegar shari.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Flounder Hirame)</figcaption>
 </figure>
 
-**Course 6. Tsumami – Grilled Butterfish**
+<strong>Course 6. Tsumami – Grilled Butterfish</strong>
 
 Tsumami time again.
 Grilled butterfish (ebodai) with just the right amount of fat.
@@ -195,7 +195,7 @@ cuts through any richness.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Tsumami (Grilled Butterfish)</figcaption>
 </figure>
 
-**Course 7. Nigiri – Horse Mackerel (Aji)**
+<strong>Course 7. Nigiri – Horse Mackerel (Aji)</strong>
 
 Representative blue fish, horse mackerel (aji).
 The contrast between silver skin and red flesh is vivid,
@@ -208,7 +208,7 @@ leaving only nutty oil flavor without any fishiness.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Horse Mackerel Aji)</figcaption>
 </figure>
 
-**Course 8. Koburi-don – Salmon Roe (Ikura)**
+<strong>Course 8. Koburi-don – Salmon Roe (Ikura)</strong>
 
 A small rice bowl (koburi-don) style, not nigiri.
 Salmon roe (ikura) marinated well in soy sauce
@@ -221,7 +221,7 @@ pairs perfectly with the rice.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Course (Salmon Roe Ikura)</figcaption>
 </figure>
 
-**Course 9. Nigiri – Yellowtail Belly (Buri Toro)**
+<strong>Course 9. Nigiri – Yellowtail Belly (Buri Toro)</strong>
 
 King of winter fish, yellowtail (buri),
 especially the fatty belly (toro) section.
@@ -234,7 +234,7 @@ melts softly with red vinegar shari.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Yellowtail Belly Buri)</figcaption>
 </figure>
 
-**Course 10. Tsumami – Steamed Spanish Mackerel (Sawara)**
+<strong>Course 10. Tsumami – Steamed Spanish Mackerel (Sawara)</strong>
 
 Warm tsumami of steamed Spanish mackerel (sawara).
 The mackerel in a blue bowl
@@ -247,7 +247,7 @@ serving as a good break between sushi.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Steamed Spanish Mackerel)</figcaption>
 </figure>
 
-**Course 11. Nigiri – Kuruma Prawn (Kuruma Ebi)**
+<strong>Course 11. Nigiri – Kuruma Prawn (Kuruma Ebi)</strong>
 
 The flower of sushi, kuruma prawn (kuruma ebi) nigiri.
 Boiled fresh upon order with warm body heat (hitohada) remaining.
@@ -260,7 +260,7 @@ were explosive combined with red vinegar shari.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Kuruma Prawn Kuruma Ebi)</figcaption>
 </figure>
 
-**Course 12. Nigiri – Tuna Belly (Toro)**
+<strong>Course 12. Nigiri – Tuna Belly (Toro)</strong>
 
 Fatty tuna belly (toro) with appealing richness.
 Fine scoring
@@ -273,7 +273,7 @@ one of "today's highlights" memorable pieces.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Tuna Belly Toro)</figcaption>
 </figure>
 
-**Course 13. Nigiri – Lean Tuna (Akami)**
+<strong>Course 13. Nigiri – Lean Tuna (Akami)</strong>
 
 Not marinated in soy sauce,
 lean tuna akami in its pure form.
@@ -286,7 +286,7 @@ showing another charm of tuna.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Nigiri (Lean Tuna Akami)</figcaption>
 </figure>
 
-**Course 14. Gunkan-maki – Sea Urchin (Uni)**
+<strong>Course 14. Gunkan-maki – Sea Urchin (Uni)</strong>
 
 Shari wrapped in nori (seaweed) topped with
 generous fresh sea urchin (uni) gunkan roll.
@@ -299,7 +299,7 @@ Quality was definite, befitting Tokyo Michelin sushi.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Restaurant, Takumi Tatsuhiro Gunkan-maki (Sea Urchin Uni)</figcaption>
 </figure>
 
-**Course 15. Soup – Miso Shiru**
+<strong>Course 15. Soup – Miso Shiru</strong>
 
 Warm rest in the middle of the course.
 Miso soup with rich dashi stock, green onions and aosa seaweed.
@@ -311,7 +311,7 @@ preparing for the upcoming nigiri.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Soup (Miso Shiru)</figcaption>
 </figure>
 
-**Course 16. Nigiri – Gizzard Shad (Kohada)**
+<strong>Course 16. Nigiri – Gizzard Shad (Kohada)</strong>
 
 Symbol of Edomae sushi, gizzard shad (kohada).
 Fine scoring on the silver skin
@@ -325,7 +325,7 @@ only kohada's unique umami and aroma remain cleanly.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Michelin Sushi, Takumi Tatsuhiro Nigiri (Gizzard Shad Kohada)</figcaption>
 </figure>
 
-**Course 17. Nigiri – Sea Eel (Anago)**
+<strong>Course 17. Nigiri – Sea Eel (Anago)</strong>
 
 Warm sea eel (anago) nigiri signaling the course's latter half.
 Brushed with sweet tare sauce and tenderly grilled.
@@ -337,7 +337,7 @@ becoming one with shari in exquisite texture.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Restaurant, Takumi Tatsuhiro Nigiri (Sea Eel Anago)</figcaption>
 </figure>
 
-**Course 18. Tsumami – Egg Custard (Chawanmushi)**
+<strong>Course 18. Tsumami – Egg Custard (Chawanmushi)</strong>
 
 Warm Japanese egg custard, chawanmushi.
 Not pudding texture but
@@ -350,7 +350,7 @@ aroma is refreshing, taste very smooth.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Tsumami (Chawanmushi)</figcaption>
 </figure>
 
-**Course 19. Grilled Egg – Gyoku**
+<strong>Course 19. Grilled Egg – Gyoku</strong>
 
 Grilled egg (gyoku) signaling the course's end.
 Densely and moistly grilled
@@ -364,7 +364,7 @@ to be enjoyed like dessert.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Sushi Omakase, Takumi Tatsuhiro Omakase (Grilled Egg Gyoku)</figcaption>
 </figure>
 
-**Course 20. Dessert – Black Bean Ice Cream**
+<strong>Course 20. Dessert – Black Bean Ice Cream</strong>
 
 The real last of lunch omakase.
 Black bean (kuromame) ice cream praised in many reviews.
@@ -394,21 +394,21 @@ dinner course is also a good choice.
 ## 4. Comparison with Other Shinjuku Sushi Restaurants
 
 Shinjuku already has famous
-**Shinjuku sushi restaurants, conveyor belt sushi, 24-hour sushi**.
+<strong>Shinjuku sushi restaurants, conveyor belt sushi, 24-hour sushi</strong>.
 For example:
 - Value conveyor belt sushi like Shinjuku Sushiro, Sushizanmai, Kurazushi
 - Local conveyor belt sushi & standing sushi like Himawari Sushi, Uogashi Standing Sushi
 - All-you-can-eat sushi, sushi buffets that compete with quantity
 
 Compared to these places,
-**Takumi Tatsuhiro is completely different in direction.**
+<strong>Takumi Tatsuhiro is completely different in direction.</strong>
 
 ✔️ "When you want to eat memorable sushi just once in Tokyo Shinjuku"
 ✔️ "When you want to properly enjoy Shinjuku Michelin sushi at the counter"
 ✔️ "When you prefer a quiet, focused space over touristy feel"
 
 At such times, choose this
-high-end **recommended Shinjuku sushi omakase course**.
+high-end <strong>recommended Shinjuku sushi omakase course</strong>.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-24.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase interior view">
@@ -423,12 +423,12 @@ high-end **recommended Shinjuku sushi omakase course**.
   "I want to eat proper sushi omakase for one day"
 - Want to solve Shinjuku Gyoen stroll + Shinjuku restaurant lunch/dinner at once
 - Rather than value conveyor belt sushi,
-  **prioritize sushi master's touch, shari-neta balance**
+  <strong>prioritize sushi master's touch, shari-neta balance</strong>
 - Foodies wanting to check out at least one
-  **Shinjuku Michelin sushi** place
+  <strong>Shinjuku Michelin sushi</strong> place
 
 ➡️ If these conditions fit,
-**'Takumi Tatsuhiro' will be among the top choices on your Shinjuku sushi restaurant list**.
+<strong>'Takumi Tatsuhiro' will be among the top choices on your Shinjuku sushi restaurant list</strong>.
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-25.jpg" alt="Takumi Tatsuhiro Shinjuku sushi omakase entrance">
@@ -447,13 +447,21 @@ After enjoying sushi omakase:
 
 You can complete a full day course.
 
-**🌿 Full Shinjuku Day Course: [Shinjuku Things to Do Complete Course Guide↗](/posts/shinjuku-guide-2025/)**
+<strong>🌿 Full Shinjuku Day Course: [Shinjuku Things to Do Complete Course Guide↗](/posts/shinjuku-guide-2025/)</strong>
 
-**🍁 Walk: [Shinjuku Gyoen Opening Hours, Autumn Leaves, Picnic↗](/posts/shinjuku-gyoen-guide-2025/)**
+<strong>🍁 Walk: [Shinjuku Gyoen Opening Hours, Autumn Leaves, Picnic↗](/posts/shinjuku-gyoen-guide-2025/)</strong>
 
-**🏙 Night View: [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips↗](/posts/tokyo-metropolitan-govt-observatory/)**
+<strong>🏙 Night View: [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips↗](/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
-**🌃 Night Streets: [Shinjuku Golden Gai vs Omoide Yokocho Perfect Comparison↗](/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
+<strong>🌃 Night Streets: [Shinjuku Golden Gai vs Omoide Yokocho Perfect Comparison↗](/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224071675259" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 
 <div class="editors-note">

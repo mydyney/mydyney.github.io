@@ -15,7 +15,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
   <figcaption style="font-size: 0.85em; text-align: center;">2026 東京駅キャラクターストリート年末年始営業時間情報</figcaption>
 </figure>
 
-2026年正月に東京旅行を計画中ですか？東京駅キャラクターストリート、ラーメンストリート、おかしランドの年末年始(12月31日~1月3日)営業時間と休業情報を一目で整理しました。**重要：ほとんどの店舗が1月1日は早く閉店または休業します！**
+2026年正月に東京旅行を計画中ですか？東京駅キャラクターストリート、ラーメンストリート、おかしランドの年末年始(12月31日~1月3日)営業時間と休業情報を一目で整理しました。<strong>重要：ほとんどの店舗が1月1日は早く閉店または休業します！</strong>
 
 こんにちは！東京旅行のすべてをお伝えする東京メイトです。🗼
 
@@ -60,22 +60,22 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
   </tbody>
 </table>
 
-**⚠️ 重要：** 1月1日は午後6時閉店！夕方前の訪問を計画してください。
+<strong>⚠️ 重要：</strong> 1月1日は午後6時閉店！夕方前の訪問を計画してください。
 
 ### 🎁 キャラクターストリートハイライト
 
-- **ポケモンストア：** 正月限定グッズ
-- **ジブリストア：** トトロ正月グッズ
-- **ちいかわショップ：** シーズンアイテム
-- **ジャンプショップ：** アニメキャラクターグッズ
+- <strong>ポケモンストア：</strong> 正月限定グッズ
+- <strong>ジブリストア：</strong> トトロ正月グッズ
+- <strong>ちいかわショップ：</strong> シーズンアイテム
+- <strong>ジャンプショップ：</strong> アニメキャラクターグッズ
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223691371517 -->
-**👉 東京駅ポケモンストア＆ピカチュウカードレビュー**
+<strong>👉 東京駅ポケモンストア＆ピカチュウカードレビュー</strong>
 
 🤩 ちいかわランド整理券やサンリオコラボグッズから、最近1階にグランドオープンしたサンリオ、ドラゴンボールストア情報まで全部整理しました。行く前に必ず読んでください！
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224111977613 -->
-**👉 東京駅キャラクターストリートアクセス・営業時間・免税総まとめ（ちいかわ/ポケモン/ドラゴンボール）**
+<strong>👉 東京駅キャラクターストリートアクセス・営業時間・免税総まとめ（ちいかわ/ポケモン/ドラゴンボール）</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-02.jpg" alt="東京駅キャラクターストリート店舗案内">
@@ -182,12 +182,12 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 ### 🍜 東京メイト Note!
 
-**六厘舎**は1月1日も朝7時30分から夜11時まで営業します！新年最初のラーメンを計画するなら六厘舎が最も安全な選択です。ただし、すごい待ち列は覚悟してください。😂
+<strong>六厘舎</strong>は1月1日も朝7時30分から夜11時まで営業します！新年最初のラーメンを計画するなら六厘舎が最も安全な選択です。ただし、すごい待ち列は覚悟してください。😂
 
 🤩 1月1日も営業する「六厘舎」や「斑鳩」がどんな味か気になりますか？私が実際に行ったラーメンストリート全メニュー詳細レビューを参考にしてメニューを選んでください。
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223707471582 -->
-**👉 東京駅ラーメングルメBEST 8、東京駅ラーメンストリート完全攻略レビュー**
+<strong>👉 東京駅ラーメングルメBEST 8、東京駅ラーメンストリート完全攻略レビュー</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-03.jpg" alt="東京駅ラーメンストリート六厘舎つけ麺">
@@ -231,9 +231,9 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 #### 1. カルビープラス 🍟
 
-**12.20(土)~1.4(日)：** ソフトドリンク販売中止(飲料注文不可)
+<strong>12.20(土)~1.4(日)：</strong> ソフトドリンク販売中止(飲料注文不可)
 
-**Tip.** 1月1日にできたてポテトチップスを食べるなら午後5時半前に行く必要があります。
+<strong>Tip.</strong> 1月1日にできたてポテトチップスを食べるなら午後5時半前に行く必要があります。
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -268,16 +268,16 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 急いで帰国土産を買うならここへ！
 
-- **TOKYO BANANA's:** 10:00 - 19:00
-- **東京みやげセンター:** 09:00 - 21:00 (最も遅くまで営業！)
-- **京橋千疋屋:** 10:00 - 18:00
+- <strong>TOKYO BANANA's:</strong> 10:00 - 19:00
+- <strong>東京みやげセンター:</strong> 09:00 - 21:00 (最も遅くまで営業！)
+- <strong>京橋千疋屋:</strong> 10:00 - 18:00
 
 ### 📌 空港にない「東京駅限定版」を狙え！
 
 年末年始混雑する空港免税店で並ばないでください。東京駅でしか買えない「東京バナナクリームブリュレ」は賞味期限も20日と余裕があって事前に買うのにちょうど良いです。(※ 1階ギフトキオスクなど販売場所が決まっているので下記の記事で場所を必ず確認してから行ってください！)
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224102752117 -->
-**👉 東京駅東京バナナクリームブリュレ売り場＆価格総まとめ(賞味期限20日！)**
+<strong>👉 東京駅東京バナナクリームブリュレ売り場＆価格総まとめ(賞味期限20日！)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="東京駅おかしランド入口">
@@ -297,7 +297,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 さあ「食べ歩き」に行かなきゃ！おかしランドに行ったらできたて「じゃがりこ」は選択ではなく必須です！カルビープラス待ち時間を避けるコツと期間限定メニュー情報は下記の記事で事前に確認してから行ってください。
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224111977613 -->
-**👉 東京駅おかしランドアクセス｜できたて東京駅じゃがりこ＆カルビーメニューおすすめ**
+<strong>👉 東京駅おかしランドアクセス｜できたて東京駅じゃがりこ＆カルビーメニューおすすめ</strong>
 
 ## 4. 日本ぐるめ街道＆東京駅地下街グルメ 🍣
 
@@ -393,10 +393,10 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 ### 🍣 その他B1エリア1月1日【営業】グルメ
 
-- **かんたろう寿司**(座席): 11:00 - 18:00 (※午後6時閉店注意！)
-- **東京クラフトビアスタンド**: 10:00 - 18:00
-- **越後そば**: 11:00 - 18:00
-- **焼鳥一鳥**: 11:00 - 20:00
+- <strong>かんたろう寿司</strong>(座席): 11:00 - 18:00 (※午後6時閉店注意！)
+- <strong>東京クラフトビアスタンド</strong>: 10:00 - 18:00
+- <strong>越後そば</strong>: 11:00 - 18:00
+- <strong>焼鳥一鳥</strong>: 11:00 - 20:00
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-05.jpg" alt="東京駅日本ぐるめ街道案内地図">
@@ -410,7 +410,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 新宿伊勢丹、銀座三越など東京主要百貨店とショッピングモールの1月1日休業および初売り(初売り)情報を一目で整理しました。無駄足しないように必ず確認してください！
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224112740096 -->
-**👉 2026東京年末年始休業・営業情報＆初売り完全整理**
+<strong>👉 2026東京年末年始休業・営業情報＆初売り完全整理</strong>
 
 ## 🎄 ショッピング終わって「ここ」行かないと損！
 
@@ -418,7 +418,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 ✨ 丸の内イルミネーション名所と期間を確認してロマンチックな夕方を楽しんでください。
 
-[👉 **東京丸の内イルミネーション2025期間、時間、名所総まとめ**](/ja/posts/marunouchi-illumination-2025/)
+[👉 <strong>東京丸の内イルミネーション2025期間、時間、名所総まとめ</strong>](/ja/posts/marunouchi-illumination-2025/)
 
 
 <div class="editors-note">

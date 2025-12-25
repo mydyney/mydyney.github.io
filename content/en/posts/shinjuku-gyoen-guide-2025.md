@@ -26,13 +26,13 @@ All the latest 2025 information compiled.</p>
 
 Shinjuku Gyoen is the heart of the "Shinjuku Morning Course."
 
-**🌿 Morning:** Shinjuku Gyoen stroll + **Starbucks view brunch time**
+<strong>🌿 Morning:</strong> Shinjuku Gyoen stroll + <strong>Starbucks view brunch time</strong>
 
-**🛍 Afternoon:** Shinjuku department stores·Don Quijote·Sekaido shopping
+<strong>🛍 Afternoon:</strong> Shinjuku department stores·Don Quijote·Sekaido shopping
 
-**🌃 Evening:** Tokyo Metropolitan Government Building free observation deck night view + Omoide Yokocho or Golden Gai
+<strong>🌃 Evening:</strong> Tokyo Metropolitan Government Building free observation deck night view + Omoide Yokocho or Golden Gai
 
-**⭐ Want to see Shinjuku's full-day itinerary at a glance?**
+<strong>⭐ Want to see Shinjuku's full-day itinerary at a glance?</strong>
 
 **➡️ <!-- Link updated -->
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Activities Guide ↗</a>**
@@ -48,15 +48,15 @@ If you're looking for something like Central Park in Tokyo, the answer is Shinju
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Shinjuku Gyoen landscape | Urban national garden scenery</figcaption>
 </figure>
 
-**🌸 Official Name:** Shinjuku Gyoen (新宿御苑, Shinjuku Gyoen)
+<strong>🌸 Official Name:</strong> Shinjuku Gyoen (新宿御苑, Shinjuku Gyoen)
 
-**🌳 Location:** Between Shinjuku Station / Shinjuku-sanchome Station / Shinjuku-gyoenmae Station / Sendagaya Station
+<strong>🌳 Location:</strong> Between Shinjuku Station / Shinjuku-sanchome Station / Shinjuku-gyoenmae Station / Sendagaya Station
 
-**🍁 Features**
+<strong>🍁 Features</strong>
 - Japanese garden + English landscape garden + French formal garden all in one place
 - Famous for cherry blossoms, autumn leaves, and winter snow scenes in all four seasons
-- **Shinjuku Gyoen Starbucks** located inside the park
-- Actual setting of the anime **"The Garden of Words"**
+- <strong>Shinjuku Gyoen Starbucks</strong> located inside the park
+- Actual setting of the anime <strong>"The Garden of Words"</strong>
 
 In the midst of Shinjuku's dense buildings, when you want to rest quietly, it's the perfect place to feel "nature in the heart of Tokyo."
 
@@ -71,13 +71,13 @@ In the midst of Shinjuku's dense buildings, when you want to rest quietly, it's 
 
 ### ✅ Shinjuku Gyoen Admission Fee
 
-- **Adults: 500 yen**
-- High school students and seniors 65+: **250 yen**
-- Junior high school students and under: **Free**
+- <strong>Adults: 500 yen</strong>
+- High school students and seniors 65+: <strong>250 yen</strong>
+- Junior high school students and under: <strong>Free</strong>
 
-**📌** At the entrance:
+<strong>📌</strong> At the entrance:
 1. Automatic ticket machine (card payment available)
-2. Or **IC card (Suica/Pasmo) tap entry**
+2. Or <strong>IC card (Suica/Pasmo) tap entry</strong>
 
 These two methods make it simple.
 
@@ -90,11 +90,11 @@ Many reviews say "the 500 yen admission to Shinjuku Gyoen was worth it" because 
 
 ### ✅ Shinjuku Gyoen Regular Closure Days
 
-- **Closed every Monday**
+- <strong>Closed every Monday</strong>
   (If Monday is a holiday, sometimes closed the following weekday)
-- **Year-end/New Year (12/29 ~ 1/3) closed**
+- <strong>Year-end/New Year (12/29 ~ 1/3) closed</strong>
 
-**📅 <a href="https://www.env.go.jp/garden/shinjukugyoen/3_event/index.html" target="_blank">Check regular closure days on official website↗</a>**
+<strong>📅 <a href="https://www.env.go.jp/garden/shinjukugyoen/3_event/index.html" target="_blank">Check regular closure days on official website↗</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-05.jpg" alt="Shinjuku Gyoen Japanese garden autumn leaves | Tokyo autumn foliage spot">
@@ -103,7 +103,7 @@ Many reviews say "the 500 yen admission to Shinjuku Gyoen was worth it" because 
 
 ### ✅ Shinjuku Gyoen Opening Hours·Operating Hours (by Season)
 
-The confusing **Shinjuku Gyoen operating hours / Shinjuku Gyoen hours** summarized at once 👇
+The confusing <strong>Shinjuku Gyoen operating hours / Shinjuku Gyoen hours</strong> summarized at once 👇
 
 | Spring | Summer | Autumn | Winter |
 |--------|--------|--------|--------|
@@ -113,7 +113,7 @@ The confusing **Shinjuku Gyoen operating hours / Shinjuku Gyoen hours** summariz
 
 ※ Last entry is 30 minutes before closing
 
-During cherry blossom and autumn foliage seasons, **entering right after opening** is the most relaxed, and in summer, **strolling until sunset + sunset views** is the best.
+During cherry blossom and autumn foliage seasons, <strong>entering right after opening</strong> is the most relaxed, and in summer, <strong>strolling until sunset + sunset views</strong> is the best.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-06.jpg" alt="Shinjuku Gyoen fallen leaves walking path | Autumn Tokyo walking destination">
@@ -122,19 +122,19 @@ During cherry blossom and autumn foliage seasons, **entering right after opening
 
 ### 🍁 Shinjuku Gyoen Weekend Morning Opening (for Running)
 
-Shinjuku Gyoen opens early on select days for a **morning opening session at 7:00 AM** (2 hours earlier than usual 9:00 AM).
+Shinjuku Gyoen opens early on select days for a <strong>morning opening session at 7:00 AM</strong> (2 hours earlier than usual 9:00 AM).
 
-It's perfect for those planning a quiet **Shinjuku Gyoen running** session early in the morning.
+It's perfect for those planning a quiet <strong>Shinjuku Gyoen running</strong> session early in the morning.
 
-- **Opening time**: 7:00 AM (2 hours earlier than usual 9:00 AM)
-- **Entry gate: Shinjuku Gate (新宿門) only!**
-- **Opening dates (2025~2026)**
+- <strong>Opening time</strong>: 7:00 AM (2 hours earlier than usual 9:00 AM)
+- <strong>Entry gate: Shinjuku Gate (新宿門) only!</strong>
+- <strong>Opening dates (2025~2026)</strong>
 
-**November: 9(Sun), 23(Sun)**
-**December: 6(Sat), 14(Sun), 28(Sun)**
-**January: 11(Sun), 25(Sun)**
-**February: 7(Sat), 8(Sun), 21(Sat)~23(Mon), 25(Wed)~28(Sat)**
-**March: 8(Sun), 22(Sun)**
+<strong>November: 9(Sun), 23(Sun)</strong>
+<strong>December: 6(Sat), 14(Sun), 28(Sun)</strong>
+<strong>January: 11(Sun), 25(Sun)</strong>
+<strong>February: 7(Sat), 8(Sun), 21(Sat)~23(Mon), 25(Wed)~28(Sat)</strong>
+<strong>March: 8(Sun), 22(Sun)</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-07.jpg" alt="Shinjuku Gyoen weekend morning opening notice | Running available time information">
@@ -146,8 +146,8 @@ It's perfect for those planning a quiet **Shinjuku Gyoen running** session early
 On regular weekdays, you can enter Shinjuku Gyoen without reservations.
 
 However, during:
-- **Cherry blossom peak season**
-- **Weekend/holiday peak times**
+- <strong>Cherry blossom peak season</strong>
+- <strong>Weekend/holiday peak times</strong>
 
 There are periods when the official website operates an advance reservation system.
 
@@ -164,12 +164,12 @@ There are periods when the official website operates an advance reservation syst
 
 The four most commonly used stations are:
 
-- **JR Shinjuku Station**
-- **Tokyo Metro Shinjuku-gyoenmae Station (M Marunouchi Line)**
-- **Tokyo Metro Shinjuku-sanchome Station (M Marunouchi, S Shinjuku, F Fukutoshin Lines)**
-- **JR/Oedo Line Sendagaya Station**
+- <strong>JR Shinjuku Station</strong>
+- <strong>Tokyo Metro Shinjuku-gyoenmae Station (M Marunouchi Line)</strong>
+- <strong>Tokyo Metro Shinjuku-sanchome Station (M Marunouchi, S Shinjuku, F Fukutoshin Lines)</strong>
+- <strong>JR/Oedo Line Sendagaya Station</strong>
 
-You can walk from JR Shinjuku Station, but **Shinjuku-gyoenmae Station is the most convenient choice.**
+You can walk from JR Shinjuku Station, but <strong>Shinjuku-gyoenmae Station is the most convenient choice.</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-09.jpg" alt="Shinjuku Gyoen English landscape garden | Popular picnic blanket location">
@@ -187,11 +187,11 @@ Shinjuku Gyoen has three main entrances/gates. When confused about "which gate s
 
 ### 1️⃣ Shinjuku Gate (新宿門)
 
-The most popular **main entrance**. Lines are longest during cherry blossom season.
+The most popular <strong>main entrance</strong>. Lines are longest during cherry blossom season.
 
-- JR/Keio/Odakyu Line **Shinjuku Station South Exit** - 10 min walk
-- **Shinjuku-sanchome Station (M/S/F)** C1 Exit - 5 min walk
-- **Shinjuku-gyoenmae Station (M)** Exit 1 - 5 min walk
+- JR/Keio/Odakyu Line <strong>Shinjuku Station South Exit</strong> - 10 min walk
+- <strong>Shinjuku-sanchome Station (M/S/F)</strong> C1 Exit - 5 min walk
+- <strong>Shinjuku-gyoenmae Station (M)</strong> Exit 1 - 5 min walk
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-11.jpg" alt="Shinjuku Gyoen Shinjuku Gate entrance | Tokyo Shinjuku Gyoen main entrance">
@@ -200,9 +200,9 @@ The most popular **main entrance**. Lines are longest during cherry blossom seas
 
 ### 2. Okido Gate (大木戸門)
 
-**The closest gate to Shinjuku-gyoenmae Station**. Good entrance direction for the greenhouse and **Shinjuku Gyoen Starbucks**.
+<strong>The closest gate to Shinjuku-gyoenmae Station</strong>. Good entrance direction for the greenhouse and <strong>Shinjuku Gyoen Starbucks</strong>.
 
-- **Shinjuku-gyoenmae Station (M Marunouchi Line)** Exit 2 - 5 min walk
+- <strong>Shinjuku-gyoenmae Station (M Marunouchi Line)</strong> Exit 2 - 5 min walk
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-12.jpg" alt="Shinjuku Gyoen Okido Gate | Closest entrance to Shinjuku-gyoenmae Station">
@@ -213,7 +213,7 @@ The most popular **main entrance**. Lines are longest during cherry blossom seas
 
 Popular with tour groups and families, and if you're on "The Garden of Words" pilgrimage, this gate offers close access.
 
-- JR Sobu Line **Sendagaya Station** - 5 min walk
+- JR Sobu Line <strong>Sendagaya Station</strong> - 5 min walk
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-13.jpg" alt="Shinjuku Gyoen Sendagaya Gate | Recommended entrance for The Garden of Words pilgrimage">
@@ -222,22 +222,22 @@ Popular with tour groups and families, and if you're on "The Garden of Words" pi
 
 ### 📌 Shinjuku Gyoen Accommodation Tips
 
-The area around Shinjuku-gyoenmae Station is quiet and safe, making it a popular area for **Tokyo accommodation**.
+The area around Shinjuku-gyoenmae Station is quiet and safe, making it a popular area for <strong>Tokyo accommodation</strong>.
 
-Among them, one particularly popular keyword is **APA Shinjuku Gyoenmae**.
+Among them, one particularly popular keyword is <strong>APA Shinjuku Gyoenmae</strong>.
 
-- Hotel name: **APA Hotel Shinjuku-gyoenmae**
+- Hotel name: <strong>APA Hotel Shinjuku-gyoenmae</strong>
 - Location: 1-minute walk from Shinjuku-gyoenmae Station
-- **Advantages**
+- <strong>Advantages</strong>
 - 10-15 min walk to Shinjuku Station
 - Walking distance to Shinjuku Gyoen
 - Large public bath (onsen-style) + chain hotel with good value for money according to many reviews
 
-**➡️ <a href="https://skyscanner.pxf.io/qz7gjg" target="_blank">Compare prices for APA Hotel Shinjuku-gyoenmae↗</a>**
+<strong>➡️ <a href="https://skyscanner.pxf.io/qz7gjg" target="_blank">Compare prices for APA Hotel Shinjuku-gyoenmae↗</a></strong>
 
 If you're staying 2-3 nights in Shinjuku:
-- Daytime: **Shinjuku Gyoen stroll**
-- Nighttime: **Shinjuku Station, Kabukicho, Golden Gai** all within walking distance.
+- Daytime: <strong>Shinjuku Gyoen stroll</strong>
+- Nighttime: <strong>Shinjuku Station, Kabukicho, Golden Gai</strong> all within walking distance.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-14.jpg" alt="Shinjuku Gyoen central pond scenery | Tokyo Shinjuku Gyoen lake view">
@@ -259,7 +259,7 @@ One of Tokyo's premier cherry blossom viewing spots.
 
 About 70 varieties and 900 cherry trees bloom for an extended period.
 
-Also, it's the actual setting of Makoto Shinkai's anime **"The Garden of Words"**.
+Also, it's the actual setting of Makoto Shinkai's anime <strong>"The Garden of Words"</strong>.
 
 The scene where the main characters meet under the pavilion on a rainy day—many visitors take photos recreating the shot at the actual location with umbrellas.
 
@@ -285,7 +285,7 @@ It's also perfect weather for spreading a blanket for a Shinjuku Gyoen picnic.
 
 Shinjuku Gyoen in winter isn't as spectacular as cherry blossoms, but the silhouettes of bare branches and quiet walking paths are charming.
 
-With fewer tourists, it's good for **Shinjuku Gyoen running**, and sitting by the Starbucks window with a warm drink in the winter sun is wonderful.
+With fewer tourists, it's good for <strong>Shinjuku Gyoen running</strong>, and sitting by the Starbucks window with a warm drink in the winter sun is wonderful.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-17.jpg" alt="Shinjuku Gyoen Japanese garden view | Tokyo garden with The Garden of Words feel">
@@ -296,20 +296,20 @@ With fewer tourists, it's good for **Shinjuku Gyoen running**, and sitting by th
 
 ## 5. Shinjuku Gyoen Picnic·Blanket·Running Tips
 
-**✅ Shinjuku Gyoen Picnic & Blanket Rules**
+<strong>✅ Shinjuku Gyoen Picnic & Blanket Rules</strong>
 
-You can spread a blanket on the lawn and enjoy a bento lunch. However, **alcohol is prohibited** (bags may be checked at the entrance).
+You can spread a blanket on the lawn and enjoy a bento lunch. However, <strong>alcohol is prohibited</strong> (bags may be checked at the entrance).
 
 - Cooking/fire use prohibited
 - Must take all trash with you
 
-**✅ Shinjuku Gyoen Blanket Tips**
+<strong>✅ Shinjuku Gyoen Blanket Tips</strong>
 - Bring a light, small blanket from Korea
 - Or purchase cheaply at Shinjuku Don Quijote or Daiso for immediate use
 
-**✅ Shinjuku Gyoen Running Course**
+<strong>✅ Shinjuku Gyoen Running Course</strong>
 
-🏃‍♂️ **Shinjuku Gyoen running** is popular as a morning course for both Tokyo locals and travelers.
+🏃‍♂️ <strong>Shinjuku Gyoen running</strong> is popular as a morning course for both Tokyo locals and travelers.
 
 - The park perimeter is about 3.5km, perfect for a light lap
 - The experience of running through the park in the morning sun with the city skyline as a backdrop is unique to Shinjuku Gyoen running
@@ -328,16 +328,16 @@ Running is only allowed on designated paths shown on the map below.
 
 ## 6. Shinjuku Gyoen Starbucks
 
-The most popular spot inside the park is **Shinjuku Gyoen Starbucks**.
+The most popular spot inside the park is <strong>Shinjuku Gyoen Starbucks</strong>.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-19.jpg" alt="Shinjuku Gyoen Starbucks exterior | Glass-walled cafe in Tokyo park">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen Starbucks exterior | Glass-walled cafe in Tokyo park</figcaption>
 </figure>
 
-**📍 Location:** Near the central pond inside the park **(<a href="https://maps.app.goo.gl/iShzw93yNrWdYCzJ7" target="_blank">Google Maps↗</a>)**
+<strong>📍 Location:</strong> Near the central pond inside the park <strong>(<a href="https://maps.app.goo.gl/iShzw93yNrWdYCzJ7" target="_blank">Google Maps↗</a>)</strong>
 
-**☕ Features**
+<strong>☕ Features</strong>
 Floor-to-ceiling windows + lake-view seats are highly competitive, but once you secure a seat, it's "Tokyo's best healing cafe view" level.
 
 <div class="image-group-2">
@@ -364,28 +364,28 @@ Floor-to-ceiling windows + lake-view seats are highly competitive, but once you 
 
 ## 7. Shinjuku Gyoen Restaurants & Nearby Dining
 
-There's only a simple kiosk inside the park, and most proper **Shinjuku Gyoen restaurants** are concentrated around **Shinjuku-gyoenmae Station and Shinjuku-sanchome Station**.
+There's only a simple kiosk inside the park, and most proper <strong>Shinjuku Gyoen restaurants</strong> are concentrated around <strong>Shinjuku-gyoenmae Station and Shinjuku-sanchome Station</strong>.
 
-**1. NIGICHA (にぎちゃ) (<a href="https://maps.app.goo.gl/6rUwsy9khrAbApDT6" target="_blank">Google Maps↗</a>)**
+<strong>1. NIGICHA (にぎちゃ) (<a href="https://maps.app.goo.gl/6rUwsy9khrAbApDT6" target="_blank">Google Maps↗</a>)</strong>
 - Onigiri + matcha cafe
 - Popular for Shinjuku Gyoen picnic bento
 
-**2. Takumi Tatsuhiro (匠 達広) (<a href="https://maps.app.goo.gl/C8dczEs7kVPZ292u7" target="_blank">Google Maps↗</a>)**
+<strong>2. Takumi Tatsuhiro (匠 達広) (<a href="https://maps.app.goo.gl/C8dczEs7kVPZ292u7" target="_blank">Google Maps↗</a>)</strong>
 - Michelin 1 Star 2026
 - Experience Michelin sushi at reasonable lunch courses
 
-**✅ <a href="https://autoreserve.com/ko/restaurants/XfCoemy5j7GvmCD2wX88?medium_slug=AJvA6Kg5ptKi" target="_blank">Book Takumi Tatsuhiro online</a>**
+<strong>✅ <a href="https://autoreserve.com/ko/restaurants/XfCoemy5j7GvmCD2wX88?medium_slug=AJvA6Kg5ptKi" target="_blank">Book Takumi Tatsuhiro online</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-24.jpg" alt="Shinjuku Gyoen sushi restaurant Takumi Tatsuhiro | Tokyo omakase recommendation">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen sushi restaurant Takumi Tatsuhiro | Tokyo omakase recommendation</figcaption>
 </figure>
 
-**3. RAMEN MATSUI (<a href="https://maps.app.goo.gl/M2DyHzc3rMXj9X4y5" target="_blank">Google Maps↗</a>)**
+<strong>3. RAMEN MATSUI (<a href="https://maps.app.goo.gl/M2DyHzc3rMXj9X4y5" target="_blank">Google Maps↗</a>)</strong>
 - Michelin Bib Gourmand 2026
 - Famous for shio (salt) ramen that brings out the natural flavor of ingredients
 
-**✅ <a href="https://www.tablecheck.com/ko/shops/ramen-matsui/reserve" target="_blank">Book Ramen Matsui online</a>**
+<strong>✅ <a href="https://www.tablecheck.com/ko/shops/ramen-matsui/reserve" target="_blank">Book Ramen Matsui online</a></strong>
 
 <div class="image-group-2">
   <figure>
@@ -397,36 +397,36 @@ There's only a simple kiosk inside the park, and most proper **Shinjuku Gyoen re
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen ramen restaurant Ramen Matsui | Tokyo shio ramen popular restaurant</figcaption>
 </div>
 
-**4. Kirimugi-ya Jinroku (切麦や 甚六) (<a href="https://maps.app.goo.gl/QkMv3TkPmGcuM4io8" target="_blank">Google Maps↗</a>)**
+<strong>4. Kirimugi-ya Jinroku (切麦や 甚六) (<a href="https://maps.app.goo.gl/QkMv3TkPmGcuM4io8" target="_blank">Google Maps↗</a>)</strong>
 - Michelin Bib Gourmand 2023
 - Soft yet chewy noodles with deep broth flavor
 
 **➡️ <!-- Link updated -->
 <a href="https://blog.naver.com/tokyomate/223914223908" style="color: #667eea;">Shinjuku udon restaurant, Kirimugi-ya Jinroku waiting tips and recommended menu↗</a>**
 
-**5. Konjiki Hototogisu (金色不如帰 新宿御苑本店) (<a href="https://maps.app.goo.gl/zCcbYP5JQYeJm31y9" target="_blank">Google Maps↗</a>)**
+<strong>5. Konjiki Hototogisu (金色不如帰 新宿御苑本店) (<a href="https://maps.app.goo.gl/zCcbYP5JQYeJm31y9" target="_blank">Google Maps↗</a>)</strong>
 - Michelin Bib Gourmand 2025
 - Ramen shop featuring clam/sea bream broth and mushroom paste flavors
 
-**6. Sushi Labo (新宿御苑前 鮨らぼ) (<a href="https://maps.app.goo.gl/ztHYGHuTYTPcj3ZGA" target="_blank">Google Maps↗</a>)**
+<strong>6. Sushi Labo (新宿御苑前 鮨らぼ) (<a href="https://maps.app.goo.gl/ztHYGHuTYTPcj3ZGA" target="_blank">Google Maps↗</a>)</strong>
 - Value omakase sushi near Shinjuku Gyoen
 
-**✅ <a href="https://autoreserve.com/ko/restaurants/evx7KB76b9w1qcqFPu1R?medium_slug=AJvA6Kg5ptKi" target="_blank">Book Sushi Labo online</a>**
+<strong>✅ <a href="https://autoreserve.com/ko/restaurants/evx7KB76b9w1qcqFPu1R?medium_slug=AJvA6Kg5ptKi" target="_blank">Book Sushi Labo online</a></strong>
 
 ---
 
 ## Shinjuku Gyoen Q&A
 
-**Q. Is Shinjuku Gyoen different from Shinjuku Park?**
+<strong>Q. Is Shinjuku Gyoen different from Shinjuku Park?</strong>
 The official name is Shinjuku Gyoen (新宿御苑), called Shinjuku Park in Korean.
 
-**Q. How to get to Shinjuku Gyoen, what's the easiest route?**
+<strong>Q. How to get to Shinjuku Gyoen, what's the easiest route?</strong>
 Tokyo Metro Shinjuku-gyoenmae Station → C1 or Exit 2 → Walking to Okido Gate is the simplest.
 
-**Q. Shinjuku Gyoen hours, how late can I stay?**
+<strong>Q. Shinjuku Gyoen hours, how late can I stay?</strong>
 It varies by season, but you can stay until 30 minutes after last admission.
 
-**Q. Do I need Shinjuku Gyoen reservations?**
+<strong>Q. Do I need Shinjuku Gyoen reservations?</strong>
 Normal entry OK on regular days. However, during peak cherry blossom season and holidays, there are days when advance online reservation system operates, so check "Shinjuku Gyoen reservations" official notice before your trip.
 
 <figure>
@@ -442,18 +442,26 @@ Shinjuku Gyoen is like a "Shinjuku morning course hub."
 
 To make your Shinjuku itinerary richer, combine it with the articles below.
 
-**🌿 Full Shinjuku day course:** <!-- Link updated -->
+<strong>🌿 Full Shinjuku day course:</strong> <!-- Link updated -->
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Activities Guide↗</a>
 
-**🏙 Night view:** <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building free observation deck light show & Shinjuku night view tips↗</a>
+<strong>🏙 Night view:</strong> <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building free observation deck light show & Shinjuku night view tips↗</a>
 
-**👨‍👩‍👧 Kids park:** <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with kids! How to get to Disney, Sanrio, Thomas↗</a>
+<strong>👨‍👩‍👧 Kids park:</strong> <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with kids! How to get to Disney, Sanrio, Thomas↗</a>
 
-**🌃 Night streets:** <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">Shinjuku Golden Gai vs Omoide Yokocho complete comparison↗</a>
+<strong>🌃 Night streets:</strong> <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">Shinjuku Golden Gai vs Omoide Yokocho complete comparison↗</a>
 
-**🛍️ Shopping:** <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo stationery store membership card, tax-free↗</a>
+<strong>🛍️ Shopping:</strong> <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo stationery store membership card, tax-free↗</a>
 
-**🍡 Dessert:** <a href="/posts/shinjuku-oiwake-dango-honpo/" target="_blank">Shinjuku dango restaurant Oiwake Dango Honpo↗</a>
+<strong>🍡 Dessert:</strong> <a href="/posts/shinjuku-oiwake-dango-honpo/" target="_blank">Shinjuku dango restaurant Oiwake Dango Honpo↗</a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224070032613" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 
 <div class="editors-note">

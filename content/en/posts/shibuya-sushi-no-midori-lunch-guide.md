@@ -22,15 +22,15 @@ The answer you'll eventually arrive at:<br>
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Shibuya restaurant Sushi no Midori value lunch set</figcaption>
 </figure>
 
-During peak lunch hours, expect to take a queue number and wait about 1 hour. However, with the **QR code real-time wait tracking system**, you can check your position while exploring nearby areas, making the perceived difficulty quite low.
+During peak lunch hours, expect to take a queue number and wait about 1 hour. However, with the <strong>QR code real-time wait tracking system</strong>, you can check your position while exploring nearby areas, making the perceived difficulty quite low.
 
-Today's **100% honest out-of-pocket review** focuses on the exceptional value **YAWARAGI LUNCH** set, with detailed wait tips and complete guide.
+Today's <strong>100% honest out-of-pocket review</strong> focuses on the exceptional value <strong>YAWARAGI LUNCH</strong> set, with detailed wait tips and complete guide.
 
 <hr class="se-hr">
 
 <h2>📍 Basic Information (Hours/Location)</h2>
 
-Before you waste time during your trip, here's the essential info in a table. **Pay special attention to weekday break times!**
+Before you waste time during your trip, here's the essential info in a table. <strong>Pay special attention to weekday break times!</strong>
 
 <div class="info-box">
 <table class="schedule-table">
@@ -81,7 +81,7 @@ Before you waste time during your trip, here's the essential info in a table. **
 </table>
 </div>
 
-**💡 Important:** Queue number distribution **starts from 10:00 AM**. If you want an opening run, arrive at 10:00 to get your ticket!
+<strong>💡 Important:</strong> Queue number distribution <strong>starts from 10:00 AM</strong>. If you want an opening run, arrive at 10:00 to get your ticket!
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-03.jpg" alt="Shibuya Mark City East 4F restaurant floor entrance to Sushi no Midori">
@@ -92,11 +92,11 @@ Before you waste time during your trip, here's the essential info in a table. **
 
 <h2>⏳ Queue Strategy & Finding Shibuya Mark City</h2>
 
-The most confusing part for first-timers is **finding the entrance**.
+The most confusing part for first-timers is <strong>finding the entrance</strong>.
 
 <h3>📍 Directions Summary</h3>
 
-This isn't a street-level shop—it's located on the **4th floor of Shibuya Mark City shopping mall**.
+This isn't a street-level shop—it's located on the <strong>4th floor of Shibuya Mark City shopping mall</strong>.
 
 1. Find the 'Mark City East' building through the connecting passage from Shibuya Station.
 2. Take the escalator to the 4F restaurant floor, and the busiest spot will be Sushi no Midori.
@@ -108,15 +108,15 @@ This isn't a street-level shop—it's located on the **4th floor of Shibuya Mark
 
 <h3>⏰ Smart Queue Strategy</h3>
 
-**① Get Queue Number (Available from 10:00)**
+<strong>① Get Queue Number (Available from 10:00)</strong>
 
 Use the ticket machine at the entrance to select party size and get your number.
 
-**② QR Real-Time Tracking**
+<strong>② QR Real-Time Tracking</strong>
 
-Scan the QR code on your ticket to see **'Teams Ahead of You'** and **'Estimated Wait Time'** in real-time.
+Scan the QR code on your ticket to see <strong>'Teams Ahead of You'</strong> and <strong>'Estimated Wait Time'</strong> in real-time.
 
-**③ Explore Nearby (Highly Recommended)**
+<strong>③ Explore Nearby (Highly Recommended)</strong>
 
 If you have 30+ minutes left, go shopping at KALDI or Daiso in Mark City basement, or visit Shibuya Scramble Crossing.
 
@@ -150,13 +150,13 @@ The interior seats 62 people, which is quite spacious. There are both counter se
 
 <h3>✅ Ordering Method</h3>
 
-- Staff takes orders directly (**analog style**)
+- Staff takes orders directly (<strong>analog style</strong>)
 - Menu has photos—no language barrier
-- Can't speak Japanese? **Point at photos to order—totally OK**
+- Can't speak Japanese? <strong>Point at photos to order—totally OK</strong>
 
-**✔️ Customization Tips**
-- **Less rice:** "Shari koma (しゃり こま)"
-- **No wasabi:** "Sabi nuki (さびぬき)"
+<strong>✔️ Customization Tips</strong>
+- <strong>Less rice:</strong> "Shari koma (しゃり こま)"
+- <strong>No wasabi:</strong> "Sabi nuki (さびぬき)"
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-08.jpg" alt="Sushi no Midori Shibuya menu board with photos and prices">
@@ -177,11 +177,11 @@ The interior seats 62 people, which is quite spacious. There are both counter se
 
 <h2>🍣 The Winner: YAWARAGI LUNCH Review</h2>
 
-I ordered the **'YAWARAGI LUNCH'** to get both value and variety.
+I ordered the <strong>'YAWARAGI LUNCH'</strong> to get both value and variety.
 
 <h3>🍣 Overwhelming Neta (Sashimi) Thickness</h3>
 
-The first thing that overwhelms you is the **'thickness of the neta (fish)'**. The fish is 1.5 times thicker and longer than typical Korean sushi restaurants. The satisfaction of fish filling your entire mouth is amazing. No fishy smell at all, and the thick flesh wraps around your tongue with umami flavor bursting out. The tuna especially had a melt-in-your-mouth soft texture that was excellent.
+The first thing that overwhelms you is the <strong>'thickness of the neta (fish)'</strong>. The fish is 1.5 times thicker and longer than typical Korean sushi restaurants. The satisfaction of fish filling your entire mouth is amazing. No fishy smell at all, and the thick flesh wraps around your tongue with umami flavor bursting out. The tuna especially had a melt-in-your-mouth soft texture that was excellent.
 
 <h3>🍚 Shari (Rice)</h3>
 
@@ -189,7 +189,7 @@ Honestly, it's not the delicate "half air, half rice" craftsmanship of high-end 
 
 <h3>🍮 Chawanmushi (Steamed Egg Custard)</h3>
 
-The included **chawanmushi** is pudding-soft and warm, perfect for warming your stomach before the meal.
+The included <strong>chawanmushi</strong> is pudding-soft and warm, perfect for warming your stomach before the meal.
 
 <h3>🍨 Dessert Ice Cream</h3>
 
@@ -214,15 +214,15 @@ Moderate sweetness provides a clean finish.
 
 <h2>⭐ Honest Final Verdict & Return Visit Likelihood</h2>
 
-**"Worth the wait—a solid meal during your Tokyo trip"**
+<strong>"Worth the wait—a solid meal during your Tokyo trip"</strong>
 
-It's rare to find a place in the heart of Shibuya where you can eat your fill of this quality sushi at this price. Foodies might find the shari details slightly lacking, but the **overwhelming freshness of ingredients and friendly service** compensate for everything.
+It's rare to find a place in the heart of Shibuya where you can eat your fill of this quality sushi at this price. Foodies might find the shari details slightly lacking, but the <strong>overwhelming freshness of ingredients and friendly service</strong> compensate for everything.
 
-- **Pros:** Convenient QR wait system, thick and fresh fish, very friendly staff
-- **Cons:** Long waits during meal times (opening run recommended)
-- **Payment:** Cash, cards, IC transport cards all accepted
+- <strong>Pros:</strong> Convenient QR wait system, thick and fresh fish, very friendly staff
+- <strong>Cons:</strong> Long waits during meal times (opening run recommended)
+- <strong>Payment:</strong> Cash, cards, IC transport cards all accepted
 
-**🍣 Return Visit Likelihood: ⭐⭐⭐⭐☆ (Top candidate for Shibuya lunch)**
+<strong>🍣 Return Visit Likelihood: ⭐⭐⭐⭐☆ (Top candidate for Shibuya lunch)</strong>
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg" alt="Shibuya Sushi no Midori value lunch close-up">

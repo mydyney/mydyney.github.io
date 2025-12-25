@@ -23,7 +23,7 @@ Everything you need for a perfect urban park stroll in Tokyo.</p>
 
 ## Introduction
 
-If you're looking for a healing urban walk in Tokyo, **Hibiya Park** is the perfect answer.
+If you're looking for a healing urban walk in Tokyo, <strong>Hibiya Park</strong> is the perfect answer.
 
 I've carefully compiled only the latest 2025 information, from running courses to autumn foliage, night views, restaurants, and festivals.
 
@@ -38,22 +38,22 @@ For travelers near Ginza, Yurakucho, and Tokyo Midtown Hibiya, this essential sp
 
 ## 1. Autumn in the Urban Forest: Hibiya Park Information
 
-Hibiya Park, opened in 1903, is **Japan's first Western-style modern park**, a representative Tokyo walking spot where nature, architecture, and culture harmonize. Located right next to Ginza and Tokyo Midtown Hibiya, it's perfectly positioned for a brief rest during your trip.
+Hibiya Park, opened in 1903, is <strong>Japan's first Western-style modern park</strong>, a representative Tokyo walking spot where nature, architecture, and culture harmonize. Located right next to Ginza and Tokyo Midtown Hibiya, it's perfectly positioned for a brief rest during your trip.
 
-- **Size:** Approximately 16.2 hectares (about 4 Tokyo Dome sizes)
-- **Admission:** Free
-- **Opening Hours:** Open 24/7
-- **Service Center:** 8:30-17:30 (closed during New Year holidays)
+- <strong>Size:</strong> Approximately 16.2 hectares (about 4 Tokyo Dome sizes)
+- <strong>Admission:</strong> Free
+- <strong>Opening Hours:</strong> Open 24/7
+- <strong>Service Center:</strong> 8:30-17:30 (closed during New Year holidays)
 
-**🚇 Transportation**
+<strong>🚇 Transportation</strong>
 
-**Hibiya Park Station** is a transportation hub where the **Tokyo Metro Hibiya Line (H)** and **Chiyoda Line (C)** meet.
+<strong>Hibiya Park Station</strong> is a transportation hub where the <strong>Tokyo Metro Hibiya Line (H)</strong> and <strong>Chiyoda Line (C)</strong> meet.
 
-- **Tokyo Metro Hibiya Station** exits A10/A14: About 2-minute walk (directly connected to park entrance)
-- **Tokyo Metro Kasumigaseki Station**: About 3-minute walk
-- **JR Yurakucho Station**: About 8-minute walk
+- <strong>Tokyo Metro Hibiya Station</strong> exits A10/A14: About 2-minute walk (directly connected to park entrance)
+- <strong>Tokyo Metro Kasumigaseki Station</strong>: About 3-minute walk
+- <strong>JR Yurakucho Station</strong>: About 8-minute walk
 
-**📌 Mate's Tip:** Hibiya Park is within the Tokyo Subway coverage area. Use your **Tokyo Subway Ticket** or **Suica/Pasmo** card!
+<strong>📌 Mate's Tip:</strong> Hibiya Park is within the Tokyo Subway coverage area. Use your <strong>Tokyo Subway Ticket</strong> or <strong>Suica/Pasmo</strong> card!
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6736115,139.7558769&hl=en&z=17&output=embed"
@@ -80,15 +80,15 @@ Hibiya Park, opened in 1903, is **Japan's first Western-style modern park**, a r
 
 ## 2. Recommended Walking & Travel Routes 🚶
 
-**1️⃣ Healing Course｜Ginza → Hibiya Park South Entrance Walk (10 minutes)**
+<strong>1️⃣ Healing Course｜Ginza → Hibiya Park South Entrance Walk (10 minutes)</strong>
 
 A leisurely walking route connecting directly from shopping to the park.
 
-**2️⃣ Running Course｜Imperial Palace Run 5km + Hibiya Park Cooldown**
+<strong>2️⃣ Running Course｜Imperial Palace Run 5km + Hibiya Park Cooldown</strong>
 
 Perfect finish with stretching on park benches after running around the Imperial Palace.
 
-**3️⃣ Night View Course｜Tokyo Midtown Hibiya → Night Stroll**
+<strong>3️⃣ Night View Course｜Tokyo Midtown Hibiya → Night Stroll</strong>
 
 Park night view route seamlessly connecting from cinema and shopping.
 
@@ -160,10 +160,10 @@ The omurice and hamburg steak enjoyed while viewing the park scenery are excelle
 
 Hibiya Park is a course loved by everyone from running beginners to Imperial Palace run enthusiasts.
 
-- **Park interior 1 lap:** Approximately 1.5km
-- **Imperial Palace outer run:** Approximately 5km
+- <strong>Park interior 1 lap:</strong> Approximately 1.5km
+- <strong>Imperial Palace outer run:</strong> Approximately 5km
 
-**Recommended Running Flow:**
+<strong>Recommended Running Flow:</strong>
 1. Hibiya Park warm-up 1km
 2. Imperial Palace 5km main run
 3. Cool-down stretching on Hibiya Park benches
@@ -177,19 +177,19 @@ Hibiya Park is a course loved by everyone from running beginners to Imperial Pal
 
 ## 5. Hibiya Park Seasonal Highlights
 
-**🌸 Spring**
+<strong>🌸 Spring</strong>
 
 The entire park is painted in pastel tones with cherry blossoms, tulips, and flowering dogwood.
 
-**🌳 Summer**
+<strong>🌳 Summer</strong>
 
 Roses, hydrangeas, deep greenery, and the cool atmosphere around the fountain are charming.
 
-**🍁 Autumn**
+<strong>🍁 Autumn</strong>
 
 A Tokyo autumn foliage hotspot where ginkgo and maple trees turn yellow and red. The S-shaped tree-lined street and Kumogata Pond are particularly popular!
 
-**🎄 Winter**
+<strong>🎄 Winter</strong>
 
 The park's quiet lighting combined with the illumination of Tokyo Midtown Hibiya creates spectacular night views.
 
@@ -243,7 +243,7 @@ The Christmas market formerly held at Hibiya Park has moved to Meiji Jingu Gaien
 <!-- TODO: Update link after migration
      Naver: /posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="/posts/meiji-jingu-gaien-christmas-market-2025/" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Cup Benefits</strong></a>
+<strong>➡️</strong> <a href="/posts/meiji-jingu-gaien-christmas-market-2025/" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Cup Benefits</strong></a>
 
 <figure>
   <img src="/images/posts/hibiya-park-tokyo-guide-12.jpg" alt="Hibiya Park Tokyo autumn scenery in the heart of the city">
@@ -265,10 +265,18 @@ If you have any questions during your trip, feel free to leave a comment anytime
 <!-- TODO: Update link after migration
      Naver: /posts/hibiya-midtown-illumination-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>2025 Tokyo Midtown Hibiya Illumination · Zootopia 2 Collaboration</strong></a>
+<strong>➡️</strong> <a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>2025 Tokyo Midtown Hibiya Illumination · Zootopia 2 Collaboration</strong></a>
 
 <!-- TODO: Update link after migration
-**➡️** <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots · Shopping, Restaurants & Route Complete Guide</strong></a>
+<strong>➡️</strong> <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots · Shopping, Restaurants & Route Complete Guide</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224093593124" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 
 <div class="editors-note">

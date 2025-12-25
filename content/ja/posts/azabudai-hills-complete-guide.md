@@ -28,10 +28,10 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 ## ✨ 麻布台ヒルズとは？（クイックサマリー）
 
-麻布台ヒルズは単なるショッピングモールではなく、**「巨大な垂直都市」**です。六本木ヒルズを手がけた森ビルが30年以上かけて創り上げた、オフィス、住宅、商業、文化、自然を統合した複合施設です。
+麻布台ヒルズは単なるショッピングモールではなく、<strong>「巨大な垂直都市」</strong>です。六本木ヒルズを手がけた森ビルが30年以上かけて創り上げた、オフィス、住宅、商業、文化、自然を統合した複合施設です。
 
-- **主な見どころ**：33階無料展望台、teamLabボーダレス、麻布台ヒルズマーケット
-- **建築家**：メインタワーはペリ・クラーク・アンド・パートナーズ、低層部はヘザウィック・スタジオ（現代ソウルを手がけた）が担当―建物自体が巨大なアート作品。
+- <strong>主な見どころ</strong>：33階無料展望台、teamLabボーダレス、麻布台ヒルズマーケット
+- <strong>建築家</strong>：メインタワーはペリ・クラーク・アンド・パートナーズ、低層部はヘザウィック・スタジオ（現代ソウルを手がけた）が担当―建物自体が巨大なアート作品。
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-02.jpg" alt="威厳のある東京麻布台ヒルズ外観">
@@ -44,13 +44,13 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 複合施設が巨大なので、ルートの計画が重要です！
 
-1. **[朝] teamLabボーダレス（ガーデンプラザB）**：100％事前予約必須！幻想的なメディアアートの世界で朝を過ごしましょう。
+1. <strong>[朝] teamLabボーダレス（ガーデンプラザB）</strong>：100％事前予約必須！幻想的なメディアアートの世界で朝を過ごしましょう。
 
-2. **[ランチ] 麻布台ヒルズマーケット（ガーデンプラザC）**：ミシュランと食べログTop 100レストランが集まるプレミアムフードコートでランチを解決。
+2. <strong>[ランチ] 麻布台ヒルズマーケット（ガーデンプラザC）</strong>：ミシュランと食べログTop 100レストランが集まるプレミアムフードコートでランチを解決。
 
-3. **[午後] 33階スカイルーム展望台カフェ（森JPタワー）**：東京タワー正面ビューで最高の写真スポットで一生の思い出の写真を撮影。
+3. <strong>[午後] 33階スカイルーム展望台カフェ（森JPタワー）</strong>：東京タワー正面ビューで最高の写真スポットで一生の思い出の写真を撮影。
 
-4. **[ショッピング＆リラックス] 高級ショッピング＆カフェ**：タワープラザで高級ブランドを巡り、雰囲気あるカフェでリラックス。
+4. <strong>[ショッピング＆リラックス] 高級ショッピング＆カフェ</strong>：タワープラザで高級ブランドを巡り、雰囲気あるカフェでリラックス。
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-03.jpg" alt="麻布台ヒルズ33階スカイルーム展望台カフェから東京タワークリスマスライトアップビュー">
@@ -61,9 +61,9 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 ## 🗼 33階展望台＆スカイルームカフェ（必見）
 
-**2025年最新情報！** 33階「スカイロビー」は**無料開放されなくなりました**。現在、スカイルームカフェ＆バーを利用するお客様のみが33階エリアにアクセスできます。（2024年4月18日より）
+<strong>2025年最新情報！</strong> 33階「スカイロビー」は<strong>無料開放されなくなりました</strong>。現在、スカイルームカフェ＆バーを利用するお客様のみが33階エリアにアクセスできます。（2024年4月18日より）
 
-東京タワーを正面から楽しむことが目的なら、**スカイルームカフェを訪れてドリンクを注文するのが唯一の方法**です。
+東京タワーを正面から楽しむことが目的なら、<strong>スカイルームカフェを訪れてドリンクを注文するのが唯一の方法</strong>です。
 
 スカイルームの詳細メニュー、アクセス方法、夕暮れ・夜景のコツ、最新営業スケジュールについては、以下の完全展望台ガイドをご覧ください！
 
@@ -86,15 +86,15 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 ## 🎨 [必見] teamLabボーダレス
 
-**「お台場の伝説が麻布台ヒルズで復活」**
+<strong>「お台場の伝説が麻布台ヒルズで復活」</strong>
 
-2022年にお台場で閉館した**「teamLabボーダレス」**が、2024年2月に麻布台ヒルズでさらに進化して**再オープン**しました。**「境界のないアート」**をテーマに、作品が移動し相互作用する幻想的なメディアアートを体験できます。
+2022年にお台場で閉館した<strong>「teamLabボーダレス」</strong>が、2024年2月に麻布台ヒルズでさらに進化して<strong>再オープン</strong>しました。<strong>「境界のないアート」</strong>をテーマに、作品が移動し相互作用する幻想的なメディアアートを体験できます。
 
-📌 **注意：** これは豊洲の**「teamLab Planets」**（水の中を歩く）とは**完全に別物**です―混同しないように！
+📌 <strong>注意：</strong> これは豊洲の<strong>「teamLab Planets」</strong>（水の中を歩く）とは<strong>完全に別物</strong>です―混同しないように！
 
-📌 **ヒント：** **100％オンライン事前予約必須**―現地チケット販売なし。訪問予定なら少なくとも数週間前に予約してください。
+📌 <strong>ヒント：</strong> <strong>100％オンライン事前予約必須</strong>―現地チケット販売なし。訪問予定なら少なくとも数週間前に予約してください。
 
-✅ **[Klookでteamラボボーダレスチケットを購入](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1145918&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F)**
+✅ <strong>[Klookでteamラボボーダレスチケットを購入](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1145918&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
@@ -110,43 +110,43 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 ## 🍽️ 麻布台ヒルズマーケット：東京グルメのエッセンス（レストランガイド）
 
-麻布台ヒルズには約150のレストランとショップがあります。選択肢に圧倒されたら、ガーデンプラザC地下の**「麻布台ヒルズマーケット」**から始めましょう！
+麻布台ヒルズには約150のレストランとショップがあります。選択肢に圧倒されたら、ガーデンプラザC地下の<strong>「麻布台ヒルズマーケット」</strong>から始めましょう！
 
 ### 1. [必見] 麻布台ヒルズマーケット
 
 ただのフードコートではなく、日本最高のレストランが集まるプレミアムグルメ空間です。ここでほとんどの食事ニーズを解決できます。
 
-**[ベーカリー/デザート]（食べログTop 100＆SNS話題）**
-- **Comme'N TOKYO**：東京最高のベーカリーの一つで、食べログのベーカリーTop 100に掲載―これ以上の説明は不要。
+<strong>[ベーカリー/デザート]（食べログTop 100＆SNS話題）</strong>
+- <strong>Comme'N TOKYO</strong>：東京最高のベーカリーの一つで、食べログのベーカリーTop 100に掲載―これ以上の説明は不要。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223968462793
      Hugo: /ja/posts/azabudai-hills-commen-bakery-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Comme'N Tokyo、麻布台ヒルズベーカリーレビュー</strong></a>
 
-- **CRIOLLO**：世界的に有名なショコラティエのプレミアムチョコレート。（ギフトにおすすめ）
+- <strong>CRIOLLO</strong>：世界的に有名なショコラティエのプレミアムチョコレート。（ギフトにおすすめ）
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355
      Hugo: /ja/posts/azabudai-hills-criollo-chocolate-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Criolloショコラティエチョコレートギフトレビュー</strong></a>
 
-- **BLANCA**：ギフトに最適なプレミアムバスクチーズケーキショップ
-- **HARBS**：伝説的なフルーツクレープケーキの定番―説明不要
-- **MATTE**：濃厚なチョコレートとジェラートの専門店
+- <strong>BLANCA</strong>：ギフトに最適なプレミアムバスクチーズケーキショップ
+- <strong>HARBS</strong>：伝説的なフルーツクレープケーキの定番―説明不要
+- <strong>MATTE</strong>：濃厚なチョコレートとジェラートの専門店
 
-**[ダイニング/テイクアウト]（ミシュラン＆伝説の味）**
-- **鮨さいとう 麻布台**：予約不可能なミシュラン三つ星「鮨さいとう」の味をよりアクセスしやすく体験。
+<strong>[ダイニング/テイクアウト]（ミシュラン＆伝説の味）</strong>
+- <strong>鮨さいとう 麻布台</strong>：予約不可能なミシュラン三つ星「鮨さいとう」の味をよりアクセスしやすく体験。
 
-✅ **[鮨さいとう麻布台をオンライン予約](https://autoreserve.com/ko/restaurants/mYHY7euuf6Yid7djBq6K?medium_slug=AJvA6Kg5ptKi)**
+✅ <strong>[鮨さいとう麻布台をオンライン予約](https://autoreserve.com/ko/restaurants/mYHY7euuf6Yid7djBq6K?medium_slug=AJvA6Kg5ptKi)</strong>
 
-- **パーラー矢澤**：五反田の有名ハンバーグステーキ店「肉の矢澤」のデリ。名物の「大人のお子様ランチ」をお試しください。
-- **麻布台 鳥しき**：目黒の予約不可能な焼き鳥伝説「鳥しき」のテイクアウトショップ。
+- <strong>パーラー矢澤</strong>：五反田の有名ハンバーグステーキ店「肉の矢澤」のデリ。名物の「大人のお子様ランチ」をお試しください。
+- <strong>麻布台 鳥しき</strong>：目黒の予約不可能な焼き鳥伝説「鳥しき」のテイクアウトショップ。
 
-**[カフェ]**
-- **% Arabica**：京都発のスペシャルティコーヒー。
-- **OGAWA COFFEE LABORATORY**：豆を自分で選んで体験できるコーヒーサロン。
-- **SABOE TOKYO**：新しい日本茶のスタイルを提案する紅茶専門店。
+<strong>[カフェ]</strong>
+- <strong>% Arabica</strong>：京都発のスペシャルティコーヒー。
+- <strong>OGAWA COFFEE LABORATORY</strong>：豆を自分で選んで体験できるコーヒーサロン。
+- <strong>SABOE TOKYO</strong>：新しい日本茶のスタイルを提案する紅茶専門店。
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-07.jpg" alt="麻布台ヒルズマーケット食べログベーカリーTop 100 Comme'N Tokyo">
@@ -174,17 +174,17 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 マーケット以外にも、建物全体に点在する専門レストランでよりゆったりとした食事をおすすめします。
 
-**[SNS話題＆カジュアルお気に入り]**
-- **SHOGUN BURGER**：焼肉店のジューシーな「和牛バーガー」が話題。
-- **THE YELLOW COMPANY**：北海道札幌発の有名「スープカレー」専門店。
-- **ペリカンカフェ**：浅草の伝説的なパン「ペリカン」のトーストを提供するカフェ。
-- **RACINES**：人気の池袋ビストロ。ブランチとディナーの両方に最適。
+<strong>[SNS話題＆カジュアルお気に入り]</strong>
+- <strong>SHOGUN BURGER</strong>：焼肉店のジューシーな「和牛バーガー」が話題。
+- <strong>THE YELLOW COMPANY</strong>：北海道札幌発の有名「スープカレー」専門店。
+- <strong>ペリカンカフェ</strong>：浅草の伝説的なパン「ペリカン」のトーストを提供するカフェ。
+- <strong>RACINES</strong>：人気の池袋ビストロ。ブランチとディナーの両方に最適。
 
-**[ミシュラン＆高級ダイニング]**
-- **鮨 麻布**：ニューヨークで10年連続ミシュラン一つ星を獲得した寿司店の旗艦店。
-- **Florilège**：ミシュラン二つ星とグリーンスターの両方を獲得した革新的なフレンチレストラン。
-- **よろにく TOKYO**：全世代に愛される「新世代焼肉」の頂点。
-- **富小路やま岸**：京都の予約不可能な懐石伝説の東京支店。
+<strong>[ミシュラン＆高級ダイニング]</strong>
+- <strong>鮨 麻布</strong>：ニューヨークで10年連続ミシュラン一つ星を獲得した寿司店の旗艦店。
+- <strong>Florilège</strong>：ミシュラン二つ星とグリーンスターの両方を獲得した革新的なフレンチレストラン。
+- <strong>よろにく TOKYO</strong>：全世代に愛される「新世代焼肉」の頂点。
+- <strong>富小路やま岸</strong>：京都の予約不可能な懐石伝説の東京支店。
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-11.jpg" alt="麻布台ヒルズガーデンプラザAからの夜景">
@@ -195,8 +195,8 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 ## 🛍️ ショッピング＆アトラクション（ノーズショップなど）
 
-- **高級ショッピング：** タワープラザにはエルメスやカルティエなどのトップ高級ブランドが揃っています。
-- **ノーズショップ**：韓国でトレンドの「ニッチ香水」専門エディットショップ。国内で入手できないユニークな香水をテストして購入できます。
+- <strong>高級ショッピング：</strong> タワープラザにはエルメスやカルティエなどのトップ高級ブランドが揃っています。
+- <strong>ノーズショップ</strong>：韓国でトレンドの「ニッチ香水」専門エディットショップ。国内で入手できないユニークな香水をテストして購入できます。
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-12.jpg" alt="麻布台ヒルズプロムナード沿いの高級ブランドストア">
@@ -233,7 +233,7 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 ## 📍 麻布台の後、どこへ？（おすすめフォローアップコース）
 
-**🥂 徒歩5分！ミシュラン一つ星中華料理レストラン、Series**
+<strong>🥂 徒歩5分！ミシュラン一つ星中華料理レストラン、Series</strong>
 麻布台ヒルズのすぐ向かいには、革新的なミシュラン一つ星中華料理レストラン「Series」があります。ショッピングと観光の後の特別なディナーに最適な選択です。
 
 <!-- TODO: Update link after migration
@@ -241,18 +241,26 @@ teamLabボーダレスチケット予約のコツ、<br>
      Hugo: /ja/posts/azabudai-hills-series-chinese-restaurant/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京麻布台中華料理レストラン、Seriesミシュラン一つ星コース</strong></a>
 
-**🚶‍♂️ 地下鉄5分！クラシック東京夜景、六本木ヒルズ**
+<strong>🚶‍♂️ 地下鉄5分！クラシック東京夜景、六本木ヒルズ</strong>
 麻布台ヒルズが東京タワーの「正面」ビューを提供するなら、六本木ヒルズはスカイラインと融合した東京タワーを見せてくれます。両方を組み合わせて究極の夜景ツアーを。
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
-➡️ **<a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、レストラン）</strong></a>**
+➡️ <strong><a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、レストラン）</strong></a></strong>
 
-**🚶‍♂️ 地下鉄3分！大人のグルメ空間、虎ノ門ヒルズ**
+<strong>🚶‍♂️ 地下鉄3分！大人のグルメ空間、虎ノ門ヒルズ</strong>
 麻布台ヒルズが「観光」の中心なら、隣の虎ノ門ヒルズは「グルメダイニング＆ビジネス」の中心です。「虎ノ門横丁」のような洗練された居酒屋通りで特別な夜を楽しんでください。
 
-➡️ **<a href="/ja/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>東京虎ノ門ヒルズアトラクション：レストラン、横丁、そして本物の「ドラえもん」</strong></a>**
+➡️ <strong><a href="/ja/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>東京虎ノ門ヒルズアトラクション：レストラン、横丁、そして本物の「ドラえもん」</strong></a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224047575500" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

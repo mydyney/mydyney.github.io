@@ -33,11 +33,11 @@ Shinjuku may seem like a grown-up city, but if you've chosen Shinjuku for your a
 
 There are exactly three reasons why Shinjuku is the best base camp for family travelers with children:
 
-**Busta Shinjuku (Bus Terminal), Keio Line & JR Line Transfer Hub, JR Limited Express Fuji Kaiyū (富士回遊)**
+<strong>Busta Shinjuku (Bus Terminal), Keio Line & JR Line Transfer Hub, JR Limited Express Fuji Kaiyū (富士回遊)</strong>
 
 These three transportation hubs all converge in one place.
 
-With this one guide, you can design **children, elementary students, and family courses** among Tokyo Shinjuku attractions **all from Shinjuku Station at once**.
+With this one guide, you can design <strong>children, elementary students, and family courses</strong> among Tokyo Shinjuku attractions <strong>all from Shinjuku Station at once</strong>.
 
 ---
 
@@ -66,9 +66,9 @@ Departing early from Shinjuku and arriving at Disneyland's opening time gives yo
 
 From Busta Shinjuku's 4th floor terminal (connected to Shinjuku Station's South Exit/New South Exit), you can take the limousine bus to Disneyland and DisneySea.
 
-🕒 **Travel time:** 40-60 minutes (depending on traffic)
-💰 **Fare:** Approx. 1,000 yen adult / 500 yen child (one way)
-📌 **Advantages:** Can load strollers and luggage, everyone sits and travels in one go
+🕒 <strong>Travel time:</strong> 40-60 minutes (depending on traffic)
+💰 <strong>Fare:</strong> Approx. 1,000 yen adult / 500 yen child (one way)
+📌 <strong>Advantages:</strong> Can load strollers and luggage, everyone sits and travels in one go
 
 👉 For detailed Busta Shinjuku bus schedules, fares, booking methods, and last bus info, check the dedicated post below.
 
@@ -99,11 +99,11 @@ The moment you get off at Keio Tama Center Station, the entire station is decora
 
 ### How to Get to Sanrio Puroland from Shinjuku
 
-**🚆 Route (Keio Line):**
+<strong>🚆 Route (Keio Line):</strong>
 Keio Line Shinjuku Station → Keio Tama Center Station → About 5-minute walk from station exit → Sanrio Puroland entrance
 
-🕒 **Travel time:** 40 minutes
-💰 **Fare:** 360 yen
+🕒 <strong>Travel time:</strong> 40 minutes
+💰 <strong>Fare:</strong> 360 yen
 
 ---
 
@@ -124,17 +124,17 @@ The experience of riding Thomas and Friends trains while facing Mt. Fuji is quit
 
 #### 🚆 Method 1: Shinjuku Station → Fuji-Q Highland Station
 
-- **Direct on JR Limited Express Fuji Kaiyū (no transfers)**
-- The most convenient transportation method is **JR Limited Express Fuji Kaiyū (富士回遊)**
+- <strong>Direct on JR Limited Express Fuji Kaiyū (no transfers)</strong>
+- The most convenient transportation method is <strong>JR Limited Express Fuji Kaiyū (富士回遊)</strong>
 
 <a href="https://www.eki-net.com/en/jreast-train-reservation/Top/Index" target="_blank"><b>➡️ Buy Train Tickets on JR Website</b></a>
 
-**📍Route:** JR Shinjuku Station → Fuji-Q Highland Station
-🕒 **Travel time:** 2 hours
-💰 **Fare:** Limited express fee + reserved seat required
+<strong>📍Route:</strong> JR Shinjuku Station → Fuji-Q Highland Station
+🕒 <strong>Travel time:</strong> 2 hours
+💰 <strong>Fare:</strong> Limited express fee + reserved seat required
 
-**🕒 Shinjuku Station Departure → Fuji-Q Highland Station Timetable**
-**★ Operates 2025.10.4 (Sat) ~ 2026.2.28 (Sat)**
+<strong>🕒 Shinjuku Station Departure → Fuji-Q Highland Station Timetable</strong>
+<strong>★ Operates 2025.10.4 (Sat) ~ 2026.2.28 (Sat)</strong>
 
 <table class="schedule-table">
   <thead>
@@ -153,7 +153,7 @@ The experience of riding Thomas and Friends trains while facing Mt. Fuji is quit
   </tbody>
 </table>
 
-**🕒 Fuji-Q Highland Station Departure → Shinjuku Station Timetable**
+<strong>🕒 Fuji-Q Highland Station Departure → Shinjuku Station Timetable</strong>
 
 <table class="schedule-table">
   <thead>
@@ -176,13 +176,13 @@ The experience of riding Thomas and Friends trains while facing Mt. Fuji is quit
 
 For families who want to ride various trains, the Otsuki transfer course is recommended.
 
-**📍Route:** JR Chuo Line Shinjuku Station → Otsuki Station → Transfer to Fujikyu Line at Otsuki → Fuji-Q Highland Station
-🕒 **Travel time:** 2 hours
-💰 **Fare:** Limited express fee + reserved seat required
+<strong>📍Route:</strong> JR Chuo Line Shinjuku Station → Otsuki Station → Transfer to Fujikyu Line at Otsuki → Fuji-Q Highland Station
+🕒 <strong>Travel time:</strong> 2 hours
+💰 <strong>Fare:</strong> Limited express fee + reserved seat required
 
-Between Otsuki Station ↔ Fuji-Q Highland Station, there are **Thomas Land trains (トーマスランド号)** wrapped with Thomas and Friends characters, as well as reserved limited express trains.
+Between Otsuki Station ↔ Fuji-Q Highland Station, there are <strong>Thomas Land trains (トーマスランド号)</strong> wrapped with Thomas and Friends characters, as well as reserved limited express trains.
 
-**🕒 Otsuki Station Departure → Fuji-Q Highland Station Special Train Timetable**
+<strong>🕒 Otsuki Station Departure → Fuji-Q Highland Station Special Train Timetable</strong>
 (Regular trains operate at other times)
 
 <table class="schedule-table">
@@ -212,7 +212,7 @@ Between Otsuki Station ↔ Fuji-Q Highland Station, there are **Thomas Land trai
   </tbody>
 </table>
 
-**🕒 Fuji-Q Highland Station Departure → Otsuki Station Special Train Timetable**
+<strong>🕒 Fuji-Q Highland Station Departure → Otsuki Station Special Train Timetable</strong>
 (Regular trains operate at other times)
 
 <table class="schedule-table">
@@ -271,13 +271,13 @@ Between Otsuki Station ↔ Fuji-Q Highland Station, there are **Thomas Land trai
 
 For families who find buses more comfortable than trains, there's also a direct bus to Fuji-Q departing from Busta Shinjuku.
 
-🕒 **Travel time:** About 2 hours
-📌 **Advantages:** Just sit down and you're done, convenient when you have lots of luggage
+🕒 <strong>Travel time:</strong> About 2 hours
+📌 <strong>Advantages:</strong> Just sit down and you're done, convenient when you have lots of luggage
 
 ### 🚨 Bus vs Train Choice?
 
-**If your kids love trains:** Limited Express Fuji Kaiyū or Thomas Land Train
-**If you want simple travel:** Direct bus recommended
+<strong>If your kids love trains:</strong> Limited Express Fuji Kaiyū or Thomas Land Train
+<strong>If you want simple travel:</strong> Direct bus recommended
 
 ---
 
@@ -292,22 +292,22 @@ For families who find buses more comfortable than trains, there's also a direct 
 
 About 35 minutes from Shinjuku.
 
-This **Tokyo suburban amusement park** is large-scale and its character completely changes with each season:
+This <strong>Tokyo suburban amusement park</strong> is large-scale and its character completely changes with each season:
 
-- **Winter:** Jewellumination
-- **Summer:** Water Atrium (water park) operation
+- <strong>Winter:</strong> Jewellumination
+- <strong>Summer:</strong> Water Atrium (water park) operation
 
-Especially for **Shinjuku elementary student attractions**, the **'Goodjoba!!'** zone is key.
+Especially for <strong>Shinjuku elementary student attractions</strong>, the <strong>'Goodjoba!!'</strong> zone is key.
 
-With attractions and hands-on experiences themed around various industries like automobiles, food, and stationery, kids can naturally **experience jobs and processes** while riding attractions.
+With attractions and hands-on experiences themed around various industries like automobiles, food, and stationery, kids can naturally <strong>experience jobs and processes</strong> while riding attractions.
 
 ### 🚆 How to Get There from Shinjuku
 
 Keio Line Shinjuku Station → Keio Yomiuriland Station → Take gondola 'Sky Shuttle' from station front → Yomiuriland entrance
 
-🕒 **Travel time:** 35 minutes
-💰 **Fare:** 270 yen
-💰 **Gondola fare:** 500 yen round trip
+🕒 <strong>Travel time:</strong> 35 minutes
+💰 <strong>Fare:</strong> 270 yen
+💰 <strong>Gondola fare:</strong> 500 yen round trip
 
 The Tokyo panoramic view and amusement park view from the gondola is something kids enjoy, but it's also quite healing for adults.
 
@@ -326,14 +326,14 @@ The closest urban amusement park to Shinjuku is Tokyo Dome City.
 
 "A full day at a theme park is too much, I just want to play lightly around Shinjuku for half a day"—this is perfect for that.
 
-**Free admission** (individual payment per ride)
+<strong>Free admission</strong> (individual payment per ride)
 Carousel, small rollercoaster, Ferris wheel, etc.—many rides for children
 
 If it rains, there are two indoor kids spots right next door:
-Super-sized indoor kids cafe **"ASOBono!"**
-Space museum **"TeNQ"**
+Super-sized indoor kids cafe <strong>"ASOBono!"</strong>
+Space museum <strong>"TeNQ"</strong>
 
-For **Shinjuku children's attractions**, this is the strongest half-day rainy day course.
+For <strong>Shinjuku children's attractions</strong>, this is the strongest half-day rainy day course.
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224035895968 Hugo: /posts/tokyo-dome-city-guide/ -->
@@ -343,8 +343,8 @@ For **Shinjuku children's attractions**, this is the strongest half-day rainy da
 
 JR Chuo-Sobu Line (yellow) Shinjuku Station → Suidobashi Station (水道橋駅) → Walk from station → Tokyo Dome City
 
-🕒 **Travel time:** 15 minutes
-💰 **Fare:** 180 yen
+🕒 <strong>Travel time:</strong> 15 minutes
+💰 <strong>Fare:</strong> 180 yen
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-12.jpg" alt="Tokyo Dome City ASOBono indoor kids park, great indoor Tokyo attraction for children to run around">
@@ -377,10 +377,10 @@ Wondering about Shinjuku children's courses on rainy days?
 
 Here's the 5 major kids parks organized by weather:
 
-**☔ Completely Indoor, Best for Rainy Days:**
+<strong>☔ Completely Indoor, Best for Rainy Days:</strong>
 Sanrio Puroland, Tokyo Dome City 'ASOBono!'
 
-**🌤️ Recommended for Sunny Days / Outdoor Focus:**
+<strong>🌤️ Recommended for Sunny Days / Outdoor Focus:</strong>
 Tokyo Disneyland, Fuji-Q Highland Thomas Land, Yomiuriland
 
 ---

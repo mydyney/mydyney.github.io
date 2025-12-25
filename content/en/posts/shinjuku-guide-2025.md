@@ -28,13 +28,13 @@ Here is the perfect recommended course to fully enjoy Shinjuku without getting l
 
 <h2>✨ Essential Shinjuku Knowledge (Exits & Transport Tips)</h2>
 
-The first step to conquering Shinjuku is understanding the massive **'Shinjuku Station'**.
-Listed in the Guinness Book of World Records as the **'busiest station in the world'**, it has **over 200 exits**, making it a giant maze. Shinjuku is roughly divided into 3 main areas.
+The first step to conquering Shinjuku is understanding the massive <strong>'Shinjuku Station'</strong>.
+Listed in the Guinness Book of World Records as the <strong>'busiest station in the world'</strong>, it has <strong>over 200 exits</strong>, making it a giant maze. Shinjuku is roughly divided into 3 main areas.
 
 <ul>
 <li><b>East Exit (東口): The Center of Shopping & Nightlife</b></li>
 </ul>
-**Isetan Department Store, Lumine EST, Kabukicho, Golden Gai, and Don Quijote** are all concentrated here. Most of Shinjuku's iconic spots are in this area.
+<strong>Isetan Department Store, Lumine EST, Kabukicho, Golden Gai, and Don Quijote</strong> are all concentrated here. Most of Shinjuku's iconic spots are in this area.
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-02.jpg" alt="Shinjuku Station East Exit Lumine EST">
@@ -44,7 +44,7 @@ Listed in the Guinness Book of World Records as the **'busiest station in the wo
 <ul>
 <li><b>South Exit (南口) & New South Exit (新南口): Modern Meeting Spot</b></li>
 </ul>
-This is the most modern area, featuring the expressway bus terminal **Busta Shinjuku**, **Takashimaya Department Store, NEWoMan, and Lumine 1 & 2**. The **'Suica Penguin Statue'** at the New South Exit is a famous meeting spot.
+This is the most modern area, featuring the expressway bus terminal <strong>Busta Shinjuku</strong>, <strong>Takashimaya Department Store, NEWoMan, and Lumine 1 & 2</strong>. The <strong>'Suica Penguin Statue'</strong> at the New South Exit is a famous meeting spot.
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-03.jpg" alt="Shinjuku Station South Exit Busta Shinjuku">
@@ -54,33 +54,33 @@ This is the most modern area, featuring the expressway bus terminal **Busta Shin
 <ul>
 <li><b>West Exit (西口): Offices, Night Views & Nostalgic Alleys</b></li>
 </ul>
-Home to the **Tokyo Metropolitan Government Building (Free Observatory)** and electronics retailers like **Yodobashi/Bic Camera**. **Odakyu/Keio Department Stores** are directly connected to the station. The famous skewer alley **'Omoide Yokocho'** is also near the West Exit.
+Home to the <strong>Tokyo Metropolitan Government Building (Free Observatory)</strong> and electronics retailers like <strong>Yodobashi/Bic Camera</strong>. <strong>Odakyu/Keio Department Stores</strong> are directly connected to the station. The famous skewer alley <strong>'Omoide Yokocho'</strong> is also near the West Exit.
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-04.jpg" alt="Tokyo Mode Gakuen Cocoon Tower at West Exit">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Mode Gakuen Cocoon Tower at Shinjuku West Exit</figcaption>
 </figure>
 
-**📌 Transport Tip:**
-Besides Shinjuku Station, using nearby subway stations like **'Shinjuku-sanchome'** or **'Shinjuku-gyoemmae'** can save you a lot of walking depending on your destination.
+<strong>📌 Transport Tip:</strong>
+Besides Shinjuku Station, using nearby subway stations like <strong>'Shinjuku-sanchome'</strong> or <strong>'Shinjuku-gyoemmae'</strong> can save you a lot of walking depending on your destination.
 
 <hr class="se-hr">
 
 <h2>🚶‍♂️ Recommended Shinjuku Course (Morning-Afternoon-Evening)</h2>
 
 <b>🌿 Morning (10:00~13:00): Healing in Nature</b>
-- Start your trip with a leisurely walk at **Shinjuku Gyoen**.
-- Brunch at the **Starbucks** inside the park is highly recommended!
+- Start your trip with a leisurely walk at <strong>Shinjuku Gyoen</strong>.
+- Brunch at the <strong>Starbucks</strong> inside the park is highly recommended!
 
 <b>🛍️ Afternoon (13:00~18:00): Shopping & Gourmet</b>
-- Enjoy **shopping** at representative department stores and brand shops.
-- Have a hearty lunch at a **Tabelog-verified restaurant**.
+- Enjoy <strong>shopping</strong> at representative department stores and brand shops.
+- Have a hearty lunch at a <strong>Tabelog-verified restaurant</strong>.
 
 <b>🌃 Evening (18:00~): Enjoying the Night</b>
-- Free night view at **Tokyo Metropolitan Government Building Observatory**.
-- Dinner and drinks at **Omoide Yokocho** or **Golden Gai**.
+- Free night view at <strong>Tokyo Metropolitan Government Building Observatory</strong>.
+- Dinner and drinks at <strong>Omoide Yokocho</strong> or <strong>Golden Gai</strong>.
 
-**📌 How to Get to Shinjuku from Narita Airport**
+<strong>📌 How to Get to Shinjuku from Narita Airport</strong>
 First gateway to Shinjuku! If you are wondering about the most efficient way to get from 'Narita Airport to Shinjuku', check out the comparison guide between N'EX and Airport Limousine Bus below.
 
 <p><strong>➡️ <a href="/posts/narita-to-shinjuku-2025/" style="color: #667eea;">Narita Airport to Shinjuku 2025 Guide | N'EX vs Airport Limousine Comparison</a></strong></p>
@@ -89,16 +89,16 @@ First gateway to Shinjuku! If you are wondering about the most efficient way to 
 
 <h2>🌿 Morning Course: Urban Oasis, Shinjuku Gyoen</h2>
 
-Located in the middle of Shinjuku's building forest, **Shinjuku Gyoen** features British, French, and Japanese style gardens, making it the perfect place to escape the complex city for a peaceful time.
+Located in the middle of Shinjuku's building forest, <strong>Shinjuku Gyoen</strong> features British, French, and Japanese style gardens, making it the perfect place to escape the complex city for a peaceful time.
 
-- **Admission:** Adult 500 yen
-- **Closed:** Every Monday (If Monday is a holiday, closed the following weekday)
-- **Hours:** 9:00 AM ~ 4:00 PM (Varies by season)
+- <strong>Admission:</strong> Adult 500 yen
+- <strong>Closed:</strong> Every Monday (If Monday is a holiday, closed the following weekday)
+- <strong>Hours:</strong> 9:00 AM ~ 4:00 PM (Varies by season)
 
-**📌 Tip:**
-Bring a picnic mat to relax on the grass, or enjoy coffee with a park view at **Starbucks Shinjuku Gyoen**.
+<strong>📌 Tip:</strong>
+Bring a picnic mat to relax on the grass, or enjoy coffee with a park view at <strong>Starbucks Shinjuku Gyoen</strong>.
 
-🍁 **Shinjuku Gyoen Guide:** For cherry blossom/autumn foliage seasons, opening hours, running courses, and APA Hotel locations, check the guide below.
+🍁 <strong>Shinjuku Gyoen Guide:</strong> For cherry blossom/autumn foliage seasons, opening hours, running courses, and APA Hotel locations, check the guide below.
 
 <p><strong>➡️ <a href="/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;">Shinjuku Gyoen Complete Guide 2025 (Latest Version)</a></strong></p>
 
@@ -112,16 +112,16 @@ Bring a picnic mat to relax on the grass, or enjoy coffee with a park view at **
 <h2>🛍️ Afternoon Course 1: Shinjuku Shopping Conquest</h2>
 
 <h3>🔥 Essential Tip Before Shopping!</h3>
-Before starting your shopping at Shinjuku's department stores, Bic Camera, or Don Quijote, check the **'Discount Coupon Guide'** to save at least 15% on your Japan travel shopping expenses! Make sure to grab all available benefits!
+Before starting your shopping at Shinjuku's department stores, Bic Camera, or Don Quijote, check the <strong>'Discount Coupon Guide'</strong> to save at least 15% on your Japan travel shopping expenses! Make sure to grab all available benefits!
 
 <p><strong>➡️ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Japan Travel Discount Coupons 2025 (Don Quijote, Bic Camera, Department Stores, etc.)</a></strong></p>
 
 <h3>🛍️ Shinjuku Shopping Spots (Department Stores/Specialty Shops)</h3>
 Shinjuku has large department stores with different charms positioned at each exit.
 
-- **East Exit:** The holy land of luxury and latest trends. **Isetan**, **Lumine EST** (Young).
-- **South Exit:** Great for families. **Takashimaya**, Sophisticated **NEWoMan**, **Lumine 1 & 2**.
-- **West Exit:** Famous for food/gifts. **Keio**, Classic **Odakyu**.
+- <strong>East Exit:</strong> The holy land of luxury and latest trends. <strong>Isetan</strong>, <strong>Lumine EST</strong> (Young).
+- <strong>South Exit:</strong> Great for families. <strong>Takashimaya</strong>, Sophisticated <strong>NEWoMan</strong>, <strong>Lumine 1 & 2</strong>.
+- <strong>West Exit:</strong> Famous for food/gifts. <strong>Keio</strong>, Classic <strong>Odakyu</strong>.
 
 <!-- Coupons -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Keio Department Store Coupon (5-6% off for purchases over 3,000 yen)</a></strong></p>
@@ -129,23 +129,23 @@ Shinjuku has large department stores with different charms positioned at each ex
 *(Note: Many brands are excluded from coupons, so check before shopping!)*
 
 <h3>🛍️ Representative Brands & Specialty Stores</h3>
-**Uniqlo, Don Quijote, Kaldi, Muji, Bic Camera**, **Sekaido (Stationery)**, **Kinokuniya (Books)** - it is a shopping paradise with everything.
+<strong>Uniqlo, Don Quijote, Kaldi, Muji, Bic Camera</strong>, <strong>Sekaido (Stationery)</strong>, <strong>Kinokuniya (Books)</strong> - it is a shopping paradise with everything.
 
-**📌 Shinjuku Whiskey Shopping (Liquor Shops)**
-For recommended routes for **Yamaya, Shinanoya, and Bic Camera**, plus price comparisons for Yamazaki/Hibiki/Kavalan and duty-free tips, check the guide below.
+<strong>📌 Shinjuku Whiskey Shopping (Liquor Shops)</strong>
+For recommended routes for <strong>Yamaya, Shinanoya, and Bic Camera</strong>, plus price comparisons for Yamazaki/Hibiki/Kavalan and duty-free tips, check the guide below.
 
 <p><strong>➡️ <a href="/posts/shinjuku-liquor-shops/" style="color: #667eea;">Shinjuku Liquor Shop Recommendation | Yamazaki, Hibiki, Kavalan Price Comparison</a></strong></p>
 
-**📌 Outdoor & Camping Gear Heaven!**
-Shinjuku is home to large outdoor shops like **'Alpen Tokyo'** and **'L-Breath'**. For duty-free shopping info on hot brands like **'Tokyo Crafts'**, check the article below.
+<strong>📌 Outdoor & Camping Gear Heaven!</strong>
+Shinjuku is home to large outdoor shops like <strong>'Alpen Tokyo'</strong> and <strong>'L-Breath'</strong>. For duty-free shopping info on hot brands like <strong>'Tokyo Crafts'</strong>, check the article below.
 
 <p><strong>➡️ <a href="/posts/tokyo-crafts-popup-stores-guide/" style="color: #667eea;">Tokyo Crafts, Snow Peak Outdoor Specialty Stores (Duty-Free, Coupon)</a></strong></p>
 
-**📌 For Stationery Lovers, 'Sekaido' is Essential!**
+<strong>📌 For Stationery Lovers, 'Sekaido' is Essential!</strong>
 
 <p><strong>➡️ <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" style="color: #667eea;">Shinjuku Sekaido Tokyo Stationery Store Shopping List: Membership Card, Tax-Free, Floor Guide</a></strong></p>
 
-**📌 Must-Buy Shopping Items & Discount Coupons**
+<strong>📌 Must-Buy Shopping Items & Discount Coupons</strong>
 
 <p><strong>➡️ <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">Don Quijote Shopping List & Coupon/Tax-Free Guide (Chili Oil, Eye Drops, etc.)</a></strong></p>
 
@@ -219,45 +219,45 @@ Shinjuku is home to large outdoor shops like **'Alpen Tokyo'** and **'L-Breath'*
 
 <h2>🍽️ Afternoon Course 2: Shinjuku Gourmet List (Michelin/Tabelog)</h2>
 
-Shinjuku is a battlefield of restaurants. If you are worried about too many choices, start by attacking verified spots recognized by **Michelin** and **Tabelog**.
+Shinjuku is a battlefield of restaurants. If you are worried about too many choices, start by attacking verified spots recognized by <strong>Michelin</strong> and <strong>Tabelog</strong>.
 
 <h3>👑 Special Occasions & Formal Dining</h3>
 
-**1. Takumi Tatsuhiro (匠 達広)** (East Exit - Gyoen)
-- **Sushi / Michelin 1-Star**
+<strong>1. Takumi Tatsuhiro (匠 達広)</strong> (East Exit - Gyoen)
+- <strong>Sushi / Michelin 1-Star</strong>
 - A place where you can experience Michelin sushi at a reasonable price with weekday lunch sets.
-- **✅ Takumi Tatsuhiro Online Reservation**
+- <strong>✅ Takumi Tatsuhiro Online Reservation</strong>
 
 <p><strong>➡️ <a href="/posts/takumi-tatsuhiro-shinjuku-2025/" style="color: #667eea;">Tokyo Shinjuku Michelin Sushi Takumi Tatsuhiro | Shinjuku Gyoen Lunch Omakase Review</a></strong></p>
 
-**2. Torishige (串焼き 鳥茂)** (South Exit)
-- **Yakitori (Pork Skewers) / Michelin Bib Gourmand, Tabelog 100 Famous Stores (8 years consecutive)**
+<strong>2. Torishige (串焼き 鳥茂)</strong> (South Exit)
+- <strong>Yakitori (Pork Skewers) / Michelin Bib Gourmand, Tabelog 100 Famous Stores (8 years consecutive)</strong>
 - A sanctuary of skewer cuisine boasting 70 years of history. Not typical chicken yakitori, but creative skewers mainly using pore offal.
-- **✅ Torishige Online Reservation**
+- <strong>✅ Torishige Online Reservation</strong>
 
 <h3>🍜 Famous Ramen & Udon</h3>
 
-**1. Menya Sho Main Store (麺屋翔 本店)** (West Exit)
-- **Ramen / Tabelog 100 Famous Stores (2017~2023, 2025)**
+<strong>1. Menya Sho Main Store (麺屋翔 本店)</strong> (West Exit)
+- <strong>Ramen / Tabelog 100 Famous Stores (2017~2023, 2025)</strong>
 - Famous for its clean and deep Shio (Salt) Ramen with chicken base.
 
-**2. Sobahouse Konjiki Hototogisu (金色不如帰)** (East Exit - Gyoen)
-- **Ramen / Tabelog 100 Famous Stores, Former Michelin 1-Star**
+<strong>2. Sobahouse Konjiki Hototogisu (金色不如帰)</strong> (East Exit - Gyoen)
+- <strong>Ramen / Tabelog 100 Famous Stores, Former Michelin 1-Star</strong>
 - World-class ramen featuring clam and sea bream broth with mushroom paste flavor.
 
-**3. Ramen Matsui (RAMEN MATSUI)** (East Exit - Gyoen)
-- **Ramen / Michelin Bib Gourmand, Tabelog 100 Famous Stores (2024)**
+<strong>3. Ramen Matsui (RAMEN MATSUI)</strong> (East Exit - Gyoen)
+- <strong>Ramen / Michelin Bib Gourmand, Tabelog 100 Famous Stores (2024)</strong>
 - Famous for luxurious 'Shio (Salt) Ramen' that maximizes the natural taste of ingredients.
-- **✅ Ramen Matsui Online Reservation**
+- <strong>✅ Ramen Matsui Online Reservation</strong>
 
-**4. Udon Shin (うどん 慎)** (South Exit)
-- **Udon / Tabelog 100 Famous Stores (Multi-year)**
+<strong>4. Udon Shin (うどん 慎)</strong> (South Exit)
+- <strong>Udon / Tabelog 100 Famous Stores (Multi-year)</strong>
 - Feature: The ultimate fresh and chewy texture, with noodles cut and boiled immediately upon order.
 
-**5. Kirimugiya Jinroku (切麦や 甚六)** (East Exit - Gyoen)
-- **Udon / Michelin Bib Gourmand (2023), Tabelog 100 Famous Stores (Multi-year)**
+<strong>5. Kirimugiya Jinroku (切麦や 甚六)</strong> (East Exit - Gyoen)
+- <strong>Udon / Michelin Bib Gourmand (2023), Tabelog 100 Famous Stores (Multi-year)</strong>
 - Feature: Harmony of smooth yet chewy noodles and deep umami broth.
-- **✅ Kirimugiya Jinroku Online Reservation**
+- <strong>✅ Kirimugiya Jinroku Online Reservation</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
@@ -271,22 +271,22 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 
 <h3>🍔 Casual Queuing Lines</h3>
 
-**1. Tokyo Dominica** (East Exit)
-- **Curry / Tabelog 100 Famous Stores**
+<strong>1. Tokyo Dominica</strong> (East Exit)
+- <strong>Curry / Tabelog 100 Famous Stores</strong>
 - Unique and spicy "adult taste" soup curry with black visual.
 
-**📌 Another Tabelog Curry Spot, Epitaph**
+<strong>📌 Another Tabelog Curry Spot, Epitaph</strong>
 
 <p><strong>➡️ <a href="/posts/shinjuku-epitaph-curry-review/" style="color: #667eea;">Shinjuku Keema Curry Gourmet, Epitaph Curry, Tabelog 100, Nakamuraya Comparison</a></strong></p>
 
-**2. Shogun Burger Shinjuku Main Store** (East Exit - Kabukicho)
-- **Hamburger / Tabelog 100 Famous Stores (Multi-year)**
+<strong>2. Shogun Burger Shinjuku Main Store</strong> (East Exit - Kabukicho)
+- <strong>Hamburger / Tabelog 100 Famous Stores (Multi-year)</strong>
 - 100% Wagyu patty's rich juice and smoky flavor make it a masterpiece.
 
-**3. Shokudo Wada (食堂 わた)** (East Exit - Gyoen)
-- **Japanese Home Cooking / Michelin Bib Gourmand**
+<strong>3. Shokudo Wada (食堂 わた)</strong> (East Exit - Gyoen)
+- <strong>Japanese Home Cooking / Michelin Bib Gourmand</strong>
 - Specialized in neat and healthy Japanese home cooking (Obanzai) made with seasonal ingredients.
-- **✅ Shokudo Wada Online Reservation**
+- <strong>✅ Shokudo Wada Online Reservation</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-11.jpg" alt="Shogun Burger Shinjuku">
@@ -295,16 +295,16 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 
 <h3>☕ Cafes & Desserts for a Break</h3>
 
-**1. Cafe Aaliya** (East Exit)
-- **Cafe / Tabelog 100 Famous Stores**
+<strong>1. Cafe Aaliya</strong> (East Exit)
+- <strong>Cafe / Tabelog 100 Famous Stores</strong>
 - Signature menu is the fluffy and soft French Toast that melts in your mouth.
 
-**2. All Seasons Coffee** (East Exit - Gyoen)
-- **Cafe / Tabelog 100 Famous Stores**
+<strong>2. All Seasons Coffee</strong> (East Exit - Gyoen)
+- <strong>Cafe / Tabelog 100 Famous Stores</strong>
 - High-quality specialty coffee brewed by professional baristas and homemade cheesecake.
 
-**3. Oiwake Dango Honpo** (East Exit)
-- **Japanese Sweets / Tabelog 100 Famous Stores**
+<strong>3. Oiwake Dango Honpo</strong> (East Exit)
+- <strong>Japanese Sweets / Tabelog 100 Famous Stores</strong>
 - Traditional dessert shop where you can taste various types of chewy dango.
 
 <p><strong>➡️ <a href="/posts/shinjuku-oiwake-dango-honpo/" style="color: #667eea;">Tokyo's Representative Dango Shop with 300 Years of Tradition ↗</a></strong></p>
@@ -326,10 +326,10 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 <h3>1. Tokyo Metropolitan Government Building Free Observatory</h3>
 A secret spot where you can enjoy Tokyo's million-dollar night view for free.
 From 45 floors up, the panoramic view of Shinjuku's building forest, Tokyo Tower, and Skytree is spectacular.
-The most recommended time is **'1 hour before sunset'**. Don't miss the golden time where you can see the changing sky colors, the red sunset, and finally the jewel-like night view.
+The most recommended time is <strong>'1 hour before sunset'</strong>. Don't miss the golden time where you can see the changing sky colors, the red sunset, and finally the jewel-like night view.
 
-- **Hours:** 9:30 ~ 22:00 (Last entry 21:30)
-- **Closed:** 1st and 3rd Tuesday of every month (If holiday, open and closed next day)
+- <strong>Hours:</strong> 9:30 ~ 22:00 (Last entry 21:30)
+- <strong>Closed:</strong> 1st and 3rd Tuesday of every month (If holiday, open and closed next day)
 - *Closed Dec 29 ~ Jan 3 (Except Jan 1)*
 
 <p><strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;">Tokyo Metro Govt Building Free Observatory Light Show Times, Access, Closed Days, Night View Guide</a></strong></p>
@@ -344,12 +344,12 @@ The most recommended time is **'1 hour before sunset'**. Don't miss the golden t
   <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Free Observatory, Tokyo Metropolitan Government Building - Exterior & Entrance</figcaption>
 </div>
 
-**💡 December Shinjuku Streets are a Light Festival! (2025-2026)**
-Walking with shopping bags, you can meet colorful neon art. The **'Shinjuku Neon Work'** illumination is ongoing from the West Exit to the Govt Building, so enjoy it lightly on your way to dinner after shopping!
+<strong>💡 December Shinjuku Streets are a Light Festival! (2025-2026)</strong>
+Walking with shopping bags, you can meet colorful neon art. The <strong>'Shinjuku Neon Work'</strong> illumination is ongoing from the West Exit to the Govt Building, so enjoy it lightly on your way to dinner after shopping!
 
 <p><strong>➡️ <a href="/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026/" style="color: #667eea;">Shinjuku Neon Work Illumination Review & Course</a></strong></p>
 
-**✨ Dec 31, New Year Countdown at Tokyo Metro Govt Building!**
+<strong>✨ Dec 31, New Year Countdown at Tokyo Metro Govt Building!</strong>
 If you visit Shinjuku at the end of the year, you can enjoy a large-scale New Year countdown event with Hatsune Miku performance and projection mapping instead of the usual night view. (Free advance application required!)
 
 <p><strong>➡️ <a href="/posts/tokyo-countdown-2026/" style="color: #667eea;">Happy New Year Tokyo 2026 Countdown Free Application</a></strong></p>
@@ -360,8 +360,8 @@ If you visit Shinjuku at the end of the year, you can enjoy a large-scale New Ye
 </figure>
 
 <h3>2. Kabukicho & Tokyu Kabukicho Tower Stroll</h3>
-If you want to feel the colorful neon signs and energetic atmosphere, **Kabukicho** is unmissable.
-There are many attractions like the 'Godzilla Head' and iconic red arch. Recently, **'Tokyu Kabukicho Tower'** has established itself as a new landmark.
+If you want to feel the colorful neon signs and energetic atmosphere, <strong>Kabukicho</strong> is unmissable.
+There are many attractions like the 'Godzilla Head' and iconic red arch. Recently, <strong>'Tokyu Kabukicho Tower'</strong> has established itself as a new landmark.
 You can safely enjoy Kabukicho's energy at the food hall, arcade, and cinema inside the tower.
 
 <figure>
@@ -375,14 +375,14 @@ You can safely enjoy Kabukicho's energy at the food hall, arcade, and cinema ins
 </figure>
 
 <h3>3. Omoide Yokocho (Memories Alley)</h3>
-Literally 'Memories Alley', narrow alleys are packed with **Yakitori** shops on both sides. It's a great place to have a cold beer while feeling the Showa era atmosphere.
+Literally 'Memories Alley', narrow alleys are packed with <strong>Yakitori</strong> shops on both sides. It's a great place to have a cold beer while feeling the Showa era atmosphere.
 
 <figure>
   <img src="/images/posts/shinjuku-guide-2025-19.jpg" alt="Omoide Yokocho">
   <figcaption style="font-size: 0.7em; text-align: center;">Omoide Yokocho</figcaption>
 </figure>
 
-**📌 Omoide Yokocho vs Golden Gai, Where to Go?**
+<strong>📌 Omoide Yokocho vs Golden Gai, Where to Go?</strong>
 The atmosphere of the two alleys looks similar but is completely different.
 Cover charge existence, solo drinking difficulty, hunting atmosphere, recommended restaurants (Ramen Nagi)!
 Check the comparison guide below to choose the night course that suits your taste.
@@ -402,7 +402,7 @@ Each shop has a distinct personality with many regulars, and it is also famous a
 
 <h2>💡 Day Trips from Shinjuku (Hakone/Mt. Takao)</h2>
 
-Shinjuku Station is also a key departure point for travel to Tokyo's suburbs. You can go directly to **'Hakone'**, famous for hot springs, using the Odakyu Line, or **'Mt. Takao'**, great for hiking, using the Keio Line. If you stay in Shinjuku for more than one night, planning a day trip is also a good idea.
+Shinjuku Station is also a key departure point for travel to Tokyo's suburbs. You can go directly to <strong>'Hakone'</strong>, famous for hot springs, using the Odakyu Line, or <strong>'Mt. Takao'</strong>, great for hiking, using the Keio Line. If you stay in Shinjuku for more than one night, planning a day trip is also a good idea.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224019480188
@@ -414,13 +414,13 @@ Shinjuku Station is also a key departure point for travel to Tokyo's suburbs. Yo
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Suburb Travel, Hakone</figcaption>
 </figure>
 
-Shinjuku is the best basecamp to leave for **Tokyo's 5 Major Kids Parks** without transfer via 'Busta Shinjuku', 'Keio Line', and 'JR'.
+Shinjuku is the best basecamp to leave for <strong>Tokyo's 5 Major Kids Parks</strong> without transfer via 'Busta Shinjuku', 'Keio Line', and 'JR'.
 
-If you are curious about courses with children starting from Shinjuku like **Disneyland, Sanrio Puroland, Thomas Land**, check the dedicated guide below.
+If you are curious about courses with children starting from Shinjuku like <strong>Disneyland, Sanrio Puroland, Thomas Land</strong>, check the dedicated guide below.
 
 <p><strong>➡️ <a href="/posts/shinjuku-kids-parks-guide/" style="color: #667eea;">With Kids from Shinjuku! How to get to 5 Major Kids Parks (Disney, Sanrio, Thomas)</a></strong></p>
 
-Located 20 minutes by JR Chuo Line is Mitaka Station where **'Ghibli Museum'** is located, so planning it together is also a good method.
+Located 20 minutes by JR Chuo Line is Mitaka Station where <strong>'Ghibli Museum'</strong> is located, so planning it together is also a good method.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035533672
@@ -429,9 +429,9 @@ Located 20 minutes by JR Chuo Line is Mitaka Station where **'Ghibli Museum'** i
 
 <hr class="se-hr">
 
-The complete recommended course for **Shinjuku attractions** covering nature, shopping, gourmet, and night views. Does Shinjuku, which seemed only complex, feel a bit closer now? I hope you enjoy the diverse charms of Shinjuku with this guide.
+The complete recommended course for <strong>Shinjuku attractions</strong> covering nature, shopping, gourmet, and night views. Does Shinjuku, which seemed only complex, feel a bit closer now? I hope you enjoy the diverse charms of Shinjuku with this guide.
 
-**⭐ Related Tokyo Guides**
+<strong>⭐ Related Tokyo Guides</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158

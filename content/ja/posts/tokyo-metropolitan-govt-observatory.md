@@ -78,7 +78,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ## 🌃 45階から見える360度パノラマビュー
 
-**東京都庁展望台は地上202メートルの高さ**から東京の風景を一望できる場所です。
+<strong>東京都庁展望台は地上202メートルの高さ</strong>から東京の風景を一望できる場所です。
 
 方向別にどんなランドマークが見えるか、事前にチェックして行きましょう！
 
@@ -98,7 +98,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ### [南東] 新宿御苑 & 明治神宮
 
-南東方面には都心の中の巨大な緑地、**新宿御苑（公園）**と明治神宮が見えます。
+南東方面には都心の中の巨大な緑地、<strong>新宿御苑（公園）</strong>と明治神宮が見えます。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-06.jpg" alt="新宿御苑ビュー図">
@@ -112,7 +112,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ### [南西] 新宿パークタワー
 
-南西方面には独特なデザインの**新宿パークタワー**と**東京オペラシティ**が目に入ります。
+南西方面には独特なデザインの<strong>新宿パークタワー</strong>と<strong>東京オペラシティ</strong>が目に入ります。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-08.jpg" alt="パークタワービュー図">
@@ -126,7 +126,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ### [西] 富士山（最高のビュー！）
 
-西方面には天気が良ければ**富士山**が見えます！気温が低く視界が良い12月から2月の間に富士山を見られる日が最も多いそうです。
+西方面には天気が良ければ<strong>富士山</strong>が見えます！気温が低く視界が良い12月から2月の間に富士山を見られる日が最も多いそうです。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-10.jpg" alt="富士山ビュー図">
@@ -152,7 +152,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ## 東京スカイガイド
 
-東京都が提供する展望台専用ガイドです。**アプリのインストールは全く必要ありません！**
+東京都が提供する展望台専用ガイドです。<strong>アプリのインストールは全く必要ありません！</strong>
 
 QRコードをスマートフォンで読み取るだけで、日本語で展望台名所の情報をすぐに確認できます！
 
@@ -165,11 +165,11 @@ QRコードをスマートフォンで読み取るだけで、日本語で展望
 
 ## 草間彌生デザイン「おもいでピアノ」（東京都庁南展望台）
 
-**利用時間**
+<strong>利用時間</strong>
 - 午前10:00〜12:00
 - 午後14:00〜16:00
 
-**1人あたり最大5分**まで演奏できます。もう一度弾きたい場合は、列に並び直す必要があります。
+<strong>1人あたり最大5分</strong>まで演奏できます。もう一度弾きたい場合は、列に並び直す必要があります。
 
 2人演奏（デュエット）は可能ですが、演奏途中で他の人が割り込むことは禁止されています。
 
@@ -186,16 +186,16 @@ QRコードをスマートフォンで読み取るだけで、日本語で展望
 
 2025年新宿最高の見どころ！東京都庁第1庁舎東側壁面をキャンバスにして展開される巨大なプロジェクションマッピングショーです。
 
-このショーは**「最大の建築物プロジェクションマッピング」**としてギネス世界記録にも登録されています！
-**GUINNESS WORLD RECORDS™ certification: 13,904.956㎡**
+このショーは<strong>「最大の建築物プロジェクションマッピング」</strong>としてギネス世界記録にも登録されています！
+<strong>GUINNESS WORLD RECORDS™ certification: 13,904.956㎡</strong>
 
 ### 1. ライトショー観覧のコツ
 
-**観覧場所：東京都庁都民広場**（展望台ではなく1階屋外です！）
+<strong>観覧場所：東京都庁都民広場</strong>（展望台ではなく1階屋外です！）
 
-**観覧費用：🌟 無料**
+<strong>観覧費用：🌟 無料</strong>
 
-📌 **コツ！** 展望台で夕日を見てから降りてライトショーを見ると完璧なコースです。
+📌 <strong>コツ！</strong> 展望台で夕日を見てから降りてライトショーを見ると完璧なコースです。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-15.jpg" alt="ライトショーを待つ人々">
@@ -211,7 +211,7 @@ QRコードをスマートフォンで読み取るだけで、日本語で展望
   <figcaption style="font-size: 0.7em; text-align: center;">東京都庁ライトショー年間日程案内</figcaption>
 </figure>
 
-**東京都庁ライトショー年間上映スケジュール表**
+<strong>東京都庁ライトショー年間上映スケジュール表</strong>
 
 | 時間 | 1月 | 2月 | 3月 | 4月 | 5月 | 6月 | 7月 | 8月 | 9月 | 10月 | 11月 | 12月 |
 |------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|------|------|
@@ -229,13 +229,13 @@ QRコードをスマートフォンで読み取るだけで、日本語で展望
 
 季節別に様々なショーが上映され、現在「ゴジラ」「ガンダム」などの特別コラボショーが大人気です！
 
-**TOKYO GODZILLAs**（土・日・祝日）
+<strong>TOKYO GODZILLAs</strong>（土・日・祝日）
 70周年を迎えた「ゴジラ」が東京都庁を襲撃！歴代ゴジラが総出動する圧倒的なフィナーレをお見逃しなく。
 
-**TOKYO GUNDAM IN THE FUTURE**（土・日・祝日）
+<strong>TOKYO GUNDAM IN THE FUTURE</strong>（土・日・祝日）
 東京から宇宙へ向かうスペースエレベーター。戦争兵器ではなく、宇宙開発のために働く「モビルスーツ」の姿を見ることができます。
 
-**PAC-MAN eats TOKYO**（毎日）
+<strong>PAC-MAN eats TOKYO</strong>（毎日）
 東京都庁の建物に巨大な「パックマン」ゲームボードが現れます！
 
 ※この他にも「Ukiyo（浮世絵）」「Aimer」コラボなど様々な作品が上映されます。
@@ -278,9 +278,9 @@ A4出口と直接連結されています。
 
 週末、日没時間には30分以上待つことがあります。
 
-訪問当日、悪天候による**臨時休館**や「リアルタイム混雑度」情報は<a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank" style="color: #667eea;"><strong>東京都庁ホームページ</strong></a>ですぐに確認できます！
+訪問当日、悪天候による<strong>臨時休館</strong>や「リアルタイム混雑度」情報は<a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank" style="color: #667eea;"><strong>東京都庁ホームページ</strong></a>ですぐに確認できます！
 
-**東京観光公式X（Twitter）**
+<strong>東京観光公式X（Twitter）</strong>
 ➡️ @tocho_tenbou (<a href="https://twitter.com/tocho_tenbou" target="_blank" style="color: #667eea;">https://twitter.com/tocho_tenbou</a>)
 
 <figure>

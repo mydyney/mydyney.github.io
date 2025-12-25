@@ -33,9 +33,9 @@ we'll cover everything perfectly.</p>
 
 ## 🔔 'Pavlov's Dog'? Unique Pound Cake Concept
 
-The name 'Pavlov' comes from the famous experiment **'Pavlov's Dog'**.
+The name 'Pavlov' comes from the famous experiment <strong>'Pavlov's Dog'</strong>.
 
-It carries the meaning of **"making cakes so delicious that just hearing the name makes your mouth water."**
+It carries the meaning of <strong>"making cakes so delicious that just hearing the name makes your mouth water."</strong>
 
 With the concept of a charming patisserie encountered on the streets of Paris, it features classic and elegant interiors.
 
@@ -65,12 +65,12 @@ With the concept of a charming patisserie encountered on the streets of Paris, i
 
 The signature menu here is not the dry pound cake we know.
 
-Using minimal flour and adding **'white bean paste (白餡)' instead**, it achieves a moist texture **like yokan (sweet bean jelly)**.
+Using minimal flour and adding <strong>'white bean paste (白餡)' instead</strong>, it achieves a moist texture <strong>like yokan (sweet bean jelly)</strong>.
 
 ### 1. Cake Set (ケーキセット)
 
-**5 Types of Today's Pound Cakes + Drink**
-**2,000 yen (tax excluded)**
+<strong>5 Types of Today's Pound Cakes + Drink</strong>
+<strong>2,000 yen (tax excluded)</strong>
 
 The ultimate 'sampler' menu where you can taste various signature pound cakes from 'Pavlov' all at once.
 
@@ -86,7 +86,7 @@ The ultimate 'sampler' menu where you can taste various signature pound cakes fr
 
 ### 2. French Toast Berry (フレンチトースト)
 
-**1,650 yen (tax excluded)**
+<strong>1,650 yen (tax excluded)</strong>
 
 Luxury French toast with thick brioche bread topped generously with cream and fruits.
 
@@ -97,7 +97,7 @@ Luxury French toast with thick brioche bread topped generously with cream and fr
 
 ### 3. Prosciutto Mozzarella Sandwich (プリンアラモード)
 
-**1,600 yen (tax excluded)**
+<strong>1,600 yen (tax excluded)</strong>
 
 A sweet and salty sandwich perfect for brunch.
 
@@ -110,26 +110,26 @@ A sweet and salty sandwich perfect for brunch.
 
 ## 📌 Must Read Before Visiting! (Reservations, Important Notes)
 
-**⏰ Hours:**
-**11:00 AM - 7:00 PM**
+<strong>⏰ Hours:</strong>
+<strong>11:00 AM - 7:00 PM</strong>
 (L.O. 18:00)
 
-**🗓️ Closed:** Every Monday
+<strong>🗓️ Closed:</strong> Every Monday
 (If Monday is a holiday, closed the next weekday)
 
-**🚃 Access:**
+<strong>🚃 Access:</strong>
 Minatomirai Line
-**'Motomachi-Chukagai Station'**
-**Exit 3**, 1-minute walk
+<strong>'Motomachi-Chukagai Station'</strong>
+<strong>Exit 3</strong>, 1-minute walk
 
-**💳 Payment:** Credit cards accepted
+<strong>💳 Payment:</strong> Credit cards accepted
 (Electronic money and QR payments not accepted)
 
-**⚠️ [Important] Visit Tips:**
+<strong>⚠️ [Important] Visit Tips:</strong>
 - No cafe seat reservations (waiting required)
 - Strollers not allowed due to space
-- **1 order per person required**
-- **(Drinks count as 1 order)**
+- <strong>1 order per person required</strong>
+- <strong>(Drinks count as 1 order)</strong>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.4423658,139.6493223&hl=en&z=17&output=embed"
@@ -158,11 +158,11 @@ Minatomirai Line
 
 If you only have pound cake at 'Pavlov' cafe and leave, you'll really regret it!
 
-Right next door is **'Mrs. Pavlov Bakery'**, a **croissant specialty bakery** made with the patissier's sincere passion.
+Right next door is <strong>'Mrs. Pavlov Bakery'</strong>, a <strong>croissant specialty bakery</strong> made with the patissier's sincere passion.
 
-Using **100% French cultured butter** is just the basics!
+Using <strong>100% French cultured butter</strong> is just the basics!
 
-From basic plain croissants, to 'meal croissants' prepared like cooking, to jewel-like gorgeous **'sweets (dessert) croissants'**, you can take out various croissants.
+From basic plain croissants, to 'meal croissants' prepared like cooking, to jewel-like gorgeous <strong>'sweets (dessert) croissants'</strong>, you can take out various croissants.
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="Mrs. Pavlov Bakery's gorgeous croissant showcase">
@@ -183,12 +183,12 @@ From basic plain croissants, to 'meal croissants' prepared like cooking, to jewe
 ### 🚶‍♂️ 5-Minute Walk! Gourmet Paradise, Yokohama Chinatown
 
 If you've had sweet desserts, now it's time to taste savory dim sum or mapo tofu in 'Chinatown'!
-**➡️ [Chinatown Restaurant 'Keitokuchin' (Mapo Tofu)](/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
+<strong>➡️ [Chinatown Restaurant 'Keitokuchin' (Mapo Tofu)](/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)</strong>
 
 ### 🚶‍♂️ 10-Minute Akaishutsu Bus! Romantic Waterfront, Akarenga Warehouse
 
 Enjoy a walk around 'Akarenga Warehouse'.
-**➡️ [Yokohama One-Day Course Complete Guide (Akarenga Warehouse, Chinatown)](#)**<!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
+<strong>➡️ [Yokohama One-Day Course Complete Guide (Akarenga Warehouse, Chinatown)](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
 
 ---
 
@@ -196,11 +196,11 @@ Enjoy a walk around 'Akarenga Warehouse'.
 
 Check out the perfect Yokohama one-day recommended course to fully enjoy Yokohama landmarks!
 
-**➡️ [Yokohama One-Day Course Chinatown Restaurants, Akarenga Soko, Night View Spots Complete Guide](#)**<!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
+<strong>➡️ [Yokohama One-Day Course Chinatown Restaurants, Akarenga Soko, Night View Spots Complete Guide](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
 
 ---
 
-**"A name that makes your mouth water"**
+<strong>"A name that makes your mouth water"</strong>
 
 Pavlov Cafe offers not just sweets, but a special experience of Yokohama's charm. With Tabelog Top 100 recognition for 5 consecutive years, unique pound cakes, elegant atmosphere, and the neighboring Mrs. Pavlov Bakery, it's the perfect destination for your Yokohama cafe tour.
 

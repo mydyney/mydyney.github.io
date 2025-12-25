@@ -23,7 +23,7 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 前言
 
-如果在东京市中心找治愈散步地，**日比谷公园**就对了。
+如果在东京市中心找治愈散步地，<strong>日比谷公园</strong>就对了。
 
 从跑步路线到红叶・夜景、餐厅・节日，只精选2025年最新信息整理好了。
 
@@ -38,22 +38,22 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 1. 大楼森林中的秋天、日比谷公园信息
 
-日比谷公园是1903年开园的**日本首座西洋式现代公园**，自然・建筑・文化和谐的东京代表散步名所。紧邻银座和东京中城日比谷，旅途中小憩也是完美位置。
+日比谷公园是1903年开园的<strong>日本首座西洋式现代公园</strong>，自然・建筑・文化和谐的东京代表散步名所。紧邻银座和东京中城日比谷，旅途中小憩也是完美位置。
 
-- **规模:** 约16.2公顷 (东京巨蛋约4个大小)
-- **门票:** 免费
-- **开放时间:** 全天开放
-- **服务中心:** 8:30~17:30 (年末年初休息)
+- <strong>规模:</strong> 约16.2公顷 (东京巨蛋约4个大小)
+- <strong>门票:</strong> 免费
+- <strong>开放时间:</strong> 全天开放
+- <strong>服务中心:</strong> 8:30~17:30 (年末年初休息)
 
-**🚇 交通方式**
+<strong>🚇 交通方式</strong>
 
-**日比谷站**是**东京地铁日比谷线(H)**和**千代田线(C)**交汇的交通枢纽。
+<strong>日比谷站</strong>是<strong>东京地铁日比谷线(H)</strong>和<strong>千代田线(C)</strong>交汇的交通枢纽。
 
-- **东京地铁日比谷站** A10・A14出口:步行约2分钟 (与公园入口直连)
-- **东京地铁霞关站**: 步行约3分钟
-- **JR有乐町站**: 步行约8分钟
+- <strong>东京地铁日比谷站</strong> A10・A14出口:步行约2分钟 (与公园入口直连)
+- <strong>东京地铁霞关站</strong>: 步行约3分钟
+- <strong>JR有乐町站</strong>: 步行约8分钟
 
-**📌 Mate's Tip:** 日比谷公园在东京地铁覆盖区域内。**东京地铁票券**或**Suica/PASMO**卡都能用!
+<strong>📌 Mate's Tip:</strong> 日比谷公园在东京地铁覆盖区域内。<strong>东京地铁票券</strong>或<strong>Suica/PASMO</strong>卡都能用!
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6736115,139.7558769&hl=zh-cn&z=17&output=embed"
@@ -80,15 +80,15 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 2. 推荐散步・移动路线3选 🚶
 
-**1️⃣ 治愈路线｜银座 → 日比谷公园南口散步(步行10分钟)**
+<strong>1️⃣ 治愈路线｜银座 → 日比谷公园南口散步(步行10分钟)</strong>
 
 购物后直连公园的从容散步路线。
 
-**2️⃣ 跑步路线｜皇居跑5公里 + 日比谷公园冷却**
+<strong>2️⃣ 跑步路线｜皇居跑5公里 + 日比谷公园冷却</strong>
 
 皇居外围跑完在公园长椅拉伸完美收尾。
 
-**3️⃣ 夜景路线｜东京中城日比谷 → 夜景散步**
+<strong>3️⃣ 夜景路线｜东京中城日比谷 → 夜景散步</strong>
 
 电影院・购物后直接延续的公园夜景路线。
 
@@ -160,10 +160,10 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 日比谷公园是从跑步入门者到皇居跑狂热者都喜欢的路线。
 
-- **公园内部1圈:** 约1.5公里
-- **皇居外围跑:** 约5公里
+- <strong>公园内部1圈:</strong> 约1.5公里
+- <strong>皇居外围跑:</strong> 约5公里
 
-**推荐跑步流程:**
+<strong>推荐跑步流程:</strong>
 1. 日比谷公园热身1公里
 2. 皇居5公里主要跑步
 3. 日比谷公园长椅冷却拉伸
@@ -177,19 +177,19 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 5. 日比谷公园季节看点
 
-**🌸 春天**
+<strong>🌸 春天</strong>
 
 樱花・郁金香・山茱萸让整个公园染成粉彩色调。
 
-**🌳 夏天**
+<strong>🌳 夏天</strong>
 
 玫瑰・绣球花、浓绿、喷泉周边凉爽氛围有魅力。
 
-**🍁 秋天**
+<strong>🍁 秋天</strong>
 
 银杏・枫树染成黄色和红色的东京红叶名所。特别是S字形林荫道和云形池是人气点!
 
-**🎄 冬天**
+<strong>🎄 冬天</strong>
 
 公园本身的静谧灯光加上东京中城日比谷的灯光秀，华丽夜景自豪。
 
@@ -243,7 +243,7 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /zh-cn/posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025明治神宫外苑圣诞集市门票・马克杯特典</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025明治神宫外苑圣诞集市门票・马克杯特典</strong></a>
 
 <figure>
   <img src="/images/posts/hibiya-park-tokyo-guide-12.jpg" alt="在东京市中心正中央遇见的日比谷公园秋天风景">
@@ -265,10 +265,18 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /zh-cn/posts/hibiya-midtown-illumination-2025/
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025东京中城日比谷灯光秀・疯狂动物城2联动</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025东京中城日比谷灯光秀・疯狂动物城2联动</strong></a>
 
 <!-- TODO: Update link after migration
-**➡️** <a href="/zh-cn/posts/ginza-guide-2025/" style="color: #667eea;"><strong>银座推荐景点・零失误购物・美食・路线完全攻略</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/ginza-guide-2025/" style="color: #667eea;"><strong>银座推荐景点・零失误购物・美食・路线完全攻略</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224093593124" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 
 <div class="editors-note">

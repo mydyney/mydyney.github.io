@@ -30,7 +30,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 ## 🍡 寻找有传统味道的新宿甜点吗？
 
-如果寻找拥有300年传统的新宿甜点店，**追分团子本铺（Oiwake Dango Honpo）**是从江户时代延续至今的东京代表性团子专门店。
+如果寻找拥有300年传统的新宿甜点店，<strong>追分团子本铺（Oiwake Dango Honpo）</strong>是从江户时代延续至今的东京代表性团子专门店。
 
 Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"正宗"的传统日式点心，这里就是答案。
 
@@ -45,7 +45,7 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
   <figcaption style="font-size: 0.7em; text-align: center;">新宿团子店 追分团子本铺 — 300年传统日式点心、御手洗团子和红豆团子推荐</figcaption>
 </figure>
 
-**📍位置：** 新宿三丁目站C1出口正前方 **（伊势丹百货对面）**
+<strong>📍位置：</strong> 新宿三丁目站C1出口正前方 <strong>（伊势丹百货对面）</strong>
 
 ---
 
@@ -60,7 +60,7 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
 
 如果不知道选什么，试试这3种 👇
 
-**1️⃣ 御手洗团子（みたらし团子）**
+<strong>1️⃣ 御手洗团子（みたらし团子）</strong>
 
 甜咸酱油汁的基本招牌菜单。刚烤好的年糕Q弹口感极佳。
 
@@ -69,10 +69,10 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
   <figcaption style="font-size: 0.7em; text-align: center;">新宿团子店御手洗团子 — 甜咸酱油与刚烤年糕的口感</figcaption>
 </figure>
 
-**2️⃣ 颗粒红豆馅 / 细红豆馅（红豆团子）**
+<strong>2️⃣ 颗粒红豆馅 / 细红豆馅（红豆团子）</strong>
 
-- **细红豆馅（こしあん）：** 顺滑红豆馅
-- **颗粒红豆馅（つぶあん）：** 颗粒红豆馅
+- <strong>细红豆馅（こしあん）：</strong> 顺滑红豆馅
+- <strong>颗粒红豆馅（つぶあん）：</strong> 颗粒红豆馅
 
 红豆品质高，有高雅细腻的甜味。
 
@@ -86,7 +86,7 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
   <figcaption style="font-size: 0.7em; text-align: center;">新宿追分团子红豆团子 — 细红豆馅和颗粒红豆馅对比</figcaption>
 </div>
 
-**3️⃣ 季节限定团子**
+<strong>3️⃣ 季节限定团子</strong>
 
 春季樱花、秋季栗子、柚子、生姜团子。每个季节都有限定菜单，访问时请查看。
 
@@ -103,9 +103,9 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
 
 咖啡除了团子套餐外，还有：
 
-- **蜜豆（あんみつ）：** 北海道产红豆和时令水果
-- **乡村红豆汤（田舎しるこ）：** 传统甜红豆汤和香脆烤年糕
-- **刨冰：** 夏季限定
+- <strong>蜜豆（あんみつ）：</strong> 北海道产红豆和时令水果
+- <strong>乡村红豆汤（田舎しるこ）：</strong> 传统甜红豆汤和香脆烤年糕
+- <strong>刨冰：</strong> 夏季限定
 
 可以享用这些。购物途中休息的最佳新宿甜点地点。
 
@@ -129,13 +129,13 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
 
 ## 5. 位置和营业时间
 
-**🚇 最近车站：** 丸之内线M·新宿线S·副都心线F「新宿三丁目站」C1出口正前方
+<strong>🚇 最近车站：</strong> 丸之内线M·新宿线S·副都心线F「新宿三丁目站」C1出口正前方
 
-**🕓 团子店：** 10:30~19:00（售完即提前关店）
+<strong>🕓 团子店：</strong> 10:30~19:00（售完即提前关店）
 
-**☕ 咖啡营业时间：** 平日 12:00~18:00 / 周末节假日 11:30~18:00（LO 17:30）
+<strong>☕ 咖啡营业时间：</strong> 平日 12:00~18:00 / 周末节假日 11:30~18:00（LO 17:30）
 
-**❌ 休息日：** 1月1日、1月2日
+<strong>❌ 休息日：</strong> 1月1日、1月2日
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6905041,139.7053647&hl=zh-CN&z=17&output=embed"
@@ -159,59 +159,67 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
 
 柔软的年糕、甜咸酱油、精致的包装 — 300年的传统绝非偶然。
 
-**⭐ 新宿旅行攻略系列**
+<strong>⭐ 新宿旅行攻略系列</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
      Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
-**<a href="#" style="color: #667eea;">新宿完全观光攻略 ↗</a>**
+<strong><a href="#" style="color: #667eea;">新宿完全观光攻略 ↗</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/tokyo-metropolitan-govt-observatory
      Hugo: /zh-cn/posts/tokyo-metropolitan-govt-observatory/ -->
-**➡️ <a href="#" target="_blank">东京都厅免费展望台灯光秀时间、休息日、新宿夜景技巧 ↗</a>**
+<strong>➡️ <a href="#" target="_blank">东京都厅免费展望台灯光秀时间、休息日、新宿夜景技巧 ↗</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-golden-gai-vs-omoide-yokocho
      Hugo: /zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/ -->
-**➡️ <a href="#" target="_blank">新宿黄金街 vs 回忆横丁 完全对比 ↗</a>**
+<strong>➡️ <a href="#" target="_blank">新宿黄金街 vs 回忆横丁 完全对比 ↗</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-kids-parks-guide
      Hugo: /zh-cn/posts/shinjuku-kids-parks-guide/ -->
-**➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式 ↗</a>**
+<strong>➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式 ↗</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-to-disneyland-bus-guide
      Hugo: /zh-cn/posts/shinjuku-to-disneyland-bus-guide/ -->
-**➡️ <a href="#" target="_blank">新宿到迪士尼乐园交通完全攻略 ↗</a>**
+<strong>➡️ <a href="#" target="_blank">新宿到迪士尼乐园交通完全攻略 ↗</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-sekaido-stationery-shopping-guide
      Hugo: /zh-cn/posts/shinjuku-sekaido-stationery-shopping-guide/ -->
-**➡️ <a href="#" target="_blank">新宿世界堂 东京文具店 会员卡、免税攻略 ↗</a>**
+<strong>➡️ <a href="#" target="_blank">新宿世界堂 东京文具店 会员卡、免税攻略 ↗</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914223908
      Hugo: /zh-cn/posts/shinjuku-udon-guide/ -->
-**<a href="#" style="color: #667eea;">新宿乌冬面店 切麦屋甚六 米其林乌冬面↗</a>**
+<strong><a href="#" style="color: #667eea;">新宿乌冬面店 切麦屋甚六 米其林乌冬面↗</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-epitaph-curry-review
      Hugo: /zh-cn/posts/shinjuku-epitaph-curry-review/ -->
-**➡️ <a href="#" target="_blank">新宿咖喱饭店 Epitaph Curry ↗</a>**
+<strong>➡️ <a href="#" target="_blank">新宿咖喱饭店 Epitaph Curry ↗</a></strong>
 
 💡 想看银座甜点礼品吗？
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223694645793
      Hugo: /zh-cn/posts/ginza-akebono-strawberry-mochi/ -->
-**<a href="#" style="color: #667eea;">东京银座草莓大福、曙银座旗舰店 ↗</a>**
+<strong><a href="#" style="color: #667eea;">东京银座草莓大福、曙银座旗舰店 ↗</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025044772
      Hugo: /zh-cn/posts/ginza-kuya-monaka-reservation-guide/ -->
-**<a href="#" style="color: #667eea;">送给东京长辈的礼品，不知道选什么就选银座空也最中 ↗</a>**
+<strong><a href="#" style="color: #667eea;">送给东京长辈的礼品，不知道选什么就选银座空也最中 ↗</a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224068891338" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 
 <div class="editors-note">

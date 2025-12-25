@@ -32,7 +32,7 @@ we'll cover everything perfectly.</p>
 
 Yokohama has its own unique 'katsuretsu (cutlet)' culture, different from Tokyo.
 
-Since its founding in 1927 (Showa 2), Katsuretsuan has reinterpreted Western-style cutlets into a Japanese style, giving birth to **'Yokohama Katsuretsu'**.
+Since its founding in 1927 (Showa 2), Katsuretsuan has reinterpreted Western-style cutlets into a Japanese style, giving birth to <strong>'Yokohama Katsuretsu'</strong>.
 
 It's so iconic that locals call it "the taste of Yokohama."
 
@@ -49,7 +49,7 @@ The taste here comes down to two key elements.
 
 ### 1. Secret Traditional Sauce
 
-Vegetables and fruits are **boiled for two days** and **aged overnight** to create a deep, rich original sauce that is the heart of Katsuretsuan.
+Vegetables and fruits are <strong>boiled for two days</strong> and <strong>aged overnight</strong> to create a deep, rich original sauce that is the heart of Katsuretsuan.
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-03.jpg" alt="Katsuretsuan special sauce">
@@ -69,18 +69,18 @@ Using homemade 'fresh breadcrumbs', the coating is light and crispy, while the m
 
 ## 🍚 Menu & Unlimited Refills
 
-All 'set meals' include **unlimited refills of rice, cabbage, and shijimi (clam) miso soup**!
+All 'set meals' include <strong>unlimited refills of rice, cabbage, and shijimi (clam) miso soup</strong>!
 
 Katsuretsu is a fully cooked Western-style dish, featuring a crispy exterior with tender, light-flavored meat inside.
 
-**Hire Katsu Set (ヒレかつ定食): 2,200 yen (Tender Pork Tenderloin Katsuretsu)**
+<strong>Hire Katsu Set (ヒレかつ定食): 2,200 yen (Tender Pork Tenderloin Katsuretsu)</strong>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-05.jpg" alt="Hire Katsu Set with tenderloin katsuretsu and cabbage">
   <figcaption style="font-size: 0.7em; text-align: center;">Hire Katsu Set - Tenderloin Katsuretsu with Cabbage</figcaption>
 </figure>
 
-**Rosu Katsu Set (ロースかつ定食): 2,200 yen (Rich Pork Loin Katsuretsu)**
+<strong>Rosu Katsu Set (ロースかつ定食): 2,200 yen (Rich Pork Loin Katsuretsu)</strong>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-06.jpg" alt="Rosu Katsu Set with pork loin katsuretsu">
@@ -98,7 +98,7 @@ Katsuretsu is a fully cooked Western-style dish, featuring a crispy exterior wit
 
 Katsuretsuan is not just a restaurant, but a small art space.
 
-World-renowned woodblock artist **Munakata Shiko (棟方志功)** personally wrote the signboard calligraphy, and his woodblock prints are displayed inside the restaurant.
+World-renowned woodblock artist <strong>Munakata Shiko (棟方志功)</strong> personally wrote the signboard calligraphy, and his woodblock prints are displayed inside the restaurant.
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-08.jpg" alt="Katsuretsuan entrance with Munakata Shiko's calligraphy signboard">
@@ -113,10 +113,10 @@ There are 3 locations total in Yokohama and Kamakura.
 
 ### 1. Bashamichi Main Store (馬車道総本店)
 
-**Hours:** 11:00 - 21:30 (L.O 21:00)
-**Closed:** Open year-round
-**Payment:** Credit cards accepted
-**Access:** 1-minute walk from Bashamichi Station / 5-minute walk from JR Kannai Station
+<strong>Hours:</strong> 11:00 - 21:30 (L.O 21:00)
+<strong>Closed:</strong> Open year-round
+<strong>Payment:</strong> Credit cards accepted
+<strong>Access:</strong> 1-minute walk from Bashamichi Station / 5-minute walk from JR Kannai Station
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.4471428,139.634889&hl=en&z=17&output=embed"
@@ -180,15 +180,15 @@ Directly connected to Yokohama Station West Exit. Best accessibility!
 
 The 'Bashamichi Main Store' is at the center of a Yokohama one-day trip course. After your meal, enjoy these nearby attractions too 👇
 
-**👉 [Yokohama One-Day Itinerary Complete Guide (Chinatown, Night Views)](/posts/yokohama-one-day-itinerary/)**<!-- TODO: Link updated, verify migration -->
+<strong>👉 [Yokohama One-Day Itinerary Complete Guide (Chinatown, Night Views)](/posts/yokohama-one-day-itinerary/)</strong><!-- TODO: Link updated, verify migration -->
 <br>
-**👉 [Yokohama Budget Transport Pass: Minato Burari Ticket](#)**<!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide -->
+<strong>👉 [Yokohama Budget Transport Pass: Minato Burari Ticket](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide -->
 <br>
-**👉 [Yokohama Chinatown Restaurant 'Keitokuchin' (Mapo Tofu)](/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
+<strong>👉 [Yokohama Chinatown Restaurant 'Keitokuchin' (Mapo Tofu)](/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)</strong>
 
 ---
 
-**"90 years of tradition, one bite of perfection"**
+<strong>"90 years of tradition, one bite of perfection"</strong>
 
 Katsuretsuan offers not just a meal, but a taste of Yokohama's history and culture. With special sauce aged overnight, unlimited rice and cabbage, and an artistic atmosphere, it's the perfect destination for your Yokohama trip.
 

@@ -29,7 +29,7 @@ All organized in one place.</p>
 
 The first decision: Tokyo Disneyland or Tokyo DisneySea?
 
-**Bottom line:** "Disneyland with kids, DisneySea for adults" generally provides the highest satisfaction.
+<strong>Bottom line:</strong> "Disneyland with kids, DisneySea for adults" generally provides the highest satisfaction.
 
 <table class="schedule-table">
 <thead>
@@ -87,63 +87,63 @@ The first decision: Tokyo Disneyland or Tokyo DisneySea?
 
 ### ① [Must Read] Variable Pricing & Booking Tips
 
-**✅ Variable Pricing System**
+<strong>✅ Variable Pricing System</strong>
 - Prices vary by date and crowd level
 - Check official calendar for most accurate date-specific pricing
 - Example: Adult 7,900 yen ~ 10,900 yen
 
-**✅ Purchase Methods**
+<strong>✅ Purchase Methods</strong>
 - On-site ticket booths discontinued!
 - Online booking recommended
 - Use official website/app or Korean-supported platforms
 
-**✅ Cancellation & Changes**
+<strong>✅ Cancellation & Changes</strong>
 - No refunds for simple change of mind
 - (However, date changes within validity period allowed)
 
-**✅ Booking Opens**
+<strong>✅ Booking Opens</strong>
 - Available from 2 months before visit date
 
 ### ② Ticket Types (1-Day vs Afternoon Passes)
 
-**✅ 1-Day Passport (All Day)**
+<strong>✅ 1-Day Passport (All Day)</strong>
 - Full day from opening to closing
 - Adult: 7,900 yen ~ 10,900 yen
 - Junior High/High School: 6,600 yen ~ 9,000 yen
 - Child/Elementary: 4,700 yen ~ 5,600 yen
 - (※ Free for ages 3 and under)
 
-**✅ Afternoon Passes (Best Value!)**
+<strong>✅ Afternoon Passes (Best Value!)</strong>
 Two types: weekday and holiday
 
-**① Early Evening Passport (Holiday 3PM Entry)**
-- Target: **Holidays** (Sat/Sun/Public Holidays)
-- Time: Entry from **3:00 PM (15:00)**
+<strong>① Early Evening Passport (Holiday 3PM Entry)</strong>
+- Target: <strong>Holidays</strong> (Sat/Sun/Public Holidays)
+- Time: Entry from <strong>3:00 PM (15:00)</strong>
 - Adult: 6,500 yen ~ 8,700 yen
 
-**② Weeknight Passport (Weekday 5PM Entry)**
-- Target: **Weekdays** (excluding public holidays)
-- Time: Entry from **5:00 PM (17:00)**
+<strong>② Weeknight Passport (Weekday 5PM Entry)</strong>
+- Target: <strong>Weekdays</strong> (excluding public holidays)
+- Time: Entry from <strong>5:00 PM (17:00)</strong>
 - All ages: 4,500 yen ~ 6,200 yen
 
-**✅ [Limited Period] 1-Day Park Hopper Passport**
+<strong>✅ [Limited Period] 1-Day Park Hopper Passport</strong>
 - Stay at designated park until 11AM
 - From 11AM, freely hop between Land and Sea
-- **Adult: 14,500 yen ~ 18,900 yen**
-- **Period: January 13 (Tue) ~ March 31 (Tue), 2026**
+- <strong>Adult: 14,500 yen ~ 18,900 yen</strong>
+- <strong>Period: January 13 (Tue) ~ March 31 (Tue), 2026</strong>
 - (※ Limited sales from November 13, 2025 at 2:00 PM)
 
 ### ③ Online Ticket Purchase Methods
 
-**✅ Disney Official Website/App:**
+<strong>✅ Disney Official Website/App:</strong>
 Most reliable, but may have overseas payment difficulties
-**➡️ [Buy tickets on official site](https://plan.tokyodisneyresort.jp/2/4/?lang=en)**
+<strong>➡️ [Buy tickets on official site](https://plan.tokyodisneyresort.jp/2/4/?lang=en)</strong>
 
-**✅ Klook (Most Recommended!)**
+<strong>✅ Klook (Most Recommended!)</strong>
 - Korean language support, KRW payment, convenient
 - Often cheaper than official site with discount coupons
 - Instant QR code issuance, just show QR at entry!
-**➡️ [Buy Disneyland tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F)**
+<strong>➡️ [Buy Disneyland tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-03.jpg" alt="Klook app Tokyo Disneyland ticket search">
@@ -160,17 +160,17 @@ Most reliable, but may have overseas payment difficulties
 
 ## 3. Essential! How to Skip Lines at Disneyland: DPA vs 40th Anniversary Pass
 
-As of 2025, Disney Resort fast passes come in **two types: 'paid' and 'free'**.
+As of 2025, Disney Resort fast passes come in <strong>two types: 'paid' and 'free'</strong>.
 
 ### ① [Paid] Disney Premier Access (DPA)
 
 Pay to reduce wait times.
 
-**Price:** Paid
-**Time Selection:** Choose desired time
-**Issuance Condition:** First-come, first-served
-**Issuance Interval:** Additional issuance after 60 minutes
-**Purchase Method:** Disney App
+<strong>Price:</strong> Paid
+<strong>Time Selection:</strong> Choose desired time
+<strong>Issuance Condition:</strong> First-come, first-served
+<strong>Issuance Interval:</strong> Additional issuance after 60 minutes
+<strong>Purchase Method:</strong> Disney App
 
 <table class="schedule-table">
 <thead>
@@ -213,11 +213,11 @@ Center of the Earth 1,500 yen
 
 Free fast pass distributed to celebrate 40th anniversary!
 
-**Price:** Free
-**Time Selection:** Not possible (automatically assigned)
-**Issuance Condition:** First-come, first-served
-**Issuance Interval:** Additional issuance after 120 minutes
-**Purchase Method:** Disney App
+<strong>Price:</strong> Free
+<strong>Time Selection:</strong> Not possible (automatically assigned)
+<strong>Issuance Condition:</strong> First-come, first-served
+<strong>Issuance Interval:</strong> Additional issuance after 120 minutes
+<strong>Purchase Method:</strong> Disney App
 
 <table class="schedule-table">
 <thead>
@@ -259,38 +259,38 @@ Magic Lamp Theater (Arabian Coast)<br>
 
 ### ③ Winning Strategy Tips!
 
-**🕗 Before Entry**
+<strong>🕗 Before Entry</strong>
 - Arrive 30 minutes before opening (9:00 AM entry)
 - Entry time significantly affects first pass issuance time
 
-**🕘 STEP 1: Immediately upon entry, secure 1 Priority Pass**
+<strong>🕘 STEP 1: Immediately upon entry, secure 1 Priority Pass</strong>
 
-**🕙 STEP 2: Ride other attractions meanwhile**
+<strong>🕙 STEP 2: Ride other attractions meanwhile</strong>
 - Check app for wait times
 - Quickly ride attractions with shorter waits
 
-**🕛 STEP 3: Immediately issue additional pass after 120 minutes**
+<strong>🕛 STEP 3: Immediately issue additional pass after 120 minutes</strong>
 - Regardless of first pass usage
 - Additional pass available 120 minutes later
-- **Set alarm and keep securing free passes!!**
+- <strong>Set alarm and keep securing free passes!!</strong>
 - Example: 9:00 issuance → Next pass after 11:00
 
-**🕒 STEP 4: Repeat above process**
+<strong>🕒 STEP 4: Repeat above process</strong>
 - Use DPA (paid) for popular attractions
 
 ---
 
 ## 4. How to Watch Shows & Parades (DPA vs Entry Lottery)
 
-Two ways to get good seats for shows: **paid (DPA)** and **free (Entry Application)**.
+Two ways to get good seats for shows: <strong>paid (DPA)</strong> and <strong>free (Entry Application)</strong>.
 
 ### ① [Paid] Disney Premier Access (DPA)
 
-Pay to **reserve designated good seats/viewing areas** - a **paid service**.
+Pay to <strong>reserve designated good seats/viewing areas</strong> - a <strong>paid service</strong>.
 
-**Purchase via official app after Disneyland entry**
+<strong>Purchase via official app after Disneyland entry</strong>
 
-**2,500 yen per show**
+<strong>2,500 yen per show</strong>
 
 <table class="schedule-table">
 <thead>
@@ -320,14 +320,14 @@ Dreams Take Flight (Lost River Delta)
 
 ### ② [Free] Entry Lottery
 
-**Free lottery** for designated show seats.
+<strong>Free lottery</strong> for designated show seats.
 
-**1 application per facility per day**
-**Assigned seating if selected (lottery system with possible non-selection!)**
+<strong>1 application per facility per day</strong>
+<strong>Assigned seating if selected (lottery system with possible non-selection!)</strong>
 
-Apply via **official app** after Disneyland entry
+Apply via <strong>official app</strong> after Disneyland entry
 
-**Application deadline: 45 minutes before each show starts**
+<strong>Application deadline: 45 minutes before each show starts</strong>
 
 <table class="schedule-table">
 <thead>
@@ -362,16 +362,16 @@ Dreams Take Flight (Lost River Delta)
 
 ### ③ [Winning Tips] Strategy?
 
-**"Immediately upon entry, apply for all 'Entry (free)' lotteries first!"**
+<strong>"Immediately upon entry, apply for all 'Entry (free)' lotteries first!"</strong>
 
-**[Immediately Upon Entry] (Free Lottery)**
-Apply for **ALL** shows
+<strong>[Immediately Upon Entry] (Free Lottery)</strong>
+Apply for <strong>ALL</strong> shows
 
-**[If Selected] 🎉 Congratulations!**
+<strong>[If Selected] 🎉 Congratulations!</strong>
 Free reserved seating viewing
 
-**[If Not Selected] 😭 If you must see this show!**
-Then **purchase with DPA (paid)**
+<strong>[If Not Selected] 😭 If you must see this show!</strong>
+Then <strong>purchase with DPA (paid)</strong>
 
 ---
 
@@ -381,12 +381,12 @@ Ways to reduce restaurant wait times.
 
 ### ① PS (Priority Seating)
 
-PS means restaurant **'priority entry reservation'**.
+PS means restaurant <strong>'priority entry reservation'</strong>.
 Essential for relaxed seated dining with short wait time.
 
-**Available from 1 month before visit at 10:00 AM**
+<strong>Available from 1 month before visit at 10:00 AM</strong>
 via official app/website - reservation competition begins.
-**📌Tip!** Additional slots open at 9:00 AM on visit day - retry!
+<strong>📌Tip!</strong> Additional slots open at 9:00 AM on visit day - retry!
 
 <table class="schedule-table">
 <thead>
@@ -418,10 +418,10 @@ Horizon Bay Restaurant (Port Discovery)
 
 ### ② Disney Mobile Order
 
-**✔️** After entry, select **'Mobile Order'** in app
-**✔️** Choose desired restaurant and **'visit time'**
-**✔️** Select menu and pay
-**✔️** Pick up at designated time!
+<strong>✔️</strong> After entry, select <strong>'Mobile Order'</strong> in app
+<strong>✔️</strong> Choose desired restaurant and <strong>'visit time'</strong>
+<strong>✔️</strong> Select menu and pay
+<strong>✔️</strong> Pick up at designated time!
 
 <table class="schedule-table">
 <thead>
@@ -488,22 +488,22 @@ Nautilus Galley (Mysterious Island)
 
 Buy souvenirs all at once at the largest shop just before exiting.
 
-**🏰 Disneyland**
-**Grand Emporium**: Largest merchandise shop in park
-**Town Center Fashions**: Largest apparel shop in park
-**World Bazaar Confectionery**: Largest sweets shop in park
+<strong>🏰 Disneyland</strong>
+<strong>Grand Emporium</strong>: Largest merchandise shop in park
+<strong>Town Center Fashions</strong>: Largest apparel shop in park
+<strong>World Bazaar Confectionery</strong>: Largest sweets shop in park
 
-**🌍 DisneySea**
-**Emporio**: Largest merchandise shop in park
-**Figaro's Clothiers**: Largest apparel shop in park
-**Galleria Disney**: Duffy merchandise specialty shop
+<strong>🌍 DisneySea</strong>
+<strong>Emporio</strong>: Largest merchandise shop in park
+<strong>Figaro's Clothiers</strong>: Largest apparel shop in park
+<strong>Galleria Disney</strong>: Duffy merchandise specialty shop
 
 ### ② Standby Pass (Shop Entry Reservation)
 
 Certain periods require reservation for specific shops, gachapon, greetings
 Operating method changes frequently - check app on visit day
 
-**📌 Tip:** Immediately upon entry,
+<strong>📌 Tip:</strong> Immediately upon entry,
 Apply for DPA (paid), 40th Anniversary Pass (free), and Standby Pass (free)
 - this is the secret to perfect enjoyment!
 
@@ -542,10 +542,10 @@ Tower of Terror (capsule toys) (from 2025.11.10)
 
 ### ③ App Shopping (Best Tip!)
 
-**Order via app until 11:45 PM on entry day**
+<strong>Order via app until 11:45 PM on entry day</strong>
 (Ticket link required)
 
-**Delivery to Japan address/hotel supported**
+<strong>Delivery to Japan address/hotel supported</strong>
 Free shipping over 10,000 yen
 Most convenient: ride attractions during day, pay via app before returning to hotel at night.
 
@@ -555,26 +555,26 @@ Most convenient: ride attractions during day, pay via app before returning to ho
 
 ### ① 🚃 Train: JR Maihama Station
 
-From **Tokyo Station**, take **JR Keiyo Line**
-Arrives at **Maihama Station** in about 15 minutes.
+From <strong>Tokyo Station</strong>, take <strong>JR Keiyo Line</strong>
+Arrives at <strong>Maihama Station</strong> in about 15 minutes.
 
-**⚠️ [Must Read] Tokyo Station Transfer! Allow Transfer Time!**
+<strong>⚠️ [Must Read] Tokyo Station Transfer! Allow Transfer Time!</strong>
 Platform transfer at Tokyo Station to Keiyo Line takes 15~20 minutes walking!
 Allow plenty of time (transfer passage is very long)
 
-**🏰 Disneyland (Land)**
+<strong>🏰 Disneyland (Land)</strong>
 5-minute walk from Maihama Station! Arrival!
 
-**🌍 DisneySea (Sea)**
-**Transfer to monorail** from Maihama Station!
-**Get off at Tokyo DisneySea Station!**
-**Fare: Adult 300 yen (one way)**
+<strong>🌍 DisneySea (Sea)</strong>
+<strong>Transfer to monorail</strong> from Maihama Station!
+<strong>Get off at Tokyo DisneySea Station!</strong>
+<strong>Fare: Adult 300 yen (one way)</strong>
 (※ Suica/PASMO accepted)
 
 ### ② 🚌 Limousine Bus
 
 No transfers! Right from hotel entrance!
-**Direct buses** operate from major Tokyo city hotels and stations
+<strong>Direct buses</strong> operate from major Tokyo city hotels and stations
 (Shinjuku, Tokyo Station, Ikebukuro, etc.)
 to Disneyland/DisneySea main gates.
 
@@ -592,46 +592,46 @@ to Disneyland/DisneySea main gates.
 ⭕️ Happy Entry Benefit: Hotel guests can enter park before general guests
 (excluding check-in day)
 
-**Tokyo Disneyland Hotel** (connected to Disneyland)
-**Tokyo DisneySea Fantasy Springs Hotel** (connected to DisneySea)
-**Tokyo DisneySea Hotel MiraCosta** (connected to DisneySea)
-**Disney Ambassador Hotel** (dedicated free shuttle)
-**Tokyo Disney Resort Toy Story Hotel**
-**Tokyo Disney Celebration Hotel**
+<strong>Tokyo Disneyland Hotel</strong> (connected to Disneyland)
+<strong>Tokyo DisneySea Fantasy Springs Hotel</strong> (connected to DisneySea)
+<strong>Tokyo DisneySea Hotel MiraCosta</strong> (connected to DisneySea)
+<strong>Disney Ambassador Hotel</strong> (dedicated free shuttle)
+<strong>Tokyo Disney Resort Toy Story Hotel</strong>
+<strong>Tokyo Disney Celebration Hotel</strong>
 
 ### ② Official Hotels
 
 Bayside Station shuttle, Welcome Center baggage delivery to hotel
 
-**Sheraton Grande Tokyo Bay Hotel**
-**Hilton Tokyo Bay**
-**Maihama View Hotel**
-**Grand Nikko Tokyo Bay Maihama**
-**Hotel Okura Tokyo Bay**
-**Tokyo Bay Maihama Hotel First Resort**
+<strong>Sheraton Grande Tokyo Bay Hotel</strong>
+<strong>Hilton Tokyo Bay</strong>
+<strong>Maihama View Hotel</strong>
+<strong>Grand Nikko Tokyo Bay Maihama</strong>
+<strong>Hotel Okura Tokyo Bay</strong>
+<strong>Tokyo Bay Maihama Hotel First Resort</strong>
 
 ### ③ Partner Hotels
 
 Free shuttle bus connecting hotel and resort bus terminal
 
-**Urayasu Brighton Hotel Tokyo Bay**
-**Oriental Hotel Tokyo Bay**
-**Hotel Emion Tokyo Bay**
-**Mitsui Garden Hotel Prana Tokyo Bay**
+<strong>Urayasu Brighton Hotel Tokyo Bay</strong>
+<strong>Oriental Hotel Tokyo Bay</strong>
+<strong>Hotel Emion Tokyo Bay</strong>
+<strong>Mitsui Garden Hotel Prana Tokyo Bay</strong>
 
 ### ④ Good Neighbor Hotels
 
 Free shuttle bus connecting hotel and resort bus terminal
 
-**Keio Plaza Hotel**
-**Tokyo Bay Ariake Washington Hotel**
-**Hotel East 21 Tokyo**
-**Tobu Hotel Levant Tokyo**
-**Dai-ichi Hotel Ryogoku**
-**Hilton Tokyo Odaiba**
-**Sotetsu Grand Fresa Tokyo-Bay Ariake**
-**Keisei Hotel Minamare**
-**Hotel New Otani Makuhari**
+<strong>Keio Plaza Hotel</strong>
+<strong>Tokyo Bay Ariake Washington Hotel</strong>
+<strong>Hotel East 21 Tokyo</strong>
+<strong>Tobu Hotel Levant Tokyo</strong>
+<strong>Dai-ichi Hotel Ryogoku</strong>
+<strong>Hilton Tokyo Odaiba</strong>
+<strong>Sotetsu Grand Fresa Tokyo-Bay Ariake</strong>
+<strong>Keisei Hotel Minamare</strong>
+<strong>Hotel New Otani Makuhari</strong>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-12.jpg" alt="Hilton Tokyo Bay Official Hotel">
@@ -649,22 +649,22 @@ Free shuttle bus connecting hotel and resort bus terminal
 🎟️ Restaurant reservations/mobile orders
 🛍️ Standby Pass / App shopping
 
-**➡️ [Download iOS (App Store)](https://apps.apple.com/us/app/tokyo-disney-resort-app/id1313147771)**
-**➡️ [Download Android (Google Play)](https://play.google.com/store/apps/details?id=jp.tokyodisneyresort.portalapp)**
+<strong>➡️ [Download iOS (App Store)](https://apps.apple.com/us/app/tokyo-disney-resort-app/id1313147771)</strong>
+<strong>➡️ [Download Android (Google Play)](https://play.google.com/store/apps/details?id=jp.tokyodisneyresort.portalapp)</strong>
 
-**⚠️ [Must Read!] How to Change App to English**
+<strong>⚠️ [Must Read!] How to Change App to English</strong>
 - No language change menu in app
 - [Settings] → [General] → [Language & Region] Change to English
 - (iOS/Android both)
 - → App displays in English on restart
 
-**📌 Tip:** DPA purchase and entry application screens become easier
-**Recommend English even just for one day during trip**
+<strong>📌 Tip:</strong> DPA purchase and entry application screens become easier
+<strong>Recommend English even just for one day during trip</strong>
 
 ### ② View Tokyo Disney Resort Maps
 
-**➡️ [View Disneyland Map (Korean version)](https://media2.tokyodisneyresort.jp/home/download/map/TDL_map_kr.pdf)**
-**➡️ [View DisneySea Map (Korean version)](https://media2.tokyodisneyresort.jp/home/download/map/TDS_map_kr.pdf)**
+<strong>➡️ [View Disneyland Map (Korean version)](https://media2.tokyodisneyresort.jp/home/download/map/TDL_map_kr.pdf)</strong>
+<strong>➡️ [View DisneySea Map (Korean version)](https://media2.tokyodisneyresort.jp/home/download/map/TDS_map_kr.pdf)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-13.jpg" alt="Tokyo Disneyland Pooh's Hunny Hunt">
@@ -675,20 +675,20 @@ Free shuttle bus connecting hotel and resort bus terminal
 
 ## 10. Q&A (Frequently Asked Questions)
 
-**Q. Tokyo Disneyland Top 3 Ride Recommendations!**
+<strong>Q. Tokyo Disneyland Top 3 Ride Recommendations!</strong>
 Land: Beauty and the Beast / Monsters, Inc. / Splash Mountain
 Sea: Frozen / Soaring / Journey to the Center of the Earth
 
-**Q. Tokyo Disneyland Weather & What to Wear?**
+<strong>Q. Tokyo Disneyland Weather & What to Wear?</strong>
 Sea is colder due to sea breeze.
 Winter: hand warmers, scarf, gloves essential
 Summer: parasol, portable fan essential
 
-**Q. Tips from Disney Community?**
+<strong>Q. Tips from Disney Community?</strong>
 Opening run (arrive 1 hour before opening) → Immediately apply for DPA/Entry upon entry
 → Get popcorn in morning → Reserve parade spots 1 hour early
 
-**Q. Can Entry/Passes be canceled?**
+<strong>Q. Can Entry/Passes be canceled?</strong>
 Entry cannot be canceled after application.
 Priority Pass & Standby Pass can be canceled before use (non-recoverable).
 
@@ -699,7 +699,7 @@ Priority Pass & Standby Pass can be canceled before use (non-recoverable).
 
 ---
 
-**"The more perfect the preparation, the more perfect the experience"**
+<strong>"The more perfect the preparation, the more perfect the experience"</strong>
 
 Tickets/afternoon passes, DPA/Priority Pass, meal reservations, shopping -
 Solving everything with one app truly transforms your day.
@@ -707,11 +707,19 @@ Solving everything with one app truly transforms your day.
 Now go lightly.
 A happy day is already halfway prepared ✨
 
-**📍 Related Tokyo Travel Tips**
+<strong>📍 Related Tokyo Travel Tips</strong>
 
-**➡️ [Japan Travel Discount Coupons 2025 (Don Quijote, Department Stores)](/posts/japan-travel-discount-coupons-2025/)**
+<strong>➡️ [Japan Travel Discount Coupons 2025 (Don Quijote, Department Stores)](/posts/japan-travel-discount-coupons-2025/)</strong>
 <br>
-**➡️ [Tokyo Transport Card Complete Guide (iPhone Suica, PASMO)](/posts/tokyo-transportation-card-guide-2025/)**
+<strong>➡️ [Tokyo Transport Card Complete Guide (iPhone Suica, PASMO)](/posts/tokyo-transportation-card-guide-2025/)</strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224060336353" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 
 <div class="editors-note">

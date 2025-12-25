@@ -72,7 +72,7 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
   </tbody>
 </table>
 
-**📌 推荐家庭！**
+<strong>📌 推荐家庭！</strong>
 带孩子的情况下，可"预约座位+行李存放"的利木津巴士效率高得多。
 
 <figure>
@@ -86,13 +86,13 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
 
 ### ✅ Busta新宿（巴士总站）
 
-- **位置：** JR新宿站新南口直连
-- **楼层：** 4楼巴士总站
-- **售票处：** 3楼咨询台（可用Suica/PayPay）
+- <strong>位置：</strong> JR新宿站新南口直连
+- <strong>楼层：</strong> 4楼巴士总站
+- <strong>售票处：</strong> 3楼咨询台（可用Suica/PayPay）
 
-**📍 Google地图：Busta新宿 <a href="https://maps.app.goo.gl/N5eYAsxAi26R6o1x5" target="_blank">查看位置</a>**
+<strong>📍 Google地图：Busta新宿 <a href="https://maps.app.goo.gl/N5eYAsxAi26R6o1x5" target="_blank">查看位置</a></strong>
 
-**🚶‍♀️ 交通方式**
+<strong>🚶‍♀️ 交通方式</strong>
 新宿站南口→NEWoMan百货旁的扶梯→上到4楼"BUSTA SHINJUKU"即可立即乘车！
 
 <figure>
@@ -132,7 +132,7 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
   </tbody>
 </table>
 
-**💡 推荐时间：**
+<strong>💡 推荐时间：</strong>
 家庭推荐乘坐07:00～08:30之间的巴士（可赶上开园时间）
 周末节假日必须提前预约！（7:00时段的巴士很快满员）
 
@@ -173,7 +173,7 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
   </tbody>
 </table>
 
-**📌 提示：**
+<strong>📌 提示：</strong>
 观赏完烟花表演后（20:30～20:45），
 还有21:00之后的末班车（21:10～21:30）！
 
@@ -203,12 +203,12 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
   </tbody>
 </table>
 
-**✅ 无需提前预约**
+<strong>✅ 无需提前预约</strong>
 
-**🚌 从Busta新宿乘车的情况**
+<strong>🚌 从Busta新宿乘车的情况</strong>
 在Busta新宿的售票机或柜台购票
 
-**🚌 从东京迪士尼度假区乘车的情况**
+<strong>🚌 从东京迪士尼度假区乘车的情况</strong>
 车内用现金或IC卡（PASMO、Suica等）支付
 也可使用信用卡触碰支付。
 
@@ -241,7 +241,7 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
   </tbody>
 </table>
 
-**👉 结论**
+<strong>👉 结论</strong>
 - 带孩子家庭 → 巴士！
 - 一人/情侣旅行 → JR、地铁！
 
@@ -254,17 +254,17 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
 
 ## 👨‍👩‍👧 推荐新宿家庭旅行路线
 
-- **早上：** 从新宿住宿地出发→乘坐07:00巴士
-- **上午～傍晚：** 迪士尼乐园一日尽享
-- **晚上：** 乘坐返程巴士→抵达新宿→在NEWoMan周边用餐
+- <strong>早上：</strong> 从新宿住宿地出发→乘坐07:00巴士
+- <strong>上午～傍晚：</strong> 迪士尼乐园一日尽享
+- <strong>晚上：</strong> 乘坐返程巴士→抵达新宿→在NEWoMan周边用餐
 
-🎡 **包括迪士尼在内的儿童乐园完整路线在这里**
+🎡 <strong>包括迪士尼在内的儿童乐园完整路线在这里</strong>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-kids-parks-guide
      Hugo: /zh-cn/posts/shinjuku-kids-parks-guide/ -->
-**➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式（三丽鸥、托马斯、读卖、东京巨蛋）</a>**
+<strong>➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式（三丽鸥、托马斯、读卖、东京巨蛋）</a></strong>
 
-🎠 **迪士尼乐园信息：**
+🎠 <strong>迪士尼乐园信息：</strong>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/tokyo-disneyland-complete-guide
      Hugo: /zh-cn/posts/tokyo-disneyland-complete-guide/ -->
@@ -282,23 +282,23 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
      Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
-**<a href="#" style="color: #667eea;">新宿完整路线攻略</a>**
+<strong><a href="#" style="color: #667eea;">新宿完整路线攻略</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-kids-parks-guide
      Hugo: /zh-cn/posts/shinjuku-kids-parks-guide/ -->
-**➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式</a>**
+<strong>➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式</a></strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/tokyo-disneyland-complete-guide
      Hugo: /zh-cn/posts/tokyo-disneyland-complete-guide/ -->
-**➡️ <a href="#" target="_blank">东京迪士尼乐园完全攻略</a>**
+<strong>➡️ <a href="#" target="_blank">东京迪士尼乐园完全攻略</a></strong>
 
 ---
 
 ## 🎁 最后总结
 
-✔️ **新宿出发→Busta新宿利木津巴士→1小时到达迪士尼乐园！**
+✔️ <strong>新宿出发→Busta新宿利木津巴士→1小时到达迪士尼乐园！</strong>
 对于行李多、带孩子的家庭，这条路线是最轻松无压力的旅行方式。
 
 

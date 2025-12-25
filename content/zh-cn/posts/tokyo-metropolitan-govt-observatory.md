@@ -81,7 +81,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ## 🌃 从45层眺望360度全景
 
-**东京都厅展望台位于地上202米高度**，可一览东京全景。
+<strong>东京都厅展望台位于地上202米高度</strong>，可一览东京全景。
 
 按方向了解可以看到哪些地标，提前确认再出发吧！
 
@@ -101,7 +101,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ### [东南] 新宿御苑 & 明治神宫
 
-东南方向可以看到都市中心的巨大绿地，**新宿御苑（公园）**和明治神宫。
+东南方向可以看到都市中心的巨大绿地，<strong>新宿御苑（公园）</strong>和明治神宫。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-06.jpg" alt="新宿御苑视野图">
@@ -115,7 +115,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ### [西南] 新宿公园塔
 
-西南方向可以看到设计独特的**新宿公园塔**和**东京歌剧城**。
+西南方向可以看到设计独特的<strong>新宿公园塔</strong>和<strong>东京歌剧城</strong>。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-08.jpg" alt="公园塔视野图">
@@ -129,7 +129,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ### [西] 富士山（最佳视野！）
 
-西侧方向，天气晴朗时可以看到**富士山**！据说12月至2月期间气温低、视野好，最有可能看到富士山。
+西侧方向，天气晴朗时可以看到<strong>富士山</strong>！据说12月至2月期间气温低、视野好，最有可能看到富士山。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-10.jpg" alt="富士山视野图">
@@ -155,7 +155,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ## 东京天空指南
 
-东京都提供的展望台专用指南。**完全不需要安装应用！**
+东京都提供的展望台专用指南。<strong>完全不需要安装应用！</strong>
 
 用智能手机扫描二维码，即可立即查看日语展望台景点信息！
 
@@ -168,11 +168,11 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 ## 草间弥生设计「回忆钢琴」（东京都厅南展望台）
 
-**使用时间**
+<strong>使用时间</strong>
 - 上午10:00〜12:00
 - 下午14:00〜16:00
 
-**每人最多可演奏5分钟**。想再次演奏需要重新排队。
+<strong>每人最多可演奏5分钟</strong>。想再次演奏需要重新排队。
 
 可以2人演奏（二重奏），但禁止演奏中途他人插入。
 
@@ -189,16 +189,16 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 2025年新宿最佳看点！以东京都厅第1厅舍东侧墙面为画布展开的巨大投影秀。
 
-该秀还作为**「最大建筑物投影秀」**被载入吉尼斯世界纪录！
-**GUINNESS WORLD RECORDS™ certification: 13,904.956㎡**
+该秀还作为<strong>「最大建筑物投影秀」</strong>被载入吉尼斯世界纪录！
+<strong>GUINNESS WORLD RECORDS™ certification: 13,904.956㎡</strong>
 
 ### 1. 灯光秀观看技巧
 
-**观看地点：东京都厅都民广场**（不是展望台，是1层室外！）
+<strong>观看地点：东京都厅都民广场</strong>（不是展望台，是1层室外！）
 
-**观看费用：🌟 免费**
+<strong>观看费用：🌟 免费</strong>
 
-📌 **技巧！** 在展望台看完夕阳后下来观看灯光秀，行程就完美了。
+📌 <strong>技巧！</strong> 在展望台看完夕阳后下来观看灯光秀，行程就完美了。
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-15.jpg" alt="等待灯光秀的人们">
@@ -214,7 +214,7 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">东京都厅灯光秀年度日程指南</figcaption>
 </figure>
 
-**东京都厅灯光秀年度上映时间表**
+<strong>东京都厅灯光秀年度上映时间表</strong>
 
 | 时间 | 1月 | 2月 | 3月 | 4月 | 5月 | 6月 | 7月 | 8月 | 9月 | 10月 | 11月 | 12月 |
 |------|-----|-----|-----|-----|-----|-----|-----|-----|-----|------|------|------|
@@ -232,13 +232,13 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 按季节上映各种节目，目前「哥斯拉」「高达」等特别联动秀大受欢迎！
 
-**TOKYO GODZILLAs**（周六·周日·节假日）
+<strong>TOKYO GODZILLAs</strong>（周六·周日·节假日）
 迎来70周年的「哥斯拉」袭击东京都厅！历代哥斯拉总出动的震撼大结局不容错过。
 
-**TOKYO GUNDAM IN THE FUTURE**（周六·周日·节假日）
+<strong>TOKYO GUNDAM IN THE FUTURE</strong>（周六·周日·节假日）
 从东京通往宇宙的太空电梯。可以看到不是战争兵器，而是为宇宙开发工作的「机动战士」的身姿。
 
-**PAC-MAN eats TOKYO**（每天）
+<strong>PAC-MAN eats TOKYO</strong>（每天）
 东京都厅建筑上出现巨大的「吃豆人」游戏板！
 
 ※此外还有「Ukiyo（浮世绘）」「Aimer」联动等各种作品上映。
@@ -281,9 +281,9 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 周末、日落时分可能需要等候30分钟以上。
 
-参观当日，因恶劣天气**临时闭馆**或「实时拥挤度」信息可在<a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank" style="color: #667eea;"><strong>东京都厅官网</strong></a>立即确认！
+参观当日，因恶劣天气<strong>临时闭馆</strong>或「实时拥挤度」信息可在<a href="https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou" target="_blank" style="color: #667eea;"><strong>东京都厅官网</strong></a>立即确认！
 
-**东京观光官方X（Twitter）**
+<strong>东京观光官方X（Twitter）</strong>
 ➡️ @tocho_tenbou (<a href="https://twitter.com/tocho_tenbou" target="_blank" style="color: #667eea;">https://twitter.com/tocho_tenbou</a>)
 
 <figure>

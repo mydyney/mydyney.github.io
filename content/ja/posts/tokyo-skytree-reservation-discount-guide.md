@@ -27,13 +27,13 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## 🗼 東京スカイツリー：クイックサマリー
 
-東京スカイツリーは**高さ634m**、世界一高い自立式電波塔です。
+東京スカイツリーは<strong>高さ634m</strong>、世界一高い自立式電波塔です。
 
-**2つの展望台**があります：
-- **展望デッキ：350m**
-- **展望回廊：450m**
+<strong>2つの展望台</strong>があります：
+- <strong>展望デッキ：350m</strong>
+- <strong>展望回廊：450m</strong>
 
-多くの旅行者が悩むポイント：**「両方行くべき？」**
+多くの旅行者が悩むポイント：<strong>「両方行くべき？」</strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-03.jpg" alt="東京スカイツリー展望デッキvs展望回廊料金比較表">
@@ -45,7 +45,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 ## 🎟️ チケット予約（必読）
 ## これを見逃すと100%損します！
 
-**結論：当日券は絶対に買わないでください！**
+<strong>結論：当日券は絶対に買わないでください！</strong>
 オンライン事前予約の方がずっと安くて早いです。
 
 <div class="info-box">
@@ -72,13 +72,13 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   </table>
 </div>
 
-**✅ 最終結論：**
-**オンライン予約が常に優れています。**
+<strong>✅ 最終結論：</strong>
+<strong>オンライン予約が常に優れています。</strong>
 当日券は高いし時間の無駄です。
 
 旅行前にKlookで事前予約しましょう！
 
-➡️ **[Klookで東京スカイツリー割引チケット予約](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1146195&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F41352-tokyo-skytree%2F)**
+➡️ <strong>[Klookで東京スカイツリー割引チケット予約](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1146195&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F41352-tokyo-skytree%2F)</strong>
 
 ---
 
@@ -88,7 +88,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 これがスカイツリー訪問者の最大の悩みです。明確な答えをお教えします！
 
 ### 1. 展望デッキ（350m）
-**必見**のメイン展望台。
+<strong>必見</strong>のメイン展望台。
 360度パノラマの床から天井までの窓から東京の街並みを一望できます。
 
 ガラス床のフォトゾーンもあります。
@@ -99,7 +99,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 </figure>
 
 ### 2. 展望回廊（450m）
-**オプション**の最高展望台。
+<strong>オプション</strong>の最高展望台。
 展望デッキからさらにエレベーターで上がります。
 
 フロア445から傾斜した展望回廊を登って最高地点「ソラカラポイント」フロア450に到達。
@@ -113,20 +113,20 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## ✅ 最終結論：あなたの選択は？
 
-**「天気が完璧で特別な体験がしたい」**
-👍 **展望回廊までのコンボチケットおすすめ！**
+<strong>「天気が完璧で特別な体験がしたい」</strong>
+👍 <strong>展望回廊までのコンボチケットおすすめ！</strong>
 
-**「コスパ重視または天気が曇り」**
-👍 **展望デッキだけで100%十分！**
+<strong>「コスパ重視または天気が曇り」</strong>
+👍 <strong>展望デッキだけで100%十分！</strong>
 
-**📌 スカイツリー無料展望台：**
+<strong>📌 スカイツリー無料展望台：</strong>
 チケット料金が高いと感じたら、スカイツリーを正面から眺められる隠れた「無料展望台」をチェック！
 
 <!-- TODO: Update link after migration
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700095268
      Hugo: /ja/posts/tokyo-skytree-free-observatory/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー無料展望台：SKYTREE VIEW</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー無料展望台：SKYTREE VIEW</strong></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-06.jpg" alt="東京スカイツリー2つの展望台、展望デッキと展望回廊の比較">
@@ -140,16 +140,16 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 これも混乱しやすいポイントです。駅は2つあります：
 
 ### 1. 押上駅（押上駅）
-- **東京メトロ（半蔵門線）**
-- **都営地下鉄（浅草線）**
+- <strong>東京メトロ（半蔵門線）</strong>
+- <strong>都営地下鉄（浅草線）</strong>
 - 地下鉄パスでカバー
 - スカイツリー地下と直結
 
 ### 2. とうきょうスカイツリー駅
-- **東武線**
+- <strong>東武線</strong>
 - 浅草と東京北部を結ぶ
 - 浅草からわずか1駅ですが
-- **地下鉄パスではカバーされません！**
+- <strong>地下鉄パスではカバーされません！</strong>
 
 <div class="image-group-2">
   <figure>
@@ -165,22 +165,22 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## 🛍️ スカイツリー下のショッピング天国：「ソラマチ」レストラン＆ショッピング
 
-東京スカイツリータワーの下には、巨大な複合施設**「東京ソラマチ」**があります。
+東京スカイツリータワーの下には、巨大な複合施設<strong>「東京ソラマチ」</strong>があります。
 
-**展望台だけ訪れると100%後悔します！**
+<strong>展望台だけ訪れると100%後悔します！</strong>
 
 ソラマチにはレストランとショッピングスポットが満載です。
 
 ## [必見ショッピングスポット]
 
-**ポケモンセンタースカイツリータウン：**
+<strong>ポケモンセンタースカイツリータウン：</strong>
 ここでしか買えない「メガレックウザ」限定グッズ！
 
 <!-- TODO: Update link after migration
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223695518100
      Hugo: /ja/posts/tokyo-skytree-pokemon-center-review/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリータウンポケモンセンター詳細レビュー</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリータウンポケモンセンター詳細レビュー</strong></a></strong>
 
 <div class="image-group-2">
   <figure>
@@ -196,7 +196,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">東京スカイツリーソラマチポケモンセンター</figcaption>
 </figure>
 
-**カービィカフェ：**
+<strong>カービィカフェ：</strong>
 100%事前予約必須！
 可愛いカービィテーマのデザートを楽しめます。
 
@@ -205,10 +205,10 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">東京スカイツリーソラマチカービィカフェ</figcaption>
 </figure>
 
-**ジャンプショップ（4F）：**
+<strong>ジャンプショップ（4F）：</strong>
 ワンピース、呪術廻戦など少年ジャンプグッズ。
 
-**ジブリストア（どんぐり共和国）2F：**
+<strong>ジブリストア（どんぐり共和国）2F：</strong>
 
 <div class="image-group-2">
   <figure>
@@ -222,7 +222,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## [おすすめレストラン]
 
-**トリトン（回転寿司トリトン）6F：**
+<strong>トリトン（回転寿司トリトン）6F：</strong>
 北海道発の最高のコスパ回転寿司。
 長い待ち時間を避けるコツは？
 
@@ -230,7 +230,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223697732942
      Hugo: /ja/posts/tokyo-skytree-triton-sushi-guide/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー回転寿司レストラントリトン（整理券番号のコツ）</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー回転寿司レストラントリトン（整理券番号のコツ）</strong></a></strong>
 
 <div class="image-group-2">
   <figure>
@@ -242,7 +242,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">東京ソラマチレストラン：トリトンの新鮮な寿司</figcaption>
 </div>
 
-**六厘舎（六厘舎）6F：**
+<strong>六厘舎（六厘舎）6F：</strong>
 つけ麺の決定版―言葉は不要。
 
 <div class="image-group-2">
@@ -255,10 +255,10 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">東京ソラマチレストラン：六厘舎つけ麺</figcaption>
 </div>
 
-**東毛酪農63℃（東毛酪農）4F：**
+<strong>東毛酪農63℃（東毛酪農）4F：</strong>
 食べログアイスクリームトップ100 2023
 
-**祇園辻利（祇園辻利）6F：**
+<strong>祇園辻利（祇園辻利）6F：</strong>
 京都の有名な抹茶ショップ。
 ショッピング後の濃厚抹茶アイスに最適。
 
@@ -266,14 +266,14 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223699626846
      Hugo: /ja/posts/tokyo-skytree-gion-tsujiri-matcha/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリーデザートスポット：祇園辻利抹茶アイスクリームレビュー</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリーデザートスポット：祇園辻利抹茶アイスクリームレビュー</strong></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-19.jpg" alt="東京スカイツリーの祇園辻利抹茶アイスとデザート">
   <figcaption style="font-size: 0.7em; text-align: center;">東京ソラマチレストラン：祇園辻利</figcaption>
 </figure>
 
-**📌 ビュースポットスターバックス6F：**
+<strong>📌 ビュースポットスターバックス6F：</strong>
 ソラマチ6Fのスターバックスからスカイツリータウンの眺めを楽しめます。
 
 <div class="image-group-2">
@@ -296,7 +296,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700200846
      Hugo: /ja/posts/tokyo-skytree-illumination-guide/ -->
-➡️ **<a href="#" style="color: #667eea;"><strong>東京スカイツリーイルミネーション＆クリスマスマーケット詳細レビュー</strong></a>**
+➡️ <strong><a href="#" style="color: #667eea;"><strong>東京スカイツリーイルミネーション＆クリスマスマーケット詳細レビュー</strong></a></strong>
 
 <div class="image-group-2">
   <figure>
@@ -312,7 +312,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## 📍 スカイツリーの後、どこへ？（おすすめフォローアップ）
 
-**🚶‍♂️ 地下鉄で5分！東京の過去：浅草**
+<strong>🚶‍♂️ 地下鉄で5分！東京の過去：浅草</strong>
 
 スカイツリーで東京の「現在」を体験したら、地下鉄で2駅先の東京の「過去」を訪れましょう。
 
@@ -322,7 +322,15 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024819592
      Hugo: /ja/posts/asakusa-complete-guide/ -->
-➡️ **<a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>東京浅草アトラクション＆レストラン完全ガイド（浅草寺、牛カツ）</strong></a>**
+➡️ <strong><a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>東京浅草アトラクション＆レストラン完全ガイド（浅草寺、牛カツ）</strong></a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224049240457" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

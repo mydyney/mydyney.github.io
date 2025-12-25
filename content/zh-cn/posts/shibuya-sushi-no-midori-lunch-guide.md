@@ -22,15 +22,15 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">东京涩谷餐厅 寿司绿的超值午餐套餐</figcaption>
 </figure>
 
-午餐高峰时段需要取号排队约1小时，但**二维码实时查看排队进度**，可以边逛周边边等，体感难度低很多。
+午餐高峰时段需要取号排队约1小时，但<strong>二维码实时查看排队进度</strong>，可以边逛周边边等，体感难度低很多。
 
-今天100%**自费真实测评**，重点评测性价比超高的**YAWARAGI LUNCH（和らぎ午餐）**的详细体验和排队攻略。
+今天100%<strong>自费真实测评</strong>，重点评测性价比超高的<strong>YAWARAGI LUNCH（和らぎ午餐）</strong>的详细体验和排队攻略。
 
 <hr class="se-hr">
 
 <h2>📍 基本信息（营业时间・位置）</h2>
 
-旅行中避免白跑，核心信息先用表格整理。特别注意**平日休息时段**！
+旅行中避免白跑，核心信息先用表格整理。特别注意<strong>平日休息时段</strong>！
 
 <div class="info-box">
 <table class="schedule-table">
@@ -81,7 +81,7 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 </table>
 </div>
 
-**💡 重要：** 取号从**上午10点开始**。想开门就吃的话，10点准时去取号！
+<strong>💡 重要：</strong> 取号从<strong>上午10点开始</strong>。想开门就吃的话，10点准时去取号！
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-03.jpg" alt="涩谷Mark City East 4楼餐厅楼层寿司绿入口">
@@ -92,11 +92,11 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 <h2>⏳ 排队攻略 & 涩谷Mark City怎么走</h2>
 
-第一次去最容易迷路的就是**入口位置**。
+第一次去最容易迷路的就是<strong>入口位置</strong>。
 
 <h3>📍 交通方式总结</h3>
 
-这不是路边店，而是在**涩谷Mark City购物中心4楼**。
+这不是路边店，而是在<strong>涩谷Mark City购物中心4楼</strong>。
 
 1. 通过连接涩谷站的通道找到「Mark City East」大楼。
 2. 坐扶梯到4楼餐厅层，排队最长的那家就是寿司绿。
@@ -108,15 +108,15 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 <h3>⏰ 聪明的排队攻略</h3>
 
-**① 取号（10点开始）**
+<strong>① 取号（10点开始）</strong>
 
 店门口的机器输入人数取号。
 
-**② 二维码实时查看**
+<strong>② 二维码实时查看</strong>
 
-扫描号码单上的二维码，**「前面还有几组」**和**「预计等待时间」**实时显示。
+扫描号码单上的二维码，<strong>「前面还有几组」</strong>和<strong>「预计等待时间」</strong>实时显示。
 
-**③ 周边打发时间（强推）**
+<strong>③ 周边打发时间（强推）</strong>
 
 等待时间还剩30分钟以上的话，去Mark City地下的KALDI、大创购物，或去涩谷十字路口打卡。
 
@@ -150,13 +150,13 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 <h3>✅ 点单方式</h3>
 
-- 服务员直接接单的**传统方式**
+- 服务员直接接单的<strong>传统方式</strong>
 - 菜单有图片，没有语言障碍
-- 不会日语也可以**指着图片点单就OK**
+- 不会日语也可以<strong>指着图片点单就OK</strong>
 
-**✔️ 定制小贴士**
-- **米饭少一点：** 「しゃり こま」
-- **不要芥末：** 「さびぬき」
+<strong>✔️ 定制小贴士</strong>
+- <strong>米饭少一点：</strong> 「しゃり こま」
+- <strong>不要芥末：</strong> 「さびぬき」
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-08.jpg" alt="寿司绿涩谷店菜单板照片与价格信息">
@@ -177,11 +177,11 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 <h2>🍣 味道实测：和らぎ午餐测评</h2>
 
-追求性价比和搭配，点了**「YAWARAGI LUNCH」**。
+追求性价比和搭配，点了<strong>「YAWARAGI LUNCH」</strong>。
 
 <h3>🍣 食材（刺身）厚度碾压</h3>
 
-首先端上来的瞬间就被**「食材（鱼）的厚度」**震撼到。比一般寿司店的刺身厚1.5倍还长。刺身铺满整个嘴的满足感超爽。完全没腥味，厚实的肉质贴在舌头上鲜味爆发。特别是金枪鱼入口即化的柔软口感绝了。
+首先端上来的瞬间就被<strong>「食材（鱼）的厚度」</strong>震撼到。比一般寿司店的刺身厚1.5倍还长。刺身铺满整个嘴的满足感超爽。完全没腥味，厚实的肉质贴在舌头上鲜味爆发。特别是金枪鱼入口即化的柔软口感绝了。
 
 <h3>🍚 醋饭</h3>
 
@@ -189,7 +189,7 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 <h3>🍮 茶碗蒸</h3>
 
-一起上的**茶碗蒸**像布丁一样嫩滑温热，饭前暖胃刚刚好。
+一起上的<strong>茶碗蒸</strong>像布丁一样嫩滑温热，饭前暖胃刚刚好。
 
 <h3>🍨 甜品冰淇淋</h3>
 
@@ -214,15 +214,15 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 <h2>⭐ 真实总评 & 回访意愿</h2>
 
-**「排队不心疼，东京旅行稳妥的一餐」**
+<strong>「排队不心疼，东京旅行稳妥的一餐」</strong>
 
-涩谷正中心这个价格这个质量的寿司吃到撑，太少见了。吃货可能对醋饭细节稍有不满，但**食材新鲜度碾压和贴心服务**抵消一切。
+涩谷正中心这个价格这个质量的寿司吃到撑，太少见了。吃货可能对醋饭细节稍有不满，但<strong>食材新鲜度碾压和贴心服务</strong>抵消一切。
 
-- **优点：** 二维码排队系统方便、刺身厚切新鲜、服务员超贴心
-- **缺点：** 用餐时段排队长（推荐开门就去）
-- **支付：** 现金、卡、交通IC卡都可以
+- <strong>优点：</strong> 二维码排队系统方便、刺身厚切新鲜、服务员超贴心
+- <strong>缺点：</strong> 用餐时段排队长（推荐开门就去）
+- <strong>支付：</strong> 现金、卡、交通IC卡都可以
 
-**🍣 回访意愿：⭐⭐⭐⭐☆（涩谷午餐第1候选）**
+<strong>🍣 回访意愿：⭐⭐⭐⭐☆（涩谷午餐第1候选）</strong>
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg" alt="涩谷寿司绿性价比午餐特写">

@@ -24,13 +24,13 @@ Essential guide for beginners to score amazing finds without getting lost!</p>
 
 <hr>
 
-Planning a **Shinjuku gashapon (capsule toy) tour** during your Tokyo trip? The area around Shinjuku Station is home to hidden sanctuaries filled with thousands of capsule toys.
+Planning a <strong>Shinjuku gashapon (capsule toy) tour</strong> during your Tokyo trip? The area around Shinjuku Station is home to hidden sanctuaries filled with thousands of capsule toys.
 
-From the massive **Gachapon Forest** with over 1,000 machines, to the conveniently located **C-pla**, the official Bandai shop **Marui Annex**, shopping-friendly **Bic Camera**, and the late-night hotspot **Kabukicho Tower** – we've selected the **7 best locations** based on different purposes to help you navigate busy Shinjuku without getting lost.
+From the massive <strong>Gachapon Forest</strong> with over 1,000 machines, to the conveniently located <strong>C-pla</strong>, the official Bandai shop <strong>Marui Annex</strong>, shopping-friendly <strong>Bic Camera</strong>, and the late-night hotspot <strong>Kabukicho Tower</strong> – we've selected the <strong>7 best locations</strong> based on different purposes to help you navigate busy Shinjuku without getting lost.
 
 This is your complete guide to Shinjuku gashapon shopping.
 
-First, here's a **quick comparison table** for those in a hurry.
+First, here's a <strong>quick comparison table</strong> for those in a hurry.
 
 ## 📌 Shinjuku Gashapon Shop Locations at a Glance (East, West, Southeast Exits)
 
@@ -44,7 +44,7 @@ First, here's a **quick comparison table** for those in a hurry.
 | 6. ME TOKYO | Latest Trends | Southeast Exit, ME TOKYO B1F |
 | 7. Yodobashi Camera | West Side King | West Exit, Nishiguchi Main Store 1F |
 
-**💡 Payment Tip**
+<strong>💡 Payment Tip</strong>
 
 Most machines use 100-yen coins, but recently "Pipit" machines that accept Suica and other IC cards are increasing. Still, bring a coin purse! 👛
 
@@ -52,17 +52,17 @@ Most machines use 100-yen coins, but recently "Pipit" machines that accept Suica
 
 ## 1. Overwhelming Scale: Gachapon Forest
 
-The first shop to introduce is **Shinjuku Gachapon Forest (Gachagacha no Mori)**. True to its name meaning "Forest of Gacha," stepping inside feels like entering a 360-degree forest surrounded by capsule toys.
+The first shop to introduce is <strong>Shinjuku Gachapon Forest (Gachagacha no Mori)</strong>. True to its name meaning "Forest of Gacha," stepping inside feels like entering a 360-degree forest surrounded by capsule toys.
 
 ### 🟢 Gachapon Forest Shinjuku Subnade Branch
 
-- **Location:** Shinjuku Subnade underground shopping area (B1F)
-  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/QGGTYMzfA1btyUMB6) 📍]**
-- **Hours:** 10:30 AM ~ 9:00 PM
-- **Machines:** Approximately 1,050 units
-- **Features:** Access through the underground shopping area means you can move around comfortably even when it's raining or hot.
+- <strong>Location:</strong> Shinjuku Subnade underground shopping area (B1F)
+  *(5-minute walk from Shinjuku East Exit)* <strong>[📍[Google Maps↗](https://maps.app.goo.gl/QGGTYMzfA1btyUMB6) 📍]</strong>
+- <strong>Hours:</strong> 10:30 AM ~ 9:00 PM
+- <strong>Machines:</strong> Approximately 1,050 units
+- <strong>Features:</strong> Access through the underground shopping area means you can move around comfortably even when it's raining or hot.
 
-**💡 Pro Tip:** The nearby major chain "C-pla" is also close, so combining both locations gives you access to about 2,000 machines just underground.
+<strong>💡 Pro Tip:</strong> The nearby major chain "C-pla" is also close, so combining both locations gives you access to about 2,000 machines just underground.
 
 <div class="image-group-2">
   <figure>
@@ -86,14 +86,14 @@ The first shop to introduce is **Shinjuku Gachapon Forest (Gachagacha no Mori)**
 
 ### Where to Find Shinjuku Gashapon Bus Bell/Stop Bell?
 
-I found a rare item here! While I didn't find the highly sought-after **Shinjuku gacha bus bell (stop bell)**, I discovered an emergency stop button gacha instead. It's the kind of subway emergency button you should never press normally, and it's 400 yen. When you press it, it makes a realistic "BUZZ!" warning sound that's incredibly satisfying for stress relief.
+I found a rare item here! While I didn't find the highly sought-after <strong>Shinjuku gacha bus bell (stop bell)</strong>, I discovered an emergency stop button gacha instead. It's the kind of subway emergency button you should never press normally, and it's 400 yen. When you press it, it makes a realistic "BUZZ!" warning sound that's incredibly satisfying for stress relief.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-06.jpg" alt="Emergency button gashapon at Shinjuku Gachapon Forest">
   <figcaption style="font-size: 0.7em; text-align: center;">Emergency button gacha at Shinjuku Gachapon Forest</figcaption>
 </figure>
 
-It's truly a gacha paradise! 😍 The **Sanrio desk clock** and **Rilakkuma (Bear) keychains** that I only saw at this Shinjuku gashapon shop had fresh stock too. Especially the Sanrio clock at 500 yen – it's genuinely cute on your desk, so grab it if you see one!
+It's truly a gacha paradise! 😍 The <strong>Sanrio desk clock</strong> and <strong>Rilakkuma (Bear) keychains</strong> that I only saw at this Shinjuku gashapon shop had fresh stock too. Especially the Sanrio clock at 500 yen – it's genuinely cute on your desk, so grab it if you see one!
 
 <div class="image-group-2">
   <figure>
@@ -118,11 +118,11 @@ Located on the busiest street at Shinjuku's East Exit, it's the most convenient 
 
 ### 🟣 C-pla Shinjuku
 
-- **Location:** Adhoc Building 1F & M2F (street-facing)
-  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/QFyUL7AarFphWVzs9) 📍]**
-- **Hours:** 10:00 AM ~ 10:00 PM (open late)
-- **Machines:** Approximately 900 units
-- **Features:** Very fast turnover for latest trending character goods like Sanrio and Chiikawa. The store is laid out in a long corridor format, making it easy to browse.
+- <strong>Location:</strong> Adhoc Building 1F & M2F (street-facing)
+  *(5-minute walk from Shinjuku East Exit)* <strong>[📍[Google Maps↗](https://maps.app.goo.gl/QFyUL7AarFphWVzs9) 📍]</strong>
+- <strong>Hours:</strong> 10:00 AM ~ 10:00 PM (open late)
+- <strong>Machines:</strong> Approximately 900 units
+- <strong>Features:</strong> Very fast turnover for latest trending character goods like Sanrio and Chiikawa. The store is laid out in a long corridor format, making it easy to browse.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-10.jpg" alt="Shinjuku C-pla gashapon shop entrance and interior">
@@ -146,7 +146,7 @@ Located on the busiest street at Shinjuku's East Exit, it's the most convenient 
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku C-pla Crayon Shin-chan gacha</figcaption>
 </figure>
 
-The irresistible **'missile launch button'** gacha is here too! Just like in movies, you flip open the transparent cover and press the button to trigger a "BUZZ! BUZZ!" siren with flashing red lights.
+The irresistible <strong>'missile launch button'</strong> gacha is here too! Just like in movies, you flip open the transparent cover and press the button to trigger a "BUZZ! BUZZ!" siren with flashing red lights.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-14.jpg" alt="Emergency button gashapon at Shinjuku C-pla">
@@ -157,20 +157,20 @@ The irresistible **'missile launch button'** gacha is here too! Just like in mov
 
 ## 3. Late Night Hotspot: Kabukicho Tower Namco Tokyo
 
-Are Tokyo nights long but shops close early? Then head to **Shinjuku Kabukicho Tower**. It's the only place to enjoy gashapon until the early morning.
+Are Tokyo nights long but shops close early? Then head to <strong>Shinjuku Kabukicho Tower</strong>. It's the only place to enjoy gashapon until the early morning.
 
 ### 🔵 Namco Tokyo
 
-- **Location:** Shinjuku Kabukicho Tower 3F
-  *(8-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/E1w5WrhzpAFMi1wt8) 📍]**
-- **Hours:** 11:00 AM ~ **1:00 AM (25:00)**
-- **Machines:** 250 units
-- **Features:** Cyberpunk interior with flashy neon signs makes for amazing photos. It's an "adult playground" where you can enjoy beer or cocktails at the bar while getting gacha. 🍻
-- **Suica/Pasmo** payment available – perfect for using up remaining IC card balance!
+- <strong>Location:</strong> Shinjuku Kabukicho Tower 3F
+  *(8-minute walk from Shinjuku East Exit)* <strong>[📍[Google Maps↗](https://maps.app.goo.gl/E1w5WrhzpAFMi1wt8) 📍]</strong>
+- <strong>Hours:</strong> 11:00 AM ~ <strong>1:00 AM (25:00)</strong>
+- <strong>Machines:</strong> 250 units
+- <strong>Features:</strong> Cyberpunk interior with flashy neon signs makes for amazing photos. It's an "adult playground" where you can enjoy beer or cocktails at the bar while getting gacha. 🍻
+- <strong>Suica/Pasmo</strong> payment available – perfect for using up remaining IC card balance!
 
-**✅ [Check Online Stock Information](https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/namco_tokyo/)**
+<strong>✅ [Check Online Stock Information](https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/namco_tokyo/)</strong>
 
-**⚠️ Note:** Due to the Kabukicho area's nature, there may be touts late at night. Use main streets when traveling.
+<strong>⚠️ Note:</strong> Due to the Kabukicho area's nature, there may be touts late at night. Use main streets when traveling.
 
 <div class="image-group-2">
   <figure>
@@ -187,7 +187,7 @@ Are Tokyo nights long but shops close early? Then head to **Shinjuku Kabukicho T
   <figcaption style="font-size: 0.85em; text-align: center;">Smart gashapon accepting Suica/Pasmo at Namco Tokyo</figcaption>
 </figure>
 
-At Namco Tokyo, I found the **'Encyclopedia of Creatures - Stag Beetle'** series that kids love. It's scanned from real insects so it's realistically detailed. The wings open and all the legs move for 500 yen! Way cheaper than in Korea, so insect enthusiasts should definitely grab these.
+At Namco Tokyo, I found the <strong>'Encyclopedia of Creatures - Stag Beetle'</strong> series that kids love. It's scanned from real insects so it's realistically detailed. The wings open and all the legs move for 500 yen! Way cheaper than in Korea, so insect enthusiasts should definitely grab these.
 
 <div class="image-group-2">
   <figure>
@@ -203,16 +203,16 @@ At Namco Tokyo, I found the **'Encyclopedia of Creatures - Stag Beetle'** series
 
 ## 4. Shopping Combo: Bic Camera (Honest Review)
 
-Many blogs recommend this, but **for gacha-only visits, it might be disappointing.**
+Many blogs recommend this, but <strong>for gacha-only visits, it might be disappointing.</strong>
 
 ### 🟠 Bic Camera Shinjuku Higashiguchi Store
 
-- **Location:** Bic Camera Shinjuku Higashiguchi Store 6F
-  *(5-minute walk from Shinjuku East Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/WpHWvCfXPY6tWpPD8) 📍]**
-- **Hours:** 10:00 AM ~ 10:00 PM (year-round)
-- **Machines:** Approximately 100-150 units (smaller scale)
-- **Honest Check:** Significantly fewer machines compared to dedicated gashapon shops (C-pla, Nomori). While there are rumors about rare items at Shinjuku Bic Camera gashapon, they're often out of stock, so be cautious.
-- **Recommended For:** Rather than making a special trip, it's better as a light browse when shopping at the **6F toy section or Canmake**.
+- <strong>Location:</strong> Bic Camera Shinjuku Higashiguchi Store 6F
+  *(5-minute walk from Shinjuku East Exit)* <strong>[📍[Google Maps↗](https://maps.app.goo.gl/WpHWvCfXPY6tWpPD8) 📍]</strong>
+- <strong>Hours:</strong> 10:00 AM ~ 10:00 PM (year-round)
+- <strong>Machines:</strong> Approximately 100-150 units (smaller scale)
+- <strong>Honest Check:</strong> Significantly fewer machines compared to dedicated gashapon shops (C-pla, Nomori). While there are rumors about rare items at Shinjuku Bic Camera gashapon, they're often out of stock, so be cautious.
+- <strong>Recommended For:</strong> Rather than making a special trip, it's better as a light browse when shopping at the <strong>6F toy section or Canmake</strong>.
 
 <div class="image-group-2">
   <figure>
@@ -232,13 +232,13 @@ If you're looking for the official "Bandai" shop, head to Marui Department Store
 
 ### 🔴 Gashapon Bandai Official Shop (Shinjuku Gashapon Sanctuary)
 
-- **Location:** Shinjuku Marui (0101) Annex Department Store 6F
-  *(Shinjuku-sanchome Station Exit C4 / 8-minute walk from Shinjuku Station Southeast Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/sSrJQBa91TP18xzB7) 📍]**
-- **Hours:** Weekdays 11:00 AM ~ 8:00 PM (Sundays/holidays open at 10:30)
-- **Machines:** 330 units (premium line)
-- **Features:** As the official Bandai store, new releases arrive fastest. Most reliable lineup for Shinjuku gashapon featuring Crayon **Shin-chan**, Sanrio, Haikyuu, and other popular characters.
+- <strong>Location:</strong> Shinjuku Marui (0101) Annex Department Store 6F
+  *(Shinjuku-sanchome Station Exit C4 / 8-minute walk from Shinjuku Station Southeast Exit)* <strong>[📍[Google Maps↗](https://maps.app.goo.gl/sSrJQBa91TP18xzB7) 📍]</strong>
+- <strong>Hours:</strong> Weekdays 11:00 AM ~ 8:00 PM (Sundays/holidays open at 10:30)
+- <strong>Machines:</strong> 330 units (premium line)
+- <strong>Features:</strong> As the official Bandai store, new releases arrive fastest. Most reliable lineup for Shinjuku gashapon featuring Crayon <strong>Shin-chan</strong>, Sanrio, Haikyuu, and other popular characters.
 
-**✅ [Check Online Stock Information](https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/shinjuku-0101/item/)**
+<strong>✅ [Check Online Stock Information](https://bandainamco-am.co.jp/others/gashapon-bandai-officialshop/store/shinjuku-0101/item/)</strong>
 
 <div class="image-group-2">
   <figure>
@@ -250,7 +250,7 @@ If you're looking for the official "Bandai" shop, head to Marui Department Store
   <figcaption style="font-size: 0.85em; text-align: center;">Gashapon Bandai Official Shop - Store View & Latest Items</figcaption>
 </div>
 
-Here I discovered Bandai's cosmetic brand **'CreerBeaute'** gacha! 💍 It's a ring you can wear on your finger, and when you open the lid, it works as **lip balm + cheek tint + shadow**. With popular characters like Kuromi and Cinnamoroll, and at 500 yen, it's perfect as **gifts (omiyage)**.
+Here I discovered Bandai's cosmetic brand <strong>'CreerBeaute'</strong> gacha! 💍 It's a ring you can wear on your finger, and when you open the lid, it works as <strong>lip balm + cheek tint + shadow</strong>. With popular characters like Kuromi and Cinnamoroll, and at 500 yen, it's perfect as <strong>gifts (omiyage)</strong>.
 
 <div class="image-group-2">
   <figure>
@@ -262,14 +262,14 @@ Here I discovered Bandai's cosmetic brand **'CreerBeaute'** gacha! 💍 It's a r
   <figcaption style="font-size: 0.7em; text-align: center;">Gashapon Bandai cosmetic gacha</figcaption>
 </div>
 
-Have you seen **'flat gacha'**? 😲 Called **flat gashapon**, these come without capsules – A4 clear files or coasters come out directly! No capsule waste, and easy to slip into your bag, making them perfect souvenirs. Snoopy and Moomin coasters were so cute I couldn't resist getting them.
+Have you seen <strong>'flat gacha'</strong>? 😲 Called <strong>flat gashapon</strong>, these come without capsules – A4 clear files or coasters come out directly! No capsule waste, and easy to slip into your bag, making them perfect souvenirs. Snoopy and Moomin coasters were so cute I couldn't resist getting them.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-26.jpg" alt="Gashapon Bandai flat gacha rubber coasters">
   <figcaption style="font-size: 0.7em; text-align: center;">Gashapon Bandai flat gacha rubber coasters</figcaption>
 </figure>
 
-**Harry Potter coasters** are back in stock! Try your luck at Platform 9¾ pulls. Haikyuu fans shouldn't miss the great-value theatrical version jumbo sticker flat gacha either.
+<strong>Harry Potter coasters</strong> are back in stock! Try your luck at Platform 9¾ pulls. Haikyuu fans shouldn't miss the great-value theatrical version jumbo sticker flat gacha either.
 
 <div class="image-group-2">
   <figure>
@@ -289,11 +289,11 @@ The hottest entertainment complex among young people recently. Clean and comfort
 
 ### 🟡 ME TOKYO SHINJUKU
 
-- **Location:** ME TOKYO B1F
-  *(2-minute walk from Shinjuku Station Southeast Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/zAhzpWDSNrrN6ybC9) 📍]**
-- **Hours:** 10:00 AM ~ **1:00 AM (25:00)**
-- **Machines:** Approximately 600 units
-- **Features:** Not just gacha but also 10-yen crane games and latest sticker photo booths (purikura). Very new and clean, with costume rental available on 3F. Perfect for photos and fun with friends!
+- <strong>Location:</strong> ME TOKYO B1F
+  *(2-minute walk from Shinjuku Station Southeast Exit)* <strong>[📍[Google Maps↗](https://maps.app.goo.gl/zAhzpWDSNrrN6ybC9) 📍]</strong>
+- <strong>Hours:</strong> 10:00 AM ~ <strong>1:00 AM (25:00)</strong>
+- <strong>Machines:</strong> Approximately 600 units
+- <strong>Features:</strong> Not just gacha but also 10-yen crane games and latest sticker photo booths (purikura). Very new and clean, with costume rental available on 3F. Perfect for photos and fun with friends!
 
 <div class="image-group-2">
   <figure>
@@ -305,7 +305,7 @@ The hottest entertainment complex among young people recently. Clean and comfort
   <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku ME TOKYO - Exterior & B1F Gashapon Shop</figcaption>
 </div>
 
-Here I discovered **Hikaru no Go (Ghost Go King)** manga book keyrings! 😭 Only 300 yen, with great cover quality and adorable tiny Go stones attached.
+Here I discovered <strong>Hikaru no Go (Ghost Go King)</strong> manga book keyrings! 😭 Only 300 yen, with great cover quality and adorable tiny Go stones attached.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-31.jpg" alt="Hikaru no Go gashapon at ME Tokyo">
@@ -316,15 +316,15 @@ Here I discovered **Hikaru no Go (Ghost Go King)** manga book keyrings! 😭 Onl
 
 ## 7. West Exit King: Yodobashi Camera Gashapon Center
 
-If you're staying near Shinjuku's **West Exit (Nishiguchi)**, there's no need to go far – this is your answer.
+If you're staying near Shinjuku's <strong>West Exit (Nishiguchi)</strong>, there's no need to go far – this is your answer.
 
 ### 🔵 Yodobashi Camera Gashapon Center
 
-- **Location:** Yodobashi Camera Shinjuku Nishiguchi Main Store (Gashapon Center)
-  *(5-minute walk from Shinjuku West Exit)* **[📍[Google Maps↗](https://maps.app.goo.gl/M2sn8XwEu3uQgAxb7) 📍]**
-- **Hours:** **9:30 AM** ~ 10:00 PM **(earliest opening!)**
-- **Machines:** Approximately 800-1,000 units (including surrounding areas)
-- **Features:** The entire area around Yodobashi Camera is surrounded by gacha machines. Perfect location for clearing out spare coins before/after using the subway (Keio Line, Odakyu Line).
+- <strong>Location:</strong> Yodobashi Camera Shinjuku Nishiguchi Main Store (Gashapon Center)
+  *(5-minute walk from Shinjuku West Exit)* <strong>[📍[Google Maps↗](https://maps.app.goo.gl/M2sn8XwEu3uQgAxb7) 📍]</strong>
+- <strong>Hours:</strong> <strong>9:30 AM</strong> ~ 10:00 PM <strong>(earliest opening!)</strong>
+- <strong>Machines:</strong> Approximately 800-1,000 units (including surrounding areas)
+- <strong>Features:</strong> The entire area around Yodobashi Camera is surrounded by gacha machines. Perfect location for clearing out spare coins before/after using the subway (Keio Line, Odakyu Line).
 
 <div class="image-group-2">
   <figure>
@@ -336,7 +336,7 @@ If you're staying near Shinjuku's **West Exit (Nishiguchi)**, there's no need to
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Yodobashi Camera west exit gashapon center entrance and street gashapon location map</figcaption>
 </div>
 
-Attention Chiikawa fans! There's a great-value gacha with **4 cute Chiikawa stickers** for just 200 yen. They look adorable behind a transparent phone case, so I recommend getting lots for friends!
+Attention Chiikawa fans! There's a great-value gacha with <strong>4 cute Chiikawa stickers</strong> for just 200 yen. They look adorable behind a transparent phone case, so I recommend getting lots for friends!
 
 <div class="image-group-2">
   <figure>
@@ -354,38 +354,46 @@ Attention Chiikawa fans! There's a great-value gacha with **4 cute Chiikawa stic
 
 Even first-time visitors to Shinjuku gacha (gashapon) will find this guide sufficient.
 
-1. **If it's raining or hot?** 👉 Underground shopping area **Gachapon Forest**
-2. **Want accessibility/new releases?** 👉 East Exit **C-pla**
-3. **Late night/hotspot desired?** 👉 **Kabukicho Tower** or **ME TOKYO**
+1. <strong>If it's raining or hot?</strong> 👉 Underground shopping area <strong>Gachapon Forest</strong>
+2. <strong>Want accessibility/new releases?</strong> 👉 East Exit <strong>C-pla</strong>
+3. <strong>Late night/hotspot desired?</strong> 👉 <strong>Kabukicho Tower</strong> or <strong>ME TOKYO</strong>
 
 ## 🧡 Related Shinjuku Travel Guides
 
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-luggage-storage/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **No more luggage worries!** **➡️ <a href="/posts/shinjuku-luggage-storage/" style="color: #667eea;"><strong>Shinjuku Station Luggage Storage 100% Success Guide, Coin Locker Locations & Tips</strong></a>**
+- <strong>No more luggage worries!</strong> <strong>➡️ <a href="/posts/shinjuku-luggage-storage/" style="color: #667eea;"><strong>Shinjuku Station Luggage Storage 100% Success Guide, Coin Locker Locations & Tips</strong></a></strong>
 
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-station-breakfast-best-8/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **Opens at 7 AM for breakfast!** **➡️ <a href="/posts/shinjuku-station-breakfast-best-8/" style="color: #667eea;"><strong>Shinjuku Station Breakfast 7-8 AM Opening, Brunch & Home-style Meals</strong></a>**
+- <strong>Opens at 7 AM for breakfast!</strong> <strong>➡️ <a href="/posts/shinjuku-station-breakfast-best-8/" style="color: #667eea;"><strong>Shinjuku Station Breakfast 7-8 AM Opening, Brunch & Home-style Meals</strong></a></strong>
 
-- **Itinerary Planning** **➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Complete Shinjuku Guide: Restaurants, Shopping & Activities Course</strong></a>**
+- <strong>Itinerary Planning</strong> <strong>➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Complete Shinjuku Guide: Restaurants, Shopping & Activities Course</strong></a></strong>
 
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-gyoen-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **Autumn Picnic** ➡️ **<a href="/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;"><strong>Shinjuku Gyoen Admission, Hours, Starbucks & Picnic Guide</strong></a>**
+- <strong>Autumn Picnic</strong> ➡️ <strong><a href="/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;"><strong>Shinjuku Gyoen Admission, Hours, Starbucks & Picnic Guide</strong></a></strong>
 
 <!-- TODO: Update link after migration
      Naver: /posts/tokyo-metropolitan-govt-observatory/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **Free Night View** **➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Free Observatory Access & Night View Tips</strong></a>**
+- <strong>Free Night View</strong> <strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Free Observatory Access & Night View Tips</strong></a></strong>
 
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /posts/[SLUG_TBD]/ -->
-- **Shinjuku Nights ➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Comparison</strong></a>**
+- <strong>Shinjuku Nights ➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Comparison</strong></a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224090178080" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 
 <div class="editors-note">

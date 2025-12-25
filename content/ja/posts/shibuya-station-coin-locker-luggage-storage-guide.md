@@ -13,9 +13,9 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 「コインロッカーがどこも空いてない！」😱
 「キャリーケースが入るサイズが見つからない…」
 
-渋谷を訪れた際、多くの人が直面する**「コインロッカー難民」**問題。複雑な「渋谷ダンジョン」と絶え間ない人混みの中で、空いているロッカーを見つけるのは至難の業です。
+渋谷を訪れた際、多くの人が直面する<strong>「コインロッカー難民」</strong>問題。複雑な「渋谷ダンジョン」と絶え間ない人混みの中で、空いているロッカーを見つけるのは至難の業です。
 
-でもご安心ください！重い荷物を持って歩き回らなくて済むように、**渋谷駅周辺の荷物預かり情報**を徹底的にまとめました。知る人ぞ知る穴場スポットから、確実に預けられる予約アプリまで、役立つ情報をすべてご紹介します！
+でもご安心ください！重い荷物を持って歩き回らなくて済むように、<strong>渋谷駅周辺の荷物預かり情報</strong>を徹底的にまとめました。知る人ぞ知る穴場スポットから、確実に預けられる予約アプリまで、役立つ情報をすべてご紹介します！
 
 ---
 
@@ -23,12 +23,12 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 まずはJR・東京メトロなどの駅構内にあるコインロッカーをチェックしましょう。
 
-**⚠️ 注意：** ハチ公改札付近などの便利な場所は、朝から**ほぼ満杯**です。もし空きを見つけたら、即座に確保することをおすすめします！
+<strong>⚠️ 注意：</strong> ハチ公改札付近などの便利な場所は、朝から<strong>ほぼ満杯</strong>です。もし空きを見つけたら、即座に確保することをおすすめします！
 
 ### 🔑 コインロッカーの基本
-*   **支払い：** 多くのロッカーで交通系ICカード（Suica/PASMO）と現金（100円硬貨）が利用可能です。
-*   **料金相場：** 小（400〜500円）/ 中（600〜700円）/ 大（800〜1,000円）。
-*   **預け入れ期間：** 通常3日（72時間）まで。午前2時などで日替わりとなり追加料金が発生します。
+*   <strong>支払い：</strong> 多くのロッカーで交通系ICカード（Suica/PASMO）と現金（100円硬貨）が利用可能です。
+*   <strong>料金相場：</strong> 小（400〜500円）/ 中（600〜700円）/ 大（800〜1,000円）。
+*   <strong>預け入れ期間：</strong> 通常3日（72時間）まで。午前2時などで日替わりとなり追加料金が発生します。
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-01.jpg" alt="渋谷駅荷物預かりガイド">
@@ -39,11 +39,11 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 無駄足を踏まないために、事前に空き状況をチェックしましょう！
 
-👉 **[JRコインロッカーのリアルタイム空き状況を確認する](https://multiecube.com/?q=%E6%B8%8B%E8%B0%B7&when=specific_date)**
+👉 <strong>[JRコインロッカーのリアルタイム空き状況を確認する](https://multiecube.com/?q=%E6%B8%8B%E8%B0%B7&when=specific_date)</strong>
 
 <br>
 
-**1. JR 3階 中央改札（改札内）**
+<strong>1. JR 3階 中央改札（改札内）</strong>
 一番見つけやすいですが、競争率も一番高い激戦区です。
 
 <figure>
@@ -51,7 +51,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 <figcaption style="font-size: 0.85em; text-align: center;">JR渋谷駅3階 中央改札 コインロッカー（改札内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
-**2. JR 3階 新南改札（改札内）**
+<strong>2. JR 3階 新南改札（改札内）</strong>
 成田エクスプレス（N'EX）や埼京線を利用する場合に便利です。
 
 <figure>
@@ -59,7 +59,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 <figcaption style="font-size: 0.85em; text-align: center;">JR渋谷駅3階 新南改札 コインロッカー（改札内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
-**3. JR 1階エリア**
+<strong>3. JR 1階エリア</strong>
 改札内、JR東日本旅行サービスセンター前、西口付近にもロッカーがあります。
 
 <figure>
@@ -73,57 +73,57 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 
 
-**2️⃣ 東京メトロ 渋谷駅 コインロッカー位置**
+<strong>2️⃣ 東京メトロ 渋谷駅 コインロッカー位置</strong>
 
 地下鉄を利用するなら地下通路を攻略しましょう。
 
-1.  **地下1階 A2出口：** 渋谷109に近く、大型ロッカーも多めです。
-2.  **地下1階 A4出口**
-3.  **地下2階 A1〜A4番出口方面 改札付近**
-4.  **地下2階 通路 - 地下2階案内所付近**
-5.  **地下2階 B3〜B4番出口方面 改札付近**
+1.  <strong>地下1階 A2出口：</strong> 渋谷109に近く、大型ロッカーも多めです。
+2.  <strong>地下1階 A4出口</strong>
+3.  <strong>地下2階 A1〜A4番出口方面 改札付近</strong>
+4.  <strong>地下2階 通路 - 地下2階案内所付近</strong>
+5.  <strong>地下2階 B3〜B4番出口方面 改札付近</strong>
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-05.jpg" alt="東京メトロ渋谷駅コインロッカー位置図">
 <figcaption style="font-size: 0.85em; text-align: center;">東京メトロ渋谷駅 地下1階・2階 コインロッカー位置図（<a href="https://www.tokyometro.jp/lang_kr/station/shibuya/index.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
-**3️⃣ B7出口 / スクランブルスクエア地下1階**
+<strong>3️⃣ B7出口 / スクランブルスクエア地下1階</strong>
 
-*   **特徴：** 渋谷スカイに一番近いです。
-*   **場所：** B7出口（宮益坂方面）通路、またはスクランブルスクエア地下1階 紀ノ国屋スーパーマーケット付近。
-*   👉 **[Googleマップで位置を見る](https://maps.app.goo.gl/XU7jtJadCW7Qxp7S8)** 📍
+*   <strong>特徴：</strong> 渋谷スカイに一番近いです。
+*   <strong>場所：</strong> B7出口（宮益坂方面）通路、またはスクランブルスクエア地下1階 紀ノ国屋スーパーマーケット付近。
+*   👉 <strong>[Googleマップで位置を見る](https://maps.app.goo.gl/XU7jtJadCW7Qxp7S8)</strong> 📍
 
 > [!WARNING]
-> **注意：** 最新のロッカーは**現金不可（交通系ICカード専用）**の場所が増えています。あらかじめSuica/PASMOをチャージしておきましょう！
+> <strong>注意：</strong> 最新のロッカーは<strong>現金不可（交通系ICカード専用）</strong>の場所が増えています。あらかじめSuica/PASMOをチャージしておきましょう！
 
 <br>
 
-🧡 重い荷物は預けて、今渋谷で最もホットな**パルコ**と**ミヤシタパーク**を見に行きませんか？任天堂ストアからHUMAN MADEまで、フロアごとにまとめました。
+🧡 重い荷物は預けて、今渋谷で最もホットな<strong>パルコ</strong>と<strong>ミヤシタパーク</strong>を見に行きませんか？任天堂ストアからHUMAN MADEまで、フロアごとにまとめました。
 
-➡️ [**渋谷パルコ完全攻略｜フロアガイド・免税・グルメ・ブランド**](/ja/posts/shibuya-parco-shopping-guide/)
+➡️ [<strong>渋谷パルコ完全攻略｜フロアガイド・免税・グルメ・ブランド</strong>](/ja/posts/shibuya-parco-shopping-guide/)
 
-➡️ [**渋谷ミヤシタパーク＆渋谷横丁の本音レビュー (2025 クリスマスマーケット)**](/ja/posts/shibuya-miyashita-park-yokocho-2025/)
+➡️ [<strong>渋谷ミヤシタパーク＆渋谷横丁の本音レビュー (2025 クリスマスマーケット)</strong>](/ja/posts/shibuya-miyashita-park-yokocho-2025/)
 
 ---
 
 ## 2. 渋谷マークシティ（穴場スポット） 🧡
 
-駅のロッカーが全滅なら、迷わず**渋谷マークシティ**へ向かいましょう。駅直結（京王井の頭線）ですが、意外と知られていない穴場です。
+駅のロッカーが全滅なら、迷わず<strong>渋谷マークシティ</strong>へ向かいましょう。駅直結（京王井の頭線）ですが、意外と知られていない穴場です。
 
 
 
 ### マークシティを選ぶ理由
-*   **アクセス：** 西口エリアの「ウェービング通り」などから直結。
-*   **利便性：** 5階には高速バスターミナルがあり、空港へ向かう前の利用にも最適です。
-*   **空き状況：** 4階と5階には大型ロッカーもあり、週末でも空いていることが多いです。
+*   <strong>アクセス：</strong> 西口エリアの「ウェービング通り」などから直結。
+*   <strong>利便性：</strong> 5階には高速バスターミナルがあり、空港へ向かう前の利用にも最適です。
+*   <strong>空き状況：</strong> 4階と5階には大型ロッカーもあり、週末でも空いていることが多いです。
 
 > [!TIP]
-> **コツ：** 無駄足防止！リアルタイムで空き状況を確認しましょう。
+> <strong>コツ：</strong> 無駄足防止！リアルタイムで空き状況を確認しましょう。
 >
-> ➡️ [**井の頭線コインロッカー空き状況を確認する**](https://www.keiochika.co.jp/locker/service/shibuya.html)
+> ➡️ [<strong>井の頭線コインロッカー空き状況を確認する</strong>](https://www.keiochika.co.jp/locker/service/shibuya.html)
 
-**1. 1階（改札外）**
+<strong>1. 1階（改札外）</strong>
 道路からアクセスしやすい場所にあります。
 
 <figure>
@@ -131,7 +131,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 <figcaption style="font-size: 0.85em; text-align: center;">渋谷マークシティ 1階 コインロッカー位置図（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
-**2. 2階（改札内・改札外）**
+<strong>2. 2階（改札内・改札外）</strong>
 京王井の頭線の改札付近にあります。
 
 <figure>
@@ -139,7 +139,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 <figcaption style="font-size: 0.85em; text-align: center;">渋谷マークシティ 2階 コインロッカー位置図（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
-**3. 4階・5階**
+<strong>3. 4階・5階</strong>
 高速バス乗り場（5階）やレストラン街（4階）の近くです。長時間の利用にも向いています。
 
 <figure>
@@ -148,7 +148,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 </figure>
 
 > [!TIP]
-> **おすすめ：** マークシティに荷物を預けたら、同じ建物の4階にある人気寿司店**「梅丘寿司の美登利」**でランチはいかがですか？
+> <strong>おすすめ：</strong> マークシティに荷物を預けたら、同じ建物の4階にある人気寿司店<strong>「梅丘寿司の美登利」</strong>でランチはいかがですか？
 >
 > ➡️ [渋谷「寿司の美登利」完全攻略｜待ち時間・予約・メニュー](/ja/posts/shibuya-sushi-no-midori-lunch-guide/)
 
@@ -156,15 +156,15 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 ## 3. 雨の日も安心！WANDER COMPASS（ワンダーコンパス） ☔
 
-地上に出たくない重い荷物の時は、地下通路（しぶちか）にある**WANDER COMPASS**が便利です。
+地上に出たくない重い荷物の時は、地下通路（しぶちか）にある<strong>WANDER COMPASS</strong>が便利です。
 
-*   **場所：** 渋谷駅地下1階、渋谷109のすぐ隣（A2出口付近）。
-*   **地図：** [Googleマップを見る](https://maps.app.goo.gl/CnmwkSAggzzMcxZu6) 📍
-*   **特徴：**
-    *   **大型荷物OK：** ロッカーに入らないベビーカーや楽器、特大スーツケースも預かり可能。
-    *   **有人対応：** スタッフが常駐しているので安心です。
-*   **料金：** 1個 900円 / 1日
-*   **営業時間：** 10:00 〜 19:00
+*   <strong>場所：</strong> 渋谷駅地下1階、渋谷109のすぐ隣（A2出口付近）。
+*   <strong>地図：</strong> [Googleマップを見る](https://maps.app.goo.gl/CnmwkSAggzzMcxZu6) 📍
+*   <strong>特徴：</strong>
+    *   <strong>大型荷物OK：</strong> ロッカーに入らないベビーカーや楽器、特大スーツケースも預かり可能。
+    *   <strong>有人対応：</strong> スタッフが常駐しているので安心です。
+*   <strong>料金：</strong> 1個 900円 / 1日
+*   <strong>営業時間：</strong> 10:00 〜 19:00
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-09.jpg" alt="Wander Compass Location Map">
@@ -175,21 +175,21 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 ## 4. shibuya-san：JCBカードで無料特典も！ 🎁
 
-もし**JCBカード**をお持ちで、空港リムジンバスを利用するなら、**shibuya-san（シブヤサン）**一択です。
+もし<strong>JCBカード</strong>をお持ちで、空港リムジンバスを利用するなら、<strong>shibuya-san（シブヤサン）</strong>一択です。
 
 ### ✅ 基本情報
-*   **場所：** 渋谷フクラス（東急プラザ）1階（空港バス乗り場の目の前！）
-*   **地図：** [Googleマップを見る](https://maps.app.goo.gl/EQ8LWdPeupacQbri7) 📍
-*   **営業時間：** 10:00 〜 19:30（当日中の引き取り必須）
-*   **料金：** 小 700円 / 大 1,000円
+*   <strong>場所：</strong> 渋谷フクラス（東急プラザ）1階（空港バス乗り場の目の前！）
+*   <strong>地図：</strong> [Googleマップを見る](https://maps.app.goo.gl/EQ8LWdPeupacQbri7) 📍
+*   <strong>営業時間：</strong> 10:00 〜 19:30（当日中の引き取り必須）
+*   <strong>料金：</strong> 小 700円 / 大 1,000円
 
 ### 💳 JCBカード会員限定特典
-*   **特典：** **荷物1個預かり無料** ＋ ドリンク1杯無料
-*   **条件：** JCBカードとパスポート等の提示（1日1回）
-*   **期間：** 2026年3月31日まで
+*   <strong>特典：</strong> <strong>荷物1個預かり無料</strong> ＋ ドリンク1杯無料
+*   <strong>条件：</strong> JCBカードとパスポート等の提示（1日1回）
+*   <strong>期間：</strong> 2026年3月31日まで
 
 > [!NOTE]
-> 空港へ向かう際、バス以外に**成田エクスプレス（N'EX）**という選択肢もあります。時間や料金を比較してみてください。
+> 空港へ向かう際、バス以外に<strong>成田エクスプレス（N'EX）</strong>という選択肢もあります。時間や料金を比較してみてください。
 >
 > <!-- TODO: Update link after migration
 >      Naver: https://blog.naver.com/tokyomate/223702865232
@@ -201,18 +201,18 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 ## 5. 確実さを求めるなら！荷物預かり予約アプリ 📱
 
 「現地に行って空いてなかったらどうしよう…」
-そんな不安を解消するのが**「荷物預かり予約アプリ」**です。カフェやレストラン、カラオケ店などの空きスペースを事前に予約できます。
+そんな不安を解消するのが<strong>「荷物預かり予約アプリ」</strong>です。カフェやレストラン、カラオケ店などの空きスペースを事前に予約できます。
 
 ### 1️⃣ ecbo cloak（エクボクローク）- イチオシ 👍
-*   **特徴：** 導入店舗数No.1。
-*   **メリット：** 超大型の荷物やベビーカーもOK。預かり時の写真証明があり安心。
-*   **使い方：** アプリDL → 「渋谷」で検索 → 日時指定で予約決済 → 店舗でQRコード提示。
-*   **リンク：** [ecbo cloak 予約ページ](https://cloak.ecbo.io/ja/jpn/city/tokyo/5)
+*   <strong>特徴：</strong> 導入店舗数No.1。
+*   <strong>メリット：</strong> 超大型の荷物やベビーカーもOK。預かり時の写真証明があり安心。
+*   <strong>使い方：</strong> アプリDL → 「渋谷」で検索 → 日時指定で予約決済 → 店舗でQRコード提示。
+*   <strong>リンク：</strong> [ecbo cloak 予約ページ](https://cloak.ecbo.io/ja/jpn/city/tokyo/5)
 
 ### 2️⃣ Bounce（バウンス）
-*   **特徴：** 24時間営業の店舗（ネットカフェやカラオケなど）が多い。
-*   **メリット：** 深夜の引き取りや早朝の預け入れに便利。
-*   **リンク：** [Bounce 予約ページ](https://usebounce.com/s?query=Shibuya)
+*   <strong>特徴：</strong> 24時間営業の店舗（ネットカフェやカラオケなど）が多い。
+*   <strong>メリット：</strong> 深夜の引き取りや早朝の預け入れに便利。
+*   <strong>リンク：</strong> [Bounce 予約ページ](https://usebounce.com/s?query=Shibuya)
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-10.jpg" alt="ヒカリエでのecbo cloak利用">
@@ -223,36 +223,36 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 ## 6. 深夜・早朝利用の注意点（24時間対応） 🌙
 
-深夜便や早朝バスを利用する場合、**駅のコインロッカーは要注意**です。
-終電後（深夜0時半頃〜）はシャッターが下り、**始発まで荷物が取り出せなくなります！**
+深夜便や早朝バスを利用する場合、<strong>駅のコインロッカーは要注意</strong>です。
+終電後（深夜0時半頃〜）はシャッターが下り、<strong>始発まで荷物が取り出せなくなります！</strong>
 
-**✅ 24時間利用したい場合：**
-1.  **Bounceアプリを活用：** 「ビッグエコー」などのカラオケ店や24時間営業の漫画喫茶を予約しましょう。
-2.  **MEGAドン・キホーテ：** 買い物客用のロッカーがありますが、競争率は非常に高いです。
-3.  **注意：** 路上にある24時間ロッカーは便利ですが、セキュリティ面を考えると有人店舗やアプリ経由がおすすめです。
+<strong>✅ 24時間利用したい場合：</strong>
+1.  <strong>Bounceアプリを活用：</strong> 「ビッグエコー」などのカラオケ店や24時間営業の漫画喫茶を予約しましょう。
+2.  <strong>MEGAドン・キホーテ：</strong> 買い物客用のロッカーがありますが、競争率は非常に高いです。
+3.  <strong>注意：</strong> 路上にある24時間ロッカーは便利ですが、セキュリティ面を考えると有人店舗やアプリ経由がおすすめです。
 
 ---
 
 ## 🙋‍♀️ よくある質問（FAQ）
 
-**Q. 渋谷スクランブルスクエア（SHIBUYA SKY）にスーツケースを持ち込めますか？**
-A. **持ち込めません。** 46階の展望台入口に専用ロッカー（100円リターン式）がありますが、機内持ち込みサイズ程度しか入りません。大きな荷物は必ず駅などで預けてから向かいましょう。
+<strong>Q. 渋谷スクランブルスクエア（SHIBUYA SKY）にスーツケースを持ち込めますか？</strong>
+A. <strong>持ち込めません。</strong> 46階の展望台入口に専用ロッカー（100円リターン式）がありますが、機内持ち込みサイズ程度しか入りません。大きな荷物は必ず駅などで預けてから向かいましょう。
 
-**Q. コインロッカーは何日間預けられますか？**
-A. 通常は**3日間（72時間）**までです。日付が変わるタイミング（深夜2時頃が多い）で追加料金が発生します。長期保管の場合は**ecbo cloak**の方が安く安全な場合が多いです。
+<strong>Q. コインロッカーは何日間預けられますか？</strong>
+A. 通常は<strong>3日間（72時間）</strong>までです。日付が変わるタイミング（深夜2時頃が多い）で追加料金が発生します。長期保管の場合は<strong>ecbo cloak</strong>の方が安く安全な場合が多いです。
 
-**Q. 小銭がありません！**
+<strong>Q. 小銭がありません！</strong>
 A. 古い鍵式のロッカーは100円玉しか使えません。最新式はSuica/PASMOが使えますが、万が一のために100円玉を数枚持っておくと安心です。
 
 ---
 
 ## まとめ：あなたに最適なのはどこ？
 
-*   **とにかく早く預けたい** 🏃 👉 **A2出口付近**のロッカーを午前中に確保！
-*   **大きな荷物・確実性重視** 🧳 👉 **ecbo cloak** でアプリ予約
-*   **深夜・早朝に出し入れする** 🌙 👉 **Bounce** で24時間店舗を予約
-*   **JCBカードを持っている** 💳 👉 **shibuya-san** で無料特典を利用
-*   **空港バスを利用する** 🚌 👉 **マークシティ5階** または **shibuya-san**
+*   <strong>とにかく早く預けたい</strong> 🏃 👉 <strong>A2出口付近</strong>のロッカーを午前中に確保！
+*   <strong>大きな荷物・確実性重視</strong> 🧳 👉 <strong>ecbo cloak</strong> でアプリ予約
+*   <strong>深夜・早朝に出し入れする</strong> 🌙 👉 <strong>Bounce</strong> で24時間店舗を予約
+*   <strong>JCBカードを持っている</strong> 💳 👉 <strong>shibuya-san</strong> で無料特典を利用
+*   <strong>空港バスを利用する</strong> 🚌 👉 <strong>マークシティ5階</strong> または <strong>shibuya-san</strong>
 
 重い荷物は預けて、身軽に渋谷観光を楽しんでください！🎒✨
 
@@ -266,7 +266,7 @@ A. 古い鍵式のロッカーは100円玉しか使えません。最新式はSu
 
 <br>
 
-**🚅 次の目的地は「新宿」ですか？**
+<strong>🚅 次の目的地は「新宿」ですか？</strong>
 新宿ダンジョンも手強いです！新宿駅の荷物預かり情報も事前にチェックしておきましょう。
 
 👉 [新宿駅の荷物預かり完全ガイド（コインロッカー・予約・場所）](/ja/posts/shinjuku-luggage-storage/)

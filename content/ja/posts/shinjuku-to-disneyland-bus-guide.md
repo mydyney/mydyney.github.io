@@ -69,7 +69,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
   </tbody>
 </table>
 
-**📌 家族におすすめ！**
+<strong>📌 家族におすすめ！</strong>
 子連れの場合、「座席予約+荷物保管」できるリムジンバスの方がはるかに効率的です。
 
 <figure>
@@ -83,13 +83,13 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 ### ✅ バスタ新宿（バスターミナル）
 
-- **場所：** JR新宿駅新南口直結
-- **階層：** 4階バスターミナル
-- **チケット売り場：** 3階インフォメーションデスク（Suica/PayPay使用可）
+- <strong>場所：</strong> JR新宿駅新南口直結
+- <strong>階層：</strong> 4階バスターミナル
+- <strong>チケット売り場：</strong> 3階インフォメーションデスク（Suica/PayPay使用可）
 
-**📍 Googleマップ：バスタ新宿 <a href="https://maps.app.goo.gl/N5eYAsxAi26R6o1x5" target="_blank">場所を見る</a>**
+<strong>📍 Googleマップ：バスタ新宿 <a href="https://maps.app.goo.gl/N5eYAsxAi26R6o1x5" target="_blank">場所を見る</a></strong>
 
-**🚶‍♀️ 行き方**
+<strong>🚶‍♀️ 行き方</strong>
 新宿駅南口→NEWoMan百貨店横のエスカレーター→4階「BUSTA SHINJUKU」に上がればすぐバス乗車！
 
 <figure>
@@ -129,7 +129,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
   </tbody>
 </table>
 
-**💡 おすすめ時間：**
+<strong>💡 おすすめ時間：</strong>
 家族の場合、07:00～08:30の間のバスがおすすめ（開園時間に間に合います）
 土日祝日は事前予約必須！（7:00台のバスはすぐ満席になります）
 
@@ -170,7 +170,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
   </tbody>
 </table>
 
-**📌 ヒント：**
+<strong>📌 ヒント：</strong>
 花火鑑賞後（20:30～20:45）でも、
 21:00以降の最終バス（21:10～21:30）があります！
 
@@ -200,12 +200,12 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
   </tbody>
 </table>
 
-**✅ 事前予約不要**
+<strong>✅ 事前予約不要</strong>
 
-**🚌 バスタ新宿から乗車する場合**
+<strong>🚌 バスタ新宿から乗車する場合</strong>
 バスタ新宿の券売機またはカウンターでチケット購入
 
-**🚌 東京ディズニーリゾートから乗車する場合**
+<strong>🚌 東京ディズニーリゾートから乗車する場合</strong>
 車内で現金またはICカード（PASMO、Suicaなど）で支払い
 クレジットカードのタッチ決済も可能です。
 
@@ -238,7 +238,7 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
   </tbody>
 </table>
 
-**👉 結論**
+<strong>👉 結論</strong>
 - 子連れ家族 → バス！
 - 一人/カップル旅行 → JR、地下鉄！
 
@@ -251,14 +251,14 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 ## 👨‍👩‍👧 おすすめ新宿家族旅行コース
 
-- **朝：** 新宿の宿泊施設出発→07:00バス乗車
-- **午前～夕方：** ディズニーランドで一日満喫
-- **夜：** 帰りバス乗車→新宿到着→NewoMan周辺で夕食
+- <strong>朝：</strong> 新宿の宿泊施設出発→07:00バス乗車
+- <strong>午前～夕方：</strong> ディズニーランドで一日満喫
+- <strong>夜：</strong> 帰りバス乗車→新宿到着→NewoMan周辺で夕食
 
-🎡 **ディズニーを含む子供向けパークの完全ルートはこちら**
-**➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方（サンリオ、トーマス、読売、東京ドーム）</a>**
+🎡 <strong>ディズニーを含む子供向けパークの完全ルートはこちら</strong>
+<strong>➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方（サンリオ、トーマス、読売、東京ドーム）</a></strong>
 
-🎠 **ディズニーパーク情報：**
+🎠 <strong>ディズニーパーク情報：</strong>
 ➡️ <a href="/ja/posts/tokyo-disneyland-complete-guide/" target="_blank">東京ディズニーランド完全ガイド（チケット、DPA、レストラン）</a>
 
 <figure>
@@ -270,17 +270,17 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 
 ## 📌 関連旅行ガイド
 
-**<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全コースガイド</a>**
+<strong><a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全コースガイド</a></strong>
 
-**➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方</a>**
+<strong>➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方</a></strong>
 
-**➡️ <a href="/ja/posts/tokyo-disneyland-complete-guide/" target="_blank">東京ディズニーランド完全ガイド</a>**
+<strong>➡️ <a href="/ja/posts/tokyo-disneyland-complete-guide/" target="_blank">東京ディズニーランド完全ガイド</a></strong>
 
 ---
 
 ## 🎁 最後のまとめ
 
-✔️ **新宿出発→バスタ新宿リムジンバス→1時間でディズニーランド到着！**
+✔️ <strong>新宿出発→バスタ新宿リムジンバス→1時間でディズニーランド到着！</strong>
 荷物が多く子連れの家族にとって、このルートが最もストレスフリーな旅行方法です。
 
 

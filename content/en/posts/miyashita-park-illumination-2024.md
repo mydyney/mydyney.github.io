@@ -10,26 +10,26 @@ summary: "Discover Shibuya Miyashita Park's enchanting Christmas illumination tu
 featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ---
 
-📌 **For the latest 2025 Miyashita Park Christmas Market information, check out this post!**
+📌 <strong>For the latest 2025 Miyashita Park Christmas Market information, check out this post!</strong>
 
-[➡️ **Shibuya Miyashita Park & Shibuya Yokocho (2025 Christmas Market · Powerpuff Girls · Honest Review)**](/posts/shibuya-miyashita-park-yokocho-2025/)
+[➡️ <strong>Shibuya Miyashita Park & Shibuya Yokocho (2025 Christmas Market · Powerpuff Girls · Honest Review)</strong>](/posts/shibuya-miyashita-park-yokocho-2025/)
 
 The rooftop garden at Tokyo's Shibuya Miyashita Park (MIYASHITA PARK) has transformed into a magical purple wonderland. Let me introduce you to this Instagram-worthy Christmas illumination spot.
 
 ## Period & Hours
 
-**Period:** November 23, 2024 ~ January 7, 2025  
+<strong>Period:</strong> November 23, 2024 ~ January 7, 2025  
 ※Closed: December 29, 2024 ~ January 3, 2025
 
-**Hours:** 8:00 AM ~ 10:40 PM
+<strong>Hours:</strong> 8:00 AM ~ 10:40 PM
 
-**Admission:** Free
+<strong>Admission:</strong> Free
 
-**Location:** Miyashita Park 4F Rooftop Garden
+<strong>Location:</strong> Miyashita Park 4F Rooftop Garden
 
-**Google Maps:** https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9
+<strong>Google Maps:</strong> https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9
 
-[**Miyashita Park · 6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001, Japan**](https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9) 📍
+[<strong>Miyashita Park · 6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001, Japan</strong>](https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9) 📍
 
 ## How to Get There
 
@@ -87,17 +87,17 @@ Follow the stairs down from the middle of the rooftop. This path connects to Tow
 
 On the weekend right before Christmas, "Love Purple Music Night" takes place with music and an exciting atmosphere. It's a small party featuring DJs, live music, and food trucks.
 
-**Period:** December 20 (Fri) ~ December 22 (Sun), 2024
+<strong>Period:</strong> December 20 (Fri) ~ December 22 (Sun), 2024
 
-**Hours:** 4:00 PM ~ 9:00 PM
+<strong>Hours:</strong> 4:00 PM ~ 9:00 PM
 
-**Location:** Miyashita Park 4F Lawn Plaza
+<strong>Location:</strong> Miyashita Park 4F Lawn Plaza
 
-**Admission:** Free
+<strong>Admission:</strong> Free
 
 This event also includes the Purple Ribbon campaign, an international movement opposing violence against all vulnerable people, including women and children, and promoting a world without violence where we respect and protect each other.
 
-**Image Source:** https://www.miyashita-park.tokyo/schedule/?p=2393
+<strong>Image Source:</strong> https://www.miyashita-park.tokyo/schedule/?p=2393
 
 ## Special Events
 
@@ -106,15 +106,15 @@ This event also includes the Purple Ribbon campaign, an international movement o
 ![Christmas Tree Workshop](/images/posts/miyashita-park-illumination-2024-11.jpg)
 *Image Source: https://www.miyashita-park.tokyo/schedule/?p=2393*
 
-**Date:** December 21 ~ 22, 2024
+<strong>Date:</strong> December 21 ~ 22, 2024
 
-**Time:** 1:00 PM ~ 4:00 PM
+<strong>Time:</strong> 1:00 PM ~ 4:00 PM
 
-**Target:** All ages
+<strong>Target:</strong> All ages
 
-**Fee:** 300 yen (cash)
+<strong>Fee:</strong> 300 yen (cash)
 
-**Registration:** On-site registration on the day
+<strong>Registration:</strong> On-site registration on the day
 
 ![Workshop Details 1](/images/posts/miyashita-park-illumination-2024-12.jpg)
 *Photo Source: https://www.seibu-la.co.jp/park/miyashita-park/*
@@ -122,17 +122,17 @@ This event also includes the Purple Ribbon campaign, an international movement o
 
 ![Workshop Details 2](/images/posts/miyashita-park-illumination-2024-13.jpg)
 
-**Date:** December 21 ~ 22, 2024
+<strong>Date:</strong> December 21 ~ 22, 2024
 
-**Time:** 1:00 PM ~ 4:00 PM
+<strong>Time:</strong> 1:00 PM ~ 4:00 PM
 
-**Target:** All ages
+<strong>Target:</strong> All ages
 
 ## Epilogue
 
 How about ending your Shibuya trip with Miyashita Park's illumination and a warm cup of tea? Create warm winter memories in the heart of Tokyo.
 
-**⭐ Related Shibuya Travel Information**
+<strong>⭐ Related Shibuya Travel Information</strong>
 
-[➡️ **Shibuya Complete Guide: From Shibuya Sky Reservations to Shopping and Restaurant Recommendations**](/posts/shibuya-complete-guide-2025/)
+[➡️ <strong>Shibuya Complete Guide: From Shibuya Sky Reservations to Shopping and Restaurant Recommendations</strong>](/posts/shibuya-complete-guide-2025/)
 

@@ -26,7 +26,7 @@ Complete guide all in one place.</p>
 
 The 2025 Hibiya Midtown Illumination has become even more spectacular with Disney's 'Zootopia 2' collaboration.
 
-The **6th floor Park View Garden** with its stunning **Hibiya Park view** is an absolute must-visit spot.
+The <strong>6th floor Park View Garden</strong> with its stunning <strong>Hibiya Park view</strong> is an absolute must-visit spot.
 
 We'll introduce the perfect route where you can enjoy the walking course connecting to Marunouchi Illumination, and even explore Hibiya Park's autumn foliage during the day.
 
@@ -47,7 +47,7 @@ We suggest two best courses.
 
 ### 1. 🌇 'Autumn Foliage + Illumination' Course Starting from Daytime
 
-If you arrive at Hibiya during the day, be sure to visit **Hibiya Park** right next door.
+If you arrive at Hibiya during the day, be sure to visit <strong>Hibiya Park</strong> right next door.
 
 From mid-November to early December, Hibiya Park's autumn foliage is at its peak. This course allows you to enjoy autumn foliage in the park during the day, have a meal or tea at Hibiya Midtown, and then watch the illumination at lighting time.
 
@@ -58,13 +58,13 @@ From mid-November to early December, Hibiya Park's autumn foliage is at its peak
 
 ### 2. 🚶‍♂️ Evening 'Marunouchi → Hibiya' Walking Course
 
-Tokyo Station's **Marunouchi Illumination** and **Hibiya Illumination** are essentially connected.
+Tokyo Station's <strong>Marunouchi Illumination</strong> and <strong>Hibiya Illumination</strong> are essentially connected.
 
 Starting from Tokyo Station and walking through the chandelier lights of the luxury street (Marunouchi Nakadori), you'll naturally arrive at Midtown Hibiya. (About 10-15 minutes walk)
 
 This is the best walking course where you can see two major illuminations at once.
 
-**✨ Tokyo Marunouchi Illumination Starting November 13**
+<strong>✨ Tokyo Marunouchi Illumination Starting November 13</strong>
 
 ➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](/posts/marunouchi-illumination-2025/)
 
@@ -79,14 +79,14 @@ This is the best walking course where you can see two major illuminations at onc
 
 The overall theme of this year's Hibiya is 'Music that suits the entertainment district of Hibiya'.
 
-**✅ 2025-2026 Basic Information**
+<strong>✅ 2025-2026 Basic Information</strong>
 
-- **Period: November 13, 2025 (Thu) ~ February 28, 2026 (Sat)**
-- **Lighting Time: 16:00 ~ 23:00**
+- <strong>Period: November 13, 2025 (Thu) ~ February 28, 2026 (Sat)</strong>
+- <strong>Lighting Time: 16:00 ~ 23:00</strong>
 - Location: Tokyo Midtown Hibiya, Hibiya Nakadori, etc.
 - Admission: Free
 
-**📌 Visiting Tip**
+<strong>📌 Visiting Tip</strong>
 
 If you visit during magic hour at sunset (16:30~17:00), you can capture the most beautiful moment when the blue sky and lights blend together.
 
@@ -165,8 +165,8 @@ Here's the important point! The lighting theme changes around Christmas.
 
 You can feel a completely different atmosphere depending on whether you visit before Christmas or at year-end/New Year.
 
-**1) Theme 1: HOT JAZZ**
-- **Period: November 13 ~ December 25, 2025**
+<strong>1) Theme 1: HOT JAZZ</strong>
+- <strong>Period: November 13 ~ December 25, 2025</strong>
 - Features: Inspired by American jazz from the 1920s-30s. Characterized by energetic and colorful full-color lighting.
 
 <figure>
@@ -174,8 +174,8 @@ You can feel a completely different atmosphere depending on whether you visit be
   <figcaption style="font-size: 0.7em; text-align: center;">Hibiya Nakadori illumination November to December</figcaption>
 </figure>
 
-**2) Theme 2: NOCTURNE**
-- **Period: December 26, 2025 ~ February 28, 2026**
+<strong>2) Theme 2: NOCTURNE</strong>
+- <strong>Period: December 26, 2025 ~ February 28, 2026</strong>
 - Features: Inspired by the quiet night scenery. Deep blue lighting creates a mysterious and calm atmosphere.
 
 <figure>
@@ -193,11 +193,11 @@ It's the 6th floor 'Park View Garden'.
 
 Why you must visit here!
 
-**Overwhelming Hibiya Park View**
+<strong>Overwhelming Hibiya Park View</strong>
 
-You can capture **Hibiya Park** shining in the darkness and the **city night view** all at once.
+You can capture <strong>Hibiya Park</strong> shining in the darkness and the <strong>city night view</strong> all at once.
 
-**Official Winter Garden**
+<strong>Official Winter Garden</strong>
 
 The 6th floor lawn square is decorated with 'full-color lighting', and the surrounding plants are adorned with 'white lighting'.
 
@@ -251,7 +251,7 @@ The 2025 Tokyo Christmas Market is NOT held at Hibiya Park!
 
 Don't go to Hibiya Park just based on reviews from last year or the year before.
 
-**🎁 2025 Tokyo Christmas Market Locations**
+<strong>🎁 2025 Tokyo Christmas Market Locations</strong>
 
 - Meiji Jingu Gaien (11/21~12/25)
 - Shiba Park (12/5~12/25)
@@ -269,47 +269,47 @@ Hibiya Midtown has a really good location.
 Ginza, Marunouchi, and Yurakucho are all within walking distance.
 
 🚇 Subway:
-- Tokyo Metro Hibiya Line/Chiyoda Line **'Hibiya Station' (A11 exit)** direct connection
-- Toei Mita Line **'Hibiya Station'** direct connection
-- JR Yamanote Line **'Yurakucho Station' (4-minute walk)**
-- Tokyo Metro Marunouchi Line **'Ginza Station' (5-minute walk)**
+- Tokyo Metro Hibiya Line/Chiyoda Line <strong>'Hibiya Station' (A11 exit)</strong> direct connection
+- Toei Mita Line <strong>'Hibiya Station'</strong> direct connection
+- JR Yamanote Line <strong>'Yurakucho Station' (4-minute walk)</strong>
+- Tokyo Metro Marunouchi Line <strong>'Ginza Station' (5-minute walk)</strong>
 
 📍 [Google Maps↗](https://maps.app.goo.gl/E9wkbGKhNezMaP4A6) 📍
 
-**Tokyo Midtown Hibiya**
+<strong>Tokyo Midtown Hibiya</strong>
 1 Chome-1-2 Yurakucho, Chiyoda City, Tokyo 100-0006 Japan
 
 ---
 
-**Hibiya Midtown Christmas** features a special 'Zootopia 2' theme, the fantastic 6th floor view overlooking Hibiya Park, and the 'Hot Jazz' and 'Nocturne' themes that change before and after Christmas.
+<strong>Hibiya Midtown Christmas</strong> features a special 'Zootopia 2' theme, the fantastic 6th floor view overlooking Hibiya Park, and the 'Hot Jazz' and 'Nocturne' themes that change before and after Christmas.
 
 Enjoy Tokyo's winter nights with a smart course that allows you to walk from Marunouchi and enjoy both spots at once, or start with Hibiya Park's autumn foliage during the day.
 
-**⭐ Great travel companion, Tokyo Station Marunouchi**
+<strong>⭐ Great travel companion, Tokyo Station Marunouchi</strong>
 
 ➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /posts/tokyo-station-guide/ -->
 [Tokyo Station Things to Do, from Character Street to Restaurants, Night Views, Luggage Storage Coin Lockers](#)
 
-**⭐ Great travel companion, Ginza**
+<strong>⭐ Great travel companion, Ginza</strong>
 
 ➡️
 [Ginza Must-Visit Places, Recommended Course Complete Guide (Shopping, Restaurants, Tips)](/posts/ginza-guide-2025/)
 
 ## 🎄 Christmas in Tokyo 2025
 
-**⭐ Only the Essentials! Tokyo Christmas 3 Nights 4 Days Itinerary**
+<strong>⭐ Only the Essentials! Tokyo Christmas 3 Nights 4 Days Itinerary</strong>
 
 ➡️ [Tokyo 3N4D Christmas Illumination Recommended Course & Christmas Market (Route, Budget Complete Guide)](/posts/tokyo-3-day-christmas-illumination-itinerary/)
 
-**✨ Roppongi Hills Illumination Starting November 4**
+<strong>✨ Roppongi Hills Illumination Starting November 4</strong>
 
 ➡️ [Roppongi Illumination 2025 Period, Lighting Times, Essential Spots, Roppongi Hills Christmas Market Complete Guide](/posts/roppongi-christmas-illumination-2025/)
 
-**✨ Tokyo Skytree Christmas Market Starting November 6**
+<strong>✨ Tokyo Skytree Christmas Market Starting November 6</strong>
 
 ➡️ [2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)](/posts/tokyo-skytree-christmas-market-2025/)
 
-**✨ Tokyo Marunouchi Illumination Starting November 13**
+<strong>✨ Tokyo Marunouchi Illumination Starting November 13</strong>
 
 ➡️ [Tokyo Marunouchi Illumination 2025 Period, Times Complete Guide (Disney, Christmas Market, Stamp Rally)](/posts/marunouchi-illumination-2025/)
 

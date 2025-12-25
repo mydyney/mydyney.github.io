@@ -23,7 +23,7 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## はじめに
 
-東京都心での癒しの散歩を探しているなら、**日比谷公園**が正解です。
+東京都心での癒しの散歩を探しているなら、<strong>日比谷公園</strong>が正解です。
 
 ランニングコースから紅葉・夜景、レストラン・フェスティバルまで、2025年の最新情報だけを厳選してまとめました。
 
@@ -38,22 +38,22 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 1. ビルの森の中の秋、日比谷公園情報
 
-日比谷公園は1903年に開園した**日本初の西洋式近代公園**で、自然・建築・文化が調和する東京代表の散策名所です。銀座と東京ミッドタウン日比谷のすぐ隣にあり、旅行中のちょっとした休憩にも完璧な位置にあります。
+日比谷公園は1903年に開園した<strong>日本初の西洋式近代公園</strong>で、自然・建築・文化が調和する東京代表の散策名所です。銀座と東京ミッドタウン日比谷のすぐ隣にあり、旅行中のちょっとした休憩にも完璧な位置にあります。
 
-- **規模:** 約16.2ha (東京ドーム約4個分のサイズ)
-- **入場料:** 無料
-- **開園時間:** 常時開放
-- **サービスセンター:** 8:30~17:30 (年末年始休業)
+- <strong>規模:</strong> 約16.2ha (東京ドーム約4個分のサイズ)
+- <strong>入場料:</strong> 無料
+- <strong>開園時間:</strong> 常時開放
+- <strong>サービスセンター:</strong> 8:30~17:30 (年末年始休業)
 
-**🚇 交通アクセス**
+<strong>🚇 交通アクセス</strong>
 
-**日比谷駅**は、**東京メトロ日比谷線(H)**と**千代田線(C)**が交わる交通ハブです。
+<strong>日比谷駅</strong>は、<strong>東京メトロ日比谷線(H)</strong>と<strong>千代田線(C)</strong>が交わる交通ハブです。
 
-- **東京メトロ日比谷駅** A10・A14出口:徒歩約2分 (公園入口と直結)
-- **東京メトロ霞ヶ関駅**: 徒歩約3分
-- **JR有楽町駅**: 徒歩約8分
+- <strong>東京メトロ日比谷駅</strong> A10・A14出口:徒歩約2分 (公園入口と直結)
+- <strong>東京メトロ霞ヶ関駅</strong>: 徒歩約3分
+- <strong>JR有楽町駅</strong>: 徒歩約8分
 
-**📌 Mate's Tip:** 日比谷公園は東京メトロのカバーエリア内です。**東京メトロ乗車券**または**Suica/Pasmo**カードをご利用ください!
+<strong>📌 Mate's Tip:</strong> 日比谷公園は東京メトロのカバーエリア内です。<strong>東京メトロ乗車券</strong>または<strong>Suica/Pasmo</strong>カードをご利用ください!
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6736115,139.7558769&hl=ja&z=17&output=embed"
@@ -80,15 +80,15 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 2. おすすめ散策・移動ルート3選 🚶
 
-**1️⃣ 癒しコース｜銀座 → 日比谷公園南口散策(徒歩10分)**
+<strong>1️⃣ 癒しコース｜銀座 → 日比谷公園南口散策(徒歩10分)</strong>
 
 ショッピング後に公園へ直結する余裕のある散策ルート。
 
-**2️⃣ ランニングコース｜皇居ラン5km + 日比谷公園クールダウン**
+<strong>2️⃣ ランニングコース｜皇居ラン5km + 日比谷公園クールダウン</strong>
 
 皇居外周ランを終えて公園のベンチでストレッチすれば完璧な仕上げ。
 
-**3️⃣ 夜景コース｜東京ミッドタウン日比谷 → 夜景散策**
+<strong>3️⃣ 夜景コース｜東京ミッドタウン日比谷 → 夜景散策</strong>
 
 映画館・ショッピング後にそのまま続く公園夜景ルート。
 
@@ -160,10 +160,10 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 日比谷公園はランニング入門者から皇居ランマニアまで皆が好きなコースです。
 
-- **公園内部1周:** 約1.5km
-- **皇居外周ラン:** 約5km
+- <strong>公園内部1周:</strong> 約1.5km
+- <strong>皇居外周ラン:</strong> 約5km
 
-**おすすめランニングフロー:**
+<strong>おすすめランニングフロー:</strong>
 1. 日比谷公園ウォーミングアップ1km
 2. 皇居5kmメインランニング
 3. 日比谷公園ベンチでクールダウンストレッチ
@@ -177,19 +177,19 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 5. 日比谷公園季節のポイント
 
-**🌸 春**
+<strong>🌸 春</strong>
 
 桜・チューリップ・ハナミズキで公園全体がパステルトーンに染まります。
 
-**🌳 夏**
+<strong>🌳 夏</strong>
 
 バラ・紫陽花、濃い緑、噴水周辺の涼しい雰囲気が魅力です。
 
-**🍁 秋**
+<strong>🍁 秋</strong>
 
 イチョウ・カエデの木が黄色と赤に染まる東京紅葉名所です。特にS字型の並木道と雲形池が人気ポイント!
 
-**🎄 冬**
+<strong>🎄 冬</strong>
 
 公園自体の静かな照明と東京ミッドタウン日比谷のイルミネーションが加わり、華やかな夜景を誇ります。
 
@@ -243,7 +243,7 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025明治神宮外苑クリスマスマーケット入場券・マグカップ特典</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025明治神宮外苑クリスマスマーケット入場券・マグカップ特典</strong></a>
 
 <figure>
   <img src="/images/posts/hibiya-park-tokyo-guide-12.jpg" alt="東京都心のど真ん中で出会った日比谷公園の秋風景">
@@ -265,10 +265,18 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/hibiya-midtown-illumination-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>2025東京ミッドタウン日比谷イルミネーション・ズートピア2コラボ</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025東京ミッドタウン日比谷イルミネーション・ズートピア2コラボ</strong></a>
 
 <!-- TODO: Update link after migration
-**➡️** <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>銀座おすすめスポット・失敗なしのショッピング・グルメ・ルート完全ガイド</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>銀座おすすめスポット・失敗なしのショッピング・グルメ・ルート完全ガイド</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224093593124" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

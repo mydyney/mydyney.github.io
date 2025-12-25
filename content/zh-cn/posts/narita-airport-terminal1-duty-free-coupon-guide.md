@@ -23,7 +23,7 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 
 ## 📍 开篇介绍
 
-成田机场第1航站楼的**ANA DUTY & TAX FREE SHOP**，使用Klook 5%折扣券购买威士忌、清酒、零食、香水、品牌商品的超划算方法总结。
+成田机场第1航站楼的<strong>ANA DUTY & TAX FREE SHOP</strong>，使用Klook 5%折扣券购买威士忌、清酒、零食、香水、品牌商品的超划算方法总结。
 
 东京成田机场免税店的品牌构成，成田机场免税店的酒类・零食・伴手礼清单，按航站楼一次性全面掌握。
 
@@ -35,7 +35,7 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 
 成田机场有3个航站楼，回国时容易混淆。请根据航空公司提前确认航站楼！（以主要韩国航线为准）
 
-**今天介绍的5%折扣券仅限第1航站楼使用！**
+<strong>今天介绍的5%折扣券仅限第1航站楼使用！</strong>
 
 <div class="info-box">
 <table class="schedule-table">
@@ -65,13 +65,13 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 
 ## 🛍️ 成田机场免税店5%折扣券（Klook）
 
-最重要的省钱秘诀！就是**Klook（客路）提供的5%折扣券**。
+最重要的省钱秘诀！就是<strong>Klook（客路）提供的5%折扣券</strong>。
 
 在Klook提前领取成田机场免税店预订优惠券，到达机场后只需出示即可，非常方便。
 
-这个优惠券**免费下载**。
+这个优惠券<strong>免费下载</strong>。
 
-**📌 注意!! 仅限ANA DUTY FREE SHOP使用!!!**
+<strong>📌 注意!! 仅限ANA DUTY FREE SHOP使用!!!</strong>
 
 ➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1154644&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F180131-ana-duty-tax-free-shop-x-klook-5-off-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da31b9d9caf" target="_blank"><b>在Klook下载成田机场免税店优惠券</b></a>
 
@@ -85,21 +85,21 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 ## ✈️ 免税店折扣券使用方法
 
 ### 有效期限
-本兑换券从**2025年10月1日00:00**至**2025年12月31日23:59**有效。
+本兑换券从<strong>2025年10月1日00:00</strong>至<strong>2025年12月31日23:59</strong>有效。
 
 ### 兑换券类型
 结账时请同时出示护照和手机兑换券。
 
 ### 店铺指南
 
-**ANA DUTY FREE SHOP - 第1航站楼南翼**
+<strong>ANA DUTY FREE SHOP - 第1航站楼南翼</strong>
 - 南翼出境检查场出来左转，左侧第2家店铺
-- **营业时间:** 07:30-21:00
+- <strong>营业时间:</strong> 07:30-21:00
 - 化妆品（资生堂、RMK、科颜氏、嘉娜宝、THREE等）、香水、酒类、烟草、零食（白色恋人、歌帝梵、KitKat等）
 
-**ANA DUTY & TAX FREE SHOP - 第1航站楼第4卫星楼**
+<strong>ANA DUTY & TAX FREE SHOP - 第1航站楼第4卫星楼</strong>
 - 成田国际机场第1航站楼南翼第4卫星楼42号登机口附近
-- **营业时间:** 08:00-20:30
+- <strong>营业时间:</strong> 08:00-20:30
 - 烟草、酒类、零食（白色恋人、ROYCE'、东京香蕉等）、美容仪器（ReFa）、电子产品（电动剃须刀、耳机等）、杂货
 
 ### ⚠️ 优惠券使用条款及注意事项
@@ -113,7 +113,7 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 
 ## 🛒 成田机场免税店推荐购物清单
 
-成田机场免税店各航站楼规模和品牌构成不同，其中**成田机场第1航站楼免税店最大**，品牌构成最丰富。
+成田机场免税店各航站楼规模和品牌构成不同，其中<strong>成田机场第1航站楼免税店最大</strong>，品牌构成最丰富。
 
 为大家总结了成田机场免税店的热门商品。
 
@@ -121,7 +121,7 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 
 最受欢迎的商品。成田机场免税店威士忌需要有货时立即购买。
 
-**🥃 三得利威士忌** - 山崎、白州、响
+<strong>🥃 三得利威士忌</strong> - 山崎、白州、响
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-04.jpg" alt="成田机场免税店威士忌专区">
@@ -138,7 +138,7 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
   <figcaption style="font-size: 0.7em; text-align: center;">成田机场免税店威士忌收藏</figcaption>
 </figure>
 
-**🥃 清酒** - 獭祭23、久保田 万寿
+<strong>🥃 清酒</strong> - 獭祭23、久保田 万寿
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-07.jpg" alt="成田机场免税店清酒獭祭">
@@ -154,21 +154,21 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 
 成田机场免税店伴手礼，零食是必买项目。
 
-**🍪 东京香蕉**（必买单品）
+<strong>🍪 东京香蕉</strong>（必买单品）
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-09.jpg" alt="东京香蕉成田机场免税店零食">
   <figcaption style="font-size: 0.7em; text-align: center;">东京香蕉 - 成田机场免税店零食</figcaption>
 </figure>
 
-**🍪 白色恋人**
+<strong>🍪 白色恋人</strong>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-10.jpg" alt="白色恋人成田机场免税店零食">
   <figcaption style="font-size: 0.7em; text-align: center;">白色恋人 - 成田机场免税店零食</figcaption>
 </figure>
 
-**🍪 ROYCE'巧克力**
+<strong>🍪 ROYCE'巧克力</strong>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-11.jpg" alt="ROYCE'巧克力成田机场免税店零食">
@@ -179,13 +179,13 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 
 第1航站楼ANA免税店适合使用优惠券的商品！
 
-**💄 成田机场免税店化妆品:**
+<strong>💄 成田机场免税店化妆品:</strong>
 资生堂、迪奥、RMK、科颜氏、嘉娜宝、THREE等
 
-**💄 成田机场免税店香水:**
+<strong>💄 成田机场免税店香水:</strong>
 祖玛珑、蒂普提克、香奈儿等
 
-第1航站楼有香奈儿、卡地亚、爱马仕等多种**成田机场免税店品牌商品**入驻。
+第1航站楼有香奈儿、卡地亚、爱马仕等多种<strong>成田机场免税店品牌商品</strong>入驻。
 （但优惠券不适用宝格丽店铺！）
 
 ### 4. 成田机场免税店烟草 🚬
@@ -205,17 +205,17 @@ JAL、Air Premia等使用。规模与第1航站楼相当，有"AKIHABARA"等大�
 
 济州航空等廉航使用。规模比第1、2航站楼小，但獭祭、ROYCE'、东京香蕉等核心伴手礼都能买到。
 
-**❗️重要** 今天介绍的5%折扣券**仅限第1航站楼ANA免税店**！第2、3航站楼乘客无法使用。
+<strong>❗️重要</strong> 今天介绍的5%折扣券<strong>仅限第1航站楼ANA免税店</strong>！第2、3航站楼乘客无法使用。
 
 ---
 
 ## 🎁 第1航站楼乘客必领优惠券！
 
-如果计划使用东京成田机场免税店，特别是**第1航站楼乘客**，务必领取今天介绍的**ANA免税店5%折扣券**！💰
+如果计划使用东京成田机场免税店，特别是<strong>第1航站楼乘客</strong>，务必领取今天介绍的<strong>ANA免税店5%折扣券</strong>！💰
 
 用划算购物为愉快的东京之旅画上完美句号！
 
-**相关文章:**
+<strong>相关文章:</strong>
 <!-- Link updated -->
 <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><b>➡️ 日本旅游折扣优惠券完全攻略2025（唐吉诃德、必客、百货店等免税+额外折扣）</b></a>
 <br><br>

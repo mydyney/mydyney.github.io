@@ -27,13 +27,13 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## 🗼 东京天空树：快速概要
 
-东京天空树**高度634m**，是世界最高的独立式电波塔。
+东京天空树<strong>高度634m</strong>，是世界最高的独立式电波塔。
 
-**有2个展望台**：
-- **展望台：350m**
-- **展望回廊：450m**
+<strong>有2个展望台</strong>：
+- <strong>展望台：350m</strong>
+- <strong>展望回廊：450m</strong>
 
-许多旅行者纠结的问题：**「两个都去应该吗？」**
+许多旅行者纠结的问题：<strong>「两个都去应该吗？」</strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-03.jpg" alt="东京天空树展望台vs展望回廊费用对比表">
@@ -45,7 +45,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 ## 🎟️ 门票预约（必读）
 ## 错过这个100%吃亏！
 
-**结论：绝对不要买当日票！**
+<strong>结论：绝对不要买当日票！</strong>
 在线提前预约便宜又快得多。
 
 <div class="info-box">
@@ -72,13 +72,13 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   </table>
 </div>
 
-**✅ 最终结论：**
-**在线预约永远更好。**
+<strong>✅ 最终结论：</strong>
+<strong>在线预约永远更好。</strong>
 当日票又贵又浪费时间。
 
 旅行前在Klook提前预约吧！
 
-➡️ **[Klook预约东京天空树折扣门票](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1146195&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F41352-tokyo-skytree%2F)**
+➡️ <strong>[Klook预约东京天空树折扣门票](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1146195&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F41352-tokyo-skytree%2F)</strong>
 
 ---
 
@@ -88,7 +88,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 这是天空树游客最大的困扰。告诉你明确答案！
 
 ### 1. 展望台（350m）
-**必看**的主展望台。
+<strong>必看</strong>的主展望台。
 从360度全景落地窗可一览东京街景。
 
 还有玻璃地板拍照区。
@@ -99,7 +99,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 </figure>
 
 ### 2. 展望回廊（450m）
-**可选**的最高展望台。
+<strong>可选</strong>的最高展望台。
 从展望台再坐电梯上行。
 
 从楼层445沿倾斜展望回廊爬升到达最高点「天空之源点」楼层450。
@@ -113,20 +113,20 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## ✅ 最终结论：你的选择？
 
-**「天气完美想要特别体验」**
-👍 **推荐到展望回廊的套票！**
+<strong>「天气完美想要特别体验」</strong>
+👍 <strong>推荐到展望回廊的套票！</strong>
 
-**「重视性价比或天气阴天」**
-👍 **只去展望台100%足够！**
+<strong>「重视性价比或天气阴天」</strong>
+👍 <strong>只去展望台100%足够！</strong>
 
-**📌 天空树免费展望台：**
+<strong>📌 天空树免费展望台：</strong>
 如果觉得门票贵，看看可以正面眺望天空树的隐藏「免费展望台」！
 
 <!-- TODO: Update link after migration
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700095268
      Hugo: /zh-cn/posts/tokyo-skytree-free-observatory/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>东京天空树免费展望台：SKYTREE VIEW</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>东京天空树免费展望台：SKYTREE VIEW</strong></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-06.jpg" alt="东京天空树2个展望台，展望台和展望回廊的对比">
@@ -140,16 +140,16 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 这也是容易混淆的点。有2个站：
 
 ### 1. 押上站（押上站）
-- **东京Metro（半藏门线）**
-- **都营地铁（浅草线）**
+- <strong>东京Metro（半藏门线）</strong>
+- <strong>都营地铁（浅草线）</strong>
 - 地铁通票覆盖
 - 与天空树地下直接连通
 
 ### 2. 东京天空树站
-- **东武线**
+- <strong>东武线</strong>
 - 连接浅草和东京北部
 - 距浅草仅1站但
-- **地铁通票不覆盖！**
+- <strong>地铁通票不覆盖！</strong>
 
 <div class="image-group-2">
   <figure>
@@ -165,22 +165,22 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## 🛍️ 天空树下的购物天堂：「晴空街道」餐厅＆购物
 
-东京天空树塔下，有巨大综合设施**「东京晴空街道」**。
+东京天空树塔下，有巨大综合设施<strong>「东京晴空街道」</strong>。
 
-**只去展望台100%会后悔！**
+<strong>只去展望台100%会后悔！</strong>
 
 晴空街道有满载的餐厅和购物景点。
 
 ## [必看购物景点]
 
-**宝可梦中心天空树城：**
+<strong>宝可梦中心天空树城：</strong>
 这里独有的「超级烈空坐」限定商品！
 
 <!-- TODO: Update link after migration
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223695518100
      Hugo: /zh-cn/posts/tokyo-skytree-pokemon-center-review/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>东京天空树城宝可梦中心详细评测</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>东京天空树城宝可梦中心详细评测</strong></a></strong>
 
 <div class="image-group-2">
   <figure>
@@ -196,7 +196,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">东京天空树晴空街道宝可梦中心</figcaption>
 </figure>
 
-**星之卡比咖啡厅：**
+<strong>星之卡比咖啡厅：</strong>
 100%必须提前预约！
 可以享受可爱的卡比主题甜品。
 
@@ -205,10 +205,10 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">东京天空树晴空街道星之卡比咖啡厅</figcaption>
 </figure>
 
-**Jump Shop（4F）：**
+<strong>Jump Shop（4F）：</strong>
 海贼王、咒术回战等少年Jump周边。
 
-**吉卜力商店（橡果共和国）2F：**
+<strong>吉卜力商店（橡果共和国）2F：</strong>
 
 <div class="image-group-2">
   <figure>
@@ -222,7 +222,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## [推荐餐厅]
 
-**Triton（回转寿司Triton）6F：**
+<strong>Triton（回转寿司Triton）6F：</strong>
 北海道发家的最佳性价比回转寿司。
 避免长时间等待的技巧？
 
@@ -230,7 +230,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223697732942
      Hugo: /zh-cn/posts/tokyo-skytree-triton-sushi-guide/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>东京天空树回转寿司餐厅Triton（取号技巧）</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>东京天空树回转寿司餐厅Triton（取号技巧）</strong></a></strong>
 
 <div class="image-group-2">
   <figure>
@@ -242,7 +242,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">东京晴空街道餐厅：Triton的新鲜寿司</figcaption>
 </div>
 
-**六厘舍（六厘舍）6F：**
+<strong>六厘舍（六厘舍）6F：</strong>
 蘸面的决定版―无需多言。
 
 <div class="image-group-2">
@@ -255,10 +255,10 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">东京晴空街道餐厅：六厘舍蘸面</figcaption>
 </div>
 
-**东毛酪农63℃（东毛酪农）4F：**
+<strong>东毛酪农63℃（东毛酪农）4F：</strong>
 食べログ冰淇淋Top100 2023
 
-**祇园辻利（祇园辻利）6F：**
+<strong>祇园辻利（祇园辻利）6F：</strong>
 京都知名抹茶店。
 购物后的浓郁抹茶冰淇淋最合适。
 
@@ -266,14 +266,14 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223699626846
      Hugo: /zh-cn/posts/tokyo-skytree-gion-tsujiri-matcha/ -->
-**➡️ <a href="#" style="color: #667eea;"><strong>东京天空树甜品景点：祇园辻利抹茶冰淇淋评测</strong></a>**
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>东京天空树甜品景点：祇园辻利抹茶冰淇淋评测</strong></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-19.jpg" alt="东京天空树的祇园辻利抹茶冰淇淋和甜品">
   <figcaption style="font-size: 0.7em; text-align: center;">东京晴空街道餐厅：祇园辻利</figcaption>
 </figure>
 
-**📌 景观星巴克6F：**
+<strong>📌 景观星巴克6F：</strong>
 从晴空街道6F的星巴克可以欣赏天空树城的景观。
 
 <div class="image-group-2">
@@ -296,7 +296,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223700200846
      Hugo: /zh-cn/posts/tokyo-skytree-illumination-guide/ -->
-➡️ **<a href="#" style="color: #667eea;"><strong>东京天空树灯饰＆圣诞市集详细评测</strong></a>**
+➡️ <strong><a href="#" style="color: #667eea;"><strong>东京天空树灯饰＆圣诞市集详细评测</strong></a></strong>
 
 <div class="image-group-2">
   <figure>
@@ -312,7 +312,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 ## 📍 天空树之后，去哪里？（推荐后续）
 
-**🚶‍♂️ 地铁5分钟！东京的过去：浅草**
+<strong>🚶‍♂️ 地铁5分钟！东京的过去：浅草</strong>
 
 在天空树体验了东京的「现在」后，前往地铁2站远的东京「过去」吧。
 
@@ -322,7 +322,15 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024819592
      Hugo: /zh-cn/posts/asakusa-complete-guide/ -->
-➡️ **<a href="/zh-cn/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>东京浅草景点＆餐厅完全攻略（浅草寺、牛排）</strong></a>**
+➡️ <strong><a href="/zh-cn/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>东京浅草景点＆餐厅完全攻略（浅草寺、牛排）</strong></a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224049240457" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 
 <div class="editors-note">

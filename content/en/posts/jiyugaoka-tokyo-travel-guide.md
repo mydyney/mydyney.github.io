@@ -25,9 +25,9 @@ all in one comprehensive Jiyugaoka travel guide.</p>
 
 Hello! This is Tokyo Mate, introducing Tokyo's hidden charms.
 
-Want to spend the most relaxed and elegant time during your Tokyo trip? I highly recommend **Jiyugaoka**!
+Want to spend the most relaxed and elegant time during your Tokyo trip? I highly recommend <strong>Jiyugaoka</strong>!
 
-Just 15 minutes from the hustle and bustle of Shibuya and Shinjuku, this area is called 'Tokyo's Little Europe.' **I've compiled a half-day travel course connecting Jiyugaoka's must-visit spots, cafes, boutiques, and cake shops.**
+Just 15 minutes from the hustle and bustle of Shibuya and Shinjuku, this area is called 'Tokyo's Little Europe.' <strong>I've compiled a half-day travel course connecting Jiyugaoka's must-visit spots, cafes, boutiques, and cake shops.</strong>
 
 With this guide alone, no more worrying about routes! Just follow along.
 
@@ -56,35 +56,35 @@ True to its name meaning "Hill of Freedom," this neighborhood features gentle hi
 
 ## 🚆 How to Get to Jiyugaoka (Transportation)
 
-**Jiyugaoka Station** is a transportation hub where the **Tokyu Toyoko Line (TY)** and **Oimachi Line (OM)** meet.
+<strong>Jiyugaoka Station</strong> is a transportation hub where the <strong>Tokyu Toyoko Line (TY)</strong> and <strong>Oimachi Line (OM)</strong> meet.
 
 ### 1. From Shibuya
 
-- **Tokyu Toyoko Line (TY) Shibuya Station** → Jiyugaoka Station direct, approximately 12 minutes.
+- <strong>Tokyu Toyoko Line (TY) Shibuya Station</strong> → Jiyugaoka Station direct, approximately 12 minutes.
 
 ### 2. From Shinjuku
 
-- **Fukutoshin Line (F) Shinjuku-sanchome Station** → Jiyugaoka Station direct, approximately 19 minutes.
-- **Yamanote Line (JY) Shinjuku Station** → Transfer to Tokyu Toyoko Line (TY) at Shibuya Station, approximately 23 minutes
+- <strong>Fukutoshin Line (F) Shinjuku-sanchome Station</strong> → Jiyugaoka Station direct, approximately 19 minutes.
+- <strong>Yamanote Line (JY) Shinjuku Station</strong> → Transfer to Tokyu Toyoko Line (TY) at Shibuya Station, approximately 23 minutes
 
 ### 3. From Other Major Areas in Tokyo
 
-- Take JR/Subway to **Shibuya Station** or **Nakameguro Station** → Transfer to Tokyu Toyoko Line (TY) and get off at Jiyugaoka Station.
+- Take JR/Subway to <strong>Shibuya Station</strong> or <strong>Nakameguro Station</strong> → Transfer to Tokyu Toyoko Line (TY) and get off at Jiyugaoka Station.
 
-**📌 Mate's Tip:** The Tokyu Railway to Jiyugaoka is NOT covered by the Tokyo Subway Ticket (subway pass). Use a **Suica/Pasmo** card or purchase a separate ticket!
+<strong>📌 Mate's Tip:</strong> The Tokyu Railway to Jiyugaoka is NOT covered by the Tokyo Subway Ticket (subway pass). Use a <strong>Suica/Pasmo</strong> card or purchase a separate ticket!
 
 ---
 
 ## Recommended Half-Day Jiyugaoka Course
 
-From the station, follow the golden route: **[South Walkway → Cross Railway to Cafe Street → North Shopping District]**.
+From the station, follow the golden route: <strong>[South Walkway → Cross Railway to Cafe Street → North Shopping District]</strong>.
 
 ### 1️⃣ Marie Claire Street & Greenway - Start of Jiyugaoka Journey
 
-Exit through Jiyugaoka Station's **South Exit** to discover this European-style street. Start your walk along the **'Greenway'** where just sitting on a bench feels healing.
+Exit through Jiyugaoka Station's <strong>South Exit</strong> to discover this European-style street. Start your walk along the <strong>'Greenway'</strong> where just sitting on a bench feels healing.
 
-**📍** [Google Maps (Jiyugaoka Station South Exit)↗](https://maps.app.goo.gl/WCvSbk1SMJFT3UMV6) 📍
-**📍** [Google Maps (Greenway)↗](https://maps.app.goo.gl/2BpJx4fkiZxvcXwN6) 📍
+<strong>📍</strong> [Google Maps (Jiyugaoka Station South Exit)↗](https://maps.app.goo.gl/WCvSbk1SMJFT3UMV6) 📍
+<strong>📍</strong> [Google Maps (Greenway)↗](https://maps.app.goo.gl/2BpJx4fkiZxvcXwN6) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-05.jpg" alt="Jiyugaoka Station south exit entrance view with start of Tokyo Jiyugaoka half-day course">
@@ -101,9 +101,9 @@ Exit through Jiyugaoka Station's **South Exit** to discover this European-style 
   <figcaption style="font-size: 0.7em; text-align: center;">Jiyugaoka Marie Claire Street & Greenway walking path: resting space with benches and trees</figcaption>
 </figure>
 
-- **Cuoca**: High-quality matcha powder, Japanese flour, various baking molds—hard-to-find baking ingredients in Korea are abundant here.
+- <strong>Cuoca</strong>: High-quality matcha powder, Japanese flour, various baking molds—hard-to-find baking ingredients in Korea are abundant here.
 
-**📍** [Google Maps (Cuoca)↗](https://maps.app.goo.gl/XVGCoU5U9ysHEijc7) 📍
+<strong>📍</strong> [Google Maps (Cuoca)↗](https://maps.app.goo.gl/XVGCoU5U9ysHEijc7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -130,18 +130,18 @@ Exit through Jiyugaoka Station's **South Exit** to discover this European-style 
 
 Cross the railway to reach the area where Jiyugaoka hipsters gather.
 
-- **Onibus Coffee (ONIBUS)**: The epitome of Tokyo specialty coffee. Experience a life-changing latte here without going to Nakameguro. A hip Jiyugaoka cafe perfect for a shopping break.
+- <strong>Onibus Coffee (ONIBUS)</strong>: The epitome of Tokyo specialty coffee. Experience a life-changing latte here without going to Nakameguro. A hip Jiyugaoka cafe perfect for a shopping break.
 
-**📍** [Google Maps (Onibus Coffee)↗](https://maps.app.goo.gl/LPSXb5MVr2FPWgXv8) 📍
+<strong>📍</strong> [Google Maps (Onibus Coffee)↗](https://maps.app.goo.gl/LPSXb5MVr2FPWgXv8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-12.jpg" alt="Jiyugaoka Onibus Coffee trendy cafe next to railway tracks">
   <figcaption style="font-size: 0.7em; text-align: center;">Jiyugaoka Onibus Coffee: trendy cafe next to the railway tracks</figcaption>
 </figure>
 
-- **Dulton**: A large American vintage-style home goods store. The building itself is so beautiful that an entrance photo is a must! Time flies in this Jiyugaoka boutique—it's like an ant trap.
+- <strong>Dulton</strong>: A large American vintage-style home goods store. The building itself is so beautiful that an entrance photo is a must! Time flies in this Jiyugaoka boutique—it's like an ant trap.
 
-**📍** [Google Maps (Dulton)↗](https://maps.app.goo.gl/h3TWBr5RvFkPhq5Z7) 📍
+<strong>📍</strong> [Google Maps (Dulton)↗](https://maps.app.goo.gl/h3TWBr5RvFkPhq5Z7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -177,18 +177,18 @@ Cross the railway to reach the area where Jiyugaoka hipsters gather.
 
 A course where Japanese tradition and exotic photo spots coexist.
 
-- **Kumano Shrine**: A serene shrine hidden behind the bustling shopping district. The red torii gate visible through lush trees is impressive—perfect for experiencing quiet Japanese aesthetics during shopping.
+- <strong>Kumano Shrine</strong>: A serene shrine hidden behind the bustling shopping district. The red torii gate visible through lush trees is impressive—perfect for experiencing quiet Japanese aesthetics during shopping.
 
-**📍** [Google Maps (Kumano Shrine)↗](https://maps.app.goo.gl/3aDXHHFUBz1Wp1jW8) 📍
+<strong>📍</strong> [Google Maps (Kumano Shrine)↗](https://maps.app.goo.gl/3aDXHHFUBz1Wp1jW8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-19.jpg" alt="Jiyugaoka Kumano Shrine entrance with traditional stone steps and serene atmosphere">
   <figcaption style="font-size: 0.7em; text-align: center;">Jiyugaoka Kumano Shrine entrance: serene traditional Japanese shrine with stone steps</figcaption>
 </figure>
 
-- **Koso-an (古桑庵)**: A tea house utilizing a traditional Japanese house. How about a bowl of 'matcha shiratama' while viewing the garden from a tatami room? Koso-an is the most popular must-visit course in Jiyugaoka.
+- <strong>Koso-an (古桑庵)</strong>: A tea house utilizing a traditional Japanese house. How about a bowl of 'matcha shiratama' while viewing the garden from a tatami room? Koso-an is the most popular must-visit course in Jiyugaoka.
 
-**📍** [Google Maps (Koso-an)↗](https://maps.app.goo.gl/Dobnb4nav1sh28Nd8) 📍
+<strong>📍</strong> [Google Maps (Koso-an)↗](https://maps.app.goo.gl/Dobnb4nav1sh28Nd8) 📍
 
 <div class="image-group-2">
   <figure>
@@ -204,18 +204,18 @@ A course where Japanese tradition and exotic photo spots coexist.
   <figcaption style="font-size: 0.7em; text-align: center;">Jiyugaoka Koso-an: enjoying matcha desserts in a traditional Japanese house</figcaption>
 </figure>
 
-- **La Vita**: Famous as 'Tokyo's Venice,' but actually quite compact. You might be disappointed if you visit just for this spot—I recommend stopping by lightly on the way to Mont St. Clair for a pretty photo.
+- <strong>La Vita</strong>: Famous as 'Tokyo's Venice,' but actually quite compact. You might be disappointed if you visit just for this spot—I recommend stopping by lightly on the way to Mont St. Clair for a pretty photo.
 
-**📍** [Google Maps (La Vita Jiyugaoka)↗](https://maps.app.goo.gl/XmCQfuf2Y98TgFXo9) 📍
+<strong>📍</strong> [Google Maps (La Vita Jiyugaoka)↗](https://maps.app.goo.gl/XmCQfuf2Y98TgFXo9) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-23.jpg" alt="Jiyugaoka La Vita exotic atmosphere photo spot with Venetian-style architecture">
   <figcaption style="font-size: 0.7em; text-align: center;">Jiyugaoka La Vita: exotic atmosphere photo spot</figcaption>
 </figure>
 
-- **Mont St. Clair**: The main shop of dessert god 'Tsujiguchi Hironobu.' This is called the Jiyugaoka cake sanctuary. Be sure to try the signature menu item 'C'est la vie.'
+- <strong>Mont St. Clair</strong>: The main shop of dessert god 'Tsujiguchi Hironobu.' This is called the Jiyugaoka cake sanctuary. Be sure to try the signature menu item 'C'est la vie.'
 
-**📍** [Google Maps (Mont St. Clair)↗](https://maps.app.goo.gl/uNtL6s24wCjbuX3s8) 📍
+<strong>📍</strong> [Google Maps (Mont St. Clair)↗](https://maps.app.goo.gl/uNtL6s24wCjbuX3s8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-24.jpg" alt="Jiyugaoka Mont St. Clair famous Tokyo cake shop exterior">
@@ -228,9 +228,9 @@ A course where Japanese tradition and exotic photo spots coexist.
 
 Head down to Gakuen Street to find lifestyle shops lined up.
 
-- **TODAY'S SPECIAL**: The very place famous for Marche bags! So much to see including kitchenware and groceries.
+- <strong>TODAY'S SPECIAL</strong>: The very place famous for Marche bags! So much to see including kitchenware and groceries.
 
-**📍** [Google Maps (TODAY'S SPECIAL)↗](https://maps.app.goo.gl/HSU5ZdEcMUBE3oLi7) 📍
+<strong>📍</strong> [Google Maps (TODAY'S SPECIAL)↗](https://maps.app.goo.gl/HSU5ZdEcMUBE3oLi7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -269,9 +269,9 @@ Head down to Gakuen Street to find lifestyle shops lined up.
   <figcaption style="font-size: 0.7em; text-align: center;">Jiyugaoka TODAY'S SPECIAL: Tokyo lifestyle boutique shopping</figcaption>
 </div>
 
-- **Sunset Alley**: An alley where charming Jiyugaoka boutiques gather. The atmosphere is especially beautiful at sunset.
+- <strong>Sunset Alley</strong>: An alley where charming Jiyugaoka boutiques gather. The atmosphere is especially beautiful at sunset.
 
-**📍** [Google Maps (Sunset Alley)↗](https://maps.app.goo.gl/rNYDjcHuSazC245t9) 📍
+<strong>📍</strong> [Google Maps (Sunset Alley)↗](https://maps.app.goo.gl/rNYDjcHuSazC245t9) 📍
 
 <div class="image-group-2">
   <figure>
@@ -307,9 +307,9 @@ Head down to Gakuen Street to find lifestyle shops lined up.
 
 The newest landmarks in Jiyugaoka.
 
-- **I'm donut?**: A fresh donut shop requiring early queuing. If the line is short, buy without hesitation!
+- <strong>I'm donut?</strong>: A fresh donut shop requiring early queuing. If the line is short, buy without hesitation!
 
-**📍** [Google Maps (I'm donut? Jiyugaoka)↗](https://maps.app.goo.gl/7oFDSoBST6Sb7KgZ9) 📍
+<strong>📍</strong> [Google Maps (I'm donut? Jiyugaoka)↗](https://maps.app.goo.gl/7oFDSoBST6Sb7KgZ9) 📍
 
 <div class="image-group-2">
   <figure>
@@ -330,9 +330,9 @@ The newest landmarks in Jiyugaoka.
   <figcaption style="font-size: 0.7em; text-align: center;">Jiyugaoka I'm donut: Tokyo donut shop worth lining up for</figcaption>
 </div>
 
-- **de aone**: A shopping complex where the sunset and Mount Fuji view from the 3rd-floor rooftop terrace (Haruniwa) is art.
+- <strong>de aone</strong>: A shopping complex where the sunset and Mount Fuji view from the 3rd-floor rooftop terrace (Haruniwa) is art.
 
-**📍** [Google Maps (Jiyugaoka de aone)↗](https://maps.app.goo.gl/qsT8BqYLZYLJkwE38) 📍
+<strong>📍</strong> [Google Maps (Jiyugaoka de aone)↗](https://maps.app.goo.gl/qsT8BqYLZYLJkwE38) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-43.jpg" alt="Jiyugaoka de aone terrace building with view of Jiyugaoka streets and sunset">
@@ -350,9 +350,9 @@ The newest landmarks in Jiyugaoka.
 
 The end of a journey is, of course, sweetness.
 
-- **Paris S'eveille**: A top-ranked patisserie on Tabelog, on par with Mont St. Clair. Be careful as items sell out if you arrive late! Highly recommended if you're looking for true Jiyugaoka restaurants.
+- <strong>Paris S'eveille</strong>: A top-ranked patisserie on Tabelog, on par with Mont St. Clair. Be careful as items sell out if you arrive late! Highly recommended if you're looking for true Jiyugaoka restaurants.
 
-**📍** [Google Maps (Paris S'eveille)↗](https://maps.app.goo.gl/gDDMDzvNSeBuzLpw5) 📍
+<strong>📍</strong> [Google Maps (Paris S'eveille)↗](https://maps.app.goo.gl/gDDMDzvNSeBuzLpw5) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-45.jpg" alt="Jiyugaoka Paris S'eveille authentic French desserts loved by locals">
@@ -364,10 +364,10 @@ The end of a journey is, of course, sweetness.
   <figcaption style="font-size: 0.7em; text-align: center;">Hilo Street alley heading to Jiyugaoka Station</figcaption>
 </figure>
 
-- **Statue of Liberty**: Return to the station viewing Jiyugaoka's symbol at the station front rotary.
+- <strong>Statue of Liberty</strong>: Return to the station viewing Jiyugaoka's symbol at the station front rotary.
 
-**📍** [Google Maps (Statue of Liberty)↗](https://maps.app.goo.gl/W3TUiDZjUnSLnPMy6) 📍
-**📍** [Google Maps (Jiyugaoka Station Central Exit)↗](https://maps.app.goo.gl/kM3d1qFMu61hNR1dA) 📍
+<strong>📍</strong> [Google Maps (Statue of Liberty)↗](https://maps.app.goo.gl/W3TUiDZjUnSLnPMy6) 📍
+<strong>📍</strong> [Google Maps (Jiyugaoka Station Central Exit)↗](https://maps.app.goo.gl/kM3d1qFMu61hNR1dA) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-47.jpg" alt="Jiyugaoka Station landmark Statue of Liberty">
@@ -383,9 +383,9 @@ The end of a journey is, of course, sweetness.
 
 ## 📝 Tokyo Mate's Overall Review
 
-Jiyugaoka is the perfect place for those who prefer **traveling like a local** rather than flashy tourist spots.
+Jiyugaoka is the perfect place for those who prefer <strong>traveling like a local</strong> rather than flashy tourist spots.
 
-**✅ Recommended for:**
+<strong>✅ Recommended for:</strong>
 - Those tired of crowded Shibuya/Shinjuku
 - Those who love pretty cafe tours and boutique shopping
 - Those on their 2nd or more Tokyo trip
@@ -401,12 +401,20 @@ I hope your Tokyo trip becomes more special. Please leave any questions in the c
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032086475
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>Nakameguro Boutiques, Cafes & Walking Course Complete Guide</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Nakameguro Boutiques, Cafes & Walking Course Complete Guide</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /posts/shibuya-complete-guide-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky, Shopping, Restaurants & Activities Complete Guide</strong></a>
+<strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky, Shopping, Restaurants & Activities Complete Guide</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224092707353" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 
 <div class="editors-note">

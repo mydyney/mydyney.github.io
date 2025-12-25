@@ -17,7 +17,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 ## 新宿中央公园一览！
 
-**东京都厅大楼正后方，享受星巴克SHUKNOVA早午餐、武藏野森餐厅、儿童游乐场和戏水池、冬季灯光秀TWINKLE PARK，以及免费东京都厅展望台，一条步行路线全搞定。**
+<strong>东京都厅大楼正后方，享受星巴克SHUKNOVA早午餐、武藏野森餐厅、儿童游乐场和戏水池、冬季灯光秀TWINKLE PARK，以及免费东京都厅展望台，一条步行路线全搞定。</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-02.jpg" alt="新宿中央公园秋叶">
@@ -82,15 +82,15 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 新宿中央公园从地铁和JR车站都可以轻松到达，非常适合作为新宿步行路线的中心。
 
-**从新宿站**
+<strong>从新宿站</strong>
 - 西口出口 → 步行7分钟
 - 通往东京都厅大楼和新宿中央公园的连接通道
 
-**从都厅前站（都营大江户线）**
+<strong>从都厅前站（都营大江户线）</strong>
 - A4出口 → 步行3分钟
 - 距离公园最近的车站
 
-**从西新宿站（东京地铁丸之内线）**
+<strong>从西新宿站（东京地铁丸之内线）</strong>
 - 2号出口 → 步行5分钟
 
 <figure>
@@ -106,7 +106,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 这栋建筑1楼有武藏野森餐厅和星巴克，是完美的早午餐地点。
 
-**1️⃣ 星巴克新宿中央公园SHUKNOVA店**
+<strong>1️⃣ 星巴克新宿中央公园SHUKNOVA店</strong>
 
 营业时间：每天07:00～21:00（最后点单同时间）
 
@@ -114,7 +114,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 可拍摄都厅·西新宿大楼群交织的景色，提供插座·Wi-Fi，适合轻度笔记本工作或阅读
 
-**2️⃣ 武藏野森餐厅 - 早午餐首选**
+<strong>2️⃣ 武藏野森餐厅 - 早午餐首选</strong>
 
 SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
@@ -131,21 +131,21 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 ## 带孩子必去！大型游乐场·戏水池
 
-**（新宿游乐场信息）**
+<strong>（新宿游乐场信息）</strong>
 
 如果你带着孩子来东京旅行，这里是必去之地，不是可选项。很难相信在市中心有这么大的游乐场。
 
-**夏季：**在戏水池免费玩水
+<strong>夏季：</strong>在戏水池免费玩水
 
-**设施：**大型滑梯、攀爬网、沙坑、幼儿专用区域 - 设施齐全
+<strong>设施：</strong>大型滑梯、攀爬网、沙坑、幼儿专用区域 - 设施齐全
 
-**便利性：**婴儿车移动方便，儿童专用洗手间设施完善
+<strong>便利性：</strong>婴儿车移动方便，儿童专用洗手间设施完善
 
-**氛围：**当地妈妈们带孩子来的真正本地游乐场，旅行中也能体验当地日常生活
+<strong>氛围：</strong>当地妈妈们带孩子来的真正本地游乐场，旅行中也能体验当地日常生活
 
 "当孩子们抱怨腿疼时，让他们在这里玩，一小时就像魔法般飞逝。家长可以在长椅上享受咖啡时光。"
 
-**👉 [新宿亲子游！5大主题乐园攻略](/zh-cn/posts/shinjuku-kids-parks-guide/)**
+<strong>👉 [新宿亲子游！5大主题乐园攻略](/zh-cn/posts/shinjuku-kids-parks-guide/)</strong>
 
 <div class="image-group-4">
   <figure><img src="/images/posts/shinjuku-chuo-park-06.jpg" alt="游乐场 1"></figure>
@@ -171,9 +171,9 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 点灯时间：每天16:30～22:00
 
-🌟 **2025东京圣诞灯光秀完全攻略**
+🌟 <strong>2025东京圣诞灯光秀完全攻略</strong>
 
-**👉 [2025年东京圣诞灯光秀BEST 5](/zh-cn/posts/tokyo-christmas-illumination-best-5-2025/)**
+<strong>👉 [2025年东京圣诞灯光秀BEST 5](/zh-cn/posts/tokyo-christmas-illumination-best-5-2025/)</strong>
 
 <div class="image-group-2">
   <figure><img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="TWINKLE PARK 1"></figure>
@@ -195,29 +195,29 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 新宿中央公园最大的优势是通过一座天桥直接连接东京都厅大楼展望台。
 
-**🗺️ 推荐步行路线（总耗时3小时）**
+<strong>🗺️ 推荐步行路线（总耗时3小时）</strong>
 
-**1️⃣ 抵达新宿站西口**
+<strong>1️⃣ 抵达新宿站西口</strong>
 
 沿着高层建筑街道朝都厅方向步行（约10分钟）。
 
-**2️⃣ 参观东京都厅免费展望台**
+<strong>2️⃣ 参观东京都厅免费展望台</strong>
 
 登上东或西展望台之一，欣赏东京市景·富士山（天气好时）。
 
-**👉 [东京都厅免费展望台完全攻略](/zh-cn/posts/tokyo-metropolitan-govt-observatory/)**
+<strong>👉 [东京都厅免费展望台完全攻略](/zh-cn/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
-**3️⃣ 从都厅下来直接漫步新宿中央公园**
+<strong>3️⃣ 从都厅下来直接漫步新宿中央公园</strong>
 
 慢慢游览草坪广场、市民森林、水之广场、儿童广场等。
 
-**4️⃣ 在SHUKNOVA的星巴克或武藏野森餐厅享受早午餐/咖啡时光**
+<strong>4️⃣ 在SHUKNOVA的星巴克或武藏野森餐厅享受早午餐/咖啡时光</strong>
 
-**5️⃣ （冬季）傍晚时分欣赏Twinkle Park灯光秀**
+<strong>5️⃣ （冬季）傍晚时分欣赏Twinkle Park灯光秀</strong>
 
-**6️⃣ 前往新宿站/歌舞伎町/新宿御苑等继续晚间行程**
+<strong>6️⃣ 前往新宿站/歌舞伎町/新宿御苑等继续晚间行程</strong>
 
-**👉 [新宿黄金街vs思い出横丁完全对比](/zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
+<strong>👉 [新宿黄金街vs思い出横丁完全对比](/zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="从都厅展望台看富士山夜景">
@@ -228,25 +228,25 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 ## 使用技巧及特别推荐人群
 
-**1️⃣ 晨跑或晨间散步＋星巴克日常**
+<strong>1️⃣ 晨跑或晨间散步＋星巴克日常</strong>
 
 如果你在东京出差或长期停留，非常适合上班前晨跑后在SHUKNOVA星巴克喝早咖啡的日常。
 
-**2️⃣ 寻找新宿亲子景点的家庭游客**
+<strong>2️⃣ 寻找新宿亲子景点的家庭游客</strong>
 
 免费游乐场·戏水池、婴儿车友好动线、附近购物·餐饮一次搞定。
 
-**3️⃣ 喜欢新宿夜景·灯光秀·拍照的情侣/朋友游客**
+<strong>3️⃣ 喜欢新宿夜景·灯光秀·拍照的情侣/朋友游客</strong>
 
 都厅免费展望台＋Twinkle Park＋西新宿大楼夜景的组合，也是不错的冬季约会路线。
 
-**4️⃣ 想节省新宿御苑门票时**
+<strong>4️⃣ 想节省新宿御苑门票时</strong>
 
 大型庭园·樱花等方面新宿御苑占压倒性优势，
 
 但如果只看"简单散步＋咖啡＋儿童游乐场＋灯光秀"组合，新宿中央公园也是很有魅力的替代选择。
 
-**👉 [新宿御苑完全攻略2025](/zh-cn/posts/shinjuku-gyoen-guide-2025/)**
+<strong>👉 [新宿御苑完全攻略2025](/zh-cn/posts/shinjuku-gyoen-guide-2025/)</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="新宿中央公园夜景">
@@ -257,11 +257,11 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 新宿中央公园在都厅背后，容易被路过，但了解之后会发现，
 
-**早上**晨跑·散步，
+<strong>早上</strong>晨跑·散步，
 
-**白天**儿童游乐场和早午餐，
+<strong>白天</strong>儿童游乐场和早午餐，
 
-**傍晚**灯光秀和夜景 -
+<strong>傍晚</strong>灯光秀和夜景 -
 
 这是一个能容纳一天所有节奏的西新宿核心休憩地。东京的繁华固然好，但有时这样的绿色休止符会让旅行更加难忘。
 
@@ -273,10 +273,10 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 ## 🧡 相关新宿旅游攻略
 
-**➡️ [新宿霓虹灯光秀2025-2026](/zh-cn/posts/shinjuku-neon-work-illumination/)**
+<strong>➡️ [新宿霓虹灯光秀2025-2026](/zh-cn/posts/shinjuku-neon-work-illumination/)</strong>
 
-**➡️ [新宿完全攻略2025](/zh-cn/posts/shinjuku-guide-2025/)**
+<strong>➡️ [新宿完全攻略2025](/zh-cn/posts/shinjuku-guide-2025/)</strong>
 
-**➡️ [新宿酒店BEST 10](/zh-cn/posts/shinjuku-hotels-best-10/)**
+<strong>➡️ [新宿酒店BEST 10](/zh-cn/posts/shinjuku-hotels-best-10/)</strong>
 
-**➡️ [成田机场到新宿2025攻略](/zh-cn/posts/narita-to-shinjuku-2025/)**
+<strong>➡️ [成田机场到新宿2025攻略](/zh-cn/posts/narita-to-shinjuku-2025/)</strong>

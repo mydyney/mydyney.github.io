@@ -26,7 +26,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 2025年的日比谷Midtown灯饰，通过与迪士尼「疯狂动物城2」的联名变得更加华丽。
 
-**日比谷公园景观**尽收眼底的6层Park View Garden是必访景点。
+<strong>日比谷公园景观</strong>尽收眼底的6层Park View Garden是必访景点。
 
 连接丸之内灯饰的步行路线，白天还能欣赏日比谷公园红叶的最佳路线为您介绍。
 
@@ -47,7 +47,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 ### 1. 🌇 从白天开始享受「红叶+灯饰」路线
 
-如果白天到达日比谷，请一定要去隔壁的**日比谷公园**。
+如果白天到达日比谷，请一定要去隔壁的<strong>日比谷公园</strong>。
 
 11月中旬到12月初是日比谷公园红叶的最盛期。白天在公园欣赏红叶，在日比谷Midtown用餐或喝茶，配合点灯时间观赏灯饰的路线。
 
@@ -58,13 +58,13 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 ### 2. 🚶‍♂️ 傍晚「丸之内→日比谷」步行路线
 
-东京站的**丸之内灯饰**和**日比谷灯饰**实质上是连接在一起的。
+东京站的<strong>丸之内灯饰</strong>和<strong>日比谷灯饰</strong>实质上是连接在一起的。
 
 从东京站出发，沿着高级品牌街（丸之内仲通）的吊灯一路走，自然就会到达Midtown日比谷。（步行约10~15分钟）
 
 可以一次看到两处大型灯饰的最佳散步路线。
 
-**✨ 11月13日开始 东京丸之内灯饰**
+<strong>✨ 11月13日开始 东京丸之内灯饰</strong>
 
 ➡️ [东京丸之内灯饰2025期间、时间完全攻略(迪士尼、圣诞市集、盖章拉力赛)](/zh-cn/posts/marunouchi-illumination-2025/)
 
@@ -79,14 +79,14 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 今年日比谷的整体主题是「符合娱乐之城·日比谷的音乐(Music)」。
 
-**✅ 2025-2026 基本信息**
+<strong>✅ 2025-2026 基本信息</strong>
 
-- **期间: 2025年11月13日(四) ~ 2026年2月28日(六)**
-- **点灯时间: 16:00 ~ 23:00**
+- <strong>期间: 2025年11月13日(四) ~ 2026年2月28日(六)</strong>
+- <strong>点灯时间: 16:00 ~ 23:00</strong>
 - 地点: 东京Midtown日比谷、日比谷仲通等
 - 费用: 免费
 
-**📌 参观技巧**
+<strong>📌 参观技巧</strong>
 
 在日落时（16:30~17:00）被称为Magic Hour的时候参观，可以拍摄到蓝天与灯饰交融的最美瞬间。
 
@@ -165,8 +165,8 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 根据圣诞节前或年末年初去，可以感受到完全不同的氛围。
 
-**1) 主题1: HOT JAZZ (热爵士)**
-- **期间: 2025年11月13日 ~ 12月25日**
+<strong>1) 主题1: HOT JAZZ (热爵士)</strong>
+- <strong>期间: 2025年11月13日 ~ 12月25日</strong>
 - 特色: 从1920~30年代美国爵士获得灵感。充满活力华丽的全彩灯饰为特色。
 
 <figure>
@@ -174,8 +174,8 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">日比谷仲通灯饰11月~12月</figcaption>
 </figure>
 
-**2) 主题2: NOCTURNE (夜曲)**
-- **期间: 2025年12月26日 ~ 2026年2月28日**
+<strong>2) 主题2: NOCTURNE (夜曲)</strong>
+- <strong>期间: 2025年12月26日 ~ 2026年2月28日</strong>
 - 特色: 从宁静夜景获得灵感。深蓝色(Deep Blue)灯饰营造神秘沉稳氛围。
 
 <figure>
@@ -193,11 +193,11 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 必去这里的理由！
 
-**压倒性的日比谷公园景观**
+<strong>压倒性的日比谷公园景观</strong>
 
-可以一眼看到黑暗中闪耀的**日比谷公园**和**都心夜景**。
+可以一眼看到黑暗中闪耀的<strong>日比谷公园</strong>和<strong>都心夜景</strong>。
 
-**官方冬季花园**
+<strong>官方冬季花园</strong>
 
 6层草坪广场用「全彩灯饰」，周围植物用「白色灯饰」装饰。
 
@@ -251,7 +251,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 只看去年、前年的评测就去日比谷公园会扑空。
 
-**🎁 2025年东京圣诞市集举办地点**
+<strong>🎁 2025年东京圣诞市集举办地点</strong>
 
 - 明治神宫外苑 (11/21~12/25)
 - 芝公园 (12/5~12/25)
@@ -269,46 +269,46 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 银座、丸之内、有乐町都在步行范围内。
 
 🚇 地铁:
-- 东京地铁日比谷线/千代田线 **「日比谷站」(A11出口)** 直达
-- 都营三田线 **「日比谷站」** 直达
-- JR山手线 **「有乐町站」(步行4分钟)**
-- 东京地铁丸之内线 **「银座站」(步行5分钟)**
+- 东京地铁日比谷线/千代田线 <strong>「日比谷站」(A11出口)</strong> 直达
+- 都营三田线 <strong>「日比谷站」</strong> 直达
+- JR山手线 <strong>「有乐町站」(步行4分钟)</strong>
+- 东京地铁丸之内线 <strong>「银座站」(步行5分钟)</strong>
 
 📍 [Google地图↗](https://maps.app.goo.gl/E9wkbGKhNezMaP4A6) 📍
 
-**东京Midtown日比谷**
+<strong>东京Midtown日比谷</strong>
 〒100-0006 东京都千代田区有乐町1-1-2
 
 ---
 
-**日比谷Midtown圣诞**拥有特别的「疯狂动物城2」主题、俯瞰日比谷公园的6层梦幻景观，以及圣诞节前后变换的「热爵士」和「夜曲」主题。
+<strong>日比谷Midtown圣诞</strong>拥有特别的「疯狂动物城2」主题、俯瞰日比谷公园的6层梦幻景观，以及圣诞节前后变换的「热爵士」和「夜曲」主题。
 
 从丸之内步行一次享受两处景点，或白天从日比谷公园红叶开始的聪明路线，尽享东京冬日夜晚吧。
 
-**⭐ 一起旅行的推荐路线，东京站丸之内**
+<strong>⭐ 一起旅行的推荐路线，东京站丸之内</strong>
 
 ➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /zh-cn/posts/tokyo-station-guide/ -->
 [东京站看点，从卡通街到餐厅、夜景、行李寄存投币柜](#)
 
-**⭐ 一起旅行的推荐路线，银座**
+<strong>⭐ 一起旅行的推荐路线，银座</strong>
 
 ➡️[银座必看景点，推荐路线完全攻略（购物、美食、攻略技巧）](/zh-cn/posts/ginza-guide-2025/)
 
 ## 🎄 2025年东京的圣诞
 
-**⭐ 只挑核心！东京圣诞3晚4日旅行日程**
+<strong>⭐ 只挑核心！东京圣诞3晚4日旅行日程</strong>
 
 ➡️ [东京3晚4日圣诞灯饰推荐路线&圣诞市集(动线、费用完全攻略)](/zh-cn/posts/tokyo-3-day-christmas-illumination-itinerary/)
 
-**✨ 11月4日开始 六本木Hills灯饰**
+<strong>✨ 11月4日开始 六本木Hills灯饰</strong>
 
 ➡️ [六本木灯饰2025期间、点灯时间、必打卡景点、六本木Hills圣诞市集完全攻略](/zh-cn/posts/roppongi-christmas-illumination-2025/)
 
-**✨ 11月6日开始 东京晴空塔圣诞市集**
+<strong>✨ 11月6日开始 东京晴空塔圣诞市集</strong>
 
 ➡️ [2025东京晴空塔圣诞市集完全攻略(官方日程、新菜单、拍照景点优惠信息)](/zh-cn/posts/tokyo-skytree-christmas-market-2025/)
 
-**✨ 11月13日开始 东京丸之内灯饰**
+<strong>✨ 11月13日开始 东京丸之内灯饰</strong>
 
 ➡️ [东京丸之内灯饰2025期间、时间完全攻略(迪士尼、圣诞市集、盖章拉力赛)](/zh-cn/posts/marunouchi-illumination-2025/)
 

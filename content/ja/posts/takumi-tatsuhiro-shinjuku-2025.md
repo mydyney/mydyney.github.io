@@ -25,29 +25,29 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 新宿一丁目の静かな路地の1階に位置しています。
 
 新宿御苑散策の前後に、ランチ・ディナーコースとして組み合わせるのに最適な立地で、
-**「ランチでディナー級のクオリティを体験できる新宿寿司おまかせ」**として有名です。
+<strong>「ランチでディナー級のクオリティを体験できる新宿寿司おまかせ」</strong>として有名です。
 
 ---
 
 ## 1. 新宿ミシュラン1つ星寿司店、匠 達広
 
 新宿には回転寿司、24時間寿司、コスパ寿司など
-**新宿寿司店**が本当に多いです。
+<strong>新宿寿司店</strong>が本当に多いです。
 
 その中でも
 「今日はちゃんとした寿司を食べよう」という日に、
 地元の美食家が訪れる場所が
 
-**新宿ミシュラン寿司『匠 達広(たくみ たつひろ / Takumi Tatsuhiro)』**です。
+<strong>新宿ミシュラン寿司『匠 達広(たくみ たつひろ / Takumi Tatsuhiro)』</strong>です。
 
-- **ミシュランガイド東京 1つ星(★)**
+- <strong>ミシュランガイド東京 1つ星(★)</strong>
 - 評価: "優れた料理"
 - ジャンル: 寿司 / 日本料理 / 海鮮
 - Google評価: 4.4 (161)
 - 食べログ評価: 3.64 (寿司百名店 2021·2022)
 
 数百件のレビューが蓄積された
-検証済みの**東京新宿ミシュラン寿司店**です。
+検証済みの<strong>東京新宿ミシュラン寿司店</strong>です。
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-02.jpg" alt="新宿御苑前駅2番出口近く匠達広外観">
@@ -65,23 +65,23 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 このように繋げると動線が非常にスムーズです。
 
-**✅ 予約必須 [匠 達広を予約する↗](https://autoreserve.com/ko/restaurants/XfCoemy5j7GvmCD2wX88?medium_slug=AJvA6Kg5ptKi)**
+<strong>✅ 予約必須 [匠 達広を予約する↗](https://autoreserve.com/ko/restaurants/XfCoemy5j7GvmCD2wX88?medium_slug=AJvA6Kg5ptKi)</strong>
 
-**⏰ 営業時間**
+<strong>⏰ 営業時間</strong>
 - ランチ: 12:00 ~ 14:00 (L.O 13:30)
 - ディナー: 17:00 ~ 22:00 (L.O 21:30)
 - 定休日: 日曜日・祝日月曜日
 
-- **席数**: カウンター約10席 / 個室1室 (4~6人、最大8人)
-- **支払方法**: クレジットカード可
+- <strong>席数</strong>: カウンター約10席 / 個室1室 (4~6人、最大8人)
+- <strong>支払方法</strong>: クレジットカード可
 
-**💰 予算** (1人あたり)
+<strong>💰 予算</strong> (1人あたり)
 - ランチおまかせ: 約19,800円
 - ディナーおまかせ: 約29,700円
 
-- **アクセス 📍 [Googleマップ↗](https://maps.app.goo.gl/xHaQdmEeVdW4zmzm8) 📍**
+- <strong>アクセス 📍 [Googleマップ↗](https://maps.app.goo.gl/xHaQdmEeVdW4zmzm8) 📍</strong>
 
-東京メトロ丸ノ内線 **新宿御苑前駅** 2番出口 徒歩約3分
+東京メトロ丸ノ内線 <strong>新宿御苑前駅</strong> 2番出口 徒歩約3分
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.687,139.707&hl=ja&z=17&output=embed"
@@ -109,19 +109,19 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 ## 3. ランチおまかせコースレビュー(20コース、実際の順序通り)
 
 「匠 達広」は
-名門**「すし匠」系列**の特徴を受け継いでいます:
+名門<strong>「すし匠」系列</strong>の特徴を受け継いでいます:
 - つまみ(料理)と
 - にぎり(寿司)が
 
 交互に出てくるスタイルで、
 日本酒と共に楽しむのに最適な本格江戸前寿司おまかせです。
 
-私が訪問した日の**ランチおまかせ(19,800円)**コースを
+私が訪問した日の<strong>ランチおまかせ(19,800円)</strong>コースを
 実際に出た順序通りに紹介します。
 
 ---
 
-**1コース目. つまみ – 海ぶどうと海藻**
+<strong>1コース目. つまみ – 海ぶどうと海藻</strong>
 
 沖縄名物の海ぶどう(うみぶどう)、
 新鮮なわかめと野菜が一緒に出てきます。
@@ -133,7 +133,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司 匠 達広 ランチつまみ(海ぶどう・わかめ)</figcaption>
 </figure>
 
-**2コース目. にぎり – 金目鯛(きんめだい)**
+<strong>2コース目. にぎり – 金目鯛(きんめだい)</strong>
 
 赤みが美しい白身魚のにぎりです。
 皮側を軽く炙って香ばしさと弾力が同時に感じられました。
@@ -145,7 +145,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 にぎり(金目鯛きんめだい)</figcaption>
 </figure>
 
-**3コース目. つまみ – もずく**
+<strong>3コース目. つまみ – もずく</strong>
 
 寿司の後に続く海藻料理です。
 沖縄で好まれるもずく。
@@ -158,7 +158,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 つまみ(もずく)</figcaption>
 </figure>
 
-**4コース目. にぎり – 障泥烏賊(あおりいか)**
+<strong>4コース目. にぎり – 障泥烏賊(あおりいか)</strong>
 
 「イカの王」と呼ばれる障泥烏賊(あおりいか)。
 細かい切り込みのおかげで柔らかく弾力のある食感が最大化されます。
@@ -170,7 +170,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 にぎり(障泥烏賊あおりいか)</figcaption>
 </figure>
 
-**5コース目. にぎり – 鮃(ひらめ)**
+<strong>5コース目. にぎり – 鮃(ひらめ)</strong>
 
 熟成がよくできた鮃(ひらめ)です。
 軽く醤油を刷いた光沢のあるビジュアル。
@@ -182,7 +182,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 にぎり(鮃ひらめ)</figcaption>
 </figure>
 
-**6コース目. つまみ – えぼ鯛焼き**
+<strong>6コース目. つまみ – えぼ鯛焼き</strong>
 
 再びつまみの番。
 脂が適度に乗ったえぼ鯛(えぼだい)の焼き物が出てきます。
@@ -196,7 +196,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 つまみ(えぼ鯛焼き)</figcaption>
 </figure>
 
-**7コース目. にぎり – 鯵(あじ)**
+<strong>7コース目. にぎり – 鯵(あじ)</strong>
 
 青魚の代表 鯵(あじ)。
 銀色の皮と赤い身の対比が鮮明で
@@ -209,7 +209,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司店、匠 達広 にぎり(鯵あじ)</figcaption>
 </figure>
 
-**8コース目. 小丼 – いくら**
+<strong>8コース目. 小丼 – いくら</strong>
 
 にぎりではなく小さな丼、小丼(こぶりどん)スタイル。
 醤油によく漬けられたいくらが
@@ -222,7 +222,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 コース(いくら)</figcaption>
 </figure>
 
-**9コース目. にぎり – 鰤(ぶり)トロ**
+<strong>9コース目. にぎり – 鰤(ぶり)トロ</strong>
 
 冬の魚の王、鰤(ぶり)。
 その中でも脂が豊富な腹身(トロ)部位です。
@@ -235,7 +235,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 にぎり(鰤腹身ぶり)</figcaption>
 </figure>
 
-**10コース目. つまみ – 鰆(さわら)蒸し**
+<strong>10コース目. つまみ – 鰆(さわら)蒸し</strong>
 
 温かいつまみの鰆(さわら)蒸し。
 青い器に盛られた鰆は
@@ -248,7 +248,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 つまみ(鰆蒸し)</figcaption>
 </figure>
 
-**11コース目. にぎり – 車海老(くるまえび)**
+<strong>11コース目. にぎり – 車海老(くるまえび)</strong>
 
 寿司の花、車海老(くるまえび)にぎり。
 注文と同時に茹でて温かい体温(ひとはだ)が残っています。
@@ -261,7 +261,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司店、匠 達広 にぎり(車海老くるまえび)</figcaption>
 </figure>
 
-**12コース目. にぎり – 鮪(まぐろ)トロ**
+<strong>12コース目. にぎり – 鮪(まぐろ)トロ</strong>
 
 脂の乗った香ばしさが魅力的な鮪(まぐろ)の腹身(トロ)。
 細かい切り込みのおかげで
@@ -274,7 +274,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 にぎり(鮪腹身トロ)</figcaption>
 </figure>
 
-**13コース目. にぎり – 鮪(まぐろ)赤身**
+<strong>13コース目. にぎり – 鮪(まぐろ)赤身</strong>
 
 醤油に漬けていない、
 鮪赤身本来の味を感じられるコース。
@@ -287,7 +287,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 にぎり(鮪赤身)</figcaption>
 </figure>
 
-**14コース目. 軍艦巻き – 雲丹(うに)**
+<strong>14コース目. 軍艦巻き – 雲丹(うに)</strong>
 
 海苔で巻いたシャリの上に
 新鮮な雲丹(うに)がたっぷり乗った軍艦巻き。
@@ -300,7 +300,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司店、匠 達広 軍艦巻き(雲丹うに)</figcaption>
 </figure>
 
-**15コース目. 汁物 – 味噌汁**
+<strong>15コース目. 汁物 – 味噌汁</strong>
 
 コース中間の温かい休憩。
 濃い出汁に葱と青さ海苔が入った味噌汁です。
@@ -312,7 +312,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 汁物(味噌汁)</figcaption>
 </figure>
 
-**16コース目. にぎり – 小鰭(こはだ)**
+<strong>16コース目. にぎり – 小鰭(こはだ)</strong>
 
 江戸前寿司の象徴 小鰭(こはだ)。
 銀色の皮に細かく入れた包丁目が
@@ -326,7 +326,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ミシュラン寿司、匠 達広 にぎり(小鰭こはだ)</figcaption>
 </figure>
 
-**17コース目. にぎり – 穴子(あなご)**
+<strong>17コース目. にぎり – 穴子(あなご)</strong>
 
 コース後半を知らせる温かい穴子(あなご)にぎり。
 甘いタレソースを塗って柔らかく焼き上げました。
@@ -338,7 +338,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司店、匠 達広 にぎり(穴子あなご)</figcaption>
 </figure>
 
-**18コース目. つまみ – 茶碗蒸し**
+<strong>18コース目. つまみ – 茶碗蒸し</strong>
 
 温かい日本式茶碗蒸し。
 プリンのような食感ではなく
@@ -351,7 +351,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 つまみ(茶碗蒸し)</figcaption>
 </figure>
 
-**19コース目. 玉子焼き – ぎょく**
+<strong>19コース目. 玉子焼き – ぎょく</strong>
 
 コースの終わりを知らせる玉子焼き(ぎょく)。
 密度高くしっとりと焼き上げて
@@ -365,7 +365,7 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿寿司おまかせ、匠 達広 おまかせ(玉子焼きぎょく)</figcaption>
 </figure>
 
-**20コース目. デザート – 黒豆アイスクリーム**
+<strong>20コース目. デザート – 黒豆アイスクリーム</strong>
 
 ランチおまかせの本当の最後。
 レビューで好評が多かった黒豆(くろまめ)アイスクリームです。
@@ -395,21 +395,21 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 ## 4. 他の新宿寿司・刺身店との比較
 
 新宿にはすでに有名な
-**新宿寿司店・回転寿司・24時間寿司**が多いです。
+<strong>新宿寿司店・回転寿司・24時間寿司</strong>が多いです。
 例えば:
 - 新宿スシロー、すしざんまい、くら寿司のようなコスパ回転寿司
 - ひまわり寿司、魚がし立ち食い寿司のような地元回転寿司・立ち食い寿司店
 - 新宿寿司食べ放題、寿司ビュッフェなど量で勝負する店
 
 これらの場所と比較した時
-**匠 達広は方向性が全く異なります。**
+<strong>匠 達広は方向性が全く異なります。</strong>
 
 ✔️ "東京新宿で一度、記憶に残る寿司を食べたい時"
 ✔️ "新宿ミシュラン寿司をカウンターでちゃんと楽しみたい時"
 ✔️ "観光地っぽさより静かで集中できる空間を好む時"
 
 こんな時に選ぶのに良い、
-ハイエンド**新宿寿司おまかせおすすめコース**だと見れば良いです。
+ハイエンド<strong>新宿寿司おまかせおすすめコース</strong>だと見れば良いです。
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-24.jpg" alt="匠達広 新宿寿司おまかせ 内部全景">
@@ -424,12 +424,12 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
   「一日はちゃんとした寿司おまかせを食べたい」という方
 - 新宿御苑散策 + 新宿レストランランチ/ディナーを一度に解決したい方
 - コスパ回転寿司より
-  **寿司職人の手技、シャリ・ネタバランス**を重視するタイプ
-- **新宿ミシュラン寿司**を
+  <strong>寿司職人の手技、シャリ・ネタバランス</strong>を重視するタイプ
+- <strong>新宿ミシュラン寿司</strong>を
   一箇所くらいチェックしておきたい美食家
 
 ➡️ こんな条件にぴったりなら、
-**「匠 達広」は新宿寿司店リストで指折りの選択肢**になるでしょう。
+<strong>「匠 達広」は新宿寿司店リストで指折りの選択肢</strong>になるでしょう。
 
 <figure>
   <img src="/images/posts/takumi-tatsuhiro-shinjuku-25.jpg" alt="匠達広 新宿寿司おまかせ 入口">
@@ -448,13 +448,21 @@ featured_image: "/images/posts/takumi-tatsuhiro-shinjuku-01.jpg"
 
 まで繋げて一日コースを完成させても良いです。
 
-**🌿 新宿一日コース全体:[新宿観光完全コースガイド↗](/ja/posts/shinjuku-guide-2025/)**
+<strong>🌿 新宿一日コース全体:[新宿観光完全コースガイド↗](/ja/posts/shinjuku-guide-2025/)</strong>
 
-**🍁 散策:[新宿御苑営業時間、紅葉、ピクニック↗](/ja/posts/shinjuku-gyoen-guide-2025/)**
+<strong>🍁 散策:[新宿御苑営業時間、紅葉、ピクニック↗](/ja/posts/shinjuku-gyoen-guide-2025/)</strong>
 
-**🏙 夜景:[東京都庁無料展望台光のショー&新宿夜景ヒント↗](/ja/posts/tokyo-metropolitan-govt-observatory/)**
+<strong>🏙 夜景:[東京都庁無料展望台光のショー&新宿夜景ヒント↗](/ja/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
-**🌃 夜の街:[新宿ゴールデン街vs思い出横丁完全比較↗](/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
+<strong>🌃 夜の街:[新宿ゴールデン街vs思い出横丁完全比較↗](/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224071675259" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

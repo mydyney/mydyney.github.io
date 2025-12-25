@@ -28,10 +28,10 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 ## 概要
 
 今年は
-- 世界最大級 **バカラシャンデリア**、
-- **10m大型クリスマスツリー**、
-- **時計広場・シャトー広場2ヶ所のクリスマスマーケット**、
-- シャンパンゴールド **クリスマスイルミネーション**、
+- 世界最大級 <strong>バカラシャンデリア</strong>、
+- <strong>10m大型クリスマスツリー</strong>、
+- <strong>時計広場・シャトー広場2ヶ所のクリスマスマーケット</strong>、
+- シャンパンゴールド <strong>クリスマスイルミネーション</strong>、
 
 まで一度に楽しめる完璧なコースで構成されました。
 
@@ -40,26 +40,26 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 ## 🎄 2025-2026核心日程一目で見る
 
 ### 🌟 クリスマスシャンパンゴールドイルミネーション
-- **期間：** 2025年11月8日（土）～2026年3月1日（日）
-- **時間：** 16:00 ~ 23:00
-- **場所：** 時計広場–センター広場連結路
-- ✔️ **クリスマスシーズン後も3月まで継続運営されます！**
+- <strong>期間：</strong> 2025年11月8日（土）～2026年3月1日（日）
+- <strong>時間：</strong> 16:00 ~ 23:00
+- <strong>場所：</strong> 時計広場–センター広場連結路
+- ✔️ <strong>クリスマスシーズン後も3月まで継続運営されます！</strong>
 
 ### 🎄 10m大型クリスマスツリー
-- **期間：** 2025年11月8日（土）～2025年12月25日（木）
-- **時間：** 16:00~23:00
-- **場所：** 時計広場
-- ✔️ **クリスマスツリーは12月25日までのみ展示されます！**
+- <strong>期間：</strong> 2025年11月8日（土）～2025年12月25日（木）
+- <strong>時間：</strong> 16:00~23:00
+- <strong>場所：</strong> 時計広場
+- ✔️ <strong>クリスマスツリーは12月25日までのみ展示されます！</strong>
 
 ### 💎 バカラシャンデリア（Baccarat ETERNAL LIGHTS）
-- **期間：** 2025年11月8日（土）～2026年1月12日（月）
-- **時間：** 11:00 ~ 23:00
-- **場所：** センター広場
+- <strong>期間：</strong> 2025年11月8日（土）～2026年1月12日（月）
+- <strong>時間：</strong> 11:00 ~ 23:00
+- <strong>場所：</strong> センター広場
 
 ### 🎁 クリスマスマーケット（2ヶ所）
-- **時計広場：** 2025年11月8日（土）～12月25日（木）
-- **シャトー広場：** 2025年11月28日（金）～12月25日（木）
-- **時間：** （平日）17:00~20:00 /（週末・祝日）12:00~20:00
+- <strong>時計広場：</strong> 2025年11月8日（土）～12月25日（木）
+- <strong>シャトー広場：</strong> 2025年11月28日（金）～12月25日（木）
+- <strong>時間：</strong> （平日）17:00~20:00 /（週末・祝日）12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-02.jpg" alt="2025年冬恵比寿ガーデンプレイスイルミネーションと時計広場からセンター広場まで続く夜景全景">
@@ -72,7 +72,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 恵比寿ガーデンプレイスクリスマスは時計広場から始まります。
 
-ここはドラマ **〈花より男子〉** で道明寺とつくしが会った「1時の約束の場所」としても有名なポイントです。
+ここはドラマ <strong>〈花より男子〉</strong> で道明寺とつくしが会った「1時の約束の場所」としても有名なポイントです。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-03.jpg" alt="恵比寿ガーデンプレイス時計広場">
@@ -84,8 +84,8 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 恵比寿ガーデンプレイスを象徴するメインツリーで、
 シャンパンゴールド照明と共にヨーロッパの小さな町のような雰囲気を作り出します。
 
-- **期間：** 2025年11月8日（土）～2025年12月25日（木）
-- **時間：** 16:00~23:00
+- <strong>期間：</strong> 2025年11月8日（土）～2025年12月25日（木）
+- <strong>時間：</strong> 16:00~23:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-04.jpg" alt="恵比寿ガーデンプレイス時計広場に設置された10m大型クリスマスツリー">
@@ -96,8 +96,8 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 時計広場周辺ではクリスマスギフト用小物・装飾・アクセサリーなどを販売するマーケットが開かれます。
 
-- **期間：** 2025年11月8日（土）～12月25日（木）
-- **時間：** （平日）17:00~20:00 /（週末）12:00~20:00
+- <strong>期間：</strong> 2025年11月8日（土）～12月25日（木）
+- <strong>時間：</strong> （平日）17:00~20:00 /（週末）12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-05.jpg" alt="恵比寿ガーデンプレイス2025時計広場クリスマスマーケット風景">
@@ -120,7 +120,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 ## 2️⃣ バカラシャンデリア – 恵比寿の代表フォトゾーン
 
-世界最大級のクリスタルシャンデリアが展示された **センター広場** は
+世界最大級のクリスタルシャンデリアが展示された <strong>センター広場</strong> は
 恵比寿ガーデンプレイスイルミネーションの核心です。
 
 - 高さ約5m
@@ -142,8 +142,8 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 時計広場からシャンデリアのあるセンター広場へ続く道全体が
 シャンパンゴールド照明で彩られ、恵比寿ガーデンプレイスイルミネーションのハイライト動線になります。
 
-- **期間：** 2025年11月8日（土）～2026年3月1日（日）
-- **時間：** 16:00 ~ 23:00
+- <strong>期間：</strong> 2025年11月8日（土）～2026年3月1日（日）
+- <strong>時間：</strong> 16:00 ~ 23:00
 - ✔️ クリスマスが過ぎても3月1日まで点灯されるため、
 年末を避けて旅行される方にも良いコースです。
 
@@ -154,7 +154,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668826357
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">2024恵比寿ガーデンプレイスクリスマスレビュー（昨年のアーカイブ）</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">2024恵比寿ガーデンプレイスクリスマスレビュー（昨年のアーカイブ）</a></strong>
 *（リンクは移行後に更新されます）*
 
 <figure>
@@ -166,13 +166,13 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 ## 3️⃣ シャトー広場マーケット – ヨーロッパ感性のジョエル・ロブション前
 
-11月28日からは **ジョエル・ロブション（シャトーレストラン）前のシャトー広場** でも
+11月28日からは <strong>ジョエル・ロブション（シャトーレストラン）前のシャトー広場</strong> でも
 別途のクリスマスマーケットが開かれます。
 
 時計広場よりヨーロッパの小さな町のような雰囲気が強いので、別途訪問する方も多いです。
 
-- **期間：** 2025年11月28日（金）～12月25日（木）
-- **時間：** （平日）17:00~20:00 /（週末・祝日）12:00~20:00
+- <strong>期間：</strong> 2025年11月28日（金）～12月25日（木）
+- <strong>時間：</strong> （平日）17:00~20:00 /（週末・祝日）12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-08.jpg" alt="2025恵比寿ガーデンプレイスクリスマスマーケットが開かれるシャトー広場ジョエル・ロブション前">
@@ -181,19 +181,19 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 ここには時計広場とはまた違う特別なグルメフードトラックが入ります。
 
-- **PÄRLA（ペルラ）：** 神宮外苑、銀座などで有名な「大人のクレープ」専門店。ラム酒が入った生地と高級生クリームのハイエンドクレープを味わえます。
-- **HELLO GREEN GRUB：** 農場で直接育てた新鮮な野菜で作った温かいスープを販売します。
+- <strong>PÄRLA（ペルラ）：</strong> 神宮外苑、銀座などで有名な「大人のクレープ」専門店。ラム酒が入った生地と高級生クリームのハイエンドクレープを味わえます。
+- <strong>HELLO GREEN GRUB：</strong> 農場で直接育てた新鮮な野菜で作った温かいスープを販売します。
 
 ---
 
 ## 4️⃣ BLUE NOTE PLACE – 無料DJミュージックテラス
 
-時計広場横の **BLUE NOTE PLACE** では12月特定期間
-無料DJイベント **GOOD MUSIC TERRACE** が開かれます。
+時計広場横の <strong>BLUE NOTE PLACE</strong> では12月特定期間
+無料DJイベント <strong>GOOD MUSIC TERRACE</strong> が開かれます。
 
-- **期間：** 12月週末（5-7日、12-14日、19-21日）及びクリスマスシーズン（23-25日）
-- **時間：** （平日）17:30~20:00 /（週末）15:00~20:00
-- **場所：** 時計広場、ブルーノートプレイステラス
+- <strong>期間：</strong> 12月週末（5-7日、12-14日、19-21日）及びクリスマスシーズン（23-25日）
+- <strong>時間：</strong> （平日）17:30~20:00 /（週末）15:00~20:00
+- <strong>場所：</strong> 時計広場、ブルーノートプレイステラス
 
 ### ☕ BNP STAND
 
@@ -218,9 +218,9 @@ Top of Yebisuという無料展望台があります。
 渋谷スカイ、六本木ヒルズ展望台ほど有名ではありませんが、
 無料で東京タワービューを楽しめるという点で隠れた名所です。
 
-- **場所：** 恵比寿ガーデンプレイスタワー38・39階
-- **時間：** 11:00 ~ 23:30
-- **料金：** 無料
+- <strong>場所：</strong> 恵比寿ガーデンプレイスタワー38・39階
+- <strong>時間：</strong> 11:00 ~ 23:30
+- <strong>料金：</strong> 無料
 
 ### ⭐ おすすめコース
 
@@ -259,7 +259,7 @@ Top of Yebisuという無料展望台があります。
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223665548720
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">ヱビスブルワリー東京、ビール好きなら必ず行くべき場所</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">ヱビスブルワリー東京、ビール好きなら必ず行くべき場所</a></strong>
 *（リンクは移行後に更新されます）*
 
 <figure>
@@ -271,7 +271,7 @@ Top of Yebisuという無料展望台があります。
 
 ## 🗺️ 恵比寿ガーデンプレイスへの行き方
 
-- **JR山手線、東京メトロ日比谷線（H）恵比寿（Ebisu）駅** 下車
+- <strong>JR山手線、東京メトロ日比谷線（H）恵比寿（Ebisu）駅</strong> 下車
 - 恵比寿駅東口出口 → 恵比寿スカイウォーク利用
 
 雨・雪に濡れずに動く歩道だけに乗って5~8分で
@@ -282,7 +282,7 @@ Top of Yebisuという無料展望台があります。
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">東京恵比寿ガーデンプレイスへの行き方とコインロッカーの場所</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">東京恵比寿ガーデンプレイスへの行き方とコインロッカーの場所</a></strong>
 *（リンクは移行後に更新されます）*
 
 <figure>
@@ -294,9 +294,9 @@ Top of Yebisuという無料展望台があります。
 
 ## 🎁 Instagramキャンペーン – ジョエル・ロブション食事券イベント
 
-- **期間：** 2025年11月21日（金）～12月25日（木）
-- **景品：** ジョエル・ロブションディナー（2組4名）
-- **応募方法：**
+- <strong>期間：</strong> 2025年11月21日（金）～12月25日（木）
+- <strong>景品：</strong> ジョエル・ロブションディナー（2組4名）
+- <strong>応募方法：</strong>
   - 恵比寿ガーデンプレイス公式アカウント@yebisu_garden_place をフォロー
   - 11月21日にアップロード予定のキャンペーン投稿に「いいね」
 
@@ -307,14 +307,14 @@ Top of Yebisuという無料展望台があります。
 
 ## ❓ よくある質問Q&A
 
-**Q. イルミネーション、展望台すべて無料ですか？**
+<strong>Q. イルミネーション、展望台すべて無料ですか？</strong>
 A. はい。シャンデリア、ツリー、マーケットすべて無料です。
 
-**Q. マーケットはどこで開かれますか？**
+<strong>Q. マーケットはどこで開かれますか？</strong>
 A. 時計広場（11/8~）+ シャトー広場（11/28~）の2ヶ所です。
 
-**Q. モール内にはどんなお店がありますか？**
-A. 地下2階 **Foodies' Garden** にはカルディ（KALDI）、セントラルスクエア、明治屋などがあり、旅行のお土産・記念品を購入するのに良いです。
+<strong>Q. モール内にはどんなお店がありますか？</strong>
+A. 地下2階 <strong>Foodies' Garden</strong> にはカルディ（KALDI）、セントラルスクエア、明治屋などがあり、旅行のお土産・記念品を購入するのに良いです。
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-13.jpg" alt="恵比寿ガーデンプレイス地下2階フーディーズガーデン入口">
@@ -350,7 +350,7 @@ A. 地下2階 **Foodies' Garden** にはカルディ（KALDI）、セントラ�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">恵比寿見どころ、恵比寿ガーデンプレイスからビール博物館、グルメまで完璧ガイド</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">恵比寿見どころ、恵比寿ガーデンプレイスからビール博物館、グルメまで完璧ガイド</a></strong>
 *（リンクは移行後に更新されます）*
 
 ---
@@ -359,27 +359,35 @@ A. 地下2階 **Foodies' Garden** にはカルディ（KALDI）、セントラ�
 
 ### ⭐ 核心だけ！東京クリスマス3泊4日旅行日程
 
-**➡️ <a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">東京3泊4日クリスマスイルミネーションおすすめコース&クリスマスマーケット（動線・経費総まとめ）</a>**
+<strong>➡️ <a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">東京3泊4日クリスマスイルミネーションおすすめコース&クリスマスマーケット（動線・経費総まとめ）</a></strong>
 
 ### 🌟 11月4日開始 六本木ヒルズイルミネーション
 
-**➡️ <a href="/ja/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">六本木イルミネーション2025期間、点灯時間、必須スポット完全まとめ</a>**
+<strong>➡️ <a href="/ja/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">六本木イルミネーション2025期間、点灯時間、必須スポット完全まとめ</a></strong>
 
 ### 🌟 11月6日開始 東京スカイツリークリスマスマーケット
 
-**➡️ <a href="/ja/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;">2025東京スカイツリークリスマスマーケット完全まとめ（公式日程、新メニュー、フォトスポット裏技総まとめ）</a>**
+<strong>➡️ <a href="/ja/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;">2025東京スカイツリークリスマスマーケット完全まとめ（公式日程、新メニュー、フォトスポット裏技総まとめ）</a></strong>
 
 ### 🌟 11月13日開始 東京丸の内イルミネーション
 
-**➡️ <a href="/ja/posts/marunouchi-illumination-2025/" style="color: #667eea;">東京丸の内イルミネーション2025期間、時間総まとめ（ディズニー、クリスマスマーケット、スタンプラリー）</a>**
+<strong>➡️ <a href="/ja/posts/marunouchi-illumination-2025/" style="color: #667eea;">東京丸の内イルミネーション2025期間、時間総まとめ（ディズニー、クリスマスマーケット、スタンプラリー）</a></strong>
 
 ### 🌟 11月13日開始 東京日比谷ミッドタウンイルミネーション
 
-**➡️ <a href="/ja/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;">2025日比谷ミッドタウンイルミネーション・ズートピア2コラボ・丸の内徒歩コース完全まとめ</a>**
+<strong>➡️ <a href="/ja/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;">2025日比谷ミッドタウンイルミネーション・ズートピア2コラボ・丸の内徒歩コース完全まとめ</a></strong>
 
 ### 🌟 11月13日開始 六本木東京ミッドタウンイルミネーション
 
-**➡️ <a href="/ja/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025六本木東京ミッドタウンクリスマス総まとめ（イルミネーション、アイスリンク、グルメ）</a>**
+<strong>➡️ <a href="/ja/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025六本木東京ミッドタウンクリスマス総まとめ（イルミネーション、アイスリンク、グルメ）</a></strong>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224078737491" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 
 <div class="editors-note">

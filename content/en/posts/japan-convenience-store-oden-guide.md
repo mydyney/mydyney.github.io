@@ -27,32 +27,32 @@ Essential winter Japan travel information.</p>
 When the cold winds start blowing during your Japan trip, the first aroma that comes to mind is the savory katsuobushi (bonito flake) broth spreading as you open a convenience store door. Convenience store oden is the ultimate healing food for winter Japan travel.
 
 But when it comes to actually ordering,
-**"I wanted to try it but gave up because I don't speak Japanese."**
-**"I just grabbed something but it wasn't my style."**
+<strong>"I wanted to try it but gave up because I don't speak Japanese."</strong>
+<strong>"I just grabbed something but it wasn't my style."</strong>
 Many travelers have these experiences.
 
 That's why today we're sharing everything you need to know for ordering oden at Japanese convenience stores even as a first-time visitor:
-**📌 Oden ordering phrases in Japanese,**
-**📌 Popular menu items like daikon, konjac, and age-mochi (deep-fried mochi),**
-**📌 Differences between 7-Eleven, Lawson, and FamilyMart oden and complete menu charts**
+<strong>📌 Oden ordering phrases in Japanese,</strong>
+<strong>📌 Popular menu items like daikon, konjac, and age-mochi (deep-fried mochi),</strong>
+<strong>📌 Differences between 7-Eleven, Lawson, and FamilyMart oden and complete menu charts</strong>
 - all the essential information for travelers! 😋
 
 ---
 
 ## 1. When Do Japanese Convenience Stores Sell Oden?
 
-Japanese convenience store oden is often a **seasonal limited menu item**.
+Japanese convenience store oden is often a <strong>seasonal limited menu item</strong>.
 Don't be surprised if you visit in summer and wonder "Why isn't there any?"
 
-**🗓️ Sales Period**
+<strong>🗓️ Sales Period</strong>
 - Usually mid-September ~ April of the following year
 - Varies by region and store (colder regions like Hokkaido and Tohoku tend to start earlier)
 
-**💴 Average Price Range**
+<strong>💴 Average Price Range</strong>
 - 100-150 yen per piece
 - Approximately ¥1,100-1,600 with tax included
 
-**💡 Recent Trends**
+<strong>💡 Recent Trends</strong>
 - Due to stricter hygiene standards, open-pot oden next to cash registers is disappearing, and "packaged oden" sales are increasing.
 - 7-Eleven still has the highest proportion of hot pot oden for reference!
 
@@ -67,7 +67,7 @@ Don't be surprised if you visit in summer and wonder "Why isn't there any?"
 
 The easiest way to order is pointing with your finger, but if ingredients are hidden in the broth, you'll need to say the name!
 
-**🍢 Top 5 Menu Items for Korean Palates**
+<strong>🍢 Top 5 Menu Items for Korean Palates</strong>
 
 <table class="schedule-table">
   <thead>
@@ -111,32 +111,32 @@ The easiest way to order is pointing with your finger, but if ingredients are hi
   <figcaption style="font-size: 0.7em; text-align: center;"><strong>7-Eleven oden menu board: daikon, egg, shirataki, konjac popular items</strong></figcaption>
 </figure>
 
-**🗣️ Real-Life Ordering Conversation (Just Show These Key Phrases!)**
+<strong>🗣️ Real-Life Ordering Conversation (Just Show These Key Phrases!)</strong>
 
-- **Calling staff:**
-**Sumimasen, oden onegaishimasu**
+- <strong>Calling staff:</strong>
+<strong>Sumimasen, oden onegaishimasu</strong>
 (Excuse me, oden please.)
 すみません、おでんお願いします。
 
-- **When ordering:**
-**(Point with your finger) Kore kudasai**
+- <strong>When ordering:</strong>
+<strong>(Point with your finger) Kore kudasai</strong>
 (This one please.)
 これください。
 
-- **Extra broth please:**
-**Tsuyu ōme de onegaishimasu**
+- <strong>Extra broth please:</strong>
+<strong>Tsuyu ōme de onegaishimasu</strong>
 (Extra broth please.)
 つゆ多めでお願いします。
 
-- **Mustard please:**
-**Karashi tsukete kudasai**
+- <strong>Mustard please:</strong>
+<strong>Karashi tsukete kudasai</strong>
 (Mustard please.)
 からしつけてください。
 
-**📌 Tip.** Grab your favorite condiments (free):
-- **Yuzu-kosho (ゆずこしょう)**: Spicy and refreshing yuzu pepper seasoning
-- **Neri-karashi (ねりからし)**: Sharp yellow mustard
-- **Aka-miso dare (赤味噌たれ)**: Rich red miso sauce
+<strong>📌 Tip.</strong> Grab your favorite condiments (free):
+- <strong>Yuzu-kosho (ゆずこしょう)</strong>: Spicy and refreshing yuzu pepper seasoning
+- <strong>Neri-karashi (ねりからし)</strong>: Sharp yellow mustard
+- <strong>Aka-miso dare (赤味噌たれ)</strong>: Rich red miso sauce
 
 <figure>
   <img src="/images/posts/japan-convenience-store-oden-guide-05.jpg" alt="Japanese convenience store oden ordering process staff serving customer">
@@ -149,15 +149,15 @@ The easiest way to order is pointing with your finger, but if ingredients are hi
 
 Japanese convenience store oden has slightly different broth flavors and ingredient styles by chain. Visit according to your preference!
 
-**✅ 7-Eleven**
+<strong>✅ 7-Eleven</strong>
 
-7-Eleven oden has the **most distinct and rich broth flavor** based on katsuobushi and kombu.
+7-Eleven oden has the <strong>most distinct and rich broth flavor</strong> based on katsuobushi and kombu.
 
 The style has a subtle sweetness that's easy for beginners, with high praise for ingredients like daikon and eggs that need good broth absorption.
 
-Fast ingredient turnover means there's "**no failure**" - it's that reliable.
+Fast ingredient turnover means there's "<strong>no failure</strong>" - it's that reliable.
 
-- **Recommended for:**
+- <strong>Recommended for:</strong>
 ✔️ Prefer deep dashi aroma
 ✔️ Like rich broth oden
 ✔️ Travelers who value daikon and egg quality
@@ -167,15 +167,15 @@ Fast ingredient turnover means there's "**no failure**" - it's that reliable.
   <figcaption style="font-size: 0.7em; text-align: center;">7-Eleven oden corner: Japanese convenience store winter menu</figcaption>
 </figure>
 
-**✅ Lawson**
+<strong>✅ Lawson</strong>
 
-Lawson oden has less sweetness than 7-Eleven, with **clean and light broth** as its characteristic.
+Lawson oden has less sweetness than 7-Eleven, with <strong>clean and light broth</strong> as its characteristic.
 
 Especially strong in texture-focused ingredients like shirataki, konjac, and tsukune (chicken meatballs).
 
-Well-stocked **'low-carb' lineup** for health-conscious diners makes it popular for those on diets or wanting a light meal.
+Well-stocked <strong>'low-carb' lineup</strong> for health-conscious diners makes it popular for those on diets or wanting a light meal.
 
-- **Recommended for:**
+- <strong>Recommended for:</strong>
 ✔️ Prefer unsweetened, light oden
 ✔️ Enjoy texture-focused menu like shirataki and konjac
 ✔️ Those watching their diet
@@ -185,15 +185,15 @@ Well-stocked **'low-carb' lineup** for health-conscious diners makes it popular 
   <figcaption style="font-size: 0.7em; text-align: center;">Japanese winter representative menu: convenience store oden corner</figcaption>
 </figure>
 
-**✅ FamilyMart**
+<strong>✅ FamilyMart</strong>
 
-FamilyMart oden has clear broth and light taste, making it **easy to eat lightly**.
+FamilyMart oden has clear broth and light taste, making it <strong>easy to eat lightly</strong>.
 
 Basic menu items like daikon, eggs, and konjac have good overall balance, and the clean broth flavor makes it enjoyable without burden.
 
 Especially good for travelers seeking a simple "soupy snack," it's rated as the most universally liked flavor among the three chains.
 
-- **Recommended for:**
+- <strong>Recommended for:</strong>
 ✔️ Prefer light and clean oden
 ✔️ When heavy broth flavor is too much
 ✔️ Want to safely choose basic menu items
@@ -209,7 +209,7 @@ Especially good for travelers seeking a simple "soupy snack," it's rated as the 
 
 While you're unlikely to fail at any store along your travel route, daikon, egg, konjac, and mochi kinchaku are popular ingredients across all three chains, so these are most recommended for first-time orders.
 
-**✅ 7-Eleven Oden Menu List (by price)**
+<strong>✅ 7-Eleven Oden Menu List (by price)</strong>
 - Prices below are pre-tax. 8% consumption tax is added at checkout.
 
 <table class="schedule-table">
@@ -339,7 +339,7 @@ While you're unlikely to fail at any store along your travel route, daikon, egg,
   <figcaption style="font-size: 0.7em; text-align: center;">Japanese convenience store oden corners: 7-Eleven, Lawson, FamilyMart comparison</figcaption>
 </figure>
 
-**✅ Lawson Oden Menu List (by price)**
+<strong>✅ Lawson Oden Menu List (by price)</strong>
 - Prices below include tax.
 
 <table class="schedule-table">
@@ -469,7 +469,7 @@ While you're unlikely to fail at any store along your travel route, daikon, egg,
   </tbody>
 </table>
 
-**✅ FamilyMart Oden Menu List (by price)**
+<strong>✅ FamilyMart Oden Menu List (by price)</strong>
 - Prices below include tax.
 
 <table class="schedule-table">
@@ -553,22 +553,30 @@ While you're unlikely to fail at any store along your travel route, daikon, egg,
 
 ## 📝 Remember These 3 Things for Ordering Japanese Convenience Store Oden!
 
-1. Japanese convenience store oden is **September~April** season! (varies by store)
-2. When ordering, point with your finger and say **"Kore kudasai"**, for broth **"Tsuyu ōme de (extra)"**
-3. **Daikon, shirataki, mochi kinchaku** are fail-proof combinations
+1. Japanese convenience store oden is <strong>September~April</strong> season! (varies by store)
+2. When ordering, point with your finger and say <strong>"Kore kudasai"</strong>, for broth <strong>"Tsuyu ōme de (extra)"</strong>
+3. <strong>Daikon, shirataki, mochi kinchaku</strong> are fail-proof combinations
 
 Don't miss a bowl of warm convenience store oden this winter on your Japan trip! If you have questions or need additional menu translations, let us know in the comments. Have a wonderful trip! 😊🍢
 
-**🧡 Related Japan Travel Guides**
+<strong>🧡 Related Japan Travel Guides</strong>
 
-**👉** <a href="/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>Japan Convenience Store Shopping List: Fail-Proof BEST 10 (7-Eleven, FamilyMart, Lawson Comparison)</strong></a>
+<strong>👉</strong> <a href="/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>Japan Convenience Store Shopping List: Fail-Proof BEST 10 (7-Eleven, FamilyMart, Lawson Comparison)</strong></a>
 
-**👉** <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
+<strong>👉</strong> <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /posts/[SLUG_TBD]/ -->
-**👉** <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List 2025: Must-Buy Items (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
+<strong>👉</strong> <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List 2025: Must-Buy Items (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224086928640" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 
 <div class="editors-note">

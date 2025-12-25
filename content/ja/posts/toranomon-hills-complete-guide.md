@@ -30,10 +30,10 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 ## ✨ 「虎ノ門ヒルズ」、分かりにくいですか？
 
 最も重要なことから説明します。
-**虎ノ門ヒルズは一つの建物ではありません。**
+<strong>虎ノ門ヒルズは一つの建物ではありません。</strong>
 
-**「森タワー」「ビジネスタワー」「ステーションタワー」「ガラスタワー」**
-**4つの巨大なビルが集まった「複合都市」**です。
+<strong>「森タワー」「ビジネスタワー」「ステーションタワー」「ガラスタワー」</strong>
+<strong>4つの巨大なビルが集まった「複合都市」</strong>です。
 
 だから初めて訪れると、どこに行けばいいか迷いやすいんです。
 この記事一つで4つのタワーを完璧に攻略する方法を教えます！
@@ -49,12 +49,12 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 ここを訪れる最大の理由！
 
-虎ノ門ヒルズには、**「ドラえもん」**に似た白い猫型ロボット、**「トラノモン（トラのもん）」**がいます。
+虎ノ門ヒルズには、<strong>「ドラえもん」</strong>に似た白い猫型ロボット、<strong>「トラノモン（トラのもん）」</strong>がいます。
 
 地名の虎ノ門（虎ノ門）と「ドラえもん」を組み合わせて誕生した公式マスコットです。
 
 虎ノ門ヒルズでしか会えない「トラノモン」、
-あちこちに隠れている**「トラノモン」**と一緒に記念写真を必ず撮ってください！
+あちこちに隠れている<strong>「トラノモン」</strong>と一緒に記念写真を必ず撮ってください！
 
 <figure>
   <img src="/images/posts/toranomon-hills-complete-guide-03.jpg" alt="虎ノ門ヒルズマスコット「トラノモン」ドラえもんに似た可愛い姿">
@@ -67,15 +67,15 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 この順番で動けば、3つの核心タワーを迷わずすべて見て回れます。
 
-**🚶‍♂️ [スタート] ステーションタワー（新スポット）**
+<strong>🚶‍♂️ [スタート] ステーションタワー（新スポット）</strong>
 「虎ノ門ヒルズ駅」と直結した「ステーションタワー」からスタート。
 地下2階「T-Market」で軽い食事後、45階「TOKYO NODE」無料展望台で東京全景鑑賞。
 
-**🚶‍♂️ [移動] ビジネスタワー（美食の聖地）**
+<strong>🚶‍♂️ [移動] ビジネスタワー（美食の聖地）</strong>
 空中通路を通って「ビジネスタワー」へ移動。
 地下「虎ノ門横丁」で居酒屋ホッピング。
 
-**🚶‍♂️ [仕上げ] 森タワー（ラグジュアリー）**
+<strong>🚶‍♂️ [仕上げ] 森タワー（ラグジュアリー）</strong>
 「森タワー」1階「アンダーズホテル」のカフェや2階SAWAMURA（サワムラ）カフェで高級デザートやコーヒーで仕上げ。
 
 <figure>
@@ -91,11 +91,11 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 2024年秋にオープンした最も新しくてホットな建物。
 「虎ノ門ヒルズ駅」と直結しています。
 
-**🏙️ T-Market（地下2階）：**
+<strong>🏙️ T-Market（地下2階）：</strong>
 虎ノ門横丁とはまた違う魅力の洗練されたフードホール。
 軽い食事や昼酒を楽しむのに最適です。
 
-**🥢 焼き鳥 野野鳥 げん長**
+<strong>🥢 焼き鳥 野野鳥 げん長</strong>
 ステーションタワー4階にある焼き鳥おまかせレストランを紹介します。
 
 <!-- TODO: Update link after migration
@@ -108,27 +108,27 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">2024年オープンした虎ノ門ヒルズステーションタワーの新スポット「T-Market」入口</figcaption>
 </figure>
 
-**🏙️ TOKYO NODE（8階、45～49階）：**
+<strong>🏙️ TOKYO NODE（8階、45～49階）：</strong>
 
 虎ノ門ヒルズの展望台の役割を果たす複合文化空間。
 45階ギャラリーでは質の高い企画展示が開かれ、ルーフトップガーデンから東京タワーと都心全景を一望できます。（45階は無料展望台）
 
-**行き方**
+<strong>行き方</strong>
 - B2階→7階エレベーター
 - 7階→8階エスカレーター
 - 8階→45階エレベーター
 
-**展望台営業時間**
+<strong>展望台営業時間</strong>
 - 11:00 ~ 20:00 / 不定休
 
-**🍽️ TOKYO NODE DINING（45階）：美食とスカイツリービュー**
-ステーションタワー45階には、圧倒的なスカイツリー＆シティビューを誇るオールデイダイニング空間があります。**TOKYO NODE DINING**はイタリアンクラシックベースの高級料理を提供し、**平日限定CHEF'S LUNCH（3,900円）**がコスパの高いコースとして特に人気です。
+<strong>🍽️ TOKYO NODE DINING（45階）：美食とスカイツリービュー</strong>
+ステーションタワー45階には、圧倒的なスカイツリー＆シティビューを誇るオールデイダイニング空間があります。<strong>TOKYO NODE DINING</strong>はイタリアンクラシックベースの高級料理を提供し、<strong>平日限定CHEF'S LUNCH（3,900円）</strong>がコスパの高いコースとして特に人気です。
 
 ビジネスランチや特別なデートを計画中なら、45階の幻想的なビューと一緒に美食を楽しんでください。
 
-➡️ **<a href="/ja/posts/tokyo-node-dining-toranomon-hills-lunch/" style="color: #667eea;"><strong>TOKYO NODE DINING CHEF'S LUNCH 3,900円正直レビュー＆予約のコツ</strong></a>**
+➡️ <strong><a href="/ja/posts/tokyo-node-dining-toranomon-hills-lunch/" style="color: #667eea;"><strong>TOKYO NODE DINING CHEF'S LUNCH 3,900円正直レビュー＆予約のコツ</strong></a></strong>
 
-**🍽️ KEI Collection PARIS, apothéose レストラン（49階）**
+<strong>🍽️ KEI Collection PARIS, apothéose レストラン（49階）</strong>
 49階レストランを利用すると、非公開空間のルーフトップスカイガーデンまで登れます。
 
 <figure>
@@ -151,16 +151,16 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 ## [核心2] ビジネスタワー
 ## （美食の聖地）
 
-**「虎ノ門ヒルズグルメ」の核心**はまさにここ、
-ビジネスタワー3階にある**「虎ノ門横丁（虎ノ門横丁）」**です。
+<strong>「虎ノ門ヒルズグルメ」の核心</strong>はまさにここ、
+ビジネスタワー3階にある<strong>「虎ノ門横丁（虎ノ門横丁）」</strong>です。
 
-**🍻 虎ノ門横丁（居酒屋通り）：**
+<strong>🍻 虎ノ門横丁（居酒屋通り）：</strong>
 
-東京の名だたるミシュランレストラン、人気店の分店が集まった**「大人のプレミアムフードコート」**です。
+東京の名だたるミシュランレストラン、人気店の分店が集まった<strong>「大人のプレミアムフードコート」</strong>です。
 
-新橋の古い居酒屋とはまた違う、きれいで洗練された雰囲気で焼き鳥、寿司、中華など**最高のつまみとお酒**を楽しめる**美食の天国**です。
+新橋の古い居酒屋とはまた違う、きれいで洗練された雰囲気で焼き鳥、寿司、中華など<strong>最高のつまみとお酒</strong>を楽しめる<strong>美食の天国</strong>です。
 
-**営業時間**
+<strong>営業時間</strong>
 - 月～土曜日：11:00～23:00
 - 日、祝日：11:00～21:00
 
@@ -186,11 +186,11 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 
 虎ノ門ヒルズの始まりを告げた最初のタワーです。
 
-**🏨 アンダーズ東京（Andaz Tokyo）：**
+<strong>🏨 アンダーズ東京（Andaz Tokyo）：</strong>
 「虎ノ門ヒルズホテル」を探しているならまさにここ。
-最高級ラグジュアリーホテルで、**51階の「ルーフトップバー」**で楽しむカクテルと夜景は忘れられない経験を提供します。
+最高級ラグジュアリーホテルで、<strong>51階の「ルーフトップバー」</strong>で楽しむカクテルと夜景は忘れられない経験を提供します。
 
-**🏨 「トラノモン」グッズショップ：**
+<strong>🏨 「トラノモン」グッズショップ：</strong>
 1階カフェの隣には「トラノモン」キャラクターグッズを販売する小さなショップもあります。
 
 <figure>
@@ -203,7 +203,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 ## 📍 虎ノ門の次、どこへ行く？
 ## （おすすめ連携コース）
 
-**🚶‍♂️ 地下鉄3分！東京最高の新スポット、麻布台ヒルズ**
+<strong>🚶‍♂️ 地下鉄3分！東京最高の新スポット、麻布台ヒルズ</strong>
 虎ノ門ヒルズが「ビジネス」の中心なら、すぐ隣の「麻布台ヒルズ」は「観光」の中心です。2つのヒルズをまとめて東京の最新建築と文化を一日で制覇してみてください！
 
 <!-- TODO: Update link after migration
@@ -211,7 +211,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
      Hugo: /ja/posts/azabudai-hills-complete-guide/ -->
 ➡️ <a href="/ja/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><strong>東京麻布台ヒルズ見どころ：展望台、グルメ、チームラボまで</strong></a>
 
-**🚶‍♂️ 地下鉄5分！東京夜景のクラシック、六本木ヒルズ**
+<strong>🚶‍♂️ 地下鉄5分！東京夜景のクラシック、六本木ヒルズ</strong>
 地下鉄5分で「六本木ヒルズ」に到着します。
 「森美術館」と「東京シティビュー展望台」でまた別の感動の東京夜景を体験してください。
 

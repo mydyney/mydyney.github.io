@@ -23,17 +23,17 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ## 前言
 
-你好！我是东京旅游创作者**Tokyo Mate**。
+你好！我是东京旅游创作者<strong>Tokyo Mate</strong>。
 
 2025-2026的冬天，新宿的夜晚变得有点特别。多亏了"新宿霓虹漫步"。
 
 老实说，如果期待像六本木或丸之内那样华丽的大型灯光秀来的话，可能会稍微失望。😅 规模没那么大。
 
-但是！如果去东京都厅展望台，一定要顺便来看看。反正都路过，一边欣赏AI艺术和霓虹招牌、美食车，一边散步的**东京都厅夜景散步路线**超棒的。
+但是！如果去东京都厅展望台，一定要顺便来看看。反正都路过，一边欣赏AI艺术和霓虹招牌、美食车，一边散步的<strong>东京都厅夜景散步路线</strong>超棒的。
 
-今天基于官方信息，整理不失望并**能和都厅组合尽兴享受的新宿灯光秀路线**。✨
+今天基于官方信息，整理不失望并<strong>能和都厅组合尽兴享受的新宿灯光秀路线</strong>。✨
 
-**➡️** <a href="/zh-cn/posts/tokyo-metropolitan-govt-observatory/" target="_blank" style="color: #667eea;"><strong>东京都厅免费展望台灯光秀时间、交通、闭馆日、夜景实用技巧</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/tokyo-metropolitan-govt-observatory/" target="_blank" style="color: #667eea;"><strong>东京都厅免费展望台灯光秀时间、交通、闭馆日、夜景实用技巧</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-02.jpg" alt="东京都厅灯光秀夜景">
@@ -44,18 +44,18 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ## 1. 新宿霓虹漫步运营信息（期间/时间）
 
-江户时代传统与现代技术共存的光之盛典，**新宿霓虹漫步(Shinjuku Neon Walk)**的基本信息。
+江户时代传统与现代技术共存的光之盛典，<strong>新宿霓虹漫步(Shinjuku Neon Walk)</strong>的基本信息。
 
 ### 🌟 新宿霓虹漫步 艺术灯光秀（光之盛典）
 
-- **举办期间:** 2025年11月27日(周四) ~ 2026年1月7日(周三)
-- **点灯时间:** 16:30 ~ 22:00
+- <strong>举办期间:</strong> 2025年11月27日(周四) ~ 2026年1月7日(周三)
+- <strong>点灯时间:</strong> 16:30 ~ 22:00
 
-**📌 注意：** 12月31日(周三)**新宿跨年倒数活动**延长至**25:00(凌晨1点)**！
+<strong>📌 注意：</strong> 12月31日(周三)<strong>新宿跨年倒数活动</strong>延长至<strong>25:00(凌晨1点)</strong>！
 
-- **门票:** 免费
-- **地点:** 中央大道（新宿华盛顿酒店～东京都厅间 约200米）
-- **位置:** **📍** <a href="https://maps.app.goo.gl/PcWuQShFkiSaZWGCA" target="_blank" style="color: #667eea;"><strong>Google地图查看↗</strong></a>
+- <strong>门票:</strong> 免费
+- <strong>地点:</strong> 中央大道（新宿华盛顿酒店～东京都厅间 约200米）
+- <strong>位置:</strong> <strong>📍</strong> <a href="https://maps.app.goo.gl/PcWuQShFkiSaZWGCA" target="_blank" style="color: #667eea;"><strong>Google地图查看↗</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-03.jpg" alt="新宿霓虹漫步 艺术灯光秀地图 Zone A-D标示">
@@ -64,7 +64,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ### 🚚 Neo 霓虹小摊（美食车）
 
-飘满美味香气的美食车区**运营日不同**，一定要确认后再去！
+飘满美味香气的美食车区<strong>运营日不同</strong>，一定要确认后再去！
 
 <table class="schedule-table">
   <thead>
@@ -95,8 +95,8 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 最推荐从新宿站西口走到东京都厅的方式！👑
 
-**🚅 JR新宿站 西口 (West Exit)**
-- 从西口出来沿**"中央大道(Chuo-dori)"**直走。
+<strong>🚅 JR新宿站 西口 (West Exit)</strong>
+- 从西口出来沿<strong>"中央大道(Chuo-dori)"</strong>直走。
 - 从Zone A开始按顺序欣赏霓虹艺术，自然延续到东京都厅展望台的最完美路线。(步行约10~15分钟)
 
 <figure>
@@ -104,12 +104,12 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
   <figcaption style="font-size: 0.7em; text-align: center;">新宿站西口连接的中央大道</figcaption>
 </figure>
 
-**🚅 都营大江户线(E) 都厅前站 A1出口**
+<strong>🚅 都营大江户线(E) 都厅前站 A1出口</strong>
 - 离东京都厅最近的站，但要反向回到霓虹漫步会场，观赏流程被打断。推荐看完后回家时使用。
 
-**🚅 丸之内线(M) 西新宿站 E7出口:** 步行10分钟
+<strong>🚅 丸之内线(M) 西新宿站 E7出口:</strong> 步行10分钟
 
-**🚌 巴士使用方法**（走路累时推荐）
+<strong>🚌 巴士使用方法</strong>（走路累时推荐）
 - JR新宿站西口(地下巴士站) → 乘坐都营巴士"都厅循环" → "都厅第一本厅舍"下车
 
 ---
@@ -120,7 +120,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ### ⭐ Zone-A: 光之起源 (Light Seeds)
 
-**1. Light Seeds ✨**
+<strong>1. Light Seeds ✨</strong>
 
 街树上垂挂的"光之果实"与极光激光相遇的主街道。BGM竟然是<艾尔登法环>、<黑暗之魂>的作曲家"北村友香"参与。
 
@@ -134,7 +134,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
   <figcaption style="font-size: 0.7em; text-align: center;">新宿霓虹漫步Zone A - 光之起源 (Light Seeds)</figcaption>
 </div>
 
-**2. Lucky Neon Art 📸**
+<strong>2. Lucky Neon Art 📸</strong>
 
 入口处拍"来过这里！"认证照的霓虹招牌打卡区。
 
@@ -152,7 +152,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ### ⭐ Zone-B: AI体验 (Transformirror)
 
-**1. Transformirror 🤖**
+<strong>1. Transformirror 🤖</strong>
 
 站在摄像头前AI会识别你并变成神奇影像。小孩、情侣排队拍照的人气第1景点！
 
@@ -161,7 +161,7 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
   <figcaption style="font-size: 0.7em; text-align: center;">新宿霓虹漫步Zone B - Transformirror</figcaption>
 </figure>
 
-**2. EDO GATE**
+<strong>2. EDO GATE</strong>
 
 江户时代字体灯笼与赛博朋克霓虹的和谐。潮流感性照片从这里出。
 
@@ -184,10 +184,10 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 飘满美味香气的美食车区不是每天运营。一定要确认运营日程后再去！
 
-**😋 推荐菜单**
-- **上巻寿司:** 一口大小！中脂金枪鱼卷(800日元)、虾博蒂(700日元)
-- **火鸡腿(1,200日元):** 炭火香烤烧烤，份量满满。
-- **抹茶可丽饼(900日元~):** 甜点完美。
+<strong>😋 推荐菜单</strong>
+- <strong>上巻寿司:</strong> 一口大小！中脂金枪鱼卷(800日元)、虾博蒂(700日元)
+- <strong>火鸡腿(1,200日元):</strong> 炭火香烤烧烤，份量满满。
+- <strong>抹茶可丽饼(900日元~):</strong> 甜点完美。
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-13.jpg" alt="Zone C的Neo 霓虹小摊美食车">
@@ -198,14 +198,14 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ### ⭐ Zone-D: 相遇广场 (KAWAII DOME)
 
-**1. 🌲 Echo Trees:** 2棵树用光对话的感性装置艺术。
+<strong>1. 🌲 Echo Trees:</strong> 2棵树用光对话的感性装置艺术。
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-14.jpg" alt="Zone D的Echo Trees灯光艺术装置">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿霓虹漫步Zone D - Echo Trees</figcaption>
 </figure>
 
-**2. TOKYO KAWAII DOME🌸:** 朝日电视台人气节目<桃色幸运草酱与！>联动的可爱霓虹艺术，情侣超爱。
+<strong>2. TOKYO KAWAII DOME🌸:</strong> 朝日电视台人气节目<桃色幸运草酱与！>联动的可爱霓虹艺术，情侣超爱。
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-15.jpg" alt="TOKYO KAWAII DOME彩色霓虹展示">
@@ -226,22 +226,22 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ## 4. 集章活动＆奖品（错过就亏了！）
 
-在霓虹漫步别只是走路，把**智能手机**拿出来！
+在霓虹漫步别只是走路，把<strong>智能手机</strong>拿出来！
 
-一边享受新宿灯光秀散步一边收集**数字章**就能获得礼物。
+一边享受新宿灯光秀散步一边收集<strong>数字章</strong>就能获得礼物。
 
-- **期间:** 2025年11月27日(周四) ~ 2026年1月7日(周三)
-- **时间:** 16:30 ~ 22:00
-- **方法:** 打开数字地图**点击TAP!**（无需安装APP / 支持日语・英语）
+- <strong>期间:</strong> 2025年11月27日(周四) ~ 2026年1月7日(周三)
+- <strong>时间:</strong> 16:30 ~ 22:00
+- <strong>方法:</strong> 打开数字地图<strong>点击TAP!</strong>（无需安装APP / 支持日语・英语）
 
-**✅** <a href="https://tokyo-nighttime-project.stroly.com/ko" target="_blank" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>(点击) 打开新宿灯光秀 数字地图</strong></a>
+<strong>✅</strong> <a href="https://tokyo-nighttime-project.stroly.com/ko" target="_blank" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>(点击) 打开新宿灯光秀 数字地图</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-18.jpg" alt="集章活动二维码指示牌">
   <figcaption style="font-size: 0.7em; text-align: center;">集章地点的指示牌可扫码访问</figcaption>
 </figure>
 
-**集章地点（10处）**
+<strong>集章地点（10处）</strong>
 
 ① 新宿霓虹漫步 Transformirror
 ② 新宿霓虹漫步 EDO GATE
@@ -259,10 +259,10 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
   <figcaption style="font-size: 0.7em; text-align: center;">新宿霓虹集章活动地图 集章地点10处 (<a href="https://tokyo-nighttime-project.jp/en/neonwalk/" target="_blank" style="color: #667eea;">来源</a>)</figcaption>
 </figure>
 
-**🎁 奖品**
+<strong>🎁 奖品</strong>
 
-- **收集5个（半程奖）:** **立即中奖**！酒店休息室折扣券、美食车200日元折扣券等
-- **收集10个（完成奖）:** 抽奖赠送QUO卡2,000日元券(50名)、限量版T恤(10名)
+- <strong>收集5个（半程奖）:</strong> <strong>立即中奖</strong>！酒店休息室折扣券、美食车200日元折扣券等
+- <strong>收集10个（完成奖）:</strong> 抽奖赠送QUO卡2,000日元券(50名)、限量版T恤(10名)
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-20.jpg" alt="新宿住友大厦 snow flow灯光秀装置">
@@ -278,26 +278,26 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 ## 5. 访问实用技巧！
 
-**1️⃣ 御寒必备**
+<strong>1️⃣ 御寒必备</strong>
 
-东京冬夜，大楼间吹的风（楼风）导致体感温度相当低。**暖宝宝和手套**一定要带。
+东京冬夜，大楼间吹的风（楼风）导致体感温度相当低。<strong>暖宝宝和手套</strong>一定要带。
 
-**2️⃣ 黄金时间**
+<strong>2️⃣ 黄金时间</strong>
 
-**平日17:00~19:00**之间人适度，拍照最好。
+<strong>平日17:00~19:00</strong>之间人适度，拍照最好。
 
-**3️⃣ 12月31日，想一起享受跨年倒数？**
+<strong>3️⃣ 12月31日，想一起享受跨年倒数？</strong>
 
-12月31日在同一地点（东京都厅广场）举办大型**新宿跨年倒数**活动**"Happy New Year Tokyo 2026"**。计划有初音未来演出和投影映射。
+12月31日在同一地点（东京都厅广场）举办大型<strong>新宿跨年倒数</strong>活动<strong>"Happy New Year Tokyo 2026"</strong>。计划有初音未来演出和投影映射。
 
-大家一起喊**新宿Happy New Year**的话**需提前报名（免费）**！详细信息在下面文章确认。
+大家一起喊<strong>新宿Happy New Year</strong>的话<strong>需提前报名（免费）</strong>！详细信息在下面文章确认。
 
-**👇 新宿新年倒数 免费报名方法**
+<strong>👇 新宿新年倒数 免费报名方法</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224095118118
      Hugo: /zh-cn/posts/tokyo-countdown-2026/ -->
-**➡️** <a href="/zh-cn/posts/tokyo-countdown-2026/" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Happy New Year Tokyo 2026 申请＆阵容全收录</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/tokyo-countdown-2026/" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Happy New Year Tokyo 2026 申请＆阵容全收录</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-22.jpg" alt="新宿住友大厦 圣诞灯光秀全景">
@@ -319,12 +319,20 @@ Tokyo Mate敬上！
 <!-- TODO: Update link after migration
      Naver: /zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>新宿黄金街 vs 回忆横丁 完全比较（2025最新版）</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>新宿黄金街 vs 回忆横丁 完全比较（2025最新版）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️** <a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿观光景点：从新宿御苑到餐厅、购物完美路线</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿观光景点：从新宿御苑到餐厅、购物完美路线</strong></a>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224095124866" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 
 <div class="editors-note">

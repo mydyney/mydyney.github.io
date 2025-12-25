@@ -23,11 +23,11 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 正在寻找东京工艺（TOKYO CRAFTS）的帐篷和火炉、线下店吗？
 
-东京旅行中**想亲眼看感性露营品牌，这篇文章就足够了。**
+东京旅行中<strong>想亲眼看感性露营品牌，这篇文章就足够了。</strong>
 
 如果在韩国露营博览会（GOCAF）错过了实物，
 
-这次旅行中可以亲眼看到Tenbi、Wingfort、Makuraito 2等人气商品的正规经销店和**快闪店信息、免税（Tax-Free）技巧、行李规定全部**完美汇总！
+这次旅行中可以亲眼看到Tenbi、Wingfort、Makuraito 2等人气商品的正规经销店和<strong>快闪店信息、免税（Tax-Free）技巧、行李规定全部</strong>完美汇总！
 
 ---
 
@@ -37,9 +37,9 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 目前人气商品如下：
 
-- **帐篷/避难所**: Tenbi、Wingfort、Epica、Night Rover
-- **火炉:** Makuraito 2（超轻量最受欢迎！）
-- **桌子/架子:** Kodeunit、MFT多功能框架桌
+- <strong>帐篷/避难所</strong>: Tenbi、Wingfort、Epica、Night Rover
+- <strong>火炉:</strong> Makuraito 2（超轻量最受欢迎！）
+- <strong>桌子/架子:</strong> Kodeunit、MFT多功能框架桌
 
 但是，关于在东京当地哪里可以看到这些商品的信息几乎没有。所以作为「东京旅行博主」的我，亲自为旅行者完整汇总了线下店清单。
 
@@ -58,15 +58,15 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 ## 🍁 PLACE in DAIKANYAMA
 
-📍 **地点：** <a href="https://maps.app.goo.gl/8gSsWBGUrkYqCeCs6" target="_blank"><b>THE FACE DAIKANYAMA</b></a>
+📍 <strong>地点：</strong> <a href="https://maps.app.goo.gl/8gSsWBGUrkYqCeCs6" target="_blank"><b>THE FACE DAIKANYAMA</b></a>
 
-🚇 **交通**: 东急东横线「代官山站」步行3分钟
+🚇 <strong>交通</strong>: 东急东横线「代官山站」步行3分钟
 
-**🗓️ 举办日程（仅3天！）**
+<strong>🗓️ 举办日程（仅3天！）</strong>
 
-- **11月7日（周五）：14:00～20:00**（入场截止19:00）
-- **11月8日（周六）：10:00～19:00**（入场截止18:00）
-- **11月9日（周日）：10:00～16:00**（入场截止15:00）
+- <strong>11月7日（周五）：14:00～20:00</strong>（入场截止19:00）
+- <strong>11月8日（周六）：10:00～19:00</strong>（入场截止18:00）
+- <strong>11月9日（周日）：10:00～16:00</strong>（入场截止15:00）
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6518037,139.7031519&hl=zh-CN&z=17&output=embed"
@@ -84,15 +84,15 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
   </p>
 </div>
 
-**✨ 快闪店特别特典**
+<strong>✨ 快闪店特别特典</strong>
 
-- **新品及限定版销售：** 10月底发售的新品当然，**快闪限定商品（钛制品、联名产品）**现场销售。
-- **到场者全员礼物：** 赠送到场者原创贴纸（数量限定）
-- **全商品展示**: 从Tenbi、Wingfort等帐篷到Makuraito 2火炉，东京工艺人气商品可以亲手触摸。
+- <strong>新品及限定版销售：</strong> 10月底发售的新品当然，<strong>快闪限定商品（钛制品、联名产品）</strong>现场销售。
+- <strong>到场者全员礼物：</strong> 赠送到场者原创贴纸（数量限定）
+- <strong>全商品展示</strong>: 从Tenbi、Wingfort等帐篷到Makuraito 2火炉，东京工艺人气商品可以亲手触摸。
 
-**✔️ 符合东京旅行日程的感性快闪景点！旅行中抽一天顺便去的好感性景点。**
+<strong>✔️ 符合东京旅行日程的感性快闪景点！旅行中抽一天顺便去的好感性景点。</strong>
 
-**⭐ 代官山必游路线也一起确认**
+<strong>⭐ 代官山必游路线也一起确认</strong>
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032515713
@@ -112,13 +112,13 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 2025年11月基准，东京都内唯一官方经销店！
 
-- **旅行技巧：** 地点在大田区（大田区），距羽田机场（HND）非常近。（使用京急线方便）
+- <strong>旅行技巧：</strong> 地点在大田区（大田区），距羽田机场（HND）非常近。（使用京急线方便）
 
-- **推荐动线：**
+- <strong>推荐动线：</strong>
 1. 在羽田机场入境的首日
 2. 旅行最后一天，从市内去机场途中顺便购物的最佳地点！
 
-- **参考：** 根据店铺规模，比Tenbi、Wingfort等大型帐篷，更可能以Makuraito 2火炉、Kodeunit等小型装备为中心展示，建议访问前向店铺确认。
+- <strong>参考：</strong> 根据店铺规模，比Tenbi、Wingfort等大型帐篷，更可能以Makuraito 2火炉、Kodeunit等小型装备为中心展示，建议访问前向店铺确认。
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.5844147,139.7349506&hl=zh-CN&z=17&output=embed"
@@ -136,7 +136,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
   </p>
 </div>
 
-**⭐ 从羽田机场的交通方式确认**
+<strong>⭐ 从羽田机场的交通方式确认</strong>
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223995074888
@@ -150,14 +150,14 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 「日程不合，很难去羽田附近。」
 
-为这样的朋友准备的**「Plan B」**。这些店铺不在官方经销店清单，但位于新宿站，交通最佳。可以确认东京工艺入店情况，或与雪峰、科尔曼等其他品牌一起购物。
+为这样的朋友准备的<strong>「Plan B」</strong>。这些店铺不在官方经销店清单，但位于新宿站，交通最佳。可以确认东京工艺入店情况，或与雪峰、科尔曼等其他品牌一起购物。
 
 ## 🏕️ L-Breath新宿店（L-Breath Shinjuku）
 
-- **特点：** 新宿站东南口正前方，地下1层～地上8层整栋都是户外专门大楼。交通性最佳。
-- **看点：** 确认东京工艺入店情况及与雪峰、科尔曼等其他品牌比较购物最合适。
+- <strong>特点：</strong> 新宿站东南口正前方，地下1层～地上8层整栋都是户外专门大楼。交通性最佳。
+- <strong>看点：</strong> 确认东京工艺入店情况及与雪峰、科尔曼等其他品牌比较购物最合适。
 
-**📍地点：** JR新宿站东南口步行3分钟
+<strong>📍地点：</strong> JR新宿站东南口步行3分钟
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.689212,139.702346&hl=zh-CN&z=17&output=embed"
@@ -175,9 +175,9 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
   </p>
 </div>
 
-- **窍门：** 10%免税+5%额外折扣优惠券 L-Breath除了10%免税（携带护照）之外，出示下方Klook优惠券可从免税金额再享5%额外折扣！
+- <strong>窍门：</strong> 10%免税+5%额外折扣优惠券 L-Breath除了10%免税（携带护照）之外，出示下方Klook优惠券可从免税金额再享5%额外折扣！
 
-**➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142147&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D703c9fdb4f" target="_blank"><b>在Klook下载L-Breath优惠券</b></a>**
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142147&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D703c9fdb4f" target="_blank"><b>在Klook下载L-Breath优惠券</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-03.jpg" alt="L-Breath5%折扣优惠券 免税优惠券">
@@ -186,10 +186,10 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 ## ⛺ Alpen东京（Alpen TOKYO）
 
-- **特点：** 像GOCAF（韩国露营博览会）一样**实际帐篷搭建（设置）**可以看到的超大型店铺。
-- **看点：** 到8层整栋都是运动/户外用品，可以看着实际搭建的帐篷体验尺寸感。
+- <strong>特点：</strong> 像GOCAF（韩国露营博览会）一样<strong>实际帐篷搭建（设置）</strong>可以看到的超大型店铺。
+- <strong>看点：</strong> 到8层整栋都是运动/户外用品，可以看着实际搭建的帐篷体验尺寸感。
 
-**📍地点：** 新宿站新南口步行5分钟（优衣库大楼8层）
+<strong>📍地点：</strong> 新宿站新南口步行5分钟（优衣库大楼8层）
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6932868,139.7007565&hl=zh-CN&z=17&output=embed"
@@ -207,16 +207,16 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
   </p>
 </div>
 
-- **窍门：** 10%免税+5%额外折扣优惠券 Alpen东京也提供10%免税与5%额外折扣优惠券。
+- <strong>窍门：</strong> 10%免税+5%额外折扣优惠券 Alpen东京也提供10%免税与5%额外折扣优惠券。
 
-**➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142097&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D86d7c92b24" target="_blank"><b>在Klook下载Alpen东京优惠券</b></a>**
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142097&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D86d7c92b24" target="_blank"><b>在Klook下载Alpen东京优惠券</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="Alpen东京5%折扣优惠券 免税优惠券">
   <figcaption style="font-size: 0.7em; text-align: center;">Alpen东京5%优惠券</figcaption>
 </figure>
 
-**⭐ 新宿必游路线也一起确认**
+<strong>⭐ 新宿必游路线也一起确认</strong>
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
@@ -227,18 +227,18 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 ## 💡 旅行者现地购买窍门（Q&A）
 
-露营博客没有的，**仅供旅行者的**核心购买技巧。
+露营博客没有的，<strong>仅供旅行者的</strong>核心购买技巧。
 
-**Q.「Kodeunit」桌子或「Makuraito 2」火炉，能装进行李箱吗？**
+<strong>Q.「Kodeunit」桌子或「Makuraito 2」火炉，能装进行李箱吗？</strong>
 
-- **✈️ 帐篷（Tenbi·Wingfort等）→ 必须托运。**（使用LCC时，重量/件数超标可能产生费用，请事先确认各航空公司规定。）
-- **🔥 火炉（Makuraito 2等）→ 新品可托运。**（但有使用痕迹或灰烬则不可携带）
-- **🧳 行李箱收纳**: Makuraito 2（A4尺寸水准）与Kodeunit（架子）打包非常紧凑，24寸以上行李箱可充分收纳。
-- **🚨 绝对禁止随身携带：必须作为托运行李处理。**（归类为金属部件·工具类，安检拦截概率高。）
+- <strong>✈️ 帐篷（Tenbi·Wingfort等）→ 必须托运。</strong>（使用LCC时，重量/件数超标可能产生费用，请事先确认各航空公司规定。）
+- <strong>🔥 火炉（Makuraito 2等）→ 新品可托运。</strong>（但有使用痕迹或灰烬则不可携带）
+- <strong>🧳 行李箱收纳</strong>: Makuraito 2（A4尺寸水准）与Kodeunit（架子）打包非常紧凑，24寸以上行李箱可充分收纳。
+- <strong>🚨 绝对禁止随身携带：必须作为托运行李处理。</strong>（归类为金属部件·工具类，安检拦截概率高。）
 
-**Q. 与韩国快闪店（GOCAF）价格相比如何？**
+<strong>Q. 与韩国快闪店（GOCAF）价格相比如何？</strong>
 
-基本定价相似，但**最近日元贬值+10%免税特典（+5%额外折扣优惠券）**加起来**东京当地购买便宜得多的概率很高。**
+基本定价相似，但<strong>最近日元贬值+10%免税特典（+5%额外折扣优惠券）</strong>加起来<strong>东京当地购买便宜得多的概率很高。</strong>
 
 ---
 
