@@ -136,22 +136,22 @@ div.image-group-9,
   display: grid !important;
   width: 100% !important;
   max-width: 100% !important;
-  max-width: none !important;
   min-width: 100% !important;
   gap: 8px !important;
-  margin: 2rem 0 !important;
+  margin: 2rem auto !important; /* Changed: Added 'auto' for horizontal centering */
   padding: 0 !important;
   align-items: start !important;
   box-sizing: border-box !important;
   float: none !important;
   clear: both !important;
   position: relative !important;
-  left: 0 !important;
-  right: 0 !important;
+  left: auto !important; /* Changed: 0 -> auto for proper centering */
+  right: auto !important; /* Changed: 0 -> auto for proper centering */
   transform: none !important;
   flex: none !important;
   flex-shrink: 0 !important;
   flex-grow: 0 !important;
+  justify-self: center !important; /* Added: Ensures grid container itself is centered */
 }
 
 /* 2개 나란히: 각 이미지 = 가로폭/2 */
@@ -243,7 +243,7 @@ div.image-group-9,
 .image-group-9 > figcaption {
   grid-column: 1 / -1 !important;
   width: 100% !important;
-  margin-top: 0.5rem !important;
+  margin-top: 0.25rem !important;
   text-align: center !important;
   font-size: 0.7em !important;
   color: #666;
