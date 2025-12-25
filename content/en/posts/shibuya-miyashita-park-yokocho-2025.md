@@ -25,9 +25,9 @@ Everything Tokyo travelers need is packed right here.</p>
 
 Hello! I'm Tokyo Mate, documenting travels through Tokyo. ✈️
 
-Shibuya's old park transformed into a hip shopping complex, hotel, and bar district—that's **Miyashita Park**. It's a must-see on every Tokyo itinerary these days, right?
+Shibuya's old park transformed into a hip shopping complex, hotel, and bar district—that's <strong>Miyashita Park</strong>. It's a must-see on every Tokyo itinerary these days, right?
 
-But go in blind and you might end up frustrated by **"high prices, small portions, and long waits."** Today I'm sharing the smart way to enjoy both **daytime (park/shopping)** and **nighttime (yokocho/drinks)**, plus December-only events.
+But go in blind and you might end up frustrated by <strong>"high prices, small portions, and long waits."</strong> Today I'm sharing the smart way to enjoy both <strong>daytime (park/shopping)</strong> and <strong>nighttime (yokocho/drinks)</strong>, plus December-only events.
 
 <figure>
   <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-02.jpg" alt="Shibuya Miyashita Park night view">
@@ -40,12 +40,12 @@ But go in blind and you might end up frustrated by **"high prices, small portion
 
 If you're reading this in December, you're really lucky. The usually plain 4th floor rooftop and shopping mall have completely transformed.
 
-**1️⃣ Shibuya Christmas Market 2025🎄**
-- **Dates:** December 1 (Mon) ~ December 25 (Thu), 2025
-- **Location:** Miyashita Park 4F Lawn Plaza
-- **Concept:** European Christmas (Purple Theme 💜)
+<strong>1️⃣ Shibuya Christmas Market 2025🎄</strong>
+- <strong>Dates:</strong> December 1 (Mon) ~ December 25 (Thu), 2025
+- <strong>Location:</strong> Miyashita Park 4F Lawn Plaza
+- <strong>Concept:</strong> European Christmas (Purple Theme 💜)
 
-This year's concept is **'Purple'**. Instead of typical red Christmas, dreamy purple lighting creates an absolutely incredible atmosphere.
+This year's concept is <strong>'Purple'</strong>. Instead of typical red Christmas, dreamy purple lighting creates an absolutely incredible atmosphere.
 
 <figure>
   <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-03.jpg" alt="Miyashita Park 4F illumination glowing with purple lights">
@@ -62,11 +62,11 @@ This year's concept is **'Purple'**. Instead of typical red Christmas, dreamy pu
   <figcaption style="font-size: 0.7em; text-align: center;">Miyashita Park 4F Christmas market panorama glowing with purple lights — Shibuya Christmas Market</figcaption>
 </div>
 
-**2️⃣ Powerpuff Girls X Miyashita Park (Y2K Vibes)💖**
+<strong>2️⃣ Powerpuff Girls X Miyashita Park (Y2K Vibes)💖</strong>
 The cute-lovers, this is for you. The entire Miyashita Park has been taken over by the Powerpuff Girls!
-- **Photo Zones:** South 2F pedestrian bridge & North 2F central space
-- **Pop-up Store:** South 2F (limited edition goods)
-- **Special Bonus:** Purchase ¥7,500+ at participating stores to receive a **'limited compact mirror'** (first-come basis)
+- <strong>Photo Zones:</strong> South 2F pedestrian bridge & North 2F central space
+- <strong>Pop-up Store:</strong> South 2F (limited edition goods)
+- <strong>Special Bonus:</strong> Purchase ¥7,500+ at participating stores to receive a <strong>'limited compact mirror'</strong> (first-come basis)
 
 Photo zones are everywhere in the mall—make sure to capture those Y2K aesthetic shots!
 
@@ -79,13 +79,13 @@ Photo zones are everywhere in the mall—make sure to capture those Y2K aestheti
 
 ## ☀️ Miyashita Park Restaurants & Activities (Daytime)
 
-After checking out the events, it's time to enjoy the **4F park and shopping mall** during the day.
+After checking out the events, it's time to enjoy the <strong>4F park and shopping mall</strong> during the day.
 
-**☕ Rooftop Park & Starbucks**
+<strong>☕ Rooftop Park & Starbucks</strong>
 Miyashita Park's signature 4F rooftop park features a Starbucks. It's famous for the FRAGMENT collaboration cups designed by Hiroshi Fujiwara.
 
-- **Atmosphere:** Coffee on a grassy lawn in the heart of the city
-- **Pro Tip:** Weekends have almost no seating. Get takeout and sit on a bench for your sanity.
+- <strong>Atmosphere:</strong> Coffee on a grassy lawn in the heart of the city
+- <strong>Pro Tip:</strong> Weekends have almost no seating. Get takeout and sit on a bench for your sanity.
 
 <figure>
   <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-07.jpg" alt="Miyashita Park rooftop Starbucks">
@@ -97,12 +97,12 @@ Miyashita Park's signature 4F rooftop park features a Starbucks. It's famous for
   <figcaption style="font-size: 0.7em; text-align: center;">Starbucks X FRAGMENT collaboration cup designed by Hiroshi Fujiwara</figcaption>
 </figure>
 
-**🍜 Can't-Miss Miyashita Park Restaurants & Cafes (1~3F)**
+<strong>🍜 Can't-Miss Miyashita Park Restaurants & Cafes (1~3F)</strong>
 Rather than the pricey yokocho, the 3F food court and casual restaurants on floors 1-2 offer great value and taste. Here are 5 local favorites that never disappoint.
 
-**1.** <mark>**Miyashita Naru (NORTH 3F ミヤシタ 成ル)**</mark> Teppanyaki specialty izakaya. Set meals for lunch, teppan scrambled eggs with beer for dinner—perfectly lively spot.
+<strong>1.</strong> <mark><strong>Miyashita Naru (NORTH 3F ミヤシタ 成ル)</strong></mark> Teppanyaki specialty izakaya. Set meals for lunch, teppan scrambled eggs with beer for dinner—perfectly lively spot.
 
-**2.** <mark>**Kinniku Shokudo (SOUTH 3F 筋肉食堂)**</mark> The "Muscle Diner." Need protein while traveling? Absolutely come here! Low-calorie, delicious, high-protein steaks and hamburg. (Dieters, highly recommended)
+<strong>2.</strong> <mark><strong>Kinniku Shokudo (SOUTH 3F 筋肉食堂)</strong></mark> The "Muscle Diner." Need protein while traveling? Absolutely come here! Low-calorie, delicious, high-protein steaks and hamburg. (Dieters, highly recommended)
 
 <div class="image-group-2">
   <figure>
@@ -114,9 +114,9 @@ Rather than the pricey yokocho, the 3F food court and casual restaurants on floo
   <figcaption style="font-size: 0.7em; text-align: center;">Miyashita Park 3F restaurants Kinniku Shokudo & Miyashita Naru</figcaption>
 </div>
 
-**3.** <mark>**Café Kitsuné (NORTH 2F)**</mark> Hip café run by Maison Kitsuné. Their signature **'fox-shaped cookies'** are the norm—place them on lattes for proof shots.
+<strong>3.</strong> <mark><strong>Café Kitsuné (NORTH 2F)</strong></mark> Hip café run by Maison Kitsuné. Their signature <strong>'fox-shaped cookies'</strong> are the norm—place them on lattes for proof shots.
 
-**4.** <mark>**KITH TREATS (NORTH 2F)**</mark> Street brand KITH's cereal ice cream bar. When you run out of energy while shopping, shakes or ice cream instantly recharge you.
+<strong>4.</strong> <mark><strong>KITH TREATS (NORTH 2F)</strong></mark> Street brand KITH's cereal ice cream bar. When you run out of energy while shopping, shakes or ice cream instantly recharge you.
 
 <div class="image-group-2">
   <figure>
@@ -128,7 +128,7 @@ Rather than the pricey yokocho, the 3F food court and casual restaurants on floo
   <figcaption style="font-size: 0.7em; text-align: center;">Miyashita Park 2F cafes Café Kitsuné & KITH TREATS</figcaption>
 </div>
 
-**5.** <mark>**THE MATCHA TOKYO (SOUTH 2F)**</mark> 100% organic matcha specialist. If you want to taste authentic Japanese bitter, rich matcha lattes, I recommend here over Starbucks.
+<strong>5.</strong> <mark><strong>THE MATCHA TOKYO (SOUTH 2F)</strong></mark> 100% organic matcha specialist. If you want to taste authentic Japanese bitter, rich matcha lattes, I recommend here over Starbucks.
 
 <figure>
   <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-13.jpg" alt="Miyashita Park stairs">
@@ -139,13 +139,13 @@ Rather than the pricey yokocho, the 3F food court and casual restaurants on floo
 
 ## 🌙 Shibuya Yokocho—Is It Worth It? (Nighttime)
 
-When the sun sets, red lanterns light up the 1F **'Shibuya Yokocho.'** This place gathers soul food from all over Japan—so what's the real deal?
+When the sun sets, red lanterns light up the 1F <strong>'Shibuya Yokocho.'</strong> This place gathers soul food from all over Japan—so what's the real deal?
 
-**⚠️ Honest Review:** **"Atmosphere is 100 points, value is..."**
-Honestly, this is a place you go for **'photos' rather than 'taste.'**
+<strong>⚠️ Honest Review:</strong> <strong>"Atmosphere is 100 points, value is..."</strong>
+Honestly, this is a place you go for <strong>'photos' rather than 'taste.'</strong>
 
-**💡 Tokyo Mate's Strategy Recommendation**
-**"Just one beer at yokocho! Eat dinner outside!"**
+<strong>💡 Tokyo Mate's Strategy Recommendation</strong>
+<strong>"Just one beer at yokocho! Eat dinner outside!"</strong>
 Just one round!
 The atmosphere is too good, so order one draft beer (nama-biru) and just one simple snack (like gyoza)—enjoy only the vibe.
 
@@ -186,19 +186,19 @@ The atmosphere is too good, so order one draft beer (nama-biru) and just one sim
 
 ## "So Where Are the Real Gems?" Recommended Alternatives
 
-If Shibuya Yokocho's value disappoints, move to **real local bars** within 3-5 minutes on foot. This is the real deal.
+If Shibuya Yokocho's value disappoints, move to <strong>real local bars</strong> within 3-5 minutes on foot. This is the real deal.
 
-**🍺 1. Nonbei Yokocho**
-Right across from Miyashita Park, hidden between buildings—this is the **'Drinkers' Alley.'** Showa-era retro vibes remain intact—if you love midnight diner atmospheres, highly recommended.
+<strong>🍺 1. Nonbei Yokocho</strong>
+Right across from Miyashita Park, hidden between buildings—this is the <strong>'Drinkers' Alley.'</strong> Showa-era retro vibes remain intact—if you love midnight diner atmospheres, highly recommended.
 
-- **Features:** Very narrow shops (4-5 seats), atmosphere of chatting with neighbors or the owner
-- **Value:** Not cheap, but serves **'real cooking'** unlike Shibuya Yokocho's frozen food.
+- <strong>Features:</strong> Very narrow shops (4-5 seats), atmosphere of chatting with neighbors or the owner
+- <strong>Value:</strong> Not cheap, but serves <strong>'real cooking'</strong> unlike Shibuya Yokocho's frozen food.
 
-**✅ Representative Restaurant:** **Torifuku (鳥福)**
+<strong>✅ Representative Restaurant:</strong> <strong>Torifuku (鳥福)</strong>
 - Business hours: Weekdays 16:30~21:00
-- **📍[View on Google Maps](https://maps.app.goo.gl/Rq4BfTTgTZCvLiBLA)** 📍
+- <strong>📍[View on Google Maps](https://maps.app.goo.gl/Rq4BfTTgTZCvLiBLA)</strong> 📍
 
-**📌 [Comparison] Nonbei Yokocho vs Shibuya Yokocho**
+<strong>📌 [Comparison] Nonbei Yokocho vs Shibuya Yokocho</strong>
 
 <div class="schedule-table" style="margin: 2rem 0;">
   <table>
@@ -233,24 +233,24 @@ Right across from Miyashita Park, hidden between buildings—this is the **'Drin
   <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Nonbei Yokocho representative restaurant Torifuku</figcaption>
 </div>
 
-**🍢 2. Shibuya Morimoto (渋谷森本)**
-"If you want proper yakitori, go here." One of Shibuya's top yakitori spots, selected for **Tabelog Yakitori Top 100 (2018, 2019, 2021)**—a verified place.
+<strong>🍢 2. Shibuya Morimoto (渋谷森本)</strong>
+"If you want proper yakitori, go here." One of Shibuya's top yakitori spots, selected for <strong>Tabelog Yakitori Top 100 (2018, 2019, 2021)</strong>—a verified place.
 
-- **Business Hours:** 16:00 ~ 22:00 (Closed Sundays)
-- **Important: ⚠️Cash only (no credit cards)**
-- **📍[View on Google Maps](https://maps.app.goo.gl/3xKfRqmTtuKUyBfi7)** 📍
+- <strong>Business Hours:</strong> 16:00 ~ 22:00 (Closed Sundays)
+- <strong>Important: ⚠️Cash only (no credit cards)</strong>
+- <strong>📍[View on Google Maps](https://maps.app.goo.gl/3xKfRqmTtuKUyBfi7)</strong> 📍
 
 <figure>
   <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-18.jpg" alt="Shibuya Morimoto">
   <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Morimoto</figcaption>
 </figure>
 
-**🍢 3. Toritake Main Branch**
-**"In Shibuya, this place takes #1 for yakitori portion size and taste."** Legendary old shop selling charcoal-grilled **jumbo skewers (大串)** on a completely different level from yokocho's frozen sticks. Also selected for **Tabelog Yakitori Top 100 (2019, 2021)**.
+<strong>🍢 3. Toritake Main Branch</strong>
+<strong>"In Shibuya, this place takes #1 for yakitori portion size and taste."</strong> Legendary old shop selling charcoal-grilled <strong>jumbo skewers (大串)</strong> on a completely different level from yokocho's frozen sticks. Also selected for <strong>Tabelog Yakitori Top 100 (2019, 2021)</strong>.
 
-- **Business Hours:** 12:00 ~ 23:00 (Day drinking OK! 🍻)
-- **Closed:** No regular holidays (Year-end 12/31~1/4 closed)
-- **📍[View on Google Maps](https://maps.app.goo.gl/Q2v3CtJ2rPxk5vfU9)** 📍
+- <strong>Business Hours:</strong> 12:00 ~ 23:00 (Day drinking OK! 🍻)
+- <strong>Closed:</strong> No regular holidays (Year-end 12/31~1/4 closed)
+- <strong>📍[View on Google Maps](https://maps.app.goo.gl/Q2v3CtJ2rPxk5vfU9)</strong> 📍
 
 <figure>
   <img src="/images/posts/shibuya-miyashita-park-yokocho-2025-19.jpg" alt="Toritake Main Branch yakitori jumbo skewers">
@@ -261,27 +261,27 @@ Right across from Miyashita Park, hidden between buildings—this is the **'Drin
 
 ## Miyashita Park 3-Line Summary
 
-For busy folks, here's the **Shibuya Miyashita Park** strategy in 3 lines.
+For busy folks, here's the <strong>Shibuya Miyashita Park</strong> strategy in 3 lines.
 
-1. **December Must-See:** Absolutely visit the 4F **Christmas Market (purple)** and Powerpuff Girls photo zones!
-2. **Nighttime:** Take **'photos'** at Shibuya Yokocho and have just one beer. (Order snacks and your wallet gets emptied 😭)
-3. **Dinner:** Real gems are nearby **'Toritake'** or **'Nonbei Yokocho.'**
+1. <strong>December Must-See:</strong> Absolutely visit the 4F <strong>Christmas Market (purple)</strong> and Powerpuff Girls photo zones!
+2. <strong>Nighttime:</strong> Take <strong>'photos'</strong> at Shibuya Yokocho and have just one beer. (Order snacks and your wallet gets emptied 😭)
+3. <strong>Dinner:</strong> Real gems are nearby <strong>'Toritake'</strong> or <strong>'Nonbei Yokocho.'</strong>
 
-🌟**[Curious about last year's 2024 Miyashita Park illumination?](/posts/miyashita-park-illumination-2024/)**
+🌟<strong>[Curious about last year's 2024 Miyashita Park illumination?](/posts/miyashita-park-illumination-2024/)</strong>
 
 ---
 
 ## ✨ Great Shibuya Travel Tips to Check Out
 
-**"Wondering what to do after Miyashita Park?"**
+<strong>"Wondering what to do after Miyashita Park?"</strong>
 From Shibuya Sky observatory to nearby shopping and restaurants—perfect routing. Especially Sky booking tips are essential!
 
-👉 **[Near Miyashita Park! Complete Guide to Shibuya Sky & Activities](/posts/shibuya-complete-guide-2025/)**
+👉 <strong>[Near Miyashita Park! Complete Guide to Shibuya Sky & Activities](/posts/shibuya-complete-guide-2025/)</strong>
 
-**"Shibuya nights don't end here."**
+<strong>"Shibuya nights don't end here."</strong>
 Walk from Miyashita Park to the 'Blue Cave' illumination. December's most romantic stroll in Tokyo.
 
-👉 **[10-Minute Walk! How to Get to Shibuya 'Blue Cave' Illumination](/posts/shibuya-blue-cave-illumination-2025/)**
+👉 <strong>[10-Minute Walk! How to Get to Shibuya 'Blue Cave' Illumination](/posts/shibuya-blue-cave-illumination-2025/)</strong>
 
 
 <div class="editors-note">

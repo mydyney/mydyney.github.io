@@ -15,7 +15,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
   <figcaption style="font-size: 0.85em; text-align: center;">2026 东京站角色街年末营业时间信息</figcaption>
 </figure>
 
-计划2026新年东京之旅吗？这里完整整理了东京站角色街、拉面街、零食乐园的年末假期(12月31日~1月3日)营业时间和休息信息。**重要：大部分店铺1月1日提前关门或休息！**
+计划2026新年东京之旅吗？这里完整整理了东京站角色街、拉面街、零食乐园的年末假期(12月31日~1月3日)营业时间和休息信息。<strong>重要：大部分店铺1月1日提前关门或休息！</strong>
 
 你好！这里是为您介绍东京旅游一切的东京Mate。🗼
 
@@ -60,22 +60,22 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
   </tbody>
 </table>
 
-**⚠️ 重要：** 1月1日下午6点关门！请计划傍晚前访问。
+<strong>⚠️ 重要：</strong> 1月1日下午6点关门！请计划傍晚前访问。
 
 ### 🎁 角色街亮点
 
-- **宝可梦商店：** 新年限定商品
-- **吉卜力商店：** 龙猫新年商品
-- **Chiikawa商店：** 季节商品
-- **Jump商店：** 动漫角色商品
+- <strong>宝可梦商店：</strong> 新年限定商品
+- <strong>吉卜力商店：</strong> 龙猫新年商品
+- <strong>Chiikawa商店：</strong> 季节商品
+- <strong>Jump商店：</strong> 动漫角色商品
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223691371517 -->
-**👉 东京站宝可梦商店＆皮卡丘卡评测**
+<strong>👉 东京站宝可梦商店＆皮卡丘卡评测</strong>
 
 🤩 从Chiikawa乐园整理券和三丽鸥联名商品，到最近在1楼盛大开业的三丽鸥、龙珠商店信息，全部整理好了。去之前一定要看！
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224111977613 -->
-**👉 东京站角色街交通·营业时间·免税总整理（Chiikawa/宝可梦/龙珠）**
+<strong>👉 东京站角色街交通·营业时间·免税总整理（Chiikawa/宝可梦/龙珠）</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-02.jpg" alt="东京站角色街店铺指南">
@@ -182,12 +182,12 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 ### 🍜 东京Mate Note!
 
-**六厘舍**1月1日也从早上7点30分营业到晚上11点！如果计划新年第一碗拉面，六厘舍是最安全的选择。不过要做好排长队的心理准备。😂
+<strong>六厘舍</strong>1月1日也从早上7点30分营业到晚上11点！如果计划新年第一碗拉面，六厘舍是最安全的选择。不过要做好排长队的心理准备。😂
 
 🤩 想知道1月1日也营业的「六厘舍」或「斑鸠」是什么味道吗？参考我实际去过的拉面街全菜单详细评测来选菜吧。
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223707471582 -->
-**👉 东京站拉面美食BEST 8，东京站拉面街完全攻略评测**
+<strong>👉 东京站拉面美食BEST 8，东京站拉面街完全攻略评测</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-03.jpg" alt="东京站拉面街六厘舍蘸面">
@@ -231,9 +231,9 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 #### 1. Calbee Plus 🍟
 
-**12.20(六)~1.4(日)：** 停止销售软饮(不能点饮料)
+<strong>12.20(六)~1.4(日)：</strong> 停止销售软饮(不能点饮料)
 
-**Tip.** 1月1日想吃刚炸好的薯片，必须在下午5点半前去。
+<strong>Tip.</strong> 1月1日想吃刚炸好的薯片，必须在下午5点半前去。
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -268,16 +268,16 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 急需买回国礼物就去这里！
 
-- **TOKYO BANANA's:** 10:00 - 19:00
-- **东京土产中心:** 09:00 - 21:00 (营业到最晚！)
-- **京桥千疋屋:** 10:00 - 18:00
+- <strong>TOKYO BANANA's:</strong> 10:00 - 19:00
+- <strong>东京土产中心:</strong> 09:00 - 21:00 (营业到最晚！)
+- <strong>京桥千疋屋:</strong> 10:00 - 18:00
 
 ### 📌 瞄准机场没有的「东京站限定版」！
 
 别在年末拥挤的机场免税店排队。只有东京站才能买到的「东京香蕉焦糖布丁」保质期也有20天，很适合提前买。(※ 在1楼礼品亭等指定地点销售，一定要在下面文章中确认位置后再去！)
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224102752117 -->
-**👉 东京站东京香蕉焦糖布丁销售地点＆价格总整理(保质期20天！)**
+<strong>👉 东京站东京香蕉焦糖布丁销售地点＆价格总整理(保质期20天！)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="东京站零食乐园入口">
@@ -297,7 +297,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 现在该去「吃播」了！去零食乐园的话，刚炸好的「Jagariko(Poterico)」不是选项而是必须！避开Calbee Plus排队的小技巧和限时菜单信息请在下面文章中提前确认后再去。
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224111977613 -->
-**👉 东京站零食乐园交通｜刚炸好的东京站Jagariko＆Calbee菜单推荐**
+<strong>👉 东京站零食乐园交通｜刚炸好的东京站Jagariko＆Calbee菜单推荐</strong>
 
 ## 4. 日本美食街道＆东京站地下街美食 🍣
 
@@ -393,10 +393,10 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 ### 🍣 其他B1区域1月1日【营业】美食
 
-- **かんたろう寿司**(坐着吃): 11:00 - 18:00 (※下午6点关门注意！)
-- **东京精酿啤酒站**: 10:00 - 18:00
-- **越后荞麦**: 11:00 - 18:00
-- **烤鸡肉串一鸟**: 11:00 - 20:00
+- <strong>かんたろう寿司</strong>(坐着吃): 11:00 - 18:00 (※下午6点关门注意！)
+- <strong>东京精酿啤酒站</strong>: 10:00 - 18:00
+- <strong>越后荞麦</strong>: 11:00 - 18:00
+- <strong>烤鸡肉串一鸟</strong>: 11:00 - 20:00
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-05.jpg" alt="东京站日本美食街道指南地图">
@@ -410,7 +410,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 我们整理了新宿伊势丹、银座三越等东京主要百货商场的1月1日休息及首卖(初卖)信息。避免白跑一趟，一定要确认！
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224112740096 -->
-**👉 2026东京年末休息·营业信息＆初卖完全整理**
+<strong>👉 2026东京年末休息·营业信息＆初卖完全整理</strong>
 
 ## 🎄 购物结束不去「这里」就亏了！
 
@@ -418,7 +418,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 ✨ 确认丸之内灯海名所和时间，享受浪漫的夜晚吧。
 
-[👉 **东京丸之内灯海2025时间·期间·名所总整理**](/zh-cn/posts/marunouchi-illumination-2025/)
+[👉 <strong>东京丸之内灯海2025时间·期间·名所总整理</strong>](/zh-cn/posts/marunouchi-illumination-2025/)
 
 
 <div class="editors-note">

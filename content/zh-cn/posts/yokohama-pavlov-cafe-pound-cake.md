@@ -33,9 +33,9 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ## 🔔 '巴甫洛夫的狗'?独特磅蛋糕概念
 
-这家店的名字'巴甫洛夫(Pavlov)',来自那个著名实验**'巴甫洛夫的狗'**。
+这家店的名字'巴甫洛夫(Pavlov)',来自那个著名实验<strong>'巴甫洛夫的狗'</strong>。
 
-**「听到名字就想起味道流口水」**这样的蛋糕是制作理念。
+<strong>「听到名字就想起味道流口水」</strong>这样的蛋糕是制作理念。
 
 以巴黎街角偶遇的可爱甜品店为概念,经典高级的室内装潢是特色。
 
@@ -65,12 +65,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 这里的代表菜单,不是我们认识的干燥磅蛋糕。
 
-只用极少量面粉,加入**'白豆沙(白餡)'**,完成像**'羊羹'般湿润**柔软的口感。
+只用极少量面粉,加入<strong>'白豆沙(白餡)'</strong>,完成像<strong>'羊羹'般湿润</strong>柔软的口感。
 
 ### 1. 蛋糕套餐(Cake Set)
 
-**今日磅蛋糕5种 + 饮品**
-**2,000日元(不含税)**
+<strong>今日磅蛋糕5种 + 饮品</strong>
+<strong>2,000日元(不含税)</strong>
 
 '巴甫洛夫'各种招牌磅蛋糕一次品尝的最佳'试吃'菜单。
 
@@ -86,7 +86,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ### 2. 法式吐司 莓果(French Toast)
 
-**1,650日元(不含税)**
+<strong>1,650日元(不含税)</strong>
 
 厚切布里欧面包配满奶油和水果的奢华法式吐司。
 
@@ -97,7 +97,7 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ### 3. 生火腿马苏里拉三明治(Prosciutto Mozzarella Sandwich)
 
-**1,600日元(不含税)**
+<strong>1,600日元(不含税)</strong>
 
 适合早午餐菜单的甜咸平衡三明治。
 
@@ -110,26 +110,26 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 ## 📌 访问前必读!(预约、注意事项)
 
-**⏰ 营业时间:**
-**上午11:00 ～ 下午7:00**
+<strong>⏰ 营业时间:</strong>
+<strong>上午11:00 ～ 下午7:00</strong>
 (L.O. 18:00)
 
-**🗓️ 定休日:每周周一**
+<strong>🗓️ 定休日:每周周一</strong>
 (周一为节假日时,次工作日休息)
 
-**🚃 交通:**
+<strong>🚃 交通:</strong>
 港未来线
-**「元町·中华街站」**
-**3号出口**步行1分钟
+<strong>「元町·中华街站」</strong>
+<strong>3号出口</strong>步行1分钟
 
-**💳 支付:可刷卡**
+<strong>💳 支付:可刷卡</strong>
 (电子支付、二维码支付不可)
 
-**⚠️ [重要] 访问技巧:**
+<strong>⚠️ [重要] 访问技巧:</strong>
 - 咖啡座位无法预约(需等位)
 - 空间问题婴儿车禁止入内
-- **每人1单必点**
-- **(饮品也算1单)**
+- <strong>每人1单必点</strong>
+- <strong>(饮品也算1单)</strong>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.4423658,139.6493223&hl=zh-CN&z=17&output=embed"
@@ -158,12 +158,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 在'巴甫洛夫'咖啡只吃磅蛋糕就走太可惜!
 
-就在隔壁,有**'糕点师傅认真制作的可颂专门面包坊'**
-**'巴甫洛夫太太面包坊(Mrs. Pavlov Bakery)'**。
+就在隔壁,有<strong>'糕点师傅认真制作的可颂专门面包坊'</strong>
+<strong>'巴甫洛夫太太面包坊(Mrs. Pavlov Bakery)'</strong>。
 
-**100% 法国产发酵黄油**是基本!
+<strong>100% 法国产发酵黄油</strong>是基本!
 
-从基本原味可颂,到像料理般精心制作的'正餐可颂',宝石般华丽的**'甜品可颂'**,各种可颂可外带。
+从基本原味可颂,到像料理般精心制作的'正餐可颂',宝石般华丽的<strong>'甜品可颂'</strong>,各种可颂可外带。
 
 <figure>
   <img src="/images/posts/yokohama-pavlov-cafe-pound-cake-11.jpg" alt="巴甫洛夫太太面包坊华丽可颂展示柜">
@@ -184,12 +184,12 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 ### 🚶‍♂️ 步行5分钟!美食天堂,横滨中华街
 
 吃完甜点,现在轮到在'中华街'品尝香喷喷的点心和麻婆豆腐!
-**➡️ [中华街美食'景德镇'(麻婆豆腐)](/zh-cn/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
+<strong>➡️ [中华街美食'景德镇'(麻婆豆腐)](/zh-cn/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)</strong>
 
 ### 🚶‍♂️ 红鞋子巴士10分钟!浪漫海景,红砖仓库
 
 请享受'红砖仓库'的散步。
-**➡️ [横滨1日路线完全攻略(红砖仓库、中华街)](#)**<!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
+<strong>➡️ [横滨1日路线完全攻略(红砖仓库、中华街)](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
 
 ---
 
@@ -197,11 +197,11 @@ featured_image: "/images/posts/yokohama-pavlov-cafe-pound-cake-01.jpg"
 
 完美享受横滨地标建筑的横滨1日推荐路线请查看!
 
-**➡️ [横滨1日路线 中华街美食、红砖仓库、夜景景点全汇总](#)**<!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
+<strong>➡️ [横滨1日路线 中华街美食、红砖仓库、夜景景点全汇总](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary -->
 
 ---
 
-**「听到名字就流口水」**
+<strong>「听到名字就流口水」</strong>
 
 巴甫洛夫咖啡不只是甜品,是体验横滨魅力的特别场所。食べログ百名店连续5年入选,独特磅蛋糕,优雅氛围,以及隔壁的巴甫洛夫太太面包坊,是横滨咖啡之旅的完美目的地。
 

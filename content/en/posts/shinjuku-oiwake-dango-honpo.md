@@ -28,7 +28,7 @@ Chewy texture on a different level from convenience store dango, plus traditiona
 
 ## 🍡 Looking for a Shinjuku Dessert with Living Tradition?
 
-If you're looking for a Shinjuku dessert spot with 300 years of tradition, **Oiwake Dango Honpo (追分だんご本舗)** is a representative Tokyo dango specialty shop that has continued since the Edo period.
+If you're looking for a Shinjuku dessert spot with 300 years of tradition, <strong>Oiwake Dango Honpo (追分だんご本舗)</strong> is a representative Tokyo dango specialty shop that has continued since the Edo period.
 
 While Shinjuku's flashy desserts like Harbs and Isetan cakes are good, if you want to taste 'real' traditional Japanese desserts, this is the answer.
 
@@ -43,7 +43,7 @@ Oiwake Dango Honpo uses mochi made fresh every morning without preservatives or 
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku dango restaurant Oiwake Dango Honpo — 300-year traditional Japanese dessert, mitarashi dango and red bean dango recommended</figcaption>
 </figure>
 
-**📍Location:** Right in front of Shinjuku-sanchome Station C1 exit **(across from Isetan Department Store)**
+<strong>📍Location:</strong> Right in front of Shinjuku-sanchome Station C1 exit <strong>(across from Isetan Department Store)</strong>
 
 ---
 
@@ -58,7 +58,7 @@ The 1st floor is takeout-only, with display cases full of dozens of dango and wa
 
 If you're wondering what to choose, try these 3 👇
 
-**1️⃣ Mitarashi Dango (みたらし)**
+<strong>1️⃣ Mitarashi Dango (みたらし)</strong>
 
 The basic signature menu with sweet-salty soy sauce glaze. The chewy texture of freshly grilled mochi is excellent.
 
@@ -67,10 +67,10 @@ The basic signature menu with sweet-salty soy sauce glaze. The chewy texture of 
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku dango restaurant mitarashi dango — Sweet-salty soy sauce and freshly grilled mochi texture</figcaption>
 </figure>
 
-**2️⃣ Tsubuan / Koshian (Red Bean Dango)**
+<strong>2️⃣ Tsubuan / Koshian (Red Bean Dango)</strong>
 
-- **Koshian (こしあん):** Smooth red bean paste
-- **Tsubuan (つぶあん):** Chunky red bean paste
+- <strong>Koshian (こしあん):</strong> Smooth red bean paste
+- <strong>Tsubuan (つぶあん):</strong> Chunky red bean paste
 
 The high quality of the red beans gives a subtle, refined sweetness.
 
@@ -84,7 +84,7 @@ The high quality of the red beans gives a subtle, refined sweetness.
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Oiwake Dango red bean dango — Koshian and tsubuan comparison</figcaption>
 </div>
 
-**3️⃣ Seasonal Limited Dango**
+<strong>3️⃣ Seasonal Limited Dango</strong>
 
 Spring brings cherry blossom, autumn brings chestnut, yuzu, and ginger dango. Each season has limited menu items, so check when you visit.
 
@@ -101,9 +101,9 @@ The reason I recommend this as a Shinjuku dessert cafe is that there's a quiet t
 
 The cafe offers more than just dango sets:
 
-- **Anmitsu (あんみつ):** Hokkaido red beans and seasonal fruits
-- **Shiruko (田舎しるこ):** Traditional sweet red bean soup with savory grilled mochi
-- **Japanese shaved ice (かき氷):** Summer limited
+- <strong>Anmitsu (あんみつ):</strong> Hokkaido red beans and seasonal fruits
+- <strong>Shiruko (田舎しるこ):</strong> Traditional sweet red bean soup with savory grilled mochi
+- <strong>Japanese shaved ice (かき氷):</strong> Summer limited
 
 You can enjoy these. It's the perfect Shinjuku dessert spot to rest during shopping.
 
@@ -127,13 +127,13 @@ Dango and mochi have a same-day expiration date. For gifts, afternoon purchase o
 
 ## 5. Location and Hours
 
-**🚇 Nearest Station:** Marunouchi M/Shinjuku S/Fukutoshin Line F "Shinjuku-sanchome Station" right in front of C1 exit
+<strong>🚇 Nearest Station:</strong> Marunouchi M/Shinjuku S/Fukutoshin Line F "Shinjuku-sanchome Station" right in front of C1 exit
 
-**🕓 Dango Shop:** 10:30~19:00 (early closing when sold out)
+<strong>🕓 Dango Shop:</strong> 10:30~19:00 (early closing when sold out)
 
-**☕ Cafe Hours:** Weekdays 12:00~18:00 / Weekends & Holidays 11:30~18:00 (LO 17:30)
+<strong>☕ Cafe Hours:</strong> Weekdays 12:00~18:00 / Weekends & Holidays 11:30~18:00 (LO 17:30)
 
-**❌ Closed:** January 1, January 2
+<strong>❌ Closed:</strong> January 1, January 2
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6905041,139.7053647&hl=en&z=17&output=embed"
@@ -157,26 +157,26 @@ In Shinjuku, flashy cakes and parfaits are great, but experience a real Tokyo da
 
 Soft mochi, sweet-salty soy sauce, and neat packaging — 300 years of tradition didn't come from nowhere.
 
-**⭐ Shinjuku Travel Guide Series**
+<strong>⭐ Shinjuku Travel Guide Series</strong>
 
 **➡️ <!-- Link updated -->
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Activities Guide ↗</a>**
 
-**➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building Free Observatory Light Show Hours, Closed Days, Shinjuku Night View Tips ↗</a>**
+<strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank">Tokyo Metropolitan Government Building Free Observatory Light Show Hours, Closed Days, Shinjuku Night View Tips ↗</a></strong>
 
-**➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison ↗</a>**
+<strong>➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison ↗</a></strong>
 
-**➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! 5 Major Kids Parks How to Get There ↗</a>**
+<strong>➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! 5 Major Kids Parks How to Get There ↗</a></strong>
 
-**➡️ <a href="/posts/shinjuku-to-disneyland-bus-guide/" target="_blank">How to Get to Disneyland from Shinjuku Complete Guide ↗</a>**
+<strong>➡️ <a href="/posts/shinjuku-to-disneyland-bus-guide/" target="_blank">How to Get to Disneyland from Shinjuku Complete Guide ↗</a></strong>
 
-**➡️ <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo Stationery Store Membership Card, Tax-Free Guide ↗</a>**
+<strong>➡️ <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo Stationery Store Membership Card, Tax-Free Guide ↗</a></strong>
 
 **➡️ <!-- Link updated -->
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223914223908 Hugo: /posts/shinjuku-udon-guide/ -->
 <a href="#" style="color: #667eea;">Shinjuku Udon Restaurant Kirimugi-ya Jinroku Michelin Udon↗</a>**
 
-**➡️ <a href="/posts/shinjuku-epitaph-curry-review/" target="_blank">Shinjuku Keema Curry Restaurant Epitaph Curry ↗</a>**
+<strong>➡️ <a href="/posts/shinjuku-epitaph-curry-review/" target="_blank">Shinjuku Keema Curry Restaurant Epitaph Curry ↗</a></strong>
 
 💡 Want to see Ginza dessert gifts too?
 

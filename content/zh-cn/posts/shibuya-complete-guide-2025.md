@@ -24,24 +24,24 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ## 🎯 涩谷半日推荐路线（一目了然）
 
-**全球最拥挤的十字路口、最新潮流涌现的购物中心、以及俯瞰东京全景的最佳展望台。准备好征服东京心脏涩谷的一切了吗？**
+<strong>全球最拥挤的十字路口、最新潮流涌现的购物中心、以及俯瞰东京全景的最佳展望台。准备好征服东京心脏涩谷的一切了吗？</strong>
 
-**Step 1. 十字路口&八公像 📸**  
+<strong>Step 1. 十字路口&八公像 📸</strong>  
 从涩谷中心开始旅程，留下打卡照吧。
 
-**Step 2. 涩谷SKY展望台观景 🏙️**  
+<strong>Step 2. 涩谷SKY展望台观景 🏙️</strong>  
 提前预订必备！压倒性的全景视野将东京尽收眼底的体验。
 
-**Step 3. 宫下公园散步&咖啡 ☕**  
+<strong>Step 3. 宫下公园散步&咖啡 ☕</strong>  
 在屋顶公园星巴克小憩片刻，感受充满活力的氛围。
 
-**Step 4. 涩谷购物中心全攻略 🛍️**  
+<strong>Step 4. 涩谷购物中心全攻略 🛍️</strong>  
 从PARCO的角色周边到109的最新时尚，尽享潮流中心。
 
-**Step 5. 涩谷美食&横丁晚餐 🍽️**  
+<strong>Step 5. 涩谷美食&横丁晚餐 🍽️</strong>  
 在充满活力的涩谷横丁或隐藏名店享用特别晚餐。
 
-**Step 6. 涩谷STREAM散步收尾 ✨**  
+<strong>Step 6. 涩谷STREAM散步收尾 ✨</strong>  
 沿河造就的散步道漫步，感受涩谷别样魅力，完美收官一天。
 
 <figure>
@@ -71,14 +71,14 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ## 🏙️ Step2. 东京最佳展望台，涩谷SKY展望台
 
-**[涩谷SKY](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍不只是展望台。是与东京天空融为一体的压倒性体验本身。**位于涩谷Scramble Square大厦屋顶，这里360度全景视野自不必说，各种玩法满载，堪称涩谷旅行的高光时刻。
+<strong>[涩谷SKY](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍不只是展望台。是与东京天空融为一体的压倒性体验本身。</strong>位于涩谷Scramble Square大厦屋顶，这里360度全景视野自不必说，各种玩法满载，堪称涩谷旅行的高光时刻。
 
 ### ✅ 预订：100%在线提前预订必备！
 
 现场购票等待时间长，且贵300日元。入场票以下午3点为基准价格变化。（儿童票仅现场销售，6岁以下免费）
 
-**➡️ [在Klook以最优惠价格预订涩谷SKY](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1137488&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F70672-shibuya-sky-tokyo%2F)**  
-**➡️ [在涩谷SKY官网预订](https://webket.jp/pc/ticket/itemdetail?fc=00396&ac=8001&igc=0030&lang=0)（需注册会员）**
+<strong>➡️ [在Klook以最优惠价格预订涩谷SKY](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1137488&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F70672-shibuya-sky-tokyo%2F)</strong>  
+<strong>➡️ [在涩谷SKY官网预订](https://webket.jp/pc/ticket/itemdetail?fc=00396&ac=8001&igc=0030&lang=0)（需注册会员）</strong>
 
 <table class="schedule-table">
   <thead>
@@ -90,7 +90,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
   </tbody>
 </table>
 
-**💡秘诀：**最受欢迎的时间段是**日落前1小时**。白天景色、日落、夜景全都能观赏。提前2周开放预订，赶紧行动！
+<strong>💡秘诀：</strong>最受欢迎的时间段是<strong>日落前1小时</strong>。白天景色、日落、夜景全都能观赏。提前2周开放预订，赶紧行动！
 
 ### ✅ 压倒性360度全景视野
 
@@ -103,18 +103,18 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ### ✅ 涩谷SKY，按楼层玩法
 
-**1️⃣ 上升空间「SKY GATE」（14楼→45楼）**  
+<strong>1️⃣ 上升空间「SKY GATE」（14楼→45楼）</strong>  
 乘坐光影音乐演绎的感官电梯瞬间抵达45楼。上升途中，天花板呈现的媒体艺术千万别错过！
 
-**2️⃣ 室内展望走廊「SKY GALLERY」（46楼）**  
+<strong>2️⃣ 室内展望走廊「SKY GALLERY」（46楼）</strong>  
 下雨刮风也安心！透过落地玻璃窗舒适欣赏东京风景的室内空间。各处设置的媒体艺术是额外惊喜！
 
-**3️⃣ 户外展望空间「SKY STAGE」（屋顶）**  
+<strong>3️⃣ 户外展望空间「SKY STAGE」（屋顶）</strong>  
 涩谷SKY的心脏！拥有压倒性开放感的屋顶。这里有各种拍照区和玩法在等待。
 
-- **📸 SKY EDGE（天空边缘）**：人生照的最佳打卡区。站在透明玻璃墙角落，拍下仿佛将东京踩在脚下的刺激照片吧。
-- **☁️ CLOUD HAMMOCK（云朵吊床）**：朝天空躺下，享受仿佛漂浮云端的感觉的网床。最佳治愈景点。
-- **💡 灯光秀「CROSSING LIGHT」**：日落后数十盏灯光点亮夜空的梦幻灯光秀展开，千万别错过！
+- <strong>📸 SKY EDGE（天空边缘）</strong>：人生照的最佳打卡区。站在透明玻璃墙角落，拍下仿佛将东京踩在脚下的刺激照片吧。
+- <strong>☁️ CLOUD HAMMOCK（云朵吊床）</strong>：朝天空躺下，享受仿佛漂浮云端的感觉的网床。最佳治愈景点。
+- <strong>💡 灯光秀「CROSSING LIGHT」</strong>：日落后数十盏灯光点亮夜空的梦幻灯光秀展开，千万别错过！
 
 <div class="image-group-4">
   <figure>
@@ -136,7 +136,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ## 🌳 Step3. 涩谷新休憩地，宫下公园
 
-**在复杂充满活力的涩谷稍事休息的都市绿洲！**
+<strong>在复杂充满活力的涩谷稍事休息的都市绿洲！</strong>
 
 过去老旧的公园，变身为集酒店、购物中心、公园于一体的<strong>「[宫下公园](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍」</strong>这个精彩的复合文化空间。购物与休息同步享受，涩谷旅行中必定值得一去。
 
@@ -147,16 +147,16 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ### ✅ 能做什么？（按楼层玩法）
 
-- **[1楼 涩谷横丁](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍**  
+- <strong>[1楼 涩谷横丁](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍</strong>  
 宫下公园1楼的室内小吃街。从北海道到冲绳，汇集日本全国名物美食，喝一杯的最佳场所。
 
-- **2～3楼：商业设施（RAYARD MIYASHITA PARK）**  
+- <strong>2～3楼：商业设施（RAYARD MIYASHITA PARK）</strong>  
 约330米长的购物中心汇集个性满满的精选店铺、美食。享受购物，或坐在氛围良好的咖啡馆稍事休息。
 
-- **屋顶：宫下公园**  
+- <strong>屋顶：宫下公园</strong>  
 草坪、长椅、运动设施的绿地空间。特别是<strong>[星巴克屋顶露台](https://maps.app.goo.gl/MyvGBydde3jF6ZvZ8) 📍</strong>超人气 - 俯瞰公园享受咖啡！
 
-**💡 推荐：**涩谷SKY参观后，在宫下公园星巴克屋顶休息。高层视野与公园放松氛围的对比完美！
+<strong>💡 推荐：</strong>涩谷SKY参观后，在宫下公园星巴克屋顶休息。高层视野与公园放松氛围的对比完美！
 
 <div class="image-group-4">
   <figure>
@@ -182,7 +182,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ### 1️⃣ 涩谷109
 
-**日本年轻人时尚圣地！**这栋地标大楼汇集年轻女性喜爱的潮流品牌。从可爱休闲服到街头时尚，最新风格应有尽有。
+<strong>日本年轻人时尚圣地！</strong>这栋地标大楼汇集年轻女性喜爱的潮流品牌。从可爱休闲服到街头时尚，最新风格应有尽有。
 
 <strong>📍 地点：</strong>[涩谷109](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍  
 <strong>营业时间：</strong>10:00-21:00  
@@ -190,7 +190,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ### 2️⃣ 涩谷PARCO
 
-**角色周边与亚文化的乐园！**PARCO以动漫、游戏周边、独特精选店铺闻名。宝可梦中心和任天堂商店粉丝必去。
+<strong>角色周边与亚文化的乐园！</strong>PARCO以动漫、游戏周边、独特精选店铺闻名。宝可梦中心和任天堂商店粉丝必去。
 
 <strong>📍 地点：</strong>[涩谷PARCO](https://maps.app.goo.gl/8tNkYwdbXh5vLoYx7) 📍  
 <strong>营业时间：</strong>10:00-21:00  
@@ -198,7 +198,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ### 3️⃣ 涩谷HIKARIE
 
-**精致购物&餐饮复合设施。**涩谷站直连的HIKARIE，时尚、美妆、美食餐厅提供更高级的购物体验。
+<strong>精致购物&餐饮复合设施。</strong>涩谷站直连的HIKARIE，时尚、美妆、美食餐厅提供更高级的购物体验。
 
 <strong>📍 地点：</strong>[涩谷HIKARIE](https://maps.app.goo.gl/nBoAt97JyYXcmhgk6) 📍  
 <strong>营业时间：</strong>10:00-21:00（餐厅至23:00）
@@ -221,7 +221,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ### 🏮 涩谷横丁（宫下公园1楼）
 
-**汇聚日本全国地方特产的室内小吃街！**
+<strong>汇聚日本全国地方特产的室内小吃街！</strong>
 
 - <strong>氛围：</strong>昭和复古氛围的19家个性摊位
 - <strong>料理：</strong>北海道海鲜、大阪烧、九州拉面等
@@ -265,13 +265,13 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ### 前往涩谷的方式
 
-**铁路线路：**
+<strong>铁路线路：</strong>
 - JR山手线
 - 东京地铁（银座线、半蔵门线、副都心线）
 - 东急线（东横线、田园都市线）
 - 京王井之头线
 
-**从主要车站：**
+<strong>从主要车站：</strong>
 - 新宿：5分钟（JR山手线）
 - 东京站：20分钟（东京地铁丸之内线→银座线）
 - 涩谷是东京主要枢纽之一，交通便利性极佳
@@ -287,13 +287,13 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 ## ✨ 涩谷探险最终贴士
 
-1. **涩谷SKY提前预订** - 特别是日落时段
-2. **早点出发** - 涩谷下午3点后非常拥挤
-3. **穿舒适的鞋** - 要走很多路！
-4. **下载Google地图** - 导航必备
-5. **试试涩谷横丁** - 品尝各种日本料理的最佳方式
+1. <strong>涩谷SKY提前预订</strong> - 特别是日落时段
+2. <strong>早点出发</strong> - 涩谷下午3点后非常拥挤
+3. <strong>穿舒适的鞋</strong> - 要走很多路！
+4. <strong>下载Google地图</strong> - 导航必备
+5. <strong>试试涩谷横丁</strong> - 品尝各种日本料理的最佳方式
 
-**涩谷是东京能量、时尚、文化汇聚之地。从标志性的十字路口到涩谷SKY的高空景色，从潮流购物到美味美食 - 这份攻略包含完美涩谷体验所需的一切。祝您旅途愉快！🗼✨**
+<strong>涩谷是东京能量、时尚、文化汇聚之地。从标志性的十字路口到涩谷SKY的高空景色，从潮流购物到美味美食 - 这份攻略包含完美涩谷体验所需的一切。祝您旅途愉快！🗼✨</strong>
 
 
 <div class="editors-note">

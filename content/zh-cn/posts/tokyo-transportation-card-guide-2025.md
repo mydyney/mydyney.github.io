@@ -26,9 +26,9 @@ Android用户应选<strong>Welcome Suica</strong>还是<strong>PASMO</strong>，
 
 旅行者困扰的原因，是这2年间发行政策持续变更。
 
-- **2023年:** 因半导体短缺，普通「Suica」「PASMO」实体卡新发行全面中止。
-- **2024年:** 作为替代的游客专用「PASMO Passport(三丽鸥卡)」也停止销售。
-- **2025年现在:** 面向旅行者的实体卡「Welcome Suica」和「PASMO」在发行中。
+- <strong>2023年:</strong> 因半导体短缺，普通「Suica」「PASMO」实体卡新发行全面中止。
+- <strong>2024年:</strong> 作为替代的游客专用「PASMO Passport(三丽鸥卡)」也停止销售。
+- <strong>2025年现在:</strong> 面向旅行者的实体卡「Welcome Suica」和「PASMO」在发行中。
 
 这复杂状况，根据您的情况明确整理！
 
@@ -36,13 +36,13 @@ Android用户应选<strong>Welcome Suica</strong>还是<strong>PASMO</strong>，
 
 复杂吗?2个问题就能决定。
 
-**问题1. 智能手机是「iPhone」吗?**
-⭕️ 是(iPhone用户) ➡️ **回答问题2!**
-❌ 否(Android用户) ➡️ **前往[攻略B]!**
+<strong>问题1. 智能手机是「iPhone」吗?</strong>
+⭕️ 是(iPhone用户) ➡️ <strong>回答问题2!</strong>
+❌ 否(Android用户) ➡️ <strong>前往[攻略B]!</strong>
 
-**问题2. 使用Apple Pay吗?**
-⭕️ 是(Apple Pay + iPhone) ➡️ **前往[攻略A]!**
-❌ 否(无现代卡) ➡️ **前往[攻略B]!**
+<strong>问题2. 使用Apple Pay吗?</strong>
+⭕️ 是(Apple Pay + iPhone) ➡️ <strong>前往[攻略A]!</strong>
+❌ 否(无现代卡) ➡️ <strong>前往[攻略B]!</strong>
 
 ---
 
@@ -50,12 +50,12 @@ Android用户应选<strong>Welcome Suica</strong>还是<strong>PASMO</strong>，
 
 如果使用iPhone和Apple Pay，就是最便捷「移动交通卡」的发行对象！
 
-- **压倒性便利:** 无需实体卡，手机/Apple Watch全解决!
-- **成本节约:** 无需实体卡押金(500日元)。
-- **永久使用:** 无28天有效期限制，下次旅行也能继续用。
-- **轻松充值:** 无需现金，用信用卡随时随地立即充值。
+- <strong>压倒性便利:</strong> 无需实体卡，手机/Apple Watch全解决!
+- <strong>成本节约:</strong> 无需实体卡押金(500日元)。
+- <strong>永久使用:</strong> 无28天有效期限制，下次旅行也能继续用。
+- <strong>轻松充值:</strong> 无需现金，用信用卡随时随地立即充值。
 
-**📌 Suica vs PASMO?**
+<strong>📌 Suica vs PASMO?</strong>
 移动版的话，Suica和PASMO功能100%相同。发行哪个都没区别，请发行先看到的。
 
 <div class="image-group-2">
@@ -72,17 +72,17 @@ Android用户应选<strong>Welcome Suica</strong>还是<strong>PASMO</strong>，
 
 *(※ 无需另外下载「Suica」或「PASMO」应用，在iPhone基本的「钱包」应用发行最快。)*
 
-1. 启动iPhone **「钱包(Wallet)」** 应用。
-2. 按右上角 **「+」按钮** 选择 **「交通IC卡」**。
-3. 从日本列表选择 **「Suica」** 或 **「PASMO」**。
+1. 启动iPhone <strong>「钱包(Wallet)」</strong> 应用。
+2. 按右上角 <strong>「+」按钮</strong> 选择 <strong>「交通IC卡」</strong>。
+3. 从日本列表选择 <strong>「Suica」</strong> 或 <strong>「PASMO」</strong>。
 4. 选择充值金额(从1,000日元起)。
-5. 用Apple Pay的 **「现代卡」** 支付，发行立即完成!
+5. 用Apple Pay的 <strong>「现代卡」</strong> 支付，发行立即完成!
 
-**✅ 充值方法1. 用Apple Pay充值(需要现代卡)**
-目前，在韩国能注册到Apple Pay的卡只有 **「现代卡」**。因此，要发行移动Suica/PASMO并用信用卡充值，需要 **注册到Apple Pay的现代卡**。
+<strong>✅ 充值方法1. 用Apple Pay充值(需要现代卡)</strong>
+目前，在韩国能注册到Apple Pay的卡只有 <strong>「现代卡」</strong>。因此，要发行移动Suica/PASMO并用信用卡充值，需要 <strong>注册到Apple Pay的现代卡</strong>。
 
-**✅ 充值方法2. 现金充值(无现代卡时的解决方法)**
-无现代卡时，将Suica/PASMO添加到钱包(Wallet)应用后，**可在JR站、地铁站、机场内售票机等用现金充值**！
+<strong>✅ 充值方法2. 现金充值(无现代卡时的解决方法)</strong>
+无现代卡时，将Suica/PASMO添加到钱包(Wallet)应用后，<strong>可在JR站、地铁站、机场内售票机等用现金充值</strong>！
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-05.jpg" alt="iPhone钱包应用交通卡选择画面">
@@ -95,7 +95,7 @@ Android用户应选<strong>Welcome Suica</strong>还是<strong>PASMO</strong>，
 
 Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需发行实体交通卡。
 
-2025年现在，旅行者可选的实体卡是 **「Welcome Suica」** 和 **「PASMO」** 2种。两张卡性质完全不同，请看下表选择适合自己的卡!
+2025年现在，旅行者可选的实体卡是 <strong>「Welcome Suica」</strong> 和 <strong>「PASMO」</strong> 2种。两张卡性质完全不同，请看下表选择适合自己的卡!
 
 <div class="info-box">
   <table class="schedule-table">
@@ -138,24 +138,24 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 ### 🚨 最终结论:选择符合您倾向的卡!
 
-**1. Welcome Suica - 「便利性」优先派**
+<strong>1. Welcome Suica - 「便利性」优先派</strong>
 - 「旅行最后一天不想在机场排队退款!」
 - 「剩余余额几百日元作为纪念品在便利店全部用掉!」
 - 「不想取现金，想用信用卡轻松发行!」
 
-👍 这样的朋友推荐红色樱花设计的 **「Welcome Suica」**。
+👍 这样的朋友推荐红色樱花设计的 <strong>「Welcome Suica」</strong>。
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-06.jpg" alt="红色樱花设计的Welcome Suica卡">
   <figcaption style="font-size: 0.7em; text-align: center;">东京实体交通卡 / Welcome Suica卡</figcaption>
 </figure>
 
-**2. PASMO - 「经济性」优先派**
+<strong>2. PASMO - 「经济性」优先派</strong>
 - 「1日元也不想浪费!(退款必须!)」
 - 「以后可能再来日本!(有效期10年)」
 - 「发行时用现金不麻烦!」
 
-👍 这样的朋友推荐 **「PASMO」**。
+👍 这样的朋友推荐 <strong>「PASMO」</strong>。
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-07.jpg" alt="PASMO实体交通卡">
@@ -182,15 +182,15 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 是的，两张卡的作用完全不同!两张卡一起使用的组合最经济。
 
-**1. Suica/PASMO (储值卡)**
-- **作用:** 「充值式」万能卡
-- **使用处:** ⭕️ JR、⭕️ 地铁、⭕️ 巴士、⭕️ 便利店/自动贩卖机
-- 东京所有地方都能用的 **「交通钱包」**。
+<strong>1. Suica/PASMO (储值卡)</strong>
+- <strong>作用:</strong> 「充值式」万能卡
+- <strong>使用处:</strong> ⭕️ JR、⭕️ 地铁、⭕️ 巴士、⭕️ 便利店/自动贩卖机
+- 东京所有地方都能用的 <strong>「交通钱包」</strong>。
 
-**2. 东京Metro通票(地铁定期券)**
-- **作用:** 「无限次」地铁利用券
-- **使用处:** ⭕️ 地铁(24/48/72小时)
-- ❌ **JR、巴士、便利店绝对不能用!**
+<strong>2. 东京Metro通票(地铁定期券)</strong>
+- <strong>作用:</strong> 「无限次」地铁利用券
+- <strong>使用处:</strong> ⭕️ 地铁(24/48/72小时)
+- ❌ <strong>JR、巴士、便利店绝对不能用!</strong>
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-08.jpg" alt="东京Metro通票 24小时/48小时/72小时券">
@@ -199,27 +199,27 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 ### 🚨 结论:「地铁通票 + Suica」组合正确!
 
-旅行路线 **乘地铁1天3～4次以上** 的话，为节约交通费请使用 **「东京Metro通票」**。
+旅行路线 <strong>乘地铁1天3～4次以上</strong> 的话，为节约交通费请使用 <strong>「东京Metro通票」</strong>。
 
-然后 **地铁通票去不了的JR线路** 乘坐时，或 **在便利店买饮料时** 用 **「Suica(or PASMO)」** 支付是最明智的组合!
+然后 <strong>地铁通票去不了的JR线路</strong> 乘坐时，或 <strong>在便利店买饮料时</strong> 用 <strong>「Suica(or PASMO)」</strong> 支付是最明智的组合!
 
-**⭐ 东京地铁通票详细了解**
+<strong>⭐ 东京地铁通票详细了解</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**✅** <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank"><strong>Klook购买东京地铁通票(24/48/72小时券)</strong></a>
+<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank"><strong>Klook购买东京地铁通票(24/48/72小时券)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224026098490
      Hugo: /zh-cn/posts/tokyo-subway-ticket-guide/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>东京地铁通票(东京Subway Ticket)兑换处、购买、使用法全汇总</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>东京地铁通票(东京Subway Ticket)兑换处、购买、使用法全汇总</strong></a>
 
 ---
 
 ## 💡 JR无限次通票没有吗?有!
 
-为此准备了 **「JR都区内通票(JR东京都内通票1日券)」**。
+为此准备了 <strong>「JR都区内通票(JR东京都内通票1日券)」</strong>。
 
 但是，我的旅行路线「东京Metro通票」有利，还是「JR都区内通票」有利，根据您的住宿和目的地完全不同!
 
@@ -237,21 +237,21 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 ---
 
-复杂的 **东京交通卡发行**，现在明确解决了吗?希望这份攻略能让您的东京旅行准备轻松一点。
+复杂的 <strong>东京交通卡发行</strong>，现在明确解决了吗?希望这份攻略能让您的东京旅行准备轻松一点。
 
 东京旅行必需品「交通卡」准备好了吗?现在一起看看从机场到市区最便捷的移动方法，和能200%活用该卡的购物秘诀吧!
 
-⭐ **一起阅读更好的文章**
+⭐ <strong>一起阅读更好的文章</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /zh-cn/posts/narita-express-guide/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>成田特快(N'EX)预约、价格、时刻表全汇总</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>成田特快(N'EX)预约、价格、时刻表全汇总</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224039113760
      Hugo: /zh-cn/posts/japan-travel-discount-coupons-2025/ -->
-**➡️** <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行折扣优惠券全汇总2025(唐吉诃德、必酷等)</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行折扣优惠券全汇总2025(唐吉诃德、必酷等)</strong></a>
 
 
 <div class="editors-note">

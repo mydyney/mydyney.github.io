@@ -24,14 +24,14 @@ Making your KALDI shopping absolutely foolproof!</p>
 
 ## ☕ What is KALDI Coffee Farm?
 
-**KALDI COFFEE FARM** is Japan's beloved grocery store specializing in coffee beans and imported foods from around the world. Think of it as Japan's answer to Trader Joe's! Enjoy complimentary "service coffee" at the entrance while exploring the maze-like store filled with culinary treasures.
+<strong>KALDI COFFEE FARM</strong> is Japan's beloved grocery store specializing in coffee beans and imported foods from around the world. Think of it as Japan's answer to Trader Joe's! Enjoy complimentary "service coffee" at the entrance while exploring the maze-like store filled with culinary treasures.
 
 <figure>
   <img src="/images/posts/kaldi-coffee-farm-shopping-list-02.jpg" alt="KALDI Coffee Farm Shibuya Sakura Stage store entrance">
   <figcaption style="font-size: 0.7em; text-align: center;">KALDI COFFEE FARM Shibuya Sakura Stage Store</figcaption>
 </figure>
 
-**[KALDI COFFEE FARM Shibuya Sakura Stage](https://maps.app.goo.gl/FdU2HCFXHc2zQSV28) 📍**
+<strong>[KALDI COFFEE FARM Shibuya Sakura Stage](https://maps.app.goo.gl/FdU2HCFXHc2zQSV28) 📍</strong>
 
 ## 🎯 KALDI Shopping List: Top 7 Must-Buy Items for 2025
 
@@ -41,12 +41,12 @@ Overwhelmed by thousands of products? Just remember these essentials! These are 
 
 The undisputed #1 item at KALDI! Simply spread on bread and toast in an air fryer to recreate the taste of freshly baked bakery bread. It's pure magic!
 
-**Top Products:**
-- **Kouign-Amann Spread** - Crunchy sugar crystals (354 yen)
-- **Melon Pan Spread** - Sweet cookie crumble flavor (354 yen)  
-- **Curry Bread Spread** - Sweet & savory perfection (354 yen)
+<strong>Top Products:</strong>
+- <strong>Kouign-Amann Spread</strong> - Crunchy sugar crystals (354 yen)
+- <strong>Melon Pan Spread</strong> - Sweet cookie crumble flavor (354 yen)  
+- <strong>Curry Bread Spread</strong> - Sweet & savory perfection (354 yen)
 
-**📌 Pro Tip:** Air fry at 180°C (355°F) for 3-4 minutes for perfectly crispy outside, fluffy inside toast. (Microwave makes bread soggy - avoid!)
+<strong>📌 Pro Tip:</strong> Air fry at 180°C (355°F) for 3-4 minutes for perfectly crispy outside, fluffy inside toast. (Microwave makes bread soggy - avoid!)
 
 <figure>
   <img src="/images/posts/kaldi-coffee-farm-shopping-list-03.jpg" alt="KALDI Kouign-Amann spread jar">
@@ -62,14 +62,14 @@ The undisputed #1 item at KALDI! Simply spread on bread and toast in an air frye
 
 As a coffee specialty store, KALDI's coffee products deliver unbeatable value and taste.
 
-**Potion Coffee (Liquid Concentrate):** Just pour into milk or water for instant café latte or americano! Blue package is sugar-free (most popular), red is sweet café mocha. (537 yen, 10 servings)
+<strong>Potion Coffee (Liquid Concentrate):</strong> Just pour into milk or water for instant café latte or americano! Blue package is sugar-free (most popular), red is sweet café mocha. (537 yen, 10 servings)
 
 <figure>
   <img src="/images/posts/kaldi-coffee-farm-shopping-list-05.jpg" alt="KALDI potion coffee blue and red packages">
   <figcaption style="font-size: 0.7em; text-align: center;">KALDI Potion Coffee - Sugar-Free (Blue) / Café Mocha (Red)</figcaption>
 </figure>
 
-**Drip Bag Coffee:** KALDI's signature "Mild KALDI" blend. Carefully selected Brazilian beans deliver gentle sweetness and rich aroma. (734 yen, 10 bags)
+<strong>Drip Bag Coffee:</strong> KALDI's signature "Mild KALDI" blend. Carefully selected Brazilian beans deliver gentle sweetness and rich aroma. (734 yen, 10 bags)
 
 <figure>
   <img src="/images/posts/kaldi-coffee-farm-shopping-list-06.jpg" alt="KALDI drip bag coffee package">
@@ -80,14 +80,14 @@ As a coffee specialty store, KALDI's coffee products deliver unbeatable value an
 
 KALDI's magic sauces that instantly elevate any dish!
 
-**Salad Umatare (Savory Sauce):** Nutty sesame and garlic perfection! Use as salad dressing, udon sauce, or stir-fry seasoning. (475 yen)
+<strong>Salad Umatare (Savory Sauce):</strong> Nutty sesame and garlic perfection! Use as salad dressing, udon sauce, or stir-fry seasoning. (475 yen)
 
 <figure>
   <img src="/images/posts/kaldi-coffee-farm-shopping-list-07.jpg" alt="KALDI Salad Umatare savory sauce bottle">
   <figcaption style="font-size: 0.7em; text-align: center;">KALDI's Famous Salad Umatare</figcaption>
 </figure>
 
-**Iburigakko Tartar Sauce:** Chopped smoked radish pickles in creamy tartar sauce. Perfect with fried foods and sausages! (483 yen)
+<strong>Iburigakko Tartar Sauce:</strong> Chopped smoked radish pickles in creamy tartar sauce. Perfect with fried foods and sausages! (483 yen)
 
 <figure>
   <img src="/images/posts/kaldi-coffee-farm-shopping-list-08.jpg" alt="KALDI Iburigakko tartar sauce jar">
@@ -98,11 +98,11 @@ KALDI's magic sauces that instantly elevate any dish!
 
 Perfect gift items that elevate any home cooking!
 
-**KALDI Exclusive! Spice Up Series:** Fresh-ground spices in convenient grinder bottles. Rainbow Pepper, Italian Herb Salt, and more! (483 yen)
+<strong>KALDI Exclusive! Spice Up Series:</strong> Fresh-ground spices in convenient grinder bottles. Rainbow Pepper, Italian Herb Salt, and more! (483 yen)
 
-**Japan's Hottest Item! Horinishi Multi-Purpose Spice:** The "magic powder" that swept Japan from camping circles. Works on meat, fish, vegetables - everything! (842 yen)
+<strong>Japan's Hottest Item! Horinishi Multi-Purpose Spice:</strong> The "magic powder" that swept Japan from camping circles. Works on meat, fish, vegetables - everything! (842 yen)
 
-**Okinawa Flavor! Miracle Spice Fu-Shio:** Okinawan salt blended with herbs and sesame for unique umami depth. (537 yen)
+<strong>Okinawa Flavor! Miracle Spice Fu-Shio:</strong> Okinawan salt blended with herbs and sesame for unique umami depth. (537 yen)
 
 <figure>
   <img src="/images/posts/kaldi-coffee-farm-shopping-list-09.jpg" alt="KALDI spice collection - Spice Up, Horinishi, Fu-Shio">
@@ -111,7 +111,7 @@ Perfect gift items that elevate any home cooking!
 
 ### 🍖 Must-Buy #5: Easy Cooking Kit (Microwave Chashu)
 
-**Yakibuta wa Range de (Microwave Chashu Kit):** Make restaurant-quality chashu at home! Just add pork, pour sauce, microwave 8 minutes. Done! (259 yen)
+<strong>Yakibuta wa Range de (Microwave Chashu Kit):</strong> Make restaurant-quality chashu at home! Just add pork, pour sauce, microwave 8 minutes. Done! (259 yen)
 
 <figure>
   <img src="/images/posts/kaldi-coffee-farm-shopping-list-10.jpg" alt="KALDI microwave chashu sauce kit">
@@ -120,9 +120,9 @@ Perfect gift items that elevate any home cooking!
 
 ### 🍮 Must-Buy #6: Signature Desserts
 
-**Panda Annin Tofu:** KALDI's iconic dessert! Jiggly yet silky-smooth almond milk pudding. (235 yen)
+<strong>Panda Annin Tofu:</strong> KALDI's iconic dessert! Jiggly yet silky-smooth almond milk pudding. (235 yen)
 
-**Mocha Kilimanjaro Coffee Jelly:** Showcasing KALDI's coffee expertise - refreshing yet sweet and aromatic. (354 yen)
+<strong>Mocha Kilimanjaro Coffee Jelly:</strong> Showcasing KALDI's coffee expertise - refreshing yet sweet and aromatic. (354 yen)
 
 <div class="image-group-2">
   <figure>
@@ -136,7 +136,7 @@ Perfect gift items that elevate any home cooking!
 
 ### 🍂 Must-Buy #7: Seasonal Limited Items
 
-KALDI releases seasonal specialties throughout the year! In autumn, look for **chestnut (marron)** and **sweet potato** themed baumkuchen, dacquoise, and mochi. Don't miss these limited-time treasures!
+KALDI releases seasonal specialties throughout the year! In autumn, look for <strong>chestnut (marron)</strong> and <strong>sweet potato</strong> themed baumkuchen, dacquoise, and mochi. Don't miss these limited-time treasures!
 
 <div class="image-group-2">
   <figure>
@@ -152,28 +152,28 @@ KALDI releases seasonal specialties throughout the year! In autumn, look for **c
 
 ### 💰 Tax-Free Shopping
 
-Not all KALDI stores offer tax-free! You can get tax exemption on purchases over ¥5,000 (tax excluded) at select locations in major shopping malls. **Show your passport at checkout!**
+Not all KALDI stores offer tax-free! You can get tax exemption on purchases over ¥5,000 (tax excluded) at select locations in major shopping malls. <strong>Show your passport at checkout!</strong>
 
-**Tax-Free KALDI Locations:**
-- **Tokyo (4 stores):** Odakyu Dept Shinjuku (B2F), Lumine Shinjuku 1 (B2F), Lumine Ikebukuro (7F), Tamagawa Takashimaya SC (B1F)
-- **Yokohama:** Lumine Yokohama (B2F)
-- **Osaka:** Namba City Main Bldg (1F)
-- **Kumamoto:** Sakuramachi (B1F)
-- **Okinawa:** Urasoe Parco City (1F)
+<strong>Tax-Free KALDI Locations:</strong>
+- <strong>Tokyo (4 stores):</strong> Odakyu Dept Shinjuku (B2F), Lumine Shinjuku 1 (B2F), Lumine Ikebukuro (7F), Tamagawa Takashimaya SC (B1F)
+- <strong>Yokohama:</strong> Lumine Yokohama (B2F)
+- <strong>Osaka:</strong> Namba City Main Bldg (1F)
+- <strong>Kumamoto:</strong> Sakuramachi (B1F)
+- <strong>Okinawa:</strong> Urasoe Parco City (1F)
 
 ### 📌 Shopping Insider Tips
 
-**Finding Best-Sellers:** Items stacked in boxes near the cashier, store entrance, or central aisle are current hot sellers!
+<strong>Finding Best-Sellers:</strong> Items stacked in boxes near the cashier, store entrance, or central aisle are current hot sellers!
 
 ---
 
-We've covered the **KALDI Shopping List** and **must-buy items for 2025**! Create your own treasure-hunting list and enjoy the thrill of discovering new favorites at KALDI. Happy shopping!
+We've covered the <strong>KALDI Shopping List</strong> and <strong>must-buy items for 2025</strong>! Create your own treasure-hunting list and enjoy the thrill of discovering new favorites at KALDI. Happy shopping!
 
 ## ⭐ Related Japanese Shopping Guides
 
-➡️ [**Shinjuku Complete Guide: Gyoen, Food, Shopping & Golden Gai**](/posts/shinjuku-guide-2025/)
-➡️ [**2025 Don Quijote Shopping List: Must-Buy Items & Coupons**](/posts/don-quijote-shopping-guide-2025/)
-➡️ [**Japan Convenience Store Guide! (7-Eleven, FamilyMart, Lawson)**](/posts/japan-convenience-store-shopping-best-10/)
+➡️ [<strong>Shinjuku Complete Guide: Gyoen, Food, Shopping & Golden Gai</strong>](/posts/shinjuku-guide-2025/)
+➡️ [<strong>2025 Don Quijote Shopping List: Must-Buy Items & Coupons</strong>](/posts/don-quijote-shopping-guide-2025/)
+➡️ [<strong>Japan Convenience Store Guide! (7-Eleven, FamilyMart, Lawson)</strong>](/posts/japan-convenience-store-shopping-best-10/)
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

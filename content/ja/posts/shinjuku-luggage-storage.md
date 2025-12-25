@@ -24,7 +24,7 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 
 ## はじめに
 
-新宿旅行の最初の関門、それが**新宿駅荷物預かり**です。
+新宿旅行の最初の関門、それが<strong>新宿駅荷物預かり</strong>です。
 
 世界で最も複雑な新宿駅で28インチのキャリーケースを預ける場所を探すのは、まさに戦争です。
 
@@ -36,13 +36,13 @@ featured_image: "/images/posts/shinjuku-luggage-storage-01.jpg"
 
 日本のコインロッカーは2種類です。
 
-**1. 鍵式（旧型）**
+<strong>1. 鍵式（旧型）</strong>
 - 最も一般的なタイプ
 - 100円硬貨のみ使用可能
 - 荷物を入れる → コインを入れる → 鍵を回してロック
 - 鍵を失くさないように！
 
-**2. タッチパネル式（新型）**
+<strong>2. タッチパネル式（新型）</strong>
 - 最近増えているタイプ
 - 現金、交通カード（Suica、Pasmo）両方決済可能
 - 荷物を入れる → 画面で位置選択 → 決済 → ロック
@@ -103,9 +103,9 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 
 全10カ所のロッカーのサイズと空き状況を公式サイトで確認できるため、空きロッカーを探して歩き回る必要がありません。
 
-**📌 コインロッカーリアルタイム空き状況（京王線公式）**
+<strong>📌 コインロッカーリアルタイム空き状況（京王線公式）</strong>
 
-➡️ **<a href="https://www.keiochika.co.jp/locker/service/shinjuku.html" target="_blank">京王線新宿駅コインロッカーリアルタイム空き状況を確認する</a>**
+➡️ <strong><a href="https://www.keiochika.co.jp/locker/service/shinjuku.html" target="_blank">京王線新宿駅コインロッカーリアルタイム空き状況を確認する</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-05.jpg" alt="京王線新宿駅コインロッカーリアルタイム空き状況画面">
@@ -128,7 +128,7 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 
 ## 3. 新宿駅荷物預かりセンター
 
-新宿駅周辺には、安心して荷物を預けられるスタッフ常駐の**新宿駅荷物預かりサービス（荷物預かりセンター）**も複数あります。駅構内のコインロッカーがすべて使用中の場合や、空港やホテルへ荷物を配送したい時に利用すると良いでしょう。
+新宿駅周辺には、安心して荷物を預けられるスタッフ常駐の<strong>新宿駅荷物預かりサービス（荷物預かりセンター）</strong>も複数あります。駅構内のコインロッカーがすべて使用中の場合や、空港やホテルへ荷物を配送したい時に利用すると良いでしょう。
 
 ### 1. 小田急観光案内所（西口・南口）
 
@@ -139,13 +139,13 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 - サイズ：縦+横+高さ合計160cm、重さ25kg以下
 - 最大保管期間：3日（超過時は1日ごとに追加料金）
 
-**🎒 箱根ホテル手荷物運送サービス（お得情報！）**
+<strong>🎒 箱根ホテル手荷物運送サービス（お得情報！）</strong>
 
 箱根湯本駅からホテルまで、ホテルから駅まで手荷物を配送するサービスもあります。箱根湯本駅に荷物を預けて、重い荷物の心配なく自由に旅行できます。
 
-**📌 箱根荷物預かりサービス申込**
+<strong>📌 箱根荷物預かりサービス申込</strong>
 
-**➡️ <a href="https://www.hakonenavi.jp/hakone-luggage-transport-service/kr/" target="_blank">箱根荷物配送サービスに申し込む↗</a>**
+<strong>➡️ <a href="https://www.hakonenavi.jp/hakone-luggage-transport-service/kr/" target="_blank">箱根荷物配送サービスに申し込む↗</a></strong>
 
 | 場所 | 受付時間 | ピックアップ時間 |
 |------|----------|------------------|
@@ -171,14 +171,14 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 - 特徴：韓国語対応可能、外貨両替機あり
 - 営業時間：06:30～23:00（圧倒的に長い）
 
-**📍 <a href="https://maps.app.goo.gl/G1v863SfRe4d64M87" target="_blank">Googleマップで見る↗</a>**
+<strong>📍 <a href="https://maps.app.goo.gl/G1v863SfRe4d64M87" target="_blank">Googleマップで見る↗</a></strong>
 
-**🎒 荷物預かり料金（1日基準）**
+<strong>🎒 荷物預かり料金（1日基準）</strong>
 - 縦+横+高さ合計100cm以下：800円
 - 縦+横+高さ合計160cm以下（キャリーケース）：1,000円
 - 縦+横+高さ合計161cm以上：1,500円
 
-**✈️ 当日ホテル配送サービス、空港配送サービス（お得情報！）**
+<strong>✈️ 当日ホテル配送サービス、空港配送サービス（お得情報！）</strong>
 
 11:00までに受付した場合、羽田空港と東京23区内のホテル、浦安市内（ディズニー）ホテルへ当日16:00以降に荷物を配送してくれます。
 
@@ -193,11 +193,11 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 - 注意：100%事前予約・決済必須（現場決済不可）
 - 時間：10:00～19:00（百貨店営業時間）
 
-**📍 <a href="https://maps.app.goo.gl/XYJHHWSXLP3RThy48" target="_blank">Googleマップで見る↗</a>**
+<strong>📍 <a href="https://maps.app.goo.gl/XYJHHWSXLP3RThy48" target="_blank">Googleマップで見る↗</a></strong>
 
-**📌 京王百貨店荷物預かり予約**
+<strong>📌 京王百貨店荷物預かり予約</strong>
 
-**➡️ <a href="https://cloak.ecbo.io/space/9ggys9Au" target="_blank">京王百貨店荷物預かりサービスに申し込む↗</a>**
+<strong>➡️ <a href="https://cloak.ecbo.io/space/9ggys9Au" target="_blank">京王百貨店荷物預かりサービスに申し込む↗</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-luggage-storage-09.jpg" alt="京王百貨店新宿店ecbo cloak荷物預かりサービス">
@@ -211,24 +211,24 @@ JR新宿駅地下1階から行ける京王線と井の頭線新宿駅にもコ�
 - 料金：1日約800円～
 - メリット：提携店が多く、自分の位置に近い場所を選択できます
 
-**📌 Bounceバウンス荷物預かり予約**
+<strong>📌 Bounceバウンス荷物預かり予約</strong>
 
-**➡️ <a href="https://ko.bounce.com/s?_aid=710388ec-b5c6-44d7-b13b-093200d24610&query=%EC%9D%BC%EB%B3%B8%20%EB%8F%84%EC%BF%84%EB%8F%84%20%EC%8B%A0%EC%A3%BC%EC%BF%A0%EA%B5%AC" target="_blank">Bounceバウンス荷物預かり予約に申し込む↗</a>**
+<strong>➡️ <a href="https://ko.bounce.com/s?_aid=710388ec-b5c6-44d7-b13b-093200d24610&query=%EC%9D%BC%EB%B3%B8%20%EB%8F%84%EC%BF%84%EB%8F%84%20%EC%8B%A0%EC%A3%BC%EC%BF%A0%EA%B5%AC" target="_blank">Bounceバウンス荷物預かり予約に申し込む↗</a></strong>
 
 ---
 
 ## 4. ホテル無料荷物預かり・ネットカフェ活用
 
-**✅ ホテル無料荷物預かり（最良の方法）**
+<strong>✅ ホテル無料荷物預かり（最良の方法）</strong>
 
 新宿ワシントンホテルなど、ほとんどのホテルはチェックイン前・チェックアウト後当日の新宿駅荷物預かり無料サービスを提供しています。宿泊先に先に立ち寄って荷物を預けるのが最高です。
 
-**✅ 新宿ネットカフェ（早朝到着・出発時）**
+<strong>✅ 新宿ネットカフェ（早朝到着・出発時）</strong>
 
 「Booth」、「Manboo」のようなネットカフェは、荷物預かり、シャワー、休憩がすべて可能です。新宿ネットカフェには2人部屋もあり、早朝に中途半端に時間を潰すのに最適です。
 
-- **Booth（歌舞伎町）** **📍 <a href="https://maps.app.goo.gl/pFMe22xm3Xg5gurR6" target="_blank">Googleマップで見る↗</a>**
-- **Manboo（新宿御苑）** **📍 <a href="https://maps.app.goo.gl/mCwmZdot7HJywzhz8" target="_blank">Googleマップで見る↗</a>**
+- <strong>Booth（歌舞伎町）</strong> <strong>📍 <a href="https://maps.app.goo.gl/pFMe22xm3Xg5gurR6" target="_blank">Googleマップで見る↗</a></strong>
+- <strong>Manboo（新宿御苑）</strong> <strong>📍 <a href="https://maps.app.goo.gl/mCwmZdot7HJywzhz8" target="_blank">Googleマップで見る↗</a></strong>
 
 ---
 

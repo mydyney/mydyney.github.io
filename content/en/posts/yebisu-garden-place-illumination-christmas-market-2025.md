@@ -28,10 +28,10 @@ to Yebisu Garden Place's 2025~2026 winter season information.</p>
 ## Overview
 
 This year features:
-- The world's largest **Baccarat chandelier**,
-- A **10m giant Christmas tree**,
-- **Two Christmas markets** at Clock Square and Chateau Plaza,
-- **Champagne gold Christmas illumination**,
+- The world's largest <strong>Baccarat chandelier</strong>,
+- A <strong>10m giant Christmas tree</strong>,
+- <strong>Two Christmas markets</strong> at Clock Square and Chateau Plaza,
+- <strong>Champagne gold Christmas illumination</strong>,
 
 All combined into a perfect winter experience.
 
@@ -40,26 +40,26 @@ All combined into a perfect winter experience.
 ## 🎄 2025-2026 Key Schedule at a Glance
 
 ### 🌟 Christmas Champagne Gold Illumination
-- **Period:** November 8 (Sat), 2025 ~ March 1 (Sun), 2026
-- **Hours:** 16:00 ~ 23:00
-- **Location:** Clock Square–Center Plaza walkway
-- ✔️ **Continues until March even after Christmas season!**
+- <strong>Period:</strong> November 8 (Sat), 2025 ~ March 1 (Sun), 2026
+- <strong>Hours:</strong> 16:00 ~ 23:00
+- <strong>Location:</strong> Clock Square–Center Plaza walkway
+- ✔️ <strong>Continues until March even after Christmas season!</strong>
 
 ### 🎄 10m Giant Christmas Tree
-- **Period:** November 8 (Sat) ~ December 25 (Thu), 2025
-- **Hours:** 16:00~23:00
-- **Location:** Clock Square
-- ✔️ **Christmas tree is only displayed until December 25!**
+- <strong>Period:</strong> November 8 (Sat) ~ December 25 (Thu), 2025
+- <strong>Hours:</strong> 16:00~23:00
+- <strong>Location:</strong> Clock Square
+- ✔️ <strong>Christmas tree is only displayed until December 25!</strong>
 
 ### 💎 Baccarat Chandelier (ETERNAL LIGHTS)
-- **Period:** November 8 (Sat), 2025 ~ January 12 (Mon), 2026
-- **Hours:** 11:00 ~ 23:00
-- **Location:** Center Plaza
+- <strong>Period:</strong> November 8 (Sat), 2025 ~ January 12 (Mon), 2026
+- <strong>Hours:</strong> 11:00 ~ 23:00
+- <strong>Location:</strong> Center Plaza
 
 ### 🎁 Christmas Markets (2 locations)
-- **Clock Square:** November 8 (Sat) ~ December 25 (Thu), 2025
-- **Chateau Plaza:** November 28 (Fri) ~ December 25 (Thu), 2025
-- **Hours:** (Weekdays) 17:00~20:00 / (Weekends, Holidays) 12:00~20:00
+- <strong>Clock Square:</strong> November 8 (Sat) ~ December 25 (Thu), 2025
+- <strong>Chateau Plaza:</strong> November 28 (Fri) ~ December 25 (Thu), 2025
+- <strong>Hours:</strong> (Weekdays) 17:00~20:00 / (Weekends, Holidays) 12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-02.jpg" alt="2025 winter Yebisu Garden Place illumination night view from clock square to center plaza">
@@ -72,7 +72,7 @@ All combined into a perfect winter experience.
 
 Yebisu Garden Place Christmas starts at Clock Square.
 
-This is also famous as the "1 o'clock meeting place" where Domyoji and Makino met in the drama **〈Boys Over Flowers〉**.
+This is also famous as the "1 o'clock meeting place" where Domyoji and Makino met in the drama <strong>〈Boys Over Flowers〉</strong>.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-03.jpg" alt="Yebisu Garden Place clock square">
@@ -84,8 +84,8 @@ This is also famous as the "1 o'clock meeting place" where Domyoji and Makino me
 The main tree symbolizing Yebisu Garden Place,
 creating a European small-town atmosphere together with champagne gold lighting.
 
-- **Period:** November 8 (Sat) ~ December 25 (Thu), 2025
-- **Hours:** 16:00~23:00
+- <strong>Period:</strong> November 8 (Sat) ~ December 25 (Thu), 2025
+- <strong>Hours:</strong> 16:00~23:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-04.jpg" alt="10m giant Christmas tree installed at Yebisu Garden Place clock square">
@@ -96,8 +96,8 @@ creating a European small-town atmosphere together with champagne gold lighting.
 
 A market selling Christmas gifts, accessories, and decorations operates around Clock Square.
 
-- **Period:** November 8 (Sat) ~ December 25 (Thu), 2025
-- **Hours:** (Weekdays) 17:00~20:00 / (Weekends) 12:00~20:00
+- <strong>Period:</strong> November 8 (Sat) ~ December 25 (Thu), 2025
+- <strong>Hours:</strong> (Weekdays) 17:00~20:00 / (Weekends) 12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-05.jpg" alt="Yebisu Garden Place 2025 clock square Christmas market scene">
@@ -120,7 +120,7 @@ making it the best zone at the Yebisu Garden Place Christmas market.
 
 ## 2️⃣ Baccarat Chandelier – Yebisu's Signature Photo Zone
 
-The **Center Plaza** featuring the world's largest crystal chandelier
+The <strong>Center Plaza</strong> featuring the world's largest crystal chandelier
 is the heart of Yebisu Garden Place illumination.
 
 - Height: approximately 5m
@@ -142,8 +142,8 @@ The night view combined with champagne gold lighting is breathtaking in person.
 The entire walkway from Clock Square to Center Plaza (where the chandelier is)
 is lit with champagne gold lights, creating the highlight route of Yebisu Garden Place illumination.
 
-- **Period:** November 8 (Sat), 2025 ~ March 1 (Sun), 2026
-- **Hours:** 16:00 ~ 23:00
+- <strong>Period:</strong> November 8 (Sat), 2025 ~ March 1 (Sun), 2026
+- <strong>Hours:</strong> 16:00 ~ 23:00
 - ✔️ Since it continues until March 1 even after Christmas,
 it's a great course for those traveling outside the year-end period.
 
@@ -154,7 +154,7 @@ If you're curious about the 2024 scene, check out the archive post below.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223668826357
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">2024 Yebisu Garden Place Christmas Review (Last Year's Archive)</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">2024 Yebisu Garden Place Christmas Review (Last Year's Archive)</a></strong>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-07.jpg" alt="Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza">
@@ -165,12 +165,12 @@ If you're curious about the 2024 scene, check out the archive post below.
 
 ## 3️⃣ Chateau Plaza Market – European Vibes in Front of Joel Robuchon
 
-From November 28, a separate Christmas market opens at **Chateau Plaza** in front of Joel Robuchon (Chateau Restaurant).
+From November 28, a separate Christmas market opens at <strong>Chateau Plaza</strong> in front of Joel Robuchon (Chateau Restaurant).
 
 The European small-town atmosphere is even stronger here than at Clock Square, so many people visit separately.
 
-- **Period:** November 28 (Fri) ~ December 25 (Thu), 2025
-- **Hours:** (Weekdays) 17:00~20:00 / (Weekends, Holidays) 12:00~20:00
+- <strong>Period:</strong> November 28 (Fri) ~ December 25 (Thu), 2025
+- <strong>Hours:</strong> (Weekdays) 17:00~20:00 / (Weekends, Holidays) 12:00~20:00
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-08.jpg" alt="2025 Yebisu Garden Place Christmas market at Chateau Plaza in front of Joel Robuchon">
@@ -179,18 +179,18 @@ The European small-town atmosphere is even stronger here than at Clock Square, s
 
 Special gourmet food trucks different from Clock Square come here.
 
-- **PÄRLA (Perla):** Famous "adult crepe" specialty shop from Jingu Gaien and Ginza. You can taste high-end crepes with rum-infused batter and premium fresh cream.
-- **HELLO GREEN GRUB:** Serves warm soup made from fresh vegetables grown on their own farm.
+- <strong>PÄRLA (Perla):</strong> Famous "adult crepe" specialty shop from Jingu Gaien and Ginza. You can taste high-end crepes with rum-infused batter and premium fresh cream.
+- <strong>HELLO GREEN GRUB:</strong> Serves warm soup made from fresh vegetables grown on their own farm.
 
 ---
 
 ## 4️⃣ BLUE NOTE PLACE – Free DJ Music Terrace
 
-Next to Clock Square, **BLUE NOTE PLACE** hosts a free DJ event **GOOD MUSIC TERRACE** during specific December periods.
+Next to Clock Square, <strong>BLUE NOTE PLACE</strong> hosts a free DJ event <strong>GOOD MUSIC TERRACE</strong> during specific December periods.
 
-- **Period:** December weekends (5-7, 12-14, 19-21) and Christmas season (23-25)
-- **Hours:** (Weekdays) 17:30~20:00 / (Weekends) 15:00~20:00
-- **Location:** Clock Square, Blue Note Place terrace
+- <strong>Period:</strong> December weekends (5-7, 12-14, 19-21) and Christmas season (23-25)
+- <strong>Hours:</strong> (Weekdays) 17:30~20:00 / (Weekends) 15:00~20:00
+- <strong>Location:</strong> Clock Square, Blue Note Place terrace
 
 ### ☕ BNP STAND
 
@@ -215,9 +215,9 @@ there's a free observatory called Top of Yebisu.
 While not as famous as Shibuya Sky or Roppongi Hills Observatory,
 it's a hidden gem where you can enjoy Tokyo Tower views for free.
 
-- **Location:** Yebisu Garden Place Tower 38th·39th floors
-- **Hours:** 11:00 ~ 23:30
-- **Fee:** Free
+- <strong>Location:</strong> Yebisu Garden Place Tower 38th·39th floors
+- <strong>Hours:</strong> 11:00 ~ 23:30
+- <strong>Fee:</strong> Free
 
 ### ⭐ Recommended Course
 
@@ -255,7 +255,7 @@ It's a space worth visiting if you like beer.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223665548720
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">Yebisu Brewery Tokyo, A Must-Visit for Beer Enthusiasts</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">Yebisu Brewery Tokyo, A Must-Visit for Beer Enthusiasts</a></strong>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-11.jpg" alt="Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu">
@@ -266,7 +266,7 @@ It's a space worth visiting if you like beer.
 
 ## 🗺️ How to Get to Yebisu Garden Place
 
-- **JR Yamanote Line, Tokyo Metro Hibiya Line (H) Ebisu Station**
+- <strong>JR Yamanote Line, Tokyo Metro Hibiya Line (H) Ebisu Station</strong>
 - From Ebisu Station East Exit → Use Ebisu Skywalk
 
 Without getting wet from rain or snow, just 5-8 minutes on the moving walkway
@@ -277,7 +277,7 @@ takes you directly to the Yebisu Garden Place entrance.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">How to Get to Tokyo Yebisu Garden Place and Coin Locker Locations</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">How to Get to Tokyo Yebisu Garden Place and Coin Locker Locations</a></strong>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-12.jpg" alt="Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide">
@@ -288,9 +288,9 @@ takes you directly to the Yebisu Garden Place entrance.
 
 ## 🎁 Instagram Campaign – Joel Robuchon Dining Voucher Event
 
-- **Period:** November 21 (Fri) ~ December 25 (Thu), 2025
-- **Prize:** Joel Robuchon dinner (2 teams, 4 people)
-- **How to enter:**
+- <strong>Period:</strong> November 21 (Fri) ~ December 25 (Thu), 2025
+- <strong>Prize:</strong> Joel Robuchon dinner (2 teams, 4 people)
+- <strong>How to enter:</strong>
   - Follow Yebisu Garden Place official account @yebisu_garden_place
   - 'Like' the campaign post to be uploaded on November 21
 
@@ -301,14 +301,14 @@ when posting photos taken at Yebisu Garden Place to your story!
 
 ## ❓ Frequently Asked Q&A
 
-**Q. Are the illumination and observatory both free?**
+<strong>Q. Are the illumination and observatory both free?</strong>
 A. Yes. The chandelier, tree, and markets are all free.
 
-**Q. Where are the markets held?**
+<strong>Q. Where are the markets held?</strong>
 A. Two locations: Clock Square (from 11/8) + Chateau Plaza (from 11/28).
 
-**Q. What shops are inside the mall?**
-A. The basement 2nd floor **Foodies' Garden** has KALDI, Central Square, Meidi-ya, etc., making it great for buying travel souvenirs and gifts.
+<strong>Q. What shops are inside the mall?</strong>
+A. The basement 2nd floor <strong>Foodies' Garden</strong> has KALDI, Central Square, Meidi-ya, etc., making it great for buying travel souvenirs and gifts.
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-13.jpg" alt="Yebisu Garden Place basement 2 Foodies Garden entrance">
@@ -344,7 +344,7 @@ create unforgettable memories this winter.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️ <a href="#" style="color: #667eea;">Yebisu Attractions, Complete Guide from Yebisu Garden Place to Beer Museum and Restaurants</a>**
+<strong>➡️ <a href="#" style="color: #667eea;">Yebisu Attractions, Complete Guide from Yebisu Garden Place to Beer Museum and Restaurants</a></strong>
 
 ---
 
@@ -352,27 +352,27 @@ create unforgettable memories this winter.
 
 ### ⭐ Must-See! Tokyo Christmas 3 Nights 4 Days Itinerary
 
-**➡️ <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">Tokyo 3 Nights 4 Days Christmas Illumination Recommended Course & Christmas Markets (Complete Route and Budget)</a>**
+<strong>➡️ <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">Tokyo 3 Nights 4 Days Christmas Illumination Recommended Course & Christmas Markets (Complete Route and Budget)</a></strong>
 
 ### 🌟 Roppongi Hills Illumination (starts November 4)
 
-**➡️ <a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">Roppongi Illumination 2025 Duration, Lighting Times, Must-See Spots Complete Guide</a>**
+<strong>➡️ <a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">Roppongi Illumination 2025 Duration, Lighting Times, Must-See Spots Complete Guide</a></strong>
 
 ### 🌟 Tokyo Skytree Christmas Market (starts November 6)
 
-**➡️ <a href="/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;">2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)</a>**
+<strong>➡️ <a href="/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;">2025 Tokyo Skytree Christmas Market Complete Guide (Official Schedule, New Menu, Photo Spot Tips)</a></strong>
 
 ### 🌟 Tokyo Marunouchi Illumination (starts November 13)
 
-**➡️ <a href="/posts/marunouchi-illumination-2025/" style="color: #667eea;">Tokyo Marunouchi Illumination 2025 Duration and Hours Complete Guide (Disney, Christmas Market, Stamp Rally)</a>**
+<strong>➡️ <a href="/posts/marunouchi-illumination-2025/" style="color: #667eea;">Tokyo Marunouchi Illumination 2025 Duration and Hours Complete Guide (Disney, Christmas Market, Stamp Rally)</a></strong>
 
 ### 🌟 Tokyo Hibiya Midtown Illumination (starts November 13)
 
-**➡️ <a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;">2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide</a>**
+<strong>➡️ <a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;">2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration · Marunouchi Walking Course Complete Guide</a></strong>
 
 ### 🌟 Roppongi Tokyo Midtown Illumination (starts November 13)
 
-**➡️ <a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</a>**
+<strong>➡️ <a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</a></strong>
 
 
 <div class="editors-note">

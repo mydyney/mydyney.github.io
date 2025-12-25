@@ -22,9 +22,9 @@ find your perfect holiday destination!</p>
   <figcaption style="font-size: 0.7em; text-align: center;">2025 Tokyo Christmas Markets Complete Guide</figcaption>
 </figure>
 
-Wondering where to go for **Tokyo Christmas Markets** in 2025? This guide has you covered! This year brings big changes, including **Japan's largest Christmas event arriving at Ueno Park**. We've compiled the perfect guide to help you choose the best spot that matches your taste—from major markets to hidden gems!
+Wondering where to go for <strong>Tokyo Christmas Markets</strong> in 2025? This guide has you covered! This year brings big changes, including <strong>Japan's largest Christmas event arriving at Ueno Park</strong>. We've compiled the perfect guide to help you choose the best spot that matches your taste—from major markets to hidden gems!
 
-If you're looking for the most efficient route to conquer the 'Ueno', 'Roppongi', and 'Azabudai Hills' markets in a **'3-Night 4-Day Christmas-Focused Itinerary'**, check out our final schedule guide below!
+If you're looking for the most efficient route to conquer the 'Ueno', 'Roppongi', and 'Azabudai Hills' markets in a <strong>'3-Night 4-Day Christmas-Focused Itinerary'</strong>, check out our final schedule guide below!
 
 <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>➡️ Tokyo 3-Night 4-Day Christmas Illumination Recommended Course & Christmas Markets (Complete Itinerary & Budget Guide)</strong></a>
 
@@ -101,13 +101,13 @@ You cannot discuss Tokyo's 2025 Christmas without these two locations. They will
 
 <h2>1. Ueno Park 'Christmas Advent'</h2>
 
-**"The New King of 2025! Japan's Largest Market Arrives in Tokyo"**
+<strong>"The New King of 2025! Japan's Largest Market Arrives in Tokyo"</strong>
 
-The star of Tokyo's 2025 Christmas. **'Christmas Advent'**, Japan's largest Christmas event that attracts over 12 million visitors annually in Fukuoka, is finally coming to Tokyo! More than just a market, this new concept cultural experience festival transforms the entire park into a massive 'theater' with fantastic illuminations and classical music. This will definitely be the hottest spot heating up Tokyo's winter in 2025—don't miss it!
+The star of Tokyo's 2025 Christmas. <strong>'Christmas Advent'</strong>, Japan's largest Christmas event that attracts over 12 million visitors annually in Fukuoka, is finally coming to Tokyo! More than just a market, this new concept cultural experience festival transforms the entire park into a massive 'theater' with fantastic illuminations and classical music. This will definitely be the hottest spot heating up Tokyo's winter in 2025—don't miss it!
 
-**🗓️ Dates: November 19 (Wed) - December 25 (Thu), 2025**
-**⏰ Hours: Daily 12:00 PM - 10:30 PM**
-**📍 Location: <a href="https://maps.app.goo.gl/n5upeajDoPH8BKf28" target="_blank">Ueno Onshi Park</a>, Hakamakoshi Plaza**
+<strong>🗓️ Dates: November 19 (Wed) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours: Daily 12:00 PM - 10:30 PM</strong>
+<strong>📍 Location: <a href="https://maps.app.goo.gl/n5upeajDoPH8BKf28" target="_blank">Ueno Onshi Park</a>, Hakamakoshi Plaza</strong>
 
 <!-- Link updated -->
 <a href="/posts/ueno-christmas-market-2025/" style="color: #667eea;"><strong>➡️ [Essential Guide] 2025 Tokyo Ueno Christmas Market: Dates, Hours, Illumination, Free Admission & Access Guide</strong></a>
@@ -117,7 +117,7 @@ The star of Tokyo's 2025 Christmas. **'Christmas Advent'**, Japan's largest Chri
   <figcaption style="font-size: 0.7em; text-align: center;">Stunning night view of Fukuoka Christmas Market coming to Ueno in 2025</figcaption>
 </figure>
 
-**🎄 2025 Highlights & Tips**
+<strong>🎄 2025 Highlights & Tips</strong>
 
 Japan's largest 'theater-style' festival. Bringing Fukuoka's prestige intact, it offers not just shop stalls but an atmosphere like a grand performance hall with fantastic light displays and heartwarming classical music.
 
@@ -126,11 +126,11 @@ Japan's largest 'theater-style' festival. Bringing Fukuoka's prestige intact, it
   <figcaption style="font-size: 0.7em; text-align: center;">Ueno Christmas Market 2025 panoramic night view</figcaption>
 </figure>
 
-**📌 Tip: Get the Limited Edition Mug!**
-The **'Original Commemorative Mug'** that's hugely popular every year in Fukuoka will also be sold as a **'Ueno Park Limited Edition'**. When you order warm glühwein (mulled wine), it comes in a special design mug unique to this location that you can take home as a souvenir.
+<strong>📌 Tip: Get the Limited Edition Mug!</strong>
+The <strong>'Original Commemorative Mug'</strong> that's hugely popular every year in Fukuoka will also be sold as a <strong>'Ueno Park Limited Edition'</strong>. When you order warm glühwein (mulled wine), it comes in a special design mug unique to this location that you can take home as a souvenir.
 
-**☀️ What to Do During the Day?**
-Ueno Park, where the market is held, is home to Japan's top cultural facilities including **Tokyo National Museum** and **National Museum of Western Art**. We recommend exploring the museums during the day, then heading to the Christmas market in the evening.
+<strong>☀️ What to Do During the Day?</strong>
+Ueno Park, where the market is held, is home to Japan's top cultural facilities including <strong>Tokyo National Museum</strong> and <strong>National Museum of Western Art</strong>. We recommend exploring the museums during the day, then heading to the Christmas market in the evening.
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration
@@ -147,35 +147,35 @@ Ueno Park, where the market is held, is home to Japan's top cultural facilities 
 
 <h2>2. Roppongi Hills Christmas Market</h2>
 
-**"Authentic German Vibes with Tokyo Tower Views, The Classic Christmas Market"**
+<strong>"Authentic German Vibes with Tokyo Tower Views, The Classic Christmas Market"</strong>
 
-Now in its 19th year as a symbol of Tokyo illumination. Roppongi Hills Christmas features the **'Christmas Market'** recreating the atmosphere of authentic Germany, along with the **'Keyakizaka Illumination'** shining with Tokyo Tower in the background, making Tokyo's winter nights the most romantic.
+Now in its 19th year as a symbol of Tokyo illumination. Roppongi Hills Christmas features the <strong>'Christmas Market'</strong> recreating the atmosphere of authentic Germany, along with the <strong>'Keyakizaka Illumination'</strong> shining with Tokyo Tower in the background, making Tokyo's winter nights the most romantic.
 
-**📍 Want detailed info on the 10 booth menus, glühwein, and original mugs at Roppongi Hills Market?**
+<strong>📍 Want detailed info on the 10 booth menus, glühwein, and original mugs at Roppongi Hills Market?</strong>
 
 <!-- Link updated -->
 <a href="/posts/roppongi-hills-christmas-market-2025/" style="color: #667eea;"><strong>➡️ [Essential Detailed Guide] 2025 Roppongi Hills Christmas Market: Dates, Hours, Location, Original Mugs Complete Guide</strong></a>
 
-**🗓️ Dates: November 22 (Sat) - December 25 (Thu), 2025**
-**⏰ Hours: 11:00 AM - 9:00 PM**
-**📍 Location: <a href="https://maps.app.goo.gl/yHi4DTS5ykmNxxj67" target="_blank">Roppongi Hills Oyane Plaza (大屋根プラザ)</a>**
+<strong>🗓️ Dates: November 22 (Sat) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours: 11:00 AM - 9:00 PM</strong>
+<strong>📍 Location: <a href="https://maps.app.goo.gl/yHi4DTS5ykmNxxj67" target="_blank">Roppongi Hills Oyane Plaza (大屋根プラザ)</a></strong>
 
-**⚠️ Most Important! Start dates differ!** The illumination starts November 4th, while the Christmas market starts November 22nd. Be sure to check what you can enjoy based on your visit date!
+<strong>⚠️ Most Important! Start dates differ!</strong> The illumination starts November 4th, while the Christmas market starts November 22nd. Be sure to check what you can enjoy based on your visit date!
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-05.jpg" alt="2025 Roppongi Hills Christmas Market panorama with signature German-style wooden booths">
   <figcaption style="font-size: 0.7em; text-align: center;">2025 Roppongi Hills Christmas Market panorama with signature German-style wooden booths</figcaption>
 </figure>
 
-**🎄 2025 Highlights & Tips**
+<strong>🎄 2025 Highlights & Tips</strong>
 
-**1. [Must-See] Keyakizaka Illumination (SNOW&BLUE)**
+<strong>1. [Must-See] Keyakizaka Illumination (SNOW&BLUE)</strong>
 A symbol of Tokyo illumination. The approximately 400m tree-lined avenue is bathed in blue and silver 'SNOW&BLUE' themed lights, creating a fantastic tunnel of light with Tokyo Tower.
 
-**🗓️ Dates: November 4 (Tue) - December 25 (Thu), 2025**
-**⏰ Hours: 5:00 PM - 11:00 PM**
+<strong>🗓️ Dates: November 4 (Tue) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours: 5:00 PM - 11:00 PM</strong>
 
-**📌 Tip: Best Photo Spots**
+<strong>📌 Tip: Best Photo Spots</strong>
 The most famous angles on 'Keyakizaka' street are: ① In front of 'Emporio Armani' ② The crosswalk in front of 'Louis Vuitton' ③ The pedestrian bridge in front of 'MINI' with Tokyo Tower in the background.
 
 <figure>
@@ -183,18 +183,18 @@ The most famous angles on 'Keyakizaka' street are: ① In front of 'Emporio Arma
   <figcaption style="font-size: 0.7em; text-align: center;">Blue illumination on Roppongi Hills Keyakizaka street with Tokyo Tower in the distance</figcaption>
 </figure>
 
-**2. 66 Plaza Illumination (Luminous Bouquet)**
+<strong>2. 66 Plaza Illumination (Luminous Bouquet)</strong>
 A colorful photo zone with various lights blending together under the 'Light Bouquet' theme.
 
-**🗓️ Dates: November 4 (Tue) - December 25 (Thu), 2025**
-**⏰ Hours: 5:00 PM - 12:00 AM**
+<strong>🗓️ Dates: November 4 (Tue) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours: 5:00 PM - 12:00 AM</strong>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-07.jpg" alt="Roppongi Hills 66 Plaza Light Bouquet Christmas illumination with Maman sculpture">
   <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Hills 66 Plaza Light Bouquet Christmas illumination with Maman sculpture</figcaption>
 </figure>
 
-**☀️ What to Do During the Day?**
+<strong>☀️ What to Do During the Day?</strong>
 Before the illumination lights up, we recommend visiting the 'Evangelion 30th Anniversary Special Exhibition' at the Roppongi Hills observatory or exploring the Mori Art Museum.
 
 <a href="/posts/evangelion-30th-roppongi-2025/" style="color: #667eea;"><strong>➡️ Evangelion 30th Anniversary Exhibition at Roppongi Hills Tokyo City View (ALL OF EVANGELION)</strong></a>
@@ -205,7 +205,7 @@ Before the illumination lights up, we recommend visiting the 'Evangelion 30th An
      Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Complete Guide to Roppongi Attractions (Illumination, Restaurant Info)</strong></a>
 
-**✅ View detailed info on 10 booth menus, glühwein, and mugs at the Christmas Market**
+<strong>✅ View detailed info on 10 booth menus, glühwein, and mugs at the Christmas Market</strong>
 
 <!-- Link updated -->
 <a href="/posts/roppongi-hills-christmas-market-2025/" style="color: #667eea;"><strong>➡️ 2025 Roppongi Hills Christmas Market: Dates, Hours, Location, Original Mugs Complete Guide</strong></a>
@@ -223,33 +223,33 @@ If you prioritize stunning night views and romantic atmosphere, these three plac
 
 <h2>3. Yokohama Akarenga Warehouse Christmas Market</h2>
 
-**"Seaside Red Brick Warehouse, Tokyo's Most Romantic Christmas Near Tokyo"**
+<strong>"Seaside Red Brick Warehouse, Tokyo's Most Romantic Christmas Near Tokyo"</strong>
 
 If you want the "most romantic Christmas," make the trip to Yokohama. Set between the red brick warehouses (Akarenga Soko) with the sea as backdrop, this market authentically recreates the atmosphere of Germany—truly like a scene from a movie. This year features the tallest Christmas tree ever at about 12m and a 30m 'Illumination Loop' for an even more fantastic landscape.
 
-**🗓️ Dates: November 21 (Fri) - December 25 (Thu), 2025**
-**⏰ Hours (vary by date):**
+<strong>🗓️ Dates: November 21 (Fri) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours (vary by date):</strong>
 - November 21 (Fri): 5:00 PM - 9:00 PM
 - November 22 (Sat) - December 5 (Fri): 11:00 AM - 9:00 PM
 - December 6 (Sat) - December 25 (Thu): 11:00 AM - 10:00 PM
 
-**📍 Location: <a href="https://maps.app.goo.gl/xPRAXk7MPcJsDcMj7" target="_blank">Yokohama Akarenga Warehouse Event Plaza (横浜赤レンガ倉庫)</a>**
-**💰 Admission: Paid** (from ¥500, varies by date) (※ Free for elementary school students and younger)
+<strong>📍 Location: <a href="https://maps.app.goo.gl/xPRAXk7MPcJsDcMj7" target="_blank">Yokohama Akarenga Warehouse Event Plaza (横浜赤レンガ倉庫)</a></strong>
+<strong>💰 Admission: Paid</strong> (from ¥500, varies by date) (※ Free for elementary school students and younger)
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-09.jpg" alt="Yokohama Akarenga Warehouse Christmas Market at night with giant tree" style="max-width: 100%;">
   <figcaption style="font-size: 0.7em; text-align: center;">Yokohama Akarenga Warehouse Christmas Market at night with giant tree (<a href="https://www.fashion-press.net/news/138795" target="_blank">Source</a>)</figcaption>
 </figure>
 
-**🎄 2025 Highlights & Tips**
+<strong>🎄 2025 Highlights & Tips</strong>
 
-**1. Score the Limited Edition Commemorative Mug**
-The real star of this market is the **'Original Commemorative Mug'** with new designs each year. Purchase separately along with glühwein (warm wine) on-site and keep it as a special souvenir.
+<strong>1. Score the Limited Edition Commemorative Mug</strong>
+The real star of this market is the <strong>'Original Commemorative Mug'</strong> with new designs each year. Purchase separately along with glühwein (warm wine) on-site and keep it as a special souvenir.
 
-**2. Save Time with 'Priority Entry Tickets'**
-On weekends and other crowded days, we recommend purchasing **'Priority Entry Tickets'** online in advance to reduce wait times.
+<strong>2. Save Time with 'Priority Entry Tickets'</strong>
+On weekends and other crowded days, we recommend purchasing <strong>'Priority Entry Tickets'</strong> online in advance to reduce wait times.
 
-**3. Enjoy 'Yokohama Park' Too**
+<strong>3. Enjoy 'Yokohama Park' Too</strong>
 If you have time, also check out another Christmas event at 'Yokohama Park' just a 15-minute walk away.
 
 <figure>
@@ -257,8 +257,8 @@ If you have time, also check out another Christmas event at 'Yokohama Park' just
   <figcaption style="font-size: 0.7em; text-align: center;">View of the sea from the 2nd floor of Yokohama Akarenga Warehouse</figcaption>
 </figure>
 
-**🌃 Recommended Connected Course**
-This is a perfect day trip course from Tokyo. We recommend exploring **'Chinatown'** or **'Minato Mirai'** during the day, then heading to the Christmas market in the evening.
+<strong>🌃 Recommended Connected Course</strong>
+This is a perfect day trip course from Tokyo. We recommend exploring <strong>'Chinatown'</strong> or <strong>'Minato Mirai'</strong> during the day, then heading to the Christmas market in the evening.
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration
@@ -281,39 +281,39 @@ This is a perfect day trip course from Tokyo. We recommend exploring **'Chinatow
 
 <h2>4. Azabudai Hills Christmas Market</h2>
 
-**"Closest to Tokyo Tower! Stylish Market at the New Hotspot"**
+<strong>"Closest to Tokyo Tower! Stylish Market at the New Hotspot"</strong>
 
-A new hotspot that successfully completed its first Christmas in 2024. The market in the spacious central plaza is less crowded than other places while offering the best night view spot with **Tokyo Tower right in front of you**.
+A new hotspot that successfully completed its first Christmas in 2024. The market in the spacious central plaza is less crowded than other places while offering the best night view spot with <strong>Tokyo Tower right in front of you</strong>.
 
 <!-- Link updated -->
 <a href="/posts/azabudai-hills-christmas-market-2025/" style="color: #667eea;"><strong>➡️ [Essential Detailed Guide] 2025 Azabudai Hills Christmas Market (Dates, Hours, Access, All 17 Booths Complete Guide)</strong></a>
 
-**🗓️ Dates: November 22 (Sat) - December 25 (Thu), 2025**
-**⏰ Hours: 11:00 AM - 9:00 PM**
-**📍 Location: <a href="https://maps.app.goo.gl/eF1RqbKdWdUqeUWZ9" target="_blank">Azabudai Hills Central Plaza (中央広場)</a>**
+<strong>🗓️ Dates: November 22 (Sat) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours: 11:00 AM - 9:00 PM</strong>
+<strong>📍 Location: <a href="https://maps.app.goo.gl/eF1RqbKdWdUqeUWZ9" target="_blank">Azabudai Hills Central Plaza (中央広場)</a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-12.jpg" alt="2025 Azabudai Hills Christmas Market entrance with brilliant lights">
   <figcaption style="font-size: 0.7em; text-align: center;">2025 Azabudai Hills Christmas Market entrance with brilliant lights</figcaption>
 </figure>
 
-**🎄 2025 Highlights & Tips**
+<strong>🎄 2025 Highlights & Tips</strong>
 
-**1. 17 Unique Shops**
-This year, a total of 17 shops open including **12 food and 5 merchandise** vendors. Notably, the renowned German Christmas decoration brand **'Käthe Wohlfahrt'** returns, offering delightful browsing of high-quality, adorable ornaments.
+<strong>1. 17 Unique Shops</strong>
+This year, a total of 17 shops open including <strong>12 food and 5 merchandise</strong> vendors. Notably, the renowned German Christmas decoration brand <strong>'Käthe Wohlfahrt'</strong> returns, offering delightful browsing of high-quality, adorable ornaments.
 
-**2. Champagne Gold Christmas Tree**
+<strong>2. Champagne Gold Christmas Tree</strong>
 A massive fir tree glowing warmly in champagne gold lighting stands in the central plaza, creating the best photo zone together with Tokyo Tower.
 
-**📌 Tip: Aim for 'Magic Hour'!** Visit around sunset to catch the 'magic hour' when both the market lights and Tokyo Tower illumination turn on together—the most beautiful way to enjoy this place.
+<strong>📌 Tip: Aim for 'Magic Hour'!</strong> Visit around sunset to catch the 'magic hour' when both the market lights and Tokyo Tower illumination turn on together—the most beautiful way to enjoy this place.
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-13.jpg" alt="Tokyo Tower night view shining beyond Azabudai Hills Christmas Market">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Tower night view shining beyond Azabudai Hills Christmas Market</figcaption>
 </figure>
 
-**☀️ What to Do During the Day?**
-Before the market opens, we recommend experiencing fantastic media art at Azabudai Hills' other attraction **'teamLab Borderless'**, or enjoying Tokyo's panoramic view at the **'Sky Room'** observatory cafe.
+<strong>☀️ What to Do During the Day?</strong>
+Before the market opens, we recommend experiencing fantastic media art at Azabudai Hills' other attraction <strong>'teamLab Borderless'</strong>, or enjoying Tokyo's panoramic view at the <strong>'Sky Room'</strong> observatory cafe.
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration
@@ -341,15 +341,15 @@ Before the market opens, we recommend experiencing fantastic media art at Azabud
 
 <h2>5. Tokyo Skytree Town Dream Christmas</h2>
 
-**"Under the Skytree, All-in-One Market with Shopping, Skating & More!"**
+<strong>"Under the Skytree, All-in-One Market with Shopping, Skating & More!"</strong>
 
 An all-in-one course where you can enjoy shopping, skating, illumination, and the market all at once with special Skytree lighting. Under the theme 'Christmas Party in the Sky,' the entire Skytree Town transforms into a spectacular festival venue.
 
-**🗓️ Dates: November 6 (Thu) - December 25 (Thu), 2025**
-**⏰ Hours: (Market) 11:00 AM - 10:00 PM / (Illumination) 4:00 PM - 11:00 PM**
-**📍 Location: <a href="https://maps.app.goo.gl/zzXxEQqi33DPXpXs7" target="_blank">Tokyo Skytree 4F Sky Arena (Market)</a>**
+<strong>🗓️ Dates: November 6 (Thu) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours: (Market) 11:00 AM - 10:00 PM / (Illumination) 4:00 PM - 11:00 PM</strong>
+<strong>📍 Location: <a href="https://maps.app.goo.gl/zzXxEQqi33DPXpXs7" target="_blank">Tokyo Skytree 4F Sky Arena (Market)</a></strong>
 
-For detailed 2025 official schedule, new menus including fresh baumkuchen and handmade donuts, 4m stollen, special lighting, and more latest info, check out the **[2025 Complete Guide]** below!
+For detailed 2025 official schedule, new menus including fresh baumkuchen and handmade donuts, 4m stollen, special lighting, and more latest info, check out the <strong>[2025 Complete Guide]</strong> below!
 
 <a href="/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Skytree Christmas Market Complete Guide (Schedule, 3 New Menu Items, Tips)</strong></a>
 
@@ -358,19 +358,19 @@ For detailed 2025 official schedule, new menus including fresh baumkuchen and ha
   <figcaption style="font-size: 0.7em; text-align: center;">2025 Tokyo Skytree Town Christmas Market panorama with Skytree</figcaption>
 </figure>
 
-**🎄 2025 Highlights & Tips**
+<strong>🎄 2025 Highlights & Tips</strong>
 
-**1. 'Storybook' Christmas Market**
-The market at 4F Sky Arena. This year's theme is **'Christmas Market in a Storybook'**, offering warm food and adorable goods in a fairy tale-like atmosphere.
+<strong>1. 'Storybook' Christmas Market</strong>
+The market at 4F Sky Arena. This year's theme is <strong>'Christmas Market in a Storybook'</strong>, offering warm food and adorable goods in a fairy tale-like atmosphere.
 
-**📌 Tip:** Try the 'Pan Stew (パンシチュー)'! **Hearty stew in a bread bowl** is perfect for warming up on a cold day.
+<strong>📌 Tip:</strong> Try the 'Pan Stew (パンシチュー)'! <strong>Hearty stew in a bread bowl</strong> is perfect for warming up on a cold day.
 
-**2. [NEW] Christmas Special Lighting**
+<strong>2. [NEW] Christmas Special Lighting</strong>
 This year marks the first-ever new Christmas special lighting design since Skytree's opening! Three themed lights—'Ornament Tree', 'Elegant Tree', and 'Santa Claus'—will colorfully adorn the Skytree.
 
-**⏰ Lighting Hours: 5:30 PM - 10:00 PM (until midnight on Christmas)**
+<strong>⏰ Lighting Hours: 5:30 PM - 10:00 PM (until midnight on Christmas)</strong>
 
-**3. Christmas Party in the Sky (Observatory)**
+<strong>3. Christmas Party in the Sky (Observatory)</strong>
 The Tembo Deck at 350m and Tembo Galleria at 450m are decorated with Christmas trees and photo zones. Capture unforgettable photos with Tokyo's night view spreading outside the windows.
 
 <figure>
@@ -378,8 +378,8 @@ The Tembo Deck at 350m and Tembo Galleria at 450m are decorated with Christmas t
   <figcaption style="font-size: 0.7em; text-align: center;">New Christmas special lighting planned for Tokyo Skytree in 2025</figcaption>
 </figure>
 
-**☀️ What to Do During the Day?**
-Before the market opens, we recommend exploring **'Tokyo Solamachi'** shopping mall right below Skytree, or combining it with a stroll through **Asakusa's** Sensoji Temple and Nakamise-dori across the river.
+<strong>☀️ What to Do During the Day?</strong>
+Before the market opens, we recommend exploring <strong>'Tokyo Solamachi'</strong> shopping mall right below Skytree, or combining it with a stroll through <strong>Asakusa's</strong> Sensoji Temple and Nakamise-dori across the river.
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration
@@ -400,15 +400,15 @@ Recommended for those who want to pop in and soak up Christmas atmosphere while 
 
 <h2>6. Meiji Jingu Gaien 'Tokyo Christmas Market'</h2>
 
-**"Into the Brothers Grimm Fairy Tales! Fantasy Christmas"**
+<strong>"Into the Brothers Grimm Fairy Tales! Fantasy Christmas"</strong>
 
-The 'Tokyo Christmas Market' carrying on the legacy of the former Hibiya Park market is held at two locations in 2025. One of the main venues, 'Jingu Gaien (Meiji Shrine Outer Garden)' creates a colorful, fantastical festival atmosphere with **Brothers Grimm fairy tales and European stories** as its theme, immersed in diverse lights and music.
+The 'Tokyo Christmas Market' carrying on the legacy of the former Hibiya Park market is held at two locations in 2025. One of the main venues, 'Jingu Gaien (Meiji Shrine Outer Garden)' creates a colorful, fantastical festival atmosphere with <strong>Brothers Grimm fairy tales and European stories</strong> as its theme, immersed in diverse lights and music.
 
-**🗓️ Dates: November 21 (Fri) - December 25 (Thu), 2025**
-**⏰ Hours: First day 4:00 PM - 9:30 PM, Other days 11:00 AM - 9:30 PM**
-**📍 Location: <a href="https://maps.app.goo.gl/8qJdA1EqRALgF4wM8" target="_blank">Meiji Jingu Gaien, in front of Seitoku Memorial Picture Gallery</a>**
+<strong>🗓️ Dates: November 21 (Fri) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours: First day 4:00 PM - 9:30 PM, Other days 11:00 AM - 9:30 PM</strong>
+<strong>📍 Location: <a href="https://maps.app.goo.gl/8qJdA1EqRALgF4wM8" target="_blank">Meiji Jingu Gaien, in front of Seitoku Memorial Picture Gallery</a></strong>
 
-**🎄 Recommended for:**
+<strong>🎄 Recommended for:</strong>
 - Those who want to enjoy ginkgo avenue autumn leaves and Christmas market on the same day
 - Those who love giant Christmas pyramids and brilliant lighting atmosphere
 - Those looking for a market with strong festival vibes in the city center
@@ -428,23 +428,23 @@ The 'Tokyo Christmas Market' carrying on the legacy of the former Hibiya Park ma
   <figcaption style="font-size: 0.7em; text-align: center;">Meiji Jingu Gaien Ginkgo Avenue where 2025 Tokyo Christmas Market will be held</figcaption>
 </figure>
 
-**🎄 2025 Highlights & Tips**
+<strong>🎄 2025 Highlights & Tips</strong>
 
-**1. 'Tokyo Christmas Market' Split into Two Venues! (Jingu Gaien vs Shiba Park)**
-The **'Tokyo Christmas Market'** that used to be held at Hibiya Park is now split into **two locations** with different themes. For fantasy and brilliant festival vibes go to **✅'Jingu Gaien'**, for Tokyo Tower night views with authentic German atmosphere go to **✅'Shiba Park'**!
+<strong>1. 'Tokyo Christmas Market' Split into Two Venues! (Jingu Gaien vs Shiba Park)</strong>
+The <strong>'Tokyo Christmas Market'</strong> that used to be held at Hibiya Park is now split into <strong>two locations</strong> with different themes. For fantasy and brilliant festival vibes go to <strong>✅'Jingu Gaien'</strong>, for Tokyo Tower night views with authentic German atmosphere go to <strong>✅'Shiba Park'</strong>!
 
-**2. Giant 'Christmas Pyramid'**
+<strong>2. Giant 'Christmas Pyramid'</strong>
 A massive 14m-tall 'Christmas Pyramid' will be installed. (World's first with 2 in one city!) The ultimate photo zone creating an exotic fairy tale atmosphere.
 
-**📌 Tip:** Recommended Food & Goods—Try warm glühwein (wine), sausages, stollen (German bread) and other authentic German food, and aim for the limited edition commemorative mug only available here.
+<strong>📌 Tip:</strong> Recommended Food & Goods—Try warm glühwein (wine), sausages, stollen (German bread) and other authentic German food, and aim for the limited edition commemorative mug only available here.
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-21.jpg" alt="Tokyo Christmas Market foods: warm glühwein and sausages">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Christmas Market foods: warm glühwein and sausages</figcaption>
 </figure>
 
-**☀️ What to Do During the Day?**
-Before the market opens, we recommend shopping and cafe hopping in nearby **'Omotesando'**, or heading to **'Shinjuku'** for a stroll through Shinjuku Gyoen.
+<strong>☀️ What to Do During the Day?</strong>
+Before the market opens, we recommend shopping and cafe hopping in nearby <strong>'Omotesando'</strong>, or heading to <strong>'Shinjuku'</strong> for a stroll through Shinjuku Gyoen.
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration
@@ -459,29 +459,29 @@ Before the market opens, we recommend shopping and cafe hopping in nearby **'Omo
 
 <h2>7. Shiba Park 'Tokyo Christmas Market'</h2>
 
-**"Right Under Tokyo Tower! Authentic German Christmas"**
+<strong>"Right Under Tokyo Tower! Authentic German Christmas"</strong>
 
-Another venue for the 'Tokyo Christmas Market' carrying on Hibiya Park's legacy. Unlike Jingu Gaien's fantasy atmosphere, this location focuses on **recreating traditional German atmosphere**. Above all, the landscape with **Tokyo Tower right in front as the backdrop** boasts an overwhelming view you can't see at any other market.
+Another venue for the 'Tokyo Christmas Market' carrying on Hibiya Park's legacy. Unlike Jingu Gaien's fantasy atmosphere, this location focuses on <strong>recreating traditional German atmosphere</strong>. Above all, the landscape with <strong>Tokyo Tower right in front as the backdrop</strong> boasts an overwhelming view you can't see at any other market.
 
-**🗓️ Dates: December 5 (Fri) - December 25 (Thu), 2025**
-**⏰ Hours: First day 4:00 PM - 10:00 PM, Other days 11:00 AM - 10:00 PM**
-**📍 Location: <a href="https://maps.app.goo.gl/6wTPL53Qd46GNHMp8" target="_blank">Tokyo Metropolitan Shiba Park Zone 4 Plaza</a>**
-**💰 Admission: Paid** (from ¥1,000, varies by date)
+<strong>🗓️ Dates: December 5 (Fri) - December 25 (Thu), 2025</strong>
+<strong>⏰ Hours: First day 4:00 PM - 10:00 PM, Other days 11:00 AM - 10:00 PM</strong>
+<strong>📍 Location: <a href="https://maps.app.goo.gl/6wTPL53Qd46GNHMp8" target="_blank">Tokyo Metropolitan Shiba Park Zone 4 Plaza</a></strong>
+<strong>💰 Admission: Paid</strong> (from ¥1,000, varies by date)
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-22.jpg" alt="2025 Tokyo Shiba Park Christmas Market venue with Tokyo Tower majestically lit in the background">
   <figcaption style="font-size: 0.7em; text-align: center;">2025 Tokyo Shiba Park Christmas Market venue with Tokyo Tower majestically lit in the background</figcaption>
 </figure>
 
-**🎄 2025 Highlights & Tips**
+<strong>🎄 2025 Highlights & Tips</strong>
 
-**1. Giant 'Christmas Pyramid'**
+<strong>1. Giant 'Christmas Pyramid'</strong>
 A massive 14m-tall 'Christmas Pyramid' will be installed here too. (World's first with 2 in one city!)
 
-**2. Choose Based on Your Preference: 'Jingu Gaien' or Here!**
+<strong>2. Choose Based on Your Preference: 'Jingu Gaien' or Here!</strong>
 This year's 'Tokyo Christmas Market' is held at two locations.
-- For fantasy and **brilliant festival** vibes → **✅'Jingu Gaien'**
-- For Tokyo Tower night views and warm **authentic German atmosphere** → **✅'Shiba Park'**
+- For fantasy and <strong>brilliant festival</strong> vibes → <strong>✅'Jingu Gaien'</strong>
+- For Tokyo Tower night views and warm <strong>authentic German atmosphere</strong> → <strong>✅'Shiba Park'</strong>
 
 <div class="image-group-2">
   <figure>
@@ -493,8 +493,8 @@ This year's 'Tokyo Christmas Market' is held at two locations.
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Christmas Market souvenirs: German-style wooden figurines</figcaption>
 </div>
 
-**☀️ What to Do During the Day?**
-Before the market opens, we recommend visiting the massive temple **'Zojoji (増上寺)'** right next door to enjoy the special scenery of the traditional temple harmonizing with Tokyo Tower. If you have time, consider going up **'Tokyo Tower'** itself to enjoy Tokyo's panoramic view, then coming down to the market in the evening—a perfect day course.
+<strong>☀️ What to Do During the Day?</strong>
+Before the market opens, we recommend visiting the massive temple <strong>'Zojoji (増上寺)'</strong> right next door to enjoy the special scenery of the traditional temple harmonizing with Tokyo Tower. If you have time, consider going up <strong>'Tokyo Tower'</strong> itself to enjoy Tokyo's panoramic view, then coming down to the market in the evening—a perfect day course.
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-25.jpg" alt="Tokyo Tower, great to visit together during daytime">
@@ -505,16 +505,16 @@ Before the market opens, we recommend visiting the massive temple **'Zojoji (増
 
 <h2>8. Ebisu Garden Place Christmas Market</h2>
 
-**"Tokyo's Most Romantic Christmas! World's Largest Baccarat Chandelier"**
+<strong>"Tokyo's Most Romantic Christmas! World's Largest Baccarat Chandelier"</strong>
 
-If you ask for "Tokyo's most romantic Christmas," this is undoubtedly the place. The world's largest **'Baccarat Chandelier'** commands an overwhelming presence, harmonizing with European-style buildings to create an atmosphere more elegant and romantic than anywhere else. Markets are held at two locations: **'Clock Plaza'** and **'Chateau Plaza'**.
+If you ask for "Tokyo's most romantic Christmas," this is undoubtedly the place. The world's largest <strong>'Baccarat Chandelier'</strong> commands an overwhelming presence, harmonizing with European-style buildings to create an atmosphere more elegant and romantic than anywhere else. Markets are held at two locations: <strong>'Clock Plaza'</strong> and <strong>'Chateau Plaza'</strong>.
 
-**🗓️ Market Dates:**
+<strong>🗓️ Market Dates:</strong>
 - Clock Plaza: November 8 (Sat) - December 25 (Thu)
 - Chateau Plaza: November 28 (Fri) - December 25 (Thu)
 
-**⏰ Hours: Weekdays 5:00 PM - 8:00 PM / Weekends 12:00 PM - 8:00 PM**
-**📍 Location: <a href="https://maps.app.goo.gl/eib8Ba54QDnuWYzs8" target="_blank">Ebisu Garden Place (Clock Plaza, Chateau Plaza)</a>**
+<strong>⏰ Hours: Weekdays 5:00 PM - 8:00 PM / Weekends 12:00 PM - 8:00 PM</strong>
+<strong>📍 Location: <a href="https://maps.app.goo.gl/eib8Ba54QDnuWYzs8" target="_blank">Ebisu Garden Place (Clock Plaza, Chateau Plaza)</a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-26.jpg" alt="2024 Tokyo Ebisu Garden Place Clock Plaza Christmas Market with 10m Christmas tree">
@@ -526,25 +526,25 @@ If you ask for "Tokyo's most romantic Christmas," this is undoubtedly the place.
   <figcaption style="font-size: 0.7em; text-align: center;">Ebisu Garden Place Chateau Plaza Christmas Market</figcaption>
 </figure>
 
-**🎄 2025 Highlights & Tips**
+<strong>🎄 2025 Highlights & Tips</strong>
 
-**1. [Must-See] Baccarat Chandelier (Baccarat ETERNAL LIGHTS)**
+<strong>1. [Must-See] Baccarat Chandelier (Baccarat ETERNAL LIGHTS)</strong>
 The world's largest Baccarat chandelier—5m tall, 3m wide, with 8,500 crystals. The mystical light from 250 lamps is a work of art in itself.
 
-**⏰ Lighting Hours: 11:00 AM - 11:00 PM**
+<strong>⏰ Lighting Hours: 11:00 AM - 11:00 PM</strong>
 
-**2. Aim for the 'Westin Hotel' Food Truck!**
-At Clock Plaza, **'The Westin Tokyo'** operates its own food truck. Enjoy high-quality hot wine, rich hot chocolate, and warm borscht (soup).
+<strong>2. Aim for the 'Westin Hotel' Food Truck!</strong>
+At Clock Plaza, <strong>'The Westin Tokyo'</strong> operates its own food truck. Enjoy high-quality hot wine, rich hot chocolate, and warm borscht (soup).
 
-**📌 Tip:** The Christmas market starts at 5 PM on weekdays! Check the hours before visiting to avoid disappointment! (Weekends start at noon)
+<strong>📌 Tip:</strong> The Christmas market starts at 5 PM on weekdays! Check the hours before visiting to avoid disappointment! (Weekends start at noon)
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-28.jpg" alt="Night view of the world's largest Baccarat chandelier, symbol of Ebisu Garden Place">
   <figcaption style="font-size: 0.7em; text-align: center;">Night view of the world's largest Baccarat chandelier, symbol of Ebisu Garden Place</figcaption>
 </figure>
 
-**☀️ What to Do During the Day?**
-Before the illumination starts, we recommend enjoying beer tasting at the **'Yebisu Beer Museum (Yebisu Brewery Tokyo)'** right next door, or having lunch at one of the stylish surrounding restaurants.
+<strong>☀️ What to Do During the Day?</strong>
+Before the illumination starts, we recommend enjoying beer tasting at the <strong>'Yebisu Beer Museum (Yebisu Brewery Tokyo)'</strong> right next door, or having lunch at one of the stylish surrounding restaurants.
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration
@@ -563,12 +563,12 @@ From the exciting energy of Ueno to the classic romance of Roppongi, to Yokohama
 
 We hope this guide helps you find the perfect place that matches your taste and create unforgettable winter memories!
 
-**🎄 For the best Tokyo 'illumination' spots to enhance your Christmas market experience, check the article below!**
+<strong>🎄 For the best Tokyo 'illumination' spots to enhance your Christmas market experience, check the article below!</strong>
 
 <!-- Link updated -->
 <a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5</strong></a>
 
-**⭐ Related Articles**
+<strong>⭐ Related Articles</strong>
 
 <!-- Link updated -->
 <!-- TODO: Update link after migration

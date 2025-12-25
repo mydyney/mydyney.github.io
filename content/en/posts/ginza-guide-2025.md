@@ -40,7 +40,7 @@ Ginza's symbol and meeting place. This intersection where the majestic Wako depa
 
 On weekend and holiday afternoons, Ginza's central street transforms into a massive pedestrian paradise. With vehicles blocked, parasols set up in the middle of the road, countless people freely stroll the streets enjoying shopping and leisure in this special pedestrian paradise experience.
 
-✔️ **Operating Hours** (as of August 31, 2025)
+✔️ <strong>Operating Hours</strong> (as of August 31, 2025)
 
 Today until 6 PM, Ginza Chuo Dori is a pedestrian paradise! Experience the special opportunity to walk right down the middle of Ginza's streets.
 
@@ -77,7 +77,7 @@ Planning to shop at Ginza's department stores and duty-free shops? Beyond the ba
 
 ### ① Premium Liquor Shopping (Duty-Free & Liquor Shops)
 
-**Ginza Lotte Duty Free**
+<strong>Ginza Lotte Duty Free</strong>
 
 The best place to buy Japanese premium sake like Dassai 23 and Yamazaki at the lowest prices.
 
@@ -98,7 +98,7 @@ The best place to buy Japanese premium sake like Dassai 23 and Yamazaki at the l
   <figcaption style="font-size: 0.7em; text-align: center;">Ginza shopping essential course, Lotte Duty Free Dassai 23</figcaption>
 </figure>
 
-**Imadeya Ginza**
+<strong>Imadeya Ginza</strong>
 
 A premium liquor shop where you can find rare sake from all regions of Japan.
 
@@ -114,7 +114,7 @@ A premium liquor shop where you can find rare sake from all regions of Japan.
 
 ### ② Special Travel Gifts
 
-**Shiseido Parlour**
+<strong>Shiseido Parlour</strong>
 
 100 years of tradition, the place to find elegant desserts and gifts.
 
@@ -128,7 +128,7 @@ A premium liquor shop where you can find rare sake from all regions of Japan.
   <figcaption style="font-size: 0.7em; text-align: center;">Shiseido Parlour's beautiful dessert gift sets</figcaption>
 </figure>
 
-**Ginza Itoya**
+<strong>Ginza Itoya</strong>
 
 A 100-year-old stationery store. The entire building is filled with stylish design stationery.
 
@@ -139,7 +139,7 @@ A 100-year-old stationery store. The entire building is filled with stylish desi
   <figcaption style="font-size: 0.7em; text-align: center;">Ginza Itoya entrance</figcaption>
 </figure>
 
-**Kuya - Monaka**
+<strong>Kuya - Monaka</strong>
 
 140 years of tradition, the legendary Japanese confectionery shop in Ginza that even Natsume Soseki loved. With its rarity (hard to get without reservation) and elegant taste that's not too sweet, it's the perfect choice for a dignified gift for parents or elders.
 
@@ -150,9 +150,9 @@ A 100-year-old stationery store. The entire building is filled with stylish desi
 
 ### ③ Budget-Friendly Shopping Spots
 
-- **Don Quijote Ginza Main Store**: 24-hour shopping anytime
-- **Ginza Loft**: Latest cosmetics and snacks from all over Japan
-- **OK Mart Ginza**: Discount supermarket for affordable Japanese groceries
+- <strong>Don Quijote Ginza Main Store</strong>: 24-hour shopping anytime
+- <strong>Ginza Loft</strong>: Latest cosmetics and snacks from all over Japan
+- <strong>OK Mart Ginza</strong>: Discount supermarket for affordable Japanese groceries
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-09.jpg" alt="Don Quijote Ginza main store Sanrio towel cap">
@@ -165,7 +165,7 @@ Is Ginza only expensive? We've gathered everything from Michelin stars to budget
 
 ### ① Reliable Meals
 
-**Yamanoue - Tempura Omakase** ¥10,000+
+<strong>Yamanoue - Tempura Omakase</strong> ¥10,000+
 
 Michelin-starred tempura at reasonable lunch prices!
 
@@ -179,7 +179,7 @@ Michelin-starred tempura at reasonable lunch prices!
   <figcaption style="font-size: 0.7em; text-align: center;">Yamanoue tempura omakase fresh ingredients</figcaption>
 </figure>
 
-**Sumiyaki Unafuji - Eel Bowl** ¥5,000 ~ 6,000
+<strong>Sumiyaki Unafuji - Eel Bowl</strong> ¥5,000 ~ 6,000
 
 Crispy outside, tender inside - life-changing eel bowl from a Nagoya Michelin restaurant.
 
@@ -193,7 +193,7 @@ Crispy outside, tender inside - life-changing eel bowl from a Nagoya Michelin re
   <figcaption style="font-size: 0.7em; text-align: center;">Sumiyaki Unafuji eel set meal</figcaption>
 </figure>
 
-**Ginza Tenryu - Gyoza** ¥1,000 ~ 2,000
+<strong>Ginza Tenryu - Gyoza</strong> ¥1,000 ~ 2,000
 
 70 years of tradition, giant gyoza bursting with juices.
 
@@ -207,7 +207,7 @@ Crispy outside, tender inside - life-changing eel bowl from a Nagoya Michelin re
   <figcaption style="font-size: 0.7em; text-align: center;">Ginza Tenryu grilled gyoza</figcaption>
 </figure>
 
-**Ginza Hachigo - Ramen** ¥1,000 ~ 2,000
+<strong>Ginza Hachigo - Ramen</strong> ¥1,000 ~ 2,000
 
 Michelin Bib Gourmand, 6 consecutive years Tabelog Ramen Top 100 - a true local favorite ramen spot.
 
@@ -221,7 +221,7 @@ Michelin Bib Gourmand, 6 consecutive years Tabelog Ramen Top 100 - a true local 
   <figcaption style="font-size: 0.7em; text-align: center;">Ginza Hachigo special chuka soba (source)</figcaption>
 </figure>
 
-**New Castle - Curry** ¥1,000 ~ 2,000
+<strong>New Castle - Curry</strong> ¥1,000 ~ 2,000
 
 Since 1946, Tabelog Top 100 curry that even Kabuki actors visit - curry only menu!
 
@@ -232,7 +232,7 @@ Since 1946, Tabelog Top 100 curry that even Kabuki actors visit - curry only men
 
 ### ② Elegant Cafe & Snack Time
 
-**WAKO Tea Salon** ¥2,000 ~ 3,000
+<strong>WAKO Tea Salon</strong> ¥2,000 ~ 3,000
 
 Classic parfait at Ginza's symbol, Wako department store.
 
@@ -246,7 +246,7 @@ Classic parfait at Ginza's symbol, Wako department store.
   <figcaption style="font-size: 0.7em; text-align: center;">Ginza WAKO Tea Salon's gorgeous Mont Blanc cake</figcaption>
 </figure>
 
-**Tricolore Main Store** ¥1,000 ~ 2,000
+<strong>Tricolore Main Store</strong> ¥1,000 ~ 2,000
 
 Retro cafe with classic coffee shop atmosphere, famous for morning sets and latte performance.
 
@@ -255,7 +255,7 @@ Retro cafe with classic coffee shop atmosphere, famous for morning sets and latt
   <figcaption style="font-size: 0.7em; text-align: center;">Tricolore main store apple pie</figcaption>
 </figure>
 
-**Akebono Senbei Ginza Main Store** ¥1~1,000
+<strong>Akebono Senbei Ginza Main Store</strong> ¥1~1,000
 
 Famous for sweet mochi (daifuku) made with seasonal fruits.
 
@@ -269,7 +269,7 @@ Famous for sweet mochi (daifuku) made with seasonal fruits.
   <figcaption style="font-size: 0.7em; text-align: center;">Akebono senbei strawberry daifuku (ichigo daifuku)</figcaption>
 </figure>
 
-**Pain Maison Ginza** ¥1~1,000
+<strong>Pain Maison Ginza</strong> ¥1~1,000
 
 Crispy outside, soft inside - Ginza's hottest salt bread.
 
@@ -285,7 +285,7 @@ Crispy outside, soft inside - Ginza's hottest salt bread.
 
 ### ③ Perfect End to the Day
 
-**Sapporo The Bar** ¥1,000 ~ 2,000
+<strong>Sapporo The Bar</strong> ¥1,000 ~ 2,000
 
 The happiness of a glass of 'Perfect Kuro Label' draft beer poured by an expert.
 
@@ -301,7 +301,7 @@ The happiness of a glass of 'Perfect Kuro Label' draft beer poured by an expert.
 
 ## 🚶‍♂️ Enjoy Ginza Like This! (Recommended Half-Day Course)
 
-**[Morning] Tsukiji Market → [Afternoon] Ginza**
+<strong>[Morning] Tsukiji Market → [Afternoon] Ginza</strong>
 
 After filling up on fresh seafood and street food at the lively Tsukiji Market in the morning, I recommend walking to Ginza. The dramatic contrast between the market's down-to-earth atmosphere and Ginza's sophisticated vibe lets you experience Tokyo's diverse charms all in one day.
 

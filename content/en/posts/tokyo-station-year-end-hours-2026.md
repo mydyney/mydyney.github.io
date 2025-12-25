@@ -15,7 +15,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
   <figcaption style="font-size: 0.85em; text-align: center;">2026 Tokyo Station Character Street Year-End Business Hours Information</figcaption>
 </figure>
 
-Planning a Tokyo trip for New Year 2026? Here's a complete breakdown of Tokyo Station Character Street, Ramen Street, and Okashi Land business hours for the year-end holiday period (December 31 - January 3). **Important: Most shops close early or are closed on January 1st!**
+Planning a Tokyo trip for New Year 2026? Here's a complete breakdown of Tokyo Station Character Street, Ramen Street, and Okashi Land business hours for the year-end holiday period (December 31 - January 3). <strong>Important: Most shops close early or are closed on January 1st!</strong>
 
 Hello! This is Tokyo Mate, your complete guide to everything Tokyo. 🗼
 
@@ -60,22 +60,22 @@ Character Street, home to popular character shops like Chiikawa, Pokemon, and Gh
   </tbody>
 </table>
 
-**⚠️ Important:** January 1st closes at 6 PM! Plan your visit before evening.
+<strong>⚠️ Important:</strong> January 1st closes at 6 PM! Plan your visit before evening.
 
 ### 🎁 Character Street Highlights
 
-- **Pokemon Store:** Limited New Year goods
-- **Ghibli Store:** Totoro New Year merchandise
-- **Chiikawa Shop:** Seasonal items
-- **Jump Shop:** Anime character goods
+- <strong>Pokemon Store:</strong> Limited New Year goods
+- <strong>Ghibli Store:</strong> Totoro New Year merchandise
+- <strong>Chiikawa Shop:</strong> Seasonal items
+- <strong>Jump Shop:</strong> Anime character goods
 
 🤩 We've compiled everything from Chiikawa Land queue tickets and Sanrio collaboration goods to the recently grand-opened Sanrio and Dragon Ball stores on the 1st floor. Make sure to read this before you go!
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224111977613 -->
-**👉 Tokyo Station Character Street Access, Hours & Tax-Free Complete Guide (Chiikawa/Pokemon/Dragon Ball)**
+<strong>👉 Tokyo Station Character Street Access, Hours & Tax-Free Complete Guide (Chiikawa/Pokemon/Dragon Ball)</strong>
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223691371517 -->
-**👉 Tokyo Station Pokemon Store & Pikachu Card Review**
+<strong>👉 Tokyo Station Pokemon Store & Pikachu Card Review</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-02.jpg" alt="Tokyo Station Character Street Shop Guide">
@@ -182,12 +182,12 @@ These close at 6 PM on January 1st. (Last order 17:30)
 
 ### 🍜 Tokyo Mate Note!
 
-**Rokurinsha** runs from 7:30 AM to 11 PM even on January 1st! If you're planning your first ramen of the new year, Rokurinsha is the safest choice. However, expect massive queues. 😂
+<strong>Rokurinsha</strong> runs from 7:30 AM to 11 PM even on January 1st! If you're planning your first ramen of the new year, Rokurinsha is the safest choice. However, expect massive queues. 😂
 
 🤩 Curious about what 'Rokurinsha' or 'Ikaruga' (open on Jan 1) taste like? Check out my detailed review of all Ramen Street menus to choose your dish.
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223707471582 -->
-**👉 Tokyo Ramen Street Best 8 Complete Guide**
+<strong>👉 Tokyo Ramen Street Best 8 Complete Guide</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-03.jpg" alt="Tokyo Station Ramen Street Rokurinsha Tsukemen">
@@ -231,9 +231,9 @@ After these times, shops remain open but you cannot order 'freshly made items.'
 
 #### 1. Calbee Plus 🍟
 
-**Dec 20 (Sat) - Jan 4 (Sun):** Soft drinks not available
+<strong>Dec 20 (Sat) - Jan 4 (Sun):</strong> Soft drinks not available
 
-**Tip:** To get freshly fried potato chips on January 1st, arrive before 5:30 PM.
+<strong>Tip:</strong> To get freshly fried potato chips on January 1st, arrive before 5:30 PM.
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -268,16 +268,16 @@ Jan 2-3: Last order 90 minutes before closing (19:30 order cutoff)
 
 If you need last-minute souvenirs before returning home, go here!
 
-- **TOKYO BANANA's:** 10:00 - 19:00
-- **Tokyo Miyage Center:** 09:00 - 21:00 (Latest closing!)
-- **Kyobashi Sembikiya:** 10:00 - 18:00
+- <strong>TOKYO BANANA's:</strong> 10:00 - 19:00
+- <strong>Tokyo Miyage Center:</strong> 09:00 - 21:00 (Latest closing!)
+- <strong>Kyobashi Sembikiya:</strong> 10:00 - 18:00
 
 ### 📌 Target Tokyo Station Exclusives Not at Airports!
 
 Don't wait in crowded airport duty-free lines during the year-end rush. 'Tokyo Banana Crème Brûlée' available only at Tokyo Station has a generous 20-day shelf life, perfect for buying in advance. (※ Sold at specific locations like 1F Gift Kiosk—check the location in the article below!)
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224102752117 -->
-**👉 Tokyo Station Tokyo Banana Crème Brûlée Locations & Prices (20-day shelf life!)**
+<strong>👉 Tokyo Station Tokyo Banana Crème Brûlée Locations & Prices (20-day shelf life!)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="Tokyo Station Okashi Land Entrance">
@@ -297,7 +297,7 @@ These close on New Year's Day. Visit from January 2nd!
 Now it's time for a food tour! If you're at Okashi Land, freshly fried 'Jagariko (Poterico)' is a must, not optional! Check tips to avoid Calbee Plus queues and limited-time menu info in the article below.
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224111977613 -->
-**👉 Tokyo Station Okashi Land Access | Freshly Fried Jagariko & Calbee Menu Recommendations**
+<strong>👉 Tokyo Station Okashi Land Access | Freshly Fried Jagariko & Calbee Menu Recommendations</strong>
 
 ## 4. Nippon Gourmet Street & Tokyo Station Underground Restaurants 🍣
 
@@ -393,10 +393,10 @@ Arrive by 5 PM at the latest for meals!
 
 ### 🍣 Other B1 Area Restaurants OPEN on January 1st
 
-- **Kantaro Sushi** (Seated): 11:00 - 18:00 (⚠️ Closes at 6 PM!)
-- **Tokyo Craft Beer Stand**: 10:00 - 18:00
-- **Echigo Soba**: 11:00 - 18:00
-- **Yakitori Ichidori**: 11:00 - 20:00
+- <strong>Kantaro Sushi</strong> (Seated): 11:00 - 18:00 (⚠️ Closes at 6 PM!)
+- <strong>Tokyo Craft Beer Stand</strong>: 10:00 - 18:00
+- <strong>Echigo Soba</strong>: 11:00 - 18:00
+- <strong>Yakitori Ichidori</strong>: 11:00 - 20:00
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-05.jpg" alt="Tokyo Station Nippon Gourmet Street Map">
@@ -410,7 +410,7 @@ Did today's Tokyo Station Ichibangai business hours help you? 😊 Year-end Toky
 We've compiled January 1st closures and first sale (Hatsuuri) information for major Tokyo department stores and shopping malls like Shinjuku Isetan and Ginza Mitsukoshi. Check to avoid wasted trips!
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224112740096 -->
-**👉 2026 Tokyo Year-End Closures & Business Hours Complete Guide**
+<strong>👉 2026 Tokyo Year-End Closures & Business Hours Complete Guide</strong>
 
 ## 🎄 Don't Miss THIS After Shopping!
 
@@ -418,7 +418,7 @@ A 1.2km champagne gold spectacle unfolds right outside Tokyo Station!
 
 ✨ Check out Marunouchi Illumination hotspots and dates for a romantic evening.
 
-[👉 **Tokyo Marunouchi Illumination 2025 Period, Hours & Best Spots Complete Guide**](/posts/marunouchi-illumination-2025/)
+[👉 <strong>Tokyo Marunouchi Illumination 2025 Period, Hours & Best Spots Complete Guide</strong>](/posts/marunouchi-illumination-2025/)
 
 
 <div class="editors-note">

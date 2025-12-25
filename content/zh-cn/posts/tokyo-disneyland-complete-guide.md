@@ -29,7 +29,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 第一个决定：东京迪士尼乐园还是东京迪士尼海洋？
 
-**结论：** 「带小孩选迪士尼乐园，成人选迪士尼海洋」通常满意度最高。
+<strong>结论：</strong> 「带小孩选迪士尼乐园，成人选迪士尼海洋」通常满意度最高。
 
 <table class="schedule-table">
 <thead>
@@ -87,63 +87,63 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 ### ① [必读] 变动价格制与预约技巧
 
-**✅ 变动价格制**
+<strong>✅ 变动价格制</strong>
 - 根据日期与拥挤程度价格变动
 - 官方日历确认日期别准确价格
 - 例：成人 7,900日元 ～ 10,900日元
 
-**✅ 购买方法**
+<strong>✅ 购买方法</strong>
 - 现场售票处已废止！
 - 推荐在线预约
 - 使用官网/App或中文服务平台
 
-**✅ 取消·变更**
+<strong>✅ 取消·变更</strong>
 - 单纯改变主意不退款
 - （但有效期内可变更日期）
 
-**✅ 预约开始**
+<strong>✅ 预约开始</strong>
 - 入园日2个月前可预约
 
 ### ② 门票种类（1日券 vs 午后券）
 
-**✅ 1日护照（全天）**
+<strong>✅ 1日护照（全天）</strong>
 - 从开园到闭园全程使用
 - 成人：7,900日元 ～ 10,900日元
 - 初高中生：6,600日元 ～ 9,000日元
 - 儿童·小学生：4,700日元 ～ 5,600日元
 - （※ 3岁以下免费）
 
-**✅ 午后券（优惠！）**
+<strong>✅ 午后券（优惠！）</strong>
 2种：平日和节假日
 
-**① 傍晚护照（节假日15点入园）**
-- 对象：**节假日**（周末节假日）
-- 时间：**15:00（下午3点）**起入园
+<strong>① 傍晚护照（节假日15点入园）</strong>
+- 对象：<strong>节假日</strong>（周末节假日）
+- 时间：<strong>15:00（下午3点）</strong>起入园
 - 成人：6,500日元 ～ 8,700日元
 
-**② 平日夜间护照（平日17点入园）**
-- 对象：**平日**（不含节假日）
-- 时间：**17:00（下午5点）**起入园
+<strong>② 平日夜间护照（平日17点入园）</strong>
+- 对象：<strong>平日</strong>（不含节假日）
+- 时间：<strong>17:00（下午5点）</strong>起入园
 - 全年龄：4,500日元 ～ 6,200日元
 
-**✅ [期间限定] 1日双园护照**
+<strong>✅ [期间限定] 1日双园护照</strong>
 - 指定园区待至11点
 - 11点起，Land与Sea自由往来
-- **成人：14,500日元 ～ 18,900日元**
-- **期间：2026年1月13日（二）～ 3月31日（二）**
+- <strong>成人：14,500日元 ～ 18,900日元</strong>
+- <strong>期间：2026年1月13日（二）～ 3月31日（二）</strong>
 - （※ 2025年11月13日 14:00限定销售）
 
 ### ③ 在线门票购买方法
 
-**✅ 迪士尼官网/App：**
+<strong>✅ 迪士尼官网/App：</strong>
 最可靠但海外支付可能困难
-**➡️ [官网购票](https://plan.tokyodisneyresort.jp/2/4/?lang=ja)**
+<strong>➡️ [官网购票](https://plan.tokyodisneyresort.jp/2/4/?lang=ja)</strong>
 
-**✅ Klook（最推荐！）**
+<strong>✅ Klook（最推荐！）</strong>
 - 中文支持、人民币结算、便利
 - 折扣优惠券比官网便宜
 - 即时发行QR码，入园只需出示QR！
-**➡️ [Klook购买迪士尼乐园门票](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F)**
+<strong>➡️ [Klook购买迪士尼乐园门票](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-03.jpg" alt="Klook App 东京迪士尼乐园门票搜索">
@@ -160,17 +160,17 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 ## 3. 必备！迪士尼乐园缩短等待时间法：DPA vs 40周年纪念通行证
 
-2025年现在，迪士尼度假区快速通行证有**「付费」和「免费」2种**。
+2025年现在，迪士尼度假区快速通行证有<strong>「付费」和「免费」2种</strong>。
 
 ### ① [付费] 迪士尼优享通行证（DPA）
 
 付费缩短等待时间。
 
-**费用：** 付费
-**时间选择：** 可选择希望时间
-**发行条件：** 先到先得
-**发行间隔：** 60分钟后可追加发行
-**购买方法：** 迪士尼App
+<strong>费用：</strong> 付费
+<strong>时间选择：</strong> 可选择希望时间
+<strong>发行条件：</strong> 先到先得
+<strong>发行间隔：</strong> 60分钟后可追加发行
+<strong>购买方法：</strong> 迪士尼App
 
 <table class="schedule-table">
 <thead>
@@ -213,11 +213,11 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 40周年纪念发放的免费快速通行证！
 
-**费用：** 免费
-**时间选择：** 不可（自动分配）
-**发行条件：** 先到先得
-**发行间隔：** 120分钟后可追加发行
-**购买方法：** 迪士尼App
+<strong>费用：</strong> 免费
+<strong>时间选择：</strong> 不可（自动分配）
+<strong>发行条件：</strong> 先到先得
+<strong>发行间隔：</strong> 120分钟后可追加发行
+<strong>购买方法：</strong> 迪士尼App
 
 <table class="schedule-table">
 <thead>
@@ -259,38 +259,38 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 ### ③ 攻略技巧！
 
-**🕗 入园前**
+<strong>🕗 入园前</strong>
 - 开园30分钟前到达（9:00入园）
 - 入园时间对首次通行证发行时间影响很大
 
-**🕘 STEP 1：入园后立即确保优先通行证1张**
+<strong>🕘 STEP 1：入园后立即确保优先通行证1张</strong>
 
-**🕙 STEP 2：期间利用其他项目**
+<strong>🕙 STEP 2：期间利用其他项目</strong>
 - App查看等待时间
 - 快速乘坐等待时间短的项目
 
-**🕛 STEP 3：120分钟后立即追加通行证发行**
+<strong>🕛 STEP 3：120分钟后立即追加通行证发行</strong>
 - 与首次通行证使用无关
 - 120分钟后可追加通行证发行
-- **设置闹钟持续确保免费通行证！！**
+- <strong>设置闹钟持续确保免费通行证！！</strong>
 - 例：9:00发行 → 11:00以后下一张
 
-**🕒 STEP 4：重复上述流程**
+<strong>🕒 STEP 4：重复上述流程</strong>
 - 人气项目使用DPA（付费）
 
 ---
 
 ## 4. 演出&游行观看方法（DPA vs 抽选）
 
-确保演出好位置的2种方法：**付费（DPA）**和**免费（抽选）**。
+确保演出好位置的2种方法：<strong>付费（DPA）</strong>和<strong>免费（抽选）</strong>。
 
 ### ① [付费] 迪士尼优享通行证（DPA）
 
-付费**预约指定好位/观看区域** - **付费服务**。
+付费<strong>预约指定好位/观看区域</strong> - <strong>付费服务</strong>。
 
-**迪士尼乐园入园后，官方App购买**
+<strong>迪士尼乐园入园后，官方App购买</strong>
 
-**1场演出2,500日元**
+<strong>1场演出2,500日元</strong>
 
 <table class="schedule-table">
 <thead>
@@ -320,14 +320,14 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 
 ### ② [免费] 抽选
 
-**免费抽选**确保指定演出座位。
+<strong>免费抽选</strong>确保指定演出座位。
 
-**每日1设施可抽选1次**
-**中签时座位指定（抽选制可能落选！）**
+<strong>每日1设施可抽选1次</strong>
+<strong>中签时座位指定（抽选制可能落选！）</strong>
 
-迪士尼乐园入园后，**官方App**申请
+迪士尼乐园入园后，<strong>官方App</strong>申请
 
-**申请截止：各演出开始45分钟前**
+<strong>申请截止：各演出开始45分钟前</strong>
 
 <table class="schedule-table">
 <thead>
@@ -362,16 +362,16 @@ Jamboree米奇！Let's Dance！（探险乐园）
 
 ### ③ [攻略技巧] 策略？
 
-**「入园后立即，申请所有『抽选（免费）』！」**
+<strong>「入园后立即，申请所有『抽选（免费）』！」</strong>
 
-**[入园直后]（免费抽选）**
-申请**所有**演出
+<strong>[入园直后]（免费抽选）</strong>
+申请<strong>所有</strong>演出
 
-**[中签] 🎉 恭喜！**
+<strong>[中签] 🎉 恭喜！</strong>
 免费预约席观看
 
-**[落选] 😭 一定要看这场演出！**
-这种情况用**DPA（付费）购买**
+<strong>[落选] 😭 一定要看这场演出！</strong>
+这种情况用<strong>DPA（付费）购买</strong>
 
 ---
 
@@ -381,12 +381,12 @@ Jamboree米奇！Let's Dance！（探险乐园）
 
 ### ① PS（优先入店）
 
-PS意味餐厅**「优先入店预约」**。
+PS意味餐厅<strong>「优先入店预约」</strong>。
 为了轻松就坐短时间用餐必备。
 
-**入园日1个月前 上午10点可预约**
+<strong>入园日1个月前 上午10点可预约</strong>
 官方App/网站经由 - 预约竞争开始。
-**📌技巧！** 入园当日9:00追加名额开放 - 再次挑战！
+<strong>📌技巧！</strong> 入园当日9:00追加名额开放 - 再次挑战！
 
 <table class="schedule-table">
 <thead>
@@ -418,10 +418,10 @@ S.S.哥伦比亚餐厅（美国海滨）<br>
 
 ### ② 迪士尼·移动点餐
 
-**✔️** 入园后，App选择**「移动点餐」**
-**✔️** 选择希望餐厅和**「到店时间」**
-**✔️** 选菜单结算
-**✔️** 指定时间领取！
+<strong>✔️</strong> 入园后，App选择<strong>「移动点餐」</strong>
+<strong>✔️</strong> 选择希望餐厅和<strong>「到店时间」</strong>
+<strong>✔️</strong> 选菜单结算
+<strong>✔️</strong> 指定时间领取！
 
 <table class="schedule-table">
 <thead>
@@ -488,22 +488,22 @@ Nautilus Galley（神秘岛）
 
 离园前在最大商店汇总购买伴手礼。
 
-**🏰 迪士尼乐园**
-**Grand Emporium**：园区最大商品店
-**Town Center Fashion**：园区最大服饰店
-**World Bazaar Confectionery**：园区最大糖果店
+<strong>🏰 迪士尼乐园</strong>
+<strong>Grand Emporium</strong>：园区最大商品店
+<strong>Town Center Fashion</strong>：园区最大服饰店
+<strong>World Bazaar Confectionery</strong>：园区最大糖果店
 
-**🌍 迪士尼海洋**
-**Emporio**：园区最大商品店
-**Figaro's Clothiers**：园区最大服饰店
-**Galleria Disney**：达菲商品专门店
+<strong>🌍 迪士尼海洋</strong>
+<strong>Emporio</strong>：园区最大商品店
+<strong>Figaro's Clothiers</strong>：园区最大服饰店
+<strong>Galleria Disney</strong>：达菲商品专门店
 
 ### ② 候补通行证（店铺入店预约）
 
 特定期间部分商店、扭蛋、见面会需预约
 运营方法频繁变更 - 入园当日App确认
 
-**📌 技巧：** 入园直后，
+<strong>📌 技巧：</strong> 入园直后，
 申请DPA（付费）、40周年纪念通行证（免费）、候补通行证（免费）
 - 这是完美游玩的秘诀！
 
@@ -542,10 +542,10 @@ Tower of Terror（扭蛋）（2025.11.10〜）
 
 ### ③ App购物（最佳技巧！）
 
-**入园日23:45前App可下单**
+<strong>入园日23:45前App可下单</strong>
 （需关联门票）
 
-**日本国内地址/酒店配送对应**
+<strong>日本国内地址/酒店配送对应</strong>
 10,000日元以上免邮费
 最方便：白天玩项目，晚上回酒店前App结算。
 
@@ -555,20 +555,20 @@ Tower of Terror（扭蛋）（2025.11.10〜）
 
 ### ① 🚃 电车：JR舞滨站
 
-**东京站**搭乘，**JR京叶线**
-约15分钟抵达**舞滨站**。
+<strong>东京站</strong>搭乘，<strong>JR京叶线</strong>
+约15分钟抵达<strong>舞滨站</strong>。
 
-**⚠️ [必读] 东京站换乘！确保换乘时间！**
+<strong>⚠️ [必读] 东京站换乘！确保换乘时间！</strong>
 东京站到京叶线站台换乘需步行15〜20分钟！
 确保充足时间（换乘通道非常长）
 
-**🏰 迪士尼乐园（Land）**
+<strong>🏰 迪士尼乐园（Land）</strong>
 舞滨站步行5分钟！到达！
 
-**🌍 迪士尼海洋（Sea）**
-舞滨站**换乘单轨**！
-**东京迪士尼海洋站下车！**
-**票价：成人300日元（单程）**
+<strong>🌍 迪士尼海洋（Sea）</strong>
+舞滨站<strong>换乘单轨</strong>！
+<strong>东京迪士尼海洋站下车！</strong>
+<strong>票价：成人300日元（单程）</strong>
 （※ 可用Suica/PASMO）
 
 ### ② 🚌 机场巴士
@@ -576,7 +576,7 @@ Tower of Terror（扭蛋）（2025.11.10〜）
 无需换乘！酒店门口直达！
 从东京都心主要酒店或车站
 （新宿、东京站、池袋等）
-运营往迪士尼乐园/迪士尼海洋正门的**直达巴士**。
+运营往迪士尼乐园/迪士尼海洋正门的<strong>直达巴士</strong>。
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-11.jpg" alt="东京迪士尼乐园 美女与野兽项目">
@@ -592,46 +592,46 @@ Tower of Terror（扭蛋）（2025.11.10〜）
 ⭕️ 快乐入园特典：酒店住客可比一般游客先入园
 （除入住日外）
 
-**东京迪士尼乐园酒店**（迪士尼乐园直连）
-**东京迪士尼海洋·梦幻泉乡酒店**（迪士尼海洋直连）
-**东京迪士尼海洋·观海景酒店**（迪士尼海洋直连）
-**迪士尼大使酒店**（专用免费班车）
-**东京迪士尼度假区·玩具总动员酒店**
-**东京迪士尼庆典酒店**
+<strong>东京迪士尼乐园酒店</strong>（迪士尼乐园直连）
+<strong>东京迪士尼海洋·梦幻泉乡酒店</strong>（迪士尼海洋直连）
+<strong>东京迪士尼海洋·观海景酒店</strong>（迪士尼海洋直连）
+<strong>迪士尼大使酒店</strong>（专用免费班车）
+<strong>东京迪士尼度假区·玩具总动员酒店</strong>
+<strong>东京迪士尼庆典酒店</strong>
 
 ### ② 官方酒店
 
 湾岸站班车、欢迎中心行李配送服务
 
-**东京湾喜来登大酒店**
-**东京湾希尔顿酒店**
-**舞滨景观酒店**
-**东京湾舞滨日航大酒店**
-**东京湾大仓酒店**
-**东京湾舞滨酒店 First Resort**
+<strong>东京湾喜来登大酒店</strong>
+<strong>东京湾希尔顿酒店</strong>
+<strong>舞滨景观酒店</strong>
+<strong>东京湾舞滨日航大酒店</strong>
+<strong>东京湾大仓酒店</strong>
+<strong>东京湾舞滨酒店 First Resort</strong>
 
 ### ③ 合作酒店
 
 酒店与度假区巴士总站往来免费班车
 
-**浦安布莱顿东京湾酒店**
-**东方酒店东京湾**
-**艾米翁东京湾酒店**
-**三井花园酒店Prana东京湾**
+<strong>浦安布莱顿东京湾酒店</strong>
+<strong>东方酒店东京湾</strong>
+<strong>艾米翁东京湾酒店</strong>
+<strong>三井花园酒店Prana东京湾</strong>
 
 ### ④ 友好邻居酒店
 
 酒店与度假区巴士总站往来免费班车
 
-**京王广场酒店**
-**东京湾有明华盛顿酒店**
-**东京东21酒店**
-**东武酒店Levant东京**
-**第一酒店两国**
-**台场希尔顿酒店**
-**相铁FRESA INN东京湾有明**
-**京成酒店Miramare**
-**新大谷酒店幕张**
+<strong>京王广场酒店</strong>
+<strong>东京湾有明华盛顿酒店</strong>
+<strong>东京东21酒店</strong>
+<strong>东武酒店Levant东京</strong>
+<strong>第一酒店两国</strong>
+<strong>台场希尔顿酒店</strong>
+<strong>相铁FRESA INN东京湾有明</strong>
+<strong>京成酒店Miramare</strong>
+<strong>新大谷酒店幕张</strong>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-12.jpg" alt="东京湾希尔顿酒店 官方酒店">
@@ -649,22 +649,22 @@ Tower of Terror（扭蛋）（2025.11.10〜）
 🎟️ 餐厅预约/移动点餐
 🛍️ 候补通行证 / App购物
 
-**➡️ [iOS（App Store）下载](https://apps.apple.com/jp/app/tokyo-disney-resort-app/id1313147771)**
-**➡️ [Android（Google Play）下载](https://play.google.com/store/apps/details?id=jp.tokyodisneyresort.portalapp)**
+<strong>➡️ [iOS（App Store）下载](https://apps.apple.com/jp/app/tokyo-disney-resort-app/id1313147771)</strong>
+<strong>➡️ [Android（Google Play）下载](https://play.google.com/store/apps/details?id=jp.tokyodisneyresort.portalapp)</strong>
 
-**⚠️ [必读！] App改为英文方法**
+<strong>⚠️ [必读！] App改为英文方法</strong>
 - App内无语言变更菜单
 - [设定] → [一般] → [语言与地区] 改为英文
 - （iOS/Android通用）
 - → App重启后显示英文
 
-**📌 技巧：** DPA购买和抽选画面更易懂
-**旅行中至少1天推荐英文**
+<strong>📌 技巧：</strong> DPA购买和抽选画面更易懂
+<strong>旅行中至少1天推荐英文</strong>
 
 ### ② 东京迪士尼度假区 地图查看
 
-**➡️ [迪士尼乐园地图（日文版）](https://media2.tokyodisneyresort.jp/home/download/map/TDL_map_ja.pdf)**
-**➡️ [迪士尼海洋地图（日文版）](https://media2.tokyodisneyresort.jp/home/download/map/TDS_map_ja.pdf)**
+<strong>➡️ [迪士尼乐园地图（日文版）](https://media2.tokyodisneyresort.jp/home/download/map/TDL_map_ja.pdf)</strong>
+<strong>➡️ [迪士尼海洋地图（日文版）](https://media2.tokyodisneyresort.jp/home/download/map/TDS_map_ja.pdf)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-13.jpg" alt="东京迪士尼乐园 小熊维尼猎蜜记">
@@ -675,20 +675,20 @@ Tower of Terror（扭蛋）（2025.11.10〜）
 
 ## 10. Q&A（常见问题）
 
-**Q. 东京迪士尼乐园 项目TOP3推荐！**
+<strong>Q. 东京迪士尼乐园 项目TOP3推荐！</strong>
 Land：美女与野兽 / 怪兽电力公司 / 飞溅山
 Sea：冰雪奇缘 / 翱翔 / 地心探险
 
-**Q. 东京迪士尼乐园 天气与服装？**
+<strong>Q. 东京迪士尼乐园 天气与服装？</strong>
 Sea海风较冷。
 冬季：暖宝宝、围巾、手套必备
 夏季：遮阳伞、手持风扇必备
 
-**Q. 迪士尼社区技巧？**
+<strong>Q. 迪士尼社区技巧？</strong>
 开园冲刺（开园1小时前到达）→ 入园后立即DPA/抽选申请
 → 上午购买爆米花 → 游行地点1小时前占位
 
-**Q. 抽选/通行证可取消？**
+<strong>Q. 抽选/通行证可取消？</strong>
 抽选申请后不可取消。
 优先通行证&候补通行证使用前可取消（不恢复）。
 
@@ -699,7 +699,7 @@ Sea海风较冷。
 
 ---
 
-**「准备完美，体验就完美」**
+<strong>「准备完美，体验就完美」</strong>
 
 门票/午后券、DPA/优先通行证、餐饮预约、购物 -
 全部用1个App解决，真的会改变一整天。
@@ -707,11 +707,11 @@ Sea海风较冷。
 现在，轻松出发吧。
 幸福的一天已经准备了一半 ✨
 
-**📍 相关东京旅行信息**
+<strong>📍 相关东京旅行信息</strong>
 
-**➡️ [日本旅行折扣优惠券2025（唐吉诃德、百货店）](/zh-cn/posts/japan-travel-discount-coupons-2025/)**
+<strong>➡️ [日本旅行折扣优惠券2025（唐吉诃德、百货店）](/zh-cn/posts/japan-travel-discount-coupons-2025/)</strong>
 <br>
-**➡️ [东京交通卡完全攻略（iPhone Suica、PASMO）](/zh-cn/posts/tokyo-transportation-card-guide-2025/)**
+<strong>➡️ [东京交通卡完全攻略（iPhone Suica、PASMO）](/zh-cn/posts/tokyo-transportation-card-guide-2025/)</strong>
 
 
 <div class="editors-note">

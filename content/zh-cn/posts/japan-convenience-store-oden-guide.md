@@ -27,32 +27,32 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 冷风开始吹的时候，日本旅行第一个想到的香气，就是打开便利店门的瞬间飘来的咸香柴鱼高汤味。冬季日本旅行的治愈美食就是便利店关东煮。
 
 但是真要点的时候，
-**"想吃但不会日语放弃了。"**
-**"随便拿了但不是自己喜欢的类型。"**
+<strong>"想吃但不会日语放弃了。"</strong>
+<strong>"随便拿了但不是自己喜欢的类型。"</strong>
 这种经历真的很多。
 
 所以今天，让日本旅行新手也能立刻点单的
-**📌 日本便利店关东煮点单短语，**
-**📌 萝卜・魔芋・油豆腐袋等对味菜单，**
-**📌 7-11・罗森・全家关东煮的区别和菜单表**
+<strong>📌 日本便利店关东煮点单短语，</strong>
+<strong>📌 萝卜・魔芋・油豆腐袋等对味菜单，</strong>
+<strong>📌 7-11・罗森・全家关东煮的区别和菜单表</strong>
 把旅行者需要的核心信息打包介绍给大家。😋
 
 ---
 
 ## 1. 日本便利店关东煮，什么时候开始卖？
 
-日本便利店关东煮大多是**季节限定菜单**。
+日本便利店关东煮大多是<strong>季节限定菜单</strong>。
 夏天去了"怎么没有？"别慌！
 
-**🗓️ 销售期间**
+<strong>🗓️ 销售期间</strong>
 - 通常9月中旬～次年4月
 - 各地区・店铺不同（寒冷的北海道・东北地区往往更早开始）
 
-**💴 平均价格带**
+<strong>💴 平均价格带</strong>
 - 1个100日元～150日元
 - 含税约1,100日元～1,600日元
 
-**💡 最近趋势**
+<strong>💡 最近趋势</strong>
 - 卫生标准提高，收银台旁开放式锅煮关东煮消失，"盒装关东煮"销售增加。
 - 7-11仍然热锅关东煮占比最高，请参考！
 
@@ -67,7 +67,7 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 
 最简单的点单方法是用手指，但食材藏在汤里要说名字对吧？
 
-**🍢 对味BEST 5菜单表**
+<strong>🍢 对味BEST 5菜单表</strong>
 
 <table class="schedule-table">
   <thead>
@@ -111,28 +111,28 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">7-11关东煮菜单表：萝卜・鸡蛋・魔芋丝・魔芋人气菜单</figcaption>
 </figure>
 
-**🗣️ 实战点单对话（核心内容截图给店员看就行！）**
+<strong>🗣️ 实战点单对话（核心内容截图给店员看就行！）</strong>
 
-- **叫店员时：**
-**すみません、おでんお願いします**
+- <strong>叫店员时：</strong>
+<strong>すみません、おでんお願いします</strong>
 （不好意思，要点关东煮。）
 
-- **点单时：**
-**（用手指）これください**
+- <strong>点单时：</strong>
+<strong>（用手指）これください</strong>
 （这个。）
 
-- **要多点汤：**
-**つゆ多めでお願いします**
+- <strong>要多点汤：</strong>
+<strong>つゆ多めでお願いします</strong>
 （汤多一点。）
 
-- **要芥末：**
-**からしつけてください**
+- <strong>要芥末：</strong>
+<strong>からしつけてください</strong>
 （给芥末。）
 
-**📌 小贴士。** 可以拿的免费调味料：
-- **柚子胡椒（ゆずこしょう）**：柚子・辣椒香的辣爽调料
-- **芥末酱（ねりからし）**：呛鼻的黄芥末
-- **红味噌酱（あかみそたれ）**：浓郁红味噌酱
+<strong>📌 小贴士。</strong> 可以拿的免费调味料：
+- <strong>柚子胡椒（ゆずこしょう）</strong>：柚子・辣椒香的辣爽调料
+- <strong>芥末酱（ねりからし）</strong>：呛鼻的黄芥末
+- <strong>红味噌酱（あかみそたれ）</strong>：浓郁红味噌酱
 
 <figure>
   <img src="/images/posts/japan-convenience-store-oden-guide-05.jpg" alt="日本便利店关东煮点单过程店员盛放场景">
@@ -145,15 +145,15 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 
 日本便利店关东煮每家连锁汤底和食材风格都有点不同。按口味选择吧！
 
-**✅ 7-11**
+<strong>✅ 7-11</strong>
 
-7-11关东煮是柴鱼和昆布为底，**汤味最清楚最浓**。
+7-11关东煮是柴鱼和昆布为底，<strong>汤味最清楚最浓</strong>。
 
 微甜的风格新手也好入口，萝卜・鸡蛋等需要入味才好吃的食材完成度高评价多。
 
-食材周转快，被称为"**不会踩坑**"稳定发挥。
+食材周转快，被称为"<strong>不会踩坑</strong>"稳定发挥。
 
-- **推荐给这样的你：**
+- <strong>推荐给这样的你：</strong>
 ✔️ 喜欢浓郁高汤香气
 ✔️ 偏好汤味浓的关东煮
 ✔️ 重视萝卜・鸡蛋完成度的旅行者
@@ -163,15 +163,15 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">7-11关东煮区：日本便利店冬季菜单</figcaption>
 </figure>
 
-**✅ 罗森**
+<strong>✅ 罗森</strong>
 
-罗森关东煮比7-11甜味弱，**清爽淡雅的汤**是特色。
+罗森关东煮比7-11甜味弱，<strong>清爽淡雅的汤</strong>是特色。
 
 特别是魔芋丝・魔芋・鸡肉丸等享受口感的食材是强项。
 
-考虑健康的**"低糖质"阵容**充实，减肥中或想吃清淡的朋友很受欢迎。
+考虑健康的<strong>"低糖质"阵容</strong>充实，减肥中或想吃清淡的朋友很受欢迎。
 
-- **推荐给这样的你：**
+- <strong>推荐给这样的你：</strong>
 ✔️ 偏好不甜的淡雅关东煮
 ✔️ 喜欢魔芋丝・魔芋等口感为主菜单
 ✔️ 饮食控制中的朋友
@@ -181,15 +181,15 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">日本冬季代表菜单：便利店关东煮区</figcaption>
 </figure>
 
-**✅ 全家**
+<strong>✅ 全家</strong>
 
-全家关东煮是清淡汤底和淡雅味道，**轻松好入口的风格**。
+全家关东煮是清淡汤底和淡雅味道，<strong>轻松好入口的风格</strong>。
 
 萝卜、鸡蛋、魔芋等基本菜单整体平衡好，清爽的汤味无负担享受。
 
 特别是旅行中简单找"有汤的小吃"很合适，三家连锁中最无雷大家都爱的味道评价多。
 
-- **推荐给这样的你：**
+- <strong>推荐给这样的你：</strong>
 ✔️ 喜欢淡雅・清爽的关东煮
 ✔️ 汤味重的风格有负担时
 ✔️ 基本菜单为主想安全选择时
@@ -205,7 +205,7 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 
 按旅行动线哪家都不会踩坑，但萝卜・鸡蛋・魔芋・油豆腐袋是三家共同人气食材，第一次点最推荐。
 
-**✅ 7-11关东煮菜单列表（按价格）**
+<strong>✅ 7-11关东煮菜单列表（按价格）</strong>
 - 以下价格是不含税（税前）价格。结算时加消费税8%。
 
 <table class="schedule-table">
@@ -335,7 +335,7 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">日本便利店关东煮区：7-11・罗森・全家对比</figcaption>
 </figure>
 
-**✅ 罗森关东煮菜单列表（按价格）**
+<strong>✅ 罗森关东煮菜单列表（按价格）</strong>
 - 以下价格是含税（税入）价格。
 
 <table class="schedule-table">
@@ -465,7 +465,7 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
   </tbody>
 </table>
 
-**✅ 全家关东煮菜单列表（按价格）**
+<strong>✅ 全家关东煮菜单列表（按价格）</strong>
 - 以下价格是含税（税入）价格。
 
 <table class="schedule-table">
@@ -549,22 +549,22 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 
 ## 📝 日本便利店关东煮点单，只记这3点！
 
-1. 日本便利店关东煮**9月～4月**是旺季！（各店铺不同）
-2. 点单时用手指**"这个"**，汤要**"多一点"**
-3. **萝卜・魔芋丝・年糕袋**是不踩坑的组合
+1. 日本便利店关东煮<strong>9月～4月</strong>是旺季！（各店铺不同）
+2. 点单时用手指<strong>"这个"</strong>，汤要<strong>"多一点"</strong>
+3. <strong>萝卜・魔芋丝・年糕袋</strong>是不踩坑的组合
 
 今冬日本旅行别错过温暖的便利店关东煮！有疑问或需要补充菜单翻译请留言告诉我。祝旅途愉快！😊🍢
 
-**🧡 一起看的日本旅游攻略**
+<strong>🧡 一起看的日本旅游攻略</strong>
 
-**👉** <a href="/zh-cn/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>日本便利店购物清单不踩坑BEST10（7-11、全家、罗森对比）</strong></a>
+<strong>👉</strong> <a href="/zh-cn/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>日本便利店购物清单不踩坑BEST10（7-11、全家、罗森对比）</strong></a>
 
-**👉** <a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本旅游折扣券总整理2025（唐吉诃德、BIC CAMERA、百货等免税+追加折扣）</strong></a>
+<strong>👉</strong> <a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本旅游折扣券总整理2025（唐吉诃德、BIC CAMERA、百货等免税+追加折扣）</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**👉** <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单2025年必买KALDI推荐（酱料、挂耳咖啡、免税小贴士）</strong></a>
+<strong>👉</strong> <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单2025年必买KALDI推荐（酱料、挂耳咖啡、免税小贴士）</strong></a>
 
 
 <div class="editors-note">

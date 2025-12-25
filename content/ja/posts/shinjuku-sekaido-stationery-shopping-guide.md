@@ -26,7 +26,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 ## 📍 世界堂とは？
 
-東京で文具ショッピングをするなら、**新宿世界堂(SEKAIDO)**が正解です。
+東京で文具ショッピングをするなら、<strong>新宿世界堂(SEKAIDO)</strong>が正解です。
 
 短い日程でも必ず立ち寄るべき文具愛好家の天国。手帳デコ・美術・漫画用品まで一度に出会えます。
 
@@ -37,8 +37,8 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 ### 🏬 世界堂本店営業情報
 
-**営業時間：** 09:30 ~ 20:00
-**定休日：** 年中無休
+<strong>営業時間：</strong> 09:30 ~ 20:00
+<strong>定休日：</strong> 年中無休
 
 ### 🚇 アクセス方法
 
@@ -66,7 +66,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 ## 🚨 免税 vs 会員割引（必読！）
 
-世界堂には最大30%まで割引される**会員カード制度**があります。
+世界堂には最大30%まで割引される<strong>会員カード制度</strong>があります。
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-03.jpg" alt="世界堂会員カード割引価格表">
@@ -75,25 +75,25 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 ### 1. 会員カード入会費（有料）
 
-会員カード入会費は**500円（現金）**で、有効期間は2年間です。
+会員カード入会費は<strong>500円（現金）</strong>で、有効期間は2年間です。
 
 ### 2. 現金決済のみ割引可能
 
-すべての会員特典（割引、ポイント）は**現金決済時のみ**適用されます。
+すべての会員特典（割引、ポイント）は<strong>現金決済時のみ</strong>適用されます。
 
 ### 3. 免税と重複適用不可
 
-**免税(10%)**を受けると**会員特典(割引+ポイント)**を受けられません。どちらか一つだけ選択する必要があります。
+<strong>免税(10%)</strong>を受けると<strong>会員特典(割引+ポイント)</strong>を受けられません。どちらか一つだけ選択する必要があります。
 
 ---
 
 ## 💡 状況1：クレジットカード決済の場合（5,500円以上購入時）
 
-悩む必要なく**必ず免税(10%割引)**を受けてください。
+悩む必要なく<strong>必ず免税(10%割引)</strong>を受けてください。
 
 会員特典は現金決済のみ可能なので、カード決済時は特典がありません。
 
-**✅ クレジットカード決済時：問答無用で免税！**
+<strong>✅ クレジットカード決済時：問答無用で免税！</strong>
 
 ---
 
@@ -101,7 +101,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 この場合「免税」オプションがありません。会員入会費500円を払って割引を受けるのが得かを計算する必要があります。
 
-**✅ 現金2,500円以上5,500円未満時：会員加入がお得！**
+<strong>✅ 現金2,500円以上5,500円未満時：会員加入がお得！</strong>
 
 ---
 
@@ -114,7 +114,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 油絵の具(30%割引)はその差がさらに大きいです。この場合、必ず会員加入がお得です。
 
-**✅ 現金5,500円以上は入会費500円を払っても会員加入が絶対お得！**
+<strong>✅ 現金5,500円以上は入会費500円を払っても会員加入が絶対お得！</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-04.jpg" alt="世界堂会員カード案内文">
@@ -255,7 +255,7 @@ Gペン、スプーンペンなど
 
 これで会員割引と免税の比較までマスターしたので、時間・お金の両方を節約するショッピングを楽しんでください。
 
-**関連記事：**
+<strong>関連記事：</strong>
 <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>➡️ 新宿観光スポット完璧コース総まとめ - 新宿御苑からグルメ、ショッピング、ゴールデン街まで</b></a>
 - <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223693165027

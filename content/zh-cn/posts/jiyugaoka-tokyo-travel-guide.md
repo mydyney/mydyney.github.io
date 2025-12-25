@@ -25,9 +25,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 你好!我是介绍东京隐藏魅力的Tokyo Mate。
 
-东京旅游想度过最放松优雅的时光？强烈推荐**自由之丘**！
+东京旅游想度过最放松优雅的时光？强烈推荐<strong>自由之丘</strong>！
 
-离涩谷和新宿的喧嚣只有15分钟。被称为"东京小欧洲"的这个区域。**把自由之丘必看景点、咖啡厅、杂货店、蛋糕店串联的半日观光路线整理好了。**
+离涩谷和新宿的喧嚣只有15分钟。被称为"东京小欧洲"的这个区域。<strong>把自由之丘必看景点、咖啡厅、杂货店、蛋糕店串联的半日观光路线整理好了。</strong>
 
 只用这篇攻略，不用烦恼路线！跟着走就行。
 
@@ -56,35 +56,35 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 ## 🚆 自由之丘交通(交通方式)
 
-**自由之丘站**是**东急东横线(TY)**和**大井町线(OM)**交汇的交通枢纽。
+<strong>自由之丘站</strong>是<strong>东急东横线(TY)</strong>和<strong>大井町线(OM)</strong>交汇的交通枢纽。
 
 ### 1. 从涩谷
 
-- **东急东横线(TY)涩谷站** → 自由之丘站直达，约12分钟。
+- <strong>东急东横线(TY)涩谷站</strong> → 自由之丘站直达，约12分钟。
 
 ### 2. 从新宿
 
-- **副都心线(F)新宿三丁目站** → 自由之丘站直达，约19分钟。
-- **山手线(JY)新宿站** → 涩谷站换乘东急东横线(TY)，约23分钟
+- <strong>副都心线(F)新宿三丁目站</strong> → 自由之丘站直达，约19分钟。
+- <strong>山手线(JY)新宿站</strong> → 涩谷站换乘东急东横线(TY)，约23分钟
 
 ### 3. 从东京其他主要区域
 
-- JR/地铁到**涩谷站**或**中目黑站** → 换乘东急东横线(TY)在自由之丘站下车。
+- JR/地铁到<strong>涩谷站</strong>或<strong>中目黑站</strong> → 换乘东急东横线(TY)在自由之丘站下车。
 
-**📌 Mate's Tip:** 去自由之丘的东急线不包含在东京地铁(地铁通票)内。用**Suica/PASMO**卡或单独买票!
+<strong>📌 Mate's Tip:</strong> 去自由之丘的东急线不包含在东京地铁(地铁通票)内。用<strong>Suica/PASMO</strong>卡或单独买票!
 
 ---
 
 ## 推荐半日自由之丘路线
 
-从站开始，跟着黄金路线走:**[南口散步路 → 穿过铁轨到咖啡厅街 → 北口购物区]**。
+从站开始，跟着黄金路线走:<strong>[南口散步路 → 穿过铁轨到咖啡厅街 → 北口购物区]</strong>。
 
 ### 1️⃣ Marie Claire大道与绿道 - 自由之丘之旅开始
 
-从自由之丘站**南口**出来，发现这条欧式大道。沿**"绿道（Green Way）"**开始散步，光是坐在长椅就治愈。
+从自由之丘站<strong>南口</strong>出来，发现这条欧式大道。沿<strong>"绿道（Green Way）"</strong>开始散步，光是坐在长椅就治愈。
 
-**📍** [Google地图(自由之丘站南口)↗](https://maps.app.goo.gl/WCvSbk1SMJFT3UMV6) 📍
-**📍** [Google地图(绿道)↗](https://maps.app.goo.gl/2BpJx4fkiZxvcXwN6) 📍
+<strong>📍</strong> [Google地图(自由之丘站南口)↗](https://maps.app.goo.gl/WCvSbk1SMJFT3UMV6) 📍
+<strong>📍</strong> [Google地图(绿道)↗](https://maps.app.goo.gl/2BpJx4fkiZxvcXwN6) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-05.jpg" alt="自由之丘站南口入口、东京自由之丘半日路线起点">
@@ -101,9 +101,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">自由之丘Marie Claire大道与绿道散步路:有长椅和树木的休息空间</figcaption>
 </figure>
 
-- **Cuoca**: 高品质抹茶粉、日本面粉、各种烘焙模具—在日本难找的烘焙材料丰富。
+- <strong>Cuoca</strong>: 高品质抹茶粉、日本面粉、各种烘焙模具—在日本难找的烘焙材料丰富。
 
-**📍** [Google地图(Cuoca)↗](https://maps.app.goo.gl/XVGCoU5U9ysHEijc7) 📍
+<strong>📍</strong> [Google地图(Cuoca)↗](https://maps.app.goo.gl/XVGCoU5U9ysHEijc7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -130,18 +130,18 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 穿过铁轨，到自由之丘潮人聚集区。
 
-- **Onibus Coffee(ONIBUS)**: 东京特调咖啡的真髓。不用去中目黑，在这里就能体验改变人生的拿铁。购物休息的最佳潮流自由之丘咖啡厅。
+- <strong>Onibus Coffee(ONIBUS)</strong>: 东京特调咖啡的真髓。不用去中目黑，在这里就能体验改变人生的拿铁。购物休息的最佳潮流自由之丘咖啡厅。
 
-**📍** [Google地图(Onibus Coffee)↗](https://maps.app.goo.gl/LPSXb5MVr2FPWgXv8) 📍
+<strong>📍</strong> [Google地图(Onibus Coffee)↗](https://maps.app.goo.gl/LPSXb5MVr2FPWgXv8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-12.jpg" alt="自由之丘Onibus Coffee、铁轨旁的潮流咖啡厅">
   <figcaption style="font-size: 0.7em; text-align: center;">自由之丘Onibus Coffee:铁轨旁的潮流咖啡厅</figcaption>
 </figure>
 
-- **Dulton**: 大型美式复古风杂货店。建筑本身太美，入口照片必拍！在这自由之丘杂货店会忘记时间流逝—就像蚁地狱。
+- <strong>Dulton</strong>: 大型美式复古风杂货店。建筑本身太美，入口照片必拍！在这自由之丘杂货店会忘记时间流逝—就像蚁地狱。
 
-**📍** [Google地图(Dulton)↗](https://maps.app.goo.gl/h3TWBr5RvFkPhq5Z7) 📍
+<strong>📍</strong> [Google地图(Dulton)↗](https://maps.app.goo.gl/h3TWBr5RvFkPhq5Z7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -177,18 +177,18 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 日本传统与异国情调打卡点共存的路线。
 
-- **熊野神社**: 藏在热闹购物区背后的静谧神社。绿树间露出的红色鸟居印象深刻—购物中体验静谧日本美学的最佳地。
+- <strong>熊野神社</strong>: 藏在热闹购物区背后的静谧神社。绿树间露出的红色鸟居印象深刻—购物中体验静谧日本美学的最佳地。
 
-**📍** [Google地图(熊野神社)↗](https://maps.app.goo.gl/3aDXHHFUBz1Wp1jW8) 📍
+<strong>📍</strong> [Google地图(熊野神社)↗](https://maps.app.goo.gl/3aDXHHFUBz1Wp1jW8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-19.jpg" alt="自由之丘熊野神社入口、传统石阶与静谧氛围">
   <figcaption style="font-size: 0.7em; text-align: center;">自由之丘熊野神社入口:有石阶的静谧传统日本神社</figcaption>
 </figure>
 
-- **古桑庵(Kosouan)**: 利用传统日本家屋的茶室。从榻榻米房间看庭院边吃"抹茶白玉"如何？古桑庵是自由之丘最受欢迎的必去路线。
+- <strong>古桑庵(Kosouan)</strong>: 利用传统日本家屋的茶室。从榻榻米房间看庭院边吃"抹茶白玉"如何？古桑庵是自由之丘最受欢迎的必去路线。
 
-**📍** [Google地图(古桑庵)↗](https://maps.app.goo.gl/Dobnb4nav1sh28Nd8) 📍
+<strong>📍</strong> [Google地图(古桑庵)↗](https://maps.app.goo.gl/Dobnb4nav1sh28Nd8) 📍
 
 <div class="image-group-2">
   <figure>
@@ -204,18 +204,18 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">自由之丘古桑庵:在传统日本家屋享受抹茶甜品</figcaption>
 </figure>
 
-- **La Vita**: 作为"东京的威尼斯"出名，但实际相当袖珍。只为这景点来可能会失望—推荐去Mont St. Clair途中顺便来拍漂亮照片。
+- <strong>La Vita</strong>: 作为"东京的威尼斯"出名，但实际相当袖珍。只为这景点来可能会失望—推荐去Mont St. Clair途中顺便来拍漂亮照片。
 
-**📍** [Google地图(La Vita自由之丘)↗](https://maps.app.goo.gl/XmCQfuf2Y98TgFXo9) 📍
+<strong>📍</strong> [Google地图(La Vita自由之丘)↗](https://maps.app.goo.gl/XmCQfuf2Y98TgFXo9) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-23.jpg" alt="自由之丘La Vita、威尼斯风建筑异国情调氛围打卡点">
   <figcaption style="font-size: 0.7em; text-align: center;">自由之丘La Vita:异国情调氛围打卡点</figcaption>
 </figure>
 
-- **Mont St. Clair**: 甜品之神"辻口博启"的总店。这里被称为自由之丘蛋糕圣地。招牌菜单"C'est la vie"一定要试。
+- <strong>Mont St. Clair</strong>: 甜品之神"辻口博启"的总店。这里被称为自由之丘蛋糕圣地。招牌菜单"C'est la vie"一定要试。
 
-**📍** [Google地图(Mont St. Clair)↗](https://maps.app.goo.gl/uNtL6s24wCjbuX3s8) 📍
+<strong>📍</strong> [Google地图(Mont St. Clair)↗](https://maps.app.goo.gl/uNtL6s24wCjbuX3s8) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-24.jpg" alt="自由之丘Mont St. Clair、知名东京蛋糕店外观">
@@ -228,9 +228,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 往学园大道走，生活方式店铺排列。
 
-- **TODAY'S SPECIAL**: 以市场包出名的店！厨房用品和食品等，看点多多。
+- <strong>TODAY'S SPECIAL</strong>: 以市场包出名的店！厨房用品和食品等，看点多多。
 
-**📍** [Google地图(TODAY'S SPECIAL)↗](https://maps.app.goo.gl/HSU5ZdEcMUBE3oLi7) 📍
+<strong>📍</strong> [Google地图(TODAY'S SPECIAL)↗](https://maps.app.goo.gl/HSU5ZdEcMUBE3oLi7) 📍
 
 <div class="image-group-2">
   <figure>
@@ -269,9 +269,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">自由之丘TODAY'S SPECIAL:东京生活方式杂货购物</figcaption>
 </div>
 
-- **Sunset Alley**: 迷人自由之丘杂货店聚集的小巷。黄昏时分氛围特别美。
+- <strong>Sunset Alley</strong>: 迷人自由之丘杂货店聚集的小巷。黄昏时分氛围特别美。
 
-**📍** [Google地图(Sunset Alley)↗](https://maps.app.goo.gl/rNYDjcHuSazC245t9) 📍
+<strong>📍</strong> [Google地图(Sunset Alley)↗](https://maps.app.goo.gl/rNYDjcHuSazC245t9) 📍
 
 <div class="image-group-2">
   <figure>
@@ -307,9 +307,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 自由之丘最新地标。
 
-- **I'm donut?**: 需要一大早排队的新鲜甜甜圈店。队伍短的话，别犹豫直接买！
+- <strong>I'm donut?</strong>: 需要一大早排队的新鲜甜甜圈店。队伍短的话，别犹豫直接买！
 
-**📍** [Google地图(I'm donut?自由之丘)↗](https://maps.app.goo.gl/7oFDSoBST6Sb7KgZ9) 📍
+<strong>📍</strong> [Google地图(I'm donut?自由之丘)↗](https://maps.app.goo.gl/7oFDSoBST6Sb7KgZ9) 📍
 
 <div class="image-group-2">
   <figure>
@@ -330,9 +330,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">自由之丘I'm donut:值得排队的东京甜甜圈店</figcaption>
 </div>
 
-- **de aone**: 3楼屋顶露台(Haruniwa)看夕阳和富士山景色如画般的购物综合体。
+- <strong>de aone</strong>: 3楼屋顶露台(Haruniwa)看夕阳和富士山景色如画般的购物综合体。
 
-**📍** [Google地图(自由之丘de aone)↗](https://maps.app.goo.gl/qsT8BqYLZYLJkwE38) 📍
+<strong>📍</strong> [Google地图(自由之丘de aone)↗](https://maps.app.goo.gl/qsT8BqYLZYLJkwE38) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-43.jpg" alt="自由之丘de aone露台大楼、自由之丘街景与夕阳景观">
@@ -350,9 +350,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 旅程结束当然是甜品。
 
-- **Paris S'eveille**: 和Mont St. Clair同级的Tabelog上位甜品店。到晚会卖完注意！找真正的自由之丘餐厅的话强烈推荐。
+- <strong>Paris S'eveille</strong>: 和Mont St. Clair同级的Tabelog上位甜品店。到晚会卖完注意！找真正的自由之丘餐厅的话强烈推荐。
 
-**📍** [Google地图(Paris S'eveille)↗](https://maps.app.goo.gl/gDDMDzvNSeBuzLpw5) 📍
+<strong>📍</strong> [Google地图(Paris S'eveille)↗](https://maps.app.goo.gl/gDDMDzvNSeBuzLpw5) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-45.jpg" alt="自由之丘Paris S'eveille、本地人喜爱的正宗法式甜品">
@@ -364,10 +364,10 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">通往自由之丘站的Hiro大道小巷</figcaption>
 </figure>
 
-- **自由女神像**: 在站前环岛边看自由之丘标志边回站。
+- <strong>自由女神像</strong>: 在站前环岛边看自由之丘标志边回站。
 
-**📍** [Google地图(自由女神像)↗](https://maps.app.goo.gl/W3TUiDZjUnSLnPMy6) 📍
-**📍** [Google地图(自由之丘站中央口)↗](https://maps.app.goo.gl/kM3d1qFMu61hNR1dA) 📍
+<strong>📍</strong> [Google地图(自由女神像)↗](https://maps.app.goo.gl/W3TUiDZjUnSLnPMy6) 📍
+<strong>📍</strong> [Google地图(自由之丘站中央口)↗](https://maps.app.goo.gl/kM3d1qFMu61hNR1dA) 📍
 
 <figure>
   <img src="/images/posts/jiyugaoka-tokyo-travel-guide-47.jpg" alt="自由之丘站地标、自由女神像">
@@ -383,9 +383,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 ## 📝 Tokyo Mate的综合评测
 
-自由之丘，比华丽观光景点更适合**像本地人一样旅行**的人。
+自由之丘，比华丽观光景点更适合<strong>像本地人一样旅行</strong>的人。
 
-**✅ 推荐人群:**
+<strong>✅ 推荐人群:</strong>
 - 对拥挤涩谷/新宿疲劳的人
 - 喜欢漂亮咖啡厅游和杂货购物的人
 - 东京二刷以上的游客
@@ -401,12 +401,12 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032086475
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>中目黑杂货店、咖啡厅、散步路线完全攻略</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>中目黑杂货店、咖啡厅、散步路线完全攻略</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: /zh-cn/posts/shibuya-complete-guide-2025/
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-**➡️** <a href="#" style="color: #667eea;"><strong>涩谷天空、购物、餐厅、活动完全攻略</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>涩谷天空、购物、餐厅、活动完全攻略</strong></a>
 
 
 <div class="editors-note">

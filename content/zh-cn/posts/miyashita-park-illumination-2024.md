@@ -10,26 +10,26 @@ summary: "探索涩谷宫下公园4楼屋顶花园迷人的圣诞灯光隧道。
 featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ---
 
-📌 **2025年最新宫下公园圣诞市集信息请参考以下文章！**
+📌 <strong>2025年最新宫下公园圣诞市集信息请参考以下文章！</strong>
 
-[➡️ **涩谷宫下公园与涩谷横丁（2025圣诞市集·飞天小女警·真实评价）**](/zh-cn/posts/shibuya-miyashita-park-yokocho-2025/)
+[➡️ <strong>涩谷宫下公园与涩谷横丁（2025圣诞市集·飞天小女警·真实评价）</strong>](/zh-cn/posts/shibuya-miyashita-park-yokocho-2025/)
 
 东京涩谷宫下公园（MIYASHITA PARK）屋顶花园变身梦幻紫色仙境。为您介绍这个Instagram打卡圣地的圣诞灯光秀。
 
 ## 活动时间
 
-**活动期间:** 2024年11月23日 ～ 2025年1月7日  
+<strong>活动期间:</strong> 2024年11月23日 ～ 2025年1月7日  
 ※休息日: 2024年12月29日 ～ 1月3日
 
-**开放时间:** 上午8点 ～ 晚上10点40分
+<strong>开放时间:</strong> 上午8点 ～ 晚上10点40分
 
-**门票:** 免费
+<strong>门票:</strong> 免费
 
-**位置:** 宫下公园4楼屋顶花园
+<strong>位置:</strong> 宫下公园4楼屋顶花园
 
-**谷歌地图:** https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9
+<strong>谷歌地图:</strong> https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9
 
-[**Miyashita Park · 6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001, Japan**](https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9) 📍
+[<strong>Miyashita Park · 6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001, Japan</strong>](https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9) 📍
 
 ## 交通方式
 
@@ -87,13 +87,13 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 
 圣诞节前的周末，将举办"Love Purple音乐之夜"，在音乐中享受欢乐氛围。这是一个小型派对，有DJ、现场音乐和美食车。
 
-**活动期间:** 2024年12月20日（周五）～ 12月22日（周日）
+<strong>活动期间:</strong> 2024年12月20日（周五）～ 12月22日（周日）
 
-**时间:** 下午4点 ～ 晚上9点
+<strong>时间:</strong> 下午4点 ～ 晚上9点
 
-**地点:** 宫下公园4楼草坪广场
+<strong>地点:</strong> 宫下公园4楼草坪广场
 
-**门票:** 免费
+<strong>门票:</strong> 免费
 
 活动还将同时举行紫丝带运动，这是一项反对针对包括妇女和儿童在内的所有弱势群体的暴力，倡导无暴力世界、相互尊重和保护的国际运动。
 
@@ -104,17 +104,17 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ### 1. 松果圣诞树制作工作坊
 
 ![圣诞树工作坊](/images/posts/miyashita-park-illumination-2024-11.jpg)
-**图片来源:** https://www.miyashita-park.tokyo/schedule/?p=2393
+<strong>图片来源:</strong> https://www.miyashita-park.tokyo/schedule/?p=2393
 
-**日期:** 2024年12月21日 ～ 12月22日
+<strong>日期:</strong> 2024年12月21日 ～ 12月22日
 
-**时间:** 下午1点 ～ 下午4点
+<strong>时间:</strong> 下午1点 ～ 下午4点
 
-**对象:** 所有年龄
+<strong>对象:</strong> 所有年龄
 
-**费用:** 300日元（现金）
+<strong>费用:</strong> 300日元（现金）
 
-**报名方式:** 当天现场报名
+<strong>报名方式:</strong> 当天现场报名
 
 ![工作坊详情1](/images/posts/miyashita-park-illumination-2024-12.jpg)
 *照片来源: https://www.seibu-la.co.jp/park/miyashita-park/*
@@ -122,17 +122,17 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 
 ![工作坊详情2](/images/posts/miyashita-park-illumination-2024-13.jpg)
 
-**日期:** 2024年12月21日 ～ 12月22日
+<strong>日期:</strong> 2024年12月21日 ～ 12月22日
 
-**时间:** 下午1点 ～ 下午4点
+<strong>时间:</strong> 下午1点 ～ 下午4点
 
-**对象:** 所有年龄
+<strong>对象:</strong> 所有年龄
 
 ## 后记
 
 何不用宫下公园的灯光秀和一杯温暖的茶来结束你的涩谷之旅呢？在东京市中心创造温馨的冬日回忆。
 
-**⭐ 相关涩谷旅游攻略**
+<strong>⭐ 相关涩谷旅游攻略</strong>
 
-[➡️ **涩谷完全攻略: 涩谷天空展望台预约、购物、美食推荐全指南**](/zh-cn/posts/shibuya-complete-guide-2025/)
+[➡️ <strong>涩谷完全攻略: 涩谷天空展望台预约、购物、美食推荐全指南</strong>](/zh-cn/posts/shibuya-complete-guide-2025/)
 

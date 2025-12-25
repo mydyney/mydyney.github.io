@@ -40,7 +40,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 每到周末或节假日的下午，银座中央大道就会变身为巨大的步行街。道路中央禁止车辆通行，撑起遮阳伞，众多人们自由漫步街道，享受购物与休闲的步行者天国，是特别的体验。
 
-✔️ **营业时间**（2025年8月31日基准）
+✔️ <strong>营业时间</strong>（2025年8月31日基准）
 
 今日下午6点前银座中央大道为步行者天国！现在就来享受漫步银座街道中央的特别体验吧。
 
@@ -77,7 +77,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ### ① 高端酒类购物（免税店&酒类专卖店）
 
-**银座乐天免税店**
+<strong>银座乐天免税店</strong>
 
 獭祭23、山崎等日本名酒最便宜的购买地点。
 
@@ -98,7 +98,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">银座购物必备课程，乐天免税店的獭祭23</figcaption>
 </figure>
 
-**IMADEYA银座**
+<strong>IMADEYA银座</strong>
 
 能邂逅日本各地稀有日本酒的高端酒类专卖店。
 
@@ -114,7 +114,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ### ② 特别的旅行伴手礼
 
-**资生堂Parlour**
+<strong>资生堂Parlour</strong>
 
 100年传统，寻找充满优雅的甜点与礼品的好去处。
 
@@ -128,7 +128,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">资生堂Parlour精美甜点礼盒套装</figcaption>
 </figure>
 
-**银座伊东屋**
+<strong>银座伊东屋</strong>
 
 100年传统文具店。整栋建筑都充满了有品位的设计文具。
 
@@ -139,7 +139,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">银座伊东屋入口</figcaption>
 </figure>
 
-**空也 - 最中**
+<strong>空也 - 最中</strong>
 
 140年传统，夏目漱石也钟爱的银座传奇和菓子店。没有预约很难买到的稀有性，加上不会太甜的高级口味，特别适合寻找送给父母或长辈的有品位礼物的您，是最佳选择。
 
@@ -150,9 +150,9 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ### ③ 性价比购物景点
 
-- **唐吉诃德银座本馆**：24小时随时都能购物的地方
-- **银座LOFT**：能邂逅最新化妆品与日本全国零食的地方
-- **OK Mart银座**：能便宜购买日本食品的折扣超市
+- <strong>唐吉诃德银座本馆</strong>：24小时随时都能购物的地方
+- <strong>银座LOFT</strong>：能邂逅最新化妆品与日本全国零食的地方
+- <strong>OK Mart银座</strong>：能便宜购买日本食品的折扣超市
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-09.jpg" alt="唐吉诃德银座本馆三丽鸥毛巾帽">
@@ -165,7 +165,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ### ① 零失误的一餐
 
-**山之上 - 天妇罗Omakase** ¥10,000以上
+<strong>山之上 - 天妇罗Omakase</strong> ¥10,000以上
 
 以实惠午餐价格享用米其林星级天妇罗！
 
@@ -179,7 +179,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">山之上天妇罗Omakase新鲜食材</figcaption>
 </figure>
 
-**炭烧鳗富士 - 鳗鱼饭** ¥5,000 ~ 6,000
+<strong>炭烧鳗富士 - 鳗鱼饭</strong> ¥5,000 ~ 6,000
 
 外酥内嫩，名古屋米其林餐厅的人生鳗鱼饭。
 
@@ -193,7 +193,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">炭烧鳗富士鳗鱼定食</figcaption>
 </figure>
 
-**银座天龙 - 饺子** ¥1,000 ~ 2,000
+<strong>银座天龙 - 饺子</strong> ¥1,000 ~ 2,000
 
 70年传统，肉汁满溢的巨大饺子。
 
@@ -207,7 +207,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">银座天龙煎饺</figcaption>
 </figure>
 
-**银座八五 - 拉面** ¥1,000 ~ 2,000
+<strong>银座八五 - 拉面</strong> ¥1,000 ~ 2,000
 
 米其林必比登推荐，连续6年获得食べログ拉面百名店的正宗当地拉面餐厅。
 
@@ -221,7 +221,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">银座八五特制中华面（出典）</figcaption>
 </figure>
 
-**New Castle - 咖喱** ¥1,000 ~ 2,000
+<strong>New Castle - 咖喱</strong> ¥1,000 ~ 2,000
 
 1946年起连歌舞伎演员都会光顾的食べログ百名店咖喱，咖喱单一菜单！
 
@@ -232,7 +232,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ### ② 优雅咖啡厅&甜点时间
 
-**WAKO茶沙龙** ¥2,000 ~ 3,000
+<strong>WAKO茶沙龙</strong> ¥2,000 ~ 3,000
 
 银座的象征，在和光百货享用经典芭菲。
 
@@ -246,7 +246,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">银座WAKO茶沙龙的华丽蒙布朗蛋糕</figcaption>
 </figure>
 
-**Tricolore本店** ¥1,000 ~ 2,000
+<strong>Tricolore本店</strong> ¥1,000 ~ 2,000
 
 经典茶馆氛围的复古感性咖啡厅，早餐套餐和拉花表演很有名。
 
@@ -255,7 +255,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">Tricolore本店苹果派</figcaption>
 </figure>
 
-**曙米果银座本店** ¥1~1,000
+<strong>曙米果银座本店</strong> ¥1~1,000
 
 用时令水果制作的甜糯米糕（大福）名店。
 
@@ -269,7 +269,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">曙米果草莓大福</figcaption>
 </figure>
 
-**Pain Maison银座** ¥1~1,000
+<strong>Pain Maison银座</strong> ¥1~1,000
 
 外酥内软，银座最火爆人气的盐面包。
 
@@ -285,7 +285,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ### ③ 一日完美收尾
 
-**札幌The Bar** ¥1,000 ~ 2,000
+<strong>札幌The Bar</strong> ¥1,000 ~ 2,000
 
 专家倒出的「完美黑标」生啤一杯的幸福。
 
@@ -301,7 +301,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ## 🚶‍♂️ 银座，这样玩吧！（推荐半日路线）
 
-**[上午] 筑地市场 → [下午] 银座**
+<strong>[上午] 筑地市场 → [下午] 银座</strong>
 
 上午在充满活力的筑地市场用新鲜海鲜和街头美食饱餐一顿后，散步般地走到银座的路线推荐给您。市场的平民氛围与银座的精致氛围形成戏剧性对比，一天内就能感受到东京的多样魅力。
 

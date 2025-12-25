@@ -28,9 +28,9 @@ Menu·prices·business hours all summarized at once.</p>
 
 Looking for a Shinjuku curry restaurant?
 
-**Epitaph Curry**, a Tabelog curry top 100 restaurant, is a spice curry specialist known as the pinnacle of Shinjuku keema curry.
+<strong>Epitaph Curry</strong>, a Tabelog curry top 100 restaurant, is a spice curry specialist known as the pinnacle of Shinjuku keema curry.
 
-From the legendary late-night curry shop in Golden Gai to becoming a lunch hotspot in Shinjuku-sanchome, we've summarized this place's menu·prices·business hours and compared it with **Nakamuraya, Gyutan Curry, and Soup Curry Dominica** all at once.
+From the legendary late-night curry shop in Golden Gai to becoming a lunch hotspot in Shinjuku-sanchome, we've summarized this place's menu·prices·business hours and compared it with <strong>Nakamuraya, Gyutan Curry, and Soup Curry Dominica</strong> all at once.
 
 - Tabelog Rating: 3.76
 - Google Rating: 4.2 (357)
@@ -52,13 +52,13 @@ However, in May 2020, it officially moved near Shinjuku-sanchome Station (2nd Si
 
 Now you can taste the legendary curry in a comfortable 12-seat counter restaurant instead of a cramped bar.
 
-Of course, its reputation as a Tabelog top 100 restaurant (3.76 rating) remains intact. It's one of the hottest **Shinjuku curry restaurants** in Tokyo.
+Of course, its reputation as a Tabelog top 100 restaurant (3.76 rating) remains intact. It's one of the hottest <strong>Shinjuku curry restaurants</strong> in Tokyo.
 
 ---
 
 ## 2. Epitaph Curry Menu, Prices, Ordering Tips (Must Read!)
 
-**Shinjuku restaurant** 'Epitaph Curry' has a slightly unique ordering method.
+<strong>Shinjuku restaurant</strong> 'Epitaph Curry' has a slightly unique ordering method.
 
 When you sit down, you'll first receive the menu below.
 
@@ -88,15 +88,15 @@ In other words, you have to look at the blackboard inside the store to see 'toda
 
 ## ✅ Ordering Method and Complete Price Summary
 
-**[STEP 1] Check 'today's curry' 3 types on the blackboard.**
+<strong>[STEP 1] Check 'today's curry' 3 types on the blackboard.</strong>
 
 (Example based on the day I visited)
 
-- **A: Pumpkin Coconut Curry & Black Chicken (Mild)** (+50 yen additional to base price)
-- **B: Pork Vindaloo MARK II (Medium Spicy)** (Store signature, +50 yen additional)
-- **C: Minced Pork and Burdock Root Keema Curry (Base price)**
+- <strong>A: Pumpkin Coconut Curry & Black Chicken (Mild)</strong> (+50 yen additional to base price)
+- <strong>B: Pork Vindaloo MARK II (Medium Spicy)</strong> (Store signature, +50 yen additional)
+- <strong>C: Minced Pork and Burdock Root Keema Curry (Base price)</strong>
 
-**[STEP 2] Choose the 'plate' type from the menu.**
+<strong>[STEP 2] Choose the 'plate' type from the menu.</strong>
 
 1️⃣ 1-Type Curry Plate: 1,250 yen ~
 - (Example: C Keema Curry selection = 1,250 yen)
@@ -112,14 +112,14 @@ In other words, you have to look at the blackboard inside the store to see 'toda
 
 ## ✅ Toppings and Drink Menu
 
-**[TOPPINGS]**
+<strong>[TOPPINGS]</strong>
 - Soft-boiled egg (半熟たまご): 150 yen
 - Extra rice (ライス大盛り): 150 yen
 - Extra cilantro (パクチー大盛り): 150 yen
 - Eggplant achar: 250 yen
 - Chicken pickle: 400 yen
 
-**[DRINKS]**
+<strong>[DRINKS]</strong>
 - Lassi: 400 yen
 - Mango lassi: 450 yen
 - Japanese pear lassi (和梨ラッシー): 500 yen
@@ -129,19 +129,19 @@ In other words, you have to look at the blackboard inside the store to see 'toda
 
 At the bottom of the menu, there are 3 most important pieces of information.
 
-**1. Cilantro (pakchi) is included by default!**
+<strong>1. Cilantro (pakchi) is included by default!</strong>
 
 パクチー苦手な方はお申し付けください
 
 If you can't eat cilantro, be sure to say "Pakuchi nuki de!" (No cilantro please) when ordering.
 
-**2. Spice level cannot be adjusted.**
+<strong>2. Spice level cannot be adjusted.</strong>
 
 辛さの変更はできません
 
 You must enjoy the spice level as the recipe is made.
 
-**3. Paper aprons are available.**
+<strong>3. Paper aprons are available.</strong>
 
 ◎紙エプロンあります
 
@@ -156,18 +156,18 @@ If you're wearing white clothes, feel free to request one!
 
 ## 3. 👑 Shinjuku Keema Curry King: Menu Review
 
-The menu is 3 types of curry that change daily, and I chose the **2-type aigake (half-and-half curry)** to taste both.
+The menu is 3 types of curry that change daily, and I chose the <strong>2-type aigake (half-and-half curry)</strong> to taste both.
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-07.jpg" alt="Epitaph 2-type aigake curry with minced pork burdock keema curry and pumpkin coconut curry">
   <figcaption style="font-size: 0.7em; text-align: center;">Epitaph 2-type aigake curry with minced pork burdock keema curry and pumpkin coconut curry</figcaption>
 </figure>
 
-**Pork Vindaloo (ポークビンダルー)** is not Japanese roux curry but a **spice curry** with intense spices. **It's a flavor explosion of strong sourness, umami, and spiciness.**
+<strong>Pork Vindaloo (ポークビンダルー)</strong> is not Japanese roux curry but a <strong>spice curry</strong> with intense spices. <strong>It's a flavor explosion of strong sourness, umami, and spiciness.</strong>
 
-**Keema** means **minced meat** in Hindi or Urdu.
+<strong>Keema</strong> means <strong>minced meat</strong> in Hindi or Urdu.
 
-**Keema curry**, unlike the chunk meat curry we know, is minced meat (usually pork or beef) stir-fried with onions, tomatoes, and spices into a **dry curry without broth**.
+<strong>Keema curry</strong>, unlike the chunk meat curry we know, is minced meat (usually pork or beef) stir-fried with onions, tomatoes, and spices into a <strong>dry curry without broth</strong>.
 
 The sauce isn't saucy, and the minced meat is seasoned moderately, making it perfect for mixing over rice.
 
@@ -182,15 +182,15 @@ The sauce isn't saucy, and the minced meat is seasoned moderately, making it per
 
 When searching for Tokyo Shinjuku curry restaurants, you naturally see keywords like Shinjuku station curry, Shinjuku curry restaurant many times.
 
-For Shinjuku curry tonkatsu enjoyed with tonkatsu, **Owaroji, Katsuya** are representative,
+For Shinjuku curry tonkatsu enjoyed with tonkatsu, <strong>Owaroji, Katsuya</strong> are representative,
 
-and for curry udon, **Senkichi, Yamashita Honki, Tsurudontan** are often mentioned as Shinjuku curry udon restaurants.
+and for curry udon, <strong>Senkichi, Yamashita Honki, Tsurudontan</strong> are often mentioned as Shinjuku curry udon restaurants.
 
-If you're looking for more unique Shinjuku curry specialty restaurants, places like **Kanji Curry (Shinjuku Kanji Curry), Joto Curry, GoGoCurry (Shinjuku GoGo Curry)** that locals often visit are good to compare.
+If you're looking for more unique Shinjuku curry specialty restaurants, places like <strong>Kanji Curry (Shinjuku Kanji Curry), Joto Curry, GoGoCurry (Shinjuku GoGo Curry)</strong> that locals often visit are good to compare.
 
-Plus the 100-year tradition **Nakamuraya Curry**, beef tongue steak and curry popular **Gyutan no Lemon** (Shinjuku Gyutan Curry), and you have a complete **Tokyo Shinjuku curry tour course**.
+Plus the 100-year tradition <strong>Nakamuraya Curry</strong>, beef tongue steak and curry popular <strong>Gyutan no Lemon</strong> (Shinjuku Gyutan Curry), and you have a complete <strong>Tokyo Shinjuku curry tour course</strong>.
 
-**✅ 1. Shinjuku Nakamuraya Manna (新宿中村屋Manna)**
+<strong>✅ 1. Shinjuku Nakamuraya Manna (新宿中村屋Manna)</strong>
 
 100-year tradition, classic pioneer that first introduced 'Indian curry' to Japan
 
@@ -199,7 +199,7 @@ Plus the 100-year tradition **Nakamuraya Curry**, beef tongue steak and curry po
 
 📍<a href="https://maps.app.goo.gl/gxegGMTeTVTdgQpy6" target="_blank"><b>View Location</b></a>
 
-**✅ 2. Gyutan no Lemon (牛タンの檸檬)**
+<strong>✅ 2. Gyutan no Lemon (牛タンの檸檬)</strong>
 
 'Beef tongue' grill specialist's Shinjuku gyutan curry (side specialty)
 
@@ -208,7 +208,7 @@ Plus the 100-year tradition **Nakamuraya Curry**, beef tongue steak and curry po
 
 📍<a href="https://maps.app.goo.gl/A6t84st4LeMHtJ6V8" target="_blank"><b>View Location</b></a>
 
-**✅ 3. Sapporo Soup Curry Tokyo Dominica (ドミニカ)**
+<strong>✅ 3. Sapporo Soup Curry Tokyo Dominica (ドミニカ)</strong>
 
 Tabelog curry top 100 (2 consecutive years), Sapporo-style Shinjuku soup curry
 
@@ -217,7 +217,7 @@ Tabelog curry top 100 (2 consecutive years), Sapporo-style Shinjuku soup curry
 
 📍<a href="https://maps.app.goo.gl/xGG4fBz8QunAzMC8A" target="_blank"><b>View Location</b></a>
 
-**✅ 4. Fish Shinjuku (FISH 新宿店)**
+<strong>✅ 4. Fish Shinjuku (FISH 新宿店)</strong>
 
 Tabelog curry top 100 (3 consecutive years), South Indian style
 
@@ -226,7 +226,7 @@ Tabelog curry top 100 (3 consecutive years), South Indian style
 
 📍<a href="https://maps.app.goo.gl/8aw9AADvUCxWeGma6" target="_blank"><b>View Location</b></a>
 
-**✅ 5. Spicy Curry House Hangetsu (スパイシーカリーハウス半月)**
+<strong>✅ 5. Spicy Curry House Hangetsu (スパイシーカリーハウス半月)</strong>
 
 Tabelog curry top 100 (3 consecutive years), Osaka spice curry
 
@@ -235,7 +235,7 @@ Tabelog curry top 100 (3 consecutive years), Osaka spice curry
 
 📍<a href="https://maps.app.goo.gl/LrH1bqPK8jRGjqth8" target="_blank"><b>View Location</b></a>
 
-Epitaph Curry is a unique **Shinjuku curry specialty restaurant** that doesn't overlap in genre with all these places.
+Epitaph Curry is a unique <strong>Shinjuku curry specialty restaurant</strong> that doesn't overlap in genre with all these places.
 
 <figure>
   <img src="/images/posts/shinjuku-epitaph-curry-review-09.jpg" alt="Epitaph signature curry products pork vindaloo curry and Kerala-style chicken curry">
@@ -248,20 +248,20 @@ Epitaph Curry is a unique **Shinjuku curry specialty restaurant** that doesn't o
 
 If you go believing only old Golden Gai information, you'll 100% make a wasted trip!
 
-**✅ 1. Business Hours (No late night X, Lunch O)**
+<strong>✅ 1. Business Hours (No late night X, Lunch O)</strong>
 
 - Mon / Wed / Sun: 11:30 ~ 14:30 (Lunch only)
 - Thu / Fri / Sat: 11:30 ~ 14:30 (Lunch) / 17:30 ~ 20:30 (Dinner)
 - Closed: Every Tuesday, First Wednesday
 
-**✅ 2. Payment (Card/PayPay possible!)**
+<strong>✅ 2. Payment (Card/PayPay possible!)</strong>
 
 - All credit cards (VISA, Master, etc.) accepted besides cash!
 - Electronic payment (Suica, etc.), QR (PayPay) possible!
 
-**✅ 3. Reservations**
+<strong>✅ 3. Reservations</strong>
 
-- **Reservations not accepted**. There's waiting during lunch peak times.
+- <strong>Reservations not accepted</strong>. There's waiting during lunch peak times.
 - Seats: 12 (counter seats)
 
 <figure>
@@ -273,20 +273,20 @@ If you go believing only old Golden Gai information, you'll 100% make a wasted t
 
 For a Shinjuku restaurant tour, instead of the tonkatsu and udon curry everyone goes to,
 
-if you want to experience special **Shinjuku curry flavor**,
+if you want to experience special <strong>Shinjuku curry flavor</strong>,
 
-I strongly recommend Tabelog-recognized Shinjuku keema curry **'Epitaph Curry'**.
+I strongly recommend Tabelog-recognized Shinjuku keema curry <strong>'Epitaph Curry'</strong>.
 
 After enjoying delicious curry in Shinjuku-sanchome,
 
 if you're curious about more things to do and shopping information around Shinjuku Station,
 
-please check out the **complete Shinjuku course guide** below!
+please check out the <strong>complete Shinjuku course guide</strong> below!
 
 **➡️ <!-- Link updated -->
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Shinjuku Things to Do: Complete Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>**
 
-**➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show Times, Access, Closed Days, Shinjuku Night View Complete Tips</b></a>**
+<strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show Times, Access, Closed Days, Shinjuku Night View Complete Tips</b></a></strong>
 
 
 <div class="editors-note">

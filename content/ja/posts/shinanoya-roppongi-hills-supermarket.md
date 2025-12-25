@@ -24,7 +24,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 
 こんにちは！
 
-📌 **この記事は「六本木観光スポット完全ガイド」シリーズの一部です。**全体のコースが知りたい方は、まず下記の記事をご確認ください！
+📌 <strong>この記事は「六本木観光スポット完全ガイド」シリーズの一部です。</strong>全体のコースが知りたい方は、まず下記の記事をご確認ください！
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
@@ -42,11 +42,11 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 
 ## 信濃屋六本木ヒルズ店 営業情報
 
-**営業時間：** 午前9時〜午後11時
-**定休日：** 年中無休
+<strong>営業時間：</strong> 午前9時〜午後11時
+<strong>定休日：</strong> 年中無休
 
-**場所：** 六本木ヒルズ ゲートタワー1階、2階（蔦屋書店ビル）
-**地図：**
+<strong>場所：</strong> 六本木ヒルズ ゲートタワー1階、2階（蔦屋書店ビル）
+<strong>地図：</strong>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.660753,139.729167&hl=ja&z=17&output=embed"
@@ -64,11 +64,11 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
   </p>
 </div>
 
-**1階：** 酒、チーズ、ハム、パン、お菓子、弁当販売
-**2階：** 野菜、果物、肉、魚、調味料、乳製品、加工食品販売
+<strong>1階：</strong> 酒、チーズ、ハム、パン、お菓子、弁当販売
+<strong>2階：</strong> 野菜、果物、肉、魚、調味料、乳製品、加工食品販売
 
-**免税：** 酒類はタックスフリー（TAX FREE）対応可能
-**※ 2025年3月21日から酒類免税限度変更！！！**
+<strong>免税：</strong> 酒類はタックスフリー（TAX FREE）対応可能
+<strong>※ 2025年3月21日から酒類免税限度変更！！！</strong>
 韓国入国時の1人当たり酒類免税限度の本数制限が撤廃されました。新しい酒類免税限度は本数制限なく全体容量2L以下＋総価格$400以下です。
 ※ 酒類購入は内国人免税限度$800に含まれません。
 
@@ -351,20 +351,20 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 
 ## エピローグ
 
-> **東京旅行土産は**
-> **ユニークな地方特産品がいっぱいの**
-> **六本木ヒルズ信濃屋が正解**
+> <strong>東京旅行土産は</strong>
+> <strong>ユニークな地方特産品がいっぱいの</strong>
+> <strong>六本木ヒルズ信濃屋が正解</strong>
 
 六本木ヒルズのクリスマス・けやき坂イルミネーションを見に来られる方なら、旅行日程に信濃屋スーパーマーケットをぜひ入れてみてください。大切な人々に感動を届けられる高級商品とユニークな地方特産品に出会えると確信しています。価格表が見やすく撮影したので、ショッピング計画を立てる際にお役に立てば幸いです。
 
-⭐ **六本木の他の楽しみが知りたい方は？**
+⭐ <strong>六本木の他の楽しみが知りたい方は？</strong>
 
 <!-- TODO: Update link after migration
      Naver: /ja/posts/roppongi-attractions-guide
      Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ [六本木観光スポット完全ガイド（展望台、フェスティバル、美術館、グルメ A to Z）]</strong></a>
 
-⭐ **おすすめ日本ウイスキー情報**
+⭐ <strong>おすすめ日本ウイスキー情報</strong>
 まだどのウイスキーを買うか悩んでいますか？初心者向けからギフト用まで、下記の総まとめガイドであなたにぴったりの最高の日本ウイスキーを見つけてください！
 
 <!-- TODO: Update link after migration

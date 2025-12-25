@@ -29,7 +29,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 ## 📍 世界堂是什么？
 
-在东京购买文具，**新宿世界堂(SEKAIDO)**就是正确答案。
+在东京购买文具，<strong>新宿世界堂(SEKAIDO)</strong>就是正确答案。
 
 即使行程紧张也必须光顾的文具爱好者天堂。手账装饰、美术、漫画用品一应俱全。
 
@@ -40,8 +40,8 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 ### 🏬 世界堂本店营业信息
 
-**营业时间：** 09:30 ~ 20:00
-**休息日：** 全年无休
+<strong>营业时间：</strong> 09:30 ~ 20:00
+<strong>休息日：</strong> 全年无休
 
 ### 🚇 交通方式
 
@@ -69,7 +69,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 ## 🚨 免税 vs 会员折扣（必读！）
 
-世界堂有最高可打7折的**会员卡制度**。
+世界堂有最高可打7折的<strong>会员卡制度</strong>。
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-03.jpg" alt="世界堂会员卡折扣价格表">
@@ -78,25 +78,25 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 ### 1. 会员卡入会费（有偿）
 
-会员卡入会费为**500日元（现金）**，有效期2年。
+会员卡入会费为<strong>500日元（现金）</strong>，有效期2年。
 
 ### 2. 仅限现金支付享受折扣
 
-所有会员福利（折扣、积分）**仅限现金支付时**适用。
+所有会员福利（折扣、积分）<strong>仅限现金支付时</strong>适用。
 
 ### 3. 免税与会员福利不可同时享受
 
-**免税(10%)**和**会员福利(折扣+积分)**只能二选一。
+<strong>免税(10%)</strong>和<strong>会员福利(折扣+积分)</strong>只能二选一。
 
 ---
 
 ## 💡 情况1：信用卡支付（购买5,500日元以上时）
 
-无需犹豫**必须享受免税(10%折扣)**。
+无需犹豫<strong>必须享受免税(10%折扣)</strong>。
 
 会员福利仅限现金支付，刷卡时无任何优惠。
 
-**✅ 信用卡支付时：毫无疑问选择免税！**
+<strong>✅ 信用卡支付时：毫无疑问选择免税！</strong>
 
 ---
 
@@ -104,7 +104,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 此时无"免税"选项。需计算是否值得支付500日元会员费享受折扣。
 
-**✅ 现金2,500日元以上5,500日元以下时：办会员划算！**
+<strong>✅ 现金2,500日元以上5,500日元以下时：办会员划算！</strong>
 
 ---
 
@@ -117,7 +117,7 @@ featured_image: "/images/posts/shinjuku-sekaido-stationery-shopping-guide-01.jpg
 
 油画颜料(30%折扣)差距更大。这种情况下，办会员绝对划算。
 
-**✅ 现金5,500日元以上，即使支付入会费500日元，办会员绝对划算！**
+<strong>✅ 现金5,500日元以上，即使支付入会费500日元，办会员绝对划算！</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-04.jpg" alt="世界堂会员卡指南">
@@ -258,7 +258,7 @@ KICHO等高品质颜料
 
 现在连会员折扣和免税对比都掌握了，尽情享受省时省钱的购物吧。
 
-**相关文章：**
+<strong>相关文章：</strong>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
      Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->

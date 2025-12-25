@@ -28,10 +28,10 @@ And the perfect shopping course!</p>
 
 ## ✨ What is Azabudai Hills? (Quick Summary)
 
-Azabudai Hills is not just a shopping mall—it's a **'massive vertical city'**. Created by Mori Building (the company behind Roppongi Hills) over 30 years, it integrates offices, residences, commerce, culture, and nature.
+Azabudai Hills is not just a shopping mall—it's a <strong>'massive vertical city'</strong>. Created by Mori Building (the company behind Roppongi Hills) over 30 years, it integrates offices, residences, commerce, culture, and nature.
 
-- **Key Attractions**: 33F free observatory, teamLab Borderless, Azabudai Hills Market
-- **Architects**: Main tower by Pelli Clarke & Partners, lower levels by Heatherwick Studio (who designed The Hyundai Seoul)—the building itself is a massive work of art.
+- <strong>Key Attractions</strong>: 33F free observatory, teamLab Borderless, Azabudai Hills Market
+- <strong>Architects</strong>: Main tower by Pelli Clarke & Partners, lower levels by Heatherwick Studio (who designed The Hyundai Seoul)—the building itself is a massive work of art.
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-02.jpg" alt="Majestic Tokyo Azabudai Hills exterior view">
@@ -44,13 +44,13 @@ Azabudai Hills is not just a shopping mall—it's a **'massive vertical city'**.
 
 Since the complex is huge, planning your route is crucial!
 
-1. **[Morning] teamLab Borderless (Garden Plaza B)**: 100% advance booking required! Spend your morning in a fantastic media art world.
+1. <strong>[Morning] teamLab Borderless (Garden Plaza B)</strong>: 100% advance booking required! Spend your morning in a fantastic media art world.
 
-2. **[Lunch] Azabudai Hills Market (Garden Plaza C)**: Solve lunch at this premium food court gathering Michelin and Tabelog Top 100 restaurants.
+2. <strong>[Lunch] Azabudai Hills Market (Garden Plaza C)</strong>: Solve lunch at this premium food court gathering Michelin and Tabelog Top 100 restaurants.
 
-3. **[Afternoon] 33F Sky Room Observatory Cafe (Mori JP Tower)**: Capture lifetime photos at the best photo spot with frontal Tokyo Tower views.
+3. <strong>[Afternoon] 33F Sky Room Observatory Cafe (Mori JP Tower)</strong>: Capture lifetime photos at the best photo spot with frontal Tokyo Tower views.
 
-4. **[Shopping & Relaxation] Luxury Shopping & Cafes**: Browse luxury brands at Tower Plaza and relax at atmospheric cafes.
+4. <strong>[Shopping & Relaxation] Luxury Shopping & Cafes</strong>: Browse luxury brands at Tower Plaza and relax at atmospheric cafes.
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-03.jpg" alt="Azabudai Hills 33F Sky Room observatory cafe with Tokyo Tower Christmas lights view">
@@ -61,9 +61,9 @@ Since the complex is huge, planning your route is crucial!
 
 ## 🗼 33F Observatory & Sky Room Cafe (Must-Visit)
 
-**2025 Latest Info!** The 33F 'Sky Lobby' is **no longer open for free**. Currently, only Sky Room Cafe & Bar customers can access the 33F area. (Since April 18, 2024)
+<strong>2025 Latest Info!</strong> The 33F 'Sky Lobby' is <strong>no longer open for free</strong>. Currently, only Sky Room Cafe & Bar customers can access the 33F area. (Since April 18, 2024)
 
-If your goal is to enjoy Tokyo Tower from the front, **visiting Sky Room Cafe and ordering drinks is the only way**.
+If your goal is to enjoy Tokyo Tower from the front, <strong>visiting Sky Room Cafe and ordering drinks is the only way</strong>.
 
 For detailed Sky Room menu, access directions, sunset/night view tips, and latest operating schedule, check the complete observatory guide below!
 
@@ -86,15 +86,15 @@ For detailed Sky Room menu, access directions, sunset/night view tips, and lates
 
 ## 🎨 [Essential] teamLab Borderless
 
-**"The Odaiba Legend Returns at Azabudai Hills"**
+<strong>"The Odaiba Legend Returns at Azabudai Hills"</strong>
 
-The **'teamLab Borderless'** that sadly closed in Odaiba in 2022 **reopened** in February 2024 at Azabudai Hills in a more evolved form. Under the theme of **'Art Without Boundaries'**, experience fantastic media art where works move and interact with each other.
+The <strong>'teamLab Borderless'</strong> that sadly closed in Odaiba in 2022 <strong>reopened</strong> in February 2024 at Azabudai Hills in a more evolved form. Under the theme of <strong>'Art Without Boundaries'</strong>, experience fantastic media art where works move and interact with each other.
 
-📌 **Note:** This is **completely different** from **'teamLab Planets'** in Toyosu (where you walk through water)—don't confuse the two!
+📌 <strong>Note:</strong> This is <strong>completely different</strong> from <strong>'teamLab Planets'</strong> in Toyosu (where you walk through water)—don't confuse the two!
 
-📌 **Tip:** **100% online advance booking required**—no on-site tickets available. Book at least a few weeks in advance if you're planning to visit.
+📌 <strong>Tip:</strong> <strong>100% online advance booking required</strong>—no on-site tickets available. Book at least a few weeks in advance if you're planning to visit.
 
-✅ **[Buy teamLab Borderless Tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1145918&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F)**
+✅ <strong>[Buy teamLab Borderless Tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1145918&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
@@ -110,43 +110,43 @@ The **'teamLab Borderless'** that sadly closed in Odaiba in 2022 **reopened** in
 
 ## 🍽️ Azabudai Hills Market: Tokyo's Gourmet Essence (Restaurant Guide)
 
-Azabudai Hills has about 150 restaurants and shops. If you're overwhelmed by choices, start with **'Azabudai Hills Market'** in Garden Plaza C basement!
+Azabudai Hills has about 150 restaurants and shops. If you're overwhelmed by choices, start with <strong>'Azabudai Hills Market'</strong> in Garden Plaza C basement!
 
 ### 1. [Essential] Azabudai Hills Market
 
 This isn't just a food court—it's a premium culinary space gathering Japan's best restaurants. You can solve most dining needs here.
 
-**[Bakery/Desserts] (Tabelog Top 100 & SNS Sensation)**
-- **Comme'N TOKYO**: One of Tokyo's best bakeries, featured in Tabelog's Bakery Top 100—speaks for itself.
+<strong>[Bakery/Desserts] (Tabelog Top 100 & SNS Sensation)</strong>
+- <strong>Comme'N TOKYO</strong>: One of Tokyo's best bakeries, featured in Tabelog's Bakery Top 100—speaks for itself.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223968462793
      Hugo: /posts/azabudai-hills-commen-bakery-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Comme'N Tokyo, Azabudai Hills Bakery Review</strong></a>
 
-- **CRIOLLO**: World-renowned chocolatier's premium chocolates. (Recommended for gifts)
+- <strong>CRIOLLO</strong>: World-renowned chocolatier's premium chocolates. (Recommended for gifts)
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355
      Hugo: /posts/azabudai-hills-criollo-chocolate-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Criollo Chocolatier Chocolate Gift Review</strong></a>
 
-- **BLANCA**: Premium Basque cheesecake shop perfect for gifts
-- **HARBS**: The legendary fruit crepe cake institution—no introduction needed
-- **MATTE**: Rich chocolate and gelato specialist
+- <strong>BLANCA</strong>: Premium Basque cheesecake shop perfect for gifts
+- <strong>HARBS</strong>: The legendary fruit crepe cake institution—no introduction needed
+- <strong>MATTE</strong>: Rich chocolate and gelato specialist
 
-**[Dining/Takeout] (Michelin & Legendary Flavors)**
-- **Sushi Saito Azabudai (鮨さいとう 麻布台)**: Experience the taste of the impossible-to-book Michelin 3-star 'Sushi Saito' more accessibly.
+<strong>[Dining/Takeout] (Michelin & Legendary Flavors)</strong>
+- <strong>Sushi Saito Azabudai (鮨さいとう 麻布台)</strong>: Experience the taste of the impossible-to-book Michelin 3-star 'Sushi Saito' more accessibly.
 
-✅ **[Book Sushi Saito Azabudai Online](https://autoreserve.com/ko/restaurants/mYHY7euuf6Yid7djBq6K?medium_slug=AJvA6Kg5ptKi)**
+✅ <strong>[Book Sushi Saito Azabudai Online](https://autoreserve.com/ko/restaurants/mYHY7euuf6Yid7djBq6K?medium_slug=AJvA6Kg5ptKi)</strong>
 
-- **Parlor Yazawa (パーラー矢澤)**: Deli from Gotanda's famous hamburg steak spot 'Meat Yazawa'. Try their signature 'Adult Kids' Lunch'.
-- **Azabudai Torishiki (麻布台 鳥しき)**: Takeout shop from Meguro's impossible-to-book yakitori legend 'Torishiki'.
+- <strong>Parlor Yazawa (パーラー矢澤)</strong>: Deli from Gotanda's famous hamburg steak spot 'Meat Yazawa'. Try their signature 'Adult Kids' Lunch'.
+- <strong>Azabudai Torishiki (麻布台 鳥しき)</strong>: Takeout shop from Meguro's impossible-to-book yakitori legend 'Torishiki'.
 
-**[Cafes]**
-- **% Arabica**: Specialty coffee from Kyoto.
-- **OGAWA COFFEE LABORATORY**: Coffee salon where you can choose and experience beans yourself.
-- **SABOE TOKYO**: Tea specialist proposing new Japanese tea styles.
+<strong>[Cafes]</strong>
+- <strong>% Arabica</strong>: Specialty coffee from Kyoto.
+- <strong>OGAWA COFFEE LABORATORY</strong>: Coffee salon where you can choose and experience beans yourself.
+- <strong>SABOE TOKYO</strong>: Tea specialist proposing new Japanese tea styles.
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-07.jpg" alt="Azabudai Hills Market Tabelog Bakery Top 100 Comme'N Tokyo">
@@ -174,17 +174,17 @@ This isn't just a food court—it's a premium culinary space gathering Japan's b
 
 Beyond the Market, we recommend specialized restaurants scattered throughout the buildings for a more leisurely meal.
 
-**[SNS Buzz & Casual Favorites]**
-- **SHOGUN BURGER**: Yakiniku shop's juicy 'Wagyu burger' sensation.
-- **THE YELLOW COMPANY**: Famous 'soup curry' specialist from Sapporo, Hokkaido.
-- **Pelican Cafe (ペリカンカフェ)**: Cafe serving toast from Asakusa's legendary bread 'Pelican'.
-- **RACINES**: Popular Ikebukuro bistro. Excellent for both brunch and dinner.
+<strong>[SNS Buzz & Casual Favorites]</strong>
+- <strong>SHOGUN BURGER</strong>: Yakiniku shop's juicy 'Wagyu burger' sensation.
+- <strong>THE YELLOW COMPANY</strong>: Famous 'soup curry' specialist from Sapporo, Hokkaido.
+- <strong>Pelican Cafe (ペリカンカフェ)</strong>: Cafe serving toast from Asakusa's legendary bread 'Pelican'.
+- <strong>RACINES</strong>: Popular Ikebukuro bistro. Excellent for both brunch and dinner.
 
-**[Michelin & High-End Dining]**
-- **Sushi Azabu (鮨 麻布)**: Flagship of the sushi shop that earned Michelin 1-star for 10 consecutive years in New York.
-- **Florilège**: Innovative French restaurant earning both Michelin 2-star and Green Star.
-- **Yakiniku Yoroniku TOKYO (よろにく TOKYO)**: The pinnacle of 'new generation yakiniku' loved by all ages.
-- **Tomikoji Yamagishi (富小路やま岸)**: Tokyo branch of Kyoto's impossible-to-book kaiseki legend.
+<strong>[Michelin & High-End Dining]</strong>
+- <strong>Sushi Azabu (鮨 麻布)</strong>: Flagship of the sushi shop that earned Michelin 1-star for 10 consecutive years in New York.
+- <strong>Florilège</strong>: Innovative French restaurant earning both Michelin 2-star and Green Star.
+- <strong>Yakiniku Yoroniku TOKYO (よろにく TOKYO)</strong>: The pinnacle of 'new generation yakiniku' loved by all ages.
+- <strong>Tomikoji Yamagishi (富小路やま岸)</strong>: Tokyo branch of Kyoto's impossible-to-book kaiseki legend.
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-11.jpg" alt="Night view from Azabudai Hills Garden Plaza A">
@@ -195,8 +195,8 @@ Beyond the Market, we recommend specialized restaurants scattered throughout the
 
 ## 🛍️ Shopping & Attractions (Nose Shop, etc.)
 
-- **Luxury Shopping:** Tower Plaza features top luxury brands like Hermès and Cartier.
-- **Nose Shop**: The trendy 'niche perfume' specialty edit shop popular in Korea. Test and buy unique perfumes unavailable domestically.
+- <strong>Luxury Shopping:</strong> Tower Plaza features top luxury brands like Hermès and Cartier.
+- <strong>Nose Shop</strong>: The trendy 'niche perfume' specialty edit shop popular in Korea. Test and buy unique perfumes unavailable domestically.
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-12.jpg" alt="Luxury brand stores along Azabudai Hills promenade">
@@ -233,7 +233,7 @@ Azabudai Hills hosts special events each season. Check out last year's event rev
 
 ## 📍 After Azabudai, Where Next? (Recommended Follow-Up Courses)
 
-**🥂 5-Minute Walk! Michelin 1-Star Chinese Restaurant, Series**
+<strong>🥂 5-Minute Walk! Michelin 1-Star Chinese Restaurant, Series</strong>
 Right across from Azabudai Hills is 'Series', an innovative Michelin 1-star Chinese restaurant. Perfect choice for a special dinner after shopping and sightseeing.
 
 <!-- TODO: Update link after migration
@@ -241,18 +241,18 @@ Right across from Azabudai Hills is 'Series', an innovative Michelin 1-star Chin
      Hugo: /posts/azabudai-hills-series-chinese-restaurant/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Chinese Restaurant, Series Michelin 1-Star Course</strong></a>
 
-**🚶‍♂️ 5-Minute Subway! Classic Tokyo Night Views, Roppongi Hills**
+<strong>🚶‍♂️ 5-Minute Subway! Classic Tokyo Night Views, Roppongi Hills</strong>
 If Azabudai Hills offers 'frontal' Tokyo Tower views, Roppongi Hills shows Tokyo Tower blended with the skyline. Combine both for the ultimate night view tour.
 
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide
      Hugo: /posts/roppongi-attractions-guide/ -->
-➡️ **<a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>**
+➡️ <strong><a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a></strong>
 
-**🚶‍♂️ 3-Minute Subway! Adult Gourmet Space, Toranomon Hills**
+<strong>🚶‍♂️ 3-Minute Subway! Adult Gourmet Space, Toranomon Hills</strong>
 If Azabudai Hills is the center of 'tourism', neighboring Toranomon Hills is the center of 'gourmet dining & business'. Enjoy a special evening at sophisticated izakaya alleys like 'Toranomon Yokocho'.
 
-➡️ **<a href="/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>Tokyo Toranomon Hills Attractions: Restaurants, Yokocho, and the Real 'Doraemon'</strong></a>**
+➡️ <strong><a href="/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>Tokyo Toranomon Hills Attractions: Restaurants, Yokocho, and the Real 'Doraemon'</strong></a></strong>
 
 
 <div class="editors-note">

@@ -27,7 +27,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 ## 🍡 伝統が生きる新宿デザートをお探しですか？
 
-300年の伝統を持つ新宿のデザートスポットをお探しなら、**追分だんご本舗（おいわけだんごほんぽ）**は江戸時代から続く東京を代表するだんご専門店です。
+300年の伝統を持つ新宿のデザートスポットをお探しなら、<strong>追分だんご本舗（おいわけだんごほんぽ）</strong>は江戸時代から続く東京を代表するだんご専門店です。
 
 ハーブスや伊勢丹のケーキなど、新宿の華やかなデザートも良いですが、「本物」の伝統的な和菓子を味わいたいならここが答えです。
 
@@ -42,7 +42,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿だんご屋 追分だんご本舗 — 300年伝統和菓子、みたらしだんごとあんだんごおすすめ</figcaption>
 </figure>
 
-**📍場所：** 新宿三丁目駅C1出口すぐ前 **（伊勢丹百貨店の向かい）**
+<strong>📍場所：</strong> 新宿三丁目駅C1出口すぐ前 <strong>（伊勢丹百貨店の向かい）</strong>
 
 ---
 
@@ -57,7 +57,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 何を選ぶか迷ったら、この3つをお試しください 👇
 
-**1️⃣ みたらしだんご**
+<strong>1️⃣ みたらしだんご</strong>
 
 甘辛い醤油タレの基本的なシグネチャーメニュー。焼きたてのお餅のもっちり食感が優れています。
 
@@ -66,10 +66,10 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿だんご屋みたらしだんご — 甘辛醤油と焼きたてお餅の食感</figcaption>
 </figure>
 
-**2️⃣ つぶあん / こしあん（あんだんご）**
+<strong>2️⃣ つぶあん / こしあん（あんだんご）</strong>
 
-- **こしあん：** なめらかなあんこ
-- **つぶあん：** 粒あんこ
+- <strong>こしあん：</strong> なめらかなあんこ
+- <strong>つぶあん：</strong> 粒あんこ
 
 小豆の質が高く、上品で繊細な甘さがあります。
 
@@ -83,7 +83,7 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">新宿追分だんごあんだんご — こしあんとつぶあんの比較</figcaption>
 </div>
 
-**3️⃣ 季節限定だんご**
+<strong>3️⃣ 季節限定だんご</strong>
 
 春は桜、秋は栗、柚子、生姜だんご。季節ごとに限定メニューがあるので、訪問時にチェックしてください。
 
@@ -100,9 +100,9 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 カフェではだんごセット以外にも：
 
-- **あんみつ：** 北海道産小豆と季節のフルーツ
-- **田舎しるこ：** 伝統的な甘いぜんざいと香ばしい焼き餅
-- **かき氷：** 夏季限定
+- <strong>あんみつ：</strong> 北海道産小豆と季節のフルーツ
+- <strong>田舎しるこ：</strong> 伝統的な甘いぜんざいと香ばしい焼き餅
+- <strong>かき氷：</strong> 夏季限定
 
 これらをお楽しみいただけます。ショッピング中の休憩に最適な新宿デザートスポットです。
 
@@ -126,13 +126,13 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 ## 5. 場所と営業時間
 
-**🚇 最寄駅：** 丸ノ内線M・新宿線S・副都心線F「新宿三丁目駅」C1出口すぐ前
+<strong>🚇 最寄駅：</strong> 丸ノ内線M・新宿線S・副都心線F「新宿三丁目駅」C1出口すぐ前
 
-**🕓 だんご店：** 10:30~19:00（売り切れ次第早期閉店）
+<strong>🕓 だんご店：</strong> 10:30~19:00（売り切れ次第早期閉店）
 
-**☕ カフェ営業時間：** 平日 12:00~18:00 / 土日祝 11:30~18:00（LO 17:30）
+<strong>☕ カフェ営業時間：</strong> 平日 12:00~18:00 / 土日祝 11:30~18:00（LO 17:30）
 
-**❌ 定休日：** 1月1日、1月2日
+<strong>❌ 定休日：</strong> 1月1日、1月2日
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6905041,139.7053647&hl=ja&z=17&output=embed"
@@ -156,24 +156,24 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 柔らかいお餅、甘辛醤油、きちんとした包装 — 300年の伝統は偶然ではありません。
 
-**⭐ 新宿旅行ガイドシリーズ**
+<strong>⭐ 新宿旅行ガイドシリーズ</strong>
 
-**<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全観光ガイド ↗</a>**
+<strong><a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全観光ガイド ↗</a></strong>
 
-**➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショー時間、休館日、新宿夜景のコツ ↗</a>**
+<strong>➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショー時間、休館日、新宿夜景のコツ ↗</a></strong>
 
-**➡️ <a href="/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">新宿ゴールデン街 vs 思い出横丁 完全比較 ↗</a>**
+<strong>➡️ <a href="/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/" target="_blank">新宿ゴールデン街 vs 思い出横丁 完全比較 ↗</a></strong>
 
-**➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方 ↗</a>**
+<strong>➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">子連れ新宿！5大キッズパークへの行き方 ↗</a></strong>
 
-**➡️ <a href="/ja/posts/shinjuku-to-disneyland-bus-guide/" target="_blank">新宿からディズニーランドへの行き方完全ガイド ↗</a>**
+<strong>➡️ <a href="/ja/posts/shinjuku-to-disneyland-bus-guide/" target="_blank">新宿からディズニーランドへの行き方完全ガイド ↗</a></strong>
 
-**➡️ <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">新宿世界堂 東京文具店 会員カード、免税ガイド ↗</a>**
+<strong>➡️ <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">新宿世界堂 東京文具店 会員カード、免税ガイド ↗</a></strong>
 
 **<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223914223908 Hugo: /ja/posts/shinjuku-udon-guide/ -->
 <a href="#" style="color: #667eea;">新宿うどん店 切麦や甚六 ミシュランうどん↗</a>**
 
-**➡️ <a href="/ja/posts/shinjuku-epitaph-curry-review/" target="_blank">新宿キーマカレー店 エピタフカレー ↗</a>**
+<strong>➡️ <a href="/ja/posts/shinjuku-epitaph-curry-review/" target="_blank">新宿キーマカレー店 エピタフカレー ↗</a></strong>
 
 💡 銀座デザートギフトも見たいですか？
 

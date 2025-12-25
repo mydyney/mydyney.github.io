@@ -32,7 +32,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 如果你计划在东京购买威士忌，新宿几乎是必经之地。
 
-以JR新宿站为中心，步行范围内聚集了多家酒铺，可以进行**"酒铺圣地巡礼"**。
+以JR新宿站为中心，步行范围内聚集了多家酒铺，可以进行<strong>"酒铺圣地巡礼"</strong>。
 
 特别是新宿的酒铺，经常能找到机场免税店难以见到的限定威士忌，以及山崎、响等日本威士忌。
 
@@ -49,8 +49,8 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 ### 1️⃣ 新宿站西侧·西新宿（大型卖场型）
 
-- **必酷（Bic Camera）新宿西口店（酒类专区）** (**📍[Google地图↗](https://maps.app.goo.gl/CLDHwXPeaDFkZ9qh6) 📍**)
-- **Yamaya新宿店（大型酒类专卖店）** (**📍[Google地图↗](https://maps.app.goo.gl/PkyvHZvbhXGrypBCA) 📍**)
+- <strong>必酷（Bic Camera）新宿西口店（酒类专区）</strong> (<strong>📍[Google地图↗](https://maps.app.goo.gl/CLDHwXPeaDFkZ9qh6) 📍</strong>)
+- <strong>Yamaya新宿店（大型酒类专卖店）</strong> (<strong>📍[Google地图↗](https://maps.app.goo.gl/PkyvHZvbhXGrypBCA) 📍</strong>)
 
 两家店都是可以一次购买威士忌、日本酒、葡萄酒的"仓储型"氛围。
 
@@ -63,9 +63,9 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 ### 2️⃣ 新宿歌舞伎町·东口
 
-- **Liquor Mountain歌舞伎町店** (**📍[Google地图↗](https://maps.app.goo.gl/4NnDyF3dRUeAso6L8) 📍**)
-- **信浓屋新宿店** (**📍[Google地图↗](https://maps.app.goo.gl/f3JvMt91CncngYGJ7) 📍**)
-- **威士忌王国** (**📍[Google地图↗](https://maps.app.goo.gl/TPF1xddeSffCZhhW9) 📍**)
+- <strong>Liquor Mountain歌舞伎町店</strong> (<strong>📍[Google地图↗](https://maps.app.goo.gl/4NnDyF3dRUeAso6L8) 📍</strong>)
+- <strong>信浓屋新宿店</strong> (<strong>📍[Google地图↗](https://maps.app.goo.gl/f3JvMt91CncngYGJ7) 📍</strong>)
+- <strong>威士忌王国</strong> (<strong>📍[Google地图↗](https://maps.app.goo.gl/TPF1xddeSffCZhhW9) 📍</strong>)
 
 这边发现日本威士忌和稀有酒款的概率会更高一些。
 
@@ -80,12 +80,12 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 这是游客访问新宿酒铺的最大理由。
 
-### 🍷 新宿酒铺 **山崎**
+### 🍷 新宿酒铺 <strong>山崎</strong>
 
 山崎的竞争最激烈。如果看到货架上有，应该立刻拿下。
 
-- **店铺**: Yamaya → Liquor Mountain → 信浓屋
-- **库存**: "山崎12年"以上在非发售季很难找到，"无年份（NA）"也只在开店冲刺时偶尔有货。
+- <strong>店铺</strong>: Yamaya → Liquor Mountain → 信浓屋
+- <strong>库存</strong>: "山崎12年"以上在非发售季很难找到，"无年份（NA）"也只在开店冲刺时偶尔有货。
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-05.jpg" alt="银座乐天免税店 山崎12年 威士忌 正价">
@@ -94,13 +94,13 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 ---
 
-### 🍸 新宿酒铺 **响**
+### 🍸 新宿酒铺 <strong>响</strong>
 
 响的发现频率比山崎稍高一些。
 
-- **店铺**: Yamaya、信浓屋、威士忌王国等
-- **库存**: 响调酒师精选、响日本和谐
-- **价格**: 比机场免税和国内便宜，但多数会有溢价。
+- <strong>店铺</strong>: Yamaya、信浓屋、威士忌王国等
+- <strong>库存</strong>: 响调酒师精选、响日本和谐
+- <strong>价格</strong>: 比机场免税和国内便宜，但多数会有溢价。
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-06.jpg" alt="银座乐天免税店 响 日本和谐 免税价格（东京威士忌）">
@@ -113,7 +113,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 "响有哪些种类，有什么区别？"
 
-为了避免在酒铺看到高昂的溢价而惊讶，访问前请务必通过以下文章提前确认**山崎·响的官方价格**和**三得利威士忌全产品线（包括白州）**。
+为了避免在酒铺看到高昂的溢价而惊讶，访问前请务必通过以下文章提前确认<strong>山崎·响的官方价格</strong>和<strong>三得利威士忌全产品线（包括白州）</strong>。
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010546735
@@ -132,13 +132,13 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 ---
 
-### 🥃 新宿酒铺 **噶玛兰**
+### 🥃 新宿酒铺 <strong>噶玛兰</strong>
 
 噶玛兰是库存压力最小的"优等生威士忌"。
 
-- **店铺**: 必酷（Bic Camera）酒类专区
+- <strong>店铺</strong>: 必酷（Bic Camera）酒类专区
   新宿酒铺的噶玛兰圣地。
-- **库存**: 台湾威士忌"噶玛兰"的产品线非常丰富，价格也很不错。
+- <strong>库存</strong>: 台湾威士忌"噶玛兰"的产品线非常丰富，价格也很不错。
   （Solist Vinho Barrique、Oloroso Sherry等）
 - 可以与电子产品合并办理免税。
 
@@ -148,7 +148,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 即使在新宿酒铺找不到山崎·响的库存，还有办法。
 
-如果旅行路线中有银座，推荐访问**银座乐天免税店**。作为市内免税店，库存比机场多，还有免费试饮会和折扣优惠券福利。
+如果旅行路线中有银座，推荐访问<strong>银座乐天免税店</strong>。作为市内免税店，库存比机场多，还有免费试饮会和折扣优惠券福利。
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
@@ -164,18 +164,18 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 ## 4. 新手也不会失败的新宿酒铺利用技巧
 
-### 1️⃣ **价格标签用照片记录**
+### 1️⃣ <strong>价格标签用照片记录</strong>
 
 看到喜欢的酒款，不要急着拿起来，先从价格标签开始拍照。
 
 走几家店就能掌握行情。
 
-### 2️⃣ **确认是否有Tax Free（免税）**
+### 2️⃣ <strong>确认是否有Tax Free（免税）</strong>
 
 大部分大型酒铺都支持免税。
 （携带护照 / 购买5,000日元以上）
 
-### 3️⃣ **顺便购买獺祭**
+### 3️⃣ <strong>顺便购买獺祭</strong>
 
 "Yamaya"等大型酒铺的日本酒专区也很充实。
 
@@ -191,15 +191,15 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">酒铺 獺祭 日本酒专区 獺祭39、23、45</figcaption>
 </figure>
 
-### 4️⃣ **必酷（Bic Camera）免税10% + 3~7%折扣优惠券**
+### 4️⃣ <strong>必酷（Bic Camera）免税10% + 3~7%折扣优惠券</strong>
 
 位于新宿站正前方，交通极为便利。
 
 不仅有电子产品，还有药妆、日本酒等一站式购物，是游客最受欢迎的地点。
 
-**免税10% + 品类3~7%额外折扣优惠券**
+<strong>免税10% + 品类3~7%额外折扣优惠券</strong>
 
-**✅ [在Klook下载必酷（Bic Camera）优惠券↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1159187&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F73336-bic-camera-tourist-privilege-discount-coupon-2022%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8cbbe0ca97)**
+<strong>✅ [在Klook下载必酷（Bic Camera）优惠券↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1159187&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F73336-bic-camera-tourist-privilege-discount-coupon-2022%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8cbbe0ca97)</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-10.jpg" alt="新宿必酷 折扣优惠券 免税10%+额外7% 购物技巧">
@@ -212,9 +212,9 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 如果只买威士忌觉得不够，可以将新宿购物商场与酒铺路线组合起来。
 
-- **上午**: 新宿购物（伊势丹、LUMINE等百货商场）
-- **下午**: 新宿酒铺推荐路线巡游（山崎·响·噶玛兰行情调查）
-- **傍晚**: 新宿美食 + 夜景（黄金街等）
+- <strong>上午</strong>: 新宿购物（伊势丹、LUMINE等百货商场）
+- <strong>下午</strong>: 新宿酒铺推荐路线巡游（山崎·响·噶玛兰行情调查）
+- <strong>傍晚</strong>: 新宿美食 + 夜景（黄金街等）
 
 这样安排路线，新宿购物 + 威士忌购物 + 夜景一天全部搞定。
 
@@ -252,7 +252,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /zh-cn/posts/kaldi-coffee-farm-shopping-list/ -->
-**➡️ [日本KALDI 购物清单、必买KALDI推荐品（抹酱、速溶咖啡、免税技巧） ↗](#)**
+<strong>➡️ [日本KALDI 购物清单、必买KALDI推荐品（抹酱、速溶咖啡、免税技巧） ↗](#)</strong>
 
 **➡️ <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/japan-convenience-store-shopping-best-10

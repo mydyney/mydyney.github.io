@@ -23,17 +23,17 @@ Everything compiled from official sources. Experience the street of lights where
 
 ## Introduction
 
-Hello! This is **Tokyo Mate**, your Tokyo travel creator.
+Hello! This is <strong>Tokyo Mate</strong>, your Tokyo travel creator.
 
 Winter 2025-2026, Shinjuku nights have become a little more special. Thanks to the 'Shinjuku Neon Walk.'
 
 To be honest, if you're expecting grand-scale illuminations like Roppongi or Marunouchi, you might be a bit disappointed. 😅 It's not super large in scale.
 
-However! If you're visiting the Tokyo Metropolitan Government Building observation deck, I highly recommend stopping by. It's on the way, after all, and it's an excellent **Tokyo Metropolitan Government night view walking course** where you can enjoy AI art, neon signs, and food trucks.
+However! If you're visiting the Tokyo Metropolitan Government Building observation deck, I highly recommend stopping by. It's on the way, after all, and it's an excellent <strong>Tokyo Metropolitan Government night view walking course</strong> where you can enjoy AI art, neon signs, and food trucks.
 
-Today, based on official information, I'll summarize the **Shinjuku illumination course that you can thoroughly enjoy together with the Tokyo Metropolitan Government Building without disappointment**. ✨
+Today, based on official information, I'll summarize the <strong>Shinjuku illumination course that you can thoroughly enjoy together with the Tokyo Metropolitan Government Building without disappointment</strong>. ✨
 
-**➡️** <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank" style="color: #667eea;"><strong>Tokyo Metropolitan Government Free Observatory Light Show Times, Access, Closed Days & Night View Tips</strong></a>
+<strong>➡️</strong> <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank" style="color: #667eea;"><strong>Tokyo Metropolitan Government Free Observatory Light Show Times, Access, Closed Days & Night View Tips</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-02.jpg" alt="Tokyo Metropolitan Government Building light show at night">
@@ -44,18 +44,18 @@ Today, based on official information, I'll summarize the **Shinjuku illumination
 
 ## 1. Shinjuku Neon Walk Operating Information (Dates/Hours)
 
-A fusion of Edo-era tradition and modern technology—the light festival **Shinjuku Neon Walk** basic information.
+A fusion of Edo-era tradition and modern technology—the light festival <strong>Shinjuku Neon Walk</strong> basic information.
 
 ### 🌟 Shinjuku Neon Walk Art Illumination (Light Festival)
 
-- **Event Period:** November 27, 2025 (Thu) ~ January 7, 2026 (Wed)
-- **Lighting Hours:** 16:30 ~ 22:00
+- <strong>Event Period:</strong> November 27, 2025 (Thu) ~ January 7, 2026 (Wed)
+- <strong>Lighting Hours:</strong> 16:30 ~ 22:00
 
-**📌 Tip.** On December 31 (Wed), extended until **25:00 (1:00 AM)** for the **Shinjuku Countdown Event**!
+<strong>📌 Tip.</strong> On December 31 (Wed), extended until <strong>25:00 (1:00 AM)</strong> for the <strong>Shinjuku Countdown Event</strong>!
 
-- **Admission:** Free
-- **Location:** Chuo-dori (approx. 200m between Shinjuku Washington Hotel and Tokyo Metropolitan Government Building)
-- **Map:** **📍** <a href="https://maps.app.goo.gl/PcWuQShFkiSaZWGCA" target="_blank" style="color: #667eea;"><strong>View on Google Maps↗</strong></a>
+- <strong>Admission:</strong> Free
+- <strong>Location:</strong> Chuo-dori (approx. 200m between Shinjuku Washington Hotel and Tokyo Metropolitan Government Building)
+- <strong>Map:</strong> <strong>📍</strong> <a href="https://maps.app.goo.gl/PcWuQShFkiSaZWGCA" target="_blank" style="color: #667eea;"><strong>View on Google Maps↗</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-03.jpg" alt="Shinjuku Neon Walk art illumination map showing Zones A-D">
@@ -64,7 +64,7 @@ A fusion of Edo-era tradition and modern technology—the light festival **Shinj
 
 ### 🚚 Neo Neon Food Stalls (Food Trucks)
 
-The delicious-smelling food truck zone has **different operating dates**, so be sure to check before you go!
+The delicious-smelling food truck zone has <strong>different operating dates</strong>, so be sure to check before you go!
 
 <table class="schedule-table">
   <thead>
@@ -95,8 +95,8 @@ The delicious-smelling food truck zone has **different operating dates**, so be 
 
 I highly recommend walking from Shinjuku Station West Exit to Tokyo Metropolitan Government Building! 👑
 
-**🚅 JR Shinjuku Station West Exit**
-- Exit from the West Exit and walk straight along **'Chuo-dori'**.
+<strong>🚅 JR Shinjuku Station West Exit</strong>
+- Exit from the West Exit and walk straight along <strong>'Chuo-dori'</strong>.
 - It's the perfect course that lets you enjoy neon art from Zone A in order, naturally leading to the Tokyo Metropolitan Government Building observation deck. (About 10-15 minutes on foot)
 
 <figure>
@@ -104,12 +104,12 @@ I highly recommend walking from Shinjuku Station West Exit to Tokyo Metropolitan
   <figcaption style="font-size: 0.7em; text-align: center;">Chuo-dori connected to Shinjuku Station West Exit</figcaption>
 </figure>
 
-**🚅 Toei Oedo Line (E) Tochomae Station Exit A1**
+<strong>🚅 Toei Oedo Line (E) Tochomae Station Exit A1</strong>
 - It's the closest station to Tokyo Metropolitan Government Building, but you'd have to walk backwards against the flow to reach the Neon Walk venue, disrupting the viewing experience. I recommend using this when heading home after viewing.
 
-**🚅 Marunouchi Line (M) Nishi-Shinjuku Station Exit E7:** 10-minute walk
+<strong>🚅 Marunouchi Line (M) Nishi-Shinjuku Station Exit E7:</strong> 10-minute walk
 
-**🚌 Bus Option** (Recommended if walking is difficult)
+<strong>🚌 Bus Option</strong> (Recommended if walking is difficult)
 - JR Shinjuku Station West Exit (underground bus terminal) → Board Toei Bus 'Metropolitan Government Building Loop' → Get off at 'Metropolitan Government Building No. 1'
 
 ---
@@ -120,7 +120,7 @@ The entire Chuo-dori is divided into Zones A through D.
 
 ### ⭐ Zone-A: Birth of Light (Light Seeds)
 
-**1. Light Seeds ✨**
+<strong>1. Light Seeds ✨</strong>
 
 The main street where 'light seeds' hanging from roadside trees meet aurora lasers. The BGM was created by composer Tomoka Kitamura of <Elden Ring> and <Dark Souls> fame.
 
@@ -134,7 +134,7 @@ The main street where 'light seeds' hanging from roadside trees meet aurora lase
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Neon Walk Zone A - Birth of Light (Light Seeds)</figcaption>
 </div>
 
-**2. Lucky Neon Art 📸**
+<strong>2. Lucky Neon Art 📸</strong>
 
 Perfect neon sign photo zone for that "I was here!" proof shot at the entrance.
 
@@ -152,7 +152,7 @@ Perfect neon sign photo zone for that "I was here!" proof shot at the entrance.
 
 ### ⭐ Zone-B: AI Experience (Transformirror)
 
-**1. Transformirror 🤖**
+<strong>1. Transformirror 🤖</strong>
 
 Stand in front of the camera and AI recognizes you and transforms you into amazing video. The #1 most popular spot with lines of kids and couples!
 
@@ -161,7 +161,7 @@ Stand in front of the camera and AI recognizes you and transforms you into amazi
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Neon Walk Zone B - Transformirror</figcaption>
 </figure>
 
-**2. EDO GATE**
+<strong>2. EDO GATE</strong>
 
 The harmony of lanterns written in Edo-era calligraphy and cyberpunk neon. This is where the coolest aesthetic photos come from.
 
@@ -184,10 +184,10 @@ The harmony of lanterns written in Edo-era calligraphy and cyberpunk neon. This 
 
 The delicious-smelling food truck zone doesn't operate daily. Check the operating schedule!
 
-**😋 Recommended Menu**
-- **Kamimaki Sushi:** Bite-sized! Chu-toro roll (800 yen), Shrimp botti (700 yen)
-- **Turkey Leg (1,200 yen):** Fire-grilled BBQ, filling.
-- **Matcha Crepe (900 yen~):** Perfect for dessert.
+<strong>😋 Recommended Menu</strong>
+- <strong>Kamimaki Sushi:</strong> Bite-sized! Chu-toro roll (800 yen), Shrimp botti (700 yen)
+- <strong>Turkey Leg (1,200 yen):</strong> Fire-grilled BBQ, filling.
+- <strong>Matcha Crepe (900 yen~):</strong> Perfect for dessert.
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-13.jpg" alt="Neo Neon Food Stalls food trucks at Zone C">
@@ -198,14 +198,14 @@ The delicious-smelling food truck zone doesn't operate daily. Check the operatin
 
 ### ⭐ Zone-D: Meeting Plaza (KAWAII DOME)
 
-**1. 🌲 Echo Trees:** Emotional installation art where two trees have a conversation with light.
+<strong>1. 🌲 Echo Trees:</strong> Emotional installation art where two trees have a conversation with light.
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-14.jpg" alt="Echo Trees illuminated art installation at Zone D">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Neon Walk Zone D - Echo Trees</figcaption>
 </figure>
 
-**2. TOKYO KAWAII DOME🌸:** Cute neon art in collaboration with TV Asahi's popular program <Momokuro-chan>, extremely popular with couples.
+<strong>2. TOKYO KAWAII DOME🌸:</strong> Cute neon art in collaboration with TV Asahi's popular program <Momokuro-chan>, extremely popular with couples.
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-15.jpg" alt="TOKYO KAWAII DOME colorful neon display">
@@ -226,22 +226,22 @@ The delicious-smelling food truck zone doesn't operate daily. Check the operatin
 
 ## 4. Stamp Rally & Prizes (Don't Miss Out!)
 
-Don't just walk around Neon Walk—take out your **smartphone**!
+Don't just walk around Neon Walk—take out your <strong>smartphone</strong>!
 
-Collect **digital stamps** while enjoying the Shinjuku illumination walk and receive prizes galore.
+Collect <strong>digital stamps</strong> while enjoying the Shinjuku illumination walk and receive prizes galore.
 
-- **Period:** November 27, 2025 (Thu) ~ January 7, 2026 (Wed)
-- **Hours:** 16:30 ~ 22:00
-- **How:** Open the digital map and **TAP!** (No app installation required / Japanese & English supported)
+- <strong>Period:</strong> November 27, 2025 (Thu) ~ January 7, 2026 (Wed)
+- <strong>Hours:</strong> 16:30 ~ 22:00
+- <strong>How:</strong> Open the digital map and <strong>TAP!</strong> (No app installation required / Japanese & English supported)
 
-**✅** <a href="https://tokyo-nighttime-project.stroly.com/ko" target="_blank" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>(Click) Open Shinjuku Illumination Digital Map</strong></a>
+<strong>✅</strong> <a href="https://tokyo-nighttime-project.stroly.com/ko" target="_blank" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>(Click) Open Shinjuku Illumination Digital Map</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-18.jpg" alt="Information board with QR code for stamp rally access">
   <figcaption style="font-size: 0.7em; text-align: center;">QR code access available at stamp location signboards</figcaption>
 </figure>
 
-**Stamp Locations (10 spots)**
+<strong>Stamp Locations (10 spots)</strong>
 
 ① Shinjuku Neon Walk Transformirror
 ② Shinjuku Neon Walk EDO GATE
@@ -259,10 +259,10 @@ Collect **digital stamps** while enjoying the Shinjuku illumination walk and rec
   <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Neon Walk stamp rally map with 10 locations (<a href="https://tokyo-nighttime-project.jp/en/neonwalk/" target="_blank" style="color: #667eea;">Source</a>)</figcaption>
 </figure>
 
-**🎁 Prizes**
+<strong>🎁 Prizes</strong>
 
-- **5 Stamps Collected (Half Prize):** **Instant win**! Hotel lounge discount vouchers, food truck 200 yen discount coupons, etc.
-- **10 Stamps Collected (Complete Prize):** Lottery for QUO Card 2,000 yen (50 winners), limited edition T-shirt (10 winners)
+- <strong>5 Stamps Collected (Half Prize):</strong> <strong>Instant win</strong>! Hotel lounge discount vouchers, food truck 200 yen discount coupons, etc.
+- <strong>10 Stamps Collected (Complete Prize):</strong> Lottery for QUO Card 2,000 yen (50 winners), limited edition T-shirt (10 winners)
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-20.jpg" alt="Shinjuku Sumitomo Building snow flow illumination installation">
@@ -278,26 +278,26 @@ Collect **digital stamps** while enjoying the Shinjuku illumination walk and rec
 
 ## 5. Visit Tips!
 
-**1️⃣ Winter Gear Essential**
+<strong>1️⃣ Winter Gear Essential</strong>
 
-Tokyo winter nights, with the wind blowing between buildings (building wind), the perceived temperature is quite low. Be sure to bring **hot packs and gloves**.
+Tokyo winter nights, with the wind blowing between buildings (building wind), the perceived temperature is quite low. Be sure to bring <strong>hot packs and gloves</strong>.
 
-**2️⃣ Golden Time**
+<strong>2️⃣ Golden Time</strong>
 
-**Weekdays 17:00~19:00** is the best time with moderate crowds for taking photos.
+<strong>Weekdays 17:00~19:00</strong> is the best time with moderate crowds for taking photos.
 
-**3️⃣ Want to Enjoy the Countdown on December 31st Too?**
+<strong>3️⃣ Want to Enjoy the Countdown on December 31st Too?</strong>
 
-On December 31st, a large-scale **Shinjuku Countdown** event called **'Happy New Year Tokyo 2026'** will be held at the same location (Tokyo Metropolitan Government Plaza). Hatsune Miku performances and projection mapping are scheduled.
+On December 31st, a large-scale <strong>Shinjuku Countdown</strong> event called <strong>'Happy New Year Tokyo 2026'</strong> will be held at the same location (Tokyo Metropolitan Government Plaza). Hatsune Miku performances and projection mapping are scheduled.
 
-If you want to shout **Shinjuku Happy New Year** together, **advance registration (free)** is required! For detailed information, please check the post below.
+If you want to shout <strong>Shinjuku Happy New Year</strong> together, <strong>advance registration (free)</strong> is required! For detailed information, please check the post below.
 
-**👇 Shinjuku New Year Countdown Free Registration Method**
+<strong>👇 Shinjuku New Year Countdown Free Registration Method</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224095118118
      Hugo: /posts/tokyo-countdown-2026/ -->
-**➡️** <a href="/posts/tokyo-countdown-2026/" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Happy New Year Tokyo 2026 Application & Lineup Complete Guide</strong></a>
+<strong>➡️</strong> <a href="/posts/tokyo-countdown-2026/" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Happy New Year Tokyo 2026 Application & Lineup Complete Guide</strong></a>
 
 <figure>
   <img src="/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-22.jpg" alt="Shinjuku Sumitomo Building Christmas illumination overview">
@@ -319,12 +319,12 @@ That's all from Tokyo Mate!
 <!-- TODO: Update link after migration
      Naver: /posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison (2025 Latest Edition)</strong></a>
+<strong>➡️</strong> <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Complete Comparison (2025 Latest Edition)</strong></a>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /posts/[SLUG_TBD]/ -->
-**➡️** <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Shinjuku Things to Do: Perfect Course from Shinjuku Gyoen to Restaurants & Shopping</strong></a>
+<strong>➡️</strong> <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Shinjuku Things to Do: Perfect Course from Shinjuku Gyoen to Restaurants & Shopping</strong></a>
 
 
 <div class="editors-note">

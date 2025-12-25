@@ -70,7 +70,7 @@ Especially for families with strollers and lots of luggage, the 'Busta Shinjuku 
   </tbody>
 </table>
 
-**📌 Recommended for families!**
+<strong>📌 Recommended for families!</strong>
 If traveling with children, the limousine bus with "seat reservation + luggage storage" is much more efficient.
 
 <figure>
@@ -84,13 +84,13 @@ If traveling with children, the limousine bus with "seat reservation + luggage s
 
 ### ✅ Busta Shinjuku (Bus Terminal)
 
-- **Location:** Directly connected to JR Shinjuku Station New South Exit
-- **Floor:** 4th floor bus terminal
-- **Ticket Office:** 3rd floor information desk (Suica/PayPay accepted)
+- <strong>Location:</strong> Directly connected to JR Shinjuku Station New South Exit
+- <strong>Floor:</strong> 4th floor bus terminal
+- <strong>Ticket Office:</strong> 3rd floor information desk (Suica/PayPay accepted)
 
-**📍 Google Maps: Busta Shinjuku <a href="https://maps.app.goo.gl/N5eYAsxAi26R6o1x5" target="_blank">View Location</a>**
+<strong>📍 Google Maps: Busta Shinjuku <a href="https://maps.app.goo.gl/N5eYAsxAi26R6o1x5" target="_blank">View Location</a></strong>
 
-**🚶‍♀️ How to Get There**
+<strong>🚶‍♀️ How to Get There</strong>
 Shinjuku Station South Exit → Escalator next to NEWoMan department store → Go up to 4th floor 'BUSTA SHINJUKU' for immediate bus boarding!
 
 <figure>
@@ -130,7 +130,7 @@ Shinjuku Station South Exit → Escalator next to NEWoMan department store → G
   </tbody>
 </table>
 
-**💡 Recommended Time:**
+<strong>💡 Recommended Time:</strong>
 For families, buses between 07:00-08:30 recommended (arrive in time for opening)
 Saturdays/Sundays require advance booking! (7:00 buses fill up quickly)
 
@@ -171,7 +171,7 @@ Saturdays/Sundays require advance booking! (7:00 buses fill up quickly)
   </tbody>
 </table>
 
-**📌 Tip:**
+<strong>📌 Tip:</strong>
 Even after watching fireworks (20:30-20:45),
 The last buses after 21:00 (21:10-21:30) are available!
 
@@ -201,12 +201,12 @@ The last buses after 21:00 (21:10-21:30) are available!
   </tbody>
 </table>
 
-**✅ No Advance Booking Required**
+<strong>✅ No Advance Booking Required</strong>
 
-**🚌 Boarding at Busta Shinjuku**
+<strong>🚌 Boarding at Busta Shinjuku</strong>
 Purchase tickets at Busta Shinjuku ticket machines or counter
 
-**🚌 Boarding at Tokyo Disney Resort**
+<strong>🚌 Boarding at Tokyo Disney Resort</strong>
 Pay with cash or IC card (PASMO, Suica, etc.) on board
 Credit card tap payment also available.
 
@@ -239,7 +239,7 @@ Families with children recommended for front row/window seats!
   </tbody>
 </table>
 
-**👉 Conclusion**
+<strong>👉 Conclusion</strong>
 - Families with children → Bus!
 - Solo/couple travel → JR, Subway!
 
@@ -252,14 +252,14 @@ Families with children recommended for front row/window seats!
 
 ## 👨‍👩‍👧 Recommended Shinjuku Family Travel Course
 
-- **Morning:** Depart Shinjuku accommodation → Board 07:00 bus
-- **Morning-Evening:** Enjoy Disneyland all day
-- **Night:** Board return bus → Arrive Shinjuku → Dinner near NewoMan
+- <strong>Morning:</strong> Depart Shinjuku accommodation → Board 07:00 bus
+- <strong>Morning-Evening:</strong> Enjoy Disneyland all day
+- <strong>Night:</strong> Board return bus → Arrive Shinjuku → Dinner near NewoMan
 
-🎡 **For complete kids park routes including Disney, check here**
-**➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks (Sanrio, Thomas, Yomiuri, Tokyo Dome)</a>**
+🎡 <strong>For complete kids park routes including Disney, check here</strong>
+<strong>➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks (Sanrio, Thomas, Yomiuri, Tokyo Dome)</a></strong>
 
-🎠 **For Disney park information:**
+🎠 <strong>For Disney park information:</strong>
 ➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank">Tokyo Disneyland Complete Guide (Tickets, DPA, Restaurants)</a>
 
 <figure>
@@ -274,15 +274,15 @@ Families with children recommended for front row/window seats!
 **➡️ <!-- Link updated -->
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Course Guide</a>**
 
-**➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks</a>**
+<strong>➡️ <a href="/posts/shinjuku-kids-parks-guide/" target="_blank">Shinjuku with Kids! How to Get to 5 Major Kids Parks</a></strong>
 
-**➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank">Tokyo Disneyland Complete Guide</a>**
+<strong>➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank">Tokyo Disneyland Complete Guide</a></strong>
 
 ---
 
 ## 🎁 Final One-Line Summary
 
-✔️ **Depart Shinjuku → Busta Shinjuku limousine bus → Arrive at Disneyland in 1 hour!**
+✔️ <strong>Depart Shinjuku → Busta Shinjuku limousine bus → Arrive at Disneyland in 1 hour!</strong>
 For families with lots of luggage and children, this route is the most stress-free way to travel.
 
 

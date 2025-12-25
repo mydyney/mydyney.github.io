@@ -32,7 +32,7 @@ Connected directly to the Yaesu Exit, First Avenue Tokyo Station is a shopping a
 
 A must-visit heaven for anime and character fans! Official shops for Japan's representative characters like Pokémon, Ghibli, Jump Shop, Chiikawa, and Kirby are all gathered in one street.
 
-**Pokemon Store & Pokemon Card Station**
+<strong>Pokemon Store & Pokemon Card Station</strong>
 
 A holy land for Pokemon fans! You can buy limited edition goods found only at Tokyo Station and verify genuine Pokemon cards.
 
@@ -70,7 +70,7 @@ An all-day cafe and Italian/wine bar operated by KALDI. Morning, lunch, tea time
 
 ## 2. Enjoy Inside the Ticket Gates (Pre/Post Train Tips!)
 
-🚨 **Note:** The places below are special areas available only to those who have entered the ticket gates using a Shinkansen or JR train ticket!
+🚨 <strong>Note:</strong> The places below are special areas available only to those who have entered the ticket gates using a Shinkansen or JR train ticket!
 
 ### ① [Ekibenya Matsuri](https://maps.app.goo.gl/TwHBXTbjG6z16Ggk9) 📍
 
@@ -101,7 +101,7 @@ Part of Gransta extends spaciously inside the ticket gates. Here you can buy spe
 
 KITTE is a shopping and dining complex located right in front of the Tokyo Station Marunouchi South Exit, located in the preserved and renovated former Central Post Office building. It's directly connected to Tokyo Station underground, making it easy to visit even on rainy days, and is an essential course for lunch, cafes, and buying gifts.
 
-**Dining:** On the 5th floor, there is the famous Hokkaido revolving sushi restaurant **"[Nemuro Hanamaru KITTE Branch](https://maps.app.goo.gl/T3n3Ct875ULmaqsy5) 📍."** Since the waiting times are famous for being long, I recommend getting a numbered ticket in advance.
+<strong>Dining:</strong> On the 5th floor, there is the famous Hokkaido revolving sushi restaurant <strong>"[Nemuro Hanamaru KITTE Branch](https://maps.app.goo.gl/T3n3Ct875ULmaqsy5) 📍."</strong> Since the waiting times are famous for being long, I recommend getting a numbered ticket in advance.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223680263119
@@ -113,7 +113,7 @@ KITTE is a shopping and dining complex located right in front of the Tokyo Stati
   <figcaption style="font-size: 0.7em; text-align: center;">KITTE Marunouchi building</figcaption>
 </figure>
 
-**Free Observatory (Night View Spot):** The rooftop garden on the 6th floor is the best **free observatory** where you can view the Tokyo Station nightscape most beautifully. Spend a romantic evening watching the trains come and go against the backdrop of the red brick Marunouchi station building. 🌃
+<strong>Free Observatory (Night View Spot):</strong> The rooftop garden on the 6th floor is the best <strong>free observatory</strong> where you can view the Tokyo Station nightscape most beautifully. Spend a romantic evening watching the trains come and go against the backdrop of the red brick Marunouchi station building. 🌃
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
@@ -127,11 +127,11 @@ KITTE is a shopping and dining complex located right in front of the Tokyo Stati
 
 ### ② Marunouchi Building & Shin-Marunouchi Building
 
-**[Marunouchi Building](https://maps.app.goo.gl/q1newUnPi2yJaMcg8) 📍**
+<strong>[Marunouchi Building](https://maps.app.goo.gl/q1newUnPi2yJaMcg8) 📍</strong>
 
 The landmark of Tokyo Station Marunouchi South Exit. Directly connected to Tokyo Station from the basement.
 
-**Brunch Cafe:** **[THE FRONT ROOM](https://maps.app.goo.gl/ovxMQuriDq381Cnw7) 📍** opens early in the morning, making it a great Tokyo Station cafe to enjoy a hearty breakfast with French toast before starting your trip.
+<strong>Brunch Cafe:</strong> <strong>[THE FRONT ROOM](https://maps.app.goo.gl/ovxMQuriDq381Cnw7) 📍</strong> opens early in the morning, making it a great Tokyo Station cafe to enjoy a hearty breakfast with French toast before starting your trip.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675706489
@@ -143,7 +143,7 @@ The landmark of Tokyo Station Marunouchi South Exit. Directly connected to Tokyo
   <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Building 1F Brunch Cafe THE FRONT ROOM French Toast</figcaption>
 </figure>
 
-**Free Observatory:** Hidden free observatories on the 5th and 35th floors are great for admiring the sunset and night view.
+<strong>Free Observatory:</strong> Hidden free observatories on the 5th and 35th floors are great for admiring the sunset and night view.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675952285
@@ -155,11 +155,11 @@ The landmark of Tokyo Station Marunouchi South Exit. Directly connected to Tokyo
   <figcaption style="font-size: 0.7em; text-align: center;">Sunset viewed from Marunouchi Building 35F Free Observatory</figcaption>
 </figure>
 
-**[Shin-Marunouchi Building](https://maps.app.goo.gl/s1FhambQTjwcA2Cj9) 📍**
+<strong>[Shin-Marunouchi Building](https://maps.app.goo.gl/s1FhambQTjwcA2Cj9) 📍</strong>
 
 The newest complex tower located directly in front of Tokyo Station Marunouchi Central Exit.
 
-**Night View & Dining:** The outdoor terrace at **'Marunouchi House'** on the 7th floor is a romantic place where you can enjoy dinner or cocktails while looking directly at the Tokyo Station night view. The atmosphere on Friday and Saturday evenings is especially good.
+<strong>Night View & Dining:</strong> The outdoor terrace at <strong>'Marunouchi House'</strong> on the 7th floor is a romantic place where you can enjoy dinner or cocktails while looking directly at the Tokyo Station night view. The atmosphere on Friday and Saturday evenings is especially good.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
@@ -173,11 +173,11 @@ The newest complex tower located directly in front of Tokyo Station Marunouchi C
 
 ### ③ [Marunouchi Oazo](https://maps.app.goo.gl/vKu13XuDJSgpUV5i6) 📍
 
-A complex commercial facility in front of Tokyo Station Marunouchi North Exit. It houses the flagship store of the mega-bookstore **[Maruzen](https://maps.app.goo.gl/WB7gbMmKeP3rvX8H8) 📍**, so you can enjoy books, stationery, galleries, and a book cafe all at once.
+A complex commercial facility in front of Tokyo Station Marunouchi North Exit. It houses the flagship store of the mega-bookstore <strong>[Maruzen](https://maps.app.goo.gl/WB7gbMmKeP3rvX8H8) 📍</strong>, so you can enjoy books, stationery, galleries, and a book cafe all at once.
 
 ### ④ [Wadakura Fountain Park Starbucks](https://maps.app.goo.gl/sxf7B4WS2h93zANM6) 📍
 
-A special **Wadakura Fountain Park Starbucks** located near the Imperial Palace. You can enjoy coffee with the night view of the park through the floor-to-ceiling windows, making it popular as a Tokyo Station night view cafe.
+A special <strong>Wadakura Fountain Park Starbucks</strong> located near the Imperial Palace. You can enjoy coffee with the night view of the park through the floor-to-ceiling windows, making it popular as a Tokyo Station night view cafe.
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223685676173
@@ -198,18 +198,18 @@ A special **Wadakura Fountain Park Starbucks** located near the Imperial Palace.
 
 Marunouchi Naka-dori is a beautiful tree-lined street stretching from the Marunouchi Building to Yurakucho Station. Lined with luxury boutiques, galleries, and terrace cafes, it's great for shopping while strolling.
 
-**[Marunouchi Brick Square's](https://maps.app.goo.gl/LXNmpfEKm6BFCULw8) 📍** cozy garden and open-air plaza with a fountain are perfect for a quiet walk and rest.
+<strong>[Marunouchi Brick Square's](https://maps.app.goo.gl/LXNmpfEKm6BFCULw8) 📍</strong> cozy garden and open-air plaza with a fountain are perfect for a quiet walk and rest.
 
-**Dining:** On the B1 floor, there is **"[Manten Sushi](https://maps.app.goo.gl/Pk6RYK1yubGMtRJj9) 📍"**, known for its excellent value-for-money omakase using carefully selected seasonal ingredients.
+<strong>Dining:</strong> On the B1 floor, there is <strong>"[Manten Sushi](https://maps.app.goo.gl/Pk6RYK1yubGMtRJj9) 📍"</strong>, known for its excellent value-for-money omakase using carefully selected seasonal ingredients.
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-15.jpg" alt="Marunouchi Brick Square">
   <figcaption style="font-size: 0.7em; text-align: center;">Marunouchi Brick Square</figcaption>
 </figure>
 
-Especially in winter, the **"Marunouchi Illumination"** takes place, dyeing the entire street in champagne gold light, offering a fantastic night view. ✨
+Especially in winter, the <strong>"Marunouchi Illumination"</strong> takes place, dyeing the entire street in champagne gold light, offering a fantastic night view. ✨
 
-If you need the latest information on the 2025 **Disney Collaboration** and **Christmas Market**, check out the latest post below!
+If you need the latest information on the 2025 <strong>Disney Collaboration</strong> and <strong>Christmas Market</strong>, check out the latest post below!
 
 ➡️ <a href="/posts/marunouchi-illumination-2025/" style="color: #667eea;"><strong>2025 Marunouchi Illumination Latest Info (Disney, Market Summary)</strong></a>
 
@@ -225,11 +225,11 @@ If you need the latest information on the 2025 **Disney Collaboration** and **Ch
 
 ## Essential Tip for Travelers: Tokyo Station Luggage Storage (Coin Lockers)
 
-Before enjoying the attractions of Tokyo Station, you'll want to get rid of your heavy luggage, right? **Tokyo Station luggage storage** is easy thanks to Japan's largest scale coin locker facilities.
+Before enjoying the attractions of Tokyo Station, you'll want to get rid of your heavy luggage, right? <strong>Tokyo Station luggage storage</strong> is easy thanks to Japan's largest scale coin locker facilities.
 
-**Location:** Coin lockers are installed in a total of 43 locations: 13 inside the ticket gates and 30 outside.
+<strong>Location:</strong> Coin lockers are installed in a total of 43 locations: 13 inside the ticket gates and 30 outside.
 
-**Caution:** Since the station is very large and there are many lockers, it is highly recommended to **take a photo of the location** where you stored your bags. Be aware that coin lockers outside the Yaesu side ticket gates are managed by different entities, so the numbering system can be complicated.
+<strong>Caution:</strong> Since the station is very large and there are many lockers, it is highly recommended to <strong>take a photo of the location</strong> where you stored your bags. Be aware that coin lockers outside the Yaesu side ticket gates are managed by different entities, so the numbering system can be complicated.
 
 <!-- Link for coin locker guide page (placeholder) -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[Link] Check Tokyo Station Coin Locker Status and Locations</strong></a>
@@ -241,13 +241,13 @@ Before enjoying the attractions of Tokyo Station, you'll want to get rid of your
 
 ## 🙋‍♀️ Frequently Asked Questions (Q&A)
 
-**Q1. What are the business hours for Tokyo Character Street?**
-A1. Most shops are open from **10:00 AM to 8:30 PM**. However, some stores may differ, so checking the official website before visiting is most accurate.
+<strong>Q1. What are the business hours for Tokyo Character Street?</strong>
+A1. Most shops are open from <strong>10:00 AM to 8:30 PM</strong>. However, some stores may differ, so checking the official website before visiting is most accurate.
 
-**Q2. Where is the best free spot to see the Tokyo Station night view?**
-A2. I highly recommend the **Shin-Marunouchi Building 7th Floor Terrace** and **Marunouchi Building 5th Floor Terrace**. Both places offer the most beautiful composition of the red brick station building, the symbol of Tokyo Station.
+<strong>Q2. Where is the best free spot to see the Tokyo Station night view?</strong>
+A2. I highly recommend the <strong>Shin-Marunouchi Building 7th Floor Terrace</strong> and <strong>Marunouchi Building 5th Floor Terrace</strong>. Both places offer the most beautiful composition of the red brick station building, the symbol of Tokyo Station.
 
-**Q3. Can I just enter the Tokyo Station ticket gates if I have a JR Pass?**
+<strong>Q3. Can I just enter the Tokyo Station ticket gates if I have a JR Pass?</strong>
 A3. Yes, if you have a valid JR Pass, you can show it to the station staff to enter the ticket gates and freely use "Ekibenya Matsuri" or "Gransta Tokyo".
 
 ## ✨ Related Tokyo Travel Guides

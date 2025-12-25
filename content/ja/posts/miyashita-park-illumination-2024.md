@@ -10,26 +10,26 @@ summary: "渋谷ミヤシタパーク4階屋上庭園の魅惑的なクリスマ
 featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ---
 
-📌 **2025年最新のミヤシタパーククリスマスマーケット情報は下記の記事をご参照ください！**
+📌 <strong>2025年最新のミヤシタパーククリスマスマーケット情報は下記の記事をご参照ください！</strong>
 
-[➡️ **渋谷ミヤシタパーク＆渋谷横丁（2025クリスマスマーケット・パワーパフガールズ・正直レビュー）**](/ja/posts/shibuya-miyashita-park-yokocho-2025/)
+[➡️ <strong>渋谷ミヤシタパーク＆渋谷横丁（2025クリスマスマーケット・パワーパフガールズ・正直レビュー）</strong>](/ja/posts/shibuya-miyashita-park-yokocho-2025/)
 
 渋谷ミヤシタパーク（MIYASHITA PARK）の屋上庭園が幻想的な紫色に染まりました。インスタ映えスポットとしても有名なミヤシタパーククリスマスイルミネーションをご紹介します。
 
 ## 期間と時間
 
-**期間:** 2024年11月23日 ～ 2025年1月7日  
+<strong>期間:</strong> 2024年11月23日 ～ 2025年1月7日  
 ※休業日: 2024年12月29日 ～ 1月3日
 
-**時間:** 午前8時 ～ 午後10時40分
+<strong>時間:</strong> 午前8時 ～ 午後10時40分
 
-**入場料:** 無料
+<strong>入場料:</strong> 無料
 
-**場所:** ミヤシタパーク4階屋上庭園
+<strong>場所:</strong> ミヤシタパーク4階屋上庭園
 
-**Googleマップ:** https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9
+<strong>Googleマップ:</strong> https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9
 
-[**Miyashita Park · 6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001, Japan**](https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9) 📍
+[<strong>Miyashita Park · 6 Chome-20-10 Jingumae, Shibuya, Tokyo 150-0001, Japan</strong>](https://maps.app.goo.gl/31yS9m9dAPXPB8Ks9) 📍
 
 ## アクセス
 
@@ -87,13 +87,13 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 
 クリスマス直前の週末、音楽と共に楽しい雰囲気に浸る「ラブパープルミュージックナイト」が開催されます。DJとライブ音楽、フードトラックなど小さなパーティーが開かれます。
 
-**期間:** 2024年12月20日（金）～ 12月22日（日）
+<strong>期間:</strong> 2024年12月20日（金）～ 12月22日（日）
 
-**時間:** 午後4時 ～ 午後9時
+<strong>時間:</strong> 午後4時 ～ 午後9時
 
-**場所:** ミヤシタパーク4階芝生広場
+<strong>場所:</strong> ミヤシタパーク4階芝生広場
 
-**入場料:** 無料
+<strong>入場料:</strong> 無料
 
 女性と子どもを含むすべての弱者に対する暴力に反対し、暴力のない世界、お互いを尊重し保護する国際的なキャンペーン「パープルリボン運動」も一緒に行われます。
 
@@ -103,17 +103,17 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ### 1. 松ぼっくりクリスマスツリー作り
 
 ![クリスマスツリーワークショップ](/images/posts/miyashita-park-illumination-2024-11.jpg)
-**画像出典:** https://www.miyashita-park.tokyo/schedule/?p=2393
+<strong>画像出典:</strong> https://www.miyashita-park.tokyo/schedule/?p=2393
 
-**日程:** 2024年12月21日 ～ 12月22日
+<strong>日程:</strong> 2024年12月21日 ～ 12月22日
 
-**時間:** 午後1時 ～ 午後4時
+<strong>時間:</strong> 午後1時 ～ 午後4時
 
-**対象:** 全年齢
+<strong>対象:</strong> 全年齢
 
-**参加費:** 300円（現金）
+<strong>参加費:</strong> 300円（現金）
 
-**申込方法:** 当日現場受付
+<strong>申込方法:</strong> 当日現場受付
 
 ![ワークショップ詳細1](/images/posts/miyashita-park-illumination-2024-12.jpg)
 *写真出典: https://www.seibu-la.co.jp/park/miyashita-park/*
@@ -121,17 +121,17 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 
 ![ワークショップ詳細2](/images/posts/miyashita-park-illumination-2024-13.jpg)
 
-**日程:** 2024年12月21日 ～ 12月22日
+<strong>日程:</strong> 2024年12月21日 ～ 12月22日
 
-**時間:** 午後1時 ～ 午後4時
+<strong>時間:</strong> 午後1時 ～ 午後4時
 
-**対象:** 全年齢
+<strong>対象:</strong> 全年齢
 
 ## エピローグ
 
 渋谷旅行の締めくくりをミヤシタパークのイルミネーションと温かいお茶で過ごしてみてはいかがでしょうか。東京の都心で温かい冬の夜の思い出を作ってください。
 
-**⭐ 関連する渋谷旅行情報**
+<strong>⭐ 関連する渋谷旅行情報</strong>
 
-[➡️ **渋谷完全ガイド: 渋谷スカイ予約からショッピング、レストランまで完璧コース推薦**](/ja/posts/shibuya-complete-guide-2025/)
+[➡️ <strong>渋谷完全ガイド: 渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong>](/ja/posts/shibuya-complete-guide-2025/)
 

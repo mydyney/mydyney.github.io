@@ -15,11 +15,11 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
   <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Sawamura Weekday Lunch - Unlimited Bread, Salad & Coffee</figcaption>
 </figure>
 
-**"Karuizawa's famous bakery queue has landed in Tokyo! 🥐**
+<strong>"Karuizawa's famous bakery queue has landed in Tokyo! 🥐</strong>
 
-**If you're looking for a Tokyo Station restaurant, SAWAMURA on the 7th floor of Shin-Marunouchi Building is the answer. Unlimited refills of natural yeast bread just like the Karuizawa flagship store, plus main dishes so excellent it's ranked as tier-1 Marunouchi lunch spot—a true gem.**
+<strong>If you're looking for a Tokyo Station restaurant, SAWAMURA on the 7th floor of Shin-Marunouchi Building is the answer. Unlimited refills of natural yeast bread just like the Karuizawa flagship store, plus main dishes so excellent it's ranked as tier-1 Marunouchi lunch spot—a true gem.</strong>
 
-**Today I'll share my honest review of 2 premium lunch options (Matsusaka Pork & Crab Avocado Pasta), tips to avoid waiting, and complete info on other Tokyo locations."**
+<strong>Today I'll share my honest review of 2 premium lunch options (Matsusaka Pork & Crab Avocado Pasta), tips to avoid waiting, and complete info on other Tokyo locations."</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-02.jpg" alt="Sawamura Marunouchi Branch Sign">
@@ -28,20 +28,20 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 ## Sawamura Business Info & Access
 
-**Location:** Shin-Marunouchi Building 7F (1-minute walk from Tokyo Station Marunouchi North Exit)
+<strong>Location:</strong> Shin-Marunouchi Building 7F (1-minute walk from Tokyo Station Marunouchi North Exit)
 
-**Hours:** 11:00 - 23:00 (Sundays until 22:00)
+<strong>Hours:</strong> 11:00 - 23:00 (Sundays until 22:00)
 
-**Closed:** Open year-round (except January 1st)
+<strong>Closed:</strong> Open year-round (except January 1st)
 
-**Reservations:** Lunch time only available for course meals (4,000 yen~) - à la carte is walk-in only
+<strong>Reservations:</strong> Lunch time only available for course meals (4,000 yen~) - à la carte is walk-in only
 
-**Payment:** Credit cards accepted
+<strong>Payment:</strong> Credit cards accepted
 
-**📌 Tokyo Mate Tip:** How about exploring Tokyo Station after your meal to help digest? We've compiled everything from Character Street to hidden gems.
+<strong>📌 Tokyo Mate Tip:</strong> How about exploring Tokyo Station after your meal to help digest? We've compiled everything from Character Street to hidden gems.
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224031611221 -->
-**👉 Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage**
+<strong>👉 Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-03.jpg" alt="Shin-Marunouchi Building Exterior">
@@ -59,7 +59,7 @@ Step out to the 7th floor terrace seating and Tokyo Station's red brick architec
 
 Especially if you visit during winter evenings, don't miss the Marunouchi Illumination spreading outside the windows!
 
-[👉 **Tokyo Marunouchi Illumination 2025 Period & Hours Complete Guide**](/posts/marunouchi-illumination-2025/)
+[👉 <strong>Tokyo Marunouchi Illumination 2025 Period & Hours Complete Guide</strong>](/posts/marunouchi-illumination-2025/)
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-05.jpg" alt="Shin-Marunouchi Building Terrace Night View">
@@ -70,10 +70,10 @@ Especially if you visit during winter evenings, don't miss the Marunouchi Illumi
 
 The best value you can get with a 2,000 yen budget.
 
-- **Main dish** (choose 1)
-- **Aged yeast bread** (unlimited refills)
-- **Fresh salad**
-- **Coffee or tea**
+- <strong>Main dish</strong> (choose 1)
+- <strong>Aged yeast bread</strong> (unlimited refills)
+- <strong>Fresh salad</strong>
+- <strong>Coffee or tea</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-06.jpg" alt="Sawamura Weekday Lunch Menu">
@@ -90,9 +90,9 @@ The best value you can get with a 2,000 yen budget.
 ### ① Matsusaka Pork Tandoori Spare Ribs (1,980 yen)
 (松阪ポークのタンドリースペアリブ)
 
-**Taste:** Using 'Matsusaka Pork' from Mie Prefecture, famous as one of Japan's top 3 wagyu, the meat quality is surprisingly tender. Touch it with a knife and it slides right off the bone.
+<strong>Taste:</strong> Using 'Matsusaka Pork' from Mie Prefecture, famous as one of Japan's top 3 wagyu, the meat quality is surprisingly tender. Touch it with a knife and it slides right off the bone.
 
-**Features:** I worried the tandoori spices might be strong, but the subtle spice aroma only whets your appetite. The savory seasoning pairs perfectly with Sawamura's light bread—I officially recognize this as a "bread thief" menu item.
+<strong>Features:</strong> I worried the tandoori spices might be strong, but the subtle spice aroma only whets your appetite. The savory seasoning pairs perfectly with Sawamura's light bread—I officially recognize this as a "bread thief" menu item.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-08.jpg" alt="Glistening Spare Ribs Plating">
@@ -102,9 +102,9 @@ The best value you can get with a 2,000 yen budget.
 ### ② Crab and Avocado Cream Sauce Tagliatelle (2,288 yen)
 (蟹とアボカドのクリームソース タリアテッレ)
 
-**Taste:** The 'forest butter' avocado melts into the cream sauce, exploding with richness. Add the umami of crab meat and it can't help but be delicious.
+<strong>Taste:</strong> The 'forest butter' avocado melts into the cream sauce, exploding with richness. Add the umami of crab meat and it can't help but be delicious.
 
-**Noodles:** Using wide tagliatelle noodles, the sauce clings generously. You must wipe up the remaining sauce with bread! 😋
+<strong>Noodles:</strong> Using wide tagliatelle noodles, the sauce clings generously. You must wipe up the remaining sauce with bread! 😋
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-09.jpg" alt="Thick Tagliatelle Pasta with Crab and Avocado Cream Sauce">
@@ -113,21 +113,21 @@ The best value you can get with a 2,000 yen budget.
 
 ## 🍞 Bread Lovers' Paradise: Unlimited Bread & Salad
 
-**Unlimited Bread:** Baguette, campagne, nut bread and more come out randomly. The touching detail is they're served warm, not cold. Staff circulate to offer refills.
+<strong>Unlimited Bread:</strong> Baguette, campagne, nut bread and more come out randomly. The touching detail is they're served warm, not cold. Staff circulate to offer refills.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-10.jpg" alt="Sawamura Bread Basket">
   <figcaption style="font-size: 0.85em; text-align: center;">Sawamura Bread Basket with Baguette, Campagne, and Ciabatta</figcaption>
 </figure>
 
-**Salad:** Not just a token salad, but a fresh, voluminous salad with well-mixed dressing served like a course appetizer.
+<strong>Salad:</strong> Not just a token salad, but a fresh, voluminous salad with well-mixed dressing served like a course appetizer.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-11.jpg" alt="Salad Included in Sawamura Weekday Lunch Set">
   <figcaption style="font-size: 0.85em; text-align: center;">Salad Included in Sawamura Weekday Lunch Set</figcaption>
 </figure>
 
-**Coffee/Tea:** Choose whether to have it with your meal or after.
+<strong>Coffee/Tea:</strong> Choose whether to have it with your meal or after.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-12.jpg" alt="After-Meal Coffee Served at Sawamura">
@@ -136,22 +136,22 @@ The best value you can get with a 2,000 yen budget.
 
 ## ⏳ Waiting & Visit Tips
 
-**Peak Times:** 12:00 - 13:00 (30-60 minute wait possible)
+<strong>Peak Times:</strong> 12:00 - 13:00 (30-60 minute wait possible)
 
-**Recommended Times:**
-- **Open run (11:00):** Shortest wait
-- **Late lunch (after 13:30):** Crowd thins out
+<strong>Recommended Times:</strong>
+- <strong>Open run (11:00):</strong> Shortest wait
+- <strong>Late lunch (after 13:30):</strong> Crowd thins out
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-13.jpg" alt="People Waiting in Line at Sawamura Marunouchi">
   <figcaption style="font-size: 0.85em; text-align: center;">People Waiting in Line in Front of Sawamura Marunouchi Branch</figcaption>
 </figure>
 
-**💡 If the wait is too long?**
+<strong>💡 If the wait is too long?</strong>
 
 ### 1. Shinjuku NEWoMan Branch (Breakfast Recommended)
-**Location:** NEWoMan Shinjuku 2F  
-**Features: Opens at 7 AM!** Perfect for breakfast before Shinjuku sightseeing
+<strong>Location:</strong> NEWoMan Shinjuku 2F  
+<strong>Features: Opens at 7 AM!</strong> Perfect for breakfast before Shinjuku sightseeing
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-14.jpg" alt="Sawamura Shinjuku NEWoMan Branch">
@@ -159,42 +159,42 @@ The best value you can get with a 2,000 yen budget.
 </figure>
 
 ### 2. Toranomon Hills Branch (Meat/Business)
-**Location:** Toranomon Hills Business Tower 2F  
-**Features:** Business district location, less crowded
+<strong>Location:</strong> Toranomon Hills Business Tower 2F  
+<strong>Features:</strong> Business district location, less crowded
 
 ### 3. Nakameguro Branch (Cherry Blossoms/Cafe)
-**Location:** 5-minute walk from Nakameguro Station  
-**Features:** More casual cafe style for enjoying bread and coffee rather than full meals. Essential during cherry blossom season.
+<strong>Location:</strong> 5-minute walk from Nakameguro Station  
+<strong>Features:</strong> More casual cafe style for enjoying bread and coffee rather than full meals. Essential during cherry blossom season.
 
 ### 4. Hiroo Branch (European Vibes)
-**Location:** Hiroo Station (upscale neighborhood with many expats)  
-**Features:** 1st floor bakery, 2nd floor restaurant. Exotic and relaxed atmosphere like a European outdoor cafe—best for enjoying brunch and wine.
+<strong>Location:</strong> Hiroo Station (upscale neighborhood with many expats)  
+<strong>Features:</strong> 1st floor bakery, 2nd floor restaurant. Exotic and relaxed atmosphere like a European outdoor cafe—best for enjoying brunch and wine.
 
 ## 📝 Final Verdict: "Perfect Balance of Value, Taste, and Atmosphere"
 
-**Value:** Early 2,000 yen range gets you brand-name pork, crab pasta, and unlimited bread. Excellent for Tokyo prices.
+<strong>Value:</strong> Early 2,000 yen range gets you brand-name pork, crab pasta, and unlimited bread. Excellent for Tokyo prices.
 
-**Taste:** The bread being delicious is a given, but the main dish quality exceeds expectations.
+<strong>Taste:</strong> The bread being delicious is a given, but the main dish quality exceeds expectations.
 
-**Atmosphere:** Shin-Marunouchi Building's unique blend of luxury and energy works for anyone you bring.
+<strong>Atmosphere:</strong> Shin-Marunouchi Building's unique blend of luxury and energy works for anyone you bring.
 
 If you want a meal near Tokyo Station with no regrets, definitely try the [Spare Ribs + Pasta] combination I had!
 
 ## 🧡 Related Tokyo Station Marunouchi Travel Guides
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223707471582 -->
-**➡️ Tokyo Ramen Street Best 8 Complete Guide**
+<strong>➡️ Tokyo Ramen Street Best 8 Complete Guide</strong>
 
-[➡️ **Tokyo Station Nemuro Hanamaru Sushi Complete Guide**](/posts/tokyo-station-nemuro-hanamaru-sushi-guide/)
+[➡️ <strong>Tokyo Station Nemuro Hanamaru Sushi Complete Guide</strong>](/posts/tokyo-station-nemuro-hanamaru-sushi-guide/)
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224031611221 -->
-**➡️ Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage**
+<strong>➡️ Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage</strong>
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223675952285 -->
-**➡️ Marunouchi Building Free Observatory Sunset View**
+<strong>➡️ Marunouchi Building Free Observatory Sunset View</strong>
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223685676173 -->
-**➡️ Wadakura Fountain Park Starbucks Review (Night View)**
+<strong>➡️ Wadakura Fountain Park Starbucks Review (Night View)</strong>
 
 
 <div class="editors-note">

@@ -23,7 +23,7 @@ Complete guide to whisky, sake, snacks, perfume, and luxury brands!</p>
 
 ## 📍 Overview
 
-At Narita Airport Terminal 1 **ANA DUTY & TAX FREE SHOP**, you can shop smartly for whisky, sake, snacks, perfume, and luxury goods with a Klook 5% discount coupon.
+At Narita Airport Terminal 1 <strong>ANA DUTY & TAX FREE SHOP</strong>, you can shop smartly for whisky, sake, snacks, perfume, and luxury goods with a Klook 5% discount coupon.
 
 This guide covers Narita Airport duty-free shop brand lineup and shopping lists for alcohol, snacks, and souvenirs by terminal at a glance.
 
@@ -35,7 +35,7 @@ Before using the Narita Airport duty-free shop, check the Narita Airport duty-fr
 
 Narita Airport has 3 terminals, which can be confusing when returning home. Check your terminal by airline in advance! (Based on major Korea routes)
 
-**The 5% coupon introduced today is ONLY for Terminal 1!**
+<strong>The 5% coupon introduced today is ONLY for Terminal 1!</strong>
 
 <div class="info-box">
 <table class="schedule-table">
@@ -65,13 +65,13 @@ Narita Airport has 3 terminals, which can be confusing when returning home. Chec
 
 ## 🛍️ Narita Airport Duty-Free 5% Discount Coupon (Klook)
 
-The most important tip! The **5% discount coupon** provided by Klook.
+The most important tip! The <strong>5% discount coupon</strong> provided by Klook.
 
 If you get the Narita Airport duty-free reservation coupon from Klook in advance, you just need to show it at the airport, which is much more convenient.
 
-This coupon is **free to download**.
+This coupon is <strong>free to download</strong>.
 
-**📌 IMPORTANT!! Only available at ANA DUTY FREE SHOP!!!**
+<strong>📌 IMPORTANT!! Only available at ANA DUTY FREE SHOP!!!</strong>
 
 ➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1154644&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F180131-ana-duty-tax-free-shop-x-klook-5-off-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da31b9d9caf" target="_blank"><b>Download Narita Airport Duty-Free Coupon on Klook</b></a>
 
@@ -85,21 +85,21 @@ This coupon is **free to download**.
 ## ✈️ How to Use Duty-Free Discount Coupon
 
 ### Validity Period
-This voucher is valid from **October 1, 2025 00:00** to **December 31, 2025 23:59**.
+This voucher is valid from <strong>October 1, 2025 00:00</strong> to <strong>December 31, 2025 23:59</strong>.
 
 ### Voucher Type
 Present your passport and mobile voucher together at checkout.
 
 ### Store Information
 
-**ANA DUTY FREE SHOP - Terminal 1 South Wing**
+<strong>ANA DUTY FREE SHOP - Terminal 1 South Wing</strong>
 - Turn left after passport control in South Wing, second shop on the left
-- **Hours:** 07:30-21:00
+- <strong>Hours:</strong> 07:30-21:00
 - Cosmetics (Shiseido, RMK, Kiehl's, Kanebo, THREE, etc.), perfume, alcohol, cigarettes, snacks (Shiroi Koibito, GODIVA, KitKat, etc.)
 
-**ANA DUTY & TAX FREE SHOP - Terminal 1 Satellite 4**
+<strong>ANA DUTY & TAX FREE SHOP - Terminal 1 Satellite 4</strong>
 - Near Gate 42, Satellite 4, South Wing, Terminal 1
-- **Hours:** 08:00-20:30
+- <strong>Hours:</strong> 08:00-20:30
 - Cigarettes, alcohol, snacks (Shiroi Koibito, Royce, Tokyo Banana, etc.), beauty devices (ReFa), electronics (electric shavers, headphones, etc.), miscellaneous goods
 
 ### ⚠️ Coupon Terms and Precautions
@@ -113,7 +113,7 @@ Present your passport and mobile voucher together at checkout.
 
 ## 🛒 Narita Airport Duty-Free Recommended Shopping List
 
-Narita Airport duty-free shops vary in scale and composition by terminal. Among them, **Narita Airport Terminal 1 duty-free shop is the largest** with the most diverse brand lineup.
+Narita Airport duty-free shops vary in scale and composition by terminal. Among them, <strong>Narita Airport Terminal 1 duty-free shop is the largest</strong> with the most diverse brand lineup.
 
 Here are the popular items at Narita Airport duty-free shops.
 
@@ -121,7 +121,7 @@ Here are the popular items at Narita Airport duty-free shops.
 
 The most popular items. You should buy Narita Airport duty-free whisky when in stock.
 
-**🥃 Suntory Whisky** - Yamazaki, Hakushu, Hibiki
+<strong>🥃 Suntory Whisky</strong> - Yamazaki, Hakushu, Hibiki
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-04.jpg" alt="Narita Airport duty-free whisky corner">
@@ -138,7 +138,7 @@ The most popular items. You should buy Narita Airport duty-free whisky when in s
   <figcaption style="font-size: 0.7em; text-align: center;">Narita Airport Duty-Free Whisky Collection</figcaption>
 </figure>
 
-**🥃 Sake** - Dassai 23, Kubota Manju
+<strong>🥃 Sake</strong> - Dassai 23, Kubota Manju
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-07.jpg" alt="Narita Airport duty-free sake Dassai">
@@ -154,21 +154,21 @@ The most popular items. You should buy Narita Airport duty-free whisky when in s
 
 Snacks are a must-buy course as Narita Airport duty-free souvenirs.
 
-**🍪 Tokyo Banana** (Must-have)
+<strong>🍪 Tokyo Banana</strong> (Must-have)
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-09.jpg" alt="Tokyo Banana Narita Airport duty-free snacks">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Banana - Narita Airport Duty-Free Snacks</figcaption>
 </figure>
 
-**🍪 Shiroi Koibito**
+<strong>🍪 Shiroi Koibito</strong>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-10.jpg" alt="Shiroi Koibito Narita Airport duty-free snacks">
   <figcaption style="font-size: 0.7em; text-align: center;">Shiroi Koibito - Narita Airport Duty-Free Snacks</figcaption>
 </figure>
 
-**🍪 Royce Chocolate**
+<strong>🍪 Royce Chocolate</strong>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-11.jpg" alt="Royce chocolate Narita Airport duty-free snacks">
@@ -179,13 +179,13 @@ Snacks are a must-buy course as Narita Airport duty-free souvenirs.
 
 Great items to apply coupons at Terminal 1 ANA duty-free shop!
 
-**💄 Narita Airport Duty-Free Cosmetics:**
+<strong>💄 Narita Airport Duty-Free Cosmetics:</strong>
 Shiseido, Dior, RMK, Kiehl's, Kanebo, THREE, etc.
 
-**💄 Narita Airport Duty-Free Perfume:**
+<strong>💄 Narita Airport Duty-Free Perfume:</strong>
 Jo Malone, Diptyque, Chanel, etc.
 
-Terminal 1 has various **Narita Airport duty-free luxury brands** including Chanel, Cartier, Hermès, etc.
+Terminal 1 has various <strong>Narita Airport duty-free luxury brands</strong> including Chanel, Cartier, Hermès, etc.
 (However, coupons excluded at Bvlgari store!)
 
 ### 4. Narita Airport Duty-Free Cigarettes 🚬
@@ -205,17 +205,17 @@ Used by JAL, Air Premia, etc. Scale is as large as Terminal 1, with large duty-f
 
 Used by Jeju Air and other LCCs. Scale is smaller than Terminals 1 & 2, but you can still buy all essential souvenirs like Dassai, Royce, and Tokyo Banana.
 
-**❗️IMPORTANT** The 5% discount coupon introduced today is **ONLY for Terminal 1 ANA duty-free shop!** Terminal 2 & 3 users cannot use it.
+<strong>❗️IMPORTANT</strong> The 5% discount coupon introduced today is <strong>ONLY for Terminal 1 ANA duty-free shop!</strong> Terminal 2 & 3 users cannot use it.
 
 ---
 
 ## 🎁 Terminal 1 Users Must Get Coupon!
 
-If you plan to use Tokyo Narita Airport duty-free shops, especially if you're using **Terminal 1**, be sure to get the **ANA duty-free shop 5% discount coupon** introduced today! 💰
+If you plan to use Tokyo Narita Airport duty-free shops, especially if you're using <strong>Terminal 1</strong>, be sure to get the <strong>ANA duty-free shop 5% discount coupon</strong> introduced today! 💰
 
 Finish your Tokyo trip with smart shopping!
 
-**Related Articles:**
+<strong>Related Articles:</strong>
 <!-- Link updated -->
 <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><b>➡️ Japan Travel Discount Coupon Complete Guide 2025 (Don Quijote, Bic Camera, Department Stores Tax-Free + Extra Discounts)</b></a>
 <br><br>

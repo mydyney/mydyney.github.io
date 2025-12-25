@@ -24,13 +24,13 @@ Tips to avoid crowds and best photo spots all in one place. Essential winter Tok
 
 ## Introduction
 
-Hello! I'm **Tokyo Mate**, a lover of Tokyo's winter nights. ❄️
+Hello! I'm <strong>Tokyo Mate</strong>, a lover of Tokyo's winter nights. ❄️
 
-Today I'm bringing you information about the most mystical illumination in Tokyo: **'2025 Shibuya Blue Cave (青の洞窟 SHIBUYA)'**.
+Today I'm bringing you information about the most mystical illumination in Tokyo: <strong>'2025 Shibuya Blue Cave (青の洞窟 SHIBUYA)'</strong>.
 
-This year marks the 10th anniversary with a giant **'THE SNOWMAN'** balloon! I've thoroughly organized everything from getting there from Shibuya Station without getting lost, to my personally tested **Omotesando connection route**, and the best photo spots.
+This year marks the 10th anniversary with a giant <strong>'THE SNOWMAN'</strong> balloon! I've thoroughly organized everything from getting there from Shibuya Station without getting lost, to my personally tested <strong>Omotesando connection route</strong>, and the best photo spots.
 
-**💡 Quick Tip: Even if you're busy, just screenshot the 'map' and 'summary table' from this post!**
+<strong>💡 Quick Tip: Even if you're busy, just screenshot the 'map' and 'summary table' from this post!</strong>
 
 ---
 
@@ -85,7 +85,7 @@ Here's all the key information you need at a glance.
 
 ## Getting There
 
-The Blue Cave Illumination is near Yoyogi Park, accessible from both **Shibuya Station (gentle slope)** and **Harajuku Station (flat route)**, about 10 minutes walk from each.
+The Blue Cave Illumination is near Yoyogi Park, accessible from both <strong>Shibuya Station (gentle slope)</strong> and <strong>Harajuku Station (flat route)</strong>, about 10 minutes walk from each.
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-04.jpg" alt="Blue illuminated tree-lined street from Shibuya Station through Parco to Blue Cave">
@@ -94,22 +94,22 @@ The Blue Cave Illumination is near Yoyogi Park, accessible from both **Shibuya S
 
 ### 📍 Recommended Route 1: Walk Along Blue Tree Street from Shibuya Station (10 min walk)
 
-1. Exit from **Shibuya Station Exit A6-3**
-2. Walk straight toward **'Shibuya Koen-dori (Park Street)'** where the blue trees begin
-3. You'll see **Shibuya PARCO** on your left as you go up the slope
+1. Exit from <strong>Shibuya Station Exit A6-3</strong>
+2. Walk straight toward <strong>'Shibuya Koen-dori (Park Street)'</strong> where the blue trees begin
+3. You'll see <strong>Shibuya PARCO</strong> on your left as you go up the slope
 4. Follow the blue tree-lined street up the gentle slope and arrive!
 
-**⚠️ Important!** If you just search "Shibuya Station" on Google Maps, you might get lost in the complex underground maze. Always search for **"Yoyogi Park Zelkova Avenue (代々木公園 ケヤキ並木通り)"** or **"Shibuya PARCO"** as your destination.
+<strong>⚠️ Important!</strong> If you just search "Shibuya Station" on Google Maps, you might get lost in the complex underground maze. Always search for <strong>"Yoyogi Park Zelkova Avenue (代々木公園 ケヤキ並木通り)"</strong> or <strong>"Shibuya PARCO"</strong> as your destination.
 
 ### 📍 Recommended Route 2: Connect with Omotesando Illumination (Highly Recommended ⭐)
 
-I really loved starting with the **Omotesando Illumination first, then walking** to the Shibuya Blue Cave near Yoyogi Park (about 10 minutes walk). The contrast of going from the warm **golden tree-lined street** to suddenly **everything turning blue** is overwhelming.
+I really loved starting with the <strong>Omotesando Illumination first, then walking</strong> to the Shibuya Blue Cave near Yoyogi Park (about 10 minutes walk). The contrast of going from the warm <strong>golden tree-lined street</strong> to suddenly <strong>everything turning blue</strong> is overwhelming.
 
-1. Get off at **Omotesando (表参道) Station** and enjoy the illumination walking toward Harajuku
+1. Get off at <strong>Omotesando (表参道) Station</strong> and enjoy the illumination walking toward Harajuku
 2. Head toward the intersection near Meiji Jingu entrance and Yoyogi Park
-3. Walk slowly along the edge of Yoyogi Park, and suddenly the **blue zelkova tree tunnel with branches meeting overhead** unfolds before you
+3. Walk slowly along the edge of Yoyogi Park, and suddenly the <strong>blue zelkova tree tunnel with branches meeting overhead</strong> unfolds before you
 
-**➡️ [Related Article]**
+<strong>➡️ [Related Article]</strong>
 <!-- Link updated -->
 <a href="https://blog.naver.com/tokyomate/224096781916" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
 
@@ -134,14 +134,14 @@ If you want to avoid crowds, I recommend accessing directly from Harajuku/Meiji-
 
 ## Live Scene Sketch & Photo Spot Highlights
 
-As soon as I arrived, I couldn't help but say **"Wow, it really looks like a cave!"** The branches meet overhead and create a feeling of walking through a tunnel completely wrapped in blue light.
+As soon as I arrived, I couldn't help but say <strong>"Wow, it really looks like a cave!"</strong> The branches meet overhead and create a feeling of walking through a tunnel completely wrapped in blue light.
 
 ### 📸 Photo Spot 1: Walking on Ice (Reflection)
 
-The Blue Cave has a **special reflective mat** on the ground.
+The Blue Cave has a <strong>special reflective mat</strong> on the ground.
 
-- **Photo Tip**: Lower your camera angle as much as possible below knee level!
-- The blue lights reflected on the floor give a **feeling of walking on ice**. When I tried it myself, the symmetrical reflection shots came out really beautiful.
+- <strong>Photo Tip</strong>: Lower your camera angle as much as possible below knee level!
+- The blue lights reflected on the floor give a <strong>feeling of walking on ice</strong>. When I tried it myself, the symmetrical reflection shots came out really beautiful.
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-07.jpg" alt="Blue lights reflected on special floor mat creating ice-like symmetrical mirror effect">
@@ -150,11 +150,11 @@ The Blue Cave has a **special reflective mat** on the ground.
 
 ### 📸 Photo Spot 2: 2025 New 'THE SNOWMAN'
 
-This year for the anniversary, a **giant snowman balloon** with projected Christmas videos will be installed at Keyaki Avenue plaza. This will be the best main photo spot this year!
+This year for the anniversary, a <strong>giant snowman balloon</strong> with projected Christmas videos will be installed at Keyaki Avenue plaza. This will be the best main photo spot this year!
 
 ### 📸 Photo Spot 3: Shibuya Sky Background
 
-When you look back from the end of the park, you can see the **'Shibuya Scramble Square (Shibuya Sky)'** building in the distance. The blue cave combined with the modern building night view creates an amazingly urban-feeling photo.
+When you look back from the end of the park, you can see the <strong>'Shibuya Scramble Square (Shibuya Sky)'</strong> building in the distance. The blue cave combined with the modern building night view creates an amazingly urban-feeling photo.
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-08.jpg" alt="Shibuya Scramble Square Shibuya Sky night view visible through blue illumination tunnel">
@@ -167,15 +167,15 @@ When you look back from the end of the park, you can see the **'Shibuya Scramble
 
 Here are the things I wished I knew before going. Don't make the same mistakes! 😉
 
-**1. Dress for 'Deep Winter'!**
+<strong>1. Dress for 'Deep Winter'!</strong>
 
 Tokyo in December, especially near the park, is quite chilly with lots of wind. If you keep taking your hands out for photos, they'll freeze quickly. Hand warmers are essential in your pockets!
 
-**2. Use Restrooms in Advance**
+<strong>2. Use Restrooms in Advance</strong>
 
 There are public restrooms in Yoyogi Park, but lines are long and cold. I strongly recommend using facilities in shopping malls like Shibuya PARCO or nearby MODI before heading up.
 
-**3. Golden Time to Avoid Crowds**
+<strong>3. Golden Time to Avoid Crowds</strong>
 
 For weekdays, I recommend after 20:30. Avoid 18:00~19:00 when commuters and tourists overlap. Going about an hour before closing, you can take solo photos more comfortably.
 
@@ -190,15 +190,15 @@ For weekdays, I recommend after 20:30. Avoid 18:00~19:00 when commuters and tour
 
 Unlike the glamorous chandelier-like Roppongi, Shibuya Blue Cave was charming for its mysterious and dreamlike atmosphere. If you're planning a Tokyo trip this winter, don't miss out on life shots in this 'blue world'! 💙
 
-🚶 Daytime at **Shibuya Sky** → Evening finish at Blue Cave
+🚶 Daytime at <strong>Shibuya Sky</strong> → Evening finish at Blue Cave
 
-**➡️** <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky Perfect Course from Reservations to Shopping and Restaurants</strong></a>
+<strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky Perfect Course from Reservations to Shopping and Restaurants</strong></a>
 
-🚶 Omotesando/Harajuku Shopping **→ Omotesando Illumination → Shibuya Blue Cave (Walking)**
+🚶 Omotesando/Harajuku Shopping <strong>→ Omotesando Illumination → Shibuya Blue Cave (Walking)</strong>
 
-**➡️** <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /posts/[SLUG_TBD]/ --> <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture</strong></a>
+<strong>➡️</strong> <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /posts/[SLUG_TBD]/ --> <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture</strong></a>
 
-**➡️** <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a>
+<strong>➡️</strong> <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Attractions: Harry Potter Store to Takeshita Street & Cat Street</strong></a>
 
 ---
 
@@ -206,49 +206,49 @@ Unlike the glamorous chandelier-like Roppongi, Shibuya Blue Cave was charming fo
 
 ### 🌟 Tokyo Christmas Essential Courses at a Glance
 
-**➡️** <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/"><strong>Tokyo 3-Day 4-Night Illumination & Christmas Market Perfect Itinerary</strong></a>
+<strong>➡️</strong> <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/"><strong>Tokyo 3-Day 4-Night Illumination & Christmas Market Perfect Itinerary</strong></a>
 
 ### 🌟 Omotesando & Harajuku Christmas
 
-**➡️** <a href="/posts/omotesando-illumination-2025/" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
+<strong>➡️</strong> <a href="/posts/omotesando-illumination-2025/" style="color: #667eea;"><strong>2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide</strong></a>
 
 ### 🌟 Meiji Jingu Gaien Christmas
 
-**➡️** <a href="/posts/meiji-jingu-gaien-christmas-market-2025/"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Benefits</strong></a>
+<strong>➡️</strong> <a href="/posts/meiji-jingu-gaien-christmas-market-2025/"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Benefits</strong></a>
 
 ### 🌟 Roppongi Christmas
 
-**➡️** <a href="/posts/roppongi-christmas-illumination-2025/"><strong>2025 Roppongi Hills Lighting Hours, Photo Spots & Route Complete Guide</strong></a>
+<strong>➡️</strong> <a href="/posts/roppongi-christmas-illumination-2025/"><strong>2025 Roppongi Hills Lighting Hours, Photo Spots & Route Complete Guide</strong></a>
 
-**➡️** <a href="/posts/roppongi-hills-christmas-market-2025/"><strong>2025 Roppongi Hills Christmas Market, Mugs, Location & Tips Complete Guide</strong></a>
+<strong>➡️</strong> <a href="/posts/roppongi-hills-christmas-market-2025/"><strong>2025 Roppongi Hills Christmas Market, Mugs, Location & Tips Complete Guide</strong></a>
 
-**➡️** <a href="/posts/roppongi-midtown-christmas-2025/"><strong>2025 Roppongi Midtown Illumination, Ice Rink & Restaurants</strong></a>
+<strong>➡️</strong> <a href="/posts/roppongi-midtown-christmas-2025/"><strong>2025 Roppongi Midtown Illumination, Ice Rink & Restaurants</strong></a>
 
 ### 🌟 Azabudai Hills Christmas
 
-**➡️** <a href="/posts/azabudai-hills-christmas-market-2025/"><strong>2025 Azabudai Hills Christmas Market: Complete Analysis of 17 Booths</strong></a>
+<strong>➡️</strong> <a href="/posts/azabudai-hills-christmas-market-2025/"><strong>2025 Azabudai Hills Christmas Market: Complete Analysis of 17 Booths</strong></a>
 
 ### 🌟 Yebisu Christmas
 
-**➡️** <a href="/posts/yebisu-garden-place-illumination-christmas-market-2025/"><strong>2025 Yebisu Garden Place Illumination & Christmas Market</strong></a>
+<strong>➡️</strong> <a href="/posts/yebisu-garden-place-illumination-christmas-market-2025/"><strong>2025 Yebisu Garden Place Illumination & Christmas Market</strong></a>
 
 ### 🌟 Marunouchi & Hibiya Christmas
 
-**➡️** <a href="/posts/marunouchi-illumination-2025/"><strong>2025 Marunouchi Illumination, Disney Collaboration & Stamp Rally</strong></a>
+<strong>➡️</strong> <a href="/posts/marunouchi-illumination-2025/"><strong>2025 Marunouchi Illumination, Disney Collaboration & Stamp Rally</strong></a>
 
-**➡️** <a href="/posts/hibiya-midtown-illumination-2025/"><strong>2025 Hibiya Illumination, Zootopia 2 Collaboration & Walking Course</strong></a>
+<strong>➡️</strong> <a href="/posts/hibiya-midtown-illumination-2025/"><strong>2025 Hibiya Illumination, Zootopia 2 Collaboration & Walking Course</strong></a>
 
 ### 🌟 Tokyo Skytree Christmas
 
-**➡️** <a href="/posts/tokyo-skytree-christmas-market-2025/"><strong>2025 Skytree Market Official Schedule, New Menu & Photo Zone Guide</strong></a>
+<strong>➡️</strong> <a href="/posts/tokyo-skytree-christmas-market-2025/"><strong>2025 Skytree Market Official Schedule, New Menu & Photo Zone Guide</strong></a>
 
 ### 🌟 Ueno Park Christmas
 
-**➡️** <a href="/posts/ueno-christmas-market-2025/"><strong>2025 Ueno Christmas Market: Free Entry & Access Complete Guide</strong></a>
+<strong>➡️</strong> <a href="/posts/ueno-christmas-market-2025/"><strong>2025 Ueno Christmas Market: Free Entry & Access Complete Guide</strong></a>
 
 ### 🌟 Tokyo Dome City Christmas
 
-**➡️** <a href="/posts/tokyo-dome-city-christmas-illumination-2025/"><strong>2025 Tokyo Dome Illumination Period, Hours & TXT Collaboration</strong></a>
+<strong>➡️</strong> <a href="/posts/tokyo-dome-city-christmas-illumination-2025/"><strong>2025 Tokyo Dome Illumination Period, Hours & TXT Collaboration</strong></a>
 
 
 <div class="editors-note">

@@ -32,7 +32,7 @@ featured_image: "/images/posts/tokyo-station-guide-01.jpg"
 
 动漫和角色粉丝必看的天堂！宝可梦、吉卜力、Jump Shop、吉伊卡哇、卡比等，代表日本的角色官方商店汇聚一条街。
 
-**宝可梦商店＆宝可梦卡牌站**
+<strong>宝可梦商店＆宝可梦卡牌站</strong>
 
 宝可梦粉丝圣地！可以购买东京站独家限定商品，或查看真实的宝可梦卡牌。
 
@@ -70,7 +70,7 @@ Kaldi经营的全天咖啡厅＆意大利/酒吧「Cafe Kardino」。早餐、�
 
 ## 2. 检票口内享受 (乘车前后的秘诀！)
 
-🚨 **注意：** 以下地点是使用新干线或JR车票进检票口内的人才能利用的特别空间！
+🚨 <strong>注意：</strong> 以下地点是使用新干线或JR车票进检票口内的人才能利用的特别空间！
 
 ### ① [车站便当屋 祭](https://maps.app.goo.gl/TwHBXTbjG6z16Ggk9) 📍
 
@@ -101,7 +101,7 @@ Kaldi经营的全天咖啡厅＆意大利/酒吧「Cafe Kardino」。早餐、�
 
 KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合商场，是保存·再生旧中央邮局建筑的空间。与东京站地下直接连通，雨天也可舒适移动，是午餐、咖啡、礼品购买的必经路线。
 
-**美食：** 5层有从北海道来的新鲜回转寿司名店 **「[根室花丸 KITTE店](https://maps.app.goo.gl/T3n3Ct875ULmaqsy5) 📍」**。以等候时间长而闻名，建议提前取号。
+<strong>美食：</strong> 5层有从北海道来的新鲜回转寿司名店 <strong>「[根室花丸 KITTE店](https://maps.app.goo.gl/T3n3Ct875ULmaqsy5) 📍」</strong>。以等候时间长而闻名，建议提前取号。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223680263119
@@ -113,7 +113,7 @@ KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合�
   <figcaption style="font-size: 0.7em; text-align: center;">KITTE丸之内大厦</figcaption>
 </figure>
 
-**免费展望台（夜景景点）：** 6层的屋顶庭园是能最美观赏东京站夜景的最佳 **免费展望台**。边眺望红砖丸之内站舍和穿梭列车，度过浪漫傍晚时光吧。🌃
+<strong>免费展望台（夜景景点）：</strong> 6层的屋顶庭园是能最美观赏东京站夜景的最佳 <strong>免费展望台</strong>。边眺望红砖丸之内站舍和穿梭列车，度过浪漫傍晚时光吧。🌃
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
@@ -127,11 +127,11 @@ KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合�
 
 ### ② 丸之内大厦＆新丸之内大厦
 
-**[丸之内大厦 (Marunouchi Building)](https://maps.app.goo.gl/q1newUnPi2yJaMcg8) 📍**
+<strong>[丸之内大厦 (Marunouchi Building)](https://maps.app.goo.gl/q1newUnPi2yJaMcg8) 📍</strong>
 
 东京站丸之内南口地标。与东京站地下直接连通。
 
-**早午餐咖啡厅：** **[THE FRONT ROOM](https://maps.app.goo.gl/ovxMQuriDq381Cnw7) 📍** 从早上开始营业，是旅行开始时享受法式吐司和丰盛早餐的好东京站咖啡厅。
+<strong>早午餐咖啡厅：</strong> <strong>[THE FRONT ROOM](https://maps.app.goo.gl/ovxMQuriDq381Cnw7) 📍</strong> 从早上开始营业，是旅行开始时享受法式吐司和丰盛早餐的好东京站咖啡厅。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675706489
@@ -143,7 +143,7 @@ KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合�
   <figcaption style="font-size: 0.7em; text-align: center;">丸之内大厦1层早午餐咖啡厅 THE FRONT ROOM 法式吐司</figcaption>
 </figure>
 
-**免费展望台：** 5层和35层有隐藏的免费展望台，是欣赏黄昏夕阳和夜景的最佳地点。
+<strong>免费展望台：</strong> 5层和35层有隐藏的免费展望台，是欣赏黄昏夕阳和夜景的最佳地点。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675952285
@@ -155,11 +155,11 @@ KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合�
   <figcaption style="font-size: 0.7em; text-align: center;">丸之内大厦35层免费展望台看到的晚霞</figcaption>
 </figure>
 
-**[新丸之内大厦 (Shin-Marunouchi Building)](https://maps.app.goo.gl/s1FhambQTjwcA2Cj9) 📍**
+<strong>[新丸之内大厦 (Shin-Marunouchi Building)](https://maps.app.goo.gl/s1FhambQTjwcA2Cj9) 📍</strong>
 
 位于东京站丸之内中央口正前方的最新综合塔楼。
 
-**夜景＆餐饮：** 7层 **「丸之内House (Marunouchi House)」** 的室外露台，是正面眺望东京站夜景边享受晚餐或鸡尾酒的浪漫地点。周五·周六晚上的氛围特别棒。
+<strong>夜景＆餐饮：</strong> 7层 <strong>「丸之内House (Marunouchi House)」</strong> 的室外露台，是正面眺望东京站夜景边享受晚餐或鸡尾酒的浪漫地点。周五·周六晚上的氛围特别棒。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
@@ -173,11 +173,11 @@ KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合�
 
 ### ③ [丸之内绿洲 (Oazo)](https://maps.app.goo.gl/vKu13XuDJSgpUV5i6) 📍
 
-东京站丸之内北口前的综合商业设施。有超大型书店 **[丸善](https://maps.app.goo.gl/WB7gbMmKeP3rvX8H8) 📍** 总店，可以一次享受书籍、文具、画廊、书店咖啡厅。
+东京站丸之内北口前的综合商业设施。有超大型书店 <strong>[丸善](https://maps.app.goo.gl/WB7gbMmKeP3rvX8H8) 📍</strong> 总店，可以一次享受书籍、文具、画廊、书店咖啡厅。
 
 ### ④ [和田仓喷泉公园星巴克](https://maps.app.goo.gl/sxf7B4WS2h93zANM6) 📍
 
-位于皇居附近的特别 **和田仓喷泉公园星巴克**。透过全落地玻璃窗看到的公园夜景边享受咖啡，作为东京站夜景咖啡厅很受欢迎。
+位于皇居附近的特别 <strong>和田仓喷泉公园星巴克</strong>。透过全落地玻璃窗看到的公园夜景边享受咖啡，作为东京站夜景咖啡厅很受欢迎。
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223685676173
@@ -198,18 +198,18 @@ KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合�
 
 丸之内仲通是从东京站丸之内大厦延续到有乐町站的美丽林荫道。有高级精品店、画廊、露台咖啡厅，非常适合边散步边购物。
 
-在 **[丸之内Brick Square](https://maps.app.goo.gl/LXNmpfEKm6BFCULw8) 📍** 的小型庭园、有喷泉的露天广场静静享受散步和休息也不错。
+在 <strong>[丸之内Brick Square](https://maps.app.goo.gl/LXNmpfEKm6BFCULw8) 📍</strong> 的小型庭园、有喷泉的露天广场静静享受散步和休息也不错。
 
-**美食：** B1层有使用精选时令食材的主厨发办性价比超高的 **「[满天寿司](https://maps.app.goo.gl/Pk6RYK1yubGMtRJj9) 📍」**。
+<strong>美食：</strong> B1层有使用精选时令食材的主厨发办性价比超高的 <strong>「[满天寿司](https://maps.app.goo.gl/Pk6RYK1yubGMtRJj9) 📍」</strong>。
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-15.jpg" alt="丸之内Brick Square">
   <figcaption style="font-size: 0.7em; text-align: center;">丸之内Brick Square</figcaption>
 </figure>
 
-特别是冬季举办 **「丸之内灯饰」**，整条街被香槟金色灯光染上，献上梦幻夜景。✨
+特别是冬季举办 <strong>「丸之内灯饰」</strong>，整条街被香槟金色灯光染上，献上梦幻夜景。✨
 
-如需2025年最新 **迪士尼联动** 及 **圣诞市集** 信息，请查看以下最新文章！
+如需2025年最新 <strong>迪士尼联动</strong> 及 <strong>圣诞市集</strong> 信息，请查看以下最新文章！
 
 ➡️ <a href="/zh-cn/posts/marunouchi-illumination-2025/" style="color: #667eea;"><strong>2025年丸之内灯饰最新信息（迪士尼、市集全汇总）</strong></a>
 
@@ -225,11 +225,11 @@ KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合�
 
 ## 旅行者必备贴士：东京站行李寄存（投币式储物柜）
 
-正式享受东京站玩乐前，想从沉重行李中解放吗？得益于日本最大规模投币式储物柜设施，**东京站行李寄存** 并不难。
+正式享受东京站玩乐前，想从沉重行李中解放吗？得益于日本最大规模投币式储物柜设施，<strong>东京站行李寄存</strong> 并不难。
 
-**地点：** 东京站的投币式储物柜，检票口内设置13处，检票口外设置30处，合计43处。
+<strong>地点：</strong> 东京站的投币式储物柜，检票口内设置13处，检票口外设置30处，合计43处。
 
-**注意点：** 由于车站非常大储物柜数量也多，强烈建议一定将存放地点 **拍照保存**。八重洲方向检票口外储物柜管理主体不同，编号体系可能复杂，请注意。
+<strong>注意点：</strong> 由于车站非常大储物柜数量也多，强烈建议一定将存放地点 <strong>拍照保存</strong>。八重洲方向检票口外储物柜管理主体不同，编号体系可能复杂，请注意。
 
 <!-- Link for coin locker guide page (placeholder) -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[链接] 确认东京站投币式储物柜空位和位置</strong></a>
@@ -241,13 +241,13 @@ KITTE是位于东京站丸之内南口正前方JP塔内的购物·餐饮综合�
 
 ## 🙋‍♀️ 东京站常见问题 (Q&A)
 
-**Q1. 东京角色街营业时间？**
-A1. 大部分店铺 **上午10点到下午8点30分** 营业。不过部分店铺可能不同，访问前在官网确认最准确。
+<strong>Q1. 东京角色街营业时间？</strong>
+A1. 大部分店铺 <strong>上午10点到下午8点30分</strong> 营业。不过部分店铺可能不同，访问前在官网确认最准确。
 
-**Q2. 东京站夜景观赏最好的免费景点在哪？**
-A2. 最推荐 **新丸之内大厦7层露台** 和 **丸之内大厦5层露台**。两处都能以最美构图欣赏东京站象征的红砖站舍。
+<strong>Q2. 东京站夜景观赏最好的免费景点在哪？</strong>
+A2. 最推荐 <strong>新丸之内大厦7层露台</strong> 和 <strong>丸之内大厦5层露台</strong>。两处都能以最美构图欣赏东京站象征的红砖站舍。
 
-**Q3. 有JR Pass可以直接进东京站检票口内吗？**
+<strong>Q3. 有JR Pass可以直接进东京站检票口内吗？</strong>
 A3. 可以，如果持有有效JR Pass，向站员出示Pass进入检票口内，可以自由利用「车站便当屋 祭」和「Gransta东京」等。
 
 ## ✨ 一起看更好的东京旅行攻略

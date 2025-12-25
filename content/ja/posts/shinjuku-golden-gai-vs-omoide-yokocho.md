@@ -106,66 +106,66 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 焼き鳥（串焼き）、もつ焼き（ホルモン焼き）、煮込みに
 ビールを楽しむ新宿の象徴的な通りです。
 
-**✅ おすすめ対象**
+<strong>✅ おすすめ対象</strong>
 - 串焼きにビール一杯飲みたい方
 - 活気があって賑やかな雰囲気が好きな方
 - 一人飲み初心者（1次会の食事兼用可能）
 
-**✅ Tips**
-- **価格**: 思ったより高い。お通し（テーブルチャージ）をとる店もあるので入口で確認を。
-- **決済**: ほとんど現金のみ
-- **トイレ**: 横丁内共用トイレ
+<strong>✅ Tips</strong>
+- <strong>価格</strong>: 思ったより高い。お通し（テーブルチャージ）をとる店もあるので入口で確認を。
+- <strong>決済</strong>: ほとんど現金のみ
+- <strong>トイレ</strong>: 横丁内共用トイレ
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-04.jpg" alt="新宿思い出横丁焼き鳥名店ささもと - 炭火の香り豊かな串焼きと昭和の情緒が生きる東京代表居酒屋">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿思い出横丁焼き鳥名店ささもと - 炭火の香り豊かな串焼きと昭和の情緒が生きる東京代表居酒屋。</figcaption>
 </figure>
 
-**✅ おすすめ店**
+<strong>✅ おすすめ店</strong>
 
-**1️⃣ ささもと（新宿ささもと）**
+<strong>1️⃣ ささもと（新宿ささもと）</strong>
 
 YouTubeホン・ソクチョン、イ・ウォンイルの東京行列店にも紹介されたスポット！
 思い出横丁を代表するもつ焼き（ホルモン・串焼き）専門店です。
 濃い醤油と炭火の香りが絶妙で、地元民・外国人が行列する名店です。
 代表メニューはもつ煮込み（ホルモン煮込み）。
 
-**💡 注文のコツ！**
+<strong>💡 注文のコツ！</strong>
 
 ここにはメニューがありません。
 席に着くと店主が串を「おまかせ」で順番に出してくれ、
 お腹がいっぱいになったら「ストップ（Stop）！」と言えば会計します。
 
-- **注文**: ホルモン含む（もつ入り）か、ホルモンなし（もつ抜き）かだけ答えればOK
-- **食事**: 串が次々出てきます。お腹がいっぱいになったら「ストップ（Stop）！」と叫びましょう。
-- **会計**: 食べた串の本数だけ会計するシステムです。
+- <strong>注文</strong>: ホルモン含む（もつ入り）か、ホルモンなし（もつ抜き）かだけ答えればOK
+- <strong>食事</strong>: 串が次々出てきます。お腹がいっぱいになったら「ストップ（Stop）！」と叫びましょう。
+- <strong>会計</strong>: 食べた串の本数だけ会計するシステムです。
 
 💴 平均価格：2,000〜3,000円
 🕓 17時以降は待ち必須 / カード不可 / 現金のみ
-**📍<a href="https://maps.app.goo.gl/GroC1E2fGeKXqbaD9" target="_blank">Googleマップで見る ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/GroC1E2fGeKXqbaD9" target="_blank">Googleマップで見る ↗</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-05.jpg" alt="新宿思い出横丁ささもと - 地元民も行列する焼き鳥串焼き名所、濃い醤油と火の香りが絶品">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿思い出横丁ささもと - 地元民も行列する焼き鳥串焼き名所、濃い醤油と火の香りが絶品。</figcaption>
 </figure>
 
-**2️⃣ もつ焼ウッチャン（もつ焼ウッチャン 新宿思い出横丁店）**
+<strong>2️⃣ もつ焼ウッチャン（もつ焼ウッチャン 新宿思い出横丁店）</strong>
 
 地元民に「本物の横丁の雰囲気」として挙げられる場所。
 火の香りたっぷりの豚ホルモン、焼き鳥串と冷たいビールの組み合わせが絶品です。
 小さなカウンター席で一人飲みも気軽にできます。
 
-**💡 Tip.** 思い出横丁一人飲み初心者におすすめ / 席料なし / キャッシュオンリー
-**📍 <a href="https://maps.app.goo.gl/YobLzv5ZidSXHzNa9" target="_blank">Googleマップで見る ↗</a>**
+<strong>💡 Tip.</strong> 思い出横丁一人飲み初心者におすすめ / 席料なし / キャッシュオンリー
+<strong>📍 <a href="https://maps.app.goo.gl/YobLzv5ZidSXHzNa9" target="_blank">Googleマップで見る ↗</a></strong>
 
-**3️⃣ かめや（かめや 新宿店）**
+<strong>3️⃣ かめや（かめや 新宿店）</strong>
 
 夜遅くまで営業している「天ぷらそば」名店で、思い出横丁入口に位置。
 地元のサラリーマンが退勤後に立ち寄る本格的な大衆食堂の雰囲気です。
 熱い出汁と半熟卵の天そばは必須メニュー 🍜
 
-**💡 Tip.** 現金のみ / 回転早い / 食後すぐ出るスタイル
-**📍 <a href="https://maps.app.goo.gl/LLeAKmhJExUNesZ7A" target="_blank">Googleマップで見る ↗</a>**
+<strong>💡 Tip.</strong> 現金のみ / 回転早い / 食後すぐ出るスタイル
+<strong>📍 <a href="https://maps.app.goo.gl/LLeAKmhJExUNesZ7A" target="_blank">Googleマップで見る ↗</a></strong>
 
 ---
 
@@ -182,54 +182,54 @@ YouTubeホン・ソクチョン、イ・ウォンイルの東京行列店にも�
   <figcaption style="font-size: 0.7em; text-align: center;">新宿ゴールデン街店舗マップ - 約200軒の小さなバーとラーメン凪、ナグネなど人気店が密集した東京ゴールデン街ガイド。</figcaption>
 </figure>
 
-**1️⃣ ラーメン凪（すごい煮干ラーメン凪 新宿ゴールデン街店本館）**
+<strong>1️⃣ ラーメン凪（すごい煮干ラーメン凪 新宿ゴールデン街店本館）</strong>
 
 ゴールデン街の必須コースで24時間営業のラーメン店。
 濃い煮干し出汁の煮干しラーメンは二日酔い解消に最高！
-**📍<a href="https://maps.app.goo.gl/DazVM77z1gsAHGN29" target="_blank">Googleマップで見る ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/DazVM77z1gsAHGN29" target="_blank">Googleマップで見る ↗</a></strong>
 
-**2️⃣ アルバトロス G（アルバトロスG）**
+<strong>2️⃣ アルバトロス G（アルバトロスG）</strong>
 
 シャンデリアと3階ルーフトップがあるSNS人気バー。
 「ゴールデン街バーおすすめ」検索で上位に出る代表名所です。
-**📍<a href="https://maps.app.goo.gl/JA4STv2KpX2zmAr6A" target="_blank">Googleマップで見る ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/JA4STv2KpX2zmAr6A" target="_blank">Googleマップで見る ↗</a></strong>
 
-**3️⃣ ばるぼら屋（ばるぼら屋）**
+<strong>3️⃣ ばるぼら屋（ばるぼら屋）</strong>
 
-ゴールデン街では珍しい**焼きそば名店**として有名。
+ゴールデン街では珍しい<strong>焼きそば名店</strong>として有名。
 牛筋（牛スジ）焼きそばがシグネチャーメニューです。
-**📍<a href="https://maps.app.goo.gl/G9WAMCnADucdA7xs8" target="_blank">Googleマップで見る ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/G9WAMCnADucdA7xs8" target="_blank">Googleマップで見る ↗</a></strong>
 
-**4️⃣ ラーメン我論（麺屋我論）**
+<strong>4️⃣ ラーメン我論（麺屋我論）</strong>
 
 YouTuberカン・ナミおすすめラーメン店として話題！
 ニラ（ニラ）ラーメンがシグネチャーメニューです。
-**📍<a href="https://maps.app.goo.gl/ChPTxmUm5mbreD5MA" target="_blank">Googleマップで見る ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/ChPTxmUm5mbreD5MA" target="_blank">Googleマップで見る ↗</a></strong>
 
-**5️⃣ ナグネ（nagune）**
+<strong>5️⃣ ナグネ（nagune）</strong>
 
 韓国人オーナーが運営するハングル看板バー。
 認証ショット名所として外国人・韓国人観光客に人気。
-**📍<a href="https://maps.app.goo.gl/8vhQcubJZs6a8z997" target="_blank">Googleマップで見る ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/8vhQcubJZs6a8z997" target="_blank">Googleマップで見る ↗</a></strong>
 
 ---
 
 ## 4. 訪問前必須Tips
 
-**✅ 1. 席料（カバーチャージ）確認**
-- **思い出横丁:** 一部「お通し（お通し）」基本つまみ代あり
-- **ゴールデン街:** ほとんどあり（500〜1,000円）
+<strong>✅ 1. 席料（カバーチャージ）確認</strong>
+- <strong>思い出横丁:</strong> 一部「お通し（お通し）」基本つまみ代あり
+- <strong>ゴールデン街:</strong> ほとんどあり（500〜1,000円）
 
-**✅ 2. 異なる一人飲み文化**
-- **思い出横丁:** 串中心、静かに飲みやすい（難易度：低）
-- **ゴールデン街:** 会話中心、店主・客との交流必須（難易度：高）
+<strong>✅ 2. 異なる一人飲み文化</strong>
+- <strong>思い出横丁:</strong> 串中心、静かに飲みやすい（難易度：低）
+- <strong>ゴールデン街:</strong> 会話中心、店主・客との交流必須（難易度：高）
 
-**✅ 3. トイレは先に済ませましょう**
+<strong>✅ 3. トイレは先に済ませましょう</strong>
 
 ゴールデン街内部にはトイレがない店が多いです。
 共用トイレ利用時の清潔状態は店舗により異なります。
 
-**✅ 4. 地元の雰囲気 & 交流文化（ナンパ問題）**
+<strong>✅ 4. 地元の雰囲気 & 交流文化（ナンパ問題）</strong>
 
 ゴールデン街と思い出横丁は狭い空間で客と店主、
 旅行者間の会話が自然に交わされる場所です。
@@ -238,10 +238,10 @@ YouTuberカン・ナミおすすめラーメン店として話題！
 
 💬 一部のコミュニティ（DC等）では
 「ゴールデン街ナンパ」「思い出横丁ナンパ」がしばしば言及されますが、
-これは**狭い空間で会話が自然に始まる新宿独特の雰囲気のため**です。
+これは<strong>狭い空間で会話が自然に始まる新宿独特の雰囲気のため</strong>です。
 
-**📌 Tip:** 礼儀正しく会話しながら雰囲気を楽しみましょう。
-ここは「ナンパストリート」というより、**人とのつながりを楽しむ東京の夜文化空間**です。
+<strong>📌 Tip:</strong> 礼儀正しく会話しながら雰囲気を楽しみましょう。
+ここは「ナンパストリート」というより、<strong>人とのつながりを楽しむ東京の夜文化空間</strong>です。
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-07.jpg" alt="新宿ゴールデン街ネオン看板通り - 狭い路地に個性あふれる小さなバーが並ぶ東京代表ナイトスポット">
@@ -252,31 +252,31 @@ YouTuberカン・ナミおすすめラーメン店として話題！
 
 ## 🎯結論：あなたの選択は？
 
-**🍢 思い出横丁**
+<strong>🍢 思い出横丁</strong>
 - おすすめ：夕食兼1次会、賑やかな雰囲気
-- 代表メニュー：**焼き鳥、もつ焼き、煮込み、ビール**
+- 代表メニュー：<strong>焼き鳥、もつ焼き、煮込み、ビール</strong>
 
-**🥃 新宿ゴールデン街**
+<strong>🥃 新宿ゴールデン街</strong>
 - おすすめ：2〜3次会、静かに会話する雰囲気
 - 代表メニュー：カクテル、日本酒、煮干しラーメン
 
 どちらの横丁も魅力的ですが、
 あなたの旅行スタイルによってまったく異なる「夜の新宿」を体験することになります。
 
-**📌 関連する新宿旅行ガイド**
+<strong>📌 関連する新宿旅行ガイド</strong>
 
-**<a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全コース総まとめ ↗</a>**
+<strong><a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全コース総まとめ ↗</a></strong>
 
-**➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショーTips総まとめ ↗</a>**
+<strong>➡️ <a href="/ja/posts/tokyo-metropolitan-govt-observatory/" target="_blank">東京都庁無料展望台ライトショーTips総まとめ ↗</a></strong>
 
-**➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">新宿、子供と一緒に！5大キッズパークへの行き方（ディズニー、サンリオ、トーマス総まとめ）↗</a>**
+<strong>➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" target="_blank">新宿、子供と一緒に！5大キッズパークへの行き方（ディズニー、サンリオ、トーマス総まとめ）↗</a></strong>
 
 ---
 
 ## 🎁 まとめ一行要約
 
-✔️ 新宿夜の二つの顔 — **思い出横丁 vs ゴールデン街**
-✔️ **焼き鳥とビール**、それとも日本酒と会話
+✔️ 新宿夜の二つの顔 — <strong>思い出横丁 vs ゴールデン街</strong>
+✔️ <strong>焼き鳥とビール</strong>、それとも日本酒と会話
 ✔️ あなたの夜を完成させる一つの場所を選びましょう！
 
 

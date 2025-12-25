@@ -13,9 +13,9 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 "Where are the empty coin lockers?!" 😱
 "I can't find a place for my large suitcase!"
 
-If you're visiting Shibuya, you've probably faced the **"Luggage Storage Crisis"** at least once. With the complex "Shibuya Dungeon" station structure and endless crowds, finding an empty locker is harder than finding a hidden gem restaurant.
+If you're visiting Shibuya, you've probably faced the <strong>"Luggage Storage Crisis"</strong> at least once. With the complex "Shibuya Dungeon" station structure and endless crowds, finding an empty locker is harder than finding a hidden gem restaurant.
 
-But don't worry! As a Tokyo local, I've compiled the **ultimate guide to Shibuya luggage storage** to save you from wandering around with heavy bags. From secret locker spots to apps that guarantee a spot, here is everything you need to know!
+But don't worry! As a Tokyo local, I've compiled the <strong>ultimate guide to Shibuya luggage storage</strong> to save you from wandering around with heavy bags. From secret locker spots to apps that guarantee a spot, here is everything you need to know!
 
 ---
 
@@ -23,12 +23,12 @@ But don't worry! As a Tokyo local, I've compiled the **ultimate guide to Shibuya
 
 First, let's look at the coin lockers within JR and Metro Shibuya Station.
 
-**⚠️ Warning:** Most convenient locations (near Hachiko Gate) are **almost always full** from the morning. If you see an empty spot, grab it immediately!
+<strong>⚠️ Warning:</strong> Most convenient locations (near Hachiko Gate) are <strong>almost always full</strong> from the morning. If you see an empty spot, grab it immediately!
 
 ### 🔑 Key Tips for Coin Lockers
-*   **Payment:** Most accept **IC Cards (Suica/Pasmo)** and cash (100 yen coins).
-*   **Prices:** Small (400-500 yen) / Medium (600-700 yen) / Large (800-1000 yen).
-*   **Time Limit:** Usually up to 3 days (charges apply every 24 hours, often resetting at midnight/2AM).
+*   <strong>Payment:</strong> Most accept <strong>IC Cards (Suica/Pasmo)</strong> and cash (100 yen coins).
+*   <strong>Prices:</strong> Small (400-500 yen) / Medium (600-700 yen) / Large (800-1000 yen).
+*   <strong>Time Limit:</strong> Usually up to 3 days (charges apply every 24 hours, often resetting at midnight/2AM).
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-01.jpg" alt="Shibuya Station Luggage Storage Guide">
@@ -39,11 +39,11 @@ First, let's look at the coin lockers within JR and Metro Shibuya Station.
 
 Don't waste time wandering around! Check where the empty lockers are before you go.
 
-👉 **[Check Real-Time JR Coin Locker Availability](https://multiecube.com/?q=%E6%B8%8B%E8%B0%B7&when=specific_date)**
+👉 <strong>[Check Real-Time JR Coin Locker Availability](https://multiecube.com/?q=%E6%B8%8B%E8%B0%B7&when=specific_date)</strong>
 
 <br>
 
-**1. 1st Floor (Outside Ticket Gate)**
+<strong>1. 1st Floor (Outside Ticket Gate)</strong>
 Accessible from the street level.
 
 <figure>
@@ -51,7 +51,7 @@ Accessible from the street level.
 <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 1F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
-**2. 2nd Floor (Inside & Outside Ticket Gate)**
+<strong>2. 2nd Floor (Inside & Outside Ticket Gate)</strong>
 Located near the Keio Inokashira Line ticket gate.
 
 <figure>
@@ -59,7 +59,7 @@ Located near the Keio Inokashira Line ticket gate.
 <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 2F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
-**3. 4nd Floor & 5th Floor**
+<strong>3. 4nd Floor & 5th Floor</strong>
 Near the highway bus terminal (5th floor) and restaurants (4th floor). Good for longer term storage.
 
 <figure>
@@ -69,55 +69,55 @@ Near the highway bus terminal (5th floor) and restaurants (4th floor). Good for 
 
 <br>
 
-**2️⃣ Tokyo Metro Shibuya Station Coin Locker Locations**
+<strong>2️⃣ Tokyo Metro Shibuya Station Coin Locker Locations</strong>
 
 If you are using the subway, target the underground passages.
 
-1.  **B1F Exit A2:** Near Shibuya 109, has many large lockers.
-2.  **B1F Exit A4**
-3.  **B2F Near Exits A1-A4 Gates**
-4.  **B2F Walkway - Near Information Center**
-5.  **B2F Near Exits B3-B4 Gates**
+1.  <strong>B1F Exit A2:</strong> Near Shibuya 109, has many large lockers.
+2.  <strong>B1F Exit A4</strong>
+3.  <strong>B2F Near Exits A1-A4 Gates</strong>
+4.  <strong>B2F Walkway - Near Information Center</strong>
+5.  <strong>B2F Near Exits B3-B4 Gates</strong>
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-05.jpg" alt="Tokyo Metro Shibuya Station Coin Locker Map">
 <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Metro Shibuya Station B1/B2 Coin Locker Locations (<a href="https://www.tokyometro.jp/lang_kr/station/shibuya/index.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
-**3️⃣ B7 Exit / Scramble Square B1**
+<strong>3️⃣ B7 Exit / Scramble Square B1</strong>
 
-*   **Feature:** Closest to Shibuya Sky.
-*   **Location:** Passage near Exit B7 (Miyamasuzaka direction) or Scramble Square B1 near Kinokuniya Supermarket.
-*   👉 **[Google Maps Location](https://maps.app.goo.gl/XU7jtJadCW7Qxp7S8)** 📍
+*   <strong>Feature:</strong> Closest to Shibuya Sky.
+*   <strong>Location:</strong> Passage near Exit B7 (Miyamasuzaka direction) or Scramble Square B1 near Kinokuniya Supermarket.
+*   👉 <strong>[Google Maps Location](https://maps.app.goo.gl/XU7jtJadCW7Qxp7S8)</strong> 📍
 
 > [!WARNING]
-> **Warning:** More and more lockers are becoming **cashless (IC card only)**. Make sure to charge your Suica/PASMO in advance!
+> <strong>Warning:</strong> More and more lockers are becoming <strong>cashless (IC card only)</strong>. Make sure to charge your Suica/PASMO in advance!
 
 <br>
 
-🧡 Leave your heavy luggage behind and let's go check out Shibuya's hottest spots, **Parco** and **Miyashita Park**! From Nintendo Store to Human Made, we've organized everything by floor.
+🧡 Leave your heavy luggage behind and let's go check out Shibuya's hottest spots, <strong>Parco</strong> and <strong>Miyashita Park</strong>! From Nintendo Store to Human Made, we've organized everything by floor.
 
-➡️ [**Shibuya Parco Shopping Guide | Floor Guide, Tax Free, Food, Brands**](/posts/shibuya-parco-shopping-guide/)
+➡️ [<strong>Shibuya Parco Shopping Guide | Floor Guide, Tax Free, Food, Brands</strong>](/posts/shibuya-parco-shopping-guide/)
 
-➡️ [**Shibuya Miyashita Park & Shibuya Yokocho Review (2025 Christmas Market)**](/posts/shibuya-miyashita-park-yokocho-2025/)
+➡️ [<strong>Shibuya Miyashita Park & Shibuya Yokocho Review (2025 Christmas Market)</strong>](/posts/shibuya-miyashita-park-yokocho-2025/)
 
 ---
 
 ## 2. Shibuya Mark City (The "Hidden Gem" Spot) 🧡
 
-If the station lockers are full, head straight to **Shibuya Mark City**. It's directly connected to the station (Inokashira Line) and is relatively unknown to tourists.
+If the station lockers are full, head straight to <strong>Shibuya Mark City</strong>. It's directly connected to the station (Inokashira Line) and is relatively unknown to tourists.
 
 ### Why choose Mark City?
-*   **Accessibility:** Direct access from the "Avenue of Wisdom" (West Exit area).
-*   **Convenience:** Located near the Highway Bus Terminal (5F), making it perfect for travelers heading to the airport.
-*   **Availability:** The 4th and 5th floors often have empty large lockers even on weekends.
+*   <strong>Accessibility:</strong> Direct access from the "Avenue of Wisdom" (West Exit area).
+*   <strong>Convenience:</strong> Located near the Highway Bus Terminal (5F), making it perfect for travelers heading to the airport.
+*   <strong>Availability:</strong> The 4th and 5th floors often have empty large lockers even on weekends.
 
 > [!TIP]
-> **Pro Tip:** Don't waste your time! Check real-time availability.
+> <strong>Pro Tip:</strong> Don't waste your time! Check real-time availability.
 >
-> ➡️ [**Check Inokashira Line Coin Locker Availability**](https://www.keiochika.co.jp/locker/service/shibuya.html)
+> ➡️ [<strong>Check Inokashira Line Coin Locker Availability</strong>](https://www.keiochika.co.jp/locker/service/shibuya.html)
 
-**1. 1st Floor (Outside Ticket Gate)**
+<strong>1. 1st Floor (Outside Ticket Gate)</strong>
 Accessible from the street level.
 
 <figure>
@@ -125,7 +125,7 @@ Accessible from the street level.
 <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 1F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
-**2. 2nd Floor (Inside & Outside Ticket Gate)**
+<strong>2. 2nd Floor (Inside & Outside Ticket Gate)</strong>
 Located near the Keio Inokashira Line ticket gate.
 
 <figure>
@@ -133,7 +133,7 @@ Located near the Keio Inokashira Line ticket gate.
 <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 2F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
-**3. 4nd Floor & 5th Floor**
+<strong>3. 4nd Floor & 5th Floor</strong>
 Near the highway bus terminal (5th floor) and restaurants (4th floor). Good for longer term storage.
 
 <figure>
@@ -142,7 +142,7 @@ Near the highway bus terminal (5th floor) and restaurants (4th floor). Good for 
 </figure>
 
 > [!TIP]
-> **Pro Tip:** If you store your luggage at Mark City, why not grab lunch at the famous **Sushi no Midori** on the 4th floor?
+> <strong>Pro Tip:</strong> If you store your luggage at Mark City, why not grab lunch at the famous <strong>Sushi no Midori</strong> on the 4th floor?
 >
 > ➡️ [Tokyo Shibuya Sushi no Midori Shibuya Branch | Lunch, Waiting, Menu Guide](/posts/shibuya-sushi-no-midori-lunch-guide/)
 
@@ -150,15 +150,15 @@ Near the highway bus terminal (5th floor) and restaurants (4th floor). Good for 
 
 ## 3. Rainy Day Savior: WANDER COMPASS ☔
 
-Don't want to go above ground? The **Wander Compass** in the Shibuya Chikamichi (underground walkway) is your best friend.
+Don't want to go above ground? The <strong>Wander Compass</strong> in the Shibuya Chikamichi (underground walkway) is your best friend.
 
-*   **Location:** Shibuya Station B1, right next to Shibuya 109 (near Exit A2).
-*   **Map:** [Google Maps](https://maps.app.goo.gl/CnmwkSAggzzMcxZu6) 📍
-*   **Key Features:**
-    *   **Large Items OK:** Can store items that don't fit in lockers (strollers, instruments, huge suitcases).
-    *   **Manned Service:** Safe and secure with staff.
-*   **Price:** 900 yen per piece / day.
-*   **Hours:** 10:00 - 19:00.
+*   <strong>Location:</strong> Shibuya Station B1, right next to Shibuya 109 (near Exit A2).
+*   <strong>Map:</strong> [Google Maps](https://maps.app.goo.gl/CnmwkSAggzzMcxZu6) 📍
+*   <strong>Key Features:</strong>
+    *   <strong>Large Items OK:</strong> Can store items that don't fit in lockers (strollers, instruments, huge suitcases).
+    *   <strong>Manned Service:</strong> Safe and secure with staff.
+*   <strong>Price:</strong> 900 yen per piece / day.
+*   <strong>Hours:</strong> 10:00 - 19:00.
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-09.jpg" alt="Wander Compass Location Map">
@@ -169,21 +169,21 @@ Don't want to go above ground? The **Wander Compass** in the Shibuya Chikamichi 
 
 ## 4. shibuya-san: Airport Bus & FREE Perks with JCB 🎁
 
-If you have a **JCB Card** and are taking the Limousine Bus, **shibuya-san** is the absolute best choice.
+If you have a <strong>JCB Card</strong> and are taking the Limousine Bus, <strong>shibuya-san</strong> is the absolute best choice.
 
 ### ✅ Basic Info
-*   **Location:** Shibuya Fukuras (Tokyu Plaza) 1F (Right in front of the Airport Bus Stop!).
-*   **Map:** [Google Maps](https://maps.app.goo.gl/EQ8LWdPeupacQbri7) 📍
-*   **Hours:** 10:00 - 19:30 (Must pick up same day).
-*   **Price:** Small 700 yen / Large 1,000 yen.
+*   <strong>Location:</strong> Shibuya Fukuras (Tokyu Plaza) 1F (Right in front of the Airport Bus Stop!).
+*   <strong>Map:</strong> [Google Maps](https://maps.app.goo.gl/EQ8LWdPeupacQbri7) 📍
+*   <strong>Hours:</strong> 10:00 - 19:30 (Must pick up same day).
+*   <strong>Price:</strong> Small 700 yen / Large 1,000 yen.
 
 ### 💳 JCB Card Special Offer!
-*   **Benefit:** **1 Bag Storage FREE** + 1 Free Drink.
-*   **Condition:** Show your JCB card and passport (Once per day).
-*   **Period:** Until March 31, 2026.
+*   <strong>Benefit:</strong> <strong>1 Bag Storage FREE</strong> + 1 Free Drink.
+*   <strong>Condition:</strong> Show your JCB card and passport (Once per day).
+*   <strong>Period:</strong> Until March 31, 2026.
 
 > [!NOTE]
-> Heading to the airport? Check if the **Narita Express (N'EX)** fits your schedule<!-- TODO: Update link after migration
+> Heading to the airport? Check if the <strong>Narita Express (N'EX)</strong> fits your schedule<!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223702865232
      Hugo: /posts/narita-express-guide/ -->
 <p style="text-align: center;"><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Narita Express (N’EX) Reservation, Price, Format Guide</strong></a></p>
@@ -193,18 +193,18 @@ If you have a **JCB Card** and are taking the Limousine Bus, **shibuya-san** is 
 ## 5. Guaranteed Spot! Luggage Storage Apps 📱
 
 "What if there are no spots when I get there?"
-Eliminate tha anxiety by reserving a spot in advance using a **Luggage Storage App**. These services use space in cafes, restaurants, and karaoke shops.
+Eliminate tha anxiety by reserving a spot in advance using a <strong>Luggage Storage App</strong>. These services use space in cafes, restaurants, and karaoke shops.
 
 ### 1️⃣ ecbo cloak (Highly Recommended) 👍
-*   **Features:** No. 1 market share in Japan. Most partner locations.
-*   **Pros:** Can store extra-large items and strollers. Photo proof for peace of mind.
-*   **How to use:** Download App → Search 'Shibuya' → Select Date/Time & Reserve → Show QR code at store.
-*   **Link:** [ecbo cloak Reservations](https://cloak.ecbo.io/ja/jpn/city/tokyo/5)
+*   <strong>Features:</strong> No. 1 market share in Japan. Most partner locations.
+*   <strong>Pros:</strong> Can store extra-large items and strollers. Photo proof for peace of mind.
+*   <strong>How to use:</strong> Download App → Search 'Shibuya' → Select Date/Time & Reserve → Show QR code at store.
+*   <strong>Link:</strong> [ecbo cloak Reservations](https://cloak.ecbo.io/ja/jpn/city/tokyo/5)
 
 ### 2️⃣ Bounce
-*   **Features:** Many 24-hour partner locations (Internet cafes, Karaoke).
-*   **Pros:** Great for late-night pickups or early morning drop-offs.
-*   **Link:** [Bounce Reservations](https://usebounce.com/s?query=Shibuya)
+*   <strong>Features:</strong> Many 24-hour partner locations (Internet cafes, Karaoke).
+*   <strong>Pros:</strong> Great for late-night pickups or early morning drop-offs.
+*   <strong>Link:</strong> [Bounce Reservations](https://usebounce.com/s?query=Shibuya)
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-10.jpg" alt="Hikarie Storage Spot via ecbo cloak">
@@ -215,36 +215,36 @@ Eliminate tha anxiety by reserving a spot in advance using a **Luggage Storage A
 
 ## 6. Tips for Night Owls & Early Birds (24H Storage) 🌙
 
-Late-night flight or early morning bus? **Avoid station coin lockers!**
-Most station areas close their shutters after the last train (around 12:30 AM), meaning **you won't be able to retrieve your bag until morning**.
+Late-night flight or early morning bus? <strong>Avoid station coin lockers!</strong>
+Most station areas close their shutters after the last train (around 12:30 AM), meaning <strong>you won't be able to retrieve your bag until morning</strong>.
 
-**✅ 24-Hour Solutions:**
-1.  **Use Bounce App:** Book a 24-hour Karaoke (like Big Echo) or Manga Cafe.
-2.  **Mega Don Quijote:** Has lockers for shoppers, but they are extremely competitive.
-3.  **Caution:** Street lockers are open 24/7 but can be less secure. Stick to manned facilities via apps if possible.
+<strong>✅ 24-Hour Solutions:</strong>
+1.  <strong>Use Bounce App:</strong> Book a 24-hour Karaoke (like Big Echo) or Manga Cafe.
+2.  <strong>Mega Don Quijote:</strong> Has lockers for shoppers, but they are extremely competitive.
+3.  <strong>Caution:</strong> Street lockers are open 24/7 but can be less secure. Stick to manned facilities via apps if possible.
 
 ---
 
 ## 🙋‍♀️ FAQ
 
-**Q. Can I bring large luggage to Shibuya Sky?**
-A. **No.** Large baggage is prohibited. There are lockers at the 46F entrance (100 yen return), but they only fit small carry-on items. You **must** store large suitcases at the station or a storage service beforehand.
+<strong>Q. Can I bring large luggage to Shibuya Sky?</strong>
+A. <strong>No.</strong> Large baggage is prohibited. There are lockers at the 46F entrance (100 yen return), but they only fit small carry-on items. You <strong>must</strong> store large suitcases at the station or a storage service beforehand.
 
-**Q. How long can I leave luggage in a coin locker?**
-A. Usually up to **3 days (72 hours)**. Fees are added every 24 hours (usually past midnight or 2 AM). For long-term storage, **ecbo cloak** is safer and often cheaper.
+<strong>Q. How long can I leave luggage in a coin locker?</strong>
+A. Usually up to <strong>3 days (72 hours)</strong>. Fees are added every 24 hours (usually past midnight or 2 AM). For long-term storage, <strong>ecbo cloak</strong> is safer and often cheaper.
 
-**Q. I don't have cash!**
+<strong>Q. I don't have cash!</strong>
 A. Old key-type lockers only take 100 yen coins. Newer touchscreen lockers accept Suica/Pasmo. Always keep a few 100 yen coins just in case!
 
 ---
 
 ## Summary: Which one should you choose?
 
-*   **Priority on Speed?** 🏃 👉 Grab a locker near **Exit A2** early in the morning.
-*   **Large Luggage / Security?** 🧳 👉 **ecbo cloak** (App reservation).
-*   **Late Night Pickup?** 🌙 👉 **Bounce** (24H locations).
-*   **JCB Cardholder?** 💳 👉 **shibuya-san** (Free!).
-*   **Taking Airport Bus?** 🚌 👉 **Mark City 5F** or **shibuya-san**.
+*   <strong>Priority on Speed?</strong> 🏃 👉 Grab a locker near <strong>Exit A2</strong> early in the morning.
+*   <strong>Large Luggage / Security?</strong> 🧳 👉 <strong>ecbo cloak</strong> (App reservation).
+*   <strong>Late Night Pickup?</strong> 🌙 👉 <strong>Bounce</strong> (24H locations).
+*   <strong>JCB Cardholder?</strong> 💳 👉 <strong>shibuya-san</strong> (Free!).
+*   <strong>Taking Airport Bus?</strong> 🚌 👉 <strong>Mark City 5F</strong> or <strong>shibuya-san</strong>.
 
 Enjoy exploring Shibuya lightly and stress-Free! 🎒✨
 
@@ -262,7 +262,7 @@ Enjoy exploring Shibuya lightly and stress-Free! 🎒✨
 
 <br>
 
-**🚅 Going to Shinjuku next?**
+<strong>🚅 Going to Shinjuku next?</strong>
 Don't get lost in the Shinjuku Dungeon! Check our guide to Shinjuku luggage storage too.
 
 👉 [Shinjuku Station Luggage Storage Guide (Locations & Reservations)](/posts/shinjuku-luggage-storage/)

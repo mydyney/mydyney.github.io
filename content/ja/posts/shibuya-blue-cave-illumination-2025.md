@@ -24,13 +24,13 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ## はじめに
 
-こんにちは！東京の冬の夜を愛する**Tokyo Mate**です。❄️
+こんにちは！東京の冬の夜を愛する<strong>Tokyo Mate</strong>です。❄️
 
-今日は東京で最も神秘的なイルミネーション、**「2025青の洞窟SHIBUYA」**の情報をお届けします。
+今日は東京で最も神秘的なイルミネーション、<strong>「2025青の洞窟SHIBUYA」</strong>の情報をお届けします。
 
-今年は10周年記念として巨大な**「THE SNOWMAN」**バルーンが登場！渋谷駅から迷わず辿り着く方法、実際に検証した**表参道連携ルート**、そしてベスト撮影スポットまで徹底的にまとめました。
+今年は10周年記念として巨大な<strong>「THE SNOWMAN」</strong>バルーンが登場！渋谷駅から迷わず辿り着く方法、実際に検証した<strong>表参道連携ルート</strong>、そしてベスト撮影スポットまで徹底的にまとめました。
 
-**💡 クイックヒント：忙しい方は、この記事の「地図」と「一覧表」をスクリーンショットするだけでOK！**
+<strong>💡 クイックヒント：忙しい方は、この記事の「地図」と「一覧表」をスクリーンショットするだけでOK！</strong>
 
 ---
 
@@ -85,7 +85,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ## アクセス方法
 
-青の洞窟イルミネーションは代々木公園近くにあり、**渋谷駅（緩やかな坂道）**と**原宿駅（平坦なルート）**の両方からアクセス可能で、それぞれから徒歩約10分です。
+青の洞窟イルミネーションは代々木公園近くにあり、<strong>渋谷駅（緩やかな坂道）</strong>と<strong>原宿駅（平坦なルート）</strong>の両方からアクセス可能で、それぞれから徒歩約10分です。
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-04.jpg" alt="渋谷駅からパルコを通って青の洞窟へ続く青くライトアップされた並木道">
@@ -94,22 +94,22 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ### 📍 おすすめルート1：渋谷駅から青い並木道を歩く（徒歩10分）
 
-1. **渋谷駅A6-3出口**から出る
-2. 青い木々が始まる**「渋谷公園通り」**に向かって直進
-3. 緩やかな坂を上ると左手に**渋谷PARCO**が見える
+1. <strong>渋谷駅A6-3出口</strong>から出る
+2. 青い木々が始まる<strong>「渋谷公園通り」</strong>に向かって直進
+3. 緩やかな坂を上ると左手に<strong>渋谷PARCO</strong>が見える
 4. 青い並木道に沿って緩やかな坂を上って到着！
 
-**⚠️ 重要！** Googleマップで単に「渋谷駅」と検索すると、複雑な地下迷路で迷う可能性があります。常に**「代々木公園ケヤキ並木通り」**または**「渋谷PARCO」**を目的地として検索してください。
+<strong>⚠️ 重要！</strong> Googleマップで単に「渋谷駅」と検索すると、複雑な地下迷路で迷う可能性があります。常に<strong>「代々木公園ケヤキ並木通り」</strong>または<strong>「渋谷PARCO」</strong>を目的地として検索してください。
 
 ### 📍 おすすめルート2：表参道イルミネーションと連携（超おすすめ ⭐）
 
-私が特に気に入ったのは、**表参道イルミネーションを先に楽しんでから**代々木公園近くの渋谷青の洞窟まで歩くルート（徒歩約10分）。暖かい**金色の並木道**から突然**すべてが青くなる**コントラストは圧巻です。
+私が特に気に入ったのは、<strong>表参道イルミネーションを先に楽しんでから</strong>代々木公園近くの渋谷青の洞窟まで歩くルート（徒歩約10分）。暖かい<strong>金色の並木道</strong>から突然<strong>すべてが青くなる</strong>コントラストは圧巻です。
 
-1. **表参道駅**で降りて、原宿方面へ歩きながらイルミネーションを楽しむ
+1. <strong>表参道駅</strong>で降りて、原宿方面へ歩きながらイルミネーションを楽しむ
 2. 明治神宮入口と代々木公園近くの交差点へ向かう
-3. 代々木公園の縁に沿ってゆっくり歩くと、突然**枝が頭上で交わる青いケヤキのトンネル**が目の前に広がる
+3. 代々木公園の縁に沿ってゆっくり歩くと、突然<strong>枝が頭上で交わる青いケヤキのトンネル</strong>が目の前に広がる
 
-**➡️ [関連記事]**
+<strong>➡️ [関連記事]</strong>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224096781916
      Hugo: /ja/posts/[SLUG_TBD]/ -->
@@ -136,14 +136,14 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ## 実際の様子とフォトスポットハイライト
 
-到着してすぐに**「わあ、本当に洞窟みたい！」**と思わず声が出ました。枝が頭上で交わり、青い光に完全に包まれたトンネルを歩いているような感覚です。
+到着してすぐに<strong>「わあ、本当に洞窟みたい！」</strong>と思わず声が出ました。枝が頭上で交わり、青い光に完全に包まれたトンネルを歩いているような感覚です。
 
 ### 📸 フォトスポット1：氷の上を歩く（反射）
 
-青の洞窟には地面に**特別な反射マット**が敷かれています。
+青の洞窟には地面に<strong>特別な反射マット</strong>が敷かれています。
 
-- **撮影のコツ**：カメラの角度を膝下できるだけ低く！
-- 床に反射する青いライトが**氷の上を歩いているような感覚**を与えます。実際に試してみると、左右対称の反射ショットが本当に美しく撮れます。
+- <strong>撮影のコツ</strong>：カメラの角度を膝下できるだけ低く！
+- 床に反射する青いライトが<strong>氷の上を歩いているような感覚</strong>を与えます。実際に試してみると、左右対称の反射ショットが本当に美しく撮れます。
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-07.jpg" alt="特別な床マットに反射する青いライトが氷のような左右対称の鏡面効果を作り出す様子">
@@ -152,11 +152,11 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ### 📸 フォトスポット2：2025年新登場「THE SNOWMAN」
 
-今年は記念年として、ケヤキ並木広場に**巨大なスノーマンバルーン**が設置され、クリスマス映像が投影されます。今年のベストメインフォトスポットになること間違いなし！
+今年は記念年として、ケヤキ並木広場に<strong>巨大なスノーマンバルーン</strong>が設置され、クリスマス映像が投影されます。今年のベストメインフォトスポットになること間違いなし！
 
 ### 📸 フォトスポット3：渋谷スカイの背景
 
-公園の端から振り返ると、遠くに**「渋谷スクランブルスクエア（渋谷スカイ）」**のビルが見えます。青の洞窟とモダンなビルの夜景を組み合わせると、驚くほど都会的な雰囲気の写真が撮れます。
+公園の端から振り返ると、遠くに<strong>「渋谷スクランブルスクエア（渋谷スカイ）」</strong>のビルが見えます。青の洞窟とモダンなビルの夜景を組み合わせると、驚くほど都会的な雰囲気の写真が撮れます。
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-08.jpg" alt="青いイルミネーショントンネル越しに見える渋谷スクランブルスクエア渋谷スカイの夜景">
@@ -169,15 +169,15 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 行く前に知っておきたかったことをまとめました。同じ失敗をしないで！😉
 
-**1. 「真冬」の服装で！**
+<strong>1. 「真冬」の服装で！</strong>
 
 12月の東京、特に公園近くはかなり冷え込み、風も強いです。写真撮影で手を何度も出していると、すぐに凍えてしまいます。ポケットにカイロは必須です！
 
-**2. トイレは事前に利用**
+<strong>2. トイレは事前に利用</strong>
 
 代々木公園には公衆トイレがありますが、行列が長く寒いです。渋谷PARCOや近くのMODIなどのショッピングモールで施設を利用してから向かうことを強くおすすめします。
 
-**3. 混雑を避けるゴールデンタイム**
+<strong>3. 混雑を避けるゴールデンタイム</strong>
 
 平日なら20:30以降がおすすめ。通勤客と観光客が重なる18:00〜19:00は避けましょう。閉館約1時間前に行くと、より快適にソロ写真が撮れます。
 
@@ -192,15 +192,15 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 六本木の華やかなシャンデリアのようなイルミネーションとは異なり、渋谷青の洞窟は神秘的で夢のような雰囲気が魅力的でした。今年の冬に東京旅行を計画しているなら、この「青い世界」での記念写真をお見逃しなく！💙
 
-🚶 日中は**渋谷スカイ**→ 夕方に青の洞窟でフィニッシュ
+🚶 日中は<strong>渋谷スカイ</strong>→ 夕方に青の洞窟でフィニッシュ
 
-**➡️** <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>渋谷スカイ完全コース：予約からショッピング、レストランまで</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>渋谷スカイ完全コース：予約からショッピング、レストランまで</strong></a>
 
-🚶 表参道・原宿ショッピング**→ 表参道イルミネーション → 渋谷青の洞窟（徒歩）**
+🚶 表参道・原宿ショッピング<strong>→ 表参道イルミネーション → 渋谷青の洞窟（徒歩）</strong>
 
-**➡️** <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /ja/posts/[SLUG_TBD]/ --> <a href="#" style="color: #667eea;"><strong>表参道完全ガイド：カフェ、ショッピング、レストラン、建築</strong></a>
+<strong>➡️</strong> <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /ja/posts/[SLUG_TBD]/ --> <a href="#" style="color: #667eea;"><strong>表参道完全ガイド：カフェ、ショッピング、レストラン、建築</strong></a>
 
-**➡️** <a href="/ja/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>原宿アトラクション：ハリーポッターストアから竹下通り＆キャットストリート</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>原宿アトラクション：ハリーポッターストアから竹下通り＆キャットストリート</strong></a>
 
 ---
 
@@ -208,49 +208,49 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ### 🌟 東京クリスマス必須コース一覧
 
-**➡️** <a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/"><strong>東京3泊4日イルミネーション＆クリスマスマーケット完璧行程</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/tokyo-3-day-christmas-illumination-itinerary/"><strong>東京3泊4日イルミネーション＆クリスマスマーケット完璧行程</strong></a>
 
 ### 🌟 表参道・原宿クリスマス
 
-**➡️** <a href="#" style="color: #667eea;"><strong>2025年表参道イルミネーション期間、時間、場所＆撮影スポット完全ガイド</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025年表参道イルミネーション期間、時間、場所＆撮影スポット完全ガイド</strong></a>
 
 ### 🌟 明治神宮外苑クリスマス
 
-**➡️** <a href="/ja/posts/meiji-jingu-gaien-christmas-market-2025/"><strong>2025年明治神宮外苑クリスマスマーケットチケット＆マグ特典</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/meiji-jingu-gaien-christmas-market-2025/"><strong>2025年明治神宮外苑クリスマスマーケットチケット＆マグ特典</strong></a>
 
 ### 🌟 六本木クリスマス
 
-**➡️** <a href="/ja/posts/roppongi-christmas-illumination-2025/"><strong>2025年六本木ヒルズ点灯時間、撮影スポット＆ルート完全ガイド</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/roppongi-christmas-illumination-2025/"><strong>2025年六本木ヒルズ点灯時間、撮影スポット＆ルート完全ガイド</strong></a>
 
-**➡️** <a href="/ja/posts/roppongi-hills-christmas-market-2025/"><strong>2025年六本木ヒルズクリスマスマーケット、マグ、場所＆コツ完全ガイド</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/roppongi-hills-christmas-market-2025/"><strong>2025年六本木ヒルズクリスマスマーケット、マグ、場所＆コツ完全ガイド</strong></a>
 
-**➡️** <a href="/ja/posts/roppongi-midtown-christmas-2025/"><strong>2025年六本木ミッドタウンイルミネーション、アイスリンク＆レストラン</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/roppongi-midtown-christmas-2025/"><strong>2025年六本木ミッドタウンイルミネーション、アイスリンク＆レストラン</strong></a>
 
 ### 🌟 麻布台ヒルズクリスマス
 
-**➡️** <a href="/ja/posts/azabudai-hills-christmas-market-2025/"><strong>2025年麻布台ヒルズクリスマスマーケット：17ブース完全分析</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/azabudai-hills-christmas-market-2025/"><strong>2025年麻布台ヒルズクリスマスマーケット：17ブース完全分析</strong></a>
 
 ### 🌟 恵比寿クリスマス
 
-**➡️** <a href="/ja/posts/yebisu-garden-place-illumination-christmas-market-2025/"><strong>2025年恵比寿ガーデンプレイスイルミネーション＆クリスマスマーケット</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/yebisu-garden-place-illumination-christmas-market-2025/"><strong>2025年恵比寿ガーデンプレイスイルミネーション＆クリスマスマーケット</strong></a>
 
 ### 🌟 丸の内・日比谷クリスマス
 
-**➡️** <a href="/ja/posts/marunouchi-illumination-2025/"><strong>2025年丸の内イルミネーション、ディズニーコラボ＆スタンプラリー</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/marunouchi-illumination-2025/"><strong>2025年丸の内イルミネーション、ディズニーコラボ＆スタンプラリー</strong></a>
 
-**➡️** <a href="/ja/posts/hibiya-midtown-illumination-2025/"><strong>2025年日比谷イルミネーション、ズートピア2コラボ＆ウォーキングコース</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/hibiya-midtown-illumination-2025/"><strong>2025年日比谷イルミネーション、ズートピア2コラボ＆ウォーキングコース</strong></a>
 
 ### 🌟 東京スカイツリークリスマス
 
-**➡️** <a href="/ja/posts/tokyo-skytree-christmas-market-2025/"><strong>2025年スカイツリーマーケット公式スケジュール、新メニュー＆フォトゾーンガイド</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/tokyo-skytree-christmas-market-2025/"><strong>2025年スカイツリーマーケット公式スケジュール、新メニュー＆フォトゾーンガイド</strong></a>
 
 ### 🌟 上野公園クリスマス
 
-**➡️** <a href="/ja/posts/ueno-christmas-market-2025/"><strong>2025年上野クリスマスマーケット：無料入場＆アクセス完全ガイド</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/ueno-christmas-market-2025/"><strong>2025年上野クリスマスマーケット：無料入場＆アクセス完全ガイド</strong></a>
 
 ### 🌟 東京ドームシティクリスマス
 
-**➡️** <a href="/ja/posts/tokyo-dome-city-christmas-illumination-2025/"><strong>2025年東京ドームイルミネーション期間、時間＆TXTコラボ</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/tokyo-dome-city-christmas-illumination-2025/"><strong>2025年東京ドームイルミネーション期間、時間＆TXTコラボ</strong></a>
 
 
 <div class="editors-note">

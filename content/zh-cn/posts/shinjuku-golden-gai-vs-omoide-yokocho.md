@@ -106,66 +106,66 @@ featured_image: "/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-01.jpg"
 享受烤鸡串（串烧）、内脏烧烤（荷尔蒙烧）、炖煮和
 啤酒的新宿标志性街道。
 
-**✅ 推荐对象**
+<strong>✅ 推荐对象</strong>
 - 想喝啤酒配串烧的人
 - 喜欢热闹活跃氛围的人
 - 独酌新手（可兼作第一摊晚餐）
 
-**✅ Tips**
-- **价格**：比想象中贵。有些店会收座位费（お通し），请在入口确认。
-- **支付**：大部分只收现金
-- **卫生间**：横丁内公共卫生间
+<strong>✅ Tips</strong>
+- <strong>价格</strong>：比想象中贵。有些店会收座位费（お通し），请在入口确认。
+- <strong>支付</strong>：大部分只收现金
+- <strong>卫生间</strong>：横丁内公共卫生间
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-04.jpg" alt="新宿回忆横丁烤鸡串名店ささもと - 炭火香浓郁的串烧和昭和情调犹存的东京代表居酒屋">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿回忆横丁烤鸡串名店ささもと - 炭火香浓郁的串烧和昭和情调犹存的东京代表居酒屋。</figcaption>
 </figure>
 
-**✅ 推荐店铺**
+<strong>✅ 推荐店铺</strong>
 
-**1️⃣ ささもと（新宿ささもと）**
+<strong>1️⃣ ささもと（新宿ささもと）</strong>
 
 YouTube洪锡天、李元日的东京排队店也介绍过的地点！
 代表回忆横丁的内脏烧烤（荷尔蒙·串烧）专门店。
 浓厚酱油和炭火香绝妙搭配，当地人·外国人排队的名店。
 代表菜单是内脏炖煮（荷尔蒙炖煮）。
 
-**💡 点餐技巧！**
+<strong>💡 点餐技巧！</strong>
 
 这里没有菜单。
 入座后店主会按顺序"主厨推荐"上串，
 吃饱了就说"ストップ（Stop）！"结账。
 
-- **点餐**：只需回答包含内脏（もつ入り）还是不要内脏（もつ抜き）就OK
-- **用餐**：串会陆续上来。吃饱了就喊"ストップ（Stop）！"。
-- **结账**：按吃掉的串数结账的系统。
+- <strong>点餐</strong>：只需回答包含内脏（もつ入り）还是不要内脏（もつ抜き）就OK
+- <strong>用餐</strong>：串会陆续上来。吃饱了就喊"ストップ（Stop）！"。
+- <strong>结账</strong>：按吃掉的串数结账的系统。
 
 💴 平均价格：2,000～3,000日元
 🕓 17点之后必有等位 / 不能刷卡 / 仅现金
-**📍<a href="https://maps.app.goo.gl/GroC1E2fGeKXqbaD9" target="_blank">在Google地图查看 ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/GroC1E2fGeKXqbaD9" target="_blank">在Google地图查看 ↗</a></strong>
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-05.jpg" alt="新宿回忆横丁ささもと - 当地人也排队的烤鸡串串烧名所，浓厚酱油和火香绝品">
   <figcaption style="font-size: 0.7em; text-align: center;">新宿回忆横丁ささもと - 当地人也排队的烤鸡串串烧名所，浓厚酱油和火香绝品。</figcaption>
 </figure>
 
-**2️⃣ 内脏烧Ucchan（もつ焼ウッチャン 新宿思い出横丁店）**
+<strong>2️⃣ 内脏烧Ucchan（もつ焼ウッチャン 新宿思い出横丁店）</strong>
 
 被当地人称为"真正的横丁氛围"的地方。
 火香十足的猪内脏、烤鸡串配冰啤酒的组合绝品。
 小小的吧台座位独酌也很轻松。
 
-**💡 Tip.** 推荐给回忆横丁独酌新手 / 无座位费 / 仅现金
-**📍 <a href="https://maps.app.goo.gl/YobLzv5ZidSXHzNa9" target="_blank">在Google地图查看 ↗</a>**
+<strong>💡 Tip.</strong> 推荐给回忆横丁独酌新手 / 无座位费 / 仅现金
+<strong>📍 <a href="https://maps.app.goo.gl/YobLzv5ZidSXHzNa9" target="_blank">在Google地图查看 ↗</a></strong>
 
-**3️⃣ 龟屋（かめや 新宿店）**
+<strong>3️⃣ 龟屋（かめや 新宿店）</strong>
 
 营业到深夜的"天妇罗荞麦面"名店，位于回忆横丁入口。
 当地上班族下班后光顾的正宗大众食堂氛围。
 热汤和溏心蛋的天荞麦面是必点菜单 🍜
 
-**💡 Tip.** 仅现金 / 翻桌快 / 吃完即走风格
-**📍 <a href="https://maps.app.goo.gl/LLeAKmhJExUNesZ7A" target="_blank">在Google地图查看 ↗</a>**
+<strong>💡 Tip.</strong> 仅现金 / 翻桌快 / 吃完即走风格
+<strong>📍 <a href="https://maps.app.goo.gl/LLeAKmhJExUNesZ7A" target="_blank">在Google地图查看 ↗</a></strong>
 
 ---
 
@@ -182,54 +182,54 @@ YouTube洪锡天、李元日的东京排队店也介绍过的地点！
   <figcaption style="font-size: 0.7em; text-align: center;">新宿黄金街店铺地图 - 约200家小酒吧和拉面凪、Nagune等人气店密集的东京黄金街指南。</figcaption>
 </figure>
 
-**1️⃣ 拉面凪（すごい煮干ラーメン凪 新宿ゴールデン街店本館）**
+<strong>1️⃣ 拉面凪（すごい煮干ラーメン凪 新宿ゴールデン街店本館）</strong>
 
 黄金街必去路线的24小时营业拉面店。
 浓厚煮干汤底的煮干拉面解酒效果绝佳！
-**📍<a href="https://maps.app.goo.gl/DazVM77z1gsAHGN29" target="_blank">在Google地图查看 ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/DazVM77z1gsAHGN29" target="_blank">在Google地图查看 ↗</a></strong>
 
-**2️⃣ Albatross G（アルバトロスG）**
+<strong>2️⃣ Albatross G（アルバトロスG）</strong>
 
 有吊灯和3楼露台的SNS人气酒吧。
 搜索"黄金街酒吧推荐"排名靠前的代表名所。
-**📍<a href="https://maps.app.goo.gl/JA4STv2KpX2zmAr6A" target="_blank">在Google地图查看 ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/JA4STv2KpX2zmAr6A" target="_blank">在Google地图查看 ↗</a></strong>
 
-**3️⃣ ばるぼら屋**
+<strong>3️⃣ ばるぼら屋</strong>
 
-黄金街罕见的**炒面名店**而闻名。
+黄金街罕见的<strong>炒面名店</strong>而闻名。
 牛筋炒面是招牌菜单。
-**📍<a href="https://maps.app.goo.gl/G9WAMCnADucdA7xs8" target="_blank">在Google地图查看 ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/G9WAMCnADucdA7xs8" target="_blank">在Google地图查看 ↗</a></strong>
 
-**4️⃣ 拉面我论（麺屋我論）**
+<strong>4️⃣ 拉面我论（麺屋我論）</strong>
 
 YouTube博主姜娜美推荐的拉面店成为话题！
 韭菜拉面是招牌菜单。
-**📍<a href="https://maps.app.goo.gl/ChPTxmUm5mbreD5MA" target="_blank">在Google地图查看 ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/ChPTxmUm5mbreD5MA" target="_blank">在Google地图查看 ↗</a></strong>
 
-**5️⃣ Nagune**
+<strong>5️⃣ Nagune</strong>
 
 韩国人老板经营的韩文招牌酒吧。
 作为打卡名所深受外国人·韩国观光客欢迎。
-**📍<a href="https://maps.app.goo.gl/8vhQcubJZs6a8z997" target="_blank">在Google地图查看 ↗</a>**
+<strong>📍<a href="https://maps.app.goo.gl/8vhQcubJZs6a8z997" target="_blank">在Google地图查看 ↗</a></strong>
 
 ---
 
 ## 4. 访问前必知Tips
 
-**✅ 1. 座位费（Cover Charge）确认**
-- **回忆横丁：** 部分有"お通し（小菜费）"基本下酒菜费用
-- **黄金街：** 大部分有（500～1,000日元）
+<strong>✅ 1. 座位费（Cover Charge）确认</strong>
+- <strong>回忆横丁：</strong> 部分有"お通し（小菜费）"基本下酒菜费用
+- <strong>黄金街：</strong> 大部分有（500～1,000日元）
 
-**✅ 2. 不同的独酌文化**
-- **回忆横丁：** 以串烧为主，安静喝酒轻松（难度：低）
-- **黄金街：** 以对话为主，必须与店主·客人交流（难度：高）
+<strong>✅ 2. 不同的独酌文化</strong>
+- <strong>回忆横丁：</strong> 以串烧为主，安静喝酒轻松（难度：低）
+- <strong>黄金街：</strong> 以对话为主，必须与店主·客人交流（难度：高）
 
-**✅ 3. 卫生间提前解决**
+<strong>✅ 3. 卫生间提前解决</strong>
 
 黄金街内部很多店没有卫生间。
 使用公共卫生间时的清洁状况因店而异。
 
-**✅ 4. 当地氛围 & 交流文化（搭讪问题）**
+<strong>✅ 4. 当地氛围 & 交流文化（搭讪问题）</strong>
 
 黄金街和回忆横丁是在狭小空间里客人与店主、
 游客之间自然交谈的地方。
@@ -238,10 +238,10 @@ YouTube博主姜娜美推荐的拉面店成为话题！
 
 💬 部分社区（DC等）经常提及
 "黄金街搭讪""回忆横丁搭讪"，
-这是**因为狭小空间里对话自然开始的新宿独特氛围**。
+这是<strong>因为狭小空间里对话自然开始的新宿独特氛围</strong>。
 
-**📌 Tip：** 礼貌交谈享受氛围吧。
-这里与其说是"搭讪街"，不如说是**享受人际交流的东京夜文化空间**。
+<strong>📌 Tip：</strong> 礼貌交谈享受氛围吧。
+这里与其说是"搭讪街"，不如说是<strong>享受人际交流的东京夜文化空间</strong>。
 
 <figure>
   <img src="/images/posts/shinjuku-golden-gai-vs-omoide-yokocho-07.jpg" alt="新宿黄金街霓虹招牌街 - 狭窄巷子里个性满满的小酒吧林立的东京代表夜生活景点">
@@ -252,31 +252,31 @@ YouTube博主姜娜美推荐的拉面店成为话题！
 
 ## 🎯结论：你的选择是？
 
-**🍢 回忆横丁**
+<strong>🍢 回忆横丁</strong>
 - 推荐：晚餐兼第一摊、热闹氛围
-- 代表菜单：**烤鸡串、内脏烧烤、炖煮、啤酒**
+- 代表菜单：<strong>烤鸡串、内脏烧烤、炖煮、啤酒</strong>
 
-**🥃 新宿黄金街**
+<strong>🥃 新宿黄金街</strong>
 - 推荐：第2～3摊、安静对话氛围
 - 代表菜单：鸡尾酒、日本酒、煮干拉面
 
 两个横丁都很有魅力，
 但根据您的旅行风格，会体验到完全不同的"夜晚的新宿"。
 
-**📌 相关新宿旅行指南**
+<strong>📌 相关新宿旅行指南</strong>
 
-**<a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全路线总结 ↗</a>**
+<strong><a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿完全路线总结 ↗</a></strong>
 
-**➡️ <a href="/zh-cn/posts/tokyo-metropolitan-govt-observatory/" target="_blank">东京都厅免费展望台灯光秀Tips总结 ↗</a>**
+<strong>➡️ <a href="/zh-cn/posts/tokyo-metropolitan-govt-observatory/" target="_blank">东京都厅免费展望台灯光秀Tips总结 ↗</a></strong>
 
-**➡️ <a href="/zh-cn/posts/shinjuku-kids-parks-guide/" target="_blank">新宿，与孩子一起！5大儿童乐园交通（迪士尼、三丽鸥、托马斯总结）↗</a>**
+<strong>➡️ <a href="/zh-cn/posts/shinjuku-kids-parks-guide/" target="_blank">新宿，与孩子一起！5大儿童乐园交通（迪士尼、三丽鸥、托马斯总结）↗</a></strong>
 
 ---
 
 ## 🎁 总结一句话
 
-✔️ 新宿夜晚的两张面孔 — **回忆横丁 vs 黄金街**
-✔️ **烤鸡串配啤酒**，还是日本酒配对话
+✔️ 新宿夜晚的两张面孔 — <strong>回忆横丁 vs 黄金街</strong>
+✔️ <strong>烤鸡串配啤酒</strong>，还是日本酒配对话
 ✔️ 选择一个完美你夜晚的地方吧！
 
 

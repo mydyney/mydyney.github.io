@@ -24,7 +24,7 @@ Plus essential cash-only payment tips!</p>
 
 ## ✨ 100-Year Legacy: Naniwaya Sohonten, Tokyo's Top 3 Taiyaki
 
-Established in 1909 (Meiji 42), **Naniwaya Sohonten** is a symbol of Azabujuban. Along with Wakaba in Yotsuya and Yanagiya in Ningyocho, it's considered one of **Tokyo's Top 3 Taiyaki** shops.
+Established in 1909 (Meiji 42), <strong>Naniwaya Sohonten</strong> is a symbol of Azabujuban. Along with Wakaba in Yotsuya and Yanagiya in Ningyocho, it's considered one of <strong>Tokyo's Top 3 Taiyaki</strong> shops.
 
 Their signature taiyaki features sweet bean paste (anko) slow-cooked for 8 hours, packed generously into thin, crispy skin—filled all the way to the tail. When you bite into it, the satisfying crunch and sweet bean flavor instantly fill your mouth.
 
@@ -41,16 +41,16 @@ Their signature taiyaki features sweet bean paste (anko) slow-cooked for 8 hours
 
 The 1st floor is dedicated to taiyaki takeout. Watching the artisans hand-craft each taiyaki using traditional methods is part of the experience.
 
-**Payment is CASH ONLY.** Credit cards, electronic payments, and QR codes are not accepted. Make sure to bring cash before your visit!
+<strong>Payment is CASH ONLY.</strong> Credit cards, electronic payments, and QR codes are not accepted. Make sure to bring cash before your visit!
 
-**📌 Pro Tip:** If your taiyaki gets cold, reheat it briefly in an oven or toaster to restore its crispy texture.
+<strong>📌 Pro Tip:</strong> If your taiyaki gets cold, reheat it briefly in an oven or toaster to restore its crispy texture.
 
 ### 2nd Floor: Naniwaya Café
 
 The 2nd floor houses a cozy 12-seat café where you can enjoy freshly grilled taiyaki and other local favorites:
 
-- **Hidden Gem: Yakisoba** - Old-fashioned stir-fried noodles that are extremely popular among regulars.
-- **Summer Special: Kakigori (Shaved Ice)** - During summer, try the "Uji Kintoki" (matcha red bean shaved ice) while watching taiyaki being grilled over hot flames in the non-air-conditioned 2nd floor—a truly unique experience!
+- <strong>Hidden Gem: Yakisoba</strong> - Old-fashioned stir-fried noodles that are extremely popular among regulars.
+- <strong>Summer Special: Kakigori (Shaved Ice)</strong> - During summer, try the "Uji Kintoki" (matcha red bean shaved ice) while watching taiyaki being grilled over hot flames in the non-air-conditioned 2nd floor—a truly unique experience!
 
 <figure>
   <img src="/images/posts/azabujuban-naniwaya-taiyaki-04.jpg" alt="Yakisoba served at Naniwaya Café on the 2nd floor">
@@ -61,15 +61,15 @@ The 2nd floor houses a cozy 12-seat café where you can enjoy freshly grilled ta
 
 ## 📌 Essential Info Before Your Visit
 
-**⏰ Business Hours**
+<strong>⏰ Business Hours</strong>
 - 1st Floor (Taiyaki): 11:00 ~ 19:00
 - 2nd Floor (Naniwaya Café): 10:30 ~ 18:00
 
-**🗓️ Regular Holidays: Every Tuesday + Third Tuesday & Wednesday of each month (consecutive closure)**
+<strong>🗓️ Regular Holidays: Every Tuesday + Third Tuesday & Wednesday of each month (consecutive closure)</strong>
 
-**💰 Payment: CASH ONLY! (No cards, e-money, or QR payments ❌)**
+<strong>💰 Payment: CASH ONLY! (No cards, e-money, or QR payments ❌)</strong>
 
-**📍 Location: 3-minute walk from Azabujuban Station Exit 4**
+<strong>📍 Location: 3-minute walk from Azabujuban Station Exit 4</strong>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6561898,139.7351081&hl=en&z=17&output=embed"
@@ -97,9 +97,9 @@ The 2nd floor houses a cozy 12-seat café where you can enjoy freshly grilled ta
 
 After filling up on delicious taiyaki, explore the sophisticated "adult neighborhood" of Azabujuban, then head to nearby Roppongi or Azabudai.
 
-**🚶‍♂️ 10-Minute Walk!**
+<strong>🚶‍♂️ 10-Minute Walk!</strong>
 
-**Art & Shopping District: Roppongi Hills** - If you want to experience modern energy and artistic inspiration different from Azabujuban's quaint shopping streets, head to Roppongi Hills.
+<strong>Art & Shopping District: Roppongi Hills</strong> - If you want to experience modern energy and artistic inspiration different from Azabujuban's quaint shopping streets, head to Roppongi Hills.
 
 <!-- TODO: Update link after migration
      Naver: /posts/roppongi-attractions-guide

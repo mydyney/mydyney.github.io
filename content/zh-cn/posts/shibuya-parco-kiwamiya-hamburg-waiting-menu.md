@@ -9,18 +9,18 @@ description: "涩谷PARCO B1F KIWAMIYA汉堡肉完全攻略。福冈第1名汉�
 featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg"
 ---
 
-福冈传说中的汉堡肉餐厅**KIWAMIYA**登陆东京涩谷PARCO！等位时间、菜单价格、招牌**495日元自助套餐**、涩谷限定菜单完全攻略。
+福冈传说中的汉堡肉餐厅<strong>KIWAMIYA</strong>登陆东京涩谷PARCO！等位时间、菜单价格、招牌<strong>495日元自助套餐</strong>、涩谷限定菜单完全攻略。
 
 ![KIWAMIYA汉堡肉 涩谷PARCO - 东京最人气汉堡肉餐厅完全攻略](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg)
 *东京涩谷PARCO人气餐厅「KIWAMIYA汉堡肉」完全攻略*
 
-去过福冈旅行的朋友，一定听说过或因长队放弃过**KIWAMIYA汉堡肉**。
+去过福冈旅行的朋友，一定听说过或因长队放弃过<strong>KIWAMIYA汉堡肉</strong>。
 
-「东京没有吗？」**有！** 而且就在最适合购物的**涩谷PARCO**地下。
+「东京没有吗？」<strong>有！</strong> 而且就在最适合购物的<strong>涩谷PARCO</strong>地下。
 
-每当朋友问我东京餐厅推荐时，**「即使要等也必须去」**的店之一。说实话，什么都不想就去的话，等1～2小时是基本配置。
+每当朋友问我东京餐厅推荐时，<strong>「即使要等也必须去」</strong>的店之一。说实话，什么都不想就去的话，等1～2小时是基本配置。
 
-但如果了解涩谷店独有的**特别菜单和隐藏营业时间秘密**，满意度会高得多。基于官方信息，完美整理涩谷PARCO KIWAMIYA汉堡肉攻略法。
+但如果了解涩谷店独有的<strong>特别菜单和隐藏营业时间秘密</strong>，满意度会高得多。基于官方信息，完美整理涩谷PARCO KIWAMIYA汉堡肉攻略法。
 
 ![涩谷PARCO KIWAMIYA汉堡肉 店铺外观](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-02.jpg)
 *涩谷PARCO KIWAMIYA汉堡肉 店铺外观*
@@ -29,23 +29,23 @@ featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jp
 
 ## 1. 东京站 vs 涩谷PARCO，去哪家？
 
-东京有「东京站店」和「涩谷PARCO店」2家店。结论：美食爱好者推荐**涩谷PARCO店**。
+东京有「东京站店」和「涩谷PARCO店」2家店。结论：美食爱好者推荐<strong>涩谷PARCO店</strong>。
 
 理由有两个。
 
-**1. 等位环境**：比东京站复杂的通道，PARCO地下（Chaos Kitchen）更适合等待。
+<strong>1. 等位环境</strong>：比东京站复杂的通道，PARCO地下（Chaos Kitchen）更适合等待。
 
-**2. 限定菜单**：涩谷店独有**神户牛汉堡肉**和精选牛排套餐。
+<strong>2. 限定菜单</strong>：涩谷店独有<strong>神户牛汉堡肉</strong>和精选牛排套餐。
 
 ---
 
 ## 🔍 涩谷PARCO KIWAMIYA汉堡肉 基本信息
 
-- **地点**：涩谷PARCO B1F 餐厅楼层
-- **营业时间**：11:30〜23:00（最后点餐 22:00 / 排队过长时提前结束）
-- **预订**：不可（100%现场等位）
-- **支付**：信用卡/现金均可
-- 📍 [**在Google地图查看**](https://maps.app.goo.gl/ciAcB9jDJkLMpmvJ7)
+- <strong>地点</strong>：涩谷PARCO B1F 餐厅楼层
+- <strong>营业时间</strong>：11:30〜23:00（最后点餐 22:00 / 排队过长时提前结束）
+- <strong>预订</strong>：不可（100%现场等位）
+- <strong>支付</strong>：信用卡/现金均可
+- 📍 [<strong>在Google地图查看</strong>](https://maps.app.goo.gl/ciAcB9jDJkLMpmvJ7)
 
 ![涩谷PARCO 外观](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-03.jpg)
 *涩谷PARCO 外观*
@@ -54,23 +54,23 @@ featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jp
 
 ## 2. 等位必备！什么时候去？（开门前排队秘诀）
 
-官网明确说明，这里是**「不可预订，先到先得」**原则。
+官网明确说明，这里是<strong>「不可预订，先到先得」</strong>原则。
 
 ### ⏰ 预计等位时间表
 
-- **工作日 11:00（开门前）**：0〜15分钟等待（很大概率立即入店）
-- **工作日 12:00〜13:30**：40〜70分钟等待
-- **周末 11:00（开门前）**：20〜40分钟等待（开门前也要排队）
-- **周末 午餐高峰**：最长90分钟以上
+- <strong>工作日 11:00（开门前）</strong>：0〜15分钟等待（很大概率立即入店）
+- <strong>工作日 12:00〜13:30</strong>：40〜70分钟等待
+- <strong>周末 11:00（开门前）</strong>：20〜40分钟等待（开门前也要排队）
+- <strong>周末 午餐高峰</strong>：最长90分钟以上
 
 ### 💡 减少等位时间秘诀
 
-- **开门前30〜40分钟到达**：工作日11点，周末10点30分到达可首批入店。
-- **瞄准尴尬时间**：午餐时段过后的下午3〜4点最空。
-- **闭店前注意**：晚8点半过后可能因食材售罄或等位人数超额无法排队，请抓紧。
+- <strong>开门前30〜40分钟到达</strong>：工作日11点，周末10点30分到达可首批入店。
+- <strong>瞄准尴尬时间</strong>：午餐时段过后的下午3〜4点最空。
+- <strong>闭店前注意</strong>：晚8点半过后可能因食材售罄或等位人数超额无法排队，请抓紧。
 
-**👇 等位时间太长累了？推荐有取号系统的绿寿司**
-**➡️** [涩谷 SUSHI NO MIDORI 涩谷店｜性价比午餐、等位・预订・菜单完全攻略](/zh-cn/posts/shibuya-sushi-no-midori-lunch-guide/)
+<strong>👇 等位时间太长累了？推荐有取号系统的绿寿司</strong>
+<strong>➡️</strong> [涩谷 SUSHI NO MIDORI 涩谷店｜性价比午餐、等位・预订・菜单完全攻略](/zh-cn/posts/shibuya-sushi-no-midori-lunch-guide/)
 
 ![KIWAMIYA汉堡肉 不可预订店前长队等位](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-04.jpg)
 
@@ -78,39 +78,39 @@ featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jp
 
 ## 3. 菜单&价格 全汇总（看这个点餐就够了）
 
-这里汉堡肉的特点是**「不使用洋葱」**。九州产黑毛和牛与国产牛独家配方，最大化肉本身味道的「牛排般口感」是特色。
+这里汉堡肉的特点是<strong>「不使用洋葱」</strong>。九州产黑毛和牛与国产牛独家配方，最大化肉本身味道的「牛排般口感」是特色。
 
 ### ✅ BEST 1. KIWAMIYA汉堡肉（基础款）
 
 最基础的畅销款（含税价格）：
 
-- **S（120g）**：1,298日元（小食量推荐）
-- **M（160g）**：1,705日元（成年男女推荐）
-- **L（200g）**：2,068日元（肉食爱好者）
-- **D（320g）**：3,300日元（双倍分量）
+- <strong>S（120g）</strong>：1,298日元（小食量推荐）
+- <strong>M（160g）</strong>：1,705日元（成年男女推荐）
+- <strong>L（200g）</strong>：2,068日元（肉食爱好者）
+- <strong>D（320g）</strong>：3,300日元（双倍分量）
 
 ![KIWAMIYA汉堡肉 菜单板](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-05.jpg)
 *涩谷PARCO KIWAMIYA汉堡肉 菜单板（[出处](https://kiwamiya.com/shoplist/shibuya-parco#menu)）*
 
 ### ✅ BEST 2. 汉堡肉&精选伊万里牛排套餐
 
-汉堡肉不够吃？推荐入口即化的**伊万里牛排（60g）**组合套餐：
+汉堡肉不够吃？推荐入口即化的<strong>伊万里牛排（60g）</strong>组合套餐：
 
-- **S 套餐**：2,728日元
-- **M 套餐**：3,135日元（推荐）
-- **L 套餐**：3,498日元
+- <strong>S 套餐</strong>：2,728日元
+- <strong>M 套餐</strong>：3,135日元（推荐）
+- <strong>L 套餐</strong>：3,498日元
 
 ![汉堡肉&精选伊万里牛排套餐 菜单板](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-06.jpg)
 *涩谷PARCO KIWAMIYA汉堡肉&精选伊万里牛排套餐 菜单板（[出处](https://kiwamiya.com/shoplist/shibuya-parco#menu)）*
 
 ### ⭐️ 必加：套餐菜单（495日元的幸福）
 
-只点单品只有肉。务必追加**495日元（含税）套餐**：
+只点单品只有肉。务必追加<strong>495日元（含税）套餐</strong>：
 
-- **组成**：米饭＋汤＋沙拉＋软冰淇淋
-- **特典**：**全部自助（无限续）**！
+- <strong>组成</strong>：米饭＋汤＋沙拉＋软冰淇淋
+- <strong>特典</strong>：<strong>全部自助（无限续）</strong>！
 
-**📌 Tip**：米饭用釜（羽釜）煮，粘度堪称艺术品。
+<strong>📌 Tip</strong>：米饭用釜（羽釜）煮，粘度堪称艺术品。
 
 ![套餐菜单介绍](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-07.jpg)
 *涩谷PARCO KIWAMIYA汉堡肉 套餐菜单介绍（[出处](https://kiwamiya.com/shoplist/shibuya-parco#menu)）*
@@ -119,7 +119,7 @@ featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jp
 
 基本有5种酱料（岩盐、芥末、甜酱、洋葱酱、肉酱）可按喜好选择。
 
-- **推荐配料**：含松露香盐的「兰王（Ran-Ou）酱」（198日元）。蘸浓郁蛋黄吃肉，风味爆炸。
+- <strong>推荐配料</strong>：含松露香盐的「兰王（Ran-Ou）酱」（198日元）。蘸浓郁蛋黄吃肉，风味爆炸。
 
 ---
 
@@ -128,14 +128,14 @@ featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jp
 这是「KIWAMIYA」品牌首家铁板风格店铺。座位24席，吧台式设计一人用餐也轻松。
 
 1. 外层稍微煎过的半生状态肉端上来。
-2. 用**银筷子**夹一块肉（生肉专用）。
+2. 用<strong>银筷子</strong>夹一块肉（生肉专用）。
 3. 放在热铁板上翻面烤制。
-4. 肉烤好后用**木筷子**夹起蘸喜欢的酱料，放在现煮米饭上吃（筷子区分必备！）。
+4. 肉烤好后用<strong>木筷子</strong>夹起蘸喜欢的酱料，放在现煮米饭上吃（筷子区分必备！）。
 
-**🍚 米饭、汤、沙拉、甜品冰淇淋全部无限续。**
+<strong>🍚 米饭、汤、沙拉、甜品冰淇淋全部无限续。</strong>
 
 不够时请大声说
-**「🥗 ゴハン/スープ/サラダ/ソフトクリーム オカワリ クダサイ」**
+<strong>「🥗 ゴハン/スープ/サラダ/ソフトクリーム オカワリ クダサイ」</strong>
 （米饭/汤/沙拉/冰淇淋 请续）
 试试看！
 
@@ -153,13 +153,13 @@ featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jp
 
 ---
 
-**涩谷PARCO 餐厅**推荐，特别是想吃正宗**日式汉堡肉**的话，**KIWAMIYA汉堡肉**绝对值得等。
+<strong>涩谷PARCO 餐厅</strong>推荐，特别是想吃正宗<strong>日式汉堡肉</strong>的话，<strong>KIWAMIYA汉堡肉</strong>绝对值得等。
 
 ### ⭐️ 3行总结
 
-1. **不可预订！** 开门前排队或下午3〜4点尴尬时间瞄准。
-2. **495日元套餐必加！**（米饭、汤、冰淇淋无限续）。
-3. 成年人标准**M尺寸（1,705日元）**最适量。
+1. <strong>不可预订！</strong> 开门前排队或下午3〜4点尴尬时间瞄准。
+2. <strong>495日元套餐必加！</strong>（米饭、汤、冰淇淋无限续）。
+3. 成年人标准<strong>M尺寸（1,705日元）</strong>最适量。
 
 在涩谷中心体验福冈第1名的味道！
 

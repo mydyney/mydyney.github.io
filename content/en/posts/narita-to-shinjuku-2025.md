@@ -61,41 +61,41 @@ The two main direct transportation options to Shinjuku are:
   </tbody>
 </table>
 
-By the way, there's also a "Narita Shinjuku Skyliner" route, but it requires one transfer at Ueno or Nippori Station, so this article focuses on **"direct routes only: Narita Express vs Airport Limousine"** comparison.
+By the way, there's also a "Narita Shinjuku Skyliner" route, but it requires one transfer at Ueno or Nippori Station, so this article focuses on <strong>"direct routes only: Narita Express vs Airport Limousine"</strong> comparison.
 (I'll organize Skyliner in a separate in-depth article later.)
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /posts/skyliner-reservation-guide/ -->
-**➡️ [Skyliner vs N'EX Comparison, Complete Guide to Ueno/Shinjuku ↗](#)**
+<strong>➡️ [Skyliner vs N'EX Comparison, Complete Guide to Ueno/Shinjuku ↗](#)</strong>
 
 ---
 
 ## Narita Express Complete Guide 🚄
 
-**✅ Narita Express (N'EX) One-Line Summary**
+<strong>✅ Narita Express (N'EX) One-Line Summary</strong>
 "Among the ways to get from Narita Airport to Shinjuku,
 the fastest, most comfortable, and most punctual method."
 
 ### 🚄 Basic Information
 
-- **Route: Narita Airport ↔ Tokyo Station ↔ Shibuya Station ↔ Shinjuku Station (no transfers)**
-- **Travel Time**: Approx. 80 minutes
-- **Price**: One-way 3,250 yen / **Round-trip 5,000 yen (use within 14 days)**
-- **Advantages**: All reserved seats, wide seat spacing + ample luggage rack
-- **Disadvantages**: Expensive one-way, **strongly recommend round-trip ticket**
+- <strong>Route: Narita Airport ↔ Tokyo Station ↔ Shibuya Station ↔ Shinjuku Station (no transfers)</strong>
+- <strong>Travel Time</strong>: Approx. 80 minutes
+- <strong>Price</strong>: One-way 3,250 yen / <strong>Round-trip 5,000 yen (use within 14 days)</strong>
+- <strong>Advantages</strong>: All reserved seats, wide seat spacing + ample luggage rack
+- <strong>Disadvantages</strong>: Expensive one-way, <strong>strongly recommend round-trip ticket</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /posts/narita-express-guide/ -->
-**➡️ [Narita Express (N'EX) Reservation & Seat Selection Complete Guide↗](#)**
+<strong>➡️ [Narita Express (N'EX) Reservation & Seat Selection Complete Guide↗](#)</strong>
 
-- **Booking Methods**: Klook, KKday / JR East Service Center
+- <strong>Booking Methods</strong>: Klook, KKday / JR East Service Center
 
-**✅ [Book Narita Express on Klook↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)**
+<strong>✅ [Book Narita Express on Klook↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)</strong>
 
 ### ⏰ N'EX Timetable (Narita Airport → Shinjuku Station)
 
-**📌 Tip**
-**Since flights may be delayed,**
-**it's safe to allow at least 2 hours for Narita immigration + baggage claim**
-**when timing your N'EX departure.**
+<strong>📌 Tip</strong>
+<strong>Since flights may be delayed,</strong>
+<strong>it's safe to allow at least 2 hours for Narita immigration + baggage claim</strong>
+<strong>when timing your N'EX departure.</strong>
 
 <table class="schedule-table">
   <thead>
@@ -175,7 +175,7 @@ the fastest, most comfortable, and most punctual method."
   </tbody>
 </table>
 
-**※ Timetables and fares are subject to change. Please check the latest information on the official Narita Express and Airport Limousine websites before boarding.**
+<strong>※ Timetables and fares are subject to change. Please check the latest information on the official Narita Express and Airport Limousine websites before boarding.</strong>
 
 <figure>
   <img src="/images/posts/narita-to-shinjuku-2025-02.jpg" alt="Narita Express ticket machine at Narita Airport Terminal 1">
@@ -186,7 +186,7 @@ the fastest, most comfortable, and most punctual method."
 
 ## Airport Limousine Bus – Perfect for Heavy Luggage! 🚌
 
-**✅ Airport Limousine One-Line Summary**
+<strong>✅ Airport Limousine One-Line Summary</strong>
 "Take the Narita Shinjuku limousine and
 load your suitcase once to arrive right in front of your hotel -
 the most convenient 'door-to-door' route."
@@ -200,27 +200,27 @@ the most convenient 'door-to-door' route."
 - Shinjuku Washington Hotel
 - Hilton Tokyo
 
-**📌 Tip**
+<strong>📌 Tip</strong>
 The Narita Shinjuku airport bus costs a bit more, but...
 if you're staying at hotels like Washington Hotel listed above, the limousine bus is practically the answer.
 
 ### 🚌 Basic Information
 
-- **Travel Time**: Approx. 2 hours
-- **Price**: 3,600 yen
-- **Advantages**: No luggage worries, best for traveling with parents/children
-- **Disadvantages**: Affected by traffic, reservations required for certain time slots
+- <strong>Travel Time</strong>: Approx. 2 hours
+- <strong>Price</strong>: 3,600 yen
+- <strong>Advantages</strong>: No luggage worries, best for traveling with parents/children
+- <strong>Disadvantages</strong>: Affected by traffic, reservations required for certain time slots
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /posts/narita-airport-limousine-guide/ -->
-**➡️ [Narita Airport Limousine Complete Guide↗](#)**
+<strong>➡️ [Narita Airport Limousine Complete Guide↗](#)</strong>
 
-- **Booking Methods**: Klook / Airport ticket counter
+- <strong>Booking Methods</strong>: Klook / Airport ticket counter
 
-**✅ [Book Airport Limousine on Klook↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1121184&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F)**
+<strong>✅ [Book Airport Limousine on Klook↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1121184&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F)</strong>
 
 ### 📍 Limousine Bus Stops
 
-**Narita Airport → Shinjuku Limousine Bus Stops (by Terminal)**
+<strong>Narita Airport → Shinjuku Limousine Bus Stops (by Terminal)</strong>
 
 <table class="schedule-table">
   <thead>
@@ -237,7 +237,7 @@ if you're staying at hotels like Washington Hotel listed above, the limousine bu
 
 ### 🚌 Main Routes
 
-**1️⃣ Narita Airport → Tokyo Kabukicho Tower, Seibu Shinjuku Station Area**
+<strong>1️⃣ Narita Airport → Tokyo Kabukicho Tower, Seibu Shinjuku Station Area</strong>
 
 <table class="schedule-table">
   <thead>
@@ -252,7 +252,7 @@ if you're staying at hotels like Washington Hotel listed above, the limousine bu
   </tbody>
 </table>
 
-**2️⃣ Narita Airport → Shinjuku Station, Shinjuku Busta Terminal, Major Hotels**
+<strong>2️⃣ Narita Airport → Shinjuku Station, Shinjuku Busta Terminal, Major Hotels</strong>
 
 <table class="schedule-table">
   <thead>
@@ -441,13 +441,13 @@ choose one of the following.
 
 ### 💰 1) When "Time + Convenience" is More Important Than Budget
 
-- **Recommended: Narita Express (N'EX)**
-- **Reason**: No transfers + no traffic impact as it's a train
+- <strong>Recommended: Narita Express (N'EX)</strong>
+- <strong>Reason</strong>: No transfers + no traffic impact as it's a train
 
 ### 🧳 2) 2+ Suitcases, Traveling with Parents/Children
 
-- **Recommended: Airport Limousine Bus**
-- **Reason**: The driver loads your luggage at the airport and unloads it in front of your hotel, practically eliminating "luggage-carrying labor."
+- <strong>Recommended: Airport Limousine Bus</strong>
+- <strong>Reason</strong>: The driver loads your luggage at the airport and unloads it in front of your hotel, practically eliminating "luggage-carrying labor."
 Especially if you're going from Narita Airport to Shinjuku Washington Hotel, Keio, Hilton, etc., and have a hotel drop-off route, definitely recommend the limousine.
 
 ### 🕐 3) Early Morning/Late Night Arrival / Awkward Departure Time
@@ -467,22 +467,22 @@ If you have lots of luggage and are staying at Washington/Hilton/Keio etc. → B
 
 ## Q&A (Frequently Asked Questions)
 
-**Q. Can I use Suica (Pasmo) card for Narita Express?**
+<strong>Q. Can I use Suica (Pasmo) card for Narita Express?</strong>
 A. No.
 While Suica can be used for regular trains, subways, and the Yamanote Line,
-**Narita Express (N'EX)** requires
-a separate **reserved seat limited express ticket**.
+<strong>Narita Express (N'EX)</strong> requires
+a separate <strong>reserved seat limited express ticket</strong>.
 
-**Q. Can I use the N'EX round-trip ticket for a 3-night 4-day trip?**
+<strong>Q. Can I use the N'EX round-trip ticket for a 3-night 4-day trip?</strong>
 A. Yes.
-Since it's valid for **round-trip use within 14 days** of purchase,
+Since it's valid for <strong>round-trip use within 14 days</strong> of purchase,
 the "Narita-Shinjuku N'EX round-trip 5,000 yen" can be fully utilized for most Tokyo trips including 3-night 4-day or 5-night 6-day itineraries.
 
-**Q. Can I pay by credit card for Airport Limousine tickets?**
+<strong>Q. Can I pay by credit card for Airport Limousine tickets?</strong>
 A. Yes.
-**Credit card payment is available** at most Airport Limousine ticket counters and vending machines at Narita Airport.
+<strong>Credit card payment is available</strong> at most Airport Limousine ticket counters and vending machines at Narita Airport.
 
-**Q. I'm arriving early in the morning, and both N'EX and limousine are finished.**
+<strong>Q. I'm arriving early in the morning, and both N'EX and limousine are finished.</strong>
 A. In this case, you have no choice but to choose between:
 - Stay overnight at Narita Airport → Take N'EX/limousine next morning
 - Last resort: Use Narita Shinjuku taxi (expect fare of 30,000+ yen)
@@ -496,28 +496,28 @@ A. In this case, you have no choice but to choose between:
 In addition to Shinjuku-bound transportation, if you need more detailed information about each transportation option or a complete airport guide, check out the in-depth guides below.
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224007949043 Hugo: /posts/narita-airport-arrival-guide/ -->
-**➡️ [Tokyo Narita Airport Arrival Guide (Getting to the City, Suica, ATM Complete Guide) ↗](#)**
+<strong>➡️ [Tokyo Narita Airport Arrival Guide (Getting to the City, Suica, ATM Complete Guide) ↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /posts/narita-express-guide/ -->
-**➡️ [Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide ↗](#)**
+<strong>➡️ [Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide ↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /posts/narita-airport-limousine-guide/ -->
-**➡️ [Narita Airport Limousine & Budget Express Bus Complete Guide (Reservations, Prices) ↗](#)**
+<strong>➡️ [Narita Airport Limousine & Budget Express Bus Complete Guide (Reservations, Prices) ↗](#)</strong>
 
 <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /posts/skyliner-reservation-guide/ -->
-**➡️ [Skyliner Reservations, Prices, Timetable Complete Guide (N'EX Comparison) ↗](#)**
+<strong>➡️ [Skyliner Reservations, Prices, Timetable Complete Guide (N'EX Comparison) ↗](#)</strong>
 
-**➡️ [Narita Airport Terminal 1 Duty-Free 5% Discount Coupon (Shopping List) ↗](/posts/narita-airport-terminal1-duty-free-coupon-guide/)**
+<strong>➡️ [Narita Airport Terminal 1 Duty-Free 5% Discount Coupon (Shopping List) ↗](/posts/narita-airport-terminal1-duty-free-coupon-guide/)</strong>
 
 ### ⭐ Related Shinjuku Travel Guides
 
-**🌿 Full Shinjuku Day Course: [Shinjuku Things to Do Complete Course Guide↗](/posts/shinjuku-guide-2025/)**
+<strong>🌿 Full Shinjuku Day Course: [Shinjuku Things to Do Complete Course Guide↗](/posts/shinjuku-guide-2025/)</strong>
 
-**🍁 Walk: [Shinjuku Gyoen Opening Hours, Autumn Leaves, Picnic↗](/posts/shinjuku-gyoen-guide-2025/)**
+<strong>🍁 Walk: [Shinjuku Gyoen Opening Hours, Autumn Leaves, Picnic↗](/posts/shinjuku-gyoen-guide-2025/)</strong>
 
-**🏙 Night View: [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips↗](/posts/tokyo-metropolitan-govt-observatory/)**
+<strong>🏙 Night View: [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips↗](/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
-**🌃 Night Streets: [Shinjuku Golden Gai vs Omoide Yokocho Perfect Comparison↗](/posts/shinjuku-golden-gai-vs-omoide-yokocho/)**
+<strong>🌃 Night Streets: [Shinjuku Golden Gai vs Omoide Yokocho Perfect Comparison↗](/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
 
 
 <div class="editors-note">

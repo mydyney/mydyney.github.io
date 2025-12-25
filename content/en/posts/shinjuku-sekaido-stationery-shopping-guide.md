@@ -27,7 +27,7 @@ Essential travel tips at a glance.</p>
 
 ## 📍 What is SEKAIDO?
 
-If you're looking for stationery shopping in Tokyo, **Shinjuku SEKAIDO** is the answer.
+If you're looking for stationery shopping in Tokyo, <strong>Shinjuku SEKAIDO</strong> is the answer.
 
 A must-visit paradise for stationery lovers, even on a short itinerary. From journaling supplies to art and manga materials, you can find everything in one place.
 
@@ -38,8 +38,8 @@ A must-visit paradise for stationery lovers, even on a short itinerary. From jou
 
 ### 🏬 SEKAIDO Main Store Information
 
-**Business Hours:** 09:30 ~ 20:00
-**Closed:** Open year-round
+<strong>Business Hours:</strong> 09:30 ~ 20:00
+<strong>Closed:</strong> Open year-round
 
 ### 🚇 Access
 
@@ -67,7 +67,7 @@ A must-visit paradise for stationery lovers, even on a short itinerary. From jou
 
 ## 🚨 Tax-Free vs Membership Discount (Must Read!)
 
-SEKAIDO has a **membership card system with up to 30% discount**.
+SEKAIDO has a <strong>membership card system with up to 30% discount</strong>.
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-03.jpg" alt="SEKAIDO membership card discount price table">
@@ -76,25 +76,25 @@ SEKAIDO has a **membership card system with up to 30% discount**.
 
 ### 1. Membership Card Fee (Paid)
 
-Membership card registration fee is **500 yen (cash only)**, valid for 2 years.
+Membership card registration fee is <strong>500 yen (cash only)</strong>, valid for 2 years.
 
 ### 2. Cash Payment Only for Discounts
 
-All membership benefits (discounts, points) are **only applicable with cash payment**.
+All membership benefits (discounts, points) are <strong>only applicable with cash payment</strong>.
 
 ### 3. Cannot Combine with Tax-Free
 
-You cannot receive both **'tax-free (10%)'** and **'membership benefits (discount + points)'**. You must choose one.
+You cannot receive both <strong>'tax-free (10%)'</strong> and <strong>'membership benefits (discount + points)'</strong>. You must choose one.
 
 ---
 
 ## 💡 Situation 1: Credit Card Payment (Purchase over 5,500 yen)
 
-No need to think - **always choose tax-free (10% discount)**.
+No need to think - <strong>always choose tax-free (10% discount)</strong>.
 
 Membership benefits are only available with cash payment, so there are no benefits with card payment.
 
-**✅ Credit card payment: Tax-free without question!**
+<strong>✅ Credit card payment: Tax-free without question!</strong>
 
 ---
 
@@ -102,7 +102,7 @@ Membership benefits are only available with cash payment, so there are no benefi
 
 In this case, 'tax-free' option is not available. You need to calculate whether paying the 500 yen membership fee for the discount is worthwhile.
 
-**✅ Cash 2,500 yen or more but under 5,500 yen: Membership is beneficial!**
+<strong>✅ Cash 2,500 yen or more but under 5,500 yen: Membership is beneficial!</strong>
 
 ---
 
@@ -115,7 +115,7 @@ For most stationery/manga supplies (20% discount), with 5,500 yen purchase:
 
 For oil paints (30% discount), the difference is even greater. In this case, membership is always beneficial.
 
-**✅ For cash purchases over 5,500 yen: Membership is always more beneficial even after paying the 500 yen fee!**
+<strong>✅ For cash purchases over 5,500 yen: Membership is always more beneficial even after paying the 500 yen fee!</strong>
 
 <figure>
   <img src="/images/posts/shinjuku-sekaido-stationery-shopping-guide-04.jpg" alt="SEKAIDO membership card information">

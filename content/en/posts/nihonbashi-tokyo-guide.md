@@ -12,7 +12,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">Looking for **Nihonbashi Tokyo attractions**? If you want to truly experience the charm of this place where tradition and modernity coexist, pay attention to this guide. From life-changing **tonkatsu restaurant** 'Hajime' to Japan's first department store, and the children's paradise **Pokemon Center DX**. We introduce a perfect half-day course to enjoy everything Nihonbashi offers.</p>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">Looking for <strong>Nihonbashi Tokyo attractions</strong>? If you want to truly experience the charm of this place where tradition and modernity coexist, pay attention to this guide. From life-changing <strong>tonkatsu restaurant</strong> 'Hajime' to Japan's first department store, and the children's paradise <strong>Pokemon Center DX</strong>. We introduce a perfect half-day course to enjoy everything Nihonbashi offers.</p>
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-01.jpg" alt="Nihonbashi Tokyo tonkatsu Hajime free shuttle bus cruise">
@@ -23,7 +23,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 ## ✨ Tokyo's Center Where Tradition and Modernity Coexist: Nihonbashi
 
-**Nihonbashi (日本橋)**, meaning 'Japan's Bridge', was historically the starting point of all roads in Japan, just as its name suggests. Today, between Japan's first department store and long-established shops (老舗) with proud histories, modern shopping malls and new culture coexist, creating this neighborhood's unique charm.
+<strong>Nihonbashi (日本橋)</strong>, meaning 'Japan's Bridge', was historically the starting point of all roads in Japan, just as its name suggests. Today, between Japan's first department store and long-established shops (老舗) with proud histories, modern shopping malls and new culture coexist, creating this neighborhood's unique charm.
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-02.jpg" alt="Nihonbashi Bridge with dignified charm beneath the expressway">
@@ -34,26 +34,26 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 ## 🚇 How to Get to Nihonbashi
 
-**🚆 Subway Access**
-- Direct connection via Tokyo Metro Ginza Line/Tozai Line, Toei Asakusa Line **'Nihonbashi Station'**
-- Also about **10 minutes on foot from Tokyo Station**, convenient for exploring both areas together
+<strong>🚆 Subway Access</strong>
+- Direct connection via Tokyo Metro Ginza Line/Tozai Line, Toei Asakusa Line <strong>'Nihonbashi Station'</strong>
+- Also about <strong>10 minutes on foot from Tokyo Station</strong>, convenient for exploring both areas together
 
-**🚌 Free Shuttle Bus: Metrolink Nihonbashi**
+<strong>🚌 Free Shuttle Bus: Metrolink Nihonbashi</strong>
 
-There's a free shuttle bus departing from Tokyo Station Yaesu Exit that circulates through **Nihonbashi's key attractions (Mitsukoshi, Takashimaya, etc.)**. Operating at approximately 15-20 minute intervals, it's the ultimate travel tip for comfortably covering distances awkward to walk.
+There's a free shuttle bus departing from Tokyo Station Yaesu Exit that circulates through <strong>Nihonbashi's key attractions (Mitsukoshi, Takashimaya, etc.)</strong>. Operating at approximately 15-20 minute intervals, it's the ultimate travel tip for comfortably covering distances awkward to walk.
 
-- **Year-round operation**
-- **Operating hours: 11:00 ~ 19:00**
+- <strong>Year-round operation</strong>
+- <strong>Operating hours: 11:00 ~ 19:00</strong>
 
-**Major Stops:**
+<strong>Major Stops:</strong>
 
-**📍 Tokyo Station Yaesu Exit (東京駅八重洲口):** Your journey's beginning and end. Convenient when arriving at JR Tokyo Station.
+<strong>📍 Tokyo Station Yaesu Exit (東京駅八重洲口):</strong> Your journey's beginning and end. Convenient when arriving at JR Tokyo Station.
 
-**📍 Subway Mitsukoshimae Station (地下鉄三越前駅):** Most convenient stop for visiting **'Mitsukoshi Main Store'** and **'COREDO Muromachi'**.
+<strong>📍 Subway Mitsukoshimae Station (地下鉄三越前駅):</strong> Most convenient stop for visiting <strong>'Mitsukoshi Main Store'</strong> and <strong>'COREDO Muromachi'</strong>.
 
-**📍 Nihonbashi Muromachi 1-chome (日本橋室町一丁目):** Near restaurant alley including **'Tonkatsu Hajime'** and **'Kaneko Hannosuke'**.
+<strong>📍 Nihonbashi Muromachi 1-chome (日本橋室町一丁目):</strong> Near restaurant alley including <strong>'Tonkatsu Hajime'</strong> and <strong>'Kaneko Hannosuke'</strong>.
 
-**📍 Nihonbashi Takashimaya (日本橋髙島屋):** Stops right in front of Takashimaya Department Store housing **'Pokemon Center DX'**.
+<strong>📍 Nihonbashi Takashimaya (日本橋髙島屋):</strong> Stops right in front of Takashimaya Department Store housing <strong>'Pokemon Center DX'</strong>.
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-03.jpg" alt="Metrolink Nihonbashi free shuttle bus stop and route information">
@@ -71,27 +71,27 @@ There's a free shuttle bus departing from Tokyo Station Yaesu Exit that circulat
 
 Starting at Nihonbashi Station and ending at Mitsukoshimae Station, this efficiently covers key attractions without overlapping routes.
 
-**1.** <a href="https://maps.app.goo.gl/hVNDXbwvb4N2FnWA6" target="_blank" style="color: #667eea;"><strong>Nihonbashi Station</strong></a> **→** <a href="https://maps.app.goo.gl/kdnSWV1m961QBXYG7" target="_blank" style="color: #667eea;"><strong>Takashimaya S.C.</strong></a> **&** <a href="https://maps.app.goo.gl/Uziw34fyNFyZce4V9" target="_blank" style="color: #667eea;"><strong>Pokemon Center</strong></a>
+<strong>1.</strong> <a href="https://maps.app.goo.gl/hVNDXbwvb4N2FnWA6" target="_blank" style="color: #667eea;"><strong>Nihonbashi Station</strong></a> <strong>→</strong> <a href="https://maps.app.goo.gl/kdnSWV1m961QBXYG7" target="_blank" style="color: #667eea;"><strong>Takashimaya S.C.</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/Uziw34fyNFyZce4V9" target="_blank" style="color: #667eea;"><strong>Pokemon Center</strong></a>
 
-Start your journey at Takashimaya S.C. New Building 5F's **'Pokemon Center DX'**, connected to Nihonbashi Station, with the giant Snorlax.
+Start your journey at Takashimaya S.C. New Building 5F's <strong>'Pokemon Center DX'</strong>, connected to Nihonbashi Station, with the giant Snorlax.
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-05.jpg" alt="Pokemon Center DX Snorlax at Takashimaya S.C. New Building 5F">
   <figcaption style="font-size: 0.7em; text-align: center;">Pokemon Center DX Snorlax at Takashimaya S.C. New Building 5F</figcaption>
 </figure>
 
-**2.** <a href="https://maps.app.goo.gl/84ANbgoXYJNbPRMR8" target="_blank" style="color: #667eea;"><strong>Nihonbashi Bridge (日本橋)</strong></a>**, ** <a href="https://maps.app.goo.gl/1rcRW9KkVv9umBdE8" target="_blank" style="color: #667eea;"><strong>Kirin Statue</strong></a>**, ** <a href="https://maps.app.goo.gl/a5jY85F11spo5DVt6" target="_blank" style="color: #667eea;"><strong>Zero Point</strong></a>
+<strong>2.</strong> <a href="https://maps.app.goo.gl/84ANbgoXYJNbPRMR8" target="_blank" style="color: #667eea;"><strong>Nihonbashi Bridge (日本橋)</strong></a><strong>, </strong> <a href="https://maps.app.goo.gl/1rcRW9KkVv9umBdE8" target="_blank" style="color: #667eea;"><strong>Kirin Statue</strong></a><strong>, </strong> <a href="https://maps.app.goo.gl/a5jY85F11spo5DVt6" target="_blank" style="color: #667eea;"><strong>Zero Point</strong></a>
 
-Head outside toward Nihonbashi Bridge, the starting point of Japan's roads. Take a commemorative photo with the famous **'winged kirin statue'** at the bridge center. Fans of Keigo Higashino's novel *The Wings of the Kirin* will feel especially moved. After crossing the bridge, find the Nihon Koku Douro Genhyo (日本国道路元標) marking the '0km' point for all roads extending nationwide.
+Head outside toward Nihonbashi Bridge, the starting point of Japan's roads. Take a commemorative photo with the famous <strong>'winged kirin statue'</strong> at the bridge center. Fans of Keigo Higashino's novel *The Wings of the Kirin* will feel especially moved. After crossing the bridge, find the Nihon Koku Douro Genhyo (日本国道路元標) marking the '0km' point for all roads extending nationwide.
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-06.jpg" alt="Nihonbashi Japanese Road Zero Point">
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Japanese Road Zero Point</figcaption>
 </figure>
 
-**3.** <a href="https://maps.app.goo.gl/ET5TJQ9K7BsGGqkY6" target="_blank" style="color: #667eea;"><strong>Department Store Street</strong></a> **&** <a href="https://maps.app.goo.gl/R99N2qw5XJiP2G158" target="_blank" style="color: #667eea;"><strong>Chuo-dori (中央通り)</strong></a>
+<strong>3.</strong> <a href="https://maps.app.goo.gl/ET5TJQ9K7BsGGqkY6" target="_blank" style="color: #667eea;"><strong>Department Store Street</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/R99N2qw5XJiP2G158" target="_blank" style="color: #667eea;"><strong>Chuo-dori (中央通り)</strong></a>
 
-Cross the bridge and walk along Chuo-dori, Nihonbashi's main street. Enjoy the grandeur of **'Mitsukoshi Main Store'**, Japan's first department store, and the sophisticated shopping mall **'COREDO Muromachi'**.
+Cross the bridge and walk along Chuo-dori, Nihonbashi's main street. Enjoy the grandeur of <strong>'Mitsukoshi Main Store'</strong>, Japan's first department store, and the sophisticated shopping mall <strong>'COREDO Muromachi'</strong>.
 
 <div class="image-group-2">
   <figure>
@@ -103,16 +103,16 @@ Cross the bridge and walk along Chuo-dori, Nihonbashi's main street. Enjoy the g
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi COREDO Muromachi plaza</figcaption>
 </div>
 
-**4. Lunch**
+<strong>4. Lunch</strong>
 
-Experience the ultimate meal at one of **'Tonkatsu Hajime', 'Kaneko Hannosuke', or 'Tsujihan'**.
+Experience the ultimate meal at one of <strong>'Tonkatsu Hajime', 'Kaneko Hannosuke', or 'Tsujihan'</strong>.
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-09.jpg" alt="Tsujihan kaisen-don">
   <figcaption style="font-size: 0.7em; text-align: center;">Tsujihan kaisen-don</figcaption>
 </figure>
 
-**5.** <a href="https://maps.app.goo.gl/SkbqXXY9yW7ow4LQA" target="_blank" style="color: #667eea;"><strong>Mitsukoshimae Station (三越前駅)</strong></a> **- G Ginza Line, Z Hanzomon Line**
+<strong>5.</strong> <a href="https://maps.app.goo.gl/SkbqXXY9yW7ow4LQA" target="_blank" style="color: #667eea;"><strong>Mitsukoshimae Station (三越前駅)</strong></a> <strong>- G Ginza Line, Z Hanzomon Line</strong>
 
 After exploring Mitsukoshi department store and the surrounding area, conveniently move to your next destination from Mitsukoshimae Station, directly connected to the department store, concluding your itinerary.
 
@@ -130,7 +130,7 @@ After exploring Mitsukoshi department store and the surrounding area, convenient
 
 ## 🏛️ Nihonbashi Representative Landmarks & Attractions
 
-- **Pokemon Center DX & Pokemon Cafe**
+- <strong>Pokemon Center DX & Pokemon Cafe</strong>
 
 A paradise for Pokemon fans located in Takashimaya S.C. New Building. Full of limited edition goods, with a 100% reservation-only Pokemon Cafe.
 
@@ -146,7 +146,7 @@ If you're curious about detailed interior views, limited edition goods, and the 
   <figcaption style="font-size: 0.7em; text-align: center;">Pokemon Cafe on same floor as Pokemon Center DX</figcaption>
 </figure>
 
-- **Nihonbashi Bridge & Wings of the Kirin, Zero Point**
+- <strong>Nihonbashi Bridge & Wings of the Kirin, Zero Point</strong>
 
 Japan's road '0km' point. The winged kirin statue symbolizes the setting of Keigo Higashino's novel *The Wings of the Kirin*.
 
@@ -155,7 +155,7 @@ Japan's road '0km' point. The winged kirin statue symbolizes the setting of Keig
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Bridge, Wings of the Kirin</figcaption>
 </figure>
 
-- **Nihonbashi Mitsukoshi Main Store**
+- <strong>Nihonbashi Mitsukoshi Main Store</strong>
 
 Japan's first department store built in 1935. The grand building and the giant celestial maiden statue in the central hall are must-sees.
 
@@ -164,7 +164,7 @@ Japan's first department store built in 1935. The grand building and the giant c
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Mitsukoshi Main Store</figcaption>
 </figure>
 
-- **COREDO Muromachi (COREDO 室町)**
+- <strong>COREDO Muromachi (COREDO 室町)</strong>
 
 A sophisticated complex shopping space showcasing Nihonbashi's 'present'. Four buildings house everything from traditional craft shops to the latest restaurants and cinemas.
 
@@ -177,7 +177,7 @@ A sophisticated complex shopping space showcasing Nihonbashi's 'present'. Four b
 
 ## 🛶 Another Tokyo on the River: Nihonbashi River Cruise
 
-At the pier right next to Nihonbashi Bridge, enjoy a special **river cruise** viewing Tokyo from a boat. It offers a unique experience of looking up at the city from the river instead of always looking down from above, with **passing under bridges as the highlight**. (Advance reservation recommended)
+At the pier right next to Nihonbashi Bridge, enjoy a special <strong>river cruise</strong> viewing Tokyo from a boat. It offers a unique experience of looking up at the city from the river instead of always looking down from above, with <strong>passing under bridges as the highlight</strong>. (Advance reservation recommended)
 
 - <a href="https://nihonbashi-cruise.jp/course/kanda-river.php" target="_blank" style="color: #667eea;"><strong>Kanda River Cruise 90 minutes</strong></a> (from 2,500 yen~)
 
@@ -213,66 +213,66 @@ A 45-minute course casually cruising Nihonbashi and Sumida Rivers on an open boa
 
 ## 🍽️ Worth Waiting in Line: Nihonbashi Top 3 Restaurants
 
-**1. Tonkatsu Hajime (とんかつ はじめ)**
+<strong>1. Tonkatsu Hajime (とんかつ はじめ)</strong>
 
 Michelin Bib Gourmand, Tabelog Hundred Famous Stores. Life-changing tonkatsu slowly fried at low temperature. Nihonbashi has 2 locations, so you can flexibly plan by moving to another location if the wait is long or visiting according to operating hours.
 
-**🍜** <a href="https://maps.app.goo.gl/8DVT8xdmzPuAm3mQ9" target="_blank" style="color: #667eea;"><strong>Nihonbashi Tonkatsu Ichi Nihonbashi Main Store</strong></a> **(10 seats)**
-- **Tue~Fri:** 11:00~21:00 (last entry) / No break time
-- **Sat·Sun·Holidays:** 10:00~21:00 (last entry) / No break time
-- **※Regular Monday closure** (Open if Monday is a holiday!)
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/8DVT8xdmzPuAm3mQ9" target="_blank" style="color: #667eea;"><strong>Nihonbashi Tonkatsu Ichi Nihonbashi Main Store</strong></a> <strong>(10 seats)</strong>
+- <strong>Tue~Fri:</strong> 11:00~21:00 (last entry) / No break time
+- <strong>Sat·Sun·Holidays:</strong> 10:00~21:00 (last entry) / No break time
+- <strong>※Regular Monday closure</strong> (Open if Monday is a holiday!)
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-18.jpg" alt="Nihonbashi Tonkatsu Ichi Nihonbashi Main Store">
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Tonkatsu Ichi Nihonbashi Main Store</figcaption>
 </figure>
 
-**🍜** <a href="https://maps.app.goo.gl/FcCktfw44ZGxuJRSA" target="_blank" style="color: #667eea;"><strong>Nihonbashi Tonkatsu Ichi Hanare</strong></a> **(12 seats)**
-- **Weekdays:** 10:00~14:30 (last entry) / 17:30~20:30 (last entry)
-- **Sat, Sun, Holidays:** 10:00~21:00 (last entry)
-- **Year-round operation**
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/FcCktfw44ZGxuJRSA" target="_blank" style="color: #667eea;"><strong>Nihonbashi Tonkatsu Ichi Hanare</strong></a> <strong>(12 seats)</strong>
+- <strong>Weekdays:</strong> 10:00~14:30 (last entry) / 17:30~20:30 (last entry)
+- <strong>Sat, Sun, Holidays:</strong> 10:00~21:00 (last entry)
+- <strong>Year-round operation</strong>
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-19.jpg" alt="Nihonbashi Tonkatsu Ichi Hanare">
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Tonkatsu Ichi Hanare</figcaption>
 </figure>
 
-**2. Kaneko Hannosuke (金子半之助)**
+<strong>2. Kaneko Hannosuke (金子半之助)</strong>
 
 The best value tendon with generous tempura spilling out of the bowl. This location also has 2 branches.
 
-**🍜** <a href="https://maps.app.goo.gl/S6xeVE6wvh9MmfX47" target="_blank" style="color: #667eea;"><strong>Kaneko Hannosuke Nihonbashi Main Store</strong></a>
-- **Mon~Fri:** 11:00~21:00 (L.O.20:30)
-- **Sat·Sun·Holidays:** 10:00~21:00 (L.O.20:30)
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/S6xeVE6wvh9MmfX47" target="_blank" style="color: #667eea;"><strong>Kaneko Hannosuke Nihonbashi Main Store</strong></a>
+- <strong>Mon~Fri:</strong> 11:00~21:00 (L.O.20:30)
+- <strong>Sat·Sun·Holidays:</strong> 10:00~21:00 (L.O.20:30)
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-20.jpg" alt="Kaneko Hannosuke Nihonbashi Main Store">
   <figcaption style="font-size: 0.7em; text-align: center;">Kaneko Hannosuke Nihonbashi Main Store</figcaption>
 </figure>
 
-**🍜** <a href="https://maps.app.goo.gl/YKFqoutMBb6qGZBs7" target="_blank" style="color: #667eea;"><strong>Kaneko Hannosuke Nihonbashi Branch</strong></a>
-- **Weekdays:** 11:00~22:00 (LO21:30)
-- **Sat, Sun, Holidays:** 10:00~21:00 (LO20:30)
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/YKFqoutMBb6qGZBs7" target="_blank" style="color: #667eea;"><strong>Kaneko Hannosuke Nihonbashi Branch</strong></a>
+- <strong>Weekdays:</strong> 11:00~22:00 (LO21:30)
+- <strong>Sat, Sun, Holidays:</strong> 10:00~21:00 (LO20:30)
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-21.jpg" alt="Kaneko Hannosuke Nihonbashi Branch">
   <figcaption style="font-size: 0.7em; text-align: center;">Kaneko Hannosuke Nihonbashi Branch</figcaption>
 </figure>
 
-**3. Tsujihan (つじ半)**
+<strong>3. Tsujihan (つじ半)</strong>
 
 A jewel box-like 'Zeitaku-don' with over 9 types of chopped seafood. Features finishing by pouring sea bream broth for ochazuke enjoyment, with 2 locations.
 
-**🍜** <a href="https://maps.app.goo.gl/7ZeTa6hkNTuiir8QA" target="_blank" style="color: #667eea;"><strong>Tsujihan Nihonbashi Main Store</strong></a>
-- **Operating hours:** 10:00 ~22:30 (LO.22:00)
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/7ZeTa6hkNTuiir8QA" target="_blank" style="color: #667eea;"><strong>Tsujihan Nihonbashi Main Store</strong></a>
+- <strong>Operating hours:</strong> 10:00 ~22:30 (LO.22:00)
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-22.jpg" alt="Tsujihan Nihonbashi Main Store's impressive wait">
   <figcaption style="font-size: 0.7em; text-align: center;">Tsujihan Nihonbashi Main Store's impressive wait</figcaption>
 </figure>
 
-**🍜** <a href="https://maps.app.goo.gl/4MaXS1rzJ7K4Arb18" target="_blank" style="color: #667eea;"><strong>Tsujihan Nihonbashi COREDO Muromachi Branch</strong></a>
-- **Operating hours:** 10:00 ~22:00 (LO.21:30)
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/4MaXS1rzJ7K4Arb18" target="_blank" style="color: #667eea;"><strong>Tsujihan Nihonbashi COREDO Muromachi Branch</strong></a>
+- <strong>Operating hours:</strong> 10:00 ~22:00 (LO.21:30)
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-23.jpg" alt="Tsujihan Nihonbashi COREDO Muromachi Branch">
@@ -281,7 +281,7 @@ A jewel box-like 'Zeitaku-don' with over 9 types of chopped seafood. Features fi
 
 ---
 
-Today we've introduced **Nihonbashi attractions** as a perfect course covering history, shopping, and gastronomy. Why not experience Tokyo's authentic charm in Nihonbashi, where you can feel the substantial history and dignity different from other Tokyo areas?
+Today we've introduced <strong>Nihonbashi attractions</strong> as a perfect course covering history, shopping, and gastronomy. Why not experience Tokyo's authentic charm in Nihonbashi, where you can feel the substantial history and dignity different from other Tokyo areas?
 
 ---
 
@@ -289,7 +289,7 @@ Today we've introduced **Nihonbashi attractions** as a perfect course covering h
 
 Nihonbashi is located in central Tokyo, making it a perfect starting point for afternoon plans after completing the half-day course. Choose your next destination according to your preferences and route.
 
-**🚶‍♂️ 10 Minutes on Foot! Tokyo's Heart, Tokyo Station**
+<strong>🚶‍♂️ 10 Minutes on Foot! Tokyo's Heart, Tokyo Station</strong>
 
 Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach Tokyo Station. Explore the massive underground shopping area with Character Street and Ramen Street, or enjoy the beautiful Marunouchi Station building's night view.
 
@@ -298,14 +298,14 @@ Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach To
      Hugo: /posts/tokyo-station-guide/ -->
 ➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
 
-**🚇 2 Minutes by Subway (Ginza Line)! Luxury Shopping Center, Ginza**
+<strong>🚇 2 Minutes by Subway (Ginza Line)! Luxury Shopping Center, Ginza</strong>
 
 If you want to enjoy modern, sophisticated shopping different from Nihonbashi's traditional atmosphere, take the Ginza Line subway two stops. World-class luxury brands, upscale department stores, and atmospheric cafes await you.
 
 <!-- TODO: Update link after migration
 ➡️ <a href="/posts/ginza-guide-2025/" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
 
-**🚇 10 Minutes by Subway (Ginza Line)! Traditional Tokyo Scenery, Asakusa**
+<strong>🚇 10 Minutes by Subway (Ginza Line)! Traditional Tokyo Scenery, Asakusa</strong>
 
 If you want to experience lively traditional commoner culture different from Nihonbashi's business-oriented tradition, use the Asakusa subway line. Enjoy Tokyo's oldest temple, Senso-ji, and Nakamise-dori's street food.
 

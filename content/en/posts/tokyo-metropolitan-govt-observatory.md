@@ -78,7 +78,7 @@ Here's everything you need for the ultimate free night view experience!</p>
 
 ## 🌃 360° Panoramic Views from the 45th Floor
 
-**The Tokyo Metropolitan Government Observatory stands 202 meters high**, offering a complete view of Tokyo's skyline.
+<strong>The Tokyo Metropolitan Government Observatory stands 202 meters high</strong>, offering a complete view of Tokyo's skyline.
 
 Check out what landmarks you can see from each direction before you go!
 
@@ -98,7 +98,7 @@ Looking northeast, you can spot Tokyo's other symbol - the Tokyo Skytree.
 
 ### [Southeast] Shinjuku Gyoen & Meiji Shrine
 
-Looking southeast, you'll see the massive green spaces of **Shinjuku Gyoen (Garden)** and Meiji Shrine in the heart of the city.
+Looking southeast, you'll see the massive green spaces of <strong>Shinjuku Gyoen (Garden)</strong> and Meiji Shrine in the heart of the city.
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-06.jpg" alt="Shinjuku Gyoen view diagram">
@@ -112,7 +112,7 @@ Looking southeast, you'll see the massive green spaces of **Shinjuku Gyoen (Gard
 
 ### [Southwest] Shinjuku Park Tower
 
-Looking southwest, you'll see the distinctive **Shinjuku Park Tower** and **Tokyo Opera City**.
+Looking southwest, you'll see the distinctive <strong>Shinjuku Park Tower</strong> and <strong>Tokyo Opera City</strong>.
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-08.jpg" alt="Park Tower view diagram">
@@ -126,7 +126,7 @@ Looking southwest, you'll see the distinctive **Shinjuku Park Tower** and **Toky
 
 ### [West] Mt. Fuji (The Best View!)
 
-Looking west on clear days, you can see **Mt. Fuji**! The best visibility is from December to February when temperatures are low and the air is clear.
+Looking west on clear days, you can see <strong>Mt. Fuji</strong>! The best visibility is from December to February when temperatures are low and the air is clear.
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-10.jpg" alt="Mt. Fuji view diagram">
@@ -152,7 +152,7 @@ For safety reasons, tripod photography is not allowed inside the observatory.</p
 
 ## Tokyo Sky Guide
 
-This is an observatory-exclusive guide provided by the Tokyo Metropolitan Government. **No app installation required!**
+This is an observatory-exclusive guide provided by the Tokyo Metropolitan Government. <strong>No app installation required!</strong>
 
 Simply scan the QR code with your smartphone to instantly access information about observatory landmarks in multiple languages including English!
 
@@ -165,11 +165,11 @@ Simply scan the QR code with your smartphone to instantly access information abo
 
 ## Kusama Yayoi's "Memory Piano" (South Observatory)
 
-**Hours:**
+<strong>Hours:</strong>
 - Morning: 10:00 - 12:00
 - Afternoon: 14:00 - 16:00
 
-**Maximum 5 minutes per person.** If you want to play again, you'll need to line up again.
+<strong>Maximum 5 minutes per person.</strong> If you want to play again, you'll need to line up again.
 
 Duets are allowed, but joining someone mid-performance is not permitted.
 
@@ -186,15 +186,15 @@ Duets are allowed, but joining someone mid-performance is not permitted.
 
 The best attraction in Shinjuku for 2025! This massive projection mapping show uses the east wall of the Tokyo Metropolitan Government Building No. 1 as its canvas.
 
-This show has been certified by **GUINNESS WORLD RECORDS™** as the "Largest Architectural Projection Mapping" at **13,904.956㎡**!
+This show has been certified by <strong>GUINNESS WORLD RECORDS™</strong> as the "Largest Architectural Projection Mapping" at <strong>13,904.956㎡</strong>!
 
 ### 1. Light Show Viewing Tips
 
-**Venue: Tokyo Metropolitan Government Citizens' Plaza** (1st floor outdoor area, NOT the observatory!)
+<strong>Venue: Tokyo Metropolitan Government Citizens' Plaza</strong> (1st floor outdoor area, NOT the observatory!)
 
-**Cost: 🌟 FREE**
+<strong>Cost: 🌟 FREE</strong>
 
-📌 **Pro Tip!** Watch the sunset from the observatory, then come down for the light show - the perfect course!
+📌 <strong>Pro Tip!</strong> Watch the sunset from the observatory, then come down for the light show - the perfect course!
 
 <figure>
   <img src="/images/posts/tokyo-metropolitan-govt-observatory-15.jpg" alt="People waiting for light show">
@@ -210,7 +210,7 @@ The light show runs every evening at 30-minute intervals for 15 minutes each. (�
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Metropolitan Government Light Show Annual Schedule</figcaption>
 </figure>
 
-**Tokyo Metropolitan Government Light Show Annual Schedule**
+<strong>Tokyo Metropolitan Government Light Show Annual Schedule</strong>
 
 | Time | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
 |------|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -228,13 +228,13 @@ The light show runs every evening at 30-minute intervals for 15 minutes each. (�
 
 Different shows run throughout the year, with special collaborations like 'Godzilla' and 'Gundam' being extremely popular!
 
-**TOKYO GODZILLAs** (Sat, Sun, Holidays)
+<strong>TOKYO GODZILLAs</strong> (Sat, Sun, Holidays)
 Celebrating Godzilla's 70th anniversary! Watch as Godzilla attacks the Tokyo Metropolitan Government Building, featuring an overwhelming finale with historic Godzillas.
 
-**TOKYO GUNDAM IN THE FUTURE** (Sat, Sun, Holidays)
+<strong>TOKYO GUNDAM IN THE FUTURE</strong> (Sat, Sun, Holidays)
 A space elevator heading from Tokyo to space. See 'Mobile Suits' working not as weapons of war, but for space development.
 
-**PAC-MAN eats TOKYO** (Daily)
+<strong>PAC-MAN eats TOKYO</strong> (Daily)
 A giant Pac-Man game board appears on the building!
 
 ※ Other programs include 'Ukiyo-e', 'Aimer' collaborations, and more.
@@ -279,7 +279,7 @@ On weekends and around sunset, waits can exceed 30 minutes.
 
 Check the <a href="https://zaimu-metro-tokyo.j-server.com/LUCAIZAIMU/ns/tl.cgi/https://www.zaimu.metro.tokyo.lg.jp/tochousha/goannai/tenbou?SLANG=ja&TLANG=en&XMODE=0&XCHARSET=utf-8&XJSID=0" target="_blank" style="color: #667eea;"><strong>Tokyo Metropolitan Government website</strong></a> for temporary closures due to bad weather or real-time crowd information!
 
-**Tokyo Tourism Official X (Twitter)**
+<strong>Tokyo Tourism Official X (Twitter)</strong>
 ➡️ @tocho_tenbou (<a href="https://twitter.com/tocho_tenbou" target="_blank" style="color: #667eea;">https://twitter.com/tocho_tenbou</a>)
 
 <figure>

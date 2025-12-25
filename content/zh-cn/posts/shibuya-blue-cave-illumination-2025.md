@@ -24,13 +24,13 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ## 开篇
 
-你好！热爱东京冬夜的**Tokyo Mate**在此。❄️
+你好！热爱东京冬夜的<strong>Tokyo Mate</strong>在此。❄️
 
-今天为大家带来东京最神秘的彩灯活动——**「2025青之洞窟SHIBUYA」**的详细信息。
+今天为大家带来东京最神秘的彩灯活动——<strong>「2025青之洞窟SHIBUYA」</strong>的详细信息。
 
-今年作为10周年纪念，将登场巨大的**「THE SNOWMAN」**气球！从涩谷站不迷路的到达方法、实地验证的**表参道联动路线**，以及最佳拍摄点全面汇总。
+今年作为10周年纪念，将登场巨大的<strong>「THE SNOWMAN」</strong>气球！从涩谷站不迷路的到达方法、实地验证的<strong>表参道联动路线</strong>，以及最佳拍摄点全面汇总。
 
-**💡 快捷提示：时间紧张的朋友，只要截屏这篇文章的「地图」和「一览表」就够了！**
+<strong>💡 快捷提示：时间紧张的朋友，只要截屏这篇文章的「地图」和「一览表」就够了！</strong>
 
 ---
 
@@ -85,7 +85,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ## 交通方式
 
-青之洞窟彩灯位于代代木公园附近，可从**涩谷站（缓坡路线）**和**原宿站（平坦路线）**两处前往，各自步行约10分钟。
+青之洞窟彩灯位于代代木公园附近，可从<strong>涩谷站（缓坡路线）</strong>和<strong>原宿站（平坦路线）</strong>两处前往，各自步行约10分钟。
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-04.jpg" alt="从涩谷站经过PARCO通往青之洞窟的蓝色灯光林荫道">
@@ -94,22 +94,22 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ### 📍 推荐路线1：从涩谷站沿蓝色林荫道步行（步行10分钟）
 
-1. 从**涩谷站A6-3出口**出站
-2. 朝蓝色树木开始的**「涩谷公园大街」**方向直行
-3. 沿缓坡上行，左手边可见**涩谷PARCO**
+1. 从<strong>涩谷站A6-3出口</strong>出站
+2. 朝蓝色树木开始的<strong>「涩谷公园大街」</strong>方向直行
+3. 沿缓坡上行，左手边可见<strong>涩谷PARCO</strong>
 4. 沿蓝色林荫道继续上缓坡即到！
 
-**⚠️ 重要！** 在Google地图简单搜索「涩谷站」可能会在复杂地下迷宫中迷路。务必以**「代代木公园榉树林荫道」**或**「涩谷PARCO」**作为目的地搜索。
+<strong>⚠️ 重要！</strong> 在Google地图简单搜索「涩谷站」可能会在复杂地下迷宫中迷路。务必以<strong>「代代木公园榉树林荫道」</strong>或<strong>「涩谷PARCO」</strong>作为目的地搜索。
 
 ### 📍 推荐路线2：与表参道彩灯联动（超级推荐 ⭐）
 
-我特别喜欢的路线是，**先欣赏表参道彩灯**，然后步行至代代木公园附近的涩谷青之洞窟（步行约10分钟）。从温暖的**金色林荫道**突然切换到**一片蓝色世界**的对比感令人震撼。
+我特别喜欢的路线是，<strong>先欣赏表参道彩灯</strong>，然后步行至代代木公园附近的涩谷青之洞窟（步行约10分钟）。从温暖的<strong>金色林荫道</strong>突然切换到<strong>一片蓝色世界</strong>的对比感令人震撼。
 
-1. 在**表参道站**下车，朝原宿方向边走边欣赏彩灯
+1. 在<strong>表参道站</strong>下车，朝原宿方向边走边欣赏彩灯
 2. 前往明治神宫入口和代代木公园附近的十字路口
-3. 沿代代木公园边缘缓步前行，突然**树枝在头顶交汇的蓝色榉树隧道**出现在眼前
+3. 沿代代木公园边缘缓步前行，突然<strong>树枝在头顶交汇的蓝色榉树隧道</strong>出现在眼前
 
-**➡️ [相关文章]**
+<strong>➡️ [相关文章]</strong>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224096781916
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
@@ -136,14 +136,14 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ## 实际情况与打卡点亮点
 
-到达后立刻忍不住**「哇，真的像洞窟一样！」**地惊呼。树枝在头顶交汇，完全被蓝光包围，如同在隧道中漫步的感觉。
+到达后立刻忍不住<strong>「哇，真的像洞窟一样！」</strong>地惊呼。树枝在头顶交汇，完全被蓝光包围，如同在隧道中漫步的感觉。
 
 ### 📸 打卡点1：在冰上行走（倒影）
 
-青之洞窟地面铺有**特殊反射垫**。
+青之洞窟地面铺有<strong>特殊反射垫</strong>。
 
-- **拍摄技巧**：相机角度尽可能低于膝盖！
-- 地面倒映的蓝光给人**在冰上行走的感觉**。实际尝试后，左右对称的倒影照片真的非常美。
+- <strong>拍摄技巧</strong>：相机角度尽可能低于膝盖！
+- 地面倒映的蓝光给人<strong>在冰上行走的感觉</strong>。实际尝试后，左右对称的倒影照片真的非常美。
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-07.jpg" alt="特殊地垫倒映蓝光营造冰面般左右对称镜面效果">
@@ -152,11 +152,11 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ### 📸 打卡点2：2025年新登场「THE SNOWMAN」
 
-今年作为纪念年，榉树林荫广场设置**巨型雪人气球**，投影圣诞影像。必将成为今年最佳主打卡点！
+今年作为纪念年，榉树林荫广场设置<strong>巨型雪人气球</strong>，投影圣诞影像。必将成为今年最佳主打卡点！
 
 ### 📸 打卡点3：涩谷SKY背景
 
-从公园边缘回望，远处可见**「涩谷Scramble Square（涩谷SKY）」**大厦。青之洞窟与现代大厦夜景结合，能拍出令人惊艳的都市氛围照片。
+从公园边缘回望，远处可见<strong>「涩谷Scramble Square（涩谷SKY）」</strong>大厦。青之洞窟与现代大厦夜景结合，能拍出令人惊艳的都市氛围照片。
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-08.jpg" alt="透过蓝色彩灯隧道看到涩谷Scramble Square涩谷SKY夜景">
@@ -169,15 +169,15 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 去之前想提前知道的事情汇总。别犯同样的错误！😉
 
-**1. 以「严冬」装备出行！**
+<strong>1. 以「严冬」装备出行！</strong>
 
 12月的东京，特别是公园附近相当寒冷，风也很大。拍照时频繁伸出手，很快就会冻僵。口袋里的暖宝宝是必需品！
 
-**2. 提前使用洗手间**
+<strong>2. 提前使用洗手间</strong>
 
 代代木公园有公共厕所，但排队很长而且很冷。强烈建议在涩谷PARCO或附近MODI等购物中心使用设施后再前往。
 
-**3. 避开拥挤的黄金时间**
+<strong>3. 避开拥挤的黄金时间</strong>
 
 工作日20:30以后推荐。避开上班族与游客重叠的18:00～19:00。闭馆前约1小时前往，能更舒适地拍摄个人照。
 
@@ -192,15 +192,15 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 与六本木华丽吊灯般的彩灯不同，涩谷青之洞窟神秘梦幻的氛围令人着迷。今年冬季规划东京旅行的话，别错过这个「蓝色世界」的纪念照！💙
 
-🚶 白天**涩谷SKY**→ 傍晚青之洞窟收尾
+🚶 白天<strong>涩谷SKY</strong>→ 傍晚青之洞窟收尾
 
-**➡️** <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>涩谷SKY完全路线：预订到购物、餐厅全攻略</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>涩谷SKY完全路线：预订到购物、餐厅全攻略</strong></a>
 
-🚶 表参道・原宿购物**→ 表参道彩灯 → 涩谷青之洞窟（步行）**
+🚶 表参道・原宿购物<strong>→ 表参道彩灯 → 涩谷青之洞窟（步行）</strong>
 
-**➡️** <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /zh-cn/posts/[SLUG_TBD]/ --> <a href="#" style="color: #667eea;"><strong>表参道完全攻略：咖啡、购物、餐厅、建筑</strong></a>
+<strong>➡️</strong> <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /zh-cn/posts/[SLUG_TBD]/ --> <a href="#" style="color: #667eea;"><strong>表参道完全攻略：咖啡、购物、餐厅、建筑</strong></a>
 
-**➡️** <a href="/zh-cn/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>原宿景点：哈利波特商店到竹下通&猫街</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>原宿景点：哈利波特商店到竹下通&猫街</strong></a>
 
 ---
 
@@ -208,49 +208,49 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ### 🌟 东京圣诞必打卡路线一览
 
-**➡️** <a href="/zh-cn/posts/tokyo-3-day-christmas-illumination-itinerary/"><strong>东京3天4夜彩灯&圣诞市集完美行程</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/tokyo-3-day-christmas-illumination-itinerary/"><strong>东京3天4夜彩灯&圣诞市集完美行程</strong></a>
 
 ### 🌟 表参道・原宿圣诞
 
-**➡️** <a href="#" style="color: #667eea;"><strong>2025年表参道彩灯期间、时间、地点&拍摄点完全攻略</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025年表参道彩灯期间、时间、地点&拍摄点完全攻略</strong></a>
 
 ### 🌟 明治神宫外苑圣诞
 
-**➡️** <a href="/zh-cn/posts/meiji-jingu-gaien-christmas-market-2025/"><strong>2025年明治神宫外苑圣诞市集门票&马克杯特典</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/meiji-jingu-gaien-christmas-market-2025/"><strong>2025年明治神宫外苑圣诞市集门票&马克杯特典</strong></a>
 
 ### 🌟 六本木圣诞
 
-**➡️** <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/"><strong>2025年六本木之丘点灯时间、拍摄点&路线完全攻略</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/"><strong>2025年六本木之丘点灯时间、拍摄点&路线完全攻略</strong></a>
 
-**➡️** <a href="/zh-cn/posts/roppongi-hills-christmas-market-2025/"><strong>2025年六本木之丘圣诞市集、马克杯、地点&贴士完全攻略</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/roppongi-hills-christmas-market-2025/"><strong>2025年六本木之丘圣诞市集、马克杯、地点&贴士完全攻略</strong></a>
 
-**➡️** <a href="/zh-cn/posts/roppongi-midtown-christmas-2025/"><strong>2025年六本木MIDTOWN彩灯、溜冰场&餐厅</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/roppongi-midtown-christmas-2025/"><strong>2025年六本木MIDTOWN彩灯、溜冰场&餐厅</strong></a>
 
 ### 🌟 麻布台之丘圣诞
 
-**➡️** <a href="/zh-cn/posts/azabudai-hills-christmas-market-2025/"><strong>2025年麻布台之丘圣诞市集：17个摊位完全解析</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/azabudai-hills-christmas-market-2025/"><strong>2025年麻布台之丘圣诞市集：17个摊位完全解析</strong></a>
 
 ### 🌟 惠比寿圣诞
 
-**➡️** <a href="/zh-cn/posts/yebisu-garden-place-illumination-christmas-market-2025/"><strong>2025年惠比寿花园广场彩灯&圣诞市集</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/yebisu-garden-place-illumination-christmas-market-2025/"><strong>2025年惠比寿花园广场彩灯&圣诞市集</strong></a>
 
 ### 🌟 丸之内・日比谷圣诞
 
-**➡️** <a href="/zh-cn/posts/marunouchi-illumination-2025/"><strong>2025年丸之内彩灯、迪士尼联动&印章拉力赛</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/marunouchi-illumination-2025/"><strong>2025年丸之内彩灯、迪士尼联动&印章拉力赛</strong></a>
 
-**➡️** <a href="/zh-cn/posts/hibiya-midtown-illumination-2025/"><strong>2025年日比谷彩灯、疯狂动物城2联动&散步路线</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/hibiya-midtown-illumination-2025/"><strong>2025年日比谷彩灯、疯狂动物城2联动&散步路线</strong></a>
 
 ### 🌟 东京晴空塔圣诞
 
-**➡️** <a href="/zh-cn/posts/tokyo-skytree-christmas-market-2025/"><strong>2025年晴空塔市集官方日程、新菜单&拍照区攻略</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/tokyo-skytree-christmas-market-2025/"><strong>2025年晴空塔市集官方日程、新菜单&拍照区攻略</strong></a>
 
 ### 🌟 上野公园圣诞
 
-**➡️** <a href="/zh-cn/posts/ueno-christmas-market-2025/"><strong>2025年上野圣诞市集：免费入场&交通完全攻略</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/ueno-christmas-market-2025/"><strong>2025年上野圣诞市集：免费入场&交通完全攻略</strong></a>
 
 ### 🌟 东京巨蛋城圣诞
 
-**➡️** <a href="/zh-cn/posts/tokyo-dome-city-christmas-illumination-2025/"><strong>2025年东京巨蛋彩灯期间、时间&TXT联动</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/tokyo-dome-city-christmas-illumination-2025/"><strong>2025年东京巨蛋彩灯期间、时间&TXT联动</strong></a>
 
 
 <div class="editors-note">

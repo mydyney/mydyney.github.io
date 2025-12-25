@@ -26,9 +26,9 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 ショッピングリストを見る前に、最も重要なドン・キホーテ割引クーポンを保存してから始めましょう！下記リンクからクーポンを取得すると、免税（10%）と重複して追加割引が受けられます。
 
-**クーポン特典：**
-- **税抜10,000円以上購入時:** 免税10% + 追加5%割引
-- **税抜30,000円以上購入時:** 免税10% + 追加7%割引
+<strong>クーポン特典：</strong>
+- <strong>税抜10,000円以上購入時:</strong> 免税10% + 追加5%割引
+- <strong>税抜30,000円以上購入時:</strong> 免税10% + 追加7%割引
 
 <div class="info-box">
   <p><strong>➡️ <a href="https://japanportal.donki-global.com/coupon/cp001_ko.html" target="_blank" style="color: #f3f700e3;">2025年最新ドン・キホーテ割引クーポン発行はこちら</a></strong></p>
@@ -41,9 +41,9 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 ### 📌 クーポン使用時の必須チェック！
 
-- **会計時にスタッフにクーポン画面を直接見せる必要があります**（スクリーンショット使用不可）
-- **決済完了後は割引適用不可**なので必ず決済前に提示してください
-- **お酒、タバコ、ゲーム機など一部商品は割引対象外**です
+- <strong>会計時にスタッフにクーポン画面を直接見せる必要があります</strong>（スクリーンショット使用不可）
+- <strong>決済完了後は割引適用不可</strong>なので必ず決済前に提示してください
+- <strong>お酒、タバコ、ゲーム機など一部商品は割引対象外</strong>です
 
 ## 🎯 失敗しないドン・キホーテショッピングリスト BEST 15
 
@@ -51,7 +51,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 ### 🍽️ 絶対買うべきグルメ＆お菓子
 
-**1. 桃屋ラー油（辛油マニラフレーク）**
+<strong>1. 桃屋ラー油（辛油マニラフレーク）</strong>
 
 強力推薦！白米に混ぜて食べるとご飯2杯ペロリ！サクサクのマニラフレークが入って旨味が爆発します。在庫切れも多いので見つけたら無条件でカゴへ。
 
@@ -65,7 +65,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキラー油 - ご飯の最高の相棒</figcaption>
 </div>
 
-**2. 寺岡卵かけご飯醤油（TKGソース）**
+<strong>2. 寺岡卵かけご飯醤油（TKGソース）</strong>
 
 一人暮らし、お子様のいる家庭へのギフトに最高！一般醤油と違って甘辛のバランスが完璧です。
 
@@ -74,7 +74,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキ卵かけご飯醤油</figcaption>
 </figure>
 
-**3. こんにゃくゼリー＆コロロゼリー**
+<strong>3. こんにゃくゼリー＆コロロゼリー</strong>
 
 もちもち食感で老若男女みんなが好きな日本代表おやつです。
 
@@ -83,7 +83,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキこんにゃくゼリー案内</figcaption>
 </figure>
 
-**4. 日本限定味キットカット**
+<strong>4. 日本限定味キットカット</strong>
 
 日本旅行お土産1位！抹茶、さくら、日本酒など韓国では見られない特別な味のキットカットをリーズナブルに購入できます。
 
@@ -92,25 +92,25 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">日本地域別キットカット (<a href="https://livejapan.com/ko/in-tokyo/in-pref-tokyo/in-tokyo_train_station/article-a0001684/" target="_blank">出典</a>)</figcaption>
 </figure>
 
-**5. サントリー角瓶ウイスキー**
+<strong>5. サントリー角瓶ウイスキー</strong>
 
 韓国居酒屋ハイボールの魂！日本ではもっと安い価格で購入できるのでお酒好きの必須コースです。
 
-**⭐サントリーウイスキー全ラインナップと公式価格は下記記事で確認！**
+<strong>⭐サントリーウイスキー全ラインナップと公式価格は下記記事で確認！</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224014619007
      Hugo: /ja/posts/suntory-whisky-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">サントリーウイスキー日本公式価格ガイド（近日公開）</a></strong></p>
 
-**⭐より多様な日本ウイスキー情報はこちら！**
+<strong>⭐より多様な日本ウイスキー情報はこちら！</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010546735
      Hugo: /ja/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">山崎・響公式価格＆ギフト用おすすめ完全ガイド（近日公開）</a></strong></p>
 
-**⭐獺祭等級別違いと最新価格情報は下記記事で！**
+<strong>⭐獺祭等級別違いと最新価格情報は下記記事で！</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
@@ -124,7 +124,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 ### 💊 ビューティー＆医薬品おすすめ
 
-**6. ロート製薬リセ目薬**
+<strong>6. ロート製薬リセ目薬</strong>
 
 ビタミンB12成分が充血して疲れた目を澄んで潤いのある状態にしてくれるピンク色の目薬です。
 
@@ -138,7 +138,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <p>韓国および一部海外国家で許可されていない成分を含んでいるため、購入および使用時には格別な注意が必要です。</p>
 </div>
 
-**7. サロンパス＆コイン湿布**
+<strong>7. サロンパス＆コイン湿布</strong>
 
 説明不要の日本国民湿布。筋肉痛、肩こりに効果抜群で両親へのギフトに人気です。
 
@@ -152,7 +152,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキコイン湿布</figcaption>
 </figure>
 
-**8. 龍角散ダイレクト（598円）**
+<strong>8. 龍角散ダイレクト（598円）</strong>
 
 喉をよく使う旅行者必須アイテム！微細粉塵や乾燥した天気で喉がイガイガするとき、水なしで1包入れるとすぐスッキリします。ミント味（青）と桃味（ピンク）が最も人気です。
 
@@ -161,7 +161,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキ龍角散ダイレクト</figcaption>
 </figure>
 
-**9. ペアアクネクリームW**
+<strong>9. ペアアクネクリームW</strong>
 
 ステロイドなしのニキビ軟膏。赤く腫れ始める「炎症性ニキビ」初期に使用すると鎮静効果が良いです。
 
@@ -170,7 +170,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキニキビ軟膏</figcaption>
 </figure>
 
-**10. 毛穴撫子お米のマスク**
+<strong>10. 毛穴撫子お米のマスク</strong>
 
 「毛穴失踪パック」と呼ばれる@cosme1位マスクパック。100%日本産米成分が乾燥して広がった毛穴に水分を満たしてくれます。
 
@@ -179,7 +179,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキお米のマスクパック</figcaption>
 </figure>
 
-**11. FINOヘアマスク**
+<strong>11. FINOヘアマスク</strong>
 
 @cosme殿堂入りベストセラー。自宅でもサロンクリニックレベルの滑らかな髪を作ってくれます。
 
@@ -188,7 +188,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキヘアマスク</figcaption>
 </figure>
 
-**12. 専科パーフェクトホイップ洗顔料**
+<strong>12. 専科パーフェクトホイップ洗顔料</strong>
 
 もちもちの生クリーム泡が特徴のステディセラー。種類別にまとめ買いして使うのに良いです。
 
@@ -204,7 +204,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 ### 🏠 生活＆雑貨アイテム
 
-**13. めぐりズムスチームアイマスク＆休足時間**
+<strong>13. めぐりズムスチームアイマスク＆休足時間</strong>
 
 旅行の疲れを癒すヒーリングアイテム2大巨頭。温かいスチームで目の疲れを癒す「めぐりズム」と、爽やかなクーリングシートで脚の疲れを癒す「休足時間」はホテル必須品です。
 
@@ -223,7 +223,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキアイマスク＆休足時間</figcaption>
 </div>
 
-**14. メガネクリーナーふきふき**
+<strong>14. メガネクリーナーふきふき</strong>
 
 メガネ、スマートフォン液晶、カメラレンズを跡なくきれいに拭いてくれる使い捨てクリーニングティッシュ。個別包装で持ち運びに便利です。
 
@@ -232,7 +232,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">ドンキメガネクリーナー</figcaption>
 </figure>
 
-**15. キャラクターグッズ（サンリオ、ポケモンなど）**
+<strong>15. キャラクターグッズ（サンリオ、ポケモンなど）</strong>
 
 ヘアピン、靴下、文具類など韓国より安くて種類が豊富なキャラクターグッズをゲットできます。
 
@@ -254,12 +254,12 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 ## 💴 ドン・キホーテ免税（Tax-Free）の受け方！
 
-日本は外国人旅行者のために**税抜5,000円以上**購入時に消費税10%を免除してくれます。
+日本は外国人旅行者のために<strong>税抜5,000円以上</strong>購入時に消費税10%を免除してくれます。
 
-1. **税抜5,000円以上**の商品をカゴに入れます
-2. 会計時に一般レジではなく**「免税（Tax-Free）」専用カウンター**へ
-3. スタッフに**パスポート**と**割引クーポン**（1万円以上時）を提示します
-4. 免税価格で決済後、スタッフが密封してくれる**免税袋**を受け取ります
+1. <strong>税抜5,000円以上</strong>の商品をカゴに入れます
+2. 会計時に一般レジではなく<strong>「免税（Tax-Free）」専用カウンター</strong>へ
+3. スタッフに<strong>パスポート</strong>と<strong>割引クーポン</strong>（1万円以上時）を提示します
+4. 免税価格で決済後、スタッフが密封してくれる<strong>免税袋</strong>を受け取ります
 
 <div class="tip-box">
   <p><strong>🚨 重要：</strong> 免税で購入した商品は日本国内で開封してはいけません！韓国に到着してから開封してください。</p>
@@ -269,7 +269,7 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 もうドン・キホーテショッピング、怖くないですよね？この投稿一つで割引から免税、そして失敗しないショッピングリストまで全部解決できます。皆さんの楽しい日本旅行にこの記事が役立つことを願っています！
 
-**⭐ 一緒に見ると良い日本旅行のコツ：**
+<strong>⭐ 一緒に見ると良い日本旅行のコツ：</strong>
 
 <p><strong>➡️ <a href="/ja/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;">日本コンビニ完全攻略！（セブンイレブン、ファミマ、ローソン比較完全ガイド）</a></strong></p>
 

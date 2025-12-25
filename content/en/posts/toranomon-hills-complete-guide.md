@@ -30,9 +30,9 @@ Your complete guide to Tokyo's sophisticated adult attractions.</p>
 ## ✨ Is 'Toranomon Hills' Confusing?
 
 Let me start with the most important thing.
-**Toranomon Hills is not a single building.**
+<strong>Toranomon Hills is not a single building.</strong>
 
-It's a **'complex city' consisting of 4 massive towers:**
+It's a <strong>'complex city' consisting of 4 massive towers:</strong>
 'Mori Tower', 'Business Tower', 'Station Tower', 'Glass Tower'
 
 That's why first-time visitors easily get lost trying to find their way.
@@ -49,12 +49,12 @@ This guide will teach you how to perfectly conquer all 4 towers!
 
 The biggest reason to visit this place!
 
-Toranomon Hills has a white cat-type robot resembling **'Doraemon'** called **'Toranomon (トラのもん)'**.
+Toranomon Hills has a white cat-type robot resembling <strong>'Doraemon'</strong> called <strong>'Toranomon (トラのもん)'</strong>.
 
 It's the official mascot born from combining the area name Toranomon (虎ノ門, meaning "Tiger's Gate") with 'Doraemon'.
 
 Since you can only meet 'Toranomon' at Toranomon Hills,
-Make sure to take photos with **'Toranomon'** hidden throughout the complex!
+Make sure to take photos with <strong>'Toranomon'</strong> hidden throughout the complex!
 
 <figure>
   <img src="/images/posts/toranomon-hills-complete-guide-03.jpg" alt="Toranomon Hills mascot 'Toranomon' cute character resembling Doraemon">
@@ -67,15 +67,15 @@ Make sure to take photos with **'Toranomon'** hidden throughout the complex!
 
 Follow this sequence to explore all 3 key towers without getting lost.
 
-**🚶‍♂️ [Start] Station Tower (New Hotspot)**
+<strong>🚶‍♂️ [Start] Station Tower (New Hotspot)</strong>
 Start at 'Station Tower' directly connected to 'Toranomon Hills Station'.
 Light meal at B2 'T-Market', then admire Tokyo cityscape from 45F 'TOKYO NODE' free observatory.
 
-**🚶‍♂️ [Move] Business Tower (Gourmet Paradise)**
+<strong>🚶‍♂️ [Move] Business Tower (Gourmet Paradise)</strong>
 Cross the sky bridge to 'Business Tower'.
 Enjoy izakaya hopping at B1 'Toranomon Yokocho'.
 
-**🚶‍♂️ [Finish] Mori Tower (Luxury)**
+<strong>🚶‍♂️ [Finish] Mori Tower (Luxury)</strong>
 Finish with premium desserts or coffee at 1F 'Andaz Hotel' cafe or 2F SAWAMURA cafe in 'Mori Tower'.
 
 <figure>
@@ -91,11 +91,11 @@ Finish with premium desserts or coffee at 1F 'Andaz Hotel' cafe or 2F SAWAMURA c
 The newest and hottest building opened in fall 2024.
 Directly connected to 'Toranomon Hills Station'.
 
-**🏙️ T-Market (B2F):**
+<strong>🏙️ T-Market (B2F):</strong>
 A sophisticated food hall with different charm from Toranomon Yokocho.
 Great for light meals or daytime drinking.
 
-**🥢 Yakitori Nonotori Gencho**
+<strong>🥢 Yakitori Nonotori Gencho</strong>
 Introducing the yakitori omakase restaurant on Station Tower 4F.
 
 <!-- TODO: Update link after migration
@@ -108,27 +108,27 @@ Introducing the yakitori omakase restaurant on Station Tower 4F.
   <figcaption style="font-size: 0.7em; text-align: center;">2024 Opened Toranomon Hills Station Tower's New Hotspot 'T-Market' Entrance</figcaption>
 </figure>
 
-**🏙️ TOKYO NODE (8F, 45~49F):**
+<strong>🏙️ TOKYO NODE (8F, 45~49F):</strong>
 
 A complex cultural space serving as Toranomon Hills' observatory.
 45F gallery hosts high-quality curated exhibitions, and the rooftop garden offers panoramic views of Tokyo Tower and the city. (45F is free observatory)
 
-**How to Get There**
+<strong>How to Get There</strong>
 - B2→7F elevator
 - 7F→8F escalator
 - 8F→45F elevator
 
-**Observatory Hours**
+<strong>Observatory Hours</strong>
 - 11:00 ~ 20:00 / Irregular holidays
 
-**🍽️ TOKYO NODE DINING (45F): Gourmet with Skytree View**
-Station Tower 45F features an all-day dining space with stunning Skytree & city views. **TOKYO NODE DINING** offers classic Italian-based fine cuisine, with the **weekday-limited CHEF'S LUNCH (3,900 yen)** being particularly popular for its value.
+<strong>🍽️ TOKYO NODE DINING (45F): Gourmet with Skytree View</strong>
+Station Tower 45F features an all-day dining space with stunning Skytree & city views. <strong>TOKYO NODE DINING</strong> offers classic Italian-based fine cuisine, with the <strong>weekday-limited CHEF'S LUNCH (3,900 yen)</strong> being particularly popular for its value.
 
 If you're planning a business lunch or special date, enjoy gourmet dining with the fantastic 45F view.
 
-➡️ **<a href="/posts/tokyo-node-dining-toranomon-hills-lunch/" style="color: #667eea;"><strong>TOKYO NODE DINING CHEF'S LUNCH 3,900 Yen Honest Review & Reservation Tips</strong></a>**
+➡️ <strong><a href="/posts/tokyo-node-dining-toranomon-hills-lunch/" style="color: #667eea;"><strong>TOKYO NODE DINING CHEF'S LUNCH 3,900 Yen Honest Review & Reservation Tips</strong></a></strong>
 
-**🍽️ KEI Collection PARIS, apothéose Restaurant (49F)**
+<strong>🍽️ KEI Collection PARIS, apothéose Restaurant (49F)</strong>
 Using the 49F restaurant gives access to the exclusive rooftop sky garden.
 
 <figure>
@@ -151,16 +151,16 @@ Using the 49F restaurant gives access to the exclusive rooftop sky garden.
 ## [Key 2] Business Tower
 ## (Gourmet Paradise)
 
-The heart of **'Toranomon Hills restaurants'** is right here:
-**'Toranomon Yokocho (虎ノ門横丁)'** located on Business Tower 3F.
+The heart of <strong>'Toranomon Hills restaurants'</strong> is right here:
+<strong>'Toranomon Yokocho (虎ノ門横丁)'</strong> located on Business Tower 3F.
 
-**🍻 Toranomon Yokocho (Izakaya Alley):**
+<strong>🍻 Toranomon Yokocho (Izakaya Alley):</strong>
 
-An **'adults' premium food court'** gathering branch locations of Tokyo's top Michelin restaurants and popular eateries.
+An <strong>'adults' premium food court'</strong> gathering branch locations of Tokyo's top Michelin restaurants and popular eateries.
 
-A **gourmet paradise** where you can enjoy **the best snacks and drinks** including yakitori, sushi, and Chinese cuisine in a clean, sophisticated atmosphere—quite different from Shimbashi's old izakayas.
+A <strong>gourmet paradise</strong> where you can enjoy <strong>the best snacks and drinks</strong> including yakitori, sushi, and Chinese cuisine in a clean, sophisticated atmosphere—quite different from Shimbashi's old izakayas.
 
-**Operating Hours**
+<strong>Operating Hours</strong>
 - Mon~Sat: 11:00～23:00
 - Sun, Holidays: 11:00～21:00
 
@@ -186,11 +186,11 @@ A **gourmet paradise** where you can enjoy **the best snacks and drinks** includ
 
 The first tower that marked the beginning of Toranomon Hills.
 
-**🏨 Andaz Tokyo:**
+<strong>🏨 Andaz Tokyo:</strong>
 If you're looking for 'Toranomon Hills Hotel', this is it.
-An ultra-luxury hotel where cocktails and night views from the **51F 'Rooftop Bar'** offer an unforgettable experience.
+An ultra-luxury hotel where cocktails and night views from the <strong>51F 'Rooftop Bar'</strong> offer an unforgettable experience.
 
-**🏨 'Toranomon' Goods Shop:**
+<strong>🏨 'Toranomon' Goods Shop:</strong>
 There's also a small shop selling 'Toranomon' character merchandise next to the 1F cafe.
 
 <figure>
@@ -203,7 +203,7 @@ There's also a small shop selling 'Toranomon' character merchandise next to the 
 ## 📍 After Toranomon, Where Next?
 ## (Recommended Follow-Up Courses)
 
-**🚶‍♂️ 3-Minute Subway! Tokyo's Newest Hotspot, Azabudai Hills**
+<strong>🚶‍♂️ 3-Minute Subway! Tokyo's Newest Hotspot, Azabudai Hills</strong>
 If Toranomon Hills is the center of 'business', neighboring 'Azabudai Hills' is the center of 'tourism'. Combine both Hills to conquer Tokyo's latest architecture and culture in one day!
 
 <!-- TODO: Update link after migration
@@ -211,7 +211,7 @@ If Toranomon Hills is the center of 'business', neighboring 'Azabudai Hills' is 
      Hugo: /posts/azabudai-hills-complete-guide/ -->
 ➡️ <a href="/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><strong>Tokyo Azabudai Hills Attractions: Observatory, Restaurants, teamLab</strong></a>
 
-**🚶‍♂️ 5-Minute Subway! Classic Tokyo Night Views, Roppongi Hills**
+<strong>🚶‍♂️ 5-Minute Subway! Classic Tokyo Night Views, Roppongi Hills</strong>
 Take the subway 5 minutes to reach 'Roppongi Hills'.
 Experience another stunning Tokyo night view from 'Mori Art Museum' and 'Tokyo City View Observatory'.
 

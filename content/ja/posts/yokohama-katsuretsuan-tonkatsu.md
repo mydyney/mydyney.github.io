@@ -32,7 +32,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 横浜には東京とは異なる独自の「カツレツ（cutlet）」文化があります。
 
-勝烈庵は1927年（昭和2年）創業以来、西洋式カツレツを日本式に再解釈し、**「横浜カツレツ」**を誕生させました。
+勝烈庵は1927年（昭和2年）創業以来、西洋式カツレツを日本式に再解釈し、<strong>「横浜カツレツ」</strong>を誕生させました。
 
 地元の人々から「横浜の味」と呼ばれるほど象徴的な存在です。
 
@@ -49,7 +49,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 ### 1. 秘伝の伝統ソース
 
-野菜と果物を**二日間煮込み**、**一晩熟成**させて作る、深くて濃厚なオリジナルソースが勝烈庵の核心です。
+野菜と果物を<strong>二日間煮込み</strong>、<strong>一晩熟成</strong>させて作る、深くて濃厚なオリジナルソースが勝烈庵の核心です。
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-03.jpg" alt="勝烈庵特製ソース">
@@ -69,18 +69,18 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 ## 食べ放題のご飯＆キャベツ
 
-すべての「定食」メニューには**ご飯、キャベツ、しじみ味噌汁が食べ放題**！
+すべての「定食」メニューには<strong>ご飯、キャベツ、しじみ味噌汁が食べ放題</strong>！
 
 カツレツはとんかつより完全に火を通した洋食スタイルで、サクサクとした食感と柔らかく淡白な風味が特徴です。
 
-**ヒレかつ定食：2,200円（柔らかいヒレカツレツ）**
+<strong>ヒレかつ定食：2,200円（柔らかいヒレカツレツ）</strong>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-05.jpg" alt="ヒレかつ定食 ヒレカツレツとキャベツ">
   <figcaption style="font-size: 0.7em; text-align: center;">ヒレかつ定食 - ヒレカツレツとキャベツ</figcaption>
 </figure>
 
-**ロースかつ定食：2,200円（脂の乗ったロースカツレツ）**
+<strong>ロースかつ定食：2,200円（脂の乗ったロースカツレツ）</strong>
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-06.jpg" alt="ロースかつ定食 ロースカツレツ">
@@ -98,7 +98,7 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 勝烈庵は単なる食堂ではなく、小さな芸術空間です。
 
-世界的な版画家**棟方志功（むなかた しこう）**画伯が直接看板の文字を書き、店内には彼の版画作品が展示されています。
+世界的な版画家<strong>棟方志功（むなかた しこう）</strong>画伯が直接看板の文字を書き、店内には彼の版画作品が展示されています。
 
 <figure>
   <img src="/images/posts/yokohama-katsuretsuan-tonkatsu-08.jpg" alt="勝烈庵入口 棟方志功の書の看板">
@@ -113,10 +113,10 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 ### 1. 馬車道総本店
 
-**営業時間：** 11:00 - 21:30 (L.O 21:00)
-**定休日：** 年中無休
-**支払い：** クレジットカード利用可能
-**アクセス：** 地下鉄「馬車道駅」徒歩1分 / JR「関内駅」徒歩5分
+<strong>営業時間：</strong> 11:00 - 21:30 (L.O 21:00)
+<strong>定休日：</strong> 年中無休
+<strong>支払い：</strong> クレジットカード利用可能
+<strong>アクセス：</strong> 地下鉄「馬車道駅」徒歩1分 / JR「関内駅」徒歩5分
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.4471428,139.634889&hl=ja&z=17&output=embed"
@@ -180,15 +180,15 @@ featured_image: "/images/posts/yokohama-katsuretsuan-tonkatsu-01.jpg"
 
 「馬車道本店」は横浜1日旅行コースの中心にあります。食事の後は、これらの近くの観光地も楽しんでください 👇
 
-**👉 [横浜1日コース完全ガイド（中華街、夜景スポット）](/ja/posts/yokohama-one-day-itinerary/)**<!-- TODO: Link updated, verify migration -->
+<strong>👉 [横浜1日コース完全ガイド（中華街、夜景スポット）](/ja/posts/yokohama-one-day-itinerary/)</strong><!-- TODO: Link updated, verify migration -->
 <br>
-**👉 [横浜お得な交通パス：みなとぶらりチケット](#)**<!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide -->
+<strong>👉 [横浜お得な交通パス：みなとぶらりチケット](#)</strong><!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide -->
 <br>
-**👉 [横浜中華街レストラン「慶徳珍」（麻婆豆腐）](/ja/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)**
+<strong>👉 [横浜中華街レストラン「慶徳珍」（麻婆豆腐）](/ja/posts/yokohama-chinatown-keitokuchin-mapo-tofu/)</strong>
 
 ---
 
-**「90年の伝統、一口の完璧」**
+<strong>「90年の伝統、一口の完璧」</strong>
 
 勝烈庵は単なる食事ではなく、横浜の歴史と文化を味わう場所です。一晩熟成させた特製ソース、食べ放題のご飯とキャベツ、芸術的な雰囲気で、横浜旅行の完璧な目的地です。
 

@@ -36,14 +36,14 @@ The beginning and end of Roppongi attractions. The panoramic view of Tokyo from 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987954990
      Hugo: /posts/roppongi-hills-observatory-guide/ -->
-**➡️ [Roppongi Hills Observatory: Discounts to Closure Days! (Latest November 2025 Info)](#)**
+<strong>➡️ [Roppongi Hills Observatory: Discounts to Closure Days! (Latest November 2025 Info)](#)</strong>
 
-⭐ **From November 14 (Fri) to January 12, 2026 (Mon), the 'Evangelion 30th Anniversary Special Exhibition' is being held at Roppongi Hills Observatory. Check the link for detailed reviews!**
+⭐ <strong>From November 14 (Fri) to January 12, 2026 (Mon), the 'Evangelion 30th Anniversary Special Exhibition' is being held at Roppongi Hills Observatory. Check the link for detailed reviews!</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224077357970
      Hugo: /posts/evangelion-30th-roppongi-2025/ -->
-**➡️ [Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View Guide (ALL OF EVANGELION)](/posts/evangelion-30th-roppongi-2025/)**
+<strong>➡️ [Evangelion 30th Anniversary Special Exhibition at Roppongi Hills Tokyo City View Guide (ALL OF EVANGELION)](/posts/evangelion-30th-roppongi-2025/)</strong>
 
 ![Roppongi Hills Tokyo City View Observatory](/images/posts/roppongi-attractions-guide-02.jpg)
 
@@ -54,7 +54,7 @@ A complex cultural space with a different charm from Roppongi Hills. Besides lux
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
      Hugo: /posts/roppongi-midtown-christmas-review-2024/ -->
-**➡️ [2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree](#)**
+<strong>➡️ [2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree](#)</strong>
 
 ### ③ Keyakizaka Street
 
@@ -65,12 +65,12 @@ Especially in November and December, winter Keyakizaka transforms into Tokyo's p
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224065668379
      Hugo: /posts/roppongi-christmas-illumination-2025/ -->
-**➡️ [NEW! Roppongi Illumination 2025: Dates, Lighting Times & Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)**
+<strong>➡️ [NEW! Roppongi Illumination 2025: Dates, Lighting Times & Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223666751487
      Hugo: /posts/roppongi-tsutaya-share-lounge-guide/ -->
-**➡️ [Tokyo Roppongi Tsutaya Bookstore Share Lounge: Hyundai Card 1+1 Benefits Review](#)**
+<strong>➡️ [Tokyo Roppongi Tsutaya Bookstore Share Lounge: Hyundai Card 1+1 Benefits Review](#)</strong>
 
 ![Roppongi Midtown Hinokicho Park Cherry Blossoms (Taken April 6, 2025)](/images/posts/roppongi-attractions-guide-03.jpg)
 
@@ -78,18 +78,18 @@ Especially in November and December, winter Keyakizaka transforms into Tokyo's p
 
 Roppongi is Tokyo's premier art hub. Just visiting these three museums will let you experience world-class art.
 
-**Mori Art Museum:** Located on the 53rd floor of Roppongi Hills, where you encounter contemporary art at the highest point.
+<strong>Mori Art Museum:</strong> Located on the 53rd floor of Roppongi Hills, where you encounter contemporary art at the highest point.
 
-**The National Art Center, Tokyo:** A place with unique architectural beauty where special exhibitions are always held.
+<strong>The National Art Center, Tokyo:</strong> A place with unique architectural beauty where special exhibitions are always held.
 
-**Suntory Museum of Art:** A place to appreciate Japanese antique art themed around 'beauty in daily life.'
+<strong>Suntory Museum of Art:</strong> A place to appreciate Japanese antique art themed around 'beauty in daily life.'
 
-Every year, Roppongi hosts **Roppongi Art Night**, where the entire city transforms into a giant art museum. If you're visiting Roppongi in fall, don't miss it!
+Every year, Roppongi hosts <strong>Roppongi Art Night</strong>, where the entire city transforms into a giant art museum. If you're visiting Roppongi in fall, don't miss it!
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024530348
      Hugo: /posts/roppongi-art-night-guide/ -->
-**➡️ [Roppongi Art Night Recommended Lineup & Evening Course Complete Guide](/posts/tokyo-september-festivals-2025/)**
+<strong>➡️ [Roppongi Art Night Recommended Lineup & Evening Course Complete Guide](/posts/tokyo-september-festivals-2025/)</strong>
 
 ![Recommended Roppongi attractions course: Beautiful architecture of The National Art Center, Tokyo](/images/posts/roppongi-attractions-guide-04.jpg)
 
@@ -104,12 +104,12 @@ In midsummer, Roppongi Hills transforms into a grand festival venue. From events
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223674804939
      Hugo: /posts/roppongi-hills-summer-festival-doraemon/ -->
-**➡️ [Tokyo Roppongi Hills Summer Festival: Off to Meet Doraemon!](#)**
+<strong>➡️ [Tokyo Roppongi Hills Summer Festival: Off to Meet Doraemon!](#)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223687520605
      Hugo: /posts/roppongi-azabujuban-summer-festivals/ -->
-**➡️ [August Tokyo Festivals: Roppongi Hills Bon Odori & Azabujuban Summer Festival Review](#)**
+<strong>➡️ [August Tokyo Festivals: Roppongi Hills Bon Odori & Azabujuban Summer Festival Review](#)</strong>
 
 ![2025 Roppongi Hills Summer Festival Doraemon](/images/posts/roppongi-attractions-guide-05.jpg)
 
@@ -117,17 +117,17 @@ In midsummer, Roppongi Hills transforms into a grand festival venue. From events
 
 Roppongi's winter is one of Tokyo's premier illumination destinations. The light spectacle of Roppongi Hills Keyakizaka Street and Tokyo Midtown creates a romantic year-end atmosphere.
 
-**➡️ [(Latest Info!) Roppongi Illumination 2025: Dates, Lighting Times & Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)**
+<strong>➡️ [(Latest Info!) Roppongi Illumination 2025: Dates, Lighting Times & Essential Spots Complete Guide](/posts/roppongi-christmas-illumination-2025/)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223696568926
      Hugo: /posts/roppongi-hills-christmas-market-2025/ -->
-**➡️ [Roppongi Hills Christmas Market: A Little Germany in Tokyo](#)**
+<strong>➡️ [Roppongi Hills Christmas Market: A Little Germany in Tokyo](#)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223670085459
      Hugo: /posts/roppongi-midtown-christmas-review-2024/ -->
-**➡️ [Roppongi Tokyo Midtown Christmas Illumination and Santa Tree](#)**
+<strong>➡️ [Roppongi Tokyo Midtown Christmas Illumination and Santa Tree](#)</strong>
 
 ![2025 Roppongi Illumination Keyakizaka Christmas](/images/posts/roppongi-attractions-guide-06.jpg)
 
@@ -137,7 +137,7 @@ Roppongi's winter is one of Tokyo's premier illumination destinations. The light
 
 A premium supermarket frequented by celebrities. From rare sake, wine, and whisky to gourmet groceries, it's the best place to find special Japanese travel souvenirs.
 
-**➡️ [Tokyo Roppongi Hills Shinanoya Celebrity Supermarket: Japanese Travel Souvenir Shopping](/posts/shinanoya-roppongi-hills-supermarket/)**
+<strong>➡️ [Tokyo Roppongi Hills Shinanoya Celebrity Supermarket: Japanese Travel Souvenir Shopping](/posts/shinanoya-roppongi-hills-supermarket/)</strong>
 
 ### ② Where to Stay in Roppongi?
 
@@ -146,7 +146,7 @@ Located right in front of Roppongi Station with excellent accessibility! A value
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223667593440
      Hugo: /posts/rem-roppongi-hotel-guide/ -->
-**➡️ [rem Roppongi: Best Value Hotel Right in Front of Roppongi Station](#)**
+<strong>➡️ [rem Roppongi: Best Value Hotel Right in Front of Roppongi Station](#)</strong>
 
 ### ③ Heavy Luggage? Coin Locker Locations
 
@@ -155,7 +155,7 @@ When shopping or visiting museums, store your heavy bags temporarily. Complete g
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681272647
      Hugo: /posts/roppongi-hills-access-coin-lockers/ -->
-**➡️ [How to Get to Tokyo Roppongi Hills and Coin Locker Locations](/posts/roppongi-hills-hello-kitty-popup-2025/)**
+<strong>➡️ [How to Get to Tokyo Roppongi Hills and Coin Locker Locations](/posts/roppongi-hills-hello-kitty-popup-2025/)</strong>
 
 ![Roppongi Hills Shinanoya Supermarket Dassai Christmas Edition (Seasonal Product)](/images/posts/roppongi-attractions-guide-07.jpg)
 
@@ -163,76 +163,76 @@ When shopping or visiting museums, store your heavy bags temporarily. Complete g
 
 ### ① When You're Craving Noodles
 
-**Ramen: 3 Years Consecutive Michelin! Life-Changing Ramen with Explosive Truffle Aroma**
+<strong>Ramen: 3 Years Consecutive Michelin! Life-Changing Ramen with Explosive Truffle Aroma</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223913424029
      Hugo: /posts/iruca-tokyo-roppongi-ramen-guide/ -->
-**➡️ [Iruca Tokyo Roppongi: Michelin Ramen Restaurant Wait Times & Ordering Tips](#)**
+<strong>➡️ [Iruca Tokyo Roppongi: Michelin Ramen Restaurant Wait Times & Ordering Tips](#)</strong>
 
-**Udon: Chewy Sanuki Udon Served in a Bowl Bigger Than Your Face**
+<strong>Udon: Chewy Sanuki Udon Served in a Bowl Bigger Than Your Face</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223957316412
      Hugo: /posts/tsurutontan-roppongi-udon-guide/ -->
-**➡️ [Tsurutontan Roppongi: Take a Number and Travel Without Waiting](#)**
+<strong>➡️ [Tsurutontan Roppongi: Take a Number and Travel Without Waiting](#)</strong>
 
-**Soba: 200-Year-Old Tokyo's Top 3 Soba**
+<strong>Soba: 200-Year-Old Tokyo's Top 3 Soba</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223969429024
      Hugo: /posts/sarashina-horii-roppongi-soba/ -->
-**➡️ [Sarashina Horii Main Store: Roppongi Soba Restaurant](#)**
+<strong>➡️ [Sarashina Horii Main Store: Roppongi Soba Restaurant](#)</strong>
 
 ![Roppongi Michelin Ramen: Iruca Tokyo Recommended Menu Ultimate Porcini Shoyu Ramen](/images/posts/roppongi-attractions-guide-08.jpg)
 
 ### ② Hearty Meals
 
-**Tonkatsu: Extremely Tender, Cut with Chopsticks - Sasami Katsu**
+<strong>Tonkatsu: Extremely Tender, Cut with Chopsticks - Sasami Katsu</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223985958480
      Hugo: /posts/imakatsu-roppongi-tonkatsu-guide/ -->
-**➡️ [Imakatsu Roppongi Main Store: Tokyo Tonkatsu Restaurant Wait Times & Reservation Tips](#)**
+<strong>➡️ [Imakatsu Roppongi Main Store: Tokyo Tonkatsu Restaurant Wait Times & Reservation Tips](#)</strong>
 
-**Kaisendon: Luxurious Sashimi Bowl Piled High with Sea Bream Ochazuke**
+<strong>Kaisendon: Luxurious Sashimi Bowl Piled High with Sea Bream Ochazuke</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223986407872
      Hugo: /posts/tsujihan-midtown-kaisendon-guide/ -->
-**➡️ [Tsujihan Midtown: Roppongi Kaisendon Restaurant with Short Wait Times](#)**
+<strong>➡️ [Tsujihan Midtown: Roppongi Kaisendon Restaurant with Short Wait Times](#)</strong>
 
-**Tempura Set: The Ultimate Value Tempura**
+<strong>Tempura Set: The Ultimate Value Tempura</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987115708
      Hugo: /posts/kaneko-hannosuke-roppongi-tempura/ -->
-**➡️ [Tempura Meshi Kaneko Hannosuke: Roppongi Hills Tempura Restaurant](#)**
+<strong>➡️ [Tempura Meshi Kaneko Hannosuke: Roppongi Hills Tempura Restaurant](#)</strong>
 
 ![Roppongi Midtown Kaisendon Restaurant: Tsujihan Roppongi's Signature Luxury Bowl](/images/posts/roppongi-attractions-guide-09.jpg)
 
 ### ③ Light Snacks & Cafes
 
-**Coffee: Latte Art World Champion's Cafe Latte**
+<strong>Coffee: Latte Art World Champion's Cafe Latte</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223667306537
      Hugo: /posts/streamer-coffee-roppongi-guide/ -->
-**➡️ [Streamer Coffee Company: Special Roppongi Cafe](#)**
+<strong>➡️ [Streamer Coffee Company: Special Roppongi Cafe](#)</strong>
 
-**Bread: Big Chicken Sandwich with Huge Chicken Patty**
+<strong>Bread: Big Chicken Sandwich with Huge Chicken Patty</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223666751487
      Hugo: /posts/st-moritz-roppongi-bakery/ -->
-**➡️ [St. Moritz: 80-Year-Old Traditional Bakery](#)**
+<strong>➡️ [St. Moritz: 80-Year-Old Traditional Bakery](#)</strong>
 
 For more detailed information on 10 restaurants and a 'Google Restaurant Map' to navigate on-site, check out the specialized post below!
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /posts/roppongi-restaurant-map/ -->
-**➡️ [Tokyo Local Restaurant Map: Roppongi Edition (Michelin & Tabelog Complete Guide)](#)**
+<strong>➡️ [Tokyo Local Restaurant Map: Roppongi Edition (Michelin & Tabelog Complete Guide)](#)</strong>
 
 ## Conclusion: What Will Your Roppongi Look Like?
 
