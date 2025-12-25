@@ -518,8 +518,6 @@ A. 这种情况只能选择以下方案之一:
 <strong>🏙 夜景:[东京都厅免费展望台灯光秀&新宿夜景提示↗](/zh-cn/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
 <strong>🌃 夜间街区:[新宿黄金街vs思出横丁完全对比↗](/zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

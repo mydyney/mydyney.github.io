@@ -282,8 +282,6 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 从宫下公园步行就能到'青之洞窟'灯海。12月东京最浪漫的散步路线。
 
 👉 <strong>[步行10分钟! 涩谷'青之洞窟'灯海路线](/zh-cn/posts/shibuya-blue-cave-illumination-2025/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

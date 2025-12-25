@@ -229,8 +229,6 @@ Don't confuse it with 'Meiji Jingu,' and visit during the most beautiful peak se
 <strong>🍂 Tokyo's Best 5 Beautiful Autumn Foliage Spots</strong>
 
 <strong>➡️</strong> <a href="/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>2025 Tokyo Autumn Foliage Season & BEST 5 Recommended Spots (Peak Timing, Light-Up Information Complete Guide)</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

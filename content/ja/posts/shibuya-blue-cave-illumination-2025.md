@@ -251,8 +251,6 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 ### 🌟 東京ドームシティクリスマス
 
 <strong>➡️</strong> <a href="/ja/posts/tokyo-dome-city-christmas-illumination-2025/"><strong>2025年東京ドームイルミネーション期間、時間＆TXTコラボ</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

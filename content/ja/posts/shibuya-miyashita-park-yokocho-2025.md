@@ -281,8 +281,6 @@ featured_image: "/images/posts/shibuya-miyashita-park-yokocho-2025-01.jpg"
 ミヤシタパークから徒歩で移動可能な'青の洞窟'イルミネーションまで見て行ってください。12月東京で最もロマンチックな散歩道です。
 
 👉 <strong>[歩いて10分! 渋谷'青の洞窟'イルミネーションへの行き方](/ja/posts/shibuya-blue-cave-illumination-2025/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

@@ -569,8 +569,6 @@ Don't miss a bowl of warm convenience store oden this winter on your Japan trip!
      Naver: https://blog.naver.com/tokyomate/224033964477
      Hugo: /posts/[SLUG_TBD]/ -->
 <strong>👉</strong> <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List 2025: Must-Buy Items (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

@@ -323,8 +323,6 @@ Visiting Senso-ji Temple and Nakamise-dori makes a perfect full-day itinerary.
      Naver: https://blog.naver.com/tokyomate/224024819592
      Hugo: /posts/asakusa-complete-guide/ -->
 ➡️ <strong><a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>Tokyo Asakusa Attractions & Restaurants Complete Guide (Senso-ji, Gyukatsu)</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

@@ -373,8 +373,6 @@ create unforgettable memories this winter.
 ### 🌟 Roppongi Tokyo Midtown Illumination (starts November 13)
 
 <strong>➡️ <a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

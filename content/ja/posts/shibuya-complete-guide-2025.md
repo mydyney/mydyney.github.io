@@ -294,8 +294,6 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 5. <strong>渋谷横丁を試す</strong> - 様々な日本料理を試す最良の方法
 
 <strong>渋谷は東京のエネルギー、ファッション、文化が集まる場所です。象徴的なスクランブル交差点から渋谷スカイの空高い景色、トレンディなショッピングから美味しいグルメまで - このガイドには完璧な渋谷体験に必要なすべてがあります。楽しい冒険を！🗼✨</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

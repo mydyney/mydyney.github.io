@@ -246,8 +246,6 @@ A. 可以，组装过程中丢失・损坏的零件或「田宫客户服务」�
 <strong>➡️</strong> <a href="/zh-cn/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>日本便利店购物清单不踩雷BEST10（7-11、全家、罗森对比）</strong></a>
 
 <strong>➡️</strong> <a href="/zh-cn/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;"><strong>东京奥特莱斯推荐：三井奥特莱斯木更津折扣券、入驻品牌、交通（御殿场对比）</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

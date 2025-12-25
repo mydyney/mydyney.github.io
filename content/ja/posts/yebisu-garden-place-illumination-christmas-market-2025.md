@@ -380,8 +380,6 @@ A. 地下2階 <strong>Foodies' Garden</strong> にはカルディ（KALDI）、�
 ### 🌟 11月13日開始 六本木東京ミッドタウンイルミネーション
 
 <strong>➡️ <a href="/ja/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025六本木東京ミッドタウンクリスマス総まとめ（イルミネーション、アイスリンク、グルメ）</a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

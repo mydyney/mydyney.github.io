@@ -252,8 +252,6 @@ Shimbashi Station is the starting point of the Yurikamome to Odaiba. After enjoy
      Naver: /posts/odaiba-ariake-toyosu-complete-guide/
      Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>Tokyo Odaiba Must-Visit Spots: Complete One-Day Recommended Course</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

@@ -323,8 +323,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
      Naver: https://blog.naver.com/tokyomate/224024819592
      Hugo: /ja/posts/asakusa-complete-guide/ -->
 ➡️ <strong><a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>東京浅草アトラクション＆レストラン完全ガイド（浅草寺、牛カツ）</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

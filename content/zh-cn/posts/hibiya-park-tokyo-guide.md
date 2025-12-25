@@ -269,8 +269,6 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 <!-- TODO: Update link after migration
 <strong>➡️</strong> <a href="/zh-cn/posts/ginza-guide-2025/" style="color: #667eea;"><strong>银座推荐景点・零失误购物・美食・路线完全攻略</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

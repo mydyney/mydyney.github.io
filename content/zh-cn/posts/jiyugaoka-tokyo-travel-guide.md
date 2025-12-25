@@ -407,8 +407,6 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
      Naver: /zh-cn/posts/shibuya-complete-guide-2025/
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>涩谷天空、购物、餐厅、活动完全攻略</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

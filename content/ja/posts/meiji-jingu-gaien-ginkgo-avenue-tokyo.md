@@ -229,8 +229,6 @@ A：イチョウ並木は「青山」地域にあります。「表参道」と�
 <strong>🍂 東京を代表する美しい紅葉スポット BEST5</strong>
 
 <strong>➡️</strong> <a href="/ja/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>2025年東京紅葉時期＆おすすめスポット BEST 5（見頃時期、ライトアップ情報完全ガイド）</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

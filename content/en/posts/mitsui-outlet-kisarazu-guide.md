@@ -368,8 +368,6 @@ Tokyo outlet shopping - no more hesitation! With unbeatable accessibility from c
 Looking for discount coupons not just for outlets, but for all shopping spots in Japan including Don Quijote, Bic Camera, and department stores? Check out the comprehensive "Discount Coupon Guide" below and maximize all benefits!
 
 <strong>➡️ [Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, Department Stores, etc.)](/posts/japan-travel-discount-coupons-2025/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

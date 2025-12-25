@@ -342,8 +342,6 @@ Animate附近
 地铁通票可达。
 
 <strong>➡️ <a href="/zh-cn/posts/tokyo-station-guide/" style="color: #667eea;">东京站观光景点 - 卡通街、美食、夜景、行李寄存柜</a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

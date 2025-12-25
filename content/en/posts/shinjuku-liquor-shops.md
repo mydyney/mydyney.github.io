@@ -229,8 +229,6 @@ If you want to know more about Shinjuku activities, restaurants, and night view 
 <strong>➡️ [Japan Kaldi Shopping List Must-Buy Kaldi Items (Spread, Portion Coffee, Tax-Free Tips) ↗](#)</strong>
 
 <strong>➡️ [Complete Japan Convenience Store Guide! (7-Eleven, FamilyMart, Lawson Comparison) ↗](/posts/japan-convenience-store-shopping-best-10/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

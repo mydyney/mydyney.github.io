@@ -205,8 +205,6 @@ Tokyo Mateでした。
      Naver: /ja/posts/shinjuku-liquor-shops/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>新宿酒屋おすすめ｜やまや、信濃屋、ビックカメラウイスキー割引クーポン</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

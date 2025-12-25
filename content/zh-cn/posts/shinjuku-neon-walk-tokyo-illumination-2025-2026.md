@@ -325,8 +325,6 @@ Tokyo Mate敬上！
      Naver: https://blog.naver.com/tokyomate/224035271300
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿观光景点：从新宿御苑到餐厅、购物完美路线</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

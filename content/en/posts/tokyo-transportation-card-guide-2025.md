@@ -252,8 +252,6 @@ Now that you've prepared your essential Tokyo travel item—the 'transportation 
      Naver: https://blog.naver.com/tokyomate/224039113760
      Hugo: /posts/japan-travel-discount-coupons-2025/ -->
 <strong>➡️</strong> <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

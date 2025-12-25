@@ -205,8 +205,6 @@ This has been Tokyo Mate.
      Naver: /posts/shinjuku-liquor-shops/
      Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/shinjuku-liquor-shops/" style="color: #667eea;"><strong>Shinjuku Liquor Shop Recommendations | Yamaya, Shinanoya, Bic Camera Whiskey Discount Coupons</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

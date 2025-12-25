@@ -205,8 +205,6 @@ Tokyo Mate敬上。
      Naver: /zh-cn/posts/shinjuku-liquor-shops/
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>新宿酒类店推荐｜Yamaya、信浓屋、必酷相机威士忌折扣券</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

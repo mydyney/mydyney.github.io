@@ -253,8 +253,6 @@ teamLab无界门票预订技巧，<br>
 如果麻布台之丘是「观光」中心，邻近的虎之门Hills就是「美食餐饮&商务」中心。在「虎之门横丁」这样精致的居酒屋街享受特别之夜。
 
 ➡️ <strong><a href="/zh-cn/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>东京虎之门Hills景点：餐厅、横丁、以及真正的「哆啦A梦」</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

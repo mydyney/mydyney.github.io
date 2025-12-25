@@ -269,8 +269,6 @@ If you have any questions during your trip, feel free to leave a comment anytime
 
 <!-- TODO: Update link after migration
 <strong>➡️</strong> <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots · Shopping, Restaurants & Route Complete Guide</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

@@ -253,8 +253,6 @@ If Azabudai Hills offers 'frontal' Tokyo Tower views, Roppongi Hills shows Tokyo
 If Azabudai Hills is the center of 'tourism', neighboring Toranomon Hills is the center of 'gourmet dining & business'. Enjoy a special evening at sophisticated izakaya alleys like 'Toranomon Yokocho'.
 
 ➡️ <strong><a href="/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>Tokyo Toranomon Hills Attractions: Restaurants, Yokocho, and the Real 'Doraemon'</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

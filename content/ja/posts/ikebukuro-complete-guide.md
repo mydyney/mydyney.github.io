@@ -342,8 +342,6 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 地下鉄パスで移動可能です。
 
 <strong>➡️ <a href="/ja/posts/tokyo-station-guide/" style="color: #667eea;">東京駅観光スポット - キャラクターストリート、グルメ、夜景、荷物保管ロッカー</a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

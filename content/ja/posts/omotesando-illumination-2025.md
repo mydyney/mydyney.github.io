@@ -339,8 +339,6 @@ FENDIシャンパンゴールドのケヤキ並木から表参道ヒルズツリ
      Naver: /ja/posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025明治神宮外苑 クリスマスマーケット 入場券・マグカップ特典</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

@@ -337,8 +337,6 @@ If planning a Tokyo Christmas trip, I strongly recommend making this place, alon
      Naver: /posts/meiji-jingu-gaien-christmas-market-2025/
      Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/meiji-jingu-gaien-christmas-market-2025/" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Benefits</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

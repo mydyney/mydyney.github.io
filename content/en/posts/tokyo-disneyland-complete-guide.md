@@ -712,8 +712,6 @@ A happy day is already halfway prepared ✨
 <strong>➡️ [Japan Travel Discount Coupons 2025 (Don Quijote, Department Stores)](/posts/japan-travel-discount-coupons-2025/)</strong>
 <br>
 <strong>➡️ [Tokyo Transport Card Complete Guide (iPhone Suica, PASMO)](/posts/tokyo-transportation-card-guide-2025/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

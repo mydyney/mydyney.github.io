@@ -456,8 +456,6 @@ JR新宿駅から歩くこともできますが、<strong>新宿御苑前駅が�
 <strong>🛍️ ショッピング：</strong> <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">新宿世界堂東京文具店会員カード、免税↗</a>
 
 <strong>🍡 デザート：</strong> <a href="/ja/posts/shinjuku-oiwake-dango-honpo/" target="_blank">新宿団子グルメ追分団子本舗↗</a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

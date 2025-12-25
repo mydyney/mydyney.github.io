@@ -368,8 +368,6 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 不仅是奥特莱斯，还有唐吉诃德、Bic Camera、百货店等日本所有购物地点可用的折扣优惠券信息，请一并查看以下「折扣优惠券总汇」文章，获取所有优惠！
 
 <strong>➡️ [日本旅行折扣优惠券总汇2025（唐吉诃德、Bic Camera、百货店等）](/zh-cn/posts/japan-travel-discount-coupons-2025/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

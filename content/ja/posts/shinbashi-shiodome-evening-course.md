@@ -243,8 +243,6 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
      Naver: https://blog.naver.com/tokyomate/224043919463
      Hugo: /ja/posts/odaiba-ariake-toyosu-complete-guide/ -->
 <strong>➡️ <a href="/ja/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>東京お台場おすすめスポット：一日完成！おすすめコース総まとめ</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

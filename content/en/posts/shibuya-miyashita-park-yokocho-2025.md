@@ -282,8 +282,6 @@ From Shibuya Sky observatory to nearby shopping and restaurants—perfect routin
 Walk from Miyashita Park to the 'Blue Cave' illumination. December's most romantic stroll in Tokyo.
 
 👉 <strong>[10-Minute Walk! How to Get to Shibuya 'Blue Cave' Illumination](/posts/shibuya-blue-cave-illumination-2025/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

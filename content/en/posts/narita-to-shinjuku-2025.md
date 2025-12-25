@@ -518,8 +518,6 @@ In addition to Shinjuku-bound transportation, if you need more detailed informat
 <strong>🏙 Night View: [Tokyo Metropolitan Government Free Observatory Light Show & Shinjuku Night View Tips↗](/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
 <strong>🌃 Night Streets: [Shinjuku Golden Gai vs Omoide Yokocho Perfect Comparison↗](/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

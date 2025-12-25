@@ -386,8 +386,6 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
      Naver: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 - <strong>新宿の夜 ➡️ <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 比較</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

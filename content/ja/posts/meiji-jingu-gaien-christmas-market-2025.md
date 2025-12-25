@@ -263,8 +263,6 @@ A：明治神宮外苑は季節ごとに異なる魅力があります。11月�
 ### 🌟 東京ドームシティイルミネーション（11月17日開始）
 
 <strong>➡️ <a href="/ja/posts/tokyo-dome-city-christmas-illumination-2025/" style="color: #667eea;"><strong>2025東京ドームイルミネーション日程、時間＆TXTコラボ</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

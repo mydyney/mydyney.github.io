@@ -454,8 +454,6 @@ To make your Shinjuku itinerary richer, combine it with the articles below.
 <strong>🛍️ Shopping:</strong> <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo stationery store membership card, tax-free↗</a>
 
 <strong>🍡 Dessert:</strong> <a href="/posts/shinjuku-oiwake-dango-honpo/" target="_blank">Shinjuku dango restaurant Oiwake Dango Honpo↗</a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

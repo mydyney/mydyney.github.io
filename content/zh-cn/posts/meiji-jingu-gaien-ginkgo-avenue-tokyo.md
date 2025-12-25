@@ -229,8 +229,6 @@ A：银杏大道位于「青山」地区。离「表参道」非常近，很适�
 <strong>🍂 东京代表性绝美红叶景点BEST5</strong>
 
 <strong>➡️</strong> <a href="/zh-cn/posts/tokyo-autumn-foliage-best-spots-2025/" style="color: #667eea;"><strong>2025年东京红叶时期&推荐景点BEST 5（最佳观赏期、灯光秀信息完全攻略）</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

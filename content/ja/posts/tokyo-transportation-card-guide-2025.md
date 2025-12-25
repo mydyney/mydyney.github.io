@@ -252,8 +252,6 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
      Naver: https://blog.naver.com/tokyomate/224039113760
      Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
 <strong>➡️</strong> <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行割引クーポン総まとめ2025(ドン・キホーテ、ビックカメラなど)</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

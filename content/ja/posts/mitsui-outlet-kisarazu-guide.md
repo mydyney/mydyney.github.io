@@ -368,8 +368,6 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 アウトレットだけでなく、ドン・キホーテ、ビックカメラ、デパートなど日本のすべてのショッピングスポットで使える割引クーポン情報が気になる方は、以下の「割引クーポン総まとめ」投稿を一緒に確認してすべての恵恵を受け取ってください！
 
 <strong>➡️ [日本旅行割引クーポン総まとめ2025（ドン・キホーテ、ビックカメラ、デパート等）](/ja/posts/japan-travel-discount-coupons-2025/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

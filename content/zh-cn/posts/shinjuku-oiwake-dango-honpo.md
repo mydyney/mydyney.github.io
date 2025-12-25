@@ -212,8 +212,6 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
      Naver: https://blog.naver.com/tokyomate/224025044772
      Hugo: /zh-cn/posts/ginza-kuya-monaka-reservation-guide/ -->
 <strong><a href="#" style="color: #667eea;">送给东京长辈的礼品，不知道选什么就选银座空也最中 ↗</a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

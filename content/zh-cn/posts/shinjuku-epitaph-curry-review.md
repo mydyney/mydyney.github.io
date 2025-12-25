@@ -289,8 +289,6 @@ Epitaph Curry是与这些所有地方类别都不重叠的独步<strong>新宿�
 <strong><a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>新宿游玩地点，从新宿御苑到餐厅、购物、黄金街完美路线总结</b></a></strong>
 
 <strong>➡️ <a href="/zh-cn/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>东京都厅免费展望台灯光秀时间、交通、休馆日、新宿夜景技巧总结</b></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

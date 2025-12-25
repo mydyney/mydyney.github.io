@@ -456,8 +456,6 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 <strong>🛍️ 购物：</strong> <a href="/zh-cn/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">新宿世界堂东京文具店会员卡、免税↗</a>
 
 <strong>🍡 甜点：</strong> <a href="/zh-cn/posts/shinjuku-oiwake-dango-honpo/" target="_blank">新宿团子美食追分团子本铺↗</a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

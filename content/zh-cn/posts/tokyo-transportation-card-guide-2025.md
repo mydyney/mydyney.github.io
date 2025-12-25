@@ -252,8 +252,6 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
      Naver: https://blog.naver.com/tokyomate/224039113760
      Hugo: /zh-cn/posts/japan-travel-discount-coupons-2025/ -->
 <strong>➡️</strong> <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行折扣优惠券全汇总2025(唐吉诃德、必酷等)</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

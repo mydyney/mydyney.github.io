@@ -342,8 +342,6 @@ Yamanote Line in the opposite direction from Shinjuku!
 You can travel with a subway pass.
 
 <strong>➡️ <a href="/posts/tokyo-station-guide/" style="color: #667eea;">Tokyo Station Attractions - Character Street, Restaurants, Night Views, Luggage Storage Lockers</a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

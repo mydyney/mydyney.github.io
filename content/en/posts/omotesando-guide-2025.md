@@ -379,8 +379,6 @@ Curated final recommendation list considering travelers' routes and tastes from 
 ➡️ [<strong>Shinjuku Complete Guide: Shinjuku Gyoen, Dining, Shopping & Golden Gai</strong>](/posts/shinjuku-guide-2025/)  
 ➡️ [<strong>Don Quijote Shopping List 2025: Must-Buy Essentials & Discount Coupons</strong>](/posts/don-quijote-shopping-guide-2025/)  
 ➡️ [<strong>Complete Convenience Store Guide (7-Eleven, FamilyMart, Lawson Comparison)</strong>](/posts/japan-convenience-store-shopping-best-10/)
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

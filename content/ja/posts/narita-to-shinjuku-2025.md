@@ -518,8 +518,6 @@ A. この場合、以下のいずれかを選ぶしかありません:
 <strong>🏙 夜景:[東京都庁無料展望台光のショー&新宿夜景ヒント↗](/ja/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
 <strong>🌃 夜の街:[新宿ゴールデン街vs思い出横丁完全比較↗](/ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

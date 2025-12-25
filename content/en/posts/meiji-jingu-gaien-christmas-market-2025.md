@@ -263,8 +263,6 @@ If this 2025 Meiji Jingu Gaien Christmas Market information was helpful, complet
 ### 🌟 Tokyo Dome City Illumination (Starts Nov 17)
 
 <strong>➡️ <a href="/posts/tokyo-dome-city-christmas-illumination-2025/" style="color: #667eea;"><strong>2025 Tokyo Dome Illumination Dates, Hours & TXT Collab</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

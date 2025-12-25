@@ -249,8 +249,6 @@ Unlike the glamorous chandelier-like Roppongi, Shibuya Blue Cave was charming fo
 ### 🌟 Tokyo Dome City Christmas
 
 <strong>➡️</strong> <a href="/posts/tokyo-dome-city-christmas-illumination-2025/"><strong>2025 Tokyo Dome Illumination Period, Hours & TXT Collaboration</strong></a>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
