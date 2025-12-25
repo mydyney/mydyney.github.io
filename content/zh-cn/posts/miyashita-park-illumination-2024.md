@@ -10,6 +10,10 @@ summary: "探索涩谷宫下公园4楼屋顶花园迷人的圣诞灯光隧道。
 featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">📌 2025年最新宫下公园圣诞市集信息请参考以下文章！</p>
+
 📌 <strong>2025年最新宫下公园圣诞市集信息请参考以下文章！</strong>
 
 [➡️ <strong>涩谷宫下公园与涩谷横丁（2025圣诞市集·飞天小女警·真实评价）</strong>](/zh-cn/posts/shibuya-miyashita-park-yokocho-2025/)
@@ -136,3 +140,4 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 
 [➡️ <strong>涩谷完全攻略: 涩谷天空展望台预约、购物、美食推荐全指南</strong>](/zh-cn/posts/shibuya-complete-guide-2025/)
 
+</div>

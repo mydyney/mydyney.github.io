@@ -10,6 +10,10 @@ summary: "「渋谷ダンジョン」で重い荷物を持ってさまよいた�
 featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">「コインロッカーがどこも空いてない！」😱</p>
+
 「コインロッカーがどこも空いてない！」😱
 「キャリーケースが入るサイズが見つからない…」
 
@@ -276,4 +280,6 @@ A. 古い鍵式のロッカーは100円玉しか使えません。最新式はSu
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224107954391" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
   </p>
+</div>
+
 </div>

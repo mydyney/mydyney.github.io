@@ -10,6 +10,10 @@ summary: "Human Made in Shibuya Parco has been renewed! Use this guide to naviga
 featured_image: "/images/posts/shibuya-human-made-offline-store-guide-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">Today, I'll introduce the trendy Human Made offline store located in Shibuya Parco.</p>
+
 Today, I'll introduce the trendy <strong>Human Made</strong> offline store located in Shibuya Parco.
 
 Recently, the Human Made store in Shibuya Parco has undergone a renewal and expansion! Before, everything was gathered in one place, making it extremely crowded. Now, it has been separated into <strong>PART 1 (Clothing)</strong> and <strong>PART 2 (General Goods)</strong> to provide a more pleasant shopping environment.
@@ -179,3 +183,5 @@ Enjoy smart shopping at Human Made, which has become even hotter with the renewa
 
 👇 5 minutes from Parco! Tokyo MZ's Holy Land, Miyashita Park
 <p style="text-align: center;"><strong>➡️ </strong> <a href="/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>Shibuya Miyashita Park & Shibuya Yokocho Review</strong></a></p>
+
+</div>

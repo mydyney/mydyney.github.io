@@ -10,6 +10,10 @@ summary: "渋谷パルコのHUMAN MADEがリニューアルして売り場が拡
 featured_image: "/images/posts/shibuya-human-made-offline-store-guide-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">今回は、渋谷パルコにある大人気ブランド<b>HUMAN MADE（ヒューマンメイド）</b>の店舗をご紹介します。</p>
+
 今回は、渋谷パルコにある大人気ブランド<b>HUMAN MADE（ヒューマンメイド）</b>の店舗をご紹介します。
 
 最近、渋谷パルコのHUMAN MADE店舗がリニューアルされ、拡張されたのをご存知ですか？以前は1箇所に全てが集約されていて大変混雑していましたが、現在は<b>PART 1（ウェア）</b>と<b>PART 2（雑貨）</b>に分かれ、より快適にショッピングが楽しめるようになりました。
@@ -177,3 +181,5 @@ HUMAN MADEでのお買い物の際に知っておくと便利なポイントで�
 
 👇 パルコ徒歩5分！東京MZ世代の聖地、宮下パーク攻略
 <p style="text-align: center;"><strong>➡️ </strong> <a href="/ja/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>渋谷ミヤシタパーク＆渋谷横丁レビュー</strong></a></p>
+
+</div>

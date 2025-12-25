@@ -10,6 +10,10 @@ summary: "2026东京站一番街年末营业时间完整版：角色街、拉面
 featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">计划2026新年东京之旅吗？这里完整整理了东京站角色街、拉面街、零食乐园的年末假期(12月31日~1月3日)营业时间和休息信息。重要：大部分店铺1月1日提前关门或休息！</p>
+
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-01.jpg" alt="2026东京站角色街年末营业时间">
   <figcaption style="font-size: 0.85em; text-align: center;">2026 东京站角色街年末营业时间信息</figcaption>
@@ -420,10 +424,11 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 [👉 <strong>东京丸之内灯海2025时间·期间·名所总整理</strong>](/zh-cn/posts/marunouchi-illumination-2025/)
 
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224110207709" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
   </p>
+</div>
+
 </div>

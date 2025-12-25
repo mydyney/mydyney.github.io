@@ -10,6 +10,10 @@ summary: "2026年東京駅一番街の年末年始営業時間完全版：キャ
 featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">2026年正月に東京旅行を計画中ですか？東京駅キャラクターストリート、ラーメンストリート、おかしランドの年末年始(12月31日~1月3日)営業時間と休業情報を一目で整理しました。重要：ほとんどの店舗が1月1日は早く閉店または休業します！</p>
+
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-01.jpg" alt="2026東京駅キャラクターストリート年末年始営業時間">
   <figcaption style="font-size: 0.85em; text-align: center;">2026 東京駅キャラクターストリート年末年始営業時間情報</figcaption>
@@ -420,10 +424,11 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 [👉 <strong>東京丸の内イルミネーション2025期間、時間、名所総まとめ</strong>](/ja/posts/marunouchi-illumination-2025/)
 
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224110207709" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
   </p>
+</div>
+
 </div>

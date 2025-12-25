@@ -9,6 +9,10 @@ description: "Complete guide to Kiwamiya Hamburg at Shibuya Parco B1F - Fukuoka'
 featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">Fukuoka's legendary hamburg restaurant Kiwamiya has opened in Tokyo's Shibuya Parco! This comprehensive guide covers everything you need to know: waiting times, menu prices, the famous 495 yen unlimited refill set, and exclusive Shibuya-only menu items.</p>
+
 Fukuoka's legendary hamburg restaurant <strong>Kiwamiya</strong> has opened in Tokyo's Shibuya Parco! This comprehensive guide covers everything you need to know: waiting times, menu prices, the famous <strong>495 yen unlimited refill set</strong>, and exclusive Shibuya-only menu items.
 
 ![Kiwamiya Hamburg Shibuya Parco - Complete guide to Tokyo's hottest hamburg restaurant](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg)
@@ -179,4 +183,6 @@ Experience Fukuoka's #1 taste in the heart of Shibuya!
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224105333068" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
   </p>
+</div>
+
 </div>
