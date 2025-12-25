@@ -253,8 +253,6 @@ teamLabボーダレスチケット予約のコツ、<br>
 麻布台ヒルズが「観光」の中心なら、隣の虎ノ門ヒルズは「グルメダイニング＆ビジネス」の中心です。「虎ノ門横丁」のような洗練された居酒屋通りで特別な夜を楽しんでください。
 
 ➡️ <strong><a href="/ja/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>東京虎ノ門ヒルズアトラクション：レストラン、横丁、そして本物の「ドラえもん」</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
@@ -262,12 +260,5 @@ teamLabボーダレスチケット予約のコツ、<br>
   </p>
 </div>
 
-
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224047575500" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
-  </p>
-</div>
 
 </div>

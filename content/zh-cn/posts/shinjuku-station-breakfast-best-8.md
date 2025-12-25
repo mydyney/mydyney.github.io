@@ -325,8 +325,6 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 - <strong>行程规划 ➡️ [新宿美食・购物・玩乐完美整理路线](/zh-cn/posts/shinjuku-guide-2025/)</strong>
 - <strong>免费夜景 ➡️ [东京都厅免费展望台去法・夜景名所小贴士](/zh-cn/posts/tokyo-metropolitan-govt-observatory/)</strong>
 - <strong>野餐 ➡️ [新宿御苑门票・时间・星巴克・野餐攻略](/zh-cn/posts/shinjuku-gyoen-guide-2025/)</strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
@@ -334,12 +332,5 @@ featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
   </p>
 </div>
 
-
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224089448937" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
-  </p>
-</div>
 
 </div>

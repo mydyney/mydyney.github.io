@@ -287,8 +287,6 @@ please check out the <strong>complete Shinjuku course guide</strong> below!
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Shinjuku Things to Do: Complete Course Summary from Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</b></a>**
 
 <strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show Times, Access, Closed Days, Shinjuku Night View Complete Tips</b></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
@@ -296,12 +294,5 @@ please check out the <strong>complete Shinjuku course guide</strong> below!
   </p>
 </div>
 
-
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224066173929" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
-  </p>
-</div>
 
 </div>

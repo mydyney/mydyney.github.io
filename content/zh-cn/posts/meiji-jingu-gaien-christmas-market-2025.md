@@ -263,8 +263,6 @@ A：明治神宫外苑每季魅力不同。11月"银杏大道红叶"和12月"圣
 ### 🌟 东京巨蛋城灯光秀（11月17日开始）
 
 <strong>➡️ <a href="/zh-cn/posts/tokyo-dome-city-christmas-illumination-2025/" style="color: #667eea;"><strong>2025东京巨蛋灯光秀日程、时间＆TXT联动</strong></a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
@@ -272,12 +270,5 @@ A：明治神宫外苑每季魅力不同。11月"银杏大道红叶"和12月"圣
   </p>
 </div>
 
-
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224086214573" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
-  </p>
-</div>
 
 </div>

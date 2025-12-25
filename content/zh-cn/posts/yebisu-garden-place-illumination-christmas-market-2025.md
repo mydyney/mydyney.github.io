@@ -380,8 +380,6 @@ A. 地下2楼 <strong>Foodies' Garden</strong> 有KALDI、Central Square、明�
 ### 🌟 11月13日开始 六本木东京中城灯光秀
 
 <strong>➡️ <a href="/zh-cn/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;">2025六本木东京中城圣诞总结（灯光秀、溜冰场、美食）</a></strong>
-
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
@@ -389,12 +387,5 @@ A. 地下2楼 <strong>Foodies' Garden</strong> 有KALDI、Central Square、明�
   </p>
 </div>
 
-
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224078737491" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
-  </p>
-</div>
 
 </div>
