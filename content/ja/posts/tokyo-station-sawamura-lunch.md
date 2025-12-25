@@ -10,6 +10,10 @@ summary: "東京駅サワムラ丸の内ランチ完全ガイド。職人パン�
 featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">7階テラス席に出ると東京駅の赤レンガ駅舎が一望できます。昼も綺麗ですが、夕方のビューが本当に幻想的な場所です。</p>
+
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-01.jpg" alt="東京駅サワムラ平日ランチ">
   <figcaption style="font-size: 0.85em; text-align: center;">東京駅サワムラ平日ランチ パン食べ放題・サラダ・コーヒーまで</figcaption>
@@ -196,10 +200,11 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223685676173 -->
 <strong>➡️ 和田倉噴水公園スターバックスレビュー（夜景）</strong>
 
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224104602398" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
   </p>
+</div>
+
 </div>

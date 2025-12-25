@@ -10,6 +10,10 @@ summary: "Complete guide to Sawamura Marunouchi lunch at Tokyo Station. Premium 
 featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">Step out to the 7th floor terrace seating and Tokyo Station's red brick architecture unfolds before your eyes. Beautiful during the day, but the evening view is truly spectacular.</p>
+
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-01.jpg" alt="Tokyo Station Sawamura Weekday Lunch">
   <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Sawamura Weekday Lunch - Unlimited Bread, Salad & Coffee</figcaption>
@@ -196,10 +200,11 @@ If you want a meal near Tokyo Station with no regrets, definitely try the [Spare
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223685676173 -->
 <strong>➡️ Wadakura Fountain Park Starbucks Review (Night View)</strong>
 
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224104602398" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
   </p>
+</div>
+
 </div>

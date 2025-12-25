@@ -10,6 +10,10 @@ summary: "渋谷ミヤシタパーク4階屋上庭園の魅惑的なクリスマ
 featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">📌 2025年最新のミヤシタパーククリスマスマーケット情報は下記の記事をご参照ください！</p>
+
 📌 <strong>2025年最新のミヤシタパーククリスマスマーケット情報は下記の記事をご参照ください！</strong>
 
 [➡️ <strong>渋谷ミヤシタパーク＆渋谷横丁（2025クリスマスマーケット・パワーパフガールズ・正直レビュー）</strong>](/ja/posts/shibuya-miyashita-park-yokocho-2025/)
@@ -135,3 +139,4 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 
 [➡️ <strong>渋谷完全ガイド: 渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong>](/ja/posts/shibuya-complete-guide-2025/)
 
+</div>

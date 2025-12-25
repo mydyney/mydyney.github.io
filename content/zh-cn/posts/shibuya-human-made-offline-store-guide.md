@@ -10,6 +10,10 @@ summary: "涩谷Parco的Human Made全新升级啦！现在分成了Part 1和Part
 featured_image: "/images/posts/shibuya-human-made-offline-store-guide-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">今天带大家打卡涩谷Parco里超火的潮牌 Human Made 线下店！💙</p>
+
 今天带大家打卡涩谷Parco里超火的潮牌 <strong>Human Made</strong> 线下店！💙
 
 最近，涩谷Parco的Human Made进行了全面升级和扩建！以前所有东西都挤在一起，人超级多。现在分成了 <strong>PART 1（服饰）</strong> 和 <strong>PART 2（杂货）</strong> 两个区域，逛起来舒服多了！✨
@@ -177,3 +181,5 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 👇 Parco步行5分钟！东京MZ世代的圣地，宫下公园
 <p style="text-align: center;"><strong>➡️ </strong> <a href="/zh-cn/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>涩谷宫下公园 & 涩谷横丁 真实评价</strong></a></p>
+
+</div>

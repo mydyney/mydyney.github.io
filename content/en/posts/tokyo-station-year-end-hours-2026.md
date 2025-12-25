@@ -10,6 +10,10 @@ summary: "Complete 2026 year-end business hours for Tokyo Station Ichibangai: Ch
 featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">Planning a Tokyo trip for New Year 2026? Here's a complete breakdown of Tokyo Station Character Street, Ramen Street, and Okashi Land business hours for the year-end holiday period (December 31 - January 3). Important: Most shops close early or are closed on January 1st!</p>
+
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-01.jpg" alt="Tokyo Station Character Street Year-End Hours 2026">
   <figcaption style="font-size: 0.85em; text-align: center;">2026 Tokyo Station Character Street Year-End Business Hours Information</figcaption>
@@ -420,10 +424,11 @@ A 1.2km champagne gold spectacle unfolds right outside Tokyo Station!
 
 [👉 <strong>Tokyo Marunouchi Illumination 2025 Period, Hours & Best Spots Complete Guide</strong>](/posts/marunouchi-illumination-2025/)
 
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224110207709" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
   </p>
+</div>
+
 </div>

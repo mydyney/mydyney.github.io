@@ -9,6 +9,10 @@ description: "涩谷PARCO B1F KIWAMIYA汉堡肉完全攻略。福冈第1名汉�
 featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">福冈传说中的汉堡肉餐厅KIWAMIYA登陆东京涩谷PARCO！等位时间、菜单价格、招牌495日元自助套餐、涩谷限定菜单完全攻略。</p>
+
 福冈传说中的汉堡肉餐厅<strong>KIWAMIYA</strong>登陆东京涩谷PARCO！等位时间、菜单价格、招牌<strong>495日元自助套餐</strong>、涩谷限定菜单完全攻略。
 
 ![KIWAMIYA汉堡肉 涩谷PARCO - 东京最人气汉堡肉餐厅完全攻略](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg)
@@ -181,4 +185,6 @@ featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jp
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224105333068" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
   </p>
+</div>
+
 </div>

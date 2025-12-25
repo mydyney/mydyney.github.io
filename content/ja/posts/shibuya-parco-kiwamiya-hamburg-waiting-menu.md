@@ -9,6 +9,10 @@ description: "渋谷パルコB1F キワミヤ ハンバーグの完全ガイド�
 featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">福岡の伝説的ハンバーグレストランキワミヤが東京・渋谷パルコに登場！待ち時間、メニュー価格、名物の495円食べ放題セット、渋谷限定メニューまで完全ガイド。</p>
+
 福岡の伝説的ハンバーグレストラン<strong>キワミヤ</strong>が東京・渋谷パルコに登場！待ち時間、メニュー価格、名物の<strong>495円食べ放題セット</strong>、渋谷限定メニューまで完全ガイド。
 
 ![キワミヤ ハンバーグ 渋谷パルコ - 東京で一番人気のハンバーグレストラン完全攻略](/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jpg)
@@ -181,4 +185,6 @@ featured_image: "/images/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu-01.jp
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224105333068" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
   </p>
+</div>
+
 </div>

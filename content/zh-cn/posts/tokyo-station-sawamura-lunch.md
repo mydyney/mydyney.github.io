@@ -10,6 +10,10 @@ summary: "东京站Sawamura丸之内午餐完全指南。职人面包无限续�
 featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 ---
 
+<div class="blog-container">
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">走到7楼露台座位，东京站的红砖建筑尽收眼底。白天也很美，但傍晚的景色真的很梦幻。</p>
+
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-01.jpg" alt="东京站Sawamura平日午餐">
   <figcaption style="font-size: 0.85em; text-align: center;">东京站Sawamura平日午餐 面包无限续·沙拉·咖啡</figcaption>
@@ -196,10 +200,11 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223685676173 -->
 <strong>➡️ 和田仓喷泉公园星巴克评测（夜景）</strong>
 
-
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224104602398" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
   </p>
+</div>
+
 </div>
