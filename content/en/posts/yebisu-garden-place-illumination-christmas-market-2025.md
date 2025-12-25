@@ -41,25 +41,25 @@ All combined into a perfect winter experience.
 
 ### 🌟 Christmas Champagne Gold Illumination
 - <strong>Period:</strong> November 8 (Sat), 2025 ~ March 1 (Sun), 2026
-- <strong>Hours:</strong> 16:00 ~ 23:00
+- <strong>Hours:</strong> <span>16:00 ~ 23:00</span>
 - <strong>Location:</strong> Clock Square–Center Plaza walkway
 - ✔️ <strong>Continues until March even after Christmas season!</strong>
 
 ### 🎄 10m Giant Christmas Tree
 - <strong>Period:</strong> November 8 (Sat) ~ December 25 (Thu), 2025
-- <strong>Hours:</strong> 16:00~23:00
+- <strong>Hours:</strong> <span>16:00~23:00</span>
 - <strong>Location:</strong> Clock Square
 - ✔️ <strong>Christmas tree is only displayed until December 25!</strong>
 
 ### 💎 Baccarat Chandelier (ETERNAL LIGHTS)
 - <strong>Period:</strong> November 8 (Sat), 2025 ~ January 12 (Mon), 2026
-- <strong>Hours:</strong> 11:00 ~ 23:00
+- <strong>Hours:</strong> <span>11:00 ~ 23:00</span>
 - <strong>Location:</strong> Center Plaza
 
 ### 🎁 Christmas Markets (2 locations)
 - <strong>Clock Square:</strong> November 8 (Sat) ~ December 25 (Thu), 2025
 - <strong>Chateau Plaza:</strong> November 28 (Fri) ~ December 25 (Thu), 2025
-- <strong>Hours:</strong> (Weekdays) 17:00~20:00 / (Weekends, Holidays) 12:00~20:00
+- <strong>Hours:</strong> <span>(Weekdays) 17:00~20:00 / (Weekends, Holidays) 12:00~20:00</span>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-02.jpg" alt="2025 winter Yebisu Garden Place illumination night view from clock square to center plaza">
@@ -85,7 +85,7 @@ The main tree symbolizing Yebisu Garden Place,
 creating a European small-town atmosphere together with champagne gold lighting.
 
 - <strong>Period:</strong> November 8 (Sat) ~ December 25 (Thu), 2025
-- <strong>Hours:</strong> 16:00~23:00
+- <strong>Hours:</strong> <span>16:00~23:00</span>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-04.jpg" alt="10m giant Christmas tree installed at Yebisu Garden Place clock square">
@@ -97,7 +97,7 @@ creating a European small-town atmosphere together with champagne gold lighting.
 A market selling Christmas gifts, accessories, and decorations operates around Clock Square.
 
 - <strong>Period:</strong> November 8 (Sat) ~ December 25 (Thu), 2025
-- <strong>Hours:</strong> (Weekdays) 17:00~20:00 / (Weekends) 12:00~20:00
+- <strong>Hours:</strong> <span>(Weekdays) 17:00~20:00 / (Weekends) 12:00~20:00</span>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-05.jpg" alt="Yebisu Garden Place 2025 clock square Christmas market scene">
@@ -143,7 +143,7 @@ The entire walkway from Clock Square to Center Plaza (where the chandelier is)
 is lit with champagne gold lights, creating the highlight route of Yebisu Garden Place illumination.
 
 - <strong>Period:</strong> November 8 (Sat), 2025 ~ March 1 (Sun), 2026
-- <strong>Hours:</strong> 16:00 ~ 23:00
+- <strong>Hours:</strong> <span>16:00 ~ 23:00</span>
 - ✔️ Since it continues until March 1 even after Christmas,
 it's a great course for those traveling outside the year-end period.
 
@@ -170,7 +170,7 @@ From November 28, a separate Christmas market opens at <strong>Chateau Plaza</st
 The European small-town atmosphere is even stronger here than at Clock Square, so many people visit separately.
 
 - <strong>Period:</strong> November 28 (Fri) ~ December 25 (Thu), 2025
-- <strong>Hours:</strong> (Weekdays) 17:00~20:00 / (Weekends, Holidays) 12:00~20:00
+- <strong>Hours:</strong> <span>(Weekdays) 17:00~20:00 / (Weekends, Holidays) 12:00~20:00</span>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-08.jpg" alt="2025 Yebisu Garden Place Christmas market at Chateau Plaza in front of Joel Robuchon">
@@ -189,7 +189,7 @@ Special gourmet food trucks different from Clock Square come here.
 Next to Clock Square, <strong>BLUE NOTE PLACE</strong> hosts a free DJ event <strong>GOOD MUSIC TERRACE</strong> during specific December periods.
 
 - <strong>Period:</strong> December weekends (5-7, 12-14, 19-21) and Christmas season (23-25)
-- <strong>Hours:</strong> (Weekdays) 17:30~20:00 / (Weekends) 15:00~20:00
+- <strong>Hours:</strong> <span>(Weekdays) 17:30~20:00 / (Weekends) 15:00~20:00</span>
 - <strong>Location:</strong> Clock Square, Blue Note Place terrace
 
 ### ☕ BNP STAND
@@ -216,7 +216,7 @@ While not as famous as Shibuya Sky or Roppongi Hills Observatory,
 it's a hidden gem where you can enjoy Tokyo Tower views for free.
 
 - <strong>Location:</strong> Yebisu Garden Place Tower 38th·39th floors
-- <strong>Hours:</strong> 11:00 ~ 23:30
+- <strong>Hours:</strong> <span>11:00 ~ 23:30</span>
 - <strong>Fee:</strong> Free
 
 ### ⭐ Recommended Course
