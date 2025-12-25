@@ -164,13 +164,6 @@ HUMAN MADEでのお買い物の際に知っておくと便利なポイントで�
 <div style="padding: 20px; background-color: #f7f7f7; border-radius: 10px; margin-top: 30px;">
 <h3 style="margin-top: 0; text-align: center;">🧡 合わせて読みたい渋谷旅行ガイド</h3>
 
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224105736326" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
-  </p>
-</div>
-
 </div>
 
 👇 パルコからスタート！渋谷の冬の必須コース「青の洞窟」
@@ -181,5 +174,13 @@ HUMAN MADEでのお買い物の際に知っておくと便利なポイントで�
 
 👇 パルコ徒歩5分！東京MZ世代の聖地、宮下パーク攻略
 <p style="text-align: center;"><strong>➡️ </strong> <a href="/ja/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>渋谷ミヤシタパーク＆渋谷横丁レビュー</strong></a></p>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224105736326" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 </div>

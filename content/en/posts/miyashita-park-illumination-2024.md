@@ -53,13 +53,6 @@ The Miyashita Park rooftop garden illumination creates a fantastic atmosphere wi
 ![Decorté Sponsor Display 2](/images/posts/miyashita-park-illumination-2024-04.jpg)
 
 
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/223689247336" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
-  </p>
-</div>
-
 </div>
 
 This year's sponsor is Decorté, Japan's premium cosmetics brand.
@@ -139,5 +132,13 @@ How about ending your Shibuya trip with Miyashita Park's illumination and a warm
 <strong>⭐ Related Shibuya Travel Information</strong>
 
 [➡️ <strong>Shibuya Complete Guide: From Shibuya Sky Reservations to Shopping and Restaurant Recommendations</strong>](/posts/shibuya-complete-guide-2025/)
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/223689247336" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 </div>

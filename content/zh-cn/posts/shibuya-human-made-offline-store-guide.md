@@ -164,13 +164,6 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 <div style="padding: 20px; background-color: #f7f7f7; border-radius: 10px; margin-top: 30px;">
 <h3 style="margin-top: 0; text-align: center;">🧡 更多涩谷旅游攻略</h3>
 
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224105736326" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
-  </p>
-</div>
-
 </div>
 
 👇 从Parco出发！涩谷冬季必去“青之洞窟”
@@ -181,5 +174,13 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 👇 Parco步行5分钟！东京MZ世代的圣地，宫下公园
 <p style="text-align: center;"><strong>➡️ </strong> <a href="/zh-cn/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>涩谷宫下公园 & 涩谷横丁 真实评价</strong></a></p>
+
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224105736326" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 
 </div>
