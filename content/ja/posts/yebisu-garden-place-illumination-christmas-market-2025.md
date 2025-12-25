@@ -41,25 +41,25 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 ### 🌟 クリスマスシャンパンゴールドイルミネーション
 - <strong>期間：</strong> 2025年11月8日（土）～2026年3月1日（日）
-- <strong>時間：</strong> 16:00 ~ 23:00
+- <strong>時間：</strong> <span>16:00 ~ 23:00</span>
 - <strong>場所：</strong> 時計広場–センター広場連結路
 - ✔️ <strong>クリスマスシーズン後も3月まで継続運営されます！</strong>
 
 ### 🎄 10m大型クリスマスツリー
 - <strong>期間：</strong> 2025年11月8日（土）～2025年12月25日（木）
-- <strong>時間：</strong> 16:00~23:00
+- <strong>時間：</strong> <span>16:00~23:00</span>
 - <strong>場所：</strong> 時計広場
 - ✔️ <strong>クリスマスツリーは12月25日までのみ展示されます！</strong>
 
 ### 💎 バカラシャンデリア（Baccarat ETERNAL LIGHTS）
 - <strong>期間：</strong> 2025年11月8日（土）～2026年1月12日（月）
-- <strong>時間：</strong> 11:00 ~ 23:00
+- <strong>時間：</strong> <span>11:00 ~ 23:00</span>
 - <strong>場所：</strong> センター広場
 
 ### 🎁 クリスマスマーケット（2ヶ所）
 - <strong>時計広場：</strong> 2025年11月8日（土）～12月25日（木）
 - <strong>シャトー広場：</strong> 2025年11月28日（金）～12月25日（木）
-- <strong>時間：</strong> （平日）17:00~20:00 /（週末・祝日）12:00~20:00
+- <strong>時間：</strong> <span>（平日）17:00~20:00 /（週末・祝日）12:00~20:00</span>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-02.jpg" alt="2025年冬恵比寿ガーデンプレイスイルミネーションと時計広場からセンター広場まで続く夜景全景">
@@ -85,7 +85,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 シャンパンゴールド照明と共にヨーロッパの小さな町のような雰囲気を作り出します。
 
 - <strong>期間：</strong> 2025年11月8日（土）～2025年12月25日（木）
-- <strong>時間：</strong> 16:00~23:00
+- <strong>時間：</strong> <span>16:00~23:00</span>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-04.jpg" alt="恵比寿ガーデンプレイス時計広場に設置された10m大型クリスマスツリー">
@@ -97,7 +97,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 時計広場周辺ではクリスマスギフト用小物・装飾・アクセサリーなどを販売するマーケットが開かれます。
 
 - <strong>期間：</strong> 2025年11月8日（土）～12月25日（木）
-- <strong>時間：</strong> （平日）17:00~20:00 /（週末）12:00~20:00
+- <strong>時間：</strong> <span>（平日）17:00~20:00 /（週末）12:00~20:00</span>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-05.jpg" alt="恵比寿ガーデンプレイス2025時計広場クリスマスマーケット風景">
@@ -143,7 +143,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 シャンパンゴールド照明で彩られ、恵比寿ガーデンプレイスイルミネーションのハイライト動線になります。
 
 - <strong>期間：</strong> 2025年11月8日（土）～2026年3月1日（日）
-- <strong>時間：</strong> 16:00 ~ 23:00
+- <strong>時間：</strong> <span>16:00 ~ 23:00</span>
 - ✔️ クリスマスが過ぎても3月1日まで点灯されるため、
 年末を避けて旅行される方にも良いコースです。
 
@@ -172,7 +172,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 時計広場よりヨーロッパの小さな町のような雰囲気が強いので、別途訪問する方も多いです。
 
 - <strong>期間：</strong> 2025年11月28日（金）～12月25日（木）
-- <strong>時間：</strong> （平日）17:00~20:00 /（週末・祝日）12:00~20:00
+- <strong>時間：</strong> <span>（平日）17:00~20:00 /（週末・祝日）12:00~20:00</span>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-08.jpg" alt="2025恵比寿ガーデンプレイスクリスマスマーケットが開かれるシャトー広場ジョエル・ロブション前">
@@ -192,7 +192,7 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 無料DJイベント <strong>GOOD MUSIC TERRACE</strong> が開かれます。
 
 - <strong>期間：</strong> 12月週末（5-7日、12-14日、19-21日）及びクリスマスシーズン（23-25日）
-- <strong>時間：</strong> （平日）17:30~20:00 /（週末）15:00~20:00
+- <strong>時間：</strong> <span>（平日）17:30~20:00 /（週末）15:00~20:00</span>
 - <strong>場所：</strong> 時計広場、ブルーノートプレイステラス
 
 ### ☕ BNP STAND
@@ -219,7 +219,7 @@ Top of Yebisuという無料展望台があります。
 無料で東京タワービューを楽しめるという点で隠れた名所です。
 
 - <strong>場所：</strong> 恵比寿ガーデンプレイスタワー38・39階
-- <strong>時間：</strong> 11:00 ~ 23:30
+- <strong>時間：</strong> <span>11:00 ~ 23:30</span>
 - <strong>料金：</strong> 無料
 
 ### ⭐ おすすめコース
