@@ -283,4 +283,12 @@ Walk from Miyashita Park to the 'Blue Cave' illumination. December's most romant
 
 👉 **[10-Minute Walk! How to Get to Shibuya 'Blue Cave' Illumination](/posts/shibuya-blue-cave-illumination-2025/)**
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224104049826" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
 </div>

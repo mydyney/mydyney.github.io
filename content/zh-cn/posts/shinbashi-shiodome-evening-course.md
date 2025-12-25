@@ -244,4 +244,12 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
      Hugo: /zh-cn/posts/odaiba-ariake-toyosu-complete-guide/ -->
 **➡️ <a href="/zh-cn/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>东京台场推荐景点：一日完成！推荐路线总结</strong></a>**
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224044938913" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+
 </div>

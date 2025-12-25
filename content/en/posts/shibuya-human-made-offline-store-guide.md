@@ -161,6 +161,14 @@ Enjoy smart shopping at Human Made, which has become even hotter with the renewa
 
 <div style="padding: 20px; background-color: #f7f7f7; border-radius: 10px; margin-top: 30px;">
 <h3 style="margin-top: 0; text-align: center;">🧡 More Shibuya Travel Guides</h3>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224105736326" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
 </div>
 
 👇 Start at Parco! Shibuya Winter Essential Course 'Blue Cave'

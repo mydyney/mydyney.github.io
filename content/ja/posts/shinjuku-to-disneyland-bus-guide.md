@@ -283,4 +283,12 @@ featured_image: "/images/posts/shinjuku-to-disneyland-bus-guide-01.jpg"
 ✔️ **新宿出発→バスタ新宿リムジンバス→1時間でディズニーランド到着！**
 荷物が多く子連れの家族にとって、このルートが最もストレスフリーな旅行方法です。
 
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224067094205" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
+
 </div>
