@@ -273,10 +273,7 @@ After the all-night party, curious about <b>'free sunrise spots without reservat
      Hugo: /posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>→ Tokyo Tower Lighting Off Schedule December 31, 2025 & New Year's Day Light-Up</strong></a>
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224102752117
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ 2026 Tokyo Year-End/New Year Hours & Business Info | Stores Open on January 1st</strong></a>
+➡️ <a href="/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;"><strong>→ 2026 Tokyo Year-End/New Year Hours & Business Info | Stores Open on January 1st</strong></a>
 
 ---
 

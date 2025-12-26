@@ -280,8 +280,7 @@ If you need last-minute souvenirs before returning home, go here!
 
 Don't wait in crowded airport duty-free lines during the year-end rush. 'Tokyo Banana Crème Brûlée' available only at Tokyo Station has a generous 20-day shelf life, perfect for buying in advance. (※ Sold at specific locations like 1F Gift Kiosk—check the location in the article below!)
 
-<!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224102752117 -->
-<strong>👉 Tokyo Station Tokyo Banana Crème Brûlée Locations & Prices (20-day shelf life!)</strong>
+<strong>👉 <a href="/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;">Tokyo Year-End Business Hours 2026 | Stores Open on January 1st & Hatsuuri Complete Guide</a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="Tokyo Station Okashi Land Entrance">
