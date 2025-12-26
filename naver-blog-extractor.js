@@ -29,12 +29,12 @@ javascript:(function(){
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'naver.html';
+  a.download = 'naver.md';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
   URL.revokeObjectURL(url);
-  
+
   // 성공 메시지
-  alert('✅ naver.html 다운로드 완료!\n\n다운로드 폴더에서 파일을 프로젝트 루트로 이동해주세요.');
+  alert('✅ naver.md 다운로드 완료!\n\n다운로드 폴더에서 파일을 프로젝트 루트로 이동해주세요.');
 })();

@@ -243,7 +243,7 @@ featured_image: "/images/posts/post-slug-01.jpg"  # 소셜 미디어 프리뷰�
 # HTML 파일에서 이미지 개수 확인
 python3 -c "
 from bs4 import BeautifulSoup
-html = open('naver.html').read()
+html = open('naver.md').read()
 soup = BeautifulSoup(html, 'html.parser')
 images = soup.find_all('img', class_='se-image-resource')
 print(f'총 이미지 개수: {len(images)}')
@@ -259,7 +259,7 @@ print(f'총 이미지 개수: {len(images)}')
 ### 3단계: 검증
 
 ```bash
-python3 check_image_order.py naver.html post-slug
+python3 check_image_order.py naver.md post-slug
 ```
 
 ### 4단계: 수정 (불일치 발견 시)

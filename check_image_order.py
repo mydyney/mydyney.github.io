@@ -171,7 +171,7 @@ def main():
     if len(sys.argv) < 3:
         print("Usage: python3 check_image_order.py <naver_html_file> <post_slug>")
         print("\nExample:")
-        print("  python3 check_image_order.py naver.html japan-convenience-store-shopping-best-10")
+        print("  python3 check_image_order.py naver.md japan-convenience-store-shopping-best-10")
         sys.exit(1)
 
     html_file = sys.argv[1]

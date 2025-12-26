@@ -37,7 +37,7 @@ pip3 install requests pillow beautifulsoup4 lxml
 # 1. 네이버 블로그 글 열기
 # 2. 우클릭 → 페이지 소스 보기 (또는 Cmd+Option+U)
 # 3. 전체 HTML 복사
-# 4. naver.html 파일로 저장
+# 4. naver.md 파일로 저장
 ```
 
 ### 3단계: Hugo 마크다운 작성
@@ -51,12 +51,12 @@ pip3 install requests pillow beautifulsoup4 lxml
 ### 4단계: 검증 및 다운로드 (한 번에!)
 
 ```bash
-python3 download_naver_images.py naver.html post-slug
+python3 download_naver_images.py naver.md post-slug
 ```
 
 **예시:**
 ```bash
-python3 download_naver_images.py naver.html japan-convenience-store-shopping-best-10
+python3 download_naver_images.py naver.md japan-convenience-store-shopping-best-10
 ```
 
 ---
@@ -67,10 +67,10 @@ python3 download_naver_images.py naver.html japan-convenience-store-shopping-bes
 
 ```bash
 # 1단계: 이미지 다운로드
-python3 download_naver_images.py naver.html post-slug
+python3 download_naver_images.py naver.md post-slug
 
 # 2단계: 검증 (문제 발견)
-python3 check_image_order.py naver.html post-slug
+python3 check_image_order.py naver.md post-slug
 # → ❌ 문제 발견! 이미지 삭제하고 다시 다운로드...
 ```
 
@@ -78,7 +78,7 @@ python3 check_image_order.py naver.html post-slug
 
 ```bash
 # 검증 + 다운로드 통합!
-python3 download_naver_images.py naver.html post-slug
+python3 download_naver_images.py naver.md post-slug
 # → ✅ 검증 실패 시 다운로드 안 함 (시간 절약!)
 # → ✅ 검증 통과 시에만 다운로드 시작
 ```
@@ -90,9 +90,9 @@ python3 download_naver_images.py naver.html post-slug
 ### ✅ 성공 케이스
 
 ```bash
-$ python3 download_naver_images.py naver.html japan-convenience-store-shopping-best-10
+$ python3 download_naver_images.py naver.md japan-convenience-store-shopping-best-10
 
-📖 읽기: naver.html
+📖 읽기: naver.md
 📖 읽기: content/en/posts/japan-convenience-store-shopping-best-10.md
 
 🔍 네이버 HTML 분석 중...
@@ -167,7 +167,7 @@ $ python3 download_naver_images.py naver.html japan-convenience-store-shopping-b
 ### ❌ 실패 케이스 (이미지 개수 불일치)
 
 ```bash
-$ python3 download_naver_images.py naver.html post-slug
+$ python3 download_naver_images.py naver.md post-slug
 
 ... (분석)
 
@@ -293,7 +293,7 @@ title: "Post Title"
 # content/ja/posts/post-slug.md
 
 # 그 다음 스크립트 실행
-python3 download_naver_images.py naver.html post-slug
+python3 download_naver_images.py naver.md post-slug
 ```
 
 ### Q2: "이미지 개수 불일치"
@@ -383,14 +383,14 @@ git pull origin main
 git checkout -b claude/add-post-images-$(date +%s)
 
 # 4. 네이버 HTML 저장 (브라우저에서 직접 복사)
-# → naver.html로 저장
+# → naver.md로 저장
 
 # 5. Hugo 마크다운 작성
 # → content/en/posts/post-slug.md
 # → content/ja/posts/post-slug.md
 
 # 6. 검증 및 다운로드 (한 번에!)
-python3 download_naver_images.py naver.html post-slug
+python3 download_naver_images.py naver.md post-slug
 
 # 7. 로컬 미리보기
 hugo server -D

@@ -28,7 +28,7 @@ def fetch_naver_blog(url=None):
         
         if content_element:
             html_content = str(content_element)
-            filename = "naver.html"
+            filename = "naver.md"
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(html_content)
             
@@ -37,7 +37,7 @@ def fetch_naver_blog(url=None):
         else:
             print(f"Warning: Could not find element with class '{target_class}'")
             print("Saving full HTML as fallback...")
-            with open("naver.html", "w", encoding="utf-8") as f:
+            with open("naver.md", "w", encoding="utf-8") as f:
                 f.write(response.text)
 
     except Exception as e:

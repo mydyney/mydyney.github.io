@@ -12,7 +12,7 @@
     python3 download_naver_images.py <HTML파일경로> <포스트슬러그>
 
 예시:
-    python3 download_naver_images.py naver_blog.html japan-convenience-store-shopping-best-10
+    python3 download_naver_images.py naver.md japan-convenience-store-shopping-best-10
 
 출력:
     - static/images/posts/{slug}-01.jpg (첫 번째 이미지)
@@ -143,7 +143,7 @@ def download_image(url, save_dir, post_slug, index):
 def main():
     if len(sys.argv) < 3:
         print("사용법: python3 download_naver_images.py <HTML파일> <포스트슬러그>")
-        print("예시: python3 download_naver_images.py naver.html japan-convenience-store-shopping-best-10")
+        print("예시: python3 download_naver_images.py naver.md japan-convenience-store-shopping-best-10")
         sys.exit(1)
 
     html_file = sys.argv[1]

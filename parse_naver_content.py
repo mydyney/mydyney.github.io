@@ -3,7 +3,7 @@ import sys
 import re
 
 try:
-    with open('naver.html', 'r', encoding='utf-8') as f:
+    with open('naver.md', 'r', encoding='utf-8') as f:
         soup = BeautifulSoup(f, 'html.parser')
 
     main_container = soup.find('div', class_='se-main-container')
