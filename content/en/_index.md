@@ -118,7 +118,4 @@ translationKey: "homepage"
   </div>
 </div>
 
-<div class="intro-section">
-  <h2>Your Trusted Tokyo Travel Companion</h2>
-  <p>Discover Tokyo beyond the guidebooks. From Michelin-starred restaurants to local secrets, Tokyo Mate brings you personally verified recommendations and authentic travel experiences.</p>
-</div>
+
