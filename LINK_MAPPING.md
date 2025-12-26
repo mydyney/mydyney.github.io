@@ -18,7 +18,7 @@ When migrating a Naver blog post to Hugo:
 
 ## Quick Reference Table
 
-| Naver ID | Hugo Slug (EN/JA) | Date | Status |
+| Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
 | 224024819592 | asakusa-complete-guide | 2025-09-28 | ✅ |
 | 224038568654 | tokyo-halloween-festivals-2025 | 2025-10-12 | ✅ |
@@ -242,6 +242,9 @@ sed -i 's|https://blog.naver.com/tokyomate/224065668379|/posts/roppongi-christma
 
 # Japanese posts (with /ja/ prefix)
 sed -i 's|https://blog.naver.com/tokyomate/224065668379|/ja/posts/roppongi-christmas-illumination-2025/|g' content/ja/posts/*.md
+
+# Chinese (Simplified) posts (with /zh-cn/ prefix)
+sed -i 's|https://blog.naver.com/tokyomate/224065668379|/zh-cn/posts/roppongi-christmas-illumination-2025/|g' content/zh-cn/posts/*.md
 ```
 
 **Batch Conversion Script:**
@@ -433,6 +436,9 @@ for naver_id in "${!MAPPINGS[@]}"; do
 
   # Japanese (with /ja/ prefix)
   find content/ja/posts -name "*.md" -exec sed -i "s|https://blog.naver.com/tokyomate/$naver_id|/ja/posts/$hugo_slug/|g" {} +
+
+  # Chinese (Simplified) (with /zh-cn/ prefix)
+  find content/zh-cn/posts -name "*.md" -exec sed -i "s|https://blog.naver.com/tokyomate/$naver_id|/zh-cn/posts/$hugo_slug/|g" {} +
 done
 
 echo "Link conversion complete!"
