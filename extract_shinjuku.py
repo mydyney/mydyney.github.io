@@ -66,7 +66,7 @@ def extract_full_content(html_file):
     }
 
 if __name__ == '__main__':
-    data = extract_full_content('naver.html')
+    data = extract_full_content('naver.md')
     
     print(f"Title: {data['title']}")
     print(f"Content blocks: {len(data['content_blocks'])}")

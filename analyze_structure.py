@@ -12,7 +12,7 @@ Analyze Naver blog HTML structure to extract:
 import re
 from bs4 import BeautifulSoup
 
-def analyze_naver_html(filename='naver.html'):
+def analyze_naver_html(filename='naver.md'):
     with open(filename, 'r', encoding='utf-8') as f:
         html = f.read()
     

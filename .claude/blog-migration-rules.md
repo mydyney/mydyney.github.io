@@ -8,7 +8,7 @@
 ## 전체 워크플로우
 
 ```
-1. 네이버 블로그 HTML 추출 (naver.html로 저장)
+1. 네이버 블로그 HTML 추출 (naver.md로 저장)
    ↓
 2. 🔴 이미지 다운로드 먼저 실행 (download_naver_images.py)
    ↓
@@ -41,11 +41,11 @@
 2. F12 (개발자 도구) → Elements 탭
 3. `<div class="se-main-container">` 전체 선택
 4. 우클릭 → Copy → Copy outerHTML
-5. **🔴 텍스트 파일로 저장: `naver.html` (파일명 고정!)**
+5. **🔴 텍스트 파일로 저장: `naver.md` (파일명 고정!)**
 
-### ⚠️ 중요: 파일명은 항상 `naver.html`로 저장
-- 작업 디렉토리에 `naver.html` 파일 생성
-- 이미지 다운로드 스크립트가 `naver.html`을 기본으로 사용
+### ⚠️ 중요: 파일명은 항상 `naver.md`로 저장
+- 작업 디렉토리에 `naver.md` 파일 생성
+- 이미지 다운로드 스크립트가 `naver.md`을 기본으로 사용
 - 매번 같은 파일명을 사용하여 명령어 단순화
 
 ### 네이버 HTML 구조 이해
@@ -85,13 +85,13 @@
 # 저장소로 이동
 cd ~/Desktop/mydyney.github.io
 
-# 🔴 표준 명령어 (HTML 파일명은 항상 naver.html)
-python3 download_naver_images.py naver.html <post-slug>
+# 🔴 표준 명령어 (HTML 파일명은 항상 naver.md)
+python3 download_naver_images.py naver.md <post-slug>
 
 # 예시
-python3 download_naver_images.py naver.html tokyo-skytree-christmas-market-2025
-python3 download_naver_images.py naver.html shibuya-ramen-guide
-python3 download_naver_images.py naver.html roppongi-christmas-illumination-2025
+python3 download_naver_images.py naver.md tokyo-skytree-christmas-market-2025
+python3 download_naver_images.py naver.md shibuya-ramen-guide
+python3 download_naver_images.py naver.md roppongi-christmas-illumination-2025
 ```
 
 ### 이미지 파일 규칙
@@ -150,7 +150,7 @@ python3 download_naver_images.py naver.html roppongi-christmas-illumination-2025
 ### ✅ 사전 준비 완료 상태
 
 이 단계에 도달했다면:
-- ✅ `naver.html` 파일이 준비되었습니다
+- ✅ `naver.md` 파일이 준비되었습니다
 - ✅ 이미지 다운로드가 완료되었습니다
 - ✅ 다운로드된 이미지 개수를 알고 있습니다 (예: 29개)
 
@@ -720,12 +720,12 @@ hugo
 
 ```bash
 # 1. 네이버 블로그 HTML 저장
-# 🔴 항상 naver.html로 저장!
-# F12 → Elements → <div class="se-main-container"> → Copy outerHTML → naver.html
+# 🔴 항상 naver.md로 저장!
+# F12 → Elements → <div class="se-main-container"> → Copy outerHTML → naver.md
 
 # 2. 🔴 이미지 다운로드 먼저 실행!
 cd ~/Desktop/mydyney.github.io
-python3 download_naver_images.py naver.html tokyo-skytree-christmas-market-2025
+python3 download_naver_images.py naver.md tokyo-skytree-christmas-market-2025
 
 # 출력 확인:
 # ============================================================

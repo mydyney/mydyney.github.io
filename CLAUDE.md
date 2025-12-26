@@ -202,20 +202,20 @@ User: "https://blog.naver.com/tokyomate/[POST_ID]"
 
 **⚠️ CRITICAL AGENT RULE:**
 - **NEVER** try to fetch/scrape the Naver blog URL using browser tools or `read_url_content`.
-- **ALWAYS** wait for the user to provide the content in `naver.html`.
-- The user will manually copy the HTML to `naver.html` because of Naver's anti-bot protections.
+- **ALWAYS** wait for the user to provide the content in `naver.md`.
+- The user will manually copy the HTML to `naver.md` because of Naver's anti-bot protections.
 
-#### Step 2: User Updates naver.html with Blog Content
+#### Step 2: User Updates naver.md with Blog Content
 ```
-Claude: "Please update naver.html with the blog HTML content."
-User: (Copies HTML from Naver blog and saves to naver.html)
+Claude: "Please update naver.md with the blog HTML content."
+User: (Copies HTML from Naver blog and saves to naver.md)
 User: "완료했습니다" or "Done"
 ```
 
 **Instructions for User:**
 - Open the Naver blog post in browser
 - Copy the HTML content of the blog post
-- Save it to `naver.html` in the project root directory
+- Save it to `naver.md` in the project root directory
 - Confirm completion
 
 #### Step 3: Claude Analyzes and Creates Blog Posts
@@ -224,7 +224,7 @@ User: "완료했습니다" or "Done"
 - **Extract publish date from Naver HTML:**
   ```bash
   # Find the publish date in the HTML
-  grep -o 'se_publishDate[^>]*>[^<]*' naver.html
+  grep -o 'se_publishDate[^>]*>[^<]*' naver.md
   # Format: "YYYY. MM. DD. HH:MM" (e.g., "2025. 12. 10. 11:49")
   # Convert to Hugo format: YYYY-MM-DDT00:00:00+09:00
   ```
@@ -429,7 +429,7 @@ User: "완료했습니다" or "Done"
 
 #### Step 4: Claude Downloads Images
 ```bash
-python3 download_naver_images.py naver.html "[slug]"
+python3 download_naver_images.py naver.md "[slug]"
 # Downloads to: static/images/posts/[slug]-01.jpg, [slug]-02.jpg, ...
 # Auto-converts to JPG format
 ```
@@ -449,7 +449,7 @@ Before providing preview links to user, verify the following counts match betwee
 1. **Image Count Verification:**
    ```bash
    # Count images in original Naver HTML
-   grep -o '<img' naver.html | wc -l
+   grep -o '<img' naver.md | wc -l
    
    # Count images in Hugo posts (should match for each language)
    grep -o '<img' content/en/posts/[slug].md | wc -l
@@ -469,7 +469,7 @@ Before providing preview links to user, verify the following counts match betwee
 3. **Naver Link Count Verification:**
    ```bash
    # Count Naver blog links in original
-   grep -o 'blog.naver.com/tokyomate' naver.html | wc -l
+   grep -o 'blog.naver.com/tokyomate' naver.md | wc -l
    
    # Count converted links + placeholders in Hugo posts (should match for each language)
    # Count: internal links (/posts/) + TODO placeholders
@@ -1360,7 +1360,7 @@ featured_image: "/images/posts/tokyo-guide-01.jpg"  # Social media preview
 python3 download_naver_images.py <HTML_FILE> <POST_SLUG>
 
 # Example:
-python3 download_naver_images.py naver_blog.html tokyo-restaurant-guide
+python3 download_naver_images.py naver.md tokyo-restaurant-guide
 ```
 
 See `README_IMAGE_DOWNLOAD.md` for detailed instructions.
@@ -1834,7 +1834,7 @@ git push -u origin <your-branch>
 # STEP 1: Fetch Naver Blog Content
 # User provides Naver blog URL
 python3 fetch_content.py "https://blog.naver.com/tokyomate/[POST_ID]"
-# Output: naver.html
+# Output: naver.md
 
 # STEP 2: Analyze HTML & Check LINK_MAPPING.md
 # - Count images (including grouped images)
@@ -1866,7 +1866,7 @@ python3 fetch_content.py "https://blog.naver.com/tokyomate/[POST_ID]"
 #    - Add new unmapped links to pending table
 
 # STEP 5: Download Images
-python3 download_naver_images.py naver.html "[slug]"
+python3 download_naver_images.py naver.md "[slug]"
 # Downloads all images to static/images/posts/[slug]-01.jpg, 02.jpg, etc.
 
 # STEP 6: Local Preview
@@ -2229,7 +2229,7 @@ Due to Naver's security restrictions, images must be downloaded manually. Follow
 **Step 1: Save Naver Blog HTML**
 - Visit the Naver blog post
 - Save the complete HTML (Ctrl+S or right-click → Save As)
-- Save to repository root (e.g., `naver_post.html`)
+- Save to repository root (e.g., `naver.md`)
 
 **Step 2: Analyze HTML and Create English/Japanese Versions Only**
 - Count total images in the HTML
@@ -2373,7 +2373,7 @@ See `/LINK_MAPPING.md` for complete tracking database with 30 mapped posts.
 **Step 3: Validation and Image Download (Integrated)**
 - Run integrated validation and download script:
   ```bash
-  python3 download_naver_images.py naver.html post-slug
+  python3 download_naver_images.py naver.md post-slug
   ```
 - Script performs automated validation:
   - Analyzes Naver HTML (extracts all images, removes ad blocks)
@@ -2497,7 +2497,7 @@ None
 
 1. Download images using migration script:
    ```bash
-   python3 download_naver_images.py naver.html [slug]
+   python3 download_naver_images.py naver.md [slug]
    ```
 
 2. Commit and push images ([X] files)
@@ -2552,7 +2552,7 @@ Before creating the PR, ensure:
 # (NO Korean version created)
 
 # Step 3: Run integrated validation and download script
-python3 download_naver_images.py naver.html marunouchi-illumination-2025
+python3 download_naver_images.py naver.md marunouchi-illumination-2025
 # Script validates (count, order, numbering) then downloads if valid
 # Downloads to: static/images/posts/marunouchi-illumination-2025-01.jpg
 #               static/images/posts/marunouchi-illumination-2025-02.jpg
@@ -2574,7 +2574,7 @@ git push -u origin claude/translate-korean-doc-01HHJyhanP2K842HsBJapxDG
 #   - Include: Summary, Changes, Link Conversion Details, Testing, Files Changed
 
 # Step 6: After PR merge - Download and commit images
-python3 download_naver_images.py naver.html marunouchi-illumination-2025
+python3 download_naver_images.py naver.md marunouchi-illumination-2025
 git add static/images/posts/marunouchi-illumination-2025-*.jpg
 git commit -m "Add images for Marunouchi Illumination 2025"
 git push
@@ -2620,7 +2620,7 @@ figure_pattern = re.compile(
 python3 download_naver_images.py <naver_html_file> <post-slug>
 
 # Example:
-python3 download_naver_images.py naver.html japan-convenience-store-shopping-best-10
+python3 download_naver_images.py naver.md japan-convenience-store-shopping-best-10
 ```
 
 **Dependencies:**
@@ -2690,7 +2690,7 @@ git push -u origin claude/branch-name     # Push to branch
 #         - JA: Japanese cultural nuances and expressions
 #         - Proper localization, not just translation
 # Step 3: Run integrated validation & download script
-python3 download_naver_images.py naver.html post-slug
+python3 download_naver_images.py naver.md post-slug
 #         - Validates image count/order against Hugo markdown
 #         - Downloads only if validation passes
 #         - Auto-converts to JPG format
