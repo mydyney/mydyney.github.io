@@ -118,7 +118,4 @@ translationKey: "homepage"
   </div>
 </div>
 
-<div class="intro-section">
-  <h2>东京观光，更轻松愉快</h2>
-  <p>为您介绍旅游指南书上没有的真正东京面貌。从米其林餐厅到只有当地人知道的隐藏名店，东京伴侣只提供实地考察确认过的信息。</p>
-</div>
+
