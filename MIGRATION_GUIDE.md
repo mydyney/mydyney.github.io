@@ -209,10 +209,16 @@ git push
   - Only translate what exists in the source HTML
 
 * **Preserve ALL formatting from original HTML:**
-  - Bold text (`<b>`, `<strong>`) → Markdown bold (`**text**`)
+  - Bold text (`<b>`, `<strong>`) → **Keep as HTML** (`<b>text</b>` or `<strong>text</strong>`)
+  - Lists and bullet points → **Keep as HTML** (`<ul>`, `<li>` tags)
   - Section headings and subheadings → Markdown headings (`##`, `###`)
   - Quotation blocks → Markdown blockquotes (`>`)
-  - Lists and bullet points → Markdown lists
+
+  **⚠️ Why HTML for Bold & Lists:**
+  - Markdown syntax (`**bold**`, `*`, `-` for lists) does NOT render inside `<div class="blog-container">`
+  - Markdown symbols appear literally (e.g., `**text**` shows as `**text**` instead of bold)
+  - **Solution:** Always use HTML tags (`<b>`, `<strong>`, `<ul>`, `<li>`) for these elements
+  - Headings (`##`) and blockquotes (`>`) still work with Markdown
 
 * **Match original structure exactly:**
   - Same number of sections

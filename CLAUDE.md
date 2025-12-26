@@ -384,6 +384,7 @@ The AdSense script is loaded in the `<head>` section of every page via `head-add
 - Use common CSS classes from `/static/css/blog-post-common.css`
 - Wrap post content in `<div class="blog-container">`
 - DO NOT add inline `<style>` blocks (use shared CSS instead)
+- **⚠️ IMPORTANT:** Inside `blog-container`, use HTML for bold (`<b>`, `<strong>`) and lists (`<ul>`, `<li>`) - Markdown syntax doesn't render
 
 ### Code Style
 
