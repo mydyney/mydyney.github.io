@@ -117,5 +117,3 @@ translationKey: "homepage"
     </div>
   </div>
 </div>
-
-
