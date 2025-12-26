@@ -280,8 +280,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 年末年始混雑する空港免税店で並ばないでください。東京駅でしか買えない「東京バナナクリームブリュレ」は賞味期限も20日と余裕があって事前に買うのにちょうど良いです。(※ 1階ギフトキオスクなど販売場所が決まっているので下記の記事で場所を必ず確認してから行ってください！)
 
-<!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224102752117 -->
-<strong>👉 東京駅東京バナナクリームブリュレ売り場＆価格総まとめ(賞味期限20日！)</strong>
+<strong>👉 <a href="/ja/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;">2026年東京年末年始休業・営業情報｜1月1日営業店舗 & 初売り完全整理</a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="東京駅おかしランド入口">

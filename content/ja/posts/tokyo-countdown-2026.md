@@ -273,10 +273,7 @@ A. 東京の冬の夜は思ったより寒いです（2～5℃）。長時間屋
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>→ 2025年12月31日東京タワー消灯スケジュールと新年初日ライトアップ</strong></a>
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224102752117
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ 2026年東京年末年始休業・営業情報｜1月1日営業店舗</strong></a>
+➡️ <a href="/ja/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;"><strong>→ 2026年東京年末年始休業・営業情報｜1月1日営業店舗</strong></a>
 
 ---
 

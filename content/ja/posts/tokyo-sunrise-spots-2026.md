@@ -183,10 +183,7 @@ featured_image: "/images/posts/tokyo-sunrise-spots-2026-01.jpg"
      Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>→ 2026年東京カウントダウンスポットBEST3（交通情報）</strong></a>
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224102752117
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ 2026年東京年末年始休業・営業情報【1月1日営業店舗】</strong></a>
+➡️ <a href="/ja/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;"><strong>→ 2026年東京年末年始休業・営業情報【1月1日営業店舗】</strong></a>
 
 ---
 
