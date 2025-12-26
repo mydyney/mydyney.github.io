@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-25
-> **Status:** ✅ Complete - 88 posts mapped
+> **Status:** ✅ Complete - 89 posts mapped
 
 ---
 
@@ -98,6 +98,7 @@ When migrating a Naver blog post to Hugo:
 | 224022065518 | don-quijote-shopping-guide-2025 | 2025-09-26 | ✅ |
 | 224035271300 | shinjuku-guide-2025 | 2025-10-09 | ✅ |
 | 224039113760 | japan-travel-discount-coupons-2025 | 2025-10-12 | ✅ |
+| 224122259609 | tokyo-sunrise-spots-2026 | 2025-12-25 | ✅ |
 | 223988228389 | roppongi-attractions-guide | 2024-09-02 | ✅ |
 | 223989943826 | ginza-guide-2025 | 2025-01-06 | ✅ |
 | 224100382618 | shinjuku-hotels-best-10 | 2025-12-06 | ✅ |

@@ -170,57 +170,20 @@ tags: ["toranomon-hills", "tokyo-observatory", "tokyo-restaurants"]  # ← ERROR
 ---
 ```
 
-### English-Japanese Tag Mapping
+### Tag Naming Conventions
 
-When creating new posts or converting existing content, use this mapping to ensure consistency across languages:
+**English-Japanese Tag Mapping:**
 
-| English Tag | Japanese Tag | Category |
-|-------------|--------------|----------|
-| `andaz-hotel` | `アンダーズホテル` | Hotels |
-| `anime-merchandise` | `アニメグッズ` | Shopping |
-| `azabudai-hills` | `麻布台ヒルズ` | Locations |
-| `azabujuban` | `麻布十番` | Locations |
-| `business-district` | `ビジネス街` | Areas |
-| `cash-only` | `現金のみ` | Payment |
-| `cosplay` | `コスプレ` | Culture |
-| `disneyland` | `ディズニーランド` | Attractions |
-| `family-events` | `家族イベント` | Events |
-| `gacha` | `ガチャ` | Entertainment |
-| `gashapon` | `ガシャポン` | Entertainment |
-| `halloween` | `ハロウィン` | Events |
-| `ikebukuro` | `池袋` | Locations |
-| `izakaya` | `居酒屋` | Dining |
-| `kabukicho` | `歌舞伎町` | Locations |
-| `michelin` | `ミシュラン` | Dining |
-| `observation-deck` | `展望台` | Attractions |
-| `pasmo` | `パスモ` | Transportation |
-| `shibuya` | `渋谷` | Locations |
-| `shinjuku` | `新宿` | Locations |
-| `sky-room-cafe` | `スカイルームカフェ` | Dining |
-| `solamachi` | `ソラマチ` | Shopping |
-| `suica` | `スイカ` | Transportation |
-| `sweets` | `スイーツ` | Food |
-| `t-market` | `Tマーケット` | Shopping |
-| `taiyaki` | `たい焼き` | Food |
-| `teamlab-borderless` | `チームラボボーダレス` | Attractions |
-| `ticket-discount` | `チケット割引` | Travel Tips |
-| `tokyo` | `東京` | Locations |
-| `tokyo-attractions` | `東京観光` | Travel |
-| `tokyo-festivals` | `東京祭り` | Events |
-| `tokyo-guide` | `東京ガイド` | Travel |
-| `tokyo-node` | `東京ノード` | Locations |
-| `tokyo-observatory` | `東京展望台` | Attractions |
-| `tokyo-restaurants` | `東京レストラン` | Dining |
-| `tokyo-shopping` | `東京ショッピング` | Shopping |
-| `tokyo-skytree` | `東京スカイツリー` | Attractions |
-| `tokyo-tower-view` | `東京タワービュー` | Views |
-| `toranomon-hills` | `虎ノ門ヒルズ` | Locations |
-| `traditional-food` | `和食` | Food |
-| `transportation` | `交通` | Travel |
-| `travel-tips` | `旅行情報` | Travel |
-| `2025` | `2025` | Years (keep as-is) |
+For complete tag mapping reference, see existing blog posts or use the conversion script `convert_tags_to_japanese.py`.
 
-**Tag Naming Conventions:**
+**Key Examples:**
+- `tokyo` → `東京`
+- `tokyo-restaurants` → `東京レストラン`
+- `tokyo-guide` → `東京ガイド`
+- `shinjuku` → `新宿`
+- `shibuya` → `渋谷`
+
+**Tag Format Rules:**
 
 - **English tags:** Use `kebab-case` (lowercase with hyphens)
   - ✅ `tokyo-restaurants`, `christmas-market`, `travel-tips`
@@ -228,71 +191,9 @@ When creating new posts or converting existing content, use this mapping to ensu
 
 - **Japanese tags:** Use natural Japanese text (hiragana, katakana, kanji)
   - ✅ `東京レストラン`, `クリスマスマーケット`, `旅行情報`
-  - ❌ No special formatting needed
-
-- **Proper nouns/Brand names:** Keep original form in both languages
-  - English: `t-market`, `tokyo-node`, `teamlab-borderless`
-  - Japanese: `Tマーケット`, `東京ノード`, `チームラボボーダレス`
 
 - **Numbers/Years:** Keep as-is in both languages
   - Both: `2025`, `2026`
-
-**Updating the Tag Mapping:**
-
-When you create a new tag that doesn't exist in the mapping above:
-
-1. **Add both English and Japanese versions** to the table above
-2. **Maintain alphabetical order** by English tag
-3. **Include category** for better organization
-4. **Update the conversion script** (`convert_tags_to_japanese.py`) with the new mapping:
-
-```python
-TAG_MAPPING = {
-    # ... existing mappings ...
-    "new-english-tag": "新しい日本語タグ",  # Add here
-    # ... rest of mappings ...
-}
-```
-
-5. **Document the update** in your commit message:
-```bash
-git commit -m "docs: Add new tag mapping for [tag-name]
-
-Added English-Japanese tag mapping:
-- English: new-english-tag
-- Japanese: 新しい日本語タグ
-- Category: [category-name]"
-```
-
-**Bulk Tag Conversion:**
-
-If you need to convert multiple posts at once, use the provided utility script:
-
-```bash
-# Convert all English tags to Japanese in Japanese posts
-python3 convert_tags_to_japanese.py
-
-# The script will:
-# 1. Scan all files in content/ja/posts/
-# 2. Replace English tags with Japanese equivalents
-# 3. Preserve tags already in Japanese
-# 4. Report number of files processed
-```
-
-**Verification:**
-
-Before committing tag changes, verify consistency:
-
-```bash
-# Check English posts have English tags
-grep "^tags:" content/en/posts/*.md | head -5
-
-# Check Japanese posts have Japanese tags
-grep "^tags:" content/ja/posts/*.md | head -5
-
-# Look for mixed language tags (should return nothing)
-grep "^tags:" content/ja/posts/*.md | grep -E "[a-z]+-[a-z]+"
-```
 
 ---
 
@@ -334,85 +235,24 @@ categories: ["Travel Guide"]  # ← ERROR!
 ---
 ```
 
-### English-Japanese Category Mapping
+### Category Naming Conventions
 
-When creating new posts, use this mapping to ensure category consistency:
+**English-Japanese Category Mapping:**
 
-| English Category | Japanese Category | Usage |
-|------------------|-------------------|-------|
-| `Travel Guide` | `旅行ガイド` | General travel guides |
-| `Travel Info` | `旅行情報` | Travel information and tips |
-| `Travel` | `旅行` | General travel content |
-| `Tokyo Travel Guide` | `東京旅行ガイド` | Tokyo-specific guides |
-| `Tokyo Travel Info` | `東京旅行情報` | Tokyo travel information |
-| `Tokyo Itinerary` | `東京旅行プラン` | Tokyo trip planning |
-| `Tokyo Sightseeing` | `東京観光` | Tokyo sightseeing spots |
-| `Tokyo Attractions` | `東京観光スポット` | Tokyo attractions |
-| `Restaurants` | `レストラン` | Restaurant content |
-| `Food & Dining` | `グルメ` | Food and dining |
-| `Food Guide` | `グルメガイド` | Food guides |
-| `Tokyo Food` | `東京グルメ` | Tokyo food content |
-| `Restaurant Reviews` | `レストランレビュー` | Restaurant reviews |
-| `Shopping` | `ショッピング` | Shopping content |
-| `Shopping & Guides` | `ショッピング・ガイド` | Shopping guides |
-| `Tokyo Shopping` | `東京ショッピング` | Tokyo shopping |
-| `Events` | `イベント` | Events |
-| `Events & Festivals` | `イベント・フェスティバル` | Events and festivals |
-| `Tokyo Events` | `東京イベント` | Tokyo events |
-| `Festival Calendar` | `イベントカレンダー` | Festival calendars |
-| `Festival Guide` | `フェスティバルガイド` | Festival guides |
-| `Transportation` | `交通` | Transportation guides |
-| `Disneyland` | `ディズニーランド` | Disneyland content |
-| `Christmas` | `クリスマス` | Christmas events |
-| `Shinjuku` | `新宿` | Shinjuku area |
-| `Shinjuku/Shin-Okubo` | `新宿・新大久保` | Shinjuku/Shin-Okubo area |
-| `Shibuya & Harajuku` | `渋谷・原宿` | Shibuya/Harajuku area |
-| `Roppongi/Hiroo` | `六本木・広尾` | Roppongi/Hiroo area |
-| `Meguro & Ebisu` | `目黒・恵比寿` | Meguro/Ebisu area |
-| `Shinbashi/Shiodome` | `新橋・汐留` | Shinbashi/Shiodome area |
-| `Yokohama` | `横浜` | Yokohama area |
-| `Yokohama & Kamakura` | `横浜・鎌倉` | Yokohama/Kamakura area |
-| `Narita Airport` | `成田空港` | Narita Airport |
-| `Omotesando` | `表参道` | Omotesando area |
-| `Ebisu` | `恵比寿` | Ebisu area |
-| `Autumn in Tokyo` | `東京の秋` | Autumn in Tokyo |
+For complete category mapping reference, see existing blog posts or use the conversion script `convert_categories_to_japanese.py`.
+
+**Common Categories:**
+- `Travel Guide` → `旅行ガイド`
+- `Tokyo Travel Guide` → `東京旅行ガイド`
+- `Food & Dining` → `グルメ`
+- `Shopping` → `ショッピング`
+- `Events` → `イベント`
 
 **Category Best Practices:**
 
 1. **Keep categories broad** - Use 1-2 categories per post
 2. **Use specific area tags** - For location-specific content, use area names as tags instead of categories
-3. **Consistency** - Stick to the mapping above for consistency across the site
-4. **Update the mapping** - When adding new categories, update both this table and the conversion script
-
-**Bulk Category Conversion:**
-
-Use the provided utility script to convert categories:
-
-```bash
-# Convert all English categories to Japanese in Japanese posts
-python3 convert_categories_to_japanese.py
-
-# The script will:
-# 1. Scan all files in content/ja/posts/
-# 2. Replace English categories with Japanese equivalents
-# 3. Preserve categories already in Japanese
-# 4. Report number of files processed
-```
-
-**Verification:**
-
-Before committing category changes, verify consistency:
-
-```bash
-# Check English posts have English categories
-grep "^categories:" content/en/posts/*.md | head -5
-
-# Check Japanese posts have Japanese categories
-grep "^categories:" content/ja/posts/*.md | head -5
-
-# Look for mixed language categories (should return nothing)
-grep "^categories:" content/ja/posts/*.md | grep -E '"[A-Z][a-z]'
-```
+3. **Consistency** - Stick to existing category patterns for consistency across the site
 
 ---
 
