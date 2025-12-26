@@ -202,6 +202,331 @@ mydyney.github.io/
 
 ## Development Workflows
 
+### Blog Migration Workflow (Naver → Hugo)
+
+Complete step-by-step process for migrating a Naver blog post to Hugo:
+
+#### Step 1: User Provides Naver Blog URL
+```
+User: "https://blog.naver.com/tokyomate/[POST_ID]"
+```
+
+**⚠️ CRITICAL AGENT RULE:**
+- **NEVER** try to fetch/scrape the Naver blog URL using browser tools or `read_url_content`.
+- **ALWAYS** wait for the user to provide the content in `naver.md`.
+- The user will manually copy the HTML to `naver.md` because of Naver's anti-bot protections.
+
+#### Step 2: User Updates naver.md with Blog Content
+```
+Claude: "Please update naver.md with the blog HTML content."
+User: (Copies HTML from Naver blog and saves to naver.md)
+User: "완료했습니다" or "Done"
+```
+
+**Instructions for User:**
+- Open the Naver blog post in browser
+- Copy the HTML content of the blog post
+- Save it to `naver.md` in the project root directory
+- Confirm completion
+
+#### Step 3: Claude Analyzes and Creates Blog Posts
+
+**Analysis:**
+- **Extract publish date from Naver HTML:**
+  ```bash
+  # Find the publish date in the HTML
+  grep -o 'se_publishDate[^>]*>[^<]*' naver.md
+  # Format: "YYYY. MM. DD. HH:MM" (e.g., "2025. 12. 10. 11:49")
+  # Convert to Hugo format: YYYY-MM-DDT00:00:00+09:00
+  ```
+  - **Location in HTML:** `<span class="se_publishDate pcol2">YYYY. MM. DD. HH:MM</span>`
+  - **Use this date** for the `date:` field in frontmatter for all three language versions
+  - **Critical:** Using correct publish date ensures posts appear in proper chronological order on homepage
+- Count images and verify order
+- Load LINK_MAPPING.md for internal link conversion
+- Identify all Naver links in content
+
+**Content Creation:**
+- Create `content/en/posts/[slug].md`
+- Create `content/ja/posts/[slug].md`
+- Create `content/zh-cn/posts/[slug].md`
+- ⚠️ **CRITICAL: COMPLETE CONTENT TRANSLATION**
+  * **Translate ALL text from original blog without omission:**
+    - Every paragraph, sentence, and description must be translated
+    - Do NOT summarize or skip any content
+    - Do NOT add content not in the original
+    - Maintain the same level of detail as the original
+  * **NEVER add content not in original blog:**
+    - Do NOT add headings that don't exist in original
+    - Do NOT add descriptions or explanations not in original
+    - Do NOT add formatting not in original
+    - Only translate what exists in the source HTML
+  * **Preserve ALL formatting from original HTML:**
+    - Bold text (`<b>`, `<strong>`) → Markdown bold (`**text**`)
+    - Section headings and subheadings → Markdown headings (`##`, `###`)
+    - Quotation blocks → Markdown blockquotes (`>`)
+    - Lists and bullet points → Markdown lists
+  * **Match original structure exactly:**
+    - Same number of sections
+    - Same heading hierarchy
+    - Same text emphasis patterns
+  * **Never add extra formatting not in original**
+- ⚠️ **CRITICAL: IMAGE POSITIONING & CAPTIONS**
+  * **Verify ALL images from original blog:**
+    - Content MUST match image positions EXACTLY
+    - Same image at same position = same content context
+    - Never add content not in original blog
+  * **Image grouping is MANDATORY:**
+    - Check for grouped images: Identify if images appear side-by-side in original
+    - Preserve grouping: Use appropriate `image-group-X` class (see "Grouped Images" section below)
+    - Group image positions are MANDATORY - do NOT place grouped images separately
+  * **Preserve figcaptions - MANDATORY:**
+    - **Extract ALL image captions from original HTML:**
+      * Look for `<div class="se-module se-module-text se-caption">` in Naver HTML
+      * Caption text is inside `<span class="se-fs- se-ff-">` tags
+      * EVERY image with a caption MUST have figcaption in Hugo markdown
+    - **REQUIRED: Use HTML for ALL images, not Markdown:**
+      * Every single image must be wrapped in a `<figure>` tag.
+      * Image groups MUST use specific `image-group-X` containers.
+    - **Use proper figcaption format with styling:**
+      ```html
+      <figure>
+        <img src="/images/posts/example.jpg" alt="Description">
+        <figcaption style="font-size: 0.85em; text-align: center;">Caption text here</figcaption>
+      </figure>
+      ```
+      * **Styling rules:**
+        - Font size: `0.85em` (smaller than body text)
+        - Text alignment: `center`
+        - These styles are MANDATORY for all figcaptions
+    - **Translation rules:**
+      * Translate caption to target language (EN/JA/ZH-CN)
+      * Keep same tone and style as original
+      * **Preserve source links if present in original:**
+        - If original caption has a link (e.g., "출처" link), include it in figcaption
+        - Format: `Caption text (<a href="URL" target="_blank">Source</a>)`
+        - Translate link text: "출처" → "Source" (EN), "出典" (JA), "来源" (ZH-CN)
+      * Do NOT add captions if original doesn't have them
+      * Do NOT skip captions that exist in original
+- ⚠️ **CRITICAL: HTML STRUCTURE ANALYSIS**
+  * **Completely analyze original HTML to identify and preserve exact positions:**
+    - **Tables:** Count all tables and note their exact positions in content flow
+    - **Links:** Identify all internal/external links and their positions
+    - **Image Groups:** Detect grouped images (side-by-side) and their positions
+  * **Position Mapping:**
+    - Map each element's position relative to surrounding text/headings
+    - Preserve the exact order: text → table → text → image group → text
+    - NEVER reorder or relocate these elements from original positions
+  * **Strict Linear Order (MANDATORY):**
+    - **FOLLOW** the HTML element order exactly (e.g. Text -> Image -> Text).
+    - **DO NOT** reorder elements to group "sections" together if the HTML has them interleaved.
+    - **Example:** If HTML has `[Text A] -> [Image B] -> [Text C]`, you **MUST** output `[Text A] -> [Image B] -> [Text C]`.
+    - **NEVER** move `[Text C]` to be before `[Image B]` just because it belongs to the same topic as `[Text A]`.
+  * **Inline Internal Links (MANDATORY):**
+    - Treat blog post links (e.g., "See also [Title]") appearing in the middle of the text as **CONTENT**, not footer material.
+    - **NEVER** move these links to a "Related Posts" section at the bottom.
+    - **MUST** be placed exactly where they appear in the source HTML (e.g., between two paragraphs).
+  * **Link Preservation (MANDATORY):**
+    - **Duplicate URLs:** If a URL appears multiple times in different contexts (e.g., once as an image source, once as a "Check Availability" text link), you **MUST PRESERVE BOTH**. Never de-duplicate based on URL.
+    - **Actionable Links:** Links that imply an action (e.g., "Reserve here", "Check availability", "Open in Google Maps") **MUST** be preserved as distinct, visible elements (e.g., Callout blocks or bold text). **NEVER** summarize them away or merge them into a general description.
+  * **Verification:**
+    - **Step 0: Content Inventory (CRITICAL):** Before writing, list ALL headers/sections from the original HTML (e.g., 1F, 2F, 3F, B1) to ensure NOTHING is missed.
+    - Cross-reference original HTML structure with created Hugo markdown
+    - Ensure tables appear at same position as original
+    - Ensure image groups maintain original grouping and position
+    - Ensure links appear in same context as original
+  * **Strict Source Adherence (CRITICAL):**
+    - **NO NEW INFORMATION:** Do NOT create, guess, or hallucinations listing details not present in the source HTML.
+    - **Translate ONLY what exists:** If the source says "X is popular", do not add "and stylish". Stick to the source meaning.
+    - **Exact List Match:** If the source lists 3 brands, do not list 5. If it lists 5, do not list 3. Match the item count exactly.
+- ⚠️ **CRITICAL: TABLE FORMATTING**
+  * **Use HTML tables, NOT markdown tables:**
+    - Extract table structure from original Naver HTML
+    - Preserve header row styling (background-color: #f7f7f7)
+    - Center-align all table cells
+    - Use clean, simplified HTML (remove unnecessary Naver classes)
+  * **Table format:**
+    ```html
+    <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+      <thead>
+        <tr style="background-color: #f7f7f7;">
+          <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">Header 1</th>
+          <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">Header 2</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Data 1</td>
+          <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Data 2</td>
+        </tr>
+      </tbody>
+    </table>
+    ```
+  * **Styling rules:**
+    - Header background: `#f7f7f7`
+    - Cell padding: `12px`
+    - Text alignment: `center`
+    - Border: `1px solid #ddd`
+    - Table width: `100%`
+    - Margin: `20px 0`
+- ⚠️ **CRITICAL: CULTURAL ADAPTATION & WRITING STYLE**
+
+  **1. Translation System Prompts (USE THESE):**
+
+  * **English (EN):**
+    > "You are a friendly travel blogger specializing in Tokyo travel for Western tourists. Please translate/transcreate the following Korean text into English. Guidelines:
+    > Tone: Conversational, enthusiastic, and helpful. Like a local friend giving advice.
+    > Keywords to weave in: Hidden gems, Authentic vibe, Local experience.
+    > Goal: Highlight the unique experience from a foreigner's perspective but ensure the practical info is accurate."
+
+  * **Japanese (JA):**
+    > "あなたは東京の魅力を発信する韓国人ブロガーです。以下の韓国語の文章を、日本の読者に向けて自然な日本語に翻訳・リライトしてください。 ガイドライン:
+    > トーン: 丁寧語（です・ます調）。親しみやすく、かつ謙虚な姿勢で。
+    > ポイント: 「韓国人の視点」からの新鮮な発見や、「コスパ」「穴場」「映え」などのキーワードを自然に盛り込んでください。"
+
+  * **Chinese (ZH-CN):**
+    > "你是一位精通东京旅游的小红书(Xiaohongshu)博主。请把下面的韩文文章改写成中文（简体）。 指南:
+    > 语气: 热情、直接、充满干货（Useful info）。使用一些流行的网络用语。
+    > 关键词: 必须包含 '打卡', '避雷', '宝藏店铺' 等吸引人的词汇。
+    > 排版: 适当添加 emoji (📍, ✨, 📷) 让文章读起来更有趣。"
+
+  **2. Specific Adaptation Rules:**
+
+  * **English (EN)**:
+    - Use engaging, traveler-friendly expressions (American English)
+    - Focus on what international visitors want to know
+  * **Japanese (JA)**:
+    - **NEVER use "日本の" prefix** - readers are Japanese (e.g., "日本のコーヒー" → "コーヒー")
+    - Use specific location names instead of "Japan"
+    - **DELETE all tax-free/免税 sections** - only relevant to foreign tourists
+  * **Chinese (ZH-CN)**:
+    - Use popular travel terminology: "攻略", "性价比", "必打卡"
+    - Focus on practical information tourists need
+- ⚠️ **CRITICAL: NO AI WRITING TRACES**
+  * **NEVER leave any signs that content was AI-generated**
+  * Avoid overly formal or robotic language patterns
+  * No generic AI phrases like "In conclusion", "It's worth noting", "comprehensive guide"
+  * Use natural, human-like variations in sentence structure
+  * Include personal touches and authentic observations
+  * Write as a real travel blogger would, not as an AI assistant
+- ⚠️ **CRITICAL: LINK HANDLING**
+  * **MANDATORY: Check LINK_MAPPING.md FIRST**
+    - Load `LINK_MAPPING.md` before creating any content
+  * **Link Conversion Rules (MANDATORY):**
+    - **Step 1: VERIFY EXISTENCE:** Before creating a live link, you **MUST** verify that the destination file actually exists in the `content` directory (e.g., using `ls`).
+    - **Step 2: Apply Link:**
+        - **If file EXISTS:** Replace Naver URL with Hugo internal link: `/posts/[slug]/`
+        - **If file DOES NOT EXIST (Unmigrated):** You **MUST** use the styled placeholder format below. **NEVER** create a dead link to a non-existent file.
+    - **ALL** internal links from the original Naver post MUST be included (either as live link or placeholder). **DO NOT SKIP ANY LINK.**
+  * **Placeholder Format for Unmigrated Posts:**
+    ```html
+    <!-- TODO: Update link after migration
+         Naver: https://blog.naver.com/tokyomate/[POST_ID]
+         Hugo: /posts/[SLUG]/ -->
+    <p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>[Link Text]</strong></a><br>
+    ```
+  * **Order:** All links MUST be included in the exact same order as the original post
+  * **Google Maps:** Standardize ALL map links with `📍` emoji suffix
+    * Format: `[Link Text](https://maps.app.goo.gl/...) 📍`
+  * **After Content Creation:**
+    - Add unmigrated Naver URLs to "Pending References" section in LINK_MAPPING.md
+    - This creates a TODO list for future migrations
+
+**LINK_MAPPING.md Updates:**
+- Add new entry to Quick Reference Table
+- Add slug to `declare -A MAPPINGS` array
+- Check and update Pending References
+- Update placeholder links in existing posts
+
+#### Step 4: Claude Downloads Images
+```bash
+python3 download_naver_images.py naver.md "[slug]"
+# Downloads to: static/images/posts/[slug]-01.jpg, [slug]-02.jpg, ...
+# Auto-converts to JPG format
+```
+
+#### Step 5: Claude Provides Local Preview Links
+```
+EN: http://localhost:1313/posts/[slug]/
+JA: http://localhost:1313/ja/posts/[slug]/
+```
+
+#### Step 5.5: Claude Verifies Content Completeness
+
+**MANDATORY VERIFICATION CHECKLIST:**
+
+Before providing preview links to user, verify the following counts match between original Naver HTML and created Hugo posts:
+
+1. **Image Count Verification:**
+   ```bash
+   # Count images in original Naver HTML
+   grep -o '<img' naver.md | wc -l
+   
+   # Count images in Hugo posts (should match for each language)
+   grep -o '<img' content/en/posts/[slug].md | wc -l
+   grep -o '<img' content/ja/posts/[slug].md | wc -l
+   grep -o '<img' content/zh-cn/posts/[slug].md | wc -l
+   ```
+
+2. **Figcaption Count Verification:**
+   ```bash
+   # Count captions in original (look for se-caption or similar)
+   # Count figcaptions in Hugo posts (should match for each language)
+   grep -o '<figcaption' content/en/posts/[slug].md | wc -l
+   grep -o '<figcaption' content/ja/posts/[slug].md | wc -l
+   grep -o '<figcaption' content/zh-cn/posts/[slug].md | wc -l
+   ```
+
+3. **Naver Link Count Verification:**
+   ```bash
+   # Count Naver blog links in original
+   grep -o 'blog.naver.com/tokyomate' naver.md | wc -l
+   
+   # Count converted links + placeholders in Hugo posts (should match for each language)
+   # Count: internal links (/posts/) + TODO placeholders
+   grep -E '(/posts/|TODO: Update link)' content/en/posts/[slug].md | wc -l
+   grep -E '(/posts/|TODO: Update link)' content/ja/posts/[slug].md | wc -l
+   grep -E '(/posts/|TODO: Update link)' content/zh-cn/posts/[slug].md | wc -l
+   ```
+
+**Verification Report Format:**
+```
+✅ Image Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
+✅ Caption Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
+✅ Link Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
+```
+
+**If counts don't match:**
+- Review original HTML to find missing images/captions/links
+- Update all three language versions before providing preview links
+- Re-verify counts until all match
+
+#### Step 6: User Reviews and Confirms
+```
+User: "OK" or provides feedback
+```
+
+#### Step 7: Claude Deploys to GitHub
+```bash
+git add .
+git commit -m "Add [slug] blog post (EN/JA)
+
+New Content:
+- Created comprehensive [topic] guide
+- Added [N] images
+- Both English and Japanese versions
+
+Link Updates:
+- Updated LINK_MAPPING.md
+- Activated links in [N] existing posts
+
+Naver ID: [POST_ID]
+Slug: [slug]"
+git push
+```
+
+---
+
 ### Local Development
 
 ```bash
