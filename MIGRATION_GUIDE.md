@@ -67,6 +67,100 @@ User: "완료했습니다" or "Done"
 
 ### Step 3: Claude Analyzes and Creates Blog Posts
 
+**⚠️ IMPORTANT: Incremental Creation Workflow**
+
+To ensure quality and allow for early feedback, follow this incremental approach:
+
+**Step 3.1: Analysis Phase**
+- Extract publish date from Naver HTML
+- Count images and verify order
+- Load LINK_MAPPING.md for internal link conversion
+- Identify all Naver links in content
+
+**Step 3.1.5: Handling Long Naver Posts (Section-by-Section Approach)**
+
+When encountering exceptionally long Naver posts (1,000+ lines of HTML), use a section-by-section creation approach:
+
+**When to Use:**
+- Naver HTML exceeds 1,000 lines
+- Post contains 10+ tables or extensive lists
+- Content is highly structured (e.g., comprehensive guides, store listings)
+- Risk of exceeding response length limits
+
+**Workflow:**
+1. **Analyze and Plan:**
+   - View entire `naver.md` to understand structure
+   - Identify logical section breaks (headings, topics)
+   - Create mental outline of 5-7 major sections
+
+2. **Section-by-Section Creation:**
+   - Generate English version section by section
+   - Each section should be complete with:
+     - Proper markdown formatting
+     - Converted tables
+     - Internal link placeholders
+     - Images with captions
+   - **DO NOT** request approval after each section
+   - Continue until entire post is complete
+
+3. **Integration:**
+   - Combine all sections into single cohesive file
+   - Ensure consistent formatting throughout
+   - Verify all sections flow naturally
+   - Check that front matter is complete
+
+4. **User Review:**
+   - Present complete English version for review
+   - Wait for user "OK" before proceeding to JA/ZH-CN
+
+**Example Structure:**
+```markdown
+## Section 1: Introduction + Warning
+(Generate content)
+
+## Section 2: Hatsuuri Strategy  
+(Generate content)
+
+## Section 3: Places Open on Jan 1
+(Generate content)
+
+## Section 4: Observatory Hours
+(Generate content with tables)
+
+## Section 5: Outlets
+(Generate content)
+
+## Section 6: Transportation
+(Generate content)
+
+## Section 7: Summary
+(Generate content)
+```
+
+**Benefits:**
+- Maintains focus on each section
+- Reduces risk of incomplete content
+- Easier to verify accuracy
+- Better handling of complex tables
+- Avoids response truncation
+
+**Step 3.2: Create English Version FIRST**
+- Create `content/en/posts/[slug].md`
+- Apply all content creation guidelines (see below)
+- **STOP and request user review**
+- Wait for user "OK" before proceeding
+
+**Step 3.3: Create Japanese & Chinese Versions (After EN Approval)**
+- Create `content/ja/posts/[slug].md`
+- Create `content/zh-cn/posts/[slug].md`
+- Apply same guidelines with language-specific adaptations
+
+**Step 3.4: Update LINK_MAPPING.md**
+- Add new entry to Quick Reference Table
+- Add slug to `declare -A MAPPINGS` array
+- Check and update Pending References
+- Update placeholder links in existing posts
+
 **Analysis:**
 
 - **Extract publish date from Naver HTML:**
@@ -85,10 +179,6 @@ User: "완료했습니다" or "Done"
 - Identify all Naver links in content
 
 **Content Creation Requirements:**
-
-- Create `content/en/posts/[slug].md`
-- Create `content/ja/posts/[slug].md`
-- Create `content/zh-cn/posts/[slug].md`
 
 **LINK_MAPPING.md Updates:**
 - Add new entry to Quick Reference Table
