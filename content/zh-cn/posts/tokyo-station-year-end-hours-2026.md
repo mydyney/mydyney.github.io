@@ -280,8 +280,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 别在年末拥挤的机场免税店排队。只有东京站才能买到的「东京香蕉焦糖布丁」保质期也有20天，很适合提前买。(※ 在1楼礼品亭等指定地点销售，一定要在下面文章中确认位置后再去！)
 
-<!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224102752117 -->
-<strong>👉 东京站东京香蕉焦糖布丁销售地点＆价格总整理(保质期20天！)</strong>
+<strong>👉 <a href="/zh-cn/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;">2026年东京年末年初休业·营业信息｜1月1日营业店铺 & 初卖完全整理</a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="东京站零食乐园入口">
