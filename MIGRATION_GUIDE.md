@@ -383,6 +383,7 @@ git push
   - Treat blog post links (e.g., "See also [Title]") appearing in the middle of the text as **CONTENT**, not footer material.
   - **NEVER** move these links to a "Related Posts" section at the bottom.
   - **MUST** be placed exactly where they appear in the source HTML (e.g., between two paragraphs).
+  - **Use left alignment** for Naver internal link sections (not centered).
 
 * **Link Preservation (MANDATORY):**
   - **Duplicate URLs:** If a URL appears multiple times in different contexts (e.g., once as an image source, once as a "Check Availability" text link), you **MUST PRESERVE BOTH**. Never de-duplicate based on URL.
