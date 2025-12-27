@@ -111,6 +111,7 @@ When migrating a Naver blog post to Hugo:
 | 224110207709 | tokyo-station-year-end-hours-2026 | 2025-12-18 | ✅ |
 | 224101626196 | shinjuku-chuo-park | 2025-12-18 | ✅ |
 | 224106627092 | shibuya-parco-shopping-guide | 2025-12-12 | ✅ |
+| 224106448442 | shibuya-parco-nintendo-pokemon-guide | 2025-12-13 | ✅ |
 | 224105736326 | shibuya-human-made-offline-store-guide | 2025-12-11 | ✅ |
 | 224107954391 | shibuya-station-coin-locker-luggage-storage-guide | 2025-12-13 | ✅ |
 | 223689247336 | miyashita-park-illumination-2024 | 2024-12-17 | ✅ |
@@ -429,6 +430,7 @@ declare -A MAPPINGS=(
   ["223987115708"]="kaneko-hannosuke-roppongi-tempura"
   ["224100382618"]="shinjuku-hotels-best-10"
   ["224106627092"]="shibuya-parco-shopping-guide"
+  ["224106448442"]="shibuya-parco-nintendo-pokemon-guide"
   ["224107954391"]="shibuya-station-coin-locker-luggage-storage-guide"
   ["224105736326"]="shibuya-human-made-offline-store-guide"
 )
