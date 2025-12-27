@@ -50,9 +50,6 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 
 <strong>📌 优惠信息:</strong> 池袋除了万圣节节日外，还有<strong>阳光城、宝可梦中心、Animate</strong>等看点丰富的地方。万圣节节日前后一起游览最合适的「池袋完美攻略」请在下方确认，规划完美1日路线吧！
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/ikebukuro-complete-guide/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="/zh-cn/posts/ikebukuro-complete-guide/" style="color: #667eea;"><strong>东京池袋玩的地方完美攻略：东口（美食/御宅族）vs 西口（艺术）推荐路线全汇总</strong></a></strong>
 
 <figure>
@@ -147,14 +144,8 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 
 <strong>⭐ 一起看更好的东京旅行攻略</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /zh-cn/posts/omotesando-guide-2025/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>表参道完美攻略（与南瓜游行一起享受）</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/roppongi-attractions-guide
-     Hugo: /zh-cn/posts/roppongi-attractions-guide/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>六本木完美攻略（与万圣节集章活动一起享受）</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

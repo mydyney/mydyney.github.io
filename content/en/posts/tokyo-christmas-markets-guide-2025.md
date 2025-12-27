@@ -133,9 +133,6 @@ The <strong>'Original Commemorative Mug'</strong> that's hugely popular every ye
 Ueno Park, where the market is held, is home to Japan's top cultural facilities including <strong>Tokyo National Museum</strong> and <strong>National Museum of Western Art</strong>. We recommend exploring the museums during the day, then heading to the Christmas market in the evening.
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /posts/ueno-ameyoko-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Complete Course from Ameyoko Market to Park</strong></a>
 
 <figure>
@@ -200,9 +197,6 @@ Before the illumination lights up, we recommend visiting the 'Evangelion 30th An
 <a href="/posts/evangelion-30th-roppongi-2025/" style="color: #667eea;"><strong>➡️ Evangelion 30th Anniversary Exhibition at Roppongi Hills Tokyo City View (ALL OF EVANGELION)</strong></a>
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Complete Guide to Roppongi Attractions (Illumination, Restaurant Info)</strong></a>
 
 <strong>✅ View detailed info on 10 booth menus, glühwein, and mugs at the Christmas Market</strong>
@@ -261,15 +255,9 @@ If you have time, also check out another Christmas event at 'Yokohama Park' just
 This is a perfect day trip course from Tokyo. We recommend exploring <strong>'Chinatown'</strong> or <strong>'Minato Mirai'</strong> during the day, then heading to the Christmas market in the evening.
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /posts/yokohama-one-day-itinerary/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Yokohama 1-Day Course: Chinatown Restaurants, Akarenga Soko, Night View Complete Guide</strong></a>
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /posts/yokohama-minato-burari-ticket-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Yokohama All-Day Transportation Pass: Minato Burari Ticket</strong></a>
 
 <figure>
@@ -316,15 +304,9 @@ A massive fir tree glowing warmly in champagne gold lighting stands in the centr
 Before the market opens, we recommend experiencing fantastic media art at Azabudai Hills' other attraction <strong>'teamLab Borderless'</strong>, or enjoying Tokyo's panoramic view at the <strong>'Sky Room'</strong> observatory cafe.
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /posts/azabudai-hills-teamlab-borderless-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills teamLab Borderless, Museum Without Maps</strong></a>
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /posts/azabudai-hills-sky-room-cafe-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills Observatory Cafe Sky Room: Sunset & Night Views</strong></a>
 
 <div class="image-group-2">
@@ -382,9 +364,6 @@ The Tembo Deck at 350m and Tembo Galleria at 450m are decorated with Christmas t
 Before the market opens, we recommend exploring <strong>'Tokyo Solamachi'</strong> shopping mall right below Skytree, or combining it with a stroll through <strong>Asakusa's</strong> Sensoji Temple and Nakamise-dori across the river.
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /posts/asakusa-complete-guide/ -->
 <a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ Tokyo Asakusa Attractions & Restaurant Complete Guide</strong></a>
 
 <figure>
@@ -447,9 +426,6 @@ A massive 14m-tall 'Christmas Pyramid' will be installed. (World's first with 2 
 Before the market opens, we recommend shopping and cafe hopping in nearby <strong>'Omotesando'</strong>, or heading to <strong>'Shinjuku'</strong> for a stroll through Shinjuku Gyoen.
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /posts/omotesando-guide-2025/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Omotesando Complete Guide (Coffee, Shopping, Restaurants)</strong></a>
 
 <!-- Link updated -->
@@ -547,9 +523,6 @@ At Clock Plaza, <strong>'The Westin Tokyo'</strong> operates its own food truck.
 Before the illumination starts, we recommend enjoying beer tasting at the <strong>'Yebisu Beer Museum (Yebisu Brewery Tokyo)'</strong> right next door, or having lunch at one of the stylish surrounding restaurants.
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032769630
-     Hugo: /posts/yebisu-complete-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Ebisu Must-Visit Spots: From Garden Place to Beer Museum</strong></a>
 
 <figure>
@@ -571,15 +544,9 @@ We hope this guide helps you find the perfect place that matches your taste and 
 <strong>⭐ Related Articles</strong>
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
 <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>➡️ Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Department Stores, etc.)</strong></a>
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /posts/don-quijote-shopping-guide-2025/ -->
 <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>➡️ 2025 Japan Don Quijote Shopping List Must-Haves & Tax-Free Guide</strong></a>
 
 <h2>🍁 Wait! Traveling Late November to Early December?</h2>

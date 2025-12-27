@@ -277,7 +277,7 @@ Yes! Many family events including Santa greetings, choir performances, and limit
 - Santa Greeting dates: 11/22-24, 11/29, 11/30, 12/20, 12/21, 12/25
 
 🎁 <strong>Want to see last year's (2024) atmosphere?</strong>
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223671427079 Hugo: /posts/azabudai-hills-christmas-market-review-2024/ --> <a href="#" style="color: #667eea;"><b>2024 Azabudai Hills Christmas Market Review (Including Tokyo Tower Night Views)</b></a>
+➡️ <a href="#" style="color: #667eea;"><b>2024 Azabudai Hills Christmas Market Review (Including Tokyo Tower Night Views)</b></a>
 
 <figure>
   <img src="/images/posts/azabudai-hills-christmas-market-2025-20.jpg" alt="Families taking photos under the champagne gold Christmas tree at Azabudai Hills Christmas Market">

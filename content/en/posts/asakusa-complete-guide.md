@@ -35,9 +35,6 @@ Tokyo's most authentic Japanese neighborhood experience awaits in <strong>Asakus
 - Haneda Airport: ~50 minutes
 - Narita Airport: ~85 minutes
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224007665631
-     Hugo: /posts/narita-to-asakusa-subway-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ [Details] How to Get from Narita Airport to Asakusa by Subway</strong></a>
 
 <figure>
@@ -49,9 +46,6 @@ Tokyo's most authentic Japanese neighborhood experience awaits in <strong>Asakus
 
 Every August, thousands of lanterns illuminate the Sumida River in a spectacular floating lantern festival (灯篭流し). If visiting Asakusa in summer, don't miss this magical experience!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223980220327
-     Hugo: /posts/tokyo-august-festivals-sumida-river/ -->
 <a href="#" style="color: #667eea;"><strong>🔗 Complete Guide to August Tokyo Festivals: Asakusa Sumida River Lantern Floating</strong></a>
 
 ## 🏮 2. Top 5 Asakusa Attractions & Activities
@@ -132,9 +126,6 @@ In the anime <strong>'Demon Slayer'</strong>, Tanjiro was overwhelmed by the cit
 
 A hidden gem on the 22nd floor of Asahi Beer headquarters, directly across from Asakusa. Enjoy a cold beer while taking in spectacular views of Tokyo Skytree and Sensoji's night scenery—the perfect way to end your day.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025343414
-     Hugo: /posts/asakusa-asahi-beer-sky-room-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Asakusa Asahi Beer Sky Room: Reopened as Tokyo's Best Night View Spot! (2025 Latest Info)</strong></a>
 
 ## 🍜 3. Asakusa Restaurant Recommendations (Tabelog 100 Best)
@@ -196,23 +187,14 @@ From Skytree observation deck discount booking tips to Solamachi shopping mall's
 
 ### 🚇 5 Minutes by Subway! Food & Shopping Paradise: Ueno
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /posts/ueno-ameyoko-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Ameyoko Market Restaurants to Ueno Park</strong></a>
 
 ### ⭐ More Great Tokyo Travel Guides
 
 <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>➡️ Tokyo Don Quijote Shopping List: Must-Buy Items & Discount Coupons Complete Guide</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031937227
-     Hugo: /posts/akihabara-complete-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Akihabara Attractions: Figure Shops, Restaurants, Gacha, Anime Pilgrimage Recommended Course Complete Guide</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /posts/hakone-day-trip-course/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Hakone Travel: Day Trip vs Ryokan Overnight Perfect Course Recommendations</strong></a>
 
 

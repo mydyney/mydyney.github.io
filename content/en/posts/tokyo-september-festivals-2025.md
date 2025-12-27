@@ -132,9 +132,6 @@ all in one comprehensive guide!</p>
 
 <p><em>A nighttime art festival where Roppongi streets transform into a giant art museum. This year spotlights Korean art, making it an extra special experience.</em></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024530348
-     Hugo: /posts/roppongi-art-night-guide/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ [See Details] Roppongi Art Night Recommended Lineup</strong></a></p>
 
 <table class="schedule-table">

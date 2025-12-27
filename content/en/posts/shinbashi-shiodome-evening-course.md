@@ -190,12 +190,6 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 
 - <strong><a href="https://maps.app.goo.gl/TDZjAWQ5jG2GLMf37" target="_blank">Kurobuta Tonkatsu Horiichi (黒豚とんかつ ほり壱)</a></strong>: Premium tonkatsu offering next-level flavor and juiciness of carefully selected Kagoshima black pork (Tabelog 100 Famous Restaurants 2024)
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915132048
-     Hugo: /posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915132048
-     Hugo: /posts/shinbashi-tonkatsu-horiichi/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Shinbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review</strong></a></strong>
 
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">Tonkatsu Akashi (とんかつ 明石)</a></strong>: Hidden affordable tonkatsu gem loved by local office workers (Tabelog 100 Famous Restaurants 5 times)
@@ -217,12 +211,6 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/fM4wBrz1iJVbpZbwswY8?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Sumiyaki Unafuji Yurakucho Online</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914321510
-     Hugo: /posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914321510
-     Hugo: /posts/sumiyaki-unafuji-yurakucho/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Eel Restaurant | Sumiyaki Unafuji Yurakucho Review</strong></a></strong>
 
 <figure>
@@ -239,18 +227,12 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 The complete opposite of Shinbashi's down-to-earth atmosphere, enjoy shopping and elegant nightlife in sophisticated, upscale streets. 24-hour Don Quijote shopping is also a great option.
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223989943826
-     Hugo: /posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots: Complete Recommended Course Guide</strong></a></strong>
 
 - <strong>🚝 15 Minutes by Monorail! Futuristic Night Views, Odaiba</strong>
 
 Shimbashi Station is the starting point of the Yurikamome to Odaiba. After enjoying round one at an izakaya, I recommend taking the Yurikamome to admire Odaiba's fantastic night views.
 
-<!-- TODO: Update link after migration
-     Naver: /posts/odaiba-ariake-toyosu-complete-guide/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>Tokyo Odaiba Must-Visit Spots: Complete One-Day Recommended Course</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

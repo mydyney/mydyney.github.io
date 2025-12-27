@@ -132,9 +132,6 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 
 <p><em>六本木整条街变身巨大美术馆的夜晚艺术盛典。今年特别展出韩国艺术，可以体验特别经历。</em></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024530348
-     Hugo: /zh-cn/posts/roppongi-art-night-guide/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 【详细了解】六本木艺术之夜 推荐阵容</strong></a></p>
 
 <table class="schedule-table">

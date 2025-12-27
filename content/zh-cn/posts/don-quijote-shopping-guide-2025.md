@@ -98,23 +98,14 @@ Q弹口感，老少咸宜的日本代表零食。
 
 <strong>⭐三得利威士忌全系列与官方价格可在下方文章确认！</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224014619007
-     Hugo: /zh-cn/posts/suntory-whisky-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">三得利威士忌日本官方价格指南（即将上线）</a></strong></p>
 
 <strong>⭐更多日本威士忌信息看这里！</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /zh-cn/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">山崎·响官方价格&礼品推荐完全攻略（即将上线）</a></strong></p>
 
 <strong>⭐獭祭等级差异与最新价格信息详见下方文章！</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /zh-cn/posts/dassai-sake-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">獭祭23、45、39日本官方价格指南（即将上线）</a></strong></p>
 
 <figure>
@@ -273,14 +264,8 @@ Q弹生奶油泡沫为特色的长青产品。按种类成套购买使用很不�
 
 <p><strong>➡️ <a href="/zh-cn/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;">日本便利店完全攻略！（7-11、全家、罗森对比完全指南）</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /zh-cn/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">山崎·响日本官方价格&礼品威士忌推荐完全攻略（即将上线）</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /zh-cn/posts/dassai-sake-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">獭祭23、45、39日本酒日本官方价格完全攻略（即将上线）</a></strong></p>
 
 

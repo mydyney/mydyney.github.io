@@ -17,9 +17,6 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
 以及与JR/地铁的对比，全部汇总。</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐想一目了然看新宿完整观光路线（餐厅·购物·夜景）吗？<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
 <a href="#" style="color: #667eea;"><b>新宿完全攻略</b></a></p>
 
 <figure>
@@ -259,15 +256,9 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
 - <strong>晚上：</strong> 乘坐返程巴士→抵达新宿→在NEWoMan周边用餐
 
 🎡 <strong>包括迪士尼在内的儿童乐园完整路线在这里</strong>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-kids-parks-guide
-     Hugo: /zh-cn/posts/shinjuku-kids-parks-guide/ -->
 <strong>➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式（三丽鸥、托马斯、读卖、东京巨蛋）</a></strong>
 
 🎠 <strong>迪士尼乐园信息：</strong>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/tokyo-disneyland-complete-guide
-     Hugo: /zh-cn/posts/tokyo-disneyland-complete-guide/ -->
 ➡️ <a href="#" target="_blank">东京迪士尼乐园完全攻略（门票、DPA、餐厅）</a>
 
 <figure>
@@ -279,19 +270,10 @@ Busta新宿开往迪士尼乐园/迪士尼海洋的利木津巴士时刻表、�
 
 ## 📌 相关旅行攻略
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
 <strong><a href="#" style="color: #667eea;">新宿完整路线攻略</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-kids-parks-guide
-     Hugo: /zh-cn/posts/shinjuku-kids-parks-guide/ -->
 <strong>➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/tokyo-disneyland-complete-guide
-     Hugo: /zh-cn/posts/tokyo-disneyland-complete-guide/ -->
 <strong>➡️ <a href="#" target="_blank">东京迪士尼乐园完全攻略</a></strong>
 
 ---

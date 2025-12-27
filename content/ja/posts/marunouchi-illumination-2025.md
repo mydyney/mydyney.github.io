@@ -377,8 +377,7 @@ A: はい、JAPAN-FREE-WIFI (SSID)が利用可能です。</p>
 ➡️ <a href="/ja/posts/hibiya-midtown-illumination-2025/" target="_blank"><b>2025年日比谷ミッドタウンイルミネーション・ズートピア2コラボガイド</b></a></p>
 
 <p><b>⭐ 東京駅完全ガイド</b><br>
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /ja/posts/tokyo-station-guide/ -->
-<a href="#" style="color: #667eea;"><b>東京駅ガイド - キャラクターストリート、レストラン、夜景、コインロッカー</b></a></p>
+➡️ <a href="#" style="color: #667eea;"><b>東京駅ガイド - キャラクターストリート、レストラン、夜景、コインロッカー</b></a></p>
 
 
 <div class="editors-note">

@@ -220,7 +220,6 @@ Finish your Tokyo trip with smart shopping!
 <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><b>➡️ Japan Travel Discount Coupon Complete Guide 2025 (Don Quijote, Bic Camera, Department Stores Tax-Free + Extra Discounts)</b></a>
 <br><br>
 <!-- Link updated -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224010546735 Hugo: /posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <a href="#" style="color: #667eea;"><b>➡️ Japanese Whisky Yamazaki, Hibiki Official Price Guide & Beginner/Gift Recommendations</b></a>
 
 

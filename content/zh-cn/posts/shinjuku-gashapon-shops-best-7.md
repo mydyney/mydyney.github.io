@@ -360,31 +360,16 @@ chiikawa粉丝注意！只要200日元就能拿到<strong>超可爱chiikawa贴�
 
 ## 🧡 一起看的新宿旅游攻略
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/shinjuku-luggage-storage/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 - <strong>行李不用愁！</strong> <strong>➡️ <a href="#" style="color: #667eea;"><strong>新宿站行李寄存100%成功法、投币柜位置&小技巧</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/shinjuku-station-breakfast-best-8/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 - <strong>7点开门的早餐店！</strong> <strong>➡️ <a href="#" style="color: #667eea;"><strong>新宿站早餐 7～8点开门・Brunch・家常菜</strong></a></strong>
 
 - <strong>行程规划</strong> <strong>➡️ <a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿美食・购物・玩乐完美整理路线</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/shinjuku-gyoen-guide-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 - <strong>红叶野餐</strong> ➡️ <strong><a href="#" style="color: #667eea;"><strong>新宿御苑门票・时间・星巴克・野餐攻略</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/tokyo-metropolitan-govt-observatory/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 - <strong>免费夜景</strong> <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京都厅免费展望台去法・夜景名所小贴士</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 - <strong>新宿夜生活</strong> ➡️ <strong><a href="#" style="color: #667eea;"><strong>新宿黄金街 vs 回忆横丁 对比</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

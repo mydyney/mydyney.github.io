@@ -225,7 +225,6 @@ If you want to know more about Shinjuku activities, restaurants, and night view 
 
 <strong>➡️ [Japan Don Quijote Shopping List Must-Buy Items & Discount Coupons, Tax-Free Guide (La-Yu, Eye Drops, etc.) ↗](/posts/don-quijote-shopping-guide-2025/)</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224033964477 Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
 <strong>➡️ [Japan Kaldi Shopping List Must-Buy Kaldi Items (Spread, Portion Coffee, Tax-Free Tips) ↗](#)</strong>
 
 <strong>➡️ [Complete Japan Convenience Store Guide! (7-Eleven, FamilyMart, Lawson Comparison) ↗](/posts/japan-convenience-store-shopping-best-10/)</strong>

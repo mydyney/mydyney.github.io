@@ -401,10 +401,7 @@ JR新宿駅から歩くこともできますが、<strong>新宿御苑前駅が�
 - 2023年ミシュランビブグルマン
 - 柔らかくてコシのある麺と深い出汁の味
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">新宿うどんグルメ、切麦や 甚六待ち時間のヒントとおすすめメニュー↗</a>**
+**➡️ <a href="#" style="color: #667eea;">新宿うどんグルメ、切麦や 甚六待ち時間のヒントとおすすめメニュー↗</a>**
 
 <strong>5. 金色不如帰（こんじきほととぎす）新宿御苑本店 (<a href="https://maps.app.goo.gl/zCcbYP5JQYeJm31y9" target="_blank">Googleマップ↗</a>)</strong>
 - 2025年ミシュランビブグルマン

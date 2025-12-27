@@ -218,9 +218,6 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 渋谷の景色が見られる<br>
 隠れた休憩スポット。<br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shibuya-complete-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>渋谷の見どころ完璧ガイド</strong></a><br>
 <a href="#" style="color: #667eea;"><strong>（パルコ、渋谷スカイ）</strong></a></p>
 

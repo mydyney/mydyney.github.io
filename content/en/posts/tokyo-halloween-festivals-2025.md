@@ -50,9 +50,6 @@ Affectionately known as <strong>'Ikeharo (イケハロ)'</strong>, this has beco
 
 <strong>📌 Pro Tip:</strong> Ikebukuro offers more than just the Halloween festival—it's packed with attractions like <strong>Sunshine City, Pokémon Center, and Animate</strong>. Check out our complete Ikebukuro guide below to plan the perfect day trip before or after the Halloween festival!
 
-<!-- TODO: Update link after migration
-     Naver: /posts/ikebukuro-complete-guide/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="/posts/ikebukuro-complete-guide/" style="color: #667eea;"><strong>Tokyo Ikebukuro Complete Guide: East (Food/Otaku) vs West (Art) Recommended Routes</strong></a></strong>
 
 <figure>
@@ -147,14 +144,8 @@ As the hot Halloween festivities wind down at the end of October, Tokyo welcomes
 
 <strong>⭐ Related Tokyo Travel Guides</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /posts/omotesando-guide-2025/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide (Enjoy with Pumpkin Parade)</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Roppongi Complete Guide (Enjoy with Halloween Stamp Rally)</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

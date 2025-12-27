@@ -68,9 +68,6 @@ featured_image: "/images/posts/roppongi-hills-christmas-market-2025-01.jpg"
   <li>从3号出口出来沿着道路地面移动270m</li>
 </ul>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681272647
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ [详细查看] 东京六本木之丘交通方式和投币式储物柜位置</strong></a></p>
 
 <figure>
@@ -263,9 +260,6 @@ featured_image: "/images/posts/roppongi-hills-christmas-market-2025-01.jpg"
 </div>
 
 <p><strong>下午8点：六本木美食 + 东京Midtown 彩灯（步行15分钟）</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223993881300
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ 东京六本木美食攻略 米其林・Tabelog推荐</strong></a></p>
 <p><a href="/zh-cn/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;"><strong>→ 2025年 六本木 东京Midtown 圣诞完全攻略（彩灯、溜冰场、美食）</strong></a></p>
 
@@ -289,17 +283,11 @@ featured_image: "/images/posts/roppongi-hills-christmas-market-2025-01.jpg"
 </figure>
 
 <p><strong>相关六本木旅行攻略：</strong></p>
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-attractions-guide
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ 六本木完全攻略（展望台、美术馆、购物、美食 A to Z）</strong></a></p>
 
 <p><strong>2025年 东京圣诞：</strong></p>
 <p><a href="/zh-cn/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>→ 东京3晚4日圣诞彩灯推荐路线&市集（动线・预算攻略）</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ 2025年 东京圣诞彩灯 BEST 5（六本木、丸之内攻略）</strong></a></p>
 
 <p><a href="/zh-cn/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;"><strong>→ 六本木之丘彩灯2025 完全攻略</strong></a></p>

@@ -68,14 +68,8 @@ On normal weekdays, you can usually enter by scanning a <strong>QR code</strong>
 
 If you are looking for Human Made's signature graphic t-shirts or outerwear, you must visit <strong>PART 1</strong>.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224105333068
-     Hugo: /posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/" style="color: #667eea;"><strong>Top 3 Shibuya Parco Restaurants: Kiwamiya Hamburg</strong></a><br>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224098870040
-     Hugo: /posts/shibuya-sushi-no-midori-lunch-guide/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/posts/shibuya-sushi-no-midori-lunch-guide/" style="color: #667eea;"><strong>Shibuya Sushi no Midori Waiting & Reservation Guide</strong></a><br>
 
 <figure>
@@ -107,9 +101,6 @@ It is a newly created space and <strong>does not connect from inside the Parco b
 
 Since most of the popular keyrings and hats are gathered here, if your goal is accessories, head straight to <strong>PART 2</strong>.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224106627092
-     Hugo: /posts/shibuya-parco-shopping-guide/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/posts/shibuya-parco-shopping-guide/" style="color: #667eea;"><strong>Shibuya Parco Complete Shopping Guide (Nintendo/Pokemon)</strong></a><br>
 
 ---

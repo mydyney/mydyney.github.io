@@ -66,14 +66,8 @@ HUMAN MADEは、<b>ドロップ日（新作発売日の土曜日）</b>やコラ
 
 HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場合は、こちらの<b>PART 1</b>へお越しください。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224105333068
-     Hugo: /ja/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/ja/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/" style="color: #667eea;"><strong>渋谷パルコのおすすめグルメ：極味やハンバーグ</strong></a><br>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224098870040
-     Hugo: /ja/posts/shibuya-sushi-no-midori-lunch-guide/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/ja/posts/shibuya-sushi-no-midori-lunch-guide/" style="color: #667eea;"><strong>渋谷「梅丘寿司の美登利」待ち時間＆予約ガイド</strong></a><br>
 
 <figure>
@@ -105,9 +99,6 @@ HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場
 
 人気のキーリングや帽子などの小物はほとんどこちらに集まっているので、雑貨目当ての方は迷わず<b>PART 2</b>へ向かってください。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224106627092
-     Hugo: /ja/posts/shibuya-parco-shopping-guide/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/ja/posts/shibuya-parco-shopping-guide/" style="color: #667eea;"><strong>渋谷パルコ完全攻略ガイド（任天堂/ポケモンセンター）</strong></a><br>
 
 ---

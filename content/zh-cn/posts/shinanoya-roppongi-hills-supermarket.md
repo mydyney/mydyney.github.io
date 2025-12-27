@@ -451,19 +451,10 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 
 ## ⭐ 相关六本木观光指南
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681272647
-     Hugo: /posts/roppongi-azabujuban-1day-course/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>六本木・麻布十番一日游路线推荐</strong></a>  
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223500298620
-     Hugo: /posts/roppongi-azabujuban-dating-course/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>六本木・麻布十番约会路线</strong></a>  
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224065668379
-     Hugo: /posts/roppongi-christmas-illumination-2025/ -->
 ➡️ <a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;"><strong>2025年六本木圣诞彩灯完全指南</strong></a>
 
 

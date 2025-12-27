@@ -66,9 +66,6 @@ at <strong>Roppongi Hills Oyane Plaza</strong>.</p>
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681272647
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">How to Get to Roppongi Hills & Coin Locker Locations</a></strong><br>
 
 <div style="margin: 2rem 0;">
@@ -243,9 +240,6 @@ at Roppongi Hills!</p>
 
 ### 2. Roppongi Hills Christmas Illumination
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-christmas-illumination-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;">Roppongi Illumination 2025: Duration, Lighting Times, Must-See Spots,<br>Roppongi Hills Christmas Market Complete Guide</a></strong><br>
 
 <figure>
@@ -267,9 +261,6 @@ travelers' <strong>'optimal route'</strong><br>
 and the <strong>'Christmas'</strong> theme<br>
 in a fail-proof 3-night 4-day itinerary!</p>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-3-day-christmas-illumination-itinerary/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;">Tokyo 3 Nights 4 Days Christmas Special Course<br>(Route & Budget Complete Guide)</a></strong><br>
 
 ### 2. Tokyo Christmas Market Complete Guide by Preference
@@ -279,9 +270,6 @@ all 'Christmas Market' information<br>
 including 'Ueno' and 'Azabudai Hills'<br>
 compiled in one guide.</p>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-markets-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;">2025 Tokyo Christmas Markets: Where to Go?<br>(Ueno, Azabudai, etc.)</a></strong><br>
 
 ### 3. Tokyo Christmas Illumination BEST 5
@@ -291,9 +279,6 @@ we've compiled only the best<br>
 'illumination' spots<br>
 including 'Marunouchi' and 'Omotesando'.</p>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;">2025 Tokyo Christmas Illumination BEST 5<br>(Omotesando, Marunouchi Complete Guide)</a></strong><br>
 
 

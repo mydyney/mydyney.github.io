@@ -16,9 +16,6 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 与便利店团子完全不同级别的Q弹口感，以及传统日式点心的礼品包装，这里完美覆盖。</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐想一目了然看新宿完整观光路线、餐厅、购物、夜景信息吗？<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
 <a href="#" style="color: #667eea;"><b>新宿完全观光攻略 ↗</b></a></p>
 
 <figure>
@@ -161,56 +158,26 @@ Harbs或伊势丹的蛋糕等新宿华丽甜点也很好，但如果想品尝"�
 
 <strong>⭐ 新宿旅行攻略系列</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
 <strong><a href="#" style="color: #667eea;">新宿完全观光攻略 ↗</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/tokyo-metropolitan-govt-observatory
-     Hugo: /zh-cn/posts/tokyo-metropolitan-govt-observatory/ -->
 <strong>➡️ <a href="#" target="_blank">东京都厅免费展望台灯光秀时间、休息日、新宿夜景技巧 ↗</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-golden-gai-vs-omoide-yokocho
-     Hugo: /zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/ -->
 <strong>➡️ <a href="#" target="_blank">新宿黄金街 vs 回忆横丁 完全对比 ↗</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-kids-parks-guide
-     Hugo: /zh-cn/posts/shinjuku-kids-parks-guide/ -->
 <strong>➡️ <a href="#" target="_blank">带孩子去新宿！5大儿童乐园交通方式 ↗</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-to-disneyland-bus-guide
-     Hugo: /zh-cn/posts/shinjuku-to-disneyland-bus-guide/ -->
 <strong>➡️ <a href="#" target="_blank">新宿到迪士尼乐园交通完全攻略 ↗</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-sekaido-stationery-shopping-guide
-     Hugo: /zh-cn/posts/shinjuku-sekaido-stationery-shopping-guide/ -->
 <strong>➡️ <a href="#" target="_blank">新宿世界堂 东京文具店 会员卡、免税攻略 ↗</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /zh-cn/posts/shinjuku-udon-guide/ -->
 <strong><a href="#" style="color: #667eea;">新宿乌冬面店 切麦屋甚六 米其林乌冬面↗</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-epitaph-curry-review
-     Hugo: /zh-cn/posts/shinjuku-epitaph-curry-review/ -->
 <strong>➡️ <a href="#" target="_blank">新宿咖喱饭店 Epitaph Curry ↗</a></strong>
 
 💡 想看银座甜点礼品吗？
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223694645793
-     Hugo: /zh-cn/posts/ginza-akebono-strawberry-mochi/ -->
 <strong><a href="#" style="color: #667eea;">东京银座草莓大福、曙银座旗舰店 ↗</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025044772
-     Hugo: /zh-cn/posts/ginza-kuya-monaka-reservation-guide/ -->
 <strong><a href="#" style="color: #667eea;">送给东京长辈的礼品，不知道选什么就选银座空也最中 ↗</a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

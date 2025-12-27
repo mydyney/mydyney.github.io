@@ -151,9 +151,6 @@ it's a great course for those traveling outside the year-end period.
 
 If you're curious about the 2024 scene, check out the archive post below.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223668826357
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">2024 Yebisu Garden Place Christmas Review (Last Year's Archive)</a></strong>
 
 <figure>
@@ -226,9 +223,6 @@ to the free observatory and see the Tokyo Tower night view before returning!
 
 For detailed information, check out the dedicated post.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223668328703
-     Hugo: /posts/[SLUG_TBD]/ -->
 ➡️ <a href="#" style="color: #667eea;">Tokyo Yebisu Garden Place Free Observatory, Top of Yebisu Complete Guide</a>
 
 <figure>
@@ -252,9 +246,6 @@ and thanks to that history, the "Ebisu = beer" image remains strong.
 
 It's a space worth visiting if you like beer.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223665548720
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">Yebisu Brewery Tokyo, A Must-Visit for Beer Enthusiasts</a></strong>
 
 <figure>
@@ -274,9 +265,6 @@ takes you directly to the Yebisu Garden Place entrance.
 
 ### ⭐ For more detailed directions & coin locker information, check the post below!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223678791563
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">How to Get to Tokyo Yebisu Garden Place and Coin Locker Locations</a></strong>
 
 <figure>
@@ -341,9 +329,6 @@ create unforgettable memories this winter.
 
 ### 🧡 Related Yebisu Travel Guides
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032769630
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">Yebisu Attractions, Complete Guide from Yebisu Garden Place to Beer Museum and Restaurants</a></strong>
 
 ---

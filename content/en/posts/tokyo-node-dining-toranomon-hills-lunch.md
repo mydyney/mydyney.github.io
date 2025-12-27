@@ -229,14 +229,8 @@ Complete guide including course details and online reservation tips.</p>
 <p>Highly recommended for Tokyo dates or anniversary celebrations!</p>
 
 <p><strong>Related Toranomon Hills Travel Guides:</strong></p>
-<!-- TODO: Update link after migration
-     Naver: /posts/toranomon-hills-complete-guide/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>Toranomon Hills Complete Guide: Observatory, Restaurants, Yokocho, T-Market</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223913830951
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>Nonotori Gencho: Yakitori Omakase at Toranomon Hills</strong></a></p>
 
 <p><a href="/posts/tamiya-plamodel-factory-tokyo-shimbashi/" style="color: #667eea;"><strong>2025 Tamiya Plamodel Factory Tokyo (6,000+ Items, Mini Cars, Cafe)</strong></a></p>

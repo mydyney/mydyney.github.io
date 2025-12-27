@@ -228,14 +228,8 @@ Lettuce涮涮锅的最大魅力？<br>
 在Lettuce享受满意的用餐后，<br>
 探索迷人的中目黑和代官山地区吧！<br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032086475
-     Hugo: /zh-cn/posts/nakameguro-guide/ -->
 <strong>🌸 中目黑看点：</strong><a href="#" style="color: #667eea;">目黑川樱花、时尚咖啡馆、精品店完全指南</a><br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032515713
-     Hugo: /zh-cn/posts/daikanyama-guide/ -->
 <strong>🏛️ 代官山看点：</strong><a href="#" style="color: #667eea;">茑屋书店、时尚店铺、咖啡巡礼指南</a><br>
 <br>
 <strong>🛍️ 涩谷看点：</strong><a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;">仅1站！涩谷完全指南（PARCO、涩谷天空）</a></p>

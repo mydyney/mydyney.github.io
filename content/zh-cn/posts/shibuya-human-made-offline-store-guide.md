@@ -66,14 +66,8 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 如果你想买Human Made标志性的爱心T恤或者外套，一定要来 <strong>PART 1</strong>。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224105333068
-     Hugo: /zh-cn/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/zh-cn/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/" style="color: #667eea;"><strong>涩谷Parco必吃：极味屋汉堡排排队攻略</strong></a><br>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224098870040
-     Hugo: /zh-cn/posts/shibuya-sushi-no-midori-lunch-guide/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/zh-cn/posts/shibuya-sushi-no-midori-lunch-guide/" style="color: #667eea;"><strong>涩谷“梅丘寿司之美登利”排队及预约指南</strong></a><br>
 
 <figure>
@@ -105,9 +99,6 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 大家最爱的钥匙扣、鸭子地毯、帽子等小物件基本都在这里，如果目标是饰品，请直接冲 <strong>PART 2</strong>！🏃‍♀️
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224106627092
-     Hugo: /zh-cn/posts/shibuya-parco-shopping-guide/ -->
 <p style="text-align: center;"><strong>☕</strong> <a href="/zh-cn/posts/shibuya-parco-shopping-guide/" style="color: #667eea;"><strong>涩谷Parco完全攻略 (任天堂/宝可梦中心)</strong></a><br>
 
 ---

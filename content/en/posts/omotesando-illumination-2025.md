@@ -226,19 +226,10 @@ Car headlight trails blend with golden keyaki trees for dynamic photos.
 
 - <strong>Itinerary Tip:</strong> Afternoon at [Meiji Jingu Gaien Christmas Market] → Evening transition to [Omotesando] is perfect. For recommended Omotesando and Harajuku courses, check the comprehensive guides below.
 
-<!-- TODO: Update link after migration
-     Naver: /posts/meiji-jingu-gaien-christmas-market-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/meiji-jingu-gaien-christmas-market-2025/" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets, Hours, Mug Benefits Complete Guide</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Omotesando Perfect Guide: Coffee, Shopping, Restaurants & Architecture Complete</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/harajuku-complete-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>Harajuku Harry Potter Store, Takeshita Street, Cat Street Complete Guide</strong></a>
 
 ---
@@ -255,87 +246,48 @@ If planning a Tokyo Christmas trip, I strongly recommend making this place, alon
 
 <strong>🎄 Tokyo Christmas Must-See Courses at a Glance</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-3-day-christmas-illumination-itinerary/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>Tokyo 3 Night 4 Day Illumination & Christmas Market Perfect Itinerary</strong></a>
 
 <strong>🌟 2025 Tokyo Christmas Markets - Where to Go?</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-markets-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;"><strong>Tokyo Christmas Markets Complete Guide (Ueno, Azabudai Hills, Roppongi, etc.)</strong></a>
 
 <strong>🌟 Roppongi Christmas</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-christmas-illumination-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;"><strong>2025 Roppongi Hills Lighting Hours, Photo Spots, Route Complete Guide</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-hills-christmas-market-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/roppongi-hills-christmas-market-2025/" style="color: #667eea;"><strong>2025 Roppongi Hills Christmas Market, Mugs, Location & Tips Complete</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-midtown-christmas-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;"><strong>2025 Roppongi Midtown Illumination, Ice Rink & Restaurants</strong></a>
 
 <strong>🌟 Azabudai Hills Christmas</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/azabudai-hills-christmas-market-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/azabudai-hills-christmas-market-2025/" style="color: #667eea;"><strong>2025 Azabudai Hills Christmas Market - Complete Analysis of 17 Booths</strong></a>
 
 <strong>🌟 Ebisu Christmas</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/yebisu-garden-place-illumination-christmas-market-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/yebisu-garden-place-illumination-christmas-market-2025/" style="color: #667eea;"><strong>2025 Ebisu Garden Place Illumination & Christmas Market</strong></a>
 
 <strong>🌟 Marunouchi & Hibiya Christmas</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/marunouchi-illumination-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/marunouchi-illumination-2025/" style="color: #667eea;"><strong>2025 Marunouchi Illumination, Disney Collaboration & Stamp Rally</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/hibiya-midtown-illumination-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>2025 Hibiya Illumination, Zootopia 2 Collaboration & Walking Course</strong></a>
 
 <strong>🌟 Tokyo Skytree Christmas</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-skytree-christmas-market-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/tokyo-skytree-christmas-market-2025/" style="color: #667eea;"><strong>2025 Skytree Market Official Schedule, New Menu & Photo Zone Guide</strong></a>
 
 <strong>🌟 Ueno Park Christmas</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/ueno-christmas-market-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/ueno-christmas-market-2025/" style="color: #667eea;"><strong>2025 Ueno Christmas Market - Free Entry & Access Complete Guide</strong></a>
 
 <strong>🌟 Tokyo Dome City Christmas</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-dome-city-christmas-illumination-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/tokyo-dome-city-christmas-illumination-2025/" style="color: #667eea;"><strong>2025 Tokyo Dome Illumination Dates, Hours & TXT Collaboration</strong></a>
 
 <strong>🌟 Meiji Jingu Gaien Christmas</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/meiji-jingu-gaien-christmas-market-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/meiji-jingu-gaien-christmas-market-2025/" style="color: #667eea;"><strong>2025 Meiji Jingu Gaien Christmas Market Tickets & Mug Benefits</strong></a>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

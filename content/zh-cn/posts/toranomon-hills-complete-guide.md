@@ -98,9 +98,6 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 <strong>🥢 烤鸡肉串 野野鸟 gen长</strong>
 介绍位于车站塔4层的烤鸡肉串主厨套餐餐厅。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223913830951
-     Hugo: /zh-cn/posts/toranomon-hills-yakitori-nonotori/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>烤鸡肉串主厨套餐、野野鸟gen长评测</strong></a>
 
 <figure>
@@ -206,18 +203,12 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 <strong>🚶‍♂️ 地铁3分钟!东京最佳新景点,麻布台山</strong>
 如果虎之门山是「商务」中心,旁边的「麻布台山」就是「观光」中心。两座山一起游览,一天攻略东京最新建筑与文化!
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/azabudai-hills-complete-guide/
-     Hugo: /zh-cn/posts/azabudai-hills-complete-guide/ -->
 ➡️ <a href="/zh-cn/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><strong>东京麻布台山看点:展望台、美食、teamLab全收录</strong></a>
 
 <strong>🚶‍♂️ 地铁5分钟!东京夜景经典,六本木山</strong>
 地铁5分钟抵达「六本木山」。
 在「森美术馆」与「东京城市观景展望台」体验别样的东京夜景感动。
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/roppongi-attractions-guide
-     Hugo: /zh-cn/posts/roppongi-attractions-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>六本木景点完全攻略(展望台、美术馆、购物、美食)</strong></a>
 
 

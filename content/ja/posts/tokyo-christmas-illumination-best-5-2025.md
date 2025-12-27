@@ -78,9 +78,6 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 <strong>📅 NEW! 最終更新：2025年11月4日 - 六本木ヒルズオープン！</strong><br>
 <a href="/ja/posts/roppongi-christmas-illumination-2025/" style="color:#667eea;"><strong>➡️ 六本木イルミネーション2025 けやき坂・クリスマスマーケット完全ガイド</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /ja/posts/roppongi-midtown-christmas-review-2024/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2024年六本木 東京ミッドタウン クリスマスイルミネーションとサンタツリー</strong></a></p>
 
 <figure>
@@ -149,9 +146,6 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223688700265
-     Hugo: /ja/posts/omotesando-illumination-harajuku-observatory-review-2024/ -->
 <p><strong>📌 昨年の表参道クリスマス、もっと詳しく見たい方は？</strong><br>
 <a href="/ja/posts/omotesando-illumination-harajuku-observatory-review-2024/" style="color:#667eea;"><strong>➡️ 2024年東京表参道イルミネーションと原宿無料展望台</strong></a></p>
 
@@ -173,11 +167,8 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223689247336
-     Hugo: /ja/posts/shibuya-miyashita-park-illumination-review-2024/ -->
 <p><strong>📌 「青の洞窟」以外にも渋谷の他のクリスマス風景が気になる方は？</strong><br>
-<a href="/ja/posts/shibuya-miyashita-park-illumination-review-2024/" style="color:#667eea;"><strong>➡️ 2024年東京渋谷ミヤシタパーク クリスマスイルミネーション</strong></a></p>
+<a href="/ja/posts/miyashita-park-illumination-2024/" style="color:#667eea;"><strong>➡️ 2024年東京渋谷ミヤシタパーク クリスマスイルミネーション</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-08.jpg" alt="2024年渋谷ミヤシタパークイルミネーション">
@@ -219,9 +210,6 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /ja/posts/azabudai-hills-christmas-market-review-2024/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2024年東京麻布台ヒルズ クリスマスマーケット レビュー</strong></a></p>
 
 <figure>
@@ -251,9 +239,6 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223700200846
-     Hugo: /ja/posts/tokyo-skytree-illumination-guide/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 東京スカイツリー イルミネーションとクリスマスマーケット</strong></a></p>
 
 <p><strong>🎄 完全に新しくなったスカイツリーの「クリスマス特別ライティング」</strong><br>

@@ -109,9 +109,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <strong>⏰ 営業時間：毎日12:00～22:30</strong>
 <strong>📍 場所：<a href="https://maps.app.goo.gl/n5upeajDoPH8BKf28" target="_blank">上野恩賜公園</a>、袴腰広場</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/ueno-christmas-market-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 【必見】2025年東京上野クリスマスマーケット：開催期間・時間・イルミネーション・無料入場＆アクセスガイド</strong></a>
 
 <figure>
@@ -134,12 +131,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <strong>☀️ 昼間はどう過ごす？</strong>
 マーケット会場の上野公園には<strong>東京国立博物館</strong>や<strong>国立西洋美術館</strong>など、日本を代表する文化施設が集まっています。昼間は美術館巡りを楽しみ、夕方からクリスマスマーケットへ向かうのがおすすめです。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /ja/posts/ueno-ameyoko-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 上野観光完全ガイド：アメ横から公園まで</strong></a>
 
 <figure>
@@ -157,9 +148,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 
 <strong>📍 六本木ヒルズマーケットの10店舗のメニュー、グリューワイン、オリジナルマグの詳細情報は？</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-hills-christmas-market-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 【必見詳細ガイド】2025年六本木ヒルズ クリスマスマーケット：開催期間・時間・場所・オリジナルマグ完全ガイド</strong></a>
 
 <strong>🗓️ 開催期間：2025年11月22日(土)～12月25日(木)</strong>
@@ -205,19 +193,10 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 
 <a href="/ja/posts/evangelion-30th-roppongi-2025/" style="color: #667eea;"><strong>➡️ 六本木ヒルズ東京シティビュー エヴァンゲリオン30周年記念展（ALL OF EVANGELION）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-attractions-guide
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-attractions-guide
-     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 六本木観光完全ガイド（イルミネーション、レストラン情報）</strong></a>
 
 <strong>✅ クリスマスマーケットの10店舗メニュー、グリューワイン、マグの詳細はこちら</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-hills-christmas-market-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年六本木ヒルズ クリスマスマーケット：開催期間・時間・場所・オリジナルマグ完全ガイド</strong></a>
 
 <figure>
@@ -270,20 +249,8 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <strong>🌃 おすすめの周遊コース</strong>
 東京からの日帰り旅行に最適なコースです。昼間は<strong>「中華街」</strong>や<strong>「みなとみらい」</strong>を散策し、夕方からクリスマスマーケットへ向かうのがおすすめ。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /ja/posts/yokohama-one-day-itinerary/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 横浜1日コース：中華街グルメ、赤レンガ倉庫、夜景完全ガイド</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /ja/posts/yokohama-minato-burari-ticket-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 横浜1日乗車券「みなとぶらりチケット」完全ガイド</strong></a>
 
 <figure>
@@ -299,9 +266,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 
 2024年に初のクリスマスを成功させた新名所。広々とした中央広場で開かれるマーケットは、他の場所より混雑が少なく、<strong>東京タワーが目の前</strong>という最高の夜景スポットを誇ります。
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/azabudai-hills-christmas-market-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 【必見詳細ガイド】2025年麻布台ヒルズ クリスマスマーケット（開催期間・時間・アクセス・全17店舗完全ガイド）</strong></a>
 
 <strong>🗓️ 開催期間：2025年11月22日(土)～12月25日(木)</strong>
@@ -331,20 +295,8 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <strong>☀️ 昼間はどう過ごす？</strong>
 マーケット開始前に、麻布台ヒルズのもう一つの見どころ<strong>「チームラボボーダレス」</strong>で幻想的なメディアアートを体験したり、<strong>「スカイルーム」</strong>展望カフェで東京のパノラマビューを楽しむのがおすすめ。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /ja/posts/azabudai-hills-teamlab-borderless-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 東京・麻布台ヒルズ チームラボボーダレス、地図のないミュージアム</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /ja/posts/azabudai-hills-sky-room-cafe-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 東京・麻布台ヒルズ展望カフェ スカイルーム：夕焼け＆夜景</strong></a>
 
 <div class="image-group-2">
@@ -401,12 +353,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <strong>☀️ 昼間はどう過ごす？</strong>
 マーケット開始前に、スカイツリー直下の<strong>「東京ソラマチ」</strong>ショッピングモールを散策したり、川向こうの<strong>浅草</strong>の浅草寺や仲見世通りを巡るのがおすすめ。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /ja/posts/asakusa-complete-guide/ -->
 <a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ 東京・浅草観光＆グルメ完全ガイド</strong></a>
 
 <figure>
@@ -437,9 +383,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 
 ※入場料、事前予約、マグ特典、VIPルームなどの詳細は下記のガイドをご覧ください。
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/meiji-jingu-gaien-christmas-market-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年明治神宮外苑 クリスマスマーケット：チケット・料金・時間・マグ特典完全ガイド</strong></a>
 
 <figure>
@@ -470,9 +413,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <strong>☀️ 昼間はどう過ごす？</strong>
 マーケット開始前に、近くの<strong>「表参道」</strong>でショッピングやカフェ巡り、または<strong>「新宿」</strong>で新宿御苑を散策するのがおすすめ。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /ja/posts/omotesando-guide-2025/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 表参道完全ガイド（カフェ、ショッピング、レストラン）</strong></a>
 
 <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>➡️ 新宿観光：新宿御苑からレストラン、ショッピングまで</strong></a>
@@ -568,12 +508,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 <strong>☀️ 昼間はどう過ごす？</strong>
 イルミネーション点灯前に、隣の<strong>「ヱビスビール記念館（ヱビス ブルワリー東京）」</strong>でビールの試飲を楽しんだり、周辺のおしゃれなレストランでランチするのがおすすめ。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032769630
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032769630
-     Hugo: /ja/posts/yebisu-complete-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 恵比寿の必見スポット：ガーデンプレイスからビール記念館まで</strong></a>
 
 <figure>
@@ -589,27 +523,12 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 
 <strong>🎄 クリスマスマーケット体験をさらに盛り上げる東京のベスト「イルミネーション」スポットは下記をチェック！</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年東京クリスマスイルミネーション BEST 5</strong></a>
 
 <strong>⭐ 関連記事</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
 <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>➡️ 2025年日本旅行割引クーポン完全ガイド（ドン・キホーテ、百貨店など）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /ja/posts/don-quijote-shopping-guide-2025/ -->
 <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>➡️ 2025年日本ドン・キホーテ お買い物リスト必須アイテム＆免税ガイド</strong></a>
 
 <h2>🍁 待って！11月下旬～12月上旬に旅行予定？</h2>
@@ -617,9 +536,6 @@ featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 「クリスマスイルミネーション/マーケット」は東京の紅葉シーズンピークと完璧に重なります！
 昼間はロマンチックな紅葉、夜は煌めくクリスマスを楽しむ完璧なプランを立てましょう！
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-autumn-foliage-best-spots-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 2025年東京紅葉シーズン＆おすすめスポット BEST 5</strong></a>
 
 

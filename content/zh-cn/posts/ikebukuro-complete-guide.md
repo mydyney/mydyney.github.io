@@ -306,9 +306,6 @@ Animate附近
 
 作为代替「涩谷」的新万圣节圣地，时间合适的话一定要去看看！
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/tokyo-halloween-festivals-2025/
-     Hugo: /zh-cn/posts/tokyo-halloween-festivals-2025/ -->
 <strong>➡️ <a href="/zh-cn/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025年东京万圣节庆典名胜BEST 4(池袋)</a></strong>
 
 <figure>
@@ -332,9 +329,6 @@ Animate附近
 <strong>传统之街：上野</strong>
 山手线往新宿反方向！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /zh-cn/posts/ueno-ameyoko-guide/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">上野观光景点 - 阿美横丁市场、美食到上野公园</a></strong>
 
 <strong>🚇 丸之内线16分钟！</strong>

@@ -287,8 +287,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 <strong>⭐ 一起旅行的推荐路线，东京站丸之内</strong>
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /zh-cn/posts/tokyo-station-guide/ -->
-[东京站看点，从卡通街到餐厅、夜景、行李寄存投币柜](#)
+➡️ [东京站看点，从卡通街到餐厅、夜景、行李寄存投币柜](#)
 
 <strong>⭐ 一起旅行的推荐路线，银座</strong>
 
@@ -316,8 +315,7 @@ featured_image: "/images/posts/hibiya-midtown-illumination-2025-01.jpg"
 
 想了解去年举办的2024年Midtown Moana灯饰评测的话，请参考下方文章！
 
-➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223686466421 Hugo: /zh-cn/posts/hibiya-midtown-illumination-review-2024/ -->
-[查看2024年日比谷Midtown灯饰评测](#)
+➡️ [查看2024年日比谷Midtown灯饰评测](#)
 
 
 <div class="editors-note">

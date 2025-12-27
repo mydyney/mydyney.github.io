@@ -16,10 +16,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 山崎·响·噶玛兰价格与免税技巧完全攻略 🍶<br>
 <br>
 ⭐ 想一目了然看新宿1日路线...<br>
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
-<a href="#" style="color: #667eea;"><strong>新宿观光完全攻略 ↗</strong></a></p>
+➡️ <a href="#" style="color: #667eea;"><strong>新宿观光完全攻略 ↗</strong></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-01.jpg" alt="新宿酒铺 Yamaya 信浓屋 必酷 威士忌 免税 折扣优惠券">
@@ -115,15 +112,9 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 为了避免在酒铺看到高昂的溢价而惊讶，访问前请务必通过以下文章提前确认<strong>山崎·响的官方价格</strong>和<strong>三得利威士忌全产品线（包括白州）</strong>。
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /zh-cn/posts/japanese-whisky-yamazaki-hibiki-official-prices/ -->
-[日本威士忌 山崎·响 官方价格完全攻略 ↗](#)**
+**➡️ [日本威士忌 山崎·响 官方价格完全攻略 ↗](#)**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224014619007
-     Hugo: /zh-cn/posts/suntory-whisky-lineup-guide/ -->
-[三得利威士忌 产品线、价格、喝法（山崎·响·白州）↗](#)**
+**➡️ [三得利威士忌 产品线、价格、喝法（山崎·响·白州）↗](#)**
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-07.jpg" alt="三得利威士忌 产品线（山崎·白州·响 对比）">
@@ -150,10 +141,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 如果旅行路线中有银座，推荐访问<strong>银座乐天免税店</strong>。作为市内免税店，库存比机场多，还有免费试饮会和折扣优惠券福利。
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224008430188
-     Hugo: /zh-cn/posts/ginza-lotte-duty-free-whisky-guide/ -->
-[银座乐天免税店 威士忌购买攻略（山崎·响、免费试饮会、折扣优惠券）↗](#)**
+**➡️ [银座乐天免税店 威士忌购买攻略（山崎·响、免费试饮会、折扣优惠券）↗](#)**
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-08.jpg" alt="银座乐天免税店 三得利威士忌专区（山崎·白州·响）">
@@ -181,10 +169,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 如果想了解獺祭23、45、39的准确日本官方价格，请提前查看以下攻略。
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /zh-cn/posts/dassai-sake-official-prices/ -->
-[獺祭23、45、39 日本官网价格完全攻略↗](#)**
+**➡️ [獺祭23、45、39 日本官网价格完全攻略↗](#)**
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-09.jpg" alt="酒铺 獺祭 日本酒专区 獺祭39、23、45">
@@ -227,37 +212,19 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 
 想了解新宿更多观光景点、美食、夜景路线的朋友，请查看以下"新宿完全路线"攻略！
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
-[从新宿御苑到美食、购物、黄金街 新宿观光完全攻略 ↗](#)**
+**➡️ [从新宿御苑到美食、购物、黄金街 新宿观光完全攻略 ↗](#)**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/tokyo-metropolitan-govt-observatory
-     Hugo: /zh-cn/posts/tokyo-metropolitan-govt-observatory/ -->
-[东京都厅 免费展望台 灯光秀·新宿夜景 内幕技巧 ↗](#)**
+**➡️ [东京都厅 免费展望台 灯光秀·新宿夜景 内幕技巧 ↗](#)**
 
 ### ⭐ 一起看更有用的购物攻略
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/japan-travel-discount-coupons-2025
-     Hugo: /zh-cn/posts/japan-travel-discount-coupons-2025/ -->
-[日本旅行 折扣优惠券完全攻略2025（唐吉诃德、必酷、百货商场等 免税+额外折扣） ↗](#)**
+**➡️ [日本旅行 折扣优惠券完全攻略2025（唐吉诃德、必酷、百货商场等 免税+额外折扣） ↗](#)**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/don-quijote-shopping-guide-2025
-     Hugo: /zh-cn/posts/don-quijote-shopping-guide-2025/ -->
-[日本唐吉诃德 购物清单 必买推荐品 & 折扣优惠券、免税方法完全攻略（辣油、眼药水等） ↗](#)**
+**➡️ [日本唐吉诃德 购物清单 必买推荐品 & 折扣优惠券、免税方法完全攻略（辣油、眼药水等） ↗](#)**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /zh-cn/posts/kaldi-coffee-farm-shopping-list/ -->
 <strong>➡️ [日本KALDI 购物清单、必买KALDI推荐品（抹酱、速溶咖啡、免税技巧） ↗](#)</strong>
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/japan-convenience-store-shopping-best-10
-     Hugo: /zh-cn/posts/japan-convenience-store-shopping-best-10/ -->
-[日本便利店完全制霸！（7-11、全家、罗森对比完全攻略）↗](#)**
+**➡️ [日本便利店完全制霸！（7-11、全家、罗森对比完全攻略）↗](#)**
 
 
 <div class="editors-note">

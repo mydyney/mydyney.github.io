@@ -123,9 +123,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 如果觉得门票贵，看看可以正面眺望天空树的隐藏「免费展望台」！
 
 <!-- TODO: Update link after migration
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223700095268
-     Hugo: /zh-cn/posts/tokyo-skytree-free-observatory/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京天空树免费展望台：SKYTREE VIEW</strong></a></strong>
 
 <figure>
@@ -177,9 +174,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 这里独有的「超级烈空坐」限定商品！
 
 <!-- TODO: Update link after migration
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223695518100
-     Hugo: /zh-cn/posts/tokyo-skytree-pokemon-center-review/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京天空树城宝可梦中心详细评测</strong></a></strong>
 
 <div class="image-group-2">
@@ -227,9 +221,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 避免长时间等待的技巧？
 
 <!-- TODO: Update link after migration
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223697732942
-     Hugo: /zh-cn/posts/tokyo-skytree-triton-sushi-guide/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京天空树回转寿司餐厅Triton（取号技巧）</strong></a></strong>
 
 <div class="image-group-2">
@@ -263,9 +254,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 购物后的浓郁抹茶冰淇淋最合适。
 
 <!-- TODO: Update link after migration
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223699626846
-     Hugo: /zh-cn/posts/tokyo-skytree-gion-tsujiri-matcha/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京天空树甜品景点：祇园辻利抹茶冰淇淋评测</strong></a></strong>
 
 <figure>
@@ -293,9 +281,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 冬季，在天空树正下方举办盛大的圣诞市集和灯饰活动。
 
 <!-- TODO: Update link after migration
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223700200846
-     Hugo: /zh-cn/posts/tokyo-skytree-illumination-guide/ -->
 ➡️ <strong><a href="#" style="color: #667eea;"><strong>东京天空树灯饰＆圣诞市集详细评测</strong></a></strong>
 
 <div class="image-group-2">
@@ -319,9 +304,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 参观浅草寺和仲见世通，完美的1日行程。
 
 <!-- TODO: Update link after migration
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /zh-cn/posts/asakusa-complete-guide/ -->
 ➡️ <strong><a href="/zh-cn/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>东京浅草景点＆餐厅完全攻略（浅草寺、牛排）</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

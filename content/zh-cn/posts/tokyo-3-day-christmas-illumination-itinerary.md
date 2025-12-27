@@ -57,13 +57,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>新宿 ➔ 机场</b><br>
 <b>​</b><br>
 <b>🎁 想了解东京所有圣诞市集信息吗?</b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/ginza-guide-2025
-     Hugo: /zh-cn/posts/ginza-guide-2025/ -->
 <b><a href="#" style="color: #667eea;">➡️ 银座必游景点完全攻略</a></b>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914321510
-     Hugo: /zh-cn/posts/sumiyaki-unafuji-yurakucho/ -->
 <a href="#" style="color: #667eea;">➡️ 炭烤鳗鱼富士、米其林鳗鱼</a></b></p>
 
 <figure>
@@ -79,9 +73,6 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>🎄 麻布台Hills</b><br>
 <b>圣诞市集</b><br>
 享受东京塔景色与圣诞市集<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/azabudai-hills-complete-guide
-     Hugo: /zh-cn/posts/azabudai-hills-complete-guide/ -->
 <b><a href="#" style="color: #667eea;">➡️ 麻布台Hills完全攻略</a></b></p>
 
 <figure>
@@ -105,9 +96,6 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 前往六本木Hills(步行10分钟)<br>
 圣诞市集与<br>
 榉树坂彩灯<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/roppongi-attractions-guide
-     Hugo: /zh-cn/posts/roppongi-attractions-guide/ -->
 <b><a href="#" style="color: #667eea;">➡️ 六本木完整活动攻略</a></b></p>
 
 <figure>
@@ -121,13 +109,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 米其林必比登Imakatsu<br>
 柔嫩鸡柳炸猪排晚餐<br>
 ​<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223993881300
-     Hugo: /zh-cn/posts/roppongi-restaurant-map/ -->
 <b><a href="#" style="color: #667eea;">➡️东京六本木餐厅地图</a></b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223993881300
-     Hugo: /zh-cn/posts/roppongi-restaurant-map/ -->
 <b><a href="#" style="color: #667eea;">米其林、食べログ推荐餐厅</a></b></p>
 
 <figure>
@@ -190,13 +172,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 伊势丹/高岛屋百货购物<br>
 (午餐) 米其林乌冬面切麦屋<br>
 ​<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /zh-cn/posts/shinjuku-udon-guide/ -->
 <b><a href="#" style="color: #667eea;">➡️东京新宿乌冬面餐厅、</a></b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /zh-cn/posts/shinjuku-udon-guide/ -->
 <b><a href="#" style="color: #667eea;">切麦屋甚六米其林乌冬面</a></b></p>
 
 <figure>
@@ -210,17 +186,8 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 乘坐<b>成田特快(N'EX)</b><br>
 前往机场!<br>
 ​<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /zh-cn/posts/narita-express-guide/ -->
 <b><a href="#" style="color: #667eea;">➡️ 成田特快(N'EX)</a></b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /zh-cn/posts/narita-express-guide/ -->
 <b><a href="#" style="color: #667eea;">预约、价格、时刻表完全攻略</a></b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /zh-cn/posts/narita-express-guide/ -->
 <b><a href="#" style="color: #667eea;">(往返折扣、座位技巧!)</a></b></p>
 
 <figure>
@@ -270,23 +237,11 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>交通卡&折扣优惠券</b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/tokyo-transportation-card-guide-2025
-     Hugo: /zh-cn/posts/tokyo-transportation-card-guide-2025/ -->
 <b><a href="#" style="color: #667eea;">➡️ 东京交通卡完全攻略</a></b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/tokyo-transportation-card-guide-2025
-     Hugo: /zh-cn/posts/tokyo-transportation-card-guide-2025/ -->
 <b><a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /zh-cn/posts/japan-travel-discount-coupons-2025/ -->
 <b><a href="#" style="color: #667eea;">➡️ 日本旅行折扣优惠券完全攻略</a></b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /zh-cn/posts/japan-travel-discount-coupons-2025/ -->
 <b><a href="#" style="color: #667eea;">(唐吉诃德、药妆店、百货商场)</a></b></p>
 
 

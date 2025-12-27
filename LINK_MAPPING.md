@@ -28,6 +28,7 @@ When migrating a Naver blog post to Hugo:
 | 224044938913 | shinbashi-shiodome-evening-course | 2025-10-17 | ✅ |
 | 224043919463 | odaiba-ariake-toyosu-complete-guide | 2025-10-17 | ✅ |
 | 224038071853 | tokyo-autumn-foliage-best-spots-2025 | 2025-10-12 | ✅ |
+| 224027835049 | omotesando-guide-2025 | 2025-10-01 | ✅ |
 | 224045496649 | tokyo-christmas-markets-guide-2025 | 2025-10-18 | ✅ |
 | 224026292057 | tokyo-october-festivals-2025 | 2025-09-29 | ✅ |
 | 224079692802 | tamiya-plamodel-factory-tokyo-shimbashi | 2025-11-18 | ✅ |
@@ -92,7 +93,7 @@ When migrating a Naver blog post to Hugo:
 | 224030294691 | harajuku-complete-guide-2025 | 2025-10-03 | ✅ |
 | 224099089089 | odaiba-rainbow-fireworks-2025 | 2025-12-06 | ✅ |
 | 224096781916 | omotesando-illumination-2025 | 2025-12-06 | ✅ |
-| 224095124866 | shinjuku-neon-work-illumination | 2025-12-06 | ✅ |
+| 224095124866 | shinjuku-neon-walk-tokyo-illumination-2025-2026 | 2025-12-02 | ✅ |
 | 224095118118 | tokyo-countdown-2026 | 2025-12-06 | ✅ |
 | 224034429817 | mitsui-outlet-kisarazu-guide | 2025-12-06 | ✅ |
 | 224022065518 | don-quijote-shopping-guide-2025 | 2025-09-26 | ✅ |
@@ -111,7 +112,8 @@ When migrating a Naver blog post to Hugo:
 | 224101626196 | shinjuku-chuo-park | 2025-12-18 | ✅ |
 | 224106627092 | shibuya-parco-shopping-guide | 2025-12-12 | ✅ |
 | 224105736326 | shibuya-human-made-offline-store-guide | 2025-12-11 | ✅ |
-| 224107954391 | shibuya-parco-nintendo-pokemon-guide | 2025-12-13 | ✅ |
+| 224107954391 | shibuya-station-coin-locker-luggage-storage-guide | 2025-12-13 | ✅ |
+| 223689247336 | miyashita-park-illumination-2024 | 2024-12-17 | ✅ |
 
 
 ---
@@ -326,7 +328,7 @@ declare -A MAPPINGS=(
   ["224030294691"]="harajuku-complete-guide-2025"
   ["224099089089"]="odaiba-rainbow-fireworks-2025"
   ["224096781916"]="omotesando-illumination-2025"
-  ["224095124866"]="shinjuku-neon-work-illumination"
+  ["224095124866"]="shinjuku-neon-walk-tokyo-illumination-2025-2026"
   ["224095118118"]="tokyo-countdown-2026"
   ["224024819592"]="asakusa-complete-guide"
   ["224096203397"]="shimokitazawa-tokyo-travel-guide"
@@ -403,7 +405,7 @@ declare -A MAPPINGS=(
   ["223915132048"]="shinbashi-tonkatsu-horiichi"
   ["223670085459"]="roppongi-midtown-christmas-review-2024"
   ["223688700265"]="omotesando-illumination-harajuku-observatory-review-2024"
-  ["223689247336"]="shibuya-miyashita-park-illumination-review-2024"
+  ["223689247336"]="miyashita-park-illumination-2024"
   ["223691772722"]="nihonbashi-pokemon-center-dx-cafe-guide"
   ["224008430188"]="ginza-lotte-duty-free-whisky-guide"
   ["224007665631"]="narita-to-asakusa-subway-guide"
@@ -427,6 +429,7 @@ declare -A MAPPINGS=(
   ["223987115708"]="kaneko-hannosuke-roppongi-tempura"
   ["224100382618"]="shinjuku-hotels-best-10"
   ["224106627092"]="shibuya-parco-shopping-guide"
+  ["224107954391"]="shibuya-station-coin-locker-luggage-storage-guide"
   ["224105736326"]="shibuya-human-made-offline-store-guide"
 )
 

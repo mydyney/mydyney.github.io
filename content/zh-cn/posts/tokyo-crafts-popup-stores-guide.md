@@ -94,11 +94,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 <strong>⭐ 代官山必游路线也一起确认</strong>
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032515713
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224032515713 Hugo: /zh-cn/posts/daikanyama-guide/ -->
-<a href="#" style="color: #667eea;">代官山看点，从茑屋书店（T-SITE）到餐厅、精品店、购物完美路线</a>**
+**➡️ <a href="#" style="color: #667eea;">代官山看点，从茑屋书店（T-SITE）到餐厅、精品店、购物完美路线</a>**
 
 ---
 
@@ -138,11 +134,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 <strong>⭐ 从羽田机场的交通方式确认</strong>
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223995074888
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223995074888 Hugo: /zh-cn/posts/haneda-airport-arrival-guide/ -->
-<a href="#" style="color: #667eea;">东京羽田机场到达攻略：Suica发行、机场巴士预约及前往市内方法（2025最新）</a>**
+**➡️ <a href="#" style="color: #667eea;">东京羽田机场到达攻略：Suica发行、机场巴士预约及前往市内方法（2025最新）</a>**
 
 ---
 
@@ -218,10 +210,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 <strong>⭐ 新宿必游路线也一起确认</strong>
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿玩的地方，从新宿御苑到餐厅、购物、黄金街完美路线全汇总</a>**
+**➡️ <a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;">新宿玩的地方，从新宿御苑到餐厅、购物、黄金街完美路线全汇总</a>**
 
 ---
 
@@ -250,21 +239,11 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 下方文章确认更多「东京购物路线」👇
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><b>日本旅行折扣优惠券全汇总2025（唐吉诃德、必酷、百货店等免税+额外折扣）</b></a>**
+**➡️ <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><b>日本旅行折扣优惠券全汇总2025（唐吉诃德、必酷、百货店等免税+额外折扣）</b></a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><b>2025年日本唐吉诃德购物清单必备推荐商品&折扣优惠券、免税方法全汇总</b></a>**
+**➡️ <a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><b>2025年日本唐吉诃德购物清单必备推荐商品&折扣优惠券、免税方法全汇总</b></a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224034429817 Hugo: /zh-cn/posts/mitsui-outlet-park-kisarazu-guide/ -->
-<a href="#" style="color: #667eea;"><b>东京奥特莱斯推荐，三井奥特莱斯木更津折扣优惠券、入驻品牌、交通（与御殿场比较）</b></a>**
+**➡️ <a href="#" style="color: #667eea;"><b>东京奥特莱斯推荐，三井奥特莱斯木更津折扣优惠券、入驻品牌、交通（与御殿场比较）</b></a>**
 
 
 <div class="editors-note">

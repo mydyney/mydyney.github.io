@@ -26,9 +26,6 @@ Hello!
 
 📌 <strong>This article is part of the "Complete Guide to Roppongi Attractions" series.</strong> If you want to see the full itinerary, check out the article below first!
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
 
 If you're looking for special and meaningful Tokyo souvenirs, I recommend Shinanoya supermarket at Roppongi Hills.
@@ -157,9 +154,6 @@ With 180ml small Dassai bottles now tax-free, you can purchase up to 11 bottles 
 
 If you're curious about the full Dassai lineup's official Japanese prices, check out the article below:
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /posts/dassai-sake-price-guide-japan/ -->
 <a href="#" style="color: #667eea;"><strong>→ [See Details] Complete Guide to Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour</strong></a>
 
 <figure>
@@ -359,17 +353,11 @@ If you're coming to see the Roppongi Hills Christmas Keyakizaka illumination, be
 
 ⭐ <strong>Curious about other things to do in Roppongi?</strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ [Complete Guide to Roppongi Attractions (Observatory, Festivals, Museums, Restaurants A to Z)]</strong></a>
 
 ⭐ <strong>Recommended Japanese Whisky Information</strong>
 Still wondering which whisky to buy? From beginner-friendly to gift-worthy options, find the perfect Japanese whisky for you in the comprehensive guide below!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ [See Details] Japanese Whisky Recommendations and Price Guide (Beginner & Gift Options)</strong></a>
 
 

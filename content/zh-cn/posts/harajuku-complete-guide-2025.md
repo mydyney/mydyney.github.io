@@ -195,7 +195,7 @@ featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
 
 <strong>⭐ 一起看更有帮助的东京旅行攻略</strong>
 
-<strong>**➡️ <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
+<strong>**➡️ 
 [表参道完全攻略：从咖啡、购物、美食到建筑全覆盖](#)**</strong>
 
 <strong>➡️ [涩谷完全攻略：从Sky观景台预约到购物、美食完美路线](/zh-cn/posts/shibuya-complete-guide-2025/)</strong>

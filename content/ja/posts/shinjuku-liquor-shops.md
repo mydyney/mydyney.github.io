@@ -223,7 +223,6 @@ JR新宿駅を基準に徒歩圏内の酒屋が複数集まっているため、
 
 <strong>➡️ [日本ドン・キホーテ ショッピングリスト 必須おすすめ品 & 割引クーポン、免税方法完全ガイド（ラー油、目薬など） ↗](/ja/posts/don-quijote-shopping-guide-2025/)</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224033964477 Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
 <strong>➡️ [日本カルディ ショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技） ↗](#)</strong>
 
 <strong>➡️ [日本コンビニ完全制覇！（セブンイレブン、ファミマ、ローソン比較完全ガイド）↗](/ja/posts/japan-convenience-store-shopping-best-10/)</strong>

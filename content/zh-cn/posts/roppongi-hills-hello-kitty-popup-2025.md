@@ -68,9 +68,6 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681272647
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木之丘交通方式和投币式储物柜位置</a></strong><br>
 
 <div style="margin: 2rem 0;">
@@ -247,9 +244,6 @@ Kitty&Mimi毛绒玩具、化妆包等<br>
 
 ### 2. 六本木之丘圣诞彩灯
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-christmas-illumination-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木彩灯2025 期间、点灯时间、必去景点、<br>六本木之丘圣诞市集完全攻略</a></strong><br>
 
 <figure>
@@ -272,9 +266,6 @@ Kitty&Mimi毛绒玩具、化妆包等<br>
 不会失败的3晚4日行程<br>
 全部包含！</p>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-3-day-christmas-illumination-itinerary/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">东京3晚4日圣诞特别路线<br>（动线、费用全面总结）</a></strong><br>
 
 ### 2. 东京圣诞市集 按喜好全面总结
@@ -284,9 +275,6 @@ Kitty&Mimi毛绒玩具、化妆包等<br>
 东京所有「圣诞市集」信息<br>
 全面汇总的攻略。</p>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-christmas-markets-guide-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025 东京圣诞市集，去哪里？<br>（上野、麻布台等）</a></strong><br>
 
 ### 3. 东京圣诞彩灯 BEST 5
@@ -296,9 +284,6 @@ Kitty&Mimi毛绒玩具、化妆包等<br>
 东京最佳「彩灯」<br>
 名所精选。</p>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-christmas-illumination-best-5-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025年东京圣诞彩灯 BEST 5<br>（表参道、丸之内完全攻略）</a></strong><br>
 
 

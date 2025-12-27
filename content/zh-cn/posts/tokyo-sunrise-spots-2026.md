@@ -178,15 +178,9 @@ featured_image: "/images/posts/tokyo-sunrise-spots-2026-01.jpg"
 
 ## 🧡 一起看更好的东京新年旅游信息
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224121730136
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ 2026年东京跨年倒数地点BEST3（交通信息）</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>→ 2026年东京跨年倒数地点BEST3（交通信息）</strong></a>
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224102752117
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ 2026年东京年末年初休业·营业信息【1月1日营业店铺】</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>→ 2026年东京年末年初休业·营业信息【1月1日营业店铺】</strong></a>
 
 ---
 

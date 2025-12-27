@@ -68,9 +68,6 @@ plus recommended routes to plan your Tokyo winter Christmas trip.</p>
   <li>Exit 3, then walk 270m along the street</li>
 </ul>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681272647
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ [See Details] How to Get to Roppongi Hills & Coin Locker Locations</strong></a></p>
 
 <figure>
@@ -263,9 +260,6 @@ plus recommended routes to plan your Tokyo winter Christmas trip.</p>
 </div>
 
 <p><strong>8:00 PM: Roppongi Restaurants + Tokyo Midtown Illumination (15-min walk)</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223993881300
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ Tokyo Roppongi Restaurant Guide: Michelin & Tabelog Recommendations</strong></a></p>
 <p><a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;"><strong>→ 2025 Roppongi Tokyo Midtown Christmas Complete Guide (Illumination, Ice Rink, Restaurants)</strong></a></p>
 
@@ -289,17 +283,11 @@ plus recommended routes to plan your Tokyo winter Christmas trip.</p>
 </figure>
 
 <p><strong>Related Roppongi Travel Guides:</strong></p>
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>→ Roppongi Complete Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a></p>
 
 <p><strong>2025 Tokyo Christmas:</strong></p>
 <p><a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>→ Tokyo 3-Night 4-Day Christmas Illumination Recommended Course & Markets (Routes & Budget Guide)</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>→ 2025 Tokyo Christmas Illumination BEST 5 (Roppongi, Marunouchi Tips)</strong></a></p>
 
 <p><a href="/posts/roppongi-christmas-illumination-2025/" style="color: #667eea;"><strong>→ Roppongi Hills Illumination 2025 Complete Guide</strong></a></p>

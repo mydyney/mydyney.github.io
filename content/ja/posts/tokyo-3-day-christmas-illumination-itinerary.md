@@ -72,10 +72,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>🎄 麻布台ヒルズ</b><br>
 <b>クリスマスマーケット</b><br>
 東京タワーの景色とクリスマスマーケットを楽しみましょう<br>
-<b><!-- TODO: Update link after migration
-     Naver: /ja/posts/azabudai-hills-complete-guide/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
+<b><a href="#" style="color: #667eea;">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-23.jpg" alt="麻布台ヒルズクリスマスマーケット">
@@ -111,14 +108,8 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 ミシュランビブグルマン今かつで<br>
 柔らかいササミカツディナー<br>
 ​<br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223993881300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">➡️東京六本木レストランマップ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --><br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223993881300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">ミシュラン、食べログおすすめレストラン</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --></p>
+<b><a href="#" style="color: #667eea;">➡️東京六本木レストランマップ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --><br>
+<b><a href="#" style="color: #667eea;">ミシュラン、食べログおすすめレストラン</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-26.jpg" alt="六本木レストラン、今かつ本店ササミカツ">
@@ -180,17 +171,8 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 伊勢丹/高島屋デパートでショッピング<br>
 (ランチ) ミシュランうどんきりむぎや<br>
 ​<br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /ja/posts/shinjuku-udon-guide/ -->
-<a href="#" style="color: #667eea;">➡️東京新宿うどんレストラン、</a></b><br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /ja/posts/shinjuku-udon-guide/ -->
-<a href="#" style="color: #667eea;">きりむぎや甚六ミシュランうどん</a></b></p>
+<b><a href="#" style="color: #667eea;">➡️東京新宿うどんレストラン、</a></b><br>
+<b><a href="#" style="color: #667eea;">きりむぎや甚六ミシュランうどん</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-30.jpg" alt="東京新宿うどんレストランきりむぎや甚六ミシュランうどん">
@@ -203,21 +185,9 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>成田エクスプレス(N'EX)</b>で<br>
 空港へ!<br>
 ​<br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/narita-express-guide/ -->
-<a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/narita-express-guide/ -->
-<a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
-<b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/narita-express-guide/ -->
-<a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
+<b><a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
+<b><a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
+<b><a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-31.jpg" alt="成田空港出発帰国!!!">
@@ -266,14 +236,8 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>交通カード&割引クーポン</b><br>
-<b><!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-transportation-card-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">➡️ 東京交通カード完全ガイド</a></b><br>
-<b><!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-transportation-card-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
+<b><a href="#" style="color: #667eea;">➡️ 東京交通カード完全ガイド</a></b><br>
+<b><a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 
 <b><a href="#" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --><br>

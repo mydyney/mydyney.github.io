@@ -190,9 +190,6 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 
 - <strong><a href="https://maps.app.goo.gl/TDZjAWQ5jG2GLMf37" target="_blank">黒豚とんかつ ほり壱（黒豚とんかつ ほり壱）</a></strong>: 厳選された「鹿児島黒豚」の次元の異なる風味と肉汁を味わえるプレミアムとんかつ（食べログ百名店2024）
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915132048
-     Hugo: /ja/posts/shinbashi-tonkatsu-horiichi/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京新橋とんかつ名店 | 黒豚ほり壱ミシュラン黒豚とんかつレビュー</strong></a></strong>
 
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">とんかつ 明石（とんかつ 明石）</a></strong>: 地元サラリーマンに愛されてきたコスパの良い隠れたとんかつ名店（食べログ百名店5回）
@@ -214,9 +211,6 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/fM4wBrz1iJVbpZbwswY8?medium_slug=AJvA6Kg5ptKi" target="_blank">炭焼 うな富士 有楽町をオンライン予約</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914321510
-     Hugo: /ja/posts/sumiyaki-unafuji-yurakucho/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京うなぎ名店 | 炭焼 うな富士 有楽町店レビュー</strong></a></strong>
 
 <figure>
@@ -239,9 +233,6 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 
 新橋駅はお台場へ向かう「ゆりかもめ」の出発点です。居酒屋で1次会を楽しんだ後、ゆりかもめに乗ってお台場の幻想的な夜景を鑑賞するコースをおすすめします。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224043919463
-     Hugo: /ja/posts/odaiba-ariake-toyosu-complete-guide/ -->
 <strong>➡️ <a href="/ja/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>東京お台場おすすめスポット：一日完成！おすすめコース総まとめ</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

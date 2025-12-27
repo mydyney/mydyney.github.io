@@ -238,14 +238,8 @@ JR新宿站地下1楼东检票口和中央东检票口附近共4处（其中1处
 
 想了解新宿更多游玩地、美食、购物路线的朋友，请查看以下"新宿完美路线"攻略！
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
-<a href="#" style="color: #667eea;">新宿游玩地，从新宿御苑到美食、购物、黄金街完美路线全汇总</a>**
+**➡️ <a href="#" style="color: #667eea;">新宿游玩地，从新宿御苑到美食、购物、黄金街完美路线全汇总</a>**
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /zh-cn/posts/hakone-day-trip-course/ -->
 ➡️ <a href="#" style="color: #667eea;"><b>箱根旅行，一日游 vs 旅馆1晚完美路线推荐（箱根周游券、浪漫特快预约）</b></a>
 
 

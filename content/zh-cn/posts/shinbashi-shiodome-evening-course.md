@@ -190,9 +190,6 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 
 - <strong><a href="https://maps.app.goo.gl/TDZjAWQ5jG2GLMf37" target="_blank">黑猪炸猪排 堀壱（黒豚とんかつ ほり壱）</a> 📍</strong>：精选"鹿儿岛黑猪"、不同维度的风味和肉汁的高端炸猪排（Tabelog百名店2024）
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915132048
-     Hugo: /zh-cn/posts/shinbashi-tonkatsu-horiichi/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京新橋炸猪排名店 | 黑猪堀壱米其林黑猪炸猪排评测</strong></a></strong>
 
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">炸猪排 明石（とんかつ 明石）</a> 📍</strong>：受到当地上班族喜爱的性价比高的隐藏炸猪排名店（Tabelog百名店5次）
@@ -214,9 +211,6 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/fM4wBrz1iJVbpZbwswY8?medium_slug=AJvA6Kg5ptKi" target="_blank">在线预约炭烤 鳗富士 有乐町</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914321510
-     Hugo: /zh-cn/posts/sumiyaki-unafuji-yurakucho/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京鳗鱼名店 | 炭烤 鳗富士 有乐町店评测</strong></a></strong>
 
 <figure>
@@ -239,9 +233,6 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 
 新橋站是前往台场的"百合鸥线"起点。建议在居酒屋享受第一摊后，乘坐百合鸥线欣赏台场梦幻夜景的路线。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224043919463
-     Hugo: /zh-cn/posts/odaiba-ariake-toyosu-complete-guide/ -->
 <strong>➡️ <a href="/zh-cn/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>东京台场推荐景点：一日完成！推荐路线总结</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

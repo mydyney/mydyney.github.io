@@ -42,10 +42,7 @@ featured_image: "/images/posts/tokyo-countdown-2026-01.jpg"
 <li><b>おすすめ対象：</b>若い旅行者、カップル、エキサイティングなパーティー雰囲気を求める友人グループ 🎉</li>
 </ul>
 
-<b>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224095118118
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>新宿都庁カウントダウン2026ベストスポット＆ラインナップ</strong></a></b>
+<b>➡️ <a href="#" style="color: #667eea;"><strong>新宿都庁カウントダウン2026ベストスポット＆ラインナップ</strong></a></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-02.jpg" alt="東京カウントダウンスポット新宿都庁2026">
@@ -124,10 +121,7 @@ featured_image: "/images/posts/tokyo-countdown-2026-01.jpg"
 <li><b>おすすめ対象：</b>家族旅行者、日本の伝統文化を体験したい方、食べることが勝つことだと思う方。🍢</li>
 </ul>
 
-<b>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京浅草観光スポット＆レストラン完全ガイド</strong></a></b>
+<b>➡️ <a href="#" style="color: #667eea;"><strong>東京浅草観光スポット＆レストラン完全ガイド</strong></a></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-04.jpg" alt="東京新年カウントダウン2026浅草浅草寺">
@@ -254,24 +248,15 @@ A. 東京の冬の夜は思ったより寒いです（2～5℃）。長時間屋
 <b>🌅 カウントダウン後に初日の出を見に行きますか？</b>  
 徹夜パーティーの後、始発で行ける<b>「予約不要の無料初日の出スポット」</b>が気になりますか？渋谷スカイ、スカイツリーは売り切れですが、行く場所はたくさんあります！お台場、羽田、葛西臨海公園など、ベスト7スポットをまとめました。👇
 
-<b>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224122259609
-     Hugo: /ja/posts/tokyo-sunrise-spots-2026/ -->
-<a href="/ja/posts/tokyo-sunrise-spots-2026/" style="color: #667eea;"><strong>2026年東京初日の出時間6時50分台｜予約不要で行ける無料の東京日の出スポットBEST7</strong></a></b>
+<b>➡️ <a href="/ja/posts/tokyo-sunrise-spots-2026/" style="color: #667eea;"><strong>2026年東京初日の出時間6時50分台｜予約不要で行ける無料の東京日の出スポットBEST7</strong></a></b>
 
 ---
 
 ## 🧡 一緒に見ると良い東京年末旅行情報
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224095118118
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ 新宿都庁カウントダウン2026ベストスポット＆ラインナップ</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>→ 新宿都庁カウントダウン2026ベストスポット＆ラインナップ</strong></a>
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224093184321
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ 2025年12月31日東京タワー消灯スケジュールと新年初日ライトアップ</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>→ 2025年12月31日東京タワー消灯スケジュールと新年初日ライトアップ</strong></a>
 
 ➡️ <a href="/ja/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;"><strong>→ 2026年東京年末年始休業・営業情報｜1月1日営業店舗</strong></a>
 

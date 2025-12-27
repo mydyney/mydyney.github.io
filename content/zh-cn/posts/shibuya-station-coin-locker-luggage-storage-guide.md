@@ -271,7 +271,7 @@ A. 老式钥匙锁只能用100日元硬币。虽然新款支持西瓜卡，但�
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224107954391" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="/zh-cn/posts/shibuya-station-coin-locker-luggage-storage-guide/" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
   </p>
 </div>
 

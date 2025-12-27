@@ -213,26 +213,11 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 轮到尽享代官山<br>
 精致现在的时候了。<br>
 ​<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032515713
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 代官山必看之处，</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032515713
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><b>茑屋（T-SITE）到美食、</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032515713
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><b>选品店完美路线</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
 <b>​</b><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032086475
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 中目黑必看之处</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032086475
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><b>（代官山步行10分钟）</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
 <b>​</b><br>
 <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>➡️ 涩谷完全游玩攻略</b></a><br>

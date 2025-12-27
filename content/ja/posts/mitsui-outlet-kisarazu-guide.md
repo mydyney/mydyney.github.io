@@ -292,9 +292,6 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 <strong>ギフト＆フード：</strong>
 - <strong>ゴディバ（GODIVA）</strong>、リンツ、カルディコーヒーファーム
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト、2025年必ず買うべきカルディ推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a></strong>
 
 <figure>
@@ -351,16 +348,10 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 <strong>➡️ [新宿完全ガイド：新宿御苑からレストラン、ショッピング、ゴールデン街まで](/ja/posts/shinjuku-guide-2025/)</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /ja/posts/tokyo-station-guide/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京駅ガイド：キャラクターストリート、レストラン、夜景、荷物保管</strong></a></strong>
 
 <strong>➡️ [日本ドン・キホーテショッピングリスト＆割引クーポンガイド](/ja/posts/don-quijote-shopping-guide-2025/)</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>日本カルディショッピングリスト：必ず買うべき推奨品（スプレッド、ポーションコーヒー、免税꿀팁）</strong></a></strong>
 
 <strong>🔥 日本ショッピング前必須チェック！</strong>

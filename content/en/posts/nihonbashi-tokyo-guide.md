@@ -136,9 +136,6 @@ A paradise for Pokemon fans located in Takashimaya S.C. New Building. Full of li
 
 If you're curious about detailed interior views, limited edition goods, and the 100% reservation-only Pokemon Cafe, check out the detailed guide below!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223691772722
-     Hugo: /posts/nihonbashi-pokemon-center-dx-cafe-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Nihonbashi Pokemon Center Tokyo DX & Pokemon Cafe, 5 Minutes from Tokyo Station</strong></a>
 
 <figure>
@@ -293,9 +290,6 @@ Nihonbashi is located in central Tokyo, making it a perfect starting point for a
 
 Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach Tokyo Station. Explore the massive underground shopping area with Character Street and Ramen Street, or enjoy the beautiful Marunouchi Station building's night view.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /posts/tokyo-station-guide/ -->
 ➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
 
 <strong>🚇 2 Minutes by Subway (Ginza Line)! Luxury Shopping Center, Ginza</strong>

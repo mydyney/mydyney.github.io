@@ -224,9 +224,6 @@ Isetan/Takashimaya department store shopping<br>
 (Lunch) Michelin udon Kirimugiya<br>
 ​<br>
 <b><!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /posts/shinjuku-udon-guide/ -->
 <a href="#" style="color: #667eea;">➡️Tokyo Shinjuku Udon Restaurant,</a></b><br>
 <b><!-- Link updated -->
 <a href="#" style="color: #667eea;">Kirimugiya Jinroku Michelin Udon</a></b></p>
@@ -243,9 +240,6 @@ Take <b>Narita Express (N'EX)</b><br>
 to the airport!<br>
 ​<br>
 <b><!-- Link updated -->
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /posts/narita-express-guide/ -->
 <a href="#" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
 <b><!-- Link updated -->
 <a href="#" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>

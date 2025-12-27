@@ -42,10 +42,7 @@ Shinjuku Tokyo Metropolitan Government Building hosts Tokyo's largest free count
 <li><b>Recommended for:</b> Young travelers, couples, friend groups who want an exciting party atmosphere 🎉</li>
 </ul>
 
-<b>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224095118118
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Shinjuku Tokyo Metropolitan Government Countdown 2026 Best Spots & Lineup</strong></a></b>
+<b>➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Tokyo Metropolitan Government Countdown 2026 Best Spots & Lineup</strong></a></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-02.jpg" alt="Tokyo countdown spot Shinjuku Tokyo Metropolitan Government 2026">
@@ -124,10 +121,7 @@ Sensoji, Tokyo's oldest temple, transforms into a massive festival grounds on th
 <li><b>Recommended for:</b> Families, those who want to experience Japanese traditional culture, those who believe eating is winning. 🍢</li>
 </ul>
 
-<b>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Asakusa Attractions & Restaurants Complete Guide</strong></a></b>
+<b>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Asakusa Attractions & Restaurants Complete Guide</strong></a></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-04.jpg" alt="Tokyo New Year countdown 2026 Asakusa Sensoji">
@@ -254,24 +248,15 @@ Dress warmly and have a happy New Year with your loved ones. <b>Happy New Year! 
 <b>🌅 Going to see the sunrise after countdown?</b>  
 After the all-night party, curious about <b>'free sunrise spots without reservations'</b> you can reach by first train? Shibuya Sky and Skytree are sold out, but there are many places to go! We've compiled the best 7 spots including Odaiba, Haneda, and Kasai Seaside Park. 👇
 
-<b>➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224122259609
-     Hugo: /posts/tokyo-sunrise-spots-2026/ -->
-<a href="/posts/tokyo-sunrise-spots-2026/" style="color: #667eea;"><strong>Tokyo Sunrise Time 2026: Best 7 Free Sunrise Spots Without Reservation</strong></a></b>
+<b>➡️ <a href="/posts/tokyo-sunrise-spots-2026/" style="color: #667eea;"><strong>Tokyo Sunrise Time 2026: Best 7 Free Sunrise Spots Without Reservation</strong></a></b>
 
 ---
 
 ## 🧡 Related Tokyo Year-End Travel Information
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224095118118
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ Shinjuku Tokyo Metropolitan Government Countdown 2026 Best Spots & Lineup</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>→ Shinjuku Tokyo Metropolitan Government Countdown 2026 Best Spots & Lineup</strong></a>
 
-➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224093184321
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>→ Tokyo Tower Lighting Off Schedule December 31, 2025 & New Year's Day Light-Up</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>→ Tokyo Tower Lighting Off Schedule December 31, 2025 & New Year's Day Light-Up</strong></a>
 
 ➡️ <a href="/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;"><strong>→ 2026 Tokyo Year-End/New Year Hours & Business Info | Stores Open on January 1st</strong></a>
 

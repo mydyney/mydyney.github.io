@@ -207,13 +207,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 完美享受横滨地标建筑的<br>
 横滨1日推荐路线请查看!<br>
 ​<br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /zh-cn/posts/yokohama-one-day-itinerary/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 横滨1日路线 </b></a><br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /zh-cn/posts/yokohama-one-day-itinerary/ -->
 <a href="#" style="color: #667eea;"><b>中华街美食、红砖仓库、夜景景点完全攻略</b></a></p>
 
 ---
@@ -224,10 +218,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 为节省交通费<br>
 「港未来通票」必备!<br>
 ​<br>
-<b>➡️</b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /zh-cn/posts/yokohama-minato-burari-ticket-guide/ -->
-<a href="#" style="color: #667eea;"><b> 横滨交通通票、「港未来通票」完全攻略</b></a></p>
+<b>➡️</b><a href="#" style="color: #667eea;"><b> 横滨交通通票、「港未来通票」完全攻略</b></a></p>
 
 
 <div class="editors-note">

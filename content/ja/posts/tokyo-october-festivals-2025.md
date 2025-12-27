@@ -57,9 +57,6 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 <strong>💸 料金</strong>：観覧無料
 <strong>💡 ポイント</strong>：9月「ふくろ祭り」のフィナーレを飾る2部イベントです。最終日の全チームによる「総踊り」をお見逃しなく！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223980166231
-     Hugo: /ja/posts/harajuku-omotesando-super-yosakoi/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 8月の東京イベント、原宿表参道スーパーよさこい</strong></a>
 
 <figure>
@@ -241,9 +238,6 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 - <strong>10月の状態</strong>：10月末、芦ノ湖周辺や高地から紅葉の便りが届きます。本格的な見頃は11月ですが、美術館を巡りながら静かに秋の始まりを感じるのに完璧な場所です。
 - <strong>特徴</strong>：美しい自然の中で温泉と芸術を一緒に楽しめるため、ご両親との旅行先としても人気が高いです。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /ja/posts/hakone-day-trip-course/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 箱根旅行、日帰りvs旅館1泊 完璧コース推薦（箱根フリーパス、ロマンスカー予約）</strong></a>
 
 ### 4. 🍂 東京都心の公園（明治神宮外苑など）
@@ -269,9 +263,6 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 <!-- TODO: Update link after migration
 <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>➡️ 銀座おすすめスポット、失敗しないコース完全ガイド（ショッピング、グルメ、裏技）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-attractions-guide
-     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ 六本木の楽しみ方完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a>
 
 

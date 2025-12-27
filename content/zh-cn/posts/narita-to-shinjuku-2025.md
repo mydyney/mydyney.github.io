@@ -64,7 +64,6 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 顺便说一下，虽然也有「成田新宿Skyliner」路线，但需要在上野站或日暮里站换乘1次，所以本文重点介绍<strong>「直达路线：成田特快 vs 利木津巴士」</strong>对比。
 (Skyliner将在另一篇详细文章中介绍。)
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /zh-cn/posts/skyliner-reservation-guide/ -->
 <strong>➡️ [Skyliner vs N'EX对比、上野・新宿完全攻略↗](#)</strong>
 
 ---
@@ -83,7 +82,6 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 - <strong>优点</strong>:全席指定座、宽敞座位间距+大型行李架
 - <strong>缺点</strong>:单程较贵，<strong>强烈推荐往返票</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /zh-cn/posts/narita-express-guide/ -->
 <strong>➡️ [成田特快(N'EX)预订・选座完全攻略↗](#)</strong>
 
 - <strong>预订方法</strong>:Klook、KKday / JR东日本服务中心
@@ -211,7 +209,6 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 - <strong>优点</strong>:行李无忧，家庭・亲子游最佳
 - <strong>缺点</strong>:受交通状况影响，部分时段需要预订
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /zh-cn/posts/narita-airport-limousine-guide/ -->
 <strong>➡️ [成田机场利木津巴士完全攻略↗](#)</strong>
 
 - <strong>预订方法</strong>:Klook / 机场售票柜台
@@ -495,16 +492,12 @@ A. 这种情况只能选择以下方案之一:
 
 除了新宿交通，如果需要各交通方式的详细信息或完整机场攻略，请查看以下详细指南。
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224007949043 Hugo: /zh-cn/posts/narita-airport-arrival-guide/ -->
 <strong>➡️ [东京成田机场到达攻略(市内交通、Suica、ATM完全指南)↗](#)</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /zh-cn/posts/narita-express-guide/ -->
 <strong>➡️ [成田特快(N'EX)预订、价格、时刻表完全攻略↗](#)</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /zh-cn/posts/narita-airport-limousine-guide/ -->
 <strong>➡️ [成田机场利木津巴士&经济快线巴士完全攻略(预订、价格)↗](#)</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /zh-cn/posts/skyliner-reservation-guide/ -->
 <strong>➡️ [Skyliner预订、价格、时刻表完全攻略(N'EX对比)↗](#)</strong>
 
 <strong>➡️ [成田机场第1航站楼免税店5%折扣券(购物清单)↗](/zh-cn/posts/narita-airport-terminal1-duty-free-coupon-guide/)</strong>

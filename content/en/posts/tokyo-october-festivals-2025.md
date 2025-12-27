@@ -57,9 +57,6 @@ A massive dance festival that shakes up Ikebukuro! Over 100 teams from across Ja
 <strong>💸 Fee</strong>: Free viewing
 <strong>💡 Tip</strong>: This is the grand finale of September's "Fukuro Festival." Don't miss the "Grand Dance" where all teams dance together on the final day!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223980166231
-     Hugo: /posts/harajuku-omotesando-super-yosakoi/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ August Tokyo Festival: Harajuku Omotesando Super Yosakoi</strong></a>
 
 <figure>
@@ -241,9 +238,6 @@ October marks the prelude to Tokyo's full autumn foliage season. While downtown 
 - <strong>October Status</strong>: Late October brings foliage news from around Lake Ashi and high elevations. Though peak season is November, it's perfect for quietly enjoying autumn's beginning while visiting museums.
 - <strong>Highlight</strong>: Popular with families for combining hot springs and art with beautiful nature.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /posts/hakone-day-trip-course/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Hakone Travel: Day Trip vs Ryokan 1-Night Perfect Course (Hakone Free Pass, Romancecar Reservations)</strong></a>
 
 ### 4. 🍂 Tokyo Downtown Parks (Meiji Jingu Gaien, etc.)
@@ -269,9 +263,6 @@ Curious about other attractions in the festival areas? Check out these guides:
 <!-- TODO: Update link after migration
 <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ -->
 <a href="#" style="color: #667eea;"><strong>➡️ Roppongi Attractions Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
 
 

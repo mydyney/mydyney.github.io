@@ -23,9 +23,6 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 </figure>
 
 ⭐想一览新宿全域旅游路线和美食·购物·夜景信息
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/[ID]
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
 ➡️ <a href="#" style="color: #667eea;">新宿观光完整路线全汇总</a>
 
 ## 🌆 东京都厅展望台基本信息
@@ -299,9 +296,6 @@ featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 
 打造难忘的东京之夜吧。 😊
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/[ID]
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>新宿观光，从新宿御苑到美食、购物、黄金街完美路线全汇总</strong></a>
 
 

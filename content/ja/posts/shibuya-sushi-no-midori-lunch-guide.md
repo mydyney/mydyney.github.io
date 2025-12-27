@@ -120,9 +120,6 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 待ち時間が30分以上残っている場合は、マークシティ地下のカルディ（KALDI）、ダイソーでショッピングしたり、渋谷スクランブル交差点を見学してきましょう。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">日本カルディショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技）</a></strong></p>
 
 <figure>
@@ -233,19 +230,10 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 <h2>🧡 一緒に見ると良い渋谷旅行ガイド</h2>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shibuya-complete-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷スカイ予約・ショッピング・グルメまで完璧コース</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/harajuku-complete-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="/ja/posts/harajuku-complete-guide-2025/" style="color: #667eea;">原宿ハリーポッターストア・竹下通り・キャットストリート徒歩コース</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224096203397
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="/ja/posts/shimokitazawa-tokyo-travel-guide/" style="color: #667eea;">下北沢ヴィンテージショッピング・グルメ・必須コース（渋谷から10分）</a></strong></p>
 
 

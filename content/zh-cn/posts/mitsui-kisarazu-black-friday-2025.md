@@ -195,9 +195,6 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 前往木更津奥特莱斯的方法（穿梭巴士时刻表）、折扣优惠券等基本信息，在完全指南中可完美确认。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /zh-cn/posts/mitsui-outlet-kisarazu-guide/ -->
 <strong>➡️ [完全指南：东京奥特莱斯推荐，三井奥特莱斯木更津折扣优惠券、入驻品牌、交通方式（御殿场比较）](#)</strong>
 
 ### 1. 穿梭巴士必须预约！
@@ -223,9 +220,6 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 - 耐克·Celine推荐开门即入
 - 购买旅行伴手礼（乐高、宝可梦商店、Godiva、KALDI）
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /zh-cn/posts/kaldi-coffee-farm-shopping-list/ -->
 <strong>➡️ [日本KALDI购物清单，2025年必买KALDI推荐（酱料、挂耳咖啡、免税小技巧）](#)</strong>
 
 <figure>
@@ -243,7 +237,6 @@ featured_image: "/images/posts/mitsui-kisarazu-black-friday-2025-01.jpg"
 
 ➡️ [新宿玩乐，从新宿御苑到美食、购物、黄金街完美路线总汇](/zh-cn/posts/shinjuku-guide-2025/)
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224031611221 Hugo: /zh-cn/posts/tokyo-station-guide/ -->
 ➡️ [东京站玩乐，从角色街到美食、夜景、行李寄存投币柜](#)
 
 <div class="editors-note">

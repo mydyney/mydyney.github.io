@@ -132,9 +132,6 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 
 <p><em>六本木の街全体が巨大な美術館に変身する夜のアートの祭典。今年は韓国アートを特集しているので、特別な体験ができます。</em></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024530348
-     Hugo: /ja/posts/roppongi-art-night-guide/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ 【詳しく見る】六本木アートナイト おすすめラインナップ</strong></a></p>
 
 <table class="schedule-table">

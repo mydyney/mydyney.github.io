@@ -360,31 +360,16 @@ Even first-time visitors to Shinjuku gacha (gashapon) will find this guide suffi
 
 ## 🧡 Related Shinjuku Travel Guides
 
-<!-- TODO: Update link after migration
-     Naver: /posts/shinjuku-luggage-storage/
-     Hugo: /posts/[SLUG_TBD]/ -->
 - <strong>No more luggage worries!</strong> <strong>➡️ <a href="/posts/shinjuku-luggage-storage/" style="color: #667eea;"><strong>Shinjuku Station Luggage Storage 100% Success Guide, Coin Locker Locations & Tips</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/shinjuku-station-breakfast-best-8/
-     Hugo: /posts/[SLUG_TBD]/ -->
 - <strong>Opens at 7 AM for breakfast!</strong> <strong>➡️ <a href="/posts/shinjuku-station-breakfast-best-8/" style="color: #667eea;"><strong>Shinjuku Station Breakfast 7-8 AM Opening, Brunch & Home-style Meals</strong></a></strong>
 
 - <strong>Itinerary Planning</strong> <strong>➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Complete Shinjuku Guide: Restaurants, Shopping & Activities Course</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/shinjuku-gyoen-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 - <strong>Autumn Picnic</strong> ➡️ <strong><a href="/posts/shinjuku-gyoen-guide-2025/" style="color: #667eea;"><strong>Shinjuku Gyoen Admission, Hours, Starbucks & Picnic Guide</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-metropolitan-govt-observatory/
-     Hugo: /posts/[SLUG_TBD]/ -->
 - <strong>Free Night View</strong> <strong>➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Free Observatory Access & Night View Tips</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/shinjuku-golden-gai-vs-omoide-yokocho/
-     Hugo: /posts/[SLUG_TBD]/ -->
 - <strong>Shinjuku Nights ➡️ <a href="/posts/shinjuku-golden-gai-vs-omoide-yokocho/" style="color: #667eea;"><strong>Shinjuku Golden Gai vs Omoide Yokocho Comparison</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
