@@ -7,6 +7,7 @@ tags: ["東京駅", "ラーメン", "東京ラーメンストリート", "みそ
 author: "Tokyo Mate"
 translationKey: "tokyo-station-ramen-street-complete-guide-2025"
 description: "2025年8月リニューアル後の東京駅ラーメンストリート全10店舗完全ガイド。みそきん予約攻略法、ひらこ屋メニュー推薦、好みに合わせた素早い選択ガイドを紹介。"
+featured_image: "/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"
 images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 ---
 

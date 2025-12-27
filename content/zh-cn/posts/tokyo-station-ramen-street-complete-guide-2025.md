@@ -7,6 +7,7 @@ tags: ["东京站", "拉面", "东京拉面街", "みそきん", "ひらこ屋",
 author: "Tokyo Mate"
 translationKey: "tokyo-station-ramen-street-complete-guide-2025"
 description: "2025年8月翻新后的东京站拉面街全10家店铺完全攻略。みそきん预约攻略、ひらこ屋菜单推荐、根据口味快速选择指南。"
+featured_image: "/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"
 images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 ---
 

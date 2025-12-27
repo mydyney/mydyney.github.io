@@ -7,6 +7,7 @@ tags: ["tokyo-station", "ramen", "tokyo-ramen-street", "misokin", "hirakoya", "r
 author: "Tokyo Mate"
 translationKey: "tokyo-station-ramen-street-complete-guide-2025"
 description: "Complete guide to Tokyo Station Ramen Street featuring all 10 shops after the August 2025 renewal. Includes Misokin reservation tips, Hirakoya menu recommendations, and a quick selection guide by taste preference."
+featured_image: "/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"
 images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 ---
 
