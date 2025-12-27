@@ -73,6 +73,11 @@ To ensure quality and allow for early feedback, follow this incremental approach
 
 **Step 3.1: Analysis Phase**
 - Extract publish date from Naver HTML
+- **Determine Hugo slug for this post:**
+  - Create SEO-friendly kebab-case slug
+  - Rules: lowercase, hyphens, keyword-rich, under 60 chars
+  - Example: `roppongi-christmas-illumination-2025`
+  - **Immediately record in LINK_MAPPING.md** (Naver ID → Hugo slug mapping)
 - Count images and verify order
 - Load LINK_MAPPING.md for internal link conversion
 - Identify all Naver links in content
@@ -145,8 +150,11 @@ When encountering exceptionally long Naver posts (1,000+ lines of HTML), use a s
 - Avoids response truncation
 
 **Step 3.2: Create English Version FIRST**
-- Create `content/en/posts/[slug].md`
+- Create `content/en/posts/[slug].md` (using slug from Step 3.1)
 - Apply all content creation guidelines (see below)
+- Process all Naver links using Link Conversion Workflow (see "Link Mapping System" section)
+  - Links to this new post will now work in other posts
+  - Links to unmigrated posts will use TODO placeholders
 - **STOP and request user review**
 - Wait for user "OK" before proceeding
 
@@ -155,11 +163,11 @@ When encountering exceptionally long Naver posts (1,000+ lines of HTML), use a s
 - Create `content/zh-cn/posts/[slug].md`
 - Apply same guidelines with language-specific adaptations
 
-**Step 3.4: Update LINK_MAPPING.md**
-- Add new entry to Quick Reference Table
-- Add slug to `declare -A MAPPINGS` array
-- Check and update Pending References
-- Update placeholder links in existing posts
+**Step 3.4: Finalize LINK_MAPPING.md**
+- Verify new entry in Quick Reference Table (added in Step 3.1)
+- Verify slug in `declare -A MAPPINGS` array (added in Step 3.1)
+- Update Pending References section
+- Note: Placeholder links in existing posts will be updated in future migrations
 
 **Analysis:**
 
@@ -487,6 +495,8 @@ git push
 ### Link Conversion Workflow (Step-by-Step)
 
 **⚠️ MANDATORY: Follow this exact workflow for EVERY Naver link**
+
+**📝 Note:** When creating a new post, the slug is determined in Step 3.1 and immediately recorded in LINK_MAPPING.md. This means other posts can now reference this new post using the slug.
 
 For each Naver blog link found in the original HTML:
 
