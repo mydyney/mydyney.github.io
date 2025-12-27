@@ -289,14 +289,8 @@ Suica/Pasmoカードを使用するか、個別に切符を購入する必要が
 
 <strong>➡️</strong> <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿旅行コース：御苑からレストラン＆ゴールデン街まで完璧ガイド</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shibuya-complete-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>渋谷旅行コース：渋谷スカイ予約コツ＆完全ショッピングガイド</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037212344
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>吉祥寺旅行コース：ブティックショップツアー＆井の頭公園（ジブリ美術館）</strong></a>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

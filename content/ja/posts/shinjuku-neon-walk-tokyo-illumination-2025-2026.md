@@ -294,9 +294,6 @@ featured_image: "/images/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026-0
 
 <strong>👇 新宿新年カウントダウン 無料応募方法</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224095118118
-     Hugo: /ja/posts/tokyo-countdown-2026/ -->
 <strong>➡️</strong> <a href="/ja/posts/tokyo-countdown-2026/" style="color: #667eea; background-color:#fff8b2; padding:2px 6px;"><strong>Happy New Year Tokyo 2026 申請＆ラインアップ総まとめ</strong></a>
 
 <figure>
@@ -316,19 +313,13 @@ Tokyo Mateでした！
 
 ## 🧡 一緒に見ると良い新宿旅行ガイド
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 完全比較（2025最新版）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035271300
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿観光スポット：新宿御苑からレストラン、ショッピングまで完璧コース</strong></a>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224095124866" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="/ja/posts/shinjuku-neon-walk-tokyo-illumination-2025-2026/" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
   </p>
 </div>
 

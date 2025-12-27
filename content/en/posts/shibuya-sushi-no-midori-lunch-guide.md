@@ -120,9 +120,6 @@ Scan the QR code on your ticket to see <strong>'Teams Ahead of You'</strong> and
 
 If you have 30+ minutes left, go shopping at KALDI or Daiso in Mark City basement, or visit Shibuya Scramble Crossing.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Japan Kaldi Shopping List: Must-Buy Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</a></strong></p>
 
 <figure>
@@ -233,14 +230,8 @@ It's rare to find a place in the heart of Shibuya where you can eat your fill of
 
 <h2>🧡 Related Shibuya Travel Guides</h2>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/shibuya-complete-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Sky Reservation, Shopping & Restaurant Complete Course</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/harajuku-complete-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="/posts/harajuku-complete-guide-2025/" style="color: #667eea;">Harajuku Harry Potter Store, Takeshita Street & Cat Street Walking Course</a></strong></p>
 
 <p><strong>➡️ <a href="/posts/shimokitazawa-tokyo-travel-guide/" style="color: #667eea;">Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course (10 min from Shibuya)</a></strong></p>

@@ -98,9 +98,6 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 <strong>🥢 焼き鳥 野野鳥 げん長</strong>
 ステーションタワー4階にある焼き鳥おまかせレストランを紹介します。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223913830951
-     Hugo: /ja/posts/toranomon-hills-yakitori-nonotori/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>焼き鳥おまかせ、野野鳥げん長レビュー</strong></a>
 
 <figure>
@@ -206,18 +203,12 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 <strong>🚶‍♂️ 地下鉄3分！東京最高の新スポット、麻布台ヒルズ</strong>
 虎ノ門ヒルズが「ビジネス」の中心なら、すぐ隣の「麻布台ヒルズ」は「観光」の中心です。2つのヒルズをまとめて東京の最新建築と文化を一日で制覇してみてください！
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/azabudai-hills-complete-guide/
-     Hugo: /ja/posts/azabudai-hills-complete-guide/ -->
 ➡️ <a href="/ja/posts/azabudai-hills-complete-guide/" style="color: #667eea;"><strong>東京麻布台ヒルズ見どころ：展望台、グルメ、チームラボまで</strong></a>
 
 <strong>🚶‍♂️ 地下鉄5分！東京夜景のクラシック、六本木ヒルズ</strong>
 地下鉄5分で「六本木ヒルズ」に到着します。
 「森美術館」と「東京シティビュー展望台」でまた別の感動の東京夜景を体験してください。
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-attractions-guide
-     Hugo: /ja/posts/roppongi-attractions-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、グルメ）</strong></a>
 
 

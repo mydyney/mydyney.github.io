@@ -561,9 +561,6 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 
 <strong>👉</strong> <a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本旅游折扣券总整理2025（唐吉诃德、BIC CAMERA、百货等免税+追加折扣）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>👉</strong> <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单2025年必买KALDI推荐（酱料、挂耳咖啡、免税小贴士）</strong></a>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

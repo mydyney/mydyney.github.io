@@ -110,9 +110,6 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 3. 沿代代木公园边缘缓步前行，突然<strong>树枝在头顶交汇的蓝色榉树隧道</strong>出现在眼前
 
 <strong>➡️ [相关文章]</strong>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224096781916
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>2025年表参道彩灯期间、时间、地点&拍摄点完全攻略</strong></a>
 
 <figure>
@@ -198,7 +195,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 🚶 表参道・原宿购物<strong>→ 表参道彩灯 → 涩谷青之洞窟（步行）</strong>
 
-<strong>➡️</strong> <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /zh-cn/posts/[SLUG_TBD]/ --> <a href="#" style="color: #667eea;"><strong>表参道完全攻略：咖啡、购物、餐厅、建筑</strong></a>
+<strong>➡️</strong>  <a href="/zh-cn/posts/omotesando-guide-2025/" style="color: #667eea;"><strong>表参道完全攻略：咖啡、购物、餐厅、建筑</strong></a>
 
 <strong>➡️</strong> <a href="/zh-cn/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>原宿景点：哈利波特商店到竹下通&猫街</strong></a>
 

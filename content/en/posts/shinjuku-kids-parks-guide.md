@@ -336,7 +336,6 @@ Space museum <strong>"TeNQ"</strong>
 For <strong>Shinjuku children's attractions</strong>, this is the strongest half-day rainy day course.
 
 <!-- Link updated -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224035895968 Hugo: /posts/tokyo-dome-city-guide/ -->
 <a href="#" style="color: #667eea;"><b>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels - Complete Guide</b></a>
 
 ### 🚆 How to Get There from Shinjuku

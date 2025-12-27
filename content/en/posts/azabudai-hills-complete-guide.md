@@ -67,9 +67,6 @@ If your goal is to enjoy Tokyo Tower from the front, <strong>visiting Sky Room C
 
 For detailed Sky Room menu, access directions, sunset/night view tips, and latest operating schedule, check the complete observatory guide below!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /posts/azabudai-hills-sky-room-cafe-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills Observatory Cafe Sky Room: Complete Guide to Menu, Access, Sunset & Night Views</strong></a>
 
 <figure>
@@ -96,9 +93,6 @@ The <strong>'teamLab Borderless'</strong> that sadly closed in Odaiba in 2022 <s
 
 ✅ <strong>[Buy teamLab Borderless Tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1145918&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F)</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /posts/azabudai-hills-teamlab-borderless-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills teamLab Borderless Complete Guide</strong></a>
 
 <figure>
@@ -119,16 +113,10 @@ This isn't just a food court—it's a premium culinary space gathering Japan's b
 <strong>[Bakery/Desserts] (Tabelog Top 100 & SNS Sensation)</strong>
 - <strong>Comme'N TOKYO</strong>: One of Tokyo's best bakeries, featured in Tabelog's Bakery Top 100—speaks for itself.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /posts/azabudai-hills-commen-bakery-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Comme'N Tokyo, Azabudai Hills Bakery Review</strong></a>
 
 - <strong>CRIOLLO</strong>: World-renowned chocolatier's premium chocolates. (Recommended for gifts)
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223708789355
-     Hugo: /posts/azabudai-hills-criollo-chocolate-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Criollo Chocolatier Chocolate Gift Review</strong></a>
 
 - <strong>BLANCA</strong>: Premium Basque cheesecake shop perfect for gifts
@@ -209,14 +197,8 @@ Beyond the Market, we recommend specialized restaurants scattered throughout the
 
 Azabudai Hills hosts special events each season. Check out last year's event reviews!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /posts/azabudai-hills-christmas-market-review-2024/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>2024 Tokyo Azabudai Hills Christmas Market Review</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223958175295
-     Hugo: /posts/azabudai-hills-summer-festival-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills Summer Festival (Observatory Cafe Shaved Ice Review)</strong></a>
 
 <figure>
@@ -236,17 +218,11 @@ Azabudai Hills hosts special events each season. Check out last year's event rev
 <strong>🥂 5-Minute Walk! Michelin 1-Star Chinese Restaurant, Series</strong>
 Right across from Azabudai Hills is 'Series', an innovative Michelin 1-star Chinese restaurant. Perfect choice for a special dinner after shopping and sightseeing.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915389552
-     Hugo: /posts/azabudai-hills-series-chinese-restaurant/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Chinese Restaurant, Series Michelin 1-Star Course</strong></a>
 
 <strong>🚶‍♂️ 5-Minute Subway! Classic Tokyo Night Views, Roppongi Hills</strong>
 If Azabudai Hills offers 'frontal' Tokyo Tower views, Roppongi Hills shows Tokyo Tower blended with the skyline. Combine both for the ultimate night view tour.
 
-<!-- TODO: Update link after migration
-     Naver: /posts/roppongi-attractions-guide
-     Hugo: /posts/roppongi-attractions-guide/ -->
 ➡️ <strong><a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a></strong>
 
 <strong>🚶‍♂️ 3-Minute Subway! Adult Gourmet Space, Toranomon Hills</strong>

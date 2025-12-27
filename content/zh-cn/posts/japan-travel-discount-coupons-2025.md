@@ -248,9 +248,6 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 📌 <strong>山崎、响</strong>等威士忌库存及免费试饮会信息请查看下方详细指南！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224008430188
-     Hugo: /zh-cn/posts/ginza-lotte-duty-free-whisky-guide/ -->
 ➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>银座乐天免税店威士忌购买指南（山崎、响、免费试饮会）</strong></a>
 
 <strong>2. Japan Duty Free银座 ➡️ <a href="https://livejapan.com/public/operation/coupon/japandutyfree/en.html" target="_blank" style="color: #667eea;"><strong>Live JAPAN优惠券</strong></a></strong>
@@ -340,20 +337,10 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 <strong>⭐ 值得一起阅读的文章</strong>
 
 <strong>➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>獭祭23、45、39日本官方网站价格完全指南</strong></a></strong>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /zh-cn/posts/shinanoya-roppongi-hills-supermarket/ -->
-
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /zh-cn/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 ➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>日本威士忌山崎、响官方价格完全指南&初学者·礼品推荐</strong></a>
 
 ➡️ <a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" target="_blank" style="color: #667eea;"><strong>日本唐吉诃德购物清单必买推荐&折扣优惠券、免税方法完全指南</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /zh-cn/posts/kaldi-coffee-farm-shopping-list/ -->
 ➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>日本KALDI购物清单，必买KALDI推荐（酱料、挂耳咖啡、免税小贴士）</strong></a>
 
 ➡️ <a href="/zh-cn/posts/japan-convenience-store-shopping-best-10/" target="_blank" style="color: #667eea;"><strong>日本便利店完全攻略！（7-11、全家、罗森比较完全指南）</strong></a>

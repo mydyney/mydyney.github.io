@@ -218,9 +218,6 @@ Comme des Garçons、Porter等潮流店铺。<br>
 可眺望涩谷景色的<br>
 隐藏休息地。<br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/[POST_ID]
-     Hugo: /zh-cn/posts/shibuya-complete-guide-2025/ -->
 <strong>➡️</strong> <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>涩谷景点完美攻略</strong></a><br>
 <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>（PARCO、涩谷SKY）</strong></a></p>
 

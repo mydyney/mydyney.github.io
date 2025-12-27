@@ -172,9 +172,6 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 横浜のランドマークを完璧に楽しめる<br>
 横浜1日おすすめコースをご覧ください！<br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /ja/posts/yokohama-one-day-itinerary/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横浜1日コース 中華街グルメ、赤レンガ倉庫、夜景スポット総まとめ</strong></a><br>
 <br>
 <br>
@@ -184,9 +181,6 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 交通費節約のために<br>
 <strong>「みなとぶらりチケット」は必須！</strong><br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /ja/posts/yokohama-minato-burari-ticket-guide/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横浜交通パス、</strong></a><br>
 <a href="#" style="color: #667eea;"><strong>「みなとぶらりチケット」総まとめ</strong></a></p>
 

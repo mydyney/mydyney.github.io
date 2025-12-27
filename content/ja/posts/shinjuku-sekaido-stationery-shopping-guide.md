@@ -257,10 +257,7 @@ Gペン、スプーンペンなど
 
 <strong>関連記事：</strong>
 <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>➡️ 新宿観光スポット完璧コース総まとめ - 新宿御苑からグルメ、ショッピング、ゴールデン街まで</b></a>
-- <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223693165027
-     Hugo: /ja/posts/ginza-itoya-stationery-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ 東京銀座代表文具店：伊東屋本店</b></a>
+- <a href="#" style="color: #667eea;"><b>➡️ 東京銀座代表文具店：伊東屋本店</b></a>
 
 
 <div class="editors-note">

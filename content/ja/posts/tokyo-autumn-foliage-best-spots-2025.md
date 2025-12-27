@@ -63,9 +63,6 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 
 <p><strong>📍 一緒に楽しめるエリア：青山＆表参道</strong></p>
 <p>いちょう並木の散策後、すぐ隣の青山と表参道で洗練されたセレクトショップやギャラリー、雰囲気の良いカフェを巡るコースがおすすめです。</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /ja/posts/omotesando-guide-2025/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>表参道完全ガイド：コーヒー、ショッピング、グルメ、建築まで総まとめ</strong></a></p>
 
 <figure>
@@ -158,13 +155,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 
 <p><strong>📍 一緒に楽しめるエリア：吉祥寺＆ジブリ美術館</strong></p>
 <p>井の頭公園は吉祥寺の商店街とジブリ美術館を結ぶ中心点です。公園散策の前後にかわいい雑貨店やグルメを探索したり、ジブリ美術館を一緒に訪問するコースがおすすめです。</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037212344
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>東京 吉祥寺おすすめスポット完全コース（ジブリ美術館連携）</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>三鷹の森ジブリ美術館予約方法完全ガイド</strong></a></p>
 
 <figure>
@@ -199,9 +190,6 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <p><strong>🍁 <a href="https://maps.app.goo.gl/TjuLtxgrsKN36caB6" target="_blank">箱根</a></strong>（紅葉ピーク予想日：11月13日）</p>
 <p>東京近郊最高の温泉旅行地である箱根は、秋の紅葉も絶景です。特に箱根登山鉄道に乗って窓の外に広がる紅葉のトンネルを眺めたり、芦ノ湖遊覧船から赤く染まった山を見る体験は忘れられない思い出になります。</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>箱根旅行完璧コースおすすめ（箱根フリーパス、ロマンスカー予約）</strong></a></p>
 
 <figure>
@@ -228,9 +216,6 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <p>赤や黄色に染まった東京の秋は、桜のシーズンとはまた違ったロマンと美しさを見せてくれます。このガイドと一緒に2025年東京紅葉旅行で忘れられない写真と思い出を残してください！</p>
 
 <p>⭐ <strong>関連記事</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>東京メトロパス vs JR都区内パス完全比較</strong></a></p>
 <p>➡️ <a href="/ja/posts/tokyo-october-festivals-2025/" style="color: #667eea;"><strong>2025年東京10月祭り・おすすめスポット総まとめ</strong></a></p>
 

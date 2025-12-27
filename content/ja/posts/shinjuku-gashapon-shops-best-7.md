@@ -360,31 +360,16 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 ## 🧡 一緒に見ると良い新宿旅行ガイド
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shinjuku-luggage-storage/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 - <strong>荷物の心配終わり!</strong> <strong>➡️ <a href="#" style="color: #667eea;"><strong>新宿駅荷物保管100%成功法、コインロッカー位置&裏技</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shinjuku-station-breakfast-best-8/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 - <strong>7時開店の朝食店!</strong> <strong>➡️ <a href="#" style="color: #667eea;"><strong>新宿駅朝食 7~8時オープン・ブランチ・家庭料理</strong></a></strong>
 
 - <strong>スケジュール計画</strong> <strong>➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿グルメ・ショッピング・遊び完璧整理コース</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shinjuku-gyoen-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 - <strong>紅葉ピクニック</strong> ➡️ <strong><a href="#" style="color: #667eea;"><strong>新宿御苑入場料・時間・スターバックス・ピクニックガイド</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-metropolitan-govt-observatory/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 - <strong>無料夜景</strong> <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京都庁無料展望台行き方・夜景名所チップ</strong></a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shinjuku-golden-gai-vs-omoide-yokocho/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 - <strong>新宿の夜 ➡️ <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 比較</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

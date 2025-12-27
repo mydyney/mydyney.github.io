@@ -289,14 +289,8 @@ Have a wonderful Tokyo trip! :D
 
 <strong>➡️</strong> <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Shinjuku Travel Course: Perfect Guide from Gyoen to Restaurants & Golden Gai</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/shibuya-complete-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Travel Course: Shibuya Sky Reservation Tips & Complete Shopping Guide</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037212344
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Kichijoji Travel Course: Boutique Shop Tour & Inokashira Park (Ghibli Museum)</strong></a>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

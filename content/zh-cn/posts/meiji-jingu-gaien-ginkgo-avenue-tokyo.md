@@ -191,23 +191,14 @@ A：银杏大道位于「青山」地区。离「表参道」非常近，很适�
 
 - <strong>表参道</strong> → 咖啡厅・购物・建筑探访
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>表参道完美攻略：咖啡、购物、餐厅、建筑全面总结（推荐路线）</strong></a>
 
 - <strong>涩谷</strong> → Sky展望台・购物路线
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shibuya-complete-guide-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>涩谷看点：涩谷Sky预订到购物、餐厅完美路线推荐</strong></a>
 
 - <strong>六本木</strong> → 灯光秀・夜景・森美术馆
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/roppongi-attractions-guide
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>六本木看点完全攻略（展望台、美术馆、购物、餐厅A to Z）</strong></a>
 
 <strong>➡️</strong> <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/"><strong>六本木灯光秀2025：日期、点灯时间、必看景点、六本木之丘圣诞市集完美攻略</strong></a>

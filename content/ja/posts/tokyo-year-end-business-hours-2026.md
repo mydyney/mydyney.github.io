@@ -27,15 +27,9 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 **⭐ 東京の新年カウントダウンはどこで見る予定ですか？**  
 地下鉄運休情報を含む**2026年東京カウントダウンBEST3スポット＆交通注意事項**もチェック！
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224121730136
-     Hugo: /ja/posts/tokyo-countdown-2026/ -->
-<a href="/ja/posts/tokyo-countdown-2026/" style="color: #667eea;"><strong>2026年東京新年カウントダウンBEST3｜新宿vs増上寺vs浅草寺</strong></a>**
+**➡️ <a href="/ja/posts/tokyo-countdown-2026/" style="color: #667eea;"><strong>2026年東京新年カウントダウンBEST3｜新宿vs増上寺vs浅草寺</strong></a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224095118118
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京都庁カウントダウン2026｜ラインアップ＆ベストスポット</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>東京都庁カウントダウン2026｜ラインアップ＆ベストスポット</strong></a>**
 
 ---
 
@@ -183,10 +177,7 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 **⏰ オープン時間のヒント**  
 公式オープンは午前10時ですが、初売り当日は人が殺到するため、**午前9時~9時30分に早期オープン**することが多いです。人気ブランド（コムデギャルソン、バオバオなど）を狙うなら、最低でも8時30分には到着する必要があります。
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224102284965
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>[クリック] 2026年福袋ブランド別構成＆おすすめリスト</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>[クリック] 2026年福袋ブランド別構成＆おすすめリスト</strong></a>**
 
 ---
 
@@ -195,10 +186,7 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 **🌅 [優先順位0] 朝7時、無料の初日の出から始めよう！**  
 ショッピングモールが開く前に、2026年の初日の出を見ましょう！スカイツリーや渋谷スカイのチケットがなくても大丈夫。予約なしで電車で行ける、お台場、羽田、葛西臨海公園など無料スポット7か所をルート別に整理しました。
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224122259609
-     Hugo: /ja/posts/tokyo-sunrise-spots-2026/ -->
-<a href="/ja/posts/tokyo-sunrise-spots-2026/" style="color: #667eea;"><strong>2026年東京初日の出時間6時50分台｜予約なしで行ける無料初日の出スポットBEST7</strong></a>**
+**👉 <a href="/ja/posts/tokyo-sunrise-spots-2026/" style="color: #667eea;"><strong>2026年東京初日の出時間6時50分台｜予約なしで行ける無料初日の出スポットBEST7</strong></a>**
 
 ---
 
@@ -207,55 +195,34 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 **1️⃣ 浅草浅草寺**  
 初詣（新年の参拝）と運勢占いをする人々で賑わいます。屋台でたこ焼き、焼きそばなどを楽しめます。
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>[クリック] 東京浅草観光スポット＆レストラン完全ガイド</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>[クリック] 東京浅草観光スポット＆レストラン完全ガイド</strong></a>**
 
 **2️⃣ 東京スカイツリー＆ソラマチ**  
 展望台と下層のショッピングモールの両方が年中無休です。新年最初の夜景を見るのに最適です。
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224049240457
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京スカイツリー予約割引＆レストランガイド</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>東京スカイツリー予約割引＆レストランガイド</strong></a>**
 
 **3️⃣ お台場（ダイバーシティ/デックス/アクアシティ/有明ガーデン）**  
 ガンダムも見られ、ショッピングもでき、レストランもたくさん。家族旅行者に一番のおすすめです。
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224043919463
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京お台場必見スポット、1日完成コース</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>東京お台場必見スポット、1日完成コース</strong></a>**
 
 **4️⃣ チームラボボーダレス、チームラボプラネッツ**  
 年末年始も営業する世界的なメディアアート展示。（事前予約必須）
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京麻布台ヒルズチームラボボーダレスレビュー</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>東京麻布台ヒルズチームラボボーダレスレビュー</strong></a>**
 
 **5️⃣ コンビニ、ドン・キホーテ**  
 「1月1日に食べる場所がない？」コンビニのプレミアム弁当や24時間営業のドン・キホーテを攻略しましょう。
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224050488006
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>コンビニショッピングリスト失敗なしBEST10</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>コンビニショッピングリスト失敗なしBEST10</strong></a>**
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>ドン・キホーテ割引クーポン＆ショッピングリスト</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>ドン・キホーテ割引クーポン＆ショッピングリスト</strong></a>**
 
 **6️⃣ 東京駅一番街（キャラクターストリート/ラーメンストリート/お菓子ランド）**  
 東京駅ショッピング街は1月1日も営業！ただし、ほとんどの店舗が午後6時（18:00）にきっちり閉店します。特にラーメンストリートは店舗ごとに休業日が異なるため、詳細スケジュールの確認が必須です。
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224110207709
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>2026年東京駅キャラクター＆ラーメンストリート年末年始営業時間完全整理</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>2026年東京駅キャラクター＆ラーメンストリート年末年始営業時間完全整理</strong></a>**
 
 <figure>
   <img src="/images/posts/tokyo-year-end-business-hours-2026-02.jpg" alt="1月1日営業の場所 - 初詣客で賑わう浅草浅草寺">
@@ -268,10 +235,7 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 
 **① 東京都庁無料展望台**
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224062023485
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京都庁無料展望台ライトショー時間＆アクセス</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>東京都庁無料展望台ライトショー時間＆アクセス</strong></a>**
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -307,10 +271,7 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 
 **② 渋谷スカイ**
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224077357970
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>渋谷スカイ予約からショッピング、レストランまで完璧コース</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>渋谷スカイ予約からショッピング、レストランまで完璧コース</strong></a>**
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -331,10 +292,7 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 
 **③ 六本木ヒルズ展望台（東京シティビュー）**
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京スカイツリー予約割引、天望デッキvsガレリア比較</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>東京スカイツリー予約割引、天望デッキvsガレリア比較</strong></a>**
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -385,10 +343,7 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 **■ 三井アウトレットパーク木更津** 📍**<a href="https://maps.app.goo.gl/App2VX6BNGraHYrf6" style="color: #667eea;" target="_blank"><strong>Googleマップ</strong></a>**
 - 1/1 営業（9:00 ~ 20:00）
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京アウトレットおすすめ、三井アウトレットパーク木更津割引クーポン、ブランド、アクセス</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>東京アウトレットおすすめ、三井アウトレットパーク木更津割引クーポン、ブランド、アクセス</strong></a>**
 
 **■ 御殿場プレミアム・アウトレット** 📍**<a href="https://maps.app.goo.gl/UnHNkm8LyrLQeuea6" style="color: #667eea;" target="_blank"><strong>Googleマップ</strong></a>**
 - 1/1 営業（9:00 ~ 20:00）
@@ -426,10 +381,7 @@ featured_image: "/images/posts/tokyo-year-end-business-hours-2026-01.jpg"
 
 **👇 オープンラン成功のための戦略的宿泊**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224100382618
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>東京新宿ホテルおすすめBEST10｜コスパ・大浴場・家族旅行完全比較</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>東京新宿ホテルおすすめBEST10｜コスパ・大浴場・家族旅行完全比較</strong></a>**
 
 ---
 

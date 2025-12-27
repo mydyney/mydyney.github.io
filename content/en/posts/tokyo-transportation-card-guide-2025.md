@@ -166,14 +166,8 @@ As of 2025, physical cards available to travelers are <strong>'Welcome Suica'</s
 
 Each card is sold by different companies, so be careful! Check the detailed issuance locations (JR stations vs private railway stations) by airport with photos in the guides below.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224007949043
-     Hugo: /posts/narita-airport-arrival-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223995074888
-     Hugo: /posts/haneda-airport-arrival-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
 
 ---
@@ -205,14 +199,8 @@ Then use <strong>'Suica (or PASMO)'</strong> for <strong>JR lines not covered by
 
 <strong>⭐ Learn More About Tokyo Subway Pass</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224026098490
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank"><strong>Buy Tokyo Subway Pass (24/48/72-hour) on Klook</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224026098490
-     Hugo: /posts/tokyo-subway-ticket-guide/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass (Tokyo Subway Ticket) Exchange Locations, Purchase & Usage Complete Guide</strong></a>
 
 ---
@@ -225,9 +213,6 @@ But whether <strong>'Tokyo Subway Ticket'</strong> or <strong>'JR Tokunai Pass'<
 
 Check the guide below for a perfect comparison of the two passes' pros and cons, and choose the one that will give you the best value based on your itinerary!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass vs JR Tokunai Pass, Perfect Comparison!</strong></a>
 
 <figure>
@@ -243,14 +228,8 @@ Now that you've prepared your essential Tokyo travel item—the 'transportation 
 
 ⭐ <strong>Related Articles</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /posts/narita-express-guide/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/japan-travel-discount-coupons-2025/ -->
 <strong>➡️</strong> <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

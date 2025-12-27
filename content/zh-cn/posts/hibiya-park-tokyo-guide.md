@@ -240,9 +240,6 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 过去在日比谷公园举办的圣诞集市，2025年基准已移至明治神宫外苑・芝公园。
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/meiji-jingu-gaien-christmas-market-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025明治神宫外苑圣诞集市门票・马克杯特典</strong></a>
 
 <figure>
@@ -262,9 +259,6 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 🧡 一起看更好 日比谷公园旅游攻略
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/hibiya-midtown-illumination-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025东京中城日比谷灯光秀・疯狂动物城2联动</strong></a>
 
 <!-- TODO: Update link after migration

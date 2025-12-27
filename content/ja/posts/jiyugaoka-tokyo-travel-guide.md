@@ -398,14 +398,8 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 ## 🧡 関連Tokyo Mate旅行ガイド
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032086475
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>中目黒雑貨店、カフェ、散策コース完全ガイド</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shibuya-complete-guide-2025/
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>渋谷スカイ、ショッピング、レストラン、アクティビティ完全ガイド</strong></a>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

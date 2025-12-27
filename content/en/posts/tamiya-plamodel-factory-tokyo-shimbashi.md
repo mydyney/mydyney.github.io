@@ -218,28 +218,16 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
 
 ## 🧡 Related Shimbashi Travel Guides
 
-<!-- TODO: Update link after migration
-     Naver: /posts/shinbashi-shiodome-evening-course/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/shinbashi-shiodome-evening-course/" style="color: #667eea;"><strong>Tokyo Shimbashi & Shiodome Must-Visit Places: Evening Course Walking Through Past and Future (Restaurants, Night Views)</strong></a>
 
 ## 🎁 Tokyo Shopping Guides
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores + Additional Discounts)</strong></a>
 
 <strong>➡️</strong> <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Don Quijote Shopping List Must-Buy Items & Discount Coupons, Tax-Free Methods Complete Guide (Rayu, Eye Drops, etc.)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List, Must-Buy Kaldi Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /posts/japan-convenience-store-shopping-best-10/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>Japan Convenience Store Shopping List Fail-Proof BEST 10 (7-Eleven, Family Mart, Lawson Comparison)</strong></a>
 
 <strong>➡️</strong> <a href="/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;"><strong>Tokyo Outlet Recommendation: Mitsui Outlet Park Kisarazu Discount Coupons, Tenant Brands, How to Get There (Gotemba Comparison)</strong></a>

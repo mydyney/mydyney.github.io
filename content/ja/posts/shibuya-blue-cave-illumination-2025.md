@@ -110,9 +110,6 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 3. 代々木公園の縁に沿ってゆっくり歩くと、突然<strong>枝が頭上で交わる青いケヤキのトンネル</strong>が目の前に広がる
 
 <strong>➡️ [関連記事]</strong>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224096781916
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
 <a href="#" style="color: #667eea;"><strong>2025年表参道イルミネーション期間、時間、場所＆撮影スポット完全ガイド</strong></a>
 
 <figure>
@@ -198,7 +195,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 🚶 表参道・原宿ショッピング<strong>→ 表参道イルミネーション → 渋谷青の洞窟（徒歩）</strong>
 
-<strong>➡️</strong> <!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224027835049 Hugo: /ja/posts/[SLUG_TBD]/ --> <a href="#" style="color: #667eea;"><strong>表参道完全ガイド：カフェ、ショッピング、レストラン、建築</strong></a>
+<strong>➡️</strong>  <a href="/ja/posts/omotesando-guide-2025/" style="color: #667eea;"><strong>表参道完全ガイド：カフェ、ショッピング、レストラン、建築</strong></a>
 
 <strong>➡️</strong> <a href="/ja/posts/harajuku-complete-guide-2025/" style="color: #667eea;"><strong>原宿アトラクション：ハリーポッターストアから竹下通り＆キャットストリート</strong></a>
 

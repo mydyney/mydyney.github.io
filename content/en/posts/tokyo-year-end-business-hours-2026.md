@@ -27,15 +27,9 @@ But don't worry. There are **'oasis-like' places that are wide open even on Janu
 **⭐ Where are you planning to watch the Tokyo New Year countdown?**  
 Check out the **2026 Tokyo Countdown BEST 3 Spots & Transportation Tips** including subway service suspension information!
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224121730136
-     Hugo: /posts/tokyo-countdown-2026/ -->
-<a href="/posts/tokyo-countdown-2026/" style="color: #667eea;"><strong>2026 Tokyo New Year Countdown BEST 3 | Shinjuku vs Zojoji vs Sensoji</strong></a>**
+**➡️ <a href="/posts/tokyo-countdown-2026/" style="color: #667eea;"><strong>2026 Tokyo New Year Countdown BEST 3 | Shinjuku vs Zojoji vs Sensoji</strong></a>**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224095118118
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Countdown 2026 | Lineup & Best Spots</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Countdown 2026 | Lineup & Best Spots</strong></a>**
 
 ---
 
@@ -183,10 +177,7 @@ The real shopping game **starts on January 2nd**. This day is called **'Hatsuuri
 **⏰ Opening Time Tip**  
 Official opening is at 10:00 AM, but on Hatsuuri day, crowds gather and stores often **open early at 9:00~9:30 AM**. If you're targeting popular brands (Comme des Garçons, Bao Bao, etc.), you need to arrive by at least 8:30 AM.
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224102284965
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>[Click] 2026 Japan Fukubukuro (Lucky Bag) Brand Composition & Recommendation List</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>[Click] 2026 Japan Fukubukuro (Lucky Bag) Brand Composition & Recommendation List</strong></a>**
 
 ---
 
@@ -195,10 +186,7 @@ Official opening is at 10:00 AM, but on Hatsuuri day, crowds gather and stores o
 **🌅 [Priority 0] Start with a Free Sunrise at 7 AM!**  
 Before the shopping malls open, catch the first sunrise of 2026! Even without SkyTree or Shibuya Sky tickets, it's okay. We've organized 7 free spots by route that you can reach by train without reservations, including Odaiba, Haneda, and Kasai Rinkai Park.
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224122259609
-     Hugo: /posts/tokyo-sunrise-spots-2026/ -->
-<a href="/posts/tokyo-sunrise-spots-2026/" style="color: #667eea;"><strong>2026 Tokyo Sunrise Time 6:50s | Free Sunrise Spots BEST 7 Without Reservations</strong></a>**
+**👉 <a href="/posts/tokyo-sunrise-spots-2026/" style="color: #667eea;"><strong>2026 Tokyo Sunrise Time 6:50s | Free Sunrise Spots BEST 7 Without Reservations</strong></a>**
 
 ---
 
@@ -207,55 +195,34 @@ On January 1st, plan your itinerary around **'tourist attractions'** or **'large
 **1️⃣ Asakusa Sensoji**  
 Crowded with people doing Hatsumode (New Year's shrine visit) and fortune-telling. You can enjoy takoyaki, yakisoba, etc. at yatai (food stalls).
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224024819592
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>[Click] Tokyo Asakusa Attractions & Restaurants Complete Guide</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>[Click] Tokyo Asakusa Attractions & Restaurants Complete Guide</strong></a>**
 
 **2️⃣ Tokyo Skytree & Solamachi**  
 Both the observation deck and lower shopping mall are open year-round. Perfect for viewing the first night view of the new year.
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224049240457
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Skytree Reservation Discounts & Restaurant Guide</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Reservation Discounts & Restaurant Guide</strong></a>**
 
 **3️⃣ Odaiba (DiverCity/Decks/Aqua City/Ariake Garden)**  
 See the Gundam, shop, and lots of restaurants. Top recommendation for family travelers.
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224043919463
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Odaiba Must-Visit Spots, One-Day Complete Course</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Tokyo Odaiba Must-Visit Spots, One-Day Complete Course</strong></a>**
 
 **4️⃣ teamLab Borderless, teamLab Planets**  
 World-famous media art exhibitions operating during year-end and New Year. (Advance reservation required)
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills teamLab Borderless Review</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills teamLab Borderless Review</strong></a>**
 
 **5️⃣ Convenience Stores, Don Quijote**  
 "No place to eat on January 1st?" Attack convenience store premium bento boxes or 24-hour Don Quijote.
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224050488006
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Japan Convenience Store Shopping List Fail-Proof BEST 10</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Japan Convenience Store Shopping List Fail-Proof BEST 10</strong></a>**
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224022065518
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Japan Don Quijote Discount Coupons & Shopping List</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Japan Don Quijote Discount Coupons & Shopping List</strong></a>**
 
 **6️⃣ Tokyo Station Ichibangai (Character Street/Ramen Street/Okashi Land)**  
 Tokyo Station shopping street is open on January 1st! However, most stores close sharply at 6:00 PM (18:00). Especially for Ramen Street, each store has different closing days, so checking detailed schedules is essential.
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224110207709
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>2026 Tokyo Station Character & Ramen Street Year-End Business Hours Complete Guide</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>2026 Tokyo Station Character & Ramen Street Year-End Business Hours Complete Guide</strong></a>**
 
 <figure>
   <img src="/images/posts/tokyo-year-end-business-hours-2026-02.jpg" alt="Places open on January 1st - Asakusa Sensoji crowded with Hatsumode visitors">
@@ -268,10 +235,7 @@ Tokyo Station shopping street is open on January 1st! However, most stores close
 
 **① Tokyo Metropolitan Government Building Free Observatory**
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224062023485
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Free Observatory Light Show Times & Access</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Tokyo Metropolitan Government Building Free Observatory Light Show Times & Access</strong></a>**
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -307,10 +271,7 @@ Tokyo Station shopping street is open on January 1st! However, most stores close
 
 **② Shibuya Sky**
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224077357970
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Shibuya Sky Complete Course from Reservations to Shopping & Restaurants</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Shibuya Sky Complete Course from Reservations to Shopping & Restaurants</strong></a>**
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -331,10 +292,7 @@ Tokyo Station shopping street is open on January 1st! However, most stores close
 
 **③ Roppongi Hills Observatory (Tokyo City View)**
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031114514
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Skytree Reservation Discounts, Tembo Deck vs Galleria Comparison</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Reservation Discounts, Tembo Deck vs Galleria Comparison</strong></a>**
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -386,10 +344,7 @@ If department stores are closed on January 1st and you want to shop, outlets are
 <a href="https://maps.app.goo.gl/App2VX6BNGraHYrf6" style="color: #667eea;" target="_blank"><strong>Google Maps</strong></a>**
 - 1/1 Open (9:00 ~ 20:00)
 
-**👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224034429817
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Outlet Recommendation, Mitsui Outlet Park Kisarazu Discount Coupons, Brands, Access</strong></a>**
+**👉 <a href="#" style="color: #667eea;"><strong>Tokyo Outlet Recommendation, Mitsui Outlet Park Kisarazu Discount Coupons, Brands, Access</strong></a>**
 
 **■ Gotemba Premium Outlets** 📍**<a href="https://maps.app.goo.gl/UnHNkm8LyrLQeuea6" style="color: #667eea;" target="_blank"><strong>Google Maps</strong></a>**
 - 1/1 Open (9:00 ~ 20:00)
@@ -427,10 +382,7 @@ From the night of December 31st to the early morning of January 1st, major JR li
 
 **👇 Strategic Accommodation for Opening Rush Success**
 
-**➡️ <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224100382618
-     Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;"><strong>Tokyo Shinjuku Hotel Recommendations BEST 10 | Value, Large Baths, Family Travel Complete Comparison</strong></a>**
+**➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Shinjuku Hotel Recommendations BEST 10 | Value, Large Baths, Family Travel Complete Comparison</strong></a>**
 
 ---
 

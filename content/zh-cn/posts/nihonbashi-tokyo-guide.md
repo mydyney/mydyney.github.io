@@ -136,9 +136,6 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 想了解详细的店内样子、限定商品、100%预约制宝可梦咖啡厅的朋友，请查看下方详细攻略！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223691772722
-     Hugo: /zh-cn/posts/nihonbashi-pokemon-center-dx-cafe-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京日本桥宝可梦中心东京DX&宝可梦咖啡厅、东京站5分钟</strong></a>
 
 <figure>
@@ -293,9 +290,6 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 从日本桥沿中央通向南稍走，很快就能到达东京站。探索拥有角色街和拉面街的巨大地下购物区，或欣赏美丽的丸之内站舍夜景。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /zh-cn/posts/tokyo-station-guide/ -->
 ➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>东京站景点、从角色街到餐厅&夜景完美路线</strong></a>
 
 <strong>🚇 地铁2分钟（银座线）！高档购物中心、银座</strong>

@@ -78,9 +78,6 @@ with dates, access info, and insider tips!</p>
 <strong>📅 NEW! Updated: Nov 4, 2025 - Roppongi Hills is now open!</strong><br>
 <a href="/posts/roppongi-christmas-illumination-2025/" style="color:#667eea;"><strong>➡️ Roppongi Illumination 2025: Complete Guide to Keyakizaka, Christmas Market & More</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223670085459
-     Hugo: /posts/roppongi-midtown-christmas-review-2024/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree</strong></a></p>
 
 <figure>
@@ -149,9 +146,6 @@ with dates, access info, and insider tips!</p>
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223688700265
-     Hugo: /posts/omotesando-illumination-harajuku-observatory-review-2024/ -->
 <p><strong>📌 Want more details about last year's Omotesando Christmas?</strong><br>
 <a href="/posts/omotesando-illumination-harajuku-observatory-review-2024/" style="color:#667eea;"><strong>➡️ 2024 Tokyo Omotesando Illumination and Harajuku Free Observatory</strong></a></p>
 
@@ -173,11 +167,8 @@ with dates, access info, and insider tips!</p>
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223689247336
-     Hugo: /posts/shibuya-miyashita-park-illumination-review-2024/ -->
 <p><strong>📌 Curious about more Shibuya Christmas spots besides "Blue Cave"?</strong><br>
-<a href="/posts/shibuya-miyashita-park-illumination-review-2024/" style="color:#667eea;"><strong>➡️ 2024 Tokyo Shibuya Miyashita Park Christmas Illumination</strong></a></p>
+<a href="/posts/miyashita-park-illumination-2024/" style="color:#667eea;"><strong>➡️ 2024 Tokyo Shibuya Miyashita Park Christmas Illumination</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-08.jpg" alt="2024 Shibuya Miyashita Park Illumination">
@@ -219,9 +210,6 @@ with dates, access info, and insider tips!</p>
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /posts/azabudai-hills-christmas-market-review-2024/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Tokyo Azabudai Hills Christmas Market Review</strong></a></p>
 
 <figure>
@@ -251,9 +239,6 @@ with dates, access info, and insider tips!</p>
   </ul>
 </div>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223700200846
-     Hugo: /posts/tokyo-skytree-illumination-guide/ -->
 <p><a href="#" style="color:#667eea;"><strong>➡️ Tokyo Skytree Illumination and Christmas Market</strong></a></p>
 
 <p><strong>🎄 Completely New "Christmas Special Lighting" for Skytree!</strong><br>

@@ -63,9 +63,6 @@ your complete guide to Tokyo's autumn colors!</p>
 
 <p><strong>📍 Nearby attractions: Aoyama & Omotesando</strong></p>
 <p>After strolling through the ginkgo avenue, explore the sophisticated boutiques, galleries, and stylish cafes along Aoyama and Omotesando streets.</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224027835049
-     Hugo: /posts/omotesando-guide-2025/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants & Architecture</strong></a></p>
 
 <figure>
@@ -158,13 +155,7 @@ your complete guide to Tokyo's autumn colors!</p>
 
 <p><strong>📍 Nearby attractions: Kichijoji & Ghibli Museum</strong></p>
 <p>Inokashira Park connects Kichijoji's shopping streets and the Ghibli Museum. We recommend exploring the charming boutiques and restaurants before or after your park stroll, or combining it with a Ghibli Museum visit.</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037212344
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Kichijoji Must-Visit Places: Perfect Course (with Ghibli Museum)</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Mitaka Ghibli Museum Reservation Guide</strong></a></p>
 
 <figure>
@@ -199,9 +190,6 @@ your complete guide to Tokyo's autumn colors!</p>
 <p><strong>🍁 <a href="https://maps.app.goo.gl/TjuLtxgrsKN36caB6" target="_blank">Hakone</a></strong> (Expected peak: November 13)</p>
 <p>Hakone, Tokyo's premier hot spring destination, also offers stunning autumn colors. Take the Hakone Tozan Railway through a tunnel of foliage, or view the crimson mountains from Lake Ashi's pleasure boats for unforgettable memories.</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Hakone Travel Perfect Course (Hakone Free Pass & Romancecar Reservation)</strong></a></p>
 
 <figure>
@@ -228,9 +216,6 @@ your complete guide to Tokyo's autumn colors!</p>
 <p>Tokyo's autumn, painted in vibrant reds and yellows, offers a romance and beauty quite different from cherry blossom season. We hope this guide helps you capture unforgettable photos and memories on your 2025 Tokyo autumn foliage trip!</p>
 
 <p>⭐ <strong>Related Articles</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison</strong></a></p>
 <p>➡️ <a href="/posts/tokyo-october-festivals-2025/" style="color: #667eea;"><strong>2025 Tokyo October Festivals & Must-Visit Places</strong></a></p>
 

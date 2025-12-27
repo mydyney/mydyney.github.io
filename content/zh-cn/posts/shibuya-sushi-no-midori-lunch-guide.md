@@ -120,9 +120,6 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 等待时间还剩30分钟以上的话，去Mark City地下的KALDI、大创购物，或去涩谷十字路口打卡。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">日本KALDI购物清单、必买KALDI推荐品（涂抹酱、胶囊咖啡、免税技巧）</a></strong></p>
 
 <figure>
@@ -233,19 +230,10 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 <h2>🧡 搭配看的涩谷旅行攻略</h2>
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/shibuya-complete-guide-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;">涩谷天空预约・购物・美食完美路线</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/harajuku-complete-guide-2025/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="/zh-cn/posts/harajuku-complete-guide-2025/" style="color: #667eea;">原宿哈利波特商店・竹下通・猫街步行路线</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224096203397
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <p><strong>➡️ <a href="/zh-cn/posts/shimokitazawa-tokyo-travel-guide/" style="color: #667eea;">下北泽古着购物・美食・必逛路线（从涩谷10分钟）</a></strong></p>
 
 

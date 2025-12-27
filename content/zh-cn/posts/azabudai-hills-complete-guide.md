@@ -67,9 +67,6 @@ teamLab无界门票预订技巧，<br>
 
 关于SKY ROOM详细菜单、交通方式、日落・夜景技巧、最新营业时间，请查看下面完全展望台攻略！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /zh-cn/posts/azabudai-hills-sky-room-cafe-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京麻布台之丘展望台咖啡SKY ROOM：菜单、交通、日落&夜景完全攻略</strong></a>
 
 <figure>
@@ -96,9 +93,6 @@ teamLab无界门票预订技巧，<br>
 
 ✅ <strong>[在Klook购买teamLab无界门票](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1145918&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F)</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /zh-cn/posts/azabudai-hills-teamlab-borderless-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京麻布台之丘teamLab无界完全攻略</strong></a>
 
 <figure>
@@ -119,16 +113,10 @@ teamLab无界门票预订技巧，<br>
 <strong>[烘焙/甜品]（食べログTop 100&社交媒体话题）</strong>
 - <strong>Comme'N TOKYO</strong>：东京最佳烘焙店之一，入选食べログ烘焙Top 100―无需多说。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /zh-cn/posts/azabudai-hills-commen-bakery-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Comme'N Tokyo，麻布台之丘烘焙店测评</strong></a>
 
 - <strong>CRIOLLO</strong>：世界知名巧克力大师的顶级巧克力。（伴手礼推荐）
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223708789355
-     Hugo: /zh-cn/posts/azabudai-hills-criollo-chocolate-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>Criollo巧克力大师巧克力伴手礼测评</strong></a>
 
 - <strong>BLANCA</strong>：伴手礼最佳选择的顶级巴斯克芝士蛋糕店
@@ -209,14 +197,8 @@ teamLab无界门票预订技巧，<br>
 
 麻布台之丘每季举办特别活动。查看去年活动测评！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223671427079
-     Hugo: /zh-cn/posts/azabudai-hills-christmas-market-review-2024/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>2024年东京麻布台之丘圣诞市集测评</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223958175295
-     Hugo: /zh-cn/posts/azabudai-hills-summer-festival-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京麻布台之丘夏日祭（展望台咖啡刨冰测评）</strong></a>
 
 <figure>
@@ -236,17 +218,11 @@ teamLab无界门票预订技巧，<br>
 <strong>🥂 步行5分钟！米其林一星中餐厅，Series</strong>
 麻布台之丘正对面有创新米其林一星中餐厅「Series」。购物观光后的特别晚餐最佳选择。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915389552
-     Hugo: /zh-cn/posts/azabudai-hills-series-chinese-restaurant/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京麻布台中餐厅，Series米其林一星套餐</strong></a>
 
 <strong>🚶‍♂️ 地铁5分钟！经典东京夜景，六本木之丘</strong>
 如果麻布台之丘提供东京塔「正面」视角，六本木之丘则展现与天际线融合的东京塔。结合两者打造终极夜景之旅。
 
-<!-- TODO: Update link after migration
-     Naver: /zh-cn/posts/roppongi-attractions-guide
-     Hugo: /zh-cn/posts/roppongi-attractions-guide/ -->
 ➡️ <strong><a href="#" style="color: #667eea;"><strong>六本木景点完全攻略（展望台、美术馆、购物、餐厅）</strong></a></strong>
 
 <strong>🚶‍♂️ 地铁3分钟！成人美食空间，虎之门Hills</strong>

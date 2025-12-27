@@ -447,21 +447,12 @@ Q弹口感和
 
 串联起来完成一日路线也不错。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-guide-2025
-     Hugo: /zh-cn/posts/shinjuku-guide-2025/ -->
 <strong>🌿 新宿一日路线整体:[新宿观光完整路线攻略↗](#)</strong>
 
 <strong>🍁 散步:[新宿御苑营业时间、红叶、野餐↗](/zh-cn/posts/shinjuku-gyoen-guide-2025/)</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/tokyo-metropolitan-govt-observatory
-     Hugo: /zh-cn/posts/tokyo-metropolitan-govt-observatory/ -->
 <strong>🏙 夜景:[东京都厅免费展望台灯光秀&新宿夜景提示↗](#)</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/shinjuku-golden-gai-vs-omoide-yokocho
-     Hugo: /zh-cn/posts/shinjuku-golden-gai-vs-omoide-yokocho/ -->
 <strong>🌃 夜间街区:[新宿黄金街vs回忆横丁完全对比↗](#)</strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

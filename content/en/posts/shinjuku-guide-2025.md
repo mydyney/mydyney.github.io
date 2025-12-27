@@ -149,9 +149,6 @@ Shinjuku is home to large outdoor shops like <strong>'Alpen Tokyo'</strong> and 
 
 <p><strong>➡️ <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">Don Quijote Shopping List & Coupon/Tax-Free Guide (Chili Oil, Eye Drops, etc.)</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /posts/kaldi-coffee-farm-shopping-list/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">KALDI Coffee Farm Shopping List: Must-Buy Recommendations (Curry Spread, etc.)</a></strong></p>
 
 <p><strong>➡️ <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">Bic Camera Discount Coupon (Tax-Free + 3~7% Off)</a></strong></p>
@@ -259,9 +256,6 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
 - Feature: Harmony of smooth yet chewy noodles and deep umami broth.
 - <strong>✅ Kirimugiya Jinroku Online Reservation</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /posts/shinjuku-udon-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Shinjuku Udon Gourmet: Kirimugiya Jinroku Queue Tips & Recommended Menu</a></strong></p>
 
 <figure>
@@ -404,9 +398,6 @@ Each shop has a distinct personality with many regulars, and it is also famous a
 
 Shinjuku Station is also a key departure point for travel to Tokyo's suburbs. You can go directly to <strong>'Hakone'</strong>, famous for hot springs, using the Odakyu Line, or <strong>'Mt. Takao'</strong>, great for hiking, using the Keio Line. If you stay in Shinjuku for more than one night, planning a day trip is also a good idea.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /posts/hakone-day-trip-course/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Hakone Day Trip vs. 2D1N Perfect Course (Hakone Freepass, Romancecar Tips)</a></strong></p>
 
 <figure>
@@ -422,9 +413,6 @@ If you are curious about courses with children starting from Shinjuku like <stro
 
 Located 20 minutes by JR Chuo Line is Mitaka Station where <strong>'Ghibli Museum'</strong> is located, so planning it together is also a good method.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /posts/ghibli-museum-reservation-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Tokyo Ghibli Museum Reservation Method Summary</a></strong></p>
 
 <hr class="se-hr">
@@ -433,9 +421,6 @@ The complete recommended course for <strong>Shinjuku attractions</strong> coveri
 
 <strong>⭐ Related Tokyo Guides</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /posts/narita-express-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">Narita Express (N'EX) Reservation, Price, Timetable (Round Business Discount, Seat Tips!)</a></strong></p>
 
 <p><strong>➡️ <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;">Shibuya Attractions, Shibuya Sky Reservation to Shopping, Gourmet Perfect Course</a></strong></p>

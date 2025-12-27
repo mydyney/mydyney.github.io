@@ -95,7 +95,6 @@ A special 3-day event where you can touch and experience Tokyo Crafts products i
 <strong>⭐ Check out essential Daikanyama travel courses too</strong>
 
 **➡️ <!-- Link updated -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224032515713 Hugo: /posts/daikanyama-guide/ -->
 <a href="#" style="color: #667eea;">Daikanyama Must-See Places: Perfect Course from Tsutaya (T-SITE) to Restaurants, Boutiques, and Shopping</a>**
 
 ---
@@ -137,7 +136,6 @@ As of November 2025, this is the only official retailer in Tokyo!
 <strong>⭐ Check how to get there from Haneda Airport</strong>
 
 **➡️ <!-- Link updated -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/223995074888 Hugo: /posts/haneda-airport-arrival-guide/ -->
 <a href="#" style="color: #667eea;">Tokyo Haneda Airport Arrival Guide: Suica Card, Limousine Bus Booking & How to Get to City (2025 Latest)</a>**
 
 ---
@@ -251,7 +249,6 @@ Check out more 'Tokyo shopping routes' in the articles below👇
 <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><b>2025 Japan Don Quijote Shopping List Essential Recommendations & Discount Coupons, Tax-Free Methods Complete Summary</b></a>**
 
 **➡️ <!-- Link updated -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224034429817 Hugo: /posts/mitsui-outlet-park-kisarazu-guide/ -->
 <a href="#" style="color: #667eea;"><b>Tokyo Outlet Recommendation, Mitsui Outlet Park Kisarazu Discount Coupons, Tenant Brands, How to Get There (Gotemba Comparison)</b></a>**
 
 

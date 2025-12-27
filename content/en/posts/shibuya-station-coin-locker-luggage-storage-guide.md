@@ -187,10 +187,7 @@ If you have a <strong>JCB Card</strong> and are taking the Limousine Bus, <stron
 *   <strong>Period:</strong> Until March 31, 2026.
 
 > [!NOTE]
-> Heading to the airport? Check if the <strong>Narita Express (N'EX)</strong> fits your schedule<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223702865232
-     Hugo: /posts/narita-express-guide/ -->
-<p style="text-align: center;"><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Narita Express (N’EX) Reservation, Price, Format Guide</strong></a></p>
+> Heading to the airport? Check if the <strong>Narita Express (N'EX)</strong> fits your schedule<p style="text-align: center;"><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Narita Express (N’EX) Reservation, Price, Format Guide</strong></a></p>
 
 ---
 
@@ -274,7 +271,7 @@ Don't get lost in the Shinjuku Dungeon! Check our guide to Shinjuku luggage stor
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224107954391" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+    This article is based on the author's actual experiences and original content from <a href="/posts/shibuya-station-coin-locker-luggage-storage-guide/" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
   </p>
 </div>
 

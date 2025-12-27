@@ -55,9 +55,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 銀座シックスの屋上に隠された秘密の庭園。銀座の街を一望できる最高の無料展望台です。9月7日まで、1階入口と中央アトリウムで現代美術作家ヤノベケンジの「GINZA SIX BIG CAT BANG: THE FINAL」展示会が開催されます。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223694057318
-     Hugo: /ja/posts/ginza-six-rooftop-garden/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 銀座行くべき場所、銀座シックス屋上無料展望台、アイスリンク</strong></a>
 
 <figure>
@@ -81,16 +78,10 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 獺祭23、山崎など日本の名酒を最も安く購入できる場所。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223709608832
-     Hugo: /ja/posts/ginza-lotte-duty-free-shopping/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京銀座ロッテ免税店ショッピング（獺祭23、山崎12年レビュー）</strong></a>
 
 ⭐ 銀座ロッテ免税店のウイスキー在庫と最新情報が知りたいですか？
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224008430188
-     Hugo: /ja/posts/japan-travel-discount-coupons-2025/ -->
 ➡️ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>[詳しく見る] 銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</strong></a>
 
 <figure>
@@ -102,9 +93,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 日本各地域の希少な日本酒に出会えるプレミアムリカーショップ。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223698121379
-     Hugo: /ja/posts/ginza-six-imadeya-sake-shopping/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京銀座シックス日本酒ウイスキーショッピング（いまでや銀座レビュー）</strong></a>
 
 <figure>
@@ -118,9 +106,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 100年の伝統、優雅さいっぱいのデザートとギフトを探すなら。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223703326263
-     Hugo: /ja/posts/ginza-shiseido-parlour-gift-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京銀座旅行のお土産ショッピング資生堂パーラー銀座本店レビュー</strong></a>
 
 <figure>
@@ -143,9 +128,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 140年の伝統、夏目漱石も愛した銀座の伝説的な和菓子店。予約なしでは手に入りにくい希少性と、甘すぎず高級な味で、特にご両親や大人の方への品格あるギフトを探している方に最高の選択となるでしょう。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025044772
-     Hugo: /ja/posts/ginza-kuya-monaka-reservation-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京両親へのお土産、悩んだら銀座空也最中</strong></a>
 
 ### ③ コスパショッピングスポット
@@ -169,9 +151,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ミシュラン星付き天ぷらをリーズナブルなランチ価格で！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223693467715
-     Hugo: /ja/posts/yamanoue-tempura-omakase-ginza/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 山の上天ぷらおまかせ、東京銀座シックスレストランレビュー</strong></a>
 
 <figure>
@@ -183,9 +162,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 外はサクサク、中はふっくら、名古屋ミシュランレストランの人生うな丼。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914321510
-     Hugo: /ja/posts/sumiyaki-unafuji-yurakucho/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 炭焼うな富士、東京有楽町うなぎレストランレビュー</strong></a>
 
 <figure>
@@ -197,9 +173,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 70年の伝統、肉汁たっぷりの巨大餃子。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223702371242
-     Hugo: /ja/posts/ginza-tenryu-gyoza-restaurant/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 銀座天龍、肉汁たっぷり焼き餃子、東京銀座餃子レストランレビュー</strong></a>
 
 <figure>
@@ -211,9 +184,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ミシュランビブグルマン、6年連続食べログラーメン百名店を獲得した本物の地元ラーメンレストラン。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010770861
-     Hugo: /ja/posts/ginza-hachigo-reservation-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 銀座八五予約及び待ち時間完全攻略</strong></a>
 
 <figure>
@@ -236,9 +206,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 銀座の象徴、和光百貨店で楽しむクラシックパフェ。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223715784445
-     Hugo: /ja/posts/ginza-wako-tea-salon/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京銀座カフェWAKO和光ティーサロンレビュー（待ち時間予約ヒント）</strong></a>
 
 <figure>
@@ -259,9 +226,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 旬の果物で作った甘い餅（大福）の名店。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223694645793
-     Hugo: /ja/posts/ginza-akebono-strawberry-mochi/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京銀座いちご大福、あけぼの銀座本店レビュー</strong></a>
 
 <figure>
@@ -273,9 +237,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 外はサクサク、中はふっくら、銀座で最も熱い人気の塩パン。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223912913938
-     Hugo: /ja/posts/pain-maison-ginza-salt-bread/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京銀座塩パンレストランパンメゾン、オンライン予約レビュー</strong></a>
 
 <figure>
@@ -289,9 +250,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 専門家が注いでくれる「パーフェクト黒ラベル」生ビール一杯の幸せ。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223702865232
-     Hugo: /ja/posts/sapporo-the-bar-ginza/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京銀座ビールレストランサッポロザ・バー、パーフェクトな生ビールレビュー</strong></a>
 
 <figure>
@@ -307,9 +265,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 築地市場の最新情報が知りたいですか？
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037272726
-     Hugo: /ja/posts/tsukiji-market-restaurant-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京築地市場レストランガイド、営業時間、食べ物完全ガイド</strong></a>
 
 ## まとめ：銀座での完璧な一日
@@ -324,9 +279,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ➡️ <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿の遊び場完全ガイド（レストラン、ショッピング、おすすめコース完全ガイド）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /ja/posts/tokyo-station-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京駅の遊び場、キャラクターストリートからレストラン、夜景、荷物保管コインロッカー</strong></a>
 
 ➡️ <a href="/ja/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>六本木の遊び場完全ガイド（展望台、美術館、ショッピング、レストラン）</strong></a>

@@ -220,7 +220,6 @@ JAL、Air Premia等使用。规模与第1航站楼相当，有"AKIHABARA"等大�
 <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><b>➡️ 日本旅游折扣优惠券完全攻略2025（唐吉诃德、必客、百货店等免税+额外折扣）</b></a>
 <br><br>
 <!-- Link updated -->
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224010546735 Hugo: /zh-cn/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 日本威士忌山崎、响官方价格总结及入门者、礼品推荐</b></a>
 
 

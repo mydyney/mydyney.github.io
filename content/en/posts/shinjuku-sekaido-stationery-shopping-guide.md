@@ -258,9 +258,6 @@ Now that you've mastered the comparison between membership discounts and tax-fre
 
 <b>➡️ <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;">Complete Shinjuku Travel Guide - From Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai</a></b>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223693165027
-     Hugo: /posts/ginza-itoya-stationery-guide/ -->
 <b>➡️ <a href="#" style="color: #667eea;">Tokyo Ginza Representative Stationery Store: Itoya Main Store</a></b>
 
 

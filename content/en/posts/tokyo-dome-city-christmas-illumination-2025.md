@@ -173,9 +173,6 @@ and the Nordic Christmas Market schedule—your complete winter guide to Tokyo D
 <p>Enjoy the best winter night views with no admission fee at the <strong>Tokyo Dome Christmas Festival</strong>. If you're a TXT fan or love Christmas markets, be sure to check the dates in advance for a rewarding trip!</p>
 
 <p><strong>🧡 Related Tokyo Dome Travel Guide:</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035895968
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels Complete Guide</strong></a></p>
 
 <hr>
@@ -186,9 +183,6 @@ and the Nordic Christmas Market schedule—your complete winter guide to Tokyo D
 <p><a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>➡️ Tokyo 3N4D Christmas Illumination Course & Christmas Markets (Complete Guide)</strong></a></p>
 
 <p><strong>🌟 2025 Tokyo Christmas Illumination Summary</strong></p>
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Illumination BEST 5 (Roppongi, Marunouchi Tips)</strong></a></p>
 
 <p><strong>🌟 Nov 4 Start: Roppongi Hills Illumination</strong></p>

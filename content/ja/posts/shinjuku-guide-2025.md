@@ -149,9 +149,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 <p><strong>➡️ <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">ドン・キホーテ 買い物リスト＆クーポン・免税方法（ラー油、目薬など）</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /ja/posts/kaldi-coffee-farm-shopping-list/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">カルディ（KALDI）買い物リスト：絶対買うべきおすすめ品（塗るカレー、ポーションコーヒー等）</a></strong></p>
 
 <p><strong>➡️ <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">ビックカメラ割引クーポン（免税+3~7%OFF）</a></strong></p>
@@ -259,9 +256,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 - 特徴：滑らかでコシのある麺と、深い旨味のある出汁の調和。
 - <strong>✅ 切麦や 甚六 オンライン予約</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /ja/posts/shinjuku-udon-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">新宿うどんの名店「切麦や 甚六」行列回避のコツとおすすめメニュー</a></strong></p>
 
 <figure>
@@ -405,9 +399,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 新宿駅は東京近郊旅行の重要な出発点でもあります。小田急線を使えば温泉で有名な<strong>「箱根」</strong>へ、京王線を使えばハイキングに最適な<strong>「高尾山」</strong>へ乗り換えなしで行けます。新宿に1泊以上滞在するなら、日帰り旅行を計画してみるのも良いでしょう。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /ja/posts/hakone-day-trip-course/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">箱根日帰り vs 1泊2日 完璧コース推奨（箱根フリーパス、ロマンスカー予約）</a></strong></p>
 
 <figure>
@@ -423,9 +414,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 JR中央線で20分の三鷹駅には<strong>「三鷹の森ジブリ美術館」</strong>があるので、合わせて計画するのもおすすめです。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /ja/posts/ghibli-museum-reservation-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">東京 ジブリ美術館 予約方法 総まとめ</a></strong></p>
 
 <hr class="se-hr">
@@ -434,9 +422,6 @@ JR中央線で20分の三鷹駅には<strong>「三鷹の森ジブリ美術館�
 
 <strong>⭐ 一緒に読むと良い東京ガイド</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/narita-express-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">成田エクスプレス(N'EX) 予約、料金、時刻表総まとめ（往復割引、座席のコツ！）</a></strong></p>
 
 <p><strong>➡️ <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">渋谷 遊び場、渋谷スカイ予約からショッピング、グルメまで完璧コース推奨</a></strong></p>

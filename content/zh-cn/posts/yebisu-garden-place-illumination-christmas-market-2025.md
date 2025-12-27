@@ -151,9 +151,6 @@ featured_image: "/images/posts/yebisu-garden-place-illumination-christmas-market
 
 想了解2024年现场氛围，也可参考下面的存档文章。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223668826357
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">2024惠比寿花园广场圣诞实拍（去年存档）</a></strong>
 *（链接将在迁移后更新）*
 
@@ -229,9 +226,6 @@ Top of Yebisu免费展望台。
 
 详细信息在专题文章中整理。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223668328703
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 ➡️ <a href="#" style="color: #667eea;">东京惠比寿花园广场免费展望台、Top of Yebisu完美攻略</a>
 *（链接将在迁移后更新）*
 
@@ -256,9 +250,6 @@ Top of Yebisu免费展望台。
 
 齐备的空间，啤酒爱好者值得一访。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223665548720
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">惠比寿酿酒厂东京，啤酒爱好者必去之地</a></strong>
 *（链接将在迁移后更新）*
 
@@ -279,9 +270,6 @@ Top of Yebisu免费展望台。
 
 ### ⭐ 更详细的交通・投币储物柜信息请查看下方文章！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223678791563
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">东京惠比寿花园广场交通方式和投币储物柜位置</a></strong>
 *（链接将在迁移后更新）*
 
@@ -347,9 +335,6 @@ A. 地下2楼 <strong>Foodies' Garden</strong> 有KALDI、Central Square、明�
 
 ### 🧡 惠比寿旅游攻略一起看
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224032769630
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">惠比寿看点、惠比寿花园广场到啤酒博物馆、美食完美攻略</a></strong>
 *（链接将在迁移后更新）*
 

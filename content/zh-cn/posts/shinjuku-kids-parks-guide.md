@@ -332,7 +332,6 @@ Hello Kitty、大耳狗、美乐蒂…
 
 新宿游玩地点，以幼儿标准来说，可以说是雨天半日路线最强者。
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224035895968 Hugo: /zh-cn/posts/tokyo-dome-city-guide/ -->
 <a href="#" style="color: #667eea;"><b>➡️ 东京巨蛋指南：演唱会、棒球、观光、美食、酒店完全总结</b></a>
 
 ### 🚆 从新宿的交通

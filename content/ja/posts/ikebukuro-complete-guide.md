@@ -306,9 +306,6 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 「渋谷」に代わる新しいハロウィンの聖地なので、時期が合えばぜひ訪れてみてください！
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/tokyo-halloween-festivals-2025/
-     Hugo: /ja/posts/tokyo-halloween-festivals-2025/ -->
 <strong>➡️ <a href="/ja/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025年東京ハロウィン祭名所BEST 4(池袋)</a></strong>
 
 <figure>
@@ -332,9 +329,6 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 <strong>伝統の街：上野</strong>
 山手線で新宿と反対方向！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /ja/posts/ueno-ameyoko-guide/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">上野観光スポット - アメ横市場、グルメから上野公園まで</a></strong>
 
 <strong>🚇 丸ノ内線16分！</strong>

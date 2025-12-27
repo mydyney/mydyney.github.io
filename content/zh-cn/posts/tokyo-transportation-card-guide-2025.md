@@ -166,14 +166,8 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 各卡的销售处(公司)不同请注意!在下方攻略按机场查看详细发行地点(JR站 vs 私铁站)附照片确认。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224007949043
-     Hugo: /zh-cn/posts/narita-airport-arrival-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京成田机场到达攻略(含Suica/PASMO发行处)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223995074888
-     Hugo: /zh-cn/posts/haneda-airport-arrival-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京羽田机场到达攻略(含Suica/PASMO发行处)</strong></a>
 
 ---
@@ -205,14 +199,8 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 <strong>⭐ 东京地铁通票详细了解</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224026098490
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank"><strong>Klook购买东京地铁通票(24/48/72小时券)</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224026098490
-     Hugo: /zh-cn/posts/tokyo-subway-ticket-guide/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>东京地铁通票(东京Subway Ticket)兑换处、购买、使用法全汇总</strong></a>
 
 ---
@@ -225,9 +213,6 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 下方攻略完美对比了2种通票的优缺点，请务必确认选择符合自己路线「值回票价」的通票!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京地铁通票 vs JR都区内通票，完美对比!</strong></a>
 
 <figure>
@@ -243,14 +228,8 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 ⭐ <strong>一起阅读更好的文章</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /zh-cn/posts/narita-express-guide/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>成田特快(N'EX)预约、价格、时刻表全汇总</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /zh-cn/posts/japan-travel-discount-coupons-2025/ -->
 <strong>➡️</strong> <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行折扣优惠券全汇总2025(唐吉诃德、必酷等)</strong></a>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

@@ -149,9 +149,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 <p><strong>➡️ <a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;">唐吉诃德 购物清单&优惠券·免税方法（辣油、眼药水等）</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /zh-cn/posts/kaldi-coffee-farm-shopping-list/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">KALDI 购物清单：绝对要买的推荐品（涂抹咖喱、分装咖啡等）</a></strong></p>
 
 <p><strong>➡️ <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">必酷相机折扣优惠券（免税+3~7%OFF）</a></strong></p>
@@ -259,9 +256,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 - 特色：光滑有嚼劲的面条与深厚鲜味高汤的和谐。
 - <strong>✅ 切麦屋 甚六 在线预约</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914223908
-     Hugo: /zh-cn/posts/shinjuku-udon-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">新宿乌冬名店"切麦屋 甚六"避开排队技巧和推荐菜单</a></strong></p>
 
 <figure>
@@ -405,9 +399,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 新宿站也是东京近郊旅行的重要出发点。利用小田急线可以到温泉闻名的<strong>"箱根"</strong>，利用京王线可以到徒步旅行理想的<strong>"高尾山"</strong>无需换乘。如果在新宿住1晚以上，计划一日游也不错。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224019480188
-     Hugo: /zh-cn/posts/hakone-day-trip-course/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">箱根一日游 vs 1晚2日 完美路线推荐（箱根周游券、Romance Car预约）</a></strong></p>
 
 <figure>
@@ -423,9 +414,6 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
 
 JR中央线20分钟的三鹰站有<strong>"三鹰之森吉卜力美术馆"</strong>，一起计划也推荐。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /zh-cn/posts/ghibli-museum-reservation-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">东京 吉卜力美术馆 预约方法 总结</a></strong></p>
 
 <hr class="se-hr">
@@ -434,9 +422,6 @@ JR中央线20分钟的三鹰站有<strong>"三鹰之森吉卜力美术馆"</stro
 
 <strong>⭐ 一起阅读推荐的东京指南</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /zh-cn/posts/narita-express-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">成田特快(N'EX) 预约、费用、时刻表总结（往返折扣、座位技巧！）</a></strong></p>
 
 <p><strong>➡️ <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;">涩谷 游玩地点，从涩谷Sky预约到购物、美食完美路线推荐</a></strong></p>

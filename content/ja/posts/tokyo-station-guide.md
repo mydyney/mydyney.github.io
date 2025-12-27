@@ -36,9 +36,6 @@ featured_image: "/images/posts/tokyo-station-guide-01.jpg"
 
 ポケモンファンの聖地！東京駅でしか手に入らない限定グッズを購入したり、本物のポケモンカードを確認したりできます。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223691371517
-     Hugo: /ja/posts/tokyo-station-pokemon-store-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京駅ポケモンストア＆ピカチュウポケモンカードレビュー</strong></a>
 
 <figure>
@@ -50,9 +47,6 @@ featured_image: "/images/posts/tokyo-station-guide-01.jpg"
 
 東京の有名ラーメン店が集結する激戦区！濃厚な豚骨から洗練された醤油ラーメンまで、わざわざ市内を移動しなくても、東京の「ベスト8」ラーメン店をここ一箇所で味わうことができます。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223707471582
-     Hugo: /ja/posts/tokyo-ramen-street-best-8/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京ラーメンストリートBEST 8、完全ガイド＆レビュー</strong></a>
 
 <figure>
@@ -103,9 +97,6 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>グルメ：</strong> 5階には北海道から来た新鮮な回転寿司の名店 <strong>「[根室花まる KITTE店](https://maps.app.goo.gl/T3n3Ct875ULmaqsy5) 📍」</strong> があります。待ち時間が長いことで有名なので、事前に整理券を取ることをおすすめします。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223680263119
-     Hugo: /ja/posts/tokyo-station-nemuro-hanamaru-sushi-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>KITTEグルメ、根室花まる回転寿司の待ち時間と予約のコツ</strong></a>
 
 <figure>
@@ -115,9 +106,6 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>無料展望台（夜景スポット）：</strong> 6階の屋上庭園は、東京駅の夜景を最も美しく眺められる最高の <strong>無料展望台</strong> です。赤レンガの丸の内駅舎と行き交う列車を眺めながら、ロマンチックな夕方の時間を過ごしてみてください。🌃
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681848151
-     Hugo: /ja/posts/kitte-marunouchi-christmas-tree-observatory/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京駅KITTEクリスマスツリーと無料展望台レビュー、鉄道マニア必須コース</strong></a>
 
 <figure>
@@ -133,9 +121,6 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>ブランチカフェ：</strong> <strong>[THE FRONT ROOM](https://maps.app.goo.gl/ovxMQuriDq381Cnw7) 📍</strong> は朝早くから営業しており、旅行の始まりにフレンチトーストと一緒にしっかりとした朝食を楽しむのに良い東京駅カフェです。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223675706489
-     Hugo: /ja/posts/tokyo-station-breakfast-the-front-room/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京駅朝食、フレンチトーストのおいしい店 THE FRONT ROOM レビュー</strong></a>
 
 <figure>
@@ -145,9 +130,6 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>無料展望台：</strong> 5階と35階に隠された無料展望台があり、夕暮れ時の夕日と夜景を鑑賞するのに最適です。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223675952285
-     Hugo: /ja/posts/marunouchi-building-free-observatory/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京駅夕焼けスポット、丸ビル無料展望台レビュー</strong></a>
 
 <figure>
@@ -161,9 +143,6 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>夜景＆ダイニング：</strong> 7階 <strong>「丸の内ハウス (Marunouchi House)」</strong> の屋外テラスは、東京駅の夜景を正面から眺めながらディナーやカクテルを楽しめるロマンチックな場所です。金曜・土曜の夜の雰囲気は特に最高です。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223684908680
-     Hugo: /ja/posts/shin-marunouchi-building-terrace-dinner/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京駅夜景を見ながらディナー、新丸ビルハウスオープンテラスレビュー</strong></a>
 
 <figure>
@@ -179,9 +158,6 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 皇居の近くに位置する特別な <strong>和田倉噴水公園スターバックス</strong>。全面ガラス張りの窓越しに見える公園の夜景と共にコーヒーを楽しめるため、東京駅の夜景カフェとして人気があります。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223685676173
-     Hugo: /ja/posts/wadakura-fountain-park-starbucks-review/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京駅夜景カフェ、和田倉噴水公園スターバックスレビュー</strong></a>
 
 <figure>
@@ -213,9 +189,6 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 ➡️ <a href="/ja/posts/marunouchi-illumination-2025/" style="color: #667eea;"><strong>2025年丸の内イルミネーション最新情報（ディズニー、マーケット総まとめ）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223686466421
-     Hugo: /ja/posts/hibiya-midtown-illumination-review-2024/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京ミッドタウン日比谷クリスマスイルミネーション、モアナコラボ</strong></a>
 
 <figure>
@@ -254,9 +227,6 @@ A3. はい、有効なJRパスをお持ちであれば、駅員にパスを見�
 
 ➡️ <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>銀座行くべき場所、失敗しないおすすめコース総まとめ（ショッピング、グルメ、裏技）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>東京交通パスのおすすめ、東京メトロパス vs 都区内パス完全比較</strong></a>
 
 

@@ -221,28 +221,16 @@ A. 可以，组装过程中丢失・损坏的零件或「田宫客户服务」�
 
 ## 🧡 相关新桥旅游攻略
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/shinbashi-shiodome-evening-course/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>东京新桥・汐留看点：穿越过去与未来的傍晚路线（美食、夜景）</strong></a>
 
 ## 🎁 东京购物攻略
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224039113760
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>日本旅游折扣优惠券完全攻略（唐吉诃德、必客、百货店等免税+额外折扣）</strong></a>
 
 <strong>➡️</strong> <a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本唐吉诃德购物清单必买推荐&折扣券、免税方法完全攻略（辣油、眼药水等）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224033964477
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单、必买KALDI推荐商品（抹酱、胶囊咖啡、免税技巧）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: /ja/posts/japan-convenience-store-shopping-best-10/
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
 <strong>➡️</strong> <a href="/zh-cn/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>日本便利店购物清单不踩雷BEST10（7-11、全家、罗森对比）</strong></a>
 
 <strong>➡️</strong> <a href="/zh-cn/posts/mitsui-outlet-kisarazu-guide/" style="color: #667eea;"><strong>东京奥特莱斯推荐：三井奥特莱斯木更津折扣券、入驻品牌、交通（御殿场对比）</strong></a>

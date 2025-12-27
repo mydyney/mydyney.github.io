@@ -172,9 +172,6 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 完美享受横滨地标建筑的<br>
 横滨1日推荐路线请查看!<br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223979907748
-     Hugo: /zh-cn/posts/yokohama-one-day-itinerary/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横滨1日路线 中华街美食、红砖仓库、夜景景点全汇总</strong></a><br>
 <br>
 <br>
@@ -184,9 +181,6 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 为节省交通费<br>
 <strong>「港未来通票」必备!</strong><br>
 <br>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223976102621
-     Hugo: /zh-cn/posts/yokohama-minato-burari-ticket-guide/ -->
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横滨交通通票,</strong></a><br>
 <a href="#" style="color: #667eea;"><strong>「港未来通票」全汇总</strong></a></p>
 

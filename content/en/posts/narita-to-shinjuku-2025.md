@@ -64,7 +64,6 @@ The two main direct transportation options to Shinjuku are:
 By the way, there's also a "Narita Shinjuku Skyliner" route, but it requires one transfer at Ueno or Nippori Station, so this article focuses on <strong>"direct routes only: Narita Express vs Airport Limousine"</strong> comparison.
 (I'll organize Skyliner in a separate in-depth article later.)
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /posts/skyliner-reservation-guide/ -->
 <strong>➡️ [Skyliner vs N'EX Comparison, Complete Guide to Ueno/Shinjuku ↗](#)</strong>
 
 ---
@@ -83,7 +82,6 @@ the fastest, most comfortable, and most punctual method."
 - <strong>Advantages</strong>: All reserved seats, wide seat spacing + ample luggage rack
 - <strong>Disadvantages</strong>: Expensive one-way, <strong>strongly recommend round-trip ticket</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /posts/narita-express-guide/ -->
 <strong>➡️ [Narita Express (N'EX) Reservation & Seat Selection Complete Guide↗](#)</strong>
 
 - <strong>Booking Methods</strong>: Klook, KKday / JR East Service Center
@@ -211,7 +209,6 @@ if you're staying at hotels like Washington Hotel listed above, the limousine bu
 - <strong>Advantages</strong>: No luggage worries, best for traveling with parents/children
 - <strong>Disadvantages</strong>: Affected by traffic, reservations required for certain time slots
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /posts/narita-airport-limousine-guide/ -->
 <strong>➡️ [Narita Airport Limousine Complete Guide↗](#)</strong>
 
 - <strong>Booking Methods</strong>: Klook / Airport ticket counter
@@ -495,16 +492,12 @@ A. In this case, you have no choice but to choose between:
 
 In addition to Shinjuku-bound transportation, if you need more detailed information about each transportation option or a complete airport guide, check out the in-depth guides below.
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224007949043 Hugo: /posts/narita-airport-arrival-guide/ -->
 <strong>➡️ [Tokyo Narita Airport Arrival Guide (Getting to the City, Suica, ATM Complete Guide) ↗](#)</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224002738158 Hugo: /posts/narita-express-guide/ -->
 <strong>➡️ [Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide ↗](#)</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224004709356 Hugo: /posts/narita-airport-limousine-guide/ -->
 <strong>➡️ [Narita Airport Limousine & Budget Express Bus Complete Guide (Reservations, Prices) ↗](#)</strong>
 
-<!-- TODO: Update link after migration Naver: https://blog.naver.com/tokyomate/224003374650 Hugo: /posts/skyliner-reservation-guide/ -->
 <strong>➡️ [Skyliner Reservations, Prices, Timetable Complete Guide (N'EX Comparison) ↗](#)</strong>
 
 <strong>➡️ [Narita Airport Terminal 1 Duty-Free 5% Discount Coupon (Shopping List) ↗](/posts/narita-airport-terminal1-duty-free-coupon-guide/)</strong>

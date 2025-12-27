@@ -98,23 +98,14 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 <strong>⭐サントリーウイスキー全ラインナップと公式価格は下記記事で確認！</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224014619007
-     Hugo: /ja/posts/suntory-whisky-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">サントリーウイスキー日本公式価格ガイド（近日公開）</a></strong></p>
 
 <strong>⭐より多様な日本ウイスキー情報はこちら！</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /ja/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">山崎・響公式価格＆ギフト用おすすめ完全ガイド（近日公開）</a></strong></p>
 
 <strong>⭐獺祭等級別違いと最新価格情報は下記記事で！</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /ja/posts/dassai-sake-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">獺祭23、45、39日本公式価格ガイド（近日公開）</a></strong></p>
 
 <figure>
@@ -273,14 +264,8 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 <p><strong>➡️ <a href="/ja/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;">日本コンビニ完全攻略！（セブンイレブン、ファミマ、ローソン比較完全ガイド）</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010546735
-     Hugo: /ja/posts/japanese-whisky-yamazaki-hibiki-price-guide/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">山崎・響日本公式価格＆ギフト用ウイスキーおすすめ完全ガイド（近日公開）</a></strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223991251786
-     Hugo: /ja/posts/dassai-sake-price-guide-japan/ -->
 <p><strong>➡️ <a href="#" style="color: #667eea;">獺祭23、45、39日本酒日本公式価格完全ガイド（近日公開）</a></strong></p>
 
 

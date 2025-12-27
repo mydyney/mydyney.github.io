@@ -306,9 +306,6 @@ Every last weekend of October, the Ikebukuro East Exit area transforms into Toky
 
 As the new Halloween mecca replacing "Shibuya," be sure to visit if the timing works out!
 
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-halloween-festivals-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <strong>➡️ <a href="/posts/tokyo-halloween-festivals-2025/" style="color: #667eea;">2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro)</a></strong>
 
 <figure>
@@ -332,9 +329,6 @@ You can travel directly on the Yamanote Line.
 <strong>Traditional District: Ueno</strong>
 Yamanote Line in the opposite direction from Shinjuku!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /posts/ueno-ameyoko-guide/ -->
 <strong>➡️ <a href="#" style="color: #667eea;">Ueno Attractions - From Ameyoko Market and Restaurants to Ueno Park</a></strong>
 
 <strong>🚇 Marunouchi Line 16 minutes!</strong>

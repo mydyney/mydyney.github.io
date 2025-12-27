@@ -55,9 +55,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 银座六本木屋顶隐藏的秘密花园。可以俯瞰银座街道的最佳免费观景台。至9月7日，1层入口和中央中庭正在举办现代艺术家矢延宪司的「GINZA SIX BIG CAT BANG: THE FINAL」展览。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223694057318
-     Hugo: /zh-cn/posts/ginza-six-rooftop-garden/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 银座必去景点，银座六本木屋顶免费观景台、溜冰场</strong></a>
 
 <figure>
@@ -81,16 +78,10 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 獭祭23、山崎等日本名酒最便宜的购买地点。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223709608832
-     Hugo: /zh-cn/posts/ginza-lotte-duty-free-shopping/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座乐天免税店购物（獭祭23、山崎12年评测）</strong></a>
 
 ⭐ 想了解银座乐天免税店的威士忌库存与最新信息？
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224008430188
-     Hugo: /zh-cn/posts/japan-travel-discount-coupons-2025/ -->
 ➡️ <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>[详细了解] 银座乐天免税店威士忌购买指南（山崎、响、免费试饮会）</strong></a>
 
 <figure>
@@ -102,9 +93,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 能邂逅日本各地稀有日本酒的高端酒类专卖店。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223698121379
-     Hugo: /zh-cn/posts/ginza-six-imadeya-sake-shopping/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座六本木日本酒威士忌购物（IMADEYA银座评测）</strong></a>
 
 <figure>
@@ -118,9 +106,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 100年传统，寻找充满优雅的甜点与礼品的好去处。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223703326263
-     Hugo: /zh-cn/posts/ginza-shiseido-parlour-gift-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座旅行伴手礼购物资生堂Parlour银座本店评测</strong></a>
 
 <figure>
@@ -143,9 +128,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 140年传统，夏目漱石也钟爱的银座传奇和菓子店。没有预约很难买到的稀有性，加上不会太甜的高级口味，特别适合寻找送给父母或长辈的有品位礼物的您，是最佳选择。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025044772
-     Hugo: /zh-cn/posts/ginza-kuya-monaka-reservation-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京送父母伴手礼，纠结就选银座空也最中</strong></a>
 
 ### ③ 性价比购物景点
@@ -169,9 +151,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 以实惠午餐价格享用米其林星级天妇罗！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223693467715
-     Hugo: /zh-cn/posts/yamanoue-tempura-omakase-ginza/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 山之上天妇罗Omakase，东京银座六本木餐厅评测</strong></a>
 
 <figure>
@@ -183,9 +162,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 外酥内嫩，名古屋米其林餐厅的人生鳗鱼饭。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223914321510
-     Hugo: /zh-cn/posts/sumiyaki-unafuji-yurakucho/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 炭烧鳗富士，东京有乐町鳗鱼餐厅评测</strong></a>
 
 <figure>
@@ -197,9 +173,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 70年传统，肉汁满溢的巨大饺子。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223702371242
-     Hugo: /zh-cn/posts/ginza-tenryu-gyoza-restaurant/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 银座天龙，肉汁满满煎饺，东京银座饺子餐厅评测</strong></a>
 
 <figure>
@@ -211,9 +184,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 米其林必比登推荐，连续6年获得食べログ拉面百名店的正宗当地拉面餐厅。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224010770861
-     Hugo: /zh-cn/posts/ginza-hachigo-reservation-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 银座八五预约及等位时间完全攻略</strong></a>
 
 <figure>
@@ -236,9 +206,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 银座的象征，在和光百货享用经典芭菲。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223715784445
-     Hugo: /zh-cn/posts/ginza-wako-tea-salon/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座咖啡厅WAKO和光茶沙龙评测（等位时间预约技巧）</strong></a>
 
 <figure>
@@ -259,9 +226,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 用时令水果制作的甜糯米糕（大福）名店。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223694645793
-     Hugo: /zh-cn/posts/ginza-akebono-strawberry-mochi/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座草莓大福，曙银座本店评测</strong></a>
 
 <figure>
@@ -273,9 +237,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 外酥内软，银座最火爆人气的盐面包。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223912913938
-     Hugo: /zh-cn/posts/pain-maison-ginza-salt-bread/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座盐面包餐厅Pain Maison，在线预约评测</strong></a>
 
 <figure>
@@ -289,9 +250,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 专家倒出的「完美黑标」生啤一杯的幸福。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223702865232
-     Hugo: /zh-cn/posts/sapporo-the-bar-ginza/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座啤酒餐厅札幌The Bar，完美生啤评测</strong></a>
 
 <figure>
@@ -307,9 +265,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 想了解筑地市场的最新信息？
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037272726
-     Hugo: /zh-cn/posts/tsukiji-market-restaurant-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京筑地市场餐厅指南、营业时间、美食完全攻略</strong></a>
 
 ## 总结：在银座的完美一天
@@ -324,9 +279,6 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ➡️ <a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿玩法完全攻略（餐厅、购物、推荐路线完全指南）</strong></a>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /zh-cn/posts/tokyo-station-guide/ -->
 ➡️ <a href="#" style="color: #667eea;"><strong>东京站玩法，从卡通街到餐厅、夜景、行李寄存投币柜</strong></a>
 
 ➡️ <a href="/zh-cn/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>六本木玩法完全攻略（观景台、美术馆、购物、餐厅）</strong></a>

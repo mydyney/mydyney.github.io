@@ -211,9 +211,6 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 
 <p><strong>Q1. What's the fastest way from Narita Airport?</strong></p>
 <p>A. Take the Skyliner from Narita Airport to Keisei Ueno Station, then climb the park stairs to arrive in just 1 minute. Great as a first day itinerary!</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224003374650
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ How to Get from Narita Airport to Ueno (Skyliner Reservation, Price, Schedule)</strong></a></p>
 
 <figure>
@@ -226,9 +223,6 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 
 <p><strong>Q3. What else to do around Ueno Park?</strong></p>
 <p>A. Ameyoko street across the road is packed with attractions and food 24/7.</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224028694874
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Ameyoko Market Food to Ueno Park Complete Course</strong></a></p>
 
 <figure>
@@ -250,9 +244,6 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 <p><a href="/posts/tokyo-3-day-christmas-illumination-itinerary/" style="color: #667eea;"><strong>➡️ Tokyo 3N4D Christmas Illumination Course & Christmas Markets (Complete Guide)</strong></a></p>
 
 <p><strong>🌟 2025 Tokyo Christmas Markets Summary</strong></p>
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-markets-guide-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Christmas Markets: Where to Go? (Roppongi, Skytree, etc.)</strong></a></p>
 
 <p><strong>🌟 Nov 4 Start: Roppongi Hills Illumination</strong></p>
@@ -265,9 +256,6 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 <p><a href="/posts/yebisu-garden-place-illumination-christmas-market-2025/" style="color: #667eea;"><strong>➡️ 2025 Yebisu Garden Place Illumination & Christmas Market Guide</strong></a></p>
 
 <p><strong>🌟 Nov 13 Start: Tokyo Marunouchi Illumination</strong></p>
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-christmas-illumination-best-5-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="/posts/tokyo-christmas-illumination-best-5-2025/" style="color: #667eea;"><strong>➡️ Tokyo Marunouchi Illumination 2025 Complete Guide</strong></a></p>
 
 <p><strong>🌟 Nov 13 Start: Hibiya Midtown Illumination</strong></p>
@@ -277,9 +265,6 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 <p><a href="/posts/roppongi-midtown-christmas-2025/" style="color: #667eea;"><strong>➡️ 2025 Roppongi Tokyo Midtown Christmas Complete Guide</strong></a></p>
 
 <p><strong>🌟 Nov 17 Start: Tokyo Dome City Illumination</strong></p>
-<!-- TODO: Update link after migration
-     Naver: /posts/tokyo-dome-city-christmas-illumination-2025/
-     Hugo: /posts/[SLUG_TBD]/ -->
 <p><a href="/posts/tokyo-dome-city-christmas-illumination-2025/" style="color: #667eea;"><strong>➡️ 2025 Tokyo Dome City Illumination Complete Guide</strong></a></p>
 
 
