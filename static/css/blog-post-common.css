@@ -137,7 +137,8 @@ div.image-group-9,
   width: 100% !important;
   max-width: 100% !important;
   min-width: 100% !important;
-  gap: 8px !important;
+  column-gap: 8px !important;
+  row-gap: 0 !important;
   margin: 2rem auto !important; /* Changed: Added 'auto' for horizontal centering */
   padding: 0 !important;
   align-items: start !important;
@@ -266,7 +267,8 @@ div.image-group-9,
   .image-group-4,
   .image-group-9 {
     width: 100% !important;
-    gap: 6px !important;
+    column-gap: 6px !important;
+    row-gap: 0 !important;
     margin: 1.5rem 0 !important;
   }
 
