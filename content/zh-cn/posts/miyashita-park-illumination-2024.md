@@ -48,11 +48,12 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 宫下公园屋顶花园灯光秀以隧道造型营造出梦幻氛围。
 
 <div class="image-group-2">
-
-![黛珂赞助展示1](/images/posts/miyashita-park-illumination-2024-03.jpg)
-![黛珂赞助展示2](/images/posts/miyashita-park-illumination-2024-04.jpg)
-
-
+  <figure>
+    <img src="/images/posts/miyashita-park-illumination-2024-03.jpg" alt="黛珂赞助展示1">
+  </figure>
+  <figure>
+    <img src="/images/posts/miyashita-park-illumination-2024-04.jpg" alt="黛珂赞助展示2">
+  </figure>
 </div>
 
 今年的赞助商是日本化妆品专业品牌黛珂（Decorté）。

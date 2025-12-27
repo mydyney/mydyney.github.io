@@ -48,11 +48,12 @@ Besides Shibuya Station, it's about a 10-minute walk from Harajuku, so you can e
 The Miyashita Park rooftop garden illumination creates a fantastic atmosphere with its tunnel design.
 
 <div class="image-group-2">
-
-![Decorté Sponsor Display 1](/images/posts/miyashita-park-illumination-2024-03.jpg)
-![Decorté Sponsor Display 2](/images/posts/miyashita-park-illumination-2024-04.jpg)
-
-
+  <figure>
+    <img src="/images/posts/miyashita-park-illumination-2024-03.jpg" alt="Decorté Sponsor Display 1">
+  </figure>
+  <figure>
+    <img src="/images/posts/miyashita-park-illumination-2024-04.jpg" alt="Decorté Sponsor Display 2">
+  </figure>
 </div>
 
 This year's sponsor is Decorté, Japan's premium cosmetics brand.

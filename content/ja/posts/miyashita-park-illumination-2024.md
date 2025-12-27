@@ -48,11 +48,12 @@ featured_image: "/images/posts/miyashita-park-illumination-2024-01.jpg"
 ミヤシタパーク屋上庭園イルミネーションはトンネルの形で幻想的な雰囲気を作り出します。
 
 <div class="image-group-2">
-
-![デコルテ協賛ディスプレイ1](/images/posts/miyashita-park-illumination-2024-03.jpg)
-![デコルテ協賛ディスプレイ2](/images/posts/miyashita-park-illumination-2024-04.jpg)
-
-
+  <figure>
+    <img src="/images/posts/miyashita-park-illumination-2024-03.jpg" alt="デコルテ協賛ディスプレイ1">
+  </figure>
+  <figure>
+    <img src="/images/posts/miyashita-park-illumination-2024-04.jpg" alt="デコルテ協賛ディスプレイ2">
+  </figure>
 </div>
 
 今年の協賛社は化粧品専門ブランドのデコルテです。
