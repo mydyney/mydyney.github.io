@@ -484,9 +484,74 @@ git push
 
 ## Link Mapping System
 
+### Link Conversion Workflow (Step-by-Step)
+
+**⚠️ MANDATORY: Follow this exact workflow for EVERY Naver link**
+
+For each Naver blog link found in the original HTML:
+
+**Step 1: Extract Naver Post ID**
+```
+Example URL: https://blog.naver.com/tokyomate/224065668379
+Extracted ID: 224065668379
+```
+
+**Step 2: Check LINK_MAPPING.md**
+```bash
+# Search for the ID in LINK_MAPPING.md
+grep "224065668379" LINK_MAPPING.md
+```
+
+- **If found:** Extract Hugo slug from the mapping
+  ```
+  Example result: 224065668379 | roppongi-christmas-illumination-2025
+  Hugo slug: roppongi-christmas-illumination-2025
+  ```
+- **If NOT found:** Skip to Step 4 (use placeholder)
+
+**Step 3: Verify File Existence (MANDATORY)**
+
+**⚠️ CRITICAL: Even if mapped, you MUST verify the file actually exists**
+
+```bash
+# Check if the Hugo post file exists
+ls content/en/posts/roppongi-christmas-illumination-2025.md
+```
+
+- **If file exists (no error):** Proceed to Step 3a (convert link)
+- **If file does NOT exist (error):** Proceed to Step 4 (use placeholder)
+
+**Step 3a: Convert to Hugo Link**
+
+Create working internal link with proper language prefix:
+
+```html
+<!-- English version: -->
+<a href="/posts/roppongi-christmas-illumination-2025/">Related Article</a>
+
+<!-- Japanese version: -->
+<a href="/ja/posts/roppongi-christmas-illumination-2025/">関連記事</a>
+
+<!-- Chinese version: -->
+<a href="/zh-cn/posts/roppongi-christmas-illumination-2025/">相关文章</a>
+```
+
+**Step 4: Use TODO Placeholder**
+
+When mapping doesn't exist OR file doesn't exist:
+
+```html
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224065668379
+     Hugo: /posts/roppongi-christmas-illumination-2025/ -->
+<a href="#" style="color: #667eea;">Related Article</a>
+```
+
+---
+
 ### Intelligent Link Mapping and Auto-Conversion
 
-🎯 **NEW: Automated link conversion using LINK_MAPPING.md**
+🎯 **Automated link conversion using LINK_MAPPING.md**
 
 When creating Hugo posts, the AI will:
 
@@ -495,6 +560,7 @@ When creating Hugo posts, the AI will:
 2. **For each internal Naver link found:**
    - Extract Naver post ID (e.g., `223681272647` from `https://blog.naver.com/tokyomate/223681272647`)
    - Check if mapping exists in LINK_MAPPING.md
+   - **Use ls command to verify file existence**
 
    - **If mapped AND Hugo post file exists:** ✅ Automatically convert to Hugo link
 
@@ -573,20 +639,44 @@ When creating Hugo posts, the AI will:
 
 ```
 Internal Links Found: 6
-├─ 224065668379 (roppongi-christmas-illumination-2025) → ✅ Auto-converted
-│   EN: /posts/roppongi-christmas-illumination-2025/
-│   JA: /ja/posts/roppongi-christmas-illumination-2025/
-│   ZH-CN: /zh-cn/posts/roppongi-christmas-illumination-2025/
-├─ 224055756731 (tokyo-3-day-christmas-itinerary) → ✅ Auto-converted
-│   EN: /posts/tokyo-3-day-christmas-itinerary/
-│   JA: /ja/posts/tokyo-3-day-christmas-itinerary/
-│   ZH-CN: /zh-cn/posts/tokyo-3-day-christmas-itinerary/
-├─ 224045496649 (not yet mapped) → ⏳ TODO comment added
-├─ 224042431249 (not yet mapped) → ⏳ TODO comment added
-├─ 223681272647 (not yet mapped) → ⏳ TODO comment added
-└─ 223988228389 (not yet mapped) → ⏳ TODO comment added
 
-Result: 2 links work immediately, 4 marked for future update
+1. Naver ID: 224065668379
+   ├─ Check LINK_MAPPING.md: ✅ Found (roppongi-christmas-illumination-2025)
+   ├─ Verify file: ls content/en/posts/roppongi-christmas-illumination-2025.md
+   ├─ File exists: ✅ Yes
+   └─ Result: ✅ AUTO-CONVERTED
+       EN: /posts/roppongi-christmas-illumination-2025/
+       JA: /ja/posts/roppongi-christmas-illumination-2025/
+       ZH-CN: /zh-cn/posts/roppongi-christmas-illumination-2025/
+
+2. Naver ID: 224055756731
+   ├─ Check LINK_MAPPING.md: ✅ Found (tokyo-3-day-christmas-itinerary)
+   ├─ Verify file: ls content/en/posts/tokyo-3-day-christmas-itinerary.md
+   ├─ File exists: ✅ Yes
+   └─ Result: ✅ AUTO-CONVERTED
+       EN: /posts/tokyo-3-day-christmas-itinerary/
+       JA: /ja/posts/tokyo-3-day-christmas-itinerary/
+       ZH-CN: /zh-cn/posts/tokyo-3-day-christmas-itinerary/
+
+3. Naver ID: 224045496649
+   ├─ Check LINK_MAPPING.md: ❌ Not found
+   └─ Result: ⏳ TODO PLACEHOLDER
+       <!-- TODO: Update link after migration
+            Naver: https://blog.naver.com/tokyomate/224045496649
+            Hugo: /posts/[SLUG_TBD]/ -->
+
+4. Naver ID: 224022065518
+   ├─ Check LINK_MAPPING.md: ✅ Found (don-quijote-shopping-guide-2025)
+   ├─ Verify file: ls content/en/posts/don-quijote-shopping-guide-2025.md
+   ├─ File exists: ❌ No (file not created yet)
+   └─ Result: ⏳ TODO PLACEHOLDER
+       <!-- TODO: Update link after migration
+            Naver: https://blog.naver.com/tokyomate/224022065518
+            Hugo: /posts/don-quijote-shopping-guide-2025/ -->
+
+5-6. [Similar pattern for remaining links]
+
+Final Result: 2 links auto-converted, 4 TODO placeholders
 ```
 
 See `/LINK_MAPPING.md` for complete tracking database.
