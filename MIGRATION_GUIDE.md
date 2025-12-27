@@ -383,6 +383,7 @@ git push
   - Treat blog post links (e.g., "See also [Title]") appearing in the middle of the text as **CONTENT**, not footer material.
   - **NEVER** move these links to a "Related Posts" section at the bottom.
   - **MUST** be placed exactly where they appear in the source HTML (e.g., between two paragraphs).
+  - **Use left alignment** for Naver internal link sections (not centered).
 
 * **Link Preservation (MANDATORY):**
   - **Duplicate URLs:** If a URL appears multiple times in different contexts (e.g., once as an image source, once as a "Check Availability" text link), you **MUST PRESERVE BOTH**. Never de-duplicate based on URL.
@@ -478,34 +479,6 @@ git push
 * Use natural, human-like variations in sentence structure
 * Include personal touches and authentic observations
 * Write as a real travel blogger would, not as an AI assistant
-
-#### ⚠️ CRITICAL: RELATED POSTS SECTION FORMATTING
-
-When Naver blog posts have a "관련 글" (Related Posts) section at the end, follow these formatting rules:
-
-* **Text Alignment: LEFT-ALIGNED (MANDATORY)**
-  - The "관련 글" / "Related Posts" / "関連記事" / "相关文章" section heading MUST be left-aligned
-  - All links in this section MUST be left-aligned
-  - **NEVER use center alignment for related posts section**
-
-* **Format:**
-  ```html
-  <h2 style="text-align: left;">Related Posts</h2>
-  <ul style="text-align: left;">
-    <li><a href="/posts/post-1/">Post Title 1</a></li>
-    <li><a href="/posts/post-2/">Post Title 2</a></li>
-  </ul>
-  ```
-
-* **Language-Specific Headings:**
-  - **English:** "Related Posts"
-  - **Japanese:** "関連記事"
-  - **Chinese (Simplified):** "相关文章"
-
-* **Why Left Alignment:**
-  - Consistent with standard blog layout conventions
-  - Better readability for link lists
-  - Distinguishes this section from centered intro/image sections
 
 ---
 
