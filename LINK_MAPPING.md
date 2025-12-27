@@ -113,6 +113,7 @@ When migrating a Naver blog post to Hugo:
 | 224106627092 | shibuya-parco-shopping-guide | 2025-12-12 | ✅ |
 | 224106448442 | shibuya-parco-nintendo-pokemon-guide | 2025-12-13 | ✅ |
 | 224105736326 | shibuya-human-made-offline-store-guide | 2025-12-11 | ✅ |
+| 224112740096 | tokyo-station-okashi-land-jagariko-calbee-guide | 2025-12-27 | ✅ |
 | 224107954391 | shibuya-station-coin-locker-luggage-storage-guide | 2025-12-13 | ✅ |
 | 223689247336 | miyashita-park-illumination-2024 | 2024-12-17 | ✅ |
 
@@ -432,6 +433,7 @@ declare -A MAPPINGS=(
   ["224106627092"]="shibuya-parco-shopping-guide"
   ["224106448442"]="shibuya-parco-nintendo-pokemon-guide"
   ["224107954391"]="shibuya-station-coin-locker-luggage-storage-guide"
+  ["224112740096"]="tokyo-station-okashi-land-jagariko-calbee-guide"
   ["224105736326"]="shibuya-human-made-offline-store-guide"
 )
 
