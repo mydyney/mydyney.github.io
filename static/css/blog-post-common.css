@@ -243,7 +243,8 @@ div.image-group-9,
 .image-group-9 > figcaption {
   grid-column: 1 / -1 !important;
   width: 100% !important;
-  margin-top: 0.25rem !important;
+  margin-top: 0 !important;
+  padding-top: 0.5rem !important;
   text-align: center !important;
   font-size: 0.7em !important;
   color: #666;
