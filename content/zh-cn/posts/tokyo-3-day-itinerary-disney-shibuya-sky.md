@@ -82,10 +82,7 @@ featured_image: /images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg
 
 <p><b>✅ <a href="/zh-cn/posts/narita-to-shinjuku-2025/" target="_blank">成田机场到新宿的方法｜成田特快 vs 机场巴士</a></b></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224007949043
-     Hugo: /zh-cn/posts/narita-airport-arrival-guide/ -->
-<p><b>✅ <a href="#" style="color: #667eea;">成田机场到达指南：交通卡（Suica）办理、ATM</a></b></p>
+<p><b>✅ <a href="/zh-cn/posts/narita-airport-arrival-guide/" target="_blank">成田机场到达指南：交通卡（Suica）办理、ATM</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-02.jpg" alt="从飞机窗口看到的晴空塔和东京">
@@ -178,10 +175,7 @@ featured_image: /images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg
 
 <p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klook 地铁通票（东京地铁票）优惠预订</a></b></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224026098490
-     Hugo: /zh-cn/posts/tokyo-subway-ticket-guide/ -->
-<p><b>✅ <a href="#" style="color: #667eea;">东京地铁通票购买、兑换处、使用方法、线路（24、48、72小时）</a></b></p>
+<p><b>✅ <a href="/zh-cn/posts/tokyo-subway-ticket-guide/" target="_blank">东京地铁通票购买、兑换处、使用方法、线路（24、48、72小时）</a></b></p>
 
 ### 上午9:00 | 🐟 筑地场外市场
 
@@ -198,10 +192,7 @@ featured_image: /images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg
 
 <p><b>👉 <a href="https://autoreserve.com/ko/restaurants/CM9KTmcARB2PNmdDM8qG?medium_slug=AJvA6Kg5ptKi" target="_blank">天丼金子半之助筑地本店在线预约</a></b></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037272726
-     Hugo: /zh-cn/posts/tsukiji-market-restaurant-guide/ -->
-<p><b>✅ <a href="#" style="color: #667eea;">东京筑地市场餐厅指南，营业时间、休息日、美食总整理（与丰洲市场的区别）</a></b></p>
+<p><b>✅ <a href="/zh-cn/posts/tsukiji-market-restaurant-guide/" target="_blank">东京筑地市场餐厅指南，营业时间、休息日、美食总整理（与丰洲市场的区别）</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-08.jpg" alt="有传统招牌的筑地市场入口">

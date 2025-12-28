@@ -82,10 +82,7 @@ Everything you need in one complete guide.</p>
 
 <p><b>✅ <a href="/posts/narita-to-shinjuku-2025/" target="_blank">How to Get from Narita Airport to Shinjuku | N'EX vs Airport Limousine</a></b></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224007949043
-     Hugo: /posts/narita-airport-arrival-guide/ -->
-<p><b>✅ <a href="#" style="color: #667eea;">Narita Airport Arrival Guide: Suica Card, ATM & More</a></b></p>
+<p><b>✅ <a href="/posts/narita-airport-arrival-guide/" target="_blank">Narita Airport Arrival Guide: Suica Card, ATM & More</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-02.jpg" alt="View of Tokyo Skytree from airplane window">
@@ -178,10 +175,7 @@ Everything you need in one complete guide.</p>
 
 <p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klook Tokyo Subway Pass Discount Booking</a></b></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224026098490
-     Hugo: /posts/tokyo-subway-ticket-guide/ -->
-<p><b>✅ <a href="#" style="color: #667eea;">Tokyo Subway Pass: Purchase, Exchange Locations, Usage, Routes (24, 48, 72 hours)</a></b></p>
+<p><b>✅ <a href="/posts/tokyo-subway-ticket-guide/" target="_blank">Tokyo Subway Pass: Purchase, Exchange Locations, Usage, Routes (24, 48, 72 hours)</a></b></p>
 
 ### 9:00 AM | 🐟 Tsukiji Outer Market
 
@@ -198,10 +192,7 @@ Everything you need in one complete guide.</p>
 
 <p><b>👉 <a href="https://autoreserve.com/ko/restaurants/CM9KTmcARB2PNmdDM8qG?medium_slug=AJvA6Kg5ptKi" target="_blank">Tendon Kaneko Hannosuke Tsukiji Main Store Online Reservation</a></b></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037272726
-     Hugo: /posts/tsukiji-market-restaurant-guide/ -->
-<p><b>✅ <a href="#" style="color: #667eea;">Tokyo Tsukiji Market Restaurant Guide: Hours, Closed Days, Food & Complete Guide (vs Toyosu Market)</a></b></p>
+<p><b>✅ <a href="/posts/tsukiji-market-restaurant-guide/" target="_blank">Tokyo Tsukiji Market Restaurant Guide: Hours, Closed Days, Food & Complete Guide (vs Toyosu Market)</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-08.jpg" alt="Entrance to Tsukiji Market with traditional signage">
