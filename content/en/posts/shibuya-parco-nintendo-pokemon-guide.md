@@ -11,6 +11,8 @@ featured_image: "/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"
 images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 ---
 
+<div class="blog-container">
+
 <p style="text-align: center; font-size: 1.1rem; color: #555;">Complete guide to Shibuya Parco 6F! From Nintendo Tokyo ticket tips to Pokemon Center Shibuya exclusive goods (Mewtwo), Jump Shop, and Capcom Store. Includes tax-free info, waiting tips, and Pokemon card purchase guide.</p>
 
 <figure>
@@ -20,17 +22,17 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 Hello! This is Tokyo Mate, documenting the joy of Tokyo travel.✈️
 
-The center of Shibuya shopping, **Parco Department Store**! Among them, the 6th floor is '**CYBERSPACE SHIBUYA**', which makes the hearts of game and animation fans around the world beat faster.
+The center of Shibuya shopping, <strong>Parco Department Store</strong>! Among them, the 6th floor is '<strong>CYBERSPACE SHIBUYA</strong>', which makes the hearts of game and animation fans around the world beat faster.
 
-Today, we'll share efficient routes and essential shopping tips for exploring the 6th floor's big three: **Nintendo Tokyo, Pokemon Center Shibuya, and Jump Shop** all at once.
+Today, we'll share efficient routes and essential shopping tips for exploring the 6th floor's big three: <strong>Nintendo Tokyo, Pokemon Center Shibuya, and Jump Shop</strong> all at once.
 
 ---
 
-## **Operating Information (As of December 2025)**
+## <strong>Operating Information (As of December 2025)</strong>
 
-**📍 Location: SHIBUYA PARCO 6F (CYBERSPACE)**
+<strong>📍 Location: SHIBUYA PARCO 6F (CYBERSPACE)</strong>
 
-**🚶 How to Get There:** JR Shibuya Station Hachiko Exit → Cross Scramble Crossing → Uphill towards MODI (5-7 min walk)
+<strong>🚶 How to Get There:</strong> JR Shibuya Station Hachiko Exit → Cross Scramble Crossing → Uphill towards MODI (5-7 min walk)
 
 <div class="se-placesMap">
   <a href="https://maps.app.goo.gl/Y1QtF1iwXhBzTsiD7" target="_blank" class="se-map-info">
@@ -40,9 +42,9 @@ Today, we'll share efficient routes and essential shopping tips for exploring th
   </a>
 </div>
 
-**⏰ Business Hours: 10:00 – 21:00**
+<strong>⏰ Business Hours: 10:00 – 21:00</strong>
 
-***📌 Important:** While general Parco stores open at 11 AM, **the 6F character zone opens at 10 AM***.
+<em><strong>📌 Important:</strong> While general Parco stores open at 11 AM, <strong>the 6F character zone opens at 10 AM</strong>.</em>
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-02.jpg" alt="Shibuya Parco escalator to 6F before opening">
@@ -51,21 +53,21 @@ Today, we'll share efficient routes and essential shopping tips for exploring th
 
 ---
 
-## **Shibuya Parco 6F at a Glance (Store Layout & Route)**
+## <strong>Shibuya Parco 6F at a Glance (Store Layout & Route)</strong>
 
 Shibuya Parco 6F has a 'square structure', making it easy to walk around in a circle.
 
-### **🟧 Main Store Lineup on 6F**
+### <strong>🟧 Main Store Lineup on 6F</strong>
 
-🎮 **Nintendo TOKYO**: The holy land of Mario, Zelda, and Pikmin
+🎮 <strong>Nintendo TOKYO</strong>: The holy land of Mario, Zelda, and Pikmin
 
-⚡ **Pokémon Center SHIBUYA**: Mewtwo and graffiti art
+⚡ <strong>Pokémon Center SHIBUYA</strong>: Mewtwo and graffiti art
 
-📚 **JUMP SHOP**: One Piece, Jujutsu Kaisen, Slam Dunk
+📚 <strong>JUMP SHOP</strong>: One Piece, Jujutsu Kaisen, Slam Dunk
 
-🕹 **CAPCOM STORE**: Monster Hunter, Resident Evil
+🕹 <strong>CAPCOM STORE</strong>: Monster Hunter, Resident Evil
 
-### **🟧 Recommended Route (Minimize Waiting)**
+### <strong>🟧 Recommended Route (Minimize Waiting)</strong>
 
 1. Nintendo (Opening run/Numbered ticket)
 2. Pokemon Center Shibuya (Numbered ticket)
@@ -78,20 +80,25 @@ Shibuya Parco 6F has a 'square structure', making it easy to walk around in a ci
 </figure>
 
 ---
-## **1. Nintendo TOKYO - Tickets, Waiting & Goods**
+## <strong>1. Nintendo TOKYO - Tickets, Waiting & Goods</strong>
 
-This is the place that attracts the most crowds on Shibuya Parco 6F. On weekdays, entry is relatively free, but on **weekends or holidays**, there are so many people that you may not even be able to enter without a **'numbered ticket'**.
+This is the place that attracts the most crowds on Shibuya Parco 6F. On weekdays, entry is relatively free, but on <strong>weekends or holidays</strong>, there are so many people that you may not even be able to enter without a '<strong>numbered ticket</strong>'.
 
-**✅ How to Get a Numbered Ticket for Shibuya Nintendo**
+<strong>✅ How to Get a Numbered Ticket for Shibuya Nintendo</strong>
 
-- **Distribution Days:** Saturdays, Sundays, public holidays, and other days when crowds are expected
-- **Distribution Time:** Usually starts between **9:30 AM - 10:00 AM** before opening
-- **Distribution Location:**
-  - **Before Opening:** Parco 1F '**Spain-zaka**' entrance (outdoor stairs side)
-  - **After Opening:** 6F outdoor stairs entrance in front of Mario statue (1 per person)
-- **Entry Method:** Check the entry time available with the numbered ticket QR code, and visit the 6F store at that time
+<ul>
+<li><strong>Distribution Days:</strong> Saturdays, Sundays, public holidays, and other days when crowds are expected</li>
+<li><strong>Distribution Time:</strong> Usually starts between <strong>9:30 AM - 10:00 AM</strong> before opening</li>
+<li><strong>Distribution Location:</strong>
+  <ul>
+  <li><strong>Before Opening:</strong> Parco 1F '<strong>Spain-zaka</strong>' entrance (outdoor stairs side)</li>
+  <li><strong>After Opening:</strong> 6F outdoor stairs entrance in front of Mario statue (1 per person)</li>
+  </ul>
+</li>
+<li><strong>Entry Method:</strong> Check the entry time available with the numbered ticket QR code, and visit the 6F store at that time</li>
+</ul>
 
-**💡 Tip.** Didn't get a numbered ticket? **After 7-8 PM (before closing)**, free entry without numbered tickets often opens up, so try visiting then!
+<strong>💡 Tip.</strong> Didn't get a numbered ticket? <strong>After 7-8 PM (before closing)</strong>, free entry without numbered tickets often opens up, so try visiting then!
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-04.jpg" alt="Nintendo Tokyo numbered ticket distribution location map before opening">
@@ -103,17 +110,19 @@ This is the place that attracts the most crowds on Shibuya Parco 6F. On weekdays
   <figcaption style="font-size: 0.85em; text-align: center;">Numbered ticket distribution location after opening - in front of Mario statue</figcaption>
 </figure>
 
-### **✅ Top 5 Must-Buy Goods**
+### <strong>✅ Top 5 Must-Buy Goods</strong>
 
-1. **Pikmin Series**: Flower pots, keyrings, plushies - the hottest items right now.
-2. **The Legend of Zelda**: Ties, Hyrule crest stationery, and other high-quality goods
-3. **Animal Crossing**: Practical tableware and kitchen items (recommended for gifts)
-4. **Super Mario**: Shibuya exclusive statues and 8-bit dot goods
-5. **Kirby**: 30th anniversary goods and pink items
+1. <strong>Pikmin Series</strong>: Flower pots, keyrings, plushies - the hottest items right now.
+2. <strong>The Legend of Zelda</strong>: Ties, Hyrule crest stationery, and other high-quality goods
+3. <strong>Animal Crossing</strong>: Practical tableware and kitchen items (recommended for gifts)
+4. <strong>Super Mario</strong>: Shibuya exclusive statues and 8-bit dot goods
+5. <strong>Kirby</strong>: 30th anniversary goods and pink items
 
-### **✅ Tax-Free: ❌ Not Available**
+### <strong>✅ Tax-Free: ❌ Not Available</strong>
 
-- Nintendo Tokyo does not offer tax-free shopping because it sells products for the Japanese domestic market.
+<ul>
+<li>Nintendo Tokyo does not offer tax-free shopping because it sells products for the Japanese domestic market.</li>
+</ul>
 
 <div class="image-group-3">
   <figure>
@@ -143,12 +152,12 @@ This is the place that attracts the most crowds on Shibuya Parco 6F. On weekdays
   <figure>
     <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="Nintendo Tokyo store interior and goods photo 7">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo Tokyo store interior and goods photos</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Nintendo Tokyo store interior and goods photos</figcaption>
 </div>
 
-### **✅ Nostalgic Moment 🕹️**
+### <strong>✅ Nostalgic Moment 🕹️</strong>
 
-"Huh? This button is...?!" When you visit the Nintendo Tokyo store, there's something you absolutely can't pass by. It's the **'Controller Button Collection' gachapon** that turned the buttons of Nintendo's historic game console controllers into miniatures.
+"Huh? This button is...?!" When you visit the Nintendo Tokyo store, there's something you absolutely can't pass by. It's the '<strong>Controller Button Collection</strong>' gachapon that turned the buttons of Nintendo's historic game console controllers into miniatures.
 
 From Famicom to Nintendo 64, collect the nostalgic button feel through gachapon!
 
@@ -159,28 +168,30 @@ From Famicom to Nintendo 64, collect the nostalgic button feel through gachapon!
   <figure>
     <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-14.jpg" alt="Nintendo controller gachapon 2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo Controller Gachapon</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Nintendo Controller Gachapon</figcaption>
 </div>
 
 ---
-## **2. Pokemon Center Shibuya - Mewtwo, Exclusive Goods & Cards**
+## <strong>2. Pokemon Center Shibuya - Mewtwo, Exclusive Goods & Cards</strong>
 
 Unlike other branches (Ikebukuro, Nihonbashi), it boasts the hippest atmosphere with a 'Black & Street' concept.
 
-### **✅ Must-See Photo Zone: Mewtwo**
+### <strong>✅ Must-See Photo Zone: Mewtwo</strong>
 
-When you enter the entrance, you'll find a **life-sized Mewtwo** that moves as if it's breathing in a cultivation tank. It's the landmark of the Shibuya store, so videos/photos are a must!
+When you enter the entrance, you'll find a <strong>life-sized Mewtwo</strong> that moves as if it's breathing in a cultivation tank. It's the landmark of the Shibuya store, so videos/photos are a must!
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-15.jpg" alt="Pokemon Center Shibuya photo zone Mewtwo">
   <figcaption style="font-size: 0.85em; text-align: center;"><strong>Pokemon Center Shibuya Photo Zone Mewtwo</strong></figcaption>
 </figure>
 
-### **✅ Shibuya Exclusive Goods**
+### <strong>✅ Shibuya Exclusive Goods</strong>
 
-- **Graffiti Pikachu:** Hip Pikachu plushies with graffiti art on hats and clothes
-- **Crystal Pikachu:** Gorgeous Pikachu decorated with Swarovski crystals (expensive)
-- **Pokemon Design Lab:** You can custom-make your own Pokemon T-shirt on a touchscreen (waiting time required)
+<ul>
+<li><strong>Graffiti Pikachu:</strong> Hip Pikachu plushies with graffiti art on hats and clothes</li>
+<li><strong>Crystal Pikachu:</strong> Gorgeous Pikachu decorated with Swarovski crystals (expensive)</li>
+<li><strong>Pokemon Design Lab:</strong> You can custom-make your own Pokemon T-shirt on a touchscreen (waiting time required)</li>
+</ul>
 
 <div class="image-group-2">
   <figure>
@@ -189,22 +200,22 @@ When you enter the entrance, you'll find a **life-sized Mewtwo** that moves as i
   <figure>
     <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-17.jpg" alt="Pokemon Design Lab Pokemon T-shirt custom making 2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Pokemon Design Lab Pokemon T-shirt Custom Making</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Pokemon Design Lab Pokemon T-shirt Custom Making</figcaption>
 </div>
 
-### **✅ Pokemon Card (TCG) Purchase Tips & Precautions**
+### <strong>✅ Pokemon Card (TCG) Purchase Tips & Precautions</strong>
 
 If you're planning to buy Pokemon cards at Shibuya Pokemon Center, be sure to check! (Based on 2025 latest policy)
 
-**1. Cards are at the register**
+<strong>1. Cards are at the register</strong>
 
-Popular expansion packs are sold at the **register (Cashier)**, not on display shelves. Don't give up if they're not on the shelves, ask at checkout.
+Popular expansion packs are sold at the <strong>register (Cashier)</strong>, not on display shelves. Don't give up if they're not on the shelves, ask at checkout.
 
-**2. Purchase Limit per Person**
+<strong>2. Purchase Limit per Person</strong>
 
 To prevent reselling, there are strict quantity limits like '5 packs per person' or '10 packs per person'. Popular packs often sell out (SOLD OUT) in the morning.
 
-**3. Shrink (Plastic) Removal Policy (Important!)**
+<strong>3. Shrink (Plastic) Removal Policy (Important!)</strong>
 
 Even if you buy by the box, staff will remove the plastic wrap (shrink) on site and hand it to you. Keep this in mind when buying for unopened collection!
 
@@ -213,11 +224,11 @@ Even if you buy by the box, staff will remove the plastic wrap (shrink) on site 
   <figcaption style="font-size: 0.85em; text-align: center;">Pokemon <strong>Card (TCG) Purchase Tips & Precautions</strong></figcaption>
 </figure>
 
-### **✅ Birthday Benefits**
+### <strong>✅ Birthday Benefits</strong>
 
 If you visit during your birthday month, show your passport/ID to receive a 'birthday card' and 'sticker'.
 
-### **✅ Tax-Free: ⭕️ Available** (Over 5,500 yen including tax, passport required)
+### <strong>✅ Tax-Free: ⭕️ Available</strong> (Over 5,500 yen including tax, passport required)
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-19.jpg" alt="Pokemon Center Shibuya Pikachu">
@@ -225,40 +236,46 @@ If you visit during your birthday month, show your passport/ID to receive a 'bir
 </figure>
 
 ---
-## **3. Jump Shop - One Piece, Demon Slayer, Haikyuu Goods**
+## <strong>3. Jump Shop - One Piece, Demon Slayer, Haikyuu Goods</strong>
 
-### **✅ Popular Product Lineup**
+### <strong>✅ Popular Product Lineup</strong>
 
-- One Piece Gear 5 Goods
-- Jujutsu Kaisen, Haikyuu!!, Sakamoto Days
-- Slam Dunk, My Hero Academia
-- Random Boxes (Trading Goods)
+<ul>
+<li>One Piece Gear 5 Goods</li>
+<li>Jujutsu Kaisen, Haikyuu!!, Sakamoto Days</li>
+<li>Slam Dunk, My Hero Academia</li>
+<li>Random Boxes (Trading Goods)</li>
+</ul>
 
-### **✅ Tax-Free: ❌ Not Available**
+### <strong>✅ Tax-Free: ❌ Not Available</strong>
 
-Publications and copyrighted products are mixed, so tax-free is not available for all items
-
----
-
-## **4. Capcom Store**
-
-### **✅ Popular Goods**
-
-- **Monster Hunter:** Airou plushies, recovery potion water bottles, and other hunter essentials
-- **Ace Attorney & Resident Evil:** Many goods for hardcore fans
-
-### **✅ Tax-Free: ⭕️ Available** (Over 5,500 yen including tax, passport required)
+<ul>
+<li>Publications and copyrighted products are mixed, so tax-free is not available for all items</li>
+</ul>
 
 ---
-## **❓ Frequently Asked Questions (FAQ)**
 
-**Q. Can I enter Nintendo/Pokemon without a numbered ticket?**
+## <strong>4. Capcom Store</strong>
+
+### <strong>✅ Popular Goods</strong>
+
+<ul>
+<li><strong>Monster Hunter:</strong> Airou plushies, recovery potion water bottles, and other hunter essentials</li>
+<li><strong>Ace Attorney & Resident Evil:</strong> Many goods for hardcore fans</li>
+</ul>
+
+### <strong>✅ Tax-Free: ⭕️ Available</strong> (Over 5,500 yen including tax, passport required)
+
+---
+## <strong>❓ Frequently Asked Questions (FAQ)</strong>
+
+<strong>Q. Can I enter Nintendo/Pokemon without a numbered ticket?</strong>
 
 A. On weekdays during the day, you can enter without waiting, but on weekends and holidays, entry is very difficult without a numbered ticket.
 
-**Q. Is tax-free available at all 4 stores on 6F?**
+<strong>Q. Is tax-free available at all 4 stores on 6F?</strong>
 
-A. No. **Pokemon Center and Capcom Store are available (O)**, but Nintendo and Jump Shop do not offer tax-free (X). Keep this in mind when budgeting!
+A. No. <strong>Pokemon Center and Capcom Store are available (O)</strong>, but Nintendo and Jump Shop do not offer tax-free (X). Keep this in mind when budgeting!
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-20.jpg" alt="Pokemon Center numbered ticket distribution notice">
@@ -267,51 +284,53 @@ A. No. **Pokemon Center and Capcom Store are available (O)**, but Nintendo and J
 
 Done shopping on 6F? Parco has not only Nintendo but also hip brands like Human Made and Comme des Garçons, plus waiting list restaurants. Check out the floor guide and complete shopping guide in the article below!
 
-➡️ **[Shibuya Shopping Mall #1 Parco: Floor Guide, Tax-Free, Restaurants, Brands Complete Guide](/posts/shibuya-parco-shopping-guide/)**
+➡️ <strong>[Shibuya Shopping Mall #1 Parco: Floor Guide, Tax-Free, Restaurants, Brands Complete Guide](/posts/shibuya-parco-shopping-guide/)</strong>
 
 ---
 
-## **🍽️ Hungry After Shopping?**
+## <strong>🍽️ Hungry After Shopping?</strong>
 
 Shibuya's best restaurants are gathered on the B1F of the Parco building.
 
 🥩 Waiting Required! Juicy 'Kiwamiya Hamburg' (B1F)
 
-👉 **[Enjoy with unlimited rice/soup refills! The legend of Fukuoka Hamburg! Menu and waiting tips](/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/)**
+👉 <strong>[Enjoy with unlimited rice/soup refills! The legend of Fukuoka Hamburg! Menu and waiting tips](/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/)</strong>
 
 🥩 Warm Clay Pot Rice! Japanese Home Cooking 'Ikushika' (B1F)
 
-👉 **[Shibuya Restaurant Ikushika, Freshly Cooked Clay Pot Rice Unlimited Refills Japanese Home Cooking](/posts/shibuya-ikushika-rice-refill-restaurant/)**
+👉 <strong>[Shibuya Restaurant Ikushika, Freshly Cooked Clay Pot Rice Unlimited Refills Japanese Home Cooking](/posts/shibuya-ikushika-rice-refill-restaurant/)</strong>
 
 ---
 
-Shibuya Parco 6F is a place where even half a day is not enough if you like character goods shopping. Especially when visiting on weekends, remember the strategies of '**arriving before 10 AM**' and '**securing Nintendo numbered tickets first**'!
+Shibuya Parco 6F is a place where even half a day is not enough if you like character goods shopping. Especially when visiting on weekends, remember the strategies of '<strong>arriving before 10 AM</strong>' and '<strong>securing Nintendo numbered tickets first</strong>'!
 
 If you have any questions, feel free to leave a comment. We support your enjoyable Tokyo trip!
 
 ---
 
-## **🧡 Related Shibuya Travel Guides**
+## <strong>🧡 Related Shibuya Travel Guides</strong>
 
 👇 Complete Shibuya Itinerary (from Shibuya Sky reservation to course)
 
-➡️ **[Shibuya Things to Do, Shibuya Sky Reservation, Shopping, Restaurants Perfect Course Recommendations](/posts/shibuya-complete-guide-2025/)**
+➡️ <strong>[Shibuya Things to Do, Shibuya Sky Reservation, Shopping, Restaurants Perfect Course Recommendations](/posts/shibuya-complete-guide-2025/)</strong>
 
 👇 Human Made Parco Store Review
 
-➡️ **[Shibuya Human Made Part1 & Part2 Location, Waiting Numbered Ticket, Curry Up Open](/posts/shibuya-human-made-offline-store-guide/)**
+➡️ <strong>[Shibuya Human Made Part1 & Part2 Location, Waiting Numbered Ticket, Curry Up Open](/posts/shibuya-human-made-offline-store-guide/)</strong>
 
 👇 Starting from Parco! Shibuya Winter Must-Visit Course 'Blue Cave'
 
-➡️ **[2025 Shibuya Blue Cave Illumination Period, Time, Location, How to Get There](/posts/shibuya-blue-cave-illumination-2025/)**
+➡️ <strong>[2025 Shibuya Blue Cave Illumination Period, Time, Location, How to Get There](/posts/shibuya-blue-cave-illumination-2025/)</strong>
 
 👇 Tokyo MZ's Hip Holy Land, Conquer Miyashita Park
 
-➡️ **[Shibuya Miyashita Park & Shibuya Yokocho Honest Review](/posts/shibuya-miyashita-park-yokocho-2025/)**
+➡️ <strong>[Shibuya Miyashita Park & Shibuya Yokocho Honest Review](/posts/shibuya-miyashita-park-yokocho-2025/)</strong>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224106448442" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
   </p>
+</div>
+
 </div>

@@ -28,7 +28,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg" alt="渋谷グルメ いくしか 土鍋ご飯おかわり自由">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷グルメ いくしか 土鍋ご飯おかわり自由</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">渋谷グルメ いくしか 土鍋ご飯おかわり自由</figcaption>
 </figure>
 
 ---
@@ -55,7 +55,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-02.jpg" alt="渋谷パルコ地下1階にある「いくしか」の清潔な外観">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷パルコ地下1階にある「いくしか」の清潔な外観</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">渋谷パルコ地下1階にある「いくしか」の清潔な外観</figcaption>
 </figure>
 
 ---
@@ -79,12 +79,12 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-03.jpg" alt="木製おひつに入ったごはん">
-  <figcaption style="font-size: 0.7em; text-align: center;">木製おひつに入ったごはん</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">木製おひつに入ったごはん</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-04.jpg" alt="渋谷グルメ いくしか、ごはんと一緒に提供される小鉢">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷グルメ いくしか、ごはんと一緒に提供される小鉢</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">渋谷グルメ いくしか、ごはんと一緒に提供される small bowls served with rice</figcaption>
 </figure>
 
 ---
@@ -107,7 +107,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-05.jpg" alt="渋谷グルメ いくしか、豚の角煮">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷グルメ いくしか、豚の角煮</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">渋谷グルメ いくしか、豚の角煮</figcaption>
 </figure>
 
 <div class="info-box">
@@ -120,7 +120,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-06.jpg" alt="渋谷グルメ いくしか、プレミアムすき焼き">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷グルメ いくしか、プレミアムすき焼き</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">渋谷グルメ いくしか、プレミアムすき焼き</figcaption>
 </figure>
 
 <div class="info-box">
@@ -154,7 +154,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-07.jpg" alt="いくしか メニュー表">
-  <figcaption style="font-size: 0.7em; text-align: center;">いくしか メニュー表</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">いくしか メニュー表</figcaption>
 </figure>
 
 ---
@@ -176,7 +176,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-08.jpg" alt="渋谷パルコ 位置マップ">
-  <figcaption style="font-size: 0.7em; text-align: center;">渋谷パルコ 位置マップ</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">渋谷パルコ 位置マップ</figcaption>
 </figure>
 
 <div style="margin: 2rem 0;">
@@ -218,8 +218,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 渋谷の景色が見られる<br>
 隠れた休憩スポット。<br>
 <br>
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>渋谷の見どころ完璧ガイド</strong></a><br>
-<a href="#" style="color: #667eea;"><strong>（パルコ、渋谷スカイ）</strong></a></p>
+<strong>➡️</strong> <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>渋谷の見どころ完璧ガイド (パルコ、渋谷スカイ)</strong></a></p>
 
 
 <div class="editors-note">

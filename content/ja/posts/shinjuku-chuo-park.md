@@ -10,6 +10,8 @@ summary: "都庁ビルのすぐ裏にある新宿中央公園の完全ガイド�
 featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 ---
 
+<div class="blog-container">
+
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-01.jpg" alt="新宿中央公園完全ガイド">
   <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園完全ガイド｜スターバックスSHUKNOVA·遊び場·イルミネーション·都庁展望台コース</figcaption>
@@ -110,7 +112,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 営業時間：毎日07:00～21:00（ラストオーダー同じ）
 
-1階の室内席＋屋外テラス席、2階テラスから芝生広場と公園の景色を楽しめます
+1階の室内席＋屋外テラス席、2階テラスから芝生広場と公園의 景色を楽しめます
 
 都庁・西新宿ビル群이 調和した景色で写真映えし、コンセント・Wi-Fi対応、軽くノートパソコン作業や読書に最適
 
@@ -133,7 +135,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 <strong>（新宿遊び場情報）</strong>
 
-子供と東京旅行中なら、ここは選択ではなく必須です。都心のど真ん中にこんなに大きな遊び場があるなんて信じられないほどです.
+子供と東京旅行中なら、ここは選択ではなく必須です. 都心のど真ん中にこんなに大きな遊び場があるなんて信じられないほどです.
 
 <strong>夏：</strong>じゃぶじゃぶ池で無料水遊びが可能
 
@@ -143,7 +145,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 <strong>雰囲気：</strong>地元のママたちが子供を連れてくる本物のローカル遊び場で、旅行中でも現地の日常を見られます
 
-「子供たちが足が痛いと駄々をこねるとき、ここで遊ばせると嘘のように1時間があっという間です。親はベンチでコーヒーを楽しめます。」
+「子供たちが足が痛いと駄々をこねるとき、ここで遊ばせると嘘のように1時間があっという間です. 親はベンチでコーヒーを楽しめます.」
 
 <strong>👉 [新宿子供と一緒！5大キッズパーク行き方](/ja/posts/shinjuku-kids-parks-guide/)</strong>
 
@@ -178,15 +180,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 <div class="image-group-2">
   <figure><img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="TWINKLE PARK 1"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="TWINKLE PARK 2"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園 イルミネーション TWINKLE PARK</figcaption>
-
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224101626196" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
-  </p>
-</div>
-
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公園 イルミネーション TWINKLE PARK</figcaption>
 </div>
 
 ---
@@ -203,15 +197,15 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 <strong>2️⃣ 都庁無料展望台見学</strong>
 
-東・西展望台のいずれかに上がって東京市内・富士山（天気が良いとき）の景色を楽しむ。
+東・西展望台のいずれかに上がって東京市内・富士山（天気が良いとき）の景色を楽しむ.
 
 <strong>👉 [都庁無料展望台完全ガイド](/ja/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
 <strong>3️⃣ 都庁からすぐ降りて新宿中央公園散策</strong>
 
-芝生広場、市民の森、水の広場、キッズプラザなどをゆっくり見て回る。
+芝生広場、市民の森、水の広場、キッズプラザなどをゆっくり見て回る.
 
-<strong>4️⃣ SHUKNOVAでスターバックスor武蔵野의 森ダイナーブランチ/カフェタイム</strong>
+<strong>4️⃣ SHUKNOVAでスターバックスor武蔵野의 森ダイ너ブランチ/カフェタイム</strong>
 
 <strong>5️⃣ （冬シーズン）日暮れ頃Twinkle Parkイルミネーション鑑賞</strong>
 
@@ -228,19 +222,19 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 ## 利用のコツ＆特におすすめの方
 
-<strong>1️⃣ 朝ランニングor朝散歩＋スターバックスルーティン</strong>
+1️⃣ <strong>朝ランニングor朝散歩＋スターバックスルーティン</strong>
 
 東京出張・長期滞在中なら、出勤前のランニング後にSHUKNOVAスターバックスでモーニングコー히ルーティンとして使うのに最適です.
 
-<strong>2️⃣ 新宿で子供と行く場所を探している家族旅行者</strong>
+2️⃣ <strong>新宿で子供と行く場所を探している家族旅行者</strong>
 
-無料遊び場・じゃぶじゃぶ池、ベビーカーに優しい動線、近くのショッピング・食事まで一度に解決可能。
+無料遊び場・じゃぶじゃぶ池、ベビーカーに優しい動線、近くのショッピング・食事まで一度に解決可能.
 
-<strong>3️⃣ 新宿夜景・イルミネーション・写真撮影が好きなカップル/友達旅行者</strong>
+3️⃣ <strong>新宿夜景・イルミネーション・写真撮影が好きなカップル/友達旅行者</strong>
 
-都庁無料展望台＋Twinkle Park＋西新宿ビル夜景の組み合わせは、冬のデートコースとしても良いです。
+都庁無料展望台＋Twinkle Park＋西新宿ビル夜景の組み合わせは、冬のデートコースとしても良いです.
 
-<strong>4️⃣ 新宿御苑の入場料を節約したいとき</strong>
+4️⃣ <strong>新宿御苑의 入場料を節約したいとき</strong>
 
 大型庭園・桜などは新宿御苑が圧倒的ですが、
 
@@ -263,7 +257,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 <strong>夕方は</strong>イルミネーションと夜景まで -
 
-一日のリズムをすべて収められる西新宿の核心的な憩いの場です. 東京の華やかさも良いですが、時にはこんな緑の休止符が旅をより記憶に残るものにします.
+一日のリズムをすべて収められる西新宿の核心的な憩いの場です. 東京의 華やかさも良いですが、時にはこんな緑의 休止符が旅をより記憶に残るものにします.
 
 次の東京旅行で新宿を通るなら、
 
@@ -280,3 +274,12 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 <strong>➡️ [新宿ホテルBEST 10](/ja/posts/shinjuku-hotels-best-10/)</strong>
 
 <strong>➡️ [成田空港から新宿への行き方2025](/ja/posts/narita-to-shinjuku-2025/)</strong>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224101626196" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
+
+</div>

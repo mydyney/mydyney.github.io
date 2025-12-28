@@ -19,12 +19,12 @@ Indoor courses for rainy days, transportation info, schedules, admission fees, a
 This is your dedicated Shinjuku family travel guide.</p>
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">⭐If you want to see all Shinjuku travel courses and restaurants, shopping, and night view info at a glance<br>
-➡️ <!-- Link updated -->
-<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Complete Shinjuku Attractions Guide</b></a></p>
+➡️ 
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Complete Shinjuku Attractions Guide</strong></a></p>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-01.jpg" alt="5 major kids parks departing from Shinjuku">
-  <figcaption style="font-size: 0.7em; text-align: center;">Departing from Shinjuku: 5 Major Kids Parks</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Departing from Shinjuku: 5 Major Kids Parks</figcaption>
 </figure>
 
 ## Is Shinjuku Just for Adults?
@@ -47,7 +47,7 @@ With this one guide, you can design <strong>children, elementary students, and f
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-02.jpg" alt="Tokyo Disneyland Cinderella Castle panoramic view, accessible by bus from Shinjuku, popular family travel course">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Cinderella Castle panoramic view, accessible by bus from Shinjuku, popular family travel course</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Disneyland Cinderella Castle panoramic view, accessible by bus from Shinjuku, popular family travel course</figcaption>
 </figure>
 
 About 40 minutes by bus from Shinjuku.
@@ -58,9 +58,9 @@ With the limousine bus, families with strollers, preschoolers, lots of luggage, 
 
 Departing early from Shinjuku and arriving at Disneyland's opening time gives you much more energy throughout the day.
 
-➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank"><b>Complete Tokyo Disneyland Guide (Tickets, DPA, Afternoon Pass, Hotels, Restaurants, Map)</b></a>
+➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank"><strong>Complete Tokyo Disneyland Guide (Tickets, DPA, Afternoon Pass, Hotels, Restaurants, Map)</strong></a>
 
-✅ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F" target="_blank"><b>Buy Disneyland Tickets on Klook</b></a>
+✅ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F" target="_blank"><strong>Buy Disneyland Tickets on Klook</strong></a>
 
 ### 🚌 How to Get to Disneyland from Shinjuku
 
@@ -72,7 +72,7 @@ From Busta Shinjuku's 4th floor terminal (connected to Shinjuku Station's South 
 
 👉 For detailed Busta Shinjuku bus schedules, fares, booking methods, and last bus info, check the dedicated post below.
 
-➡️ <a href="/posts/shinjuku-to-disneyland-bus-guide/" target="_blank"><b>How to Get to Disneyland from Shinjuku (Busta Shinjuku Bus Guide - Complete Schedule & Fares)</b></a>
+➡️ <a href="/posts/shinjuku-to-disneyland-bus-guide/" target="_blank"><strong>How to Get to Disneyland from Shinjuku (Busta Shinjuku Bus Guide - Complete Schedule & Fares)</strong></a>
 
 ---
 
@@ -82,7 +82,7 @@ From Busta Shinjuku's 4th floor terminal (connected to Shinjuku Station's South 
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="Sanrio Puroland indoor parade, Hello Kitty and My Melody characters">
-  <figcaption style="font-size: 0.7em; text-align: center;">Sanrio Puroland indoor parade, Hello Kitty and My Melody characters <a href="#" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Sanrio Puroland indoor parade, Hello Kitty and My Melody characters <a href="#" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Hello Kitty, Cinnamoroll, My Melody...
@@ -95,11 +95,11 @@ Rain, hot summer, cold winter—you can play all day without worrying about cond
 
 The moment you get off at Keio Tama Center Station, the entire station is decorated with Sanrio characters, and kids react immediately.
 
-✅ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1154420&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2276-sanrio-puroland-tokyo%2F" target="_blank"><b>Buy Sanrio Puroland Tickets on Klook</b></a>
+✅ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1154420&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2276-sanrio-puroland-tokyo%2F" target="_blank"><strong>Buy Sanrio Puroland Tickets on Klook</strong></a>
 
 ### How to Get to Sanrio Puroland from Shinjuku
 
-<strong>🚆 Route (Keio Line):</strong>
+🚆 <strong>Route (Keio Line):</strong>
 Keio Line Shinjuku Station → Keio Tama Center Station → About 5-minute walk from station exit → Sanrio Puroland entrance
 
 🕒 <strong>Travel time:</strong> 40 minutes
@@ -113,7 +113,7 @@ Keio Line Shinjuku Station → Keio Tama Center Station → About 5-minute walk 
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-04.jpg" alt="Thomas Land at Fuji-Q Highland panoramic view">
-  <figcaption style="font-size: 0.7em; text-align: center;">Thomas Land at Fuji-Q Highland panoramic view</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Thomas Land at Fuji-Q Highland panoramic view</figcaption>
 </figure>
 
 For train enthusiasts and Thomas-loving kids, the place you absolutely must show them once is Thomas Land inside Fuji-Q Highland.
@@ -127,14 +127,14 @@ The experience of riding Thomas and Friends trains while facing Mt. Fuji is quit
 - <strong>Direct on JR Limited Express Fuji Kaiyū (no transfers)</strong>
 - The most convenient transportation method is <strong>JR Limited Express Fuji Kaiyū (富士回遊)</strong>
 
-<a href="https://www.eki-net.com/en/jreast-train-reservation/Top/Index" target="_blank"><b>➡️ Buy Train Tickets on JR Website</b></a>
+<a href="https://www.eki-net.com/en/jreast-train-reservation/Top/Index" target="_blank"><strong>➡️ Buy Train Tickets on JR Website</strong></a>
 
-<strong>📍Route:</strong> JR Shinjuku Station → Fuji-Q Highland Station
+📍<strong>Route:</strong> JR Shinjuku Station → Fuji-Q Highland Station
 🕒 <strong>Travel time:</strong> 2 hours
 💰 <strong>Fare:</strong> Limited express fee + reserved seat required
 
-<strong>🕒 Shinjuku Station Departure → Fuji-Q Highland Station Timetable</strong>
-<strong>★ Operates 2025.10.4 (Sat) ~ 2026.2.28 (Sat)</strong>
+🕒 <strong>Shinjuku Station Departure → Fuji-Q Highland Station Timetable</strong>
+<strong>★ Operates 2025.10.4 (Sat) - 2026.2.28 (Sat)</strong>
 
 <table class="schedule-table">
   <thead>
@@ -153,7 +153,7 @@ The experience of riding Thomas and Friends trains while facing Mt. Fuji is quit
   </tbody>
 </table>
 
-<strong>🕒 Fuji-Q Highland Station Departure → Shinjuku Station Timetable</strong>
+🕒 <strong>Fuji-Q Highland Station Departure → Shinjuku Station Timetable</strong>
 
 <table class="schedule-table">
   <thead>
@@ -176,13 +176,13 @@ The experience of riding Thomas and Friends trains while facing Mt. Fuji is quit
 
 For families who want to ride various trains, the Otsuki transfer course is recommended.
 
-<strong>📍Route:</strong> JR Chuo Line Shinjuku Station → Otsuki Station → Transfer to Fujikyu Line at Otsuki → Fuji-Q Highland Station
+📍<strong>Route:</strong> JR Chuo Line Shinjuku Station → Otsuki Station → Transfer to Fujikyu Line at Otsuki → Fuji-Q Highland Station
 🕒 <strong>Travel time:</strong> 2 hours
 💰 <strong>Fare:</strong> Limited express fee + reserved seat required
 
 Between Otsuki Station ↔ Fuji-Q Highland Station, there are <strong>Thomas Land trains (トーマスランド号)</strong> wrapped with Thomas and Friends characters, as well as reserved limited express trains.
 
-<strong>🕒 Otsuki Station Departure → Fuji-Q Highland Station Special Train Timetable</strong>
+🕒 <strong>Otsuki Station Departure → Fuji-Q Highland Station Special Train Timetable</strong>
 (Regular trains operate at other times)
 
 <table class="schedule-table">
@@ -212,7 +212,7 @@ Between Otsuki Station ↔ Fuji-Q Highland Station, there are <strong>Thomas Lan
   </tbody>
 </table>
 
-<strong>🕒 Fuji-Q Highland Station Departure → Otsuki Station Special Train Timetable</strong>
+🕒 <strong>Fuji-Q Highland Station Departure → Otsuki Station Special Train Timetable</strong>
 (Regular trains operate at other times)
 
 <table class="schedule-table">
@@ -249,8 +249,8 @@ Between Otsuki Station ↔ Fuji-Q Highland Station, there are <strong>Thomas Lan
   <figure>
     <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="Thomas Land train operating between Otsuki and Fuji-Q Highland stations">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Thomas Land train operating between Otsuki and Fuji-Q Highland stations</figcaption>
 </div>
+<figcaption style="font-size: 0.85em; text-align: center;">Thomas Land train operating between Otsuki and Fuji-Q Highland stations</figcaption>
 
 <div class="image-group-2">
   <figure>
@@ -259,12 +259,12 @@ Between Otsuki Station ↔ Fuji-Q Highland Station, there are <strong>Thomas Lan
   <figure>
     <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
 </div>
+<figcaption style="font-size: 0.85em; text-align: center;">Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-09.jpg" alt="Fujisan Limited Express operating between Otsuki and Fuji-Q Highland stations">
-  <figcaption style="font-size: 0.7em; text-align: center;">Fujisan Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Fujisan Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
 </figure>
 
 #### 🚌 Method 3: Busta Shinjuku → Fuji-Q Highland
@@ -287,7 +287,7 @@ For families who find buses more comfortable than trains, there's also a direct 
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-10.jpg" alt="Yomiuriland winter Jewellumination night illumination, family amusement park accessible via Keio Line from Shinjuku">
-  <figcaption style="font-size: 0.7em; text-align: center;">Yomiuriland winter Jewellumination night illumination, family amusement park accessible via Keio Line from Shinjuku <a href="https://www.gotokyo.org/kr/spot/ev136/index.html" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Yomiuriland winter Jewellumination night illumination, family amusement park accessible via Keio Line from Shinjuku <a href="https://www.gotokyo.org/kr/spot/ev136/index.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 About 35 minutes from Shinjuku.
@@ -319,7 +319,7 @@ The Tokyo panoramic view and amusement park view from the gondola is something k
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-11.jpg" alt="Tokyo Dome City amusement park in central Tokyo, Ferris wheel">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Dome City amusement park in central Tokyo, Ferris wheel</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Dome City amusement park in central Tokyo, Ferris wheel</figcaption>
 </figure>
 
 The closest urban amusement park to Shinjuku is Tokyo Dome City.
@@ -335,8 +335,7 @@ Space museum <strong>"TeNQ"</strong>
 
 For <strong>Shinjuku children's attractions</strong>, this is the strongest half-day rainy day course.
 
-<!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels - Complete Guide</b></a>
+<a href="/posts/tokyo-dome-city-christmas-illumination-2025/" style="color: #667eea;"><strong>➡️ Tokyo Dome City Christmas Illumination 2025 Complete Guide</strong></a>
 
 ### 🚆 How to Get There from Shinjuku
 
@@ -347,7 +346,7 @@ JR Chuo-Sobu Line (yellow) Shinjuku Station → Suidobashi Station (水道橋駅
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-12.jpg" alt="Tokyo Dome City ASOBono indoor kids park, great indoor Tokyo attraction for children to run around">
-  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Dome City ASOBono indoor kids park, great indoor Tokyo attraction for children to run around</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Dome City ASOBono indoor kids park, great indoor Tokyo attraction for children to run around</figcaption>
 </figure>
 
 ---
@@ -363,8 +362,10 @@ Just 2 subway stops from Shinjuku Station, it's also good for killing time befor
 
 <div style="margin: 2rem 0;">
   <p style="text-align:center; margin-top:0.5rem; font-size:0.9rem; color:#666;">
-    <strong>Tokyo Fire Department Fire Museum</strong><br>
-    3-10 Yotsuya, Shinjuku City, Tokyo 160-0004, Japan<br>
+    <a href="https://maps.app.goo.gl/76nqzdM1sgWzXphA7" target="_blank" style="color: #667eea; text-decoration: underline;">
+      <strong>Tokyo Fire Department Fire Museum</strong><br>
+      3-10 Yotsuya, Shinjuku City, Tokyo 160-0004, Japan
+    </a>
   </p>
 </div>
 
@@ -376,10 +377,10 @@ Wondering about Shinjuku children's courses on rainy days?
 
 Here's the 5 major kids parks organized by weather:
 
-<strong>☔ Completely Indoor, Best for Rainy Days:</strong>
+☔ <strong>Completely Indoor, Best for Rainy Days:</strong>
 Sanrio Puroland, Tokyo Dome City 'ASOBono!'
 
-<strong>🌤️ Recommended for Sunny Days / Outdoor Focus:</strong>
+🌤️ <strong>Recommended for Sunny Days / Outdoor Focus:</strong>
 Tokyo Disneyland, Fuji-Q Highland Thomas Land, Yomiuriland
 
 ---
@@ -392,10 +393,10 @@ Shinjuku attraction recommendations—especially for children and elementary stu
 
 For adult-focused Shinjuku sights and places to visit, check out the posts below.
 
-➡️ <!-- Link updated -->
-<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><b>Shinjuku Attractions: From Shinjuku Gyoen to Restaurants, Shopping, Golden Gai - Complete Course Guide</b></a>
+➡️ 
+<a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>Shinjuku Attractions: From Shinjuku Gyoen to Restaurants, Shopping, Golden Gai - Complete Course Guide</strong></a>
 
-➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><b>Tokyo Metropolitan Government Building Free Observatory Light Show, Gundam, Godzilla Times, Access, Closed Days, Night View Tips - Complete Guide</b></a>
+➡️ <a href="/posts/tokyo-metropolitan-govt-observatory/" target="_blank"><strong>Tokyo Metropolitan Government Building Free Observatory Light Show, Gundam, Godzilla Times, Access, Closed Days, Night View Tips - Complete Guide</strong></a>
 
 
 <div class="editors-note">

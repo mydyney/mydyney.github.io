@@ -4,7 +4,7 @@ date: 2025-10-24T11:00:00+09:00
 draft: false
 translationKey: "shibuya-ikushika-rice-refill-restaurant"
 description: "涩谷PARCO地下1层隐藏的真正米饭美食いくしか。现煮土锅米饭装在木饭桶里供应，无限续碗！日本家常料理完全攻略。"
-summary: "涩谷PARCO地下1层いくしか完全攻略。单人土锅煮的米饭装入木饭桶无限续碗供应。美味日本家常料理的最佳搭配。"
+summary: "涩谷PARCO地下1层いくしか完全攻略。单人土锅煮的米饭装入木饭桶无限续碗供应. 美味日本家常料理的最佳搭配。"
 tags: ["涩谷", "日本料理", "米饭", "涩谷PARCO", "家常料理", "东京美食"]
 categories: ["涩谷・原宿", "餐厅评测"]
 featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
@@ -28,7 +28,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg" alt="涩谷美食 いくしか 土锅米饭无限续碗">
-  <figcaption style="font-size: 0.7em; text-align: center;">涩谷美食 いくしか 土锅米饭无限续碗</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">涩谷美食 いくしか 土锅米饭无限续碗</figcaption>
 </figure>
 
 ---
@@ -55,7 +55,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-02.jpg" alt="位于涩谷PARCO地下1层的「いくしか」整洁外观">
-  <figcaption style="font-size: 0.7em; text-align: center;">位于涩谷PARCO地下1层的「いくしか」整洁外观</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">位于涩谷PARCO地下1层的「いくしか」整洁外观</figcaption>
 </figure>
 
 ---
@@ -79,12 +79,12 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-03.jpg" alt="装在木饭桶里的米饭">
-  <figcaption style="font-size: 0.7em; text-align: center;">装在木饭桶里的米饭</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">装在木饭桶里的米饭</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-04.jpg" alt="涩谷美食 いくしか，与米饭一起供应的小菜">
-  <figcaption style="font-size: 0.7em; text-align: center;">涩谷美食 いくしか，与米饭一起供应的小菜</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">涩谷美食 いくしか，与米饭一起供应的小菜</figcaption>
 </figure>
 
 ---
@@ -100,33 +100,33 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 <div class="info-box">
   <ul>
     <li><strong>1. 🐷 红烧五花肉</strong></li>
-    <li>人气第1名菜品！软嫩红烧五花肉。</li>
+    <li>人气第1名菜品！软嫩红烧五花肉. </li>
     <li>定食：1,700日元 ｜ 单点：1,300日元</li>
   </ul>
 </div>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-05.jpg" alt="涩谷美食 いくしか，红烧五花肉">
-  <figcaption style="font-size: 0.7em; text-align: center;">涩谷美食 いくしか，红烧五花肉</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">涩谷美食 いくしか，红烧五花肉</figcaption>
 </figure>
 
 <div class="info-box">
   <ul>
     <li><strong>2. 🐮 极品 牛肉寿喜烧</strong></li>
-    <li>奢华的高级寿喜烧。</li>
+    <li>奢华的高级寿喜烧. </li>
     <li>定食：2,880日元 ｜ 单点：2,480日元</li>
   </ul>
 </div>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-06.jpg" alt="涩谷美食 いくしか，高级寿喜烧">
-  <figcaption style="font-size: 0.7em; text-align: center;">涩谷美食 いくしか，高级寿喜烧</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">涩谷美食 いくしか，高级寿喜烧</figcaption>
 </figure>
 
 <div class="info-box">
   <ul>
     <li><strong>3. 🐔 米饭伴侣炸鸡</strong></li>
-    <li>与米饭超搭的酥脆炸鸡。</li>
+    <li>与米饭超搭的酥脆炸鸡. </li>
     <li>定食：1,200日元 ｜ 单点：800日元</li>
   </ul>
 </div>
@@ -134,7 +134,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 <div class="info-box">
   <ul>
     <li><strong>4. 🐟 银鲑鱼子</strong></li>
-    <li>盐烤鲑鱼配鱼子的定食。</li>
+    <li>盐烤鲑鱼配鱼子的定食. </li>
     <li>定食：1,700日元 ｜ 单点：1,300日元</li>
   </ul>
 </div>
@@ -142,7 +142,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 <div class="info-box">
   <ul>
     <li><strong>5. 🐟 金枪鱼刺身</strong></li>
-    <li>现煮土锅米饭配新鲜金枪鱼刺身。</li>
+    <li>现煮土锅米饭配新鲜金枪鱼刺身. </li>
     <li>定食：1,400日元 ｜ 单点：1,000日元</li>
   </ul>
 </div>
@@ -154,7 +154,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-07.jpg" alt="いくしか 菜单表">
-  <figcaption style="font-size: 0.7em; text-align: center;">いくしか 菜单表</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">いくしか 菜单表</figcaption>
 </figure>
 
 ---
@@ -176,7 +176,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-08.jpg" alt="涩谷PARCO位置地图">
-  <figcaption style="font-size: 0.7em; text-align: center;">涩谷PARCO位置地图</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">涩谷PARCO位置地图</figcaption>
 </figure>
 
 <div style="margin: 2rem 0;">
@@ -218,14 +218,13 @@ Comme des Garçons、Porter等潮流店铺。<br>
 可眺望涩谷景色的<br>
 隐藏休息地。<br>
 <br>
-<strong>➡️</strong> <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>涩谷景点完美攻略</strong></a><br>
-<a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>（PARCO、涩谷SKY）</strong></a></p>
+<strong>➡️</strong> <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>涩谷景点完美攻略 (PARCO、涩谷SKY)</strong></a></p>
 
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224052117830" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224052117830" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. 内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯.
   </p>
 </div>
 

@@ -11,6 +11,8 @@ featured_image: "/images/posts/tokyo-station-ramen-street-complete-guide-2025-01
 images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 ---
 
+<div class="blog-container">
+
 Tokyo Station Ramen Street is the most practical and efficient choice for travelers who want to experience authentic Japanese ramen during their Tokyo trip.
 
 After the August 7, 2025 renewal, two new shops were added, bringing the total to 10 ramen specialty restaurants currently in operation.
@@ -39,20 +41,26 @@ Misokin by top YouTuber HIKAKIN currently operates on a <strong>complete reserva
 <strong>🎟️ Reservation System: LivePocket</strong>
 
 Misokin uses <strong>LivePocket</strong>, a ticketing site, to sell <strong>time-slot tickets</strong> in advance.
-- <strong>Ticket Price: 1,200 yen (prepaid)</strong>
+<ul>
+<li><strong>Ticket Price: 1,200 yen (prepaid)</strong></li>
+</ul>
 
-※ This is not just a reservation deposit! It includes the price of one bowl of Misokin ramen.
-- <strong>Reservation Opens:</strong> Usually 2-3 weeks before visit date at 20:00
-- <strong>Time Slots:</strong> 20-minute intervals (e.g., 11:00, 11:20...)
+<em>※ This is not just a reservation deposit! It includes the price of one bowl of Misokin ramen.</em>
+<ul>
+<li><strong>Reservation Opens:</strong> Usually 2-3 weeks before visit date at 20:00</li>
+<li><strong>Time Slots:</strong> 20-minute intervals (e.g., 11:00, 11:20...)</li>
+</ul>
 
-✅ <strong>[Official Misokin Reservation Link (LivePocket Ticket Purchase)](https://sp.livepocket.jp/misokin/index.html)</strong>
+✅ <strong><a href="https://sp.livepocket.jp/misokin/index.html" target="_blank">Official Misokin Reservation Link (LivePocket Ticket Purchase)</a></strong>
 
 <strong>📲 How to Reserve (3 Steps)</strong>
-1. <strong>Sign Up:</strong> Register on the LivePocket-Ticket- site (phone verification required, Korean phone numbers accepted)
-2. <strong>Purchase Ticket:</strong> Select your desired date and time (20-minute intervals) and pay. Credit cards accepted.
-3. <strong>Receive QR Code:</strong> After payment, a QR code will be generated in 'My Tickets'.
+<ol>
+<li><strong>Sign Up:</strong> Register on the LivePocket-Ticket- site (phone verification required, Korean phone numbers accepted)</li>
+<li><strong>Purchase Ticket:</strong> Select your desired date and time (20-minute intervals) and pay. Credit cards accepted.</li>
+<li><strong>Receive QR Code:</strong> After payment, a QR code will be generated in 'My Tickets'.</li>
+</ol>
 
-*※ Screenshots won't work! You must access the site with internet connection at the venue to show the QR code.*
+<em>※ Screenshots won't work! You must access the site with internet connection at the venue to show the QR code.</em>
 
 <strong>⚠️ Critical Rules for Travelers (Entry Denial Cases)</strong>
 
@@ -73,35 +81,41 @@ Official regulations are very strict. <strong>Violating these rules will result 
 Like top YouTuber HIKAKIN's founding philosophy of "giving energy to those who eat," it features intense flavors.
 
 <strong>🍜 What Does Misokin Taste Like?</strong>
-- <strong>Broth:</strong> Double soup blending pork and chicken bones in golden ratio
-- <strong>Miso:</strong> Special blend based on Niigata white miso
-- <strong>Cooking Method:</strong> Made to order with ginger, garlic, and roasted sesame in a pot for explosive flavor. The <strong>special chili oil (rayu)</strong> sprinkled at the end is the key!
+<ul>
+<li><strong>Broth:</strong> Double soup blending pork and chicken bones in golden ratio</li>
+<li><strong>Miso:</strong> Special blend based on Niigata white miso</li>
+<li><strong>Cooking Method:</strong> Made to order with ginger, garlic, and roasted sesame in a pot for explosive flavor. The <strong>special chili oil (rayu)</strong> sprinkled at the end is the key!</li>
+</ul>
 
 <strong>💰 Menu & Prices</strong>
 
 The most popular menu item is the 'Special' with all toppings.
 
-- <strong>Misokin (Basic):</strong> 1,200 yen
-- <strong>Ajitama (Seasoned Egg) Misokin:</strong> 1,380 yen
+<ul>
+<li><strong>Misokin (Basic):</strong> 1,200 yen</li>
+<li><strong>Ajitama (Seasoned Egg) Misokin:</strong> 1,380 yen</li>
+</ul>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-03.jpg" alt="Misokin menu and prices">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Misokin Menu & Prices (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</b></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Misokin Menu & Prices (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
 </figure>
 
-- <strong>Chashu Misokin:</strong> 1,600 yen
-- <strong>Special Misokin (Recommended👍):</strong> 1,550 yen
+<ul>
+<li><strong>Chashu Misokin:</strong> 1,600 yen</li>
+<li><strong>Special Misokin (Recommended👍):</strong> 1,550 yen</li>
+</ul>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-04.jpg" alt="Special Misokin menu and prices">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Special Misokin Menu & Prices (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</b></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Special Misokin Menu & Prices (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
 </figure>
 
 <strong>🛍️ Misokin Cup Ramen Available at Seven-Eleven Nationwide</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-05.jpg" alt="Misokin cup ramen">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Misokin Cup Ramen (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</b></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Misokin Cup Ramen (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
 </figure>
 
 ---
@@ -113,14 +127,18 @@ The most popular menu item is the 'Special' with all toppings.
 If you hate reservation battles or want "restaurant-quality ramen," this is your answer. A popular Aomori restaurant has arrived in Tokyo.
 
 <strong>👨‍🍳 What Makes It Different? (3 Commitments)</strong>
-1. <strong>Zero Fishiness:</strong> Manually removes anchovy heads and innards for clean taste without bitterness
-2. <strong>Living Noodles:</strong> Dough adjusted daily based on temperature/humidity
-3. <strong>Smoked Menma:</strong> Bamboo shoots soaked for 3 days, simmered in anchovy broth, then <strong>smoked</strong> for artistic texture
+<ol>
+<li><strong>Zero Fishiness:</strong> Manually removes anchovy heads and innards for clean taste without bitterness</li>
+<li><strong>Living Noodles:</strong> Dough adjusted daily based on temperature/humidity</li>
+<li><strong>Smoked Menma:</strong> Bamboo shoots soaked for 3 days, simmered in anchovy broth, then <strong>smoked</strong> for artistic texture</li>
+</ol>
 
 <strong>🍜 Menu Recommendations</strong>
-- <strong>Assari (Light):</strong> Clear anchovy broth. Recommended for breakfast/hangover cure
-- <strong>Koikuchi (Rich):</strong> Animal broth + rich anchovy. Highly recommended!
-- <strong>Seabura (Back Fat):</strong> Choose if you want savory flavor
+<ul>
+<li><strong>Assari (Light):</strong> Clear anchovy broth. Recommended for breakfast/hangover cure</li>
+<li><strong>Koikuchi (Rich):</strong> Animal broth + rich anchovy. Highly recommended!</li>
+<li><strong>Seabura (Back Fat):</strong> Choose if you want savory flavor</li>
+</ul>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-06.jpg" alt="Tokyo Station Ramen Street Hirakoya ramen">
@@ -199,21 +217,20 @@ This table is a guide for quick decisions.
 
 For menu photos and detailed tasting evaluations of established favorites like Rokurinsha and Hirugao, check out our previous comprehensive guide! 👇
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223707471582
-     Hugo: /posts/tokyo-ramen-street-best-8/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>Tokyo Station Ramen Best 8, Tokyo Station Ramen Street Complete Review</strong></a><br>
+<p style="text-align: center;"><strong>☕</strong> <a href="/posts/tokyo-ramen-street-best-8/" style="color: #667eea;"><strong>Tokyo Station Ramen Best 8, Tokyo Station Ramen Street Complete Review</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-07.jpg" alt="Tokyo Station Ramen Street 10 shops selection guide">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Station Ramen Street 10 Shops Selection Guide</b></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Tokyo Station Ramen Street 10 Shops Selection Guide</strong></figcaption>
 </figure>
 
 ---
 
 ## 6. 🗺️ How to Get to Tokyo Ramen Street
 
-- <strong>Location:</strong> JR Tokyo Station Yaesu Underground Central Exit - exit the ticket gate and turn right (opposite side from Character Street)
+<ul>
+<li><strong>Location:</strong> JR Tokyo Station Yaesu Underground Central Exit - exit the ticket gate and turn right (opposite side from Character Street)</li>
+</ul>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-08.jpg" alt="Tokyo Station Ramen Street location map">
@@ -227,10 +244,7 @@ For menu photos and detailed tasting evaluations of established favorites like R
 
 A. They operate during year-end/New Year but often with shortened hours.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224110207709
-     Hugo: /posts/tokyo-station-year-end-hours-2026/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>2026 Tokyo Station Ramen Street Year-End/New Year Hours Information</strong></a><br>
+<p style="text-align: center;"><strong>☕</strong> <a href="/posts/tokyo-station-year-end-hours-2026/" style="color: #667eea;"><strong>2026 Tokyo Station Ramen Street Year-End/New Year Hours Information</strong></a></p>
 
 <strong>Q. How long is the wait?</strong>
 
@@ -244,10 +258,7 @@ A. Most shops use <strong>ticket machines (kiosks)</strong> at the entrance wher
 
 A. The shops are very cramped inside. For peace of mind, we strongly recommend storing luggage in Tokyo Station coin lockers before eating.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /posts/tokyo-station-guide/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>Tokyo Station Complete Guide, Luggage Storage Coin Lockers</strong></a><br>
+<p style="text-align: center;"><strong>☕</strong> <a href="/posts/tokyo-station-guide/" style="color: #667eea;"><strong>Tokyo Station Complete Guide, Luggage Storage Coin Lockers</strong></a></p>
 
 ---
 
@@ -261,35 +272,23 @@ If you're targeting the trending <strong>Misokin</strong>, focus on reservations
 
 <strong>🍜 Salty ramen calls for dessert! The classic next stop: Jagariko specialty shop</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224112740096
-     Hugo: /posts/tokyo-station-okashi-land-jagariko-guide/ -->
-➡️ <strong>[Tokyo Station Okashi Land Access | Freshly Fried Tokyo Station Jagariko & Calbee Menu Recommendations](#)</strong>
+➡️ <strong><a href="/posts/tokyo-station-okashi-land-jagariko-calbee-guide/" style="color: #667eea;">Tokyo Station Okashi Land Access | Freshly Fried Tokyo Station Jagariko & Calbee Menu Recommendations</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224113027853
-     Hugo: /posts/tokyo-banana-creme-brulee-guide/ -->
-➡️ <strong>[Tokyo Station Tokyo Banana Crème Brûlée: Where to Buy, Prices, Tax-Free Complete Guide](#)</strong>
+➡️ <strong><a href="/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide/" style="color: #667eea;">Tokyo Station Tokyo Banana Crème Brûlée: Where to Buy, Prices, Tax-Free Complete Guide</a></strong>
 
 <strong>⏳ Ramen line too long? Fail-safe 'high-quality bento' recommendations</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224114567793
-     Hugo: /posts/tokyo-station-ekiben-guide/ -->
-➡️ <strong>[Tokyo Station Ekiben Best 5 | Ekiben-ya Matsuri Location, Prices, Heating Tips](#)</strong>
+➡️ <strong><a href="/posts/tokyo-station-ekiben-guide/" style="color: #667eea;">Tokyo Station Ekiben Best 5 | Ekiben-ya Matsuri Location, Prices, Heating Tips</a></strong>
 
 <strong>🛍️ Digest while shopping! Chiikawa/Pokemon shop access</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /posts/tokyo-station-character-street-guide/ -->
-➡️ <strong>[Tokyo Station Character Street Access, Hours, Tax-Free Complete Guide (Chiikawa/Pokemon/Dragon Ball)](#)</strong>
-
----
+➡️ <strong><a href="/posts/tokyo-station-character-street-guide/" style="color: #667eea;">Tokyo Station Character Street Access, Hours, Tax-Free Complete Guide (Chiikawa/Pokemon/Dragon Ball)</a></strong>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224124211319" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
   </p>
+</div>
+
 </div>

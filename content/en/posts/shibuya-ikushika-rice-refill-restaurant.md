@@ -25,7 +25,7 @@ You simply "have to go" here!</p>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg" alt="Shibuya restaurant Ikushika unlimited pot rice refills">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shibuya restaurant Ikushika unlimited pot rice refills</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shibuya restaurant Ikushika unlimited pot rice refills</figcaption>
 </figure>
 
 ---
@@ -49,7 +49,7 @@ Experience refined and hearty<br>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-02.jpg" alt="Ikushika's clean exterior in Shibuya Parco B1F">
-  <figcaption style="font-size: 0.7em; text-align: center;">Ikushika's clean exterior in Shibuya Parco B1F</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Ikushika's clean exterior in Shibuya Parco B1F</figcaption>
 </figure>
 
 ---
@@ -71,12 +71,12 @@ Comes with <strong>'unlimited refills'</strong>!</p>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-03.jpg" alt="Rice served in traditional wooden ohitsu container">
-  <figcaption style="font-size: 0.7em; text-align: center;">Rice served in traditional wooden ohitsu container</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Rice served in traditional wooden ohitsu container</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-04.jpg" alt="Shibuya Ikushika side dishes served with rice">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Ikushika side dishes served with rice</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Ikushika side dishes served with rice</figcaption>
 </figure>
 
 ---
@@ -99,7 +99,7 @@ Are served in set meal (定食) format.</p>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-05.jpg" alt="Shibuya Ikushika braised pork (buta-kakuni)">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Ikushika braised pork (buta-kakuni)</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Ikushika braised pork (buta-kakuni)</figcaption>
 </figure>
 
 <div class="info-box">
@@ -112,7 +112,7 @@ Are served in set meal (定食) format.</p>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-06.jpg" alt="Shibuya Ikushika premium sukiyaki">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Ikushika premium sukiyaki</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Ikushika premium sukiyaki</figcaption>
 </figure>
 
 <div class="info-box">
@@ -146,7 +146,7 @@ A true rice paradise.</p>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-07.jpg" alt="Ikushika menu">
-  <figcaption style="font-size: 0.7em; text-align: center;">Ikushika menu</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Ikushika menu</figcaption>
 </figure>
 
 ---
@@ -168,7 +168,7 @@ A true rice paradise.</p>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-08.jpg" alt="Shibuya Parco location map">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Parco location map</figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Parco location map</figcaption>
 </figure>
 
 <div style="margin: 2rem 0;">
@@ -209,9 +209,7 @@ Comme des Garçons, Porter, and other trendy shops.<br>
 A hidden relaxation spot<br>
 With panoramic views of Shibuya.<br>
 <br>
-<!-- Link updated -->
-<strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Complete Shibuya Attractions Guide</strong></a><br>
-<a href="#" style="color: #667eea;"><strong>(Parco, Shibuya Sky)</strong></a></p>
+<strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Complete Shibuya Attractions Guide (Parco, Shibuya Sky)</strong></a></p>
 
 
 <div class="editors-note">

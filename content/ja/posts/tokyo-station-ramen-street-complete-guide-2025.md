@@ -11,17 +11,19 @@ featured_image: "/images/posts/tokyo-station-ramen-street-complete-guide-2025-01
 images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 ---
 
-東京駅ラーメンストリートは、東京旅行中に本格的なラーメンを味わいたい方にとって、最も現実的で効率的な選択肢です。
+<div class="blog-container">
 
-2025年8月7日のリニューアルで新規店舗2店が追加され、現在は合計10店のラーメン専門店が営業しています。
+東京駅ラーメンストリートは、東京旅行中に本格的なラーメンを味わいたい方にとって、最も現実的で効率的な選択肢です.
 
-この記事は個人的なグルメレビューや感想ではなく、東京駅に初めて訪れた方が、今の好みと残り時間に合わせて最も早く一店を選べるよう支援する実戦選択ガイドです。
+2025年8月7日のリニューアルで新規店舗2店が追加され、現在は合計10店のラーメン専門店が営業しています.
+
+この記事は個人的なグルメレビューや感想ではなく、東京駅に初めて訪れた方が、今の好みと残り時間に合わせて最も早く一店を選べるよう支援する実戦選択ガイドです.
 
 ---
 
 ## 1. 2025年リニューアルの核心：「みそきん & ひらこ屋」
 
-今回のリニューアルの主役は、間違いなく以下の2店舗です。<strong>マップの9番、10番エリアに注目</strong>してください。
+今回のリニューアルの主役は、間違いなく以下の2店舗です. <strong>マップの9番、10番エリアに注目</strong>してください.
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-02.jpg" alt="ひらこ屋とみそきんの位置">
@@ -34,74 +36,86 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <strong>エリア：10番 | 11:00 ~ 22:30 (L.O 22:00)</strong>
 
-トップYouTuberヒカキン（HIKAKIN）のみそきんは、現在<strong>完全予約制（整理券購入）</strong>で運営されています。現場に行って並ぶ方式ではありません！
+トップYouTuberヒカキン（HIKAKIN）のみそきんは、現在<strong>完全予約制（整理券購入）</strong>で運営されています. 現場に行って並ぶ方式ではありません！
 
 <strong>🎟️ 予約システム：LivePocket（ライブポケット）</strong>
 
-みそきんは<strong>LivePocket</strong>というチケットサイトを通じて<strong>時間帯別整理券（チケット）</strong>を事前購入する必要があります。
-- <strong>チケット価格：1,200円（先払い）</strong>
+みそきんは<strong>LivePocket</strong>というチケットサイトを通じて<strong>時間帯別整理券（チケット）</strong>を事前購入する必要があります.
+<ul>
+<li><strong>チケット価格：1,200円（先払い）</strong></li>
+</ul>
 
-※ 単なる予約金ではありません！みそきんラーメン1杯の価格が含まれた金額です。
-- <strong>予約オープン：</strong>通常訪問日の2～3週間前20:00にオープン
-- <strong>予約間隔：</strong>20分単位で選択（例：11:00、11:20...）
+<em>※ 単なる予約金ではありません！みそきんラーメン1杯の価格が含まれた金額です.</em>
+<ul>
+<li><strong>予約オープン：</strong>通常訪問日の2～3週間前20:00にオープン</li>
+<li><strong>予約間隔：</strong>20分単位で選択（例：11:00、11:20...）</li>
+</ul>
 
-✅ <strong>[みそきん公式予約リンク（LivePocket整理券購入）](https://sp.livepocket.jp/misokin/index.html)</strong>
+✅ <strong><a href="https://sp.livepocket.jp/misokin/index.html" target="_blank">みそきん公式予約リンク（LivePocket整理券購入）</a></strong>
 
 <strong>📲 予約方法（3ステップ）</strong>
-1. <strong>会員登録：</strong>LivePocket-Ticket-サイトにアクセスして会員登録（本人認証必要、韓国電話番号認証可能）
-2. <strong>チケット購入：</strong>希望の日付と時間（20分単位）を選択後決済。クレジットカード決済可能。
-3. <strong>QRコード受領：</strong>決済完了後「マイチケット」にQRコードが生成されます。
+<ol>
+<li><strong>会員登録：</strong>LivePocket-Ticket-サイトにアクセスして会員登録（本人認証必要、韓国電話番号認証可能）</li>
+<li><strong>チケット購入：</strong>希望の日付と時間（20分単位）を選択後決済. クレジットカード決済可能.</li>
+<li><strong>QRコード受領：</strong>決済完了後「マイチケット」にQRコードが生成されます.</li>
+</ol>
 
-*※ スクリーンショットは絶対NG！現場でインターネット接続状態でアクセスして見せる必要があります。*
+<em>※ スクリーンショットは絶対NG！現場でインターネット接続状態でアクセスして見せる必要があります.</em>
 
 <strong>⚠️ 旅行者絶対注意事項（入場拒否事例）</strong>
 
-公式規定が非常に厳格です。以下の事項に違反すると<strong>返金なしで入場拒否</strong>されます。
+公式規定が非常に厳格です. 以下の事項に違反すると<strong>返金なしで入場拒否</strong>されます.
 
-<strong>① パスポート必須持参（ID Check）：</strong>チケット購入者名と身分証（パスポート）名が一致するか現場でランダム検査を実施。パスポートなしで行って食べられないケースが発生するので必ず持参してください！
+<strong>① パスポート必須持参（ID Check）：</strong>チケット購入者名と身分証（パスポート）名が一致するか現場でランダム検査を実施. パスポートなしで行って食べられないケースが発生するので必ず持参してください！
 
-<strong>② 10分前到着：</strong>予約した時間（集合時間）の10分前までに到着する必要があります。遅刻すると入場不可。
+<strong>② 10分前到着：</strong>予約した時間（集合時間）の10分前までに到着する必要があります. 遅刻すると入場不可.
 
-<strong>③ 全員集合：</strong>チケットを複数枚購入しても、入場時は全員が一緒にいる必要があります。
+<strong>③ 全員集合：</strong>チケットを複数枚購入しても、入場時は全員が一緒にいる必要があります.
 
-<strong>④ 1人1枚必須：</strong>小学生以上は必ず人数分チケットを購入する必要があります（未就学児は保護者同伴入場可能だが座席状況により待機発生）。
+<strong>④ 1人1枚必須：</strong>小学生以上は必ず人数分チケットを購入する必要があります（未就学児は保護者同伴入場可能だが座席状況により待機発生）.
 
 ---
 
 ## 3. 🍜 みそきん、一体どんな味？
 
-トップYouTuberヒカキン（HIKAKIN）の「食べる人にエネルギーを与えたい」という創業理念のように、強烈な味が特徴です。
+トップYouTuberヒカキン（HIKAKIN）の「食べる人にエネルギーを与えたい」という創業理念のように、強烈な味が特徴です.
 
 <strong>🍜 みそきん、どんな味ですか？</strong>
-- <strong>スープ：</strong>豚と鶏の骨を黄金比率でブレンドしたダブルスープ
-- <strong>味噌：</strong>新潟産白味噌ベースの特製ブレンド味噌使用
-- <strong>調理法：</strong>注文と同時に生姜、にんにく、炒りごまを入れて鍋で煮込む方式で風味が爆発。最後に振りかける<strong>特製ラー油</strong>がポイント！
+<ul>
+<li><strong>スープ：</strong>豚と鶏の骨を黄金比率でブレンドしたダブルスープ</li>
+<li><strong>味噌：</strong>新潟産白味噌ベースの特製ブレンド味噌使用</li>
+<li><strong>調理法：</strong>注文と同時に生姜、にんにく、炒りごまを入れて鍋で煮込む方式で風味が爆発. 最後に振りかける<strong>特製ラー油</strong>がポイント！</li>
+</ul>
 
 <strong>💰 メニュー及び価格</strong>
 
-最も人気のあるメニューはやはりトッピングが全部入った「特製」です。
+最も人気のあるメニューはやはりトッピングが全部入った「特製」です.
 
-- <strong>みそきん（基本）：</strong>1,200円
-- <strong>味玉みそきん：</strong>1,380円
+<ul>
+<li><strong>みそきん（基本）：</strong>1,200円</li>
+<li><strong>味玉みそきん：</strong>1,380円</li>
+</ul>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-03.jpg" alt="みそきんメニューと価格">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>みそきんメニュー及び価格（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</b></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>みそきんメニュー及び価格（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
 </figure>
 
-- <strong>チャーシューみそきん：</strong>1,600円
-- <strong>特製みそきん（おすすめ👍）：</strong>1,550円
+<ul>
+<li><strong>チャーシューみそきん：</strong>1,600円</li>
+<li><strong>特製みそきん（おすすめ👍）：</strong>1,550円</li>
+</ul>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-04.jpg" alt="特製みそきんメニューと価格">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>特製みそきんメニュー及び価格（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</b></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>特製みそきんメニュー及び価格（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
 </figure>
 
 <strong>🛍️ 全国セブンイレブンで会えるみそきんカップラーメン</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-05.jpg" alt="みそきんカップラーメン">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>みそきんカップラーメン（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</b></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>みそきんカップラーメン（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
 </figure>
 
 ---
@@ -110,17 +124,21 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <strong>エリア：9番 | 営業時間：10:30 ~ 22:30</strong>
 
-予約戦争が嫌な方、または「本格的な料理のようなラーメン」を求める方にはこちらが正解です。青森県の行列店が東京に進出しました。
+予約戦争が嫌な方、または「本格的な料理のようなラーメン」を求める方にはこちらが正解です. 青森県の行列店が東京に進出しました.
 
 <strong>👨‍🍳 何が違うのか？（3つのこだわり）</strong>
-1. <strong>生臭さZero：</strong>煮干しの頭と内臓を手作業で除去し、苦味なく清潔
-2. <strong>生きている麺：</strong>毎日気温・湿度に合わせて生地を調整
-3. <strong>燻製メンマ：</strong>3日間水に浸し煮干し出汁で煮込んだ後「<strong>燻製</strong>」したメンマ（筍）は食感が芸術的
+<ol>
+<li><strong>生臭さZero：</strong>煮干しの頭と内臓を手作業で除去し、苦味なく清潔</li>
+<li><strong>生きている麺：</strong>毎日気温・湿度に合わせて生地を調整</li>
+<li><strong>燻製メンマ：</strong>3日間水に浸し煮干し出汁で煮込んだ後「<strong>燻製</strong>」したメンマ（筍）は食感が芸術的</li>
+</ol>
 
 <strong>🍜 メニュー推薦ガイド</strong>
-- <strong>あっさり（淡麗）：</strong>澄んだ煮干し出汁。朝食・二日酔い解消におすすめ
-- <strong>濃い口（濃厚）：</strong>動物系出汁＋濃厚煮干し。強力推薦！
-- <strong>背脂（背脂）：</strong>コクのある味を求めるなら選択
+<ul>
+<li><strong>あっさり（淡麗）：</strong>澄んだ煮干し出汁. 朝食・二日酔い解消におすすめ</li>
+<li><strong>濃い口（濃厚）：</strong>動物系出汁＋濃厚煮干し. 強力推薦！</li>
+<li><strong>背脂（背脂）：</strong>コクのある味を求めるなら選択</li>
+</ul>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-06.jpg" alt="東京駅ラーメンストリート ひらこ屋ラーメン">
@@ -131,7 +149,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 ## 5. 🍜 全店舗素早い選択ガイド
 
-この表は素早い決定のためのガイドです。
+この表は素早い決定のためのガイドです.
 
 <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
   <thead>
@@ -199,21 +217,20 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 六厘舎、ひるがおなど既存の老舗グルメ店のメニュー写真と詳細な試食評価は、丁寧にまとめた過去の記事を参考にしてください！👇
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223707471582
-     Hugo: /ja/posts/tokyo-ramen-street-best-8/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>東京駅ラーメンBEST 8、東京駅ラーメンストリート完全攻略レビュー</strong></a><br>
+<p style="text-align: center;"><strong>☕</strong> <a href="/ja/posts/tokyo-ramen-street-best-8/" style="color: #667eea;"><strong>東京駅ラーメンBEST 8、東京駅ラーメンストリート完全攻略レビュー</strong></a></p>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-07.jpg" alt="東京駅ラーメンストリート10店舗選択ガイド">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>東京駅ラーメンストリート10店舗選択ガイド</b></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>東京駅ラーメンストリート10店舗選択ガイド</strong></figcaption>
 </figure>
 
 ---
 
 ## 6. 🗺️ 東京ラーメンストリートへの行き方
 
-- <strong>場所：</strong>JR東京駅八重洲地下中央口改札を出て右（キャラクターストリートの正反対側）
+<ul>
+<li><strong>場所：</strong>JR東京駅八重洲地下中央口改札を出て右（キャラクターストリートの正反対側）</li>
+</ul>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-08.jpg" alt="東京駅ラーメンストリート位置マップ">
@@ -225,35 +242,29 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <strong>Q. 年末年始も営業していますか？</strong>
 
-A. 年末年始も営業していますが、短縮営業する場合が多いです。
+A. 年末年始も営業していますが、短縮営業する場合が多いです.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224110207709
-     Hugo: /ja/posts/tokyo-station-year-end-hours-2026/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>2026年東京駅ラーメンストリート年末年始営業時間情報</strong></a><br>
+<p style="text-align: center;"><strong>☕</strong> <a href="/ja/posts/tokyo-station-year-end-hours-2026/" style="color: #667eea;"><strong>2026年東京駅ラーメンストリート年末年始営業時間情報</strong></a></p>
 
 <strong>Q. 待ち時間はどのくらいですか？</strong>
 
-A. 食事時間帯は1時間以上の待機が一般的です。平日午後3～4時、または朝のオープン直後が最も安全です。
+A. 食事時間帯は1時間以上の待機が一般的です. 平日午後3～4時、または朝のオープン直後が最も安全です.
 
 <strong>Q. 注文方式は？</strong>
 
-A. ほとんどの店舗は入口の<strong>券売機（キオスク）</strong>で先に食券を購入してから並ぶ方式です。クレジットカードが使えない場合が多く、交通カード（Suica/Pasmo）決済または現金決済のみ可能な場合がほとんどです。<strong>現金を必ず持参してください。</strong>
+A. ほとんどの店舗は入口の<strong>券売機（キオスク）</strong>で先に食券を購入してから並ぶ方式です. クレジットカードが使えない場合が多く、交通カード（Suica/Pasmo）決済または現金決済のみ可能な場合がほとんどです. <strong>現金を必ず持参してください.</strong>
 
 <strong>Q. キャリーケース保管は？</strong>
 
-A. 店内が非常に狭いです。食事中に不安になる可能性があるので、安心して東京駅のコインロッカーに保管してから来ることを強くおすすめします。
+A. 店内が非常に狭いです. 食事中に不安になる可能性があるので、安心して東京駅のコインロッカーに保管してから来ることを強くおすすめします.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224031611221
-     Hugo: /ja/posts/tokyo-station-guide/ -->
-<p style="text-align: center;"><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>東京駅観光スポット総まとめ、荷物保管コインロッカー</strong></a><br>
+<p style="text-align: center;"><strong>☕</strong> <a href="/ja/posts/tokyo-station-guide/" style="color: #667eea;"><strong>東京駅観光スポット総まとめ、荷物保管コインロッカー</strong></a></p>
 
 ---
 
-東京駅ラーメンストリートは、もはや単に並んで食べる場所ではなく、<strong>情報力がなければ食べられない場所</strong>になりました。
+東京駅ラーメンストリートは、もはや単に並んで食べる場所ではなく、<strong>情報力がなければ食べられない場所</strong>になりました.
 
-話題の<strong>みそきん</strong>を狙うなら予約に集中してください。失敗のない深い味を求めるなら<strong>ひらこ屋</strong>の「濃い口」ラーメンも良い選択です。
+話題の<strong>みそきん</strong>を狙うなら予約に集中してください. 失敗のない深い味を求めるなら<strong>ひらこ屋</strong>の「濃い口」ラーメンも良い選択です.
 
 ---
 
@@ -261,35 +272,23 @@ A. 店内が非常に狭いです。食事中に不安になる可能性があ�
 
 <strong>🍜 塩辛いラーメンを食べたらデザートは定番！すぐ隣の「じゃがりこ」グルメ店</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224112740096
-     Hugo: /ja/posts/tokyo-station-okashi-land-jagariko-guide/ -->
-➡️ <strong><a href="#">東京駅おかしランド行き方｜揚げたて東京駅じゃがりこ & カルビーメニュー推薦</a></strong>
+➡️ <strong><a href="/ja/posts/tokyo-station-okashi-land-jagariko-calbee-guide/" style="color: #667eea;">東京駅おかしランド行き方｜揚げたて東京駅じゃがりこ & カルビーメニュー推薦</a></strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224113027853
-     Hugo: /ja/posts/tokyo-banana-creme-brulee-guide/ -->
-➡️ <strong><a href="#">東京駅東京ばな奈クリームブリュレ売り場・価格・免税総まとめ</a></strong>
+➡️ <strong><a href="/ja/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide/" style="color: #667eea;">東京駅東京ばな奈クリームブリュレ売り场・価格・免税総まとめ</a></strong>
 
 <strong>⏳ ラーメンの列が長すぎる？失敗のない「高品質弁当」推薦</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224114567793
-     Hugo: /ja/posts/tokyo-station-ekiben-guide/ -->
-➡️ <strong><a href="#">東京駅駅弁売り場BEST 5｜駅弁屋祭り位置・価格・温め方裏技</a></strong>
+➡️ <strong><a href="/ja/posts/tokyo-station-ekiben-guide/" style="color: #667eea;">東京駅駅弁売り場BEST 5｜駅弁屋祭り位置・価格・温め方裏技</a></strong>
 
 <strong>🛍️ 消化もかねてショッピング！ちいかわ/ポケモンショップ行き方</strong>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /ja/posts/tokyo-station-character-street-guide/ -->
-➡️ <strong><a href="#">東京駅キャラクターストリート行き方・営業時間・免税総まとめ（ちいかわ/ポケモン/ドラゴンボール)</a></strong>
-
----
+➡️ <strong><a href="/ja/posts/tokyo-station-character-street-guide/" style="color: #667eea;">東京駅キャラクターストリート行き方・営業時間・免税総まとめ（ちいかわ/ポケモン/ドラゴンボール)</a></strong>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224124211319" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224124211319" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです. リアルな東京の旅情報をお届けします.
   </p>
+</div>
+
 </div>

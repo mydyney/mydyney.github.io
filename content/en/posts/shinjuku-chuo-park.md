@@ -10,6 +10,8 @@ summary: "Comprehensive guide to Shinjuku Chuo Park right behind Tokyo Metropoli
 featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 ---
 
+<div class="blog-container">
+
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-01.jpg" alt="Shinjuku Chuo Park Complete Guide">
   <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Complete Guide | Starbucks SHUKNOVA, Playground, Illumination & Tokyo Metropolitan Government Observatory</figcaption>
@@ -178,15 +180,7 @@ Lighting Hours: Daily 16:30 ~ 22:00
 <div class="image-group-2">
   <figure><img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="TWINKLE PARK 1"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="TWINKLE PARK 2"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Illumination TWINKLE PARK</figcaption>
-
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224101626196" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
-  </p>
-</div>
-
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Chuo Park Illumination TWINKLE PARK</figcaption>
 </div>
 
 ---
@@ -228,19 +222,19 @@ Leisurely explore the lawn plaza, Citizens' Forest, Water Plaza, Kids Plaza, etc
 
 ## Usage Tips & Especially Recommended For
 
-<strong>1️⃣ Morning Run or Walk + Starbucks Routine</strong>
+1️⃣ <strong>Morning Run or Walk + Starbucks Routine</strong>
 
 For Tokyo business travelers or long-term stays, it's perfect for a pre-work running routine followed by morning coffee at SHUKNOVA Starbucks.
 
-<strong>2️⃣ Families Looking for Shinjuku Attractions with Kids</strong>
+2️⃣ <strong>Families Looking for Shinjuku Attractions with Kids</strong>
 
 Free playground and water play area, stroller-friendly paths, nearby shopping and dining all in one place.
 
-<strong>3️⃣ Couples/Friends Who Love Shinjuku Night Views, Illumination & Photos</strong>
+3️⃣ <strong>Couples/Friends Who Love Shinjuku Night Views, Illumination & Photos</strong>
 
 The combination of Tokyo Metropolitan Government free observatory + Twinkle Park + Nishi-Shinjuku building night views makes a great winter date course.
 
-<strong>4️⃣ When You Want to Save on Shinjuku Gyoen Admission</strong>
+4️⃣ <strong>When You Want to Save on Shinjuku Gyoen Admission</strong>
 
 While Shinjuku Gyoen dominates in large gardens and cherry blossoms,
 
@@ -280,3 +274,12 @@ How about adding the "Tokyo Metropolitan Government free observatory + Shinjuku 
 <strong>➡️ [Shinjuku Hotels Best 10](/posts/shinjuku-hotels-best-10/)</strong>
 
 <strong>➡️ [Narita Airport to Shinjuku 2025 Guide](/posts/narita-to-shinjuku-2025/)</strong>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/224101626196" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
+</div>

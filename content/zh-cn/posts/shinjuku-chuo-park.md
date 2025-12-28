@@ -10,6 +10,8 @@ summary: "东京都厅大楼正后方的新宿中央公园完全攻略。从星�
 featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 ---
 
+<div class="blog-container">
+
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-01.jpg" alt="新宿中央公园完全攻略">
   <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园完全攻略｜星巴克SHUKNOVA·游乐场·灯光秀·东京都厅展望台路线</figcaption>
@@ -104,13 +106,13 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 公园的地标无疑是"SHUKNOVA（しゅくのば）"。
 
-这栋建筑1楼有武藏野森餐厅和星巴克，是完美的早午餐地点。
+这栋建筑1楼有武藏野森餐厅 and 星巴克，是完美的早午餐地点。
 
 <strong>1️⃣ 星巴克新宿中央公园SHUKNOVA店</strong>
 
 营业时间：每天07:00～21:00（最后点单同时间）
 
-1楼室内座位＋户外露台座位，2楼露台可欣赏草坪广场和公园全景
+1楼室内座位＋户外露台座位，2楼露台可欣赏草坪广场 and 公园全景
 
 可拍摄都厅·西新宿大楼群交织的景色，提供插座·Wi-Fi，适合轻度笔记本工作或阅读
 
@@ -143,7 +145,7 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 <strong>氛围：</strong>当地妈妈们带孩子来的真正本地游乐场，旅行中也能体验当地日常生活
 
-"当孩子们抱怨腿疼时，让他们在这里玩，一小时就像魔法般飞逝。家长可以在长椅上享受咖啡时光。"
+"当孩子们抱怨腿疼时，让他们在这里玩，一小时就像魔法般飞逝. 家长可以在长椅上享受咖啡时光."
 
 <strong>👉 [新宿亲子游！5大主题乐园攻略](/zh-cn/posts/shinjuku-kids-parks-guide/)</strong>
 
@@ -178,15 +180,7 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 <div class="image-group-2">
   <figure><img src="/images/posts/shinjuku-chuo-park-12.jpg" alt="TWINKLE PARK 1"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-13.jpg" alt="TWINKLE PARK 2"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园灯光秀 TWINKLE PARK</figcaption>
-
-<div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
-  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224101626196" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
-  </p>
-</div>
-
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公园灯光秀 TWINKLE PARK</figcaption>
 </div>
 
 ---
@@ -203,13 +197,13 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 <strong>2️⃣ 参观东京都厅免费展望台</strong>
 
-登上东或西展望台之一，欣赏东京市景·富士山（天气好时）。
+登上东或西展望台之一，欣赏东京市景·富士山（天气好时）.
 
 <strong>👉 [东京都厅免费展望台完全攻略](/zh-cn/posts/tokyo-metropolitan-govt-observatory/)</strong>
 
 <strong>3️⃣ 从都厅下来直接漫步新宿中央公园</strong>
 
-慢慢游览草坪广场、市民森林、水之广场、儿童广场等。
+慢慢游览草坪广场、市民森林、水之广场、儿童广场等.
 
 <strong>4️⃣ 在SHUKNOVA的星巴克或武藏野森餐厅享受早午餐/咖啡时光</strong>
 
@@ -228,23 +222,23 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 ## 使用技巧及特别推荐人群
 
-<strong>1️⃣ 晨跑或晨间散步＋星巴克日常</strong>
+1️⃣ <strong>晨跑或晨间散步＋星巴克日常</strong>
 
-如果你在东京出差或长期停留，非常适合上班前晨跑后在SHUKNOVA星巴克喝早咖啡的日常。
+如果你在东京出差或长期停留，非常适合上班前晨跑后在SHUKNOVA星巴克喝早咖啡的日常.
 
-<strong>2️⃣ 寻找新宿亲子景点的家庭游客</strong>
+2️⃣ <strong>寻找新宿亲子景点的家庭游客</strong>
 
-免费游乐场·戏水池、婴儿车友好动线、附近购物·餐饮一次搞定。
+免费游乐场·戏水池、婴儿车友好动线、附近购物·餐饮一次搞定.
 
-<strong>3️⃣ 喜欢新宿夜景·灯光秀·拍照的情侣/朋友游客</strong>
+3️⃣ <strong>喜欢新宿夜景·灯光秀·拍照的情侣/朋友游客</strong>
 
-都厅免费展望台＋Twinkle Park＋西新宿大楼夜景的组合，也是不错的冬季约会路线。
+都厅免费展望台＋Twinkle Park＋西新宿大楼夜景的组合，也是不错的冬季约会路线.
 
-<strong>4️⃣ 想节省新宿御苑门票时</strong>
+4️⃣ <strong>想节省新宿御苑门票时</strong>
 
 大型庭园·樱花等方面新宿御苑占压倒性优势，
 
-但如果只看"简单散步＋咖啡＋儿童游乐场＋灯光秀"组合，新宿中央公园也是很有魅力的替代选择。
+但如果只看"简单散步＋咖啡＋儿童游乐场＋灯光秀"组合，新宿中央公园也是很有魅力的替代选择.
 
 <strong>👉 [新宿御苑完全攻略2025](/zh-cn/posts/shinjuku-gyoen-guide-2025/)</strong>
 
@@ -259,15 +253,15 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 <strong>早上</strong>晨跑·散步，
 
-<strong>白天</strong>儿童游乐场和早午餐，
+<strong>白天</strong>儿童游乐场 and 早午餐，
 
-<strong>傍晚</strong>灯光秀和夜景 -
+<strong>傍晚</strong>灯光秀 and 夜景 -
 
-这是一个能容纳一天所有节奏的西新宿核心休憩地。东京的繁华固然好，但有时这样的绿色休止符会让旅行更加难忘。
+这是一个能容纳一天所有节奏的西新宿核心休憩地. 东京的繁华固然好，但有时这样的绿色休止符会让旅行更加难忘.
 
 下次东京旅行经过新宿时，
 
-要不要试试"都厅免费展望台＋新宿中央公园＋星巴克SHUKNOVA"的组合？
+要不要试试"东京都厅免费展望台＋新宿中央公园＋星巴克SHUKNOVA"的组合？
 
 ---
 
@@ -280,3 +274,12 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 <strong>➡️ [新宿酒店BEST 10](/zh-cn/posts/shinjuku-hotels-best-10/)</strong>
 
 <strong>➡️ [成田机场到新宿2025攻略](/zh-cn/posts/narita-to-shinjuku-2025/)</strong>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224101626196" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠의 东京旅行资讯。
+  </p>
+</div>
+
+</div>
