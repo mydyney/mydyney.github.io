@@ -52,10 +52,7 @@ Okashi Land很容易找到。就在<b>角色街和拉面街之间</b>！
 
 先逛角色商店，等糖分消耗差不多时再来Okashi Land吃零食的路线是国民路线。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /zh-cn/posts/tokyo-station-character-street-guide/ -->
-➡️ <b><a href="#" style="color: #667eea;">东京站角色街怎么去·营业时间·免税完全攻略</a></b>
+➡️ <b><a href="/zh-cn/posts/tokyo-station-character-street-guide/">东京站角色街 路线·营业时间·免税 完全攻略</a></b>
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-03.jpg" alt="东京站Okashi Land入口">
@@ -295,9 +292,7 @@ A. 平日5-10分钟左右，周末20-30分钟左右。卡乐比Plus队伍最长�
 
 <b>🛍️ Okashi Land对面！角色周边购物完全攻略</b>
 
-<b>➡️ </b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /zh-cn/posts/tokyo-station-character-street-guide/ --><b><a href="#" style="color: #667eea;">东京站角色街怎么去·营业时间·免税完全攻略</a></b>
+<b>➡️ </b>➡️ <b><a href="/zh-cn/posts/tokyo-station-character-street-guide/">东京站角色街 路线·营业时间·免税 完全攻略</a></b>
 
 ---
 

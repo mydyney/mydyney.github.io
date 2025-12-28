@@ -52,10 +52,7 @@ Okashi Land is easy to find. It's <b>between Character Street and Ramen Street</
 
 Browse the character shops first, then head to Okashi Land for snacks when your energy drops. This is the golden route.
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /posts/tokyo-station-character-street-guide/ -->
-➡️ <b><a href="#" style="color: #667eea;">Tokyo Station Character Street Access, Hours, Tax-Free Complete Guide</a></b>
+➡️ <b><a href="/posts/tokyo-station-character-street-guide/">Tokyo Station Character Street Access, Hours, Tax-Free Complete Guide</a></b>
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-03.jpg" alt="Tokyo Station Okashi Land entrance">
@@ -295,9 +292,7 @@ Finished your snacks? Now let's head next door to <b>'Ramen Street'</b> for a pr
 
 <b>🛍️ Right Across from Okashi Land! Character Goods Shopping Complete Guide</b>
 
-<b>➡️ </b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /posts/tokyo-station-character-street-guide/ --><b><a href="#" style="color: #667eea;">Tokyo Station Character Street Access, Hours, Tax-Free Complete Guide</a></b>
+<b>➡️ </b>➡️ <b><a href="/posts/tokyo-station-character-street-guide/">Tokyo Station Character Street Access, Hours, Tax-Free Complete Guide</a></b>
 
 ---
 

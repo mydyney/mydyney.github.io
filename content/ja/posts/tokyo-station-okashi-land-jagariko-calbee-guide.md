@@ -52,10 +52,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 キャラクターショップを先に見て、糖分が切れる頃におかしランドに来てお菓子を食べるコースが定番です。
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /ja/posts/tokyo-station-character-street-guide/ -->
-➡️ <b><a href="#" style="color: #667eea;">東京駅キャラクターストリート行き方・営業時間・免税総まとめ</a></b>
+➡️ <b><a href="/ja/posts/tokyo-station-character-street-guide/" style="color: #667eea;">東京駅キャラクターストリート 行き方·営業時間·免税 完全ガイド</a></b>
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-03.jpg" alt="東京駅おかしランド入口">
@@ -293,9 +290,7 @@ A. 平日は5-10分程度、週末は20-30分程度かかります。カルビ�
 
 <b>🛍️ おかしランド向かい側！キャラクターグッズショッピング総まとめ</b>
 
-<b>➡️ </b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /ja/posts/tokyo-station-character-street-guide/ --><b><a href="#" style="color: #667eea;">東京駅キャラクターストリート行き方・営業時間・免税総まとめ</a></b>
+<b>➡️ </b>➡️ <b><a href="/ja/posts/tokyo-station-character-street-guide/" style="color: #667eea;">東京駅キャラクターストリート 行き方·営業時間·免税 完全ガイド</a></b>
 
 ---
 
