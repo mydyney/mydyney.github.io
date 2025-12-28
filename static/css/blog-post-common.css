@@ -253,6 +253,19 @@ div.image-group-9,
   color: #666;
 }
 
+/* 연속된 image-group 사이의 간격 줄이기 */
+.image-group-2 + .image-group-2,
+.image-group-2 + .image-group-3,
+.image-group-2 + .image-group-4,
+.image-group-3 + .image-group-2,
+.image-group-3 + .image-group-3,
+.image-group-3 + .image-group-4,
+.image-group-4 + .image-group-2,
+.image-group-4 + .image-group-3,
+.image-group-4 + .image-group-4 {
+  margin-top: 0.5rem !important;
+}
+
 /* 모바일에서도 한 줄에 표시 (가로 폭을 이미지 수로 나눔) */
 @media (max-width: 768px) {
   .blog-container { font-size: 0.95rem; }
