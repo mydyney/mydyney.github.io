@@ -17,6 +17,8 @@ This document provides comprehensive instructions for migrating blog posts from 
 5. [Migration Scripts](#migration-scripts)
 6. [Pull Request Process](#pull-request-process)
 
+**⚠️ IMPORTANT:** This guide covers the migration workflow and content translation rules. You MUST also review **[CONTENT_GUIDELINES.md](./CONTENT_GUIDELINES.md)** for blog formatting, SEO optimization, tags/categories, and image rules before creating any posts.
+
 ---
 
 ## Migration Overview
@@ -66,6 +68,26 @@ User: "완료했습니다" or "Done"
 - Confirm completion
 
 ### Step 3: Claude Analyzes and Creates Blog Posts
+
+**📚 REQUIRED READING BEFORE STARTING:**
+
+Before creating any blog posts, you MUST review these documents in order:
+
+1. **[MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md)** (this file) - Content creation workflow and translation rules
+2. **[CONTENT_GUIDELINES.md](./CONTENT_GUIDELINES.md)** - Blog formatting, SEO optimization, tags/categories, image rules
+
+**⚠️ CRITICAL: Both documents contain essential rules. Missing either will result in incomplete or incorrectly formatted posts!**
+
+**Key areas in CONTENT_GUIDELINES.md:**
+- Front matter structure and required fields
+- Language-specific tags and categories (EN/JA/ZH-CN must match content language)
+- SEO optimization (title/description length limits per language)
+- Image naming convention and 1:1 matching rule
+- Editor's Note section (mandatory)
+- Chinese YAML syntax rules (no special quotation marks)
+- Blog post format and structure
+
+---
 
 **⚠️ IMPORTANT: Incremental Creation Workflow**
 

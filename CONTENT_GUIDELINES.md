@@ -20,6 +20,8 @@ This document provides detailed guidelines for creating and formatting blog cont
 8. [Editor's Note](#editors-note)
 9. [Related Posts](#related-posts)
 
+**⚠️ IMPORTANT:** This guide covers blog formatting, SEO, and content structure. If you're migrating from Naver Blog, you MUST also review **[MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md)** for the complete migration workflow and content translation rules.
+
 ---
 
 ## Post Front Matter Structure

@@ -231,17 +231,21 @@ User: "완료했습니다" or "Done"
 
 #### Step 3: Claude Analyzes and Creates Blog Posts
 
-**📚 For complete content creation guidelines and all CRITICAL rules, see [MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md)**
+**📚 REQUIRED READING BEFORE STARTING:**
+1. **[MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md)** - Complete content creation guidelines and workflow
+2. **[CONTENT_GUIDELINES.md](./CONTENT_GUIDELINES.md)** - Blog formatting, SEO optimization, tags/categories, image rules
+
+**⚠️ CRITICAL: You MUST review both documents before creating any blog posts!**
 
 **Key Steps:**
 - Extract publish date from Naver HTML
 - Count images and verify order
 - Load LINK_MAPPING.md for internal link conversion
 - Identify all Naver links in content
-- Create EN/JA/ZH-CN posts following all guidelines in MIGRATION_GUIDE.md
+- Create EN/JA/ZH-CN posts following all guidelines in MIGRATION_GUIDE.md and CONTENT_GUIDELINES.md
 - Update LINK_MAPPING.md with new post mappings
 
-**Critical Requirements:**
+**Critical Requirements from MIGRATION_GUIDE.md:**
 - Complete content translation (no omissions or additions)
 - Exact image positioning and captions preservation
 - HTML structure analysis and linear order preservation
@@ -250,7 +254,13 @@ User: "완료했습니다" or "Done"
 - Natural writing without AI traces
 - Intelligent link handling with existence verification
 
-**See MIGRATION_GUIDE.md Section "Content Creation Guidelines" for detailed rules.**
+**Critical Requirements from CONTENT_GUIDELINES.md:**
+- Language-specific tags and categories (EN posts → EN tags, JA posts → JA tags, ZH-CN posts → ZH-CN tags)
+- SEO-optimized titles and descriptions (length limits per language)
+- Proper front matter structure with translationKey
+- Image naming convention and 1:1 matching rule
+- Editor's Note section (mandatory for all posts)
+- Chinese YAML syntax rules (no special quotation marks)
 
 #### Step 4: Claude Downloads Images
 ```bash
