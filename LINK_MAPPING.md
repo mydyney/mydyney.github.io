@@ -120,6 +120,7 @@ When migrating a Naver blog post to Hugo:
 | 224111977613 | tokyo-station-character-street-guide | 2025-12-16 | ✅ |
 | 224114567793 | tokyo-station-ekiben-guide | 2025-12-18 | ✅ |
 | 224124979714 | tokyo-3-day-itinerary-disney-shibuya-sky | 2025-12-28 | ✅ |
+| 224037272726 | tsukiji-market-restaurant-guide | 2025-10-11 | ✅ |
 
 
 ---
@@ -440,6 +441,7 @@ declare -A MAPPINGS=(
   ["224112740096"]="tokyo-station-okashi-land-jagariko-calbee-guide"
   ["224105736326"]="shibuya-human-made-offline-store-guide"
   ["224124979714"]="tokyo-3-day-itinerary-disney-shibuya-sky"
+  ["224037272726"]="tsukiji-market-restaurant-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
