@@ -88,7 +88,7 @@ YouTube频道"邻居朋友Kangnami"极力推荐的拉面店<strong>[鸭to葱(鴨
 <strong>⭐ 想了解更多Kangnami推荐的东京拉面店?</strong>  
 <strong>➡️ [东京拉面店完全攻略 | YouTube邻居朋友Kangnami的宝藏拉面店信息](https://blog.naver.com/tokyomate/223914118735)</strong>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="摆放精美的葱和鸭肉的鸭to葱拉面" caption="摆放精美的葱和鸭肉的"鸭to葱"拉面(烤葱、青葱选择)" >}}
+{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="摆放精美的葱和鸭肉的鸭to葱拉面" caption="摆放精美的葱和鸭肉的鸭to葱拉面(烤葱、青葱选择)" >}}
 
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-12.jpg" alt="鸭肉油封拉面" caption="鸭肉油封拉面(白葱拌菜、青葱选择) - 无腥味且口感柔嫩" >}}
 
