@@ -1,275 +1,318 @@
 ---
-title: "涩谷帕尔科(Parco)6楼完全攻略：任天堂、宝可梦中心、Jump Shop必买清单"
-date: 2025-12-13T09:00:00+09:00
+title: "涩谷PARCO 6楼完全攻略：任天堂、宝可梦、JUMP SHOP、卡普空｜周边、整理券、免税指南"
+date: 2025-12-11T21:03:00+09:00
 draft: false
-categories: ["涩谷·表参道", "购物攻略"]
-tags: ["涩谷", "Parco", "Nintendo Tokyo", "宝可梦中心", "Jump Shop", "Capcom Store"]
+categories: ["涉谷・表参道", "购物"]
+tags: ["涉谷", "PARCO", "Nintendo Tokyo", "宝可梦中心", "Jump Shop", "Capcom Store"]
+author: "Tokyo Mate"
 translationKey: "shibuya-parco-nintendo-pokemon-guide"
-description: "涩谷Parco 6楼'CYBERSPACE SHIBUYA'保姆级攻略！详解Nintendo TOKYO、宝可梦中心（超梦）、Jump Shop和Capcom Store的必买周边、免税政策及整理券领取技巧。"
-summary: "二次元的快乐老家！涩谷Parco 6楼任天堂、宝可梦（超梦）、Jump Shop、卡普空完全探店指南。附带各店免税(Tax-Free)避雷指南！"
+description: "涩谷PARCO 6楼“CYBERSPACE SHIBUYA”完全攻略！任天堂东京的整理券获取攻略、宝可梦中心涩谷限定周边（超梦）、JUMP SHOP、卡普空商店的免税信息全收录。"
 featured_image: "/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"
+images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 ---
 
-<div class="blog-container">
+<p style="text-align: center; font-size: 1.1rem; color: #555;">涩谷PARCO 6楼完全攻略！从任天堂东京的整理券获取方法到宝可梦中心涩谷限定周边（超梦）、JUMP SHOP、卡普空商店。包含免税信息和排队攻略。</p>
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">
-<b>"CYBERSPACE SHIBUYA"</b><br>
-各位游戏迷、动漫迷们请注意！如果你来东京只能逛一个地方，那必须是这里。<br>
-涩谷Parco 6楼集结了任天堂、宝可梦、少年Jump、卡普空等日本顶级IP，简直是"二次元天堂"。<br>
-这篇攻略为你整理了各大店铺的<b>必买周边、打卡点</b>以及最重要的<b style="color: red;">免税(Tax-Free)避雷指南</b>！
-</p>
-
-<!-- Image 01: 6F Entrance/Sign -->
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg" alt="涩谷Parco 6楼 CyberSpace">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷Parco 6楼 "CYBERSPACE SHIBUYA"</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg" alt="涩谷PARCO 6楼 任天堂 宝可梦 JUMP SHOP 完全攻略">
+  <figcaption style="font-size: 0.85em; text-align: center;">涩谷PARCO 6楼完全攻略：任天堂、宝可梦、JUMP SHOP</figcaption>
 </figure>
 
-<hr class="se-hr">
+大家好！我是记录东京旅行乐趣的Tokyo Mate。✈️
 
-<h2>1. Nintendo TOKYO (马力欧、塞尔达、动森)</h2>
+涩谷购物的中心，**PARCO百货店**！其中6楼是让全世界游戏和动漫粉丝心跳加速的“**CYBERSPACE SHIBUYA（涩谷赛博空间）**”。
 
-<p>日本首家任天堂直营官方店。这不仅仅是一家商店，简直是任天堂粉丝的博物馆！</p>
+今天，我们将为大家介绍一次性逛完6楼三大巨头——**任天堂东京（Nintendo TOKYO）、宝可梦中心涩谷（Pokémon Center SHIBUYA）、JUMP SHOP**的高效路线和必备购物及免税信息。
 
-<!-- Image 02: Nintendo Tokyo Entrance -->
+---
+
+## **营业信息（2025年12月基准）**
+
+**📍 地点：涩谷PARCO 6F (CYBERSPACE)**
+
+**🚶 交通方式：** JR涩谷站八公口 → 穿过涩谷十字路口 → 往MODI方向上坡（步行5-7分钟）
+
+<div class="se-placesMap">
+  <a href="https://maps.app.goo.gl/Y1QtF1iwXhBzTsiD7" target="_blank" class="se-map-info">
+    <div class="se-map-marker"></div>
+    <strong class="se-map-title">涩谷PARCO</strong>
+    <p class="se-map-address">日本 〒150-8377 Tokyo, Shibuya, Udagawacho, 15−1</p>
+  </a>
+</div>
+
+**⏰ 营业时间：10:00 – 21:00**
+
+**📌 重要：** 虽然PARCO普通店铺11点开门，但**6楼动漫游戏区从10点开始营业**。
+
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-02.jpg" alt="Nintendo TOKYO 入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo TOKYO 门口</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-02.jpg" alt="开店前通往涩谷PARCO 6楼的扶梯">
+  <figcaption style="font-size: 0.85em; text-align: center;">开店前通往涩谷PARCO 6楼的扶梯</figcaption>
 </figure>
 
-<h3>✅ 必打卡雕像</h3>
-<p>店门口有超高还原度的传奇角色雕像。<b>马力欧、林克（塞尔达传说）、西施惠（动物森友会）、Inking（喷射战士）</b>，一定要合影留念！</p>
+---
 
-<!-- Image 03: Link Statue -->
+## **涩谷PARCO 6楼概览（店铺分布与动线）**
+
+涩谷PARCO 6楼呈“口字型”结构，非常适合绕一圈逛。
+
+### **🟧 6楼主要店铺阵容**
+
+🎮 **Nintendo TOKYO（任天堂东京）**: 马力欧、塞尔达、皮克敏的圣地
+
+⚡ **Pokémon Center SHIBUYA（宝可梦中心）**: 超梦与涂鸦艺术
+
+📚 **JUMP SHOP**: 海贼王、咒术回战、灌篮高手
+
+🕹 **CAPCOM STORE（卡普コン商店）**: 怪物猎人、生化危机
+
+### **�� 推荐路线（最小化等待时间）**
+
+1. 任天堂（开门冲刺/整理券）
+2. 宝可梦中心涩谷（整理券）
+3. JUMP SHOP
+4. 卡普空商店
+
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-03.jpg" alt="塞尔达传说 林克雕像">
-  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo TOKYO 林克雕像</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-03.jpg" alt="涩谷PARCO 6楼楼层地图">
+  <figcaption style="font-size: 0.85em; text-align: center;">涩谷PARCO 6楼楼层地图（<a href="https://shibuya.parco.jp.c.aiv.hp.transer.com/floor/detail/?f=6f" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
-<h3>✅ 限定周边清单</h3>
-<p>从毛绒玩具到文具、服饰，质量都超级好。
-<br><b>超级马力欧:</b> 涩谷限定雕像同款周边和8bit像素风系列。
-<br><b>星之卡比:</b> 30周年纪念周边和粉嫩嫩的商品。
-<br><b>动物森友会:</b> 超可爱的厨房用品和家居杂货，让家里充满动森氛围。</p>
+---
+## **1. Nintendo TOKYO - 整理券、排队及周边**
 
-<!-- Image 04: Animal Crossing Goods -->
+这是涩谷PARCO 6楼人气最高的地方。平日入场相对自由，但在**周末或节假日**，因为人潮拥挤，如果没有**“整理券（号码牌）”**甚至可能无法入场。
+
+**✅ 涩谷任天堂整理券获取攻略**
+
+- **发放日期：** 周六、周日、节假日及预计人流较多的日子
+- **发放时间：** 通常在开店前的**上午 9:30 - 10:00** 左右开始发放
+- **发放地点：**
+  - **开店前：** PARCO 1楼“**西班牙坂（Spain-zaka）**”方向入口（室外楼梯侧）
+  - **开店后：** 6楼室外楼梯入口马力欧雕像前（每人1张）
+- **入场方法：** 通过整理券上的二维码确认可入场时间，并在该时间段前往6楼店铺。
+
+**💡 Tip.** 没拿到整理券怎么办？**晚上19:00 - 20:00以后（闭店前）**，通常会开放无需整理券的自由入场，可以尝试那个时间段去碰碰运气！
+
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-04.jpg" alt="动物森友会 周边">
-  <figcaption style="font-size: 0.85em; text-align: center;">动物森友会 家居周边</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-04.jpg" alt="开店前任天堂东京整理券发放地点地图">
+  <figcaption style="font-size: 0.85em; text-align: center;">开店前任天堂东京整理券发放地点（<a href="https://www.nintendo.com/jp/officialstore/index.html" target="_blank">地图来源</a>）</figcaption>
 </figure>
 
-<!-- Image 05: Mario Goods -->
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-05.jpg" alt="超级马力欧 周边">
-  <figcaption style="font-size: 0.85em; text-align: center;">超级马力欧 8bit像素系列</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-05.jpg" alt="开店后整理券发放地点 - 马力欧雕像前">
+  <figcaption style="font-size: 0.85em; text-align: center;">开店后整理券发放地点 - 马力欧雕像前</figcaption>
 </figure>
 
-<h3>🚨 免税情报：❌ 不可免税</h3>
-<p><b>注意！</b> Nintendo TOKYO <b>不支持免税 (Tax-Free)</b>。
-<br>因为主要面向日本国内市场，所以在这里购物无法享受10%的退税。做预算时请把这点考虑进去哦！</p>
+### **✅ 必买人气周边 TOP 5**
+
+1. **皮克敏系列**：花瓶、钥匙扣、毛绒玩具等，目前最热门的商品。
+2. **塞尔达传说**：领带、海拉鲁纹章文具等高品质周边。
+3. **动物森友会（动森）**：实用的餐具和厨房用品（推荐送礼）。
+4. **超级马力欧**：涩谷限定雕像和8位像素风周边。
+5. **星之卡比**：30周年纪念周边和粉色系商品。
+
+### **✅ 免税（Tax-Free）：❌ 不可**
+
+- Nintendo TOKYO 主要面向日本国内市场销售，因此不提供免税服务。
 
 <div class="image-group-3">
   <figure>
-    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-06.jpg" alt="Nintendo Tokyo 不免税告示">
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-06.jpg" alt="任天堂东京店内及周边照片1">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-07.jpg" alt="手柄按键扭蛋机">
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-07.jpg" alt="任天堂东京店内及周边照片2">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-08.jpg" alt="任天堂 手柄钥匙扣">
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-08.jpg" alt="任天堂东京店内及周边照片3">
   </figure>
 </div>
-
-<h3>✅ 手柄按键收藏系列（扭蛋）🕹️</h3>
-<p>在店里千万别错过这个<b>"Controller Button Collection"</b>扭蛋机。
-<br>它把红白机(FC)、NES、N64、GameCube等历代任天堂主机的按键做成了钥匙扣。最绝的是，按下去的手感完美还原了实物！</p>
-
-<hr class="se-hr">
-
-<h2>2. 宝可梦中心涩谷 (超梦、涂鸦皮卡丘)</h2>
-
-<p>与池袋或日本桥的热闹氛围不同，涩谷宝可梦中心主打酷炫的<b>"黑色 & 街头"</b>风格。</p>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-09.jpg" alt="宝可梦中心涩谷 入口">
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-09.jpg" alt="任天堂东京店内及周边照片4">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-10.jpg" alt="涩谷Parco 等身大超梦">
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-10.jpg" alt="任天堂东京店内及周边照片5">
   </figure>
 </div>
-
-<h3>✅ 镇店之宝：等身大超梦</h3>
-<p>一进门就能看到在培养槽中沉睡的<b>等身大超梦</b>。它会动！会呼吸！逼真到让人起鸡皮疙瘩。这是涩谷店的标志，一定要拍视频打卡。</p>
-
-<h3>✅ 涩谷限定周边</h3>
-<ul>
-  <li><b>涂鸦皮卡丘:</b> 帽子和衣服上画满涂鸦的嘻哈风皮卡丘。</li>
-  <li><b>水晶皮卡丘:</b> 镶满施华洛世奇水晶的土豪皮卡丘（价格不菲！）。</li>
-  <li><b>Pokemon Design Lab:</b> 可以用大屏幕定制自己专属宝可梦T恤的服务。（注意：打印通常需要排队等待）。</li>
-</ul>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-11.jpg" alt="涩谷限定 涂鸦皮卡丘">
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-11.jpg" alt="任天堂东京店内及周边照片6">
   </figure>
   <figure>
-    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="施华洛世奇 皮卡丘">
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="任天堂东京店内及周边照片7">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">任天堂东京 & 宝可梦中心涩谷</figcaption>
 </div>
 
-<h3>✅ 宝可梦卡牌(PTCG) 购买攻略</h3>
-<p>如果你是来扫货卡包的，请仔细阅读以下规则（2025年最新）：</p>
-<ol>
-  <li><b>直接去收银台:</b> 热门扩展包通常不在货架上，而在收银台(Cashier)直接销售。直接问店员！</li>
-  <li><b>限购政策:</b> 为了防止倒卖，每人限购数量（如“每人5包”）非常严格。热门卡包通常上午就会售罄。</li>
-  <li><b>撕膜政策:</b> 即使你买整盒(Box)，结账时店员也会当场撕掉塑封膜(Shrink wrap)。如果是想收藏未开封盒子的朋友请注意！</li>
-</ol>
+<figcaption style="font-size: 0.85em; text-align: center;">任天堂东京店内和周边照片</figcaption>
 
-<!-- Image 13: Pokemon Card Tips -->
+### **✅ 用扭蛋重温回忆 🕹️**
+
+“咦？这个按钮是……？！”如果你去任天堂东京店，绝对不能错过这个。就是将任天堂历代游戏机手柄的按钮做成微缩模型的**“手柄按钮收藏系列”扭蛋**。
+
+从红白机（FC）到N64，通过扭蛋找回当年指尖的感觉吧！
+
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-13.jpg" alt="任天堂手柄扭蛋1">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-14.jpg" alt="任天堂手柄扭蛋2">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">任天堂手柄扭蛋</figcaption>
+</div>
+
+---
+## **2. 宝可梦中心涩谷 - 超梦、限定周边及集换式卡牌**
+
+与其他分店（池袋、日本桥）不同，这里以“黑色与街头（Black & Street）”为概念，氛围最为酷炫。
+
+### **✅ 必看拍照点：超梦（Mewtwo）**
+
+一进门就能看到仿佛在培养管中呼吸般蠕动的**等身大超梦**。这是涩谷店的地标，所以一定要拍视频或照片留念！
+
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-13.jpg" alt="宝可梦卡牌 购买规则">
-  <figcaption style="font-size: 0.85em; text-align: center;">注意宝可梦卡牌的限购规则</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-15.jpg" alt="宝可梦中心涩谷拍照点超梦">
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>宝可梦中心涩谷 拍照点 超梦</strong></figcaption>
 </figure>
 
-<h3>✅ 生日福利 🎂</h3>
-<p>如果在生日当月光临，出示护照/身份证件，可以领取特制的<b>“生日卡片”</b>和<b>“贴纸”</b>哦！</p>
+### **✅ 涩谷限定周边**
 
-<h3>🚨 免税情报：⭕️ 支持免税</h3>
-<p>和任天堂不同，<b>宝可梦中心支持免税！</b>
-<br>条件：购物满5,500日元（含税）。结账时请出示护照。</p>
+- **涂鸦皮卡丘：** 戴着帽子、穿着印有涂鸦艺术衣服的嘻哈风皮卡丘毛绒玩具。
+- **水晶皮卡丘：** 镶满施华洛世奇水晶的奢华皮卡丘（价格昂贵）。
+- **宝可梦设计室（Pokemon Design Lab）：** 可以在触摸屏上定制自己专属的宝可梦T恤（需要排队等待）。
 
-<!-- Image 14: Pokemon Tax Free Sign -->
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-16.jpg" alt="宝可梦设计室T恤定制1">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-17.jpg" alt="宝可梦设计室T恤定制2">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">宝可梦设计室 T恤定制服务</figcaption>
+</div>
+
+### **✅ 宝可梦卡牌（PTCG）购买贴士与注意事项**
+
+计划在涩谷宝可梦中心购买宝可梦卡牌的朋友请务必确认！（基于2025年最新政策）
+
+**1. 卡牌在收银台**
+
+人气的扩展包通常不出售在陈列架上，而是在**收银台（Cashier）**贩卖。如果在货架上没找到，不要放弃，结账时询问工作人员。
+
+**2. 每人购买限额**
+
+为了防止转卖，通常有“每人限购5包”或“每人限购10包”等严格的数量限制。人气卡包通常在上午就会售罄（SOLD OUT）。
+
+**3. 去除塑封（Shrink）政策（重要！）**
+
+即使购买整盒（BOX），工作人员也会在现场撕掉外面的塑料包装（塑封）后交给你。如果是为了未开封收藏而购买，请务必注意！
+
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-14.jpg" alt="宝可梦中心 免税柜台">
-  <figcaption style="font-size: 0.85em; text-align: center;">太棒了！宝可梦中心可以退税！</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-18.jpg" alt="宝可梦卡牌（PTCG）购买贴士与注意事项">
+  <figcaption style="font-size: 0.85em; text-align: center;">宝可梦<strong>卡牌购买贴士与注意事项</strong></figcaption>
 </figure>
 
-<hr class="se-hr">
+### **✅ 生日特典**
 
-<h2>3. Jump Shop (海贼王, 咒术回战)</h2>
+在生月访问并出示护照或身份证，可以获得“生日贺卡”和“生日贴纸”。
 
-<p>周刊少年Jump的人气角色大集合。动漫迷绝对不能错过。</p>
+### **✅ 免税（Tax-Free）：⭕️ 可** （含税5,500日元以上，需出示护照）
 
-<!-- Image 15: Jump Shop -->
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-15.jpg" alt="Jump Shop 涩谷">
-  <figcaption style="font-size: 0.85em; text-align: center;">JUMP SHOP 涩谷Parco店</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-19.jpg" alt="宝可梦中心涩谷的皮卡丘">
+  <figcaption style="font-size: 0.85em; text-align: center;"><strong>宝可梦中心涩谷的皮卡丘</strong></figcaption>
 </figure>
 
-<h3>✅ 人气IP阵容</h3>
-<ul>
-  <li><b>海贼王 (ONE PIECE):</b> 五档尼卡路飞的周边现在超火！</li>
-  <li><b>咒术回战 & 排球少年:</b> 角色周边种类超级多。</li>
-  <li><b>灌篮高手 & 我的英雄学院</b></li>
-  <li><b>盲盒区:</b> 试试手气，抽个本命角色的徽章或卡片吧。</li>
-</ul>
+---
+## **3. Jump Shop - 海贼王、咒术回战、排球少年周边**
 
-<!-- Image 16: Jump Goods -->
+### **✅ 人气商品阵容**
+
+- 海贼王 5档路飞（尼卡）周边
+- 咒术回战、排球少年！！、SAKAMOTO DAYS 坂本日常
+- 灌篮高手、我的英雄学院
+- 盲盒（随机周边）
+
+### **✅ 免税（Tax-Free）：❌ 不可**
+
+由于店内混合销售书籍和版权相关商品，因此全场商品均不支持免税。
+
+---
+
+## **4. Capcom Store（卡普空商店）**
+
+### **✅ 人气周边**
+
+- **怪物猎人：** 艾露猫毛绒玩具、回复药水瓶等猎人必备物品
+- **逆转裁判 & 生化危机：** 许多面向核心粉丝的稀有周边
+
+### **✅ 免税（Tax-Free）：⭕️ 可** （含税5,500日元以上，需出示护照）
+
+---
+## **❓ 常见问题（FAQ）**
+
+**Q. 任天堂/宝可梦可以不领整理券直接进吗？**
+
+A. 平日白天通常可以无需等待直接进入，但在周末和节假日，没有整理券几乎无法入场。
+
+**Q. 6楼的4家店都可以退税（Tax-Free）吗？**
+
+A. 不可以。**宝可梦中心和卡普空商店可以退税（⭕️）**，但任天堂和Jump Shop不支持退税（❌）。制定预算时请注意！
+
 <figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-16.jpg" alt="海贼王 咒术回战 周边">
-  <figcaption style="font-size: 0.85em; text-align: center;">海贼王 & 咒术回战 周边</figcaption>
+  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-20.jpg" alt="宝可梦中心整理券发放指南">
+  <figcaption style="font-size: 0.85em; text-align: center;">宝可梦中心整理券发放指南</figcaption>
 </figure>
 
-<h3>🚨 免税情报：❌ 不可免税</h3>
-<p>很遗憾，<b>Jump Shop 也是不支持免税的</b>。
-<br>这主要是因为店内有很多出版物和版权复杂的商品。</p>
+逛完6楼了吗？PARCO不仅有任天堂，还有Human Made、川久保玲等潮牌，以及需要排队的美食名店。请查看下面的完整楼层指南和购物攻略！
 
-<!-- Image 17: Jump No Tax Free -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-17.jpg" alt="Jump Shop 不免税">
-  <figcaption style="font-size: 0.85em; text-align: center;">Jump Shop 也是不免税的哦</figcaption>
-</figure>
+➡️ **[涩谷购物中心No.1 PARCO：楼层指南、免税、美食、品牌完全攻略](/zh-cn/posts/shibuya-parco-shopping-guide/)**
 
-<hr class="se-hr">
+---
 
-<h2>4. Capcom Store (怪猎, 生化危机)</h2>
+## **🍽️ 逛累了肚子饿怎么办？**
 
-<p>就在任天堂对面，你会看到巨大的手柄和隆（街头霸王）的雕像，这就是卡普空商店。</p>
+涩谷的著名餐厅都集中在PARCO地下1楼。
 
-<!-- Image 18: Capcom Store -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-18.jpg" alt="Capcom Store 涩谷">
-  <figcaption style="font-size: 0.85em; text-align: center;">CAPCOM STORE TOKYO</figcaption>
-</figure>
+🥩 必排队！肉汁满满“极味屋（Kiwamiya）汉堡排”（B1F）
 
-<h3>✅ 推荐周边</h3>
-<ul>
-  <li><b>怪物猎人:</b> 艾露猫玩偶、“回复药”水壶、烤肉抱枕等。</li>
-  <li><b>逆转裁判 & 生化危机:</b> 有很多懂这种梗的真爱粉周边。</li>
-</ul>
+👉 **[米饭、汤无限续！福冈汉堡排的传说！菜单和排队攻略](/zh-cn/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/)**
 
-<!-- Image 19: Monster Hunter Goods -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-19.jpg" alt="怪物猎人 周边">
-  <figcaption style="font-size: 0.85em; text-align: center;">怪物猎人 周边</figcaption>
-</figure>
+🥩 热腾腾的土锅饭！日式家常菜“Ikushika”（B1F）
 
-<h3>🚨 免税情报：⭕️ 支持免税</h3>
-<p><b>Capcom Store是可以免税的！</b>（满5,500日元 + 护照）。</p>
+👉 **[涩谷“Ikushika”现煮土锅饭无限续碗！定食美食指南](/zh-cn/posts/shibuya-ikushika-rice-refill-restaurant/)**
 
-<hr class="se-hr">
+---
 
-<h2>❓ 常见问题 (FAQ)</h2>
+如果你喜欢动漫游戏周边，涩谷PARCO 6楼是一个逛半天都不够的地方。特别是周末去的话，千万别忘了**“早上10点前到达”**和**“先确任天堂整理券”**的策略！
 
-<p><b>Q. Nintendo TOKYO / 宝可梦中心需要入场整理券吗？</b><br>
-A. <b>平日</b>基本不需要，可以直接进。
-<br><b>周末和节假日</b>人非常多，大概率需要整理券。通常开店前（9:30 - 10:00）会在<b>1楼西班牙坡广场(Spain-zaka)</b>附近发放，如果去晚了可能就没号了，建议早点去！</p>
+如果有任何问题，欢迎留言。祝你在东京旅行愉快！
 
-<!-- Image 20: Ticket Info -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-20.jpg" alt="整理券发放通知">
-  <figcaption style="font-size: 0.85em; text-align: center;">周末记得留意整理券发放信息</figcaption>
-</figure>
+---
 
-<p><b>Q. 可以合并账单退税吗？</b><br>
-A. <b>不可以。</b> 各店独立核算。
-<br>⭕️ 宝可梦中心、Capcom Store
-<br>❌ Nintendo TOKYO、Jump Shop</p>
+## **🧡 相关涩谷旅游攻略**
 
-<hr class="se-hr">
+👇 从涩谷SKY预约到路线！涩谷完全计划
 
-<p>逛完6楼别急着走！1楼的<b>Human Made</b>和地下1楼的<b>极味耶汉堡</b>也是涩谷必打卡。</p>
+➡️ **[涩谷观光、购物、美食、涩谷SKY预约！推荐完美路线](/zh-cn/posts/shibuya-complete-guide-2025/)**
 
-<p><strong>➡️ <a href="/zh-cn/posts/shibuya-parco-shopping-guide/" style="color: #667eea;">涩谷Parco全攻略：楼层导览、品牌推荐 & 美食指南</a></strong></p>
+👇 Human Made PARCO店探店
 
-<hr class="se-hr">
+➡️ **[涩谷Human Made Part1 & Part2 位置、排队时间、整理券、Curry Up](/zh-cn/posts/shibuya-human-made-offline-store-guide/)**
 
-<h2>🍽️ 逛累了吃什么？</h2>
+👇 从PARCO出发！涩谷冬季必去路线“青之洞窟”
 
-<p>地下1楼的“Chaos Kitchen”汇集了涩谷最潮的美食。</p>
+➡️ **[2025年 涩谷“青之洞窟”灯光秀 期间、时间、地点、交通方式](/zh-cn/posts/shibuya-blue-cave-illumination-2025/)**
 
-<p><b>🥩 极味耶 (Kiwamiya) 汉堡排</b><br>
-福冈神级汉堡排，虽然排队1-2小时是常态，但真的值得！自己在铁板上煎肉超级香。</p>
-<p><strong>👉 <a href="/zh-cn/posts/shibuya-parco-kiwamiya-hamburg-waiting-menu/" style="color: #667eea;">极味耶汉堡排：免排队攻略 & 菜单详解</a></strong></p>
+👇 东京Z世代的圣地，宫下公园完全攻略
 
-<p><b>🍚 Ikushika (土锅饭)</b><br>
-现煮土锅饭无限续碗！想吃正宗好吃的日本定食就来这。</p>
-<p><strong>👉 <a href="/zh-cn/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;">Ikushika：现煮土锅饭吃到饱 & 日本定食推荐</a></strong></p>
-
-<hr class="se-hr">
-
-<h2>🧡 涩谷旅游懒人包</h2>
-
-<p><strong>👇 一日游完美路线（从涩谷Sky到购物）</strong></p>
-<p><strong>➡️ <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;">涩谷旅游全攻略：涩谷Sky预约、购物路线、必吃美食</a></strong></p>
-
-<p><strong>👇 Human Made 涩谷店探店报告</strong></p>
-<p><strong>➡️ <a href="/zh-cn/posts/shibuya-human-made-offline-store-guide/" style="color: #667eea;">涩谷Human Made Part 1 & Part 2 位置、排队攻略、Curry Up</a></strong></p>
-
-<p><strong>👇 冬季限定！青之洞窟灯光秀</strong></p>
-<p><strong>➡️ <a href="/zh-cn/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;">2025 涩谷青之洞窟点灯时间、地点、拍照机位</a></strong></p>
-
-<p><strong>👇 宫下公园避雷指南</strong></p>
-<p><strong>➡️ <a href="/zh-cn/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;">涩谷宫下公园 & 涩谷横丁真实评价：值得去吗？</a></strong></p>
-
+➡️ **[涩谷宫下公园 & 涩谷横丁 真实测评](/zh-cn/posts/shibuya-miyashita-park-yokocho-2025/)**
 
 <div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224106448442" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+    本文基于作者的实际体验和 <a href="https://blog.naver.com/tokyomate/224106448442" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> 的原创内容。为向全球读者提供真实的东京旅行信息，已进行翻译和编辑。
   </p>
-</div>
-
 </div>

@@ -160,13 +160,13 @@ Enjoy smart shopping at Human Made, which has become even hotter with the renewa
 </div>
 
 👇 Start at Parco! Shibuya Winter Essential Course 'Blue Cave'
-<p style="text-align: center;"><strong>➡️ </strong> <a href="/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;"><strong>2025 Shibuya Blue Cave Illumination Period/Time/Location</strong></a></p>
+<p style="text-align: left;"><strong>➡️ </strong> <a href="/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;"><strong>2025 Shibuya Blue Cave Illumination Period/Time/Location</strong></a></p>
 
 👇 Go see Shibuya Sky Night View
-<p style="text-align: center;"><strong>➡️ </strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Attractions, Shibuya Sky Reservation, Shopping, Food Guide</strong></a></p>
+<p style="text-align: left;"><strong>➡️ </strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Attractions, Shibuya Sky Reservation, Shopping, Food Guide</strong></a></p>
 
 👇 5 minutes from Parco! Tokyo MZ's Holy Land, Miyashita Park
-<p style="text-align: center;"><strong>➡️ </strong> <a href="/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>Shibuya Miyashita Park & Shibuya Yokocho Review</strong></a></p>
+<p style="text-align: left;"><strong>➡️ </strong> <a href="/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>Shibuya Miyashita Park & Shibuya Yokocho Review</strong></a></p>
 
 
 <div class="editors-note">
