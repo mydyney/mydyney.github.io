@@ -416,7 +416,10 @@ Hello Kitty、玉桂狗、酷洛米粉丝注意！三丽鸥店铺于<b>2025年11
 
 <b>📍 免税适用店铺（宝可梦商店在店内单独办理免税退款）</b>
 
-[显示免税适用店铺列表的图片]
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-19.jpg" alt="东京站角色街免税适用店铺">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街免税适用店铺</figcaption>
+</figure>
 
 ​
 

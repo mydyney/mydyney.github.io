@@ -416,7 +416,10 @@ translationKey: "tokyo-station-character-street-guide"
 
 <b>📍 免税適用店舗（ポケモンストアは単独で店舗で免税還付）</b>
 
-[免税適用可能店舗リストを示す画像]
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-19.jpg" alt="東京駅キャラクターストリート免税適用可能店舗">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート免税適用可能店舗</figcaption>
+</figure>
 
 ​
 

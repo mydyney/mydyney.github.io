@@ -246,7 +246,7 @@ The 'LivePocket' advance reservation system ended in September 2023. Now you can
      Hugo: /posts/tokyo-station-pokemon-store-guide/ --><a href="#" style="color: #667eea;">Tokyo Station Pokemon Store Location, Stationmaster Pikachu & Pokemon Card Purchase Review</a></b>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="Tokyo Station Pokemon Store">
+  <img src="/images/posts/tokyo-station-character-street-guide-10.jpg" alt="Tokyo Station Pokemon Store">
   <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Station Pokemon Store</b></figcaption>
 </figure>
 
@@ -416,7 +416,10 @@ This is the most important information! Tax-free is not available at individual 
 
 <b>📍 Tax-Free Eligible Stores (Pokemon Store processes tax-free refunds independently at the store)</b>
 
-[Image showing tax-free eligible stores list]
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-19.jpg" alt="Tokyo Station Character Street tax-free eligible stores">
+  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Tax-Free Eligible Stores</figcaption>
+</figure>
 
 ​
 
