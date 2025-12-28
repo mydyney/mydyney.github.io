@@ -139,7 +139,7 @@ div.image-group-9,
   min-width: 100% !important;
   column-gap: 8px !important;
   row-gap: 0 !important;
-  margin: 2rem auto !important; /* Changed: Added 'auto' for horizontal centering */
+  margin: 0.5rem auto !important; /* Changed: 2rem -> 0.5rem for tighter spacing */
   padding: 0 !important;
   align-items: start !important;
   box-sizing: border-box !important;
@@ -153,6 +153,14 @@ div.image-group-9,
   flex-shrink: 0 !important;
   flex-grow: 0 !important;
   justify-self: center !important; /* Added: Ensures grid container itself is centered */
+}
+
+/* 첫 번째 image-group만 위 여백 크게 */
+.blog-container > .image-group-2:first-of-type,
+.blog-container > .image-group-3:first-of-type,
+.blog-container > .image-group-4:first-of-type,
+.blog-container > .image-group-9:first-of-type {
+  margin-top: 2rem !important;
 }
 
 /* 2개 나란히: 각 이미지 = 가로폭/2 */
