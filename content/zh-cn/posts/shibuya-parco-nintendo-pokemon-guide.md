@@ -68,27 +68,21 @@ featured_image: "/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"
 <p><b>注意！</b> Nintendo TOKYO <b>不支持免税 (Tax-Free)</b>。
 <br>因为主要面向日本国内市场，所以在这里购物无法享受10%的退税。做预算时请把这点考虑进去哦！</p>
 
-<!-- Image 06: No Tax Free Sign -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-06.jpg" alt="Nintendo Tokyo 不免税告示">
-  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo TOKYO 遗憾只能原价购买</figcaption>
-</figure>
+<div class="image-group-3">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-06.jpg" alt="Nintendo Tokyo 不免税告示">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-07.jpg" alt="手柄按键扭蛋机">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-08.jpg" alt="任天堂 手柄钥匙扣">
+  </figure>
+</div>
 
 <h3>✅ 手柄按键收藏系列（扭蛋）🕹️</h3>
 <p>在店里千万别错过这个<b>"Controller Button Collection"</b>扭蛋机。
 <br>它把红白机(FC)、NES、N64、GameCube等历代任天堂主机的按键做成了钥匙扣。最绝的是，按下去的手感完美还原了实物！</p>
-
-<!-- Image 07: Controller Gachapon -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-07.jpg" alt="手柄按键扭蛋机">
-  <figcaption style="font-size: 0.85em; text-align: center;">手柄按键扭蛋机 (必抽！)</figcaption>
-</figure>
-
-<!-- Image 08: Controller Keychains -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-08.jpg" alt="任天堂 手柄钥匙扣">
-  <figcaption style="font-size: 0.85em; text-align: center;">FC和GameCube的按键钥匙扣</figcaption>
-</figure>
 
 <hr class="se-hr">
 
@@ -96,20 +90,17 @@ featured_image: "/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"
 
 <p>与池袋或日本桥的热闹氛围不同，涩谷宝可梦中心主打酷炫的<b>"黑色 & 街头"</b>风格。</p>
 
-<!-- Image 09: Pokemon Center Entrance -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-09.jpg" alt="宝可梦中心涩谷 入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">充满街头潮流感的宝可梦中心涩谷</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-09.jpg" alt="宝可梦中心涩谷 入口">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-10.jpg" alt="涩谷Parco 等身大超梦">
+  </figure>
+</div>
 
 <h3>✅ 镇店之宝：等身大超梦</h3>
 <p>一进门就能看到在培养槽中沉睡的<b>等身大超梦</b>。它会动！会呼吸！逼真到让人起鸡皮疙瘩。这是涩谷店的标志，一定要拍视频打卡。</p>
-
-<!-- Image 10: Mewtwo Tank -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-10.jpg" alt="涩谷Parco 等身大超梦">
-  <figcaption style="font-size: 0.85em; text-align: center;">传说中的等身大超梦 (Animatronic)</figcaption>
-</figure>
 
 <h3>✅ 涩谷限定周边</h3>
 <ul>
@@ -118,17 +109,15 @@ featured_image: "/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"
   <li><b>Pokemon Design Lab:</b> 可以用大屏幕定制自己专属宝可梦T恤的服务。（注意：打印通常需要排队等待）。</li>
 </ul>
 
-<!-- Image 11: Graffiti Pikachu -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-11.jpg" alt="涩谷限定 涂鸦皮卡丘">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷限定“涂鸦皮卡丘”</figcaption>
-</figure>
-
-<!-- Image 12: Crystal Pikachu -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="施华洛世奇 皮卡丘">
-  <figcaption style="font-size: 0.85em; text-align: center;">施华洛世奇水晶皮卡丘</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-11.jpg" alt="涩谷限定 涂鸦皮卡丘">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="施华洛世奇 皮卡丘">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">任天堂东京 & 宝可梦中心涩谷</figcaption>
+</div>
 
 <h3>✅ 宝可梦卡牌(PTCG) 购买攻略</h3>
 <p>如果你是来扫货卡包的，请仔细阅读以下规则（2025年最新）：</p>

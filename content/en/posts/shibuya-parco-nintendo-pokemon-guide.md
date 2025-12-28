@@ -68,27 +68,21 @@ Here is a complete breakdown of what to buy, photo spots, and <b style="color: r
 <p><b>Important!</b> Nintendo TOKYO does <b>NOT</b> offer tax-free shopping.
 <br>Since they primarily target the domestic Japanese market, you cannot get the 10% tax refund here. Keep this in mind when budgeting!</p>
 
-<!-- Image 06: No Tax Free Sign -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-06.jpg" alt="Nintendo Tokyo No Tax Free Sign">
-  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo TOKYO Tax-Free is NOT available</figcaption>
-</figure>
+<div class="image-group-3">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-06.jpg" alt="Nintendo Tokyo No Tax Free Sign">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-07.jpg" alt="Nintendo Controller Button Gachapon">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-08.jpg" alt="Nintendo Controller Keychains">
+  </figure>
+</div>
 
 <h3>✅ Controller Button Collection (Gachapon) 🕹️</h3>
 <p>"Wait, isn't this...?" If you visit the store, you can't miss the <b>"Controller Button Collection"</b> gachapon.
 <br>They turned the actual buttons of historic Nintendo consoles (Famicom, NES, N64, GameCube) into keychains. The click feeling is reproduced perfectly!</p>
-
-<!-- Image 07: Controller Gachapon -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-07.jpg" alt="Nintendo Controller Button Gachapon">
-  <figcaption style="font-size: 0.85em; text-align: center;">Controller Button Collection Gachapon</figcaption>
-</figure>
-
-<!-- Image 08: Controller Keychains -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-08.jpg" alt="Nintendo Controller Keychains">
-  <figcaption style="font-size: 0.85em; text-align: center;">Famicom & GameCube Button Keychains</figcaption>
-</figure>
 
 <hr class="se-hr">
 
@@ -96,20 +90,17 @@ Here is a complete breakdown of what to buy, photo spots, and <b style="color: r
 
 <p>Unlike other cheerful locations (like Ikebukuro or Nihonbashi), Shibuya's Pokemon Center has a cool <b>"Black & Street"</b> concept.</p>
 
-<!-- Image 09: Pokemon Center Entrance -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-09.jpg" alt="Pokemon Center Shibuya Entrance">
-  <figcaption style="font-size: 0.85em; text-align: center;">Pokemon Center Shibuya with a Street Vibe</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-09.jpg" alt="Pokemon Center Shibuya Entrance">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-10.jpg" alt="Life-sized Mewtwo at Shibuya Parco">
+  </figure>
+</div>
 
 <h3>✅ Iconic Photo Spot: Mewtwo</h3>
 <p>At the entrance, you will find a <b>Life-sized Mewtwo</b> sleeping in a cultivation tank. It moves and breathes (!) realistically. This is the landmark of the Shibuya store, so a video/photo is mandatory.</p>
-
-<!-- Image 10: Mewtwo Tank -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-10.jpg" alt="Life-sized Mewtwo at Shibuya Parco">
-  <figcaption style="font-size: 0.85em; text-align: center;">The legendary Life-sized Mewtwo Animatronic</figcaption>
-</figure>
 
 <h3>✅ Shibuya Exclusive Goods</h3>
 <ul>
@@ -118,17 +109,15 @@ Here is a complete breakdown of what to buy, photo spots, and <b style="color: r
   <li><b>Pokemon Design Lab:</b> A service where you can customize your own Pokemon T-shirt using a large touchscreen. (Warning: There is usually a waiting time for printing).</li>
 </ul>
 
-<!-- Image 11: Graffiti Pikachu -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-11.jpg" alt="Shibuya Exclusive Graffiti Pikachu">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Exclusive "Graffiti Pikachu"</figcaption>
-</figure>
-
-<!-- Image 12: Crystal Pikachu -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="Swarovski Crystal Pikachu">
-  <figcaption style="font-size: 0.85em; text-align: center;">Swarovski Crystal Pikachu</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-11.jpg" alt="Shibuya Exclusive Graffiti Pikachu">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="Swarovski Crystal Pikachu">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo Tokyo & Pokemon Center Shibuya</figcaption>
+</div>
 
 <h3>✅ Pokemon Card (TCG) Buying Tips</h3>
 <p>If you are a collector looking for packs, here are the rules for the Shibuya store (as of 2025):</p>

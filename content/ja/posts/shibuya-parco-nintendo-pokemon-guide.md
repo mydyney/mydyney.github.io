@@ -69,19 +69,14 @@ featured_image: "/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"
 ストアを訪れたら絶対に見逃せないのが<b>「コントローラーボタンコレクション」</b>のガチャガチャです。
 <br>ファミコン、NES、N64、ゲームキューブなど、歴代任天堂ハードのコントローラーのボタンがそのままキーホルダーに。あの「クリック感」まで忠実に再現されています！</p>
 
-<!-- Image 07: Controller Gachapon -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-07.jpg" alt="コントローラーボタンコレクション ガチャ">
-  <figcaption style="font-size: 0.85em; text-align: center;">コントローラーボタンコレクション</figcaption>
-</figure>
-
-<!-- Image 08: Controller Keychains -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-08.jpg" alt="任天堂 コントローラー キーホルダー">
-  <figcaption style="font-size: 0.85em; text-align: center;">ファミコン＆ゲームキューブのボタンキーホルダー</figcaption>
-</figure>
-
-<!-- Skip Image 06 (Tax Free) for JP -->
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-07.jpg" alt="コントローラーボタンコレクション ガチャ">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-08.jpg" alt="任天堂 コントローラー キーホルダー">
+  </figure>
+</div>
 
 <hr class="se-hr">
 
@@ -89,20 +84,17 @@ featured_image: "/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"
 
 <p>池袋や日本橋の店舗とは一味違う、<b>「ブラック＆ストリート」</b>なコンセプトがクールな渋谷店。</p>
 
-<!-- Image 09: Pokemon Center Entrance -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-09.jpg" alt="ポケモンセンターシブヤ 入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">ストリートな雰囲気のポケモンセンターシブヤ</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-09.jpg" alt="ポケモンセンターシブヤ 入口">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-10.jpg" alt="渋谷パルコ 等身大ミュウツー">
+  </figure>
+</div>
 
 <h3>✅ 圧倒的フォトスポット：ミュウツー</h3>
 <p>エントランスでは、培養槽の中で眠る<b>等身大ミュウツー</b>が圧倒的な存在感を放っています。まるで生きているかのように動き、息をする演出は圧巻。渋谷店のランドマークですので、動画・写真は必須です。</p>
-
-<!-- Image 10: Mewtwo Tank -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-10.jpg" alt="渋谷パルコ 等身大ミュウツー">
-  <figcaption style="font-size: 0.85em; text-align: center;">伝説の等身大ミュウツー（アニマトロニクス）</figcaption>
-</figure>
 
 <h3>✅ 渋谷限定グッズ</h3>
 <ul>
@@ -111,17 +103,15 @@ featured_image: "/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"
   <li><b>ポケモンデザインラボ:</b> 大型タッチスクリーンを使って、自分だけのポケモンTシャツをカスタムできるサービス。（※プリント待ち時間が発生することが多いので注意）</li>
 </ul>
 
-<!-- Image 11: Graffiti Pikachu -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-11.jpg" alt="渋谷限定 グラフィティピカチュウ">
-  <figcaption style="font-size: 0.85em; text-align: center;">渋谷限定「グラフィティ・ピカチュウ」</figcaption>
-</figure>
-
-<!-- Image 12: Crystal Pikachu -->
-<figure>
-  <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="スワロフスキー ピカチュウ">
-  <figcaption style="font-size: 0.85em; text-align: center;">スワロフスキー・クリスタル・ピカチュウ</figcaption>
-</figure>
+<div class="image-group-2">
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-11.jpg" alt="渋谷限定 グラフィティピカチュウ">
+  </figure>
+  <figure>
+    <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="スワロフスキー ピカチュウ">
+  </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">任天堂東京 & ポケモンセンターシブヤ</figcaption>
+</div>
 
 <h3>✅ ポケモンカード (ポケカ) 購入の注意点</h3>
 <p>パック購入目的お越しの方は、以下のルールをご確認ください（2025年時点）：</p>
