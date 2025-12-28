@@ -277,10 +277,10 @@ translationKey: "tokyo-station-character-street-guide"
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="東京駅キャラクターストリート1階 ドラゴンボールストア 1">
+    <img src="/images/posts/tokyo-station-character-street-guide-10.jpg" alt="東京駅キャラクターストリート1階 ドラゴンボールストア 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-12.jpg" alt="東京駅キャラクターストリート1階 ドラゴンボールストア 2">
+    <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="東京駅キャラクターストリート1階 ドラゴンボールストア 2">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center;"><b>東京駅キャラクターストリート1階 ドラゴンボールストア</b></figcaption>
@@ -302,10 +302,10 @@ translationKey: "tokyo-station-character-street-guide"
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="東京駅キャラクターストリート1階 サンリオ東京 1">
+    <img src="/images/posts/tokyo-station-character-street-guide-12.jpg" alt="東京駅キャラクターストリート1階 サンリオ東京 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="東京駅キャラクターストリート1階 サンリオ東京 2">
+    <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="東京駅キャラクターストリート1階 サンリオ東京 2">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center;"><b>東京駅キャラクターストリート1階 サンリオ東京</b></figcaption>
@@ -360,17 +360,17 @@ translationKey: "tokyo-station-character-street-guide"
 仮面ライダーストア、ウルトラマン、プリキュア、スヌーピー、すみっコぐらし、mofusand、hololive（期間限定の可能性あり）、トミカ·プラレール、TV局（テレ朝/テレ東/フジ/NTV/TBS）系列、レゴなど
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="東京駅キャラクターストリート ジャンプショップ">
+  <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="東京駅キャラクターストリート ジャンプショップ">
   <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート ジャンプショップ</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="東京キャラクターストリート ガチャ">
+  <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="東京キャラクターストリート ガチャ">
   <figcaption style="font-size: 0.85em; text-align: center;">東京キャラクターストリート ガチャ</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="東京駅キャラクターストリート お土産 ミッフィー 東京駅駅長限定人形">
+  <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="東京駅キャラクターストリート お土産 ミッフィー 東京駅駅長限定人形">
   <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート お土産 ミッフィー 東京駅駅長限定人形</figcaption>
 </figure>
 
@@ -408,7 +408,7 @@ translationKey: "tokyo-station-character-street-guide"
 </ul>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-18.jpg" alt="東京駅キャラクターストリート免税カウンター位置（地図出典）">
+  <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="東京駅キャラクターストリート免税カウンター位置（地図出典）">
   <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート免税カウンター位置（<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">地図出典</a>）</figcaption>
 </figure>
 
@@ -417,7 +417,7 @@ translationKey: "tokyo-station-character-street-guide"
 <b>📍 免税適用店舗（ポケモンストアは単独で店舗で免税還付）</b>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-19.jpg" alt="東京駅キャラクターストリート免税適用可能店舗">
+  <img src="/images/posts/tokyo-station-character-street-guide-18.jpg" alt="東京駅キャラクターストリート免税適用可能店舗">
   <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート免税適用可能店舗</figcaption>
 </figure>
 

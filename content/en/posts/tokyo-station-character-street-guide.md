@@ -246,7 +246,7 @@ The 'LivePocket' advance reservation system ended in September 2023. Now you can
      Hugo: /posts/tokyo-station-pokemon-store-guide/ --><a href="#" style="color: #667eea;">Tokyo Station Pokemon Store Location, Stationmaster Pikachu & Pokemon Card Purchase Review</a></b>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-10.jpg" alt="Tokyo Station Pokemon Store">
+  <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="Tokyo Station Pokemon Store">
   <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Station Pokemon Store</b></figcaption>
 </figure>
 
@@ -277,10 +277,10 @@ The holy land that Dragon Ball fans worldwide have been waiting for! <b>On Novem
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="Tokyo Station Character Street 1st floor Dragon Ball Store 1">
+    <img src="/images/posts/tokyo-station-character-street-guide-10.jpg" alt="Tokyo Station Character Street 1st floor Dragon Ball Store 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-12.jpg" alt="Tokyo Station Character Street 1st floor Dragon Ball Store 2">
+    <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="Tokyo Station Character Street 1st floor Dragon Ball Store 2">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Station Character Street 1st Floor Dragon Ball Store</b></figcaption>
@@ -302,10 +302,10 @@ Attention Hello Kitty, Cinnamoroll, and Kuromi fans! The Sanrio store <b>expande
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="Tokyo Station Character Street 1st floor Sanrio Tokyo 1">
+    <img src="/images/posts/tokyo-station-character-street-guide-12.jpg" alt="Tokyo Station Character Street 1st floor Sanrio Tokyo 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="Tokyo Station Character Street 1st floor Sanrio Tokyo 2">
+    <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="Tokyo Station Character Street 1st floor Sanrio Tokyo 2">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Station Character Street 1st Floor Sanrio Tokyo</b></figcaption>
@@ -360,17 +360,17 @@ Besides Chiikawa and Pokemon, there are Ghibli, Crayon Shin-chan, Jump Shop, and
 Kamen Rider Store, Ultraman, PreCure, Snoopy, Sumikko Gurashi, mofusand, hololive (may be limited time), Tomica/Plarail, TV station (TV Asahi/TV Tokyo/Fuji/NTV/TBS) affiliated, LEGO, etc.
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="Tokyo Station Character Street Jump Shop">
+  <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="Tokyo Station Character Street Jump Shop">
   <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Jump Shop</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="Tokyo Character Street Gashapon">
+  <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="Tokyo Character Street Gashapon">
   <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Character Street Gashapon</figcaption>
 </figure>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="Tokyo Station Character Street souvenir Miffy Tokyo Station stationmaster limited doll">
+  <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="Tokyo Station Character Street souvenir Miffy Tokyo Station stationmaster limited doll">
   <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Souvenir Miffy Tokyo Station Stationmaster Limited Doll</figcaption>
 </figure>
 
@@ -408,7 +408,7 @@ This is the most important information! Tax-free is not available at individual 
 </ul>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-18.jpg" alt="Tokyo Station Character Street tax-free counter location (map source)">
+  <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="Tokyo Station Character Street tax-free counter location (map source)">
   <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Tax-Free Counter Location (<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">Map Source</a>)</figcaption>
 </figure>
 
@@ -417,7 +417,7 @@ This is the most important information! Tax-free is not available at individual 
 <b>📍 Tax-Free Eligible Stores (Pokemon Store processes tax-free refunds independently at the store)</b>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-19.jpg" alt="Tokyo Station Character Street tax-free eligible stores">
+  <img src="/images/posts/tokyo-station-character-street-guide-18.jpg" alt="Tokyo Station Character Street tax-free eligible stores">
   <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Tax-Free Eligible Stores</figcaption>
 </figure>
 
