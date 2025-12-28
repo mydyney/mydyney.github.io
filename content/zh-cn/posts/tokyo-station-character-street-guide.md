@@ -51,9 +51,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 ​
 
-👉 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224110207709
-     Hugo: /zh-cn/posts/tokyo-station-character-street-year-end-hours/ --><a href="#" style="color: #667eea;">2026 东京站角色街 年末年初营业时间信息查看</a></b>
+👉 <b><a href="/zh-cn/posts/tokyo-station-year-end-hours-2026/">2026 东京站角色街 年末年初营业时间信息查看</a></b>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-02.jpg" alt="东京站角色街 蜡笔小新">

@@ -51,9 +51,7 @@ Today, we'll share <b>directions from Yaesu Underground Central Exit that even t
 
 ​
 
-👉 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224110207709
-     Hugo: /posts/tokyo-station-character-street-year-end-hours/ --><a href="#" style="color: #667eea;">2026 Tokyo Station Character Street Year-End Business Hours Information</a></b>
+👉 <b><a href="/posts/tokyo-station-year-end-hours-2026/">2026 Tokyo Station Character Street Year-End Business Hours Information</a></b>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-02.jpg" alt="Tokyo Station Character Street Crayon Shin-chan">

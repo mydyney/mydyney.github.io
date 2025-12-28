@@ -51,9 +51,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 ​
 
-👉 <b><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224110207709
-     Hugo: /ja/posts/tokyo-station-character-street-year-end-hours/ --><a href="#" style="color: #667eea;">2026 東京駅キャラクターストリート 年末年始営業時間情報を見る</a></b>
+👉 <b><a href="/ja/posts/tokyo-station-year-end-hours-2026/">2026 東京駅キャラクターストリート 年末年始営業時間情報を見る</a></b>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-02.jpg" alt="東京駅キャラクターストリート クレヨンしんちゃん">
