@@ -1,17 +1,17 @@
 <div class="se-viewer se-theme-default" lang="ko-KR">
     <!-- SE_DOC_HEADER_START -->
-    <div class="se-component se-documentTitle se-l-default " id="SE-3b1bed57-5579-4152-b253-54033c8cb979">
+    <div class="se-component se-documentTitle se-l-default " id="SE-a41c345a-92f7-485a-86bb-13e3c2cf1305">
         <div class="se-component-content">
             <div class="se-section se-section-documentTitle se-l-default se-section-align-left">
                 <!-- --> 
 <div class="blog2_series">
-	<a href="/PostList.naver?blogId=tokyomate&amp;categoryNo=15&amp;from=postList" class="pcol2" onclick="sendClickNlog('pst.category','');">시부야/하라주쿠</a>
+	<a href="/PostList.naver?blogId=tokyomate&amp;categoryNo=24&amp;from=postList" class="pcol2" onclick="sendClickNlog('pst.category','');">롯폰기/히로오</a>
 </div>
 <div class="pcol1"> 
 <!--
  -->
                 <div class="se-module se-module-text se-title-text">
-                    <p class="se-text-paragraph se-text-paragraph-align-" style="" id="SE-103a1fd9-c0dd-48ff-9e29-beeec7d7492b"><span style="" class="se-fs- se-ff-" id="SE-05066c44-f45a-4ee1-9125-cd9979453057"><!-- -->시부야 파르코 6층 완전정복｜닌텐도·포켓몬센터·점프샵 굿즈, 정리권, 면세 꿀팁 총정리<!-- --></span></p>                </div>
+                    <p class="se-text-paragraph se-text-paragraph-align-" style="" id="SE-2e494d07-66d6-4bc1-a924-260a2c9bb2df"><span style="" class="se-fs- se-ff-" id="SE-4ddeb741-638a-4f01-954b-fff66cc37373"><!-- -->도쿄 롯폰기힐즈 시나노야 연예인 슈퍼마켓 일본여행선물 쇼핑<!-- --></span></p>                </div>
                 <!-- -->
 </div>
 <div class="blog2_container">
@@ -20,24 +20,24 @@
         <span class="nick"><a href="https://blog.naver.com/tokyomate" class="link pcol2" onclick="sendClickNlog('pst.username', '');" target="_top">도쿄메이트</a></span>
     </span>
     <i class="dot"> ・ </i>
-	<span class="se_publishDate pcol2">2025. 12. 11. 21:03</span>
+	<span class="se_publishDate pcol2">2024. 11. 18. 11:51</span>
 
 </div>
 <div class="blog2_post_function">
-	<a href="#" id="copyBtn_224106448442" class="url pcol2 _setClipboard _returnFalse _se3copybtn _transPosition" title="https://blog.naver.com/tokyomate/224106448442" style="cursor:pointer;">URL 복사</a>
+	<a href="#" id="copyBtn_223664743235" class="url pcol2 _setClipboard _returnFalse _se3copybtn _transPosition" title="https://blog.naver.com/tokyomate/223664743235" style="cursor:pointer;">URL 복사</a>
 
             <a href="#" class="btn_buddy btn_addbuddy pcol2 _buddy_popup_btn _returnFalse _rosRestrictAll" onclick="sendClickNlog('pst.addnei', '');"><i class="ico"></i> 이웃추가<i class="aline"></i></a>
 	<div class="overflow_menu">
-        <a href="#" class="btn_overflow_menu _open_overflowmenu pcol2 _param(224106448442) _returnFalse" role="button" area-haspopup="true" area-expanded="false"><span class="blind">본문 기타 기능</span></a>
-		<div id="overflowmenu-224106448442" class="lyr_overflow_menu _overflowmenu_layer" area-hidden="true">
-               <a href="#" onclick="window.nsc='blog.post';return false;" id="_title_spiButton" class="naver-splugin btn_splugin share _title_share" data-style="unity" data-url="https://blog.naver.com/tokyomate/224106448442" data-oninitialize="splugin_oninitialize(1);" data-me-display="off" data-likeserviceid="BLOG" data-likecontentsid="tokyomate_224106448442" data-spic-cid="224106448442" data-logdomain="https://proxy.blog.naver.com/spi/v1/api/shareLog" data-canonical-url="https://blog.naver.com/tokyomate/224106448442" data-option="{baseElement:'_title_spiButton', layerPosition:'outside-bottom', align:'right', marginLeft:0, marginTop:4}" splugin-id="5555180318" data-spi-click-code="SPO.release">
+        <a href="#" class="btn_overflow_menu _open_overflowmenu pcol2 _param(223664743235) _returnFalse" role="button" area-haspopup="true" area-expanded="false"><span class="blind">본문 기타 기능</span></a>
+		<div id="overflowmenu-223664743235" class="lyr_overflow_menu _overflowmenu_layer" area-hidden="true">
+               <a href="#" onclick="window.nsc='blog.post';return false;" id="_title_spiButton" class="naver-splugin btn_splugin share _title_share" data-style="unity" data-url="https://blog.naver.com/tokyomate/223664743235" data-oninitialize="splugin_oninitialize(1);" data-me-display="off" data-likeserviceid="BLOG" data-likecontentsid="tokyomate_223664743235" data-spic-cid="223664743235" data-logdomain="https://proxy.blog.naver.com/spi/v1/api/shareLog" data-canonical-url="https://blog.naver.com/tokyomate/223664743235" data-option="{baseElement:'_title_spiButton', layerPosition:'outside-bottom', align:'right', marginLeft:0, marginTop:4}" splugin-id="3257316654" data-spi-click-code="SPO.release">
                    공유하기
                 <span class="ico_share _title_share_icon"></span>
                </a>
-                <a href="#" class="_report _param(https://srp2.naver.com/report?svc=BLG&amp;exit=close&amp;ctype=AA01&amp;cwriterenc=DHIFrcc1BBoC7oKj7NGxECP2KKFDPkmQPJscieXIh7k%3D&amp;ctitle=%EC%8B%9C%EB%B6%80%EC%95%BC%20%ED%8C%8C%EB%A5%B4%EC%BD%94%206%EC%B8%B5%20%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5%EF%BD%9C%EB%8B%8C%ED%85%90%EB%8F%84%C2%B7%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%84%BC%ED%84%B0%C2%B7%EC%A0%90%ED%94%84%EC%83%B5%20%EA%B5%BF%EC%A6%88%2C%20%EC%A0%95%EB%A6%AC%EA%B6%8C%2C%20%EB%A9%B4%EC%84%B8%20%EA%BF%80%ED%8C%81%20%EC%B4%9D%EC%A0%95%EB%A6%AC&amp;cwriter=gogo****&amp;dark=disable&amp;memtype=Y&amp;env=pc&amp;cnickname=gogo****&amp;vsvc=BLG&amp;cid=tokyomate%40%40165326515%40%40mylog%40%40224106448442) _returnFalse">신고하기<span class="ico_report"></span></a>
+                <a href="#" class="_report _param(https://srp2.naver.com/report?svc=BLG&amp;exit=close&amp;ctype=AA01&amp;cwriterenc=jXMbj9JO3Z1M2%2BqxNI9grL6DMXPRLoJOCNZIWumMq5g%3D&amp;ctitle=%EB%8F%84%EC%BF%84%20%EB%A1%AF%ED%8F%B0%EA%B8%B0%ED%9E%90%EC%A6%88%20%EC%8B%9C%EB%82%98%EB%85%B8%EC%95%BC%20%EC%97%B0%EC%98%88%EC%9D%B8%20%EC%8A%88%ED%8D%BC%EB%A7%88%EC%BC%93%20%EC%9D%BC%EB%B3%B8%EC%97%AC%ED%96%89%EC%84%A0%EB%AC%BC%20%EC%87%BC%ED%95%91&amp;cwriter=gogo****&amp;dark=disable&amp;memtype=Y&amp;env=pc&amp;cnickname=gogo****&amp;vsvc=BLG&amp;cid=tokyomate%40%40165326515%40%40mylog%40%40223664743235) _returnFalse">신고하기<span class="ico_report"></span></a>
 		</div>
 	</div>
-    <input type="text" value="https://blog.naver.com/tokyomate/224106448442" alt="url" class="copyTargetUrl" style="display:none;" title="URL 복사">
+    <input type="text" value="https://blog.naver.com/tokyomate/223664743235" alt="url" class="copyTargetUrl" style="display:none;" title="URL 복사">
 </div>
 <!--
  -->
@@ -45,733 +45,847 @@
         </div>
     </div>
     <!-- B2C 상품 -->
-<div class="location_component">
-    <div class="location">
-    </div>
-</div>
 <!-- _BLOG_CONTENTS_HEADER_TAIL -->
     <!-- SE_DOC_HEADER_END -->
     <div class="se-main-container">
-                <div class="se-component se-text se-l-default" id="SE-8784c255-827a-46c3-9b43-b7daf9cae53d">
+                <div class="se-component se-text se-l-default" id="SE-0fc186ed-78d2-4c44-b8c8-44c60ded9b50">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-870e2e38-c2fa-49af-8f51-db2a129fa4a4"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-a92c77fb-655f-43e2-b637-f53541e6c27c"><b>시부야 파르코 6층</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-c75a9893-29b5-463f-bc74-dc030d98578f"> 완전정복! </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-ba85fa1c-3508-4ee8-b623-522f1640613a"><b>시부야 닌텐도 샵</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-14ebd390-2f3c-450e-8629-784d2920abd2"> 주말 정리권 받는 법부터 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-9925ce41-955b-4dfd-9219-e8a3330fb3f4"><b>포켓몬센터 시부야</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-b08f8239-3950-423b-94da-3c37289c4818"> 한정 굿즈, </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-1c17c720-edce-493a-a48e-2abcd1e317bb"><b>점프샵</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-633aa538-6130-4242-87cb-4b165add14a2"> 면세 정보, </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-297ecad5-78eb-4989-8aab-0124a50ef88b"><b>포켓몬 카드</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-725029d8-6443-4638-8344-b79d447720b3"> 구매 팁까지. 캐릭터 덕후가 꼭 알아야 할 시부야 쇼핑의 모든 최신 정보를 정리해 드립니다.</span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-81f1d591-69b2-44be-899e-974d496a7f7d"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-79fed97e-8ffc-4630-b2ca-d5584ca6e0b7">안녕하세요!</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-76adacd5-1410-41f6-92ed-9376eadb6c6d"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-abd11e87-eddb-45ed-9f97-cd3569c4938a">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-4f571d5a-a046-4dd9-a408-5f82037240b4"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-a52dead1-1f1c-4121-8be4-54082f352c3c">📌 이 글은 '롯폰기 놀거리 총정리' 시리즈의 일부입니다. 전체 코스가 궁금하다면 아래 글을 먼저 확인해보세요!</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-b5a93670-7e34-455d-86fa-8dee5da1136d"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-3cce919b-555e-4efa-ae66-2556974d9ba3"><a href="https://blog.naver.com/tokyomate/223988228389" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-3cce919b-555e-4efa-ae66-2556974d9ba3&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/223988228389&quot;}" target="_blank"><b>→ [자세히 보기] 롯폰기 놀거리 총정리 (전망대, 미술관, 쇼핑, 맛집 A to Z)</b></a></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-63ff0fe2-d39b-4067-910f-137f1558c5a8"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-bf5a043f-77e4-4e78-ae3d-7784c05cfcef">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-b1b4b49c-9649-440d-aa6e-887fcc301304"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-c6c8e2c5-32fa-4a6f-b90b-f8597f86dab6">도쿄 여행 선물, 특별하고 의미 있는 기념품을 찾고 있다면 롯폰기힐즈 슈퍼마켓 시나노야(SHINANOYA)를 추천합니다. </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-f98b400b-18d7-46ec-9d1d-8c3dd181653c"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-931f436e-bd04-45e4-b7aa-a3fe23d6960b">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-60389d14-002a-4f1b-8215-8bd5d531c846"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-18dadcb0-9797-49f1-8903-7dc664cf9271">롯폰기힐즈 크리스마스 일루미네이션이 한창인 케야키자카 끝에 위치하고 있어서 별도의 시간을 내지 않고 여행 중간에 둘러볼 수 있습니다.</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-8784c255-827a-46c3-9b43-b7daf9cae53d&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-d60043dc-e8d2-4a0b-be19-026c70fe518d">
-                    <div class="se-component-content se-component-content-fit">
-                        <div class="se-section se-section-image se-l-default se-section-align-">
-                                <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-d60043dc-e8d2-4a0b-be19-026c70fe518d&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTA1/MDAxNzY1NDU0NDQ4ODI5.fARAe93pYOXHb4CWzFw4CA8k3nf0yi_Mq8kGRzpxW3Ag.0JuMRWc9eWwbMJZV1qvIHYVg1iDPQ2fImIAXKMvgv8wg.JPEG/SE-d60043dc-e8d2-4a0b-be19-026c70fe518d.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;900&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1020129&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTA1/MDAxNzY1NDU0NDQ4ODI5.fARAe93pYOXHb4CWzFw4CA8k3nf0yi_Mq8kGRzpxW3Ag.0JuMRWc9eWwbMJZV1qvIHYVg1iDPQ2fImIAXKMvgv8wg.JPEG/SE-d60043dc-e8d2-4a0b-be19-026c70fe518d.jpg?type=w773" data-lazy-src="" data-width="693" data-height="693" alt="" class="se-image-resource egjs-visible" id="SE-d60043dc-e8d2-4a0b-be19-026c70fe518d_0">
-                                    </a>
-                                </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-89f16fd7-5dd3-404b-89fc-f177ff4c0e56"><span style="" class="se-fs- se-ff-   " id="SE-fd8c7de2-43fc-490f-80eb-4a97a021b70b">시부야 파르코 6층 완전정복 닌텐도·포켓몬센터·점프샵 총정리 </span></p></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-d60043dc-e8d2-4a0b-be19-026c70fe518d&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1020129&quot; }}"></script>
-                </div>
-                <div class="se-component se-text se-l-default" id="SE-e189b3c5-f600-4eb0-930c-dff589eb2208">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-13efab2b-1979-41da-a376-1cb0859e3539"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-8097774d-fc9e-43ce-ba87-8268527fb2da">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-186fe38d-c3f9-4e98-b97b-b4c3825591ae"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-1a6e6b16-a6e5-4117-ae5f-5093fd66cbe2">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-c9c9ae34-ad8a-4d0d-b864-26ab3da5ae9b"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-40b147a4-92c7-4a80-9074-15d6ea1d1dce">안녕하세요! 도쿄 여행의 즐거움을 기록하는 도쿄메이트입니다.✈️</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-abb239c4-c128-454b-9d49-52397a818efa"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e17c36de-4f47-452f-a742-eb27b07d065d">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-9bd78102-3744-4957-9b8b-2ffcc75af42d"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e8fe11d8-bd74-4010-a183-90c1ba69ff5e">시부야 쇼핑의 중심, </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-8990b572-5b2f-400e-9652-7bfc2b659453"><b>파르코(PARCO) 백화점</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-039c61f6-0223-43db-b2d8-3b73d35f4504">! 그중에서도 6층은 전 세계 게임, 애니메이션 팬들의 심장을 뛰게 만드는 '</span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-7de0aa81-e0cf-48be-b946-cede9919be42"><b>사이버스페이스 시부야(CYBERSPACE SHIBUYA)</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e52f296e-6186-4505-b507-a907aa965284">'입니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-992fe069-d0c2-4328-9e64-58bc70cffa2b"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-48f4979f-6cda-44da-b502-d5abaf2618b9">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-74d4367f-cdca-48ef-84c1-57c93fca01c5"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-de2dbb9e-ec7c-4fe4-aef9-04043ccc803d">오늘은 파르코 6층의 3대장! </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-d1607d10-353a-469f-98bf-c7297f62b363"><b>닌텐도 도쿄, 포켓몬센터 시부야, 점프샵</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a082fa1c-532b-41e1-ad40-f40b9184973a">을 한 번에 둘러보는 효율적인 동선과 쇼핑 필수 꿀팁을 전해드립니다.</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-e189b3c5-f600-4eb0-930c-dff589eb2208&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-horizontalLine se-l-line1" id="SE-b007bf78-4507-47b8-93d2-d2f9309c737e">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
-                        </div>
-                    </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-37096543-4efb-4726-a782-26018e429f79">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center " style="line-height:1.9;" id="SE-ad49a509-945a-41d4-bdd8-bac43c93fb27"><span style="color:#333333;" class="se-fs- se-ff-nanumbarungothic   " id="SE-2b0af287-e8f7-4c28-885a-30c13dcebc59"><b>운영정보 (2025.12 기준)</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-37096543-4efb-4726-a782-26018e429f79&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-daf53972-c113-44a2-a93a-2ff179f3d74e">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-b01b84fd-ce9d-4ac2-a66b-cfa30ab2e8ff"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-535f9d83-5059-4bda-a5a8-07e4a75addc5"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-9293df3a-dc99-40d2-bd48-6c6829491a8d"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-b3a52805-11f6-4351-83c0-2064dd8b49d0"><b>📍 위치: SHIBUYA PARCO 6F (CYBERSPACE)</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-cdb5058b-9644-4cb7-a4c1-754520193a24"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-476472e8-0c92-49cc-98b4-e73d4fd96da8"><b>🚶 가는 법: </b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-ec87237e-87e5-4ed4-89d1-a4ac5ce7eb7a">JR 시부야역 하치코 출구 → 스크램블 교차로 건너편 → 모디(MODI) 방향 언덕길 (도보 5~7분)</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-daf53972-c113-44a2-a93a-2ff179f3d74e&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-placesMap se-l-map_text __se-component" id="SE-1641168c-601f-4594-ac18-373b2f9fde2b">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-placesMap  se-section-align- se-l-map_text">
-                                <div class="se-module se-module-map-text ">
-                                        <a href="#" target="_blank" class="se-map-info __se_link" onclick="return false;" data-linktype="map" data-linkdata="{&quot;eventTarget&quot; : &quot;placeDesc&quot;, &quot;placeId&quot; : &quot;ChIJcyH-4qiMGGARGzk4lZCx2xo&quot;, &quot;searchEngine&quot; : &quot;google&quot;, &quot;searchType&quot; : &quot;&quot;, &quot;name&quot; : &quot;시부야 파르코&quot;, &quot;address&quot; : &quot;일본 〒150-8377 Tokyo, Shibuya, Udagawacho, 15−1 渋谷パルコ・ヒューリックビル B1-10階&quot;, &quot;latitude&quot; : &quot;35.6620484&quot;, &quot;longitude&quot; : &quot;139.6987767&quot;, &quot;tel&quot; : null, &quot;bookingUrl&quot; : null }">
-                                            <div class="se-map-marker"></div>
-                                        <strong class="se-map-title">시부야 파르코</strong>
-                                        <p class="se-map-address">일본 〒150-8377 Tokyo, Shibuya, Udagawacho, 15−1 渋谷パルコ・ヒューリックビル B1-10階</p>
-                                    </a>
-                                </div>
-                        
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_map&quot;, &quot;id&quot; :&quot;SE-1641168c-601f-4594-ac18-373b2f9fde2b&quot;, &quot;data&quot; : { &quot;layout&quot;: &quot;map_text&quot;, &quot;searchEngine&quot; : &quot;google&quot;, &quot;places&quot; : [{&quot;placeId&quot;:&quot;ChIJcyH-4qiMGGARGzk4lZCx2xo&quot;,&quot;name&quot;:&quot;시부야 파르코&quot;,&quot;address&quot;:&quot;일본 〒150-8377 Tokyo, Shibuya, Udagawacho, 15−1 渋谷パルコ・ヒューリックビル B1-10階&quot;,&quot;latlng&quot;:{&quot;@ctype&quot;:&quot;position&quot;,&quot;latitude&quot;:35.6620484,&quot;longitude&quot;:139.6987767},&quot;searchType&quot;:null,&quot;tel&quot;:null,&quot;bookingUrl&quot;:null}] }}" data-module-v2="{&quot;type&quot;:&quot;v2_map&quot;, &quot;id&quot; :&quot;SE-1641168c-601f-4594-ac18-373b2f9fde2b&quot;, &quot;data&quot; : { &quot;layout&quot;: &quot;map_text&quot;, &quot;searchEngine&quot; : &quot;google&quot;, &quot;places&quot; : [{&quot;placeId&quot;:&quot;ChIJcyH-4qiMGGARGzk4lZCx2xo&quot;,&quot;name&quot;:&quot;시부야 파르코&quot;,&quot;address&quot;:&quot;일본 〒150-8377 Tokyo, Shibuya, Udagawacho, 15−1 渋谷パルコ・ヒューリックビル B1-10階&quot;,&quot;latlng&quot;:{&quot;@ctype&quot;:&quot;position&quot;,&quot;latitude&quot;:35.6620484,&quot;longitude&quot;:139.6987767},&quot;searchType&quot;:null,&quot;tel&quot;:null,&quot;bookingUrl&quot;:null}] }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-64ac5886-05ff-427d-880f-6c70dad5a00e">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-98d1da54-5e44-4741-9caa-903e607e60a1"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-7acebc8d-786d-43c6-8275-57c8dad3d4a6"><b>⏰ 영업시간: </b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-62d746c6-689e-4d42-8193-e831ce71f853"><b>10:00 – 21:00</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-3bd1b93e-230c-47d7-81ea-fe4e41231de8"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-fc29e830-8de4-4956-9fa0-e0dc105c20bb"><i><b>📌 중요:</b></i></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-10c5c008-0bc1-4498-81e8-67a24863e7e5"><i> 파르코 일반 매장은 11시 오픈이지만, </i></span><span style="color:#333333;background-color:#fff8b2;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-d2c7d483-c68d-4287-af41-e0427fc5b307"><i><b>6층 캐릭터 존은 10시부터 영업</b></i></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-78b5f8ae-0d04-40df-ac07-06fd8df42d76"><i>합니다.</i></span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-64ac5886-05ff-427d-880f-6c70dad5a00e&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-c290fff6-07fd-4575-b227-9bd55ef4bd50">
-                    <div class="se-component-content se-component-content-fit">
-                        <div class="se-section se-section-image se-l-default se-section-align-">
-                                <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-c290fff6-07fd-4575-b227-9bd55ef4bd50&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTQ3/MDAxNzY1NDU0NDUwNzMw.BxYOPKejxIJ9IvLg1Ichx97yok_pimoGHYG9l0XYMoYg.5CBGJJDW726GVTu6-qx7aaViHlntgOm41FrrlqAP7PEg.JPEG/SE-c290fff6-07fd-4575-b227-9bd55ef4bd50.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;922&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;995841&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTQ3/MDAxNzY1NDU0NDUwNzMw.BxYOPKejxIJ9IvLg1Ichx97yok_pimoGHYG9l0XYMoYg.5CBGJJDW726GVTu6-qx7aaViHlntgOm41FrrlqAP7PEg.JPEG/SE-c290fff6-07fd-4575-b227-9bd55ef4bd50.jpg?type=w773" data-lazy-src="" data-width="693" data-height="709" alt="" class="se-image-resource egjs-visible" id="SE-c290fff6-07fd-4575-b227-9bd55ef4bd50_0">
-                                    </a>
-                                </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-99958d29-882c-425b-a3fe-2edecd281cf0"><span style="" class="se-fs- se-ff-   " id="SE-6e408504-7613-4116-a7b9-a0a4782b40a8">시부야 파르코 오픈 전 6층으로 올라가는 에스컬레이터</span></p></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-c290fff6-07fd-4575-b227-9bd55ef4bd50&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;995841&quot; }}"></script>
-                </div>
-                <div class="se-component se-horizontalLine se-l-line1" id="SE-2732d74a-80e5-4f26-b4de-25917aaf1a3a">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
-                        </div>
-                    </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-d52146a0-4d1d-480a-badb-2cf7630ebfe7">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center " style="line-height:1.9;" id="SE-d44748cc-148c-44d6-b162-6138f282fe6b"><span style="color:#333333;" class="se-fs- se-ff-nanumbarungothic   " id="SE-a09298da-ca37-45da-8dae-81c1779fe3fd"><b>시부야 파르코 6층 한눈에 보기 (매장 구성·동선)</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-d52146a0-4d1d-480a-badb-2cf7630ebfe7&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-f406cb38-7331-45b6-a1ce-1e8fc5f9c9a3">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a95490c6-4cbb-4f67-a8ce-d97fa4edbe98"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-aa083d9d-68de-4107-8324-d8ff59e64822">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-2da158df-a96f-41f1-8b0b-174c1ec6e4fd"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e3bdce97-c10d-4ed1-9396-0c4f230c67a9">시부야 파르코 6층은 ‘ㅁ자 구조’로 되어 있어 한 바퀴 돌기 좋습니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-0f6209ed-3f6a-4772-83ce-793bb2f1b3c4"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-886caaa5-a02e-4324-9e90-6145e79be669">​</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-f406cb38-7331-45b6-a1ce-1e8fc5f9c9a3&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-47475708-c33d-4084-b24c-a87790d086ec">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-8266dde0-27ef-48be-bc48-31bff4db93f0"><span style="color:#333333;" class="se-fs-fs24 se-ff-nanumbarungothic   " id="SE-ac3f3bdd-854b-4955-9e6a-5cfc8dc028e0"><b>🟧 6층 주요 매장 라인업</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-47475708-c33d-4084-b24c-a87790d086ec&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-55eed44f-57fa-4f25-94a5-05ea69e49226">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-82019f23-3a6a-489e-93a4-1b2817b3ffc6"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-cd0e9e1e-efc2-4108-bb2e-11769b93b8c8">🎮</span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e4e994d5-972b-4674-b879-3d4ef1fb6d6c"><b> Nintendo TOKYO (닌텐도 도쿄):</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-7b293a24-0412-4a56-8524-518dad1cd659"> 마리오, 젤다, 피크민의 성지</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-65a7980a-99e4-43db-9362-eead9fef83b2"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-00e3f5af-b67d-49d7-ac06-bf85fbab2fea">⚡</span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-0cb8c040-d249-48b6-bfa6-f5cf6d267497"><b> Pokémon Center SHIBUYA (포켓몬센터)</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-02f04c1e-40d8-4c6c-8361-1b54a7fb40da">: 뮤츠와 그래피티 아트</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-2e708d63-a63c-4670-955b-b17a145c3492"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-d8a134a2-f97c-42fc-8d0d-70cca5f2a8f0">📚 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e236ae31-1b36-441f-a55e-2ccf626d1dd8"><b>JUMP SHOP (점프샵)</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-4fcebd70-6915-4fc5-8a7b-b05d4b5b5645">: 원피스, 주술회전, 슬램덩크</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-2ea49154-6320-4506-9bd5-9ff6a3039121"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-6dae9728-f015-44ef-ac2f-957851d40140">🕹 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-1650835c-6a00-495f-a510-2f87b5b2eb9f"><b>CAPCOM STORE (캡콤):</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-ec969608-9029-4d0e-813e-55fdb4e7444a"> 몬스터헌터, 바이오하자드</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-39d46aca-af78-491a-b542-5778f340635b"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-11d5b603-3ade-408c-b618-e191686e0720">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-482cd26b-26c4-4b9c-81d3-acede2f0d004"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-1389f8f9-5166-4011-b72d-c997ab2cfba7">​</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-55eed44f-57fa-4f25-94a5-05ea69e49226&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-fa62a6ab-f5f7-4de4-9ff6-3a6919c3a88d">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-3a462a00-07d5-4f80-b6a1-f31201dbae83"><span style="color:#333333;" class="se-fs-fs24 se-ff-nanumbarungothic   " id="SE-6bf1bc19-9425-4ca7-ae5f-565573cc8c8f"><b>🟧 추천 동선 (웨이팅 최소화)</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-fa62a6ab-f5f7-4de4-9ff6-3a6919c3a88d&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-6781a68e-8900-4485-9cd2-1e7b8032ff9c">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><ol class="se-text-list se-text-list-type-decimal"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-3a0ad4d2-9ee7-40c0-b3ce-a444b63fba7f"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-9dcaa4c2-a6d5-479f-9c8a-4384699e568a">닌텐도(오픈런/정리권)</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-e4af9167-913f-4565-bc87-ac6e42b56633"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-84a3ff90-41cf-4a01-91f9-da6cc28756ec">포켓몬센터 시부야 (정리권)</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-90b9489c-4e15-4a4f-ab2d-b0b4e96059b8"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-887e5ff2-e7cf-4c42-8f0b-b21b62a4261b">점프샵</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-8be9bf12-b885-44a7-8faa-95ca75398782"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e422dc5c-615c-4aa3-a023-b40d288cc798">캡콤 스토어</span></p></li></ol><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-6781a68e-8900-4485-9cd2-1e7b8032ff9c&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-b5367416-293e-4676-a44b-5c4d06e4ddfa">
-                    <div class="se-component-content se-component-content-fit">
-                        <div class="se-section se-section-image se-l-default se-section-align-">
-                                <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-b5367416-293e-4676-a44b-5c4d06e4ddfa&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTU1/MDAxNzY1NDU0MDI1OTMw.4XIMcm-HIiJ-agK5vTi1jtt35mjiAZORW-pX5nMReiMg.FPxpbqzPj0VvWO-l7_ddgEaIPA_qPsk9JYNTO4XfgcIg.PNG/SE-b5367416-293e-4676-a44b-5c4d06e4ddfa.png&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;674&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;395691&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTU1/MDAxNzY1NDU0MDI1OTMw.4XIMcm-HIiJ-agK5vTi1jtt35mjiAZORW-pX5nMReiMg.FPxpbqzPj0VvWO-l7_ddgEaIPA_qPsk9JYNTO4XfgcIg.PNG/SE-b5367416-293e-4676-a44b-5c4d06e4ddfa.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-b5367416-293e-4676-a44b-5c4d06e4ddfa_0">
-                                    </a>
-                                </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-2203ce74-4c7e-4b92-a610-ab75ed603b41"><span style="" class="se-fs- se-ff-   " id="SE-69f03468-dc77-498b-ad4d-5502dbd3b472">시부야 파르코 6층 안내도 (</span><span style="" class="se-fs- se-ff-   " id="SE-0d3c16e5-b677-42db-9abf-4fa74c9334c6"><a href="https://ko.shibuya.parco.jp/floor/detail/?f=6f" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-0d3c16e5-b677-42db-9abf-4fa74c9334c6&quot;, &quot;link&quot;: &quot;https://ko.shibuya.parco.jp/floor/detail/?f=6f&quot;}" target="_blank">이미지출처</a></span><span style="" class="se-fs- se-ff-   " id="SE-fb366edc-ffaa-44f4-9154-ea643a9e5cd9">)</span></p></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-b5367416-293e-4676-a44b-5c4d06e4ddfa&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;395691&quot; }}"></script>
-                </div>
-                <div class="se-component se-horizontalLine se-l-line1" id="SE-bba06088-3f19-436e-a973-5593b3faf22d">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
-                        </div>
-                    </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-2fad2142-d520-4cc1-b1f8-91f8b919dd03">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center " style="line-height:1.9;" id="SE-c267fbe6-3474-49af-a492-f2f62aa76bc8"><span style="color:#333333;" class="se-fs- se-ff-nanumbarungothic   " id="SE-7d69a9b5-1722-4c2f-b764-7399a193116a"><b>1. Nintendo TOKYO - 정리권·웨이팅·굿즈</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-2fad2142-d520-4cc1-b1f8-91f8b919dd03&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-450fb8ec-774e-4673-a724-d868b1ae5be5">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-7e7540e5-b98c-453f-bb20-223aa2458624"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a9f9d603-12ca-4242-bb6b-81f915512f43">​</span></p><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-1ea14756-1ab7-4712-870b-159b0a092b51"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-8fad128e-cc59-45b5-96b7-1d90bd96822c">시부야 파르코 6층에서 가장 인파가 몰리는 곳입니다. 평일에는 비교적 자유롭게 입장이 가능하지만, </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-652ac6a8-d5a7-4baa-b71d-851baaa16fca"><b>주말이나 공휴일</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-14750121-7908-4494-a16d-25d41d9652e1">에는 사람이 정말 많아서 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-bf1dad83-e155-40ee-a48b-7691d7f4c702"><b>'정리권(번호표)'</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-3c0f927f-5575-4e8c-9057-754391bebb9b">이 없으면 입장조차 못 할 수 있습니다.</span></p><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-8a103b06-fc59-4e9a-963a-500a09566c6f"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e749d0d8-8f92-46ab-9001-a5cad730ef7c">​</span></p><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-5e1c15ea-8f23-45af-b48d-5bcd3fc1c37c"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-eb2b55d5-f5bb-479b-b173-7824d8551fdd"><b>✅ 시부야 닌텐도 정리권(번호표) 받는 법</b></span></p><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-1df97c55-c340-4471-8725-425208c1d2f8"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-02e4c4ec-67c2-4ec0-9ead-8d75008291ed"><b>배부 날짜: </b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-257d42b4-670c-43b0-8f16-63e0b44369fa">토·일·공휴일 등 혼잡이 예상되는 날</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a0b76c1e-6761-4bca-ae07-d86d390684cf"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-131bf19b-836e-4911-93d8-a820a330a95f"><b>배부 시간</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-0b043862-ab3c-4a5d-a17a-52171c54f04a">: 보통 오픈 전 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e7a31be6-2ec1-4d6a-9724-4ed2daeec198"><b>오전 9:30~10:00</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-6e2b4b15-4619-4d31-9799-5fd0170fd07b"> 사이 배포 시작</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-e9f7cba7-6865-407a-a65b-5ea2deaaa537"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-abd8282a-a566-4fea-b2f0-b49cc88d7089"><b>배부 장소</b></span></p></li></ul><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-40abe0b6-cf36-4fa2-8a62-f82cadc9edcf"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-b69dcbe2-dea6-4843-8f02-98cd31a86c21"><b> - 오픈 전</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-24e11961-79a4-45ef-8eb5-8f011a71c8c4">: 파르코 1층 '</span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a17c08d4-a2f0-4aea-b101-5640feaca3fe"><b>스페인자카(Spain-zaka)</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-2fdf0296-fb03-432d-8037-32fdb8dd05a1">' 방면 입구 (야외 계단 쪽)</span></p><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-e74c0c1d-6968-49a8-9fd9-049b13a538c6"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-cbcf61cb-ccce-4c73-ba28-1a97f8936560"><b> - 오픈 후</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-163d691a-3f80-4465-a71f-93839174887c">: 6층 외계단 입구 마리오 동상 앞 (1인당 1장)</span></p><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-5d9b8af2-1b18-4a5d-ba1e-418c20248887"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-353feed5-6273-4619-9099-520e4f55e724"><b>입장 방법</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-c59854fe-f7b4-4a87-ac96-c45199726495">: 정리권 QR코드로 입장 가능 시간을 확인하고, 그 시간에 맞춰 6층 매장 방문</span></p></li></ul><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-917bdbba-b792-4824-b732-29a52e814fd1"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-32a58b7c-4f26-41f9-9f3b-7584b582c236"><b>💡 Tip. </b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-e05b9b16-5f6e-4c3a-8e21-7a40fa3c9abc">정리권을 못 받으셨나요?</span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-76fa74a5-584c-4ce1-937c-bcbf73bba501"><b> 저녁 7~8시 이후(폐점 전)</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-238509f2-21a1-4c79-a899-4b8afb54042c">에는 정리권 없이 자유 입장이 풀리는 경우가 많으니 이때를 노려보세요!</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-450fb8ec-774e-4673-a724-d868b1ae5be5&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="ssp-adcontent align_center"><div id="ssp-adcontent-1" class="ssp_adcontent_inner"><div style="width: 100%; height: auto; margin: 0px auto; line-height: 0;"><iframe id="ssp-adcontent-1_tgtLREC" frameborder="no" scrolling="no" tabindex="0" name="" title="AD" style="width: 100%; height: 0px; visibility: inherit; border: 0px; vertical-align: bottom;"></iframe></div></div></div><div class="se-component se-image se-l-default __se-component" id="SE-6bc16348-6202-44a4-9760-bc57b87bcfd4">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-0fc186ed-78d2-4c44-b8c8-44c60ded9b50&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-7076a6d3-79fc-417a-94ea-32875a31159b">
                     <div class="se-component-content se-component-content-normal">
-                        <div class="se-section se-section-image se-l-default se-section-align-center" style="max-width:507px;">
+                        <div class="se-section se-section-image se-l-default se-section-align-" style="max-width:519px;">
                                 <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-6bc16348-6202-44a4-9760-bc57b87bcfd4&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMjE3/MDAxNzY1NDU0MDI2NjM3.HxLDVR4oymzYTpu5AoNGK1QLI_IZKUNrZDuoICuzWBsg.ikAgZgw_OXPmKCcYzX1wOQZD5VxHXvc7ViJUF8R4g4Ug.PNG/SE-6bc16348-6202-44a4-9760-bc57b87bcfd4.png&quot;, &quot;originalWidth&quot; : &quot;507&quot;, &quot;originalHeight&quot; : &quot;594&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;66920&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMjE3/MDAxNzY1NDU0MDI2NjM3.HxLDVR4oymzYTpu5AoNGK1QLI_IZKUNrZDuoICuzWBsg.ikAgZgw_OXPmKCcYzX1wOQZD5VxHXvc7ViJUF8R4g4Ug.PNG/SE-6bc16348-6202-44a4-9760-bc57b87bcfd4.png?type=w773" data-lazy-src="" data-width="507" data-height="594" alt="" class="se-image-resource egjs-visible" id="SE-6bc16348-6202-44a4-9760-bc57b87bcfd4_0">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-7076a6d3-79fc-417a-94ea-32875a31159b&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDEyMTNfMjY4/MDAxNzM0MDQ2NDkwNjc4.-NwUmE2mxZQ9Rx7HcwiVxfva2xOTeMlkdrjqwupunZcg.vWMOmm3PUrb7jc3o-klbPD6_qdIjuPTVtJNeYMWsrrQg.PNG/%EB%A1%AF%ED%8F%B0%EA%B8%B0%ED%9E%90%EC%A6%88_%EC%8A%88%ED%8D%BC%EB%A7%88%EC%BC%93_%EC%8B%9C%EB%82%98%EB%85%B8%EC%95%BC.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDEyMTNfMjY4/MDAxNzM0MDQ2NDkwNjc4.-NwUmE2mxZQ9Rx7HcwiVxfva2xOTeMlkdrjqwupunZcg.vWMOmm3PUrb7jc3o-klbPD6_qdIjuPTVtJNeYMWsrrQg.PNG/%EB%A1%AF%ED%8F%B0%EA%B8%B0%ED%9E%90%EC%A6%88_%EC%8A%88%ED%8D%BC%EB%A7%88%EC%BC%93_%EC%8B%9C%EB%82%98%EB%85%B8%EC%95%BC.png?type=w773" data-lazy-src="" data-width="519" data-height="389" alt="" class="se-image-resource egjs-visible" id="SE-7076a6d3-79fc-417a-94ea-32875a31159b_0">
                                     </a>
                                 </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-b0295e1f-c945-4077-8632-ba4c364c9e3e"><span style="" class="se-fs- se-ff- se-weight-unset  " id="SE-26017827-d314-4c4a-8496-e1862dfc569b">개점 전 닌텐도 도쿄 정리권 배포 위치 지도</span><span style="" class="se-fs- se-ff-   " id="SE-be11e8d9-6165-4af7-866c-bba4db4aefd9"> (</span><span style="" class="se-fs- se-ff-   " id="SE-13b0b986-7a41-48eb-9df1-4c09f21e830a"><a href="https://www.nintendo.com/jp/officialstore/index.html" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-13b0b986-7a41-48eb-9df1-4c09f21e830a&quot;, &quot;link&quot;: &quot;https://www.nintendo.com/jp/officialstore/index.html&quot;}" target="_blank">지도출처</a></span><span style="" class="se-fs- se-ff-   " id="SE-a68e1604-d0eb-4b7d-b4f1-a3b0a19418bf">)</span></p></div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-6bc16348-6202-44a4-9760-bc57b87bcfd4&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;66920&quot; }}"></script>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-7076a6d3-79fc-417a-94ea-32875a31159b&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
                 </div>
-                <div class="se-component se-image se-l-default __se-component" id="SE-f9ab88cc-1b05-4f1d-b17d-1a6c0d8e3db6">
+                <div class="se-component se-quotation se-l-quotation_line" id="SE-089186cb-8da3-4ff1-87e9-aeca46b8e4b2">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-quotation se-l-quotation_line">
+                            <blockquote class="se-quotation-container">
+                                <div class="se-module se-module-text se-quote"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-6490a9fb-e536-4e47-88c2-41dfea528606"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-a6888176-7bf1-49c3-972c-329dc7f27368"><b>롯폰기힐즈 슈퍼마켓</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-49a75ff0-df66-4878-b490-0529092aad11"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-0ca61afd-6edd-4d84-9404-15ac6025438a"><b>시나노야 운영정보</b></span></p><!-- } SE-TEXT --></div>
+                            </blockquote>
+                        </div>
+                    </div>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-c03b65bb-37d3-472b-bc90-ba67b4c44fa8">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-cb114d33-457d-427f-9aca-81a0554a317e"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-10c13528-1821-48bd-b2fd-97e609ead8fe"><b>운영시간: 오전9시 ~ 오후11시</b></span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-cd4f28fd-ee5f-4cb5-9748-a07ffbf78abd"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-68434f31-1af5-44d9-bb68-3bfeab633714"><b>연중무휴</b></span></p></li></ul><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-507a1d44-a4fd-4e0a-a726-58beecfaadce"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-f0b0cb04-0b60-4902-ad5b-f4622c0efae9"><b>​</b></span></p><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-6131d5bf-ea50-4606-bc83-7f3df25ed2b0"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-23c3cc50-cef6-4848-a6c1-1b3b63fe4efe"><b>위치 : 롯폰기힐즈 게이트타워 1층, 2층 (츠타야서점 건물)</b></span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-38ba74bc-b668-4bf5-aab5-f870dc95a84a"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-13a76831-3e6a-43d4-be99-41b38f9b5398"><b>지도</b></span></p></li></ul><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-c03b65bb-37d3-472b-bc90-ba67b4c44fa8&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-oglink se-l-text __se-component" id="SE-8a92a127-b021-454b-8c2b-8f26fc083765">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-oglink se-l-text se-section-align-">
+                            <div class="se-module se-module-oglink">
+                                <a href="https://maps.app.goo.gl/dUk8BkqQEMFaMpNn9" class="se-oglink-info __se_link" target="_blank" data-linktype="oglink" data-linkdata="{&quot;id&quot;: &quot;SE-8a92a127-b021-454b-8c2b-8f26fc083765&quot;, &quot;link&quot;: &quot;https://maps.app.goo.gl/dUk8BkqQEMFaMpNn9&quot;}">
+                                    <div class="se-oglink-info-container">
+                                        <strong class="se-oglink-title">Shinanoya Roppongi Hills Ten · Japan, 〒106-0032 Tokyo, Minato City, Roppongi, 6 Chome−11−1 Roppongi Hills Gate Tower Residence, １F・２F</strong>
+                                        <p class="se-oglink-summary">★★★★☆ · Grocery store</p>
+                                        <p class="se-oglink-url">maps.app.goo.gl</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_oglink&quot;, &quot;id&quot; :&quot;SE-8a92a127-b021-454b-8c2b-8f26fc083765&quot;, &quot;data&quot; : {&quot;link&quot; : &quot;https://maps.app.goo.gl/dUk8BkqQEMFaMpNn9&quot;, &quot;isVideo&quot; : &quot;false&quot;, &quot;thumbnail&quot; : &quot;https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4no8XNQ2N6UZNxKOBtqegf4MZd3BaL4yjSsK2_pMZ7Txcm1kk2L1TOKbHrszMEz-mehxENYhKOKyZWWaeRnaPAU8H_X_gzYk30WqPaEKqJUE2V9-fJmkraevcryQ_zLEOIf2SPA%3Dw900-h900-p-k-no%22&amp;type=ff120&quot;}}" data-module-v2="{&quot;type&quot;:&quot;v2_oglink&quot;, &quot;id&quot; :&quot;SE-8a92a127-b021-454b-8c2b-8f26fc083765&quot;, &quot;data&quot; : {&quot;link&quot; : &quot;https://maps.app.goo.gl/dUk8BkqQEMFaMpNn9&quot;, &quot;isVideo&quot; : &quot;false&quot;, &quot;thumbnail&quot; : &quot;https://dthumb-phinf.pstatic.net/?src=%22https%3A%2F%2Flh3.googleusercontent.com%2Fgps-cs-s%2FAC9h4no8XNQ2N6UZNxKOBtqegf4MZd3BaL4yjSsK2_pMZ7Txcm1kk2L1TOKbHrszMEz-mehxENYhKOKyZWWaeRnaPAU8H_X_gzYk30WqPaEKqJUE2V9-fJmkraevcryQ_zLEOIf2SPA%3Dw900-h900-p-k-no%22&amp;type=ff120&quot;}}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-4d19fd4a-cddf-4bb0-9606-9fadfee6f368">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-5998055d-9664-4901-887b-a208318a0a40"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-a9cd91ab-ab10-45f4-9a21-badcf5b91dea"><b>1층 : 술, 치즈, 햄, 빵, 과자, 도시락 판매</b></span></p></li></ul><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-b7a1ce42-c9ee-41a3-a639-cff7815b63df"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-935b3283-a6b1-4666-bdcc-0dfa4a3f4fff"><b>   2층 : 채소, 과일, 고기, 생선, 양념, 유제품, 가공식품 판매</b></span></p><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-7b2a2f3f-1103-40ba-ab5f-93683efaab2b"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-f3e38940-cca1-4038-98de-a3c52d43df68"><b>​</b></span></p><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-dde60225-9be7-4a6e-a75d-19933e19af80"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-0f4461fd-72ed-44ca-9891-457e706fb9f2"><b>술의 경우 택스프리(TAX FREE) 가능 </b></span></p></li></ul><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-b8107939-1a5d-4dcd-87fd-b78710d33a86"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-3786ba2c-30fc-4de9-8515-bd25aeee8e30"><b>※ 2025.3.21 부터 주류면세한도 변경!!!</b></span></p><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-b4a973ab-5bfc-4a2a-912c-a3a5977b6cba"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-70f200a1-a564-4493-88ef-dca34527e827">대한민국 입국 시 1인당 주류 면세 한도의 병 수 제한이 사라졌습니다. 새로운 주류면세한도는 병 수 제한 없이 전체용량 2L이하+총가격 $400 이하입니다.</span></p><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-384d5676-cdab-460e-b128-208508bbde61"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-f6186762-2b13-4085-b2f0-17b2075f2f9e">※ 주류 구매는 내국인 면세한도 $800에 포함되지 않습니다.</span></p><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-cd6f8993-0467-4160-b587-61f13cfd3e2c"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-45ce2f4b-5c41-4f39-b7c1-16ac3c210cfe"><b>​</b></span></p><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-2afe54a6-f0ed-476b-833b-a29f044d10c5"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-3368c5ff-fa92-4fa3-a1b9-aaee1707f3db"><b>​</b></span></p><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-2e22830d-27aa-494c-bc9a-c32fc21bfe82"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-ab015a31-b8fb-49e4-843d-1b76c3d49d0f">시나노야(SHINANOYA)는 1930년 세타가야구에서 주류 판매점으로 창업하여 현재 도쿄와 그 주변으로 4개의 슈퍼마켓과 12개의 주류 판매점을 운영하는 슈퍼마켓 체인입니다.</span></p><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-e3b6b7b3-aa14-4bdb-bf6f-bf3e109c06a9"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-0bb22c04-ef37-4cc6-8606-db96d79d1432">​</span></p><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-2796e08f-cd00-416e-a49e-81721e003289"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-97acab9a-ae73-42b9-ae00-434f1afe6f9c">도쿄사람들 사이에서는 연예인슈퍼로 불리는 핫한 프리미엄 슈퍼마켓입니다. 입구에 들어서면 계절감 넘치는 꽃들이 환영해 줍니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-4d19fd4a-cddf-4bb0-9606-9fadfee6f368&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-d1d2364d-31eb-4d0e-b724-7ca9b47d92b7">
                     <div class="se-component-content se-component-content-fit">
                         <div class="se-section se-section-image se-l-default se-section-align-">
                                 <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-f9ab88cc-1b05-4f1d-b17d-1a6c0d8e3db6&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMjUx/MDAxNzY1NDU0NDUyMTEx.qtcIPTNrS8HBZyI3v7xmxp18dbv9Xut9RKiAYeyVwrgg.MHzE73uuc97eFFuB-ykxvzhPh7Wno76WOhev1XEAIEUg.JPEG/SE-f9ab88cc-1b05-4f1d-b17d-1a6c0d8e3db6.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;675&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;726026&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMjUx/MDAxNzY1NDU0NDUyMTEx.qtcIPTNrS8HBZyI3v7xmxp18dbv9Xut9RKiAYeyVwrgg.MHzE73uuc97eFFuB-ykxvzhPh7Wno76WOhev1XEAIEUg.JPEG/SE-f9ab88cc-1b05-4f1d-b17d-1a6c0d8e3db6.jpg?type=w773" data-lazy-src="" data-width="693" data-height="519" alt="" class="se-image-resource egjs-visible" id="SE-f9ab88cc-1b05-4f1d-b17d-1a6c0d8e3db6_0">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-d1d2364d-31eb-4d0e-b724-7ca9b47d92b7&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfNjMg/MDAxNzMxODg2Njc3OTMx.TPBpjGpO0HaCqcz_AVSuNBaeXHzo6jrFtrMHBYTEcMEg.M8p1524GSp9LwUHGXxZhwOHXz7nGaSbPFQvzRW99jLsg.PNG/02_00.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfNjMg/MDAxNzMxODg2Njc3OTMx.TPBpjGpO0HaCqcz_AVSuNBaeXHzo6jrFtrMHBYTEcMEg.M8p1524GSp9LwUHGXxZhwOHXz7nGaSbPFQvzRW99jLsg.PNG/02_00.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-d1d2364d-31eb-4d0e-b724-7ca9b47d92b7_0">
                                     </a>
                                 </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-268c8967-7ea8-4ff3-b94f-9a7b896db8ed"><span style="" class="se-fs- se-ff- se-weight-unset  " id="SE-3ebfe681-177d-4dae-bcc9-048cf34a16b2">개점 후 정리권 배포 장소 - 마리오 동상 앞</span></p></div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-f9ab88cc-1b05-4f1d-b17d-1a6c0d8e3db6&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;726026&quot; }}"></script>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-d1d2364d-31eb-4d0e-b724-7ca9b47d92b7&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
                 </div>
-                <div class="se-component se-sectionTitle se-l-default" id="SE-e2598ab5-becb-4048-bfe9-a6941a849a0a">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-fc965e32-6e45-49cf-aac1-1b3516c0e595"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-d4e8a92d-6feb-4222-96db-1b917893055b"><b>​</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-e2598ab5-becb-4048-bfe9-a6941a849a0a&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-c8293872-a9f0-4888-8adf-77c57bd03742">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-508363cd-722e-44ed-8248-89c299c0ca67"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-0e4a0725-2306-48e5-bd32-9282e315d711"><b>✅ 품절대란! 인기 굿즈 BEST 5</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-c8293872-a9f0-4888-8adf-77c57bd03742&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-b50c2824-c674-48de-8b2a-889d5ca195c3">
+                <div class="se-component se-text se-l-default" id="SE-fcd9ba91-6ce7-4dea-afb0-3e2943964a05">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><ol class="se-text-list se-text-list-type-decimal"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-c457e5b8-6cf6-457e-8fce-97ac7b55d808"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-91cc9463-4236-49ec-b4f3-e2829cf4736b"><b>피크민(Pikmin) 시리즈</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-64fd2a40-36c6-41dc-b95f-2a317da8a27c">: 화병, 키링, 인형 등 가장 핫합니다. </span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a594fc6b-1882-40fa-ae01-e91590a0189a"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-1aa369f6-65f9-4a85-9b62-d7c6b62f4561"><b>젤다의 전설</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-96bc3d78-a6f2-4676-bf80-4101633f0cc5">: 넥타이, 하이랄 문양 문구류 등 고퀄리티 굿즈</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-64dc04ca-559c-4720-a9ea-3b5af1057f37"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-047399c9-17e3-4674-8c3d-0a50fa31db56"><b>동물의 숲</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-47a62cf5-d688-424f-b9a8-8511a0fec745">: 실용적인 식기류와 주방용품 (선물용 추천)</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-58797a65-084c-48b0-81db-cdea2e1d5f1c"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-7022c3f8-4638-47fe-a6f0-4583f98e5e32"><b>슈퍼마리오</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-364c38cf-46a5-40fc-b218-ef014485f523">: 시부야 한정 스태츄 및 8비트 도트 굿즈</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-2e66229b-aaad-4f7e-a04f-7bfe9c71b7b0"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-4fc892e0-6983-49a8-8a9b-381609e2e931"><b>별의 커비</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a0f1fedf-7093-406a-81a5-0145d0cd0c95">: 30주년 굿즈 등 핑크빛 아이템</span></p></li></ol><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-75a8fbec-c8d7-4239-a057-5a5878a7e88d"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-99feb608-47e3-42a2-af27-53fa92e2a1bf">​</span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-e5a27655-b975-4561-b876-653505b845d4"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-e0c31e99-5d9a-47c8-a3c5-ef1960a6c74e"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-14adc288-0f73-47a2-ba3b-0dba8cc40c5c"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-e3adbecd-a2ac-4b1a-b97f-8a580e796543"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-84818b6d-1aa7-42bb-b2c9-d460567d5e80"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-b471c7de-f6da-478f-a235-5df9ccdabf2d">입구 판매대는 일본 현지의 독특한 특산품을 판매합니다. 가을에는 밤과 고구마로 만든 쿠키, 파이가 많습니다.</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-b50c2824-c674-48de-8b2a-889d5ca195c3&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-8cab9376-edfc-42f6-a9bc-67d7a4710950">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-87e5f01c-9d1a-4ff7-9951-2d700246a78f"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-10bee83a-ce3d-40b3-bc93-b8a87f6b0c6e"><b>✅ 면세(Tax-Free): ❌ 면세 불가</b></span></p><!-- } SE-TEXT --></div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-fcd9ba91-6ce7-4dea-afb0-3e2943964a05&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-565a62c1-68f0-48c5-a362-b588b2a73c2f">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-565a62c1-68f0-48c5-a362-b588b2a73c2f&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfNDUg/MDAxNzMxODg3MzQ2MzE4.EVCEqus5pUe6gWx4dAO65StSU9PRhvM48Jr6JGLTcO0g.IA0wENWzxCabb2oQWalRpOsnI_cNacFCa0xMjNbTsUgg.PNG/02_01.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfNDUg/MDAxNzMxODg3MzQ2MzE4.EVCEqus5pUe6gWx4dAO65StSU9PRhvM48Jr6JGLTcO0g.IA0wENWzxCabb2oQWalRpOsnI_cNacFCa0xMjNbTsUgg.PNG/02_01.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-565a62c1-68f0-48c5-a362-b588b2a73c2f_0">
+                                    </a>
+                                </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-8cab9376-edfc-42f6-a9bc-67d7a4710950&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-f7c43236-e4c3-4757-9f33-e252313f2efa">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-565a62c1-68f0-48c5-a362-b588b2a73c2f&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-8d492c09-00df-4fd5-8863-c1d75f4eff5a">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-9a471454-b715-46ae-9682-d1e3c8810339"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-89642434-43ec-41bc-b0dc-b6f0c8f51868">닌텐도 도쿄는 일본 국내용으로 판매하는 것이기 때문에 면세를 적용하지 않습니다.</span></p></li></ul><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-7e4b6645-7b19-47f2-bfa5-dd717e2f9c4d"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-fa309657-6047-443c-9826-047c29c3713e">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-9bd0a58a-67a1-4bc3-bba0-9ff450beda21"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-bef94a53-436f-4b7e-bb53-012e55094599">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-0b1b6eb7-f3ae-4e79-93f8-c58190f1ec44"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-5df00ef8-03af-4ec2-8047-ea6be881f922">도시락 종류도 정말 다양합니다. 날씨가 따뜻할 때는 롯폰기힐즈 공원에 앉아 도시락을 먹어도 좋습니다. 계산대 옆에 전자레인지가 있으니 데워 먹을 수도 있습니다. 점심시간에 도시락을 구입하는 직장인들로 붐빕니다. </span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-f7c43236-e4c3-4757-9f33-e252313f2efa&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-8d492c09-00df-4fd5-8863-c1d75f4eff5a&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
                 </div>                <div class="se-component se-imageGroup se-l-collage">
                     <div class="se-component-content se-component-content-extend">
-                        <div class="se-section se-section-imageGroup se-l-collage __se-component" id="SE-b71f99fc-a96e-4348-9ded-acb465a023d4">
+                        <div class="se-section se-section-imageGroup se-l-collage __se-component" id="SE-c8474879-4cad-413b-80d2-8aedb0984e4a">
                             <div class="se-imageGroup-viewer">
                                 <div class="se-imageGroup-container">
                                     
                                     <div class="se-imageGroup-item se-imageGroup-col-2">
-                                    <div class="se-module se-module-image" style="width:66.66666666666666%;">
-                                        <a id="SE-e8b3abc9-a3d3-42be-b144-a819dc5a7d03" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-e8b3abc9-a3d3-42be-b144-a819dc5a7d03&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTgy/MDAxNzY1NDU0NDUzNzYx.F3VtzKGqiaC2oJbfbfUEfwDzFvO1AJjUbR1YHgX9LE4g.lvfZakUKCCyfqrfBU58crYB3AbeUdDoryYj0Tu6F5Awg.JPEG/SE-e8b3abc9-a3d3-42be-b144-a819dc5a7d03.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;513616&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTgy/MDAxNzY1NDU0NDUzNzYx.F3VtzKGqiaC2oJbfbfUEfwDzFvO1AJjUbR1YHgX9LE4g.lvfZakUKCCyfqrfBU58crYB3AbeUdDoryYj0Tu6F5Awg.JPEG/SE-e8b3abc9-a3d3-42be-b144-a819dc5a7d03.jpg?type=w773" data-lazy-src="" data-width="900" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-b71f99fc-a96e-4348-9ded-acb465a023d4_0">
+                                    <div class="se-module se-module-image" style="width:44.84154120377117%;">
+                                        <a id="SE-f2783fc7-53b8-4c43-bc0b-c370bf074b41" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-f2783fc7-53b8-4c43-bc0b-c370bf074b41&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjEz/MDAxNzMxODg3Mzk4NjMy.oF2wjNnzXR21PUQabl7DITNYUdokt0vMZ-7SgEGd3eYg.gDPrcWEz39WMByNjjVkVHMT1qcCfKObv2NIdvw89cMYg.PNG/02_02.png&quot;, &quot;originalWidth&quot; : &quot;600&quot;, &quot;originalHeight&quot; : &quot;693&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjEz/MDAxNzMxODg3Mzk4NjMy.oF2wjNnzXR21PUQabl7DITNYUdokt0vMZ-7SgEGd3eYg.gDPrcWEz39WMByNjjVkVHMT1qcCfKObv2NIdvw89cMYg.PNG/02_02.png?type=w386" data-lazy-src="" data-width="600" data-height="693" alt="" class="se-image-resource egjs-visible" id="SE-c8474879-4cad-413b-80d2-8aedb0984e4a_0">
                                         </a>
                                     </div>
-                                    <div class="se-module se-module-image" style="width:33.33333333333334%;">
-                                        <a id="SE-0e4e9214-ec5c-4dff-8fb1-7abb6185d3bc" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-0e4e9214-ec5c-4dff-8fb1-7abb6185d3bc&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMjE1/MDAxNzY1NDU0NDU1NTI2.AFb6uZ6sWQBjNzvx-z4ljam2e7q-JFNoh5UOwGLeNCsg.d2IspYxuVBRU4WtFV-M7DwAWOha9b0KoE79u3mAKHKQg.JPEG/SE-0e4e9214-ec5c-4dff-8fb1-7abb6185d3bc.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1200&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1299908&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMjE1/MDAxNzY1NDU0NDU1NTI2.AFb6uZ6sWQBjNzvx-z4ljam2e7q-JFNoh5UOwGLeNCsg.d2IspYxuVBRU4WtFV-M7DwAWOha9b0KoE79u3mAKHKQg.JPEG/SE-0e4e9214-ec5c-4dff-8fb1-7abb6185d3bc.jpg?type=w386" data-lazy-src="" data-width="900" data-height="1200" alt="" class="se-image-resource egjs-visible" id="SE-b71f99fc-a96e-4348-9ded-acb465a023d4_1">
+                                    <div class="se-module se-module-image" style="width:55.15845879622883%;">
+                                        <a id="SE-ab56b061-e860-4297-8106-8494df0b4569" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-ab56b061-e860-4297-8106-8494df0b4569&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfODUg/MDAxNzMxODg3Mzk4Nzk5.pC-YLHwpD8ASMgUWPlIyiWFA5hu2_S1hTtszCMPZmyEg.hTdYO3whm5kId45794dDk2EcUupNf8ASfCbSikLKFrwg.PNG/02_03.png&quot;, &quot;originalWidth&quot; : &quot;639&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfODUg/MDAxNzMxODg3Mzk4Nzk5.pC-YLHwpD8ASMgUWPlIyiWFA5hu2_S1hTtszCMPZmyEg.hTdYO3whm5kId45794dDk2EcUupNf8ASfCbSikLKFrwg.PNG/02_03.png?type=w386" data-lazy-src="" data-width="639" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-c8474879-4cad-413b-80d2-8aedb0984e4a_1">
+                                        </a>
+                                    </div>
+                                    </div>
+                                    <div class="se-imageGroup-item se-imageGroup-col-2">
+                                    <div class="se-module se-module-image" style="width:47.124917382683414%;">
+                                        <a id="SE-8e3d1618-1e35-46ee-a3f4-0ad580c070ac" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-8e3d1618-1e35-46ee-a3f4-0ad580c070ac&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjg5/MDAxNzMxODg3Mzk4ODIw.bgoqaqQHs_WjDONFt_oHGumJWWE-y8HXibrFHWd7gU0g.TPHYk5Ct3woTW6lwZlj0fGe-oBV74heY8yYj34hn4gog.PNG/02_04.png&quot;, &quot;originalWidth&quot; : &quot;713&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjg5/MDAxNzMxODg3Mzk4ODIw.bgoqaqQHs_WjDONFt_oHGumJWWE-y8HXibrFHWd7gU0g.TPHYk5Ct3woTW6lwZlj0fGe-oBV74heY8yYj34hn4gog.PNG/02_04.png?type=w386" data-lazy-src="" data-width="713" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-c8474879-4cad-413b-80d2-8aedb0984e4a_2">
+                                        </a>
+                                    </div>
+                                    <div class="se-module se-module-image" style="width:52.875082617316586%;">
+                                        <a id="SE-54a58afc-3fe2-4887-9d27-d1a6e5eb0979" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-54a58afc-3fe2-4887-9d27-d1a6e5eb0979&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTY5/MDAxNzMxODg3Mzk4ODE5.2VQ1XHvBAR3NfcExS1yQJZoF-xAS_NtT8LPbOt3aoXIg.XajBAyLkz6UIhr0aUGdJcCVCHemG1Q5iafOOJiculycg.PNG/02_05.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTY5/MDAxNzMxODg3Mzk4ODE5.2VQ1XHvBAR3NfcExS1yQJZoF-xAS_NtT8LPbOt3aoXIg.XajBAyLkz6UIhr0aUGdJcCVCHemG1Q5iafOOJiculycg.PNG/02_05.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-c8474879-4cad-413b-80d2-8aedb0984e4a_3">
                                         </a>
                                     </div>
                                     </div>
                                     <div class="se-imageGroup-item se-imageGroup-col-2">
                                     <div class="se-module se-module-image" style="width:50.0%;">
-                                        <a id="SE-21538906-768a-4538-aa2e-ef5f5db59d9b" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-21538906-768a-4538-aa2e-ef5f5db59d9b&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMjEg/MDAxNzY1NDU0NDU3NjE1.sP1UcTTpXJAxVPFdFtpeTOsX2VaQ2PF1cio9idoQ1Tsg._81spvrL08PLY2AQhU6elwc-0ql1ImwI4jTsYe25lUwg.JPEG/SE-21538906-768a-4538-aa2e-ef5f5db59d9b.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1200&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1371267&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMjEg/MDAxNzY1NDU0NDU3NjE1.sP1UcTTpXJAxVPFdFtpeTOsX2VaQ2PF1cio9idoQ1Tsg._81spvrL08PLY2AQhU6elwc-0ql1ImwI4jTsYe25lUwg.JPEG/SE-21538906-768a-4538-aa2e-ef5f5db59d9b.jpg?type=w386" data-lazy-src="" data-width="900" data-height="1200" alt="" class="se-image-resource egjs-visible" id="SE-b71f99fc-a96e-4348-9ded-acb465a023d4_2">
+                                        <a id="SE-5b3c1e93-1a6a-423a-b9f3-ac85e08cc665" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-5b3c1e93-1a6a-423a-b9f3-ac85e08cc665&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTQ2/MDAxNzMxODg3Mzk4ODQ4.DF24a3FXacr0whZC5VaUou_3LULWUFhCxReGJY4rgmAg.goQmR415XfpRIbkCcsS_SSccpHPcKqsf4A87Ar8P_08g.PNG/02_06.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTQ2/MDAxNzMxODg3Mzk4ODQ4.DF24a3FXacr0whZC5VaUou_3LULWUFhCxReGJY4rgmAg.goQmR415XfpRIbkCcsS_SSccpHPcKqsf4A87Ar8P_08g.PNG/02_06.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-c8474879-4cad-413b-80d2-8aedb0984e4a_4">
                                         </a>
                                     </div>
                                     <div class="se-module se-module-image" style="width:50.0%;">
-                                        <a id="SE-195263fe-9556-4314-906b-067d500fec61" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-195263fe-9556-4314-906b-067d500fec61&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMjMy/MDAxNzY1NDU0NDU5MjA4.68AoMYImaiSpI3eTix2uNwFQuZ2-H3LrXbQ-JcOlwjUg.OE4dULuIZQd7KK_QjZbI27TFLHHp9YmwbHepM8IoFBwg.JPEG/SE-195263fe-9556-4314-906b-067d500fec61.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1200&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1376816&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMjMy/MDAxNzY1NDU0NDU5MjA4.68AoMYImaiSpI3eTix2uNwFQuZ2-H3LrXbQ-JcOlwjUg.OE4dULuIZQd7KK_QjZbI27TFLHHp9YmwbHepM8IoFBwg.JPEG/SE-195263fe-9556-4314-906b-067d500fec61.jpg?type=w386" data-lazy-src="" data-width="900" data-height="1200" alt="" class="se-image-resource egjs-visible" id="SE-b71f99fc-a96e-4348-9ded-acb465a023d4_3">
-                                        </a>
-                                    </div>
-                                    </div>
-                                    <div class="se-imageGroup-item se-imageGroup-col-2">
-                                    <div class="se-module se-module-image" style="width:50.0%;">
-                                        <a id="SE-00083234-12dc-43f8-b8d2-ab99d0715260" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-00083234-12dc-43f8-b8d2-ab99d0715260&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTUz/MDAxNzY1NDU0NDYxMjQ2.dp7CRoUzIJdp5TrwJhKvWfglZ9-yMJgh8e6wIRy8xfkg.ikK0JSDUE1vIza5k9VmNR1SnLPNjTGz7lAoNlrb5J5kg.JPEG/SE-00083234-12dc-43f8-b8d2-ab99d0715260.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1200&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1198573&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTUz/MDAxNzY1NDU0NDYxMjQ2.dp7CRoUzIJdp5TrwJhKvWfglZ9-yMJgh8e6wIRy8xfkg.ikK0JSDUE1vIza5k9VmNR1SnLPNjTGz7lAoNlrb5J5kg.JPEG/SE-00083234-12dc-43f8-b8d2-ab99d0715260.jpg?type=w386" data-lazy-src="" data-width="900" data-height="1200" alt="" class="se-image-resource egjs-visible" id="SE-b71f99fc-a96e-4348-9ded-acb465a023d4_4">
-                                        </a>
-                                    </div>
-                                    <div class="se-module se-module-image" style="width:50.0%;">
-                                        <a id="SE-dd0f0059-58a6-49fb-8fa6-d0ab51cafaa5" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-dd0f0059-58a6-49fb-8fa6-d0ab51cafaa5&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfNTgg/MDAxNzY1NDU0NDYzNDIy.FOJKzN504tniv3cGschjXna7Nv8T0phCa50z1Hgyz9cg.J3p3Cj6Mp-jT81u1DZpshxdizSNENkT09X09eNflSAYg.JPEG/SE-dd0f0059-58a6-49fb-8fa6-d0ab51cafaa5.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1200&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1289084&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfNTgg/MDAxNzY1NDU0NDYzNDIy.FOJKzN504tniv3cGschjXna7Nv8T0phCa50z1Hgyz9cg.J3p3Cj6Mp-jT81u1DZpshxdizSNENkT09X09eNflSAYg.JPEG/SE-dd0f0059-58a6-49fb-8fa6-d0ab51cafaa5.jpg?type=w386" data-lazy-src="" data-width="900" data-height="1200" alt="" class="se-image-resource egjs-visible" id="SE-b71f99fc-a96e-4348-9ded-acb465a023d4_5">
-                                        </a>
-                                    </div>
-                                    </div>
-                                    <div class="se-imageGroup-item se-imageGroup-col-1">
-                                    <div class="se-module se-module-image" style="width:100.0%;">
-                                        <a id="SE-2c92f593-2eb6-4c6e-9c5c-a567391bdb51" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-2c92f593-2eb6-4c6e-9c5c-a567391bdb51&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTc5/MDAxNzY1NDU0NDY1MjE4.SRWoDXkKFcaKn-KV0wNSMGq8Nlp02Sye1AZ-j-lN6S8g.xn2oJDm0xQcvXQwXvmkrq5rwlXBtE-uzUXRDkjXStgkg.JPEG/SE-2c92f593-2eb6-4c6e-9c5c-a567391bdb51.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1200&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1182677&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTc5/MDAxNzY1NDU0NDY1MjE4.SRWoDXkKFcaKn-KV0wNSMGq8Nlp02Sye1AZ-j-lN6S8g.xn2oJDm0xQcvXQwXvmkrq5rwlXBtE-uzUXRDkjXStgkg.JPEG/SE-2c92f593-2eb6-4c6e-9c5c-a567391bdb51.jpg?type=w773" data-lazy-src="" data-width="900" data-height="1200" alt="" class="se-image-resource egjs-visible" id="SE-b71f99fc-a96e-4348-9ded-acb465a023d4_6">
+                                        <a id="SE-595d8c78-47fe-4f31-9548-207f7ee5c565" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-595d8c78-47fe-4f31-9548-207f7ee5c565&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTMw/MDAxNzMxODg3Mzk4ODQz.meLG_MBOxHe-Vv_9pcrEvoMSHvrKZVhtaYfNlWWh6_Eg.78kkOsYyHPHqH15JrRchOhggjzhhKmVgpEtfOp3vQTkg.PNG/02_07.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTMw/MDAxNzMxODg3Mzk4ODQz.meLG_MBOxHe-Vv_9pcrEvoMSHvrKZVhtaYfNlWWh6_Eg.78kkOsYyHPHqH15JrRchOhggjzhhKmVgpEtfOp3vQTkg.PNG/02_07.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-c8474879-4cad-413b-80d2-8aedb0984e4a_5">
                                         </a>
                                     </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-c9a5b060-37d4-49fb-9660-962db6af6e5c"><span style="" class="se-fs- se-ff-   " id="SE-62aa270d-16bd-4423-9578-a01fd1c2d764">닌텐도 도쿄 매장 내부 및 굿즈 사진들</span></p></div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_imageGroup&quot;, &quot;id&quot; :&quot;SE-b71f99fc-a96e-4348-9ded-acb465a023d4&quot;, &quot;data&quot;: { &quot;layout&quot; : &quot;collage&quot; }}" data-module-v2="{&quot;type&quot;: &quot;v2_imageGroup&quot;, &quot;id&quot;: &quot;SE-b71f99fc-a96e-4348-9ded-acb465a023d4&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;imageGroup&quot;, &quot;layout&quot;: &quot;collage&quot;, &quot;images&quot;: [ {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-e8b3abc9-a3d3-42be-b144-a819dc5a7d03&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;513616&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-0e4e9214-ec5c-4dff-8fb1-7abb6185d3bc&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1299908&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-21538906-768a-4538-aa2e-ef5f5db59d9b&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1371267&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-195263fe-9556-4314-906b-067d500fec61&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1376816&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-00083234-12dc-43f8-b8d2-ab99d0715260&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1198573&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-dd0f0059-58a6-49fb-8fa6-d0ab51cafaa5&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1289084&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-2c92f593-2eb6-4c6e-9c5c-a567391bdb51&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1182677&quot; } ] }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-defbd657-480e-4b6f-acac-1558f00f200d">
+                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_imageGroup&quot;, &quot;id&quot; :&quot;SE-c8474879-4cad-413b-80d2-8aedb0984e4a&quot;, &quot;data&quot;: { &quot;layout&quot; : &quot;collage&quot; }}" data-module-v2="{&quot;type&quot;: &quot;v2_imageGroup&quot;, &quot;id&quot;: &quot;SE-c8474879-4cad-413b-80d2-8aedb0984e4a&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;imageGroup&quot;, &quot;layout&quot;: &quot;collage&quot;, &quot;images&quot;: [ {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-f2783fc7-53b8-4c43-bc0b-c370bf074b41&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-ab56b061-e860-4297-8106-8494df0b4569&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-8e3d1618-1e35-46ee-a3f4-0ad580c070ac&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-54a58afc-3fe2-4887-9d27-d1a6e5eb0979&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-5b3c1e93-1a6a-423a-b9f3-ac85e08cc665&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-595d8c78-47fe-4f31-9548-207f7ee5c565&quot;, &quot;ai&quot;: &quot;false&quot; } ] }}"></script>
+                </div>                <div class="se-component se-text se-l-default" id="SE-fe021589-b4e7-4c1b-95d2-fc407bdcab21">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-ec3fd364-0b79-4348-ad37-5144b4fd60a8"><span style="color:#333333;" class="se-fs-fs19 se-ff-   " id="SE-e3bd0726-09a0-4c9a-a40c-229b91bbc607">​</span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-1b70137c-5f83-4124-8cfc-af21132ee415"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-8bc0e865-0ac6-4407-871e-d7646877907d">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-42a2a8b2-0e14-4b7b-bd96-b7025a311c47"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-3aacfe62-49d3-4b1e-b7e6-7362fa411d0f">​</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-defbd657-480e-4b6f-acac-1558f00f200d&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-b80ce904-d38c-4c63-991d-3bd0b7565051">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-fe021589-b4e7-4c1b-95d2-fc407bdcab21&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-quotation se-l-quotation_line" id="SE-2051b751-04d3-4cb3-a936-38a5361eadbb">
                     <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-768583a8-6562-442c-8d22-b3b590827fdf"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-02350c75-112f-4ac3-aa48-aeb37d1f3441"><b>✅ 추억을 뽑는 순간 🕹️</b></span></p><!-- } SE-TEXT --></div>
+                        <div class="se-section se-section-quotation se-l-quotation_line">
+                            <blockquote class="se-quotation-container">
+                                <div class="se-module se-module-text se-quote"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-f2f728b6-c91a-4451-b232-88c68304027d"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-3649e458-a558-4c9b-a966-825c0246fa85"><b>추천선물1. 지역 특산품 과자</b></span></p><!-- } SE-TEXT --></div>
+                            </blockquote>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-b80ce904-d38c-4c63-991d-3bd0b7565051&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-4c8b4757-cdac-489c-8498-e24964323c4f">
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-cbd62640-5517-4522-8c84-7b918ec10a22">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-82f87daf-9672-49c6-8327-74b5023094ab"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-2e20d441-1c14-4633-bfef-308cb4835a4e">"어? 이 버튼은...?!" 닌텐도 도쿄 매장에 가시면 절대 그냥 지나칠 수 없는 것이 있습니다. 바로 닌텐도 역대 게임기의 컨트롤러 버튼을 미니어처로 만든</span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-8495f1f6-c9c4-41cf-bcf2-c32f6167f123"><b> '컨트롤러 버튼 컬렉션' 가챠</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-b7afbae5-288e-467a-996c-0222fc7e6877">인데요. 패미컴부터 닌텐도 64까지, 추억 속 그 손맛을 뽑기로 소장해 보세요!</span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-09f83e34-dac9-4626-9de9-80c301f60a98"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-6fe6309e-6ade-486d-b1c0-fc4d30d8b820">일본 각 지역의 특산품으로 만든 전통 과자 코너입니다. 다양한 패키지의 선물세트부터 봉지 과자까지 다양한 과자들이 있습니다. 저는 규슈 지역의 달콤한 스틱 고구마 과자를 구매했는데 멈출 수 없는 달달한 맛이었습니다.</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-4c8b4757-cdac-489c-8498-e24964323c4f&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-imageGroup se-l-collage">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-cbd62640-5517-4522-8c84-7b918ec10a22&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-22eb2f06-e882-4d5f-87f6-c950ea8231ad">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="width:100.0%;">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-22eb2f06-e882-4d5f-87f6-c950ea8231ad&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjgz/MDAxNzMxODkwMjYxMTQ4.VWxpzY9zc5g-E8BNvXonyAGl_l3cMasugJxmI2yp674g.B9Tja01ULVjgVm6aJSCYEJuz0jFhwpdgRtdAAxTmUcUg.PNG/03_01.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjgz/MDAxNzMxODkwMjYxMTQ4.VWxpzY9zc5g-E8BNvXonyAGl_l3cMasugJxmI2yp674g.B9Tja01ULVjgVm6aJSCYEJuz0jFhwpdgRtdAAxTmUcUg.PNG/03_01.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-22eb2f06-e882-4d5f-87f6-c950ea8231ad_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-22eb2f06-e882-4d5f-87f6-c950ea8231ad&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-image se-l-default __se-component" id="SE-db13df32-b452-4b74-912a-ee0cef381f20">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-db13df32-b452-4b74-912a-ee0cef381f20&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjMw/MDAxNzMxODk4OTAyMjI5.8snwwqqp9Uha5QjOZxn7P_HZjnCwcN_-sMejJeXBK_wg.aS5sThUzWaZ_n-RqAdNfXYXXXgRNZz7ebDV8xzqReVkg.PNG/03_03.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjMw/MDAxNzMxODk4OTAyMjI5.8snwwqqp9Uha5QjOZxn7P_HZjnCwcN_-sMejJeXBK_wg.aS5sThUzWaZ_n-RqAdNfXYXXXgRNZz7ebDV8xzqReVkg.PNG/03_03.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-db13df32-b452-4b74-912a-ee0cef381f20_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-db13df32-b452-4b74-912a-ee0cef381f20&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-93d6c77e-2166-4bf0-93de-e3a1e8a8d344">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-febc261e-eaeb-4dc3-9852-13a8764b42a7"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-eca52429-7326-4dd7-986c-e2614b399dc8">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-c6521b3f-cd92-4f05-bdcc-819ae83528d6"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-fc0fe35b-222b-44c3-8696-fa5847b43260">​</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-93d6c77e-2166-4bf0-93de-e3a1e8a8d344&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-quotation se-l-quotation_line" id="SE-fa9fbb3f-4329-4374-bf5b-76219cb866f5">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-quotation se-l-quotation_line">
+                            <blockquote class="se-quotation-container">
+                                <div class="se-module se-module-text se-quote"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-751cdf0b-3f50-445c-b0c4-f32bfaf17a7e"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-436fa115-87e4-4f3e-b7c3-f6de5b5a4ecd"><b>추천선물2. 사케와 와인</b></span></p><!-- } SE-TEXT --></div>
+                            </blockquote>
+                        </div>
+                    </div>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-5ae89273-32f8-4cc4-9531-06b401152d4d">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-0192692e-79d6-4f42-a6ca-f59e02f16981"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-261f832c-76a1-4d73-80ed-00d836d99235">주류 전문으로 시작한 슈퍼마켓인 만큼 일본 술부터 맥주, 와인, 위스키까지 다양한 술이 있습니다. </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-700ba6e5-c7ee-419a-ba6e-fe3b42e20f9c"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-e2aa8bea-ece1-4442-afc0-f22cb7221932">일본에서 가장 유명한 사케 닷사이가 종류별로 크기별로 있어 부담 없는 선물로 좋을 것 같습니다. 닷사이의 숫자는 사용하는 쌀의 정미율을 의미하며 도정을 많이 한 쌀을 사용할수록 가격이 비싸집니다 (닷사이23 &gt; 닷사이39 &gt; 닷사이45,50 순으로 높은 등급). </span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-5ae89273-32f8-4cc4-9531-06b401152d4d&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-83851a8c-3ff7-4bda-97d0-98d60fe1277a">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-83851a8c-3ff7-4bda-97d0-98d60fe1277a&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTY5/MDAxNzMxODk4OTM2MTY1.cZ61ykR6xasx5lUi7EJtWrTSe9xyFlLPNscsCzsbix4g.uine4m0yTdxxCSZBZ77c1RBC_go8KVGzwKs3yD3RSb4g.PNG/04_02.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTY5/MDAxNzMxODk4OTM2MTY1.cZ61ykR6xasx5lUi7EJtWrTSe9xyFlLPNscsCzsbix4g.uine4m0yTdxxCSZBZ77c1RBC_go8KVGzwKs3yD3RSb4g.PNG/04_02.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-83851a8c-3ff7-4bda-97d0-98d60fe1277a_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-83851a8c-3ff7-4bda-97d0-98d60fe1277a&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-image se-l-default __se-component" id="SE-154aac19-fc00-4120-ab5a-c540cdd6dd6c">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-154aac19-fc00-4120-ab5a-c540cdd6dd6c&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTY2/MDAxNzMxODk4OTQ3MDk4.yyco13EViArwVg8KjfZaXsAW2BMO75RproLiUCyCk8Eg.vqgsqVOkmHmUvaXDHNJ5HuVu3t7xSJWdd8fOVchZujMg.PNG/04_04.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTY2/MDAxNzMxODk4OTQ3MDk4.yyco13EViArwVg8KjfZaXsAW2BMO75RproLiUCyCk8Eg.vqgsqVOkmHmUvaXDHNJ5HuVu3t7xSJWdd8fOVchZujMg.PNG/04_04.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-154aac19-fc00-4120-ab5a-c540cdd6dd6c_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-154aac19-fc00-4120-ab5a-c540cdd6dd6c&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="ssp-adcontent align_center"><div id="ssp-adcontent-1" class="ssp_adcontent_inner"><div style="width: 100%; height: auto; margin: 0px auto; line-height: 0;"><iframe id="ssp-adcontent-1_tgtLREC" frameborder="no" scrolling="no" tabindex="0" name="" title="AD" style="width: 100%; height: 0px; visibility: inherit; border: 0px; vertical-align: bottom;"></iframe></div></div></div><div class="se-component se-text se-l-default" id="SE-3e9654cc-c7ba-434a-8de3-4908d6b3b18f">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-db61148a-ad60-4572-ab3a-7205af43fd91"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-49c3c3a4-3cb7-46c0-9883-8c8d7e51f6f5"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-82383d55-f856-4627-b5ca-0e6a83da81ad"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-de84e4e9-9d85-4d6f-8abf-143f69ce7f44">2025.3.21부터 대한민국 주류 면세한도가 병수제한 없이 1인당 2L이하+400불 이하로 바뀌었습니다. 180ml의 작은 닷사이를 면세로 11명까지 구입할 수 있으니, 여행선물로 딱 입니다!</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-86574a82-c10c-4542-8f9f-27b5850b1283"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-182e5488-3b03-43c7-be8d-9b96ce1a8264">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-d04af756-6e7f-458f-8921-1f87cb02df0d"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-d33d9e4c-ae7f-43ec-9607-c464571db88e">닷사이 전체 라인업의 일본 공식 가격이 궁금하다면 아래 글을 참고하세요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-5d9b3727-3673-4d25-8406-5482b38e8aa7"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-a2a83d84-ba8e-4810-a55e-40ad7de22a7d"><a href="https://blog.naver.com/tokyomate/223991251786" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-a2a83d84-ba8e-4810-a55e-40ad7de22a7d&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/223991251786&quot;}" target="_blank"><b>→ [자세히 보기] 닷사이 23, 39, 45 일본 공식가격 총정리, 양조장 투어</b></a></span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-3e9654cc-c7ba-434a-8de3-4908d6b3b18f&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-3d055e68-dcf9-428c-a6a0-3a13a14e0eb7">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-3d055e68-dcf9-428c-a6a0-3a13a14e0eb7&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfNDEg/MDAxNzMxODk4OTgzNzgw._faFlffZE672wvU91CLhQewRXAQjdYNsYam40nZKhu4g.kUExFcGwIRMTpEIdxknnIjY5cVDHr31sABy6BrQhaY4g.PNG/04_05.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfNDEg/MDAxNzMxODk4OTgzNzgw._faFlffZE672wvU91CLhQewRXAQjdYNsYam40nZKhu4g.kUExFcGwIRMTpEIdxknnIjY5cVDHr31sABy6BrQhaY4g.PNG/04_05.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-3d055e68-dcf9-428c-a6a0-3a13a14e0eb7_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-3d055e68-dcf9-428c-a6a0-3a13a14e0eb7&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-97d8014b-8def-4a34-a745-9c88f1d5adeb">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-d43d38b0-916b-4473-888a-8cae8a3c9d34"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-dd244529-6445-4b8e-90b9-504a54b0875e">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-87deb51d-3505-42a6-b68b-0808ab146773"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-7f539359-1cd4-4418-8c84-c7b81f035f6a">시바견이 그려진 '준마이 시바노야'는 일본 나가노현 스자카시에 위치한 엔도 주조(Endo Shuzou)에서 생산하는 가격 대비 품질이 좋은 준마이 사케로 예쁜 디자인으로 선물용으로 인기가 많습니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-97d8014b-8def-4a34-a745-9c88f1d5adeb&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-7e6e3064-6151-48cb-9ca3-8dba80c9b760">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-7e6e3064-6151-48cb-9ca3-8dba80c9b760&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfNDMg/MDAxNzMxODk4OTk1NDUz.PpT73ENwV7ZHLzLyOUbXMFPbIWPoVRLn0w8Tn2tH6V8g.2bVyDbbDageLYVMRElgxiE6IM-_SUG8LQ7HWkE3Xib0g.PNG/04_03.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfNDMg/MDAxNzMxODk4OTk1NDUz.PpT73ENwV7ZHLzLyOUbXMFPbIWPoVRLn0w8Tn2tH6V8g.2bVyDbbDageLYVMRElgxiE6IM-_SUG8LQ7HWkE3Xib0g.PNG/04_03.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-7e6e3064-6151-48cb-9ca3-8dba80c9b760_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-7e6e3064-6151-48cb-9ca3-8dba80c9b760&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-015f31e3-00b5-4e9c-9000-99733c435275">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-06f7a648-cc6e-42a9-a74d-9536e2f1c3fc"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-dc038576-5c11-42fc-828e-dc6dafad7647">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-1d415194-d2d2-4841-acc3-e87f5fe88679"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-63f04208-28be-4d6f-bf02-739023c7b083">냉장고에는 전 세계의 맥주부터 일본의 지역 특산 맥주까지 다양한 맥주가 빼곡하게 진열되어 있습니다. 일본 맥주 캔은 디자인이 다양해서 수집용으로도 인기가 많다고 합니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-015f31e3-00b5-4e9c-9000-99733c435275&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-264ab8dc-191f-4dfe-8a6d-4c3248e2e931">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="width:100.0%;">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-264ab8dc-191f-4dfe-8a6d-4c3248e2e931&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTMx/MDAxNzMxODg4MTE3ODI1.AQ_LW5tnLQ63JTCOV5MehdO0-LIqIRPu6FwqFgPC2qcg.g_v7EqkUpZ00g78Rvd092DdP22lDyngND-PvQg8apzog.PNG/04_01.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;563&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTMx/MDAxNzMxODg4MTE3ODI1.AQ_LW5tnLQ63JTCOV5MehdO0-LIqIRPu6FwqFgPC2qcg.g_v7EqkUpZ00g78Rvd092DdP22lDyngND-PvQg8apzog.PNG/04_01.png?type=w773" data-lazy-src="" data-width="693" data-height="486" alt="" class="se-image-resource egjs-visible" id="SE-264ab8dc-191f-4dfe-8a6d-4c3248e2e931_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-264ab8dc-191f-4dfe-8a6d-4c3248e2e931&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-image se-l-default __se-component" id="SE-e662ee8e-c533-4b7d-accf-08ebc4ebff3a">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-e662ee8e-c533-4b7d-accf-08ebc4ebff3a&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjcy/MDAxNzMxODk5MDMxNTMy.x367AzC-Z6ajsql2EAd9HWDrlFsF2vFJ5WoSOgBLymQg.iFBcuDXkjGGWMcC1iU0FP5p7BS6FOT7063xva98TRT0g.PNG/04_08.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjcy/MDAxNzMxODk5MDMxNTMy.x367AzC-Z6ajsql2EAd9HWDrlFsF2vFJ5WoSOgBLymQg.iFBcuDXkjGGWMcC1iU0FP5p7BS6FOT7063xva98TRT0g.PNG/04_08.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-e662ee8e-c533-4b7d-accf-08ebc4ebff3a_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-e662ee8e-c533-4b7d-accf-08ebc4ebff3a&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-b9716281-0007-4aab-bba0-d7efb612403e">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-232076a3-1d77-4c99-aa41-110bd870b88b"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-40a7b4c0-9656-411f-bb88-57d5367456b0">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-d764156e-015c-4686-a214-f78990739a53"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-59e7bf8b-1467-41a1-9592-eadd477e7942">일본의 인기 만화 '신의 물방울'과 '진격의 거인'과 콜라보 한 위스키도 보입니다. 한정판 레이블이라 그런지 가격이... 엄청납니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-b9716281-0007-4aab-bba0-d7efb612403e&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-a4fda9de-248b-4c71-8a24-117a02924097">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="width:100.0%;">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-a4fda9de-248b-4c71-8a24-117a02924097&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTY2/MDAxNzMxODg4MDEzMjM4.lQBd8HFEGVKvrkq-_1K3gGsuDWokEhJKOT8Xp05WxC0g.EHmDq6Q372EziADDzUaaVFo4iNgNUwj6jLG3WBdEqvUg.PNG/04_06.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTY2/MDAxNzMxODg4MDEzMjM4.lQBd8HFEGVKvrkq-_1K3gGsuDWokEhJKOT8Xp05WxC0g.EHmDq6Q372EziADDzUaaVFo4iNgNUwj6jLG3WBdEqvUg.PNG/04_06.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-a4fda9de-248b-4c71-8a24-117a02924097_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-a4fda9de-248b-4c71-8a24-117a02924097&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-image se-l-default __se-component" id="SE-85f4f207-aac1-45a8-84b3-2af0196688e0">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-85f4f207-aac1-45a8-84b3-2af0196688e0&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfODgg/MDAxNzMxODk5MDQ5NjA0.OnhtXw1p00c7ckcCnw2IBQJDc7jbO0npAwgjSXR5bAAg.KjEjsEpkXk5RUyC2OLom-o7SkMsWOhuryP-TojR7xTsg.PNG/04_07.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfODgg/MDAxNzMxODk5MDQ5NjA0.OnhtXw1p00c7ckcCnw2IBQJDc7jbO0npAwgjSXR5bAAg.KjEjsEpkXk5RUyC2OLom-o7SkMsWOhuryP-TojR7xTsg.PNG/04_07.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-85f4f207-aac1-45a8-84b3-2af0196688e0_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-85f4f207-aac1-45a8-84b3-2af0196688e0&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-60e167ae-86ed-42ea-98e7-bac463967e38">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-af900e57-da5b-45a8-a8b1-d628eb207c22"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-d33f59d6-dafe-47e4-b625-7951d5441fa5">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-12b988d1-30b0-48bc-bcc4-be44e23e3ab2"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-10cd9776-86a7-4955-845b-8edf3a9b55e2">와인코너도 세계와인부터 일본 와인까지 잘 갖춰져 있습니다. 일본 토착 포도 품종인 고슈(Koshu)로 생산된 화이트와인은 일본 해산물 요리와 페어링이 좋습니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-60e167ae-86ed-42ea-98e7-bac463967e38&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-a2bea9df-38b7-4e78-9523-3f40ccaa95e9">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="width:100.0%;">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-a2bea9df-38b7-4e78-9523-3f40ccaa95e9&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjgz/MDAxNzMxODg4MzM4NTYz.U9hYjHDDSkxOfNdREaI3JikTCmt_W96iUSxWIT8QaEcg.joth55jJqGSOls6OAX2SRkvYZRXVr-3P2a5xb4DJpD4g.PNG/05_01.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjgz/MDAxNzMxODg4MzM4NTYz.U9hYjHDDSkxOfNdREaI3JikTCmt_W96iUSxWIT8QaEcg.joth55jJqGSOls6OAX2SRkvYZRXVr-3P2a5xb4DJpD4g.PNG/05_01.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-a2bea9df-38b7-4e78-9523-3f40ccaa95e9_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-a2bea9df-38b7-4e78-9523-3f40ccaa95e9&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-12741a46-7c7b-4dec-bdb9-c29bcc7c7a3c">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-6fc6b2a4-0f54-486c-aa0d-a43ac973b405"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-26361e6c-396f-48ef-b5ea-b7b0db86e18d">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-8a74a07e-ee61-49b4-baf8-756e641cc10b"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-b0236bd3-c676-4774-a5d2-3ecf06c9cc96"> '신의 물방울'에서 주인공이 시음하며 퀸(Queen)의 '보헤미안 랩소디'를 떠올린 프랑스 보르도 지역의 와인인 샤또 몽페라(Château Mont-Pérat)도 판매하고 있습니다. 가격 대비 품질이 좋은 가성비 와인으로 우리나라에서도 사랑을 받는 와인입니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-12741a46-7c7b-4dec-bdb9-c29bcc7c7a3c&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-1c438010-bd31-4d31-8f25-55819245baf3">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-1c438010-bd31-4d31-8f25-55819245baf3&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjU2/MDAxNzMxODk5MDkwOTU0.kQyEJMLpLiXugndWxAW_voztO-RWe6NzSSdpFw5bz8Ag.zV_pG59mcH7BPBaKFiQ98m9VOvmjVbFN8NjK6RjH_pYg.PNG/05_02.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjU2/MDAxNzMxODk5MDkwOTU0.kQyEJMLpLiXugndWxAW_voztO-RWe6NzSSdpFw5bz8Ag.zV_pG59mcH7BPBaKFiQ98m9VOvmjVbFN8NjK6RjH_pYg.PNG/05_02.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-1c438010-bd31-4d31-8f25-55819245baf3_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-1c438010-bd31-4d31-8f25-55819245baf3&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-18cb7512-a246-4e24-899e-1fdff7c2e3e6">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-0155d248-31fc-4bb4-b201-e9be0b389055"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-4b7cb441-b22a-4c2b-bd15-7953f724b9c2">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-bd112d9a-faf0-4d87-84a0-a534cf7518d5"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-8c8c2ae5-aa7e-4d89-828f-5e101495ab6e">현재 롯폰기힐즈 시나노야의 와인 판매 1위 와인은 칠레산 '빌라골프(Villa Golf}' 라고 합니다. 빌라골프는 골프 스코어링을 활용하여 등급체계를 나누어 골프 애호가들에게 많은 사랑을 받고 있는 와인입니다 (알바트로스 그란 리제르바 &gt;  이글 리제르바 &gt; 홀인원 &gt; 버디 순으로 높은 등급). 골프를 좋아하시는 분께 특별함과 재미를 드릴 수 있는 여행 선물로 좋을 것 같습니다.</span><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-cfda5674-45d0-4b59-ad35-bdef73ef9880">​</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-18cb7512-a246-4e24-899e-1fdff7c2e3e6&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-4929a7ce-ff19-473e-87c7-155abe4684c6">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-4929a7ce-ff19-473e-87c7-155abe4684c6&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfOTUg/MDAxNzMxODg5NDQ5NjM0.v96VavvtwUjJjF5yuz7daj6rEmQFe6MYEXrMuiawiLQg.jkKjl--f0bJvYU9T8EUCKt27yXQtYraT64ToPzslkrYg.PNG/05_05.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfOTUg/MDAxNzMxODg5NDQ5NjM0.v96VavvtwUjJjF5yuz7daj6rEmQFe6MYEXrMuiawiLQg.jkKjl--f0bJvYU9T8EUCKt27yXQtYraT64ToPzslkrYg.PNG/05_05.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-4929a7ce-ff19-473e-87c7-155abe4684c6_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-4929a7ce-ff19-473e-87c7-155abe4684c6&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-02aeea1c-9ac6-4f07-bc66-c5e005555c89">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-96ed5a46-552e-4c9f-8341-57709965982c"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-795f4a74-0c68-4b43-819a-e9d42c119183">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-5ed02376-13e6-43ef-b922-1d21838d4479"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-779de49d-59e0-4dfc-aca3-b1bd181c96a9">술을 못 드시는 분이라면 '돌체 팝 레모네이드'를 추천드립니다. </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-17608859-5845-4fa6-be56-cf2bbd2ea18f"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-e0f3df46-ad21-4aa6-addb-9daf608e6ba9">이탈리아 시칠리아산 레몬과즙 10%를 사용하여 레몬의 상큼함과 적절한 단맛이 조화를 이루는 음료입니다. 차갑게 먹을 수도 따뜻하게 데워 먹어도 좋고 일본 음식과도 잘 어울립니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-02aeea1c-9ac6-4f07-bc66-c5e005555c89&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-788f53c9-4d98-4af7-88fe-1ef88143afd1">
+                    <div class="se-component-content se-component-content-normal">
+                        <div class="se-section se-section-image se-l-default se-section-align-" style="max-width:457px;">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-788f53c9-4d98-4af7-88fe-1ef88143afd1&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjU2/MDAxNzMxODg5ODg2MjEw.f7FzijzTXJnMbMTqvastdalGgHPXgtIWhAAmn-Jzd1Yg.y67RDAiEY-xxIzdCMzN6XqKa0UlKcqEgjWyhgUO6crIg.PNG/06_02.png&quot;, &quot;originalWidth&quot; : &quot;457&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjU2/MDAxNzMxODg5ODg2MjEw.f7FzijzTXJnMbMTqvastdalGgHPXgtIWhAAmn-Jzd1Yg.y67RDAiEY-xxIzdCMzN6XqKa0UlKcqEgjWyhgUO6crIg.PNG/06_02.png?type=w773" data-lazy-src="" data-width="457" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-788f53c9-4d98-4af7-88fe-1ef88143afd1_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-788f53c9-4d98-4af7-88fe-1ef88143afd1&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-9f5959f6-0f8d-4346-9fa2-f7d3d5a47e23">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-c8271eb7-a467-4a25-8cad-f7f4dabaae6c"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-78240958-5c5b-4f8c-b2a0-b6bf3e523f9a"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-e9aec83b-d582-4177-befb-2c3f92f235f0"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-5dced06e-5827-451d-8a28-bb42b88e4596"><b>​</b></span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-9f5959f6-0f8d-4346-9fa2-f7d3d5a47e23&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-horizontalLine se-l-line1" id="SE-42082185-1eb9-4e11-9f75-6ba561282020">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
+                            <div class="se-module se-module-horizontalLine">
+                                <hr class="se-hr">
+                            </div>
+                        </div>
+                    </div>
+                </div>                <div class="se-component se-text se-l-default" id="SE-3fdcb5f6-f171-4414-87b3-cf826f1cbbc6">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-ba50196f-8615-4f32-ae8d-c04f489352d3"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-357e18bb-6270-43c5-9cdb-81347cc89fb5">에스컬레이터를 타고 2층으로 올라갑니다. 2층은 신선식품과 가공식품을 판매합니다. </span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-3fdcb5f6-f171-4414-87b3-cf826f1cbbc6&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="ssp-adcontent align_center"><div id="ssp-adcontent-2" class="ssp_adcontent_inner"><div style="width: 100%; height: auto; margin: 0px auto; line-height: 0;"><iframe id="ssp-adcontent-2_tgtLREC" frameborder="no" scrolling="no" tabindex="0" name="" title="AD" style="width: 100%; height: 0px; visibility: inherit; border: 0px; vertical-align: bottom;"></iframe></div></div></div><div class="se-component se-imageGroup se-l-collage">
                     <div class="se-component-content se-component-content-extend">
-                        <div class="se-section se-section-imageGroup se-l-collage __se-component" id="SE-d147fa1c-cd62-4d01-b7a4-d75218b7cbf7">
+                        <div class="se-section se-section-imageGroup se-l-collage __se-component" id="SE-2fd8d085-ad24-4a82-9160-754009d315b0">
                             <div class="se-imageGroup-viewer">
                                 <div class="se-imageGroup-container">
                                     
                                     <div class="se-imageGroup-item se-imageGroup-col-2">
-                                    <div class="se-module se-module-image" style="width:46.83968187526161%;">
-                                        <a id="SE-5acc04db-e046-4308-99e4-6ed2312c60d0" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-5acc04db-e046-4308-99e4-6ed2312c60d0&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTEx/MDAxNzY1NDU0NDY3MzU2.cMSzqlqIPFJp_lBZsfn2N0lgUnkGHxRU9L1OhevA1EUg.vYLl0CXHpVGcOTgd1cSojYnTD-wmwry0PpWxfW5EDvkg.JPEG/SE-5acc04db-e046-4308-99e4-6ed2312c60d0.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1270&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1058360&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTEx/MDAxNzY1NDU0NDY3MzU2.cMSzqlqIPFJp_lBZsfn2N0lgUnkGHxRU9L1OhevA1EUg.vYLl0CXHpVGcOTgd1cSojYnTD-wmwry0PpWxfW5EDvkg.JPEG/SE-5acc04db-e046-4308-99e4-6ed2312c60d0.jpg?type=w386" data-lazy-src="" data-width="900" data-height="1270" alt="" class="se-image-resource egjs-visible" id="SE-d147fa1c-cd62-4d01-b7a4-d75218b7cbf7_0">
+                                    <div class="se-module se-module-image" style="width:61.791967044284235%;">
+                                        <a id="SE-f1dee1a5-c68e-4194-b17f-f7596c1b5ecd" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-f1dee1a5-c68e-4194-b17f-f7596c1b5ecd&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfNTEg/MDAxNzMxODkwNjU1MjY3.DX6UXLOue8CsqVVLks2DyfbJZsjSQEyjGnOkeeIpFrgg.3OJmc-qGATOhvAsZLdZgHEZ3iR07Gb7RDCqBbFdAqCMg.PNG/07.png&quot;, &quot;originalWidth&quot; : &quot;600&quot;, &quot;originalHeight&quot; : &quot;800&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfNTEg/MDAxNzMxODkwNjU1MjY3.DX6UXLOue8CsqVVLks2DyfbJZsjSQEyjGnOkeeIpFrgg.3OJmc-qGATOhvAsZLdZgHEZ3iR07Gb7RDCqBbFdAqCMg.PNG/07.png?type=w773" data-lazy-src="" data-width="600" data-height="800" alt="" class="se-image-resource egjs-visible" id="SE-2fd8d085-ad24-4a82-9160-754009d315b0_0">
                                         </a>
                                     </div>
-                                    <div class="se-module se-module-image" style="width:53.16031812473839%;">
-                                        <a id="SE-f86a729a-3b89-4e71-9487-54a40b723bcc" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-f86a729a-3b89-4e71-9487-54a40b723bcc&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMjgx/MDAxNzY1NDU0NDY4ODA5.xz0WuzmkzKkhHGvBCBEYjx7x6yLW85I-X4UUB0LoZtIg.4a7nchP70YqYbRk0Z4SX8NWZcVMUvFcxjQ5tQmWZGcgg.JPEG/SE-f86a729a-3b89-4e71-9487-54a40b723bcc.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1119&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;975525&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMjgx/MDAxNzY1NDU0NDY4ODA5.xz0WuzmkzKkhHGvBCBEYjx7x6yLW85I-X4UUB0LoZtIg.4a7nchP70YqYbRk0Z4SX8NWZcVMUvFcxjQ5tQmWZGcgg.JPEG/SE-f86a729a-3b89-4e71-9487-54a40b723bcc.jpg?type=w386" data-lazy-src="" data-width="900" data-height="1119" alt="" class="se-image-resource egjs-visible" id="SE-d147fa1c-cd62-4d01-b7a4-d75218b7cbf7_1">
+                                    <div class="se-module se-module-image" style="width:38.208032955715765%;">
+                                        <a id="SE-69a71041-dacf-4205-a8be-fbae7b892918" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-69a71041-dacf-4205-a8be-fbae7b892918&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTU3/MDAxNzMxODkwNjU1MjI2.0YWw9tt-tRS3uGgrEqHrJ6XHjGeXT688ieY2fqxGk4gg.Q-2g8oFub9dhspbwXUswDJkZuoJFxJBO7jYONGqJL1wg.PNG/07_01.png&quot;, &quot;originalWidth&quot; : &quot;371&quot;, &quot;originalHeight&quot; : &quot;800&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTU3/MDAxNzMxODkwNjU1MjI2.0YWw9tt-tRS3uGgrEqHrJ6XHjGeXT688ieY2fqxGk4gg.Q-2g8oFub9dhspbwXUswDJkZuoJFxJBO7jYONGqJL1wg.PNG/07_01.png?type=w386" data-lazy-src="" data-width="371" data-height="800" alt="" class="se-image-resource egjs-visible" id="SE-2fd8d085-ad24-4a82-9160-754009d315b0_1">
                                         </a>
                                     </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-ef54b33e-743d-4364-9912-9eae560abdb9"><span style="" class="se-fs- se-ff-   " id="SE-431b30bc-bd61-4e07-bb1e-e7d94a66bdf6">닌텐도 컨트롤러 가챠</span></p></div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_imageGroup&quot;, &quot;id&quot; :&quot;SE-d147fa1c-cd62-4d01-b7a4-d75218b7cbf7&quot;, &quot;data&quot;: { &quot;layout&quot; : &quot;collage&quot; }}" data-module-v2="{&quot;type&quot;: &quot;v2_imageGroup&quot;, &quot;id&quot;: &quot;SE-d147fa1c-cd62-4d01-b7a4-d75218b7cbf7&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;imageGroup&quot;, &quot;layout&quot;: &quot;collage&quot;, &quot;images&quot;: [ {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-5acc04db-e046-4308-99e4-6ed2312c60d0&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1058360&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-f86a729a-3b89-4e71-9487-54a40b723bcc&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;975525&quot; } ] }}"></script>
-                </div>                <div class="se-component se-horizontalLine se-l-line1" id="SE-693baf3e-4c9a-4a5d-9bef-10bde74a8455">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
-                        </div>
-                    </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-b518e589-3452-47f8-bfca-b8d66a853898">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center " style="line-height:1.9;" id="SE-6a5bdeb2-7283-4d6b-93ed-662918fd080c"><span style="color:#333333;" class="se-fs- se-ff-nanumbarungothic   " id="SE-d3e277aa-5e5d-4502-b895-b1f1df09992b"><b>2. 포켓몬센터 시부야 - 뮤츠·한정판·카드</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-b518e589-3452-47f8-bfca-b8d66a853898&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-4f97b976-5bda-4e1c-ab4f-07041307a483">
+                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_imageGroup&quot;, &quot;id&quot; :&quot;SE-2fd8d085-ad24-4a82-9160-754009d315b0&quot;, &quot;data&quot;: { &quot;layout&quot; : &quot;collage&quot; }}" data-module-v2="{&quot;type&quot;: &quot;v2_imageGroup&quot;, &quot;id&quot;: &quot;SE-2fd8d085-ad24-4a82-9160-754009d315b0&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;imageGroup&quot;, &quot;layout&quot;: &quot;collage&quot;, &quot;images&quot;: [ {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-f1dee1a5-c68e-4194-b17f-f7596c1b5ecd&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-69a71041-dacf-4205-a8be-fbae7b892918&quot;, &quot;ai&quot;: &quot;false&quot; } ] }}"></script>
+                </div>                <div class="se-component se-text se-l-default" id="SE-7ca7c2d3-8553-4348-afaa-eb9cb46299ff">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-efbf8b54-5d25-4ea2-bcf5-f1e28cff4da5"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-fefa0707-d94d-481f-a653-182490ecae20">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-8290f7bc-d6a8-4ae0-82b4-871a8c1d3ab4"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-641e704d-9e5d-46a6-8f54-b108783b0ad2">다른 지점(이케부쿠로, 니혼바시)과 달리 '블랙 &amp; 스트릿' 콘셉트로 가장 힙한 분위기를 자랑합니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-2c9c1d46-4794-440d-8e60-a4b46c87000b"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a0b41752-f873-40eb-aa64-b54b2de4568c"><b>​</b></span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-7d6d5225-c6ea-474d-af7a-fcecbc096c53"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-2315b8c9-9b7d-4f0d-b28d-8596502f4ab7">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-98a24f46-1e74-43a9-bb4e-27f28f8f43d7"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-738cf982-ec98-43e7-90d6-f74885271e2c">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-db9fd0f4-3bac-4e0f-9f83-f18fce4888fc"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-99de416e-cd7f-41dd-89f0-03e3af6f9e3d">채소, 과일, 고기, 생선 정말 다양한 식재료가 있습니다. 해외여행 후 반입을 할 수 없는 물품들이지만 구경하는 재미가 있습니다.  특히 생선코너에는 처음 보는 생선과 식재료가 가득합니다.</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-4f97b976-5bda-4e1c-ab4f-07041307a483&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-e0bde0fe-76cd-479a-9a8c-9e50c02ee883">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-f14e09e7-4dd0-44f3-ac2c-2533db5fd9bb"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-6437c2ca-eedf-44a5-902f-8ee9c60153a2"><b>✅ 필수 포토존: 뮤츠(Mewtwo) </b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-326bd72f-b91f-4a03-93bc-c7ecf4cb9bd6">입구에 들어서면 마치 살아 숨 쉬는 듯 움직이는 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-8633458e-76d5-4581-a1fc-c2f2b7b95571"><b>실물 크기의 뮤츠</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-519590f1-ddf8-4473-8586-1cc7488d5b9c">가 배양관 속에 있습니다. 시부야점의 랜드마크이니 인증샷/영상 필수!</span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-e0bde0fe-76cd-479a-9a8c-9e50c02ee883&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="ssp-adcontent align_center"><div id="ssp-adcontent-2" class="ssp_adcontent_inner"><div style="width: 100%; height: auto; margin: 0px auto; line-height: 0;"><iframe id="ssp-adcontent-2_tgtLREC" frameborder="no" scrolling="no" tabindex="0" name="" title="AD" style="width: 100%; height: 0px; visibility: inherit; border: 0px; vertical-align: bottom;"></iframe></div></div></div><div class="se-component se-image se-l-default __se-component" id="SE-c573dd92-b272-4f46-bfbf-e773a86573f5">
-                    <div class="se-component-content se-component-content-fit">
-                        <div class="se-section se-section-image se-l-default se-section-align-">
-                                <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-c573dd92-b272-4f46-bfbf-e773a86573f5&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTg4/MDAxNzY1NDU0NDcwNDIx.e6kjiJUFA3S1yHI8EapBieolrfLeezp_s9LkgXoYWGcg.Z-7wnEE2O3gNE3DHccbIY9Sqj2xYjlJlcJcyi3AnU7Yg.JPEG/SE-c573dd92-b272-4f46-bfbf-e773a86573f5.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1200&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1198667&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTg4/MDAxNzY1NDU0NDcwNDIx.e6kjiJUFA3S1yHI8EapBieolrfLeezp_s9LkgXoYWGcg.Z-7wnEE2O3gNE3DHccbIY9Sqj2xYjlJlcJcyi3AnU7Yg.JPEG/SE-c573dd92-b272-4f46-bfbf-e773a86573f5.jpg?type=w773" data-lazy-src="" data-width="693" data-height="924" alt="" class="se-image-resource egjs-visible" id="SE-c573dd92-b272-4f46-bfbf-e773a86573f5_0">
-                                    </a>
-                                </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-71272c41-4ae9-462b-99d7-cbb572d25fec"><span style="" class="se-fs- se-ff-   " id="SE-854ada84-8b98-4c77-93ea-1c06de32764f"><b>포켓몬센터 시부야 포토존 뮤츠</b></span></p></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-c573dd92-b272-4f46-bfbf-e773a86573f5&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1198667&quot; }}"></script>
-                </div>
-                <div class="se-component se-sectionTitle se-l-default" id="SE-610988b3-122d-4421-aafc-dc165257653c">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-f78964c9-208c-4f29-827d-3f5b994a6a05"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-7bd501e0-156b-4a97-a2ec-a34cba8e96db"><b>​</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-610988b3-122d-4421-aafc-dc165257653c&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-6768eddf-1030-4119-86ae-584d2f89c89e">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-97398a8a-fcaa-4f55-a64a-cda9ed1f01d4"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-411ad439-7297-42fb-8b29-b9c9fda89a55"><b>✅ 시부야 한정 굿즈</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-6768eddf-1030-4119-86ae-584d2f89c89e&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-0ea513a6-e7e3-4d5f-9f95-514a7bedb250">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-40658355-a076-43fa-872a-a503490c8424"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-21a22dad-d6b8-4ec5-9268-3e1ca6b3805e"><b>그라피티 피카츄:</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-4505c369-5553-4dbe-8d0f-09595816b19c"> 모자와 옷에 그래피티 아트가 그려진 힙한 피카츄 인형</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-9e9d1528-530b-4d54-9700-c46cf09785b9"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-122f5754-87f1-40dc-8ade-e0a3875afaed"><b>크리스탈 피카츄:</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-0864d675-0813-40df-a1b8-9a025177e9fa"> 스와로브스키로 장식된 화려한 피카츄 (고가)</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-59e77fc9-7897-4a32-8ca6-70dfb0100d2c"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-8e640c85-591c-41e2-90fd-4fe759d6ec5f"><b>포켓몬 디자인 랩: </b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a739c184-c776-4794-9c9f-bde89a631f38">터치스크린으로 나만의 포켓몬 티셔츠 커스텀 제작 가능 (대기 시간 있음)</span></p></li></ul><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-0ea513a6-e7e3-4d5f-9f95-514a7bedb250&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-7ca7c2d3-8553-4348-afaa-eb9cb46299ff&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
                 </div>                <div class="se-component se-imageGroup se-l-collage">
                     <div class="se-component-content se-component-content-extend">
-                        <div class="se-section se-section-imageGroup se-l-collage __se-component" id="SE-27b635ad-b8cd-430b-b2de-ec1b46f6ac29">
+                        <div class="se-section se-section-imageGroup se-l-collage __se-component" id="SE-4f39e4cf-08b9-4580-8cba-012d8d51443f">
                             <div class="se-imageGroup-viewer">
                                 <div class="se-imageGroup-container">
                                     
                                     <div class="se-imageGroup-item se-imageGroup-col-2">
-                                    <div class="se-module se-module-image" style="width:32.773109243697476%;">
-                                        <a id="SE-9fd84b37-aa23-461c-8a13-be7a2e41a426" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-9fd84b37-aa23-461c-8a13-be7a2e41a426&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMjUz/MDAxNzY1NDU0NDcyMDgx.ZxKyZVTa025ut2pVy3m5bZxGMmfm-82MiUg7o9pFawQg.lu4Zk9SvMBpNf9qzWV25pw_PYhYVZl0HHij-h2amrBEg.JPEG/SE-9fd84b37-aa23-461c-8a13-be7a2e41a426.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;1200&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;1280619&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMjUz/MDAxNzY1NDU0NDcyMDgx.ZxKyZVTa025ut2pVy3m5bZxGMmfm-82MiUg7o9pFawQg.lu4Zk9SvMBpNf9qzWV25pw_PYhYVZl0HHij-h2amrBEg.JPEG/SE-9fd84b37-aa23-461c-8a13-be7a2e41a426.jpg?type=w386" data-lazy-src="" data-width="900" data-height="1200" alt="" class="se-image-resource egjs-visible" id="SE-27b635ad-b8cd-430b-b2de-ec1b46f6ac29_0">
+                                    <div class="se-module se-module-image" style="width:50.0%;">
+                                        <a id="SE-0778a4ad-b7f6-425d-80ec-b3c0cceb18ea" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-0778a4ad-b7f6-425d-80ec-b3c0cceb18ea&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTYw/MDAxNzMxOTA4OTEyNjc3.d-uW72TPVtWW_Zmp7XvxZZ1594eqGpO_1Bl4RpLp1ogg.gua3leR8NQZ3UZGXiX55XFsqcgDfomlFLYKOyi9SLBUg.PNG/08_02.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTYw/MDAxNzMxOTA4OTEyNjc3.d-uW72TPVtWW_Zmp7XvxZZ1594eqGpO_1Bl4RpLp1ogg.gua3leR8NQZ3UZGXiX55XFsqcgDfomlFLYKOyi9SLBUg.PNG/08_02.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-4f39e4cf-08b9-4580-8cba-012d8d51443f_0">
                                         </a>
                                     </div>
-                                    <div class="se-module se-module-image" style="width:67.22689075630252%;">
-                                        <a id="SE-1d41dab0-8b91-4864-845c-3f6e3f14b8e3" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-1d41dab0-8b91-4864-845c-3f6e3f14b8e3&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMzMg/MDAxNzY1NDU0NDczNzkz.obg177Xj8SAuvbc5GGuVJ0Yu2kcfC9Z1L9lCDxmbzO4g.1bHcdq7-ZfOVul76ouaJYPzqcxwgZv31YopmfXX1BCog.JPEG/SE-1d41dab0-8b91-4864-845c-3f6e3f14b8e3.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;585&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;668848&quot; }" area-hidden="true">
-                                            <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMzMg/MDAxNzY1NDU0NDczNzkz.obg177Xj8SAuvbc5GGuVJ0Yu2kcfC9Z1L9lCDxmbzO4g.1bHcdq7-ZfOVul76ouaJYPzqcxwgZv31YopmfXX1BCog.JPEG/SE-1d41dab0-8b91-4864-845c-3f6e3f14b8e3.jpg?type=w773" data-lazy-src="" data-width="900" data-height="585" alt="" class="se-image-resource egjs-visible" id="SE-27b635ad-b8cd-430b-b2de-ec1b46f6ac29_1">
+                                    <div class="se-module se-module-image" style="width:50.0%;">
+                                        <a id="SE-32eb22d8-c658-4833-b956-3930e69f4a26" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-32eb22d8-c658-4833-b956-3930e69f4a26&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMzMg/MDAxNzMxOTA4OTEyNjc3.2xqq11rAK3LsPNCAVPeVUfTQ4pTtCJBi-YXZSpQUbAog.7fT6p8r0PlH4dgIn41AFaNnEe4tV7kiLYZ3Ny4hgigAg.PNG/08_03.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMzMg/MDAxNzMxOTA4OTEyNjc3.2xqq11rAK3LsPNCAVPeVUfTQ4pTtCJBi-YXZSpQUbAog.7fT6p8r0PlH4dgIn41AFaNnEe4tV7kiLYZ3Ny4hgigAg.PNG/08_03.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-4f39e4cf-08b9-4580-8cba-012d8d51443f_1">
+                                        </a>
+                                    </div>
+                                    </div>
+                                    <div class="se-imageGroup-item se-imageGroup-col-2">
+                                    <div class="se-module se-module-image" style="width:50.0%;">
+                                        <a id="SE-35c5d501-7ff4-4451-8354-2dcde06662ff" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-35c5d501-7ff4-4451-8354-2dcde06662ff&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfNzYg/MDAxNzMxOTA4OTEyNjg5.rfJNU1xlbZJSP7-avw4_MH6qmsWJX1x15dd59kvFBbIg.m4SOX8GC1hYCUNs4CSmNhnyX2yak5G260lsEg49q2-sg.PNG/08_04.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfNzYg/MDAxNzMxOTA4OTEyNjg5.rfJNU1xlbZJSP7-avw4_MH6qmsWJX1x15dd59kvFBbIg.m4SOX8GC1hYCUNs4CSmNhnyX2yak5G260lsEg49q2-sg.PNG/08_04.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-4f39e4cf-08b9-4580-8cba-012d8d51443f_2">
+                                        </a>
+                                    </div>
+                                    <div class="se-module se-module-image" style="width:50.0%;">
+                                        <a id="SE-6c95c31d-f8f6-43f6-b279-766487e74a0b" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-6c95c31d-f8f6-43f6-b279-766487e74a0b&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjQx/MDAxNzMxOTA4OTEyNzA2.MMzCHQiBso-bZvLWyVX2iNXwsXTGRbuflbHkSPlvGLQg.DML-f4tsrK7_anxTgZumwMrV9RFVvIRCemHwH4mpjqcg.PNG/09_05.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjQx/MDAxNzMxOTA4OTEyNzA2.MMzCHQiBso-bZvLWyVX2iNXwsXTGRbuflbHkSPlvGLQg.DML-f4tsrK7_anxTgZumwMrV9RFVvIRCemHwH4mpjqcg.PNG/09_05.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-4f39e4cf-08b9-4580-8cba-012d8d51443f_3">
+                                        </a>
+                                    </div>
+                                    </div>
+                                    <div class="se-imageGroup-item se-imageGroup-col-2">
+                                    <div class="se-module se-module-image" style="width:50.0%;">
+                                        <a id="SE-2a7e0e1b-45d5-4edb-8351-63b0243edab4" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-2a7e0e1b-45d5-4edb-8351-63b0243edab4&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjY2/MDAxNzMxOTA4OTEyNjk4.PNq1Zm9wkDBy4zJLhiNbogbnsCu_kYbk0Cn9Sk6Xriwg.ZzAAQfDGRUJlqX5LBiUsiJ800CfVpRgZZ6IwJVpPiFIg.PNG/10_03.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjY2/MDAxNzMxOTA4OTEyNjk4.PNq1Zm9wkDBy4zJLhiNbogbnsCu_kYbk0Cn9Sk6Xriwg.ZzAAQfDGRUJlqX5LBiUsiJ800CfVpRgZZ6IwJVpPiFIg.PNG/10_03.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-4f39e4cf-08b9-4580-8cba-012d8d51443f_4">
+                                        </a>
+                                    </div>
+                                    <div class="se-module se-module-image" style="width:50.0%;">
+                                        <a id="SE-135327bd-9df8-4ca7-9cbe-a3611887551e" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-135327bd-9df8-4ca7-9cbe-a3611887551e&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTg1/MDAxNzMxOTA4OTEyNzA0.s0_Jkea9T-Lh5GrFCTReiJuY_Fzb_85knQQJZOpOh8kg.LxwrM_6I-8tTsfX5tZT3QL7KYpHTA_ymaTzC57xmrPYg.PNG/10_04.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTg1/MDAxNzMxOTA4OTEyNzA0.s0_Jkea9T-Lh5GrFCTReiJuY_Fzb_85knQQJZOpOh8kg.LxwrM_6I-8tTsfX5tZT3QL7KYpHTA_ymaTzC57xmrPYg.PNG/10_04.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-4f39e4cf-08b9-4580-8cba-012d8d51443f_5">
                                         </a>
                                     </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-2ef577ca-5ed9-4562-87bd-a52cf4e633d5"><span style="" class="se-fs- se-ff-   " id="SE-d7e96f10-b79a-4251-82a8-4168cecfa72a">포켓몬 디자인 랩 포켓몬 티셔츠 커스텀 제작</span></p></div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_imageGroup&quot;, &quot;id&quot; :&quot;SE-27b635ad-b8cd-430b-b2de-ec1b46f6ac29&quot;, &quot;data&quot;: { &quot;layout&quot; : &quot;collage&quot; }}" data-module-v2="{&quot;type&quot;: &quot;v2_imageGroup&quot;, &quot;id&quot;: &quot;SE-27b635ad-b8cd-430b-b2de-ec1b46f6ac29&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;imageGroup&quot;, &quot;layout&quot;: &quot;collage&quot;, &quot;images&quot;: [ {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-9fd84b37-aa23-461c-8a13-be7a2e41a426&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;1280619&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-1d41dab0-8b91-4864-845c-3f6e3f14b8e3&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;668848&quot; } ] }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-c00d9c2b-8974-49d6-a445-2bbd155a0534">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a55eec28-e397-4f32-a326-92dda9cbf6c3"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-6ed65c9c-595e-45b4-bcc2-1a38d21f3efb"><b>​</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-c00d9c2b-8974-49d6-a445-2bbd155a0534&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-fc31b15a-211c-40f9-beb8-876bb7c9e225">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-305cdf6b-227e-4592-a4e7-33537abbe96b"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-b803c746-be3b-4256-8a14-2f08d2980168"><b>✅ 포켓몬 카드(TCG) 구매 꿀팁 &amp; 주의사항</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-fc31b15a-211c-40f9-beb8-876bb7c9e225&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-7e976e38-c4fa-46ff-a1ba-96058b5ebd13">
+                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_imageGroup&quot;, &quot;id&quot; :&quot;SE-4f39e4cf-08b9-4580-8cba-012d8d51443f&quot;, &quot;data&quot;: { &quot;layout&quot; : &quot;collage&quot; }}" data-module-v2="{&quot;type&quot;: &quot;v2_imageGroup&quot;, &quot;id&quot;: &quot;SE-4f39e4cf-08b9-4580-8cba-012d8d51443f&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;imageGroup&quot;, &quot;layout&quot;: &quot;collage&quot;, &quot;images&quot;: [ {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-0778a4ad-b7f6-425d-80ec-b3c0cceb18ea&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-32eb22d8-c658-4833-b956-3930e69f4a26&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-35c5d501-7ff4-4451-8354-2dcde06662ff&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-6c95c31d-f8f6-43f6-b279-766487e74a0b&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-2a7e0e1b-45d5-4edb-8351-63b0243edab4&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-135327bd-9df8-4ca7-9cbe-a3611887551e&quot;, &quot;ai&quot;: &quot;false&quot; } ] }}"></script>
+                </div>                <div class="se-component se-text se-l-default" id="SE-b7cbae1c-f223-4a95-9771-5b50a94c8bc7">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-59bbf0cf-e9c4-4a73-a582-2ddfe4b7f2e3"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-0854daf0-118a-4f34-aafe-b75d08106317">시부야 포켓몬 센터에서 포켓몬 카드를 구매하실 예정이라면 꼭 확인하세요! (2025년 최신 정책 기준)</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-2135d03c-5459-4a20-a65c-ed316a13e250"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-12cdafb5-dd94-41f1-9c1e-7624e43badba"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-156e0cc8-1667-457f-9070-c3915a81a8a4"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-720ab4c5-4570-48f2-b728-4368a6b22841"><b>1. 카드는 계산대에 있어요</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-ced9a1b6-2486-4ddf-a50f-7fda0202ab9f"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-91f878f9-c2b8-473c-aa81-96ff7fb996ce">인기 확장팩은 진열대가 아닌 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-46e5d4b2-3a23-4aac-bdc0-711813c8aa7c"><b>계산대(Cashier)</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-dea7a5d7-38a2-4ec1-b7a4-1d5047880b5f">에서 판매합니다. 진열대에 없어도 포기하지 말고 계산 시 문의하세요.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a2597aab-547c-47d9-845f-d526e8d2ed2a"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-f6944135-f760-4248-a498-8eea441fdbd9"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-da3b050e-fc59-4aa1-828b-c830f8df31ec"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-cef3190d-cbd9-49c6-bc2b-48538be4d9a4"><b>2. 1인당 구매 제한 (Purchase Limit) </b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-9aac497f-f2ac-4d50-9930-2d5224b17908"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-0dfbbaad-665d-4bb5-81c7-1882bcc34c98">되팔이 방지를 위해 '1인당 5팩', '1인당 10팩' 등 수량 제한이 철저합니다. 인기 팩은 오전에 품절(SOLD OUT)되는 경우가 많습니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-9becad54-e99c-468a-a2fa-694411d58255"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-072a4c2f-d476-48f1-90cc-aa35add0edcc"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-8fb30eee-004d-4819-a886-8c6bd751c4b3"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-f8eebf10-f647-494a-968b-7ab187c5d22c"><b>3. 슈링크(비닐) 제거 정책 (중요!) </b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-c65709ca-a68b-47e7-923d-182f89ebd602"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-e01366d5-f0a4-49ae-bd7e-9b215c6cc48a">박스 단위로 구매하더라도, 현장에서 직원이 비닐 포장(슈링크)을 제거한 상태로 건네줍니다. 미개봉 소장용 구매 시 참고하세요!</span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-d3e26cef-4605-413d-a730-7b49db5ef9cf"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-d4b536c7-9efe-41f0-85f2-afe474667811">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-a8af1da2-3126-4e72-87c9-ffa04f38dd29"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-96106f65-7afa-4903-ac46-df76fc7034c0">1층에서 파는 180ml  닷사이 한 병과 모둠 회 한 팩이면 2만 원으로 행복한 저녁을 만들 수 있을 것 같습니다.</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-7e976e38-c4fa-46ff-a1ba-96058b5ebd13&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-3393216a-dcbd-476d-bd27-8bd505413442">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-b7cbae1c-f223-4a95-9771-5b50a94c8bc7&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-07f62072-70ce-49ba-b7d0-e669fd91a819">
                     <div class="se-component-content se-component-content-fit">
                         <div class="se-section se-section-image se-l-default se-section-align-">
                                 <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-3393216a-dcbd-476d-bd27-8bd505413442&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTM1/MDAxNzY1NDU0NDc1MTAx.uTw1CU7OxDREnzVK2A0RCC72NX93iRgznTttrl-uZR4g.4z4jmqljOc2hjHibkoU3Djkr0EDkjVP0Z3nFA5pHd1og.JPEG/SE-3393216a-dcbd-476d-bd27-8bd505413442.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;675&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;652580&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTM1/MDAxNzY1NDU0NDc1MTAx.uTw1CU7OxDREnzVK2A0RCC72NX93iRgznTttrl-uZR4g.4z4jmqljOc2hjHibkoU3Djkr0EDkjVP0Z3nFA5pHd1og.JPEG/SE-3393216a-dcbd-476d-bd27-8bd505413442.jpg?type=w773" data-lazy-src="" data-width="693" data-height="519" alt="" class="se-image-resource egjs-visible" id="SE-3393216a-dcbd-476d-bd27-8bd505413442_0">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-07f62072-70ce-49ba-b7d0-e669fd91a819&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTA5/MDAxNzMxODk2NTY2OTM0.6AqdNlBrmMei6BPU5g_gc8NaLuZcSH9bWmRj2fg12lQg.qD0BtHyWvmDADR6r9D3Xk7Wtds1tL3RMCCVXtgj5VwQg.PNG/10_01.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTA5/MDAxNzMxODk2NTY2OTM0.6AqdNlBrmMei6BPU5g_gc8NaLuZcSH9bWmRj2fg12lQg.qD0BtHyWvmDADR6r9D3Xk7Wtds1tL3RMCCVXtgj5VwQg.PNG/10_01.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-07f62072-70ce-49ba-b7d0-e669fd91a819_0">
                                     </a>
                                 </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-5fae0098-9c78-4871-acd4-d702a620ed42"><span style="" class="se-fs- se-ff- se-weight-unset  " id="SE-e8849e2b-e8bc-4764-bea6-3e8a78823aad">포켓몬 </span><span style="" class="se-fs- se-ff-   " id="SE-0da94a9b-a0ed-49cd-a087-e0f9449395d9"><b>카드(TCG) 구매 꿀팁 &amp; 주의사항</b></span></p></div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-3393216a-dcbd-476d-bd27-8bd505413442&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;652580&quot; }}"></script>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-07f62072-70ce-49ba-b7d0-e669fd91a819&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
                 </div>
-                <div class="se-component se-sectionTitle se-l-default" id="SE-9e6e39d5-f884-43d9-a25c-e361b9af53e9">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-4716c570-2b56-49fb-8cc5-aac3307c08ed"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-17d85a84-214e-4999-8156-e3b189312d4f"><b>​</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-9e6e39d5-f884-43d9-a25c-e361b9af53e9&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-377879b9-d66c-4c8c-8d18-9648693a0306">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-ce05917b-0ff5-4f1c-89b7-2468e4155fbf"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a59e56c4-1c22-40ec-bbaf-bfbd77f41e4c"><b>✅ 생일 혜택</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-377879b9-d66c-4c8c-8d18-9648693a0306&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-cb89e467-9841-428a-8db0-a9405cc04861">
+                <div class="se-component se-text se-l-default" id="SE-ee6f6ff2-a399-43bd-bb7a-80c7cc3b15a8">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-0c8505c5-aa47-4f44-8bae-83926e74f01e"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-523217b5-c491-45cc-b037-78b065619cd8">생일인 달에 방문 시 여권/신분증을 보여주면 '생일 카드'와 '스티커'를 받을 수 있습니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-803c8e04-c842-45e2-8775-d8a88bec92f2"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-05d4fc80-049a-4e89-b93b-80f128b7dc41">​</span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-4dd987d5-1926-416b-ae85-ac9d4ad0eae6"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-22d12232-c4b7-4f5b-a1dd-3f1162cdd715">​</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-cb89e467-9841-428a-8db0-a9405cc04861&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-490fe151-fae6-45d3-883f-f4028602d18d">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-ee6f6ff2-a399-43bd-bb7a-80c7cc3b15a8&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-quotation se-l-quotation_line" id="SE-72da5b88-a4ac-4674-bdf0-4bd392aeeb86">
                     <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-9b7a7044-7da9-4653-80d2-449f29df6162"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-f53a8abc-eda4-4578-8c8d-b398d5346519"><b>✅ 면세(Tax-Free): ⭕️ 면세가능 </b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-e30adcf0-2f99-43e2-8335-8bcada46d304">(세금 포함 5,500엔 이상, 여권 필수)</span></p><!-- } SE-TEXT --></div>
+                        <div class="se-section se-section-quotation se-l-quotation_line">
+                            <blockquote class="se-quotation-container">
+                                <div class="se-module se-module-text se-quote"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-f428c335-aa31-48ff-a580-2b95529011c4"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-141f62d1-9f0e-4725-8f65-026ed2f3d644"><b>추천선물3. 여러가지 양념과 스시전용간장</b></span></p><!-- } SE-TEXT --></div>
+                            </blockquote>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-490fe151-fae6-45d3-883f-f4028602d18d&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-7decd0e6-f549-4233-814f-37630be1f76f">
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-5740d5ce-c8ac-4aed-ae2e-b88b45f90a25">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-15c1afe6-c694-4b20-a9c8-7808a5c5b688"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-31c3f7be-b261-4be0-9b7d-6e368c7f37db">일본 요리는 '우마미(旨味)' - 감칠맛을 다섯 번째 맛이라고 부르며 그 맛일 내기 위해 다양한 조미료를 개발했다고 합니다.  간장, 된장, 식초 들은 지역별로 색과 맛이 다르고, 곁들이는 음식이 무엇이냐에 따라 제품이 구별되어 있습니다.  </span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-5740d5ce-c8ac-4aed-ae2e-b88b45f90a25&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-17a26b0b-e0f7-4050-af2e-dc83ce6c8795">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="width:100.0%;">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-17a26b0b-e0f7-4050-af2e-dc83ce6c8795&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMjYw/MDAxNzMxODkyMTA3NTc3.LO1Ag8s8QDegwv2jl5LWjPmtVCixs2TnMFuBvRux8FYg.QR7uxhNdll5ulDmvqwE1cES6b0jXBFgZyXEabbLnWxQg.PNG/11_01.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMjYw/MDAxNzMxODkyMTA3NTc3.LO1Ag8s8QDegwv2jl5LWjPmtVCixs2TnMFuBvRux8FYg.QR7uxhNdll5ulDmvqwE1cES6b0jXBFgZyXEabbLnWxQg.PNG/11_01.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-17a26b0b-e0f7-4050-af2e-dc83ce6c8795_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-17a26b0b-e0f7-4050-af2e-dc83ce6c8795&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-d82e3b64-b9a3-4187-b3db-17e70807868e">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-d50d91fa-d206-482c-bc41-e11882d2e58b"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-83cae921-19c0-4710-aac0-481e11f5d086">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-e2b9a9da-a4a0-4cf4-ada5-3336f6166729"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-07c8b97f-3862-4242-8319-f1981aed4ac0">지역별로 생산된 간장이 정말 다양합니다. 기꼬만(Kikkoman), 야마사(Yamasa), 히가시마루(Higashimaru)와 같은 대형 브랜드 뿐 아니라 지역별로 다양한 간장이 있는 것이 신기하였습니다. 간사이 지역은 연한 색의 간장을 선호하고, 간토 지역은 짙은 색의 간장을 선호한다고 합니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-d82e3b64-b9a3-4187-b3db-17e70807868e&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-b33d17ac-60d0-4b19-a098-801687fc054f">
                     <div class="se-component-content se-component-content-fit">
                         <div class="se-section se-section-image se-l-default se-section-align-">
                                 <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-7decd0e6-f549-4233-814f-37630be1f76f&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfNDQg/MDAxNzY1NDU0NDQ3MTQ5.uymfoCtQeO61_cGwa9vLknwRclpSZovmQvzz1QKKY2Mg.lCm7cDoJ-5rI8syLpa_eVUmY4IuP24mYiGLE3xVcdCcg.JPEG/SE-7decd0e6-f549-4233-814f-37630be1f76f.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;677&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;675503&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfNDQg/MDAxNzY1NDU0NDQ3MTQ5.uymfoCtQeO61_cGwa9vLknwRclpSZovmQvzz1QKKY2Mg.lCm7cDoJ-5rI8syLpa_eVUmY4IuP24mYiGLE3xVcdCcg.JPEG/SE-7decd0e6-f549-4233-814f-37630be1f76f.jpg?type=w773" data-lazy-src="" data-width="693" data-height="521" alt="" class="se-image-resource egjs-visible" id="SE-7decd0e6-f549-4233-814f-37630be1f76f_0">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-b33d17ac-60d0-4b19-a098-801687fc054f&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTAz/MDAxNzMxODk5MTM0OTU4.izVgWRxzppB5LWtnPk5o6wBviKlHYZi_JEs_M9I8UCMg.cWO_SWPvvsKHptlQv1hhz0xqbtWpbHR0WFhhOuTA80Ig.PNG/11_03.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTAz/MDAxNzMxODk5MTM0OTU4.izVgWRxzppB5LWtnPk5o6wBviKlHYZi_JEs_M9I8UCMg.cWO_SWPvvsKHptlQv1hhz0xqbtWpbHR0WFhhOuTA80Ig.PNG/11_03.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-b33d17ac-60d0-4b19-a098-801687fc054f_0">
                                     </a>
                                 </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-9a5019ff-d675-41ee-b70c-f8a17b305428"><span style="" class="se-fs- se-ff-   " id="SE-c45985f4-9448-481a-869c-dddfe01f94dd"><b>포켓몬센터 시부야 피카츄</b></span></p></div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-7decd0e6-f549-4233-814f-37630be1f76f&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;675503&quot; }}"></script>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-b33d17ac-60d0-4b19-a098-801687fc054f&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
                 </div>
-                <div class="se-component se-horizontalLine se-l-line1" id="SE-42fb1942-77fc-417c-a57a-9523dac03d17">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
-                        </div>
-                    </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-49e4863c-1e1b-4efa-963f-7a026fa9d5a4">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center " style="line-height:1.9;" id="SE-dcf31e95-63b3-4185-a1d0-08e2743bf9fb"><span style="color:#333333;" class="se-fs- se-ff-nanumbarungothic   " id="SE-37e08db1-edc5-4f7e-a560-4efc2d6267fa"><b>3. 점프샵 - 원피스·귀멸·하이큐 굿즈</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-49e4863c-1e1b-4efa-963f-7a026fa9d5a4&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-d7bc8f75-01d3-4ea8-9cbd-946889323b83">
+                <div class="se-component se-text se-l-default" id="SE-46c7c106-0757-4262-86f0-d4621c3c65ab">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-5d3e26c4-cc74-433e-b86f-5c4d0e409773"><span style="color:#333333;" class="se-fs-fs19 se-ff-   " id="SE-8b5b4963-3574-4a71-bc3d-3d832aa001ee">​</span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-267937c4-a863-4b5f-ad1a-cc4f56f74d52"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-b3ace2ed-d9fa-4e53-8a7f-3b2cba3b1090">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-dc9e5885-73b0-48ef-bd7d-39fc7ba3cf80"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-e483cb78-4578-4192-9bee-913c6697db7f">그중  스시전용간장을 찾아보았습니다. 스시전용간장은 일반 간장보다 짠맛을 줄이고 다시마, 가쓰오부시로 감칠맛과 단맛을 더한 간장으로 일반 간장보다 약간 묽은 타입과 걸쭉한 타입 두 가지가 있다고 합니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-bd854d95-d604-471d-a9e7-f66908f853ec"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-290b43d7-585e-4468-8925-2c49587a24b0"> </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-8eb241b6-88d8-49aa-a0f7-37ac8bb88c1c"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-842ef266-903f-410d-9a5d-0959364c1794">시나노야에서는 전통방식으로 만든 아카즈(赤酢)간장을 구입할 수 있습니다.  아카즈 간장은 쌀 100%의 술 찌꺼기를 3년간 숙성시켜 만든 적식초를 사용하여 깊은 맛과 부드러운 신맛이 조화롭기 때문에 고급 스시 전문점에서 사용된다고 합니다. 150ml 용량으로 부피도 크지 않고 가격도 적당해서 부담 없는 여행 선물로 좋습니다.</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-d7bc8f75-01d3-4ea8-9cbd-946889323b83&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-c6feca12-9ac7-4399-9408-95e717f95b43">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-1ed9073a-f5c8-4132-bc81-0c6fd0bff1f7"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-cd425539-d144-4607-a400-ceaeea6f2ad4"><b>✅ 인기 상품 라인업</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-c6feca12-9ac7-4399-9408-95e717f95b43&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-85c33669-adfb-4bc6-a289-e24c35a3fb03">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-d0591ecb-fe7c-49b7-a8b7-726bec2388bb"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-d45f599e-dfc3-43ba-8e8a-248c8b72a1b1">원피스 Gear 5 굿즈</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-58b5c6ef-1646-41bc-8ed4-3fc3ed426f1b"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-1b367475-aad9-4108-bda4-0d4f6a14c475">주술회전·하이큐!!·사카모토데이즈</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-6c6b5d82-2d49-405c-acfd-b9d44d087136"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-37bf0965-f4f9-4a58-abf5-bec553756800">슬램덩크·히로아카</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-d52cdac0-13db-4952-ad53-8c1562bb0b23"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-cdbde311-e29f-4f20-8e2e-3eb90cc2f5c9">랜덤 박스(트레이딩 굿즈)</span></p></li></ul><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-528ea5b0-b7b7-4f36-965d-8baf6276b5c6"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-b2258e45-4dcd-47b5-8d76-22c1be3310da">​</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-85c33669-adfb-4bc6-a289-e24c35a3fb03&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-6ea390e3-5c07-477d-aa1a-7e87569691f7">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-835ec23d-d8fe-404c-a976-48ae2d647574"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-50c58d07-990d-4aca-a106-60b7841fdf02"><b>✅ 면세(Tax-Free): ❌ 면세 불가</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-6ea390e3-5c07-477d-aa1a-7e87569691f7&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-5dcf4f21-2a39-422f-b096-6072029dac6e">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-578fe201-3f85-4434-a456-f02cd4514714"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-fa078cf9-6ebf-4039-8285-f9e24a016793">출판물·저작권 상품이 섞여 있어 품목 전체 면세 불가</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-5dcf4f21-2a39-422f-b096-6072029dac6e&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-horizontalLine se-l-line1" id="SE-98bb56be-a10c-4766-a10f-cf0e5dc0f3c7">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
-                        </div>
-                    </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-f0f785da-085d-4abd-8115-ce7e60412da2">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center " style="line-height:1.9;" id="SE-fd4b3e99-6072-431f-b199-8dad590455d3"><span style="color:#333333;" class="se-fs- se-ff-nanumbarungothic   " id="SE-57f6f89c-3263-479f-b5b6-d30b2127c98a"><b>4. 캡콤 스토어</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-f0f785da-085d-4abd-8115-ce7e60412da2&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-378547aa-2b3f-43c6-8f39-21b2908ab14d">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-293558ca-fc6a-467f-be7f-af2f8aa5fb11"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-0c2e971a-8b9d-49c6-ba69-8e6da6f57467"><b>​</b></span></p><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-fae0d103-5e27-4768-8f77-a3fd9e262057"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-33d6f37d-4d6e-4b1e-ab8f-4e722608ba97"><b>✅ 인기 굿즈</b></span></p><ul class="se-text-list se-text-list-type-bullet-disc"><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-aec1e202-951b-4e51-ba90-3f68832e35f5"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-eae4b0a4-af08-45d8-990f-2c81436ed9f4">몬스터헌터: 아이루 인형, 회복약 물통 등 헌터들의 필수템</span></p></li><li class="se-text-list-item"><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-dc06d05d-898b-458c-8bc4-01fcf18c5e26"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-9323fff2-958d-40e3-9f7b-7b5baf103796">역전재판 &amp; 바이오하자드: 마니아층을 위한 굿즈 다수</span></p></li></ul><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-68547634-644d-4bbb-afb6-7abaea695d92"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-dd60123d-a1f2-4a8a-837e-1dd65d48cb31">​</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-378547aa-2b3f-43c6-8f39-21b2908ab14d&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-9f8d3f9b-73f5-42c9-aaa8-f59601a23a8d">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-8dbc593b-077e-43a1-b151-1951fbd92e4d"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-6fbb060a-fdaf-45be-b41b-9661ab6ffa7b"><b>✅ 면세(Tax-Free): ⭕️ 면세가능 </b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic se-weight-unset  " id="SE-881dfbf0-70c6-4c1c-ab68-58bbc13072b5">(세금 포함 5,500엔 이상, 여권 필수)</span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-9f8d3f9b-73f5-42c9-aaa8-f59601a23a8d&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-horizontalLine se-l-line1" id="SE-5320907e-0924-410e-8b5e-4c15f8e714fa">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
-                        </div>
-                    </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-90b4b045-2919-426a-b6cb-42eb942185e6">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center " style="line-height:1.9;" id="SE-946fce8a-44e1-4f20-b233-53be2bf5ec4e"><span style="color:#333333;" class="se-fs- se-ff-nanumbarungothic   " id="SE-f22d7bf6-52ed-447c-8a3d-c2437842c5bb"><b>❓ 자주 묻는 질문 (FAQ)</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-90b4b045-2919-426a-b6cb-42eb942185e6&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-8fd0183c-9b16-46a8-aff3-c8fd09a8fae2">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-dc07182e-1a6d-443c-a4f3-66c51c7a5e8f"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-c3c7ade0-4444-465a-8f09-447e103a8ef0">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-145ed20a-602a-41d4-9dbe-07ad5a70b7d9"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-32c85ec8-3d51-4da7-a399-935c65211bf7"><b>Q. 정리권 없이 닌텐도·포켓몬 들어갈 수 있나요?</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-5e712ea7-9fa1-4e68-900b-9ead9aeb2284"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-959bfa5a-6c3b-4caf-aa8f-848c8d7de007">A. 평일 낮은 대기 없이 가능하지만, 주말·휴일은 정리권 없이는 입장이 매우 어렵습니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-71378957-3b14-46da-a9bd-84157d42c72d"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-60dbfa7a-dab9-4351-b601-511d284b9043">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-0d044ee9-2463-4a97-a4cd-a4d98b80fdf0"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e649856f-aec1-4d1a-b04c-bf5701823b0b"><b>Q. 6층에서 4곳 모두 면세 가능?</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-fed52b67-7a3f-4d99-bd59-93feeb9efd1a"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-d92fec8a-1bd0-4ea5-b2d2-d45c64ceab91">A. 아닙니다. </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a6446dcb-c53e-46f7-b621-6c06f6770c0c"><b>포켓몬센터와 캡콤 스토어는 가능(O</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-dd0f4727-8adf-42de-9f64-5417a27537fa">)하지만, 닌텐도와 점프샵은 면세가 되지 않습니다(X). 쇼핑 예산 짤 때 참고하세요!</span></p><!-- } SE-TEXT -->
-                            </div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-8fd0183c-9b16-46a8-aff3-c8fd09a8fae2&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-36146e51-59ba-4c26-b6ff-cd2a80ae9494">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-46c7c106-0757-4262-86f0-d4621c3c65ab&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-6b491854-e351-4d35-a7e3-cce9332f195c">
                     <div class="se-component-content se-component-content-fit">
                         <div class="se-section se-section-image se-l-default se-section-align-">
                                 <div class="se-module se-module-image" style="">
-                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-36146e51-59ba-4c26-b6ff-cd2a80ae9494&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNTEyMTFfMTUg/MDAxNzY1NDU0NDc2NTUx.UHVWCLGhSNmrJkgDesGloJa3axtuil_JO-vn1jQGEz0g.mTWXpbwephQaUNIx6dsrSRWDiJbH6LGaxHI6EMXPV0Eg.JPEG/SE-36146e51-59ba-4c26-b6ff-cd2a80ae9494.jpg&quot;, &quot;originalWidth&quot; : &quot;900&quot;, &quot;originalHeight&quot; : &quot;675&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;, &quot;fileSize&quot;: &quot;569031&quot; }" area-hidden="true">
-                                        <img src="https://postfiles.pstatic.net/MjAyNTEyMTFfMTUg/MDAxNzY1NDU0NDc2NTUx.UHVWCLGhSNmrJkgDesGloJa3axtuil_JO-vn1jQGEz0g.mTWXpbwephQaUNIx6dsrSRWDiJbH6LGaxHI6EMXPV0Eg.JPEG/SE-36146e51-59ba-4c26-b6ff-cd2a80ae9494.jpg?type=w773" data-lazy-src="" data-width="693" data-height="519" alt="" class="se-image-resource egjs-visible" id="SE-36146e51-59ba-4c26-b6ff-cd2a80ae9494_0">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-6b491854-e351-4d35-a7e3-cce9332f195c&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTQ0/MDAxNzMxODkyMTc0NTIz.YKPUzJYkwMmAbpv-edEa8xUBqOjbIgcrYsTIvMa3Inog.8bDCH7WBEN390iH54M_NjXQTfmcTHxEumrC1Lsx_J0og.PNG/11_02.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTQ0/MDAxNzMxODkyMTc0NTIz.YKPUzJYkwMmAbpv-edEa8xUBqOjbIgcrYsTIvMa3Inog.8bDCH7WBEN390iH54M_NjXQTfmcTHxEumrC1Lsx_J0og.PNG/11_02.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-6b491854-e351-4d35-a7e3-cce9332f195c_0">
                                     </a>
                                 </div>
-                            <div class="se-module se-module-text se-caption"><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-21ac740a-d54b-48c7-8251-1c2a62ca4e89"><span style="" class="se-fs- se-ff-   " id="SE-1ca1d2a8-3d7e-4dbb-86b8-f24476a8b543">포켓몬센터 정리권 배부 안내 공지</span></p></div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-36146e51-59ba-4c26-b6ff-cd2a80ae9494&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot;, &quot;fileSize&quot;: &quot;569031&quot; }}"></script>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-6b491854-e351-4d35-a7e3-cce9332f195c&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
                 </div>
-                <div class="se-component se-text se-l-default" id="SE-d08c4f0a-ec2f-41d8-84cf-99fb248bae34">
+                <div class="se-component se-text se-l-default" id="SE-1ff5a990-ef33-4343-a692-13a4c0a32e04">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-aa138877-0db1-43e3-8902-4a8e0c224160"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-cab28760-3e05-4bdd-af1a-490d5f0e690b">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-64ff1fc7-b39c-4cc2-ad80-9f2f43e3a8d7"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-c8cfb3a0-33b0-4ea7-8b77-fa7345f6ed0d">6층에서 덕질 쇼핑을 마치셨나요? 파르코에는 닌텐도뿐만 아니라 휴먼메이드, 꼼데가르송 같은 힙한 브랜드와 웨이팅 맛집도 가득합니다. 층별 안내와 전체 쇼핑 가이드는 아래 글에서 확인하세요!" </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-782c9afa-13cb-4e01-8bef-82c14588d797"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-53a0a5a7-6e45-4f30-943c-fa791365fec0">➡️</span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-5a4654a4-26e6-4ec3-bacf-0b0e4b2e81fa"><a href="https://blog.naver.com/tokyomate/224106627092" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-5a4654a4-26e6-4ec3-bacf-0b0e4b2e81fa&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/224106627092&quot;}" target="_blank"><b> 시부야 쇼핑몰 1위 파르코｜층별안내·면세·맛집·브랜드 총정리</b></a></span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-de877ef2-9a8c-48ea-bc76-28ef5ba8bd85"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-bc492ad1-cfc2-4b7a-a1c1-0d25dfc4a504">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-56b27be9-764d-4781-9c1a-d9b4b92f7dd8"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-38d4b5f0-706d-42e6-b8f3-646b1375156c">구운 삼겹살에 곁들이면 매콤한 맛이 좋은 전통 향신료 유자고쇼(柚子胡椒, ゆずこしょう)도 있고, 전통방식으로 만든 낫토도 있습니다. 유자고쇼는 규슈지역의 향신료로 청유자껍질, 고추, 소금을 다져서 숙성시킨 천연조미료로 와사비 대신 회에 곁들이기도 합니다.</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-d08c4f0a-ec2f-41d8-84cf-99fb248bae34&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-horizontalLine se-l-line1" id="SE-07d1c5f8-d9a6-42b8-a56d-e19df07df978">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-1ff5a990-ef33-4343-a692-13a4c0a32e04&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-b4e47a98-aa81-478c-89de-a71d8efb77ac">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="width:100.0%;">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-b4e47a98-aa81-478c-89de-a71d8efb77ac&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfNTEg/MDAxNzMxODkzNzM1MTgy.TlmEjifzFXVIirOOAG62Zzk2_mmUw-GG6Xln2bMT28Yg.G6QXjKTkpZn2E0FYkd-kBFoAeVQCUdAAaf6HTHF2VbIg.PNG/11_04.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfNTEg/MDAxNzMxODkzNzM1MTgy.TlmEjifzFXVIirOOAG62Zzk2_mmUw-GG6Xln2bMT28Yg.G6QXjKTkpZn2E0FYkd-kBFoAeVQCUdAAaf6HTHF2VbIg.PNG/11_04.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-b4e47a98-aa81-478c-89de-a71d8efb77ac_0">
+                                    </a>
+                                </div>
                         </div>
                     </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-6ceb7dd7-5ab0-4904-90d4-8ed79c228f52">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align-center " style="line-height:1.9;" id="SE-de40d165-44b3-45de-a648-2ffa20ae90d3"><span style="color:#333333;" class="se-fs- se-ff-nanumbarungothic   " id="SE-dd2cd7bc-89ef-4c79-b4b5-b76485fe9597"><b>🍽️ 쇼핑 후 배고프다면?</b></span></p><!-- } SE-TEXT --></div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-b4e47a98-aa81-478c-89de-a71d8efb77ac&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-image se-l-default __se-component" id="SE-df9afe79-06fa-4a12-be87-462b6f3c40ce">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-df9afe79-06fa-4a12-be87-462b6f3c40ce&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTA4/MDAxNzMxODk5MjIwODQ2.cLRk9WhnBIsSHcYkelnCMsx4-rJgK0x1m0VxgoOot0Eg.JVgqPD6YAz3b2JQxekNE-tStslakox2px_nIBogYQEQg.PNG/11_05.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;529&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTA4/MDAxNzMxODk5MjIwODQ2.cLRk9WhnBIsSHcYkelnCMsx4-rJgK0x1m0VxgoOot0Eg.JVgqPD6YAz3b2JQxekNE-tStslakox2px_nIBogYQEQg.PNG/11_05.png?type=w773" data-lazy-src="" data-width="693" data-height="457" alt="" class="se-image-resource egjs-visible" id="SE-df9afe79-06fa-4a12-be87-462b6f3c40ce_0">
+                                    </a>
+                                </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-6ceb7dd7-5ab0-4904-90d4-8ed79c228f52&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-2d89d30c-dd47-454a-af10-d0f36f9e4242">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-df9afe79-06fa-4a12-be87-462b6f3c40ce&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-a11e67bb-d119-4d1c-8a57-85a13923f430">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a3c8aae0-7b83-4512-95ce-f4c73c491c6a"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-1be349e5-656d-4948-802a-6ff06b7c1db5">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-83c225c8-06b8-4d0f-8a91-56aac8ab9dac"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-e37e008b-97e1-4f92-95ed-af623730ac76">파르코 건물 지하 1층에는 시부야 최고의 맛집들이 모여 있습니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-223b3a13-5075-4e79-803b-5e0f00cf9a03"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-bb2beb6f-a080-410d-8321-2d29dcd53944">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a13632da-21cb-4d91-b3a3-9d83994127a6"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-6f7d0555-6585-47d3-858e-c54886a7b1c9">🥩 웨이팅 필수! 육즙 터지는 '키와미야 함바그' (지하 1층) </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-39716fff-a423-425c-a95a-275cabf2bb72"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-16c77341-4fea-43aa-bc2c-373dcb8ae57f">👉 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-133f5fa0-b271-4b19-bc2d-ca315000fbc3"><a href="https://blog.naver.com/tokyomate/224105333068" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-133f5fa0-b271-4b19-bc2d-ca315000fbc3&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/224105333068&quot;}" target="_blank"><b>무한리필 밥/국과 함께 즐기는 후쿠오카 함바그의 전설! 메뉴 및 웨이팅 팁</b></a></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a06b5e2f-7b7c-491a-944a-333ed9c34a25"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-07a38f99-2242-4820-891b-d31a3ab4c004">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-23e23e6c-7410-4a45-a411-d9ec468dd6a5"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-92078291-871f-4507-9f7e-48415f226c01">🥩 따뜻한 솥밥! 일본 가정식 '이쿠사카' (지하 1층) </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-7bb692a7-0198-4b3b-bb6d-7982a95e5f6b"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-31caa910-bd96-4828-997d-d6cdbb878127">👉 </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-4b4d5a39-1613-47b3-bcb3-2390758f7db0"><a href="https://blog.naver.com/tokyomate/224052117830" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-4b4d5a39-1613-47b3-bcb3-2390758f7db0&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/224052117830&quot;}" target="_blank"><b>시부야 맛집 이쿠시카, 갓 지은 솥밥 무한리필 일본 가정식</b></a></span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-20876296-2cfc-4b66-851a-1edd258437ff"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-6f01856c-e0bd-4575-80b7-fd8a816ac73c">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-bf688fae-95f3-452c-8c44-c2030fb410c7"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-5ca31c5d-51b2-4375-9257-98ab3d041631">야끼소바 라멘과 같은 면제품, 시나노야 로스팅 커피 원두도 선물하기 좋습니다.</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-2d89d30c-dd47-454a-af10-d0f36f9e4242&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-horizontalLine se-l-line1" id="SE-86d606df-b3f9-42d3-8393-8981ccf3f2f3">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line1 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-a11e67bb-d119-4d1c-8a57-85a13923f430&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-239f37be-8b0f-4b88-b944-eaa7223f0ab4">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-239f37be-8b0f-4b88-b944-eaa7223f0ab4&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTY1/MDAxNzMxODk5MjUxNzEy.FQlDbWSqQvjN3KfHCIn8v2uZPlP6kJH-ikJm7_ntS8cg.5wZSGcHMdhA6svD3qO3Kaqv_g6c07Tqk9jZwoZrQHNMg.PNG/11_06.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTY1/MDAxNzMxODk5MjUxNzEy.FQlDbWSqQvjN3KfHCIn8v2uZPlP6kJH-ikJm7_ntS8cg.5wZSGcHMdhA6svD3qO3Kaqv_g6c07Tqk9jZwoZrQHNMg.PNG/11_06.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-239f37be-8b0f-4b88-b944-eaa7223f0ab4_0">
+                                    </a>
+                                </div>
                         </div>
                     </div>
-                </div>                <div class="se-component se-text se-l-default" id="SE-a99fb095-228d-44da-b5ce-c8e26ce5885a">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-text se-l-default">
-                            <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-9399a73d-9558-45f5-9944-04aa01f4c851"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-27f3f858-3eac-4c6a-9510-5584c3b522f3">시부야 파르코 6층은 캐릭터 굿즈 쇼핑을 좋아한다면 반나절 코스로도 부족한 곳입니다. 특히 주말 방문 시 '</span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-83523572-941d-434f-bba2-be0cc844816d"><b>오전 10시 전 도착</b></span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-954b91a0-4e7b-490a-8f1d-54cfe37795aa">'과 '닌텐도 정리권 우선 확보' 전략을 꼭 기억하세요!</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-00d5ae11-3c54-4034-b3f6-3f0e9e937453"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-fcaf0c91-4ad3-45b5-bde6-fec2d3e410c5">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-3f6fbf7d-dd35-48c1-8a9d-7e2fc71cac47"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-f2e66869-285c-4ea2-9f5d-44338e27542b">궁금한 정보가 있다면 언제든지 댓글 남겨주세요. 여러분의 즐거운 도쿄 여행을 응원합니다! </span></p><!-- } SE-TEXT -->
-                            </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-239f37be-8b0f-4b88-b944-eaa7223f0ab4&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-image se-l-default __se-component" id="SE-a4efecfd-15de-48a2-8a36-f0261bd6bf8b">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-a4efecfd-15de-48a2-8a36-f0261bd6bf8b&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMzUg/MDAxNzMxODk5MjUyMDI4.8EYHYZ-DvVYYG8RZLRZig8Mr1lwr0j9Z2YT-XJrKxHAg.w3MCTBt4zXCnjE6UlP70YvWBdIBtkRCIt8YoRO6lwCgg.PNG/11_08.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMzUg/MDAxNzMxODk5MjUyMDI4.8EYHYZ-DvVYYG8RZLRZig8Mr1lwr0j9Z2YT-XJrKxHAg.w3MCTBt4zXCnjE6UlP70YvWBdIBtkRCIt8YoRO6lwCgg.PNG/11_08.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-a4efecfd-15de-48a2-8a36-f0261bd6bf8b_0">
+                                    </a>
+                                </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-a99fb095-228d-44da-b5ce-c8e26ce5885a&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
-                </div>                <div class="se-component se-horizontalLine se-l-line2" id="SE-84e8d712-c5e8-4053-a0f9-b9f6532d2c8a">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-horizontalLine se-l-line2 se-section-align-">
-                            <div class="se-module se-module-horizontalLine">
-                                <hr class="se-hr">
-                            </div>
-                        </div>
-                    </div>
-                </div>                <div class="se-component se-sectionTitle se-l-default" id="SE-e71fca22-cfdc-47ae-8f9d-befc9c77d5bf">
-                    <div class="se-component-content">
-                        <div class="se-section se-section-sectionTitle se-l-default">
-                            <div class="se-module se-module-text"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-e5a58414-db2c-49ef-af5e-cc1d65ed05f9"><span style="color:#333333;" class="se-fs-fs24 se-ff-nanumbareunhipi   " id="SE-dec739d2-a9a9-4ae6-8d9b-f982a49abe06"><b>🧡 함께 보면 좋은 시부야 여행가이드</b></span></p><!-- } SE-TEXT --></div>
-                        </div>
-                    </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_sectionTitle&quot;, &quot;id&quot;: &quot;SE-e71fca22-cfdc-47ae-8f9d-befc9c77d5bf&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;sectionTitle&quot;  }}"></script>
-                </div>                <div class="se-component se-text se-l-default" id="SE-d500a68d-f0b9-43f4-afe1-538fc5cf453e">
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-a4efecfd-15de-48a2-8a36-f0261bd6bf8b&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-21ed97c2-ad69-4a15-94d5-cdcbdd6441fe">
                     <div class="se-component-content">
                         <div class="se-section se-section-text se-l-default">
                             <div class="se-module se-module-text">
-                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-5f11889d-8c45-479d-8387-4ba4c3b5c4c5"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-a914018f-9ee5-4d34-b417-1e23faa0c363">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-0602b742-04f9-4f1d-a018-4f5de9095776"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-dd0e5f13-c471-4b9b-b070-47d947471c24">👇 시부야 놀거리 총정리 (시부야 스카이 예약부터 코스까지)</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-8b7837ba-ad9b-42ef-8115-458de56b944d"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-1c5d020b-6093-4552-a137-6cce668adcad">➡️ </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-4436abdf-fcb4-470e-98d3-8b9a61384d1f"><a href="https://blog.naver.com/tokyomate/224031114514" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-4436abdf-fcb4-470e-98d3-8b9a61384d1f&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/224031114514&quot;}" target="_blank"><b>시부야 놀거리, 시부야 스카이 예약부터 쇼핑, 맛집까지 완벽 코스 추천</b></a></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-0a69b066-660d-421d-84bb-226d8bd98991"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-f4946520-9237-47e7-9b7e-9e3f0ba21afc"> </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-ffb92b8d-4e75-406a-b268-7d64b3274095"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-31f956f1-e80c-410c-9ce6-112adfcf71c0">👇 휴먼메이드 (Human Made) 파르코 리뉴얼 매장 후기</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-a3adf122-7186-42b8-b483-29b8d033dcca"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-44eecafe-a851-4f4b-92e3-66215098bfa8">➡️ </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-6c9a5f8e-40fc-4c57-a4ec-ab46457ae849"><a href="https://blog.naver.com/tokyomate/224105736326" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-6c9a5f8e-40fc-4c57-a4ec-ab46457ae849&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/224105736326&quot;}" target="_blank"><b>시부야 휴먼메이드 Part1 &amp; Part2 위치·웨이팅 정리권·커리업 오픈</b></a></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-158df258-98d5-413e-816c-bb957ed89888"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-5d01abd8-5338-4c5c-830f-31bee023fef1">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-6573d2c7-dae2-45e4-98a8-a55c05625685"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-e0a382eb-e12d-45da-893a-6657da5b5516">👇 파르코에서 시작! 시부야 겨울 필수 코스 '푸른 동굴'</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-8e1881dd-3b32-4e53-b737-687f975dd744"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-86f70ebe-09ee-4efb-9c92-e4713c59e572">➡️ </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-f7bd0404-6527-41a0-84ab-3b06c03136fe"><a href="https://blog.naver.com/tokyomate/224098592756" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-f7bd0404-6527-41a0-84ab-3b06c03136fe&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/224098592756&quot;}" target="_blank"><b>2025 시부야 푸른동굴 일루미네이션 기간·시간·위치·가는 법 </b></a></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-1c44d943-209a-4b33-93e3-6360390e3030"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-427d96cc-eb0d-4b5f-9996-e856ff9cdcec">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-49adde99-13c3-48c7-94d1-01d32b5a1d0f"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanummaruburi   " id="SE-fe705edf-fe73-4092-95c1-b0786270876e">👇 도쿄 MZ들의 힙한 성지, 미야시타 파크 정복 </span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="line-height:1.9;" id="SE-5bc28593-6e02-4a9d-a33d-f39b08df5cfa"><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-103f17fb-7ccb-4cd9-9b4c-05bb44dfbc5c">➡️ </span><span style="color:#333333;" class="se-fs-fs19 se-ff-nanumbarungothic   " id="SE-3b317a05-19ac-46fc-af15-1cddf5b1a87c"><a href="https://blog.naver.com/tokyomate/224104049826" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-3b317a05-19ac-46fc-af15-1cddf5b1a87c&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/224104049826&quot;}" target="_blank"><b>시부야 미야시타 파크 &amp; 시부야 요코초 솔직후기</b></a></span></p><!-- } SE-TEXT -->
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-5b480c22-eb54-4a38-b4c4-1db17add390d"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-c041a9ab-8a92-4c9b-abd8-e1a7e83905f7">​</span></p><!-- } SE-TEXT -->
                             </div>
                         </div>
                     </div>
-                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-d500a68d-f0b9-43f4-afe1-538fc5cf453e&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-21ed97c2-ad69-4a15-94d5-cdcbdd6441fe&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-quotation se-l-quotation_line" id="SE-362e990b-b783-438e-9b24-672690b4a0ac">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-quotation se-l-quotation_line">
+                            <blockquote class="se-quotation-container">
+                                <div class="se-module se-module-text se-quote"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-a78e757a-358b-43da-9de7-afb60d7e4835"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-4050df0e-7192-414d-bc5a-188e8a5a10e9"><b>추천선물4. 제철 식재료 과자</b></span></p><!-- } SE-TEXT --></div>
+                            </blockquote>
+                        </div>
+                    </div>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-3ef85768-2629-4f87-9bb3-1b0344966919">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-1f843e29-620d-4238-b184-2667a3f0ba2a"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-f21b4a90-2fb9-4e1b-bcb8-abe672295894">1층 계산대 앞에는 제철 식재료로 만든 전통 과자와 빵, 떡을 팔고 있습니다. 가을은 밤, 고구마 과자가 주를 이룹니다.  개별 포장되어 있어 부담 없이 여러 개 구입하기 좋습니다.</span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-3ef85768-2629-4f87-9bb3-1b0344966919&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-image se-l-default __se-component" id="SE-1efc6784-6e18-467e-b29d-acbc768e5b15">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="width:100.0%;">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-1efc6784-6e18-467e-b29d-acbc768e5b15&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfNzYg/MDAxNzMxODk0MDk0NTY1.DSw0ASgNRJLlNKpQGykRSJmhhGLjLKszMeHrnlh3hhMg.Tah1gSJczXHu99UI53p-ooxxz082HnmPw7qEG-W11G0g.PNG/12_03.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfNzYg/MDAxNzMxODk0MDk0NTY1.DSw0ASgNRJLlNKpQGykRSJmhhGLjLKszMeHrnlh3hhMg.Tah1gSJczXHu99UI53p-ooxxz082HnmPw7qEG-W11G0g.PNG/12_03.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-1efc6784-6e18-467e-b29d-acbc768e5b15_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-1efc6784-6e18-467e-b29d-acbc768e5b15&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-image se-l-default __se-component" id="SE-a37985a3-b490-4214-8a39-1de2f5feb2f5">
+                    <div class="se-component-content se-component-content-fit">
+                        <div class="se-section se-section-image se-l-default se-section-align-">
+                                <div class="se-module se-module-image" style="">
+                                    <a class="se-module-image-link __se_image_link __se_link" style="" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-a37985a3-b490-4214-8a39-1de2f5feb2f5&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMzQg/MDAxNzMxODk5MTc4MTcz.M4aOv-Zv5R1z7WRoR_g-zBbFHBALNyMhIdl7fh3IQLMg.y_gNa7h0PtFy7pmGcLH4blDh4o4VlwIBdtzQHsXT4-sg.PNG/12_04.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot; }" area-hidden="true">
+                                        <img src="https://postfiles.pstatic.net/MjAyNDExMThfMzQg/MDAxNzMxODk5MTc4MTcz.M4aOv-Zv5R1z7WRoR_g-zBbFHBALNyMhIdl7fh3IQLMg.y_gNa7h0PtFy7pmGcLH4blDh4o4VlwIBdtzQHsXT4-sg.PNG/12_04.png?type=w773" data-lazy-src="" data-width="693" data-height="518" alt="" class="se-image-resource egjs-visible" id="SE-a37985a3-b490-4214-8a39-1de2f5feb2f5_0">
+                                    </a>
+                                </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_image&quot;, &quot;id&quot;: &quot;SE-a37985a3-b490-4214-8a39-1de2f5feb2f5&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;image&quot;, &quot;ai&quot;: &quot;false&quot; }}"></script>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-47f7c681-cca1-4e7d-bc15-1126527ed1d8">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-e239fa67-f721-4d38-8099-26e6ab8f46e0"><span style="color:#000000;" class="se-fs-fs16 se-ff- se-weight-unset  " id="SE-ce34a3f0-3157-4dff-b8b6-cc78e462b756">​</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-564a158d-4244-4c8d-bac5-275a49ff7f31"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-9258978f-409c-42e7-a0db-ecb824543a09">일본의 대형 슈퍼마켓은 로고를 새긴 장바구니나 티셔츠를 굿즈처럼 판매하는 곳이 많습니다. 계산은 현금, 카드 모두 가능하며 계산대에 한국어가 지원되니 계산하는데 크게 어려움이 없습니다. 직원분들과 영어로 소통도 가능합니다. 계산을 마치고 나오는 곳에 전자레인지와 포트가 있습니다. 신선식품 포장에 필요한 아이스팩도 무료로 사용할 수 있습니다. </span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-47f7c681-cca1-4e7d-bc15-1126527ed1d8&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-imageGroup se-l-collage">
+                    <div class="se-component-content se-component-content-extend">
+                        <div class="se-section se-section-imageGroup se-l-collage __se-component" id="SE-d59acae4-f2f2-44dc-bb6b-f9d2f97d6554">
+                            <div class="se-imageGroup-viewer">
+                                <div class="se-imageGroup-container">
+                                    
+                                    <div class="se-imageGroup-item se-imageGroup-col-2">
+                                    <div class="se-module se-module-image" style="width:50.0%;">
+                                        <a id="SE-86d992d7-3a7a-4eff-8c9f-cfae84da1e2f" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-86d992d7-3a7a-4eff-8c9f-cfae84da1e2f&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTg1/MDAxNzMxODk0MzExNTgz.w-IZTNPYd7wr9p3TxqDOgSoVSxXobC73JG7eRZ17XWEg.BLcWrYfIs7ODDp8gSrEepku5OPnlPHC-ek3Vbmwf_2Ig.PNG/13_01.png&quot;, &quot;originalWidth&quot; : &quot;800&quot;, &quot;originalHeight&quot; : &quot;600&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTg1/MDAxNzMxODk0MzExNTgz.w-IZTNPYd7wr9p3TxqDOgSoVSxXobC73JG7eRZ17XWEg.BLcWrYfIs7ODDp8gSrEepku5OPnlPHC-ek3Vbmwf_2Ig.PNG/13_01.png?type=w386" data-lazy-src="" data-width="800" data-height="600" alt="" class="se-image-resource egjs-visible" id="SE-d59acae4-f2f2-44dc-bb6b-f9d2f97d6554_0">
+                                        </a>
+                                    </div>
+                                    <div class="se-module se-module-image" style="width:50.0%;">
+                                        <a id="SE-224cb377-e890-4b17-8a8a-178a8f127e41" class="se-module-image-link __se_image_link __se_link" onclick="return false;" data-linktype="img" data-linkdata="{&quot;id&quot; : &quot;SE-224cb377-e890-4b17-8a8a-178a8f127e41&quot;, &quot;src&quot; : &quot;https://postfiles.pstatic.net/MjAyNDExMThfMTUw/MDAxNzMxODk0MzEyMDEy.vba-iXkRNDImfDxmA_VbVygudAXYv8-bWZeLFibwdpUg.jUDk7ZDKhO1b-84Wn7REj5clW7KOHI06Rbl8EcjnvSIg.JPEG/41.JPG&quot;, &quot;originalWidth&quot; : &quot;5712&quot;, &quot;originalHeight&quot; : &quot;4284&quot;, &quot;linkUse&quot; : &quot;false&quot;, &quot;link&quot; : &quot;&quot;}" area-hidden="true">
+                                            <img src="https://postfiles.pstatic.net/MjAyNDExMThfMTUw/MDAxNzMxODk0MzEyMDEy.vba-iXkRNDImfDxmA_VbVygudAXYv8-bWZeLFibwdpUg.jUDk7ZDKhO1b-84Wn7REj5clW7KOHI06Rbl8EcjnvSIg.JPEG/41.JPG?type=w386" data-lazy-src="" data-width="936" data-height="702" alt="" class="se-image-resource egjs-visible" id="SE-d59acae4-f2f2-44dc-bb6b-f9d2f97d6554_1">
+                                        </a>
+                                    </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module="{&quot;type&quot;:&quot;v2_imageGroup&quot;, &quot;id&quot; :&quot;SE-d59acae4-f2f2-44dc-bb6b-f9d2f97d6554&quot;, &quot;data&quot;: { &quot;layout&quot; : &quot;collage&quot; }}" data-module-v2="{&quot;type&quot;: &quot;v2_imageGroup&quot;, &quot;id&quot;: &quot;SE-d59acae4-f2f2-44dc-bb6b-f9d2f97d6554&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;imageGroup&quot;, &quot;layout&quot;: &quot;collage&quot;, &quot;images&quot;: [ {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-86d992d7-3a7a-4eff-8c9f-cfae84da1e2f&quot;, &quot;ai&quot;: &quot;false&quot; } , {&quot;ctype&quot;: &quot;image&quot;, &quot;id&quot;: &quot;SE-224cb377-e890-4b17-8a8a-178a8f127e41&quot;, &quot;ai&quot;: &quot;false&quot; } ] }}"></script>
+                </div>                <div class="se-component se-text se-l-default" id="SE-e2dc242b-c575-497f-b72d-eba31fda6fe2">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-05bb682f-1e6d-495b-a4db-806212a7072d"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-eadc5f00-0c09-49f6-9ba2-110c60d8c0eb"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-8b4b1f98-2e3d-48d1-9511-7f4cecf14724"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-fd79e32d-3024-4f43-b265-a2fb8cb9e90e"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-ca61ee93-c94f-4bf0-8914-b75b4340f202"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-1c52baee-e8de-4967-b3dd-df0b2be882f4"><b>​</b></span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-e2dc242b-c575-497f-b72d-eba31fda6fe2&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
+                </div>                <div class="se-component se-quotation se-l-quotation_line" id="SE-6d5883f5-e45b-4d24-b3a9-d7a235d577a8">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-quotation se-l-quotation_line">
+                            <blockquote class="se-quotation-container">
+                                <div class="se-module se-module-text se-quote"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-181a732e-869b-408e-a360-9feaedc3dcc1"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-79ca9865-d003-442f-9003-77b4adfdb1aa"><b>에필로그</b></span></p><!-- } SE-TEXT --></div>
+                            </blockquote>
+                        </div>
+                    </div>
+                </div>
+                <div class="se-component se-quotation se-l-default" id="SE-96f00e7b-0e1c-4fba-8ad3-aeaa5fbd1d50">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-quotation se-l-default">
+                            <blockquote class="se-quotation-container">
+                                <div class="se-module se-module-text se-quote"><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-a4712201-2fb0-4482-bd9c-71a12f0b9885"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-897f43b6-f4fb-4ce8-8f87-d4bc90c5a271"><b>도쿄여행선물은</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-3ca92941-cfad-410b-a17d-0eb6f0e0ca46"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-d4449ede-986c-413f-a9f9-d05571170423"><b>독특한 현지 특산품이 가득한</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-79e978cc-c495-4346-8927-33c78594fb00"><span style="color:#000000;" class="se-fs-fs24 se-ff-   " id="SE-40fa98e8-0a61-4056-9f01-101448ab3c68"><b>롯폰기힐즈 시나노야가 정답</b></span></p><!-- } SE-TEXT --></div>
+                            </blockquote>
+                        </div>
+                    </div>
+                </div>
+                <div class="se-component se-text se-l-default" id="SE-5173228c-6b19-4cca-8bdf-b80d89ffbd18">
+                    <div class="se-component-content">
+                        <div class="se-section se-section-text se-l-default">
+                            <div class="se-module se-module-text">
+                                    <!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-be56a458-4425-4583-921f-85580f4b946a"><span style="color:#000000;" class="se-fs-fs19 se-ff- se-weight-unset  " id="SE-64ac6368-6bbc-4fc1-9458-983c06a7504f">롯폰기힐즈 크리스마스 케야키자카 일루미네이션을 보러 오신 분이라면 여행 일정에 롯폰기힐즈 시나노야 슈퍼마켓을 꼭 넣어 보세요. 소중한 사람들에게 감동을 선물할 수 있는 고급스러운 상품과 독특한 현지 특산품을 만날 수 있을 것이라 확신합니다. 가격표가 잘 보이도록 촬영했으니 쇼핑계획 세우실때 도움이 되셨으면 좋겠습니다.</span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-23eb24e5-0a60-436c-88f8-c98953ceaa20"><span style="color:#000000;" class="se-fs-fs16 se-ff-   " id="SE-4ed3c359-9218-4756-842e-5f3984ffc331"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-519c91c6-a8ae-47da-96cf-2aa0fae9f8ec"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-8002116f-cff6-458d-82cf-db91f3392dee"><b>⭐</b></span><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-ec13b4fe-3eaf-4788-bc4a-5f325aa109b9"><a href="https://blog.naver.com/tokyomate/223988228389" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-ec13b4fe-3eaf-4788-bc4a-5f325aa109b9&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/223988228389&quot;}" target="_blank"><b> 롯폰기의 다른 즐길 거리가 궁금하다면?</b></a></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-d7b3cc56-2273-4647-bfd8-97bc9060d4c3"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-fe569e55-12de-487c-81c2-02c0d2cf0c76"><b>➡️</b></span><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-46602b33-6d65-4d3b-b474-98007943c3f4"><a href="https://blog.naver.com/tokyomate/223988228389" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-46602b33-6d65-4d3b-b474-98007943c3f4&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/223988228389&quot;}" target="_blank"><b>[롯폰기 놀거리 총정리 (전망대, 축제, 미술관, 맛집 A to Z) 바로가기]</b></a></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-b5656805-1e3d-424f-9b8b-fe8f9286d48d"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-b48e367f-3829-47c9-8bec-56f8f7b70581"><b>​</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-8dfb3018-18a5-4e70-9fac-0d65882fab8b"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-565fc594-743e-4151-9e3b-3d8afaa1687c"><b>⭐ 함께 보면 좋은 일본 위스키 추천 정보</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-b08105d6-c23d-48e9-97d7-5593021af67b"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-ae713208-4b51-4e12-aabc-5a3a3c13b0d5"><b>어떤 위스키를 사야 할지 아직 고민되시나요? 입문자용부터 선물용까지, 아래의 총정리 가이드에서 당신에게 딱 맞는 최고의 일본 위스키를 찾아보세요!</b></span></p><!-- } SE-TEXT --><!-- SE-TEXT { --><p class="se-text-paragraph se-text-paragraph-align- " style="" id="SE-3259f3f9-6858-48a2-ab2d-f8190581a68b"><span style="color:#000000;" class="se-fs-fs19 se-ff-   " id="SE-fb6ff0a8-b94f-412d-9963-df576ac75d2a"><a href="https://blog.naver.com/tokyomate/224010546735" class="se-link __se_link" data-linktype="text" data-linkdata="{&quot;id&quot;: &quot;SE-fb6ff0a8-b94f-412d-9963-df576ac75d2a&quot;, &quot;link&quot;: &quot;https://blog.naver.com/tokyomate/224010546735&quot;}" target="_blank"><b>➡️ [자세히 보기] 일본 위스키 추천 및 가격 총정리 (입문자용, 선물용 추천)</b></a></span></p><!-- } SE-TEXT -->
+                            </div>
+                        </div>
+                    </div>
+                    <script type="text/data" class="__se_module_data" data-module-v2="{&quot;type&quot;: &quot;v2_text&quot;, &quot;id&quot;: &quot;SE-5173228c-6b19-4cca-8bdf-b80d89ffbd18&quot;, &quot;data&quot;: {&quot;ctype&quot;: &quot;text&quot;  }}"></script>
                 </div>    <div class="ssp-adcontent align_center"><div id="ssp-adcontent" class="ssp_adcontent_inner"><div style="width: 100%; height: auto; margin: 0px auto; line-height: 0;"><iframe id="ssp-adcontent_tgtLREC" frameborder="no" scrolling="no" tabindex="0" name="" title="AD" style="width: 100%; height: 177px; visibility: inherit; border: 0px; vertical-align: bottom;"></iframe></div></div></div></div>
 </div>
