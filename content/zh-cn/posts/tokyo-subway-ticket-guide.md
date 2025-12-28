@@ -1,201 +1,297 @@
 ---
-title: "东京地铁通票（Tokyo Subway Ticket）攻略：兑换、购买、用法、路线图及引换地点（24/48/72小时）"
+title: "东京地铁通行证 (东京地铁乘车券) 兑换处、购买、使用方法、路线总攻略 (24、48、72小时)"
 date: 2025-09-29T19:07:00+09:00
 draft: false
-description: "2025年最新东京地铁通票（Subway Pass）全攻略：包含最优惠购买渠道、QR码兑换流程、使用方法及完整地铁路线图，让您的东京之旅更轻松。"
-categories: ["东京旅行指南"]
-tags: ["东京地铁通票", "东京地铁乘车券", "东京交通指南", "24小时通票", "东京自助游"]
-featured_image: "/images/posts/tokyo-subway-ticket-guide/image-1.png"
+translationKey: "tokyo-subway-ticket-guide"
+description: "2025年最新东京地铁乘车券 (Tokyo Subway Ticket) 完整指南。包含最划算的购买方式、QR码兑换地点、使用方法及13条地铁线路图，助您轻松打卡东京。"
+categories: ["旅游指南"]
+tags: ["东京地铁乘车券", "东京地铁通行证", "东京交通", "东京旅游攻略", "24小时地铁票"]
+featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 ---
 
 <div class="blog-container">
 
-买了**东京地铁通票（Tokyo Subway Ticket）**却不知道去哪里兑换？这篇文章将为您详细总结2025年最新的兑换地点、最省钱的购买方法、使用窍门以及适用路线。在24、48、72小时票中找到最适合您的那一款。
+<p style="text-align: center; font-size: 1.1rem; color: #555;">购买了<b>东京地铁乘车券 (Tokyo Subway Ticket)</b> 后，却不知道在哪里兑换？<br>
+📍 这一份 2025 年最新攻略涵盖了从兑换地点到最划算的购买方式、<br>
+✨ 使用小贴士，以及 24、48 和 72 小时票适用的所有路线，<br>
+准备出发去东京的小伙伴们赶紧收藏起来吧！</p>
 
 <br>
 
-### 📌 注意：仅有“地铁通票”可能还不够！
-虽然**东京地铁通票**可以无限次乘坐地铁，但它**无法用于JR线、巴士或在便利店付款**。为了出行顺畅，强烈建议您同时准备一张**储值式IC卡（Suica或PASMO）**。关于如何在iPhone上领取Suica，请查看下方的详细指南！
-
-➡️ [**【2025最新】东京交通卡全攻略：iPhone Suica、Welcome Suica、PASMO汇总**](/zh-cn/posts/tokyo-transportation-card-guide-2025/)
-
-<br>
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-1.png" alt="东京地铁通票攻略">
-  <figcaption>东京地铁通票：兑换、购买及使用指南</figcaption>
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-01.jpg" alt="东京地铁乘车券攻略封面">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京地铁乘车券：兑换、购买与使用指南</figcaption>
 </figure>
 
 <br>
 
-## 1. 价格与种类：买哪种最划算？
+<p><b>📌 避雷提醒：单靠地铁通行证是不够的！</b></p>
+<p>虽然<b>东京地铁乘车券</b>提供地铁无限次乘坐，但它<b>不能用于 JR 线、巴士或在便利店付款</b>。强烈建议您同时准备一张<b>交通 IC 卡 (Suica 或 PASMO)</b>。点击下方链接查看 iPhone 领取 Suica 的超详细指南！</p>
 
-东京地铁通票共有3种类型。请根据您的旅行时长和行程安排进行选择。
+<p>➡️ <b><a href="/zh-cn/posts/tokyo-transportation-card-guide-2025/">【2025最新】东京交通卡指南：iPhone Suica、Welcome Suica 及 PASMO 使用全攻略</a></b></p>
 
-**📌 小贴士：** 如果是3天2夜以上的行程，**72小时票**性价比最高。每天只需乘坐3次地铁就能回本！
+<br>
 
-<div class="table-container">
+<h2 id="pricing-types">1. 价格与种类：哪种最适合你？</h2>
 
-| 种类 | 24小时票 | 48小时票 | 72小时票 |
-| :--- | :---: | :---: | :---: |
-| **成人** | **800日元** | **1,200日元** | **1,500日元** |
-| **儿童** | **400日元** | **600日元** | **750日元** |
-| **回本标准** | 每天乘坐5次 | 每天乘坐4次 | 每天乘坐3次 |
+<p>东京地铁乘车券共有三种类型，请根据您的旅行计划进行选择。</p>
 
+<p><b>💡 宝藏建议：</b> 如果您计划在东京停留 3 天或以上，<b>72 小时票</b>性价比最高。每天只需乘坐 3 次地铁就能回本！</p>
+
+<br>
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>种类</th>
+      <th>24小时</th>
+      <th>48小时</th>
+      <th>72小时</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>成人</b></td>
+      <td><b>¥800</b></td>
+      <td><b>¥1,200</b></td>
+      <td><b>¥1,500</b></td>
+    </tr>
+    <tr>
+      <td><b>儿童</b></td>
+      <td><b>¥400</b></td>
+      <td><b>¥600</b></td>
+      <td><b>¥750</b></td>
+    </tr>
+    <tr>
+      <td><b>回本标准</b></td>
+      <td><b>5次/天</b></td>
+      <td><b>4次/天</b></td>
+      <td><b>3次/天</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-02.jpg" alt="东京地铁 24, 48, 72 小时乘车券">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京地铁乘车券 24, 48, 72 小时版本 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
+</figure>
+
+<br>
+
+<h2 id="how-to-buy">2. 如何购买：哪里买最划算？</h2>
+
+<p>虽然可以当场购买，但通过 <b>Klook (客路)</b> 或 <b>KKday</b> 等全球旅游平台提前预订，通常价格更低且更方便。</p>
+
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">点击此处在 Klook 以最优折扣购买东京地铁乘车券</a></b></p>
+
+<br>
+
+<h2 id="exchange-locations">3. 兑换地点与方法 (非常重要！ ⭐)</h2>
+
+<p>以下是将 QR 码兑换成实体票的步骤指南。 (<b>注意：机场的普通售票机可能无法兑换 QR 码！</b>)</p>
+
+<br>
+
+<h3>🚆 支持 QR 码兑换的主要地铁站</h3>
+<p>您可以在东京、涩谷、新宿、押上、上野、大门、泉岳寺等各大交通枢纽站的<b>自动售票机</b>上进行兑换。</p>
+
+<p>➡️ <b><a href="https://content.linktivity.io/supplier-link/tokyometro/6010de77ee42f1b1c4483f6b82c3a7fc69bf437d1d5d4ebdb1a2cc68b497a392.pdf" target="_blank">[查看全部支持 QR 码兑换的车站路线图]</a></b></p>
+
+<br>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-03.jpg" alt="支持 QR 码兑换的自动售票机">
+  <figcaption style="font-size: 0.85em; text-align: center;">可以兑换 QR 码的自动售票机</figcaption>
+</figure>
+
+<br>
+
+<h3>🚆 如何使用自动售票机</h3>
+
+<p><b>第一步：找到右上角标有 "QR code" 图标的机器。</b></p>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-04.jpg" alt="售票机上的 QR 码扫描识标">
+  <figcaption style="font-size: 0.85em; text-align: center;">带有 QR 码标识的售票机 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
+</figure>
+
+<br>
+
+<p><b>第二步：点击屏幕右上方的 "QR code" 按钮。</b></p>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-05.jpg" alt="屏幕显示的 QR 码选项">
+  <figcaption style="font-size: 0.85em; text-align: center;">在屏幕上选择 QR 码选项 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
+</figure>
+
+<br>
+
+<p><b>第三步：扫描您的 QR 码并点击“发行”，即可领取实体乘车券！</b></p>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-06.jpg" alt="在读取器上扫描 QR 码">
+  <figcaption style="font-size: 0.85em; text-align: center;">扫描 QR 码以出票 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
+</figure>
+
+<br>
+
+<h2 id="usage-lines">4. 使用方法与适用路线</h2>
+
+<ul>
+  <li><b>如何使用</b>：将实体票插入检票口的插槽，通过后在另一侧取回票片。</li>
+  <li><b>适用路线</b>：<b>东京都营地下铁 + 东京地铁 (Tokyo Metro) 共 13 条线路</b></li>
+</ul>
+
+<p>🚨 <b>重要提示：JR 线 (如山手线) 和其他私铁路线不在范围内！</b></p>
+
+<p>如果您的行程主要目的地都在 JR 线上 (如原宿、秋叶原等)，地铁乘车券可能不划算。在这种情况下，请参考我们的对比指南：</p>
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224025699867
+     Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
+<p>➡️ <b><a href="#" style="color: #667eea;">地铁乘车券 vs JR 都区内通票：哪种更适合你的路线？</a></b></p>
+
+<br>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-07.jpg" alt="东京地铁路线图">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京地铁乘车券可使用的路线 (共 13 条) (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">来源</a>)</figcaption>
+</figure>
+
+<br>
+
+<h2 id="airport-arrival">5. 抵达机场后的首个使用车站</h2>
+
+<p>东京地铁乘车券不能直接在地处机场的特急列车 (JR 成田特快、京成电铁等) 上使用。您需要从进入市区的<b>首个换乘站</b>开始使用：</p>
+
+<br>
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>抵达机场</th>
+      <th>交通方式</th>
+      <th>地铁通票首用站</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><b>成田机场</b></td>
+      <td>成田特快 (N'EX)</td>
+      <td>东京站、涩谷站、新宿站</td>
+    </tr>
+    <tr>
+      <td>京成电铁 (Skyliner)</td>
+      <td>上野站</td>
+    </tr>
+    <tr>
+      <td>Access 特急</td>
+      <td>押上站 (晴空塔)</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>羽田机场</b></td>
+      <td>东京单轨列车</td>
+      <td>滨松町 → 大门站</td>
+    </tr>
+    <tr>
+      <td>京急线</td>
+      <td>泉岳寺站</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h2 id="bundle-tickets">6. 薅羊毛必读！优惠套票</h2>
+
+<p>将东京地铁乘车券与其他交通工具或景点门票一起购买，可以节省更多费用。</p>
+
+<br>
+
+<h3>🚇 京成电铁 (Skyliner) + 东京地铁乘车券</h3>
+<p>成田机场入境首选。比单独购买要便宜得多。</p>
+
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">查看 Klook 上最划算的 Skyliner + 地铁通票套票</a></b></p>
+
+<br>
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>套票类型</th>
+      <th>原价</th>
+      <th>优惠价</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Skyliner (单程) + 24小时票</td>
+      <td>¥3,380</td>
+      <td><b>¥2,900</b></td>
+    </tr>
+    <tr>
+      <td>Skyliner (单程) + 48小时票</td>
+      <td>¥3,780</td>
+      <td><b>¥3,300</b></td>
+    </tr>
+    <tr>
+      <td>Skyliner (单程) + 72小时票</td>
+      <td>¥4,080</td>
+      <td><b>¥3,600</b></td>
+    </tr>
+    <tr>
+      <td>Skyliner (往返) + 24小时票</td>
+      <td>¥5,960</td>
+      <td><b>¥4,900</b></td>
+    </tr>
+    <tr>
+      <td>Skyliner (往返) + 48小时票</td>
+      <td>¥6,360</td>
+      <td><b>¥5,300</b></td>
+    </tr>
+    <tr>
+      <td>Skyliner (往返) + 72小时票</td>
+      <td>¥6,660</td>
+      <td><b>¥5,600</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h3>🗼 热门景点 + 东京地铁乘车券</h3>
+<p><b>东京晴空塔、东京铁塔、涩谷天空 (Shibuya Sky)、teamLab Planets</b> 等热门地标都有相应的优惠套票。</p>
+
+<p>➡️ <b><a href="https://www.tokyometro.jp/tst/zh-cn/ticket-overseas-purchase.html" target="_blank">点击此处查看“景点+地铁票”套票优惠</a></b></p>
+
+<br>
+
+<h2 id="conclusion">✨ 总结</h2>
+
+<p>如果您觉得在自助机器上操作比较困难，也可以直接前往车站的<b>站务室 (駅事務室)</b> 进行人工兑换。即使在没有 QR 码兑换机器的小型车站，向改札口的站务员出示手机上的 QR 码，他们也会指导您前往最近的兑换点。祝大家在东京玩得愉快！</p>
+
+<br>
+
+<p><b>⭐ 东京旅游相关攻略</b></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224025699867
+     Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
+<p>➡️ <b><a href="#" style="color: #667eea;">东京交通票券该买哪种？ (地铁通票 vs JR 都区内通票对比)</a></b></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224003374650
+     Hugo: /zh-cn/posts/skyliner-reservation-guide/ -->
+<p>➡️ <b><a href="#" style="color: #667eea;">从成田机场到市内：京成电铁 Skyliner 预订全攻略</a></b></p>
+<p>➡️ <b><a href="/zh-cn/posts/don-quijote-shopping-guide-2025/">【2025】东京唐吉诃德必买清单及优惠券领取</a></b></p>
+
+<br>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>小编笔记 (Editor's Note)</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的实地体验及 <a href="https://blog.naver.com/tokyomate/224026098490" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> 的原创内容编写。经过翻译和重新整理，旨在为全球读者提供最真实的东京旅游资讯。
+  </p>
 </div>
-
-<br>
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-2.png" alt="东京地铁通票种类">
-  <figcaption>东京地铁通票 24、48、72小时版 (来源: Klook)</figcaption>
-</figure>
-
-<br>
-
-## 2. 购买方法：哪里买最便宜？
-
-虽然可以在现场购买，但通过 **Klook (客路)** 或 **KKday** 等旅游平台提前购买通常最便宜且最方便。
-
-➡️ [**点击在 Klook 以最优惠价格购买东京地铁通票**](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)
-
-<br>
-
-## 3. 兑换地点与方法 (非常重要！ ⭐)
-
-以下是使用QR码在自助售票机兑换实体车票的详细步骤。（**注意：机场的普通售票机不支持QR码兑换！**）
-
-<br>
-
-### 🚆 东京市内主要地铁站兑换点
-您可以在东京站、涩谷站、新宿站、押上站、上野站、大门站、泉岳寺站等大部分游客聚集的车站，通过带有QR码识别功能的**自动售票机**进行兑换。
-
-➡️ [**点击查看所有支持QR码兑换的车站路线图**](https://content.linktivity.io/supplier-link/tokyometro/6010de77ee42f1b1c4483f6b82c3a7fc69bf437d1d5d4ebdb1a2cc68b497a392.pdf)
-
-<br>
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-3.jpg" alt="可兑换QR码的售票机">
-  <figcaption>支持QR码兑换的自动售票机</figcaption>
-</figure>
-
-<br>
-
-### 🚆 自动售票机兑换步骤
-
-**第1步：找到机器右上角标有“QR code”图标的机器。**
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-4.png" alt="带QR码图标的机器">
-  <figcaption>标有QR code图标的售票机 (来源: Klook)</figcaption>
-</figure>
-
-<br>
-
-**第2步：点击屏幕右上角的“QR code”按钮。**
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-5.png" alt="选择QR码按钮">
-  <figcaption>点击屏幕上的QR码选项 (来源: Klook)</figcaption>
-</figure>
-
-<br>
-
-**第3步：将收到的QR码靠近机器的扫描口。点击“发券”即可获得实体车票！**
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-6.png" alt="扫描QR码">
-  <figcaption>扫描QR码并打印实体票 (来源: Klook)</figcaption>
-</figure>
-
-<br>
-
-## 4. 使用方法及适用路线
-
-*   **用法**：将兑换好的实体车票像普通车票一样插入检票机的投币口，通过后记得取回弹出的车票。在有效期内可以无限次重复使用。
-*   **适用路线**：**东京地下铁 (Tokyo Metro) + 都营地铁 (Toei Subway) 全部线路（共13条）**
-
-🚨 **重要提示：JR线（山手线等）及其他私营铁路绝对无法使用！**
-
-如果您的行程主要集中在新宿、原宿、涩谷、秋叶原等JR线车站，使用地铁通票可能并不划算。在这种情况下，您应该选择哪种通票？
-
-➡️ [**查找最适合您行程的通票（地铁通票 vs JR都区内通票对比）**](/zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/)
-
-<br>
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-7.png" alt="东京地铁路线图">
-  <figcaption>东京地铁通票适用的线路（共13条线路） (来源: 东京地下铁)</figcaption>
-</figure>
-
-<br>
-
-## 5. 机场到达后的首站衔接指南
-
-这是最容易混淆的地方！东京地铁通票不能用于机场快线（JR成田特快、京成电铁Skyliner等）。您需要到达市区后，在以下**第一个换乘站**开始使用。
-
-<div class="table-container">
-
-| 到达机场 | 交通方式 | 地铁通票开始使用站 |
-| :--- | :--- | :--- |
-| **成田机场** | 成田特快 (N'EX) | 东京站、涩谷站、新宿站 |
-| | Skyliner | 上野站 |
-| | Access特快 | 押上站（晴空塔） |
-| **羽田机场** | 东京单轨电铁 | 滨松町站换乘 → 大门站 |
-| | 京急线 | 泉岳寺站 |
-
-</div>
-
-**📌 小贴士：** 建议根据酒店位置，提前规划乘坐哪种机场交通能最有效地衔接地铁。例如，如果住在晴空塔附近，乘坐Access特快是最佳选择。
-
-<br>
-
-## 6. 更省钱！组合套票购买建议
-
-将东京地铁通票与其他交通券或景点门票组合购买，价格通常会更优惠。
-
-### 🚇 京成电铁Skyliner + 东京地铁通票
-成田机场用户的首选组合。比分开购买便宜得多。
-
-➡️ [**点击在 Klook 以最优惠价格购买 Skyliner + 地铁通票组合**](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)
-
-<div class="table-container">
-
-| 组合类型 | 原价 | 折扣价 |
-| :--- | :---: | :---: |
-| Skyliner(单程) + 24小时票 | 3,380日元 | **2,900日元** |
-| Skyliner(单程) + 48小时票 | 3,780日元 | **3,300日元** |
-| Skyliner(单程) + 72小时票 | 4,080日元 | **3,600日元** |
-| Skyliner(往返) + 24小时票 | 5,960日元 | **4,900日元** |
-| Skyliner(往返) + 48小时票 | 6,360日元 | **5,300日元** |
-| Skyliner(往返) + 72小时票 | 6,660日元 | **5,600日元** |
-
-</div>
-
-<br>
-
-### 🗼 景点门票 + 东京地铁通票
-您还可以购买包含地铁通票与东京主要景点（如**晴空塔展望台、东京铁塔、涩谷Sky、teamLab Planets、阳光水族馆、六本木新城展望台**、**华纳兄弟哈利波特影城**等）的优惠组合。
-
-➡️ [**查看东京热门景点 + 地铁通票优惠组合价格**](https://www.tokyometro.jp/tst/en/ticket-overseas-purchase.html)
-
-<br>
-
-## ✨ 总结
-
-如果您觉得售票机操作困难或排队时间太长，也可以直接前往**“车站办公室 (駅事務室)”**向工作人员出示QR码进行兑换。如果是没有兑换机的小车站，请不要慌张，向检票口的工作人员出示QR码，他们会亲切地指引您前往最近的可兑换车站。祝您东京之行愉快！
-
-<br>
-
-#### 📝 编者注：
-本文根据原Naver博客文章内容进行翻译与重新整理。查看韩语原文请访问：
-[**도쿄지하철패스 총정리 가이드 (Naver Blog)**](https://blog.naver.com/tokyomate/224026098490)
-
-<br>
-
-#### ⭐ 更多东京旅行贴士
-➡️ [**东京交通通票买哪种？（地铁通票 vs JR都区内通票对比）**](/zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/)
-➡️ [**从成田机场到市区：京成电铁Skyliner预订完整指南**](/zh-cn/posts/skyliner-reservation-guide/)
-➡️ [**东京唐吉诃德购物清单及折扣券汇总**](/zh-cn/posts/don-quijote-shopping-guide-2025/)
 
 </div>

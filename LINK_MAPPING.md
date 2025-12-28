@@ -120,8 +120,9 @@ When migrating a Naver blog post to Hugo:
 | 224111977613 | tokyo-station-character-street-guide | 2025-12-16 | ✅ |
 | 224114567793 | tokyo-station-ekiben-guide | 2025-12-18 | ✅ |
 | 224124979714 | tokyo-3-day-itinerary-disney-shibuya-sky | 2025-12-28 | ✅ |
-| 224007949043 | narita-airport-arrival-guide | 2025-09-14 |
+| 224007949043 | narita-airport-arrival-guide | 2025-09-14 | ✅ |
 | 224037272726 | tsukiji-market-restaurant-guide | 2025-10-11 | ✅ |
+| 224026098490 | tokyo-subway-ticket-guide | 2025-09-29 | ✅ |
 
 
 ---
@@ -468,8 +469,8 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 75
-- **Naver IDs Tracked:** 75
+- **Total Posts Migrated:** 92
+- **Naver IDs Tracked:** 92
 - **Posts with Internal Links:** 31+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu)
 - **Pending References:** 52 (removed 1: 224022065518 migrated to don-quijote-shopping-guide-2025, added 1: 224014619007)
 - **Links Updated:** Verified & Fixed on 2025-12-12

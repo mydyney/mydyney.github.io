@@ -1,201 +1,297 @@
 ---
-title: "東京地下鉄パス（東京サブウェイチケット）徹底ガイド：買い方、使い方、路線図、引換場所（24・48・72時間）"
+title: "東京地下鉄パス 引換場所、購入、使い方、路線まとめ (24、48、72時間)"
 date: 2025-09-29T19:07:00+09:00
 draft: false
-description: "2025年最新の東京サブウェイチケット（地下鉄乗り放題パス）ガイド：お得な買い方、QRコードの引き換え方法、使い方、利用可能な路線図まで、旅行に役立つ情報を網羅しました。"
-categories: ["東京旅行情報"]
-tags: ["東京サブウェイチケット", "東京地下鉄パス", "東京交通ガイド", "24時間券", "東京観光"]
-featured_image: "/images/posts/tokyo-subway-ticket-guide/image-1.png"
+translationKey: "tokyo-subway-ticket-guide"
+description: "2025年最新の東京地下鉄パス完全ガイド。お得な購入方法、QRコードの引換場所、使い方、利用可能な路線図まで徹底解説します。"
+categories: ["旅行ガイド"]
+tags: ["東京地下鉄パス", "東京観光", "東京交通", "24時間券"]
+featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 ---
 
 <div class="blog-container">
 
-**東京サブウェイチケット（Tokyo Subway Ticket）**を購入したけれど、どこで引き換えればいいのか分からず困っていませんか？この記事では、2025年最新の引き換え場所、最もお得な購入方法、使い方、利用可能な路線まで詳しく解説します。24時間、48時間、72時間券の中から自分にぴったりのパスを見つけましょう。
+<p style="text-align: center; font-size: 1.1rem; color: #555;">購入した<b>東京地下鉄パス</b>を、どこで引き換えればいいか迷っていませんか？<br>
+この記事では、2025年最新の引換場所から一番お得な購入方法、<br>
+使い方、そして24・48・72時間券で利用できる路線まで、<br>
+知っておくべき情報をすべてまとめました。</p>
 
 <br>
 
-### 📌 注意：『地下鉄パス』だけでは不十分な場合も！
-東京サブウェイチケットは地下鉄が乗り放題になりますが、**JR線やバス、コンビニでの支払いには利用できません**。スムーズな移動のために、SuicaやPASMOなどの**チャージ式ICカード**を併用することを強くおすすめします。iPhoneでのSuica発行方法などは、以下のガイドを確認してください。
-
-➡️ [**【2025最新】東京交通カード完全ガイド：iPhone Suica、Welcome Suica、PASMOまとめ**](/ja/posts/tokyo-transportation-card-guide-2025/)
-
-<br>
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-1.png" alt="東京サブウェイチケットガイド">
-  <figcaption>東京サブウェイチケット：引き換え、購入、使い方ガイド</figcaption>
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-01.jpg" alt="東京地下鉄パス ガイド ヘッダー">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京地下鉄パス：引換・購入・使い方ガイド</figcaption>
 </figure>
 
 <br>
 
-## 1. 料金と種類：どれが一番お得？
+<p><b>📌 注意：地下鉄パスだけでは不十分な場合も！</b></p>
+<p><b>東京地下鉄パス</b>は地下鉄が乗り放題になりますが、<b>JR線やバス、コンビニでの支払いには利用できません</b>。スムーズな移動のために、<b>交通系ICカード（SuicaやPASMO）</b>も併用することをおすすめします。iPhoneでのSuica発行方法については、以下のガイドをチェックしてください。</p>
 
-東京サブウェイチケットは計3種類あります。旅行の期間やスタイルに合わせて選びましょう。
+<p>➡️ <b><a href="/ja/posts/tokyo-transportation-card-guide-2025/">【2025】東京の交通系ICカードガイド：iPhone Suica、Welcome Suica、PASMOの使い方</a></b></p>
 
-**📌 豆知識：** 2泊3日以上の旅行なら、**72時間券**が圧倒的にお得です。1日3回地下鉄に乗るだけで元が取れます！
+<br>
 
-<div class="table-container">
+<h2 id="pricing-types">1. 料金と種類：どれが自分に合っている？</h2>
 
-| 区分 | 24時間券 | 48時間券 | 72時間券 |
-| :--- | :---: | :---: | :---: |
-| **大人** | **800円** | **1,200円** | **1,500円** |
-| **子供** | **400円** | **600円** | **750円** |
-| **元を取る基準** | 1日5回乗車 | 1日4回乗車 | 1日3回乗車 |
+<p>東京地下鉄パスには3つの種類があります。旅行の期間やスタイルに合わせて選んでください。</p>
 
+<p><b>📌 お得なヒント：</b> 3日以上滞在するなら、<b>72時間券</b>が圧倒的にお得です。1日3回以上地下鉄に乗れば、元が取れる計算になります！</p>
+
+<br>
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>種類</th>
+      <th>24時間</th>
+      <th>48時間</th>
+      <th>72時間</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>大人</b></td>
+      <td><b>¥800</b></td>
+      <td><b>¥1,200</b></td>
+      <td><b>¥1,500</b></td>
+    </tr>
+    <tr>
+      <td><b>小児</b></td>
+      <td><b>¥400</b></td>
+      <td><b>¥600</b></td>
+      <td><b>¥750</b></td>
+    </tr>
+    <tr>
+      <td><b>元が取れる目安</b></td>
+      <td><b>1日5回乗車</b></td>
+      <td><b>1日4回乗車</b></td>
+      <td><b>1日3回乗車</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-02.jpg" alt="東京地下鉄パス 24, 48, 72時間券">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京地下鉄パス 24, 48, 72時間券 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+</figure>
+
+<br>
+
+<h2 id="how-to-buy">2. 購入方法：どこで買うのが一番安い？</h2>
+
+<p>現地で購入することもできますが、<b>Klook</b>や<b>KKday</b>などの旅行プラットフォームで事前に予約しておくと、安くスムーズに購入できる場合が多いです。</p>
+
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klookで東京地下鉄パスを最安値で予約する</a></b></p>
+
+<br>
+
+<h2 id="exchange-locations">3. 引換場所と方法（重要！ ⭐）</h2>
+
+<p>QRコードを実物のチケットに引き換える手順を説明します。（<b>注意：空港の券売機ではQRコードの引き換えができない場合があります！</b>）</p>
+
+<br>
+
+<h3>🚆 QRコード引換対応の主な地下鉄駅</h3>
+<p>東京、渋谷、新宿、押上、上野、大門、泉岳寺など、主要なハブ駅に設置されている<b>券売機</b>で引き換えが可能です。</p>
+
+<p>➡️ <b><a href="https://content.linktivity.io/supplier-link/tokyometro/6010de77ee42f1b1c4483f6b82c3a7fc69bf437d1d5d4ebdb1a2cc68b497a392.pdf" target="_blank">[QRコード引換対応券売機のある駅の路線図を表示]</a></b></p>
+
+<br>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-03.jpg" alt="QRコード引換対応の券売機">
+  <figcaption style="font-size: 0.85em; text-align: center;">QRコード引換対応の券売機</figcaption>
+</figure>
+
+<br>
+
+<h3>🚆 券売機の使い方</h3>
+
+<p><b>ステップ1：右上に「QRコード」マークがある券売機を探します。</b></p>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-04.jpg" alt="券売機のQRコードリーダーマーク">
+  <figcaption style="font-size: 0.85em; text-align: center;">QRコードロゴ付きの券売機 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+</figure>
+
+<br>
+
+<p><b>ステップ2：画面右上の「QRコード」ボタンをタップします。</b></p>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-05.jpg" alt="QRコード選択画面">
+  <figcaption style="font-size: 0.85em; text-align: center;">画面上のQRコードオプションを選択 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+</figure>
+
+<br>
+
+<p><b>ステップ3：QRコードを読み取り、「発行」をタップして実物のチケットを受け取ります！</b></p>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-06.jpg" alt="QRコードをリーダーにかざす様子">
+  <figcaption style="font-size: 0.85em; text-align: center;">QRコードを読み取ってチケットを発行 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+</figure>
+
+<br>
+
+<h2 id="usage-lines">4. 使い方と利用可能な路線</h2>
+
+<ul>
+  <li><b>使い方</b>：改札機の投入口に実物のチケットを入れ、通過後に反対側から出てくるチケットを受け取ります。</li>
+  <li><b>利用可能な路線</b>：<b>東京メトロ全線 ＋ 都営地下鉄全線（計13路線）</b></li>
+</ul>
+
+<p>🚨 <b>注意：JR線（山手線など）やその他の私鉄は対象外です！</b></p>
+
+<p>目的地にJR線（新宿、原宿、渋谷、秋葉原など）が多い場合は、地下鉄パスが最適な選択肢ではないかもしれません。その場合は、比較ガイドをチェックしてください。</p>
+
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224025699867
+     Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
+<p>➡️ <b><a href="#" style="color: #667eea;">サブウェイチケット vs JR都区内パス：どちらがお得？</a></b></p>
+
+<br>
+
+<figure>
+  <img src="/images/posts/tokyo-subway-ticket-guide-07.jpg" alt="東京地下鉄路線図">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京地下鉄パスが利用可能な路線（計13路線） (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">出典</a>)</figcaption>
+</figure>
+
+<br>
+
+<h2 id="airport-arrival">5. 空港到着後の利用開始駅</h2>
+
+<p>東京地下鉄パスは空港特急（JR成田エクスプレス、京成スカイライナーなど）では利用できません。市内の<b>最初の乗換駅</b>から利用を開始します。</p>
+
+<br>
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>到着空港</th>
+      <th>移動手段</th>
+      <th>地下鉄パス利用可能駅</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3"><b>成田空港</b></td>
+      <td>成田エクスプレス (N'EX)</td>
+      <td>東京、渋谷、新宿駅</td>
+    </tr>
+    <tr>
+      <td>京成スカイライナー</td>
+      <td>上野駅</td>
+    </tr>
+    <tr>
+      <td>アクセス特急</td>
+      <td>押上駅（スカイツリー前）</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><b>羽田空港</b></td>
+      <td>東京モノレール</td>
+      <td>浜松町 → 大門駅</td>
+    </tr>
+    <tr>
+      <td>京急線</td>
+      <td>泉岳寺駅</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h2 id="bundle-tickets">6. さらにお得に！セットチケット</h2>
+
+<p>東京地下鉄パスを他の交通機関や観光地のチケットとセットで購入すると、さらにお得になります。</p>
+
+<br>
+
+<h3>🚇 京成スカイライナー ＋ 東京地下鉄パス</h3>
+<p>成田空港を利用する方に強くおすすめします。個別に購入するよりもずっと安くなります。</p>
+
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klookでスカイライナー＋地下鉄パスセットを最安値で予約する</a></b></p>
+
+<br>
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>セットの種類</th>
+      <th>通常料金</th>
+      <th>割引料金</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>スカイライナー（片道） ＋ 24時間券</td>
+      <td>¥3,380</td>
+      <td><b>¥2,900</b></td>
+    </tr>
+    <tr>
+      <td>スカイライナー（片道） ＋ 48時間券</td>
+      <td>¥3,780</td>
+      <td><b>¥3,300</b></td>
+    </tr>
+    <tr>
+      <td>スカイライナー（片道） ＋ 72時間券</td>
+      <td>¥4,080</td>
+      <td><b>¥3,600</b></td>
+    </tr>
+    <tr>
+      <td>スカイライナー（往復） ＋ 24時間券</td>
+      <td>¥5,960</td>
+      <td><b>¥4,900</b></td>
+    </tr>
+    <tr>
+      <td>スカイライナー（往復） ＋ 48時間券</td>
+      <td>¥6,360</td>
+      <td><b>¥5,300</b></td>
+    </tr>
+    <tr>
+      <td>スカイライナー（往復） ＋ 72時間券</td>
+      <td>¥6,660</td>
+      <td><b>¥5,600</b></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<h3>🗼 観光スポット ＋ 東京地下鉄パス</h3>
+<p><b>東京スカイツリー、東京タワー、渋谷スカイ、teamLab Planets</b>など、主要スポットのチケットとのセットプランも用意されています。</p>
+
+<p>➡️ <b><a href="https://www.tokyometro.jp/tst/en/ticket-overseas-purchase.html" target="_blank">観光スポット ＋ 地下鉄パスのセット割引をチェックする</a></b></p>
+
+<br>
+
+<h2 id="conclusion">✨ まとめ</h2>
+
+<p>券売機の操作が難しい場合は、<b>駅事務室</b>で直接QRコードを提示して引き換えることもできます。QRコード対応の券売機がない小さな駅でも、駅員さんにQRコードを見せれば、最寄りの引換場所を案内してくれます。東京旅行を楽しんでください！</p>
+
+<br>
+
+<p><b>⭐ 関連記事</b></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224025699867
+     Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
+<p>➡️ <b><a href="#" style="color: #667eea;">東京の交通パス、どれを買うべき？ (地下鉄パス vs JR都区内パス比較)</a></b></p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224003374650
+     Hugo: /ja/posts/skyliner-reservation-guide/ -->
+<p>➡️ <b><a href="#" style="color: #667eea;">成田空港から都心まで：京成スカイライナー予約完全ガイド</a></b></p>
+<p>➡️ <b><a href="/ja/posts/don-quijote-shopping-guide-2025/">【2025】東京ドン・キホーテお買い物リスト＆割引クーポン</a></b></p>
+
+<br>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    この記事は、筆者の実体験と<a href="https://blog.naver.com/tokyomate/224026098490" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>のオリジナルコンテンツに基づいています。世界中の読者に東京のリアルな旅行情報をお届けするため、翻訳・構成されています。
+  </p>
 </div>
-
-<br>
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-2.png" alt="東京サブウェイチケットの種類">
-  <figcaption>東京サブウェイチケット 24、48、72時間券（出典：Klook）</figcaption>
-</figure>
-
-<br>
-
-## 2. 購入方法：どこで買うのが一番安い？
-
-現地でも購入可能ですが、**Klook（クルック）**や**KKday**などの旅行プラットフォームで事前に購入するのが最も安くて便利です。
-
-➡️ [**Klookで東京サブウェイチケットを最安値で購入する**](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)
-
-<br>
-
-## 3. 引換場所と方法（重要！ ⭐）
-
-購入後に届いたQRコードを実物チケットに引き換える方法を、写真付きでステップごとに解説します。（**注意：空港の券売機ではQRコードの引き換えができません！**）
-
-<br>
-
-### 🚆 都内の主要駅にある引換場所
-東京駅、渋谷駅、新宿駅、押上駅、上野駅、大門駅、泉岳寺駅など、多くの主要駅にある**券売機**で引き換え可能です。
-
-➡️ [**QRコード引き換え可能な駅の路線図を見る**](https://content.linktivity.io/supplier-link/tokyometro/6010de77ee42f1b1c4483f6b82c3a7fc69bf437d1d5d4ebdb1a2cc68b497a392.pdf)
-
-<br>
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-3.jpg" alt="QR引換可能な券売機">
-  <figcaption>QRコードで引き換え可能な券売機</figcaption>
-</figure>
-
-<br>
-
-### 🚆 券売機での引き換え手順
-
-**ステップ 1：券売機の右上に「QR code」マークがある機械を探す。**
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-4.png" alt="QRコードマークのある券売機">
-  <figcaption>QR codeマークがある券売機（出典：Klook）</figcaption>
-</figure>
-
-<br>
-
-**ステップ 2：画面右上の「QR code」ボタンをタッチします。**
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-5.png" alt="QRコードボタンを選択">
-  <figcaption>QRコードボタンの選択（出典：Klook）</figcaption>
-</figure>
-
-<br>
-
-**ステップ 3：機械のQRコードリーダーにQRコードをかざし、「発券」を押すと実物チケットが出てきます！**
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-6.png" alt="QRコードをスキャン">
-  <figcaption>QRコードをスキャンしてチケットを発券（出典：Klook）</figcaption>
-</figure>
-
-<br>
-
-## 4. 使い方と利用可能な路線
-
-*   **使い方**：引き換えた実物チケットを改札機の投入口に入れ、通過後に出てきたチケットを忘れずに受け取ります。有効時間内であれば何度でも利用可能です。
-*   **利用可能な路線**：**東京メトロ ＋ 都営地下鉄の全路線（計13路線）**
-
-🚨 **重要：JR線（山手線など）やその他の私鉄は利用できません！**
-
-もし旅行の予定が新宿、原宿、渋谷、秋葉原などのJR線利用が中心であれば、サブウェイチケットでは損をする場合があります。その場合はどのパスを買うべきでしょうか？
-
-➡️ [**自分にぴったりのパスを探す（サブウェイチケット vs 都区内パス完全比較）**](/ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/)
-
-<br>
-
-<figure class="image-single">
-  <img src="/images/posts/tokyo-subway-ticket-guide/image-7.png" alt="東京地下鉄路線図">
-  <figcaption>東京サブウェイチケットで利用可能な路線（計13路線）（出典：東京メトロ）</figcaption>
-</figure>
-
-<br>
-
-## 5. 空港到着後の利用開始駅ガイド
-
-最も間違いやすいポイントです！東京サブウェイチケットは空港特急（JR成田エクスプレス、京成スカイライナーなど）では利用できません。都心に到着後、以下の**最初の乗り換え駅**から利用可能になります。
-
-<div class="table-container">
-
-| 到着空港 | 移動手段 | サブウェイチケット利用開始駅 |
-| :--- | :--- | :--- |
-| **成田空港** | 成田エクスプレス(N'EX) | 東京駅、渋谷駅、新宿駅 |
-| | スカイライナー | 上野駅 |
-| | アクセス特急 | 押上駅（スカイツリー前） |
-| **羽田空港** | 東京モノレール | 浜松町駅乗換 → 大門駅 |
-| | 京急線 | 泉岳寺駅 |
-
-</div>
-
-**📌 豆知識：** 宿泊先の場所を考慮して、どの空港鉄道を利用すれば最も効率的にサブウェイチケットへ繋げられるか事前に計画しておくと良いでしょう。例えば宿泊先が押上周辺なら、アクセス特急が最適です。
-
-<br>
-
-## 6. さらにお得に！セット券の購入
-
-東京サブウェイチケットは、他の交通券や入場券とセットで購入することでさらに安くなります。
-
-### 🚇 スカイライナー ＋ 東京サブウェイチケット
-成田空港利用者には最もおすすめの組み合わせです。別々に買うよりも大幅に安くなります。
-
-➡️ [**Klookでスカイライナー＋東京サブウェイチケットを最安値で購入する**](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)
-
-<div class="table-container">
-
-| セット内容 | 定価 | 割引価格 |
-| :--- | :---: | :---: |
-| スカイライナー(片道)＋24時間券 | 3,380円 | **2,900円** |
-| スカイライナー(片道)＋48時間券 | 3,780円 | **3,300円** |
-| スカイライナー(片道)＋72時間券 | 4,080円 | **3,600円** |
-| スカイライナー(往復)＋24時間券 | 5,960円 | **4,900円** |
-| スカイライナー(往復)＋48時間券 | 6,360円 | **5,300円** |
-| スカイライナー(往復)＋72時間券 | 6,660円 | **5,600円** |
-
-</div>
-
-<br>
-
-### 🗼 観光施設 ＋ 東京サブウェイチケット
-東京スカイツリー、東京タワー、渋谷スカイ、チームラボプラネッツ、サンシャイン水族館、六本木ヒルズ展望台、ワーナー ブラザース スタジオツアー東京（ハリー・ポッター）などの入場券とサブウェイチケットがセットになったお得なパスも購入可能です。
-
-➡️ [**東京の主要アトラクション ＋ サブウェイチケットのセット価格をチェック**](https://www.tokyometro.jp/tst/jp/ticket-overseas-purchase.html)
-
-<br>
-
-## ✨ まとめ
-
-もし券売機の使い方が難しかったり、列が長すぎたりする場合は、**「駅事務室」**にいる駅員さんに直接QRコードを見せて引き換えることもできます。また、引き換え機がない小さな駅でも、改札の駅員さんにQRコードを見せれば、最寄りの引き換え可能駅までの行き方を案内してくれます。充実した東京旅行を楽しんでください！
-
-<br>
-
-#### 📝 Editor's Note:
-この記事は、当サイトのオリジナルNaverブログ記事を元に構成・修正したものです。韓国語の原文は以下からご確認いただけます：
-[**도쿄지하철패스 총정리 가이드 (Naver Blog)**](https://blog.naver.com/tokyomate/224026098490)
-
-<br>
-
-#### ⭐ あわせて読みたい東京旅行のヒント
-➡️ [**東京交通パス、どれを買うべき？（サブウェイチケット vs 都区内パス比較）**](/ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/)
-➡️ [**成田空港から都心へ！京成スカイライナー予約完全ガイド**](/ja/posts/skyliner-reservation-guide/)
-➡️ [**東京ドン・キホーテお買い物リスト＆割引クーポンまとめ**](/ja/posts/don-quijote-shopping-guide-2025/)
 
 </div>
