@@ -13,8 +13,9 @@
 }
 
 .header-title {
-  font-size: 2.25rem;
+  font-size: 2.2rem;
   line-height: 1.2;
+  font-weight: 700;
 }
 
 .blog-container h2 {
@@ -34,19 +35,19 @@
   max-width: 100%;
   height: auto;
   border-radius: 8px;
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   margin: 1.5rem 0;
 }
 
 /* 단일 figure 요소 가운데 정렬 */
-.blog-container > figure,
+.blog-container>figure,
 .blog-container figure:not(.image-group-2 figure):not(.image-group-3 figure):not(.image-group-4 figure) {
   display: block;
   text-align: center;
   margin: 1.5rem auto;
 }
 
-.blog-container > figure img,
+.blog-container>figure img,
 .blog-container figure:not(.image-group-2 figure):not(.image-group-3 figure):not(.image-group-4 figure) img {
   display: block;
   margin: 0 auto;
@@ -67,7 +68,7 @@
 
 .info-box li {
   padding: 0.5rem 0;
-  border-bottom: 1px solid rgba(255,255,255,0.2);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
 }
 
 .info-box li:last-child {
@@ -78,7 +79,7 @@
   width: 100%;
   border-collapse: collapse;
   margin: 1.5rem 0;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .schedule-table th {
@@ -156,27 +157,31 @@ div.image-group-9,
   min-width: 100% !important;
   column-gap: 8px !important;
   row-gap: 0 !important;
-  margin: 0.5rem auto !important; /* Changed: 2rem -> 0.5rem for tighter spacing */
+  margin: 0.5rem auto !important;
+  /* Changed: 2rem -> 0.5rem for tighter spacing */
   padding: 0 !important;
   align-items: start !important;
   box-sizing: border-box !important;
   float: none !important;
   clear: both !important;
   position: relative !important;
-  left: auto !important; /* Changed: 0 -> auto for proper centering */
-  right: auto !important; /* Changed: 0 -> auto for proper centering */
+  left: auto !important;
+  /* Changed: 0 -> auto for proper centering */
+  right: auto !important;
+  /* Changed: 0 -> auto for proper centering */
   transform: none !important;
   flex: none !important;
   flex-shrink: 0 !important;
   flex-grow: 0 !important;
-  justify-self: center !important; /* Added: Ensures grid container itself is centered */
+  justify-self: center !important;
+  /* Added: Ensures grid container itself is centered */
 }
 
 /* 첫 번째 image-group만 위 여백 크게 */
-.blog-container > .image-group-2:first-of-type,
-.blog-container > .image-group-3:first-of-type,
-.blog-container > .image-group-4:first-of-type,
-.blog-container > .image-group-9:first-of-type {
+.blog-container>.image-group-2:first-of-type,
+.blog-container>.image-group-3:first-of-type,
+.blog-container>.image-group-4:first-of-type,
+.blog-container>.image-group-9:first-of-type {
   margin-top: 2rem !important;
 }
 
@@ -229,7 +234,8 @@ div.image-group-9,
   padding: 0 !important;
   display: block !important;
   float: none !important;
-  aspect-ratio: 1 / 1 !important; /* Force square aspect ratio for grid alignment */
+  aspect-ratio: 1 / 1 !important;
+  /* Force square aspect ratio for grid alignment */
   overflow: hidden !important;
 }
 
@@ -251,24 +257,26 @@ div.image-group-9,
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
-  height: 100% !important; /* Fill the aspect-ratio container */
+  height: 100% !important;
+  /* Fill the aspect-ratio container */
   max-width: 100% !important;
   min-width: 100% !important;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   display: block !important;
-  object-fit: cover !important; /* Match Naver's "Perfect Fit" look */
+  object-fit: cover !important;
+  /* Match Naver's "Perfect Fit" look */
 }
 
 /* 그룹 전체에 대한 figcaption */
-.blog-container .image-group-2 > figcaption,
-.blog-container .image-group-3 > figcaption,
-.blog-container .image-group-4 > figcaption,
-.blog-container .image-group-9 > figcaption,
-.image-group-2 > figcaption,
-.image-group-3 > figcaption,
-.image-group-4 > figcaption,
-.image-group-9 > figcaption {
+.blog-container .image-group-2>figcaption,
+.blog-container .image-group-3>figcaption,
+.blog-container .image-group-4>figcaption,
+.blog-container .image-group-9>figcaption,
+.image-group-2>figcaption,
+.image-group-3>figcaption,
+.image-group-4>figcaption,
+.image-group-9>figcaption {
   grid-column: 1 / -1 !important;
   width: 100% !important;
   margin-top: 0 !important;
@@ -279,23 +287,31 @@ div.image-group-9,
 }
 
 /* 연속된 image-group 사이의 간격 줄이기 */
-.image-group-2 + .image-group-2,
-.image-group-2 + .image-group-3,
-.image-group-2 + .image-group-4,
-.image-group-3 + .image-group-2,
-.image-group-3 + .image-group-3,
-.image-group-3 + .image-group-4,
-.image-group-4 + .image-group-2,
-.image-group-4 + .image-group-3,
-.image-group-4 + .image-group-4 {
+.image-group-2+.image-group-2,
+.image-group-2+.image-group-3,
+.image-group-2+.image-group-4,
+.image-group-3+.image-group-2,
+.image-group-3+.image-group-3,
+.image-group-3+.image-group-4,
+.image-group-4+.image-group-2,
+.image-group-4+.image-group-3,
+.image-group-4+.image-group-4 {
   margin-top: 0.5rem !important;
 }
 
 /* 모바일에서도 한 줄에 표시 (가로 폭을 이미지 수로 나눔) */
 @media (max-width: 768px) {
-  .blog-container { font-size: 0.95rem; }
-  .info-box { padding: 1rem; }
-  .schedule-table { font-size: 0.85rem; }
+  .blog-container {
+    font-size: 0.95rem;
+  }
+
+  .info-box {
+    padding: 1rem;
+  }
+
+  .schedule-table {
+    font-size: 0.85rem;
+  }
 
   /* Mobile Title Sizing */
   .post-title {
@@ -303,7 +319,8 @@ div.image-group-9,
   }
 
   .header-title {
-    font-size: 1.5rem !important;
+    font-size: 1.55rem !important;
+    font-weight: 700 !important;
   }
 
   .blog-container h2 {
@@ -391,7 +408,7 @@ div.image-group-9,
 .nav-btn:hover {
   background-color: #fff;
   transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   border-color: #3498db;
   color: #3498db !important;
 }
