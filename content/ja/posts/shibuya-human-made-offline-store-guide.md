@@ -161,10 +161,10 @@ HUMAN MADEでのお買い物の際に知っておくと便利なポイントで�
 <p style="text-align: center;"><strong>➡️ </strong> <a href="/ja/posts/shibuya-blue-cave-illumination-2025/" style="color: #667eea;"><strong>2025 渋谷「青の洞窟」イルミネーション期間・時間・場所</strong></a></p>
 
 👇 渋谷スカイの夜景を見に行く
-<p style="text-align: center;"><strong>➡️ </strong> <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>渋谷おすすめスポット、渋谷スカイ予約からショッピング、グルメまで完全ガイド</strong></a></p>
+<p style="text-align: left;"><strong>➡️ </strong> <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>渋谷おすすめスポット、渋谷スカイ予約からショッピング、グルメまで完全ガイド</strong></a></p>
 
 👇 パルコ徒歩5分！東京MZ世代の聖地、宮下パーク攻略
-<p style="text-align: center;"><strong>➡️ </strong> <a href="/ja/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>渋谷ミヤシタパーク＆渋谷横丁レビュー</strong></a></p>
+<p style="text-align: left;"><strong>➡️ </strong> <a href="/ja/posts/shibuya-miyashita-park-yokocho-2025/" style="color: #667eea;"><strong>渋谷ミヤシタパーク＆渋谷横丁レビュー</strong></a></p>
 
 
 <div class="editors-note">
