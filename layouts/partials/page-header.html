@@ -10,7 +10,7 @@
             {{ if not .Params.omit_header_text }}
             <div class="header-title white-90 mb0 lh-title">{{ .Title | compare.Default .Site.Title }}</div>
             {{ with .Params.description }}
-            <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+            <div class="header-description f5 f3-l white-90 measure-wide-l center lh-copy mt3 mb4">
                 {{ . }}
             </div>
             {{ end }}
