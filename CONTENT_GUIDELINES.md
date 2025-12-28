@@ -853,9 +853,11 @@ Complete information at a glance.</p>
 
 ### Editor's Note Section
 
-**⚠️ MANDATORY: Add Editor's Note to ALL blog posts**
+**⚠️ MANDATORY: Add Editor's Note to ALL blog posts - NO EXCEPTIONS**
 
-Every blog post must include an Editor's Note section at the bottom (before closing `</div>` tag) with language-specific content and the correct Naver blog URL.
+**CRITICAL RULE:** Every single blog post MUST include an Editor's Note section at the bottom (before closing `</div>` tag) with language-specific content and the correct Naver blog URL.
+
+**This is NOT optional.** All blog posts, regardless of content type or source, require this section.
 
 **Format:**
 
