@@ -143,9 +143,8 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
   <figure>
     <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="ニンテンドートウキョウ店内とグッズ写真7">
   </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">ニンテンドートウキョウ店内とグッズの写真</figcaption>
 </div>
-
-<figcaption style="font-size: 0.85em; text-align: center;">ニンテンドートウキョウ店内とグッズの写真</figcaption>
 
 ### **✅ 思い出をガチャで 🕹️**
 

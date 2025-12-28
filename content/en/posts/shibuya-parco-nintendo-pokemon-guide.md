@@ -143,9 +143,8 @@ This is the place that attracts the most crowds on Shibuya Parco 6F. On weekdays
   <figure>
     <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="Nintendo Tokyo store interior and goods photo 7">
   </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo Tokyo store interior and goods photos</figcaption>
 </div>
-
-<figcaption style="font-size: 0.85em; text-align: center;">Nintendo Tokyo store interior and goods photos</figcaption>
 
 ### **✅ Nostalgic Moment 🕹️**
 
