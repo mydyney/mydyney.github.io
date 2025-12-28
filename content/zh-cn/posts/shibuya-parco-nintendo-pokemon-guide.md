@@ -143,9 +143,8 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
   <figure>
     <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-12.jpg" alt="任天堂东京店内及周边照片7">
   </figure>
+  <figcaption style="font-size: 0.85em; text-align: center;">任天堂东京店内和周边照片</figcaption>
 </div>
-
-<figcaption style="font-size: 0.85em; text-align: center;">任天堂东京店内和周边照片</figcaption>
 
 ### **✅ 用扭蛋重温回忆 🕹️**
 
