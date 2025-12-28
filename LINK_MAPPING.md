@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-12-25
-> **Status:** ✅ Complete - 91 posts mapped
+> **Last Updated:** 2025-12-28
+> **Status:** ✅ Complete - 102 posts mapped
 
 ---
 
@@ -161,14 +161,14 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223985958480 | roppongi-attractions-guide | Imakatsu Roppongi Main Store: Tokyo Tonkatsu Restaurant |
 | 223986407872 | roppongi-attractions-guide | Tsujihan Midtown: Roppongi Kaisendon Restaurant |
 | 223987115708 | roppongi-attractions-guide | Tempura Meshi Kaneko Hannosuke: Roppongi Hills Tempura Restaurant |
-| 224007949043 | tokyo-transportation-card-guide-2025 | Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
+| ~~224007949043~~ | tokyo-transportation-card-guide-2025 | ✅ **MIGRATED** → narita-airport-arrival-guide |
 | 223995074888 | tokyo-transportation-card-guide-2025 | Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
 | ~~224026098490~~ | tokyo-transportation-card-guide-2025 | ✅ **MIGRATED** → tokyo-subway-ticket-guide |
 
 | 224024530348 | tokyo-september-festivals-2025 | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 
-| 224106448442 | shibuya-parco-shopping-guide | Shibuya Parco 6F Complete Guide (Nintendo, Pokemon, Jump Shop) |
-| 224107954391 | shibuya-parco-shopping-guide | Shibuya Station Luggage Storage & Coin Locker Guide |
+| ~~224106448442~~ | shibuya-parco-shopping-guide | ✅ **MIGRATED** → shibuya-parco-nintendo-pokemon-guide |
+| ~~224107954391~~ | shibuya-parco-shopping-guide | ✅ **MIGRATED** → shibuya-station-coin-locker-luggage-storage-guide |
 | 224032769630 | yebisu-garden-place-illumination-christmas-market-2025, tokyo-christmas-markets-guide-2025 | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
 | ~~223989943826~~ | tokyo-september-festivals-2025, tokyo-october-festivals-2025 | ✅ **MIGRATED** → ginza-guide-2025 |
 | 223694057318 | ginza-guide-2025 | Ginza Six Rooftop Free Observation Deck & Ice Rink |
@@ -181,7 +181,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223715784445 | ginza-guide-2025 | Ginza WAKO Tea Salon (Reservation Tips) |
 | 223912913938 | ginza-guide-2025 | Pain Maison Ginza Salt Bread Online Reservation |
 | 223702865232 | ginza-guide-2025 | Sapporo The Bar Ginza Perfect Draft Beer |
-| 224035271300 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping |
+| ~~224035271300~~ | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | ✅ **MIGRATED** → shinjuku-guide-2025 |
 | 224038568654 | ikebukuro-complete-guide, tokyo-october-festivals-2025 | 2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro) |
 | 224039113760 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025, odaiba-ariake-toyosu-complete-guide | Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores) |
 | ~~224022065518~~ | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, tokyo-christmas-markets-guide-2025 | ✅ **MIGRATED** → don-quijote-shopping-guide-2025 |
@@ -224,7 +224,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide, odaiba-rainbow-fireworks-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
 | 224039113760 | japan-travel-discount-coupons-2025 | Japan Travel Discount Coupons (Don Quijote, Bic Camera, etc.) |
-| 224035271300 | shinjuku-guide-2025 | Complete Shinjuku Travel Guide |
+| ~~224035271300~~ | shinjuku-guide-2025 | ✅ **MIGRATED** → shinjuku-guide-2025 |
 | 223693165027 | ginza-itoya-stationery-guide | Tokyo Ginza Representative Stationery Store: Itoya Main Store |
 | ~~223690406760~~ | odaiba-ariake-toyosu-complete-guide | ✅ **MIGRATED** → odaiba-rainbow-fireworks-2025 |
 | 224096203397 | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
@@ -469,12 +469,12 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 92
-- **Naver IDs Tracked:** 92
-- **Posts with Internal Links:** 31+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu)
-- **Pending References:** 52 (removed 1: 224022065518 migrated to don-quijote-shopping-guide-2025, added 1: 224014619007)
-- **Links Updated:** Verified & Fixed on 2025-12-12
-- **Last Migration Date:** 2025-12-12 (Shibuya Parco Kiwamiya Hamburg)
+- **Total Posts Migrated:** 102
+- **Naver IDs Tracked:** 102
+- **Posts with Internal Links:** 35+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide)
+- **Pending References:** 46
+- **Links Updated:** Verified & Fixed on 2025-12-28
+- **Last Migration Date:** 2025-12-28 (Tokyo Subway Ticket Guide)
 
 ---
 
