@@ -116,6 +116,7 @@ When migrating a Naver blog post to Hugo:
 | 224112740096 | tokyo-station-okashi-land-jagariko-calbee-guide | 2025-12-27 | ✅ |
 | 224107954391 | shibuya-station-coin-locker-luggage-storage-guide | 2025-12-13 | ✅ |
 | 223689247336 | miyashita-park-illumination-2024 | 2024-12-17 | ✅ |
+| 224113027853 | tokyo-station-tokyo-banana-creme-brulee-tart-guide | 2025-12-17 | ✅ |
 
 
 ---
@@ -474,3 +475,4 @@ echo "Link conversion complete!"
 - Extract internal links during migration workflow
 - Run batch conversion script when ready to update all links
 - Keep this file synchronized with actual migrated posts
+| 224113027853 | tokyo-station-tokyo-banana-creme-brulee-tart-guide |
