@@ -200,6 +200,8 @@ div.image-group-9,
   width: 100% !important;
   max-width: 100% !important;
   min-width: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
   display: block !important;
   float: none !important;
   aspect-ratio: 1 / 1 !important; /* Force square aspect ratio for grid alignment */
