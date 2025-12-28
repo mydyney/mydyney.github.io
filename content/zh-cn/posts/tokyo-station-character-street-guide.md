@@ -21,8 +21,6 @@ translationKey: "tokyo-station-character-street-guide"
 
 ​
 
-​
-
 大家好！为您介绍东京旅行一切的东京Mate。🗼
 
 ​
@@ -43,7 +41,7 @@ translationKey: "tokyo-station-character-street-guide"
 <li><b>位置</b>: JR东京站地下1层（东京站一番街内）</li>
 </ul>
 
-📍<b><a href="https://maps.app.goo.gl/z3C3XbN4qeeNzhMB8" target="_blank">📍 在Google地图查看位置</a></b>
+📍<b><a href="https://maps.app.goo.gl/z3C3XbN4qeeNzhMB8" target="_blank">在Google地图查看位置</a></b>
 
 <ul>
 <li><b>最近出口</b>: 八重洲地下中央口（Yaesu Underground Central Exit）</li>
@@ -114,132 +112,119 @@ translationKey: "tokyo-station-character-street-guide"
 
 ​
 
-### <b>🔶 1楼（地面）- 3大店铺</b>
+### <b>🏢 1楼店铺 - 八重洲北口方面</b>
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
-  <thead>
-    <tr style="background-color: #f7f7f7;">
-      <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">店铺名</th>
-      <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">特点</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">吉伊卡哇乐园</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">日本最大吉伊卡哇专卖店<br>周末需要整理券</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">龙珠商店</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">全球首家官方商店<br>2024年11月开业</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">宝可梦商店</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">从地下1楼搬到1楼<br>站长皮卡丘限定商品</td>
-    </tr>
-  </tbody>
-</table>
+要去这3个地方需要从地下通过楼梯上到<b>1楼</b>！
+
+<ol>
+<li><b>宝可梦商店（Pokemon Store）</b>: 销售「站长皮卡丘」限定版 ⚡</li>
+<li><b>龙珠商店（Dragon Ball）</b>: 全球首家常设店铺！开业即爆红 🔥</li>
+<li><b>三丽鸥（Sanrio）</b>: Hello Kitty、玉桂狗等人气商品大集合 🎀</li>
+</ol>
 
 ​
 
-### <b>🔶 地下1楼（地下）- 经典角色商店</b>
+### <b>🚆 地下1楼店铺</b>
 
 <ul>
-<li>Jump Shop（海贼王、火影忍者、咒术回战等）</li>
-<li>吉卜力商店（龙猫、千与千寻、魔女宅急便）</li>
-<li>三丽鸥（Hello Kitty、美乐蒂、玉桂狗）</li>
-<li>史努比小镇商店</li>
-<li>奥特曼官方商店</li>
-<li>蜡笔小新官方商店</li>
-<li>轻松熊商店</li>
-<li>橡子共和国（吉卜力专卖店）</li>
+<li><b>吉伊卡哇乐园</b>（最受欢迎！）</li>
+<li><b>卡比咖啡 PETIT</b>（外带甜品专门店 / 需提前预约）</li>
+<li>吉卜力（橡子共和国）、蜡笔小新、Jump Shop、轻松熊、扭蛋商店等其他所有店铺</li>
 </ul>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-05.jpg" alt="东京站角色街 地下1楼 地图">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 地下1楼 地图</figcaption>
+  <img src="/images/posts/tokyo-station-character-street-guide-05.jpg" alt="东京站地下1楼 橡子共和国（吉卜力商店）">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京站地下1楼 橡子共和国（吉卜力商店）</figcaption>
 </figure>
 
 ---
 
-## <b>4. 🔥[热门] 吉伊卡哇乐园 - 预约·入场小贴士</b>
+## <b>4. 吉伊卡哇乐园预约制·入场整理券（地下1楼）</b>
 
 ​
 
-现在角色街最火的地方！<b>吉伊卡哇乐园</b>是日本最大的吉伊卡哇专卖店，<b>周末需要整理券</b>。
+现在东京站排队最长的地方！<b>吉伊卡哇乐园东京站</b>。访问前请务必确认以下通知！
 
 ​
 
-<b>📌 整理券制度（周末·节假日）</b>
+<b>🚨 12月19日（周五）访问者必读！（入场限制）</b>
+
+根据官方X（Twitter），为缓解拥堵，12月19日（周五）的入场将采用<b>抽签/先到先得预约制</b>运营。
 
 <ul>
-<li><b>发放时间:</b> 从10:00开门开始</li>
-<li><b>发放地点:</b> 吉伊卡哇乐园店铺前（1楼）</li>
-<li><b>入场方法:</b> 叫到号码后按顺序入场</li>
-<li><b>工作日:</b> 可自由入场（但高峰时段可能有等待时间）</li>
+<li><b>对象日期</b>: 2025年12月19日（周五）</li>
+<li><b>方式:</b> 通过LINE应用提前申请（抽签/先到先得）</li>
+</ul>
+
+➡️ <b><a href="http://lin.ee/ZkmtWxk" target="_blank">申请吉伊卡哇乐园入场</a></b>
+
+<ul>
+<li><b>入场方式:</b> 新商品/再销售商品区域分时段轮换制（部分限制）</li>
+</ul>
+
+（参考: 天空树晴空塔店实行全店入场限制）
+
+<ul>
+<li><b>官方X:</b> <b><a href="https://x.com/chiikawa_land" target="_blank">@chiikawa_land</a></b></li>
 </ul>
 
 ​
 
-<b>💡 东京Mate的吉伊卡哇购物攻略</b>
+<b>🎁 12月访问推荐理由（特典 & 联名）</b>
 
 <ol>
-<li><b>工作日上午</b>是黄金时间！10:00开门同时到达就能顺利入场。</li>
-<li>周末访问的话<b>先领整理券</b>，等待期间在其他店铺购物。</li>
-<li>人气商品的<b>毛绒玩具和钥匙扣很快售罄</b>，入场后先确保。</li>
+<li><b>吉伊卡哇 x 三丽鸥角色联名</b>: 穿着Hello Kitty、玉桂狗服装的史诗级商品发售！（注意提前售罄）</li>
+<li><b>2025圣诞卡片赠送</b>: 购买顾客先到先得赠送（12/1~ 送完为止）</li>
+<li><b>开业纪念印章</b>: 店内设置的东京站限定印章盖起来！</li>
 </ol>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-06.jpg" alt="东京站角色街 吉伊卡哇乐园 1">
-  </figure>
-  <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-07.jpg" alt="东京站角色街 吉伊卡哇乐园 2">
-  </figure>
-</div>
-<figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 吉伊卡哇乐园</figcaption>
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-06.jpg" alt="东京站吉伊卡哇乐园入口景象">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京站吉伊卡哇乐园入口景象</figcaption>
+</figure>
 
 ---
 
-## <b>5. 🐉[全球首家] 龙珠商店</b>
+## <b>5. 卡比咖啡 PETIT（地下1楼）</b>
 
 ​
 
-2024年11月开业的<b>全球首家龙珠官方商店</b>！角色街最新热门地点。
+销售融入「星之卡比」世界观的蛋挞和蛋糕的外带专门店。
 
 ​
 
-<b>✨ 必看亮点</b>
+<b>🚨 [重要] 提前预约结束！现在是「先到先得」！</b>
+
+2023年9月起「LivePocket」提前预约制度结束了。现在<b>无需预约按到达顺序入场</b>即可购买。
+
+​
+
+<b>🍰 入场方式:</b>
 
 <ul>
-<li><b>等身大神龙:</b> 入口处巨大的神龙雕像迎接您—完美拍照点！</li>
-<li><b>东京站限定商品:</b> 其他龙珠商店买不到的，只有这里的商品</li>
-<li><b>龙珠收藏:</b> 展示全部7颗龙珠—粉丝必看</li>
+<li><b>希望购买蛋糕者:</b> 在「蛋糕菜单」等候队列排队即可按顺序点单。</li>
+<li><b>仅希望购买商品者:</b> 在「商品入店」等候队列排队即可。</li>
 </ul>
 
 ​
 
-<b>🛍️ 人气商品</b>
+<b>🍭 购买限制（必读）</b>: 蛋糕每人每种限购2个，总计最多8个。
 
-<ul>
-<li>悟空&贝吉塔手办</li>
-<li>龙珠复制品套装</li>
-<li>角色T恤&卫衣</li>
-<li>胶囊公司商品</li>
-</ul>
+<b>🍭 保存小贴士</b>: 虽然会放保冷剂，但必须在<b>最多2小时</b>内冷藏保存。如果在旅行中，请在回住宿地之前再来！
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-08.jpg" alt="东京站角色街 龙珠商店 1">
+    <img src="/images/posts/tokyo-station-character-street-guide-07.jpg" alt="东京站卡比咖啡外带专门店 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="东京站角色街 龙珠商店 2">
+    <img src="/images/posts/tokyo-station-character-street-guide-08.jpg" alt="东京站卡比咖啡外带专门店 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 龙珠商店</figcaption>
+<figcaption style="font-size: 0.85em; text-align: center;">东京站卡比咖啡外带专门店</figcaption>
 
 ---
 
-## <b>6. 🎮[搬迁] 宝可梦商店 - 搬到1楼了！</b>
+## <b>6.⚡东京站宝可梦商店（1楼）</b>
 
 ​
 
@@ -260,101 +245,178 @@ translationKey: "tokyo-station-character-street-guide"
      Naver: https://blog.naver.com/tokyomate/223691371517
      Hugo: /zh-cn/posts/tokyo-station-pokemon-store-guide/ --><a href="#" style="color: #667eea;">东京站宝可梦商店 位置·站长皮卡丘·宝可梦卡牌购买评测</a></b>
 
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="东京站宝可梦商店">
+  <figcaption style="font-size: 0.85em; text-align: center;"><b>东京站宝可梦商店</b></figcaption>
+</figure>
+
+---
+
+## <b>7. 🐉 [NEW] 龙珠商店东京（1楼）</b>
+
+​
+
+全世界龙珠粉丝期待已久的圣地！<b>2025年11月14日，</b>全球首家官方常设店铺「<b>DRAGON BALL STORE TOKYO'</b>在东京站<b>1楼</b>开业了。
+
+​
+
+<ul>
+<li><b>位置:</b> 1楼八重洲北口方向（宝可梦商店附近）</li>
+<li><b>店铺亮点:</b> 重现龙珠世界观的店铺装潢和巨型手办拍照区，还有「东京商店」限定商品满满。</li>
+</ul>
+
+​
+
+<b>🎉 [12月最新] 雅木茶壁纸赠送活动</b>
+
+<ul>
+<li><b>期间:</b> 12/16(二) ~ 12/22(一)</li>
+<li><b>获取方法:</b> 关注官方X(@DB_STORE_info) & 点赞/转发相关帖子后在收银台出示 → 通过二维码下载！</li>
+<li>X账号: <b><a href="https://x.com/db_store_info" target="_blank">@DB_STORE_info</a></b></li>
+</ul>
+
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-10.jpg" alt="东京站角色街 宝可梦商店 1">
+    <img src="/images/posts/tokyo-station-character-street-guide-10.jpg" alt="东京站角色街1楼 龙珠商店 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="东京站角色街 宝可梦商店 2">
+    <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="东京站角色街1楼 龙珠商店 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 宝可梦商店</figcaption>
+<figcaption style="font-size: 0.85em; text-align: center;"><b>东京站角色街1楼 龙珠商店</b></figcaption>
 
 ---
 
-## <b>7. 🏪 其他人气角色商店</b>
+## <b>8. 🎀 [NEW] 三丽鸥东京角色街店（1楼）</b>
 
 ​
 
-### <b>🔶 Jump Shop</b>
-
-少年Jump粉丝的圣地！海贼王、火影忍者、咒术回战、我的英雄学院等—热门动漫商品齐聚。
-
-<ul>
-<li><b>人气商品:</b> 海贼王通缉令、咒术回战角色亚克力立牌</li>
-<li><b>位置:</b> 地下1楼</li>
-</ul>
+Hello Kitty、玉桂狗、酷洛米粉丝注意！三丽鸥店铺于<b>2025年11月14日在东京站1楼</b>扩张搬迁并盛大开业。
 
 ​
 
-### <b>🔶 吉卜力商店（橡子共和国）</b>
-
-吉卜力工作室专卖店。龙猫、千与千寻、魔女宅急便等—所有吉卜力角色商品齐全。
-
 <ul>
-<li><b>人气商品:</b> 龙猫毛绒玩具、无脸男面具、魔女宅急便吉吉钥匙扣</li>
-<li><b>位置:</b> 地下1楼</li>
+<li><b>核心亮点</b>: 「SANRIO JAPAN」系列！可以找到融入日本文化的横须贺夹克、口金包、豆皿等高品质限定商品。</li>
+<li><b>运营:</b> 拥挤时可能会发放「入场整理券」，请注意。</li>
 </ul>
 
-​
-
-### <b>🔶 三丽鸥</b>
-
-Hello Kitty、美乐蒂、玉桂狗、酷洛米等—所有三丽鸥角色集结。
-
-<ul>
-<li><b>人气商品:</b> Hello Kitty东京限定商品、玉桂狗毛绒玩具</li>
-<li><b>位置:</b> 地下1楼</li>
-</ul>
-
-<div class="image-group-3">
+<div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-12.jpg" alt="东京站角色街 Jump Shop">
+    <img src="/images/posts/tokyo-station-character-street-guide-12.jpg" alt="东京站角色街1楼 三丽鸥东京 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="东京站角色街 吉卜力商店">
-  </figure>
-  <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="东京站角色街 三丽鸥">
+    <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="东京站角色街1楼 三丽鸥东京 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 Jump Shop、吉卜力商店、三丽鸥</figcaption>
+<figcaption style="font-size: 0.85em; text-align: center;"><b>东京站角色街1楼 三丽鸥东京</b></figcaption>
 
 ---
 
-## <b>8. 💰 免税（Tax Refund）完全攻略</b>
+## <b>9. 🧸 吉卜力·蜡笔小新·扭蛋等主要店铺整理</b>
 
 ​
 
-<b>❌ 角色街各店铺不能直接免税</b>
+除了吉伊卡哇·宝可梦，还有吉卜力、蜡笔小新、Jump Shop、扭蛋（转蛋）店铺聚集，可以享受符合自己喜好的角色购物。
 
-地下1楼和1楼的所有店铺都不能直接办理免税。必须去<b>1楼综合免税柜台</b>。
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <thead>
+    <tr style="background-color: #f7f7f7;">
+      <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">店铺名</th>
+      <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">特点及必买推荐</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">橡子共和国</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">吉卜力官方商店。龙猫拍照区，礼物用「日式手帕」</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">蜡笔小新官方商店</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">小新睡衣、小白饭碗等生活用品，实用物品人气高</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Jump Shop（JUMP）</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">海贼王、灌篮高手、鬼灭之刃等Jump漫画商品</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">轻松熊商店</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">治愈系角色代表。小包·毛绒玩具配件</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">米菲（Miffy）</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">简约欧洲风格角色。儿童·家庭礼物</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">梦奇奇（Monchhichi）</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">复古角色。玩偶·钥匙扣</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">扭蛋街</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">稀有扭蛋机集合地</td>
+    </tr>
+  </tbody>
+</table>
+
+假面骑士商店、奥特曼、光之美少女、史努比、角落生物、mofusand、hololive（可能限时）、多美卡·普乐路路、电视台（朝日/东京/富士/日本/TBS）系列、乐高等
+
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="东京站角色街 Jump Shop">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 Jump Shop</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="东京角色街 扭蛋">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京角色街 扭蛋</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="东京站角色街 纪念品 米菲 东京站站长限定玩偶">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 纪念品 米菲 东京站站长限定玩偶</figcaption>
+</figure>
+
+---
+
+## <b>10. 东京站角色街免税方法（1楼）</b>
 
 ​
 
-<b>⭕ 免税方法</b>
-
-<ol>
-<li>在角色街店铺购物后<b>保管所有收据</b></li>
-<li>去<b>1楼综合免税柜台</b>（八重洲北口附近）</li>
-<li>出示收据+护照办理免税</li>
-<li><b>最低购买额:</b> 不含税5,000日元（含税5,500日元）以上</li>
-</ol>
+最重要的信息！各店铺不能直接免税。购物后必须去<b>「1楼综合免税柜台」</b>。
 
 ​
 
 <b>📍 免税柜台位置</b>
 
 <ul>
-<li><b>楼层:</b> 1楼（地面）</li>
-<li><b>路线:</b> 从角色街地下1楼通过楼梯上到1楼，往八重洲北口方向。柜台在东京礼品调色板附近。</li>
-<li><b>营业时间:</b> 10:00 ~ 20:00</li>
+<li><b>位置:</b> JR东京站1楼（不是地下），佐川（Sagawa）快递服务柜台旁边</li>
+<li><b>标识</b>: 红色TAX FREE招牌</li>
+<li><b>营业时间: 10:00 ~ 21:00</b>（建议关门前30分钟到达）</li>
+</ul>
+
+​
+
+<b>📝 免税条件及注意事项</b>
+
+<ul>
+<li><b>可合并:</b> 多家店铺购买金额合计不含税5,000日元（含税5,500日元）以上即可（仅限当天购买）</li>
+<li>准备物品: 护照（实物）、收据、商品、信用卡</li>
+</ul>
+
+※ 护照、收据、信用卡的姓名必须一致。
+
+<ul>
+<li>手续费: 扣除约2.1%免税手续费后退款（实际退款率约8%左右 / 不可现金退款，退至卡内）</li>
 </ul>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="东京站1楼 综合免税柜台">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站1楼 综合免税柜台</figcaption>
+  <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="东京站角色街免税柜台位置（地图来源）">
+  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街免税柜台位置（<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">地图来源</a>）</figcaption>
 </figure>
+
+​
+
+<b>📍 免税适用店铺（宝可梦商店在店内单独办理免税退款）</b>
+
+[显示免税适用店铺列表的图片]
 
 ​
 
@@ -366,31 +428,11 @@ Hello Kitty、美乐蒂、玉桂狗、酷洛米等—所有三丽鸥角色集结
 
 ---
 
-## <b>❓ 常见问题（Q&A）</b>
+东京站角色街是光看看就能让1-2小时「瞬间消失」的魔法般的地方。购物结束后双手拎满袋子的话，寄存在投币储物柜，然后去旁边的「<b>东京拉面街'</b>来碗热腾腾的拉面怎么样？🍜 如果想要轻松的刚炸薯条或甜点，推荐对面的<b>Okashi Land</b>！
 
 ​
 
-<b>Q. 购物需要多长时间？</b>
-
-A. 只是看看的话约1小时。作为粉丝认真购物的话预计2-3小时。特别是吉伊卡哇乐园和龙珠商店需要时间。
-
-​
-
-<b>Q. 可以用信用卡吗？</b>
-
-A. 可以，大部分店铺都能用信用卡。部分小店可能只收现金，所以准备一些现金比较好。
-
-​
-
-<b>Q. 有行李寄存吗？</b>
-
-A. 东京站八重洲口附近有投币储物柜。存放大件行李后购物很方便。
-
----
-
-东京站的角色天堂，<b>角色街！</b> 从热门的吉伊卡哇乐园到全球首家龙珠商店，看点满满。🎮
-
-购物结束后，在附近的<b>拉面街</b>填饱肚子怎么样？🍜
+如果对东京站角色街访问日程或吉伊卡哇·宝可梦购物有任何疑问，请在评论中留言，我们会整理后回复。
 
 ---
 
@@ -398,23 +440,13 @@ A. 东京站八重洲口附近有投币储物柜。存放大件行李后购物�
 
 ​
 
-<b>🍜 从解酒到正餐完美！东京站拉面BEST 8</b>
-
 ➡️ <b><a href="/zh-cn/posts/tokyo-station-ramen-street-complete-guide-2025/">东京站拉面街 2025年翻新 & 味噌金预约小贴士</a></b>
 
 ➡️ <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223707471582
      Hugo: /zh-cn/posts/tokyo-ramen-street-best-8/ --><a href="#" style="color: #667eea;">角色街旁边！东京站拉面街 完全攻略</a></b>
 
-​
-
-<b>🍟 零食时间！刚炸薯条</b>
-
 ➡️ <b><a href="/zh-cn/posts/tokyo-station-okashi-land-jagariko-calbee-guide/">东京站Okashi Land路线｜刚炸薯条 & Calbee菜单推荐</a></b>
-
-​
-
-<b>🎪 东京站完全攻略</b>
 
 ➡️ <b><a href="/zh-cn/posts/tokyo-station-guide/">东京站: 角色街、餐厅、夜景、行李寄存 & 投币储物柜</a></b>
 

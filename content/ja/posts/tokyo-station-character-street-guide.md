@@ -21,8 +21,6 @@ translationKey: "tokyo-station-character-street-guide"
 
 ​
 
-​
-
 こんにちは！東京旅行のすべてをお伝えする東京メイトです。🗼
 
 ​
@@ -43,7 +41,7 @@ translationKey: "tokyo-station-character-street-guide"
 <li><b>場所</b>: JR東京駅地下1階（東京駅一番街内）</li>
 </ul>
 
-📍<b><a href="https://maps.app.goo.gl/z3C3XbN4qeeNzhMB8" target="_blank">📍 Googleマップで位置を見る</a></b>
+📍<b><a href="https://maps.app.goo.gl/z3C3XbN4qeeNzhMB8" target="_blank">Googleマップで位置を見る</a></b>
 
 <ul>
 <li><b>最寄り出口</b>: 八重洲地下中央口（Yaesu Underground Central Exit）</li>
@@ -114,132 +112,119 @@ translationKey: "tokyo-station-character-street-guide"
 
 ​
 
-### <b>🔶 1階（地上）- 3大店舗</b>
+### <b>🏢 1階店舗 - 八重洲北口方面</b>
 
-<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
-  <thead>
-    <tr style="background-color: #f7f7f7;">
-      <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">店舗名</th>
-      <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">特徴</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ちいかわランド</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">日本最大のちいかわ専門店<br>週末は整理券制</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ドラゴンボールストア</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">世界初の公式ストア<br>2024年11月オープン</td>
-    </tr>
-    <tr>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ポケモンストア</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">地下1階から1階に移転<br>駅長ピカチュウ限定グッズ</td>
-    </tr>
-  </tbody>
-</table>
+この3か所に行くには地下から階段で<b>1階</b>に上がってください！
+
+<ol>
+<li><b>ポケモンストア（Pokemon Store）</b>: 「駅長ピカチュウ」限定販売 ⚡</li>
+<li><b>ドラゴンボールストア（Dragon Ball）</b>: 世界初の常設店舗！オープンラン人気爆発 🔥</li>
+<li><b>サンリオ（Sanrio）</b>: ハローキティ、シナモロールなど人気グッズ大集合 🎀</li>
+</ol>
 
 ​
 
-### <b>🔶 地下1階（地下）- 定番キャラクターストア</b>
+### <b>🚆 地下1階店舗</b>
 
 <ul>
-<li>ジャンプショップ（ワンピース、ナルト、呪術廻戦など）</li>
-<li>ジブリストア（トトロ、千と千尋の神隠し、魔女の宅急便）</li>
-<li>サンリオ（ハローキティ、マイメロディ、シナモロール）</li>
-<li>スヌーピータウンショップ</li>
-<li>ウルトラマン公式ショップ</li>
-<li>クレヨンしんちゃん公式ショップ</li>
-<li>リラックマストア</li>
-<li>どんぐり共和国（ジブリ専門店）</li>
+<li><b>ちいかわランド</b>（最も人気！）</li>
+<li><b>カービィカフェ PETIT</b>（テイクアウトスイーツ専門 / 事前予約必須）</li>
+<li>ジブリ（どんぐり共和国）、クレヨンしんちゃん、ジャンプショップ、リラックマ、ガチャショップなど残り全店舗</li>
 </ul>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-05.jpg" alt="東京駅キャラクターストリート 地下1階 マップ">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート 地下1階 マップ</figcaption>
+  <img src="/images/posts/tokyo-station-character-street-guide-05.jpg" alt="東京駅地下1階 どんぐり共和国（ジブリショップ）">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京駅地下1階 どんぐり共和国（ジブリショップ）</figcaption>
 </figure>
 
 ---
 
-## <b>4. 🔥[話題] ちいかわランド - 予約·入場のコツ</b>
+## <b>4. ちいかわランド予約制·入場整理券（地下1階）</b>
 
 ​
 
-今キャラクターストリートで最も熱いスポット！<b>ちいかわランド</b>は日本最大のちいかわ専門店で、<b>週末は整理券が必要</b>です。
+今東京駅で最も行列が長い場所！<b>ちいかわランド東京ステーション</b>です。訪問前に必ず下記のお知らせを確認してください！
 
 ​
 
-<b>📌 整理券制度（週末·祝日）</b>
+<b>🚨 12月19日（金）訪問予定者必読！（入場制限）</b>
+
+公式X（Twitter）によると、混雑緩和のため12月19日（金）の入場は<b>抽選/先着順予約制</b>で運営されます。
 
 <ul>
-<li><b>配布時間:</b> 10:00開店から</li>
-<li><b>配布場所:</b> ちいかわランド店舗前（1階）</li>
-<li><b>入場方法:</b> 番号が呼ばれた順に入場</li>
-<li><b>平日:</b> 自由入場可能（ただしピーク時は待ち時間あり）</li>
+<li><b>対象日</b>: 2025年12月19日（金）</li>
+<li><b>方式:</b> LINEアプリを通じた事前申請（抽選/先着順）</li>
+</ul>
+
+➡️ <b><a href="http://lin.ee/ZkmtWxk" target="_blank">ちいかわランド入場申請する</a></b>
+
+<ul>
+<li><b>入場方法:</b> 新商品/再販売商品エリア時間帯別交代制（部分制限）</li>
+</ul>
+
+（参考: スカイツリーソラマチ店は店舗全体入場制限）
+
+<ul>
+<li><b>公式X:</b> <b><a href="https://x.com/chiikawa_land" target="_blank">@chiikawa_land</a></b></li>
 </ul>
 
 ​
 
-<b>💡 東京メイトのちいかわショッピング戦略</b>
+<b>🎁 12月訪問おすすめ理由（特典 & コラボ）</b>
 
 <ol>
-<li><b>平日の午前中</b>がゴールデンタイム！10:00開店と同時に到着すればスムーズに入場できます。</li>
-<li>週末訪問なら<b>整理券を先に受け取って</b>待っている間に他の店舗でショッピング。</li>
-<li>人気商品の<b>ぬいぐるみやキーホルダーは早く売り切れる</b>ので、入場したらまず確保。</li>
+<li><b>ちいかわ x サンリオキャラクターズコラボ</b>: ハローキティ、シナモロールコスチュームを着た歴代級グッズ発売！（早期品切れ注意）</li>
+<li><b>2025クリスマスカードプレゼント</b>: 購入客対象先着順プレゼント（12/1~ なくなり次第終了）</li>
+<li><b>オープン記念スタンプ</b>: 店舗に設置された東京駅限定スタンプをゲット！</li>
 </ol>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-06.jpg" alt="東京駅キャラクターストリート ちいかわランド 1">
-  </figure>
-  <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-07.jpg" alt="東京駅キャラクターストリート ちいかわランド 2">
-  </figure>
-</div>
-<figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート ちいかわランド</figcaption>
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-06.jpg" alt="東京駅ちいかわランド入口の様子">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京駅ちいかわランド入口の様子</figcaption>
+</figure>
 
 ---
 
-## <b>5. 🐉[世界初] ドラゴンボールストア</b>
+## <b>5. カービィカフェ PETIT（地下1階）</b>
 
 ​
 
-2024年11月にオープンした<b>世界初のドラゴンボール公式ストア</b>！キャラクターストリートの最新ホットスポットです。
+「星のカービィ」の世界観を込めたタルトとケーキを売るテイクアウト専門店です。
 
 ​
 
-<b>✨ 必見ハイライト</b>
+<b>🚨 [重要] 事前予約終了！今は「先着順」です！</b>
+
+2023年9月から「LivePocket」事前予約制度が終了しました。今は<b>予約なしで現場に来た順番で入場</b>して購入できます。
+
+​
+
+<b>🍰 入場方式:</b>
 
 <ul>
-<li><b>等身大神龍:</b> 入口で巨大な神龍の像が出迎えてくれます—完璧なフォトスポット！</li>
-<li><b>東京駅限定グッズ:</b> 他のドラゴンボールストアでは買えない、ここだけのアイテム</li>
-<li><b>ドラゴンボールコレクション:</b> 7つ全てのドラゴンボール展示—ファン必見</li>
+<li><b>ケーキ購入希望者:</b> 「ケーキメニュー」待機列に並べば順番に注文可能です。</li>
+<li><b>グッズのみ購入希望者:</b> 「グッズ入店」待機列に並んでください。</li>
 </ul>
 
 ​
 
-<b>🛍️ 人気商品</b>
+<b>🍭 購入制限（必読）</b>: ケーキは1人当たり種類別2個、最大合計8個まで購入可能です。
 
-<ul>
-<li>悟空&ベジータフィギュア</li>
-<li>ドラゴンボールレプリカセット</li>
-<li>キャラクターTシャツ&パーカー</li>
-<li>カプセルコーポレーショングッズ</li>
-</ul>
+<b>🍭 保管のコツ</b>: 保冷剤を入れてくれますが、<b>最大2時間</b>以内に冷蔵保管する必要があります。旅行中なら宿泊先に戻る直前に立ち寄ってください！
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-08.jpg" alt="東京駅キャラクターストリート ドラゴンボールストア 1">
+    <img src="/images/posts/tokyo-station-character-street-guide-07.jpg" alt="東京駅カービィカフェ テイクアウト専門店 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="東京駅キャラクターストリート ドラゴンボールストア 2">
+    <img src="/images/posts/tokyo-station-character-street-guide-08.jpg" alt="東京駅カービィカフェ テイクアウト専門店 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート ドラゴンボールストア</figcaption>
+<figcaption style="font-size: 0.85em; text-align: center;">東京駅カービィカフェ テイクアウト専門店</figcaption>
 
 ---
 
-## <b>6. 🎮[移転] ポケモンストア - 1階に移転！</b>
+## <b>6.⚡東京駅ポケモンストア（1階）</b>
 
 ​
 
@@ -260,101 +245,178 @@ translationKey: "tokyo-station-character-street-guide"
      Naver: https://blog.naver.com/tokyomate/223691371517
      Hugo: /ja/posts/tokyo-station-pokemon-store-guide/ --><a href="#" style="color: #667eea;">東京駅ポケモンストア 位置·駅長ピカチュウ·ポケモンカード購入レビュー</a></b>
 
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="東京駅ポケモンストア">
+  <figcaption style="font-size: 0.85em; text-align: center;"><b>東京駅ポケモンストア</b></figcaption>
+</figure>
+
+---
+
+## <b>7. 🐉 [NEW] ドラゴンボールストア東京（1階）</b>
+
+​
+
+全世界のドラゴンボールファンが待ち望んだ聖地！<b>2025年11月14日、</b>世界初の公式常設店舗「<b>DRAGON BALL STORE TOKYO'</b>が東京駅<b>1階</b>に開店しました。
+
+​
+
+<ul>
+<li><b>場所:</b> 1階八重洲北口方面（ポケモンストア近く）</li>
+<li><b>店舗ポイント:</b> ドラゴンボールの世界観を再現した店舗インテリアと巨大フィギュアフォトゾーン、そして「東京ストア」限定グッズが満載です。</li>
+</ul>
+
+​
+
+<b>🎉 [12月最新] ヤムチャ壁紙プレゼントキャンペーン</b>
+
+<ul>
+<li><b>期間:</b> 12/16(火) ~ 12/22(月)</li>
+<li><b>受け取り方:</b> 公式X(@DB_STORE_info)フォロー & 該当投稿いいね/リポスト後レジで提示 → QRコードでダウンロード！</li>
+<li>Xアカウント: <b><a href="https://x.com/db_store_info" target="_blank">@DB_STORE_info</a></b></li>
+</ul>
+
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-10.jpg" alt="東京駅キャラクターストリート ポケモンストア 1">
+    <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="東京駅キャラクターストリート1階 ドラゴンボールストア 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="東京駅キャラクターストリート ポケモンストア 2">
+    <img src="/images/posts/tokyo-station-character-street-guide-12.jpg" alt="東京駅キャラクターストリート1階 ドラゴンボールストア 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート ポケモンストア</figcaption>
+<figcaption style="font-size: 0.85em; text-align: center;"><b>東京駅キャラクターストリート1階 ドラゴンボールストア</b></figcaption>
 
 ---
 
-## <b>7. 🏪 その他人気キャラクターストア</b>
+## <b>8. 🎀 [NEW] サンリオ東京キャラクターストリート店（1階）</b>
 
 ​
 
-### <b>🔶 ジャンプショップ</b>
-
-少年ジャンプファンの聖地！ワンピース、ナルト、呪術廻戦、僕のヒーローアカデミアなど—トレンドアニメグッズが一堂に。
-
-<ul>
-<li><b>人気商品:</b> ワンピース手配書、呪術廻戦キャラクターアクリルスタンド</li>
-<li><b>場所:</b> 地下1階</li>
-</ul>
+ハローキティ、シナモロール、クロミファン注目！サンリオ店舗が<b>2025年11月14日、東京駅1階</b>に拡張移転してグランドオープンしました。
 
 ​
 
-### <b>🔶 ジブリストア（どんぐり共和国）</b>
-
-スタジオジブリ専門店。トトロ、千と千尋の神隠し、魔女の宅急便など—全てのジブリキャラクターグッズが揃います。
-
 <ul>
-<li><b>人気商品:</b> トトロぬいぐるみ、カオナシマスク、魔女の宅急便ジジキーホルダー</li>
-<li><b>場所:</b> 地下1階</li>
+<li><b>核心ポイント</b>: 「SANRIO JAPAN」ラインナップ！日本文化を込めたスカジャン、がま口財布、豆皿などの高品質限定グッズに出会えます。</li>
+<li><b>運営:</b> 混雑時「入場整理券」を配布することがありますのでご参考ください。</li>
 </ul>
 
-​
-
-### <b>🔶 サンリオ</b>
-
-ハローキティ、マイメロディ、シナモロール、クロミなど—全てのサンリオキャラクターが集結。
-
-<ul>
-<li><b>人気商品:</b> ハローキティ東京限定グッズ、シナモロールぬいぐるみ</li>
-<li><b>場所:</b> 地下1階</li>
-</ul>
-
-<div class="image-group-3">
+<div class="image-group-2">
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-12.jpg" alt="東京駅キャラクターストリート ジャンプショップ">
+    <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="東京駅キャラクターストリート1階 サンリオ東京 1">
   </figure>
   <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="東京駅キャラクターストリート ジブリストア">
-  </figure>
-  <figure>
-    <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="東京駅キャラクターストリート サンリオ">
+    <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="東京駅キャラクターストリート1階 サンリオ東京 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート ジャンプショップ、ジブリストア、サンリオ</figcaption>
+<figcaption style="font-size: 0.85em; text-align: center;"><b>東京駅キャラクターストリート1階 サンリオ東京</b></figcaption>
 
 ---
 
-## <b>8. 💰 免税（Tax Refund）完全ガイド</b>
+## <b>9. 🧸 ジブリ·クレヨンしんちゃん·ガチャなど主要店舗整理</b>
 
 ​
 
-<b>❌ キャラクターストリートの各店舗では免税処理不可</b>
+ちいかわ·ポケモン以外にもジブリ、クレヨンしんちゃん、ジャンプショップ、ガチャ（ガシャポン）店舗が集まっているので、好みに合わせたキャラクターショッピングを楽しめます。
 
-地下1階と1階の全店舗で直接免税処理はできません。<b>1階統合免税カウンター</b>に行く必要があります。
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <thead>
+    <tr style="background-color: #f7f7f7;">
+      <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">店舗名</th>
+      <th style="padding: 12px; text-align: center; border: 1px solid #ddd;">特徴及び必須アイテムおすすめ</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">どんぐり共和国</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ジブリ公式ショップ。トトロフォトゾーン、ギフト用「日本風ハンカチ」</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">クレヨンしんちゃん公式ショップ</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">しんちゃんパジャマ、シロご飯茶碗など生活用品、実用アイテム人気</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ジャンプショップ（JUMP）</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ワンピース、スラムダンク、鬼滅の刃などジャンプ漫画グッズ</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">リラックマストア</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ヒーリングキャラクター代表。ポーチ·ぬいぐるみ小物</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ミッフィー（Miffy）</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">シンプルなヨーロッパ感性キャラクター。キッズ·ファミリーギフト</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">モンチッチ（Monchhichi）</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">レトロキャラクター。人形·キーチェーン</td>
+    </tr>
+    <tr>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">ガシャポンストリート</td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">希少カプセルトイマシン集合所</td>
+    </tr>
+  </tbody>
+</table>
+
+仮面ライダーストア、ウルトラマン、プリキュア、スヌーピー、すみっコぐらし、mofusand、hololive（期間限定の可能性あり）、トミカ·プラレール、TV局（テレ朝/テレ東/フジ/NTV/TBS）系列、レゴなど
+
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="東京駅キャラクターストリート ジャンプショップ">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート ジャンプショップ</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="東京キャラクターストリート ガチャ">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京キャラクターストリート ガチャ</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="東京駅キャラクターストリート お土産 ミッフィー 東京駅駅長限定人形">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート お土産 ミッフィー 東京駅駅長限定人形</figcaption>
+</figure>
+
+---
+
+## <b>10. 東京駅キャラクターストリート免税を受ける方法（1階）</b>
 
 ​
 
-<b>⭕ 免税を受ける方法</b>
-
-<ol>
-<li>キャラクターストリートの店舗でショッピングして<b>全てのレシートを保管</b></li>
-<li><b>1階統合免税カウンター</b>に行く（八重洲北口付近）</li>
-<li>レシート+パスポートを提示して免税処理</li>
-<li><b>最低購入額:</b> 税抜5,000円（税込5,500円）以上</li>
-</ol>
+最も重要な情報です！各店舗では免税ができません。ショッピング後<b>「1階統合免税カウンター」</b>に行く必要があります。
 
 ​
 
 <b>📍 免税カウンターの場所</b>
 
 <ul>
-<li><b>階:</b> 1階（地上）</li>
-<li><b>行き方:</b> キャラクターストリート地下1階から階段で1階に上がり、八重洲北口方面へ。カウンターは東京ギフトパレット付近。</li>
-<li><b>営業時間:</b> 10:00 ~ 20:00</li>
+<li><b>場所:</b> JR東京駅1階（地下ではない）、佐川（Sagawa）宅配サービスカウンター隣</li>
+<li><b>標識</b>: 赤いTAX FREE看板</li>
+<li><b>営業時間: 10:00 ~ 21:00</b>（閉店30分前到着推奨）</li>
+</ul>
+
+​
+
+<b>📝 免税条件及び注意事項</b>
+
+<ul>
+<li><b>合算可能:</b> 複数店舗購入金額を合算して税抜5,000円（税込5,500円）以上なら可能（購入当日のみ）</li>
+<li>準備物: パスポート（実物）、レシート、商品、クレジットカード</li>
+</ul>
+
+※ パスポート、レシート、クレジットカードの名義が一致する必要があります。
+
+<ul>
+<li>手数料: 免税手数料約2.1%控除後還付（実質還付率約8%前後 / 現金還付不可、カードで還付）</li>
 </ul>
 
 <figure>
-  <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="東京駅1階 統合免税カウンター">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅1階 統合免税カウンター</figcaption>
+  <img src="/images/posts/tokyo-station-character-street-guide-18.jpg" alt="東京駅キャラクターストリート免税カウンター位置（地図出典）">
+  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート免税カウンター位置（<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">地図出典</a>）</figcaption>
 </figure>
+
+​
+
+<b>📍 免税適用店舗（ポケモンストアは単独で店舗で免税還付）</b>
+
+[免税適用可能店舗リストを示す画像]
 
 ​
 
@@ -366,31 +428,11 @@ translationKey: "tokyo-station-character-street-guide"
 
 ---
 
-## <b>❓ よくある質問（Q&A）</b>
+東京駅キャラクターストリートは見て回るだけで1~2時間が「あっという間」に過ぎる魔法のような場所です。ショッピングを終えて両手いっぱいに荷物ができたらコインロッカーに預けて、すぐ隣の「<b>東京ラーメンストリート'</b>で熱々のラーメン一杯いかがですか？🍜 軽く揚げたてフライドポテトやデザートをお望みなら向かいの<b>おかしランド</b>をおすすめします！
 
 ​
 
-<b>Q. ショッピングにどれくらい時間がかかりますか？</b>
-
-A. 見て回るだけなら約1時間。ファンとして本気でショッピングするなら2-3時間を予定してください。特にちいかわランドとドラゴンボールストアは時間がかかります。
-
-​
-
-<b>Q. クレジットカードは使えますか？</b>
-
-A. はい、ほとんどの店舗でクレジットカードが使えます。一部小規模店舗は現金のみの場合があるので、現金も少し用意しておくと良いでしょう。
-
-​
-
-<b>Q. 荷物預かりはありますか？</b>
-
-A. 東京駅八重洲口付近にコインロッカーがあります。大きな荷物を預けてからショッピングすると便利です。
-
----
-
-東京駅のキャラクターパラダイス、<b>キャラクターストリート！</b> トレンドのちいかわランドから世界初のドラゴンボールストアまで、見どころ満載です。🎮
-
-ショッピングが終わったら、近くの<b>ラーメンストリート</b>でお腹を満たすのはいかがでしょうか？🍜
+東京駅キャラクターストリート訪問日程やちいかわ·ポケモンショッピング関連で気になる点があればコメントで残していただければ整理してお答えします。
 
 ---
 
@@ -398,23 +440,13 @@ A. 東京駅八重洲口付近にコインロッカーがあります。大き�
 
 ​
 
-<b>🍜 二日酔い解消から食事まで完璧！東京駅ラーメンBEST 8</b>
-
 ➡️ <b><a href="/ja/posts/tokyo-station-ramen-street-complete-guide-2025/">東京駅ラーメンストリート 2025年リニューアル & 味噌きん予約コツ</a></b>
 
 ➡️ <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223707471582
      Hugo: /ja/posts/tokyo-ramen-street-best-8/ --><a href="#" style="color: #667eea;">キャラクターストリートのすぐ隣！東京駅ラーメンストリート 完全ガイド</a></b>
 
-​
-
-<b>🍟 おやつタイム！揚げたてじゃがりこ</b>
-
 ➡️ <b><a href="/ja/posts/tokyo-station-okashi-land-jagariko-calbee-guide/">東京駅おかしランド行き方｜揚げたてじゃがりこ & カルビーメニューおすすめ</a></b>
-
-​
-
-<b>🎪 東京駅完全ガイド</b>
 
 ➡️ <b><a href="/ja/posts/tokyo-station-guide/">東京駅: キャラクターストリート、レストラン、夜景、荷物預かり & コインロッカー</a></b>
 
