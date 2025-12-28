@@ -162,7 +162,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223987115708 | roppongi-attractions-guide | Tempura Meshi Kaneko Hannosuke: Roppongi Hills Tempura Restaurant |
 | 224007949043 | tokyo-transportation-card-guide-2025 | Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
 | 223995074888 | tokyo-transportation-card-guide-2025 | Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
-| 224026098490 | tokyo-transportation-card-guide-2025 | Tokyo Subway Pass Complete Guide (Exchange Locations, Purchase, Usage) |
+| ~~224026098490~~ | tokyo-transportation-card-guide-2025 | ✅ **MIGRATED** → tokyo-subway-ticket-guide |
 
 | 224024530348 | tokyo-september-festivals-2025 | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 
