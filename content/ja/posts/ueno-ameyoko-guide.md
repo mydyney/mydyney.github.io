@@ -165,10 +165,16 @@ YouTubeチャンネル「近所の友達カンナミ」で絶賛されたラー�
 このガイドと一緒に、皆さんだけの素敵な上野での一日を完成させてください。ご質問があればいつでもコメントでコミュニケーションしてください!
 
 <strong>⭐ 一緒に見ると良い東京旅行ガイド</strong>  
-➡️<strong> [成田空港から上野まで、スカイライナー予約完璧ガイド](/ja/posts/narita-airport-arrival-guide/)</strong>  
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224003374650
+     Hugo: /ja/posts/skyliner-reservation-guide/ -->
+➡️<strong> <a href="#" style="color: #667eea;">成田空港から上野まで、スカイ라이ナー予約完全ガイド</a></strong>
 ➡️ <strong>[東京交通パスおすすめ、東京メトロパスvs都区内パス完璧比較](/ja/posts/tokyo-subway-ticket-guide/)</strong>  
 <strong>➡️ [東京浅草観光スポット&グルメ完全ガイド](/ja/posts/asakusa-complete-guide/)</strong>  
-<strong>➡️ [秋葉原観光スポット、フィギュアショップ、グルメ、ガチャ、アニメ聖地巡礼おすすめコース総まとめ](https://blog.naver.com/tokyomate/224031937227)</strong>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031937227
+     Hugo: /ja/posts/akihabara-complete-guide/ -->
+<strong>➡️ <a href="#" style="color: #667eea;">秋葉原観光スポット、フィギュアショップ、グルメ、ガチャ、アニメ聖地巡礼おすすめコース総まとめ</a></strong>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

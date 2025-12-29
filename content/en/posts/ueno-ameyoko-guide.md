@@ -165,10 +165,16 @@ I hope you discover Tokyo's authentic face in this place, full of warm, lively e
 With this guide, I hope you create your own wonderful day in Ueno. Feel free to communicate with us in the comments if you have any questions!
 
 <strong>⭐ Related Tokyo Travel Guides</strong>  
-➡️<strong> [Narita Airport to Ueno, Skyliner Reservation Complete Guide](/posts/narita-airport-arrival-guide/)</strong>  
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224003374650
+     Hugo: /posts/skyliner-reservation-guide/ -->
+➡️<strong> <a href="#" style="color: #667eea;">Narita Airport to Ueno, Skyliner Reservation Complete Guide</a></strong>
 ➡️ <strong>[Tokyo Transportation Pass Recommendations, Tokyo Metro Pass vs Tokunai Pass Complete Comparison](/posts/tokyo-subway-ticket-guide/)</strong>  
 <strong>➡️ [Tokyo Asakusa Attractions & Restaurants Complete Guide](/posts/asakusa-complete-guide/)</strong>  
-<strong>➡️ [Akihabara Attractions, Figure Shops, Restaurants, Gacha, Anime Pilgrimage Recommended Course Complete Guide](https://blog.naver.com/tokyomate/224031937227)</strong>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/224031937227
+     Hugo: /posts/akihabara-complete-guide/ -->
+<strong>➡️ <a href="#" style="color: #667eea;">Akihabara Attractions, Figure Shops, Restaurants, Gacha, Anime Pilgrimage Recommended Course Complete Guide</a></strong>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

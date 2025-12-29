@@ -242,7 +242,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224007665631 | asakusa-complete-guide | Narita Airport to Asakusa Subway Guide |
 | 223980220327 | asakusa-complete-guide | August Tokyo Festivals: Sumida River Lantern Floating |
 | 224025343414 | asakusa-complete-guide | Asakusa Asahi Beer Sky Room Night View Guide |
-| 224031937227 | asakusa-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
+| 224031937227 | akihabara-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
 | 224096781916 | shibuya-blue-cave-illumination-2025 | 2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide |
 | 223915132048 | shinbashi-shiodome-evening-course | Tokyo Shinbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review |
 | 223670085459 | tokyo-christmas-illumination-best-5-2025, roppongi-attractions-guide | 2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree |
