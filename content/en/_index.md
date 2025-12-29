@@ -8,10 +8,10 @@ translationKey: "homepage"
 <style>
 .hero-section {
   text-align: center;
-  padding: 2.5rem 1.5rem;
+  padding: 1.5rem 1rem;
   background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%);
   border-radius: 20px;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
 }
 
 .hero-title {
