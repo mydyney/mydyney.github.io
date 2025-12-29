@@ -118,6 +118,8 @@ When migrating a Naver blog post to Hugo:
 | 223689247336 | miyashita-park-illumination-2024 | 2024-12-17 | ✅ |
 | 224113027853 | tokyo-station-tokyo-banana-creme-brulee-tart-guide | 2025-12-17 | ✅ |
 | 224111977613 | tokyo-station-character-street-guide | 2025-12-16 | ✅ |
+| 224003374650 | narita-airport-skyliner-guide | 2025-12-29 | ✅ |
+| 224031937227 | akihabara-complete-guide | 2025-12-29 | ✅ |
 | 224114567793 | tokyo-station-ekiben-guide | 2025-12-18 | ✅ |
 | 224124979714 | tokyo-3-day-itinerary-disney-shibuya-sky | 2025-12-28 | ✅ |
 | 224007949043 | narita-airport-arrival-guide | 2025-09-14 | ✅ |
