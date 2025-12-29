@@ -38,7 +38,10 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 
 日本初の動物園で、かわいいパンダファミリーに会えるため、子供はもちろん大人にも人気があります。思ったより広いので、時間に余裕を持って訪れることをお勧めします。
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-04.jpg" alt="上野動物園入口のスターバックス" caption="上野動物園入口のスターバックス" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-04.jpg" alt="上野動物園入口のスターバックス">
+  <figcaption style="font-size: 0.7em; text-align: center;">上野動物園入口のスターバックス</figcaption>
+</figure>
 
 ### 🎨 ②コース: 芸術を愛するなら「美術館巡り」
 
@@ -98,9 +101,15 @@ YouTubeチャンネル「近所の友達カンナミ」で絶賛されたラー�
 <strong>⭐ カンナミおすすめの他の東京ラーメン店が気になる方は?</strong>  
 <strong>➡️ [東京ラーメン店総まとめ | YouTubeご近所友達カンナミの宝箱ラーメン店情報](https://blog.naver.com/tokyomate/223914118735)</strong>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="ネギと鴨肉がきれいに盛られた鴨to葱ラーメン" caption="ネギと鴨肉がきれいに盛られた「鴨to葱」ラーメン(焼きネギ、青ネギ選択)" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="ネギと鴨肉がきれいに盛られた鴨to葱ラーメン">
+  <figcaption style="font-size: 0.7em; text-align: center;">ネギと鴨肉がきれいに盛られた「鴨to葱」ラーメン(焼きネギ、青ネギ選択)</figcaption>
+</figure>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-12.jpg" alt="鴨コンフィラーメン" caption="鴨コンフィラーメン(白ネギ和え、青ネギ選択) - 臭みがなく柔らかい味" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-12.jpg" alt="鴨コンフィラーメン">
+  <figcaption style="font-size: 0.7em; text-align: center;">鴨コンフィラーメン(白ネギ和え、青ネギ選択) - 臭みがなく柔らかい味</figcaption>
+</figure>
 
 <strong>✅ こちらは先に食券を購入してから待つシステム</strong>で、食事時間には通常20~40分程度の待ち時間があります。
 
@@ -119,7 +128,10 @@ YouTubeチャンネル「近所の友達カンナミ」で絶賛されたラー�
 <strong>✅ もっと美味しく食べる方法!</strong>  
 テーブルに置かれた<strong>「柚子胡椒」</strong>を途中で少し溶かして食べてみてください。香ばしい風味が加わって味がさらに深まります。
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-16.jpg" alt="鴨to葱柚子胡椒" caption="鴨to葱柚子胡椒" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-16.jpg" alt="鴨to葱柚子胡椒">
+  <figcaption style="font-size: 0.7em; text-align: center;">鴨to葱柚子胡椒</figcaption>
+</figure>
 
 ### ② 🐷 ミシュランビブグルマンとんかつ「[とんぱち亭](https://maps.app.goo.gl/ox3CcbHEVayNNRiS6)」
 
