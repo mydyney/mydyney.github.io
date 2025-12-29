@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2025-12-28
-> **Status:** ✅ Complete - 102 posts mapped
+> **Last Updated:** 2025-12-29
+> **Status:** ✅ Complete - 104 posts mapped
 
 ---
 
