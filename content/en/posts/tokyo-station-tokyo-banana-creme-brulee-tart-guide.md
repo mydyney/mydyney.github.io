@@ -16,7 +16,7 @@ Not available at airport duty-free shops! 🙅‍♂️ The trending <b>Tokyo Ba
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-01.jpg" alt="Tokyo Station Tokyo Banana Crème Brûlée Where to Buy Price Tax-Free Complete Guide">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Tokyo Banana Crème Brûlée Where to Buy, Price & Tax-Free Complete Guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Tokyo Banana Crème Brûlée Where to Buy, Price & Tax-Free Complete Guide</figcaption>
 </figure>
 
 ​
@@ -72,7 +72,7 @@ This isn't the familiar fluffy sponge cake. This product is a banana-shaped choc
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-02.jpg" alt="Tokyo Banana Crème Brûlée Package">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Banana Crème Brûlée Package (<a href="https://www.tokyobanana.jp/products/banana_brulee.html" target="_blank">Image Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Banana Crème Brûlée Package (<a href="https://www.tokyobanana.jp/products/banana_brulee.html" target="_blank">Image Source</a>)</figcaption>
 </figure>
 
 ---
@@ -142,7 +142,7 @@ This isn't the familiar fluffy sponge cake. This product is a banana-shaped choc
     <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-04.jpg" alt="Tokyo Station B1F Tokyo Banana's Tokyo Banana Chiikawa Tokyo Banana">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station B1F Tokyo Banana's Tokyo Banana Chiikawa Tokyo Banana</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station B1F Tokyo Banana's Tokyo Banana Chiikawa Tokyo Banana</figcaption>
 
 ---
 
@@ -206,7 +206,7 @@ The B1F '<b>Tokyo Banana's (where they sell curry bread)</b>' store doesn't have
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-05.jpg" alt="Tokyo Station Tokyo Banana Crème Brûlée Store PLUSTA Gift (Yaesu North Exit)">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Tokyo Banana Crème Brûlée Store PLUSTA Gift (Yaesu North Exit)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Tokyo Banana Crème Brûlée Store PLUSTA Gift (Yaesu North Exit)</figcaption>
 </figure>
 
 ---
@@ -264,7 +264,7 @@ Therefore, you can let go of worries like <b>"What if the shelf life is short?"<
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-06.jpg" alt="Actual shelf life of Crème Brûlée purchased December 18, 2025 is February 6, 2026">
-  <figcaption style="font-size: 0.85em; text-align: center;">Actual shelf life of Crème Brûlée purchased December 18, 2025 is February 6, 2026</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Actual shelf life of Crème Brûlée purchased December 18, 2025 is February 6, 2026</figcaption>
 </figure>
 
 ​
@@ -275,7 +275,7 @@ Try <b>freezing the Crème Brûlée tart</b>! The banana custard cream becomes r
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-07.jpg" alt="Tokyo Station Tokyo Banana Crème Brûlée Store PRECIOUS DELI (Yaesu North Exit)">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Tokyo Banana Crème Brûlée Store PRECIOUS DELI (Yaesu North Exit)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Tokyo Banana Crème Brûlée Store PRECIOUS DELI (Yaesu North Exit)</figcaption>
 </figure>
 
 ---

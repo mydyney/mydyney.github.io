@@ -14,7 +14,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-01.jpg" alt="新宿中央公园完全攻略">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园完全攻略｜星巴克SHUKNOVA·游乐场·灯光秀·东京都厅展望台路线</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公园完全攻略｜星巴克SHUKNOVA·游乐场·灯光秀·东京都厅展望台路线</figcaption>
 </figure>
 
 ## 新宿中央公园一览！
@@ -23,7 +23,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-02.jpg" alt="新宿中央公园秋叶">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园秋叶</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公园秋叶</figcaption>
 </figure>
 
 ---
@@ -75,7 +75,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-03.jpg" alt="新宿中央公园地图">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园导览地图</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公园导览地图</figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-04.jpg" alt="新宿站西口连接通道">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿站西口通往都厅、新宿中央公园的连接通道</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿站西口通往都厅、新宿中央公园的连接通道</figcaption>
 </figure>
 
 ---
@@ -126,7 +126,7 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-05.jpg" alt="SHUKNOVA 1楼星巴克">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园SHUKNOVA 1楼星巴克</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公园SHUKNOVA 1楼星巴克</figcaption>
 </figure>
 
 ---
@@ -154,13 +154,13 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
   <figure><img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="游乐场 2"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="游乐场 3"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="游乐场 4"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园游乐场</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公园游乐场</figcaption>
 </div>
 
 <div class="image-group-2">
   <figure><img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="游乐场长椅 1"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="游乐场长椅 2"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园游乐场长椅</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公园游乐场长椅</figcaption>
 </div>
 
 ---
@@ -215,7 +215,7 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="从都厅展望台看富士山夜景">
-  <figcaption style="font-size: 0.85em; text-align: center;">从都厅展望台看富士山夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">从都厅展望台看富士山夜景</figcaption>
 </figure>
 
 ---
@@ -244,7 +244,7 @@ SHUKNOVA 1楼左侧是"武藏野森餐厅"。
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="新宿中央公园夜景">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公园夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公园夜景</figcaption>
 </figure>
 
 ---

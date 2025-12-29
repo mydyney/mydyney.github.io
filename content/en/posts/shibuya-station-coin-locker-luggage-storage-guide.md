@@ -36,7 +36,7 @@ First, let's look at the coin lockers within JR and Metro Shibuya Station.
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-01.jpg" alt="Shibuya Station Luggage Storage Guide">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Station Luggage Storage Guide</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Station Luggage Storage Guide</figcaption>
 </figure>
 
 ### 📌 Pro Tip: Check Real-Time Availability!
@@ -52,7 +52,7 @@ Accessible from the street level.
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-06.jpg" alt="Shibuya Mark City 1F Coin Locker Location">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 1F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Mark City 1F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <strong>2. 2nd Floor (Inside & Outside Ticket Gate)</strong>
@@ -60,7 +60,7 @@ Located near the Keio Inokashira Line ticket gate.
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-07.jpg" alt="Shibuya Mark City 2F Coin Locker Location">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 2F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Mark City 2F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <strong>3. 4nd Floor & 5th Floor</strong>
@@ -68,7 +68,7 @@ Near the highway bus terminal (5th floor) and restaurants (4th floor). Good for 
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-08.jpg" alt="Shibuya Mark City 4F/5F Coin Locker Location">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 4F/5F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Mark City 4F/5F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <br>
@@ -85,7 +85,7 @@ If you are using the subway, target the underground passages.
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-05.jpg" alt="Tokyo Metro Shibuya Station Coin Locker Map">
-<figcaption style="font-size: 0.85em; text-align: center;">Tokyo Metro Shibuya Station B1/B2 Coin Locker Locations (<a href="https://www.tokyometro.jp/lang_kr/station/shibuya/index.html" target="_blank">Source</a>)</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Tokyo Metro Shibuya Station B1/B2 Coin Locker Locations (<a href="https://www.tokyometro.jp/lang_kr/station/shibuya/index.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <strong>3️⃣ B7 Exit / Scramble Square B1</strong>
@@ -126,7 +126,7 @@ Accessible from the street level.
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-06.jpg" alt="Shibuya Mark City 1F Coin Locker Location">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 1F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Mark City 1F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <strong>2. 2nd Floor (Inside & Outside Ticket Gate)</strong>
@@ -134,7 +134,7 @@ Located near the Keio Inokashira Line ticket gate.
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-07.jpg" alt="Shibuya Mark City 2F Coin Locker Location">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 2F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Mark City 2F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <strong>3. 4nd Floor & 5th Floor</strong>
@@ -142,7 +142,7 @@ Near the highway bus terminal (5th floor) and restaurants (4th floor). Good for 
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-08.jpg" alt="Shibuya Mark City 4F/5F Coin Locker Location">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Mark City 4F/5F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Mark City 4F/5F Coin Locker Location (<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 > [!TIP]
@@ -166,7 +166,7 @@ Don't want to go above ground? The <strong>Wander Compass</strong> in the Shibuy
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-09.jpg" alt="Wander Compass Location Map">
-<figcaption style="font-size: 0.85em; text-align: center;">Wander Compass Location Map (<a href="https://wandercompass.jp/#company" target="_blank">Source</a>)</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Wander Compass Location Map (<a href="https://wandercompass.jp/#company" target="_blank">Source</a>)</figcaption>
 </figure>
 
 ---
@@ -209,7 +209,7 @@ Eliminate tha anxiety by reserving a spot in advance using a <strong>Luggage Sto
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-10.jpg" alt="Hikarie Storage Spot via ecbo cloak">
-<figcaption style="font-size: 0.85em; text-align: center;">You can store luggage at Hikarie using ecbo cloak</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">You can store luggage at Hikarie using ecbo cloak</figcaption>
 </figure>
 
 ---

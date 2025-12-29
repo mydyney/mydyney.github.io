@@ -17,7 +17,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg" alt="東京駅おかしランド行き方揚げたて東京駅じゃがりこポテリコ">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅おかしランド行き方｜揚げたて東京駅じゃがりこポテリコ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅おかしランド行き方｜揚げたて東京駅じゃがりこポテリコ</figcaption>
 </figure>
 
 こんにちは！東京旅行のすべてをお伝えする東京メイトです. 🗼
@@ -47,7 +47,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-02.jpg" alt="JR東京駅八重洲地下中央口改札">
-  <figcaption style="font-size: 0.85em; text-align: center;">JR東京駅八重洲地下中央口改札</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">JR東京駅八重洲地下中央口改札</figcaption>
 </figure>
 
 <strong>🛍️ ちょっと待って！ショッピング動線のコツ</strong>
@@ -58,7 +58,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-03.jpg" alt="東京駅おかしランド入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅おかしランド入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅おかしランド入口</figcaption>
 </figure>
 
 ---
@@ -80,7 +80,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-04.jpg" alt="東京駅おかしランドカルビープラス調理空間">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅おかしランドカルビープラス調理空間</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅おかしランドカルビープラス調理空間</figcaption>
 </figure>
 
 <strong>🍟 注文方法</strong>
@@ -110,7 +110,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-07.jpg" alt="カルビープラス特別なじゃがりこポテリコ">
-  <figcaption style="font-size: 0.85em; text-align: center;">カルビープラス特別なじゃがりこ「ポテリコ」</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">カルビープラス特別なじゃがりこ「ポテリコ」</figcaption>
 </figure>
 
 <strong>2. 揚げたてポテトチップス-幸せバターデラックス</strong>
@@ -123,7 +123,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-08.jpg" alt="東京駅おかしランドカルビープラス幸せバターデラックス">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅おかしランドカルビープラス「幸せバターデラックス」</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅おかしランドカルビープラス「幸せバターデラックス」</figcaption>
 </figure>
 
 <div class="image-group-2">
@@ -154,7 +154,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-11.jpg" alt="じゃがビー x シュガーバターの木コラボシュガージャガ">
-  <figcaption style="font-size: 0.85em; text-align: center;">じゃがビー x シュガーバターの木コラボシュガージャガ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">じゃがビー x シュガーバターの木コラボシュガージャガ</figcaption>
 </figure>
 
 ---
@@ -202,12 +202,12 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-14.jpg" alt="東京駅限定販売お菓子森永ミルクキャラメルチョコレート">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅限定販売お菓子 森永ミルクキャラメルチョコレート</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅限定販売お菓子 森永ミルクキャラメルチョコレート</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-15.jpg" alt="東京駅限定販売お菓子アーモンドビスケット＆アーモンドクリームウィッチ">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅限定販売お菓子 アーモンドビスケット＆アーモンドクリームウィッチ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅限定販売お菓子 アーモンドビスケット＆アーモンドクリームウィッチ</figcaption>
 </figure>
 
 ---
@@ -232,7 +232,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-16.jpg" alt="東京駅東京ばな奈カレーパン">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>東京駅東京ばな奈カレーパン</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>東京駅東京ばな奈カレーパン</strong></figcaption>
 </figure>
 
 <strong>🍪 ヨックモック（Yoku Moku）</strong>
@@ -245,7 +245,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-17.jpg" alt="東京駅ヨックモック">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅ヨックモック</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅ヨックモック</figcaption>
 </figure>
 
 ---

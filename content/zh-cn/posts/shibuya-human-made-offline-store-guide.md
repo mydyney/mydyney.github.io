@@ -22,7 +22,7 @@ featured_image: "/images/posts/shibuya-human-made-offline-store-guide-01.jpg"
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-01.jpg" alt="涩谷Human Made Parco焕新开业">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made Parco焕新开业</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Human Made Parco焕新开业</figcaption>
 </figure>
 
 ## 1. 排队攻略与整理券系统 (必读!) ⚠️
@@ -61,7 +61,7 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-02.jpg" alt="涩谷Human Made PART 1 门店提货区">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 1 门店提货区</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Human Made PART 1 门店提货区</figcaption>
 </figure>
 
 如果你想买Human Made标志性的爱心T恤或者外套，一定要来 <strong>PART 1</strong>。
@@ -72,7 +72,7 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-05.jpg" alt="涩谷Human Made PART 1 门店外观">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 1 门店外观</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Human Made PART 1 门店外观</figcaption>
 </figure>
 
 ---
@@ -83,7 +83,7 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-03.jpg" alt="涩谷Human Made PART 2 入口">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 2 入口</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Human Made PART 2 入口</figcaption>
 </figure>
 
 这是一个新开的空间，<strong>跟Parco馆内是不通的！</strong> 必须先出到1楼外面。
@@ -94,7 +94,7 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-04.jpg" alt="涩谷Human Made PART 2 位置地图">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 2 位置地图</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Human Made PART 2 位置地图</figcaption>
 </figure>
 
 大家最爱的钥匙扣、鸭子地毯、帽子等小物件基本都在这里，如果目标是饰品，请直接冲 <strong>PART 2</strong>！🏃‍♀️
@@ -109,7 +109,7 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-06.jpg" alt="CURRY UP 菜单板">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP 菜单板</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">CURRY UP 菜单板</figcaption>
 </figure>
 
 *   <strong>菜单:</strong> 肉末咖喱(Keema)、黄油鸡肉咖喱等
@@ -118,7 +118,7 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-07.jpg" alt="CURRY UP 门店外观">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP 门店外观</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">CURRY UP 门店外观</figcaption>
 </figure>
 
 逛累了来这里吃个饭，休息一下也是绝佳的行程！😋
@@ -135,7 +135,7 @@ Human Made在 <strong>发售日（通常是周六）</strong> 或联名合作发
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="涩谷Human Made PART 2 门店外观">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Human Made PART 2 门店外观</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Human Made PART 2 门店外观</figcaption>
 </figure>
 
 ---

@@ -22,7 +22,7 @@ However, since the locations are completely different, many people get confused.
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-01.jpg" alt="Shibuya Human Made Parco Renewal Open">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Human Made Parco Renewal Open</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Human Made Parco Renewal Open</figcaption>
 </figure>
 
 ## 1. Waiting System (Entry Line & Numbered Tickets)
@@ -63,7 +63,7 @@ On normal weekdays, you can usually enter by scanning a <strong>QR code</strong>
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-02.jpg" alt="Shibuya Human Made PART 1 Store Pickup Zone">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Human Made PART 1 Store Pickup Zone</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Human Made PART 1 Store Pickup Zone</figcaption>
 </figure>
 
 If you are looking for Human Made's signature graphic t-shirts or outerwear, you must visit <strong>PART 1</strong>.
@@ -74,7 +74,7 @@ If you are looking for Human Made's signature graphic t-shirts or outerwear, you
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-05.jpg" alt="Shibuya Human Made PART 1 Store Exterior">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Human Made PART 1 Store Exterior</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Human Made PART 1 Store Exterior</figcaption>
 </figure>
 
 ---
@@ -85,7 +85,7 @@ If you are looking for Human Made's signature graphic t-shirts or outerwear, you
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-03.jpg" alt="Shibuya Human Made PART 2 Entrance">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Human Made PART 2 Entrance</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Human Made PART 2 Entrance</figcaption>
 </figure>
 
 It is a newly created space and <strong>does not connect from inside the Parco building!</strong> You must go out to the 1st floor.
@@ -96,7 +96,7 @@ It is a newly created space and <strong>does not connect from inside the Parco b
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-04.jpg" alt="Shibuya Human Made PART 2 Location Map">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Human Made PART 2 Location Map</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Human Made PART 2 Location Map</figcaption>
 </figure>
 
 Since most of the popular keyrings and hats are gathered here, if your goal is accessories, head straight to <strong>PART 2</strong>.
@@ -111,7 +111,7 @@ There is also a curry shop produced by Human Made called <strong>CURRY UP</stron
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-06.jpg" alt="CURRY UP Menu Board">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP Menu Board</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">CURRY UP Menu Board</figcaption>
 </figure>
 
 *   <strong>Menu:</strong> Keema curry, butter chicken curry, etc.
@@ -120,7 +120,7 @@ There is also a curry shop produced by Human Made called <strong>CURRY UP</stron
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-07.jpg" alt="CURRY UP Store Exterior">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP Store Exterior</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">CURRY UP Store Exterior</figcaption>
 </figure>
 
 If you are hungry after shopping, stopping by here is also a great course!
@@ -137,7 +137,7 @@ Here are some tips for shopping at Human Made:
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="Shibuya Parco Human Made PART 2">
-<figcaption style="font-size: 0.85em; text-align: center;">Shibuya Parco Human Made PART 2</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shibuya Parco Human Made PART 2</figcaption>
 </figure>
 
 ---

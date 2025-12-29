@@ -19,7 +19,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg" alt="夜に輝く東京タワー、東京旅行のシンボル">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京3泊4日モデルコース｜東京旅行のシンボル・東京タワー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京3泊4日モデルコース｜東京旅行のシンボル・東京タワー</figcaption>
 </figure>
 
 <p>東京旅行でディズニーには絶対行きたいけど、スケジュールが崩れないか心配ですか？</p>
@@ -86,7 +86,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-02.jpg" alt="飛行機の窓から見えるスカイツリーと東京">
-  <figcaption style="font-size: 0.85em; text-align: center;">飛行機から見えるスカイツリーと東京</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">飛行機から見えるスカイツリーと東京</figcaption>
 </figure>
 
 ### 午後3:00 | 🛍️ 渋谷スクランブル＆パルコ
@@ -97,7 +97,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-03.jpg" alt="人々で賑わう渋谷スクランブル交差点">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>渋谷スクランブル交差点｜東京自由旅行必須の記念撮影スポット</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>渋谷スクランブル交差点｜東京自由旅行必須の記念撮影スポット</b></figcaption>
 </figure>
 
 ### 午後5:00 | 🌇 渋谷スカイ（予約必須！）
@@ -112,7 +112,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-04.jpg" alt="夕暮れ時の渋谷スカイ展望台からのパノラマビュー">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>渋谷スカイパノラマビュー｜夕暮れ時間帯の人気フォトスポット（<a href="https://www.klook.com/ko/activity/70672-shibuya-sky-tokyo/?spm=Activity.SearchSuggest_LIST&clickId=69004d863e" target="_blank">画像出典</a>）</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>渋谷スカイパノラマビュー｜夕暮れ時間帯の人気フォトスポット（<a href="https://www.klook.com/ko/activity/70672-shibuya-sky-tokyo/?spm=Activity.SearchSuggest_LIST&clickId=69004d863e" target="_blank">画像出典</a>）</b></figcaption>
 </figure>
 
 ### 午後7:00 | 🍜 夕食（待ち時間注意）
@@ -129,7 +129,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-05.jpg" alt="伝統的な居酒屋が並ぶ新宿思い出横丁">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>新宿思い出横丁｜東京3泊4日モデルコース初日の夕食おすすめスポット</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>新宿思い出横丁｜東京3泊4日モデルコース初日の夕食おすすめスポット</b></figcaption>
 </figure>
 
 ---
@@ -146,7 +146,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-06.jpg" alt="バスタ新宿バスターミナル">
-  <figcaption style="font-size: 0.85em; text-align: center;">バスタ新宿バスターミナル</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">バスタ新宿バスターミナル</figcaption>
 </figure>
 
 <ul>
@@ -160,7 +160,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-07.jpg" alt="東京ディズニーランドのシンデレラ城">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京ディズニーランド シンデレラ城</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ディズニーランド シンデレラ城</figcaption>
 </figure>
 
 <p>閉園後の退場人波がすごいです。宿泊先を新宿や東京駅のような交通が便利な場所に取れば、帰宅戦争で勝利できます。</p>
@@ -196,7 +196,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-08.jpg" alt="伝統的な看板がある築地市場の入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">築地市場入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">築地市場入口</figcaption>
 </figure>
 
 ### 午後12:00 | 🛍️ 銀座ショッピング＆ランチ
@@ -211,7 +211,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-09.jpg" alt="銀座セイコーハウス時計塔">
-  <figcaption style="font-size: 0.85em; text-align: center;">銀座セイコーハウス時計塔</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">銀座セイコーハウス時計塔</figcaption>
 </figure>
 
 ### 午後6:00 | 🚉 東京駅＆丸の内夜景
@@ -222,7 +222,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-10.jpg" alt="ライトアップされた赤レンガの東京駅丸の内広場の夜景">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅丸の内広場夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅丸の内広場夜景</figcaption>
 </figure>
 
 ---
@@ -241,7 +241,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-11.jpg" alt="池と緑のある新宿御苑の庭園">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿御苑</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿御苑</figcaption>
 </figure>
 
 ### 午後1:00 | ✈️ 空港移動
@@ -278,7 +278,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
   <figure>
     <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-13.jpg" alt="カルディコーヒーファームの人気お土産">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>東京旅行お土産ショッピング｜ドン・キホーテ・カルディ人気商品</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>東京旅行お土産ショッピング｜ドン・キホーテ・カルディ人気商品</b></figcaption>
 </div>
 
 ---

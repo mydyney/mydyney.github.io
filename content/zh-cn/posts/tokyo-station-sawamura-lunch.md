@@ -16,7 +16,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-01.jpg" alt="东京站Sawamura平日午餐">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站Sawamura平日午餐 面包无限续·沙拉·咖啡</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站Sawamura平日午餐 面包无限续·沙拉·咖啡</figcaption>
 </figure>
 
 <strong>「轻井泽排队面包店，东京登陆！🥐</strong>
@@ -27,7 +27,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-02.jpg" alt="Sawamura丸之内店招牌">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura丸之内店招牌</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura丸之内店招牌</figcaption>
 </figure>
 
 ## Sawamura营业信息·交通
@@ -49,7 +49,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-03.jpg" alt="东京站前新丸大楼全景">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站前新丸大楼全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站前新丸大楼全景</figcaption>
 </figure>
 
 ## 🏙️ 东京站景观餐厅，新丸大楼
@@ -58,7 +58,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-04.jpg" alt="Sawamura丸之内露台座位全景">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura丸之内露台座位全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura丸之内露台座位全景</figcaption>
 </figure>
 
 特别是冬季傍晚来访的话，千万别错过窗外展开的丸之内灯海！
@@ -67,7 +67,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-05.jpg" alt="新丸大楼露台夜景">
-  <figcaption style="font-size: 0.85em; text-align: center;">新丸大楼露台夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新丸大楼露台夜景</figcaption>
 </figure>
 
 ## 🥖 Sawamura午餐基本套餐
@@ -81,12 +81,12 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-06.jpg" alt="Sawamura平日午餐菜单">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura平日午餐菜单（<a href="https://b-sawamura.com/wp-content/uploads/2025/12/SW_Lunchweekday_251112.pdf" target="_blank">来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura平日午餐菜单（<a href="https://b-sawamura.com/wp-content/uploads/2025/12/SW_Lunchweekday_251112.pdf" target="_blank">来源</a>）</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-07.jpg" alt="Sawamura丸之内店铺入口全景">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura丸之内店铺入口全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura丸之内店铺入口全景</figcaption>
 </figure>
 
 ## Sawamura午餐菜单评测
@@ -100,7 +100,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-08.jpg" alt="油光发亮的排骨摆盘">
-  <figcaption style="font-size: 0.85em; text-align: center;">油光发亮的排骨摆盘</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">油光发亮的排骨摆盘</figcaption>
 </figure>
 
 ### ② 蟹肉牛油果奶油酱宽面（2,288日元）
@@ -112,7 +112,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-09.jpg" alt="蟹肉牛油果奶油酱浓郁宽面意面">
-  <figcaption style="font-size: 0.85em; text-align: center;">蟹肉牛油果奶油酱浓郁宽面意面</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">蟹肉牛油果奶油酱浓郁宽面意面</figcaption>
 </figure>
 
 ## 🍞 面包控的天堂：无限续面包＆沙拉
@@ -121,21 +121,21 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-10.jpg" alt="装有法棍、乡村面包和恰巴塔面包的Sawamura面包篮">
-  <figcaption style="font-size: 0.85em; text-align: center;">装有法棍、乡村面包和恰巴塔面包的Sawamura面包篮</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">装有法棍、乡村面包和恰巴塔面包的Sawamura面包篮</figcaption>
 </figure>
 
 <strong>沙拉:</strong> 不是凑数的沙拉，而是拌好酱汁、新鲜又有分量的沙拉，像套餐前菜一样提供。
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-11.jpg" alt="Sawamura平日午餐套餐包含的沙拉">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura平日午餐套餐包含的沙拉</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura平日午餐套餐包含的沙拉</figcaption>
 </figure>
 
 <strong>咖啡/茶:</strong> 可选择随餐喝或餐后喝。
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-12.jpg" alt="Sawamura提供的餐后咖啡一杯">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura提供的餐后咖啡一杯</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura提供的餐后咖啡一杯</figcaption>
 </figure>
 
 ## ⏳ 排队＆访问小技巧
@@ -148,7 +148,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-13.jpg" alt="Sawamura丸之内店前排队的人们">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura丸之内店前排队的人们</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura丸之内店前排队的人们</figcaption>
 </figure>
 
 <strong>💡 排队太长怎么办？</strong>
@@ -159,7 +159,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-14.jpg" alt="Sawamura新宿NEWoMan店">
-  <figcaption style="font-size: 0.85em; text-align: center;">早上7点开门的Sawamura新宿NEWoMan店</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">早上7点开门的Sawamura新宿NEWoMan店</figcaption>
 </figure>
 
 ### 2. 虎之门Hills店（肉类/商务）

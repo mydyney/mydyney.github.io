@@ -36,7 +36,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-01.jpg" alt="渋谷駅荷物預かりガイド">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷駅の荷物預かり完全ガイド</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷駅の荷物預かり完全ガイド</figcaption>
 </figure>
 
 ### 📌 必見：リアルタイム空き状況確認！
@@ -52,7 +52,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-02.jpg" alt="JR渋谷駅3階中央改札内コインロッカー">
-<figcaption style="font-size: 0.85em; text-align: center;">JR渋谷駅3階 中央改札 コインロッカー（改札内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">出典</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">JR渋谷駅3階 中央改札 コインロッカー（改札内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <strong>2. JR 3階 新南改札（改札内）</strong>
@@ -60,7 +60,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-03.jpg" alt="JR渋谷駅3階新南改札内コインロッカー">
-<figcaption style="font-size: 0.85em; text-align: center;">JR渋谷駅3階 新南改札 コインロッカー（改札内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">出典</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">JR渋谷駅3階 新南改札 コインロッカー（改札内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <strong>3. JR 1階エリア</strong>
@@ -68,7 +68,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-04.jpg" alt="JR渋谷駅1階コインロッカー位置図">
-<figcaption style="font-size: 0.85em; text-align: center;">JR渋谷駅1階 コインロッカー位置図（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">出典</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">JR渋谷駅1階 コインロッカー位置図（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <br>
@@ -89,7 +89,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-05.jpg" alt="東京メトロ渋谷駅コインロッカー位置図">
-<figcaption style="font-size: 0.85em; text-align: center;">東京メトロ渋谷駅 地下1階・2階 コインロッカー位置図（<a href="https://www.tokyometro.jp/lang_kr/station/shibuya/index.html" target="_blank">出典</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">東京メトロ渋谷駅 地下1階・2階 コインロッカー位置図（<a href="https://www.tokyometro.jp/lang_kr/station/shibuya/index.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <strong>3️⃣ B7出口 / スクランブルスクエア地下1階</strong>
@@ -132,7 +132,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-06.jpg" alt="渋谷マークシティ1階コインロッカー位置図">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷マークシティ 1階 コインロッカー位置図（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">出典</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷マークシティ 1階 コインロッカー位置図（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <strong>2. 2階（改札内・改札外）</strong>
@@ -140,7 +140,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-07.jpg" alt="渋谷マークシティ2階コインロッカー位置図">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷マークシティ 2階 コインロッカー位置図（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">出典</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷マークシティ 2階 コインロッカー位置図（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <strong>3. 4階・5階</strong>
@@ -148,7 +148,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-08.jpg" alt="渋谷マークシティ4階5階コインロッカー位置図">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷マークシティ 4階・5階 コインロッカー位置図（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">出典</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷マークシティ 4階・5階 コインロッカー位置図（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">出典</a>）</figcaption>
 </figure>
 
 > [!TIP]
@@ -172,7 +172,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-09.jpg" alt="Wander Compass Location Map">
-<figcaption style="font-size: 0.85em; text-align: center;">WANDER COMPASS 位置案内（<a href="https://wandercompass.jp/#company" target="_blank">出典</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">WANDER COMPASS 位置案内（<a href="https://wandercompass.jp/#company" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ---
@@ -220,7 +220,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-10.jpg" alt="ヒカリエでのecbo cloak利用">
-<figcaption style="font-size: 0.85em; text-align: center;">ヒカリエなどでもecbo cloakで荷物を預けられます</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">ヒカリエなどでもecbo cloakで荷物を預けられます</figcaption>
 </figure>
 
 ---

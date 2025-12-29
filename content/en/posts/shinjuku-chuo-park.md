@@ -14,7 +14,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-01.jpg" alt="Shinjuku Chuo Park Complete Guide">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Complete Guide | Starbucks SHUKNOVA, Playground, Illumination & Tokyo Metropolitan Government Observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Chuo Park Complete Guide | Starbucks SHUKNOVA, Playground, Illumination & Tokyo Metropolitan Government Observatory</figcaption>
 </figure>
 
 ## Shinjuku Chuo Park at a Glance!
@@ -23,7 +23,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-02.jpg" alt="Shinjuku Chuo Park Autumn Foliage">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Autumn Foliage</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Chuo Park Autumn Foliage</figcaption>
 </figure>
 
 ---
@@ -75,7 +75,7 @@ An urban park surrounded by high-rise buildings including Tokyo Metropolitan Gov
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-03.jpg" alt="Shinjuku Chuo Park Map">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Information Map</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Chuo Park Information Map</figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ Shinjuku Chuo Park is easily accessible from both subway and JR stations, making
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-04.jpg" alt="Shinjuku Station West Exit Walkway">
-  <figcaption style="font-size: 0.85em; text-align: center;">Walkway connecting Shinjuku Station West Exit to Tokyo Metropolitan Government and Shinjuku Chuo Park</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Walkway connecting Shinjuku Station West Exit to Tokyo Metropolitan Government and Shinjuku Chuo Park</figcaption>
 </figure>
 
 ---
@@ -126,7 +126,7 @@ With family restaurant-style brunch menu items like pancakes, eggs benedict, sal
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-05.jpg" alt="SHUKNOVA 1st Floor Starbucks">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park SHUKNOVA 1st Floor Starbucks</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Chuo Park SHUKNOVA 1st Floor Starbucks</figcaption>
 </figure>
 
 ---
@@ -154,13 +154,13 @@ If you're traveling to Tokyo with children, this is a must, not an option. It's 
   <figure><img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="Playground 2"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="Playground 3"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="Playground 4"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Playground</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Chuo Park Playground</figcaption>
 </div>
 
 <div class="image-group-2">
   <figure><img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="Playground Bench 1"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="Playground Bench 2"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Playground Benches</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Chuo Park Playground Benches</figcaption>
 </div>
 
 ---
@@ -215,7 +215,7 @@ Leisurely explore the lawn plaza, Citizens' Forest, Water Plaza, Kids Plaza, etc
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="Mt. Fuji Night View from Tokyo Metropolitan Government Observatory">
-  <figcaption style="font-size: 0.85em; text-align: center;">Mt. Fuji Night View from Tokyo Metropolitan Government Observatory</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Mt. Fuji Night View from Tokyo Metropolitan Government Observatory</figcaption>
 </figure>
 
 ---
@@ -244,7 +244,7 @@ For just "simple stroll + cafe + kids playground + illumination" combination, Sh
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="Shinjuku Chuo Park Night View">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Chuo Park Night View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Chuo Park Night View</figcaption>
 </figure>
 
 ---

@@ -16,7 +16,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-01.jpg" alt="東京駅サワムラ平日ランチ">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅サワムラ平日ランチ パン食べ放題・サラダ・コーヒーまで</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅サワムラ平日ランチ パン食べ放題・サラダ・コーヒーまで</figcaption>
 </figure>
 
 <strong>「軽井沢の行列ベーカリー、東京上陸！🥐</strong>
@@ -27,7 +27,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-02.jpg" alt="サワムラ丸の内店看板">
-  <figcaption style="font-size: 0.85em; text-align: center;">サワムラ丸の内店看板</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サワムラ丸の内店看板</figcaption>
 </figure>
 
 ## サワムラ営業情報・アクセス
@@ -49,7 +49,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-03.jpg" alt="東京駅前新丸ビル全景">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅前新丸ビル全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅前新丸ビル全景</figcaption>
 </figure>
 
 ## 🏙️ 東京駅ビューグルメ、新丸ビル
@@ -58,7 +58,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-04.jpg" alt="サワムラ丸の内テラス席全景">
-  <figcaption style="font-size: 0.85em; text-align: center;">サワムラ丸の内テラス席全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サワムラ丸の内テラス席全景</figcaption>
 </figure>
 
 特に冬シーズンの夕方に訪問されるなら、窓の外に広がる丸の内イルミネーションをお見逃しなく！
@@ -67,7 +67,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-05.jpg" alt="新丸ビルテラス夜景">
-  <figcaption style="font-size: 0.85em; text-align: center;">新丸ビルテラス夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新丸ビルテラス夜景</figcaption>
 </figure>
 
 ## 🥖 サワムラランチ基本構成
@@ -81,12 +81,12 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-06.jpg" alt="サワムラ平日ランチメニュー">
-  <figcaption style="font-size: 0.85em; text-align: center;">サワムラ平日ランチメニュー（<a href="https://b-sawamura.com/wp-content/uploads/2025/12/SW_Lunchweekday_251112.pdf" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サワムラ平日ランチメニュー（<a href="https://b-sawamura.com/wp-content/uploads/2025/12/SW_Lunchweekday_251112.pdf" target="_blank">出典</a>）</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-07.jpg" alt="サワムラ丸の内店舗入口全景">
-  <figcaption style="font-size: 0.85em; text-align: center;">サワムラ丸の内店舗入口全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サワムラ丸の内店舗入口全景</figcaption>
 </figure>
 
 ## サワムラランチメニューレビュー
@@ -100,7 +100,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-08.jpg" alt="艶やかなスペアリブ盛り付け">
-  <figcaption style="font-size: 0.85em; text-align: center;">艶やかなスペアリブ盛り付け</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">艶やかなスペアリブ盛り付け</figcaption>
 </figure>
 
 ### ② カニとアボカドのクリームソース タリアテッレ（2,288円）
@@ -112,7 +112,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-09.jpg" alt="カニとアボカドクリームソースがのった濃厚タリアテッレパスタ">
-  <figcaption style="font-size: 0.85em; text-align: center;">カニとアボカドクリームソースがのった濃厚タリアテッレパスタ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">カニとアボカドクリームソースがのった濃厚タリアテッレパスタ</figcaption>
 </figure>
 
 ## 🍞 パン好きの天国：食べ放題パン＆サラダ
@@ -121,21 +121,21 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-10.jpg" alt="バゲットとカンパーニュ、チャバタパンが入ったサワムラパンバスケット">
-  <figcaption style="font-size: 0.85em; text-align: center;">バゲットとカンパーニュ、チャバタパンが入ったサワムラパンバスケット</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">バゲットとカンパーニュ、チャバタパンが入ったサワムラパンバスケット</figcaption>
 </figure>
 
 <strong>サラダ:</strong> 形だけのサラダではなく、ドレッシングがよく和えられた新鮮でボリューム感のあるサラダがコースの前菜のように提供されます。
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-11.jpg" alt="サワムラ平日ランチセットに含まれるサラダ">
-  <figcaption style="font-size: 0.85em; text-align: center;">サワムラ平日ランチセットに含まれるサラダ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サワムラ平日ランチセットに含まれるサラダ</figcaption>
 </figure>
 
 <strong>コーヒー/紅茶:</strong> 食事と一緒に飲むか、食後に飲むか選択可能です。
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-12.jpg" alt="サワムラで提供される食後コーヒー一杯">
-  <figcaption style="font-size: 0.85em; text-align: center;">サワムラで提供される食後コーヒー一杯</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サワムラで提供される食後コーヒー一杯</figcaption>
 </figure>
 
 ## ⏳ 待ち時間＆訪問のコツ
@@ -148,7 +148,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-13.jpg" alt="サワムラ丸の内店前に並ぶ人々">
-  <figcaption style="font-size: 0.85em; text-align: center;">サワムラ丸の内店前に並ぶ人々</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サワムラ丸の内店前に並ぶ人々</figcaption>
 </figure>
 
 <strong>💡 待ち時間が長すぎる場合は？</strong>
@@ -159,7 +159,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-14.jpg" alt="サワムラ新宿NEWoMan店">
-  <figcaption style="font-size: 0.85em; text-align: center;">朝7時オープンのサワムラ新宿NEWoMan店</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">朝7時オープンのサワムラ新宿NEWoMan店</figcaption>
 </figure>
 
 ### 2. 虎ノ門ヒルズ店（肉/ビジネス）

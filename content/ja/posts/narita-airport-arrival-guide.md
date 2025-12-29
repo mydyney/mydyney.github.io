@@ -109,12 +109,12 @@ ATMの場所や交通手段の比較まで、<br>
 
 <figure>
   <img src="/images/posts/narita-airport-arrival-guide-02.jpg" alt="成田空港第1ターミナル地下1階 Welcome Suica 販売機">
-  <figcaption style="font-size: 0.85em; text-align: center;">成田空港第1ターミナル地下1階 Welcome Suica 販売機</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港第1ターミナル地下1階 Welcome Suica 販売機</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-arrival-guide-03.jpg" alt="成田空港第1ターミナル地下1階 JR東日本旅行サービスセンター入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">成田空港第1ターミナル地下1階 JR東日本旅行サービスセンター入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田空港第1ターミナル地下1階 JR東日本旅行サービスセンター入口</figcaption>
 </figure>
 
 <h2>🚌 STEP 3. 自分に合った交通手段の選択 (5つの方法比較)</h2>

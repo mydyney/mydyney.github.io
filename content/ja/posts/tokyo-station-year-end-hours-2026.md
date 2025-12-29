@@ -16,7 +16,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-01.jpg" alt="2026東京駅キャラクターストリート年末年始営業時間">
-  <figcaption style="font-size: 0.85em; text-align: center;">2026 東京駅キャラクターストリート年末年始営業時間情報</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2026 東京駅キャラクターストリート年末年始営業時間情報</figcaption>
 </figure>
 
 2026年正月に東京旅行を計画中ですか？東京駅キャラクターストリート、ラーメンストリート、おかしランドの年末年始(12月31日~1月3日)営業時間と休業情報を一目で整理しました。<strong>重要：ほとんどの店舗が1月1日は早く閉店または休業します！</strong>
@@ -83,7 +83,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-02.jpg" alt="東京駅キャラクターストリート店舗案内">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート店舗案内</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅キャラクターストリート店舗案内</figcaption>
 </figure>
 
 ## 2. 🍜 東京ラーメンストリート (東京駅地下街)
@@ -195,7 +195,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-03.jpg" alt="東京駅ラーメンストリート六厘舎つけ麺">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅ラーメンストリート六厘舎つけ麺</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅ラーメンストリート六厘舎つけ麺</figcaption>
 </figure>
 
 ## 3. 🍭 東京おかしランド＆ギフト (東京駅地下街)
@@ -284,7 +284,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="東京駅おかしランド入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅おかしランド入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅おかしランド入口</figcaption>
 </figure>
 
 ### ⛔ 注意！1月1日【休業】の有名ブランド
@@ -403,7 +403,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-05.jpg" alt="東京駅日本ぐるめ街道案内地図">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅 日本ぐるめ街道案内地図</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅 日本ぐるめ街道案内地図</figcaption>
 </figure>
 
 今日整理した東京駅いちばんがい営業時間情報がお役に立ちましたか？😊 年末年始の東京は普段と違う営業時間で戸惑いやすいですが、このように事前に確認すれば逆にもっと余裕を持って楽しめます。みなさん幸せな東京旅行を！✈️

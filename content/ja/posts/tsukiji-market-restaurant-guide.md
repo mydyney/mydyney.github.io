@@ -20,7 +20,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-01.jpg" alt="新鮮な海鮮が並ぶ築地市場の風景">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京・築地市場 - 新鮮な海鮮と食べ歩きのパラダイス</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京・築地市場 - 新鮮な海鮮と食べ歩きのパラダイス</figcaption>
 </figure>
 
 ---
@@ -38,7 +38,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-02.jpg" alt="築地場外市場の入り口の看板">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>東京・築地場外市場の入り口。築地魚市場のメインゲート。</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>東京・築地場外市場の入り口。築地魚市場のメインゲート。</b></figcaption>
 </figure>
 
 ---
@@ -70,7 +70,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-03.jpg" alt="活気あふれる午前の築地市場">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>活気にあふれる築地市場の午前の風景。東京・築地市場の人混み。</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>活気にあふれる築地市場の午前の風景。東京・築地市場の人混み。</b></figcaption>
 </figure>
 
 ---
@@ -94,7 +94,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-05.jpg" alt="きつねやの店舗外観">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">東京・築地市場 きつねやのホルモン丼と店舗。築地グルメの定番メニュー。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京・築地市場 きつねやのホルモン丼と店舗。築地グルメの定番メニュー。</figcaption>
 </div>
 
 ### 2. <a href="https://maps.app.goo.gl/BcYposN96Zcbo8KcA" target="_blank"><b>山長 (Yamacho)</b></a> - 玉子焼き
@@ -112,7 +112,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-07.jpg" alt="山長の店頭">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">築地市場 山長の玉子焼き串。東京食べ歩きの必須グルメ。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">築地市場 山長の玉子焼き串。東京食べ歩きの必須グルメ。</figcaption>
 </div>
 
 ### 3. <a href="https://maps.app.goo.gl/WQHVAAQu5xeYD5FZ9" target="_blank"><b>築地虎杖 (Tsukiji Itadori)</b></a> - 海鮮丼
@@ -125,7 +125,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-08.jpg" alt="築地虎杖の新鮮な海鮮丼">
-  <figcaption style="font-size: 0.85em; text-align: center;">築地市場 虎杖 うに虎。築地の海鮮丼、うに専門店。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">築地市場 虎杖 うに虎。築地の海鮮丼、うに専門店。</figcaption>
 </figure>
 
 ### 4. <a href="https://maps.app.goo.gl/XAMN4dxQgrFNmY946" target="_blank"><b>築地すし大 本館 (Tsukiji Sushidai Honkan)</b></a> - 寿司
@@ -138,7 +138,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-09.jpg" alt="築地すし大の高級寿司">
-  <figcaption style="font-size: 0.85em; text-align: center;">築地すし大本館。築地市場の本格寿司店。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">築地すし大本館。築地市場の本格寿司店。</figcaption>
 </figure>
 
 ### 5. <a href="https://maps.app.goo.gl/B99kDdEnTdZ515yq8" target="_blank"><b>らぁ麺 牡蠣と貝 (Ramen Kakitokai)</b></a> - 牡蠣ラーメン
@@ -151,7 +151,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-10.jpg" alt="牡蠣と貝の牡蠣ラーメン">
-  <figcaption style="font-size: 0.85em; text-align: center;">築地らぁ麺 牡蠣と貝の牡蠣ラーメン。築地の人気海鮮ラーメン。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">築地らぁ麺 牡蠣と貝の牡蠣ラーメン。築地の人気海鮮ラーメン。</figcaption>
 </figure>
 
 ### 6. <a href="https://maps.app.goo.gl/2HzqrrB3xFKf74Fg9" target="_blank"><b>おにぎり屋（小野屋精米店）</b></a> - おにぎり
@@ -168,7 +168,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-11.jpg" alt="おにぎり屋の新鮮なおにぎり">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>築地駅近くのおにぎり専門店 小野屋精米店</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>築地駅近くのおにぎり専門店 小野屋精米店</b></figcaption>
 </figure>
 
 ---
@@ -183,7 +183,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-12.jpg" alt="築地本願寺の外観">
-  <figcaption style="font-size: 0.85em; text-align: center;">築地本願寺の外観。築地市場近くの個性派寺院。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">築地本願寺の外観。築地市場近くの個性派寺院。</figcaption>
 </figure>
 
 <div class="image-group-2">
@@ -193,7 +193,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-14.jpg" alt="18品の朝ごはんの整理券">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">築地本願寺カフェ Tsumugi。18品の朝ごはんの整理券。築地のカフェスポット。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">築地本願寺カフェ Tsumugi。18品の朝ごはんの整理券。築地のカフェスポット。</figcaption>
 </div>
 
 ---

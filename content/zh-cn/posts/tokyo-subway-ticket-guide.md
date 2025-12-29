@@ -20,7 +20,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-01.jpg" alt="东京地铁乘车券攻略封面">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京地铁乘车券：兑换、购买与使用指南</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京地铁乘车券：兑换、购买与使用指南</figcaption>
 </figure>
 
 <br>
@@ -75,7 +75,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-02.jpg" alt="东京地铁 24, 48, 72 小时乘车券">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京地铁乘车券 24, 48, 72 小时版本 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京地铁乘车券 24, 48, 72 小时版本 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
 </figure>
 
 <br>
@@ -103,7 +103,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-03.jpg" alt="支持 QR 码兑换的自动售票机">
-  <figcaption style="font-size: 0.85em; text-align: center;">可以兑换 QR 码的自动售票机</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">可以兑换 QR 码的自动售票机</figcaption>
 </figure>
 
 <br>
@@ -114,7 +114,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-04.jpg" alt="售票机上的 QR 码扫描识标">
-  <figcaption style="font-size: 0.85em; text-align: center;">带有 QR 码标识的售票机 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">带有 QR 码标识的售票机 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
 </figure>
 
 <br>
@@ -123,7 +123,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-05.jpg" alt="屏幕显示的 QR 码选项">
-  <figcaption style="font-size: 0.85em; text-align: center;">在屏幕上选择 QR 码选项 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">在屏幕上选择 QR 码选项 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
 </figure>
 
 <br>
@@ -132,7 +132,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-06.jpg" alt="在读取器上扫描 QR 码">
-  <figcaption style="font-size: 0.85em; text-align: center;">扫描 QR 码以出票 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">扫描 QR 码以出票 (<a href="https://www.klook.com/zh-CN/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">来源</a>)</figcaption>
 </figure>
 
 <br>
@@ -157,7 +157,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-07.jpg" alt="东京地铁路线图">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京地铁乘车券可使用的路线 (共 13 条) (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">来源</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京地铁乘车券可使用的路线 (共 13 条) (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">来源</a>)</figcaption>
 </figure>
 
 <br>

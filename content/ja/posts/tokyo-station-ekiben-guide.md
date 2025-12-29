@@ -17,7 +17,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-01.jpg" alt="東京駅駅弁売り場・おすすめ総まとめ 価格・注意事項">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅駅弁売り場・おすすめ総まとめ 価格・注意事項</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅駅弁売り場・おすすめ総まとめ 価格・注意事項</figcaption>
 </figure>
 
 ​
@@ -65,12 +65,12 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-02.jpg" alt="駅弁屋祭全景">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭全景</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭全景</strong></figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-03.jpg" alt="JR東京駅改札内1階中央通路（6～7番ホーム間）">
-  <figcaption style="font-size: 0.85em; text-align: center;"> <strong>JR東京駅改札内1階中央通路（6～7番ホーム間）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"> <strong>JR東京駅改札内1階中央通路（6～7番ホーム間）</strong></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-04.jpg" alt="駅弁屋祭 炭火焼風牛タン弁当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 炭火焼風牛タン弁当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 炭火焼風牛タン弁当</strong></figcaption>
 </figure>
 
 <strong>​</strong>
@@ -110,7 +110,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-05.jpg" alt="駅弁屋祭 チキン弁当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 チキン弁当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 チキン弁当</strong></figcaption>
 </figure>
 
 ​
@@ -125,7 +125,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-06.jpg" alt="駅弁屋祭 鮭といくら弁当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 鮭といくら弁当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 鮭といくら弁当</strong></figcaption>
 </figure>
 
 ​
@@ -140,12 +140,12 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-07.jpg" alt="駅弁屋祭 新幹線E7弁当">
-  <figcaption style="font-size: 0.85em; text-align: center;">駅弁屋祭 新幹線E7弁当</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">駅弁屋祭 新幹線E7弁当</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-08.jpg" alt="駅弁屋祭 新幹線E8弁当">
-  <figcaption style="font-size: 0.85em; text-align: center;">駅弁屋祭 新幹線E8弁当</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">駅弁屋祭 新幹線E8弁当</figcaption>
 </figure>
 
 <strong>​</strong>
@@ -160,7 +160,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-09.jpg" alt="駅弁屋祭 三元豚とんかつ弁当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 三元豚とんかつ弁当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 三元豚とんかつ弁当</strong></figcaption>
 </figure>
 
 ---
@@ -187,7 +187,7 @@ BEST 5以外にも特別な目的があればこのメニューをおすすめ�
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-10.jpg" alt="駅弁屋祭 東京弁当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 東京弁当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 東京弁当</strong></figcaption>
 </figure>
 
 <strong>​</strong>
@@ -216,7 +216,7 @@ BEST 5以外にも特別な目的があればこのメニューをおすすめ�
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-11.jpg" alt="駅弁屋祭 加熱式弁当コーナー">
-  <figcaption style="font-size: 0.85em; text-align: center;">駅弁屋祭 加熱式弁当コーナー</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">駅弁屋祭 加熱式弁当コーナー</figcaption>
 </figure>
 
 ---
@@ -247,7 +247,7 @@ BEST 5以外にも特別な目的があればこのメニューをおすすめ�
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-12.jpg" alt="東京駅地下1階 グランスタ東京 弁当コーナー">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>東京駅地下1階 グランスタ東京 弁当コーナー</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>東京駅地下1階 グランスタ東京 弁当コーナー</strong></figcaption>
 </figure>
 
 ---
@@ -279,7 +279,7 @@ BEST 5以外にも特別な目的があればこのメニューをおすすめ�
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-13.jpg" alt="大丸百貨店東京店地下1階 弁当コーナー">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>大丸百貨店東京店地下1階 弁当コーナー</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>大丸百貨店東京店地下1階 弁当コーナー</strong></figcaption>
 </figure>
 
 ---

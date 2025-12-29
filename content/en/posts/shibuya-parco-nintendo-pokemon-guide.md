@@ -17,7 +17,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg" alt="Shibuya Parco 6F Complete Guide Nintendo Pokemon Center Jump Shop">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Parco 6F Complete Guide: Nintendo, Pokemon Center, Jump Shop</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Parco 6F Complete Guide: Nintendo, Pokemon Center, Jump Shop</figcaption>
 </figure>
 
 Hello! This is Tokyo Mate, documenting the joy of Tokyo travel.✈️
@@ -48,7 +48,7 @@ Today, we'll share efficient routes and essential shopping tips for exploring th
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-02.jpg" alt="Shibuya Parco escalator to 6F before opening">
-  <figcaption style="font-size: 0.85em; text-align: center;">Escalator to Shibuya Parco 6F before opening</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Escalator to Shibuya Parco 6F before opening</figcaption>
 </figure>
 
 ---
@@ -76,7 +76,7 @@ Shibuya Parco 6F has a 'square structure', making it easy to walk around in a ci
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-03.jpg" alt="Shibuya Parco 6F floor map">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shibuya Parco 6F Floor Map (<a href="https://ko.shibuya.parco.jp/floor/detail/?f=6f" target="_blank">Image Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shibuya Parco 6F Floor Map (<a href="https://ko.shibuya.parco.jp/floor/detail/?f=6f" target="_blank">Image Source</a>)</figcaption>
 </figure>
 
 ---
@@ -102,12 +102,12 @@ This is the place that attracts the most crowds on Shibuya Parco 6F. On weekdays
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-04.jpg" alt="Nintendo Tokyo numbered ticket distribution location map before opening">
-  <figcaption style="font-size: 0.85em; text-align: center;">Nintendo Tokyo numbered ticket distribution location map before opening (<a href="https://www.nintendo.com/jp/officialstore/index.html" target="_blank">Map Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Nintendo Tokyo numbered ticket distribution location map before opening (<a href="https://www.nintendo.com/jp/officialstore/index.html" target="_blank">Map Source</a>)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-05.jpg" alt="Numbered ticket distribution location after opening - in front of Mario statue">
-  <figcaption style="font-size: 0.85em; text-align: center;">Numbered ticket distribution location after opening - in front of Mario statue</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Numbered ticket distribution location after opening - in front of Mario statue</figcaption>
 </figure>
 
 ### <strong>✅ Top 5 Must-Buy Goods</strong>
@@ -182,7 +182,7 @@ When you enter the entrance, you'll find a <strong>life-sized Mewtwo</strong> th
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-15.jpg" alt="Pokemon Center Shibuya photo zone Mewtwo">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Pokemon Center Shibuya Photo Zone Mewtwo</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Pokemon Center Shibuya Photo Zone Mewtwo</strong></figcaption>
 </figure>
 
 ### <strong>✅ Shibuya Exclusive Goods</strong>
@@ -221,7 +221,7 @@ Even if you buy by the box, staff will remove the plastic wrap (shrink) on site 
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-18.jpg" alt="Pokemon Card (TCG) purchase tips and precautions">
-  <figcaption style="font-size: 0.85em; text-align: center;">Pokemon <strong>Card (TCG) Purchase Tips & Precautions</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Pokemon <strong>Card (TCG) Purchase Tips & Precautions</strong></figcaption>
 </figure>
 
 ### <strong>✅ Birthday Benefits</strong>
@@ -232,7 +232,7 @@ If you visit during your birthday month, show your passport/ID to receive a 'bir
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-19.jpg" alt="Pokemon Center Shibuya Pikachu">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Pokemon Center Shibuya Pikachu</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Pokemon Center Shibuya Pikachu</strong></figcaption>
 </figure>
 
 ---
@@ -279,7 +279,7 @@ A. No. <strong>Pokemon Center and Capcom Store are available (O)</strong>, but N
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-20.jpg" alt="Pokemon Center numbered ticket distribution notice">
-  <figcaption style="font-size: 0.85em; text-align: center;">Pokemon Center Numbered Ticket Distribution Notice</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Pokemon Center Numbered Ticket Distribution Notice</figcaption>
 </figure>
 
 Done shopping on 6F? Parco has not only Nintendo but also hip brands like Human Made and Comme des Garçons, plus waiting list restaurants. Check out the floor guide and complete shopping guide in the article below!

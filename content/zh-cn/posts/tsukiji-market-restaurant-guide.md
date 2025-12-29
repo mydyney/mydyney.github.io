@@ -21,7 +21,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-01.jpg" alt="筑地市场新鲜海鲜展示">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京筑地市场 - 新鲜海鲜和街头美食的天堂</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京筑地市场 - 新鲜海鲜和街头美食的天堂</figcaption>
 </figure>
 
 ---
@@ -39,7 +39,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-02.jpg" alt="筑地场外市场入口招牌">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>东京筑地场外市场入口招牌。筑地鱼市场正门。</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>东京筑地场外市场入口招牌。筑地鱼市场正门。</b></figcaption>
 </figure>
 
 ---
@@ -71,7 +71,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-03.jpg" alt="筑地市场热闹的上午景象">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>筑地市场上午充满活力的景象。东京筑地市场的人潮。</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>筑地市场上午充满活力的景象。东京筑地市场的人潮。</b></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-05.jpg" alt="狐狸屋店铺外观">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">东京筑地市场狐狸屋内脏丼。筑地必吃美食。 </figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京筑地市场狐狸屋内脏丼。筑地必吃美食。 </figcaption>
 </div>
 
 ### 2. <a href="https://maps.app.goo.gl/BcYposN96Zcbo8KcA" target="_blank"><b>山长 (山长)</b></a> - 玉子烧
@@ -113,7 +113,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-07.jpg" alt="山长店面">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">筑地市场山长玉子烧串。东京街头美食必选。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">筑地市场山长玉子烧串。东京街头美食必选。</figcaption>
 </div>
 
 ### 3. <a href="https://maps.app.goo.gl/WQHVAAQu5xeYD5FZ9" target="_blank"><b>筑地虎杖 (Tsukiji Itadori)</b></a> - 海鲜丼
@@ -126,7 +126,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-08.jpg" alt="筑地虎杖的新鲜海鲜丼">
-  <figcaption style="font-size: 0.85em; text-align: center;">筑地市场虎杖 Unitora。筑地海鲜丼、海胆专门店。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">筑地市场虎杖 Unitora。筑地海鲜丼、海胆专门店。</figcaption>
 </figure>
 
 ### 4. <a href="https://maps.app.goo.gl/XAMN4dxQgrFNmY946" target="_blank"><b>筑地寿司大 本馆 (Tsukiji Sushidai Honkan)</b></a> - 寿司
@@ -139,7 +139,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-09.jpg" alt="筑地寿司大的精品寿司">
-  <figcaption style="font-size: 0.85em; text-align: center;">筑地寿司大本馆。筑地市场地道的寿司店。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">筑地寿司大本馆。筑地市场地道的寿司店。</figcaption>
 </figure>
 
 ### 5. <a href="https://maps.app.goo.gl/B99kDdEnTdZ515yq8" target="_blank"><b>拉面 牡蛎与贝 (らぁ麺 牡蛎と贝)</b></a> - 牡蛎拉面
@@ -152,7 +152,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-10.jpg" alt="牡蛎与贝的牡蛎拉面">
-  <figcaption style="font-size: 0.85em; text-align: center;">筑地拉面“牡蛎与贝”的招牌面食。筑地超人气美食。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">筑地拉面“牡蛎与贝”的招牌面食。筑地超人气美食。</figcaption>
 </figure>
 
 ### 6. <a href="https://maps.app.goo.gl/2HzqrrB3xFKf74Fg9" target="_blank"><b>饭团屋（小野屋精米店）</b></a> - 饭团
@@ -169,7 +169,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-11.jpg" alt="小野屋精米店的新鲜饭团">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>筑地站附近的人气饭团店：小野屋精米店</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>筑地站附近的人气饭团店：小野屋精米店</b></figcaption>
 </figure>
 
 ---
@@ -184,7 +184,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-12.jpg" alt="筑地本愿寺外观">
-  <figcaption style="font-size: 0.85em; text-align: center;">筑地本愿寺外观。筑地市场附近风格独特的寺院。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">筑地本愿寺外观。筑地市场附近风格独特的寺院。</figcaption>
 </figure>
 
 <div class="image-group-2">
@@ -194,7 +194,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-14.jpg" alt="18 道菜早餐整理券">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">筑地本愿寺 Tsumugi 咖啡厅。18 道菜早餐整理券。筑地必访咖啡馆。</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">筑地本愿寺 Tsumugi 咖啡厅。18 道菜早餐整理券。筑地必访咖啡馆。</figcaption>
 </div>
 
 ---

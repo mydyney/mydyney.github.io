@@ -28,7 +28,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg" alt="涩谷美食 いくしか 土锅米饭无限续碗">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷美食 いくしか 土锅米饭无限续碗</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">涩谷美食 いくしか 土锅米饭无限续碗</figcaption>
 </figure>
 
 ---
@@ -55,7 +55,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-02.jpg" alt="位于涩谷PARCO地下1层的「いくしか」整洁外观">
-  <figcaption style="font-size: 0.85em; text-align: center;">位于涩谷PARCO地下1层的「いくしか」整洁外观</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">位于涩谷PARCO地下1层的「いくしか」整洁外观</figcaption>
 </figure>
 
 ---
@@ -79,12 +79,12 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-03.jpg" alt="装在木饭桶里的米饭">
-  <figcaption style="font-size: 0.85em; text-align: center;">装在木饭桶里的米饭</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">装在木饭桶里的米饭</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-04.jpg" alt="涩谷美食 いくしか，与米饭一起供应的小菜">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷美食 いくしか，与米饭一起供应的小菜</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">涩谷美食 いくしか，与米饭一起供应的小菜</figcaption>
 </figure>
 
 ---
@@ -107,7 +107,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-05.jpg" alt="涩谷美食 いくしか，红烧五花肉">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷美食 いくしか，红烧五花肉</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">涩谷美食 いくしか，红烧五花肉</figcaption>
 </figure>
 
 <div class="info-box">
@@ -120,7 +120,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-06.jpg" alt="涩谷美食 いくしか，高级寿喜烧">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷美食 いくしか，高级寿喜烧</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">涩谷美食 いくしか，高级寿喜烧</figcaption>
 </figure>
 
 <div class="info-box">
@@ -154,7 +154,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-07.jpg" alt="いくしか 菜单表">
-  <figcaption style="font-size: 0.85em; text-align: center;">いくしか 菜单表</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">いくしか 菜单表</figcaption>
 </figure>
 
 ---
@@ -176,7 +176,7 @@ featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 
 <figure>
   <img src="/images/posts/shibuya-ikushika-rice-refill-restaurant-08.jpg" alt="涩谷PARCO位置地图">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷PARCO位置地图</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">涩谷PARCO位置地图</figcaption>
 </figure>
 
 <div style="margin: 2rem 0;">

@@ -17,7 +17,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 
 <figure>
   <img src="/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg" alt="六本木ヒルズ 信濃屋 外観">
-  <figcaption style="font-size: 0.85em; text-align: center;">六本木ヒルズ スーパーマーケット 信濃屋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ヒルズ スーパーマーケット 信濃屋</figcaption>
 </figure>
 
 ## 1. 六本木ヒルズ 信濃屋 基本情報 🛒

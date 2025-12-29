@@ -16,7 +16,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-01.jpg" alt="2026东京站角色街年末营业时间">
-  <figcaption style="font-size: 0.85em; text-align: center;">2026 东京站角色街年末营业时间信息</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2026 东京站角色街年末营业时间信息</figcaption>
 </figure>
 
 计划2026新年东京之旅吗？这里完整整理了东京站角色街、拉面街、零食乐园的年末假期(12月31日~1月3日)营业时间和休息信息。<strong>重要：大部分店铺1月1日提前关门或休息！</strong>
@@ -83,7 +83,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-02.jpg" alt="东京站角色街店铺指南">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街店铺指南</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站角色街店铺指南</figcaption>
 </figure>
 
 ## 2. 🍜 东京拉面街 (东京站地下街)
@@ -195,7 +195,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-03.jpg" alt="东京站拉面街六厘舍蘸面">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站拉面街六厘舍蘸面</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站拉面街六厘舍蘸面</figcaption>
 </figure>
 
 ## 3. 🍭 东京零食乐园＆礼品 (东京站地下街)
@@ -284,7 +284,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="东京站零食乐园入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站零食乐园入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站零食乐园入口</figcaption>
 </figure>
 
 ### ⛔ 注意！1月1日【休息】的知名品牌
@@ -403,7 +403,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-05.jpg" alt="东京站日本美食街道指南地图">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站 日本美食街道指南地图</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站 日本美食街道指南地图</figcaption>
 </figure>
 
 今天整理的东京站一番街营业时间信息对您有帮助吗？😊 年末东京因为和平时不同的营业时间容易慌张，但像这样提前确认反而能更从容地享受。祝大家东京之旅愉快！✈️

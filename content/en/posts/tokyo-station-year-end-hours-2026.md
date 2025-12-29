@@ -16,7 +16,7 @@ featured_image: "/images/posts/tokyo-station-ramen-street-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-01.jpg" alt="Tokyo Station Character Street Year-End Hours 2026">
-  <figcaption style="font-size: 0.85em; text-align: center;">2026 Tokyo Station Character Street Year-End Business Hours Information</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2026 Tokyo Station Character Street Year-End Business Hours Information</figcaption>
 </figure>
 
 Planning a Tokyo trip for New Year 2026? Here's a complete breakdown of Tokyo Station Character Street, Ramen Street, and Okashi Land business hours for the year-end holiday period (December 31 - January 3). <strong>Important: Most shops close early or are closed on January 1st!</strong>
@@ -83,7 +83,7 @@ Character Street, home to popular character shops like Chiikawa, Pokemon, and Gh
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-02.jpg" alt="Tokyo Station Character Street Shop Guide">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Shop Guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Character Street Shop Guide</figcaption>
 </figure>
 
 ## 2. 🍜 Tokyo Ramen Street (Tokyo Station Underground)
@@ -195,7 +195,7 @@ These close at 6 PM on January 1st. (Last order 17:30)
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-03.jpg" alt="Tokyo Station Ramen Street Rokurinsha Tsukemen">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Ramen Street Rokurinsha Tsukemen</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Ramen Street Rokurinsha Tsukemen</figcaption>
 </figure>
 
 ## 3. 🍭 Tokyo Okashi Land & Gift Shops (Tokyo Station Underground)
@@ -284,7 +284,7 @@ Don't wait in crowded airport duty-free lines during the year-end rush. 'Tokyo B
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-04.jpg" alt="Tokyo Station Okashi Land Entrance">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Okashi Land Entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Okashi Land Entrance</figcaption>
 </figure>
 
 ### ⛔ Caution! CLOSED on January 1st - Famous Brands
@@ -403,7 +403,7 @@ Arrive by 5 PM at the latest for meals!
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-05.jpg" alt="Tokyo Station Nippon Gourmet Street Map">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Nippon Gourmet Street Guide Map</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Nippon Gourmet Street Guide Map</figcaption>
 </figure>
 
 Did today's Tokyo Station Ichibangai business hours help you? 😊 Year-end Tokyo can be confusing with different operating hours, but checking in advance like this lets you enjoy more leisurely. Have a wonderful Tokyo trip! ✈️

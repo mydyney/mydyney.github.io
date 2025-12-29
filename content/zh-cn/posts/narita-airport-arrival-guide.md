@@ -109,12 +109,12 @@ featured_image: "/images/posts/narita-airport-arrival-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/narita-airport-arrival-guide-02.jpg" alt="成田机场第1航站楼B1层 Welcome Suica 自动贩卖机">
-  <figcaption style="font-size: 0.85em; text-align: center;">成田机场第1航站楼B1层 Welcome Suica 自动贩卖机</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田机场第1航站楼B1层 Welcome Suica 自动贩卖机</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-arrival-guide-03.jpg" alt="成田机场第1航站楼B1层 JR东日本旅行服务中心入口">
-  <figcaption style="font-size: 0.85em; text-align: center;">成田机场第1航站楼B1层 JR东日本旅行服务中心入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">成田机场第1航站楼B1层 JR东日本旅行服务中心入口</figcaption>
 </figure>
 
 <h2>🚌 STEP 3. 选择适合您的交通工具 (5种方案对比)</h2>

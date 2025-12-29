@@ -17,7 +17,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-01.jpg" alt="东京站便当售卖处·推荐总整理 价格·注意事项">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站便当售卖处·推荐总整理 价格·注意事项</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站便当售卖处·推荐总整理 价格·注意事项</figcaption>
 </figure>
 
 ​
@@ -65,12 +65,12 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-02.jpg" alt="駅弁屋祭全景">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭全景</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭全景</strong></figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-03.jpg" alt="JR东京站检票口内1楼中央通道（6～7号站台之间）">
-  <figcaption style="font-size: 0.85em; text-align: center;"> <strong>JR东京站检票口内1楼中央通道（6～7号站台之间）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"> <strong>JR东京站检票口内1楼中央通道（6～7号站台之间）</strong></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-04.jpg" alt="駅弁屋祭 炭火烧风牛舌便当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 炭火烧风牛舌便当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 炭火烧风牛舌便当</strong></figcaption>
 </figure>
 
 <strong>​</strong>
@@ -110,7 +110,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-05.jpg" alt="駅弁屋祭 鸡肉便当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 鸡肉便当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 鸡肉便当</strong></figcaption>
 </figure>
 
 ​
@@ -125,7 +125,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-06.jpg" alt="駅弁屋祭 三文鱼和鲑鱼子便当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 三文鱼和鲑鱼子便当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 三文鱼和鲑鱼子便当</strong></figcaption>
 </figure>
 
 ​
@@ -140,12 +140,12 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-07.jpg" alt="駅弁屋祭 新干线E7便当">
-  <figcaption style="font-size: 0.85em; text-align: center;">駅弁屋祭 新干线E7便当</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">駅弁屋祭 新干线E7便当</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-08.jpg" alt="駅弁屋祭 新干线E8便当">
-  <figcaption style="font-size: 0.85em; text-align: center;">駅弁屋祭 新干线E8便当</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">駅弁屋祭 新干线E8便当</figcaption>
 </figure>
 
 <strong>​</strong>
@@ -160,7 +160,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-09.jpg" alt="駅弁屋祭 三元猪炸猪排便当">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>駅弁屋祭 三元猪炸猪排便当</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>駅弁屋祭 三元猪炸猪排便当</strong></figcaption>
 </figure>
 
 ---
@@ -181,7 +181,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-11.jpg" alt="駅弁屋祭 加热式便当专区">
-  <figcaption style="font-size: 0.85em; text-align: center;">駅弁屋祭 加热式便当专区</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">駅弁屋祭 加热式便当专区</figcaption>
 </figure>
 
 ---
@@ -212,7 +212,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-12.jpg" alt="东京站地下1层 Gransta东京 便当专区">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>东京站地下1层 Gransta东京 便当专区</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>东京站地下1层 Gransta东京 便当专区</strong></figcaption>
 </figure>
 
 ---
@@ -244,7 +244,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-13.jpg" alt="大丸百货东京店地下1层 便当专区">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>大丸百货东京店地下1层 便当专区</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>大丸百货东京店地下1层 便当专区</strong></figcaption>
 </figure>
 
 ---

@@ -310,7 +310,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
   <figure>
     <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="追分だんご 2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">追分だんご本舗 - 店舗・団子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">追分だんご本舗 - 店舗・団子</figcaption>
 </div>
 
 <hr class="se-hr">
@@ -335,7 +335,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
   <figure>
     <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="東京都庁 入口">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿無料展望台、東京都庁 外観と入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿無料展望台、東京都庁 外観と入口</figcaption>
 </div>
 
 <strong>💡 12月の新宿は街中が光のフェスティバル！ (2025-2026)</strong>

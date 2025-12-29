@@ -24,7 +24,7 @@ This is your dedicated Shinjuku family travel guide.</p>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-01.jpg" alt="5 major kids parks departing from Shinjuku">
-  <figcaption style="font-size: 0.85em; text-align: center;">Departing from Shinjuku: 5 Major Kids Parks</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Departing from Shinjuku: 5 Major Kids Parks</figcaption>
 </figure>
 
 ## Is Shinjuku Just for Adults?
@@ -47,7 +47,7 @@ With this one guide, you can design <strong>children, elementary students, and f
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-02.jpg" alt="Tokyo Disneyland Cinderella Castle panoramic view, accessible by bus from Shinjuku, popular family travel course">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Disneyland Cinderella Castle panoramic view, accessible by bus from Shinjuku, popular family travel course</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Cinderella Castle panoramic view, accessible by bus from Shinjuku, popular family travel course</figcaption>
 </figure>
 
 About 40 minutes by bus from Shinjuku.
@@ -82,7 +82,7 @@ From Busta Shinjuku's 4th floor terminal (connected to Shinjuku Station's South 
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="Sanrio Puroland indoor parade, Hello Kitty and My Melody characters">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sanrio Puroland indoor parade, Hello Kitty and My Melody characters <a href="#" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sanrio Puroland indoor parade, Hello Kitty and My Melody characters <a href="#" target="_blank">(Source)</a></figcaption>
 </figure>
 
 Hello Kitty, Cinnamoroll, My Melody...
@@ -113,7 +113,7 @@ Keio Line Shinjuku Station → Keio Tama Center Station → About 5-minute walk 
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-04.jpg" alt="Thomas Land at Fuji-Q Highland panoramic view">
-  <figcaption style="font-size: 0.85em; text-align: center;">Thomas Land at Fuji-Q Highland panoramic view</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Thomas Land at Fuji-Q Highland panoramic view</figcaption>
 </figure>
 
 For train enthusiasts and Thomas-loving kids, the place you absolutely must show them once is Thomas Land inside Fuji-Q Highland.
@@ -250,7 +250,7 @@ Between Otsuki Station ↔ Fuji-Q Highland Station, there are <strong>Thomas Lan
     <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="Thomas Land train operating between Otsuki and Fuji-Q Highland stations">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Thomas Land train operating between Otsuki and Fuji-Q Highland stations</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Thomas Land train operating between Otsuki and Fuji-Q Highland stations</figcaption>
 
 <div class="image-group-2">
   <figure>
@@ -260,11 +260,11 @@ Between Otsuki Station ↔ Fuji-Q Highland Station, there are <strong>Thomas Lan
     <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Fujisan View Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-09.jpg" alt="Fujisan Limited Express operating between Otsuki and Fuji-Q Highland stations">
-  <figcaption style="font-size: 0.85em; text-align: center;">Fujisan Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Fujisan Limited Express operating between Otsuki and Fuji-Q Highland stations</figcaption>
 </figure>
 
 #### 🚌 Method 3: Busta Shinjuku → Fuji-Q Highland
@@ -287,7 +287,7 @@ For families who find buses more comfortable than trains, there's also a direct 
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-10.jpg" alt="Yomiuriland winter Jewellumination night illumination, family amusement park accessible via Keio Line from Shinjuku">
-  <figcaption style="font-size: 0.85em; text-align: center;">Yomiuriland winter Jewellumination night illumination, family amusement park accessible via Keio Line from Shinjuku <a href="https://www.gotokyo.org/kr/spot/ev136/index.html" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Yomiuriland winter Jewellumination night illumination, family amusement park accessible via Keio Line from Shinjuku <a href="https://www.gotokyo.org/kr/spot/ev136/index.html" target="_blank">(Source)</a></figcaption>
 </figure>
 
 About 35 minutes from Shinjuku.
@@ -319,7 +319,7 @@ The Tokyo panoramic view and amusement park view from the gondola is something k
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-11.jpg" alt="Tokyo Dome City amusement park in central Tokyo, Ferris wheel">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Dome City amusement park in central Tokyo, Ferris wheel</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Dome City amusement park in central Tokyo, Ferris wheel</figcaption>
 </figure>
 
 The closest urban amusement park to Shinjuku is Tokyo Dome City.
@@ -346,7 +346,7 @@ JR Chuo-Sobu Line (yellow) Shinjuku Station → Suidobashi Station (水道橋駅
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-12.jpg" alt="Tokyo Dome City ASOBono indoor kids park, great indoor Tokyo attraction for children to run around">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Dome City ASOBono indoor kids park, great indoor Tokyo attraction for children to run around</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Dome City ASOBono indoor kids park, great indoor Tokyo attraction for children to run around</figcaption>
 </figure>
 
 ---

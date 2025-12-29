@@ -17,7 +17,7 @@ images: ["/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-01.jpg" alt="Tokyo Station Okashi Land access guide freshly fried Jagariko Poterico">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Okashi Land Access Guide | Freshly Fried Tokyo Station Jagariko Poterico</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Okashi Land Access Guide | Freshly Fried Tokyo Station Jagariko Poterico</figcaption>
 </figure>
 
 Hello! This is Tokyo Mate, your reliable partner for all things Tokyo travel. 🗼
@@ -47,7 +47,7 @@ Okashi Land is easy to find. It's <strong>between Character Street and Ramen Str
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-02.jpg" alt="JR Tokyo Station Yaesu Underground Central Exit">
-  <figcaption style="font-size: 0.85em; text-align: center;">JR Tokyo Station Yaesu Underground Central Exit</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">JR Tokyo Station Yaesu Underground Central Exit</figcaption>
 </figure>
 
 <strong>🛍️ Wait! Shopping Route Tip</strong>
@@ -58,7 +58,7 @@ Browse the character shops first, then head to Okashi Land for snacks when your 
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-03.jpg" alt="Tokyo Station Okashi Land entrance">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Okashi Land Entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Okashi Land Entrance</figcaption>
 </figure>
 
 ---
@@ -80,7 +80,7 @@ The store is open until 9 PM, but the fryer (kitchen) closes much earlier.
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-04.jpg" alt="Tokyo Station Okashi Land Calbee Plus cooking space">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Okashi Land Calbee Plus Cooking Space</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Okashi Land Calbee Plus Cooking Space</figcaption>
 </figure>
 
 <strong>🍟 How to Order</strong>
@@ -110,7 +110,7 @@ This isn't the packaged snack 'Jagariko' you know. It's <strong>hot potato stick
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-07.jpg" alt="Calbee Plus special Jagariko Poterico">
-  <figcaption style="font-size: 0.85em; text-align: center;">Calbee Plus Special Jagariko "Poterico"</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Calbee Plus Special Jagariko "Poterico"</figcaption>
 </figure>
 
 <strong>2. Freshly Fried Potato Chips - Happy Butter Deluxe</strong>
@@ -123,7 +123,7 @@ They fry the original 'Shiawase Butter' flavor chips (Korea's Honey Butter Chip 
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-08.jpg" alt="Tokyo Station Okashi Land Calbee Plus Happy Butter Deluxe">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Okashi Land Calbee Plus "Happy Butter Deluxe"</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Okashi Land Calbee Plus "Happy Butter Deluxe"</figcaption>
 </figure>
 
 <div class="image-group-2">
@@ -154,7 +154,7 @@ Perfect for gifts, so grab some if you're visiting during this period!
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-11.jpg" alt="Jagabee x Sugar Butter Tree collaboration Sugar Jaga">
-  <figcaption style="font-size: 0.85em; text-align: center;">Jagabee x Sugar Butter Tree Collaboration Sugar Jaga</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Jagabee x Sugar Butter Tree Collaboration Sugar Jaga</figcaption>
 </figure>
 
 ---
@@ -202,12 +202,12 @@ Besides Calbee, three major Japanese confectionery brands have antenna shops her
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-14.jpg" alt="Tokyo Station exclusive snacks Morinaga milk caramel chocolate">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Exclusive Snacks - Morinaga Milk Caramel Chocolate</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Exclusive Snacks - Morinaga Milk Caramel Chocolate</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-15.jpg" alt="Tokyo Station exclusive snacks almond biscuits and almond cream sandwich">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Exclusive Snacks - Almond Biscuits & Almond Cream Sandwich</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Exclusive Snacks - Almond Biscuits & Almond Cream Sandwich</figcaption>
 </figure>
 
 ---
@@ -232,7 +232,7 @@ Looking for the sold-out <strong>'Tokyo Banana Crème Brûlée'</strong>? That's
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-16.jpg" alt="Tokyo Station Tokyo Banana curry bread">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Tokyo Station Tokyo Banana Curry Bread</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Tokyo Station Tokyo Banana Curry Bread</strong></figcaption>
 </figure>
 
 <strong>🍪 Yoku Moku</strong>
@@ -245,7 +245,7 @@ This is Yoku Moku's Tokyo Station store, famous for 'Cigare' shaped cookies.
 
 <figure>
   <img src="/images/posts/tokyo-station-okashi-land-jagariko-calbee-guide-17.jpg" alt="Tokyo Station Yoku Moku">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Yoku Moku</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Yoku Moku</figcaption>
 </figure>
 
 ---

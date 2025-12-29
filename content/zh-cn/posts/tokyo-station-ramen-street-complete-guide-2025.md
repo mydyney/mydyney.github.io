@@ -27,7 +27,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-02.jpg" alt="ひらこ屋和みそきん的位置">
-  <figcaption style="font-size: 0.85em; text-align: center;">2025年8月7日开业的ひらこ屋（9号店铺）、みそきん（10号店铺）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年8月7日开业的ひらこ屋（9号店铺）、みそきん（10号店铺）</figcaption>
 </figure>
 
 ---
@@ -98,7 +98,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-03.jpg" alt="みそきん菜单和价格">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>みそきん菜单及价格（<a href="https://misokin.jp/" target="_blank">图片来源</a>）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>みそきん菜单及价格（<a href="https://misokin.jp/" target="_blank">图片来源</a>）</strong></figcaption>
 </figure>
 
 <ul>
@@ -108,14 +108,14 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-04.jpg" alt="特制みそきん菜单和价格">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>特制みそきん菜单及价格（<a href="https://misokin.jp/" target="_blank">图片来源</a>）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>特制みそきん菜单及价格（<a href="https://misokin.jp/" target="_blank">图片来源</a>）</strong></figcaption>
 </figure>
 
 <strong>🛍️ 全国7-11便利店都能买到的みそきん杯面</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-05.jpg" alt="みそきん杯面">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>みそきん杯面（<a href="https://misokin.jp/" target="_blank">图片来源</a>）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>みそきん杯面（<a href="https://misokin.jp/" target="_blank">图片来源</a>）</strong></figcaption>
 </figure>
 
 ---
@@ -142,7 +142,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-06.jpg" alt="东京站拉面街 ひらこ屋拉面">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站拉面街 ひらこ屋拉面（<a href="https://hirakoya.net/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站拉面街 ひらこ屋拉面（<a href="https://hirakoya.net/" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 ---
@@ -221,7 +221,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-07.jpg" alt="东京站拉面街10家店铺选择指南">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>东京站拉面街10家店铺选择指南</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>东京站拉面街10家店铺选择指南</strong></figcaption>
 </figure>
 
 ---

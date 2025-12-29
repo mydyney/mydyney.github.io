@@ -17,7 +17,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 
 <figure>
   <img src="/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg" alt="Roppongi Hills Supermarket Shinanoya Exterior">
-  <figcaption style="font-size: 0.85em; text-align: center;">Roppongi Hills Supermarket Shinanoya</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Hills Supermarket Shinanoya</figcaption>
 </figure>
 
 ## 1. Roppongi Hills Shinanoya Info 🛒

@@ -111,12 +111,12 @@ we've summarized it all in this perfect guide.</p>
 
 <figure>
   <img src="/images/posts/narita-airport-arrival-guide-02.jpg" alt="Welcome Suica vending machine at Narita Airport Terminal 1 B1">
-  <figcaption style="font-size: 0.85em; text-align: center;">Welcome Suica vending machine at Narita Airport Terminal 1 B1</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Welcome Suica vending machine at Narita Airport Terminal 1 B1</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/narita-airport-arrival-guide-03.jpg" alt="JR East Travel Service Center Entrance at Narita Airport Terminal 1 B1">
-  <figcaption style="font-size: 0.85em; text-align: center;">JR East Travel Service Center Entrance at Narita Airport Terminal 1 B1</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">JR East Travel Service Center Entrance at Narita Airport Terminal 1 B1</figcaption>
 </figure>
 
 <h2>🚌 STEP 3. Choosing Your Transportation (5 Methods)</h2>

@@ -19,7 +19,7 @@ Essential guide for beginners to score amazing finds without getting lost!</p>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-01.jpg" alt="Shinjuku gashapon shops guide featuring best 7 locations with rare items">
-  <figcaption style="font-size: 0.85em; text-align: center;">Best 7 Shinjuku Gashapon Shops - Locations & Rare Item Guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Best 7 Shinjuku Gashapon Shops - Locations & Rare Item Guide</figcaption>
 </figure>
 
 ---
@@ -72,7 +72,7 @@ The first shop to introduce is <strong>Shinjuku Gachapon Forest (Gachagacha no M
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-03.jpg" alt="Gachapon Forest entrance at Shinjuku Subnade Exit 4">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Gachapon Forest Shinjuku Subnade Branch - Store Views</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Gachapon Forest Shinjuku Subnade Branch - Store Views</figcaption>
 
 <div class="image-group-2">
   <figure>
@@ -82,7 +82,7 @@ The first shop to introduce is <strong>Shinjuku Gachapon Forest (Gachagacha no M
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-05.jpg" alt="Jujutsu Kaisen gashapon collection at Gachapon Forest">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Haikyuu and Jujutsu Kaisen gashapon at Shinjuku Gachapon Forest</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Haikyuu and Jujutsu Kaisen gashapon at Shinjuku Gachapon Forest</figcaption>
 
 ### Where to Find Shinjuku Gashapon Bus Bell/Stop Bell?
 
@@ -90,7 +90,7 @@ I found a rare item here! While I didn't find the highly sought-after <strong>Sh
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-06.jpg" alt="Emergency button gashapon at Shinjuku Gachapon Forest">
-  <figcaption style="font-size: 0.85em; text-align: center;">Emergency button gacha at Shinjuku Gachapon Forest</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Emergency button gacha at Shinjuku Gachapon Forest</figcaption>
 </figure>
 
 It's truly a gacha paradise! 😍 The <strong>Sanrio desk clock</strong> and <strong>Rilakkuma (Bear) keychains</strong> that I only saw at this Shinjuku gashapon shop had fresh stock too. Especially the Sanrio clock at 500 yen – it's genuinely cute on your desk, so grab it if you see one!
@@ -103,11 +103,11 @@ It's truly a gacha paradise! 😍 The <strong>Sanrio desk clock</strong> and <st
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-08.jpg" alt="Rilakkuma keychain gashapon collection">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Sanrio character cardboard watch gacha and Rilakkuma keyring gacha</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Sanrio character cardboard watch gacha and Rilakkuma keyring gacha</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-09.jpg" alt="Working Kuromi digital clock from gashapon">
-  <figcaption style="font-size: 0.85em; text-align: center;">Functional Kuromi digital clock showing real time</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Functional Kuromi digital clock showing real time</figcaption>
 </figure>
 
 ---
@@ -126,7 +126,7 @@ Located on the busiest street at Shinjuku's East Exit, it's the most convenient 
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-10.jpg" alt="Shinjuku C-pla gashapon shop entrance and interior">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku C-pla gashapon shop entrance and interior</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku C-pla gashapon shop entrance and interior</figcaption>
 </figure>
 
 ### Character Guide: Shinjuku Gashapon for Crayon Shin-chan, Haikyuu, Chiikawa
@@ -139,18 +139,18 @@ Located on the busiest street at Shinjuku's East Exit, it's the most convenient 
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-12.jpg" alt="Wide selection of Haikyuu character gashapon machines">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Various Haikyuu gashapon at Shinjuku C-pla</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Various Haikyuu gashapon at Shinjuku C-pla</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-13.jpg" alt="Crayon Shin-chan gashapon at Shinjuku C-pla">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku C-pla Crayon Shin-chan gacha</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku C-pla Crayon Shin-chan gacha</figcaption>
 </figure>
 
 The irresistible <strong>'missile launch button'</strong> gacha is here too! Just like in movies, you flip open the transparent cover and press the button to trigger a "BUZZ! BUZZ!" siren with flashing red lights.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-14.jpg" alt="Emergency button gashapon at Shinjuku C-pla">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku C-pla emergency button gacha</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku C-pla emergency button gacha</figcaption>
 </figure>
 
 ---
@@ -180,11 +180,11 @@ Are Tokyo nights long but shops close early? Then head to <strong>Shinjuku Kabuk
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-16.jpg" alt="Kabukicho Tower 3rd floor gashapon shop Namco Tokyo">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Kabukicho Tower Namco Tokyo - Store Views</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Kabukicho Tower Namco Tokyo - Store Views</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-17.jpg" alt="Smart gashapon machines accepting Suica and Pasmo at Namco Tokyo">
-  <figcaption style="font-size: 0.85em; text-align: center;">Smart gashapon accepting Suica/Pasmo at Namco Tokyo</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Smart gashapon accepting Suica/Pasmo at Namco Tokyo</figcaption>
 </figure>
 
 At Namco Tokyo, I found the <strong>'Encyclopedia of Creatures - Stag Beetle'</strong> series that kids love. It's scanned from real insects so it's realistically detailed. The wings open and all the legs move for 500 yen! Way cheaper than in Korea, so insect enthusiasts should definitely grab these.
@@ -197,7 +197,7 @@ At Namco Tokyo, I found the <strong>'Encyclopedia of Creatures - Stag Beetle'</s
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-19.jpg" alt="Detailed stag beetle figure from gashapon">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Namco Tokyo Encyclopedia of Creatures stag beetle gacha</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Namco Tokyo Encyclopedia of Creatures stag beetle gacha</figcaption>
 
 ---
 
@@ -222,7 +222,7 @@ Many blogs recommend this, but <strong>for gacha-only visits, it might be disapp
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-21.jpg" alt="Jujutsu Kaisen gashapon at Shinjuku Bic Camera">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Bic Camera Higashiguchi Store 6F - Gacha Corner</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Bic Camera Higashiguchi Store 6F - Gacha Corner</figcaption>
 
 ---
 
@@ -248,7 +248,7 @@ If you're looking for the official "Bandai" shop, head to Marui Department Store
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-23.jpg" alt="Latest Sanrio and Crayon Shin-chan gashapon at Gashapon Bandai">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Gashapon Bandai Official Shop - Store View & Latest Items</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Gashapon Bandai Official Shop - Store View & Latest Items</figcaption>
 
 Here I discovered Bandai's cosmetic brand <strong>'CreerBeaute'</strong> gacha! 💍 It's a ring you can wear on your finger, and when you open the lid, it works as <strong>lip balm + cheek tint + shadow</strong>. With popular characters like Kuromi and Cinnamoroll, and at 500 yen, it's perfect as <strong>gifts (omiyage)</strong>.
 
@@ -260,13 +260,13 @@ Here I discovered Bandai's cosmetic brand <strong>'CreerBeaute'</strong> gacha! 
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-25.jpg" alt="CreerBeaute cosmetic ring gashapon">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Gashapon Bandai cosmetic gacha</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Gashapon Bandai cosmetic gacha</figcaption>
 
 Have you seen <strong>'flat gacha'</strong>? 😲 Called <strong>flat gashapon</strong>, these come without capsules – A4 clear files or coasters come out directly! No capsule waste, and easy to slip into your bag, making them perfect souvenirs. Snoopy and Moomin coasters were so cute I couldn't resist getting them.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-26.jpg" alt="Gashapon Bandai flat gacha rubber coasters">
-  <figcaption style="font-size: 0.85em; text-align: center;">Gashapon Bandai flat gacha rubber coasters</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Gashapon Bandai flat gacha rubber coasters</figcaption>
 </figure>
 
 <strong>Harry Potter coasters</strong> are back in stock! Try your luck at Platform 9¾ pulls. Haikyuu fans shouldn't miss the great-value theatrical version jumbo sticker flat gacha either.
@@ -279,7 +279,7 @@ Have you seen <strong>'flat gacha'</strong>? 😲 Called <strong>flat gashapon</
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-28.jpg" alt="Haikyuu sticker gashapon at Gashapon Bandai">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Gashapon Bandai flat gacha Harry Potter rubber coasters and Haikyuu sticker gacha</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Gashapon Bandai flat gacha Harry Potter rubber coasters and Haikyuu sticker gacha</figcaption>
 
 ---
 
@@ -303,13 +303,13 @@ The hottest entertainment complex among young people recently. Clean and comfort
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-30.jpg" alt="Shinjuku ME TOKYO B1F gashapon shop">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Shinjuku ME TOKYO - Exterior & B1F Gashapon Shop</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shinjuku ME TOKYO - Exterior & B1F Gashapon Shop</figcaption>
 
 Here I discovered <strong>Hikaru no Go (Ghost Go King)</strong> manga book keyrings! 😭 Only 300 yen, with great cover quality and adorable tiny Go stones attached.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-31.jpg" alt="Hikaru no Go gashapon at ME Tokyo">
-  <figcaption style="font-size: 0.85em; text-align: center;">Hikaru no Go gashapon</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Hikaru no Go gashapon</figcaption>
 </figure>
 
 ---
@@ -334,7 +334,7 @@ If you're staying near Shinjuku's <strong>West Exit (Nishiguchi)</strong>, there
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-33.jpg" alt="Street gashapon location guide at Yodobashi Camera">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Yodobashi Camera west exit gashapon center entrance and street gashapon location map</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Yodobashi Camera west exit gashapon center entrance and street gashapon location map</figcaption>
 
 Attention Chiikawa fans! There's a great-value gacha with <strong>4 cute Chiikawa stickers</strong> for just 200 yen. They look adorable behind a transparent phone case, so I recommend getting lots for friends!
 
@@ -346,7 +346,7 @@ Attention Chiikawa fans! There's a great-value gacha with <strong>4 cute Chiikaw
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-35.jpg" alt="Haikyuu gashapon at Shinjuku Yodobashi Camera">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Yodobashi Camera - Chiikawa & Haikyuu Gacha</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Yodobashi Camera - Chiikawa & Haikyuu Gacha</figcaption>
 
 ---
 

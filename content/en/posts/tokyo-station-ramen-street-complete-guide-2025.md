@@ -27,7 +27,7 @@ The stars of this renewal are undoubtedly these two shops. <strong>Pay attention
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-02.jpg" alt="Hirakoya and Misokin locations">
-  <figcaption style="font-size: 0.85em; text-align: center;">Hirakoya (Shop 9) and Misokin (Shop 10) opened on August 7, 2025</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Hirakoya (Shop 9) and Misokin (Shop 10) opened on August 7, 2025</figcaption>
 </figure>
 
 ---
@@ -98,7 +98,7 @@ The most popular menu item is the 'Special' with all toppings.
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-03.jpg" alt="Misokin menu and prices">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Misokin Menu & Prices (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Misokin Menu & Prices (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
 </figure>
 
 <ul>
@@ -108,14 +108,14 @@ The most popular menu item is the 'Special' with all toppings.
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-04.jpg" alt="Special Misokin menu and prices">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Special Misokin Menu & Prices (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Special Misokin Menu & Prices (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
 </figure>
 
 <strong>🛍️ Misokin Cup Ramen Available at Seven-Eleven Nationwide</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-05.jpg" alt="Misokin cup ramen">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Misokin Cup Ramen (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Misokin Cup Ramen (<a href="https://misokin.jp/" target="_blank">Image Source</a>)</strong></figcaption>
 </figure>
 
 ---
@@ -142,7 +142,7 @@ If you hate reservation battles or want "restaurant-quality ramen," this is your
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-06.jpg" alt="Tokyo Station Ramen Street Hirakoya ramen">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Ramen Street Hirakoya Ramen (<a href="https://hirakoya.net/" target="_blank">Image Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Ramen Street Hirakoya Ramen (<a href="https://hirakoya.net/" target="_blank">Image Source</a>)</figcaption>
 </figure>
 
 ---
@@ -221,7 +221,7 @@ For menu photos and detailed tasting evaluations of established favorites like R
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-07.jpg" alt="Tokyo Station Ramen Street 10 shops selection guide">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Tokyo Station Ramen Street 10 Shops Selection Guide</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Tokyo Station Ramen Street 10 Shops Selection Guide</strong></figcaption>
 </figure>
 
 ---

@@ -17,7 +17,7 @@ featured_image: "/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg"
 
 <figure>
   <img src="/images/posts/shinanoya-roppongi-hills-supermarket-01.jpg" alt="六本木新城 信浓屋 外观">
-  <figcaption style="font-size: 0.85em; text-align: center;">六本木新城 超市 信浓屋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木新城 超市 信浓屋</figcaption>
 </figure>
 
 ## 1. 六本木新城 信浓屋 基本信息 🛒

@@ -19,7 +19,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg" alt="Tokyo January 1st onsen and 24-hour spa guide">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo January 1st Onsen & 24-Hour Spa BEST 7</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo January 1st Onsen & 24-Hour Spa BEST 7</figcaption>
 </figure>
 
 <p>​</p>
@@ -64,7 +64,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-02.jpg" alt="Shinjuku Thermae-Yu onsen">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Thermae-Yu Onsen (<a href="https://thermae-yu.jp/spa-sauna/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Thermae-Yu Onsen (<a href="https://thermae-yu.jp/spa-sauna/" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -127,7 +127,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-03.jpg" alt="Shinjuku Thermae-Yu relaxation room">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Thermae-Yu Relax Room (<a href="https://thermae-yu.jp/spa-sauna/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Thermae-Yu Relax Room (<a href="https://thermae-yu.jp/spa-sauna/" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
 <hr>
@@ -146,7 +146,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-04.jpg" alt="Asakusa ROX Matsuri-Yu outdoor bath">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Asakusa ROX Matsuri-Yu Outdoor Bath (<a href="https://www.matsuri-yu.com/facilities/public-bath/" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Asakusa ROX Matsuri-Yu Outdoor Bath (<a href="https://www.matsuri-yu.com/facilities/public-bath/" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -204,7 +204,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-05.jpg" alt="Asakusa ROX Matsuri-Yu relaxation room">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Asakusa ROX Matsuri-Yu Relax Room (<a href="https://www.matsuri-yu.com/facilities/public-bath/" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Asakusa ROX Matsuri-Yu Relax Room (<a href="https://www.matsuri-yu.com/facilities/public-bath/" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
 </figure>
 
 <hr>
@@ -223,7 +223,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-06.jpg" alt="Kanda Raku Spa 1010 onsen">
-  <figcaption style="font-size: 0.85em; text-align: center;">Kanda Raku Spa 1010 Onsen (<a href="https://rakuspa.com/kanda/facilities/spa/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Kanda Raku Spa 1010 Onsen (<a href="https://rakuspa.com/kanda/facilities/spa/" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -282,7 +282,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-07.jpg" alt="Kanda Raku Spa 1010 relaxation zone">
-  <figcaption style="font-size: 0.85em; text-align: center;">Kanda Raku Spa 1010 Relax Zone (<a href="https://rakuspa.com/kanda/facilities/spa/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Kanda Raku Spa 1010 Relax Zone (<a href="https://rakuspa.com/kanda/facilities/spa/" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
 <hr>
@@ -301,7 +301,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-08.jpg" alt="Toyosu Manyo Club rooftop foot bath view">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Toyosu Manyo Club Rooftop Foot Bath View (<a href="https://tokyo-toyosu.manyo.co.jp/languages/kr/#onsen" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Toyosu Manyo Club Rooftop Foot Bath View (<a href="https://tokyo-toyosu.manyo.co.jp/languages/kr/#onsen" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -367,7 +367,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
   <figure>
     <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-10.jpg" alt="Toyosu Manyo Club relaxation lounge 2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Toyosu Manyo Club Relax Lounge (<a href="https://tokyo-toyosu.manyo.co.jp/languages/kr/#onsen" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Toyosu Manyo Club Relax Lounge (<a href="https://tokyo-toyosu.manyo.co.jp/languages/kr/#onsen" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
 </div>
 
 <hr>
@@ -386,7 +386,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-11.jpg" alt="Tokyo Dome Spa LaQua Healing Baden interior">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Dome Spa LaQua</b> Healing Baden Interior (<a href="https://www.laqua.jp/spa/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Dome Spa LaQua</b> Healing Baden Interior (<a href="https://www.laqua.jp/spa/" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
 <p><b>♨️ Key Points</b></p>
@@ -453,7 +453,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
   <figure>
     <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-13.jpg" alt="Tokyo Dome Spa LaQua relaxation lounge 2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Dome Spa LaQua</b> Relax Lounge (<a href="https://www.laqua.jp/spa/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Dome Spa LaQua</b> Relax Lounge (<a href="https://www.laqua.jp/spa/" target="_blank">Photo Source</a>)</figcaption>
 </div>
 
 <hr>
@@ -472,7 +472,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-14.jpg" alt="Haneda Airport Onsen Izumi Tenku-no-Yu">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Haneda Airport Onsen Izumi Tenku-no-Yu (<a href="https://www.shopping-sumitomo-rd.com/ko/haneda/spa-izumi/onsenspa.html" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Haneda Airport Onsen Izumi Tenku-no-Yu (<a href="https://www.shopping-sumitomo-rd.com/ko/haneda/spa-izumi/onsenspa.html" target="_blank"><b>Photo Source</b></a>)</b></figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -529,7 +529,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-15.jpg" alt="Haneda Airport Izumi Tenku-no-Yu relaxation lounge">
-  <figcaption style="font-size: 0.85em; text-align: center;">Haneda Airport Izumi Tenku-no-Yu Relax Lounge (<a href="https://www.shopping-sumitomo-rd.com/ko/haneda/spa-izumi/onsenspa.html" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Haneda Airport Izumi Tenku-no-Yu Relax Lounge (<a href="https://www.shopping-sumitomo-rd.com/ko/haneda/spa-izumi/onsenspa.html" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
 <hr>
@@ -548,7 +548,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-16.jpg" alt="Ikebukuro Timezu Spa Resta rooftop garden bath">
-  <figcaption style="font-size: 0.85em; text-align: center;">Ikebukuro Timezu Spa Resta Rooftop Garden Bath (<a href="https://www.timesspa-resta.jp/spa/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro Timezu Spa Resta Rooftop Garden Bath (<a href="https://www.timesspa-resta.jp/spa/" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -609,7 +609,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
   <figure>
     <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-18.jpg" alt="Ikebukuro Timezu Spa Resta relaxation lounge 2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Ikebukuro Timezu Spa Resta Relax Lounge (<a href="https://www.timesspa-resta.jp/spa/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro Timezu Spa Resta Relax Lounge (<a href="https://www.timesspa-resta.jp/spa/" target="_blank">Photo Source</a>)</figcaption>
 </div>
 
 <hr>
@@ -635,7 +635,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-19.jpg" alt="Maihama Eurasia Spa renewal opening scheduled">
-  <figcaption style="font-size: 0.85em; text-align: center;">Maihama Eurasia Spa Renewal Opening Scheduled (<a href="https://www.ooedoonsen.jp/shinsaibashi/spa/" target="_blank">Photo Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Maihama Eurasia Spa Renewal Opening Scheduled (<a href="https://www.ooedoonsen.jp/shinsaibashi/spa/" target="_blank">Photo Source</a>)</figcaption>
 </figure>
 
 <hr>

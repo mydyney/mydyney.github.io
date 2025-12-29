@@ -335,7 +335,7 @@ featured_image: "/images/posts/shinjuku-guide-2025-01.jpg"
   <figure>
     <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="东京都厅 入口">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿免费展望台，东京都厅 外观与入口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿免费展望台，东京都厅 外观与入口</figcaption>
 </div>
 
 <strong>💡 12月的新宿全城都是灯光节！ (2025-2026)</strong>

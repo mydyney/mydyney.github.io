@@ -16,7 +16,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-01.jpg" alt="Tokyo Station Sawamura Weekday Lunch">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Sawamura Weekday Lunch - Unlimited Bread, Salad & Coffee</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Sawamura Weekday Lunch - Unlimited Bread, Salad & Coffee</figcaption>
 </figure>
 
 <strong>"Karuizawa's famous bakery queue has landed in Tokyo! 🥐</strong>
@@ -27,7 +27,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-02.jpg" alt="Sawamura Marunouchi Branch Sign">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura Marunouchi Branch Sign</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura Marunouchi Branch Sign</figcaption>
 </figure>
 
 ## Sawamura Business Info & Access
@@ -49,7 +49,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-03.jpg" alt="Shin-Marunouchi Building Exterior">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shin-Marunouchi Building in Front of Tokyo Station</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shin-Marunouchi Building in Front of Tokyo Station</figcaption>
 </figure>
 
 ## 🏙️ Tokyo Station View Restaurant, Shin-Marunouchi Building
@@ -58,7 +58,7 @@ Step out to the 7th floor terrace seating and Tokyo Station's red brick architec
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-04.jpg" alt="Sawamura Marunouchi Terrace Seating">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura Marunouchi Terrace Seating View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura Marunouchi Terrace Seating View</figcaption>
 </figure>
 
 Especially if you visit during winter evenings, don't miss the Marunouchi Illumination spreading outside the windows!
@@ -67,7 +67,7 @@ Especially if you visit during winter evenings, don't miss the Marunouchi Illumi
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-05.jpg" alt="Shin-Marunouchi Building Terrace Night View">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shin-Marunouchi Building Terrace Night View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shin-Marunouchi Building Terrace Night View</figcaption>
 </figure>
 
 ## 🥖 Sawamura Lunch Basic Set
@@ -81,12 +81,12 @@ The best value you can get with a 2,000 yen budget.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-06.jpg" alt="Sawamura Weekday Lunch Menu">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura Weekday Lunch Menu (<a href="https://b-sawamura.com/wp-content/uploads/2025/12/SW_Lunchweekday_251112.pdf" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura Weekday Lunch Menu (<a href="https://b-sawamura.com/wp-content/uploads/2025/12/SW_Lunchweekday_251112.pdf" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-07.jpg" alt="Sawamura Marunouchi Store Entrance">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura Marunouchi Store Entrance View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura Marunouchi Store Entrance View</figcaption>
 </figure>
 
 ## Sawamura Lunch Menu Review
@@ -100,7 +100,7 @@ The best value you can get with a 2,000 yen budget.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-08.jpg" alt="Glistening Spare Ribs Plating">
-  <figcaption style="font-size: 0.85em; text-align: center;">Glistening Spare Ribs Plating</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Glistening Spare Ribs Plating</figcaption>
 </figure>
 
 ### ② Crab and Avocado Cream Sauce Tagliatelle (2,288 yen)
@@ -112,7 +112,7 @@ The best value you can get with a 2,000 yen budget.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-09.jpg" alt="Thick Tagliatelle Pasta with Crab and Avocado Cream Sauce">
-  <figcaption style="font-size: 0.85em; text-align: center;">Thick Tagliatelle Pasta Topped with Crab and Avocado Cream Sauce</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Thick Tagliatelle Pasta Topped with Crab and Avocado Cream Sauce</figcaption>
 </figure>
 
 ## 🍞 Bread Lovers' Paradise: Unlimited Bread & Salad
@@ -121,21 +121,21 @@ The best value you can get with a 2,000 yen budget.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-10.jpg" alt="Sawamura Bread Basket">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura Bread Basket with Baguette, Campagne, and Ciabatta</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura Bread Basket with Baguette, Campagne, and Ciabatta</figcaption>
 </figure>
 
 <strong>Salad:</strong> Not just a token salad, but a fresh, voluminous salad with well-mixed dressing served like a course appetizer.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-11.jpg" alt="Salad Included in Sawamura Weekday Lunch Set">
-  <figcaption style="font-size: 0.85em; text-align: center;">Salad Included in Sawamura Weekday Lunch Set</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Salad Included in Sawamura Weekday Lunch Set</figcaption>
 </figure>
 
 <strong>Coffee/Tea:</strong> Choose whether to have it with your meal or after.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-12.jpg" alt="After-Meal Coffee Served at Sawamura">
-  <figcaption style="font-size: 0.85em; text-align: center;">After-Meal Coffee Served at Sawamura</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">After-Meal Coffee Served at Sawamura</figcaption>
 </figure>
 
 ## ⏳ Waiting & Visit Tips
@@ -148,7 +148,7 @@ The best value you can get with a 2,000 yen budget.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-13.jpg" alt="People Waiting in Line at Sawamura Marunouchi">
-  <figcaption style="font-size: 0.85em; text-align: center;">People Waiting in Line in Front of Sawamura Marunouchi Branch</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">People Waiting in Line in Front of Sawamura Marunouchi Branch</figcaption>
 </figure>
 
 <strong>💡 If the wait is too long?</strong>
@@ -159,7 +159,7 @@ The best value you can get with a 2,000 yen budget.
 
 <figure>
   <img src="/images/posts/tokyo-station-sawamura-lunch-14.jpg" alt="Sawamura Shinjuku NEWoMan Branch">
-  <figcaption style="font-size: 0.85em; text-align: center;">Sawamura Shinjuku NEWoMan Branch Opens at 7 AM</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sawamura Shinjuku NEWoMan Branch Opens at 7 AM</figcaption>
 </figure>
 
 ### 2. Toranomon Hills Branch (Meat/Business)

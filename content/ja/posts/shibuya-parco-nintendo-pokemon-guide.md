@@ -17,7 +17,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg" alt="渋谷パルコ6階 ニンテンドー ポケモン ジャンプショップ 完全ガイド">
-  <figcaption style="font-size: 0.85em; text-align: center;">渋谷パルコ6階完全ガイド：任天堂、ポケモン、ジャンプショップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">渋谷パルコ6階完全ガイド：任天堂、ポケモン、ジャンプショップ</figcaption>
 </figure>
 
 こんにちは！東京旅行の楽しさを記録するTokyo Mateです. ✈️
@@ -48,7 +48,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-02.jpg" alt="開店前の渋谷パルコ6階へ続くエスカレーター">
-  <figcaption style="font-size: 0.85em; text-align: center;">開店前の渋谷パルコ6階へ続くエスカレーター</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">開店前の渋谷パルコ6階へ続くエスカレーター</figcaption>
 </figure>
 
 ---
@@ -76,7 +76,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-03.jpg" alt="渋谷パルコ6階フロアマップ">
-  <figcaption style="font-size: 0.85em; text-align: center;">渋谷パルコ6階フロアマップ（<a href="https://shibuya.parco.jp/floor/detail/?f=6f" target="_blank">画像出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">渋谷パルコ6階フロアマップ（<a href="https://shibuya.parco.jp/floor/detail/?f=6f" target="_blank">画像出典</a>）</figcaption>
 </figure>
 
 ---
@@ -102,12 +102,12 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-04.jpg" alt="開店前のニンテンドートウキョウ整理券配布場所地図">
-  <figcaption style="font-size: 0.85em; text-align: center;">開店前のニンテンドートウキョウ整理券配布場所（<a href="https://www.nintendo.com/jp/officialstore/index.html" target="_blank">地図出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">開店前のニンテンドートウキョウ整理券配布場所（<a href="https://www.nintendo.com/jp/officialstore/index.html" target="_blank">地図出典</a>）</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-05.jpg" alt="開店後の整理券配布場所 - マリオ像前">
-  <figcaption style="font-size: 0.85em; text-align: center;">開店後の整理券配布場所 - マリオ像前</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">開店後の整理券配布場所 - マリオ像前</figcaption>
 </figure>
 
 ### <strong>✅ 売り切れ必至！人気グッズ BEST 5</strong>
@@ -182,7 +182,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-15.jpg" alt="ポケモンセンター渋谷フォトスポット ミュウツー">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>ポケモンセンター渋谷 フォトスポット ミュウツー</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>ポケモンセンター渋谷 フォトスポット ミュウツー</strong></figcaption>
 </figure>
 
 ### <strong>✅ 渋谷限定グッズ</strong>
@@ -221,7 +221,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-18.jpg" alt="ポケモンカード（TCG）購入のヒントと注意事項">
-  <figcaption style="font-size: 0.85em; text-align: center;">ポケモン<strong>カード購入のコツ＆注意点</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ポケモン<strong>カード購入のコツ＆注意点</strong></figcaption>
 </figure>
 
 ### <strong>✅ 誕生日特典</strong>
@@ -232,7 +232,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-19.jpg" alt="ポケモンセンター渋谷のピカチュウ">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>ポケモンセンター渋谷のピカチュウ</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>ポケモンセンター渋谷のピカチュウ</strong></figcaption>
 </figure>
 
 ---
@@ -279,7 +279,7 @@ A. いいえ. <strong>ポケモンセンターとカプコンストアは可能�
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-20.jpg" alt="ポケモンセンター整理券配布案内">
-  <figcaption style="font-size: 0.85em; text-align: center;">ポケモンセンター整理券配布案内</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ポケモンセンター整理券配布案内</figcaption>
 </figure>
 
 6階でのショッピングは終わりましたか？パルコにはニンテンドーだけでなく、Human Madeやコムデギャルソンなどのヒップなブランドや、行列のできるレストランもあります. フロアガイドと完全ショッピングガイドは以下の記事でチェックしてください！

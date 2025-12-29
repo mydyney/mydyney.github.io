@@ -19,7 +19,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg" alt="东京1月1日温泉和24小时水疗指南">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京1月1日温泉与24小时水疗BEST 7</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京1月1日温泉与24小时水疗BEST 7</figcaption>
 </figure>
 
 <p>​</p>
@@ -64,7 +64,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-02.jpg" alt="新宿Thermae-Yu温泉">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿Thermae-Yu温泉（<a href="https://thermae-yu.jp/spa-sauna/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿Thermae-Yu温泉（<a href="https://thermae-yu.jp/spa-sauna/" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -127,7 +127,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-03.jpg" alt="新宿Thermae-Yu休息室">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿Thermae-Yu休息室（<a href="https://thermae-yu.jp/spa-sauna/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿Thermae-Yu休息室（<a href="https://thermae-yu.jp/spa-sauna/" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 <hr>
@@ -146,7 +146,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-04.jpg" alt="浅草ROX祭之汤露天浴池">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>浅草ROX祭之汤露天浴池（<a href="https://www.matsuri-yu.com/facilities/public-bath/" target="_blank"><b>图片来源</b></a>）</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>浅草ROX祭之汤露天浴池（<a href="https://www.matsuri-yu.com/facilities/public-bath/" target="_blank"><b>图片来源</b></a>）</b></figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -204,7 +204,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-05.jpg" alt="浅草ROX祭之汤休息室">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>浅草ROX祭之汤休息室（<a href="https://www.matsuri-yu.com/facilities/public-bath/" target="_blank"><b>图片来源</b></a>）</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>浅草ROX祭之汤休息室（<a href="https://www.matsuri-yu.com/facilities/public-bath/" target="_blank"><b>图片来源</b></a>）</b></figcaption>
 </figure>
 
 <hr>
@@ -223,7 +223,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-06.jpg" alt="神田Raku Spa 1010温泉">
-  <figcaption style="font-size: 0.85em; text-align: center;">神田Raku Spa 1010温泉（<a href="https://rakuspa.com/kanda/facilities/spa/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">神田Raku Spa 1010温泉（<a href="https://rakuspa.com/kanda/facilities/spa/" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -282,7 +282,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-07.jpg" alt="神田Raku Spa 1010休息区">
-  <figcaption style="font-size: 0.85em; text-align: center;">神田Raku Spa 1010休息区（<a href="https://rakuspa.com/kanda/facilities/spa/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">神田Raku Spa 1010休息区（<a href="https://rakuspa.com/kanda/facilities/spa/" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 <hr>
@@ -301,7 +301,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-08.jpg" alt="丰洲万叶俱乐部屋顶足浴景观">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>丰洲万叶俱乐部屋顶足浴景观（<a href="https://tokyo-toyosu.manyo.co.jp/languages/kr/#onsen" target="_blank"><b>图片来源</b></a>）</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>丰洲万叶俱乐部屋顶足浴景观（<a href="https://tokyo-toyosu.manyo.co.jp/languages/kr/#onsen" target="_blank"><b>图片来源</b></a>）</b></figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -367,7 +367,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
   <figure>
     <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-10.jpg" alt="丰洲万叶俱乐部休息室2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>丰洲万叶俱乐部休息室（<a href="https://tokyo-toyosu.manyo.co.jp/languages/kr/#onsen" target="_blank"><b>图片来源</b></a>）</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>丰洲万叶俱乐部休息室（<a href="https://tokyo-toyosu.manyo.co.jp/languages/kr/#onsen" target="_blank"><b>图片来源</b></a>）</b></figcaption>
 </div>
 
 <hr>
@@ -386,7 +386,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-11.jpg" alt="东京巨蛋Spa LaQua Healing Baden内部">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>东京巨蛋Spa LaQua</b> Healing Baden内部（<a href="https://www.laqua.jp/spa/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>东京巨蛋Spa LaQua</b> Healing Baden内部（<a href="https://www.laqua.jp/spa/" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 <p><b>♨️ 重点</b></p>
@@ -453,7 +453,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
   <figure>
     <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-13.jpg" alt="东京巨蛋Spa LaQua休息室2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>东京巨蛋Spa LaQua</b>休息室（<a href="https://www.laqua.jp/spa/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>东京巨蛋Spa LaQua</b>休息室（<a href="https://www.laqua.jp/spa/" target="_blank">图片来源</a>）</figcaption>
 </div>
 
 <hr>
@@ -472,7 +472,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-14.jpg" alt="羽田机场温泉泉天空之汤">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>羽田机场温泉泉天空之汤（<a href="https://www.shopping-sumitomo-rd.com/ko/haneda/spa-izumi/onsenspa.html" target="_blank"><b>图片来源</b></a>）</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>羽田机场温泉泉天空之汤（<a href="https://www.shopping-sumitomo-rd.com/ko/haneda/spa-izumi/onsenspa.html" target="_blank"><b>图片来源</b></a>）</b></figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -529,7 +529,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-15.jpg" alt="羽田机场泉天空之汤休息室">
-  <figcaption style="font-size: 0.85em; text-align: center;">羽田机场泉天空之汤休息室（<a href="https://www.shopping-sumitomo-rd.com/ko/haneda/spa-izumi/onsenspa.html" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">羽田机场泉天空之汤休息室（<a href="https://www.shopping-sumitomo-rd.com/ko/haneda/spa-izumi/onsenspa.html" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 <hr>
@@ -548,7 +548,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-16.jpg" alt="池袋Times Spa Resta屋顶花园浴池">
-  <figcaption style="font-size: 0.85em; text-align: center;">池袋Times Spa Resta屋顶花园浴池（<a href="https://www.timesspa-resta.jp/spa/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋Times Spa Resta屋顶花园浴池（<a href="https://www.timesspa-resta.jp/spa/" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 <p><b>​</b></p>
@@ -609,7 +609,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
   <figure>
     <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-18.jpg" alt="池袋Times Spa Resta休息室2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">池袋Times Spa Resta休息室（<a href="https://www.timesspa-resta.jp/spa/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">池袋Times Spa Resta休息室（<a href="https://www.timesspa-resta.jp/spa/" target="_blank">图片来源</a>）</figcaption>
 </div>
 
 <hr>
@@ -635,7 +635,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-january-1-onsen-spa-24-hours-19.jpg" alt="舞滨尤拉西亚水疗翻新开业预定">
-  <figcaption style="font-size: 0.85em; text-align: center;">舞滨尤拉西亚水疗翻新开业预定（<a href="https://www.ooedoonsen.jp/shinsaibashi/spa/" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">舞滨尤拉西亚水疗翻新开业预定（<a href="https://www.ooedoonsen.jp/shinsaibashi/spa/" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 <hr>

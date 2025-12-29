@@ -19,7 +19,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg" alt="Tokyo Tower illuminated at night, symbol of Tokyo travel">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo 3-Day Itinerary | Tokyo Tower, the symbol of Tokyo travel</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo 3-Day Itinerary | Tokyo Tower, the symbol of Tokyo travel</figcaption>
 </figure>
 
 <p>Worried about fitting Disney into your Tokyo trip without messing up your schedule?</p>
@@ -86,7 +86,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-02.jpg" alt="View of Tokyo Skytree from airplane window">
-  <figcaption style="font-size: 0.85em; text-align: center;">Skytree and Tokyo visible from the plane</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Skytree and Tokyo visible from the plane</figcaption>
 </figure>
 
 ### 3:00 PM | 🛍️ Shibuya Scramble & PARCO
@@ -97,7 +97,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-03.jpg" alt="Shibuya Scramble Crossing with crowds of people">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Shibuya Scramble Crossing | Must-visit photo spot for Tokyo travelers</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Shibuya Scramble Crossing | Must-visit photo spot for Tokyo travelers</b></figcaption>
 </figure>
 
 ### 5:00 PM | 🌇 Shibuya Sky (Reservation Required!)
@@ -112,7 +112,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-04.jpg" alt="Panoramic view from Shibuya Sky observation deck at sunset">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Shibuya Sky Panorama View | Popular photo spot during sunset hours (<a href="https://www.klook.com/ko/activity/70672-shibuya-sky-tokyo/?spm=Activity.SearchSuggest_LIST&clickId=69004d863e" target="_blank">Image Source</a>)</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Shibuya Sky Panorama View | Popular photo spot during sunset hours (<a href="https://www.klook.com/ko/activity/70672-shibuya-sky-tokyo/?spm=Activity.SearchSuggest_LIST&clickId=69004d863e" target="_blank">Image Source</a>)</b></figcaption>
 </figure>
 
 ### 7:00 PM | 🍜 Dinner (Watch Out for Wait Times)
@@ -129,7 +129,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-05.jpg" alt="Shinjuku Omoide Yokocho alley with traditional izakaya">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Shinjuku Omoide Yokocho | Recommended dinner spot for Day 1 of Tokyo 3-day itinerary</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Shinjuku Omoide Yokocho | Recommended dinner spot for Day 1 of Tokyo 3-day itinerary</b></figcaption>
 </figure>
 
 ---
@@ -146,7 +146,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-06.jpg" alt="Busta Shinjuku bus terminal">
-  <figcaption style="font-size: 0.85em; text-align: center;">Busta Shinjuku Bus Terminal</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Busta Shinjuku Bus Terminal</figcaption>
 </figure>
 
 <ul>
@@ -160,7 +160,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-07.jpg" alt="Cinderella Castle at Tokyo Disneyland">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Disneyland Cinderella Castle</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Disneyland Cinderella Castle</figcaption>
 </figure>
 
 <p>The exit crowds after closing are massive. Book accommodations in convenient locations like Shinjuku or Tokyo Station to win the commute battle.</p>
@@ -196,7 +196,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-08.jpg" alt="Entrance to Tsukiji Market with traditional signage">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tsukiji Market Entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tsukiji Market Entrance</figcaption>
 </figure>
 
 ### 12:00 PM | 🛍️ Ginza Shopping & Lunch
@@ -211,7 +211,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-09.jpg" alt="Seiko House clock tower in Ginza">
-  <figcaption style="font-size: 0.85em; text-align: center;">Ginza Seiko House Clock Tower</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ginza Seiko House Clock Tower</figcaption>
 </figure>
 
 ### 6:00 PM | 🚉 Tokyo Station & Marunouchi Night Views
@@ -222,7 +222,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-10.jpg" alt="Tokyo Station Marunouchi Plaza night view with illuminated red brick building">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Marunouchi Plaza Night View</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Marunouchi Plaza Night View</figcaption>
 </figure>
 
 ---
@@ -241,7 +241,7 @@ Everything you need in one complete guide.</p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-11.jpg" alt="Shinjuku Gyoen garden with pond and greenery">
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Gyoen</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Gyoen</figcaption>
 </figure>
 
 ### 1:00 PM | ✈️ Airport Transfer
@@ -278,7 +278,7 @@ Everything you need in one complete guide.</p>
   <figure>
     <img src="/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-13.jpg" alt="Kaldi Coffee Farm popular souvenirs">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Travel Souvenir Shopping | Don Quijote & Kaldi Popular Items</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Travel Souvenir Shopping | Don Quijote & Kaldi Popular Items</b></figcaption>
 </div>
 
 ---

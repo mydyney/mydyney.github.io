@@ -23,7 +23,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-01.jpg" alt="从新宿出发 与孩子去的5大儿童乐园">
-  <figcaption style="font-size: 0.85em; text-align: center;">从新宿出发 与孩子去的5大儿童乐园</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">从新宿出发 与孩子去的5大儿童乐园</figcaption>
 </figure>
 
 ## 新宿是成人的街？
@@ -44,7 +44,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-02.jpg" alt="从新宿坐巴士可达的东京迪士尼乐园 灰姑娘城堡全景、家庭旅行人气路线">
-  <figcaption style="font-size: 0.85em; text-align: center;">从新宿坐巴士可达的东京迪士尼乐园 灰姑娘城堡全景、家庭旅行人气路线</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">从新宿坐巴士可达的东京迪士尼乐园 灰姑娘城堡全景、家庭旅行人气路线</figcaption>
 </figure>
 
 从新宿坐巴士约40分钟.
@@ -79,7 +79,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="三丽鸥彩虹乐园室内游行，Hello Kitty和美乐蒂角色">
-  <figcaption style="font-size: 0.85em; text-align: center;">三丽鸥彩虹乐园室内游行，Hello Kitty和美乐蒂角色 <a href="#" target="_blank">（出处）</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">三丽鸥彩虹乐园室内游行，Hello Kitty和美乐蒂角色 <a href="#" target="_blank">（出处）</a></figcaption>
 </figure>
 
 Hello Kitty、大耳狗、美乐蒂…
@@ -110,7 +110,7 @@ Hello Kitty、大耳狗、美乐蒂…
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-04.jpg" alt="富士急乐园内托马斯乐园全景">
-  <figcaption style="font-size: 0.85em; text-align: center;">富士急乐园内托马斯乐园全景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">富士急乐园内托马斯乐园全景</figcaption>
 </figure>
 
 对于火车迷、喜欢托马斯的孩子，一定要看一次的地方，就是富士急乐园里的托马斯乐园.
@@ -247,7 +247,7 @@ Hello Kitty、大耳狗、美乐蒂…
     <img src="/images/posts/shinjuku-kids-parks-guide-06.jpg" alt="大月站和富士急乐园站运行的托马斯乐园号">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">大月站和富士急乐园站运行的托马斯乐园号</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">大月站和富士急乐园站运行的托马斯乐园号</figcaption>
 
 <div class="image-group-2">
   <figure>
@@ -257,11 +257,11 @@ Hello Kitty、大耳狗、美乐蒂…
     <img src="/images/posts/shinjuku-kids-parks-guide-08.jpg" alt="大月站和富士急乐园站运行的富士山景观特快">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">大月站和富士急乐园站运行的富士山景观特快</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">大月站和富士急乐园站运行的富士山景观特快</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-09.jpg" alt="大月站和富士急乐园站运行的富士山特快">
-  <figcaption style="font-size: 0.85em; text-align: center;">大月站和富士急乐园站运行的富士山特快</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">大月站和富士急乐园站运行的富士山特快</figcaption>
 </figure>
 
 #### 🚌 方法3：Busta新宿 → 富士急乐园

@@ -16,7 +16,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-01.jpg" alt="东京站角色街 路线·营业时间·免税 完全攻略">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 路线·营业时间·免税 完全攻略</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站角色街 路线·营业时间·免税 完全攻略</figcaption>
 </figure>
 
 大家好！为您介绍东京旅行一切的东京Mate. 🗼
@@ -45,7 +45,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-02.jpg" alt="东京站角色街 蜡笔小新">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 蜡笔小新</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站角色街 蜡笔小新</figcaption>
 </figure>
 
 ---
@@ -64,7 +64,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-03.jpg" alt="JR东京站 八重洲地下中央口 检票口">
-  <figcaption style="font-size: 0.85em; text-align: center;">JR东京站 八重洲地下中央口 检票口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">JR东京站 八重洲地下中央口 检票口</figcaption>
 </figure>
 
 <strong>💡 东京Mate小贴士</strong>
@@ -79,7 +79,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-04.jpg" alt="东京站1楼 八重洲通道 指示牌">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站1楼 八重洲通道 指示牌</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站1楼 八重洲通道 指示牌</figcaption>
 </figure>
 
 ---
@@ -108,7 +108,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-05.jpg" alt="东京站地下1楼 橡子共和国（吉卜力商店）">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站地下1楼 橡子共和国（吉卜力商店）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站地下1楼 橡子共和国（吉卜力商店）</figcaption>
 </figure>
 
 ---
@@ -148,7 +148,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-06.jpg" alt="东京站吉伊卡哇乐园入口景象">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站吉伊卡哇乐园入口景象</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站吉伊卡哇乐园入口景象</figcaption>
 </figure>
 
 ---
@@ -180,7 +180,7 @@ translationKey: "tokyo-station-character-street-guide"
     <img src="/images/posts/tokyo-station-character-street-guide-08.jpg" alt="东京站卡比咖啡外带专门店 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">东京站卡比咖啡外带专门店</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">东京站卡比咖啡外带专门店</figcaption>
 
 ---
 
@@ -199,7 +199,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="东京站宝可梦商店">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>东京站宝可梦商店</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>东京站宝可梦商店</strong></figcaption>
 </figure>
 
 ---
@@ -229,7 +229,7 @@ translationKey: "tokyo-station-character-street-guide"
     <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="东京站角色街1楼 龙珠商店 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;"><strong>东京站角色街1楼 龙珠商店</strong></figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;"><strong>东京站角色街1楼 龙珠商店</strong></figcaption>
 
 ---
 
@@ -250,7 +250,7 @@ Hello Kitty、玉桂狗、酷洛米粉丝注意！三丽鸥店铺于<strong>2025
     <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="东京站角色街1楼 三丽鸥东京 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;"><strong>东京站角色街1楼 三丽鸥东京</strong></figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;"><strong>东京站角色街1楼 三丽鸥东京</strong></figcaption>
 
 ---
 
@@ -301,17 +301,17 @@ Hello Kitty、玉桂狗、酷洛米粉丝注意！三丽鸥店铺于<strong>2025
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="东京站角色街 Jump Shop">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 Jump Shop</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站角色街 Jump Shop</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="东京角色街 扭蛋">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京角色街 扭蛋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京角色街 扭蛋</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="东京站角色街 纪念品 米菲 东京站站长限定玩偶">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街 纪念品 米菲 东京站站长限定玩偶</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站角色街 纪念品 米菲 东京站站长限定玩偶</figcaption>
 </figure>
 
 ---
@@ -343,14 +343,14 @@ Hello Kitty、玉桂狗、酷洛米粉丝注意！三丽鸥店铺于<strong>2025
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="东京站角色街免税柜台位置（地图来源）">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街免税柜台位置（<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">地图来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站角色街免税柜台位置（<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">地图来源</a>）</figcaption>
 </figure>
 
 <strong>📍 免税适用店铺（宝可梦商店在店内单独办理免税退款）</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-18.jpg" alt="东京站角色街免税适用店铺">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站角色街免税适用店铺</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站角色街免税适用店铺</figcaption>
 </figure>
 
 <strong>🎁 找「能吃的礼物」而不是角色商品？</strong>

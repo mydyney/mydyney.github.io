@@ -20,7 +20,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-01.jpg" alt="東京地下鉄パス ガイド ヘッダー">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京地下鉄パス：引換・購入・使い方ガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京地下鉄パス：引換・購入・使い方ガイド</figcaption>
 </figure>
 
 <br>
@@ -75,7 +75,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-02.jpg" alt="東京地下鉄パス 24, 48, 72時間券">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京地下鉄パス 24, 48, 72時間券 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京地下鉄パス 24, 48, 72時間券 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
 </figure>
 
 <br>
@@ -103,7 +103,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-03.jpg" alt="QRコード引換対応の券売機">
-  <figcaption style="font-size: 0.85em; text-align: center;">QRコード引換対応の券売機</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">QRコード引換対応の券売機</figcaption>
 </figure>
 
 <br>
@@ -114,7 +114,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-04.jpg" alt="券売機のQRコードリーダーマーク">
-  <figcaption style="font-size: 0.85em; text-align: center;">QRコードロゴ付きの券売機 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">QRコードロゴ付きの券売機 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
 </figure>
 
 <br>
@@ -123,7 +123,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-05.jpg" alt="QRコード選択画面">
-  <figcaption style="font-size: 0.85em; text-align: center;">画面上のQRコードオプションを選択 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">画面上のQRコードオプションを選択 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
 </figure>
 
 <br>
@@ -132,7 +132,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-06.jpg" alt="QRコードをリーダーにかざす様子">
-  <figcaption style="font-size: 0.85em; text-align: center;">QRコードを読み取ってチケットを発行 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">QRコードを読み取ってチケットを発行 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
 </figure>
 
 <br>
@@ -157,7 +157,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-07.jpg" alt="東京地下鉄路線図">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京地下鉄パスが利用可能な路線（計13路線） (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">出典</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京地下鉄パスが利用可能な路線（計13路線） (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">出典</a>)</figcaption>
 </figure>
 
 <br>

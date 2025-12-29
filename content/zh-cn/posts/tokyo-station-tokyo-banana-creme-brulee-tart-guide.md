@@ -16,7 +16,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-01.jpg" alt="东京站 东京香蕉奶油布丁 购买地点·价格·免税 完全攻略">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站 东京香蕉奶油布丁 购买地点·价格·免税 完全攻略</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站 东京香蕉奶油布丁 购买地点·价格·免税 完全攻略</figcaption>
 </figure>
 
 ​
@@ -72,7 +72,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-02.jpg" alt="东京香蕉奶油布丁 包装">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京香蕉奶油布丁 包装（<a href="https://www.tokyobanana.jp/products/banana_brulee.html" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京香蕉奶油布丁 包装（<a href="https://www.tokyobanana.jp/products/banana_brulee.html" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 ---
@@ -142,7 +142,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
     <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-04.jpg" alt="东京站地下1层 Tokyo Banana's 东京香蕉 吉伊卡哇 东京香蕉">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">东京站地下1层 Tokyo Banana's 东京香蕉 吉伊卡哇 东京香蕉</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">东京站地下1层 Tokyo Banana's 东京香蕉 吉伊卡哇 东京香蕉</figcaption>
 
 ---
 
@@ -206,7 +206,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-05.jpg" alt="东京站 东京香蕉奶油布丁 销售店 PLUSTA Gift（八重洲北口）">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站 东京香蕉奶油布丁 销售店 PLUSTA Gift（八重洲北口）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站 东京香蕉奶油布丁 销售店 PLUSTA Gift（八重洲北口）</figcaption>
 </figure>
 
 ---
@@ -264,7 +264,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-06.jpg" alt="2025年12月18日购买的奶油布丁实际保质期是2026年2月6日">
-  <figcaption style="font-size: 0.85em; text-align: center;">2025年12月18日购买的奶油布丁实际保质期是2026年2月6日</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年12月18日购买的奶油布丁实际保质期是2026年2月6日</figcaption>
 </figure>
 
 ​
@@ -275,7 +275,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-07.jpg" alt="东京站 东京香蕉奶油布丁 销售店 PRECIOUS DELI（八重洲北口）">
-  <figcaption style="font-size: 0.85em; text-align: center;">东京站 东京香蕉奶油布丁 销售店 PRECIOUS DELI（八重洲北口）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">东京站 东京香蕉奶油布丁 销售店 PRECIOUS DELI（八重洲北口）</figcaption>
 </figure>
 
 ---

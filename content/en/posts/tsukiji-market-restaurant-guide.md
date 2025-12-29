@@ -21,7 +21,7 @@ all in one complete guide!</p>
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-01.jpg" alt="Tsukiji Market overview with fresh seafood displays">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Tsukiji Market - A paradise for fresh seafood and street food</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Tsukiji Market - A paradise for fresh seafood and street food</figcaption>
 </figure>
 
 ---
@@ -39,7 +39,7 @@ all in one complete guide!</p>
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-02.jpg" alt="Tsukiji Outer Market entrance gate with traditional signage">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Tokyo Tsukiji Market Outer Market entrance sign. Tsukiji Fish Market main gate.</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tokyo Tsukiji Market Outer Market entrance sign. Tsukiji Fish Market main gate.</b></figcaption>
 </figure>
 
 ---
@@ -71,7 +71,7 @@ all in one complete guide!</p>
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-03.jpg" alt="Crowded morning scene at Tsukiji Market">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Lively morning atmosphere at Tsukiji Market. Tokyo Tsukiji Market crowds.</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Lively morning atmosphere at Tsukiji Market. Tokyo Tsukiji Market crowds.</b></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ all in one complete guide!</p>
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-05.jpg" alt="Kitsune-ya restaurant exterior">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Tsukiji Market Kitsune-ya hormone-don. Tsukiji restaurant menu.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Tsukiji Market Kitsune-ya hormone-don. Tsukiji restaurant menu.</figcaption>
 </div>
 
 ### 2. <a href="https://maps.app.goo.gl/BcYposN96Zcbo8KcA" target="_blank"><b>Yamacho (山長)</b></a> - Tamagoyaki
@@ -113,7 +113,7 @@ all in one complete guide!</p>
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-07.jpg" alt="Yamacho storefront">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Tsukiji Market Yamacho tamagoyaki skewer. Tokyo street food must-try.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tsukiji Market Yamacho tamagoyaki skewer. Tokyo street food must-try.</figcaption>
 </div>
 
 ### 3. <a href="https://maps.app.goo.gl/WQHVAAQu5xeYD5FZ9" target="_blank"><b>Tsukiji Itadori (築地 虎杖)</b></a> - Kaisendon
@@ -126,7 +126,7 @@ all in one complete guide!</p>
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-08.jpg" alt="Fresh kaisendon at Tsukiji Itadori">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tsukiji Market Itadori Unitora. Tsukiji kaisendon, uni specialty restaurant.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tsukiji Market Itadori Unitora. Tsukiji kaisendon, uni specialty restaurant.</figcaption>
 </figure>
 
 ### 4. <a href="https://maps.app.goo.gl/XAMN4dxQgrFNmY946" target="_blank"><b>Tsukiji Sushidai Honkan (築地すし大 本館)</b></a> - Sushi
@@ -139,7 +139,7 @@ all in one complete guide!</p>
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-09.jpg" alt="Premium sushi at Tsukiji Sushidai">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tsukiji Sushidai Honkan sushi. Tsukiji Market sushi restaurant.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tsukiji Sushidai Honkan sushi. Tsukiji Market sushi restaurant.</figcaption>
 </figure>
 
 ### 5. <a href="https://maps.app.goo.gl/B99kDdEnTdZ515yq8" target="_blank"><b>Ramen Kakitokai (らぁ麺 牡蠣と貝)</b></a> - Oyster Ramen
@@ -152,7 +152,7 @@ all in one complete guide!</p>
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-10.jpg" alt="Oyster ramen at Kakitokai">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tsukiji Ramen Kakitokai oyster ramen. Tsukiji Market seafood ramen.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tsukiji Ramen Kakitokai oyster ramen. Tsukiji Market seafood ramen.</figcaption>
 </figure>
 
 ### 6. <a href="https://maps.app.goo.gl/2HzqrrB3xFKf74Fg9" target="_blank"><b>Onoya Seimiten</b></a> - Onigiri
@@ -169,7 +169,7 @@ all in one complete guide!</p>
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-11.jpg" alt="Fresh onigiri at Onoya Seimiten">
-  <figcaption style="font-size: 0.85em; text-align: center;"><b>Tsukiji Station restaurant Onoya Seimiten onigiri</b></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><b>Tsukiji Station restaurant Onoya Seimiten onigiri</b></figcaption>
 </figure>
 
 ---
@@ -184,7 +184,7 @@ all in one complete guide!</p>
 
 <figure>
   <img src="/images/posts/tsukiji-market-restaurant-guide-12.jpg" alt="Tsukiji Honganji Temple exterior">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tsukiji Honganji exterior. Unique temple near Tsukiji Market.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tsukiji Honganji exterior. Unique temple near Tsukiji Market.</figcaption>
 </figure>
 
 <div class="image-group-2">
@@ -194,7 +194,7 @@ all in one complete guide!</p>
   <figure>
     <img src="/images/posts/tsukiji-market-restaurant-guide-14.jpg" alt="18-dish breakfast number ticket">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Tsukiji Honganji Cafe Tsumugi. 18-dish breakfast number ticket. Tsukiji Market cafe.</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tsukiji Honganji Cafe Tsumugi. 18-dish breakfast number ticket. Tsukiji Market cafe.</figcaption>
 </div>
 
 ---

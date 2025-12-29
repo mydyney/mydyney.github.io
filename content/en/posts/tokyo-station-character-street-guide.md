@@ -16,7 +16,7 @@ We've compiled everything from how to get to Tokyo Station Character Street to b
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-01.jpg" alt="Tokyo Station Character Street Access Guide, Hours & Tax-Free Complete Guide">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Access Guide, Hours & Tax-Free Complete Guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Character Street Access Guide, Hours & Tax-Free Complete Guide</figcaption>
 </figure>
 
 Hello! This is Tokyo Mate, bringing you everything about Tokyo travel. 🗼
@@ -45,7 +45,7 @@ Today, we'll share <strong>directions from Yaesu Underground Central Exit that e
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-02.jpg" alt="Tokyo Station Character Street Crayon Shin-chan">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Crayon Shin-chan</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Character Street Crayon Shin-chan</figcaption>
 </figure>
 
 ---
@@ -64,7 +64,7 @@ When you arrive at Tokyo Station, there are dozens of exits and it's confusing, 
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-03.jpg" alt="JR Tokyo Station Yaesu Underground Central Exit ticket gate">
-  <figcaption style="font-size: 0.85em; text-align: center;">JR Tokyo Station Yaesu Underground Central Exit Ticket Gate</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">JR Tokyo Station Yaesu Underground Central Exit Ticket Gate</figcaption>
 </figure>
 
 <strong>💡 Tokyo Mate Tip</strong>
@@ -79,7 +79,7 @@ Right across from the Character Street entrance (facing the ticket gate) is <str
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-04.jpg" alt="Tokyo Station 1st floor Yaesu Passage information board">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station 1st Floor Yaesu Passage Information Board</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station 1st Floor Yaesu Passage Information Board</figcaption>
 </figure>
 
 ---
@@ -108,7 +108,7 @@ To visit these 3 stores, take the stairs from the basement to <strong>1st floor<
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-05.jpg" alt="Tokyo Station B1 floor Donguri Kyowakoku (Ghibli Shop)">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station B1 Floor Donguri Kyowakoku (Ghibli Shop)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station B1 Floor Donguri Kyowakoku (Ghibli Shop)</figcaption>
 </figure>
 
 ---
@@ -148,7 +148,7 @@ According to the official X (Twitter), to ease congestion, entry on December 19 
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-06.jpg" alt="Tokyo Station Chiikawa Land entrance">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Chiikawa Land Entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Chiikawa Land Entrance</figcaption>
 </figure>
 
 ---
@@ -180,7 +180,7 @@ The 'LivePocket' advance reservation system ended in September 2023. Now you can
     <img src="/images/posts/tokyo-station-character-street-guide-08.jpg" alt="Tokyo Station Kirby Cafe takeout specialty shop 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Kirby Cafe Takeout Specialty Shop</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Kirby Cafe Takeout Specialty Shop</figcaption>
 
 ---
 
@@ -199,7 +199,7 @@ The 'LivePocket' advance reservation system ended in September 2023. Now you can
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="Tokyo Station Pokemon Store">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Tokyo Station Pokemon Store</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Tokyo Station Pokemon Store</strong></figcaption>
 </figure>
 
 ---
@@ -229,7 +229,7 @@ The holy land that Dragon Ball fans worldwide have been waiting for! <strong>On 
     <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="Tokyo Station Character Street 1st floor Dragon Ball Store 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;"><strong>Tokyo Station Character Street 1st Floor Dragon Ball Store</strong></figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;"><strong>Tokyo Station Character Street 1st Floor Dragon Ball Store</strong></figcaption>
 
 ---
 
@@ -250,7 +250,7 @@ Attention Hello Kitty, Cinnamoroll, and Kuromi fans! The Sanrio store <strong>ex
     <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="Tokyo Station Character Street 1st floor Sanrio Tokyo 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;"><strong>Tokyo Station Character Street 1st Floor Sanrio Tokyo</strong></figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;"><strong>Tokyo Station Character Street 1st Floor Sanrio Tokyo</strong></figcaption>
 
 ---
 
@@ -301,17 +301,17 @@ Kamen Rider Store, Ultraman, PreCure, Snoopy, Sumikko Gurashi, mofusand, hololiv
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="Tokyo Station Character Street Jump Shop">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Jump Shop</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Character Street Jump Shop</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="Tokyo Character Street Gashapon">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Character Street Gashapon</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Character Street Gashapon</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="Tokyo Station Character Street souvenir Miffy Tokyo Station stationmaster limited doll">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Souvenir Miffy Tokyo Station Stationmaster Limited Doll</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Character Street Souvenir Miffy Tokyo Station Stationmaster Limited Doll</figcaption>
 </figure>
 
 ---
@@ -343,14 +343,14 @@ This is the most important information! Tax-free is not available at individual 
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="Tokyo Station Character Street tax-free counter location (map source)">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Tax-Free Counter Location (<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">Map Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Character Street Tax-Free Counter Location (<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">Map Source</a>)</figcaption>
 </figure>
 
 <strong>📍 Tax-Free Eligible Stores (Pokemon Store processes tax-free refunds independently at the store)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-18.jpg" alt="Tokyo Station Character Street tax-free eligible stores">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Character Street Tax-Free Eligible Stores</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Character Street Tax-Free Eligible Stores</figcaption>
 </figure>
 
 <strong>🎁 Looking for 'edible gifts' instead of character goods?</strong>

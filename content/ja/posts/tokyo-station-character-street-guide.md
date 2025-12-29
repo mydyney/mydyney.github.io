@@ -16,7 +16,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-01.jpg" alt="東京駅キャラクターストリート 行き方·営業時間·免税 完全ガイド">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート 行き方·営業時間·免税 完全ガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅キャラクターストリート 行き方·営業時間·免税 完全ガイド</figcaption>
 </figure>
 
 こんにちは！東京旅行のすべてをお伝えする東京メイトです. 🗼
@@ -45,7 +45,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-02.jpg" alt="東京駅キャラクターストリート クレヨンしんちゃん">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート クレヨンしんちゃん</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅キャラクターストリート クレヨンしんちゃん</figcaption>
 </figure>
 
 ---
@@ -64,7 +64,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-03.jpg" alt="JR東京駅 八重洲地下中央口 改札口">
-  <figcaption style="font-size: 0.85em; text-align: center;">JR東京駅 八重洲地下中央口 改札口</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">JR東京駅 八重洲地下中央口 改札口</figcaption>
 </figure>
 
 <strong>💡 東京メイトのヒント</strong>
@@ -79,7 +79,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-04.jpg" alt="東京駅1階 八重洲通路 案内板">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅1階 八重洲通路 案内板</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅1階 八重洲通路 案内板</figcaption>
 </figure>
 
 ---
@@ -108,7 +108,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-05.jpg" alt="東京駅地下1階 どんぐり共和国（ジブリショップ）">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅地下1階 どんぐり共和国（ジブリショップ）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅地下1階 どんぐり共和国（ジブリショップ）</figcaption>
 </figure>
 
 ---
@@ -148,7 +148,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-06.jpg" alt="東京駅ちいかわランド入口の様子">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅ちいかわランド入口の様子</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅ちいかわランド入口の様子</figcaption>
 </figure>
 
 ---
@@ -180,7 +180,7 @@ translationKey: "tokyo-station-character-street-guide"
     <img src="/images/posts/tokyo-station-character-street-guide-08.jpg" alt="東京駅カービィカフェ テイクアウト専門店 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">東京駅カービィカフェ テイクアウト専門店</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">東京駅カービィカフェ テイクアウト専門店</figcaption>
 
 ---
 
@@ -199,7 +199,7 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-09.jpg" alt="東京駅ポケモンストア">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>東京駅ポケモンストア</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>東京駅ポケモンストア</strong></figcaption>
 </figure>
 
 ---
@@ -229,7 +229,7 @@ translationKey: "tokyo-station-character-street-guide"
     <img src="/images/posts/tokyo-station-character-street-guide-11.jpg" alt="東京駅キャラクターストリート1階 ドラゴンボールストア 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;"><strong>東京駅キャラクターストリート1階 ドラゴンボールストア</strong></figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;"><strong>東京駅キャラクターストリート1階 ドラゴンボールストア</strong></figcaption>
 
 ---
 
@@ -250,7 +250,7 @@ translationKey: "tokyo-station-character-street-guide"
     <img src="/images/posts/tokyo-station-character-street-guide-13.jpg" alt="東京駅キャラクターストリート1階 サンリオ東京 2">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;"><strong>東京駅キャラクターストリート1階 サンリオ東京</strong></figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;"><strong>東京駅キャラクターストリート1階 サンリオ東京</strong></figcaption>
 
 ---
 
@@ -301,17 +301,17 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-14.jpg" alt="東京駅キャラクターストリート ジャンプショップ">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート ジャンプショップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅キャラクターストリート ジャンプショップ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-15.jpg" alt="東京キャラクターストリート ガチャ">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京キャラクターストリート ガチャ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京キャラクターストリート ガチャ</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-16.jpg" alt="東京駅キャラクターストリート お土産 ミッフィー 東京駅駅長限定人形">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート お土産 ミッフィー 東京駅駅長限定人形</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅キャラクターストリート お土産 ミッフィー 東京駅駅長限定人形</figcaption>
 </figure>
 
 ---
@@ -343,14 +343,14 @@ translationKey: "tokyo-station-character-street-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-17.jpg" alt="東京駅キャラクターストリート免税カウンター位置（地図出典）">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート免税カウンター位置（<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">地図出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅キャラクターストリート免税カウンター位置（<a href="https://wisebook-one.jp/html/tokyoeki-1bangai/4465/#1" target="_blank">地図出典</a>）</figcaption>
 </figure>
 
 <strong>📍 免税適用店舗（ポケモンストアは単独で店舗で免税還付）</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-character-street-guide-18.jpg" alt="東京駅キャラクターストリート免税適用可能店舗">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅キャラクターストリート免税適用可能店舗</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅キャラクターストリート免税適用可能店舗</figcaption>
 </figure>
 
 <strong>🎁 キャラクターグッズではなく「食べるお土産」をお探しですか？</strong>

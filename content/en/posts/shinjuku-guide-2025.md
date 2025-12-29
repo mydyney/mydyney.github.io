@@ -310,7 +310,7 @@ Shinjuku is a battlefield of restaurants. If you are worried about too many choi
   <figure>
     <img src="/images/posts/shinjuku-guide-2025-13.jpg" alt="Oiwake Dango 2">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Oiwake Dango Honpo - Shop & Dango</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Oiwake Dango Honpo - Shop & Dango</figcaption>
 </div>
 
 <hr class="se-hr">
@@ -335,7 +335,7 @@ The most recommended time is <strong>'1 hour before sunset'</strong>. Don't miss
   <figure>
     <img src="/images/posts/shinjuku-guide-2025-15.jpg" alt="Tokyo Metropolitan Government Building Entrance">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Shinjuku Free Observatory, Tokyo Metropolitan Government Building - Exterior & Entrance</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Shinjuku Free Observatory, Tokyo Metropolitan Government Building - Exterior & Entrance</figcaption>
 </div>
 
 <strong>💡 December Shinjuku Streets are a Light Festival! (2025-2026)</strong>

@@ -35,7 +35,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-01.jpg" alt="涩谷站行李寄存指南">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷站行李寄存全指南</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷站行李寄存全指南</figcaption>
 </figure>
 
 ### 📌 建议：先查空位，不跑冤枉路！
@@ -51,7 +51,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-02.jpg" alt="JR涩谷站3楼中央改札内储物柜">
-<figcaption style="font-size: 0.85em; text-align: center;">JR涩谷站3楼 中央改札 储物柜（站内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">来源</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">JR涩谷站3楼 中央改札 储物柜（站内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">来源</a>）</figcaption>
 </figure>
 
 <strong>2. JR 3楼 新南改札（站内）</strong>
@@ -59,7 +59,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-03.jpg" alt="JR涩谷站3楼新南改札内储物柜">
-<figcaption style="font-size: 0.85em; text-align: center;">JR涩谷站3楼 新南改札 储物柜（站内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">来源</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">JR涩谷站3楼 新南改札 储物柜（站内）（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">来源</a>）</figcaption>
 </figure>
 
 <strong>3. JR 1楼区域</strong>
@@ -67,7 +67,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-04.jpg" alt="JR涩谷站1楼储物柜位置图">
-<figcaption style="font-size: 0.85em; text-align: center;">JR涩谷站1楼 储物柜位置图（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">来源</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">JR涩谷站1楼 储物柜位置图（<a href="https://www.jreast.co.jp/ko/e/stations/e808.html" target="_blank">来源</a>）</figcaption>
 </figure>
 
 <br>
@@ -84,7 +84,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-05.jpg" alt="东京地铁涩谷站储物柜位置">
-<figcaption style="font-size: 0.85em; text-align: center;">东京地铁涩谷站 B1/B2 储物柜位置（<a href="https://www.tokyometro.jp/lang_kr/station/shibuya/index.html" target="_blank">来源</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">东京地铁涩谷站 B1/B2 储物柜位置（<a href="https://www.tokyometro.jp/lang_kr/station/shibuya/index.html" target="_blank">来源</a>）</figcaption>
 </figure>
 
 <strong>3️⃣ B7出口 / Scramble Square 地下1楼</strong>
@@ -125,7 +125,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-06.jpg" alt="涩谷Mark City 1楼储物柜位置图">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Mark City 1楼 储物柜位置图（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">来源</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Mark City 1楼 储物柜位置图（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">来源</a>）</figcaption>
 </figure>
 
 <strong>2. 2楼（改札内・改札外）</strong>
@@ -133,7 +133,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-07.jpg" alt="涩谷Mark City 2楼储物柜位置图">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Mark City 2楼 储物柜位置图（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">来源</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Mark City 2楼 储物柜位置图（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">来源</a>）</figcaption>
 </figure>
 
 <strong>3. 4楼・5楼</strong>
@@ -141,7 +141,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-08.jpg" alt="涩谷Mark City 4楼5楼储物柜位置图">
-<figcaption style="font-size: 0.85em; text-align: center;">涩谷Mark City 4楼/5楼 储物柜位置图（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">来源</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">涩谷Mark City 4楼/5楼 储物柜位置图（<a href="https://www.keiochika.co.jp/locker/service/shibuya.html" target="_blank">来源</a>）</figcaption>
 </figure>
 
 > [!TIP]
@@ -165,7 +165,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-09.jpg" alt="Wander Compass Location Map">
-<figcaption style="font-size: 0.85em; text-align: center;">Wander Compass 位置图（<a href="https://wandercompass.jp/#company" target="_blank">来源</a>）</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Wander Compass 位置图（<a href="https://wandercompass.jp/#company" target="_blank">来源</a>）</figcaption>
 </figure>
 
 ---
@@ -209,7 +209,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 
 <figure>
 <img src="/images/posts/shibuya-station-coin-locker-luggage-storage-guide-10.jpg" alt="使用ecbo cloak在Hikarie寄存">
-<figcaption style="font-size: 0.85em; text-align: center;">在Hikarie等地也可以使用ecbo cloak预约寄存</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">在Hikarie等地也可以使用ecbo cloak预约寄存</figcaption>
 </figure>
 
 ---

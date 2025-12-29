@@ -17,7 +17,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg" alt="涩谷PARCO 6楼 任天堂 宝可梦 JUMP SHOP 完全攻略">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷PARCO 6楼完全攻略：任天堂、宝可梦、JUMP SHOP</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">涩谷PARCO 6楼完全攻略：任天堂、宝可梦、JUMP SHOP</figcaption>
 </figure>
 
 大家好！我是记录东京旅行乐趣的Tokyo Mate. ✈️
@@ -48,7 +48,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-02.jpg" alt="开店前通往涩谷PARCO 6楼的扶梯">
-  <figcaption style="font-size: 0.85em; text-align: center;">开店前通往涩谷PARCO 6楼的扶梯</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">开店前通往涩谷PARCO 6楼的扶梯</figcaption>
 </figure>
 
 ---
@@ -76,7 +76,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-03.jpg" alt="涩谷PARCO 6楼楼层地图">
-  <figcaption style="font-size: 0.85em; text-align: center;">涩谷PARCO 6楼楼层地图（<a href="https://shibuya.parco.jp.c.aiv.hp.transer.com/floor/detail/?f=6f" target="_blank">图片来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">涩谷PARCO 6楼楼层地图（<a href="https://shibuya.parco.jp.c.aiv.hp.transer.com/floor/detail/?f=6f" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
 ---
@@ -102,12 +102,12 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-04.jpg" alt="开店前任天堂东京整理券发放地点地图">
-  <figcaption style="font-size: 0.85em; text-align: center;">开店前任天堂东京整理券发放地点（<a href="https://www.nintendo.com/jp/officialstore/index.html" target="_blank">地图来源</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">开店前任天堂东京整理券发放地点（<a href="https://www.nintendo.com/jp/officialstore/index.html" target="_blank">地图来源</a>）</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-05.jpg" alt="开店后整理券发放地点 - 马力欧雕像前">
-  <figcaption style="font-size: 0.85em; text-align: center;">开店后整理券发放地点 - 马力欧雕像前</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">开店后整理券发放地点 - 马力欧雕像前</figcaption>
 </figure>
 
 ### <strong>✅ 必买人气周边 TOP 5</strong>
@@ -182,7 +182,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-15.jpg" alt="宝可梦中心涩谷拍照点超梦">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>宝可梦中心涩谷 拍照点 超梦</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>宝可梦中心涩谷 拍照点 超梦</strong></figcaption>
 </figure>
 
 ### <strong>✅ 涩谷限定周边</strong>
@@ -221,7 +221,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-18.jpg" alt="宝可梦卡牌（PTCG）购买贴士与注意事项">
-  <figcaption style="font-size: 0.85em; text-align: center;">宝可梦<strong>卡牌购买贴士与注意事项</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">宝可梦<strong>卡牌购买贴士与注意事项</strong></figcaption>
 </figure>
 
 ### <strong>✅ 生日特典</strong>
@@ -232,7 +232,7 @@ images: ["/images/posts/shibuya-parco-nintendo-pokemon-guide-01.jpg"]
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-19.jpg" alt="宝可梦中心涩谷的皮卡丘">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>宝可梦中心涩谷的皮卡丘</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>宝可梦中心涩谷的皮卡丘</strong></figcaption>
 </figure>
 
 ---
@@ -279,7 +279,7 @@ A. 不可以. <strong>宝可梦中心和卡普空商店可以退税（⭕️）<
 
 <figure>
   <img src="/images/posts/shibuya-parco-nintendo-pokemon-guide-20.jpg" alt="宝可梦中心整理券发放指南">
-  <figcaption style="font-size: 0.85em; text-align: center;">宝可梦中心整理券发放指南</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">宝可梦中心整理券发放指南</figcaption>
 </figure>
 
 逛完6楼了吗？PARCO不仅有任天堂，还有Human Made、川久保玲等潮牌，以及需要排队的美食名店. 请查看下面的完整楼层指南和购物攻略！

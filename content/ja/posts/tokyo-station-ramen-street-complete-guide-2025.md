@@ -27,7 +27,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-02.jpg" alt="ひらこ屋とみそきんの位置">
-  <figcaption style="font-size: 0.85em; text-align: center;">2025年8月7日オープンのひらこ屋（9番店舗）、みそきん（10番店舗）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年8月7日オープンのひらこ屋（9番店舗）、みそきん（10番店舗）</figcaption>
 </figure>
 
 ---
@@ -98,7 +98,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-03.jpg" alt="みそきんメニューと価格">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>みそきんメニュー及び価格（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>みそきんメニュー及び価格（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
 </figure>
 
 <ul>
@@ -108,14 +108,14 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-04.jpg" alt="特製みそきんメニューと価格">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>特製みそきんメニュー及び価格（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>特製みそきんメニュー及び価格（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
 </figure>
 
 <strong>🛍️ 全国セブンイレブンで会えるみそきんカップラーメン</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-05.jpg" alt="みそきんカップラーメン">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>みそきんカップラーメン（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>みそきんカップラーメン（<a href="https://misokin.jp/" target="_blank">画像出典</a>）</strong></figcaption>
 </figure>
 
 ---
@@ -142,7 +142,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-06.jpg" alt="東京駅ラーメンストリート ひらこ屋ラーメン">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅ラーメンストリート ひらこ屋ラーメン（<a href="https://hirakoya.net/" target="_blank">画像出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅ラーメンストリート ひらこ屋ラーメン（<a href="https://hirakoya.net/" target="_blank">画像出典</a>）</figcaption>
 </figure>
 
 ---
@@ -221,7 +221,7 @@ images: ["/images/posts/tokyo-station-ramen-street-complete-guide-2025-01.jpg"]
 
 <figure>
   <img src="/images/posts/tokyo-station-ramen-street-complete-guide-2025-07.jpg" alt="東京駅ラーメンストリート10店舗選択ガイド">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>東京駅ラーメンストリート10店舗選択ガイド</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>東京駅ラーメンストリート10店舗選択ガイド</strong></figcaption>
 </figure>
 
 ---

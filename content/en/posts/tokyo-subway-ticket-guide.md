@@ -20,7 +20,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-01.jpg" alt="Tokyo Subway Ticket Guide Header">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Subway Ticket: Exchange, Purchase, and Usage Guide</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Subway Ticket: Exchange, Purchase, and Usage Guide</figcaption>
 </figure>
 
 <br>
@@ -75,7 +75,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-02.jpg" alt="Tokyo Subway Ticket 24, 48, 72 Hour Passes">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Subway Ticket 24, 48, 72-hour versions (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Subway Ticket 24, 48, 72-hour versions (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <br>
@@ -103,7 +103,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-03.jpg" alt="Ticket Vending Machine for QR Code Exchange">
-  <figcaption style="font-size: 0.85em; text-align: center;">Ticket vending machine capable of QR code exchange</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ticket vending machine capable of QR code exchange</figcaption>
 </figure>
 
 <br>
@@ -114,7 +114,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-04.jpg" alt="QR Code Reader Mark on Ticket Machine">
-  <figcaption style="font-size: 0.85em; text-align: center;">Ticket machine with the QR code logo (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ticket machine with the QR code logo (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <br>
@@ -123,7 +123,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-05.jpg" alt="Screen showing QR Code Selection">
-  <figcaption style="font-size: 0.85em; text-align: center;">Selecting the QR code option on the screen (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Selecting the QR code option on the screen (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <br>
@@ -132,7 +132,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-06.jpg" alt="Scanning QR Code at the Reader">
-  <figcaption style="font-size: 0.85em; text-align: center;">Scanning the QR code to issue the ticket (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Scanning the QR code to issue the ticket (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <br>
@@ -157,7 +157,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-07.jpg" alt="Tokyo Subway Route Map">
-  <figcaption style="font-size: 0.85em; text-align: center;">Lines covered by the Tokyo Subway Ticket (13 lines total) (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Lines covered by the Tokyo Subway Ticket (13 lines total) (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">Source</a>)</figcaption>
 </figure>
 
 <br>

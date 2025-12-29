@@ -14,7 +14,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-01.jpg" alt="新宿中央公園完全ガイド">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園完全ガイド｜スターバックスSHUKNOVA·遊び場·イルミネーション·都庁展望台コース</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公園完全ガイド｜スターバックスSHUKNOVA·遊び場·イルミネーション·都庁展望台コース</figcaption>
 </figure>
 
 ## 新宿中央公園を一目で！
@@ -23,7 +23,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-02.jpg" alt="新宿中央公園の紅葉">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園の紅葉</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公園の紅葉</figcaption>
 </figure>
 
 ---
@@ -75,7 +75,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-03.jpg" alt="新宿中央公園マップ">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園案内マップ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公園案内マップ</figcaption>
 </figure>
 
 ---
@@ -97,7 +97,7 @@ featured_image: "/images/posts/shinjuku-chuo-park-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-04.jpg" alt="新宿駅西口連絡通路">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿駅西口から都庁、新宿中央公園への連絡通路</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿駅西口から都庁、新宿中央公園への連絡通路</figcaption>
 </figure>
 
 ---
@@ -126,7 +126,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-05.jpg" alt="SHUKNOVA 1階スターバックス">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園SHUKNOVA 1階スターバックス</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公園SHUKNOVA 1階スターバックス</figcaption>
 </figure>
 
 ---
@@ -154,13 +154,13 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
   <figure><img src="/images/posts/shinjuku-chuo-park-07.jpg" alt="遊び場 2"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-08.jpg" alt="遊び場 3"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-09.jpg" alt="遊び場 4"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園のちびっこ広場（遊び場）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公園のちびっこ広場（遊び場）</figcaption>
 </div>
 
 <div class="image-group-2">
   <figure><img src="/images/posts/shinjuku-chuo-park-10.jpg" alt="遊び場ベンチ 1"></figure>
   <figure><img src="/images/posts/shinjuku-chuo-park-11.jpg" alt="遊び場ベンチ 2"></figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園 遊び場のベンチ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公園 遊び場のベンチ</figcaption>
 </div>
 
 ---
@@ -215,7 +215,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-14.jpg" alt="都庁展望台から見た富士山夜景">
-  <figcaption style="font-size: 0.85em; text-align: center;">都庁展望台から見た富士山夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">都庁展望台から見た富士山夜景</figcaption>
 </figure>
 
 ---
@@ -244,7 +244,7 @@ SHUKNOVAの1階左側には「武蔵野の森ダイナー」があります。
 
 <figure>
   <img src="/images/posts/shinjuku-chuo-park-15.jpg" alt="新宿中央公園夜景">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿中央公園夜景</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿中央公園夜景</figcaption>
 </figure>
 
 ---

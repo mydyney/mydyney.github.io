@@ -16,7 +16,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-01.jpg" alt="東京駅 東京ばな奈クリームブリュレ 売り場・価格・免税 完全ガイド">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅 東京ばな奈クリームブリュレ 売り場・価格・免税 完全ガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅 東京ばな奈クリームブリュレ 売り場・価格・免税 完全ガイド</figcaption>
 </figure>
 
 ​
@@ -72,7 +72,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-02.jpg" alt="東京ばな奈クリームブリュレ パッケージ">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京ばな奈クリームブリュレ パッケージ（<a href="https://www.tokyobanana.jp/products/banana_brulee.html" target="_blank">画像出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ばな奈クリームブリュレ パッケージ（<a href="https://www.tokyobanana.jp/products/banana_brulee.html" target="_blank">画像出典</a>）</figcaption>
 </figure>
 
 ---
@@ -142,7 +142,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
     <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-04.jpg" alt="東京駅地下1階 Tokyo Banana's 東京ばな奈 ちいかわ 東京ばな奈">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">東京駅地下1階 Tokyo Banana's 東京ばな奈 ちいかわ 東京ばな奈</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">東京駅地下1階 Tokyo Banana's 東京ばな奈 ちいかわ 東京ばな奈</figcaption>
 
 ---
 
@@ -206,7 +206,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-05.jpg" alt="東京駅 東京ばな奈クリームブリュレ 販売店 PLUSTA Gift（八重洲北口）">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅 東京ばな奈クリームブリュレ 販売店 PLUSTA Gift（八重洲北口）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅 東京ばな奈クリームブリュレ 販売店 PLUSTA Gift（八重洲北口）</figcaption>
 </figure>
 
 ---
@@ -264,7 +264,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-06.jpg" alt="2025年12月18日購入のクリームブリュレの実際の賞味期限は2026年2月6日">
-  <figcaption style="font-size: 0.85em; text-align: center;">2025年12月18日購入のクリームブリュレの実際の賞味期限は2026年2月6日</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年12月18日購入のクリームブリュレの実際の賞味期限は2026年2月6日</figcaption>
 </figure>
 
 ​
@@ -275,7 +275,7 @@ translationKey: "tokyo-station-tokyo-banana-creme-brulee-tart-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide-07.jpg" alt="東京駅 東京ばな奈クリームブリュレ 販売店 PRECIOUS DELI（八重洲北口）">
-  <figcaption style="font-size: 0.85em; text-align: center;">東京駅 東京ばな奈クリームブリュレ 販売店 PRECIOUS DELI（八重洲北口）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京駅 東京ばな奈クリームブリュレ 販売店 PRECIOUS DELI（八重洲北口）</figcaption>
 </figure>
 
 ---

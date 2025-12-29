@@ -19,7 +19,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-01.jpg" alt="新宿ガチャガチャショップおすすめBEST 7の場所とレアアイテム攻略ガイド">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿ガチャショップおすすめBEST 7 場所とレアアイテムガイド</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ガチャショップおすすめBEST 7 場所とレアアイテムガイド</figcaption>
 </figure>
 
 ---
@@ -72,7 +72,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-03.jpg" alt="新宿サブナード4番出口から会えるガチャガチャの森">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">ガチャガチャの森 新宿サブナード店 - 店舗ビュー</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">ガチャガチャの森 新宿サブナード店 - 店舗ビュー</figcaption>
 
 <div class="image-group-2">
   <figure>
@@ -82,7 +82,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-05.jpg" alt="呪術廻戦ガチャコレクション">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿ガチャガチャの森にあるハイキューガチャ、呪術廻戦ガチャ</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿ガチャガチャの森にあるハイキューガチャ、呪術廻戦ガチャ</figcaption>
 
 ### 新宿ガチャショップのバスベル・降車ベルはどこにある?
 
@@ -90,7 +90,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-06.jpg" alt="新宿ガチャガチャの森にある非常ボタンガチャ">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿ガチャガチャの森にある非常ボタンガチャ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿ガチャガチャの森にある非常ボタンガチャ</figcaption>
 </figure>
 
 やはりガチャの天国!😍 新宿ガチャショップの中でここだけで見た「<strong>サンリオ卓上時計</strong>」と「<strong>リラックマ(クマ)キーリング</strong>」の新商品も満タンでした。特にサンリオ時計は500円で机に置くと本当に可愛いので、見かけたら必ず回してください!
@@ -103,11 +103,11 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-08.jpg" alt="リラックマキーリングガチャコレクション">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">サンリオキャラクター段ボールウォッチガチャとリラックマキーリングガチャ</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">サンリオキャラクター段ボールウォッチガチャとリラックマキーリングガチャ</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-09.jpg" alt="実際の時間が表示されるクロミデジタル時計">
-  <figcaption style="font-size: 0.85em; text-align: center;">実際の時間が表示されるクロミデジタル時計</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">実際の時間が表示されるクロミデジタル時計</figcaption>
 </figure>
 
 ---
@@ -126,7 +126,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-10.jpg" alt="新宿C-plaガチャショップ入口と内部">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿C-plaガチャショップ入口と内部</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿C-plaガチャショップ入口と内部</figcaption>
 </figure>
 
 ### キャラクター別攻略:新宿ガチャショップ クレヨンしんちゃん・ハイキュー・ちいかわ
@@ -139,18 +139,18 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-12.jpg" alt="豊富な選択肢のハイキューキャラクターガチャマシン">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿C-pla多様な種類のハイキューガチャ</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿C-pla多様な種類のハイキューガチャ</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-13.jpg" alt="新宿C-plaクレヨンしんちゃんガチャ">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿C-plaクレヨンしんちゃんガチャ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿C-plaクレヨンしんちゃんガチャ</figcaption>
 </figure>
 
 つい手が伸びる<strong>「ミサイル発射ボタン」</strong>ガチャもあります!映画のように透明な蓋をパカッ!開けてボタンを押すと「ブー!ブー!」サイレン音と共に赤いライトが点灯します。
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-14.jpg" alt="新宿C-pla非常ボタンガチャ">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿C-pla非常ボタンガチャ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿C-pla非常ボタンガチャ</figcaption>
 </figure>
 
 ---
@@ -180,11 +180,11 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-16.jpg" alt="歌舞伎町タワー3階ガチャショップnamco東京">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿歌舞伎町タワー namco東京 - 店舗ビュー</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿歌舞伎町タワー namco東京 - 店舗ビュー</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-17.jpg" alt="Suica(Pasmo)で決済できるnamco東京スマートガシャポン">
-  <figcaption style="font-size: 0.85em; text-align: center;">Suica(Pasmo)で決済できるnamco東京スマートガシャポン</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Suica(Pasmo)で決済できるnamco東京スマートガシャポン</figcaption>
 </figure>
 
 ここではお子様に人気の<strong>「生物大図鑑 カブトムシ」</strong>シリーズを発見しました!実際の昆虫をスキャンして作られているので、気持ち悪いほどリアルです。羽も広げられるし足も全部動くのに500円!韓国よりずっと安いので、昆虫オタクなら必ず得してください.
@@ -197,7 +197,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-19.jpg" alt="ガチャから出た詳細なカブトムシフィギュア">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">namco東京 生物大図鑑カブトムシガチャ</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">namco東京 生物大図鑑カブトムシガチャ</figcaption>
 
 ---
 
@@ -222,7 +222,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-21.jpg" alt="新宿ビックカメラ呪術廻戦ガチャ">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿ビックカメラ東口店6階 - ガチャコーナー</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿ビックカメラ東口店6階 - ガチャコーナー</figcaption>
 
 ---
 
@@ -248,7 +248,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-23.jpg" alt="ガシャポン バンダイ新商品サンリオガチャとクレヨンしんちゃんガチャ">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">ガシャポン バンダイ オフィシャルショップ - 店舗ビュー & 最新アイテム</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">ガシャポン バンダイ オフィシャルショップ - 店舗ビュー & 最新アイテム</figcaption>
 
 ここでバンダイのコスメブランド<strong>「CreerBeaute(クレールボーテ)」</strong>ガチャを発見しました!💍 指輪のように手にはめられるのですが、蓋を開けると<strong>リップバーム+チークティント+シャドウ</strong>として使えるコスメが出てきます。最近人気のクロミとシナモロールもあり、500円なので<strong>お土産(おみやげ)</strong>として回すのにぴったりです.
 
@@ -260,13 +260,13 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-25.jpg" alt="CreerBeauteコスメリングガチャ">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">ガシャポン バンダイ コスメガチャ</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">ガシャポン バンダイ コスメガチャ</figcaption>
 
 <strong>「平らなガチャ」</strong>を見たことありますか?😲 <strong>フラットガシャポン</strong>と呼ばれるのですが、カプセルなしでA4クリアファイルやコースターがそのまま出てきます!カプセルを捨てる必要もなく、カバンにスッと入れられるのでお土産に最高です。スヌーピーとムーミンコースターがあまりにも可愛くて、思わず回してしまいました.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-26.jpg" alt="ガシャポン バンダイフラットガチャゴムコースター">
-  <figcaption style="font-size: 0.85em; text-align: center;">ガシャポン バンダイ フラットガチャ ゴムコースター</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ガシャポン バンダイ フラットガチャ ゴムコースター</figcaption>
 </figure>
 
 <strong>ハリーポッターコースター</strong>も再入荷しました!9と3/4番線プラットフォーム引きに挑戦してみてください。ハイキューファンならコスパ最高の劇場版ジャンボステッカーフラットガチャも必須です.
@@ -279,7 +279,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-28.jpg" alt="ガシャポン バンダイハイキューステッカーガチャ">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">ガシャポン バンダイ ハリーポッター ゴムコースター、ハイキューステッカーガチャ</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">ガシャポン バンダイ ハリーポッター ゴムコースター、ハイキューステッカーガチャ</figcaption>
 
 ---
 
@@ -303,13 +303,13 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-30.jpg" alt="新宿ME TOKYO地下1階ガチャショップ">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿ME TOKYO - 外観 & B1階ガチャショップ</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿ME TOKYO - 外観 & B1階ガチャショップ</figcaption>
 
 ここで<strong>ヒカルの碁(ゴーストバドゥク王)</strong>漫画本キーリングを発見しました!😭 たった300円で、表紙のクオリティも良く、横についている小さな碁石が本当に可愛いです.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-31.jpg" alt="ME TOKYOヒカルの碁ガチャ">
-  <figcaption style="font-size: 0.85em; text-align: center;">ヒカルの碁 ガチャ</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">ヒカルの碁 ガチャ</figcaption>
 </figure>
 
 ---
@@ -334,7 +334,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-33.jpg" alt="ヨドバシカメラ路上ガシャポン位置案内図">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿ヨドバシカメラ西口ガシャポン館入口と路上ガシャポン位置案内図</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿ヨドバシカメラ西口ガシャポン館入口と路上ガシャポン位置案内図</figcaption>
 
 ちいかわファンの方、注目!たった200円で<strong>可愛いちいかわステッカー4枚</strong>が出るコスパ最高ガチャがあります。透明なスマホケースの後ろに挟むと本当に可愛いので、友達へのお土産用にたくさん回すことをおすすめします!
 
@@ -346,7 +346,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-35.jpg" alt="新宿ヨドバシカメラハイキューガチャ">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿ヨドバシカメラ - ちいかわ & ハイキュー ガチャ</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿ヨドバシカメラ - ちいかわ & ハイキュー ガチャ</figcaption>
 
 ---
 

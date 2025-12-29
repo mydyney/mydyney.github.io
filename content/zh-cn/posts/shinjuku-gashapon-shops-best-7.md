@@ -19,7 +19,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-01.jpg" alt="新宿扭蛋店推荐BEST 7的位置和稀有物品攻略指南">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿扭蛋店推荐 BEST 7 位置和稀有物品指南</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿扭蛋店推荐 BEST 7 位置和稀有物品指南</figcaption>
 </figure>
 
 ---
@@ -72,7 +72,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-03.jpg" alt="新宿Subnade 4号出口就能找到的扭蛋森林">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">扭蛋森林 新宿Subnade店 - 店铺全景</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">扭蛋森林 新宿Subnade店 - 店铺全景</figcaption>
 
 <div class="image-group-2">
   <figure>
@@ -82,7 +82,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-05.jpg" alt="咒术回战扭蛋收藏">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿扭蛋森林里的排球少年扭蛋、咒术回战扭蛋</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿扭蛋森林里的排球少年扭蛋、咒术回战扭蛋</figcaption>
 
 ### 新宿扭蛋店的巴士铃・下车铃在哪里？
 
@@ -90,7 +90,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-06.jpg" alt="新宿扭蛋森林里的紧急按钮扭蛋">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿扭蛋森林里的紧急按钮扭蛋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿扭蛋森林里的紧急按钮扭蛋</figcaption>
 </figure>
 
 果然是扭蛋天堂！😍 只有这里才有的<strong>"三丽鸥桌面时钟"</strong>和<strong>"轻松熊钥匙扣"</strong>新品都满货。特别是三丽鸥时钟500日元，放桌上超可爱，看到必转！
@@ -103,11 +103,11 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-08.jpg" alt="轻松熊钥匙扣扭蛋收藏">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">三丽鸥角色纸板手表扭蛋和轻松熊钥匙扣扭蛋</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">三丽鸥角色纸板手表扭蛋和轻松熊钥匙扣扭蛋</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-09.jpg" alt="显示真实时间的酷洛米数字时钟">
-  <figcaption style="font-size: 0.85em; text-align: center;">显示真实时间的酷洛米数字时钟</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">显示真实时间的酷洛米数字时钟</figcaption>
 </figure>
 
 ---
@@ -126,7 +126,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-10.jpg" alt="新宿C-pla扭蛋店入口和内部">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿C-pla扭蛋店入口和内部</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿C-pla扭蛋店入口和内部</figcaption>
 </figure>
 
 ### 按角色攻略：新宿扭蛋店 蜡笔小新・排球少年・chiikawa
@@ -139,18 +139,18 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-12.jpg" alt="丰富选择的排球少年角色扭蛋机">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿C-pla多样的排球少年扭蛋</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿C-pla多样的排球少年扭蛋</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-13.jpg" alt="新宿C-pla蜡笔小新扭蛋">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿C-pla蜡笔小新扭蛋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿C-pla蜡笔小新扭蛋</figcaption>
 </figure>
 
 忍不住想按的<strong>"导弹发射按钮"</strong>扭蛋也有！像电影里一样打开透明盖子，按下按钮会"嗡！嗡！"警报声配合红灯闪烁.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-14.jpg" alt="新宿C-pla紧急按钮扭蛋">
-  <figcaption style="font-size: 0.85em; text-align: center;">新宿C-pla紧急按钮扭蛋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">新宿C-pla紧急按钮扭蛋</figcaption>
 </figure>
 
 ---
@@ -180,11 +180,11 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-16.jpg" alt="歌舞伎町塔3层扭蛋店namco东京">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿歌舞伎町塔 namco东京 - 店铺全景</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿歌舞伎町塔 namco东京 - 店铺全景</figcaption>
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-17.jpg" alt="Suica（Pasmo）可结算的namco东京智能扭蛋机">
-  <figcaption style="font-size: 0.85em; text-align: center;">Suica（Pasmo）可结算的namco东京智能扭蛋机</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Suica（Pasmo）可结算的namco东京智能扭蛋机</figcaption>
 </figure>
 
 这里发现了小朋友最爱的<strong>"生物大图鉴 独角仙"</strong>系列！扫描真实昆虫制作，逼真到有点吓人。翅膀能张开，腿也能全部活动，才500日元！比国内便宜超多，昆虫迷必入.
@@ -197,7 +197,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-19.jpg" alt="扭蛋出的精细独角仙手办">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">namco东京生物大图鉴独角仙扭蛋</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">namco东京生物大图鉴独角仙扭蛋</figcaption>
 
 ---
 
@@ -222,7 +222,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-21.jpg" alt="新宿BIC CAMERA咒术回战扭蛋">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿BIC CAMERA东口店6层 - 扭蛋区</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿BIC CAMERA东口店6层 - 扭蛋区</figcaption>
 
 ---
 
@@ -248,7 +248,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-23.jpg" alt="Gashapon万代新品三丽鸥扭蛋和蜡笔小新扭蛋">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Gashapon万代官方店 - 店铺全景 & 最新单品</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Gashapon万代官方店 - 店铺全景 & 最新单品</figcaption>
 
 这里发现了万代美妆品牌<strong>"CreerBeaute"</strong>扭蛋！💍 像戒指一样戴手上，打开盖子就是<strong>润唇膏+腮红+眼影</strong>三合一彩妆。最近人气的酷洛米和大耳狗都有，500日元当<strong>伴手礼</strong>超合适.
 
@@ -260,13 +260,13 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-25.jpg" alt="CreerBeaute美妆戒指扭蛋">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Gashapon万代美妆扭蛋</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Gashapon万代美妆扭蛋</figcaption>
 
 见过<strong>"扁平扭蛋"</strong>吗？😲 叫<strong>Flat Gashapon</strong>，没有胶囊，A4文件夹或杯垫直接出来！不用扔胶囊，放包里超方便，当伴手礼最好。史努比和姆明杯垫太可爱，忍不住转了.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-26.jpg" alt="Gashapon万代扁平扭蛋橡胶杯垫">
-  <figcaption style="font-size: 0.85em; text-align: center;">Gashapon万代扁平扭蛋橡胶杯垫</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Gashapon万代扁平扭蛋橡胶杯垫</figcaption>
 </figure>
 
 <strong>哈利波特杯垫</strong>也补货了！挑战抽到9¾站台。排球少年粉必入性价比最高的剧场版巨型贴纸扁平扭蛋.
@@ -279,7 +279,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-28.jpg" alt="Gashapon万代排球少年贴纸扭蛋">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Gashapon万代扁平扭蛋 哈利波特橡胶杯垫、排球少年贴纸扭蛋</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Gashapon万代扁平扭蛋 哈利波特橡胶杯垫、排球少年贴纸扭蛋</figcaption>
 
 ---
 
@@ -303,13 +303,13 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-30.jpg" alt="新宿ME TOKYO地下1层扭蛋店">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿ME TOKYO - 外观 & B1层扭蛋店</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿ME TOKYO - 外观 & B1层扭蛋店</figcaption>
 
 这里发现了<strong>棋魂（围棋少年王）</strong>漫画书钥匙扣！😭 只要300日元，封面质量好，旁边的小围棋子超可爱.
 
 <figure>
   <img src="/images/posts/shinjuku-gashapon-shops-best-7-31.jpg" alt="ME TOKYO棋魂扭蛋">
-  <figcaption style="font-size: 0.85em; text-align: center;">棋魂扭蛋</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">棋魂扭蛋</figcaption>
 </figure>
 
 ---
@@ -334,7 +334,7 @@ featured_image: "/images/posts/shinjuku-gashapon-shops-best-7-01.jpg"
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-33.jpg" alt="Yodobashi路边扭蛋机位置导览图">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿Yodobashi西口扭蛋馆入口和路边扭蛋机位置导览图</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿Yodobashi西口扭蛋馆入口和路边扭蛋机位置导览图</figcaption>
 
 chiikawa粉丝注意！只要200日元就能拿到<strong>超可爱chiikawa贴纸4张</strong>，性价比爆表。夹在透明手机壳里超可爱，推荐多转几个送朋友！
 
@@ -346,7 +346,7 @@ chiikawa粉丝注意！只要200日元就能拿到<strong>超可爱chiikawa贴�
     <img src="/images/posts/shinjuku-gashapon-shops-best-7-35.jpg" alt="新宿Yodobashi排球少年扭蛋">
   </figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">新宿Yodobashi - chiikawa & 排球少年 扭蛋</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">新宿Yodobashi - chiikawa & 排球少年 扭蛋</figcaption>
 
 ---
 

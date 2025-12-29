@@ -22,7 +22,7 @@ featured_image: "/images/posts/shibuya-human-made-offline-store-guide-01.jpg"
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-01.jpg" alt="渋谷HUMAN MADEパルコ リニューアルオープン">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷HUMAN MADEパルコ リニューアルオープン</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷HUMAN MADEパルコ リニューアルオープン</figcaption>
 </figure>
 
 ## 1. 入店待ちシステム（整理券・抽選）
@@ -61,7 +61,7 @@ HUMAN MADEは、<b>ドロップ日（新作発売日の土曜日）</b>やコラ
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-02.jpg" alt="渋谷HUMAN MADE PART 1 店舗ピックアップゾーン">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷HUMAN MADE PART 1 店舗ピックアップゾーン</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷HUMAN MADE PART 1 店舗ピックアップゾーン</figcaption>
 </figure>
 
 HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場合は、こちらの<b>PART 1</b>へお越しください。
@@ -72,7 +72,7 @@ HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-05.jpg" alt="渋谷HUMAN MADE PART 1 店舗外観">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷HUMAN MADE PART 1 店舗外観</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷HUMAN MADE PART 1 店舗外観</figcaption>
 </figure>
 
 ---
@@ -83,7 +83,7 @@ HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-03.jpg" alt="渋谷HUMAN MADE PART 2 入口">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷HUMAN MADE PART 2 入口</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷HUMAN MADE PART 2 入口</figcaption>
 </figure>
 
 新しくできたスペースで、<b>パルコ館内からは繋がっていません！</b> 必ず一度1階の外に出る必要があります。
@@ -94,7 +94,7 @@ HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-04.jpg" alt="渋谷HUMAN MADE PART 2 位置案内地図">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷HUMAN MADE PART 2 位置案内地図</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷HUMAN MADE PART 2 位置案内地図</figcaption>
 </figure>
 
 人気のキーリングや帽子などの小物はほとんどこちらに集まっているので、雑貨目当ての方は迷わず<b>PART 2</b>へ向かってください。
@@ -109,7 +109,7 @@ HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-06.jpg" alt="CURRY UP メニューボード">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP メニューボード</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">CURRY UP メニューボード</figcaption>
 </figure>
 
 *   <b>メニュー:</b> キーマカレー、バターチキンカレーなど
@@ -118,7 +118,7 @@ HUMAN MADEらしいグラフィックTシャツやアウターをお探しの場
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-07.jpg" alt="CURRY UP 店舗外観">
-<figcaption style="font-size: 0.85em; text-align: center;">CURRY UP 店舗外観</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">CURRY UP 店舗外観</figcaption>
 </figure>
 
 ショッピングでお腹が空いたら、こちらに立ち寄るのも最高のコースです！
@@ -135,7 +135,7 @@ HUMAN MADEでのお買い物の際に知っておくと便利なポイントで�
 
 <figure>
 <img src="/images/posts/shibuya-human-made-offline-store-guide-08.jpg" alt="渋谷HUMAN MADE PART 2 店舗外観">
-<figcaption style="font-size: 0.85em; text-align: center;">渋谷HUMAN MADE PART 2 店舗外観</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">渋谷HUMAN MADE PART 2 店舗外観</figcaption>
 </figure>
 
 ---

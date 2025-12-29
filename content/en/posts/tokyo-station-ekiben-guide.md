@@ -17,7 +17,7 @@ translationKey: "tokyo-station-ekiben-guide"
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-01.jpg" alt="Tokyo Station Ekiben Guide - Prices and Precautions">
-  <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station Ekiben Guide - Prices and Precautions</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Station Ekiben Guide - Prices and Precautions</figcaption>
 </figure>
 
 ​
@@ -65,12 +65,12 @@ They open from <strong>5:30 AM</strong>! There's no better place to solve your <
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-02.jpg" alt="Ekibenya Matsuri Overview">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Ekibenya Matsuri Overview</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Ekibenya Matsuri Overview</strong></figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-03.jpg" alt="JR Tokyo Station Inside Ticket Gates 1F Central Passage (between platforms 6-7)">
-  <figcaption style="font-size: 0.85em; text-align: center;"> <strong>JR Tokyo Station Inside Ticket Gates 1F Central Passage (between platforms 6-7)</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"> <strong>JR Tokyo Station Inside Ticket Gates 1F Central Passage (between platforms 6-7)</strong></figcaption>
 </figure>
 
 ---
@@ -95,7 +95,7 @@ From this overwhelming lineup that's bound to cause decision paralysis, we've <s
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-04.jpg" alt="Ekibenya Matsuri Charcoal-Grilled Style Gyutan Bento">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Ekibenya Matsuri Charcoal-Grilled Style Gyutan Bento</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Ekibenya Matsuri Charcoal-Grilled Style Gyutan Bento</strong></figcaption>
 </figure>
 
 <strong>​</strong>
@@ -110,7 +110,7 @@ From this overwhelming lineup that's bound to cause decision paralysis, we've <s
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-05.jpg" alt="Ekibenya Matsuri Chicken Bento">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Ekibenya Matsuri Chicken Bento</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Ekibenya Matsuri Chicken Bento</strong></figcaption>
 </figure>
 
 ​
@@ -125,7 +125,7 @@ From this overwhelming lineup that's bound to cause decision paralysis, we've <s
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-06.jpg" alt="Ekibenya Matsuri Salmon and Ikura Bento">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Ekibenya Matsuri Salmon and Ikura Bento</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Ekibenya Matsuri Salmon and Ikura Bento</strong></figcaption>
 </figure>
 
 ​
@@ -140,12 +140,12 @@ From this overwhelming lineup that's bound to cause decision paralysis, we've <s
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-07.jpg" alt="Ekibenya Matsuri Shinkansen E7 Bento">
-  <figcaption style="font-size: 0.85em; text-align: center;">Ekibenya Matsuri Shinkansen E7 Bento</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ekibenya Matsuri Shinkansen E7 Bento</figcaption>
 </figure>
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-08.jpg" alt="Ekibenya Matsuri Shinkansen E8 Bento">
-  <figcaption style="font-size: 0.85em; text-align: center;">Ekibenya Matsuri Shinkansen E8 Bento</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ekibenya Matsuri Shinkansen E8 Bento</figcaption>
 </figure>
 
 <strong>​</strong>
@@ -160,7 +160,7 @@ From this overwhelming lineup that's bound to cause decision paralysis, we've <s
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-09.jpg" alt="Ekibenya Matsuri San-gen-ton Tonkatsu Bento">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Ekibenya Matsuri San-gen-ton Tonkatsu Bento</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Ekibenya Matsuri San-gen-ton Tonkatsu Bento</strong></figcaption>
 </figure>
 
 ---
@@ -187,7 +187,7 @@ Besides the BEST 5, if you have a special purpose, we recommend these menus.
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-10.jpg" alt="Ekibenya Matsuri Tokyo Bento">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Ekibenya Matsuri Tokyo Bento</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Ekibenya Matsuri Tokyo Bento</strong></figcaption>
 </figure>
 
 <strong>​</strong>
@@ -216,7 +216,7 @@ Japanese ekiben are characterized by being cooked so the taste doesn't change ev
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-11.jpg" alt="Ekibenya Matsuri Self-Heating Bento Corner">
-  <figcaption style="font-size: 0.85em; text-align: center;">Ekibenya Matsuri Self-Heating Bento Corner</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Ekibenya Matsuri Self-Heating Bento Corner</figcaption>
 </figure>
 
 ---
@@ -247,7 +247,7 @@ Too crowded at Ekibenya Matsuri? There are alternatives.
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-12.jpg" alt="Tokyo Station B1F Gransta Tokyo Bento Corner">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Tokyo Station B1F Gransta Tokyo Bento Corner</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Tokyo Station B1F Gransta Tokyo Bento Corner</strong></figcaption>
 </figure>
 
 ---
@@ -279,7 +279,7 @@ Not boarding the Shinkansen but still want to experience ekiben vibes? We'll tel
 
 <figure>
   <img src="/images/posts/tokyo-station-ekiben-guide-13.jpg" alt="Daimaru Department Store Tokyo B1F Bento Corner">
-  <figcaption style="font-size: 0.85em; text-align: center;"><strong>Daimaru Department Store Tokyo B1F Bento Corner</strong></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;"><strong>Daimaru Department Store Tokyo B1F Bento Corner</strong></figcaption>
 </figure>
 
 ---
