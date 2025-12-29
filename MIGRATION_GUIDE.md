@@ -219,7 +219,8 @@ When encountering exceptionally long Naver posts (1,000+ lines of HTML), use a s
 ### Step 4: Claude Downloads Images
 
 ```bash
-python3 download_naver_images.py naver.md "[slug]"
+python3 download_naver_images.py "[slug]"
+# Downloads from: naver.md (automatically)
 # Downloads to: static/images/posts/[slug]-01.jpg, [slug]-02.jpg, ...
 # Auto-converts to JPG format
 ```
@@ -766,10 +767,10 @@ figure_pattern = re.compile(
 
 **Usage:**
 ```bash
-python3 download_naver_images.py <naver_html_file> <post-slug>
+python3 download_naver_images.py <post-slug>
 
 # Example:
-python3 download_naver_images.py naver.md japan-convenience-store-shopping-best-10
+python3 download_naver_images.py japan-convenience-store-shopping-best-10
 ```
 
 **Dependencies:**
@@ -912,7 +913,7 @@ None
 
 1. Download images using migration script:
    ```bash
-   python3 download_naver_images.py naver.md [slug]
+   python3 download_naver_images.py [slug]
    ```
 
 2. Commit and push images ([X] files)

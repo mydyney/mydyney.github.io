@@ -9,10 +9,10 @@
     4. JPG 형식으로 변환 및 최적화
 
 사용법:
-    python3 download_naver_images.py <HTML파일경로> <포스트슬러그>
+    python3 download_naver_images.py <포스트슬러그>
 
 예시:
-    python3 download_naver_images.py naver.md japan-convenience-store-shopping-best-10
+    python3 download_naver_images.py japan-convenience-store-shopping-best-10
 
 출력:
     - static/images/posts/{slug}-01.jpg (첫 번째 이미지)
@@ -141,17 +141,18 @@ def download_image(url, save_dir, post_slug, index):
 
 
 def main():
-    if len(sys.argv) < 3:
-        print("사용법: python3 download_naver_images.py <HTML파일> <포스트슬러그>")
-        print("예시: python3 download_naver_images.py naver.md japan-convenience-store-shopping-best-10")
+    if len(sys.argv) < 2:
+        print("사용법: python3 download_naver_images.py <포스트슬러그>")
+        print("예시: python3 download_naver_images.py japan-convenience-store-shopping-best-10")
         sys.exit(1)
 
-    html_file = sys.argv[1]
-    post_slug = sys.argv[2]
+    post_slug = sys.argv[1]
+    html_file = "naver.md"  # 항상 naver.md 파일에서 읽기
 
     # 1. HTML 파일 확인
     if not os.path.exists(html_file):
-        print(f"❌ HTML 파일을 찾을 수 없습니다: {html_file}")
+        print(f"❌ naver.md 파일을 찾을 수 없습니다.")
+        print(f"   현재 디렉토리에 naver.md 파일이 있는지 확인해주세요.")
         sys.exit(1)
 
     print(f"📖 읽기: {html_file}")

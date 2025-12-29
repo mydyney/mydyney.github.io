@@ -541,11 +541,11 @@ featured_image: "/images/posts/tokyo-guide-01.jpg"  # Social media preview
 **Image Migration from Naver Blog:**
 
 ```bash
-# Use the custom Python script
-python3 download_naver_images.py <HTML_FILE> <POST_SLUG>
+# Use the custom Python script (automatically reads from naver.md)
+python3 download_naver_images.py <POST_SLUG>
 
 # Example:
-python3 download_naver_images.py naver.md tokyo-restaurant-guide
+python3 download_naver_images.py tokyo-restaurant-guide
 ```
 
 See `README_IMAGE_DOWNLOAD.md` for detailed instructions.

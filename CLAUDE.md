@@ -264,7 +264,8 @@ User: "완료했습니다" or "Done"
 
 #### Step 4: Claude Downloads Images
 ```bash
-python3 download_naver_images.py naver.md "[slug]"
+python3 download_naver_images.py "[slug]"
+# Downloads from: naver.md (automatically)
 # Downloads to: static/images/posts/[slug]-01.jpg, [slug]-02.jpg, ...
 # Auto-converts to JPG format
 ```
@@ -599,7 +600,7 @@ git push -u origin <your-branch>
 1. User provides Naver blog URL
 2. User copies HTML to `naver.md`
 3. Claude analyzes and creates EN/JA/ZH-CN posts
-4. Download images: `python3 download_naver_images.py naver.md [slug]`
+4. Download images: `python3 download_naver_images.py [slug]`
 5. Test locally and get user approval
 6. Deploy to GitHub
 
@@ -823,7 +824,7 @@ git submodule update --init --recursive   # Init theme
 git push -u origin claude/branch-name     # Push to branch
 
 # Migration (Naver Blog) - See MIGRATION_GUIDE.md for details
-python3 download_naver_images.py naver.md post-slug
+python3 download_naver_images.py post-slug
 ```
 
 ### Key URLs
