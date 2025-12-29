@@ -25,8 +25,9 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 渋谷や新宿の華やかさとは違う、庶民的で活気あふれる東京の本当の顔に出会いたいなら、<strong>上野(上野)</strong>ほど良い場所はありません。成田空港からスカイライナーで一度に来られるので、旅行の最初または最後の日のコースとしても完璧です。
 
 <div class="image-group-2">
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="上野公園の緑豊かな木々" caption="上野公園の緑豊かな木々とアメ横市場の活気ある様子" >}}
+{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="上野公園の緑豊かな木々" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-03.jpg" alt="アメ横市場の賑やかな風景" >}}
+<figcaption style="font-size: 0.85em; text-align: center;">上野公園の緑豊かな木々とアメ横市場の活気ある様子</figcaption>
 </div>
 
 <h2>[コース1] 都会のオアシス、上野公園を楽しむ</h2>
@@ -47,10 +48,11 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 ➡️<strong> [東京上野国立西洋美術館モネ展、現代カード無料観覧レビュー](https://blog.naver.com/tokyomate/223669458145)</strong>
 
 <div class="image-group-4">
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="ル・コルビュジエが設計した国立西洋美術館" caption="ル・コルビュジエが設計した国立西洋美術館 - ピカソ、モネ、ロダンの展示作品" >}}
+{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="ル・コルビュジエが設計した国立西洋美術館" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-06.jpg" alt="ピカソ展示" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-07.jpg" alt="モネ展示" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-08.jpg" alt="ロダン彫刻" >}}
+<figcaption style="font-size: 0.85em; text-align: center;">ル・コルビュジエが設計した国立西洋美術館 - ピカソ、モネ、ロダンの展示作品</figcaption>
 </div>
 
 ### 🎄 ③コース(冬季限定): ロマンチックなクリスマスマーケット

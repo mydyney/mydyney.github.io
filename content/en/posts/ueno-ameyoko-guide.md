@@ -25,8 +25,9 @@ Tokyo's authentic face, Ueno & Ameyoko Market! This comprehensive guide covers e
 If you want to experience Tokyo's authentic, down-to-earth charm rather than the glamour of Shibuya or Shinjuku, there's no better place than <strong>Ueno (上野)</strong>. Easily accessible from Narita Airport via the Skyliner, it's perfect for the first or last day of your trip.
 
 <div class="image-group-2">
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="Ueno Park green trees" caption="Ueno Park's lush greenery and Ameyoko Market's vibrant atmosphere" >}}
+{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="Ueno Park green trees" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-03.jpg" alt="Ameyoko Market bustling scene" >}}
+<figcaption style="font-size: 0.85em; text-align: center;">Ueno Park's lush greenery and Ameyoko Market's vibrant atmosphere</figcaption>
 </div>
 
 <h2>[Course 1] Urban Oasis: Enjoying Ueno Park</h2>
@@ -47,10 +48,11 @@ Ueno Park is a "forest of museums." The <strong>National Museum of Western Art</
 ➡️<strong> [Ueno National Museum of Western Art Monet Exhibition, Hyundai Card Free Admission Review](https://blog.naver.com/tokyomate/223669458145)</strong>
 
 <div class="image-group-4">
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="National Museum of Western Art designed by Le Corbusier" caption="National Museum of Western Art designed by Le Corbusier - Exhibitions by Picasso, Monet, and Rodin" >}}
+{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="National Museum of Western Art designed by Le Corbusier" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-06.jpg" alt="Picasso exhibition" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-07.jpg" alt="Monet exhibition" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-08.jpg" alt="Rodin sculpture" >}}
+<figcaption style="font-size: 0.85em; text-align: center;">National Museum of Western Art designed by Le Corbusier - Exhibitions by Picasso, Monet, and Rodin</figcaption>
 </div>
 
 ### 🎄 ③ Course (Winter Only): Romantic Christmas Market

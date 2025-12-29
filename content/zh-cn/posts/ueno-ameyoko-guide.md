@@ -25,8 +25,9 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 如果您想体验与涩谷、新宿的繁华不同,充满平民气息和活力的东京真实面貌,没有比<strong>上野(上野)</strong>更好的地方了。从成田机场乘坐Skyliner可以直达,作为旅行第一天或最后一天的行程也非常完美。
 
 <div class="image-group-2">
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="上野公园绿树" caption="上野公园的绿树和阿美横丁市场的热闹景象" >}}
+{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="上野公园绿树" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-03.jpg" alt="阿美横丁市场繁华景象" >}}
+<figcaption style="font-size: 0.85em; text-align: center;">上野公园的绿树和阿美横丁市场的热闹景象</figcaption>
 </div>
 
 <h2>[路线1] 都市绿洲,享受上野公园</h2>
@@ -47,10 +48,11 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 ➡️<strong> [东京上野国立西洋美术馆莫奈展,现代卡免费参观体验](https://blog.naver.com/tokyomate/223669458145)</strong>
 
 <div class="image-group-4">
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="勒·柯布西耶设计的国立西洋美术馆" caption="勒·柯布西耶设计的国立西洋美术馆 - 毕加索、莫奈、罗丹的展览作品" >}}
+{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="勒·柯布西耶设计的国立西洋美术馆" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-06.jpg" alt="毕加索展览" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-07.jpg" alt="莫奈展览" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-08.jpg" alt="罗丹雕塑" >}}
+<figcaption style="font-size: 0.85em; text-align: center;">勒·柯布西耶设计的国立西洋美术馆 - 毕加索、莫奈、罗丹的展览作品</figcaption>
 </div>
 
 ### 🎄 ③路线(冬季限定): 浪漫圣诞市集
