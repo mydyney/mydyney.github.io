@@ -21,13 +21,6 @@ N'EXとの完全比較まで、この記事ですべてマスターしましょ�
   <img src="/images/posts/narita-airport-skyliner-guide-01.jpg" alt="京成スカイライナー予約、時刻表、料金完全ガイド">
 </figure>
 
-<b>⚠️ ちょっと待って！日本入国前の必須準備、Visit Japan Web登録はお済みですか?</b>
-
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223998533494
-     Hugo: /ja/posts/visit-japan-web-registration-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [詳しく見る] Visit Japan Web登録方法5分完成（同伴家族、QRコード最新版）</b></a>
-
 ## 🔍 スカイライナー vs 成田エクスプレス（私に合う列車は?）
 
 2つの列車は目的地と特徴が全く異なるため、宿泊施設の場所に合わせて列車を選ぶことが最も重要です。
