@@ -47,8 +47,7 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 
 上野公園は「美術館の森」です。モネの「睡蓮」が見られる<strong>国立西洋美術館</strong>、日本の国宝級遺物を所蔵する<strong>東京国立博物館</strong>など、世界レベルの美術館が集まっているので、興味のあるところを選んでゆっくり鑑賞してみてください。
 
-<strong>⭐ 国立西洋美術館の常設展示は現代カードで無料観覧が可能なので、訪問前に確認してみてください!</strong>  
-➡️<strong> [東京上野国立西洋美術館モネ展、現代カード無料観覧レビュー](https://blog.naver.com/tokyomate/223669458145)</strong>
+
 
 <div class="image-group-4">
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="ル・コルビュジエが設計した国立西洋美術館" >}}

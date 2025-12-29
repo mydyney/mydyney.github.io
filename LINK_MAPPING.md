@@ -124,6 +124,16 @@ When migrating a Naver blog post to Hugo:
 | 224037272726 | tsukiji-market-restaurant-guide | 2025-10-11 | ✅ |
 | 224026098490 | tokyo-subway-ticket-guide | 2025-09-29 | ✅ |
 
+---
+
+## Excluded from Migration (Do Not Process)
+
+The following posts are explicitly excluded from migration (e.g., outdated content, irrelevant links):
+
+| Naver ID | Description | Reason |
+|----------|-------------|--------|
+| 223669458145 | Ueno Museum Monet Exhibition | Outdated content/irrelevant to current project |
+
 
 ---
 

@@ -47,8 +47,7 @@ Japan's first zoo, famous for its adorable panda family, is popular with both ch
 
 Ueno Park is a "forest of museums." The <strong>National Museum of Western Art</strong>, where you can see Monet's "Water Lilies," and the <strong>Tokyo National Museum</strong>, which houses Japan's national treasures, are among the world-class museums gathered here. Choose one that interests you and enjoy a leisurely visit.
 
-<strong>⭐ The National Museum of Western Art's permanent exhibition offers free admission with a Hyundai Card, so check before visiting!</strong>  
-➡️<strong> [Ueno National Museum of Western Art Monet Exhibition, Hyundai Card Free Admission Review](https://blog.naver.com/tokyomate/223669458145)</strong>
+
 
 <div class="image-group-4">
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="National Museum of Western Art designed by Le Corbusier" >}}

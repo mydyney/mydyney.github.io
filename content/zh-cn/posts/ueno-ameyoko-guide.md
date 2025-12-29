@@ -47,8 +47,7 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 
 上野公园是"博物馆之森"。可以看到莫奈《睡莲》的<strong>国立西洋美术馆</strong>,收藏日本国宝级文物的<strong>东京国立博物馆</strong>等世界级博物馆汇聚于此,选择您感兴趣的地方悠闲参观吧。
 
-<strong>⭐ 国立西洋美术馆的常设展览可使用现代卡免费参观,请在参观前确认!</strong>  
-➡️<strong> [东京上野国立西洋美术馆莫奈展,现代卡免费参观体验](https://blog.naver.com/tokyomate/223669458145)</strong>
+
 
 <div class="image-group-4">
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-05.jpg" alt="勒·柯布西耶设计的国立西洋美术馆" >}}
