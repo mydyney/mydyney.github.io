@@ -1,14 +1,14 @@
 {{ define "main" }}
 <!-- Hero Section from _index.md content -->
 {{ if .Content }}
-<article class="cf ph3 ph5-l pv1 pv2-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param " text_color" |
+<article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param " text_color" |
   compare.Default "mid-gray" }}">
   {{ .Content }}
 </article>
 {{ end }}
 
 <!-- Blog Posts Grid -->
-<article class="pa1 pa2-ns nested-copy-line-height">
+<article class="pa0 nested-copy-line-height">
   <section class="blog-grid ph3 ph5-l">
     {{ range .Paginator.Pages }}
     {{ .Render "summary" }}
@@ -25,8 +25,8 @@
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
     gap: 32px;
-    margin-top: 1.5rem;
-    margin-bottom: 2rem;
+    margin-top: 0;
+    margin-bottom: 3rem;
   }
 
   @media (max-width: 768px) {
