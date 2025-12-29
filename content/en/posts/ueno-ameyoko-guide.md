@@ -27,7 +27,7 @@ If you want to experience Tokyo's authentic, down-to-earth charm rather than the
 <div class="image-group-2">
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="Ueno Park green trees" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-03.jpg" alt="Ameyoko Market bustling scene" >}}
-<figcaption style="font-size: 0.85em; text-align: center;">Ueno Park's lush greenery and Ameyoko Market's vibrant atmosphere</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">Ueno Park's lush greenery and Ameyoko Market's vibrant atmosphere</figcaption>
 </div>
 
 <h2>[Course 1] Urban Oasis: Enjoying Ueno Park</h2>
@@ -38,7 +38,10 @@ Exit Ueno Station through the Park Exit, and you'll immediately find yourself in
 
 Japan's first zoo, famous for its adorable panda family, is popular with both children and adults. It's quite spacious, so plan plenty of time for your visit.
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-04.jpg" alt="Ueno Zoo entrance Starbucks" caption="Starbucks at Ueno Zoo entrance" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-04.jpg" alt="Ueno Zoo entrance Starbucks">
+  <figcaption style="font-size: 0.7em; text-align: center;">Starbucks at Ueno Zoo entrance</figcaption>
+</figure>
 
 ### 🎨 ② Course: For Art Lovers - 'Museum Tour'
 
@@ -52,7 +55,7 @@ Ueno Park is a "forest of museums." The <strong>National Museum of Western Art</
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-06.jpg" alt="Picasso exhibition" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-07.jpg" alt="Monet exhibition" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-08.jpg" alt="Rodin sculpture" >}}
-<figcaption style="font-size: 0.85em; text-align: center;">National Museum of Western Art designed by Le Corbusier - Exhibitions by Picasso, Monet, and Rodin</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">National Museum of Western Art designed by Le Corbusier - Exhibitions by Picasso, Monet, and Rodin</figcaption>
 </div>
 
 ### 🎄 ③ Course (Winter Only): Romantic Christmas Market
@@ -62,7 +65,10 @@ If you're visiting Ueno between mid-November and December 25th, don't miss the U
 Free admission, and we recommend enjoying the park during the day and the market's glühwein in the evening!  
 <strong>➡️ [2025 Tokyo Ueno Christmas Market Period, Hours, Illumination, Free Admission, Directions Complete Guide](/posts/ueno-christmas-market-2025/)</strong>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-09.jpg" alt="Ueno Park Christmas Market entrance" caption="Ueno Park Christmas Market entrance" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-09.jpg" alt="Ueno Park Christmas Market entrance">
+  <figcaption style="font-size: 0.7em; text-align: center;">Ueno Park Christmas Market entrance</figcaption>
+</figure>
 
 <h2>[Course 2] Tokyo's Kitchen: Ameyoko Market Food & Eats</h2>
 
@@ -76,7 +82,10 @@ Cross the street from Ueno Park, and you'll enter the bustling, lively Ameyoko M
 
 It's also fun to browse the lively market atmosphere and check out drugstores selling cheap snacks and cosmetics.
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-10.jpg" alt="Ameyoko Market entrance" caption="Ameyoko Market entrance" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-10.jpg" alt="Ameyoko Market entrance">
+  <figcaption style="font-size: 0.7em; text-align: center;">Ameyoko Market entrance</figcaption>
+</figure>
 
 <h2>[Course 3] Ueno's Signature Restaurants</h2>
 
@@ -92,9 +101,15 @@ The ramen shop '<strong>[Kamotonegi (鴨to葱)](https://maps.app.goo.gl/mss5mccH
 <strong>⭐ Want to know more Tokyo ramen restaurants recommended by Kangnami?</strong>  
 <strong>➡️ [Tokyo Ramen Restaurant Complete Guide | YouTube Neighborhood Friend Kangnami's Treasure Box Ramen Shops](https://blog.naver.com/tokyomate/223914118735)</strong>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="Kamotonegi ramen with green onions and duck" caption="Kamotonegi ramen with beautifully arranged green onions and duck (grilled onion, green onion selection)" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="Kamotonegi ramen with green onions and duck">
+  <figcaption style="font-size: 0.7em; text-align: center;">Kamotonegi ramen with beautifully arranged green onions and duck (grilled onion, green onion selection)</figcaption>
+</figure>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-12.jpg" alt="Kamotonegi Kamo Confit Ramen" caption="Kamo Confit Ramen (white onion salad, green onion selection) - odorless and tender flavor" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-12.jpg" alt="Kamotonegi Kamo Confit Ramen">
+  <figcaption style="font-size: 0.7em; text-align: center;">Kamo Confit Ramen (white onion salad, green onion selection) - odorless and tender flavor</figcaption>
+</figure>
 
 <strong>✅ This place uses a ticket vending machine system where you buy your ticket first and then wait</strong>. Expect about 20-40 minutes of waiting during meal times.
 
@@ -113,13 +128,19 @@ The ramen shop '<strong>[Kamotonegi (鴨to葱)](https://maps.app.goo.gl/mss5mccH
 <strong>✅ How to make it even tastier!</strong>  
 Try adding a bit of the <strong>'yuzu kosho'</strong> on the table halfway through. The fragrant flavor adds depth to the taste.
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-16.jpg" alt="Kamotonegi yuzu kosho" caption="Kamotonegi yuzu kosho" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-16.jpg" alt="Kamotonegi yuzu kosho">
+  <figcaption style="font-size: 0.7em; text-align: center;">Kamotonegi yuzu kosho</figcaption>
+</figure>
 
 ### ② 🐷 Michelin Bib Gourmand Tonkatsu '[Tonpachitei](https://maps.app.goo.gl/ox3CcbHEVayNNRiS6)'
 
 A hidden tonkatsu gem in the back alleys near Ameyoko Market. Thick pork fried at low temperature keeps the juicy meat tender. Be prepared to wait in line at this popular spot.
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-17.jpg" alt="Michelin Bib Gourmand Tonpachitei" caption="Michelin Bib Gourmand Tonkatsu Tonpachitei ([Photo Source](https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tompachitei))" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-17.jpg" alt="Michelin Bib Gourmand Tonpachitei">
+  <figcaption style="font-size: 0.7em; text-align: center;">Michelin Bib Gourmand Tonkatsu Tonpachitei (<a href="https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tompachitei" target="_blank">Photo Source</a>)</figcaption>
+</figure>
 
 <h2>🎒 Travel Tips (Ueno Station Coin Lockers)</h2>
 

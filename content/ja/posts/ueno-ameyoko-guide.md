@@ -27,7 +27,7 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 <div class="image-group-2">
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="上野公園の緑豊かな木々" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-03.jpg" alt="アメ横市場の賑やかな風景" >}}
-<figcaption style="font-size: 0.85em; text-align: center;">上野公園の緑豊かな木々とアメ横市場の活気ある様子</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">上野公園の緑豊かな木々とアメ横市場の活気ある様子</figcaption>
 </div>
 
 <h2>[コース1] 都会のオアシス、上野公園を楽しむ</h2>
@@ -52,7 +52,7 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-06.jpg" alt="ピカソ展示" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-07.jpg" alt="モネ展示" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-08.jpg" alt="ロダン彫刻" >}}
-<figcaption style="font-size: 0.85em; text-align: center;">ル・コルビュジエが設計した国立西洋美術館 - ピカソ、モネ、ロダンの展示作品</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">ル・コルビュジエが設計した国立西洋美術館 - ピカソ、モネ、ロダンの展示作品</figcaption>
 </div>
 
 ### 🎄 ③コース(冬季限定): ロマンチックなクリスマスマーケット
@@ -62,7 +62,10 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 無料入場で、昼は公園を楽しみ、夕方にはマーケットのグリューワインを楽しむコースをお勧めします!  
 <strong>➡️ [2025東京上野クリスマスマーケット期間・時間・イルミネーション・無料入場・行き方総まとめ](/ja/posts/ueno-christmas-market-2025/)</strong>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-09.jpg" alt="上野公園クリスマスマーケット入口" caption="上野公園クリスマスマーケット入口" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-09.jpg" alt="上野公園クリスマスマーケット入口">
+  <figcaption style="font-size: 0.7em; text-align: center;">上野公園クリスマスマーケット入口</figcaption>
+</figure>
 
 <h2>[コース2] 東京の台所、アメ横市場グルメ&食べ歩き</h2>
 
@@ -76,7 +79,10 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 
 活気ある市場の雰囲気を感じながら、安いお菓子や化粧品を売るドラッグストアを見て回る楽しみもあります。
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-10.jpg" alt="アメ横市場入口" caption="アメ横市場入口" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-10.jpg" alt="アメ横市場入口">
+  <figcaption style="font-size: 0.7em; text-align: center;">アメ横市場入口</figcaption>
+</figure>
 
 <h2>[コース3] 上野代表グルメスポット探訪</h2>
 
@@ -119,7 +125,10 @@ YouTubeチャンネル「近所の友達カンナミ」で絶賛されたラー�
 
 アメ横市場近くの裏路地に隠れたとんかつの名店。厚い肉を低温で揚げて、しっとりとした肉汁が絶品です。行列に並ぶ覚悟で訪れるべき人気店です。
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-17.jpg" alt="ミシュランビブグルマンとんぱち亭" caption="ミシュランビブグルマンとんかつとんぱち亭([写真出典](https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tompachitei))" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-17.jpg" alt="ミシュランビブグルマンとんぱち亭">
+  <figcaption style="font-size: 0.7em; text-align: center;">ミシュランビブグルマンとんかつとんぱち亭(<a href="https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tompachitei" target="_blank">写真出典</a>)</figcaption>
+</figure>
 
 <h2>🎒 旅行者のためのお役立ち情報(上野駅コインロッカー)</h2>
 

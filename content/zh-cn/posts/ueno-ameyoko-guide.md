@@ -27,7 +27,7 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 <div class="image-group-2">
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-02.jpg" alt="上野公园绿树" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-03.jpg" alt="阿美横丁市场繁华景象" >}}
-<figcaption style="font-size: 0.85em; text-align: center;">上野公园的绿树和阿美横丁市场的热闹景象</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">上野公园的绿树和阿美横丁市场的热闹景象</figcaption>
 </div>
 
 <h2>[路线1] 都市绿洲,享受上野公园</h2>
@@ -38,7 +38,10 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 
 日本第一座动物园,可以见到可爱的熊猫家族,不仅深受儿童喜爱,成年人也非常喜欢。因为面积较大,建议预留充足的时间参观。
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-04.jpg" alt="上野动物园入口星巴克" caption="上野动物园入口的星巴克" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-04.jpg" alt="上野动物园入口星巴克">
+  <figcaption style="font-size: 0.7em; text-align: center;">上野动物园入口的星巴克</figcaption>
+</figure>
 
 ### 🎨 ②路线: 艺术爱好者——"博物馆巡游"
 
@@ -52,7 +55,7 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-06.jpg" alt="毕加索展览" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-07.jpg" alt="莫奈展览" >}}
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-08.jpg" alt="罗丹雕塑" >}}
-<figcaption style="font-size: 0.85em; text-align: center;">勒·柯布西耶设计的国立西洋美术馆 - 毕加索、莫奈、罗丹的展览作品</figcaption>
+<figcaption style="font-size: 0.7em; text-align: center;">勒·柯布西耶设计的国立西洋美术馆 - 毕加索、莫奈、罗丹的展览作品</figcaption>
 </div>
 
 ### 🎄 ③路线(冬季限定): 浪漫圣诞市集
@@ -62,7 +65,10 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 免费入场,推荐白天享受公园,傍晚品尝市集的热红酒!  
 <strong>➡️ [2025东京上野圣诞市集期间、时间、灯饰、免费入场、交通方式完全攻略](/zh-cn/posts/ueno-christmas-market-2025/)</strong>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-09.jpg" alt="上野公园圣诞市集入口" caption="上野公园圣诞市集入口" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-09.jpg" alt="上野公园圣诞市集入口">
+  <figcaption style="font-size: 0.7em; text-align: center;">上野公园圣诞市集入口</figcaption>
+</figure>
 
 <h2>[路线2] 东京的厨房,阿美横丁市场美食&小吃</h2>
 
@@ -76,7 +82,10 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 
 在热闹的市场氛围中,逛逛出售便宜零食和化妆品的药妆店也很有趣。
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-10.jpg" alt="阿美横丁市场入口" caption="阿美横丁市场入口" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-10.jpg" alt="阿美横丁市场入口">
+  <figcaption style="font-size: 0.7em; text-align: center;">阿美横丁市场入口</figcaption>
+</figure>
 
 <h2>[路线3] 上野代表性美食探访</h2>
 
@@ -92,9 +101,15 @@ YouTube频道"邻居朋友Kangnami"极力推荐的拉面店<strong>[鸭to葱(鴨
 <strong>⭐ 想了解更多Kangnami推荐的东京拉面店?</strong>  
 <strong>➡️ [东京拉面店完全攻略 | YouTube邻居朋友Kangnami的宝藏拉面店信息](https://blog.naver.com/tokyomate/223914118735)</strong>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="摆放精美的葱和鸭肉的鸭to葱拉面" caption="摆放精美的葱和鸭肉的鸭to葱拉面(烤葱、青葱选择)" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="摆放精美的葱和鸭肉的鸭to葱拉面">
+  <figcaption style="font-size: 0.7em; text-align: center;">摆放精美的葱和鸭肉的鸭to葱拉面(烤葱、青葱选择)</figcaption>
+</figure>
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-12.jpg" alt="鸭肉油封拉面" caption="鸭肉油封拉面(白葱拌菜、青葱选择) - 无腥味且口感柔嫩" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-12.jpg" alt="鸭肉油封拉面">
+  <figcaption style="font-size: 0.7em; text-align: center;">鸭肉油封拉面(白葱拌菜、青葱选择) - 无腥味且口感柔嫩</figcaption>
+</figure>
 
 <strong>✅ 这里采用先购买餐券再等候的系统</strong>,用餐时间通常需要等待20~40分钟左右。
 
@@ -113,13 +128,19 @@ YouTube频道"邻居朋友Kangnami"极力推荐的拉面店<strong>[鸭to葱(鴨
 <strong>✅ 让味道更美味的方法!</strong>  
 吃到一半时,可以加一点桌上的<strong>"柚子胡椒"</strong>。香气四溢的风味会让味道更加深厚。
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-16.jpg" alt="鸭to葱柚子胡椒" caption="鸭to葱柚子胡椒" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-16.jpg" alt="鸭to葱柚子胡椒">
+  <figcaption style="font-size: 0.7em; text-align: center;">鸭to葱柚子胡椒</figcaption>
+</figure>
 
 ### ② 🐷 米其林必比登炸猪排"[とんぱち亭](https://maps.app.goo.gl/ox3CcbHEVayNNRiS6)"
 
 隐藏在阿美横丁市场附近小巷中的炸猪排名店。厚实的肉用低温油炸,保持了多汁的口感,堪称绝品。这是一家需要做好排队准备才能光顾的人气店铺。
 
-{{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-17.jpg" alt="米其林必比登とんぱち亭" caption="米其林必比登炸猪排とんぱち亭([图片来源](https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tompachitei))" >}}
+<figure>
+  <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-17.jpg" alt="米其林必比登とんぱち亭">
+  <figcaption style="font-size: 0.7em; text-align: center;">米其林必比登炸猪排とんぱち亭(<a href="https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tompachitei" target="_blank">图片来源</a>)</figcaption>
+</figure>
 
 <h2>🎒 旅行者实用信息(上野站投币储物柜)</h2>
 
