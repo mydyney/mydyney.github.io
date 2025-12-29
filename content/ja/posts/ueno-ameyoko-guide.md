@@ -9,11 +9,13 @@ description: "上野公園とアメ横市場で本当の東京を発見!美術�
 featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 ---
 
+<div class="blog-container">
+
 東京のもう一つの顔、上野&アメ横市場!この記事一つで、活気あふれるアメ横市場の屋台グルメから<strong>上野公園</strong>のゆったりとした散歩、動物園まで。<strong>上野のすべての見どころ</strong>を制覇する完璧な半日コースをご提案します。
 
 ![上野・アメ横ガイド](/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg)
 
-## 🗺️ 上野&アメ横 半日おすすめコース
+<h2>🗺️ 上野&アメ横 半日おすすめコース</h2>
 
 <strong>[コース要約]</strong>  
 <strong>Step 1</strong>: 上野公園で癒される(動物園or美術館を選択)  
@@ -27,7 +29,7 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-03.jpg" alt="アメ横市場の賑やかな風景" >}}
 </div>
 
-## [コース1] 都会のオアシス、上野公園を楽しむ
+<h2>[コース1] 都会のオアシス、上野公園を楽しむ</h2>
 
 上野駅公園口を出ると、すぐに広大な緑地、上野公園が広がります。ここでは好みに応じて2つのコースを選べます。
 
@@ -56,11 +58,11 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 11月中旬から12月25日の間に上野を訪れるなら、上野公園クリスマスマーケットを絶対に見逃さないでください!公園中心の袴腰広場で開催されるこのマーケットは、巨大なサンタと華やかなイルミネーションが目を引く東京の冬のデートの必須コースです。
 
 無料入場で、昼は公園を楽しみ、夕方にはマーケットのグリューワインを楽しむコースをお勧めします!  
-<strong>➡️ [2025東京上野クリスマスマーケット期間・時間・イルミネーション・無料入場・行き方総まとめ](https://blog.naver.com/tokyomate/224084373557)</strong>
+<strong>➡️ [2025東京上野クリスマスマーケット期間・時間・イルミネーション・無料入場・行き方総まとめ](/ja/posts/ueno-christmas-market-2025/)</strong>
 
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-09.jpg" alt="上野公園クリスマスマーケット入口" caption="上野公園クリスマスマーケット入口" >}}
 
-## [コース2] 東京の台所、アメ横市場グルメ&食べ歩き
+<h2>[コース2] 東京の台所、アメ横市場グルメ&食べ歩き</h2>
 
 上野公園から出て横断歩道を渡ると、賑やかで活気あふれるアメ横市場(アメヤ横丁)が始まります。
 
@@ -74,7 +76,7 @@ featured_image: "/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-01.jpg"
 
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-10.jpg" alt="アメ横市場入口" caption="アメ横市場入口" >}}
 
-## [コース3] 上野代表グルメスポット探訪
+<h2>[コース3] 上野代表グルメスポット探訪</h2>
 
 ### ① 🦆 カンナミおすすめ!上野ラーメン店「鴨to葱」
 
@@ -117,16 +119,19 @@ YouTubeチャンネル「近所の友達カンナミ」で絶賛されたラー�
 
 {{< figure src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-17.jpg" alt="ミシュランビブグルマンとんぱち亭" caption="ミシュランビブグルマンとんかつとんぱち亭([写真出典](https://guide.michelin.com/jp/ja/tokyo-region/tokyo/restaurant/tompachitei))" >}}
 
-## 🎒 旅行者のためのお役立ち情報(上野駅コインロッカー)
+<h2>🎒 旅行者のためのお役立ち情報(上野駅コインロッカー)</h2>
 
 上野駅は交通の中心地だけあってコインロッカーが非常に多いです。重い荷物は預けて身軽に旅行を始めましょう!
 
-| **京成成田<br/>(計3か所)** | 【改札外】B1階タクシー乗降場方面通路3か所 |
-|---|---|
-| **JR上野駅<br/>(計13か所)** | 【改札外】地下通路内[地下1~3階]<br/>【改札外】1階中央改札外浅草口ロッカールーム[A~O](中央改札外)<br/>【改札外】中2階不忍改札外[忍45・J42忍・忍46](不忍改札外)<br/>【改札外】2階入谷通路[J69忍]<br/>【改札外】3階入谷改札前<br/>【改札外】3階パンダブリッジ入口<br/>【改札内】1階中央改札内[中央改札76]<br/>【改札内】1階中央改札内[中央改札74・75](17番線路横)<br/>【改札内】1階中央改札内[中央改札71~73]中央改札<br/>【改札内】中2階中央改札内[中1]<br/>【改札内】中2階不忍口連絡通路内[忍40・41番]<br/>【改札内】中2階不忍口連絡通路内[忍36・37番]<br/>【改札内】3階公園改札内[公1~9] |
-| **東京メトロ<br/>上野駅<br/>(計4か所)** | 【改札外】出口5b横<br/>【改札外】駅事務室前<br/>【改札外】昭和通り北改札前・階段上<br/>【改札内】JR上野駅方面改札内トイレ前 |
+<table class="schedule-table">
+<tbody>
+<tr><td><strong>京成成田<br/>(計3か所)</strong></td><td>【改札外】B1階タクシー乗降場方面通路3か所</td></tr>
+<tr><td><strong>JR上野駅<br/>(計13か所)</strong></td><td>【改札外】地下通路内[地下1~3階]<br/>【改札外】1階中央改札外浅草口ロッカールーム[A~O](中央改札外)<br/>【改札外】中2階不忍改札外[忍45・J42忍・忍46](不忍改札外)<br/>【改札外】2階入谷通路[J69忍]<br/>【改札外】3階入谷改札前<br/>【改札外】3階パンダブリッジ入口<br/>【改札内】1階中央改札内[中央改札76]<br/>【改札内】1階中央改札内[中央改札74・75](17番線路横)<br/>【改札内】1階中央改札内[中央改札71~73]中央改札<br/>【改札内】中2階中央改札内[中1]<br/>【改札内】中2階不忍口連絡通路内[忍40・41番]<br/>【改札内】中2階不忍口連絡通路内[忍36・37番]<br/>【改札内】3階公園改札内[公1~9]</td></tr>
+<tr><td><strong>東京メトロ<br/>上野駅<br/>(計4か所)</strong></td><td>【改札外】出口5b横<br/>【改札外】駅事務室前<br/>【改札外】昭和通り北改札前・階段上<br/>【改札内】JR上野駅方面改札内トイレ前</td></tr>
+</tbody>
+</table>
 
-## まとめ
+<h2>まとめ</h2>
 
 これまで都会のオアシス上野公園でのゆったりとした癒しと、人情味あふれるアメ横市場の活気あふれるエネルギーを一緒に感じてきました。
 
@@ -145,4 +150,6 @@ YouTubeチャンネル「近所の友達カンナミ」で絶賛されたラー�
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
     本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224028694874" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
   </p>
+</div>
+
 </div>
