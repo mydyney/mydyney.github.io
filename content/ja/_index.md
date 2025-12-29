@@ -8,10 +8,10 @@ translationKey: "homepage"
 <style>
 .hero-section {
   text-align: center;
-  padding: 4rem 2rem;
+  padding: 2.5rem 1.5rem;
   background: linear-gradient(135deg, rgba(102, 126, 234, 0.05) 0%, rgba(118, 75, 162, 0.05) 100%);
   border-radius: 20px;
-  margin-bottom: 4rem;
+  margin-bottom: 1rem;
 }
 
 .hero-title {
@@ -30,7 +30,7 @@ translationKey: "homepage"
   color: #4a5568;
   font-weight: 400;
   max-width: 700px;
-  margin: 0 auto 2.5rem;
+  margin: 0 auto 1.5rem;
   line-height: 1.7;
 }
 
@@ -39,7 +39,7 @@ translationKey: "homepage"
   justify-content: center;
   gap: 3rem;
   flex-wrap: wrap;
-  margin-top: 3rem;
+  margin-top: 1.5rem;
 }
 
 .feature-item {
