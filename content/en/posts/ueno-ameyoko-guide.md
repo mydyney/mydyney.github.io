@@ -98,7 +98,7 @@ The ramen shop '<strong>[Kamotonegi (鴨to葱)](https://maps.app.goo.gl/mss5mccH
 - Open 24 hours, cash only, expect to wait during meal times
 
 <strong>⭐ Want to know more Tokyo ramen restaurants recommended by Kangnami?</strong>  
-<strong>➡️ [Tokyo Ramen Restaurant Complete Guide | YouTube Neighborhood Friend Kangnami's Treasure Box Ramen Shops](https://blog.naver.com/tokyomate/223914118735)</strong>
+<strong>➡️ [Tokyo Ramen Restaurant Complete Guide | YouTube Neighborhood Friend Kangnami's Treasure Box Ramen Shops](/posts/tokyo-ramen-guide-kangnami/)</strong>
 
 <figure>
   <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="Kamotonegi ramen with green onions and duck">

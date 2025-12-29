@@ -148,6 +148,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223668826357 | yebisu-garden-place-illumination-christmas-market-2025 | 2024 Yebisu Garden Place Christmas Archive |
 | 223678791563 | yebisu-garden-place-illumination-christmas-market-2025 | How to Get to Yebisu Garden Place and Coin Locker Locations |
 | 223681272647 | evangelion-30th-roppongi-2025, roppongi-hills-hello-kitty-popup-2025 | How to Get to Roppongi Hills and Coin Locker Locations |
+| 223914118735 | ueno-ameyoko-guide | Tokyo Ramen Guide (Kangnami's Treasure Box) |
 | 223695518100 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Town Pokemon Center Detailed Review |
 | 223913830951 | toranomon-hills-complete-guide | Yakitori Omakase, Nonotori Gencho Review |
 | 223697732942 | tokyo-skytree-reservation-discount-guide | Tokyo Skytree Conveyor Belt Sushi Restaurant Triton (Queue Number Tips) |
@@ -441,6 +442,7 @@ declare -A MAPPINGS=(
   ["223687520605"]="roppongi-azabujuban-summer-festivals"
   ["223696568926"]="roppongi-hills-christmas-market-2025"
   ["223913424029"]="iruca-tokyo-roppongi-ramen-guide"
+  ["223914118735"]="tokyo-ramen-guide-kangnami"
   ["223957316412"]="tsurutontan-roppongi-udon-guide"
   ["223969429024"]="sarashina-horii-roppongi-soba"
   ["223985958480"]="imakatsu-roppongi-tonkatsu-guide"

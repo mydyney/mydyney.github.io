@@ -98,7 +98,7 @@ YouTube频道"邻居朋友Kangnami"极力推荐的拉面店<strong>[鸭to葱(鴨
 - 24小时营业,仅收现金,用餐时间需排队等候
 
 <strong>⭐ 想了解更多Kangnami推荐的东京拉面店?</strong>  
-<strong>➡️ [东京拉面店完全攻略 | YouTube邻居朋友Kangnami的宝藏拉面店信息](https://blog.naver.com/tokyomate/223914118735)</strong>
+<strong>➡️ [东京拉面店完全攻略 | YouTube邻居朋友Kangnami的宝藏拉面店信息](/zh-cn/posts/tokyo-ramen-guide-kangnami/)</strong>
 
 <figure>
   <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="摆放精美的葱和鸭肉的鸭to葱拉面">
