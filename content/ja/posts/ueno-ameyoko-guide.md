@@ -98,7 +98,10 @@ YouTubeチャンネル「近所の友達カンナミ」で絶賛されたラー�
 - 24時間営業、現金のみ、食事時間は待ち時間必須
 
 <strong>⭐ カンナミおすすめの他の東京ラーメン店が気になる方は?</strong>  
-<strong>➡️ [東京ラーメン店総まとめ | YouTubeご近所友達カンナミの宝箱ラーメン店情報](https://blog.naver.com/tokyomate/223914118735)</strong> <!-- TODO: ja/posts/tokyo-ramen-guide-kangnami -->
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/223914118735
+     Hugo: /ja/posts/tokyo-ramen-guide-kangnami/ -->
+<strong>➡️ <a href="#" style="color: #667eea;">東京ラーメン店総まとめ | YouTubeご近所友達カンナミの宝箱ラーメン店情報</a></strong>
 
 <figure>
   <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="ネギと鴨肉がきれいに盛られた鴨to葱ラーメン">
