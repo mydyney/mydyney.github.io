@@ -4,7 +4,7 @@
 
 <div class="sns-share-box">
     <div class="sns-share-title">
-        {{ if eq $lang "ja" }}記事をシェアする{{ else if eq $lang "zh-cn" }}分享文章{{ else }}Share this post{{ end }}
+        {{ if eq $lang "ja" }}記事をシェア하는{{ else if eq $lang "zh-cn" }}分享文章{{ else }}Share this post{{ end }}
     </div>
 
     <!-- X (Twitter) -->
@@ -46,20 +46,11 @@
         <span class="sns-icon-wrapper">
             <svg viewBox="0 0 24 24">
                 <path
-                    d="M24 10.304c0-5.369-5.383-9.738-12-9.738-6.616 0-12 4.369-12 9.738 0 4.814 4.269 8.846 10.036 9.608.391.084.922.258 1.057.59.121.303.079.778.039 1.083l-.171 1.027c-.052.303-.251 1.184 1.08 0 1.331-1.183 7.185-4.229 9.802-7.23 1.808-1.928 2.157-3.702 2.157-5.078zm-15.533 3.424h-1.64c-.321 0-.582-.261-.582-.582V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v2.622h1.058c.321 0 .582.261.582.582v.996c0 .321-.261.582-.582.582zm2.49 0h-.582c-.321 0-.582-.261-.582-.582V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v5.2c0 .321-.261.582-.582.582zm4.15 0h-.582c-.321 0-.582-.261-.582-.582V10.27l-2.071 3.238c-.061.096-.164.154-.275.154h-.232c-.111 0-.214-.058-.275-.154l-2.071-3.238v3.154c0 .321-.261.582-.582.582h-.582c-.321 0-.582-.261-.582-.582V8.528c0-.321.261-.582.582-.582h.232c.111 0 .214.058.275.154l2.203 3.442v-3.014c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v1.742l2.203-3.442c.061-.096.164-.154.275-.154h.232c.111 0 .214.058.275.154l2.071 3.238V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v5.2c0 .321-.261.582-.582.582zm4.15-1.162h-1.058V11.23h1.058c.321 0 .582-.261.582-.582v-.996c0-.321-.261-.582-.582-.582h-1.058V8.528c0-.321-.261-.582-.582-.582h-1.64c-.321 0-.582.261-.582.582v5.2c0 .321.261.582.582.582h2.222c.321 0 .582-.261.582-.582v-.996c0-.321-.261-.582-.582-.582z" />
+                    d="M24 10.304c0-5.369-5.383-9.738-12-9.738-6.616 0-12 4.369-12 9.738 0 4.814 4.269 8.846 10.036 9.608.391.084.922.258 1.057.59.121.303.079.778.039 1.083l-.171 1.027c-.052.303-.251 1.184 1.08 0 1.331-1.183 7.185-4.229 9.802-7.23 1.808-1.928 2.157-3.702 2.157-5.078zm-15.533 3.424h-1.64c-.321 0-.582-.261-.582-.582V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v2.622h1.058c.321 0 .582.261.582.582v.996c0 .321-.261.582-.582.582zm2.49 0h-.582c-.321 0-.582-.261-.582-.582V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v5.2c0 .321-.261.582-.582.582zm4.15 0h-.582c-.321 0-.582-.261-.582-.582V10.27l-2.071 3.238c-.061.096-.164.154-.275.154h-.232c-.111 0-.214-.058-.275-.154l-2.071-3.238v3.154c0 .321-.261.582-.582.582h-.582c-.321 0-.582-.261-.582-.582V8.528c0-.321-.261-.582.582-.582h.232c.111 0 .214.058.275.154l2.203 3.442v-3.014c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v1.742l2.203-3.442c.061-.096.164-.154.275-.154h.232c.111 0 .214.058.275.154l2.071 3.238V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v5.2c0 .321-.261.582-.582.582zm4.15-1.162h-1.058V11.23h1.058c.321 0 .582-.261.582-.582v-.996c0-.321-.261-.582-.582-.582h-1.058V8.528c0-.321-.261-.582-.582-.582h-1.64c-.321 0-.582.261-.582.582v5.2c0 .321.261.582.582.582h2.222c.321 0 .582-.261.582-.582v-.996c0-.321-.261-.582-.582-.582z" />
             </svg>
         </span>
     </a>
 
-    {{ if eq $lang "ja" }}
-    <!-- Hatena -->
-    <a href="https://b.hatena.ne.jp/entry/panel/?url={{ $permalink }}&title={{ $title }}" class="sns-button hb"
-        target="_blank" rel="noopener noreferrer" title="Hatena Bookmark">
-        <span class="sns-icon-wrapper" style="font-weight: 900; font-size: 1.1rem; color: #fff;">B!</span>
-    </a>
-    {{ end }}
-
-    {{ if eq $lang "zh-cn" }}
     <!-- Weibo -->
     <a href="http://service.weibo.com/share/share.php?url={{ $permalink }}&title={{ $title }}" class="sns-button wb"
         target="_blank" rel="noopener noreferrer" title="Share on Weibo">
@@ -69,6 +60,23 @@
                     d="M10.978 18.156c-3.111.233-5.836-.931-6.1-2.593-.261-1.666 2.062-3.21 5.161-3.447 3.111-.233 5.833.931 6.102 2.597.264 1.663-2.052 3.206-5.163 3.443zm1.144-8.813c-.347-.11-.84.288-.84.288s-.24.316-.017.585c.225.268.805.158.805.158s.457-.04.48-.383c.023-.347-.428-.648-.428-.648zM9.488 20.25c-5.234.331-9.488-2.673-9.488-6.102 0-1.748 1.111-3.328 2.924-4.526 1.006-.666 2.451-.72 3.42-.457-.158-.236-.316-.487-.411-.75-.3-.822-.124-1.676.435-2.288 1.05-1.147 3.15-.99 4.685.347.161.14.316.29.45.45.54-.783 1.38-1.41 2.385-1.748.24-.078.487-.132.743-.161 1.05-.124 2.053.15 2.76.71.503.402.748.96.72 1.545-.045.937-.805 1.506-1.506 1.56a1.144 1.144 0 0 1-1.124-.84c-.457-.225-.922-.3-1.35-.187-.315.083-.564.277-.72.54-.3.48-.187 1.08.277 1.485.421.36.96.616 1.53.75 4.314.99 6.786 3.654 6.786 6.307 0 3.75-4.47 6.643-11.755 7.186zm2.34-11.85a9.04 9.04 0 0 0-2.34-1.922c-1.845-.968-3.09-1.395-4.425-.262-1.24 1.05-.225 3.322-.225 3.322.045-.225.412-1.312 1.38-1.545.96-.233 2.04.143 2.04.143s1.29.805 1.635 2.506c-.03-.045.503-2.01 1.935-2.242z" />
             </svg>
         </span>
+    </a>
+
+    <!-- WeChat (as Copy Link) -->
+    <a href="#" class="sns-button wc" id="copy-wechat-url" title="Share on WeChat">
+        <span class="sns-icon-wrapper">
+            <svg viewBox="0 0 24 24">
+                <path
+                    d="M8.33 4.1c-4.418 0-8 3.018-8 6.74 0 2.227 1.282 4.192 3.256 5.372l-.842 1.666a.2.2 0 0 0 .284.266l2.13-1.205c.38.093.774.14 1.172.14 4.418 0 8-3.018 8-6.74s-3.582-6.74-8-6.74zm-2.02 2.37c.552 0 1 .45 1 1s-.448 1-1 1-1-.45-1-1 .448-1 1-1zm4.04 0c.552 0 1 .45 1 1s-.448 1-1 1-1-.45-1-1 .448-1 1-1zm10.1 7.27c3.314 0 6-2.23 6-4.99s-2.686-5.013-6-5.013c0 0-3.314 0-6 2.253s0 7.75 6 7.75zm1.5-3.5c.373 0 .675.336.675.75s-.302.75-.675.75-.675-.336-.675-.75.302-.75.675-.75zm-3 0c.373 0 .675.336.675.75s-.302.75-.675.75-.675-.336-.675-.75.302-.75.675-.75z" />
+            </svg>
+        </span>
+    </a>
+
+    {{ if eq $lang "ja" }}
+    <!-- Hatena -->
+    <a href="https://b.hatena.ne.jp/entry/panel/?url={{ $permalink }}&title={{ $title }}" class="sns-button hb"
+        target="_blank" rel="noopener noreferrer" title="Hatena Bookmark">
+        <span class="sns-icon-wrapper" style="font-weight: 900; font-size: 1.1rem; color: #fff;">B!</span>
     </a>
     {{ end }}
 
@@ -86,56 +94,48 @@
 
 <script>
     (function () {
-        function initSnsCopy() {
-            const copyBtn = document.getElementById('copy-sns-url');
-            if (!copyBtn) return;
+        function setupCopy(btnId) {
+            const btn = document.getElementById(btnId);
+            if (!btn) return;
 
-            // Remove existing listener if any to avoid duplicates
-            const newBtn = copyBtn.cloneNode(true);
-            copyBtn.parentNode.replaceChild(newBtn, copyBtn);
-
-            newBtn.addEventListener('click', function (e) {
+            btn.addEventListener('click', function (e) {
                 e.preventDefault();
                 const url = window.location.href;
 
-                if (navigator.clipboard && window.isSecureContext) {
-                    navigator.clipboard.writeText(url)
-                        .then(() => showFeedback(newBtn))
-                        .catch(err => fallbackCopy(url, newBtn));
+                if (navigator.clipboard) {
+                    navigator.clipboard.writeText(url).then(() => {
+                        showTooltip(btn);
+                    }).catch(err => {
+                        fallbackCopy(url, btn);
+                    });
                 } else {
-                    fallbackCopy(url, newBtn);
+                    fallbackCopy(url, btn);
                 }
             });
         }
 
         function fallbackCopy(text, btn) {
+            const tmp = document.createElement('textarea');
+            tmp.value = text;
+            tmp.style.position = 'fixed';
+            tmp.style.opacity = '0';
+            document.body.appendChild(tmp);
+            tmp.select();
             try {
-                const tmp = document.createElement('textarea');
-                tmp.value = text;
-                tmp.style.position = 'fixed';
-                tmp.style.left = '-9999px';
-                tmp.style.top = '0';
-                document.body.appendChild(tmp);
-                tmp.focus();
-                tmp.select();
-                const successful = document.execCommand('copy');
-                document.body.removeChild(tmp);
-                if (successful) showFeedback(btn);
+                document.execCommand('copy');
+                showTooltip(btn);
             } catch (err) {
                 console.error('Copy failed', err);
             }
+            document.body.removeChild(tmp);
         }
 
-        function showFeedback(btn) {
+        function showTooltip(btn) {
             btn.classList.add('copied');
             setTimeout(() => btn.classList.remove('copied'), 2000);
         }
 
-        // Initialize on load and also on possible dynamic updates
-        if (document.readyState === 'loading') {
-            document.addEventListener('DOMContentLoaded', initSnsCopy);
-        } else {
-            initSnsCopy();
-        }
+        setupCopy('copy-sns-url');
+        setupCopy('copy-wechat-url');
     })();
 </script>

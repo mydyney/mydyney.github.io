@@ -554,27 +554,29 @@ div.image-group-9,
   background-color: #000000 !important;
 }
 
-.sns-button.hb {
-  background-color: #00A4DE !important;
-}
-
 .sns-button.wb {
   background-color: #E6162D !important;
+}
+
+.sns-button.wc {
+  background-color: #07C160 !important;
 }
 
 .sns-button.cp {
   background-color: #6c757d !important;
 }
 
-/* Copy Tooltip */
-.sns-button.cp {
+/* Tooltip for Copy actions (Link, WeChat, etc.) */
+.sns-button.cp,
+.sns-button.wc {
   position: relative !important;
 }
 
-.sns-button.cp::after {
+.sns-button.cp::after,
+.sns-button.wc::after {
   content: 'Copied!';
   position: absolute;
-  bottom: 105%;
+  bottom: 110%;
   left: 50%;
   transform: translateX(-50%);
   background: #333;
@@ -587,9 +589,12 @@ div.image-group-9,
   visibility: hidden;
   transition: 0.2s;
   white-space: nowrap;
+  pointer-events: none;
+  z-index: 10;
 }
 
-.sns-button.cp.copied::after {
+.sns-button.cp.copied::after,
+.sns-button.wc.copied::after {
   opacity: 1;
   visibility: visible;
 }
