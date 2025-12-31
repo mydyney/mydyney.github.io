@@ -464,3 +464,150 @@ div.image-group-9,
     gap: 1rem;
   }
 }
+
+/* --- Robust Social Share Buttons --- */
+
+.sns-share-box {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  flex-wrap: wrap !important;
+  gap: 15px !important;
+  margin: 3rem 0 2rem !important;
+  padding: 2rem 0 !important;
+  border-top: 1px solid #eee !important;
+  border-bottom: 1px solid #eee !important;
+  clear: both !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+.sns-share-title {
+  width: 100% !important;
+  font-size: 1rem !important;
+  font-weight: 700 !important;
+  margin-bottom: 1.2rem !important;
+  color: #444 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+  text-align: center !important;
+}
+
+.sns-button {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 42px !important;
+  height: 42px !important;
+  border-radius: 50% !important;
+  color: white !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease-in-out !important;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1) !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+  overflow: hidden !important;
+}
+
+.sns-button:hover {
+  transform: translateY(-3px) !important;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15) !important;
+  opacity: 0.9 !important;
+}
+
+/* Explicit SVG Sizing */
+.sns-button .sns-icon-wrapper {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  width: 22px !important;
+  height: 22px !important;
+  pointer-events: none !important;
+}
+
+.sns-button svg {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 22px !important;
+  max-height: 22px !important;
+  fill: currentColor !important;
+  display: block !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* SNS Brand Colors */
+.sns-button.fb {
+  background-color: #1877F2 !important;
+}
+
+.sns-button.tw {
+  background-color: #000000 !important;
+}
+
+.sns-button.li {
+  background-color: #06C755 !important;
+}
+
+.sns-button.pn {
+  background-color: #BD081C !important;
+}
+
+.sns-button.hb {
+  background-color: #00A4DE !important;
+}
+
+.sns-button.wb {
+  background-color: #E6162D !important;
+}
+
+.sns-button.cp {
+  background-color: #6c757d !important;
+}
+
+/* Copy Tooltip */
+.sns-button.cp {
+  position: relative !important;
+}
+
+.sns-button.cp::after {
+  content: 'Copied!';
+  position: absolute;
+  bottom: 105%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #333;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: normal;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.2s;
+  white-space: nowrap;
+}
+
+.sns-button.cp.copied::after {
+  opacity: 1;
+  visibility: visible;
+}
+
+@media (max-width: 768px) {
+  .sns-share-box {
+    margin: 2rem 0 !important;
+    padding: 1.5rem 0 !important;
+    gap: 12px !important;
+  }
+
+  .sns-button {
+    width: 38px !important;
+    height: 38px !important;
+  }
+
+  .sns-button .sns-icon-wrapper {
+    width: 18px !important;
+    height: 18px !important;
+  }
+}
