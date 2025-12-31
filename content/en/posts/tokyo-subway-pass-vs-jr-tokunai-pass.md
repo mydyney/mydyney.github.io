@@ -6,8 +6,8 @@ author: "TokyoMate"
 description: "Complete comparison of Tokyo Subway Pass and JR Tokunai Pass. Learn which transport pass suits your Tokyo itinerary with pricing, routes, and purchase guide."
 categories: ["Tokyo Travel Tips"]
 tags: ["Tokyo Subway Pass", "JR Tokunai Pass", "Tokyo Transportation", "Travel Pass", "Tokyo Metro", "JR Yamanote Line", "Tokyo Travel Guide"]
-featured_image: "/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-01.jpg"
-translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
+featured_image: "/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-01.jpg"
+translationKey: "tokyo-subway-pass-vs-jr-tokunai-pass"
 ---
 
 <div class="blog-container">
@@ -15,7 +15,7 @@ translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
 <strong>Confused between Tokyo Subway Pass and JR Tokunai Pass?</strong> This comprehensive guide compares the two essential transport passes, covering <strong>pricing, routes, purchase methods, and exchange procedures</strong>. Find the perfect pass for your Tokyo itinerary in just 3 minutes and save both time and money.
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-01.jpg" alt="Tokyo Subway Pass vs JR Tokunai Pass Complete Comparison">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-01.jpg" alt="Tokyo Subway Pass vs JR Tokunai Pass Complete Comparison">
 </figure>
 
 
@@ -76,7 +76,7 @@ Let's look at the most important aspect - pricing and how many rides you need to
 This is where many travelers get confused, so please remember this.
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-02.jpg" alt="Tokyo Subway Ticket Available Lines">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-02.jpg" alt="Tokyo Subway Ticket Available Lines">
   <figcaption style="font-size: 0.85em; text-align: center;">Lines available with Tokyo Subway Ticket (<a href="https://www.tokyometro.jp/en/ticket/travel/index.html" target="_blank">Image source</a>)</figcaption>
 </figure>
 
@@ -144,7 +144,7 @@ If you purchased in advance, you need to exchange your QR code for a physical ti
 3. Receive physical ticket! (Exchange takes 30 seconds!)
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-03.jpg" alt="QR Code Exchange Ticket Machine">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-03.jpg" alt="QR Code Exchange Ticket Machine">
   <figcaption style="font-size: 0.85em; text-align: center;">Ticket machine that accepts QR code exchange</figcaption>
 </figure>
 

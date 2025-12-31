@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-31
-> **Status:** ✅ Complete - 111 posts mapped
+> **Status:** ✅ Complete - 110 posts mapped
 
 ---
 
@@ -127,7 +127,7 @@ When migrating a Naver blog post to Hugo:
 | 224026098490 | tokyo-subway-ticket-guide | 2025-09-29 | ✅ |
 | 224010546735 | japanese-whisky-yamazaki-hibiki-price-guide | 2025-09-16 | ✅ |
 | 224125943419 | tokyo-3-day-itinerary-landmark-series | 2025-12-29 | ✅ |
-| 224025699867 | tokyo-subway-pass-jr-tokunai-pass-comparison | 2025-09-29 | ✅ |
+| 224025699867 | tokyo-subway-pass-vs-jr-tokunai-pass | 2025-09-29 | ✅ |
 | 223707471582 | tokyo-ramen-street-best-8 | 2024-12-28 | ✅ |
 | 224123307702 | tokyo-january-1-onsen-spa-24-hours | 2025-12-31 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
@@ -491,8 +491,8 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 108
-- **Naver IDs Tracked:** 108
+- **Total Posts Migrated:** 110
+- **Naver IDs Tracked:** 110
 - **Posts with Internal Links:** 35+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide)
 - **Pending References:** 46
 - **Links Updated:** Verified & Fixed on 2025-12-28

@@ -6,8 +6,8 @@ author: "TokyoMate"
 description: "東京メトロパスとJR都区内パスの完全比較ガイド。料金、路線、購入方法を詳しく解説し、あなたの東京旅行に最適なパスを見つけましょう。"
 categories: ["東京旅行のヒント"]
 tags: ["東京メトロパス", "JR都区内パス", "東京交通", "乗車券", "東京メトロ", "JR山手線", "東京旅行ガイド"]
-featured_image: "/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-01.jpg"
-translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
+featured_image: "/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-01.jpg"
+translationKey: "tokyo-subway-pass-vs-jr-tokunai-pass"
 ---
 
 <div class="blog-container">
@@ -15,7 +15,7 @@ translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
 <strong>東京メトロパスとJR都区内パス、どちらを選べばいいか迷っていませんか？</strong>この完全ガイドでは、2つの必須交通パスを<strong>料金、路線、購入方法、交換手順</strong>まで徹底比較します。たった3分で最適なパスを見つけて、時間もお金も節約しましょう。
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-01.jpg" alt="東京メトロパス vs JR都区内パス 完全比較">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-01.jpg" alt="東京メトロパス vs JR都区内パス 完全比較">
 </figure>
 
 東京旅行の計画で最も悩むポイント？それは<strong>交通パス</strong>の選択です。😥 SuicaやPasmoにチャージするだけでいいのか、それともパスを買って元を取るべきか？そんな悩みを解決するため、複雑な選択肢を2つのパスに絞り込み、完全比較をご用意しました！
@@ -73,7 +73,7 @@ translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
 ここで多くの旅行者が混乱するので、必ず覚えておいてください。
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-02.jpg" alt="東京地下鉄チケット利用可能路線">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-02.jpg" alt="東京地下鉄チケット利用可能路線">
   <figcaption style="font-size: 0.85em; text-align: center;">東京地下鉄チケットで利用可能な路線（<a href="https://www.tokyometro.jp/en/ticket/travel/index.html" target="_blank">画像出典</a>）</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
 3. 実券を受け取る！（交換は30秒で完了！）
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-03.jpg" alt="QRコード交換券売機">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-03.jpg" alt="QRコード交換券売機">
   <figcaption style="font-size: 0.85em; text-align: center;">QRコード交換可能な券売機</figcaption>
 </figure>
 

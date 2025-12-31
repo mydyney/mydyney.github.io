@@ -6,8 +6,8 @@ author: "TokyoMate"
 description: "东京地铁通票与JR都区内通票完全对比指南。详细解析价格、线路、购买方法，帮您找到最适合东京行程的交通通票。"
 categories: ["东京旅行攻略"]
 tags: ["东京地铁通票", "JR都区内通票", "东京交通", "交通通票", "东京地铁", "JR山手线", "东京旅行指南"]
-featured_image: "/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-01.jpg"
-translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
+featured_image: "/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-01.jpg"
+translationKey: "tokyo-subway-pass-vs-jr-tokunai-pass"
 ---
 
 <div class="blog-container">
@@ -15,7 +15,7 @@ translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
 <strong>东京地铁通票和JR都区内通票，该选哪个？</strong>本完整指南全面对比这两种必备交通通票，涵盖<strong>价格、线路、购买方法和兑换流程</strong>。只需3分钟找到最适合您东京行程的通票，省时又省钱。
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-01.jpg" alt="东京地铁通票 vs JR都区内通票 完全对比">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-01.jpg" alt="东京地铁通票 vs JR都区内通票 完全对比">
 </figure>
 
 规划东京旅行最头疼的问题？选择合适的<strong>交通通票</strong>。😥 是直接给Suica或Pasmo充值，还是买通票回本？为了解决这个烦恼，我们将复杂的选择简化为2种通票，并提供完整对比！
@@ -73,7 +73,7 @@ translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
 这是很多游客容易混淆的地方，请务必记住。
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-02.jpg" alt="东京地铁通票可用线路">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-02.jpg" alt="东京地铁通票可用线路">
   <figcaption style="font-size: 0.85em; text-align: center;">东京地铁通票可用线路（<a href="https://www.tokyometro.jp/en/ticket/travel/index.html" target="_blank">图片来源</a>）</figcaption>
 </figure>
 
@@ -136,7 +136,7 @@ translationKey: "tokyo-subway-pass-jr-tokunai-pass-comparison"
 3. 领取实体票！（兑换只需30秒！）
 
 <figure>
-  <img src="/images/posts/tokyo-subway-pass-jr-tokunai-pass-comparison-03.jpg" alt="二维码兑换售票机">
+  <img src="/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-03.jpg" alt="二维码兑换售票机">
   <figcaption style="font-size: 0.85em; text-align: center;">可兑换二维码的售票机</figcaption>
 </figure>
 
