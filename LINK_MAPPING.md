@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-31
-> **Status:** ✅ Master Table Unified
+> **Status:** ✅ Master Table Unified & Verified
 
 ---
 
@@ -44,6 +44,7 @@
 | 224098870040 | shibuya-sushi-no-midori-lunch-guide | ✅ | |
 | 224098592756 | shibuya-blue-cave-illumination-2025 | ✅ | |
 | 224096781916 | omotesando-illumination-2025 | ✅ | |
+| 224096203397 | shimokitazawa-tokyo-travel-guide | ✅ | |
 | 224095124866 | shinjuku-neon-walk-tokyo-illumination-2025-2026 | ✅ | |
 | 224095118118 | tokyo-countdown-2026 | ✅ | |
 | 224093593124 | hibiya-park-tokyo-guide | ✅ | |
@@ -105,45 +106,49 @@
 | 224043919463 | odaiba-ariake-toyosu-complete-guide | ✅ | |
 | 224042431249 | tokyo-christmas-illumination-best-5-2025 | ✅ | |
 | 224039113760 | japan-travel-discount-coupons-2025 | ✅ | |
+| 224038568654 | tokyo-halloween-festivals-2025 | ✅ | |
 | 224038071853 | tokyo-autumn-foliage-best-spots-2025 | ✅ | |
 | 224037272726 | tsukiji-market-restaurant-guide | ✅ | |
+| 224037212344 | tokyo-autumn-foliage-best-spots-2025 | ✅ | |
 | 224035271300 | shinjuku-guide-2025 | ✅ | |
 | 224034429817 | mitsui-outlet-kisarazu-guide | ✅ | |
+| 224033964477 | kaldi-coffee-farm-shopping-list | ✅ | |
+| 224031937227 | akihabara-complete-guide | ✅ | |
+| 224031611221 | tokyo-station-guide | ✅ | |
 | 224031114514 | shibuya-complete-guide-2025 | ✅ | |
 | 224030294691 | harajuku-complete-guide-2025 | ✅ | |
+| 224028694874 | ueno-ameyoko-guide | ✅ | |
+| 224027835049 | omotesando-guide-2025 | ✅ | |
+| 224026292057 | tokyo-october-festivals-2025 | ✅ | |
 | 224026098490 | tokyo-subway-ticket-guide | ✅ | |
 | 224025699867 | tokyo-subway-pass-vs-jr-tokunai-pass | ✅ | |
+| 224024819592 | asakusa-complete-guide | ✅ | |
 | 224022065518 | don-quijote-shopping-guide-2025 | ✅ | |
+| 224010546735 | japanese-whisky-yamazaki-hibiki-price-guide | ✅ | |
 | 224007949043 | narita-airport-arrival-guide | ✅ | |
 | 224003374650 | narita-airport-skyliner-guide | ✅ | |
 | 223992588094 | tokyo-september-festivals-2025 | ✅ | |
 | 223989943826 | ginza-guide-2025 | ✅ | |
 | 223988228389 | roppongi-attractions-guide | ✅ | |
+| 223980166231 | tokyo-october-festivals-2025 | ✅ | |
 | 223707471582 | tokyo-ramen-street-best-8 | ✅ | |
+| 223696568926 | roppongi-hills-christmas-market-2025 | ✅ | |
+| 223689247336 | miyashita-park-illumination-2024 | ✅ | |
+| 223668826357 | yebisu-garden-place-illumination-christmas-market-2025 | ✅ | |
+| 223665548720 | yebisu-garden-place-illumination-christmas-market-2025 | ✅ | |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | ✅ | |
-| 224096203397 | shimokitazawa-tokyo-travel-guide | ⏳ | |
 | 224042267263 | nihonbashi-guide | ⏳ | |
-| 224038568654 | tokyo-halloween-festivals-2025 | ⏳ | |
-| 224037212344 | tokyo-autumn-foliage-best-spots-2025 | ⏳ | |
 | 224035895968 | tokyo-dome-city-guide | ⏳ | |
 | 224035533672 | ghibli-museum-reservation-guide | ⏳ | |
-| 224033964477 | kaldi-coffee-farm-shopping-list | ⏳ | |
 | 224032769630 | yebisu-complete-guide | ⏳ | |
 | 224032515713 | daikanyama-guide | ⏳ | |
 | 224032086475 | nakameguro-guide | ⏳ | |
-| 224031937227 | akihabara-complete-guide | ⏳ | |
-| 224031611221 | tokyo-station-guide | ⏳ | |
-| 224028694874 | ueno-ameyoko-guide | ⏳ | |
-| 224027835049 | omotesando-guide-2025 | ⏳ | |
-| 224026292057 | tokyo-october-festivals-2025 | ⏳ | |
 | 224025343414 | asakusa-asahi-beer-sky-room-guide | ⏳ | |
 | 224025044772 | ginza-kuya-monaka-reservation-guide | ⏳ | |
-| 224024819592 | asakusa-complete-guide | ⏳ | |
 | 224024530348 | roppongi-art-night-guide | ⏳ | |
 | 224019480188 | hakone-day-trip-course | ⏳ | |
 | 224014619007 | suntory-whisky-price-guide-japan | ⏳ | |
 | 224010770861 | ginza-hachigo-reservation-guide | ⏳ | |
-| 224010546735 | japanese-whisky-yamazaki-hibiki-price-guide | ⏳ | |
 | 224008430188 | ginza-lotte-duty-free-whisky-guide | ⏳ | |
 | 224007665631 | narita-to-asakusa-subway-guide | ⏳ | |
 | 224004709356 | narita-airport-limousine-guide | ⏳ | |
@@ -156,7 +161,6 @@
 | 223986407872 | tsujihan-midtown-kaisendon-guide | ⏳ | |
 | 223985958480 | imakatsu-roppongi-tonkatsu-guide | ⏳ | |
 | 223980220327 | tokyo-august-festivals-sumida-river | ⏳ | |
-| 223980166231 | tokyo-october-festivals-2025 | ⏳ | |
 | 223979907748 | yokohama-one-day-itinerary | ⏳ | |
 | 223976102621 | yokohama-minato-burari-ticket-guide | ⏳ | |
 | 223969429024 | sarashina-horii-roppongi-soba | ⏳ | |
@@ -164,7 +168,7 @@
 | 223958175295 | azabudai-hills-summer-festival-review | ⏳ | |
 | 223957316412 | tsurutontan-roppongi-udon-guide | ⏳ | |
 | 223915389552 | azabudai-hills-series-chinese-restaurant | ⏳ | |
-| 223915132048 | shinbashi-tonkatsu-horiichi | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review | |
+| 223915132048 | shinbashi-tonkatsu-horiichi | ⏳ | |
 | 223914321510 | sumiyaki-unafuji-yurakucho | ⏳ | |
 | 223914223908 | shinjuku-udon-guide | ⏳ | |
 | 223914118735 | tokyo-ramen-guide-kangnami | ⏳ | |
@@ -183,7 +187,6 @@
 | 223699626846 | tokyo-skytree-gion-tsujiri-matcha | ⏳ | |
 | 223698121379 | ginza-six-imadeya-sake-shopping | ⏳ | |
 | 223697732942 | tokyo-skytree-triton-sushi-guide | ⏳ | |
-| 223696568926 | roppongi-hills-christmas-market-2025 | ⏳ | |
 | 223695518100 | tokyo-skytree-pokemon-center-review | ⏳ | |
 | 223694645793 | ginza-akebono-strawberry-mochi | ⏳ | |
 | 223694057318 | ginza-six-rooftop-garden | ⏳ | |
@@ -191,7 +194,6 @@
 | 223693165027 | ginza-itoya-stationery-guide | ⏳ | |
 | 223691772722 | nihonbashi-pokemon-center-dx-cafe-guide | ⏳ | |
 | 223691371517 | tokyo-station-pokemon-store-review | ⏳ | |
-| 223689247336 | miyashita-park-illumination-2024 | ⏳ | |
 | 223688700265 | omotesando-illumination-harajuku-observatory-review-2024 | ⏳ | |
 | 223687520605 | roppongi-azabujuban-summer-festivals | ⏳ | |
 | 223686466421 | hibiya-midtown-illumination-review-2024 | ⏳ | |
@@ -206,12 +208,10 @@
 | 223672616108 | azabudai-hills-teamlab-borderless-guide | ⏳ | |
 | 223671427079 | azabudai-hills-christmas-market-review-2024 | ⏳ | |
 | 223670085459 | roppongi-midtown-christmas-review-2024 | ⏳ | |
-| 223669458145 | Ueno Museum Monet Exhibition | Outdated content/irrelevant to current project | |
-| 223668826357 | yebisu-garden-place-illumination-christmas-market-2025 | ⏳ | |
+| 223669458145 | Ueno Museum Monet Exhibition | ⏳ | |
 | 223667593440 | rem-roppongi-hotel-guide | ⏳ | |
 | 223667306537 | streamer-coffee-roppongi-guide | ⏳ | |
 | 223666751487 | st-moritz-roppongi-bakery | ⏳ | |
-| 223665548720 | yebisu-garden-place-illumination-christmas-market-2025 | ⏳ | |
 
 ---
 
@@ -259,6 +259,7 @@ declare -A MAPPINGS=(
   ["224098870040"]="shibuya-sushi-no-midori-lunch-guide"
   ["224098592756"]="shibuya-blue-cave-illumination-2025"
   ["224096781916"]="omotesando-illumination-2025"
+  ["224096203397"]="shimokitazawa-tokyo-travel-guide"
   ["224095124866"]="shinjuku-neon-walk-tokyo-illumination-2025-2026"
   ["224095118118"]="tokyo-countdown-2026"
   ["224093593124"]="hibiya-park-tokyo-guide"
@@ -320,45 +321,49 @@ declare -A MAPPINGS=(
   ["224043919463"]="odaiba-ariake-toyosu-complete-guide"
   ["224042431249"]="tokyo-christmas-illumination-best-5-2025"
   ["224039113760"]="japan-travel-discount-coupons-2025"
+  ["224038568654"]="tokyo-halloween-festivals-2025"
   ["224038071853"]="tokyo-autumn-foliage-best-spots-2025"
   ["224037272726"]="tsukiji-market-restaurant-guide"
+  ["224037212344"]="tokyo-autumn-foliage-best-spots-2025"
   ["224035271300"]="shinjuku-guide-2025"
   ["224034429817"]="mitsui-outlet-kisarazu-guide"
+  ["224033964477"]="kaldi-coffee-farm-shopping-list"
+  ["224031937227"]="akihabara-complete-guide"
+  ["224031611221"]="tokyo-station-guide"
   ["224031114514"]="shibuya-complete-guide-2025"
   ["224030294691"]="harajuku-complete-guide-2025"
+  ["224028694874"]="ueno-ameyoko-guide"
+  ["224027835049"]="omotesando-guide-2025"
+  ["224026292057"]="tokyo-october-festivals-2025"
   ["224026098490"]="tokyo-subway-ticket-guide"
   ["224025699867"]="tokyo-subway-pass-vs-jr-tokunai-pass"
+  ["224024819592"]="asakusa-complete-guide"
   ["224022065518"]="don-quijote-shopping-guide-2025"
+  ["224010546735"]="japanese-whisky-yamazaki-hibiki-price-guide"
   ["224007949043"]="narita-airport-arrival-guide"
   ["224003374650"]="narita-airport-skyliner-guide"
   ["223992588094"]="tokyo-september-festivals-2025"
   ["223989943826"]="ginza-guide-2025"
   ["223988228389"]="roppongi-attractions-guide"
+  ["223980166231"]="tokyo-october-festivals-2025"
   ["223707471582"]="tokyo-ramen-street-best-8"
+  ["223696568926"]="roppongi-hills-christmas-market-2025"
+  ["223689247336"]="miyashita-park-illumination-2024"
+  ["223668826357"]="yebisu-garden-place-illumination-christmas-market-2025"
+  ["223665548720"]="yebisu-garden-place-illumination-christmas-market-2025"
   ["223664743235"]="shinanoya-roppongi-hills-supermarket"
-  ["224096203397"]="shimokitazawa-tokyo-travel-guide"
   ["224042267263"]="nihonbashi-guide"
-  ["224038568654"]="tokyo-halloween-festivals-2025"
-  ["224037212344"]="tokyo-autumn-foliage-best-spots-2025"
   ["224035895968"]="tokyo-dome-city-guide"
   ["224035533672"]="ghibli-museum-reservation-guide"
-  ["224033964477"]="kaldi-coffee-farm-shopping-list"
   ["224032769630"]="yebisu-complete-guide"
   ["224032515713"]="daikanyama-guide"
   ["224032086475"]="nakameguro-guide"
-  ["224031937227"]="akihabara-complete-guide"
-  ["224031611221"]="tokyo-station-guide"
-  ["224028694874"]="ueno-ameyoko-guide"
-  ["224027835049"]="omotesando-guide-2025"
-  ["224026292057"]="tokyo-october-festivals-2025"
   ["224025343414"]="asakusa-asahi-beer-sky-room-guide"
   ["224025044772"]="ginza-kuya-monaka-reservation-guide"
-  ["224024819592"]="asakusa-complete-guide"
   ["224024530348"]="roppongi-art-night-guide"
   ["224019480188"]="hakone-day-trip-course"
   ["224014619007"]="suntory-whisky-price-guide-japan"
   ["224010770861"]="ginza-hachigo-reservation-guide"
-  ["224010546735"]="japanese-whisky-yamazaki-hibiki-price-guide"
   ["224008430188"]="ginza-lotte-duty-free-whisky-guide"
   ["224007665631"]="narita-to-asakusa-subway-guide"
   ["224004709356"]="narita-airport-limousine-guide"
@@ -371,7 +376,6 @@ declare -A MAPPINGS=(
   ["223986407872"]="tsujihan-midtown-kaisendon-guide"
   ["223985958480"]="imakatsu-roppongi-tonkatsu-guide"
   ["223980220327"]="tokyo-august-festivals-sumida-river"
-  ["223980166231"]="tokyo-october-festivals-2025"
   ["223979907748"]="yokohama-one-day-itinerary"
   ["223976102621"]="yokohama-minato-burari-ticket-guide"
   ["223969429024"]="sarashina-horii-roppongi-soba"
@@ -398,7 +402,6 @@ declare -A MAPPINGS=(
   ["223699626846"]="tokyo-skytree-gion-tsujiri-matcha"
   ["223698121379"]="ginza-six-imadeya-sake-shopping"
   ["223697732942"]="tokyo-skytree-triton-sushi-guide"
-  ["223696568926"]="roppongi-hills-christmas-market-2025"
   ["223695518100"]="tokyo-skytree-pokemon-center-review"
   ["223694645793"]="ginza-akebono-strawberry-mochi"
   ["223694057318"]="ginza-six-rooftop-garden"
@@ -406,7 +409,6 @@ declare -A MAPPINGS=(
   ["223693165027"]="ginza-itoya-stationery-guide"
   ["223691772722"]="nihonbashi-pokemon-center-dx-cafe-guide"
   ["223691371517"]="tokyo-station-pokemon-store-review"
-  ["223689247336"]="miyashita-park-illumination-2024"
   ["223688700265"]="omotesando-illumination-harajuku-observatory-review-2024"
   ["223687520605"]="roppongi-azabujuban-summer-festivals"
   ["223686466421"]="hibiya-midtown-illumination-review-2024"
@@ -422,11 +424,9 @@ declare -A MAPPINGS=(
   ["223671427079"]="azabudai-hills-christmas-market-review-2024"
   ["223670085459"]="roppongi-midtown-christmas-review-2024"
   ["223669458145"]="Ueno Museum Monet Exhibition"
-  ["223668826357"]="yebisu-garden-place-illumination-christmas-market-2025"
   ["223667593440"]="rem-roppongi-hotel-guide"
   ["223667306537"]="streamer-coffee-roppongi-guide"
   ["223666751487"]="st-moritz-roppongi-bakery"
-  ["223665548720"]="yebisu-garden-place-illumination-christmas-market-2025"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -451,9 +451,9 @@ echo "Link conversion complete!"
 ## Statistics
 
 - **Total Unique Mappings:** 193
-- **Total Posts Migrated:** 102
+- **Total Posts Migrated:** 118
 - **Naver IDs Tracked:** 193
-- **Last Full Sync:** 2025-12-31
+- **Last Status Verification:** 2025-12-31
 
 ---
 
