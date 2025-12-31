@@ -4,7 +4,7 @@
 
 <div class="sns-share-box">
     <div class="sns-share-title">
-        {{ if eq $lang "ja" }}記事를 シェアする{{ else if eq $lang "zh-cn" }}分享文章{{ else }}Share this post{{ end }}
+        {{ if eq $lang "ja" }}記事をシェアする{{ else if eq $lang "zh-cn" }}分享文章{{ else }}Share this post{{ end }}
     </div>
 
     <!-- X (Twitter) -->
@@ -29,24 +29,24 @@
         </span>
     </a>
 
+    <!-- Threads -->
+    <a href="https://www.threads.net/intent/post?text={{ $title | urlquery }}%0A{{ $permalink | urlquery }}"
+        class="sns-button th" target="_blank" rel="noopener noreferrer" title="Share on Threads">
+        <span class="sns-icon-wrapper">
+            <svg viewBox="0 0 24 24">
+                <path
+                    d="M14.88 11.53c0-.81-.17-1.44-.51-1.88s-.82-.67-1.45-.67c-.47 0-.85.12-1.15.35s-.51.52-.62.87c.22-.4.59-.72 1.1-.96s1.11-.35 1.79-.35c1.06 0 1.9.34 2.51 1.02s.92 1.63.92 2.85c0 1.38-.36 2.5-.1.08s.1-.1.2-.1c.33 0 .59.1.78.31s.29.5.29.85c0 .07-.01.15-.03.24s-.05.17-.09.25s-.08.15-.14.22s-.13.13-.21.18c-.62.4-1.34.6-2.14.6c-1.16 0-2.1-.37-2.82-1.11s-1.08-1.74-1.08-3s.36-2.26 1.08-3s1.66-1.11 2.82-1.11c1.04 0 1.9.33 2.58.99s1.02 1.55 1.02 2.66c0 1.97-.44 3.51-1.32 4.62s-2.13 1.66-3.74 1.66c-1.55 0-2.79-.45-3.72-1.35s-1.39-2.15-1.39-3.75c0-1.67.48-3.01 1.45-4.01s2.23-1.5 3.79-1.5c.37 0 .73.03 1.08.08s.68.13.99.23s.59.23.83.39s.44.35.59.57l-.88.75c-.24-.31-.57-.55-.99-.71s-.88-.24-1.39-.24c-1.28 0-2.31.4-3.08 1.2s-1.16 1.92-1.16 3.35c0 1.28.32 2.3.96 3.06s1.55 1.14 2.72 1.14c1.23 0 2.21-.4 2.94-1.21s1.1-1.94 1.1-3.41c0-.85-.15-1.53-.46-2.04s-.75-.77-1.32-.77c-.45 0-.82.12-1.11.35s-.5.53-.63.9c.17-.46.49-.83.97-1.11s1.07-.42 1.77-.42c1.01 0 1.83.33 2.46.99s.94 1.57.94 2.73c0 1.29-.35 2.32-1.05 3.09s-1.66 1.16-2.88 1.16c-1.14 0-2.05-.36-2.73-1.08s-1.02-1.7-1.02-2.93s.36-2.26 1.08-3s1.67-1.11 2.83-1.11c1.06 0 1.93.33 2.61.99s1.02 1.54 1.02 2.65c0 1.18-.32 2.11-.96 2.79s-1.55 1.02-2.72 1.02c-1.23 0-2.21-.4-2.94-1.21s-1.1-1.94-1.1-3.41c0-.85.15-1.53.46-2.04s.74-.77 1.31-.77c.46 0 .83.12 1.11.35s.5.53.63.9l-.88.75c-.15-.22-.35-.41-.59-.57s-.52-.29-.83-.39s-.64-.18-.99-.23s-.71-.08-1.08-.08c-1.56 0-2.82.5-3.79 1.5s-1.45 2.34-1.45 4.01c0 1.6.46 2.85 1.39 3.75s2.17 1.35 3.72 1.35c1.61 0 2.86-.55 3.74-1.66s1.32-2.65 1.32-4.62c0-1.11-.34-2-1.02-2.66s-1.54-.99-2.58-.99z" />
+            </svg>
+        </span>
+    </a>
+
     <!-- Line -->
     <a href="https://social-plugins.line.me/lineit/share?url={{ $permalink }}" class="sns-button li" target="_blank"
         rel="noopener noreferrer" title="Share on Line">
         <span class="sns-icon-wrapper">
             <svg viewBox="0 0 24 24">
                 <path
-                    d="M19.365 9.863c.034.24.044.48.044.72 0 4.272-3.834 7.75-8.55 7.75-4.716 0-8.55-3.478-8.55-7.75 0-4.272 3.834-7.75 8.55-7.75 4.716 0 8.55 3.478 8.55 7.75m-1.575-3.012c-.225-1.11-1.29-1.935-2.52-1.935H8.73c-1.23 0-2.295.825-2.52 1.935L5.205 11.7c-.12.585.12 1.185.6 1.56.24.18.525.27.81.27.24 0 .465-.06.675-.18l2.67-1.56c.21-.12.45-.18.69-.18h2.07c.24 0 .48.06.69.18l2.67 1.56c.21.12.435.18.675.18.285 0 .57-.09.81-.27.48-.375.72-.975.6-1.56z" />
-            </svg>
-        </span>
-    </a>
-
-    <!-- Pinterest -->
-    <a href="https://pinterest.com/pin/create/button/?url={{ $permalink }}&description={{ $title }}"
-        class="sns-button pn" target="_blank" rel="noopener noreferrer" title="Share on Pinterest">
-        <span class="sns-icon-wrapper">
-            <svg viewBox="0 0 24 24">
-                <path
-                    d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.965 1.406-5.965s-.359-.718-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738.098.119.112.224.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.261 7.929-7.261 4.162 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.631-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146 1.124.347 2.317.535 3.554.535 6.607 0 11.985-5.365 11.985-11.987C23.97 5.39 18.592.026 11.985.026L12.017 0z" />
+                    d="M24 10.304c0-5.369-5.383-9.738-12-9.738-6.616 0-12 4.369-12 9.738 0 4.814 4.269 8.846 10.036 9.608.391.084.922.258 1.057.59.121.303.079.778.039 1.083l-.171 1.027c-.052.303-.251 1.184 1.08 0 1.331-1.183 7.185-4.229 9.802-7.23 1.808-1.928 2.157-3.702 2.157-5.078zm-15.533 3.424h-1.64c-.321 0-.582-.261-.582-.582V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v2.622h1.058c.321 0 .582.261.582.582v.996c0 .321-.261.582-.582.582zm2.49 0h-.582c-.321 0-.582-.261-.582-.582V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v5.2c0 .321-.261.582-.582.582zm4.15 0h-.582c-.321 0-.582-.261-.582-.582V10.27l-2.071 3.238c-.061.096-.164.154-.275.154h-.232c-.111 0-.214-.058-.275-.154l-2.071-3.238v3.154c0 .321-.261.582-.582.582h-.582c-.321 0-.582-.261-.582-.582V8.528c0-.321.261-.582.582-.582h.232c.111 0 .214.058.275.154l2.203 3.442v-3.014c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v1.742l2.203-3.442c.061-.096.164-.154.275-.154h.232c.111 0 .214.058.275.154l2.071 3.238V8.528c0-.321.261-.582.582-.582h.582c.321 0 .582.261.582.582v5.2c0 .321-.261.582-.582.582zm4.15-1.162h-1.058V11.23h1.058c.321 0 .582-.261.582-.582v-.996c0-.321-.261-.582-.582-.582h-1.058V8.528c0-.321-.261-.582-.582-.582h-1.64c-.321 0-.582.261-.582.582v5.2c0 .321.261.582.582.582h2.222c.321 0 .582-.261.582-.582v-.996c0-.321-.261-.582-.582-.582z" />
             </svg>
         </span>
     </a>
@@ -75,9 +75,10 @@
     <!-- Copy Link -->
     <a href="#" class="sns-button cp" id="copy-sns-url" title="Copy Link">
         <span class="sns-icon-wrapper">
-            <svg viewBox="0 0 24 24">
-                <path
-                    d="M13.293 6.293 7.586 12l5.707 5.707 1.414-1.414L10.414 12l4.293-4.293zm4.293 4.293L11.879 16.293l-1.414-1.414 4.293-4.293-4.293-4.293 1.414-1.414 5.707 5.707z" />
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round"
+                stroke-linejoin="round">
+                <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path>
+                <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path>
             </svg>
         </span>
     </a>
@@ -85,27 +86,56 @@
 
 <script>
     (function () {
-        const copyBtn = document.getElementById('copy-sns-url');
-        if (copyBtn) {
-            copyBtn.addEventListener('click', function (e) {
+        function initSnsCopy() {
+            const copyBtn = document.getElementById('copy-sns-url');
+            if (!copyBtn) return;
+
+            // Remove existing listener if any to avoid duplicates
+            const newBtn = copyBtn.cloneNode(true);
+            copyBtn.parentNode.replaceChild(newBtn, copyBtn);
+
+            newBtn.addEventListener('click', function (e) {
                 e.preventDefault();
                 const url = window.location.href;
-                if (navigator.clipboard) {
-                    navigator.clipboard.writeText(url).then(showCopied);
+
+                if (navigator.clipboard && window.isSecureContext) {
+                    navigator.clipboard.writeText(url)
+                        .then(() => showFeedback(newBtn))
+                        .catch(err => fallbackCopy(url, newBtn));
                 } else {
-                    const tmp = document.createElement('input');
-                    tmp.value = url;
-                    document.body.appendChild(tmp);
-                    tmp.select();
-                    document.execCommand('copy');
-                    document.body.removeChild(tmp);
-                    showCopied();
+                    fallbackCopy(url, newBtn);
                 }
             });
         }
-        function showCopied() {
-            copyBtn.classList.add('copied');
-            setTimeout(() => copyBtn.classList.remove('copied'), 2000);
+
+        function fallbackCopy(text, btn) {
+            try {
+                const tmp = document.createElement('textarea');
+                tmp.value = text;
+                tmp.style.position = 'fixed';
+                tmp.style.left = '-9999px';
+                tmp.style.top = '0';
+                document.body.appendChild(tmp);
+                tmp.focus();
+                tmp.select();
+                const successful = document.execCommand('copy');
+                document.body.removeChild(tmp);
+                if (successful) showFeedback(btn);
+            } catch (err) {
+                console.error('Copy failed', err);
+            }
+        }
+
+        function showFeedback(btn) {
+            btn.classList.add('copied');
+            setTimeout(() => btn.classList.remove('copied'), 2000);
+        }
+
+        // Initialize on load and also on possible dynamic updates
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initSnsCopy);
+        } else {
+            initSnsCopy();
         }
     })();
 </script>
