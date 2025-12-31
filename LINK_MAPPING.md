@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-31
-> **Status:** ✅ Complete - 108 posts mapped
+> **Status:** ✅ Complete - 110 posts mapped
 
 ---
 
@@ -206,6 +206,8 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
 | 223691371517 | tokyo-station-guide | Tokyo Station Pokemon Store & Pikachu Card Review |
 | 223707471582 | tokyo-ramen-street-best-8 | 2024-12-28 | ✅ |
+| 224123307702 | tokyo-january-1-onsen-spa-24-hours | 2025-12-31 | ✅ |
+| 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
 | 223681848151 | tokyo-station-guide | KITTE Marunouchi Christmas Tree & Free Observatory |
 | 223675706489 | tokyo-station-guide | Tokyo Station Breakfast: The Front Room French Toast |
 | 223675952285 | tokyo-station-guide | Marunouchi Building Free Observatory Sunset View |
