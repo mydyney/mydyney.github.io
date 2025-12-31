@@ -11,17 +11,23 @@
         {{ if eq .Language.Lang "en" }}
         <p class="footer-description">
           <strong>Authentic Tokyo Guide</strong><br>
-          Based on real experiences from the popular Korean blog <strong><a href="https://blog.naver.com/tokyomate" target="_blank" style="color: inherit; text-decoration: underline;">Tokyo Mate</a></strong>, we share local insights, best eats, and hidden gems you won't find in guidebooks.
+          Based on real experiences from the popular Korean blog <strong><a href="https://blog.naver.com/tokyomate"
+              target="_blank" style="color: inherit; text-decoration: underline;">Tokyo Mate</a></strong>, we share
+          local insights, best eats, and hidden gems you won't find in guidebooks.
         </p>
         {{ else if eq .Language.Lang "ja" }}
         <p class="footer-description">
           <strong>東京メイト (Tokyo Mate)</strong><br>
-          韓国の人気ブログ<strong><a href="https://blog.naver.com/tokyomate" target="_blank" style="color: inherit; text-decoration: underline;">Tokyo Mate</a></strong>の実体験に基づき、ガイドブックには載っていない東京の隠れた名所やリアルなグルメ情報をお届けします。
+          韓国の人気ブログ<strong><a href="https://blog.naver.com/tokyomate" target="_blank"
+              style="color: inherit; text-decoration: underline;">Tokyo
+              Mate</a></strong>の実体験に基づき、ガイドブックには載っていない東京の隠れた名所やリアルなグルメ情報をお届けします。
         </p>
         {{ else if eq .Language.Lang "zh-cn" }}
         <p class="footer-description">
           <strong>Tokyo Mate (东京伴侣)</strong><br>
-          基于韩国人气博客<strong><a href="https://blog.naver.com/tokyomate" target="_blank" style="color: inherit; text-decoration: underline;">Tokyo Mate</a></strong>的亲身经历，为您严选东京当地美食与隐秘景点，带您发现最真实的东京。
+          基于韩国人气博客<strong><a href="https://blog.naver.com/tokyomate" target="_blank"
+              style="color: inherit; text-decoration: underline;">Tokyo
+              Mate</a></strong>的亲身经历，为您严选东京当地美食与隐秘景点，带您发现最真实的东京。
         </p>
         {{ end }}
       </div>
@@ -54,8 +60,8 @@
           <li>
             <a href="mailto:tripmate.news@gmail.com">
               <svg class="footer-icon" viewBox="0 0 20 20" fill="currentColor">
-                <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z"/>
-                <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z"/>
+                <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
+                <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
               </svg>
               tripmate.news@gmail.com
             </a>
@@ -70,20 +76,20 @@
     <div class="footer-language">
       <span class="language-label">Languages:</span>
       {{ if .IsTranslated }}
-        <!-- Current page has translations -->
-        <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
-        {{ range .Translations }}
-          <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
-        {{ end }}
+      <!-- Current page has translations -->
+      <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
+      {{ range .Translations }}
+      <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
+      {{ end }}
       {{ else }}
-        <!-- No translation for current page, link to home page in each language -->
-        {{ range $.Site.Home.AllTranslations }}
-          {{ if eq .Language.Lang $.Language.Lang }}
-            <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
-          {{ else }}
-            <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
-          {{ end }}
-        {{ end }}
+      <!-- No translation for current page, link to home page in each language -->
+      {{ range $.Site.Home.AllTranslations }}
+      {{ if eq .Language.Lang $.Language.Lang }}
+      <a href="{{ .Permalink }}" class="language-link active">{{ .Language.LanguageName }}</a>
+      {{ else }}
+      <a href="{{ .Permalink }}" class="language-link">{{ .Language.LanguageName }}</a>
+      {{ end }}
+      {{ end }}
       {{ end }}
     </div>
 
@@ -98,3 +104,15 @@
     </div>
   </div>
 </footer>
+<script>
+  // Copy Protection Script
+  document.addEventListener('contextmenu', event => event.preventDefault()); // Disable right-click
+  document.addEventListener('copy', event => event.preventDefault()); // Disable copy event
+  document.addEventListener('keydown', event => {
+    // Disable Ctrl+C, Ctrl+X, Ctrl+U, and Cmd+C (macOS)
+    if ((event.ctrlKey || event.metaKey) && (event.key === 'c' || event.key === 'C' || event.key === 'x' || event.key === 'X' || event.key === 'u' || event.key === 'U')) {
+      event.preventDefault();
+      return false;
+    }
+  }, false);
+</script>
