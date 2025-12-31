@@ -139,9 +139,9 @@ translationKey: "tokyo-3-day-itinerary-landmark-series"
 3. 上野 → 東京駅（JY山手線）◀ この区間のみ交通カード使用
 4. 東京駅 → 新宿（東京メトロ丸ノ内線M）
 
-👉 <strong>[Klook 東京地下鉄パス（24/48/72時間）最安値予約](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)</strong>
+👉 <strong>[Klook 東京メトロパス（24/48/72時間）最安値予約](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)</strong>
 
-✅ <strong>[東京地下鉄パス購入、交換所、使用法、路線総まとめ](/posts/tokyo-subway-ticket-guide/)</strong>
+✅ <strong>[東京メトロパス購入、交換所、使用法、路線総まとめ](/posts/tokyo-subway-ticket-guide/)</strong>
 
 ### 10:00 | 🏮 浅草浅草寺（ランドマーク）
 
@@ -208,7 +208,7 @@ JR山手線に乗って東京駅へ移動。100年以上の赤レンガ駅舎は
 
 👉 <strong>[Klook 地下鉄パス（東京サブウェイチケット）割引](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)</strong>
 
-✅ <strong>[東京地下鉄パス購入、交換所、使用法、路線（24、48、72時間）](/posts/tokyo-subway-ticket-guide/)</strong>
+✅ <strong>[東京メトロパス購入、交換所、使用法、路線（24、48、72時間）](/posts/tokyo-subway-ticket-guide/)</strong>
 
 ### 9:00 | 🐟 築地場外市場
 

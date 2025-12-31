@@ -175,7 +175,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klook 地下鉄パス（東京サブウェイチケット）割引予約</a></b></p>
 
-<p><b>✅ <a href="/ja/posts/tokyo-subway-ticket-guide/" target="_blank">東京地下鉄パス購入、交換所、使い方、路線（24、48、72時間）</a></b></p>
+<p><b>✅ <a href="/ja/posts/tokyo-subway-ticket-guide/" target="_blank">東京メトロパス購入、交換所、使い方、路線（24、48、72時間）</a></b></p>
 
 ### 午前9:00 | 🐟 築地場外市場
 

@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-31
-> **Status:** ✅ Complete - 110 posts mapped
+> **Status:** ✅ Complete - 111 posts mapped
 
 ---
 
@@ -225,7 +225,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224002738158 | narita-express-guide | Narita Express (N'EX) Reservation, Price, Timetable |
 
 
-| 224025699867 | tokyo-autumn-foliage-best-spots-2025, tokyo-transportation-card-guide-2025, odaiba-ariake-toyosu-complete-guide | Tokyo Metro Pass vs JR Tokunai Pass Complete Comparison |
+| 224025699867 | tokyo-subway-pass-jr-tokunai-pass-comparison | 2025-09-29 | ✅ |
 | 224026292057 | tokyo-autumn-foliage-best-spots-2025 | 2025 Tokyo October Festivals & Must-Visit Places |
 | 223979907748 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama 1-Day Course: Chinatown Restaurants, Akarenga, Night Views Complete Guide |
 | 223976102621 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama Transportation Pass, 'Minato Burari Ticket' Complete Guide |

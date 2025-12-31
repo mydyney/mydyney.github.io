@@ -197,11 +197,11 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 そして <strong>地下鉄パスで行けないJR路線</strong> に乗ったり、<strong>コンビニで飲み物を買う時</strong> は <strong>「Suica(or PASMO)」</strong> で決済するのが最も賢い組み合わせです!
 
-<strong>⭐ 東京地下鉄パス詳しく見る</strong>
+<strong>⭐ 東京メトロパス詳しく見る</strong>
 
-<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank"><strong>Klook(クルック)で東京地下鉄パス(24/48/72時間券)購入する</strong></a>
+<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank"><strong>Klook(クルック)で東京メトロパス(24/48/72時間券)購入する</strong></a>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>東京地下鉄パス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong></a>
+<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>東京メトロパス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong></a>
 
 ---
 
@@ -213,7 +213,7 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 下記ガイドで2つのパスの長所と短所を完璧に比較しておきましたので、必ず確認してご自身の動線に合った「元が取れる」パスを選んでください!
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京地下鉄パス vs JR都区内パス、完璧比較!</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>東京メトロパス vs JR都区内パス、完璧比較!</strong></a>
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-09.jpg" alt="JR都区内パス1日券利用可能地図">

@@ -1,17 +1,17 @@
 ---
-title: "東京地下鉄パス 引換場所、購入、使い方、路線まとめ (24、48、72時間)"
+title: "東京メトロパス 引換場所、購入、使い方、路線まとめ (24、48、72時間)"
 date: 2025-09-29T19:07:00+09:00
 draft: false
 translationKey: "tokyo-subway-ticket-guide"
-description: "2025年最新の東京地下鉄パス完全ガイド。お得な購入方法、QRコードの引換場所、使い方、利用可能な路線図まで徹底解説します。"
+description: "2025年最新の東京メトロパス完全ガイド。お得な購入方法、QRコードの引換場所、使い方、利用可能な路線図まで徹底解説します。"
 categories: ["旅行ガイド"]
-tags: ["東京地下鉄パス", "東京観光", "東京交通", "24時間券"]
+tags: ["東京メトロパス", "東京観光", "東京交通", "24時間券"]
 featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 ---
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">購入した<b>東京地下鉄パス</b>を、どこで引き換えればいいか迷っていませんか？<br>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">購入した<b>東京メトロパス</b>を、どこで引き換えればいいか迷っていませんか？<br>
 この記事では、2025年最新の引換場所から一番お得な購入方法、<br>
 使い方、そして24・48・72時間券で利用できる路線まで、<br>
 知っておくべき情報をすべてまとめました。</p>
@@ -19,14 +19,14 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 <br>
 
 <figure>
-  <img src="/images/posts/tokyo-subway-ticket-guide-01.jpg" alt="東京地下鉄パス ガイド ヘッダー">
-  <figcaption style="font-size: 0.7em; text-align: center;">東京地下鉄パス：引換・購入・使い方ガイド</figcaption>
+  <img src="/images/posts/tokyo-subway-ticket-guide-01.jpg" alt="東京メトロパス ガイド ヘッダー">
+  <figcaption style="font-size: 0.7em; text-align: center;">東京メトロパス：引換・購入・使い方ガイド</figcaption>
 </figure>
 
 <br>
 
 <p><b>📌 注意：地下鉄パスだけでは不十分な場合も！</b></p>
-<p><b>東京地下鉄パス</b>は地下鉄が乗り放題になりますが、<b>JR線やバス、コンビニでの支払いには利用できません</b>。スムーズな移動のために、<b>交通系ICカード（SuicaやPASMO）</b>も併用することをおすすめします。iPhoneでのSuica発行方法については、以下のガイドをチェックしてください。</p>
+<p><b>東京メトロパス</b>は地下鉄が乗り放題になりますが、<b>JR線やバス、コンビニでの支払いには利用できません</b>。スムーズな移動のために、<b>交通系ICカード（SuicaやPASMO）</b>も併用することをおすすめします。iPhoneでのSuica発行方法については、以下のガイドをチェックしてください。</p>
 
 <p>➡️ <b><a href="/ja/posts/tokyo-transportation-card-guide-2025/">【2025】東京の交通系ICカードガイド：iPhone Suica、Welcome Suica、PASMOの使い方</a></b></p>
 
@@ -34,7 +34,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <h2 id="pricing-types">1. 料金と種類：どれが自分に合っている？</h2>
 
-<p>東京地下鉄パスには3つの種類があります。旅行の期間やスタイルに合わせて選んでください。</p>
+<p>東京メトロパスには3つの種類があります。旅行の期間やスタイルに合わせて選んでください。</p>
 
 <p><b>📌 お得なヒント：</b> 3日以上滞在するなら、<b>72時間券</b>が圧倒的にお得です。1日3回以上地下鉄に乗れば、元が取れる計算になります！</p>
 
@@ -74,8 +74,8 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 <br>
 
 <figure>
-  <img src="/images/posts/tokyo-subway-ticket-guide-02.jpg" alt="東京地下鉄パス 24, 48, 72時間券">
-  <figcaption style="font-size: 0.7em; text-align: center;">東京地下鉄パス 24, 48, 72時間券 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
+  <img src="/images/posts/tokyo-subway-ticket-guide-02.jpg" alt="東京メトロパス 24, 48, 72時間券">
+  <figcaption style="font-size: 0.7em; text-align: center;">東京メトロパス 24, 48, 72時間券 (<a href="https://www.klook.com/ko/activity/1552-subway-ticket-tokyo/?aid=89176&aff_adid=1135033" target="_blank">出典</a>)</figcaption>
 </figure>
 
 <br>
@@ -84,7 +84,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <p>現地で購入することもできますが、<b>Klook</b>や<b>KKday</b>などの旅行プラットフォームで事前に予約しておくと、安くスムーズに購入できる場合が多いです。</p>
 
-<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klookで東京地下鉄パスを最安値で予約する</a></b></p>
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klookで東京メトロパスを最安値で予約する</a></b></p>
 
 <br>
 
@@ -157,14 +157,14 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-subway-ticket-guide-07.jpg" alt="東京地下鉄路線図">
-  <figcaption style="font-size: 0.7em; text-align: center;">東京地下鉄パスが利用可能な路線（計13路線） (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">出典</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">東京メトロパスが利用可能な路線（計13路線） (<a href="https://www.tokyometro.jp/kr/tips/index.html" target="_blank">出典</a>)</figcaption>
 </figure>
 
 <br>
 
 <h2 id="airport-arrival">5. 空港到着後の利用開始駅</h2>
 
-<p>東京地下鉄パスは空港特急（JR成田エクスプレス、京成スカイライナーなど）では利用できません。市内の<b>最初の乗換駅</b>から利用を開始します。</p>
+<p>東京メトロパスは空港特急（JR成田エクスプレス、京成スカイライナーなど）では利用できません。市内の<b>最初の乗換駅</b>から利用を開始します。</p>
 
 <br>
 
@@ -206,11 +206,11 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <h2 id="bundle-tickets">6. さらにお得に！セットチケット</h2>
 
-<p>東京地下鉄パスを他の交通機関や観光地のチケットとセットで購入すると、さらにお得になります。</p>
+<p>東京メトロパスを他の交通機関や観光地のチケットとセットで購入すると、さらにお得になります。</p>
 
 <br>
 
-<h3>🚇 京成スカイライナー ＋ 東京地下鉄パス</h3>
+<h3>🚇 京成スカイライナー ＋ 東京メトロパス</h3>
 <p>成田空港を利用する方に強くおすすめします。個別に購入するよりもずっと安くなります。</p>
 
 <p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klookでスカイライナー＋地下鉄パスセットを最安値で予約する</a></b></p>
@@ -261,7 +261,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <br>
 
-<h3>🗼 観光スポット ＋ 東京地下鉄パス</h3>
+<h3>🗼 観光スポット ＋ 東京メトロパス</h3>
 <p><b>東京スカイツリー、東京タワー、渋谷スカイ、teamLab Planets</b>など、主要スポットのチケットとのセットプランも用意されています。</p>
 
 <p>➡️ <b><a href="https://www.tokyometro.jp/tst/en/ticket-overseas-purchase.html" target="_blank">観光スポット ＋ 地下鉄パスのセット割引をチェックする</a></b></p>
