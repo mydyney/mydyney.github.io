@@ -127,6 +127,7 @@ When migrating a Naver blog post to Hugo:
 | 224026098490 | tokyo-subway-ticket-guide | 2025-09-29 | ✅ |
 | 224010546735 | japanese-whisky-yamazaki-hibiki-price-guide | 2025-09-16 | ✅ |
 | 224125943419 | tokyo-3-day-itinerary-landmark-series | 2025-12-29 | ✅ |
+| 224025699867 | tokyo-subway-pass-jr-tokunai-pass-comparison | 2025-09-29 | ✅ |
 
 ---
 
@@ -225,7 +226,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224002738158 | narita-express-guide | Narita Express (N'EX) Reservation, Price, Timetable |
 
 
-| 224025699867 | tokyo-subway-pass-jr-tokunai-pass-comparison | 2025-09-29 | ✅ |
+
 | 224026292057 | tokyo-autumn-foliage-best-spots-2025 | 2025 Tokyo October Festivals & Must-Visit Places |
 | 223979907748 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama 1-Day Course: Chinatown Restaurants, Akarenga, Night Views Complete Guide |
 | 223976102621 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama Transportation Pass, 'Minato Burari Ticket' Complete Guide |
