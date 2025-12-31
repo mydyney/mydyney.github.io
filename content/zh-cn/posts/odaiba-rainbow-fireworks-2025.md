@@ -246,7 +246,7 @@ Aqua City前的「LOVE」雕塑附近。<strong>[彩虹大桥+自由女神像+�
 
 烟花结束后，坐在百合海鸥号最前排穿过夜景。在上班族圣地「新桥」享用美味晚餐和饮品，完美结束一天。
 
-<strong>➡️ [东京新桥&汐留攻略：穿越过去与未来的傍晚路线（餐厅、夜景）](/posts/shinbashi-shiodome-evening-course/)</strong>
+<strong>➡️ [东京新桥&汐留攻略：穿越过去与未来的傍晚路线（餐厅、夜景）](/posts/shimbashi-shiodome-evening-course/)</strong>
 
 ---
 

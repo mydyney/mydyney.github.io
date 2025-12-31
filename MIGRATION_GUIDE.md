@@ -1,6 +1,6 @@
 # MIGRATION_GUIDE.md - Naver Blog to Hugo Migration Guide
 
-> **Last Updated:** 2025-12-26
+> **Last Updated:** 2025-12-31
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Purpose:** Step-by-step guide for migrating Naver blog posts to Hugo
 
@@ -99,117 +99,76 @@ To ensure quality and allow for early feedback, follow this incremental approach
   - Create SEO-friendly kebab-case slug
   - Rules: lowercase, hyphens, keyword-rich, under 60 chars
   - Example: `roppongi-christmas-illumination-2025`
-  - **Immediately record in LINK_MAPPING.md** (Naver ID → Hugo slug mapping)
+  - **Check if already recorded in LINK_MAPPING.md:**
+    - Look for the Naver ID in the `Quick Reference Table`.
+    - **If NOT found:** Add a new row with Status `pending` and Date `-`.
+    - This reserves the slug for consistency across future posts.
 - Count images and verify order
 - Load LINK_MAPPING.md for internal link conversion
 - Identify all Naver links in content
 
-**Step 3.1.5: Handling Long Naver Posts (Section-by-Section Approach)**
-
-When encountering exceptionally long Naver posts (1,000+ lines of HTML), use a section-by-section creation approach:
-
-**When to Use:**
-- Naver HTML exceeds 1,000 lines
-- Post contains 10+ tables or extensive lists
-- Content is highly structured (e.g., comprehensive guides, store listings)
-- Risk of exceeding response length limits
-
-**Workflow:**
-1. **Analyze and Plan:**
-   - View entire `naver.md` to understand structure
-   - Identify logical section breaks (headings, topics)
-   - Create mental outline of 5-7 major sections
-
-2. **Section-by-Section Creation:**
-   - Generate English version section by section
-   - Each section should be complete with:
-     - Proper markdown formatting
-     - Converted tables
-     - Internal link placeholders
-     - Images with captions
-   - **DO NOT** request approval after each section
-   - Continue until entire post is complete
-
-3. **Integration:**
-   - Combine all sections into single cohesive file
-   - Ensure consistent formatting throughout
-   - Verify all sections flow naturally
-   - Check that front matter is complete
-
-4. **User Review:**
-   - Present complete English version for review
-   - Wait for user "OK" before proceeding to JA/ZH-CN
-
-**Example Structure:**
-```markdown
-## Section 1: Introduction + Warning
-(Generate content)
-
-## Section 2: Hatsuuri Strategy  
-(Generate content)
-
-## Section 3: Places Open on Jan 1
-(Generate content)
-
-## Section 4: Observatory Hours
-(Generate content with tables)
-
-## Section 5: Outlets
-(Generate content)
-
-## Section 6: Transportation
-(Generate content)
-
-## Section 7: Summary
-(Generate content)
-```
-
-**Benefits:**
-- Maintains focus on each section
-- Reduces risk of incomplete content
-- Easier to verify accuracy
-- Better handling of complex tables
-- Avoids response truncation
 
 **Step 3.2: Create English Version FIRST**
 - Create `content/en/posts/[slug].md` (using slug from Step 3.1)
 - Apply all content creation guidelines (see below)
+  - **Handling Naver Posts (Mandatory Workflow):**
+    1. **Analyze and Plan:**
+       - View entire `naver.md` to understand structure.
+       - **If `naver.md` is too long:** Identify logical section breaks (headings, topics) and split into 5-7 major sections.
+       - Create mental outline of sections.
+    2. **Section-by-Section Creation:**
+       - Generate English version section by section.
+       - Each section should be complete with:
+         - Proper markdown formatting
+         - Converted tables
+         - Internal link placeholders
+         - Images with captions
+       - **DO NOT** request approval after each section.
+       - Continue until entire post is complete.
+    3. **Integration:**
+       - Combine all sections into a single cohesive file.
+       - Ensure consistent formatting throughout.
+       - Verify all sections flow naturally.
+       - Check that front matter is complete.
 - **⚠️ CRITICAL: Process ALL Naver links using Link Conversion Workflow:**
   1. **Identify all Naver links** in the source content:
      ```bash
      grep -o 'blog.naver.com/tokyomate/[0-9]*' naver.md | sort -u
      ```
   2. **For EACH Naver link, check LINK_MAPPING.md Quick Reference Table:**
-     - **CRITICAL:** Check the **"Status" column** (4th column) for ✅ mark
-     - **If Status = ✅:** Post is migrated → Use Hugo slug (e.g., `/posts/[slug]/`)
-     - **If Status is EMPTY or post is in "Pending References" section:** Post is NOT migrated → Use TODO placeholder
-     - **DO NOT** use slugs from "Pending References" section - these are unmigrated posts!
-  3. **Verification before user review:**
-     ```bash
-     # Count Naver links in original
-     grep -o 'blog.naver.com/tokyomate' naver.md | wc -l
-     
-     # Count converted links (should match)
-     grep -E '(/posts/|TODO: Update link)' content/en/posts/[slug].md | wc -l
-     
-     # CRITICAL: Verify NO href="#" remains
-     grep -E 'href="#"' content/en/posts/[slug].md | wc -l  # Should be 0
-     ```
-  4. **Double-check:** NO `href="#"` should remain in the final post
-- **⚠️ MANDATORY: Add Editor's Note section at the end** (see CONTENT_GUIDELINES.md for format)
-- **STOP and request user review**
-- Wait for user "OK" before proceeding
+     - **CRITICAL:** Check the **"Status" column** (4th column).
+     - **If Status = ✅:** Post is migrated → Use Hugo slug (e.g., `/posts/[slug]/`).
+     - **If Status = pending:** Slug is reserved but not yet migrated → Use TODO placeholder.
 
-**Step 3.3: Create Japanese & Chinese Versions (After EN Approval)**
+   3. **Use TODO Placeholder (when mapping doesn't exist OR file doesn't exist):**
+
+      ```html
+      <!-- TODO: Update link after migration
+           Naver: https://blog.naver.com/tokyomate/224065668379
+           Hugo: /posts/roppongi-christmas-illumination-2025/ -->
+      <a href="#" style="color: #667eea;">Related Article</a>
+      ```
+- **⚠️ MANDATORY: Add Editor's Note section at the end** (see CONTENT_GUIDELINES.md for format)
+  - MUST be added at the end of EVERY post before closing `</div>` tag
+  - Use correct Naver post ID from LINK_MAPPING.md
+  - Language-specific text for EN/JA/ZH-CN versions
+**Step 3.3: Hugo Local Preview & User Approval**
+- Provide local preview link for the English version:
+  - `http://localhost:1313/posts/[slug]/`
+- **STOP and request user review**
+- Wait for user "OK" before proceeding to Japanese/Chinese versions.
+
+**Step 3.4: Create Japanese & Chinese Versions (After EN Approval)**
 - Create `content/ja/posts/[slug].md`
 - Create `content/zh-cn/posts/[slug].md`
 - Apply same guidelines with language-specific adaptations
 
-**Step 3.4: Finalize LINK_MAPPING.md**
-- Verify new entry in Quick Reference Table (added in Step 3.1)
-- Verify slug in `declare -A MAPPINGS` array (added in Step 3.1)
-- Update Pending References section
-- Note: Placeholder links in existing posts will be updated in future migrations
+**Step 3.5: Finalize LINK_MAPPING.md**
+- Update the entry in `Quick Reference Table`:
+  - Change Status from `pending` to `✅`.
+  - Update Date from `-` to the actual migration date.
+- Remove the ID from `## Pending Link References` section if it was listed there.
+- Note: Placeholder links in existing posts will be updated in future migrations.
 
 **Analysis:**
 
@@ -228,21 +187,8 @@ When encountering exceptionally long Naver posts (1,000+ lines of HTML), use a s
 - Load LINK_MAPPING.md for internal link conversion
 - Identify all Naver links in content
 
-**Content Creation Requirements:**
 
-**LINK_MAPPING.md Updates:**
-- Add new entry to Quick Reference Table
-- Add slug to `declare -A MAPPINGS` array
-- Check and update Pending References
-- Update placeholder links in existing posts
-
-**⚠️ MANDATORY SECTIONS (NO EXCEPTIONS):**
-- **Editor's Note**: MUST be added at the end of EVERY post before closing `</div>` tag
-  - See CONTENT_GUIDELINES.md section "Editor's Note" for exact format
-  - Use correct Naver post ID from LINK_MAPPING.md
-  - Language-specific text for EN/JA/ZH-CN versions
-
-### Step 4: Claude Downloads Images
+### Step 5: Claude Downloads Images
 
 ```bash
 python3 download_naver_images.py "[slug]"
@@ -251,7 +197,7 @@ python3 download_naver_images.py "[slug]"
 # Auto-converts to JPG format
 ```
 
-### Step 5: Claude Provides Local Preview Links
+### Step 6: Claude Provides Local Preview Links
 
 ```
 EN: http://localhost:1313/posts/[slug]/
@@ -259,7 +205,7 @@ JA: http://localhost:1313/ja/posts/[slug]/
 ZH-CN: http://localhost:1313/zh-cn/posts/[slug]/
 ```
 
-### Step 5.5: Claude Verifies Content Completeness
+### Step 6.5: Claude Verifies Content Completeness
 
 **MANDATORY VERIFICATION CHECKLIST:**
 
@@ -309,13 +255,13 @@ Before providing preview links to user, verify the following counts match betwee
 - Update all three language versions before providing preview links
 - Re-verify counts until all match
 
-### Step 6: User Reviews and Confirms
+### Step 7: User Reviews and Confirms
 
 ```
 User: "OK" or provides feedback
 ```
 
-### Step 7: Claude Deploys to GitHub
+### Step 8: Claude Deploys to GitHub
 
 ```bash
 git add .
@@ -595,16 +541,6 @@ Create working internal link with proper language prefix:
 <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/">相关文章</a>
 ```
 
-**Step 4: Use TODO Placeholder**
-
-When mapping doesn't exist OR file doesn't exist:
-
-```html
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224065668379
-     Hugo: /posts/roppongi-christmas-illumination-2025/ -->
-<a href="#" style="color: #667eea;">Related Article</a>
-```
 
 ---
 

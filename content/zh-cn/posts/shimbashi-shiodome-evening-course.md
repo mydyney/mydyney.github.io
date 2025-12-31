@@ -2,12 +2,12 @@
 title: "东京新橋・汐留推荐路线：漫步过去与未来的傍晚散策（美食・夜景攻略）"
 date: 2025-10-17T22:46:00+09:00
 draft: false
-translationKey: "shinbashi-shiodome-evening-course"
+translationKey: "shimbashi-shiodome-evening-course"
 description: "从新橋烟雾缭绕的居酒屋横丁到汐留绝美夜景，体验真正的东京之夜完全指南。以Tabelog百名店为中心推荐美食。"
 summary: "上班族圣地新橋的热闹居酒屋横丁与未来都市汐留的夜景完美结合。巡游Tabelog百名店名店和免费展望台的完美傍晚路线。"
 tags: ["新桥", "汐留", "居酒屋", "烤鸡串", "夜景", "东京美食", "Tabelog百名店", "汐留Caretta", "宫崎骏"]
 categories: ["新桥/汐留"]
-featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
+featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 ---
 
 <div class="blog-container">
@@ -18,7 +18,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 那么这里就是答案！</p>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-01.jpg" alt="东京新橋汐留地区夜景插图">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-01.jpg" alt="东京新橋汐留地区夜景插图">
   <figcaption style="font-size: 0.7em; text-align: center;">新橋・汐留：过去与未来相遇的地方</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <strong>🚇 交通：</strong> JR山手线・京滨东北线、东京Metro银座线、都营浅草线、百合鸥线 → <strong>新橋站</strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-02.jpg" alt="新橋站SL广场蒸汽机车">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-02.jpg" alt="新橋站SL广场蒸汽机车">
   <figcaption style="font-size: 0.7em; text-align: center;">新橋站SL广场</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 - <strong>百合鸥新橋站</strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-03.jpg" alt="从新橋大楼群看到的日出">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-03.jpg" alt="从新橋大楼群看到的日出">
   <figcaption style="font-size: 0.7em; text-align: center;">从新橋大楼群看到的日出</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <strong>📌 实用信息：</strong> 在新橋享用晚餐后，配合<strong>晚8点的表演</strong>到访，可以欣赏到灯光点亮后更加神秘的姿态。
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-04.jpg" alt="宫崎骏的日本电视台大钟">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-04.jpg" alt="宫崎骏的日本电视台大钟">
   <figcaption style="font-size: 0.7em; text-align: center;">宫崎骏的日本电视台大钟</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 餐厅区电梯旁边，有一个由小窗户组成的免费展望空间。虽然空间狭小，但透过玻璃窗展开的台场<strong>彩虹大桥</strong>和<strong>东京湾夜景</strong>，提供不输给普通收费展望台的绝佳景色。
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-05.jpg" alt="Caretta汐留免费展望台晚霞">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-05.jpg" alt="Caretta汐留免费展望台晚霞">
   <figcaption style="font-size: 0.7em; text-align: center;">Caretta汐留免费展望台的晚霞</figcaption>
 </figure>
 
@@ -116,16 +116,16 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/XjJ296SU3RsMcbRYEMTW?medium_slug=AJvA6Kg5ptKi" target="_blank">在线预约响Kitchen & Bar</a></strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-06.jpg" alt="响Kitchen & Bar 47层夜景">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-06.jpg" alt="响Kitchen & Bar 47层夜景">
   <figcaption style="font-size: 0.7em; text-align: center;">Caretta汐留47层响Kitchen & Bar的夜景</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shinbashi-shiodome-evening-course-07.jpg" alt="响Kitchen & Bar料理1">
+    <img src="/images/posts/shimbashi-shiodome-evening-course-07.jpg" alt="响Kitchen & Bar料理1">
   </figure>
   <figure>
-    <img src="/images/posts/shinbashi-shiodome-evening-course-08.jpg" alt="响Kitchen & Bar料理2">
+    <img src="/images/posts/shimbashi-shiodome-evening-course-08.jpg" alt="响Kitchen & Bar料理2">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Caretta汐留47层响Kitchen & Bar的料理</figcaption>
 </div>
@@ -171,7 +171,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 - 位于从新橋往银座方向。日本最好的烤鸡串名店之一。外酥内多汁的"鸡尾肉（尻尾肉）"串推荐。价格虽高，但想体验完美烤串的话是最佳选择
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-09.jpg" alt="新橋上班族灵魂食物烤鸡串">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-09.jpg" alt="新橋上班族灵魂食物烤鸡串">
   <figcaption style="font-size: 0.7em; text-align: center;">新橋上班族的灵魂食物：烤鸡串</figcaption>
 </figure>
 
@@ -196,7 +196,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 - <strong><a href="https://maps.app.goo.gl/926aMoTsKrGEPawH8" target="_blank">炸牛排 冈田（牛かつ おか田）</a> 📍</strong>：东京炸牛排的元祖。在个人炉子上直接烤半生牛肉享用的乐趣
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-10.jpg" alt="黑猪炸猪排堀壱炸猪排定食">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-10.jpg" alt="黑猪炸猪排堀壱炸猪排定食">
   <figcaption style="font-size: 0.7em; text-align: center;">黑猪炸猪排堀壱炸猪排定食</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京鳗鱼名店 | 炭烤 鳗富士 有乐町店评测</strong></a></strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-11.jpg" alt="炭烤鳗富士有乐町店鳗鱼名店鳗鱼三吃">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-11.jpg" alt="炭烤鳗富士有乐町店鳗鱼名店鳗鱼三吃">
   <figcaption style="font-size: 0.7em; text-align: center;">炭烤鳗富士有乐町店鳗鱼三吃</figcaption>
 </figure>
 

@@ -218,7 +218,7 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
 
 ## 🧡 Related Shimbashi Travel Guides
 
-<strong>➡️</strong> <a href="/posts/shinbashi-shiodome-evening-course/" style="color: #667eea;"><strong>Tokyo Shimbashi & Shiodome Must-Visit Places: Evening Course Walking Through Past and Future (Restaurants, Night Views)</strong></a>
+<strong>➡️</strong> <a href="/posts/shimbashi-shiodome-evening-course/" style="color: #667eea;"><strong>Tokyo Shimbashi & Shiodome Must-Visit Places: Evening Course Walking Through Past and Future (Restaurants, Night Views)</strong></a>
 
 ## 🎁 Tokyo Shopping Guides
 

@@ -246,7 +246,7 @@ Take the cruise from Asakusa to Odaiba! Enjoy Odaiba's attractions all day, culm
 
 After the fireworks, sit in the front seat of Yurikamome and travel through the night view. End your day perfectly with delicious dinner and drinks at 'Shinbashi', the office workers' mecca.
 
-<strong>➡️ [Tokyo Shinbashi & Shiodome Guide: Evening Course Walking Past and Future (Restaurants, Night Views)](/posts/shinbashi-shiodome-evening-course/)</strong>
+<strong>➡️ [Tokyo Shinbashi & Shiodome Guide: Evening Course Walking Past and Future (Restaurants, Night Views)](/posts/shimbashi-shiodome-evening-course/)</strong>
 
 ---
 

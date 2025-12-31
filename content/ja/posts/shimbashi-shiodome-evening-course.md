@@ -2,12 +2,12 @@
 title: "東京新橋・汐留おすすめコース：過去と未来を歩く夕方散策（グルメ・夜景）"
 date: 2025-10-17T22:46:00+09:00
 draft: false
-translationKey: "shinbashi-shiodome-evening-course"
+translationKey: "shimbashi-shiodome-evening-course"
 description: "新橋の煙立ち込める居酒屋横丁から汐留の絶景夜景まで。本物の東京の夜を体験できる完全ガイド。食べログ百名店を中心にご紹介。"
 summary: "サラリーマンの聖地・新橋の活気ある居酒屋横丁と、未来都市・汐留の夜景を満喫。食べログ百名店の名店と無料展望台を巡る完璧な夕方コース。"
 tags: ["新橋", "汐留", "居酒屋", "焼き鳥", "夜景", "東京グルメ", "食べログ百名店", "カレッタ汐留", "宮崎駿"]
 categories: ["新橋/汐留"]
-featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
+featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 ---
 
 <div class="blog-container">
@@ -18,7 +18,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 ここが正解です！</p>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-01.jpg" alt="東京新橋汐留エリア夜景イラスト">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-01.jpg" alt="東京新橋汐留エリア夜景イラスト">
   <figcaption style="font-size: 0.7em; text-align: center;">新橋・汐留：過去と未来が出会う場所</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <strong>🚇 アクセス</strong>: JR山手線・京浜東北線、東京メトロ銀座線、都営浅草線、ゆりかもめ → <strong>新橋駅</strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-02.jpg" alt="新橋駅SL広場蒸気機関車">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-02.jpg" alt="新橋駅SL広場蒸気機関車">
   <figcaption style="font-size: 0.7em; text-align: center;">新橋駅SL広場</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 - <strong>ゆりかもめ新橋駅</strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-03.jpg" alt="新橋ビル群から見える日の出">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-03.jpg" alt="新橋ビル群から見える日の出">
   <figcaption style="font-size: 0.7em; text-align: center;">新橋ビル群から見える日の出</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <strong>📌 お役立ち情報</strong>: 新橋で夕食を楽しんだ後、<strong>夜8時公演</strong>に合わせて訪問すると、照明が点灯してさらに神秘的な姿を鑑賞できます。
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-04.jpg" alt="宮崎駿の日テレ大時計">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-04.jpg" alt="宮崎駿の日テレ大時計">
   <figcaption style="font-size: 0.7em; text-align: center;">宮崎駿の日テレ大時計</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 レストラン街への エレベーターのすぐ隣、小さな窓で構成された無料展望スペースがあります。スペースは狭いですが、ガラス窓越しに広がるお台場の<strong>レインボーブリッジ</strong>と<strong>東京湾の夜景</strong>は、普通の有料展望台に負けない最高の景色を提供します。
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-05.jpg" alt="カレッタ汐留無料展望台夕焼け">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-05.jpg" alt="カレッタ汐留無料展望台夕焼け">
   <figcaption style="font-size: 0.7em; text-align: center;">カレッタ汐留無料展望台の夕焼け</figcaption>
 </figure>
 
@@ -116,16 +116,16 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/XjJ296SU3RsMcbRYEMTW?medium_slug=AJvA6Kg5ptKi" target="_blank">響キッチン＆バーをオンライン予約</a></strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-06.jpg" alt="響キッチン＆バー47階夜景">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-06.jpg" alt="響キッチン＆バー47階夜景">
   <figcaption style="font-size: 0.7em; text-align: center;">カレッタ汐留47階響キッチン＆バーの夜景</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shinbashi-shiodome-evening-course-07.jpg" alt="響キッチン＆バー料理1">
+    <img src="/images/posts/shimbashi-shiodome-evening-course-07.jpg" alt="響キッチン＆バー料理1">
   </figure>
   <figure>
-    <img src="/images/posts/shinbashi-shiodome-evening-course-08.jpg" alt="響キッチン＆バー料理2">
+    <img src="/images/posts/shimbashi-shiodome-evening-course-08.jpg" alt="響キッチン＆バー料理2">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">カレッタ汐留47階響キッチン＆バーの料理</figcaption>
 </div>
@@ -171,7 +171,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 - 新橋から銀座方向に位置。日本最高の焼き鳥名店の一つ。完璧な串焼きを体験したいなら最高の選択。外はカリッと中は肉汁たっぷりの「ぼんじり（尻尾肉）」串がおすすめ。価格帯は高いが、完璧な串焼きを体験したいなら最高の選択
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-09.jpg" alt="新橋サラリーマンのソウルフード焼き鳥">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-09.jpg" alt="新橋サラリーマンのソウルフード焼き鳥">
   <figcaption style="font-size: 0.7em; text-align: center;">新橋サラリーマンのソウルフード：焼き鳥</figcaption>
 </figure>
 
@@ -196,7 +196,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 - <strong><a href="https://maps.app.goo.gl/926aMoTsKrGEPawH8" target="_blank">牛かつ おか田（牛かつ おか田）</a></strong>: 東京牛かつの元祖格。レア状態の牛肉を個人コンロで直接焼いて食べる楽しみ
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-10.jpg" alt="黒豚とんかつほり壱とんかつ定食">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-10.jpg" alt="黒豚とんかつほり壱とんかつ定食">
   <figcaption style="font-size: 0.7em; text-align: center;">黒豚とんかつほり壱とんかつ定食</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京うなぎ名店 | 炭焼 うな富士 有楽町店レビュー</strong></a></strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-11.jpg" alt="炭焼うな富士有楽町店うなぎ名店ひつまぶし">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-11.jpg" alt="炭焼うな富士有楽町店うなぎ名店ひつまぶし">
   <figcaption style="font-size: 0.7em; text-align: center;">炭焼うな富士有楽町店ひつまぶし</figcaption>
 </figure>
 

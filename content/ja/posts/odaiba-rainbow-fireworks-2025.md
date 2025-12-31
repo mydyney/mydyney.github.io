@@ -246,7 +246,7 @@ featured_image: "/images/posts/odaiba-rainbow-fireworks-2025-01.jpg"
 
 花火の後、ゆりかもめの最前列に座って夜景を通り抜けます。サラリーマンの聖地「新橋」で美味しいディナーとドリンクで一日を完璧に締めくくりましょう。
 
-<strong>➡️ [東京新橋＆汐留ガイド：過去と未来を歩く夕方コース（レストラン、夜景）](/posts/shinbashi-shiodome-evening-course/)</strong>
+<strong>➡️ [東京新橋＆汐留ガイド：過去と未来を歩く夕方コース（レストラン、夜景）](/posts/shimbashi-shiodome-evening-course/)</strong>
 
 ---
 

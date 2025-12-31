@@ -2,12 +2,12 @@
 title: "Tokyo Shinbashi & Shiodome Evening Course: Walking Between Past and Future (Best Restaurants & Night Views)"
 date: 2025-10-17T22:46:00+09:00
 draft: false
-translationKey: "shinbashi-shiodome-evening-course"
+translationKey: "shimbashi-shiodome-evening-course"
 description: "Discover the real Tokyo nightlife in Shinbashi's izakaya alleys and Shiodome's stunning night views. Complete evening course guide with Tabelog 100 Famous Restaurants."
 summary: "Experience authentic Tokyo nightlife in Shinbashi's smoky izakaya alleys and Shiodome's futuristic skyline. Complete guide featuring Tabelog's top-rated restaurants and free observation decks."
 tags: ["shinbashi", "shiodome", "izakaya", "yakitori", "night-views", "tokyo-restaurants", "tabelog-100", "caretta-shiodome", "miyazaki-hayao"]
 categories: ["Shinbashi/Shiodome"]
-featured_image: "/images/posts/shinbashi-shiodome-evening-course-01.jpg"
+featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 ---
 
 <div class="blog-container">
@@ -18,7 +18,7 @@ From smoky izakaya alleys to stunning night views,<br>
 Perfect evening course for locals and travelers!</p>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-01.jpg" alt="Tokyo Shinbashi Shiodome area night view illustration">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-01.jpg" alt="Tokyo Shinbashi Shiodome area night view illustration">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinbashi & Shiodome: Where past meets future</figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ Shinbashi is a <strong>"food and entertainment district"</strong> where tired of
 <strong>🚇 How to Get There</strong>: JR Yamanote/Keihin-Tohoku Line, Tokyo Metro Ginza Line, Toei Asakusa Line, Yurikamome → <strong>Shimbashi Station</strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-02.jpg" alt="Shimbashi Station SL Plaza steam locomotive">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-02.jpg" alt="Shimbashi Station SL Plaza steam locomotive">
   <figcaption style="font-size: 0.7em; text-align: center;">SL Plaza at Shimbashi Station</figcaption>
 </figure>
 
@@ -72,7 +72,7 @@ Shimbashi Station has many train lines and can be confusing, but coin lockers ar
 - <strong>Yurikamome Shimbashi Station</strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-03.jpg" alt="Sunrise view over Shinbashi skyscrapers">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-03.jpg" alt="Sunrise view over Shinbashi skyscrapers">
   <figcaption style="font-size: 0.7em; text-align: center;">Sunrise over Shinbashi skyline</figcaption>
 </figure>
 
@@ -90,7 +90,7 @@ A giant analog clock reminiscent of "Howl's Moving Castle." Designed by the worl
 <strong>📌 Pro Tip</strong>: Have dinner in Shinbashi and time your visit for the <strong>8 PM show</strong> to see the clock illuminated at night, creating an even more magical sight.
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-04.jpg" alt="Miyazaki Hayao's Nittele Giant Clock">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-04.jpg" alt="Miyazaki Hayao's Nittele Giant Clock">
   <figcaption style="font-size: 0.7em; text-align: center;">Miyazaki Hayao's Nittele Giant Clock</figcaption>
 </figure>
 
@@ -105,7 +105,7 @@ The best place to enjoy Shiodome's night beauty. Choose your preferred way to en
 There's a small free observation space next to the elevator to the restaurant floors. Though compact, the view of <strong>Rainbow Bridge</strong> in Odaiba and <strong>Tokyo Bay</strong> through floor-to-ceiling windows rivals any paid observatory.
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-05.jpg" alt="Caretta Shiodome free observatory sunset view">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-05.jpg" alt="Caretta Shiodome free observatory sunset view">
   <figcaption style="font-size: 0.7em; text-align: center;">Sunset at Caretta Shiodome free observatory</figcaption>
 </figure>
 
@@ -116,16 +116,16 @@ For a more leisurely and romantic night view experience, I recommend <strong><a 
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/XjJ296SU3RsMcbRYEMTW?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Hibiki Kitchen & Bar Online</a></strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-06.jpg" alt="Hibiki Kitchen & Bar 47F night view">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-06.jpg" alt="Hibiki Kitchen & Bar 47F night view">
   <figcaption style="font-size: 0.7em; text-align: center;">Night view from Caretta Shiodome 47F Hibiki Kitchen & Bar</figcaption>
 </figure>
 
 <div class="image-group-2">
   <figure>
-    <img src="/images/posts/shinbashi-shiodome-evening-course-07.jpg" alt="Hibiki Kitchen & Bar food 1">
+    <img src="/images/posts/shimbashi-shiodome-evening-course-07.jpg" alt="Hibiki Kitchen & Bar food 1">
   </figure>
   <figure>
-    <img src="/images/posts/shinbashi-shiodome-evening-course-08.jpg" alt="Hibiki Kitchen & Bar food 2">
+    <img src="/images/posts/shimbashi-shiodome-evening-course-08.jpg" alt="Hibiki Kitchen & Bar food 2">
   </figure>
   <figcaption style="font-size: 0.7em; text-align: center;">Dishes at Caretta Shiodome 47F Hibiki Kitchen & Bar</figcaption>
 </div>
@@ -171,7 +171,7 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 - Located near Ginza from Shinbashi. One of Japan's top yakitori establishments. Best choice for perfect skewers. Recommended "Bonjiri" (tail) skewer with crispy outside and juicy inside. Higher price range but the best choice for perfect yakitori
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-09.jpg" alt="Shinbashi salaryman soul food yakitori">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-09.jpg" alt="Shinbashi salaryman soul food yakitori">
   <figcaption style="font-size: 0.7em; text-align: center;">Shinbashi salaryman soul food: yakitori</figcaption>
 </figure>
 
@@ -196,7 +196,7 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 - <strong><a href="https://maps.app.goo.gl/926aMoTsKrGEPawH8" target="_blank">Gyukatsu Okada (牛かつ おか田)</a></strong>: The original Tokyo gyukatsu. Fun to grill rare beef on your personal burner
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-10.jpg" alt="Kurobuta Tonkatsu Horiichi tonkatsu set">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-10.jpg" alt="Kurobuta Tonkatsu Horiichi tonkatsu set">
   <figcaption style="font-size: 0.7em; text-align: center;">Kurobuta Tonkatsu Horiichi tonkatsu set</figcaption>
 </figure>
 
@@ -214,7 +214,7 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Eel Restaurant | Sumiyaki Unafuji Yurakucho Review</strong></a></strong>
 
 <figure>
-  <img src="/images/posts/shinbashi-shiodome-evening-course-11.jpg" alt="Sumiyaki Unafuji Yurakucho eel restaurant hitsumabushi">
+  <img src="/images/posts/shimbashi-shiodome-evening-course-11.jpg" alt="Sumiyaki Unafuji Yurakucho eel restaurant hitsumabushi">
   <figcaption style="font-size: 0.7em; text-align: center;">Sumiyaki Unafuji Yurakucho hitsumabushi</figcaption>
 </figure>
 

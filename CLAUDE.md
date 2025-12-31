@@ -242,8 +242,8 @@ User: "완료했습니다" or "Done"
 - Count images and verify order
 - Load LINK_MAPPING.md for internal link conversion
 - Identify all Naver links in content
-- Create EN/JA/ZH-CN posts following all guidelines in MIGRATION_GUIDE.md and CONTENT_GUIDELINES.md
-- Update LINK_MAPPING.md with new post mappings
+- Create the **English version FIRST**, get user confirmation, and then create JA/ZH-CN posts following all guidelines in MIGRATION_GUIDE.md and CONTENT_GUIDELINES.md
+- Update LINK_MAPPING.md (set Status to `✅` and update Date)
 
 **Critical Requirements from MIGRATION_GUIDE.md:**
 - Complete content translation (no omissions or additions)
@@ -274,6 +274,7 @@ python3 download_naver_images.py "[slug]"
 ```
 EN: http://localhost:1313/posts/[slug]/
 JA: http://localhost:1313/ja/posts/[slug]/
+ZH-CN: http://localhost:1313/zh-cn/posts/[slug]/
 ```
 
 #### Step 5.5: Claude Verifies Content Completeness
@@ -342,7 +343,7 @@ New Content:
 - Both English and Japanese versions
 
 Link Updates:
-- Updated LINK_MAPPING.md
+- Updated LINK_MAPPING.md (✅ Status)
 - Activated links in [N] existing posts
 
 Naver ID: [POST_ID]

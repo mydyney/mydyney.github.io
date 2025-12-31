@@ -1,6 +1,6 @@
 # CONTENT_GUIDELINES.md - Blog Content & Formatting Guide
 
-> **Last Updated:** 2025-12-26
+> **Last Updated:** 2025-12-31
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Purpose:** Comprehensive guide for blog post creation, formatting, and SEO optimization
 
