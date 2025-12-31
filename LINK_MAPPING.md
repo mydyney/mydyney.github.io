@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-29
-> **Status:** ✅ Complete - 104 posts mapped
+> **Status:** ✅ Complete - 105 posts mapped
 
 ---
 
@@ -125,6 +125,7 @@ When migrating a Naver blog post to Hugo:
 | 224007949043 | narita-airport-arrival-guide | 2025-09-14 | ✅ |
 | 224037272726 | tsukiji-market-restaurant-guide | 2025-10-11 | ✅ |
 | 224026098490 | tokyo-subway-ticket-guide | 2025-09-29 | ✅ |
+| 224010546735 | japanese-whisky-yamazaki-hibiki-price-guide | 2025-09-16 | ✅ |
 
 ---
 
@@ -460,6 +461,7 @@ declare -A MAPPINGS=(
   ["224113027853"]="tokyo-station-tokyo-banana-creme-brulee-tart-guide"
   ["224007949043"]="narita-airport-arrival-guide"
   ["224037272726"]="tsukiji-market-restaurant-guide"
+  ["224010546735"]="japanese-whisky-yamazaki-hibiki-price-guide"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do

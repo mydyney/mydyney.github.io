@@ -174,9 +174,29 @@ When encountering exceptionally long Naver posts (1,000+ lines of HTML), use a s
 **Step 3.2: Create English Version FIRST**
 - Create `content/en/posts/[slug].md` (using slug from Step 3.1)
 - Apply all content creation guidelines (see below)
-- Process all Naver links using Link Conversion Workflow (see "Link Mapping System" section)
-  - Links to this new post will now work in other posts
-  - Links to unmigrated posts will use TODO placeholders
+- **⚠️ CRITICAL: Process ALL Naver links using Link Conversion Workflow:**
+  1. **Identify all Naver links** in the source content:
+     ```bash
+     grep -o 'blog.naver.com/tokyomate/[0-9]*' naver.md | sort -u
+     ```
+  2. **For EACH Naver link, check LINK_MAPPING.md Quick Reference Table:**
+     - **CRITICAL:** Check the **"Status" column** (4th column) for ✅ mark
+     - **If Status = ✅:** Post is migrated → Use Hugo slug (e.g., `/posts/[slug]/`)
+     - **If Status is EMPTY or post is in "Pending References" section:** Post is NOT migrated → Use TODO placeholder
+     - **DO NOT** use slugs from "Pending References" section - these are unmigrated posts!
+  3. **Verification before user review:**
+     ```bash
+     # Count Naver links in original
+     grep -o 'blog.naver.com/tokyomate' naver.md | wc -l
+     
+     # Count converted links (should match)
+     grep -E '(/posts/|TODO: Update link)' content/en/posts/[slug].md | wc -l
+     
+     # CRITICAL: Verify NO href="#" remains
+     grep -E 'href="#"' content/en/posts/[slug].md | wc -l  # Should be 0
+     ```
+  4. **Double-check:** NO `href="#"` should remain in the final post
+- **⚠️ MANDATORY: Add Editor's Note section at the end** (see CONTENT_GUIDELINES.md for format)
 - **STOP and request user review**
 - Wait for user "OK" before proceeding
 
@@ -215,6 +235,12 @@ When encountering exceptionally long Naver posts (1,000+ lines of HTML), use a s
 - Add slug to `declare -A MAPPINGS` array
 - Check and update Pending References
 - Update placeholder links in existing posts
+
+**⚠️ MANDATORY SECTIONS (NO EXCEPTIONS):**
+- **Editor's Note**: MUST be added at the end of EVERY post before closing `</div>` tag
+  - See CONTENT_GUIDELINES.md section "Editor's Note" for exact format
+  - Use correct Naver post ID from LINK_MAPPING.md
+  - Language-specific text for EN/JA/ZH-CN versions
 
 ### Step 4: Claude Downloads Images
 
