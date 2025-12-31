@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2025-12-31
-> **Status:** ✅ Complete - 107 posts mapped
+> **Status:** ✅ Complete - 108 posts mapped
 
 ---
 
@@ -464,6 +464,7 @@ declare -A MAPPINGS=(
   ["224037272726"]="tsukiji-market-restaurant-guide"
   ["224010546735"]="japanese-whisky-yamazaki-hibiki-price-guide"
   ["224125943419"]="tokyo-3-day-itinerary-landmark-series"
+  ["223707471582"]="tokyo-ramen-street-best-8"
 )
 
 for naver_id in "${!MAPPINGS[@]}"; do
@@ -487,8 +488,8 @@ echo "Link conversion complete!"
 
 ## Statistics
 
-- **Total Posts Migrated:** 103
-- **Naver IDs Tracked:** 103
+- **Total Posts Migrated:** 108
+- **Naver IDs Tracked:** 108
 - **Posts with Internal Links:** 35+ (shinbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide)
 - **Pending References:** 46
 - **Links Updated:** Verified & Fixed on 2025-12-28
