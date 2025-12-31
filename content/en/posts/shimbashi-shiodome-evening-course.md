@@ -1,32 +1,32 @@
 ---
-title: "Tokyo Shinbashi & Shiodome Evening Course: Walking Between Past and Future (Best Restaurants & Night Views)"
+title: "Tokyo Shimbashi & Shiodome Evening Course: Walking Between Past and Future (Best Restaurants & Night Views)"
 date: 2025-10-17T22:46:00+09:00
 draft: false
 translationKey: "shimbashi-shiodome-evening-course"
-description: "Discover the real Tokyo nightlife in Shinbashi's izakaya alleys and Shiodome's stunning night views. Complete evening course guide with Tabelog 100 Famous Restaurants."
-summary: "Experience authentic Tokyo nightlife in Shinbashi's smoky izakaya alleys and Shiodome's futuristic skyline. Complete guide featuring Tabelog's top-rated restaurants and free observation decks."
-tags: ["shinbashi", "shiodome", "izakaya", "yakitori", "night-views", "tokyo-restaurants", "tabelog-100", "caretta-shiodome", "miyazaki-hayao"]
-categories: ["Shinbashi/Shiodome"]
+description: "Discover the real Tokyo nightlife in Shimbashi's izakaya alleys and Shiodome's stunning night views. Complete evening course guide with Tabelog 100 Famous Restaurants."
+summary: "Experience authentic Tokyo nightlife in Shimbashi's smoky izakaya alleys and Shiodome's futuristic skyline. Complete guide featuring Tabelog's top-rated restaurants and free observation decks."
+tags: ["shimbashi", "shiodome", "izakaya", "yakitori", "night-views", "tokyo-restaurants", "tabelog-100", "caretta-shiodome", "miyazaki-hayao"]
+categories: ["Shimbashi/Shiodome"]
 featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 ---
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">🌆 Looking for things to do in Shinbashi?<br>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">🌆 Looking for things to do in Shimbashi?<br>
 Experience the real Tokyo nightlife,<br>
 From smoky izakaya alleys to stunning night views,<br>
 Perfect evening course for locals and travelers!</p>
 
 <figure>
-  <img src="/images/posts/shimbashi-shiodome-evening-course-01.jpg" alt="Tokyo Shinbashi Shiodome area night view illustration">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinbashi & Shiodome: Where past meets future</figcaption>
+  <img src="/images/posts/shimbashi-shiodome-evening-course-01.jpg" alt="Tokyo Shimbashi Shiodome area night view illustration">
+  <figcaption style="font-size: 0.7em; text-align: center;">Shimbashi & Shiodome: Where past meets future</figcaption>
 </figure>
 
-Are you looking for <strong>Shinbashi things to do</strong>? If you want to experience <strong>the real Tokyo nightlife</strong> mixing with salarymen on their way home, rather than glitzy tourist spots, this is the perfect place. From smoky yakitori alleys, the <strong>salaryman's sanctuary</strong>, to the hidden <strong>free observation deck</strong> in neighboring <strong>Shiodome</strong>. Let me introduce you to the perfect evening course to enjoy like a local.
+Are you looking for <strong>Shimbashi things to do</strong>? If you want to experience <strong>the real Tokyo nightlife</strong> mixing with salarymen on their way home, rather than glitzy tourist spots, this is the perfect place. From smoky yakitori alleys, the <strong>salaryman's sanctuary</strong>, to the hidden <strong>free observation deck</strong> in neighboring <strong>Shiodome</strong>. Let me introduce you to the perfect evening course to enjoy like a local.
 
 <h2>✨ Salaryman's Sanctuary: Where Past and Future Coexist</h2>
 
-Shinbashi is a <strong>"food and entertainment district"</strong> where tired office workers unwind after a long day. It's filled with lively, down-to-earth energy rather than glamour. Surprisingly, just <strong>5 minutes on foot</strong> from here, you'll find <strong>Shiodome</strong>, a futuristic city of skyscrapers. Experience both the past and future in one visit!
+Shimbashi is a <strong>"food and entertainment district"</strong> where tired office workers unwind after a long day. It's filled with lively, down-to-earth energy rather than glamour. Surprisingly, just <strong>5 minutes on foot</strong> from here, you'll find <strong>Shiodome</strong>, a futuristic city of skyscrapers. Experience both the past and future in one visit!
 
 <strong>🚇 How to Get There</strong>: JR Yamanote/Keihin-Tohoku Line, Tokyo Metro Ginza Line, Toei Asakusa Line, Yurikamome → <strong>Shimbashi Station</strong>
 
@@ -37,15 +37,15 @@ Shinbashi is a <strong>"food and entertainment district"</strong> where tired of
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 2rem 0;">
 
-<h2>🚶‍♂️ Shinbashi & Shiodome Recommended Evening Course</h2>
+<h2>🚶‍♂️ Shimbashi & Shiodome Recommended Evening Course</h2>
 
-Shinbashi is much more attractive at night than during the day. To experience the real nightlife of Tokyo salarymen, visit <strong>after 6 PM</strong> and follow this course.
+Shimbashi is much more attractive at night than during the day. To experience the real nightlife of Tokyo salarymen, visit <strong>after 6 PM</strong> and follow this course.
 
-<h2>[Past] Shinbashi: Peek into the Salaryman's Night</h2>
+<h2>[Past] Shimbashi: Peek into the Salaryman's Night</h2>
 
 <strong>1. Meeting Point, <a href="https://maps.app.goo.gl/5pCQRDW2PtXfLYWw6" target="_blank">SL Plaza (SL広場)</a></strong>
 
-Exit Shimbashi Station's Hibiya Exit and you'll be greeted by a massive steam locomotive. This is the heart of Shinbashi, where all after-work meetings begin, always filled with waiting salarymen. Take a photo in front of the D51 steam locomotive that operated until 1972 to start your journey.
+Exit Shimbashi Station's Hibiya Exit and you'll be greeted by a massive steam locomotive. This is the heart of Shimbashi, where all after-work meetings begin, always filled with waiting salarymen. Take a photo in front of the D51 steam locomotive that operated until 1972 to start your journey.
 
 <strong>2. Pray for Good Fortune, <a href="https://maps.app.goo.gl/3BWSvHT76dYHqaNk8" target="_blank">Karasumori Shrine (烏森神社)</a></strong>
 
@@ -53,13 +53,13 @@ A hidden gem of a shrine nestled among skyscrapers. Famous for praying for good 
 
 <strong>3. Geek Paradise, Tamiya Plamodel Factory</strong>
 
-Known as the "adult's sanctuary," Tamiya's official flagship store is located in Shinbashi. Reopened in May 2024, it features over 6,000 items, life-size mini 4WD cars, and even a cafe with Onibus Coffee (open until 8 PM on weekdays). Perfect for a nostalgic stop before hitting the izakaya!
+Known as the "adult's sanctuary," Tamiya's official flagship store is located in Shimbashi. Reopened in May 2024, it features over 6,000 items, life-size mini 4WD cars, and even a cafe with Onibus Coffee (open until 8 PM on weekdays). Perfect for a nostalgic stop before hitting the izakaya!
 
 <strong>➡️ <a href="/posts/tamiya-plamodel-factory-tokyo-shimbashi/">Complete Guide to Tamiya Plamodel Factory Tokyo Shimbashi (6,000 Items, Mini 4WD, Cafe)</a></strong>
 
 <strong>4. Smoky Romance, Yakitori & Izakaya Alleys</strong>
 
-This is where Shinbashi's real charm lies. The narrow alleys west of the station filled with yakitori smoke, red lanterns (赤提灯), and lively atmosphere. This is the core of <strong>Shinbashi things to do</strong>. Rather than picking a specific restaurant, explore the alleys at random and dare to enter a place packed with locals - it's likely to be an amazing hidden gem!
+This is where Shimbashi's real charm lies. The narrow alleys west of the station filled with yakitori smoke, red lanterns (赤提灯), and lively atmosphere. This is the core of <strong>Shimbashi things to do</strong>. Rather than picking a specific restaurant, explore the alleys at random and dare to enter a place packed with locals - it's likely to be an amazing hidden gem!
 
 <strong>📌 Pro Tip: Shimbashi Station Coin Lockers</strong>
 
@@ -72,13 +72,13 @@ Shimbashi Station has many train lines and can be confusing, but coin lockers ar
 - <strong>Yurikamome Shimbashi Station</strong>
 
 <figure>
-  <img src="/images/posts/shimbashi-shiodome-evening-course-03.jpg" alt="Sunrise view over Shinbashi skyscrapers">
-  <figcaption style="font-size: 0.7em; text-align: center;">Sunrise over Shinbashi skyline</figcaption>
+  <img src="/images/posts/shimbashi-shiodome-evening-course-03.jpg" alt="Sunrise view over Shimbashi skyscrapers">
+  <figcaption style="font-size: 0.7em; text-align: center;">Sunrise over Shimbashi skyline</figcaption>
 </figure>
 
 <h2>[Future] Shiodome: Face the Sparkling Night View</h2>
 
-Just a 5-minute walk through underground passages from Shinbashi's smoky alleys reveals Shiodome, a completely different atmosphere of futuristic skyscrapers. Two must-see free attractions await you here.
+Just a 5-minute walk through underground passages from Shimbashi's smoky alleys reveals Shiodome, a completely different atmosphere of futuristic skyscrapers. Two must-see free attractions await you here.
 
 <strong>1. Miyazaki Hayao's <a href="https://maps.app.goo.gl/SnHUpQPdepzFYpsZ7" target="_blank">Nittele Giant Clock</a></strong>
 
@@ -87,7 +87,7 @@ A giant analog clock reminiscent of "Howl's Moving Castle." Designed by the worl
 - <strong>Performance Times</strong>: Daily at 12:00, 13:00, 15:00, 18:00, 20:00 (10:00 AM show added on weekends)
 - <strong>Admission</strong>: Free
 
-<strong>📌 Pro Tip</strong>: Have dinner in Shinbashi and time your visit for the <strong>8 PM show</strong> to see the clock illuminated at night, creating an even more magical sight.
+<strong>📌 Pro Tip</strong>: Have dinner in Shimbashi and time your visit for the <strong>8 PM show</strong> to see the clock illuminated at night, creating an even more magical sight.
 
 <figure>
   <img src="/images/posts/shimbashi-shiodome-evening-course-04.jpg" alt="Miyazaki Hayao's Nittele Giant Clock">
@@ -132,13 +132,13 @@ For a more leisurely and romantic night view experience, I recommend <strong><a 
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 2rem 0;">
 
-<h2>🍽️ Shinbashi Restaurants: Where to Go? (Featuring Tabelog 100 Famous Restaurants)</h2>
+<h2>🍽️ Shimbashi Restaurants: Where to Go? (Featuring Tabelog 100 Famous Restaurants)</h2>
 
-Shinbashi is a true restaurant battleground. Let me introduce you to the <strong>real</strong> restaurants recognized by Tabelog and Michelin, capturing the taste buds of salarymen on their way home.
+Shimbashi is a true restaurant battleground. Let me introduce you to the <strong>real</strong> restaurants recognized by Tabelog and Michelin, capturing the taste buds of salarymen on their way home.
 
 <h2>🍢 Yakitori (Chicken Skewers)</h2>
 
-The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanctuary for office workers.
+The soul food of Shimbashi salarymen. Experience authentic yakitori at this sanctuary for office workers.
 
 <strong>1. <a href="https://maps.app.goo.gl/xWWWt3ipxo4euRaz5" target="_blank">Mitsumasa (三政)</a></strong>
 
@@ -147,12 +147,12 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 
 <strong>2. <a href="https://maps.app.goo.gl/2jTLz9SEWMN4zG2TA" target="_blank">Torishige Souhonten (鶏繁 総本店)</a></strong>
 
-- The first name that comes to mind for Shinbashi yakitori, always crowded with locals. Best choice for lively atmosphere. Famous for lightly cooked tender "Sasami" (tenderloin) and chewy "Sunagimo" (gizzard) skewers
+- The first name that comes to mind for Shimbashi yakitori, always crowded with locals. Best choice for lively atmosphere. Famous for lightly cooked tender "Sasami" (tenderloin) and chewy "Sunagimo" (gizzard) skewers
 
 <strong>3. <a href="https://maps.app.goo.gl/t7bxSduSn6vLzjEG8" target="_blank">Mashiko (益子)</a></strong>
 
 - <strong>Tabelog 100 Famous Restaurants (2023, 2021, 2019, 2018)</strong>
-- A legendary establishment known as "Shinbashi's best yakitori," so hard to reserve it's run for regulars. Omakase course featuring the day's best cuts
+- A legendary establishment known as "Shimbashi's best yakitori," so hard to reserve it's run for regulars. Omakase course featuring the day's best cuts
 
 <strong>4. <a href="https://maps.app.goo.gl/9VwQhRpYSTiLf4ov5" target="_blank">Issekisancho Honten (一石三鳥 本店)</a></strong>
 
@@ -168,11 +168,11 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 <strong>6. <a href="https://maps.app.goo.gl/DGWhC7TUhExT9h4r6" target="_blank">Toriyoshi Ginza (鳥よし 銀座店)</a></strong>
 
 - <strong>Tabelog 100 Famous Restaurants (2024, 2023, 2021, 2019, 2018)</strong>
-- Located near Ginza from Shinbashi. One of Japan's top yakitori establishments. Best choice for perfect skewers. Recommended "Bonjiri" (tail) skewer with crispy outside and juicy inside. Higher price range but the best choice for perfect yakitori
+- Located near Ginza from Shimbashi. One of Japan's top yakitori establishments. Best choice for perfect skewers. Recommended "Bonjiri" (tail) skewer with crispy outside and juicy inside. Higher price range but the best choice for perfect yakitori
 
 <figure>
-  <img src="/images/posts/shimbashi-shiodome-evening-course-09.jpg" alt="Shinbashi salaryman soul food yakitori">
-  <figcaption style="font-size: 0.7em; text-align: center;">Shinbashi salaryman soul food: yakitori</figcaption>
+  <img src="/images/posts/shimbashi-shiodome-evening-course-09.jpg" alt="Shimbashi salaryman soul food yakitori">
+  <figcaption style="font-size: 0.7em; text-align: center;">Shimbashi salaryman soul food: yakitori</figcaption>
 </figure>
 
 <h2>🍜 Ramen</h2>
@@ -190,7 +190,7 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 
 - <strong><a href="https://maps.app.goo.gl/TDZjAWQ5jG2GLMf37" target="_blank">Kurobuta Tonkatsu Horiichi (黒豚とんかつ ほり壱)</a></strong>: Premium tonkatsu offering next-level flavor and juiciness of carefully selected Kagoshima black pork (Tabelog 100 Famous Restaurants 2024)
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Shinbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review</strong></a></strong>
+<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Shimbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review</strong></a></strong>
 
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">Tonkatsu Akashi (とんかつ 明石)</a></strong>: Hidden affordable tonkatsu gem loved by local office workers (Tabelog 100 Famous Restaurants 5 times)
 - <strong><a href="https://maps.app.goo.gl/926aMoTsKrGEPawH8" target="_blank">Gyukatsu Okada (牛かつ おか田)</a></strong>: The original Tokyo gyukatsu. Fun to grill rare beef on your personal burner
@@ -207,7 +207,7 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 
 <h2>🥢 Unagi (Eel)</h2>
 
-- <strong><a href="https://maps.app.goo.gl/NRrG5cSBUAWvB4jC9" target="_blank">Sumiyaki Unafuji Yurakucho (うな富士 有楽町店)</a></strong>: Famous Nagoya hitsumabushi establishment. Best recommendation for top eel rice bowl within walking distance from Shinbashi
+- <strong><a href="https://maps.app.goo.gl/NRrG5cSBUAWvB4jC9" target="_blank">Sumiyaki Unafuji Yurakucho (うな富士 有楽町店)</a></strong>: Famous Nagoya hitsumabushi establishment. Best recommendation for top eel rice bowl within walking distance from Shimbashi
 
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/fM4wBrz1iJVbpZbwswY8?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Sumiyaki Unafuji Yurakucho Online</a></strong>
 
@@ -220,11 +220,11 @@ The soul food of Shinbashi salarymen. Experience authentic yakitori at this sanc
 
 <hr style="border: 0; height: 1px; background: linear-gradient(to right, transparent, #667eea, transparent); margin: 2rem 0;">
 
-<h2>📍 After Shinbashi, Where to Go Next? (Recommended Connection Courses)</h2>
+<h2>📍 After Shimbashi, Where to Go Next? (Recommended Connection Courses)</h2>
 
 - <strong>🚶‍♂️ 10-Minute Walk! Luxury Shopping Center, Ginza</strong>
 
-The complete opposite of Shinbashi's down-to-earth atmosphere, enjoy shopping and elegant nightlife in sophisticated, upscale streets. 24-hour Don Quijote shopping is also a great option.
+The complete opposite of Shimbashi's down-to-earth atmosphere, enjoy shopping and elegant nightlife in sophisticated, upscale streets. 24-hour Don Quijote shopping is also a great option.
 
 <!-- TODO: Update link after migration
 <strong>➡️ <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots: Complete Recommended Course Guide</strong></a></strong>

@@ -230,7 +230,7 @@ Coin lockers near stations and shopping malls (DiverCity, Aqua City) fill up qui
 
 ## Recommended Daily Route for Odaiba Fireworks
 
-Not satisfied with just watching fireworks? We recommend the perfect day course: <strong>[Asakusa → Water Bus → Odaiba (Fireworks) → Shinbashi]</strong>. A 'golden route' capturing Tokyo's tradition, future, and romance.
+Not satisfied with just watching fireworks? We recommend the perfect day course: <strong>[Asakusa → Water Bus → Odaiba (Fireworks) → Shimbashi]</strong>. A 'golden route' capturing Tokyo's tradition, future, and romance.
 
 <strong>🧡 [Morning~Afternoon] Asakusa Travel</strong>
 
@@ -242,11 +242,11 @@ Take the cruise from Asakusa to Odaiba! Enjoy Odaiba's attractions all day, culm
 
 <strong>➡️ [Tokyo Odaiba Complete Guide: Perfect One-Day Course (Ariake, Toyosu Connection)](/posts/odaiba-ariake-toyosu-complete-guide/)</strong>
 
-<strong>🧡 [Night] Yurikamome & Shinbashi</strong>
+<strong>🧡 [Night] Yurikamome & Shimbashi</strong>
 
-After the fireworks, sit in the front seat of Yurikamome and travel through the night view. End your day perfectly with delicious dinner and drinks at 'Shinbashi', the office workers' mecca.
+After the fireworks, sit in the front seat of Yurikamome and travel through the night view. End your day perfectly with delicious dinner and drinks at 'Shimbashi', the office workers' mecca.
 
-<strong>➡️ [Tokyo Shinbashi & Shiodome Guide: Evening Course Walking Past and Future (Restaurants, Night Views)](/posts/shimbashi-shiodome-evening-course/)</strong>
+<strong>➡️ [Tokyo Shimbashi & Shiodome Guide: Evening Course Walking Past and Future (Restaurants, Night Views)](/posts/shimbashi-shiodome-evening-course/)</strong>
 
 ---
 

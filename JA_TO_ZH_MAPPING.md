@@ -179,7 +179,7 @@
 | 渋谷・原宿 | 涩谷・原宿 | Shibuya & Harajuku |
 | 六本木・広尾 | 六本木・广尾 | Roppongi/Hiroo |
 | 目黒・恵比寿 | 目黑・惠比寿 | Meguro & Ebisu |
-| 新橋・汐留 | 新桥・汐留 | Shinbashi/Shiodome |
+| 新橋・汐留 | 新桥・汐留 | Shimbashi/Shiodome |
 | 横浜 | 横滨 | Yokohama |
 | 横浜・鎌倉 | 横滨・镰仓 | Yokohama & Kamakura |
 | 成田空港 | 成田机场 | Narita Airport |

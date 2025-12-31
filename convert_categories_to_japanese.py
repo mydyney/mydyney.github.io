@@ -42,7 +42,7 @@ CATEGORY_MAPPING = {
     "Shibuya & Harajuku": "渋谷・原宿",
     "Meguro & Ebisu": "目黒・恵比寿",
     "Yokohama & Kamakura": "横浜・鎌倉",
-    "Shinbashi/Shiodome": "新橋・汐留",
+    "Shimbashi/Shiodome": "新橋・汐留",
     "Shimbashi": "新橋",
     "Omotesando": "表参道",
     "Shinjuku": "新宿",
