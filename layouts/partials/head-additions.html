@@ -3,7 +3,7 @@
 <script src="https://the.gatekeeperconsent.com/cmp.min.js" data-cfasync="false"></script>
 
 <!-- Ezoic Header Script -->
-<script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
+<script async src="//www.ezoic.com/ezoic/sa.min.js"></script>
 <script>
   window.ezstandalone = window.ezstandalone || {};
   ezstandalone.cmd = ezstandalone.cmd || [];
@@ -14,16 +14,16 @@
   crossorigin="anonymous"></script>
 
 <!-- Custom Blog Card Styles -->
-<link rel="stylesheet" href="{{ " css/blog-cards.css" | relURL }}?v=1">
+<link rel="stylesheet" href="{{ "css/blog-cards.css" | relURL }}?v=1">
 
 <!-- Blog Post Common Styles -->
-<link rel="stylesheet" href="{{ " css/blog-post-common.css" | relURL }}?v=1">
+<link rel="stylesheet" href="{{ "css/blog-post-common.css" | relURL }}?v=1">
 
 <!-- Related Posts Styles -->
-<link rel="stylesheet" href="{{ " css/related-posts.css" | relURL }}?v=1">
+<link rel="stylesheet" href="{{ "css/related-posts.css" | relURL }}?v=1">
 
 <!-- Footer Styles -->
-<link rel="stylesheet" href="{{ " css/footer.css" | relURL }}?v=1">
+<link rel="stylesheet" href="{{ "css/footer.css" | relURL }}?v=1">
 
 <!-- SEO: Hreflang tags for multilingual support -->
 {{ if .IsTranslated }}
@@ -54,16 +54,13 @@
 {{- with .Site.Params.google_site_verification }}
 <meta name="google-site-verification" content="{{ . }}">
 {{- end }}
-{{- with .Site.Params.naver_site_verification }}
-<meta name="naver-site-verification" content="{{ . }}">
-{{- end }}
-{{- with .Site.Params.bing_site_verification }}
-<meta name="msvalidate.01" content="{{ . }}">
+{{- with .Site.Params.google_site_verification }}
+<meta name="google-site-verification" content="{{ . }}">
 {{- end }}
 
 <!-- Favicon -->
-<link rel="icon" type="image/svg+xml" href="{{ " favicon.svg" | relURL }}">
-<link rel="icon" type="image/png" sizes="32x32" href="{{ " favicon-32x32.png" | relURL }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ " favicon-16x16.png" | relURL }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ " apple-touch-icon.png" | relURL }}">
-<link rel="manifest" href="{{ " site.webmanifest" | relURL }}">
+<link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "favicon-32x32.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ "favicon-16x16.png" | relURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ "apple-touch-icon.png" | relURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | relURL }}">
