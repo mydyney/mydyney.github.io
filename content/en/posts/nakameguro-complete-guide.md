@@ -3,8 +3,8 @@ title: "Nakameguro Complete Guide: Shops, Cafes & Course"
 date: 2025-10-05
 slug: "nakameguro-complete-guide"
 categories: ["Area Guide", "Shopping", "Cafe"]
-featured_image: "image-1.png"
-image: "image-1.png"
+featured_image: "nakameguro-complete-guide-01.png"
+image: "nakameguro-complete-guide-01.png"
 draft: false
 ---
 
@@ -20,7 +20,7 @@ This guide covers everything you need for a perfect half-day walking course.<br>
 Don't miss the tips for exploring <strong>Daikanyama</strong> together!</p>
 
 <figure>
-  <img src="image-1.png" alt="Meguro River">
+  <img src="nakameguro-complete-guide-01.png" alt="Meguro River">
 </figure>
 
 ---
@@ -66,7 +66,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>A holy land for those who love diary decoration. It is full of items that stimulate the excitement of travel, such as the original 'Traveler's Notebook', refill inserts, vintage stamps, and stickers.</p>
 
 <figure>
-  <img src="image-2.jpg" alt="Recommended Nakameguro Shop: Traveler's Factory">
+  <img src="nakameguro-complete-guide-02.jpg" alt="Recommended Nakameguro Shop: Traveler's Factory">
   <figcaption style="font-size: 0.7em; text-align: center;">Recommended Nakameguro Shop: Traveler's Factory</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>A highly sensitive fashion select shop centered on the popular Japanese brand 'nonnative'. (Renewed from 'Vendor Nakameguro') You can meet stylish apparel and accessories.</p>
 
 <figure>
-  <img src="image-3.jpg" alt="Coverchord Nakameguro">
+  <img src="nakameguro-complete-guide-03.jpg" alt="Coverchord Nakameguro">
   <figcaption style="font-size: 0.7em; text-align: center;">Coverchord Nakameguro</figcaption>
 </figure>
 
@@ -92,7 +92,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>A select shop with the theme of "Packing for travel", presenting sophisticated items that blur the boundary between daily life and travel. You can find highly functional bags, stylish clothing, and sensible lifestyle goods.</p>
 
 <figure>
-  <img src="image-4.jpg" alt="BEST PACKING STORE">
+  <img src="nakameguro-complete-guide-04.jpg" alt="BEST PACKING STORE">
   <figcaption style="font-size: 0.7em; text-align: center;">BEST PACKING STORE</figcaption>
 </figure>
 
@@ -109,7 +109,7 @@ And cherry blossom trees is healing in itself.</p>
 <p><strong>📌 Visit Tip:</strong> Waiting can be very long on weekends. (Ticket issued) Visiting on a relatively quiet weekday morning is recommended.</p>
 
 <figure>
-  <img src="image-5.jpg" alt="Starbucks Reserve Roastery Tokyo Exterior">
+  <img src="nakameguro-complete-guide-05.jpg" alt="Starbucks Reserve Roastery Tokyo Exterior">
   <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Landmark, Starbucks Reserve Roastery Nakameguro Exterior.</figcaption>
 </figure>
 
@@ -123,7 +123,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>➡️ <a href="https://blog.naver.com/tokyomate/223911732881" target="_blank"><strong>I'm donut? From Nakameguro to Seongsu, Everything about the donut people line up for</strong></a></p>
 
 <figure>
-  <img src="image-6.jpg" alt="I'm donut? Nakameguro Branch">
+  <img src="nakameguro-complete-guide-06.jpg" alt="I'm donut? Nakameguro Branch">
   <figcaption style="font-size: 0.7em; text-align: center;">Always crowded I'm donut? Nakameguro Branch</figcaption>
 </figure>
 
@@ -132,7 +132,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>A hip cafe famous for craft beer, delicious coffee, and especially warm Reuben sandwiches.</p>
 
 <figure>
-  <img src="image-7.jpg" alt="Hip Cafe, SIDEWALK STAND">
+  <img src="nakameguro-complete-guide-07.jpg" alt="Hip Cafe, SIDEWALK STAND">
   <figcaption style="font-size: 0.7em; text-align: center;">Hip Cafe, SIDEWALK STAND</figcaption>
 </figure>
 
@@ -141,7 +141,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>A master of Nagasaki Castella with 400 years of tradition. The 'Fukusaya Cube', packaged in small portions for easy eating, is also perfect for gifts.</p>
 
 <figure>
-  <img src="image-8.jpg" alt="Fukusaya Castella Nakameguro Branch">
+  <img src="nakameguro-complete-guide-08.jpg" alt="Fukusaya Castella Nakameguro Branch">
   <figcaption style="font-size: 0.7em; text-align: center;">Fukusaya Castella Nakameguro Branch</figcaption>
 </figure>
 
@@ -150,7 +150,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>A small roastery cafe located right next to the train tracks. You can taste specialty coffee carefully brewed with good beans.</p>
 
 <figure>
-  <img src="image-9.jpg" alt="Cafe by the train tracks, ONIBUS COFFEE Nakameguro">
+  <img src="nakameguro-complete-guide-09.jpg" alt="Cafe by the train tracks, ONIBUS COFFEE Nakameguro">
   <figcaption style="font-size: 0.7em; text-align: center;">Cafe by the train tracks, ONIBUS COFFEE Nakameguro Branch</figcaption>
 </figure>
 
@@ -159,7 +159,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>A wood-fired pizza restaurant that appeared in the Japanese drama 'Solitary Gourmet'. It is an artisan's shop selling only two types of pizza: Margherita and Marinara.</p>
 
 <figure>
-  <img src="image-10.jpg" alt="Solitary Gourmet Pizza Place, Seirinkan Pizza">
+  <img src="nakameguro-complete-guide-10.jpg" alt="Solitary Gourmet Pizza Place, Seirinkan Pizza">
   <figcaption style="font-size: 0.7em; text-align: center;">Solitary Gourmet Pizza Place, Seirinkan Pizza</figcaption>
 </figure>
 
@@ -171,7 +171,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>➡️ <a href="{{< relref "nakameguro-shabushabu-lettuce-main-store" >}}"><strong>Nakameguro Gourmet Shabushabu Lettuce Main Store, 1-person 1-pot 8 broths, price, reservation method</strong></a></p>
 
 <figure>
-  <img src="image-11.jpg" alt="Shabushabu Lettuce">
+  <img src="nakameguro-complete-guide-11.jpg" alt="Shabushabu Lettuce">
   <!-- Image 11 was SE-9833... line 461 -->
 </figure>
 
@@ -187,7 +187,7 @@ And cherry blossom trees is healing in itself.</p>
 </ul>
 
 <figure>
-  <img src="image-12.jpg" alt="Nakameguro Meguro River peaceful afternoon view">
+  <img src="nakameguro-complete-guide-12.jpg" alt="Nakameguro Meguro River peaceful afternoon view">
   <figcaption style="font-size: 0.7em; text-align: center;">Peaceful afternoon view of Meguro Riverbank in Nakameguro, Tokyo</figcaption>
 </figure>
 
@@ -200,7 +200,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>➡️ <a href="#" style="color: #667eea;"><strong>Daikanyama Places to Visit, Perfect Course from Tsutaya (T-Site) to Gourmet, Select Shops, and Shopping</strong></a><!-- TODO: daikanyama-complete-guide-2025 --></p>
 
 <figure>
-  <img src="image-13.jpg" alt="Nakameguro hill road to Daikanyama">
+  <img src="nakameguro-complete-guide-13.jpg" alt="Nakameguro hill road to Daikanyama">
   <figcaption style="font-size: 0.7em; text-align: center;">Hill road from Nakameguro to Daikanyama</figcaption>
 </figure>
 
