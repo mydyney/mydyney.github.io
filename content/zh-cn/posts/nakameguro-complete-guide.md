@@ -3,8 +3,8 @@ title: "中目黑完全指南：必去店铺、咖啡厅及散步路线"
 date: 2025-10-05
 slug: "nakameguro-complete-guide"
 categories: ["Area Guide", "Shopping", "Cafe"]
-featured_image: "nakameguro-complete-guide-01.png"
-image: "nakameguro-complete-guide-01.png"
+featured_image: "/images/nakameguro-complete-guide/nakameguro-complete-guide-01.png"
+image: "/images/nakameguro-complete-guide/nakameguro-complete-guide-01.png"
 draft: false
 ---
 
@@ -20,7 +20,7 @@ draft: false
 不要错过顺道游览<strong>代官山</strong>的贴士！</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-01.png" alt="目黑川">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-01.png" alt="目黑川">
 </figure>
 
 ---
@@ -65,7 +65,7 @@ draft: false
 <p>手账装饰爱好者的圣地。这里充满了激发旅行兴奋感的物品，如原创的“旅行者笔记本”、替换内芯、复古印章和贴纸。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-02.jpg" alt="中目黑推荐店铺：Traveler's Factory">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-02.jpg" alt="中目黑推荐店铺：Traveler's Factory">
   <figcaption style="font-size: 0.7em; text-align: center;">中目黑推荐店铺：Traveler's Factory</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ draft: false
 <p>以日本人气品牌“nonnative”为中心的高感度时尚买手店。（由 Vendor Nakameguro 翻新而来）您可以遇见时尚的服装和配饰。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-03.jpg" alt="Coverchord Nakameguro">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-03.jpg" alt="Coverchord Nakameguro">
   <figcaption style="font-size: 0.7em; text-align: center;">Coverchord Nakameguro</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ draft: false
 <p>以“旅行打包”为主题的买手店，展示模糊日常生活和旅行界限的精致物品。您可以找到高功能的包袋、时尚的服装和有品位的生活方式商品。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-04.jpg" alt="BEST PACKING STORE">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-04.jpg" alt="BEST PACKING STORE">
   <figcaption style="font-size: 0.7em; text-align: center;">BEST PACKING STORE</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ draft: false
 <p><strong>📌 访问贴士：</strong> 周末等待时间可能会很长。（发放整理券）建议在相对安静的工作日早晨访问。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-05.jpg" alt="东京星巴克臻选烘焙工坊外观">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-05.jpg" alt="东京星巴克臻选烘焙工坊外观">
   <figcaption style="font-size: 0.7em; text-align: center;">东京地标，中目黑星巴克臻选烘焙工坊外观。</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ draft: false
 <p>➡️ <a href="https://blog.naver.com/tokyomate/223911732881" target="_blank"><strong>I'm donut? 从中目黑到圣水，关于人们排队的甜甜圈的一切</strong></a></p>
 
 <figure>
-  <img src="nakameguro-complete-guide-06.jpg" alt="I'm donut? 中目黑店">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-06.jpg" alt="I'm donut? 中目黑店">
   <figcaption style="font-size: 0.7em; text-align: center;">总是熙熙攘攘的 I'm donut? 中目黑店</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ draft: false
 <p>一家以精酿啤酒、美味咖啡，特别是热乎乎的鲁本三明治而闻名的嬉皮风格咖啡馆。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-07.jpg" alt="嬉皮咖啡馆，SIDEWALK STAND">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-07.jpg" alt="嬉皮咖啡馆，SIDEWALK STAND">
   <figcaption style="font-size: 0.7em; text-align: center;">嬉皮咖啡馆，SIDEWALK STAND</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ draft: false
 <p>拥有400年传统的长崎卡斯特拉名店。包装成小份方便食用的“福砂屋Cube”也非常适合作为伴手礼。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-08.jpg" alt="福砂屋 中目黑店">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-08.jpg" alt="福砂屋 中目黑店">
   <figcaption style="font-size: 0.7em; text-align: center;">福砂屋 中目黑店</figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ draft: false
 <p>位于铁轨旁的小型烘焙咖啡馆。您可以品尝到用优质豆子精心冲泡的精品咖啡。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-09.jpg" alt="铁轨旁的咖啡馆，ONIBUS COFFEE 中目黑">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-09.jpg" alt="铁轨旁的咖啡馆，ONIBUS COFFEE 中目黑">
   <figcaption style="font-size: 0.7em; text-align: center;">铁轨旁的咖啡馆，ONIBUS COFFEE 中目黑店</figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ draft: false
 <p>曾在日剧《孤独的美食家》中登场的柴火披萨店。这是一家只卖玛格丽特和玛丽娜拉两种披萨的工匠店铺。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-10.jpg" alt="孤独的美食家披萨店，圣林馆">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-10.jpg" alt="孤独的美食家披萨店，圣林馆">
   <figcaption style="font-size: 0.7em; text-align: center;">孤独的美食家披萨店，圣林馆</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ draft: false
 <p>➡️ <a href="{{< relref "nakameguro-shabushabu-lettuce-main-store" >}}"><strong>中目黑美食 Shabushabu Lettuce 本店，1人1锅 8种高汤、价格、预约方法</strong></a></p>
 
 <figure>
-  <img src="nakameguro-complete-guide-11.jpg" alt="Shabushabu Lettuce">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-11.jpg" alt="Shabushabu Lettuce">
 </figure>
 
 ---
@@ -185,7 +185,7 @@ draft: false
 </ul>
 
 <figure>
-  <img src="nakameguro-complete-guide-12.jpg" alt="中目黑目黑川宁静的午后风景">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-12.jpg" alt="中目黑目黑川宁静的午后风景">
   <figcaption style="font-size: 0.7em; text-align: center;">东京中目黑目黑川畔宁静的午后风景</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ draft: false
 <p>➡️ <a href="#" style="color: #667eea;"><strong>代官山必去之地，从茑屋书店 (T-SITE) 到美食、买手店和购物的完美路线</strong></a><!-- TODO: daikanyama-complete-guide-2025 --></p>
 
 <figure>
-  <img src="nakameguro-complete-guide-13.jpg" alt="从中目黑通往代官山的坡道">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-13.jpg" alt="从中目黑通往代官山的坡道">
   <figcaption style="font-size: 0.7em; text-align: center;">从中目黑通往代官山的坡道</figcaption>
 </figure>
 

@@ -3,8 +3,8 @@ title: "中目黒完全ガイド：おしゃれなショップ、カフェ＆散
 date: 2025-10-05
 slug: "nakameguro-complete-guide"
 categories: ["Area Guide", "Shopping", "Cafe"]
-featured_image: "nakameguro-complete-guide-01.png"
-image: "nakameguro-complete-guide-01.png"
+featured_image: "/images/nakameguro-complete-guide/nakameguro-complete-guide-01.png"
+image: "/images/nakameguro-complete-guide/nakameguro-complete-guide-01.png"
 draft: false
 ---
 
@@ -20,7 +20,7 @@ draft: false
 <strong>代官山</strong>と一緒に巡るコツもお見逃しなく！</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-01.png" alt="目黒川">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-01.png" alt="目黒川">
 </figure>
 
 ---
@@ -65,7 +65,7 @@ draft: false
 <p>手帳デコ好きの聖地。オリジナルの「トラベラーズノート」、リフィル、ヴィンテージスタンプ、ステッカーなど、旅のワクワク感を刺激するアイテムでいっぱいです。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-02.jpg" alt="中目黒おすすめショップ：トラベラーズファクトリー">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-02.jpg" alt="中目黒おすすめショップ：トラベラーズファクトリー">
   <figcaption style="font-size: 0.7em; text-align: center;">中目黒おすすめショップ：トラベラーズファクトリー</figcaption>
 </figure>
 
@@ -82,7 +82,7 @@ draft: false
 <p>日本の人気ブランド「nonnative」を中心とした高感度なファッションセレクトショップ。（Vendor Nakameguroからリニューアル）おしゃれなアパレルや小物に出会えます。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-03.jpg" alt="Coverchord Nakameguro">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-03.jpg" alt="Coverchord Nakameguro">
   <figcaption style="font-size: 0.7em; text-align: center;">Coverchord Nakameguro</figcaption>
 </figure>
 
@@ -91,7 +91,7 @@ draft: false
 <p>「旅のパッキング」をテーマにしたセレクトショップで、日常と旅の境界を曖昧にする洗練されたアイテムを提案しています。高機能なバッグやおしゃれなウェア、センスの良いライフスタイルグッズが見つかります。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-04.jpg" alt="BEST PACKING STORE">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-04.jpg" alt="BEST PACKING STORE">
   <figcaption style="font-size: 0.7em; text-align: center;">BEST PACKING STORE</figcaption>
 </figure>
 
@@ -108,7 +108,7 @@ draft: false
 <p><strong>📌 訪問のヒント：</strong> 週末は待ち時間が非常に長くなることがあります。（整理券配布）比較的静かな平日の午前中に訪問することをおすすめします。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-05.jpg" alt="スターバックス リザーブ ロースタリー 東京 外観">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-05.jpg" alt="スターバックス リザーブ ロースタリー 東京 外観">
   <figcaption style="font-size: 0.7em; text-align: center;">東京のランドマーク、スターバックス リザーブ ロースタリー 中目黒 外観</figcaption>
 </figure>
 
@@ -122,7 +122,7 @@ draft: false
 <p>➡️ <a href="https://blog.naver.com/tokyomate/223911732881" target="_blank"><strong>I'm donut? 中目黒から聖水まで、行列のできるドーナツのすべて</strong></a></p>
 
 <figure>
-  <img src="nakameguro-complete-guide-06.jpg" alt="I'm donut? 中目黒店">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-06.jpg" alt="I'm donut? 中目黒店">
   <figcaption style="font-size: 0.7em; text-align: center;">いつも賑わう I'm donut? 中目黒店</figcaption>
 </figure>
 
@@ -131,7 +131,7 @@ draft: false
 <p>クラフトビール、美味しいコーヒー、そして特に温かいルーベンサンドイッチが有名なヒップなカフェ。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-07.jpg" alt="ヒップなカフェ、SIDEWALK STAND">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-07.jpg" alt="ヒップなカフェ、SIDEWALK STAND">
   <figcaption style="font-size: 0.7em; text-align: center;">ヒップなカフェ、SIDEWALK STAND</figcaption>
 </figure>
 
@@ -140,7 +140,7 @@ draft: false
 <p>400年の伝統を持つ長崎カステラの名店。食べきりサイズにパッケージされた「フクサヤキューブ」は、お土産にもぴったりです。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-08.jpg" alt="福砂屋 中目黒店">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-08.jpg" alt="福砂屋 中目黒店">
   <figcaption style="font-size: 0.7em; text-align: center;">福砂屋 中目黒店</figcaption>
 </figure>
 
@@ -149,7 +149,7 @@ draft: false
 <p>線路のすぐ横にある小さなロースタリーカフェ。良質な豆で丁寧に淹れたスペシャルティコーヒーが味わえます。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-09.jpg" alt="線路沿いのカフェ、ONIBUS COFFEE 中目黒">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-09.jpg" alt="線路沿いのカフェ、ONIBUS COFFEE 中目黒">
   <figcaption style="font-size: 0.7em; text-align: center;">線路沿いのカフェ、ONIBUS COFFEE 中目黒店</figcaption>
 </figure>
 
@@ -158,7 +158,7 @@ draft: false
 <p>ドラマ『孤独のグルメ』にも登場した薪窯ピザの名店。マルゲリータとマリナーラの2種類のピザのみを販売する、職人の店です。</p>
 
 <figure>
-  <img src="nakameguro-complete-guide-10.jpg" alt="孤独のグルメ ピザ店、聖林館">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-10.jpg" alt="孤独のグルメ ピザ店、聖林館">
   <figcaption style="font-size: 0.7em; text-align: center;">孤独のグルメ ピザ店、聖林館</figcaption>
 </figure>
 
@@ -170,7 +170,7 @@ draft: false
 <p>➡️ <a href="{{< relref "nakameguro-shabushabu-lettuce-main-store" >}}"><strong>中目黒グルメ しゃぶしゃぶレタス本店、1人1鍋 8種の出汁、価格、予約方法</strong></a></p>
 
 <figure>
-  <img src="nakameguro-complete-guide-11.jpg" alt="しゃぶしゃぶレタス">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-11.jpg" alt="しゃぶしゃぶレタス">
 </figure>
 
 ---
@@ -185,7 +185,7 @@ draft: false
 </ul>
 
 <figure>
-  <img src="nakameguro-complete-guide-12.jpg" alt="中目黒 目黒川 平和な午後の風景">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-12.jpg" alt="中目黒 目黒川 平和な午後の風景">
   <figcaption style="font-size: 0.7em; text-align: center;">東京 中目黒 目黒川沿いの平和な午後の風景</figcaption>
 </figure>
 
@@ -198,7 +198,7 @@ draft: false
 <p>➡️ <a href="#" style="color: #667eea;"><strong>代官山で行くべき場所、蔦屋書店（T-SITE）からグルメ、セレクトショップ、ショッピングまで完璧コース</strong></a><!-- TODO: daikanyama-complete-guide-2025 --></p>
 
 <figure>
-  <img src="nakameguro-complete-guide-13.jpg" alt="中目黒から代官山へ続く坂道">
+  <img src="/images/nakameguro-complete-guide/nakameguro-complete-guide-13.jpg" alt="中目黒から代官山へ続く坂道">
   <figcaption style="font-size: 0.7em; text-align: center;">中目黒から代官山へ続く坂道</figcaption>
 </figure>
 
