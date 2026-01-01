@@ -115,7 +115,8 @@ When migrating a Naver blog post to Hugo:
 | 224034429817 | mitsui-outlet-kisarazu-guide | 2025-12-06 | ✅ |
 | 224033964477 | kaldi-coffee-farm-shopping-list | 2024-04-28 | ✅ |
 | 224032769630 | yebisu-complete-guide | - | pending |
-| 224032515713 | daikanyama-complete-guide-2025 | - | pending |
+| 223983589161 | daikanyama-tsutaya-share-lounge-guide | - | pending |
+| 224032515713 | daikanyama-complete-guide | 2026-01-01 | ✅ |
 | 224031937227 | akihabara-complete-guide | 2025-12-29 | ✅ |
 | 224031611221 | tokyo-station-guide | 2025-12-31 | ✅ |
 | 224031114514 | shibuya-complete-guide-2025 | 2025-10-03 | ✅ |
@@ -212,7 +213,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, shibuya-sushi-no-midori-lunch-guide, mitsui-outlet-kisarazu-guide | Japan Kaldi Shopping List Must-Buy Recommendations |
 | 224032769630 | yebisu-complete-guide | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
-| 224032515713 | daikanyama-complete-guide-2025 | Daikanyama Complete Guide: T-Site Bookstore, Fashion Shops, Cafe Hopping |
+
 | 224031937227 | akihabara-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
 | 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, asakusa-complete-guide | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
