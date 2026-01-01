@@ -4,7 +4,8 @@ date: 2025-10-05T15:25:00+09:00
 lastmod: 2025-10-05T15:25:00+09:00
 slug: daikanyama-complete-guide
 translationKey: "daikanyama-complete-guide"
-image: /images/posts/daikanyama-complete-guide-01.jpg
+image: "/images/posts/daikanyama-complete-guide-01.jpg"
+featured_image: "/images/posts/daikanyama-complete-guide-01.jpg"
 categories:
     - Tokyo
     - Daikanyama
@@ -27,13 +28,11 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <img src="/images/posts/daikanyama-complete-guide-01.jpg" alt="Daikanyama Complete Guide: Tsutaya Books, Restaurants, Select Shops">
 </figure>
 
-<br>
 
 <h2>✨ Sophisticated Playground for Adults, Daikanyama (Charm &amp; How to Get There)</h2>
 
 <p>Daikanyama has a calm and luxurious atmosphere, different from the vibrancy of Shibuya or the individuality of Harajuku. Famous architectural works, high-end select shops, galleries, and restaurants are leisurely situated along the hillside, offering the feeling of strolling through a well-tended garden.</p>
 
-<br>
 
 <ul>
 <li><strong>🚇 How to Get There:</strong> It starts right after getting off at <strong>Tokyu Toyoko Line &quot;Daikanyama Station&quot;</strong>. Accessible being just one stop away from Shibuya Station.</li>
@@ -49,11 +48,9 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 
 <h2>🚶‍♀️ Completed in Half a Day! Recommended Walking Course</h2>
 
-<br>
 
 <p>Although Daikanyama is hilly terrain, the key spots are gathered together, so half a day is enough to look around.</p>
 
-<br>
 
 <ol>
 <li>Start at <strong>Daikanyama Station</strong> <strong>→</strong> Lightly tour <strong>Forestgate Daikanyama and Daikanyama Address</strong> right in front of the station.</li>
@@ -72,7 +69,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 
 <h2>🏛️ Architecture &amp; Landmarks of Daikanyama</h2>
 
-<br>
 
 <p><strong>1. <a href="https://maps.app.goo.gl/P4tuovmnSwr9B3WQ8" target="_blank">Forestgate Daikanyama</a></strong></p>
 
@@ -88,13 +84,11 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <figcaption style="font-size: 0.7em; text-align: center;">Forestgate Daikanyama right in front of Daikanyama Station, TENOHA on the 1st floor</figcaption>
 </div>
 
-<br>
 
 <p><strong>2. <a href="https://maps.app.goo.gl/vEYDTZTHJBZwVH3t7" target="_blank">Hillside Terrace</a> - A Masterpiece by an Architect who Dreamed of a Walkable Village</strong></p>
 
 <p>The primary contributor creating Daikanyama's calm and sophisticated atmosphere. It is a representative work completed over about 30 years by <strong>Fumihiko Maki</strong>, a Pritzker Prize winner known as the &quot;Nobel Prize of Architecture.&quot; Instead of huge buildings, walking paths and small plazas are arranged between low buildings tailored to human eye level, designed so visitors can feel the joy of &quot;discovering&quot; new scenery while walking. Gourmet spots like &quot;Hillside Pantry&quot; and the Danish Embassy are located here.</p>
 
-<br>
 
 <p><strong>3. <a href="https://maps.app.goo.gl/S7EeznfE2ffMrZNw9" target="_blank">Daikanyama T-SITE &amp; Tsutaya Books</a></strong></p>
 
@@ -106,7 +100,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <li><strong>Visit Tip:</strong> It is good for taking photos during the quiet hours of 9-11 AM, and at sunset, the lights come on, making it great for enjoying a beautiful atmosphere.</li>
 </ul>
 
-<br>
 
 
 
@@ -124,11 +117,9 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 
 <h2>🛍️ Daikanyama Shopping (Representative Select Shops &amp; Prop Shops)</h2>
 
-<br>
 
 <p>Daikanyama is a place where browsing sensational select shops hidden in every alley is fun.</p>
 
-<br>
 
 <p><strong>1. <a href="https://maps.app.goo.gl/jrGr3sdjoXCYZdfa8" target="_blank">Hollywood Ranch Market</a></strong></p>
 
@@ -144,7 +135,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <figcaption style="font-size: 0.7em; text-align: center;"><strong>Hollywood Ranch Market Outlet Store (<a href="https://maps.app.goo.gl/CVPFUzgFL88WWQkg7" target="_blank">View Location</a>)</strong></figcaption>
 </figure>
 
-<br>
 
 <p><strong>2. <a href="https://maps.app.goo.gl/zVPxMTHoBEY3eXQr9" target="_blank">Okura</a></strong></p>
 
@@ -155,7 +145,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <figcaption style="font-size: 0.7em; text-align: center;">Okura store view, Daikanyama's representative prop shop</figcaption>
 </figure>
 
-<br>
 
 <p><strong>3. <a href="https://maps.app.goo.gl/a3Gwe4aHasv2g8FFA" target="_blank">Maison Kitsuné</a></strong></p>
 
@@ -170,17 +159,14 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 
 <h2>🍽️ Daikanyama Restaurants &amp; Cafes (Tabelog 100 Famous Stores Recommended)</h2>
 
-<br>
 
 <p>Just like the sophisticated neighborhood atmosphere, it is full of delicious restaurants and cafes. Especially, Daikanyama has many shops selected as <strong>&quot;Tabelog 100 Famous Stores,&quot;</strong> where experts in each field gather, making it a place frequented by gourmets.</p>
 
-<br>
 
 <p><strong>👑 Selected as Tabelog 100 Famous Stores (Hyakumeiten)! Trustworthy Restaurants</strong></p>
 
 <p>&quot;100 Famous Stores&quot; is an honorable title awarded by Japan's largest gourmet site &quot;Tabelog&quot; by selecting 100 shops by genre every year.</p>
 
-<br>
 
 <p><strong>1. <a href="https://maps.app.goo.gl/HrEian1qFxmbDXiq5" target="_blank">IVY PLACE</a></strong></p>
 
@@ -195,7 +181,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <figcaption style="font-size: 0.7em; text-align: center;">Ivy Place located in the forest next to Tsutaya Books</figcaption>
 </figure>
 
-<br>
 
 <p><strong>2. <a href="https://maps.app.goo.gl/oYnGgcGWGp9Q8nY46" target="_blank">Caffè Michelangelo (カフェ・ミケランジェロ)</a></strong></p>
 
@@ -210,7 +195,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <figcaption style="font-size: 0.7em; text-align: center;"><strong>Caffè Michelangelo</strong> across the street from Tsutaya Books</figcaption>
 </figure>
 
-<br>
 
 <p><strong>3. <a href="https://maps.app.goo.gl/B9RYGCNH41hDvCgJA" target="_blank">Hillside Pantry Daikanyama (ヒルサイドパントリー 代官山)</a></strong></p>
 
@@ -220,7 +204,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <li>Feature: A deli and bakery located within Hillside Terrace. Croque monsieur and sandwiches made with freshly baked bread are excellent.</li>
 </ul>
 
-<br>
 
 <p><strong>4. <a href="https://maps.app.goo.gl/AZfBMi6TmNMzg5Xx7" target="_blank">Henry&#39;s Burger</a></strong></p>
 
@@ -230,7 +213,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <li>Feature: Characterized by the intense meat aroma and juice of 100% Kuroge Wagyu patties. You can taste a classic hamburger focused on the original taste of meat.</li>
 </ul>
 
-<br>
 
 <p><strong>5. <a href="https://maps.app.goo.gl/Dwhdw8JxMuBGcDf5A" target="_blank">IL PLEUT SUR LA SEINE</a></strong></p>
 
@@ -240,7 +222,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <li>Feature: An authentic French confectionery shop specializing in takeout.</li>
 </ul>
 
-<br>
 
 <p><strong>6. <a href="https://maps.app.goo.gl/doNBs91mecMUVuWK8" target="_blank">MATSUNOSUKE N.Y.</a></strong></p>
 
@@ -250,7 +231,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <li>Feature: A brunch spot loved for a long time for its New York-style apple pie and fluffy buttermilk pancakes.</li>
 </ul>
 
-<br>
 
 <p><strong>🍣 Great Value Lunch Omakase Sushi</strong></p>
 
@@ -260,7 +240,6 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 
 <p>✅ <a href="https://autoreserve.com/ko/restaurants/4ki3E4uFwgu9i7TbeJfD?medium_slug=AJvA6Kg5ptKi" target="_blank"><strong>Reserve Sushi Takeuchi Online</strong></a></p>
 
-<br>
 
 <p><strong>2. <a href="https://maps.app.goo.gl/kbLreUeDEJbsDnhw9" target="_blank">Matsue Sushi Ebisu Main Store (松栄 恵比寿本店)</a></strong></p>
 
@@ -272,23 +251,18 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 
 <h2>🌳 Daikanyama's Twist Charm, 100-Year-Old House Walk</h2>
 
-<br>
 
 <p>&quot;Tsutaya Books&quot; and sophisticated select shops are not all of Daikanyama.</p>
 
-<br>
 
 <p>Just 5 minutes from the station, the <strong>&quot;Old Asakura House,&quot;</strong> an <strong>Important Cultural Property of Japan</strong> preserving 100 years of time, is hidden.</p>
 
-<br>
 
 <p>It is also famous as a <strong>&quot;Hidden Foliage Spot&quot;</strong> in autumn, so experience the most special &quot;time travel&quot; in Daikanyama.</p>
 
-<br>
 
 <p><strong>📌 Must Read Before Visiting! There is an admission fee (100 yen), and &quot;socks&quot; are mandatory!</strong></p>
 
-<br>
 
 <p>If you are curious about detailed visiting tips and interior photos, be sure to check the post below!</p>
 
@@ -303,13 +277,11 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 
 <p>Today, we introduced places to visit in Daikanyama with a substantial course covering architecture, shopping, and restaurants. A leisurely walk and gourmet food in a sophisticated street away from the complex city center will make your Tokyo trip even more special.</p>
 
-<br>
 
 <p>If you are visiting Daikanyama in early November, be sure to check the information on the &quot;Tokyo Craft&quot; pop-up store held for 3 days!</p>
 
 <p>➡️ <a href="{{< relref "tokyo-crafts-popup-stores-guide" >}}" target="_blank"><strong>Tokyo Craft Daikanyama Pop-up Store &amp; Offline Store Complete Guide</strong></a></p>
 
-<br>
 
 <p><strong>⭐ Articles to Read Together</strong></p>
 
