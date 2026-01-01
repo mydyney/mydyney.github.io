@@ -318,8 +318,8 @@ featured_image: "/images/posts/tsukishima-monjayaki-street-guide-01.jpg"
 
 <p>在充满香喷喷气味的街道上，享受最“像东京”的美食之旅吧！ 🥢</p>
 
-<p class="mb-2"><b>➡️ <a href="/zh-cn/posts/ginza-guide-2025/">有乐町线5分钟！银座必去景点推荐（购物、美食、攻略）</a></b></p>
-<p class="mb-2"><b>➡️ <a href="/zh-cn/posts/tsukiji-market-restaurant-guide/">大江户线5分钟！筑地市场美食指南（营业时间、休息日、必吃美食）</a></b></p>
+<p class="mb-2"><b><a href="/zh-cn/posts/ginza-guide-2025/">➡️ 有乐町线5分钟！银座必去景点推荐（购物、美食、攻略）</a></b></p>
+<p class="mb-2"><b><a href="/zh-cn/posts/tsukiji-market-restaurant-guide/">➡️ 大江户线5分钟！筑地市场美食指南（营业时间、休息日、必吃美食）</a></b></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
