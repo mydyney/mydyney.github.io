@@ -230,7 +230,7 @@ After a satisfying meal at Lettuce,<br>
 Explore the charming Nakameguro and Daikanyama neighborhoods!<br>
 <br>
 <!-- Link updated -->
-<strong>🌸 Nakameguro Attractions:</strong> <a href="#" style="color: #667eea;">Meguro River cherry blossoms, trendy cafes, and boutiques complete guide</a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<strong>🌸 Nakameguro Attractions:</strong> <a href="{{< relref "nakameguro-complete-guide" >}}" style="color: #667eea;">Meguro River cherry blossoms, trendy cafes, and boutiques complete guide</a><br>
 <br>
 <!-- Link updated -->
 <strong>🏛️ Daikanyama Attractions:</strong> <a href="#" style="color: #667eea;">T-Site bookstore, fashionable shops, and cafe hopping guide</a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>

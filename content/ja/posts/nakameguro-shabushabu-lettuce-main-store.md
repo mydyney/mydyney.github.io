@@ -228,7 +228,7 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 レタスで満足な食事の後は、<br>
 魅力的な中目黒と代官山エリアを探索しましょう！<br>
 <br>
-<strong>🌸 中目黒の見どころ：</strong><a href="#" style="color: #667eea;">目黒川の桜、トレンディなカフェ、ブティック完全ガイド</a><br>
+<strong>🌸 中目黒の見どころ：</strong><a href="{{< relref "nakameguro-complete-guide" >}}" style="color: #667eea;">目黒川の桜、トレンディなカフェ、ブティック完全ガイド</a><br>
 <br>
 <strong>🏛️ 代官山の見どころ：</strong><a href="#" style="color: #667eea;">蔦屋書店、おしゃれなショップ、カフェ巡りガイド</a><br>
 <br>

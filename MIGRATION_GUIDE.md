@@ -98,7 +98,8 @@ To ensure quality and allow for early feedback, follow this incremental approach
 - **Determine Hugo slug for this post:**
   - Create SEO-friendly kebab-case slug
   - Rules: lowercase, hyphens, keyword-rich, under 60 chars
-  - Example: `roppongi-christmas-illumination-2025`
+  - **Do NOT include years/dates** (e.g., `2025`, `2026`) unless it is a specific one-time event log. For evergreen content (guides, recommendations), keep the URL clean.
+  - Example: `roppongi-christmas-illumination` (NOT `roppongi-christmas-illumination-2025`)
   - **Check if already recorded in LINK_MAPPING.md:**
     - Look for the Naver ID in the `Quick Reference Table`.
     - **If NOT found:** Add a new row with Status `pending` and Date `-`.

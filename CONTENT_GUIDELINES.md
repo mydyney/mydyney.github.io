@@ -338,16 +338,18 @@ description: "六本木圣诞灯光秀2025完全攻略。活动时间、点灯�
 **Rules:**
 - Use **English keywords only** (even for Japanese and Chinese posts)
 - Lowercase, hyphen-separated
-- Include primary keyword + location/year if relevant
+- Include primary keyword + location if relevant
+- **Do NOT** include years or dates (e.g., `2025`, `2026`). Evergreen URLs are better for SEO.
 - Keep under 60 characters
 - Avoid stop words (the, a, an, of, etc.)
 
 **Examples:**
 ```
-✅ Good: roppongi-christmas-illumination-2025
+✅ Good: roppongi-christmas-illumination
 ✅ Good: shinjuku-gyoen-autumn-guide
 ✅ Good: tokyo-ramen-street-best-shops
 
+❌ Bad: roppongi-christmas-illumination-2025 (Do not use years)
 ❌ Bad: the-best-roppongi-christmas-illumination-of-2025
 ❌ Bad: 六本木イルミネーション (Japanese characters)
 ❌ Bad: 六本木圣诞灯光秀 (Chinese characters)

@@ -228,7 +228,7 @@ Lettuce涮涮锅的最大魅力？<br>
 在Lettuce享受满意的用餐后，<br>
 探索迷人的中目黑和代官山地区吧！<br>
 <br>
-<strong>🌸 中目黑看点：</strong><a href="#" style="color: #667eea;">目黑川樱花、时尚咖啡馆、精品店完全指南</a><br>
+<strong>🌸 中目黑看点：</strong><a href="{{< relref "nakameguro-complete-guide" >}}" style="color: #667eea;">目黑川樱花、时尚咖啡馆、精品店完全指南</a><br>
 <br>
 <strong>🏛️ 代官山看点：</strong><a href="#" style="color: #667eea;">茑屋书店、时尚店铺、咖啡巡礼指南</a><br>
 <br>
