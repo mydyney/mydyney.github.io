@@ -15,7 +15,7 @@
       */}}
       {{ .CurrentSection.Title }}
     </aside>
-    {{- partials.IncludeCached "social/share.html" . . -}}
+    {{/* Remove default theme share to avoid duplicates */}}
     <h1 class="post-title athelas mt3 mb1">
       {{- .Title -}}
     </h1>
