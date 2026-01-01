@@ -683,8 +683,9 @@ See `/LINK_MAPPING.md` for complete tracking database.
 
 * **Order:** All links MUST be included in the exact same order as the original post
 
-* **Google Maps:** Standardize ALL map links with `📍` emoji suffix
-  * Format: `[Link Text](https://maps.app.goo.gl/...) 📍`
+* **Google Maps:** Standardize ALL map links with `📍` emoji **PREFIX**
+  * Rule: Add `📍` at the **beginning** of the link text ONLY if it is not already present. If it's already there, do not add another one.
+  * Format: `📍 [Link Text](https://maps.app.goo.gl/...)`
 
 * **After Content Creation:**
   - Add unmigrated Naver URLs to "Pending References" section in LINK_MAPPING.md
