@@ -308,11 +308,17 @@ git push
   - Section headings and subheadings → Markdown headings (`##`, `###`)
   - Quotation blocks → Markdown blockquotes (`>`)
 
-  **⚠️ Why HTML for Bold & Lists:**
-  - Markdown syntax (`**bold**`, `*`, `-` for lists) does NOT render inside `<div class="blog-container">`
-  - Markdown symbols appear literally (e.g., `**text**` shows as `**text**` instead of bold)
-  - **Solution:** Always use HTML tags (`<b>`, `<strong>`, `<ul>`, `<li>`) for these elements
-  - Headings (`##`) and blockquotes (`>`) still work with Markdown
+  **⚠️ CRITICAL: HTML vs Markdown in Block Elements**
+  - **The Issue:** The entire blog post is wrapped in `<div class="blog-container">`. In Hugo, **Markdown syntax (bold `**`, lists `-`) DOES NOT RENDER** inside block-level HTML tags.
+  - **Symptom:** You will see raw asterisks (e.g., `**Text**`) or raw hyphens (`- Item`) in the final output instead of bold text or bullet points.
+  - **Strict Rule for Lists (Access/Info Sections):**
+    - **NEVER** use Markdown lists (`- Item` or `1. Item`) inside the blog container.
+    - **ALWAYS** use HTML `<ul>`, `<ol>`, and `<li>` tags.
+    - *Example:* "Access" or "Info Box" sections MUST use HTML lists.
+  - **Strict Rule for Bold/Emphasis:**
+    - **NEVER** use `**text**` inside the blog container.
+    - **ALWAYS** use `<strong>text</strong>` for bold.
+  - *Exception:* Headings (`##`) and blockquotes (`>`) are the only Markdown elements that reliably work because they are block-level elements themselves. For everything else (inline styles, lists), use HTML.
 
 * **Match original structure exactly:**
   - Same number of sections
