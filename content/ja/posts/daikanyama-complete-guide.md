@@ -14,8 +14,6 @@ tags:
     - T-SITE
     - 東京カフェ
     - 東京ショッピング
-featured_image: "/images/posts/daikanyama-complete-guide-01.jpg"
-featured_image: "/images/posts/daikanyama-complete-guide-01.jpg"
 description: "東京の大人の遊び場、代官山の完全ガイド。代官山駅から始まる失敗しない散策コース、ランドマークの蔦屋書店(T-SITE)、フォレストゲート、ヒルサイドテラス、ハリウッドランチマーケットやメゾンキツネなどのセレクトショップ巡りまで。食べログ百名店のおすすめグルメも紹介。"
 translationKey: "daikanyama-complete-guide"
 ---

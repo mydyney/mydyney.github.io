@@ -15,7 +15,6 @@ tags:
     - T-Site
     - Tokyo Cafe
     - Tokyo Shopping
-featured_image: /images/posts/daikanyama-complete-guide-01.jpg
 description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. Discover the best walking course starting from Daikanyama Station, explore the iconic Tsutaya Books (T-Site), Forestgate, Hillside Terrace, and enjoy curated shopping at Hollywood Ranch Market and Maison Kitsuné. Includes Tabelog 100 Famous Stores recommendations."
 ---
 

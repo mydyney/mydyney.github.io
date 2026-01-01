@@ -14,8 +14,6 @@ tags:
     - T-SITE
     - 东京咖啡厅
     - 东京购物
-featured_image: "/images/posts/daikanyama-complete-guide-01.jpg"
-featured_image: "/images/posts/daikanyama-complete-guide-01.jpg"
 description: "东京最优雅的大人游乐场——代官山全攻略。从代官山站出发的零失败散步路线，打卡地标茑屋书店(T-SITE)、Forestgate、Garden Terrace，还有Hollywood Ranch Market、Maison Kitsuné等宝藏店铺巡礼。附Tabelog百名店美食推荐。"
 translationKey: "daikanyama-complete-guide"
 ---
