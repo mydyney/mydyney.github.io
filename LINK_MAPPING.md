@@ -114,7 +114,7 @@ When migrating a Naver blog post to Hugo:
 | 224035271300 | shinjuku-guide-2025 | 2025-10-09 | ✅ |
 | 224034429817 | mitsui-outlet-kisarazu-guide | 2025-12-06 | ✅ |
 | 224033964477 | kaldi-coffee-farm-shopping-list | 2024-04-28 | ✅ |
-| 224032769630 | yebisu-complete-guide | - | pending |
+| 224032769630 | yebisu-complete-guide | 2026-01-01 | ✅ |
 | 223983589161 | daikanyama-tsutaya-share-lounge-guide | - | pending |
 | 224032515713 | daikanyama-complete-guide | 2026-01-01 | ✅ |
 | 224031937227 | akihabara-complete-guide | 2025-12-29 | ✅ |

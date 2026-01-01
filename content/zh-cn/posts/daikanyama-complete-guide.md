@@ -286,7 +286,7 @@ translationKey: "daikanyama-complete-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /posts/yebisu-complete-guide/ -->
-<p>➡️ <a href="#" target="_blank"><strong>惠比寿必去景点: 从惠比寿花园广场到啤酒纪念馆、餐厅的完美指南</strong></a></p>
+<p>➡️ <a href="{{< relref "yebisu-complete-guide" >}}" target="_blank"><strong>惠比寿必去景点: 从惠比寿花园广场到啤酒纪念馆、餐厅的完美指南</strong></a></p>
 
 <p>➡️ <a href="{{< relref "shibuya-complete-guide-2025" >}}" target="_blank"><strong>涩谷游玩攻略: 从涩谷Sky预订到购物、美食的完美推荐路线</strong></a></p>
 

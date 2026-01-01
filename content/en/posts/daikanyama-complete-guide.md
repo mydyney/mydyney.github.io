@@ -289,7 +289,7 @@ description: "A complete guide to Daikanyama, Tokyo's sophisticated playground. 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224032769630
      Hugo: /posts/yebisu-complete-guide/ -->
-<p>➡️ <a href="#" target="_blank"><strong>Ebisu Places to Visit: Perfect Guide from Ebisu Garden Place to Beer Museum and Restaurants</strong></a></p>
+<p>➡️ <a href="{{< relref "yebisu-complete-guide" >}}" target="_blank"><strong>Ebisu Places to Visit: Perfect Guide from Ebisu Garden Place to Beer Museum and Restaurants</strong></a></p>
 
 <p>➡️ <a href="{{< relref "shibuya-complete-guide-2025" >}}" target="_blank"><strong>Shibuya Things to Do: Perfect Course Recommended from Shibuya Sky Reservation to Shopping and Restaurants</strong></a></p>
 
