@@ -195,7 +195,7 @@ draft: false
 
 <p>中目黒から坂道を約15分歩くと、また違った魅力を持つ<strong>「代官山」</strong>に到着します。中目黒が可愛いリバーサイドの感性なら、代官山は「蔦屋書店」に代表される高級ブティック、洗練されたセレクトショップ、複合文化空間が特徴です。午前中は中目黒、午後は代官山で過ごすコースをおすすめします。</p>
 
-<p>➡️ <a href="#" style="color: #667eea;"><strong>代官山で行くべき場所、蔦屋書店（T-SITE）からグルメ、セレクトショップ、ショッピングまで完璧コース</strong></a><!-- TODO: daikanyama-complete-guide-2025 --></p>
+<p>➡️ <a href="{{< relref "daikanyama-complete-guide" >}}" style="color: #667eea;"><strong>代官山で行くべき場所、蔦屋書店（T-SITE）からグルメ、セレクトショップ、ショッピングまで完璧コース</strong></a></p>
 
 <figure>
   <img src="/images/posts/nakameguro-complete-guide-13.jpg" alt="中目黒から代官山へ続く坂道">

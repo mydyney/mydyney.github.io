@@ -197,7 +197,7 @@ And cherry blossom trees is healing in itself.</p>
 
 <p>If you walk about 15 minutes along the hill from Nakameguro, you can reach <strong>'Daikanyama'</strong>, a neighborhood with another charm. If Nakameguro has a cute riverbank sensibility, Daikanyama is characterized by luxury boutiques, sophisticated select shops, and complex cultural spaces represented by 'Tsutaya Books'. We recommend a course of spending half a day in Nakameguro and half a day in Daikanyama.</p>
 
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Daikanyama Places to Visit, Perfect Course from Tsutaya (T-Site) to Gourmet, Select Shops, and Shopping</strong></a><!-- TODO: daikanyama-complete-guide-2025 --></p>
+<p>➡️ <a href="{{< relref "daikanyama-complete-guide" >}}" style="color: #667eea;"><strong>Daikanyama Places to Visit, Perfect Course from Tsutaya (T-Site) to Gourmet, Select Shops, and Shopping</strong></a></p>
 
 <figure>
   <img src="/images/posts/nakameguro-complete-guide-13.jpg" alt="Nakameguro hill road to Daikanyama">

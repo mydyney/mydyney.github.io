@@ -195,7 +195,7 @@ draft: false
 
 <p>从中目黑沿着坡道步行约15分钟，就可以到达另一个充满魅力的街区<strong>“代官山”</strong>。如果说中目黑是可爱的河畔感性，那么代官山的特点则是以“茑屋书店”为代表的高级精品店、精致的买手店和复合文化空间。我们推荐在中目黑度过半天，在代官山度过半天的行程。</p>
 
-<p>➡️ <a href="#" style="color: #667eea;"><strong>代官山必去之地，从茑屋书店 (T-SITE) 到美食、买手店和购物的完美路线</strong></a><!-- TODO: daikanyama-complete-guide-2025 --></p>
+<p>➡️ <a href="{{< relref "daikanyama-complete-guide" >}}" style="color: #667eea;"><strong>代官山必去之地，从茑屋书店 (T-SITE) 到美食、买手店和购物的完美路线</strong></a></p>
 
 <figure>
   <img src="/images/posts/nakameguro-complete-guide-13.jpg" alt="从中目黑通往代官山的坡道">
