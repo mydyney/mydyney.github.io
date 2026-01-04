@@ -34,9 +34,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 ---
 
-## 🎄 Tokyo Mateがおすすめする!
-
-## 'クリスマス' 3泊4日コース
+## 🎄 Tokyo Mateがおすすめする! 'クリスマス' 3泊4日コース
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 今回のコースは、<br>
@@ -95,7 +93,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 六本木ヒルズへ(徒歩10分)<br>
 クリスマスマーケットと<br>
 けやき坂イルミネーション<br>
-<b><a href="/ja/posts/roppongi-attractions-guide/" style="color: #667eea;">➡️ 六本木完全活動ガイド</a></b><!-- TODO: /ja/posts/roppongi-attractions-guide -> roppongi-attractions-guide --></p>
+<b><a href="/ja/posts/roppongi-complete-guide/" style="color: #667eea;">➡️ 六本木完全活動ガイド</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.jpg" alt="六本木ヒルズクリスマス">
@@ -108,8 +106,8 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 ミシュランビブグルマン今かつで<br>
 柔らかいササミカツディナー<br>
 ​<br>
-<b><a href="#" style="color: #667eea;">➡️東京六本木レストランマップ</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --><br>
-<b><a href="#" style="color: #667eea;">ミシュラン、食べログおすすめレストラン</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --></p>
+<b><a href="/ja/posts/roppongi-restaurant-map/" style="color: #667eea;">➡️東京六本木レストランマップ</a></b><br>
+<b><a href="/ja/posts/roppongi-restaurant-map/" style="color: #667eea;">ミシュラン、食べログおすすめレストラン</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-26.jpg" alt="六本木レストラン、今かつ本店ササミカツ">
@@ -138,9 +136,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 ---
 
-## 4️⃣ 4日目:
-
-## 新宿&出発
+## 4️⃣ 4日目: 新宿&出発
 
 <table class="schedule-table">
   <thead>
@@ -196,9 +192,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 ---
 
-## 💸 東京3泊4日旅行予算
-
-## (予算ガイド)
+## 💸 東京3泊4日旅行予算 (予算ガイド)
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 旅行予算は<br>
@@ -236,12 +230,12 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>交通カード&割引クーポン</b><br>
-<b><a href="#" style="color: #667eea;">➡️ 東京交通カード完全ガイド</a></b><br>
-<b><a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
+<b><a href="/ja/posts/tokyo-transportation-card-guide-2025/" style="color: #667eea;">➡️ 東京交通カード完全ガイド</a></b><br>
+<b><a href="/ja/posts/tokyo-transportation-card-guide-2025/" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 
-<b><a href="#" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --><br>
-<b><a href="#" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --></p>
+<b><a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">➡️ 日本旅行割引クーポン完全ガイド</a></b><br>
+<b><a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">(ドンキホーテ、ドラッグストア、デパート)</a></b></p>
 
 
 <div class="editors-note">

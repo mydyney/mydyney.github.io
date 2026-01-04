@@ -31,8 +31,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 ---
 
-## ✨ 「辣得过瘾!」,
-## 川菜名店
+## ✨ 「辣得过瘾!」, 川菜名店
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 横滨中华街有<br>
@@ -57,8 +56,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 ---
 
-## 🌶️ 【必尝】麻婆豆腐
-## (辣度选择技巧!)
+## 🌶️ 【必尝】麻婆豆腐 (辣度选择技巧!)
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 来这里的理由。<br>
@@ -85,8 +83,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 ---
 
-## 🥟 午餐套餐 & 点心
-## (性价比技巧)
+## 🥟 午餐套餐 & 点心 (性价比技巧)
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 晚餐套餐价格偏高,<br>
@@ -170,7 +167,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 完美享受横滨地标建筑的<br>
 横滨1日推荐路线请查看!<br>
 <br>
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横滨1日路线 中华街美食、红砖仓库、夜景景点全汇总</strong></a><br>
+<strong>➡️</strong> <a href="/zh-cn/posts/yokohama-one-day-itinerary/" style="color: #667eea;"><strong>横滨1日路线 中华街美食、红砖仓库、夜景景点全汇总</strong></a><br>
 <br>
 <br>
 <strong>🚇 「港未来通票」攻略横滨!</strong><br>
@@ -179,8 +176,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 为节省交通费<br>
 <strong>「港未来通票」必备!</strong><br>
 <br>
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横滨交通通票,</strong></a><br>
-<a href="#" style="color: #667eea;"><strong>「港未来通票」全汇总</strong></a></p>
+<strong>➡️</strong> <a href="/zh-cn/posts/yokohama-minato-burari-ticket-guide/" style="color: #667eea;"><strong>横滨交通通票, 「港未来通票」全汇总</strong></a></p>
 
 
 <div class="editors-note">

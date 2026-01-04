@@ -191,6 +191,8 @@ When migrating a Naver blog post to Hugo:
 | 223666751487 | st-moritz-roppongi-bakery | - | pending |
 | 223665548720 | yebisu-brewery-museum-guide | - | pending |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
+| 223979907748 | yokohama-one-day-itinerary | - | pending |
+| 223976102621 | yokohama-minato-burari-ticket-guide | - | pending |
 ---
 ## Excluded from Migration (Do Not Process)
 
@@ -218,7 +220,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
 | 224025343414 | asakusa-complete-guide | Asakusa Asahi Beer Sky Room Night View Guide |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
-| 224026292057 | tokyo-october-festivals-2025 | Tokyo October Festivals 2025 Guide |
+| 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
 | 224010770861 | ginza-hachigo-reservation-guide | Ginza Hachigo Reservation & Waiting Guide |
 | 224010546735 | shinanoya-roppongi-hills-supermarket, roppongi-attractions-guide | Japanese Whisky Recommendations and Price Guide |
@@ -234,8 +236,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223985958480 | imakatsu-roppongi-tonkatsu-guide | Imakatsu Roppongi Main Store: Tokyo Tonkatsu Restaurant |
 | 223980220327 | tokyo-august-festivals-sumida-river | August Tokyo Festivals: Sumida River Lantern Floating |
 | 223980166231 | harajuku-super-yosakoi-festival-guide | Harajuku Omotesando Super Yosakoi Festival August Guide |
-| 223979907748 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama 1-Day Course: Chinatown Restaurants, Akarenga, Night Views Complete Guide |
-| 223976102621 | yokohama-chinatown-keitokuchin-mapo-tofu, tokyo-christmas-markets-guide-2025 | Yokohama Transportation Pass, 'Minato Burari Ticket' Complete Guide |
+
 | 223969429024 | roppongi-attractions-guide | Sarashina Horii Main Store: Roppongi Soba Restaurant |
 | 223968462793 | azabudai-hills-commen-bakery-review | Comme'N Tokyo Azabudai Hills Bakery Review |
 | 223958175295 | azabudai-hills-summer-festival-review | Tokyo Azabudai Hills Summer Festival Review |

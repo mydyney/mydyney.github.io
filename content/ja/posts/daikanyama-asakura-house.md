@@ -32,9 +32,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## ✨ '旧朝倉家住宅'、
-
-## どんな場所ですか？
+## ✨ '旧朝倉家住宅'、どんな場所ですか？
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>「旧朝倉家住宅（きゅうあさくらけじゅうたく）」</b>は<br>
@@ -58,9 +56,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## 🍂 古邸宅 & 庭園散策
-
-## (紅葉の名所)
+## 🍂 古邸宅 & 庭園散策 (紅葉の名所)
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 ここの魅力は大きく2つあります。<br>
@@ -120,9 +116,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## 📌 訪問前必読！
-
-## (入場料、注意事項)
+## 📌 訪問前必読！ (入場料、注意事項)
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 訪問前に必ず確認すべき重要なポイント3つです！<br>
@@ -159,9 +153,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## 📍 「旧朝倉家住宅」
-
-## 営業情報
+## 📍 「旧朝倉家住宅」 営業情報
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>⏰ 営業時間：</b><br>
@@ -201,23 +193,16 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## 📍 古邸宅の後、
-
-## どこへ行く？
-
-## (代官山コース)
+## 📍 古邸宅の後、どこへ行く？
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 静かな古邸宅での散策を終えたら、<br>
 今度は代官山の<br>
 洗練された現在を満喫する番です。<br>
 ​<br>
-<a href="#" style="color: #667eea;"><b>➡️ 代官山の見どころ、</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
-<a href="#" style="color: #667eea;"><b>蔦屋（T-SITE）からグルメ、</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
-<a href="#" style="color: #667eea;"><b>セレクトショップまで完璧コース</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="/ja/posts/daikanyama-complete-guide/" style="color: #667eea;"><b>➡️ 代官山の見どころ、蔦屋（T-SITE）からグルメ、セレクトショップまで完璧コース</b></a><br>
 <b>​</b><br>
-<a href="#" style="color: #667eea;"><b>➡️ 中目黒の見どころ</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
-<a href="#" style="color: #667eea;"><b>（代官山から徒歩10分）</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<a href="/ja/posts/nakameguro-complete-guide/" style="color: #667eea;"><b>➡️ 中目黒の見どころ (代官山から徒歩10分)</b></a><br>
 <b>​</b><br>
 <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>➡️ 渋谷完全活動ガイド</b></a><br>
 <a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>（代官山から地下鉄3分）</b></a></p>

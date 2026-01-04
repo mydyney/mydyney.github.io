@@ -26,8 +26,7 @@ And spice level selection tips!</p>
 
 ---
 
-## ✨ "Spicy but Delicious!",
-## A Sichuan Cuisine Legend
+## ✨ "Spicy but Delicious!", A Sichuan Cuisine Legend
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 While Yokohama Chinatown has hundreds of Chinese restaurants,<br>
@@ -49,8 +48,7 @@ It's highly popular even among locals.</p>
 
 ---
 
-## 🌶️ [Must-Try] Mapo Tofu
-## (Spice Level Selection Tips!)
+## 🌶️ [Must-Try] Mapo Tofu (Spice Level Selection Tips!)
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 The reason to visit here?<br>
@@ -77,8 +75,7 @@ The safest and most delicious choice.</p>
 
 ---
 
-## 🥟 Lunch Sets & Dim Sum
-## (Value Tips)
+## 🥟 Lunch Sets & Dim Sum (Value Tips)
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 While dinner course meals have premium pricing,<br>
@@ -162,8 +159,7 @@ Be sure to try it!</p>
 Discover the perfect one-day itinerary<br>
 To fully enjoy Yokohama's landmarks!<br>
 <br>
-<!-- Link updated -->
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Yokohama 1-Day Itinerary: Chinatown Restaurants, Akarenga, Night Views Complete Guide</strong></a><!-- TODO: https://blog.naver.com/tokyomate/223979907748 -> yokohama-one-day-itinerary --><br>
+<strong>➡️</strong> <a href="/posts/yokohama-one-day-itinerary/" style="color: #667eea;"><strong>Yokohama 1-Day Itinerary: Chinatown Restaurants, Akarenga, Night Views Complete Guide</strong></a><br>
 <br>
 <br>
 <strong>🚇 Conquer Yokohama with the 'Minato Burari Ticket'!</strong><br>
@@ -172,9 +168,7 @@ If you're planning to explore Yokohama all day,<br>
 To save on transportation costs,<br>
 <strong>The 'Minato Burari Ticket' is a must!</strong><br>
 <br>
-<!-- Link updated -->
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Yokohama Transportation Pass,</strong></a><!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide --><br>
-<a href="#" style="color: #667eea;"><strong>'Minato Burari Ticket' Complete Guide</strong></a><!-- TODO: https://blog.naver.com/tokyomate/223976102621 -> yokohama-minato-burari-ticket-guide --></p>
+<strong>➡️</strong> <a href="/posts/yokohama-minato-burari-ticket-guide/" style="color: #667eea;"><strong>Yokohama Transportation Pass, 'Minato Burari Ticket' Complete Guide</strong></a></p>
 
 
 <div class="editors-note">

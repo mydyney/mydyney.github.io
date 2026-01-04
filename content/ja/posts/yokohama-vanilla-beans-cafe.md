@@ -31,7 +31,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 
 ---
 
-## ✨ 食べログ5年連続百名店、「バ니라비ーンズ」
+## ✨ 食べログ5年連続百名店、「バニラビーンズ」
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">「VANILLA BEANS（バニラビーンズ）」は2000年、<br>
 2坪の小さな倉庫からスタートして<br>

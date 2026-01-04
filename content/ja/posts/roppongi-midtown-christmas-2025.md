@@ -6,31 +6,52 @@ translationKey: "roppongi-midtown-christmas-2025"
 description: "2025年六本木東京ミッドタウンのクリスマスイルミネーション、サンタツリー、クリスマスマルシェ、アイススケートリンク、レストラン、ショッピング情報をご紹介"
 summary: "2025年六本木東京ミッドタウンのクリスマスイルミネーション、サンタツリー、クリスマスマルシェ、アイススケートリンク、レストラン、ショッピング情報をご紹介"
 tags: ["六本木", "クリスマス", "ミッドタウン", "イルミネーション", "東京", "冬", "アイススケート", "マーケット"]
-categories: ["東京観光スポット"]
+categories: ["Tokyo Attractions"]
 featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 ---
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">🎄 2025年六本木東京ミッドタウンクリスマス完全ガイド！<br>
-イルミネーション、サンタツリー、クリスマスマルシェ、<br>
-アイススケートリンク、レストラン、ショッピングまで、<br>
-一度にチェックできる六本木の冬の祭典情報をご紹介します。</p>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">🎄 2025年六本木東京ミッドタウン・クリスマス公式スケジュール完全ガイド！<br>
+イルミネーション、サンタツリー、マルシェ、アイススケートリンク、レストラン、ショッピングまで、<br>
+冬の旅行に欠かせない情報をすべて一箇所にまとめました。</p>
 
 <figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-01.jpg" alt="2025年六本木東京ミッドタウン クリスマスイルミネーション メインナイトビュー">
-  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木東京ミッドタウン クリスマスイルミネーション メインナイトビュー</figcaption>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-01.jpg" alt="2025年六本木東京ミッドタウン・クリスマスイルミネーション メインナイトビュー">
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木東京ミッドタウン・クリスマスイルミネーション メインナイトビュー</figcaption>
 </figure>
 
-<p>六本木の冬を代表するイベント、東京ミッドタウンのクリスマスが2025年も開催されます。煌びやかなイルミネーション、巨大なサンタツリー、クリスマスマルシェ、屋外アイススケートリンクなど、冬のロマンチックな雰囲気を満喫できるスポットとして人気を集めています。</p>
+---
 
-<p>今回のブログでは、東京ミッドタウンで開催される2025年クリスマスイベントの全貌を詳しくご紹介します。各イベントの開催期間、時間、料金情報はもちろん、フォトスポット、おすすめレストラン、ショッピング情報まで、訪問前に知っておきたい情報をまとめました。</p>
+<strong>六本木ミッドタウン・クリスマス</strong>は、東京の冬の旅で絶対に見逃せないハイライトです。
 
-<h2>📅 2025年東京ミッドタウン クリスマスイベント スケジュール</h2>
+公式サイトの情報に基づき、MIDTOWN CHRISTMAS 2025の<strong>期間、時間、イベントスケジュールから、イルミネーション、サンタツリー、クリスマスマルシェ、アイススケートリンク</strong>まで、包括的なガイドをお届けします。
 
-<div class="info-box">
-  <p><strong>🎄 開催期間：</strong>2024年11月14日（木）〜 2025年2月16日（日）</p>
-</div>
+12月の東京旅行で東京ミッドタウンのクリスマス、クリスマスマルシェ、そしてレストランやショッピングコースを楽しみたいなら、この記事一つで完璧です。
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-02.jpg" alt="2025年六本木ミッドタウンのイルミネーションとガーデンベンチ">
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木ミッドタウンのイルミネーションとガーデンベンチ</figcaption>
+</figure>
+
+---
+
+## 🎄 ミッドタウン・クリスマス 2025 概要
+
+2025年の東京ミッドタウン・クリスマスのテーマは<strong>「Your Christmas Story」</strong>です。
+
+ミッドタウン・ガーデン全体が上品なゴールドの光に包まれ、以下の見どころが用意されています：
+
+- <strong>CHRISTMAS GARDEN LIGHTS (クリスマス・ガーデン・ライツ)</strong>
+- <strong>EMOTION PALETTE TREE (エモーション・パレット・ツリー / メインツリー)</strong>
+- <strong>Light Promenade (光のプロムナード)</strong>
+- <strong>Santa Tree (サンタツリー)</strong>
+- <strong>Yunth MIDTOWN ICE RINK (ミッドタウン・アイスリンク)</strong>
+- <strong>クリスマスマルシェ & 館内装飾</strong>
+
+六本木ミッドタウンは、一日中楽しめるクリスマス・タウンへと変貌します。
+
+こちらは東京のクリスマスシーズンのハイライトの一つ、公式イベント情報です。訪問前に開催期間と時間を確認しておきましょう。
 
 <table class="schedule-table">
   <thead>
@@ -38,239 +59,355 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
       <th>イベント</th>
       <th>開催期間</th>
       <th>時間</th>
-      <th>料金</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>ミッドタウン クリスマス 2024</strong></td>
-      <td>2024.11.14 (木) - 12.25 (水)</td>
-      <td>17:00-23:00</td>
-      <td>無料</td>
+      <td>クリスマス・ガーデン・ライツ</td>
+      <td>11月13日(木) 〜 12月25日(木)</td>
+      <td>17:00 〜 23:00</td>
     </tr>
     <tr>
-      <td><strong>MIDTOWN ICE RINK</strong></td>
-      <td>2024.11.14 (木) - 2025.2.16 (日)</td>
-      <td>11:00-21:00</td>
-      <td>大人 ¥2,500、中学生以下 ¥1,500</td>
+      <td>エモーション・パレット・ツリー</td>
+      <td>11月13日(木) 〜 12月25日(木)</td>
+      <td>17:00 〜 23:00</td>
     </tr>
     <tr>
-      <td><strong>MIDTOWN CHRISTMAS MARCHÉ</strong></td>
-      <td>2024.11.15 (金) - 12.25 (水)</td>
-      <td>11:00-21:00</td>
-      <td>無料入場（購入別途）</td>
+      <td>光のプロムナード</td>
+      <td>11月13日(木) 〜 2026年2月23日(月・祝)</td>
+      <td>17:00 〜 23:00</td>
     </tr>
     <tr>
-      <td><strong>MIDTOWN SNOW GARDEN</strong></td>
-      <td>2024.11.14 (木) - 12.25 (水)</td>
-      <td>17:00-23:00</td>
-      <td>無料</td>
+      <td>サンタツリー (屋内)</td>
+      <td>11月13日(木) 〜 12月25日(木)</td>
+      <td>11:00 〜 23:00</td>
     </tr>
     <tr>
-      <td><strong>サンタツリー in Midtown</strong></td>
-      <td>2024.11.14 (木) - 12.25 (水)</td>
-      <td>17:00-24:00</td>
-      <td>無料</td>
+      <td>クリスマスマルシェ (屋内)</td>
+      <td>11月13日(木) 〜 12月25日(木)</td>
+      <td>11:00 〜 21:00</td>
+    </tr>
+    <tr>
+      <td>アイスリンク</td>
+      <td>11月21日(金) 〜 2026年2月23日(月・祝)</td>
+      <td>11:00 〜 21:00</td>
     </tr>
   </tbody>
 </table>
 
 <figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-02.jpg" alt="東京ミッドタウン クリスマスイベント 総合案内板">
-  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン クリスマスイベント 総合案内板</figcaption>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-03.jpg" alt="2025年六本木東京ミッドタウン ガーデンイルミネーション パノラマ">
+  <figcaption style="font-size: 0.7em; text-align: center;">2025年六本木東京ミッドタウン ガーデンイルミネーション パノラマ</figcaption>
 </figure>
 
-<h2>✨ ミッドタウン クリスマスイルミネーション 2024</h2>
+### 📌 [重要] 六本木ヒルズ vs 東京ミッドタウン (必読！)
 
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-03.jpg" alt="ミッドタウン ガーデンエリア イルミネーション全景">
-  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウン ガーデンエリア イルミネーション全景</figcaption>
-</figure>
+これらは全く別の場所です。(徒歩10〜15分ほど離れています)
 
-<p>東京ミッドタウンのガーデンエリア全体が幻想的な光の空間に変わります。約2,000平方メートルの芝生広場に約20万球のLEDライトが設置され、クリスマスシーズンのロマンチックな雰囲気を演出します。</p>
+- <strong>六本木ヒルズ</strong>：けやき坂のイルミネーションとドイツスタイルのクリスマスマーケットで有名
+- <strong>東京ミッドタウン</strong>：ガーデンイルミネーション、アイスリンク、ガレリア内の屋内ツリーで有名
 
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-04.jpg" alt="イルミネーション ライトアップ近景">
-  <figcaption style="font-size: 0.7em; text-align: center;">イルミネーション ライトアップ近景</figcaption>
-</figure>
+この記事は「<strong>東京ミッドタウン</strong>」のガイドです！
 
-<p>今年のテーマは「MIDTOWN SNOW GARDEN」で、雪が降り積もったような白とブルーのLEDライトが幻想的な冬の庭園を演出します。夕方5時から夜11時まで点灯され、静かな雰囲気の中で散策を楽しむことができます。</p>
+⭐ <strong>11月4日から始まった六本木ヒルズのイルミネーションについては、以下の記事をチェック！</strong>
 
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-05.jpg" alt="イルミネーショントンネル 夜景">
-  <figcaption style="font-size: 0.7em; text-align: center;">イルミネーショントンネル 夜景</figcaption>
-</figure>
-
-<div class="tip-box">
-  <p><strong>📸 フォトスポット：</strong>ガーデンエリアの中央広場とイルミネーショントンネルは必須の撮影スポットです。夕方6時〜7時の青い空とイルミネーションが重なる時間帯が最も美しいです。</p>
-</div>
-
-<h2>🎅 サンタツリー in Midtown</h2>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-06.jpg" alt="ミッドタウンガレリア1階 サンタツリー 全体">
-  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウンガレリア1階 サンタツリー 全体</figcaption>
-</figure>
-
-<p>ミッドタウン・ガレリア1階のアトリウムには、高さ5メートルの特別なサンタツリーが登場します。伝統的なクリスマスツリーとは異なり、数百個のサンタクロース人形で飾られたユニークなツリーは、東京ミッドタウンのクリスマスを象徴するランドマークとなっています。</p>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-07.jpg" alt="サンタツリー ディテール クローズアップ">
-  <figcaption style="font-size: 0.7em; text-align: center;">サンタツリー ディテール クローズアップ</figcaption>
-</figure>
-
-<p>赤と白を基調とした温かみのある照明と、様々なポーズのサンタ人形が可愛らしい雰囲気を演出します。子供から大人まで楽しめる記念撮影スポットとして人気を集めています。</p>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-08.jpg" alt="サンタツリー サイドビュー">
-  <figcaption style="font-size: 0.7em; text-align: center;">サンタツリー サイドビュー</figcaption>
-</figure>
-
-<h2>⛸️ MIDTOWN ICE RINK（ミッドタウン アイススケートリンク）</h2>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-09.jpg" alt="ミッドタウン アイススケートリンク 全景">
-  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウン アイススケートリンク 全景</figcaption>
-</figure>
-
-<p>東京ミッドタウンの芝生広場には、都心にいながら冬のスポーツを楽しめる屋外アイススケートリンクが登場します。約170平方メートル規模のリンクで、2025年2月中旬まで運営されます。</p>
-
-<div class="info-box">
-  <ul>
-    <li><strong>営業時間：</strong>11:00～21:00（最終入場 20:00）</li>
-    <li><strong>利用料金：</strong>大人（中学生以上）¥2,500、子供（中学生以下）¥1,500</li>
-    <li><strong>貸靴料金：</strong>利用料金に含まれる</li>
-    <li><strong>所要時間：</strong>1セッション70分</li>
-  </ul>
-</div>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-10.jpg" alt="アイススケートリンク 利用客の様子">
-  <figcaption style="font-size: 0.7em; text-align: center;">アイススケートリンク 利用客の様子</figcaption>
-</figure>
-
-<p>夜にはイルミネーションに包まれながらスケートを楽しむことができ、ロマンチックな雰囲気を満喫できます。初心者用のヘルパーも用意されているので、スケート初心者やお子様連れのファミリーも安全に楽しめます。</p>
-
-<h2>🎄 MIDTOWN CHRISTMAS MARCHÉ（クリスマスマルシェ）</h2>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-11.jpg" alt="クリスマスマルシェ 全体の雰囲気">
-  <figcaption style="font-size: 0.7em; text-align: center;">クリスマスマルシェ 全体の雰囲気</figcaption>
-</figure>
-
-<p>ヨーロッパのクリスマスマーケットの雰囲気を東京で楽しめるクリスマスマルシェが開催されます。木製の可愛らしい小屋が立ち並び、様々なクリスマスグッズ、ホットドリンク、季節の料理を販売します。</p>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-12.jpg" alt="マルシェ ブース 詳細">
-  <figcaption style="font-size: 0.7em; text-align: center;">マルシェ ブース 詳細</figcaption>
-</figure>
-
-<p>ホットワイン（グリューワイン）、ホットチョコレート、焼き栗、ソーセージなど、寒い冬にぴったりの温かい食べ物と飲み物を味わえます。クリスマスオーナメント、手作り雑貨、アクセサリーなどユニークなプレゼントを探すのにも最適です。</p>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-13.jpg" alt="マルシェ 夜景とイルミネーション">
-  <figcaption style="font-size: 0.7em; text-align: center;">マルシェ 夜景とイルミネーション</figcaption>
-</figure>
-
-<h2>🏢 東京ミッドタウン内部 ガレリア ショッピング＆ダイニング</h2>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-14.jpg" alt="ミッドタウン ガレリア 内部 1階">
-  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウン ガレリア 内部 1階</figcaption>
-</figure>
-
-<p>東京ミッドタウン・ガレリアには、約130店舗のショップとレストランが入っています。ファッション、雑貨、レストラン、カフェなど多様なブランドがあり、ショッピングと食事を同時に楽しめます。</p>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-15.jpg" alt="ガレリア 2階・3階 ショッピングエリア">
-  <figcaption style="font-size: 0.7em; text-align: center;">ガレリア 2階・3階 ショッピングエリア</figcaption>
-</figure>
-
-<h3>おすすめレストラン＆カフェ</h3>
-
-<ul>
-  <li><strong>bills（ビルズ）：</strong>オーストラリア発の人気ブランチカフェ。リコッタパンケーキが有名</li>
-  <li><strong>Blue Bottle Coffee（ブルーボトルコーヒー）：</strong>サードウェーブコーヒーの代表格</li>
-  <li><strong>鼎泰豊（ディンタイフォン）：</strong>台湾の有名小籠包レストラン</li>
-  <li><strong>BOTANIST Tokyo：</strong>植物をテーマにしたカフェ＆レストラン</li>
-</ul>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-16.jpg" alt="ガレリア レストランエリア">
-  <figcaption style="font-size: 0.7em; text-align: center;">ガレリア レストランエリア</figcaption>
-</figure>
-
-<h2>🚇 アクセス情報</h2>
-
-<div class="info-box">
-  <ul>
-    <li><strong>都営大江戸線「六本木駅」：</strong>8番出口直結</li>
-    <li><strong>東京メトロ日比谷線「六本木駅」：</strong>地下通路直結</li>
-    <li><strong>東京メトロ千代田線「乃木坂駅」：</strong>3番出口より徒歩3分</li>
-    <li><strong>東京メトロ南北線「六本木一丁目駅」：</strong>1番出口より徒歩10分</li>
-  </ul>
-</div>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-17.jpg" alt="東京ミッドタウン 外観 夜景">
-  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン 外観 夜景</figcaption>
-</figure>
-
-<h2>💡 訪問のヒント</h2>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-18.jpg" alt="ミッドタウン タワー ライトアップ">
-  <figcaption style="font-size: 0.7em; text-align: center;">ミッドタウン タワー ライトアップ</figcaption>
-</figure>
-
-<ol>
-  <li><strong>おすすめ訪問時間：</strong>平日の夕方5時〜7時が比較的混雑が少なくおすすめです。週末は午後から混雑し始めます。</li>
-  <li><strong>所要時間：</strong>イルミネーション鑑賞だけなら1時間、スケートやマルシェを含めると2〜3時間程度を見込みましょう。</li>
-  <li><strong>服装：</strong>屋外イベントのため、冬の防寒対策は必須です。特にスケートリンクエリアは寒いので手袋、帽子、マフラーを準備しましょう。</li>
-  <li><strong>近隣イベント：</strong>六本木ヒルズのクリスマスイルミネーションも徒歩10分の距離にあるので、一緒に訪れるのがおすすめです。</li>
-</ol>
-
-<figure>
-  <img src="/images/posts/roppongi-midtown-christmas-2025-19.jpg" alt="東京ミッドタウン 全体ビュー">
-  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン 全体ビュー</figcaption>
-</figure>
-
-<h2>❓ よくある質問（Q&amp;A）</h2>
-
-<p><strong>Q1. 入場料は必要ですか？</strong><br>
-A. イルミネーション、サンタツリー、クリスマスマルシェは無料で鑑賞できます。アイススケートリンクのみ有料です（大人¥2,500、子供¥1,500）。</p>
-
-<p><strong>Q2. 雨の日でも楽しめますか？</strong><br>
-A. アイススケートリンクは屋外のため雨天時は中止になる場合があります。サンタツリーはガレリア内にあるので天候に関係なく鑑賞できます。</p>
-
-<p><strong>Q3. 子供連れでも大丈夫ですか？</strong><br>
-A. はい、子供連れに優しい施設です。授乳室、おむつ替えスペースも完備されており、ファミリー向けのレストランも多数あります。</p>
-
-<p><strong>Q4. 周辺の駐車場はありますか？</strong><br>
-A. 東京ミッドタウンの地下駐車場（有料）を利用できます。ただし週末は混雑するため、公共交通機関の利用をおすすめします。</p>
-
-<p><strong>Q5. 六本木ヒルズと同じ日に両方訪れることはできますか？</strong><br>
-A. はい、強くおすすめします。2つの場所は徒歩10〜15分の距離です。最も効率的なコースは、日没前に六本木ヒルズでクリスマスマーケットを見て、暗くなってから東京ミッドタウンに移動してガーデンイルミネーションを楽しむことです。</p>
-
-<p><strong>Q6. 地下鉄駅と直結していますか？</strong><br>
-A. はい、直結しています。都営大江戸線または東京メトロ日比谷線の六本木駅8番出口から東京ミッドタウンの入口に直接つながっており、とても便利です。</p>
-
-<p><strong>Q7. クリスマスケーキも販売していますか？</strong><br>
-A. はい、11月13日から12月25日までクリスマスケーキイベントを開催しています。ガレリアB1の有名なパティスリーで予約を受け付けており、豪華なクリスマス限定ケーキを販売しています。</p>
+➡️ [2025年六本木イルミネーション 期間、点灯時間、必須スポット完全ガイド](/ja/posts/roppongi-christmas-illumination-2025/)
 
 ---
 
-六本木ミッドタウンのクリスマスは、洗練された幻想的な雰囲気を求める方に最適です。
+## 1️⃣ クリスマス・ガーデン・ライツ (CHRISTMAS GARDEN LIGHTS)
+
+<strong>「Christmas Memories」</strong>をテーマに、光の演出を通じて、贈り物、笑い、雪、静かな夜など、さまざまなシーンを表現しています。
+
+「ホワイトクリスマス」を連想させる雪が降るエリアは、写真や動画に最適なスポットです。
+
+- <strong>期間：2025年11月13日(木) 〜 12月25日(木)</strong>
+- <strong>時間：17:00 〜 23:00</strong>
+- 場所：ミッドタウン・ガーデン
+- 入場料：無料
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-04.jpg" alt="東京ミッドタウン クリスマス・ガーデン・ライツの幻想的な演出">
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン クリスマス・ガーデン・ライツの幻想的な演出</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-05.jpg" alt="クリスマス・ガーデン・ライツの魔法のようなシーン">
+  <figcaption style="font-size: 0.7em; text-align: center;">クリスマス・ガーデン・ライツの魔法のようなシーン</figcaption>
+</figure>
+
+### ❄️ 期間限定スペシャル演出 (しゃぼん玉 ＋ 雪)
+
+- <strong>実施期間：2025年12月12日(金)まで</strong>
+- しゃぼん玉演出：3分に1回
+- 雪の演出：12分に1回
+- 演出時間：約3分間
+
+<strong>※12月13日(土)からは、しゃぼん玉と雪の演出を除いた通常のイルミネーションが継続されます。</strong>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-06.jpg" alt="東京ミッドタウン クリスマス・ガーデン・ライツ しゃぼん玉と雪の演出シーン">
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン クリスマス・ガーデン・ライツ しゃぼん玉と雪の演出シーン</figcaption>
+</figure>
+
+---
+
+## 2️⃣ エモーション・パレット・ツリー (EMOTION PALETTE TREE)
+
+本物のモミの木を使用しており、ゴールドの光をベースに様々な色に変化するのが特徴です。
+
+「エモーション・パレット」というテーマで、クリスマスの物語の中にある様々な感情を色と光で表現しています。
+
+- <strong>期間：2025年11月13日(木) 〜 12月25日(木)</strong>
+- <strong>時間：17:00 〜 23:00</strong>
+- 場所：ミッドタウン・ガーデン
+- 入場料：無料
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-07.jpg" alt="六本木東京ミッドタウン・クリスマスのメインツリー「エモーション・パレット・ツリー」">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウン・クリスマスのメインツリー「エモーション・パレット・ツリー」</figcaption>
+</figure>
+
+---
+
+## 3️⃣ 光のプロムナード (Light Promenade)
+
+上品なゴールドを基調とした光が、ガーデンの入り口から来場者を温かく迎えます。
+
+- <strong>期間：2025年11月13日(木) 〜 2026年2月23日(月・祝)</strong>
+- <strong>時間：17:00 〜 23:00</strong>
+- 場所：ミッドタウン・ガーデン、プラザ1F
+- 入場料：無料
+- 特徴：クリスマスシーズンが終わった後も、長く楽しむことができます
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-08.jpg" alt="六本木東京ミッドタウン 光のプロムナードのゴールドの夜景">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウン 光의 프로ムナードのゴールドの夜景</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-09.jpg" alt="六本木東京ミッドタウンのプロムナードに沿ったライトアップされた階段の噴水">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウンのプロムナードに沿ったライトアップされた階段の噴水</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-10.jpg" alt="プロムナード沿いの光の演出がある階段の噴水">
+  <figcaption style="font-size: 0.7em; text-align: center;">プロムナード沿いの光の演出がある階段の噴水</figcaption>
+</figure>
+
+---
+
+## 4️⃣ サンタツリー (Santa Tree)
+
+寒い日でも、六本木ミッドタウンの館内には見どころがたくさんあります。
+
+約4メートルの高さのツリーシャワースペースは、無数のサンタのフィギュアで埋め尽くされ、「サンタツリー」へと変身します。
+
+- プレゼントを準備するサンタ
+- トナカイの世話をするサンタ
+- ミッドタウン・ガーデンを散歩するサンタなど
+
+様々なミニストーリーが隠されており、特にお子様連れのご家族に人気です。
+
+- <strong>期間：2025年11月13日(木) 〜 12月25日(木)</strong>
+- <strong>時間：11:00 〜 23:00</strong>
+- 場所：ガレリア1F ツリーシャワー
+- 入場料：無料
+
+ガレリア3Fには「ボスサンタ」と一緒に撮れる「サンタ・サプライズ」フォトスポットや、小さなサンタたちの世界を捉えたアドベントツリー、館内を巡るスタンプラリー、館内装飾「Feathery Snow Tree」など、屋内を巡るだけでミッドタウン・クリスマスの雰囲気を存分に味わうことができます。
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-11.jpg" alt="六本木ミッドタウン・ガレリア内の華やかなクリスマス装飾">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ミッドタウン・ガレリア内の華やかなクリスマス装飾</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-12.jpg" alt="六本木ミッドタウン・ガレリア内に設置されたサンタツリー">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ミッドタウン・ガレリア内に設置されたサンタツリー</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-13.jpg" alt="屋内のサンタツリー装飾のクローズアップ">
+  <figcaption style="font-size: 0.7em; text-align: center;">屋内のサンタツリー装飾のクローズアップ</figcaption>
+</figure>
+
+---
+
+## 5️⃣ クリスマスマルシェ (Christmas Marche)
+
+六本木ミッドタウンのクリスマスマルシェは、ドイツスタイルのマーケットとはまた違った魅力があります。
+
+- <strong>期間：2025年11月13日(木) 〜 12月25日(木)</strong>
+- <strong>時間：11:00 〜 21:00</strong>
+- 場所：ガレリアB1F
+- 特徴：クリスマスオーナメント、雑貨、アクセサリーなどを販売
+- ヒント：12月20日(土) 〜 12月25日(木)は、22:00まで時間を延長して営業します
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-14.jpg" alt="六本木ミッドタウンB1Fのクリスマスマルシェのパノラマ">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ミッドタウンB1Fのクリスマスマルシェのパノラマ</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-15.jpg" alt="クリスマスマルシェの屋台と装飾">
+  <figcaption style="font-size: 0.7em; text-align: center;">クリスマスマルシェの屋台と装飾</figcaption>
+</figure>
+
+---
+
+## 6️⃣ アイスリンク (Yunth MIDTOWN ICE RINK)
+
+六本木のクリスマスのハイライト、都会の真ん中にある屋外アイスリンクです。今年はスキンケアブランド「Yunth」とコラボレーションしています。
+
+- <strong>期間：2025年11月21日(金) 〜 2026年2月23日(月・祝)</strong>
+- <strong>時間：11:00 〜 21:00 (最終入場 20:00)</strong>
+- 場所：ミッドタウン 芝生広場
+- <strong>料金：大人 (高校生以上) ¥2,000 / 小人 (中学生以下) ¥1,400</strong>
+
+🎄 休日期間料金 (12/13〜1/4)：大人 ¥2,300 / 小人 ¥1,700
+
+- レンタル：スケート靴 ¥500、ソリ ¥500 (平日 11:00〜18:00)
+
+<strong>⚠️ 2026年1月1日(木)は全館休館のため、アイスリンクも営業しません。</strong>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-16.jpg" alt="六本木東京ミッドタウン アイスリンク (Yunth MIDTOWN ICE RINK) の夜景">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウン アイスリンク (Yunth MIDTOWN ICE RINK) の夜景</figcaption>
+</figure>
+
+---
+
+## ⚠️ 訪問前に必読！ 混雑予想と交通規制
+
+公式サイトでも強く推奨されている事項です。
+
+この期間中は、一方通行のルートや長い待ち時間がデフォルトと考えておく必要があります。
+
+訪問日を決める際には、必ずこちらを参考にしてください。
+
+<strong>🚨 混雑のピーク期間：12月19日(金) 〜 12月25日(木)</strong>
+
+<strong>⏰ 混雑のピーク時間：毎日 17:00 〜 19:00</strong>
+
+<strong>📌 おすすめの訪問時期：12月18日(木)までの平日が強く推奨されています。</strong>
+
+<strong>🚧 交通規制日：12月20日(土)、21日(日)、24日(水)、25日(木) - 激しい混雑が予想されるこの4日間は、交通規制が実施されます。</strong>
+
+<strong>🚫 スペシャル演出終了日：しゃぼん玉と雪の演出は12月12日(金)までです！</strong>
+
+<strong>‼️ 重要な注意事項：お手洗い等で列を離れると、元の場所には戻れず、最後尾から並び直す必要があります。</strong>
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-17.jpg" alt="東京ミッドタウン クリスマス・ガーデン・ライツで見つける隠れたサンタ装飾">
+  <figcaption style="font-size: 0.7em; text-align: center;">東京ミッドタウン クリスマス・ガーデン・ライツで見つける隠れたサンタ装飾</figcaption>
+</figure>
+
+---
+
+## 😋 レストラン ＆ 🛍️ ショッピング：一緒に楽しむコース
+
+東京ミッドタウンのレストランとショッピングも欠かせないコースです。
+
+### 1. 東京ミッドタウン おすすめレストラン
+
+<strong>① つじ半 (Tsujihan) - 海鮮丼</strong>
+- 場所：東京ミッドタウン ガレリアB1F
+- 特徴：行列必須ですが、屋内なので東京駅本店よりも快適に待つことができます
+
+➡️ [つじ半 ミッドタウン店、待ち時間が短い東京六本木の海鮮丼レストラン](https://blog.naver.com/tokyomate/223986407872)
+
+<strong>② 伊吹うどん (Ibuki Udon)</strong>
+- 場所：東京ミッドタウン ガレリアB1F
+- 特徴：寒い日にぴったりの温かい、いりこだしのうどん屋さん
+
+<strong>③ ナプレ (Napule)</strong>
+- 場所：東京ミッドタウン ガーデンテラス1F
+- 特徴：イルミネーションを眺めながら食事ができるピザレストラン
+
+✅ [ナプレ 東京ミッドタウン店 オンライン予約↗](https://autoreserve.com/ko/restaurants/WevzTjJvAfYSaAmfST3g?medium_slug=AJvA6Kg5ptKi)
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-18.jpg" alt="六本木ミッドタウンのナプレ レストランからのイルミネーションの眺め">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木ミッドタウンのナプレ レストランからのイルミネーションの眺め</figcaption>
+</figure>
+
+<strong>④ つるとんたん 六本木 (TsuruTonTan)</strong>
+- 場所：東京ミッドタウンから徒歩2分
+- 特徴：予約可能で整理券制。番号を受け取ってイルミネーションを楽しめるのが魅力
+
+✅ [つるとんたん 六本木店 オンライン予約↗](https://autoreserve.com/ko/restaurants/XbXJWvBWoruk23Yw2Rbo?medium_slug=AJvA6Kg5ptKi)
+
+➡️ [東京六本木のうどんレストラン つるとんたん、整理券を受け取って観光](https://blog.naver.com/tokyomate/223696568926)
+
+<strong>⑤ イマカツ 六本木本店 (Imakatsu)</strong>
+- 場所：東京ミッドタウンから徒歩3分
+- 特徴：ミシュラン・ビブグルマンに選出されたこともあるとんかつ屋さん
+
+➡️ [イマカツ 六本木本店：東京とんかつ店 待ち時間と予約のコツ](https://blog.naver.com/tokyomate/223985958480)
+
+<strong>⑥ 入鹿TOKYO 六本木 (Iruca Tokyo)</strong>
+- 場所：東京ミッドタウンから徒歩2分
+- 特徴：トリュフの香りが印象的な人気ラーメン店
+
+➡️ [入鹿TOKYO 六本木、ミシュランラーメン店 待ち時間と注文のコツ](https://blog.naver.com/tokyomate/223987115708)
+
+### 2. 東京ミッドタウン ショッピング ＆ 見どころ
+
+<strong>① サントリー美術館</strong>
+- 場所：ガレリア3F
+- 特徴：建物内でおしゃれにアート鑑賞ができます
+
+<strong>② 無印良品 ＆ ユニクロ</strong>
+- 場所：ガレリアB1F
+- 特徴：大型店舗で、ゆっくりとお買い物ができます
+
+<strong>③ PLEATS PLEASE ISSEY MIYAKE</strong>
+- 場所：ガレリア2F
+- 特徴：人気のアイテムが揃っています
+
+<figure>
+  <img src="/images/posts/roppongi-midtown-christmas-2025-19.jpg" alt="六本木東京ミッドタウン PLEATS PLEASE ISSEY MIYAKE 店舗">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウン PLEATS PLEASE ISSEY MIYAKE 店舗</figcaption>
+</figure>
+
+---
+
+## ❓ よくある質問（Q&A）
+
+<strong>Q1. 入場料は必要ですか？</strong>
+A. イルミネーション、サンタツリー、クリスマスマルシェは無料。アイススケートリンクのみ有料です。
+
+<strong>Q2. 雨の日でも楽しめますか？</strong>
+A. 屋外のアイススケートリンクは雨天時に中止になる場合があります。しかし、サンタツリーはガレリア内にあるため、天候に関係なく鑑賞できます。
+
+<strong>Q3. お子様連れでも大丈夫ですか？</strong>
+A. はい、非常にファミリーフレンドリーです。授乳室やおむつ替え施設、ご家族向けのレストランも多数あります。
+
+<strong>Q4. 近隣に駐車場はありますか？</strong>
+A. 東京ミッドタウンの地下駐車場（有料）が利用できます。ただし週末は非常に混雑するため、公共交通機関の利用をおすすめします。
+
+<strong>Q5. 六本木ヒルズと両方同じ日に訪れることはできますか？</strong>
+A. はい、強くおすすめします。2つのスポットは徒歩10〜15分の距離です。最高に効率的なコースは、日没前に六本木ヒルズでクリスマスマーケットを見て、暗くなってから東京ミッドタウンに移動してガーデンイルミネーションを楽しむコースです。
+
+<strong>Q6. 地下鉄駅と直結していますか？</strong>
+A. はい、直結しています。都営大江戸線または東京メトロ日比谷線の六本木駅8番出口が、東京ミッドタウンの入口に直接つながっており、非常に便利です。
+
+<strong>Q7. クリスマスケーキも販売していますか？</strong>
+A. はい、11月13日から12月25日までクリスマスケーキイベントを開催しています。ガレリアB1の有名なパティスリーで予約を受け付けており、豪華な限定ケーキを販売しています。
+
+---
+
+ロマンチックで洗練された雰囲気を楽しみたい方に、六本木ミッドタウンのクリスマスは最高の選択になるでしょう。
 
 ## 🎄 東京のクリスマス 2025
 
-<strong>⭐ 必須コースだけ！東京クリスマス3泊4日コース</strong>
+<strong>⭐ 必須項目だけ！ 東京クリスマス 3泊4日コース</strong>
 
-➡️ [東京3泊4日クリスマスイルミネーションおすすめコース＆クリスマスマーケット（ルート、予算完全ガイド）](/ja/posts/tokyo-3-day-christmas-illumination-itinerary/)
+➡️ [東京3泊4日クリスマスイルミネーションおすすめコース ＆ クリスマスマーケット（ルート、予算完全ガイド）](/ja/posts/tokyo-3-day-christmas-illumination-itinerary/)
 
 <strong>🌟 六本木ヒルズ イルミネーション 11月4日スタート</strong>
 
-➡️ [六本木イルミネーション2025 期間、点灯時間、必須スポット完全ガイド](/ja/posts/roppongi-christmas-illumination-2025/)
+➡️ [2025年六本木イルミネーション 期間、点灯時間、必須スポット完全ガイド](/ja/posts/roppongi-christmas-illumination-2025/)
 
 <strong>🌟 東京スカイツリー クリスマスマーケット 11月6日スタート</strong>
 
@@ -278,17 +415,17 @@ A. はい、11月13日から12月25日までクリスマスケーキイベント
 
 <strong>🌟 東京丸の内イルミネーション 11月13日スタート</strong>
 
-➡️ [東京丸の内イルミネーション2025 期間、時間完全ガイド（ディズニー、クリスマスマーケット、スタンプラリー）](/ja/posts/marunouchi-illumination-2025/)
+➡️ [2025年東京丸の内イルミネーション 期間、時間完全ガイド（ディズニー、クリスマスマーケット、スタンプラリー）](/ja/posts/marunouchi-illumination-2025/)
 
 <strong>🌟 東京日比谷ミッドタウン イルミネーション 11月13日スタート</strong>
 
-➡️ [2025日比谷ミッドタウン イルミネーション·ズートピア2コラボ·丸の内散策コース完全ガイド](/ja/posts/hibiya-midtown-illumination-2025/)
+➡️ [2025年日比谷ミッドタウン・イルミネーション × ズートピア2コラボ完全ガイド](/ja/posts/hibiya-midtown-illumination-2025/)
 
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224076977654" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+    この記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224076977654" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報を提供します。
   </p>
 </div>
 

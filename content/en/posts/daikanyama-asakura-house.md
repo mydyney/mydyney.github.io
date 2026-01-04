@@ -32,9 +32,7 @@ We've compiled all the essential tips for your visit!</p>
 
 ---
 
-## ✨ 'Former Asakura House',
-
-## What Kind of Place Is It?
+## ✨ 'Former Asakura House', What Kind of Place Is It?
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>'Former Asakura House (旧朝倉家住宅)'</b> is<br>
@@ -58,9 +56,7 @@ you can only find here.</p>
 
 ---
 
-## 🍂 Historic House & Garden Walk
-
-## (Autumn Foliage Spot)
+## 🍂 Historic House & Garden Walk (Autumn Foliage Spot)
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 This place has two main attractions.<br>
@@ -120,9 +116,7 @@ Daikanyama's hidden autumn foliage spot.</p>
 
 ---
 
-## 📌 Must Read Before Visiting!
-
-## (Admission Fee, Precautions)
+## 📌 Must Read Before Visiting! (Admission Fee, Precautions)
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 3 important tips to check before visiting!<br>
@@ -159,9 +153,7 @@ so please use convenient public transportation.</p>
 
 ---
 
-## 📍 'Former Asakura House'
-
-## Operating Information
+## 📍 'Former Asakura House' Operating Information
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>⏰ Hours:</b><br>
@@ -201,30 +193,17 @@ Tokyu Toyoko Line<br>
 
 ---
 
-## 📍 After the Historic House,
-
-## Where to Go Next?
-
-## (Daikanyama Course)
+## 📍 After the Historic House, Where to Go Next?
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 After a quiet stroll through the historic house,<br>
 it's time to enjoy<br>
 Daikanyama's sophisticated present.<br>
 ​<br>
-<!-- Link updated -->
-<!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>➡️ Daikanyama Must-Visit Places,</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
-<!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>Complete course from Tsutaya (T-SITE) to restaurants</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
-<!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>and boutiques</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="/posts/daikanyama-complete-guide/" style="color: #667eea;"><b>➡️ Daikanyama Must-Visit Places, Complete course from Tsutaya (T-SITE) to restaurants and boutiques</b></a><br>
 <b>​</b><br>
 <!-- Link updated -->
-<!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>➡️ Nakameguro Must-Visit Places</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
-<!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>(10 minutes walk from Daikanyama)</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<a href="/posts/nakameguro-complete-guide/" style="color: #667eea;"><b>➡️ Nakameguro Must-Visit Places (10 minutes walk from Daikanyama)</b></a><br>
 <b>​</b><br>
 <!-- Link updated -->
 <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>➡️ Shibuya Complete Activity Guide</b></a><br>

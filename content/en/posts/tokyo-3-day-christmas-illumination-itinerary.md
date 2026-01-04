@@ -34,9 +34,7 @@ Plan your most romantic<br>
 
 ---
 
-## 🎄 Tokyo Mate Recommends!
-
-## 'Christmas' 3-Night 4-Day Itinerary
+## 🎄 Tokyo Mate Recommends! 'Christmas' 3-Night 4-Day Itinerary
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 This itinerary is<br>
@@ -75,11 +73,7 @@ to efficiently explore<br>
 
 ---
 
-## 1️⃣ DAY 1:
-
-## Trendy West Side with Night Views
-
-## (Shibuya/Shinjuku)
+## 1️⃣ DAY 1: Trendy West Side with Night Views (Shibuya/Shinjuku)
 
 ​
 
@@ -145,7 +139,7 @@ To Roppongi Hills (10-min walk)<br>
 Christmas Market and<br>
 Keyakizaka Illumination<br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">➡️ Roppongi Complete Activity Guide</a></b><!-- TODO: /posts/roppongi-attractions-guide -> roppongi-complete-guide --></p>
+<a href="/posts/roppongi-complete-guide/" style="color: #667eea;">➡️ Roppongi Complete Activity Guide</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.jpg" alt="Roppongi Hills Christmas">
@@ -159,9 +153,9 @@ Michelin Bib Gourmand Imakatsu<br>
 for tender Sasami Katsu dinner<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">➡️Tokyo Roppongi Restaurant Map</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --><br>
+<a href="/posts/roppongi-restaurant-map/" style="color: #667eea;">➡️Tokyo Roppongi Restaurant Map</a></b><br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">Michelin, Tabelog Recommended Restaurants</a></b><!-- TODO: https://blog.naver.com/tokyomate/223993881300 -> roppongi-restaurant-map --></p>
+<a href="/posts/roppongi-restaurant-map/" style="color: #667eea;">Michelin, Tabelog Recommended Restaurants</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-26.jpg" alt="Roppongi restaurant, Imakatsu main store Sasami Katsu">
@@ -190,9 +184,7 @@ for complete conquest.<br>
 
 ---
 
-## 4️⃣ DAY 4:
-
-## Shinjuku & Departure
+## 4️⃣ DAY 4: Shinjuku & Departure
 
 <table class="schedule-table">
   <thead>
@@ -253,9 +245,7 @@ to the airport!<br>
 
 ---
 
-## 💸 Tokyo 3-Night 4-Day Travel Budget
-
-## (Budget Guide)
+## 💸 Tokyo 3-Night 4-Day Travel Budget (Budget Guide)
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 Travel budget varies greatly<br>
@@ -298,9 +288,9 @@ is the most realistic recommended budget.</p>
 <a href="/posts/tokyo-transportation-card-guide-2025/" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">➡️ Japan Travel Discount Coupons Complete Guide</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --><br>
+<a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">➡️ Japan Travel Discount Coupons Complete Guide</a></b><br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">(Don Quijote, Drugstores, Department Stores)</a></b><!-- TODO: https://blog.naver.com/tokyomate/224039113760 -> japan-travel-discount-coupons-2025 --></p>
+<a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">(Don Quijote, Drugstores, Department Stores)</a></b></p>
 
 
 <div class="editors-note">

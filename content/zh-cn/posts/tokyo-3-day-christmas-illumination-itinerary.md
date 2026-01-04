@@ -34,9 +34,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 ---
 
-## 🎄 Tokyo Mate推荐!
-
-## '圣诞' 3晚4日路线
+## 🎄 Tokyo Mate推荐! '圣诞' 3晚4日路线
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 本次路线，<br>
@@ -96,7 +94,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 前往六本木Hills(步行10分钟)<br>
 圣诞市集与<br>
 榉树坂彩灯<br>
-<b><a href="#" style="color: #667eea;">➡️ 六本木完整活动攻略</a></b></p>
+<b><a href="/zh-cn/posts/roppongi-complete-guide/" style="color: #667eea;">➡️ 六本木完整活动攻略</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-25.jpg" alt="六本木Hills圣诞">
@@ -109,8 +107,8 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 米其林必比登Imakatsu<br>
 柔嫩鸡柳炸猪排晚餐<br>
 ​<br>
-<b><a href="#" style="color: #667eea;">➡️东京六本木餐厅地图</a></b><br>
-<b><a href="#" style="color: #667eea;">米其林、食べログ推荐餐厅</a></b></p>
+<b><a href="/zh-cn/posts/roppongi-restaurant-map/" style="color: #667eea;">➡️东京六本木餐厅地图</a></b><br>
+<b><a href="/zh-cn/posts/roppongi-restaurant-map/" style="color: #667eea;">米其林、食べログ推荐餐厅</a></b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-26.jpg" alt="六本木餐厅、Imakatsu本店鸡柳炸猪排">
@@ -139,9 +137,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 ---
 
-## 4️⃣ 第4天:
-
-## 新宿&出发
+## 4️⃣ 第4天: 新宿&出发
 
 <table class="schedule-table">
   <thead>
@@ -197,9 +193,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 ---
 
-## 💸 东京3晚4日旅行预算
-
-## (预算指南)
+## 💸 东京3晚4日旅行预算 (预算指南)
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 旅行预算<br>
@@ -237,12 +231,12 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>交通卡&折扣优惠券</b><br>
-<b><a href="#" style="color: #667eea;">➡️ 东京交通卡完全攻略</a></b><br>
-<b><a href="#" style="color: #667eea;">(iPhone Suica)</a></b><br>
+<b><a href="/zh-cn/posts/tokyo-transportation-card-guide-2025/" style="color: #667eea;">➡️ 东京交通卡完全攻略</a></b><br>
+<b><a href="/zh-cn/posts/tokyo-transportation-card-guide-2025/" style="color: #667eea;">(iPhone Suica)</a></b><br>
 ​<br>
 
-<b><a href="#" style="color: #667eea;">➡️ 日本旅行折扣优惠券完全攻略</a></b><br>
-<b><a href="#" style="color: #667eea;">(唐吉诃德、药妆店、百货商场)</a></b></p>
+<b><a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">➡️ 日本旅行折扣优惠券完全攻略</a></b><br>
+<b><a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;">(唐吉诃德、药妆店、百货商场)</a></b></p>
 
 
 <div class="editors-note">

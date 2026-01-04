@@ -32,9 +32,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## ✨ '旧朝仓家住宅'，
-
-## 是什么地方？
+## ✨ '旧朝仓家住宅'，是什么地方？
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>「旧朝仓家住宅（きゅうあさくらけじゅうたく）」</b>是<br>
@@ -59,9 +57,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## 🍂 古宅&庭园散步
-
-## （红叶名所）
+## 🍂 古宅&庭园散步（红叶名所）
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 这里的魅力主要有两个。<br>
@@ -121,9 +117,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## 📌 访问前必读！
-
-## （门票、注意事项）
+## 📌 访问前必读！（门票、注意事项）
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 访问前必须确认的重要要点3个！<br>
@@ -160,9 +154,7 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## 📍 「旧朝仓家住宅」
-
-## 营业信息
+## 📍 「旧朝仓家住宅」 营业信息
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 <b>⏰ 营业时间：</b><br>
@@ -202,23 +194,16 @@ featured_image: "/images/posts/daikanyama-asakura-house-01.jpg"
 
 ---
 
-## 📍 古宅之后，
-
-## 去哪里？
-
-## （代官山路线）
+## 📍 古宅之后，去哪里？
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 在宁静古宅散步结束后，<br>
 轮到尽享代官山<br>
 精致现在的时候了。<br>
 ​<br>
-<a href="#" style="color: #667eea;"><b>➡️ 代官山必看之处，</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
-<a href="#" style="color: #667eea;"><b>茑屋（T-SITE）到美食、</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
-<a href="#" style="color: #667eea;"><b>选品店完美路线</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032515713 -> daikanyama-guide --><br>
+<a href="/zh-cn/posts/daikanyama-complete-guide/" style="color: #667eea;"><b>➡️ 代官山必看之处，茑屋（T-SITE）到美食、选品店完美路线</b></a><br>
 <b>​</b><br>
-<a href="#" style="color: #667eea;"><b>➡️ 中目黑必看之处</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
-<a href="#" style="color: #667eea;"><b>（代官山步行10分钟）</b></a><!-- TODO: https://blog.naver.com/tokyomate/224032086475 -> nakameguro-guide --><br>
+<a href="/zh-cn/posts/nakameguro-complete-guide/" style="color: #667eea;"><b>➡️ 中目黑必看之处（代官山步行10分钟）</b></a><br>
 <b>​</b><br>
 <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>➡️ 涩谷完全游玩攻略</b></a><br>
 <a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><b>（代官山地铁3分钟）</b></a></p>

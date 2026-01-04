@@ -31,8 +31,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 ---
 
-## ✨ 「辛いがうまい！」、
-## 四川料理の名店
+## ✨ 「辛いがうまい！」、四川料理の名店
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 横浜中華街には<br>
@@ -57,8 +56,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 ---
 
-## 🌶️ 【必食】麻婆豆腐
-## （辛さ選択のコツ！）
+## 🌶️ 【必食】麻婆豆腐 （辛さ選択のコツ！）
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 ここを訪れる理由。<br>
@@ -85,8 +83,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 ---
 
-## 🥟 ランチセット ＆ 点心
-## （コスパのコツ）
+## 🥟 ランチセット ＆ 点心 （コスパのコツ）
 
 <p style="text-align: center; font-size: 1.05rem; color: #333; line-height: 1.8;">
 ディナーのコース料理は価格帯が高めですが、<br>
@@ -170,7 +167,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 横浜のランドマークを完璧に楽しめる<br>
 横浜1日おすすめコースをご覧ください！<br>
 <br>
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横浜1日コース 中華街グルメ、赤レンガ倉庫、夜景スポット総まとめ</strong></a><br>
+<strong>➡️</strong> <a href="/ja/posts/yokohama-one-day-itinerary/" style="color: #667eea;"><strong>横浜1日コース 中華街グルメ、赤レンガ倉庫、夜景スポット総まとめ</strong></a><br>
 <br>
 <br>
 <strong>🚇 「みなとぶらりチケット」で横浜制覇！</strong><br>
@@ -179,8 +176,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 交通費節約のために<br>
 <strong>「みなとぶらりチケット」は必須！</strong><br>
 <br>
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>横浜交通パス、</strong></a><br>
-<a href="#" style="color: #667eea;"><strong>「みなとぶらりチケット」総まとめ</strong></a></p>
+<strong>➡️</strong> <a href="/ja/posts/yokohama-minato-burari-ticket-guide/" style="color: #667eea;"><strong>横浜交通パス、「みなとぶらりチケット」総まとめ</strong></a></p>
 
 
 <div class="editors-note">

@@ -53,7 +53,6 @@ Roppongi Midtown transforms into a Christmas town where you can enjoy all day lo
 
 This is official event information for one of Tokyo's Christmas season highlights. Be sure to check the operating period and hours before your visit.
 
-<div class="info-box">
 <table class="schedule-table">
   <thead>
     <tr>
@@ -95,7 +94,6 @@ This is official event information for one of Tokyo's Christmas season highlight
     </tr>
   </tbody>
 </table>
-</div>
 
 <figure>
   <img src="/images/posts/roppongi-midtown-christmas-2025-03.jpg" alt="2025 Roppongi Tokyo Midtown Christmas garden illumination panorama">
