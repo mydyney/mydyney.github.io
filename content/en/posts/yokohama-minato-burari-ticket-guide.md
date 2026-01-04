@@ -196,18 +196,16 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 
 <h2>🍱 Exclusive Yokohama Travel Map by Tokyomate</h2>
 
-<p>I have compiled a comprehensive map featuring Yokohama landmarks, bus stops for the Burari Ticket, top-rated restaurants from Tabelog (Ramen, Sushi, Bakeries), and must-visit spots.</p>
+<div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
+  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 Map Guide</p>
+  <p style="margin: 0;">We have packed this map with Yokohama landmarks, bus routes and stops available with the Burari Ticket, Yokohama restaurant lists (Tabelog 100 Ramen, Sushi, Bakery, etc.), and recommended places to visit. Even first-time visitors can easily follow this route and enjoy the best of Yokohama!</p>
+</div>
 
 <p style="text-align: center;">📍 <a href="https://www.google.com/maps/d/u/2/edit?mid=1oYmG0tE5nCSVFS7QKq-7kqRXzGLOCkY&usp=sharing" target="_blank" style="text-decoration: underline; color: #06c;"><strong>Tokyomate Yokohama Travel Map (Google My Maps)</strong></a></p>
 
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-08.jpg" alt="Preview of Tokyomate Yokohama Travel Map">
 </figure>
-
-<div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
-  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 Map Guide</p>
-  <p style="margin: 0;">We have packed this map with Yokohama landmarks, bus routes and stops available with the Burari Ticket, Yokohama restaurant lists (Tabelog 100 Ramen, Sushi, Bakery, etc.), and recommended places to visit. Even first-time visitors can easily follow this route and enjoy the best of Yokohama!</p>
-</div>
 
 <p style="text-align: center;"><strong>Check out the perfect Yokohama Day Trip course!</strong><br>
 <!-- TODO: Update link after migration -->
