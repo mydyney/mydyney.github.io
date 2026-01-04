@@ -192,7 +192,7 @@ When migrating a Naver blog post to Hugo:
 | 223665548720 | yebisu-brewery-museum-guide | - | pending |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 | 223979907748 | yokohama-one-day-itinerary | - | pending |
-| 223976102621 | yokohama-minato-burari-ticket-guide | - | pending |
+| 223976102621 | yokohama-minato-burari-ticket-guide | 2025-08-19 | ✅ |
 ---
 ## Excluded from Migration (Do Not Process)
 
