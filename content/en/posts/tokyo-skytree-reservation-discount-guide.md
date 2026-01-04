@@ -122,7 +122,6 @@ Symbolic significance of reaching the 450m peak.
 <strong>📌 Free Skytree Observation Deck:</strong>
 If the ticket price seems too high, check out the hidden 'free observation deck' where you can view Skytree head-on!
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Free Observatory: SKYTREE VIEW</strong></a></strong>
 
 <figure>
@@ -173,7 +172,6 @@ Solamachi is packed with restaurants and shopping spots.
 <strong>Pokemon Center Skytree Town:</strong>
 Exclusive "Ascending Rayquaza" limited edition goods only available here!
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Town Pokemon Center Detailed Review</strong></a></strong>
 
 <div class="image-group-2">
@@ -220,7 +218,6 @@ One Piece, Jujutsu Kaisen, and other Shonen Jump merchandise.
 Best value conveyor belt sushi from Hokkaido.
 Want tips to avoid the massive wait?
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Conveyor Belt Sushi Restaurant Triton (Queue Number Tips)</strong></a></strong>
 
 <div class="image-group-2">
@@ -253,7 +250,6 @@ Tabelog Ice Cream Top 100 in 2023
 Famous Kyoto matcha shop.
 Perfect for rich matcha ice cream after shopping.
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Dessert Spot: Gion Tsujiri Matcha Ice Cream Review</strong></a></strong>
 
 <figure>
@@ -280,7 +276,6 @@ Enjoy coffee with a view of Skytree Town from Solamachi 6F Starbucks.
 
 During winter season, spectacular Christmas markets and illuminations are held right below Skytree.
 
-<!-- TODO: Update link after migration
 ➡️ <strong><a href="#" style="color: #667eea;"><strong>Tokyo Skytree Illumination & Christmas Market Detailed Review</strong></a></strong>
 
 <div class="image-group-2">
@@ -303,7 +298,6 @@ If you experienced Tokyo's 'present' at Skytree, take the subway 2 stops to meet
 
 Visiting Senso-ji Temple and Nakamise-dori makes a perfect full-day itinerary.
 
-<!-- TODO: Update link after migration
 ➡️ <strong><a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>Tokyo Asakusa Attractions & Restaurants Complete Guide (Senso-ji, Gyukatsu)</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

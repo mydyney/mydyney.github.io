@@ -122,7 +122,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <strong>📌 スカイツリー無料展望台：</strong>
 チケット料金が高いと感じたら、スカイツリーを正面から眺められる隠れた「無料展望台」をチェック！
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー無料展望台：SKYTREE VIEW</strong></a></strong>
 
 <figure>
@@ -173,7 +172,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <strong>ポケモンセンタースカイツリータウン：</strong>
 ここでしか買えない「メガレックウザ」限定グッズ！
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリータウンポケモンセンター詳細レビュー</strong></a></strong>
 
 <div class="image-group-2">
@@ -220,7 +218,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 北海道発の最高のコスパ回転寿司。
 長い待ち時間を避けるコツは？
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー回転寿司レストラントリトン（整理券番号のコツ）</strong></a></strong>
 
 <div class="image-group-2">
@@ -253,7 +250,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 京都の有名な抹茶ショップ。
 ショッピング後の濃厚抹茶アイスに最適。
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリーデザートスポット：祇園辻利抹茶アイスクリームレビュー</strong></a></strong>
 
 <figure>
@@ -280,7 +276,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 冬季には、スカイツリー直下で壮大なクリスマスマーケットとイルミネーションが開催されます。
 
-<!-- TODO: Update link after migration
 ➡️ <strong><a href="#" style="color: #667eea;"><strong>東京スカイツリーイルミネーション＆クリスマスマーケット詳細レビュー</strong></a></strong>
 
 <div class="image-group-2">
@@ -303,7 +298,6 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 浅草寺と仲見世通りを訪れると完璧な1日旅程になります。
 
-<!-- TODO: Update link after migration
 ➡️ <strong><a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>東京浅草アトラクション＆レストラン完全ガイド（浅草寺、牛カツ）</strong></a></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
