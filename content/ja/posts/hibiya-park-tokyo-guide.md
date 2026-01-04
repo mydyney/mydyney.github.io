@@ -259,14 +259,14 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 🧡 あわせて見たい日比谷公園旅行ガイド
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025東京ミッドタウン日比谷イルミネーション・ズートピア2コラボ</strong></a>
+<strong>➡️</strong> <a href="/ja/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>2025東京ミッドタウン日比谷イルミネーション・ズートピア2コラボ</strong></a>
 
-<!-- TODO: Update link after migration
 <strong>➡️</strong> <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>銀座おすすめスポット・失敗なしのショッピング・グルメ・ルート完全ガイド</strong></a>
+
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224093593124" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/224093593124" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載된 オリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
   </p>
 </div>
 

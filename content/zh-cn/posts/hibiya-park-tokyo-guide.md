@@ -259,10 +259,10 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 ## 🧡 一起看更好 日比谷公园旅游攻略
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025东京中城日比谷灯光秀・疯狂动物城2联动</strong></a>
+<strong>➡️</strong> <a href="/zh-cn/posts/hibiya-midtown-illumination-2025/" style="color: #667eea;"><strong>2025东京中城日比谷灯光秀・疯狂动物城2联动</strong></a>
 
-<!-- TODO: Update link after migration
 <strong>➡️</strong> <a href="/zh-cn/posts/ginza-guide-2025/" style="color: #667eea;"><strong>银座推荐景点・零失误购物・美食・路线完全攻略</strong></a>
+
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
