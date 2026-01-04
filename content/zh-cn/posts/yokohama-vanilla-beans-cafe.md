@@ -31,9 +31,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 
 ---
 
-## ✨ 食べログ连续5年百名店,
-
-## 「香草豆」
+## ✨ 食べログ连续5年百名店,「香草豆」
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">「VANILLA BEANS(香草豆)」2000年起,<br>
 从2坪小仓库起步<br>
@@ -58,9 +56,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 
 ---
 
-## 🍫 【必尝】本店限定!
-
-## 「香草豆芭菲」
+## 🍫 【必尝】本店限定!「香草豆芭菲」
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 必访这里的理由!<br>
@@ -189,9 +185,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 
 ---
 
-## 📍 「香草豆」之后,
-
-## 去哪里?
+## 📍 「香草豆」之后，去哪里?
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 「香草豆」本店<br>

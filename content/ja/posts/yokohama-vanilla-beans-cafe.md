@@ -31,9 +31,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 
 ---
 
-## ✨ 食べログ5年連続百名店、
-
-## 「バニラビーンズ」
+## ✨ 食べログ5年連続百名店、「バ니라비ーンズ」
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">「VANILLA BEANS（バニラビーンズ）」は2000年、<br>
 2坪の小さな倉庫からスタートして<br>
@@ -58,9 +56,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 
 ---
 
-## 🍫 【必須】本店限定！
-
-## 「バニラビーンズパフェ」
+## 🍫 【必須】本店限定！「バニラビーンズパフェ」
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 ここを訪問すべき理由！<br>
@@ -189,9 +185,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 
 ---
 
-## 📍 「バニラビーンズ」の後、
-
-## どこへ行く？
+## 📍 「バニラビーンズ」の後、どこへ行く？
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 「バニラビーンズ」本店は<br>

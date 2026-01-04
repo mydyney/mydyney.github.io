@@ -31,9 +31,7 @@ gift-perfect <b>'Chocola'</b> - complete guide!</p>
 
 ---
 
-## ✨ Tabelog Top 100 for 5 Consecutive Years,
-
-## 'Vanilla Beans'
+## ✨ Tabelog Top 100 for 5 Consecutive Years, 'Vanilla Beans'
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">'VANILLA BEANS' started in 2000<br>
 from a small 2-pyeong warehouse<br>
@@ -58,9 +56,7 @@ their 'taste' is perfectly validated.</p>
 
 ---
 
-## 🍫 [Must Try] Main Store Exclusive!
-
-## 'Vanilla Beans Parfait'
+## 🍫 [Must Try] Main Store Exclusive! 'Vanilla Beans Parfait'
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 The reason to visit here!<br>
@@ -190,9 +186,7 @@ create perfect harmony.</p>
 
 ---
 
-## 📍 After 'Vanilla Beans',
-
-## Where to Go Next?
+## 📍 After 'Vanilla Beans', Where to Go Next?
 
 <p style="text-align: center; font-size: 1.1rem; color: #555;">​<br>
 'Vanilla Beans' main store is<br>
