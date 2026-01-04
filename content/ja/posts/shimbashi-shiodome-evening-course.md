@@ -192,6 +192,7 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京新橋とんかつ名店 | 黒豚ほり壱ミシュラン黒豚とんかつレビュー</strong></a></strong>
 
+
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">とんかつ 明石（とんかつ 明石）</a></strong>: 地元サラリーマンに愛されてきたコスパの良い隠れたとんかつ名店（食べログ百名店5回）
 - <strong><a href="https://maps.app.goo.gl/926aMoTsKrGEPawH8" target="_blank">牛かつ おか田（牛かつ おか田）</a></strong>: 東京牛かつの元祖格。レア状態の牛肉を個人コンロで直接焼いて食べる楽しみ
 
@@ -213,6 +214,7 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>東京うなぎ名店 | 炭焼 うな富士 有楽町店レビュー</strong></a></strong>
 
+
 <figure>
   <img src="/images/posts/shimbashi-shiodome-evening-course-11.jpg" alt="炭焼うな富士有楽町店うなぎ名店ひつまぶし">
   <figcaption style="font-size: 0.7em; text-align: center;">炭焼うな富士有楽町店ひつまぶし</figcaption>
@@ -226,14 +228,15 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 新橋の庶民的な雰囲気とは正反対の、洗練された高級な街でショッピングと優雅な夜を楽しんでください。24時間営業のドン・キホーテショッピングも良い選択肢です。
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>銀座おすすめスポット：完璧なコースガイド総まとめ</strong></a></strong>
+
 
 - <strong>🚝 モノレールで15分！未来都市の夜景、お台場</strong>
 
 新橋駅はお台場へ向かう「ゆりかもめ」の出発点です。居酒屋で1次会を楽しんだ後、ゆりかもめに乗ってお台場の幻想的な夜景を鑑賞するコースをおすすめします。
 
 <strong>➡️ <a href="/ja/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>東京お台場おすすめスポット：一日完成！おすすめコース総まとめ</strong></a></strong>
+
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

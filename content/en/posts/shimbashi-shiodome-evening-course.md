@@ -192,6 +192,7 @@ The soul food of Shimbashi salarymen. Experience authentic yakitori at this sanc
 
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Shimbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review</strong></a></strong>
 
+
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">Tonkatsu Akashi (とんかつ 明石)</a></strong>: Hidden affordable tonkatsu gem loved by local office workers (Tabelog 100 Famous Restaurants 5 times)
 - <strong><a href="https://maps.app.goo.gl/926aMoTsKrGEPawH8" target="_blank">Gyukatsu Okada (牛かつ おか田)</a></strong>: The original Tokyo gyukatsu. Fun to grill rare beef on your personal burner
 
@@ -213,6 +214,7 @@ The soul food of Shimbashi salarymen. Experience authentic yakitori at this sanc
 
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Eel Restaurant | Sumiyaki Unafuji Yurakucho Review</strong></a></strong>
 
+
 <figure>
   <img src="/images/posts/shimbashi-shiodome-evening-course-11.jpg" alt="Sumiyaki Unafuji Yurakucho eel restaurant hitsumabushi">
   <figcaption style="font-size: 0.7em; text-align: center;">Sumiyaki Unafuji Yurakucho hitsumabushi</figcaption>
@@ -226,14 +228,15 @@ The soul food of Shimbashi salarymen. Experience authentic yakitori at this sanc
 
 The complete opposite of Shimbashi's down-to-earth atmosphere, enjoy shopping and elegant nightlife in sophisticated, upscale streets. 24-hour Don Quijote shopping is also a great option.
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots: Complete Recommended Course Guide</strong></a></strong>
+
 
 - <strong>🚝 15 Minutes by Monorail! Futuristic Night Views, Odaiba</strong>
 
 Shimbashi Station is the starting point of the Yurikamome to Odaiba. After enjoying round one at an izakaya, I recommend taking the Yurikamome to admire Odaiba's fantastic night views.
 
 <strong>➡️ <a href="/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>Tokyo Odaiba Must-Visit Spots: Complete One-Day Recommended Course</strong></a></strong>
+
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

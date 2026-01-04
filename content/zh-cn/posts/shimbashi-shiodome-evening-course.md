@@ -192,6 +192,7 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京新橋炸猪排名店 | 黑猪堀壱米其林黑猪炸猪排评测</strong></a></strong>
 
+
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">炸猪排 明石（とんかつ 明石）</a> 📍</strong>：受到当地上班族喜爱的性价比高的隐藏炸猪排名店（Tabelog百名店5次）
 - <strong><a href="https://maps.app.goo.gl/926aMoTsKrGEPawH8" target="_blank">炸牛排 冈田（牛かつ おか田）</a> 📍</strong>：东京炸牛排的元祖。在个人炉子上直接烤半生牛肉享用的乐趣
 
@@ -213,6 +214,7 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 <strong>➡️ <a href="#" style="color: #667eea;"><strong>东京鳗鱼名店 | 炭烤 鳗富士 有乐町店评测</strong></a></strong>
 
+
 <figure>
   <img src="/images/posts/shimbashi-shiodome-evening-course-11.jpg" alt="炭烤鳗富士有乐町店鳗鱼名店鳗鱼三吃">
   <figcaption style="font-size: 0.7em; text-align: center;">炭烤鳗富士有乐町店鳗鱼三吃</figcaption>
@@ -226,14 +228,15 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 与新橋平民氛围相反的、精致高级的街道，享受购物和优雅之夜吧。24小时营业的唐吉诃德购物也是不错的选择。
 
-<!-- TODO: Update link after migration
 <strong>➡️ <a href="/zh-cn/posts/ginza-guide-2025/" style="color: #667eea;"><strong>银座推荐景点：完美路线指南总结</strong></a></strong>
+
 
 - <strong>🚝 单轨电车15分钟！未来都市夜景，台场</strong>
 
 新橋站是前往台场的"百合鸥线"起点。建议在居酒屋享受第一摊后，乘坐百合鸥线欣赏台场梦幻夜景的路线。
 
 <strong>➡️ <a href="/zh-cn/posts/odaiba-ariake-toyosu-complete-guide/" style="color: #667eea;"><strong>东京台场推荐景点：一日完成！推荐路线总结</strong></a></strong>
+
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
