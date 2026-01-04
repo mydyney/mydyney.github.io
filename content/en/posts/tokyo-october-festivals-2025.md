@@ -44,8 +44,11 @@ As autumn arrives in full swing, large-scale festivals centered on culture, food
 A representative cultural event of Tokyo's autumn, offering a special opportunity to experience traditional Japanese tea ceremony in beautiful gardens. Programs with English explanations are available for foreign tourists.
 
 <strong>🗓️ Dates</strong>: [Hamarikyu Gardens] Oct 4-5, 2025 / [Edo-Tokyo Open Air Architectural Museum] Oct 18-19, 2025
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/3iWC2yqHLern7PQx5" target="_blank">Hamarikyu Gardens</a> / Edo-Tokyo Open Air Architectural Museum
+
 <strong>💸 Fee</strong>: Paid (tea ceremony ~800 yen, separate garden admission required)
+
 <strong>💡 Tip</strong>: Most programs require advance reservation (deadline: Sep 8). However, some same-day participation programs may be available, so check the official website before visiting!
 
 ### 2. 💃 Ikebukuro's Passion: Tokyo Yosakoi
@@ -53,8 +56,11 @@ A representative cultural event of Tokyo's autumn, offering a special opportunit
 A massive dance festival that shakes up Ikebukuro! Over 100 teams from across Japan fill the streets with colorful costumes, music, and dynamic dancing.
 
 <strong>🗓️ Dates</strong>: Oct 11-12, 2025
+
 <strong>📍 Location</strong>: <a href="https://www.gotokyo.org/kr/spot/ev082/index.html" target="_blank">Ikebukuro Station West Exit</a> area
+
 <strong>💸 Fee</strong>: Free viewing
+
 <strong>💡 Tip</strong>: This is the grand finale of September's "Fukuro Festival." Don't miss the "Grand Dance" where all teams dance together on the final day!
 
 <a href="#" style="color: #667eea;"><strong>➡️ August Tokyo Festival: Harajuku Omotesando Super Yosakoi</strong></a>
@@ -69,8 +75,11 @@ A massive dance festival that shakes up Ikebukuro! Over 100 teams from across Ja
 The biggest festival in Jiyugaoka, known as "Tokyo's Little Europe" for its stylish shops and cafes. Live performances take place around the station square, and shops offer special festival menus and sales—perfect for shopping and dining.
 
 <strong>🗓️ Dates</strong>: Oct 12-13, 2025
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/6C73WDEH74rgazST8" target="_blank">Jiyugaoka Station</a> plaza and shopping street
+
 <strong>💸 Fee</strong>: Free viewing (food/drinks sold separately)
+
 <strong>💡 Tip</strong>: October 13 (Monday) is a Japanese holiday (Sports Day), so expect an even livelier atmosphere. Enjoy the festival while exploring Jiyugaoka's cute cafes and shops.
 
 <figure>
@@ -83,8 +92,11 @@ The biggest festival in Jiyugaoka, known as "Tokyo's Little Europe" for its styl
 A quintessential Tokyo autumn festival! Fresh saury direct from Miyagi Prefecture is grilled over charcoal and served for free.
 
 <strong>🗓️ Dates</strong>: Oct 12, 2025 only! (10:00 AM - 3:30 PM)
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/VouJR8jyRB3gAYZ49" target="_blank">Tamichi Hiroba Park</a> (10-min walk from Meguro Station)
+
 <strong>💸 Fee</strong>: Free viewing (saury tasting requires pre-registration, now closed)
+
 <strong>💡 Tip</strong>: Even without winning the lottery, small amounts of same-day vouchers are sometimes distributed on-site. A "Regional Products Fair" is also held alongside, offering plenty to see.
 
 <figure>
@@ -97,8 +109,11 @@ A quintessential Tokyo autumn festival! Fresh saury direct from Miyagi Prefectur
 A traditional market festival dating back to the Edo period. See the spectacular sight of Nihonbashi's skyscraper district filled with hundreds of street stalls and crowds. Try "bettarazuke" (a type of pickled radish) and various other foods.
 
 <strong>🗓️ Dates</strong>: Oct 19-20, 2025, 10:00-21:00
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/HF4a7BoAYtyUVdm78" target="_blank">Nihonbashi Takarada Ebisu Shrine</a> area (1-min walk from Kodenmacho Station)
+
 <strong>💸 Fee</strong>: Free admission (food/drinks sold separately)
+
 <strong>💡 Tip</strong>: Visit in the evening when office workers and tourists mingle for the liveliest atmosphere. On the 19th evening, you can also see the mikoshi (portable shrine) procession.
 
 ### 6. 🌊 Masters Walking on Water: Kiba Log Rolling
@@ -106,8 +121,11 @@ A traditional market festival dating back to the Edo period. See the spectacular
 A rare folk performance showcasing the history of "Kiba," once Tokyo's timber district. Watch artisans perform thrilling stunts on large logs floating in water—an unforgettable experience unique to Tokyo.
 
 <strong>🗓️ Dates</strong>: Oct 19, 2025 only!
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/BiWSZphB3QxP8HwQ8" target="_blank">Kiba Park</a> (5-min walk from Kiba Station)
+
 <strong>💸 Fee</strong>: Free viewing
+
 <strong>💡 Tip</strong>: Held as part of the "Koto Ward Citizens Festival," enjoy various attractions and food stalls alongside the log rolling. Check performance times before visiting!
 
 ### 7. 🌃 Shibuya Night Vibes: Tokyo Night Market
@@ -115,8 +133,11 @@ A rare folk performance showcasing the history of "Kiba," once Tokyo's timber di
 A new Shibuya attraction drawing 200,000 visitors! Over 40 food trucks, live performances, and DJ shows create Tokyo's hippest autumn night experience.
 
 <strong>🗓️ Dates</strong>: Oct 22-26, 2025
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/W2aEHqg6ppSANwdS8" target="_blank">Yoyogi Park Event Plaza</a> (3-min walk from Harajuku Station)
+
 <strong>💸 Fee</strong>: Free admission (food/drinks sold separately)
+
 <strong>💡 Tip</strong>: Highly recommended for dinner and Tokyo nightlife! Weekends (25-26) start at 2 PM, so plan accordingly.
 
 <figure>
@@ -129,8 +150,11 @@ A new Shibuya attraction drawing 200,000 visitors! Over 40 food trucks, live per
 A magical traditional Japanese Noh (masked theater) performance illuminated by torchlight in the forest of Shinjuku Gyoen. Experience a quiet, mystical night of art in the heart of the city.
 
 <strong>🗓️ Dates</strong>: Oct 23, 2025 only! (opens at 5:30 PM)
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/aV4N99WzR2bHMLBM6" target="_blank">Shinjuku Gyoen Landscape Garden</a>
+
 <strong>💸 Fee</strong>: Paid by seat (from ~6,000 yen for B seats)
+
 <strong>💡 Tip</strong>: A rare opportunity to enter Shinjuku Gyoen at night, which is normally closed after dark.
 
 ### 9. 🍜 Japan's Biggest Ramen Festival: Tokyo Ramen Festa 2025
@@ -138,8 +162,11 @@ A magical traditional Japanese Noh (masked theater) performance illuminated by t
 A must for ramen lovers—Japan's largest outdoor ramen festival! Famous ramen shops from across Japan gather to serve exclusive ramen creations only available here.
 
 <strong>🗓️ Dates</strong>: Oct 23 - Nov 3, 2025, 10:30-20:30 (ramen service ends 20:10)
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/bo1ac3GZ2XVvpQtB8" target="_blank">Komazawa Olympic Park Central Plaza</a>
+
 <strong>💸 Fee</strong>: Free admission (ramen ticket: 1,100 yen each)
+
 <strong>💡 Tip</strong>: The festival is divided into Acts 1-3 with different shop lineups. Check the official website for the schedule before visiting!
 
 <a href="https://ra-fes.com/trf2025flyer.pdf" target="_blank"><strong>➡️ Official Flyer: Check Acts 1-3 Ramen Lineup</strong></a>
@@ -154,8 +181,11 @@ A must for ramen lovers—Japan's largest outdoor ramen festival! Famous ramen s
 The Kanto region's largest jewel-themed illumination festival! Fantastic lights designed by a world-renowned lighting designer and Tokyo's night view create magic every year.
 
 <strong>🗓️ Dates</strong>: Oct 23, 2025 - Apr 5, 2026
+
 <strong>📍 Location</strong>: Yomiuriland (Tokyo suburbs)
+
 <strong>💸 Fee</strong>: Paid (check <a href="https://www.yomiuriland.com/ko/jewellumination/" target="_blank">official website</a> for ticket options)
+
 <strong>💡 Tip</strong>: Highly recommend viewing Tokyo's night view and illuminations together from the new "Sky Go Round" ferris wheel. Weekends are very crowded, so consider visiting on weekday evenings.
 
 ### 11. 🍴 Exploring Tokyo's Flavors: Tokyo Taste Festa (TASTE of TOKYO)
@@ -163,8 +193,11 @@ The Kanto region's largest jewel-themed illumination festival! Fantastic lights 
 The Tokyo Station area transforms into a giant food paradise! This food festival held simultaneously in four areas—Marunouchi, Yurakucho, Hibiya, and Toyosu—offers dishes made with fresh ingredients grown in Tokyo.
 
 <strong>🗓️ Dates</strong>: Oct 24-26, 2025, 11:00-20:00
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/tWGx9SjNeYAd7jyU9" target="_blank">Marunouchi</a>, Yurakucho, Hibiya, Toyosu (4 areas)
+
 <strong>💸 Fee</strong>: Free admission (food/drinks sold separately)
+
 <strong>💡 Tip</strong>: Since it's held in 4 areas simultaneously, check the official website for each venue's theme and plan your route in advance.
 
 <figure>
@@ -177,8 +210,11 @@ The Tokyo Station area transforms into a giant food paradise! This food festival
 Jimbocho, the world's largest used bookstore district, transforms into a giant outdoor library. Over 1 million books create a "corridor of books"—an unforgettable sight.
 
 <strong>🗓️ Dates</strong>: Oct 24 - Nov 3, 2025, 10:00-18:00
+
 <strong>📍 Location</strong>: <a href="https://www.gotokyo.org/kr/story/guide/october/index.html" target="_blank">Kanda Jimbocho Used Bookstore Street</a>
+
 <strong>💸 Fee</strong>: Free
+
 <strong>💡 Tip</strong>: Events like rare book exhibitions and author talks are also held. Perfect for an autumn stroll.
 
 <figure>
@@ -191,8 +227,11 @@ Jimbocho, the world's largest used bookstore district, transforms into a giant o
 Manga and anime characters come to life! Tens of thousands of cosplayers fill Ikebukuro's streets in Japan's largest Tokyo Halloween event.
 
 <strong>🗓️ Dates</strong>: Oct 24-26, 2025, 10:00-18:00
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/RiVMdGX8hTbBw3Db6" target="_blank">Ikebukuro East Exit</a> area
+
 <strong>💸 Fee</strong>: Free viewing
+
 <strong>💡 Tip</strong>: Sanrio Puroland also holds "PUROHALLOWEEN" themed events, so character fans might want to visit both!
 
 <strong>🎃 Where to Go for Halloween?</strong>
@@ -211,8 +250,11 @@ For the full Halloween experience, check our guide covering "Shibuya Ban!" infor
 A prestigious chrysanthemum exhibition dating back to 1915, where you can fully experience Japanese autumn aesthetics. Admire artistic chrysanthemums—large mums, bonsai chrysanthemums—cultivated with year-round care by artisans at Hibiya Park.
 
 <strong>🗓️ Dates</strong>: Oct 31 - Nov 9, 2025
+
 <strong>📍 Location</strong>: <a href="https://maps.app.goo.gl/PTwWvtMdhFwLNVDM7" target="_blank">Hibiya Park</a> (7-min walk from Hibiya Station)
+
 <strong>💸 Fee</strong>: Free viewing
+
 <strong>💡 Tip</strong>: A traditional exhibition with over 100 years of history. Great for an autumn stroll at Hibiya Park, and easy to combine with nearby Ginza or Imperial Palace walks.
 
 ## 🍁 October's Gift: Enjoying Tokyo Autumn Foliage
@@ -260,10 +302,9 @@ Curious about other attractions in the festival areas? Check out these guides:
 
 <a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ Tokyo Asakusa Things to Do & Restaurants Guide (Sensoji, Demon Slayer, Gyukatsu, Hotels)</strong></a>
 
-<!-- TODO: Update link after migration
 <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>➡️ Ginza Must-Visit Places: Complete Guide (Shopping, Restaurants, Tips)</strong></a>
 
-<a href="#" style="color: #667eea;"><strong>➡️ Roppongi Attractions Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
+<a href="/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>➡️ Roppongi Attractions Guide (Observatory, Museums, Shopping, Restaurants A to Z)</strong></a>
 
 
 <div class="editors-note">

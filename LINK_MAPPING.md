@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2026-01-01
-> **Status:** ✅ Complete - 111 posts mapped
+> **Status:** ✅ Complete - 112 posts mapped
 
 ---
 
@@ -22,6 +22,7 @@ When migrating a Naver blog post to Hugo:
 |----------|-------------------|------|--------|
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
 | 224032086475 | nakameguro-complete-guide | 2025-10-05 | ✅ |
+| 224019480188 | hakone-travel-guide-day-trip-vs-ryokan | 2025-09-25 | ✅ |
 | 224128216969 | tsukishima-monjayaki-street-guide | 2025-12-30 | ✅ |
 | 224125943419 | tokyo-3-day-itinerary-landmark-series | 2025-12-29 | ✅ |
 | 224124979714 | tokyo-3-day-itinerary-disney-shibuya-sky | 2025-12-28 | ✅ |
@@ -217,7 +218,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
 | 224025343414 | asakusa-complete-guide | Asakusa Asahi Beer Sky Room Night View Guide |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
-| 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
+| 224026292057 | tokyo-october-festivals-2025 | Tokyo October Festivals 2025 Guide |
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
 | 224010770861 | ginza-hachigo-reservation-guide | Ginza Hachigo Reservation & Waiting Guide |
 | 224010546735 | shinanoya-roppongi-hills-supermarket, roppongi-attractions-guide | Japanese Whisky Recommendations and Price Guide |

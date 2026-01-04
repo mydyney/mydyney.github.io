@@ -44,8 +44,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 東京の秋を代表する文化イベントで、美しい庭園で日本の伝統的な茶道を体験できる特別な機会です。初心者向けの英語説明プログラムもあり、外国人観光客も気軽に参加できます。
 
 <strong>🗓️ 期間</strong>：[浜離宮恩賜庭園] 2025年10月4日～5日 / [江戸東京たてもの園] 2025年10月18日～19日
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/3iWC2yqHLern7PQx5" target="_blank">浜離宮恩賜庭園</a> / 江戸東京たてもの園
+
 <strong>💸 料金</strong>：有料（茶会800円など、別途庭園入場料が必要）
+
 <strong>💡 ポイント</strong>：ほとんどのプログラムは事前予約（9/8締切）が必須でした。ただし、当日参加可能なプログラムが一部開催される場合もありますので、訪問前に公式サイトで最新情報をご確認ください！
 
 ### 2. 💃 池袋の情熱：東京よさこい
@@ -53,8 +56,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 池袋が熱狂する巨大なダンスのお祭り！日本全国から集まった100チーム以上が華やかな衣装と音楽、ダイナミックなダンスで街を彩ります。
 
 <strong>🗓️ 期間</strong>：2025年10月11日～12日
+
 <strong>📍 場所</strong>：<a href="https://www.gotokyo.org/kr/spot/ev082/index.html" target="_blank">池袋駅西口</a>周辺
+
 <strong>💸 料金</strong>：観覧無料
+
 <strong>💡 ポイント</strong>：9月「ふくろ祭り」のフィナーレを飾る2部イベントです。最終日の全チームによる「総踊り」をお見逃しなく！
 
 <a href="#" style="color: #667eea;"><strong>➡️ 8月の東京イベント、原宿表参道スーパーよさこい</strong></a>
@@ -69,8 +75,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 おしゃれなショップやカフェが多く「東京の小さなヨーロッパ」と呼ばれる自由が丘で開催される最大のお祭りです。駅前広場を中心にライブ公演が繰り広げられ、各店舗ではお祭り特別メニューやセールを実施。ショッピングとグルメを同時に楽しめます。
 
 <strong>🗓️ 期間</strong>：2025年10月12日～13日
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/6C73WDEH74rgazST8" target="_blank">自由が丘駅</a>前広場・商店街一帯
+
 <strong>💸 料金</strong>：観覧無料（飲食物は別途購入）
+
 <strong>💡 ポイント</strong>：10月13日（月）は日本の祝日（スポーツの日）なので、より活気ある雰囲気を楽しめます。お祭りを楽しみながら自由が丘のかわいいカフェやショップを巡りましょう。
 
 <figure>
@@ -83,8 +92,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 東京の秋の風物詩！宮城県から直送された新鮮なさんまを炭火で焼いて無料で振る舞います。
 
 <strong>🗓️ 期間</strong>：2025年10月12日のみ！（午前10時～午後3時30分）
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/VouJR8jyRB3gAYZ49" target="_blank">田道広場公園</a>（目黒駅から徒歩10分）
+
 <strong>💸 料金</strong>：観覧無料（さんま試食は事前応募締切）
+
 <strong>💡 ポイント</strong>：事前応募に当選しなくても、現場で少量の当日配布券が配られることがあります。各地域の特産品を販売する「ふるさと物産展」も同時開催で見どころ豊富です。
 
 <figure>
@@ -97,8 +109,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 江戸時代から続く伝統的な市場のお祭りで、ビル街の日本橋一帯が数百の露店と人波で埋め尽くされる壮観な光景を見ることができます。名物の「べったら漬け」をはじめ、様々なグルメを楽しめます。
 
 <strong>🗓️ 期間</strong>：2025年10月19日～20日 10:00～21:00
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/HF4a7BoAYtyUVdm78" target="_blank">日本橋宝田恵比寿神社周辺</a>（小伝馬町駅から徒歩1分）
+
 <strong>💸 料金</strong>：入場無料（飲食物は別途購入）
+
 <strong>💡 ポイント</strong>：退勤途中のサラリーマンと観光客が混ざり合う夕方の時間帯に訪問すると、最も活気ある雰囲気を感じられます。19日の夕方には神輿渡御も見られます。
 
 ### 6. 🌊 水上を歩く職人芸：木場の角乗り
@@ -106,8 +121,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 かつて木材の街だった「木場」の歴史を伝える珍しい民俗芸能です。職人が水に浮かんだ大きな角材の上を自在に乗りこなすスリリングな妙技は、見ている間ずっと手に汗握ります。東京でもなかなか見られない特別な体験になるでしょう。
 
 <strong>🗓️ 期間</strong>：2025年10月19日のみ！
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/BiWSZphB3QxP8HwQ8" target="_blank">木場公園</a>（木場駅から徒歩5分）
+
 <strong>💸 料金</strong>：観覧無料
+
 <strong>💡 ポイント</strong>：「江東区民まつり」の一環として開催されるイベントなので、角乗り以外にも様々な見どころやグルメ屋台を一緒に楽しめます。正確な公演時間は訪問前にご確認ください！
 
 ### 7. 🌃 渋谷の夜を楽しむ：東京ナイトマーケット
@@ -115,8 +133,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 東京渋谷の新名物として浮上した20万人規模のナイトマーケット！40以上のフードトラックとライブ公演、DJパフォーマンスが織りなす東京で最もヒップな秋の夜を体験できます。
 
 <strong>🗓️ 期間</strong>：2025年10月22日～26日
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/W2aEHqg6ppSANwdS8" target="_blank">代々木公園イベント広場周辺</a>（原宿駅から徒歩3分）
+
 <strong>💸 料金</strong>：入場無料（飲食物は別途購入）
+
 <strong>💡 ポイント</strong>：夕食を兼ねて東京の活気あるナイトライフを体験したい方に強くおすすめ！週末（25～26日）は午後2時から始まりますのでご参考ください。
 
 <figure>
@@ -129,8 +150,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 たいまつに照らされた秋の夜、新宿御苑の森の中で繰り広げられる幻想的な<a href="https://www.kanko-shinjuku.jp.k.xm.hp.transer.com/takiginoh2025/-/index.html" target="_blank">日本伝統仮面劇「能」公演</a>です。都心の中で静かで神秘的な芸術の夜を体験できます。
 
 <strong>🗓️ 期間</strong>：2025年10月23日のみ！（午後5時30分から開場）
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/aV4N99WzR2bHMLBM6" target="_blank">新宿御苑 風景式庭園</a>
+
 <strong>💸 料金</strong>：座席別有料（B席6,000円～）
+
 <strong>💡 ポイント</strong>：普段は夜間入場ができない新宿御苑に入れる特別な機会です。
 
 ### 9. 🍜 日本最大のラーメンの祭典：東京ラーメンフェスタ 2025
@@ -138,8 +162,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 ラーメン好きなら絶対に見逃せない日本最大規模の野外ラーメンイベント！日本全国の有名ラーメン店が一堂に会し、ここでしか味わえない特別なラーメンを披露します。
 
 <strong>🗓️ 期間</strong>：2025年10月23日～11月3日 10:30-20:30（ラーメン提供20:10終了）
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/bo1ac3GZ2XVvpQtB8" target="_blank">駒沢オリンピック公園中央広場</a>
+
 <strong>💸 料金</strong>：入場無料（ラーメン食券1枚1,100円）
+
 <strong>💡 ポイント</strong>：1幕～3幕に分かれて出店店舗が変わりますので、訪問前に公式サイトでラインナップをご確認ください！
 
 <a href="https://ra-fes.com/trf2025flyer.pdf" target="_blank"><strong>➡️ 公式チラシ：1幕～3幕ラーメンラインナップを確認する</strong></a>
@@ -154,8 +181,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 関東最大規模を誇る宝石色のイルミネーションイベント！世界的な照明デザイナーがプロデュースした幻想的な光と東京の夜景を同時に楽しめ、毎年大人気のスポットです。
 
 <strong>🗓️ 期間</strong>：2025年10月23日～2026年4月5日
+
 <strong>📍 場所</strong>：よみうりランド（東京郊外）
+
 <strong>💸 料金</strong>：有料（チケット種類は<a href="https://www.yomiuriland.com/ko/jewellumination/" target="_blank">公式サイト</a>で確認）
+
 <strong>💡 ポイント</strong>：新設の観覧車「スカイゴーランド」から東京の夜景とイルミネーションを一緒に鑑賞するのを強くおすすめします。週末は大変混雑するので、可能であれば平日の夕方の訪問をご検討ください。
 
 ### 11. 🍴 東京の味を探る：東京味わいフェスタ（TASTE of TOKYO）
@@ -163,8 +193,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 東京駅周辺が巨大なグルメの場に変身します！丸の内、有楽町、日比谷、豊洲の4エリアで同時開催されるフードフェスティバルで、東京で生まれ育った新鮮な食材で作った料理と特産品を一度に味わえる特別な機会です。
 
 <strong>🗓️ 期間</strong>：2025年10月24日～26日 11:00～20:00
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/tWGx9SjNeYAd7jyU9" target="_blank">丸の内</a>、有楽町、日比谷、豊洲の4エリア
+
 <strong>💸 料金</strong>：入場無料（飲食物は別途購入）
+
 <strong>💡 ポイント</strong>：4エリアで同時開催される大規模イベントなので、訪問前に公式サイトで各会場のテーマとイベント情報を確認し、動線を計画することをおすすめします。
 
 <figure>
@@ -177,8 +210,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 世界最大の古書店街・神保町が丸ごと巨大な野外図書館に変身します。100万冊を超える本が「本の回廊」を作る光景は忘れられない風景を演出します。
 
 <strong>🗓️ 期間</strong>：2025年10月24日～11月3日 10:00～18:00
+
 <strong>📍 場所</strong>：<a href="https://www.gotokyo.org/kr/story/guide/october/index.html" target="_blank">神田神保町古書店街</a>
+
 <strong>💸 料金</strong>：無料
+
 <strong>💡 ポイント</strong>：稀少本の展示や作家のトークショーなど様々なイベントも同時開催。秋の散歩がてら訪れるのにぴったりです。
 
 <figure>
@@ -191,8 +227,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 マンガやアニメのキャラクターが現実世界に！数万人のコスプレイヤーが池袋の街を埋め尽くす日本最大規模の東京ハロウィンイベントです。
 
 <strong>🗓️ 期間</strong>：2025年10月24日～26日 10:00～18:00
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/RiVMdGX8hTbBw3Db6" target="_blank">池袋東口</a>一帯
+
 <strong>💸 料金</strong>：観覧無料
+
 <strong>💡 ポイント</strong>：サンリオピューロランドでも「PUROHALLOWEEN」テーマイベントを開催しているので、キャラクター好きな方は両方訪問するのもおすすめです。
 
 <strong>🎃 ハロウィン、どこに行くべき？</strong>
@@ -211,8 +250,11 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 1915年から続く由緒ある菊花展で、日本の秋の情緒をたっぷり感じられる場所です。職人が1年中丹精込めて育てた大菊、盆栽菊など、芸術作品のような様々な菊を日比谷公園でゆっくり鑑賞できます。
 
 <strong>🗓️ 期間</strong>：2025年10月31日～11月9日
+
 <strong>📍 場所</strong>：<a href="https://maps.app.goo.gl/PTwWvtMdhFwLNVDM7" target="_blank">日比谷公園</a>（日比谷駅から徒歩7分）
+
 <strong>💸 料金</strong>：観覧無料
+
 <strong>💡 ポイント</strong>：100年以上の歴史を誇る伝統的な菊花展です。日比谷公園で秋の散策を楽しむのにぴったりで、近くの銀座や皇居散策コースと合わせて訪問するのがおすすめです。
 
 ## 🍁 10月のプレゼント：東京紅葉を楽しむ
@@ -260,10 +302,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 
 <a href="/ja/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ 東京浅草の見どころ＆グルメ完全ガイド（浅草寺、鬼滅の刃、牛カツ、ホテル推薦）</strong></a>
 
-<!-- TODO: Update link after migration
 <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>➡️ 銀座おすすめスポット、失敗しないコース完全ガイド（ショッピング、グルメ、裏技）</strong></a>
 
-<a href="#" style="color: #667eea;"><strong>➡️ 六本木の楽しみ方完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a>
+<a href="/ja/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>➡️ 六本木の楽しみ方完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a>
 
 
 <div class="editors-note">

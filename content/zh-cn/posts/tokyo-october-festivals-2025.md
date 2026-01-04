@@ -44,7 +44,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 东京秋天的代表性文化活动，在美丽的庭园体验日本传统茶道的特别机会。有面向初学者的英语说明项目，外国游客也可以轻松参加。
 
 <strong>🗓️ 日期</strong>：[滨离宫恩赐庭园] 2025年10月4日～5日 / [江户东京建筑园] 2025年10月18日～19日
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/3iWC2yqHLern7PQx5" target="_blank">滨离宫恩赐庭园</a> / 江户东京建筑园
+
 <strong>💸 费用</strong>：收费（茶会800日元等，需另付庭园门票）
 <strong>💡 要点</strong>：大部分项目需提前预约（9/8截止）。不过，部分可当天参加的项目可能会举办，请访问前在官网确认最新信息！
 
@@ -53,7 +55,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 池袋沉浸在热情中的巨大舞蹈祭典！来自日本全国的100多支队伍用华丽服装、音乐和动感舞蹈装点街道。
 
 <strong>🗓️ 日期</strong>：2025年10月11日～12日
+
 <strong>📍 地点</strong>：<a href="https://www.gotokyo.org/kr/spot/ev082/index.html" target="_blank">池袋站西口</a>周边
+
 <strong>💸 费用</strong>：免费观看
 <strong>💡 要点</strong>：是9月「袋祭」的压轴2部活动。最后一天所有队伍的「总舞」千万不要错过！
 
@@ -69,7 +73,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 时尚小店和咖啡馆众多、被称为「东京小欧洲」的自由之丘举办的最大祭典。车站前广场为中心举行现场演出，各店铺推出祭典特别菜单和促销活动。可以同时享受购物和美食。
 
 <strong>🗓️ 日期</strong>：2025年10月12日～13日
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/6C73WDEH74rgazST8" target="_blank">自由之丘站</a>前广场·商店街一带
+
 <strong>💸 费用</strong>：免费观看（餐饮另购）
 <strong>💡 要点</strong>：10月13日（周一）是日本节假日（体育节），可以享受更热闹的氛围。一边享受祭典，一边逛自由之丘的可爱咖啡馆和小店吧。
 
@@ -83,7 +89,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 东京秋天的风物诗！从宫城县直送的新鲜秋刀鱼用炭火烤制免费品尝。
 
 <strong>🗓️ 日期</strong>：仅2025年10月12日！（上午10点～下午3点30分）
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/VouJR8jyRB3gAYZ49" target="_blank">田道广场公园</a>（目黒站步行10分钟）
+
 <strong>💸 费用</strong>：免费观看（秋刀鱼试吃提前申请已截止）
 <strong>💡 要点</strong>：即使未中签提前申请，现场也可能发放少量当日券。同时举办「故乡特产展」销售各地特产，看点丰富。
 
@@ -97,7 +105,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 从江户时代延续至今的传统市场祭典，商务区日本桥一带被数百个摊位和人潮填满的壮观景象。可以品尝招牌「Bettara渍菜」等各种美食。
 
 <strong>🗓️ 日期</strong>：2025年10月19日～20日 10:00～21:00
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/HF4a7BoAYtyUVdm78" target="_blank">日本桥宝田惠比寿神社周边</a>（小传马町站步行1分钟）
+
 <strong>💸 费用</strong>：免费入场（餐饮另购）
 <strong>💡 要点</strong>：下班途中的上班族和游客交融的傍晚时段访问，可以感受最热闹的氛围。19日傍晚还可以看到神轿巡游。
 
@@ -106,7 +116,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 传承曾是木材街「木场」历史的珍贵民俗技艺。工匠在漂浮水面的大木材上自如驾驭的惊险绝技，看着让人手心冒汗。会成为在东京也难得一见的特别体验。
 
 <strong>🗓️ 日期</strong>：仅2025年10月19日！
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/BiWSZphB3QxP8HwQ8" target="_blank">木场公园</a>（木场站步行5分钟）
+
 <strong>💸 费用</strong>：免费观看
 <strong>💡 要点</strong>：作为「江东区民祭」一环举办的活动，除角乘外还有各种看点和美食摊位可以一起享受。请在访问前确认准确的演出时间！
 
@@ -115,7 +127,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 作为东京涩谷新名物崛起的20万人规模夜市！40多个美食摊车和现场演出、DJ表演交织成东京最潮的秋夜体验。
 
 <strong>🗓️ 日期</strong>：2025年10月22日～26日
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/W2aEHqg6ppSANwdS8" target="_blank">代代木公园活动广场周边</a>（原宿站步行3分钟）
+
 <strong>💸 费用</strong>：免费入场（餐饮另购）
 <strong>💡 要点</strong>：强烈推荐给想边吃晚饭边体验东京活力夜生活的朋友！周末（25～26日）从下午2点开始，请参考。
 
@@ -129,7 +143,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 在火把照亮的秋夜，新宿御苑森林中上演的梦幻<a href="https://www.kanko-shinjuku.jp.k.xm.hp.transer.com/takiginoh2025/-/index.html" target="_blank">日本传统假面剧「能」演出</a>。可以在都市中心体验静谧而神秘的艺术之夜。
 
 <strong>🗓️ 日期</strong>：仅2025年10月23日！（下午5点30分开场）
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/aV4N99WzR2bHMLBM6" target="_blank">新宿御苑 风景式庭园</a>
+
 <strong>💸 费用</strong>：分席位收费（B席6,000日元起）
 <strong>💡 要点</strong>：平时无法夜间入园的新宿御苑可以进入的特别机会。
 
@@ -138,7 +154,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 拉面爱好者绝对不能错过的日本最大规模户外拉面活动！日本全国知名拉面店齐聚一堂，展示只有这里才能品尝到的特制拉面。
 
 <strong>🗓️ 日期</strong>：2025年10月23日～11月3日 10:30-20:30（拉面供应20:10结束）
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/bo1ac3GZ2XVvpQtB8" target="_blank">驹泽奥林匹克公园中央广场</a>
+
 <strong>💸 费用</strong>：免费入场（拉面券1张1,100日元）
 <strong>💡 要点</strong>：分为1幕～3幕，参展店铺会更换，请访问前在官网确认阵容！
 
@@ -154,7 +172,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 关东最大规模宝石色灯饰活动！由世界级灯光设计师打造的梦幻光影与东京夜景同时享受，每年都是大人气景点。
 
 <strong>🗓️ 日期</strong>：2025年10月23日～2026年4月5日
+
 <strong>📍 地点</strong>：读卖乐园（东京郊区）
+
 <strong>💸 费用</strong>：收费（门票种类见<a href="https://www.yomiuriland.com/ko/jewellumination/" target="_blank">官网</a>确认）
 <strong>💡 要点</strong>：强烈推荐从新设的摩天轮「Sky Go Round」一起欣赏东京夜景和灯饰。周末非常拥挤，如果可能请考虑平日傍晚访问。
 
@@ -163,7 +183,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 东京站周边变身巨大美食广场！丸之内、有乐町、日比谷、丰洲4个区域同时举办的美食节，可以一次品尝用东京出生成长的新鲜食材制作的料理和特产的特别机会。
 
 <strong>🗓️ 日期</strong>：2025年10月24日～26日 11:00～20:00
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/tWGx9SjNeYAd7jyU9" target="_blank">丸之内</a>、有乐町、日比谷、丰洲4个区域
+
 <strong>💸 费用</strong>：免费入场（餐饮另购）
 <strong>💡 要点</strong>：4个区域同时举办的大规模活动，建议访问前在官网确认各会场主题和活动信息，规划动线。
 
@@ -177,7 +199,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 世界最大旧书街·神保町整体变身巨大露天图书馆。超过100万册书籍构成「书之回廊」的景象，演绎难忘的风景。
 
 <strong>🗓️ 日期</strong>：2025年10月24日～11月3日 10:00～18:00
+
 <strong>📍 地点</strong>：<a href="https://www.gotokyo.org/kr/story/guide/october/index.html" target="_blank">神田神保町旧书街</a>
+
 <strong>💸 费用</strong>：免费
 <strong>💡 要点</strong>：同时举办珍本展览、作家讲座等各种活动。非常适合秋日散步顺道访问。
 
@@ -191,7 +215,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 漫画和动漫角色走进现实世界！数万名Cosplayer填满池袋街道的日本最大规模东京万圣节活动。
 
 <strong>🗓️ 日期</strong>：2025年10月24日～26日 10:00～18:00
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/RiVMdGX8hTbBw3Db6" target="_blank">池袋东口</a>一带
+
 <strong>💸 费用</strong>：免费观看
 <strong>💡 要点</strong>：三丽鸥彩虹乐园也举办「PUROHALLOWEEN」主题活动，喜欢角色的朋友推荐两处都访问。
 
@@ -211,7 +237,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 从1915年延续至今的历史悠久菊花展，可以充分感受日本秋天情调的地方。工匠一年精心培育的大菊、盆栽菊等，在日比谷公园可以慢慢欣赏艺术品般的各种菊花。
 
 <strong>🗓️ 日期</strong>：2025年10月31日～11月9日
+
 <strong>📍 地点</strong>：<a href="https://maps.app.goo.gl/PTwWvtMdhFwLNVDM7" target="_blank">日比谷公园</a>（日比谷站步行7分钟）
+
 <strong>💸 费用</strong>：免费观看
 <strong>💡 要点</strong>：拥有100多年历史的传统菊花展。非常适合在日比谷公园享受秋日散步，推荐与附近的银座、皇居散步路线一起访问。
 
@@ -260,10 +288,9 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 
 <a href="/zh-cn/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>➡️ 东京浅草看点＆美食完全攻略（浅草寺、鬼灭之刃、牛排、酒店推荐）</strong></a>
 
-<!-- TODO: Update link after migration
 <a href="/zh-cn/posts/ginza-guide-2025/" style="color: #667eea;"><strong>➡️ 银座推荐景点，不失败路线完全攻略（购物、美食、秘诀）</strong></a>
 
-<a href="#" style="color: #667eea;"><strong>➡️ 六本木玩法完全攻略（展望台、美术馆、购物、美食 A to Z）</strong></a>
+<a href="/zh-cn/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>➡️ 六本木玩法完全攻略（展望台、美术馆、购物、美食 A to Z）</strong></a>
 
 
 <div class="editors-note">
