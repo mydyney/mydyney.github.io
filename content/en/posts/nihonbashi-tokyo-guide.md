@@ -71,7 +71,7 @@ There's a free shuttle bus departing from Tokyo Station Yaesu Exit that circulat
 
 Starting at Nihonbashi Station and ending at Mitsukoshimae Station, this efficiently covers key attractions without overlapping routes.
 
-<strong>1.</strong> <a href="https://maps.app.goo.gl/hVNDXbwvb4N2FnWA6" target="_blank" style="color: #667eea;"><strong>Nihonbashi Station</strong></a> <strong>→</strong> <a href="https://maps.app.goo.gl/kdnSWV1m961QBXYG7" target="_blank" style="color: #667eea;"><strong>Takashimaya S.C.</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/Uziw34fyNFyZce4V9" target="_blank" style="color: #667eea;"><strong>Pokemon Center</strong></a>
+<strong>1.</strong> <a href="https://maps.app.goo.gl/hVNDXbwvb4N2FnWA6" style="color: #667eea;"><strong>Nihonbashi Station</strong></a> <strong>→</strong> <a href="https://maps.app.goo.gl/kdnSWV1m961QBXYG7" style="color: #667eea;"><strong>Takashimaya S.C.</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/Uziw34fyNFyZce4V9" style="color: #667eea;"><strong>Pokemon Center</strong></a>
 
 Start your journey at Takashimaya S.C. New Building 5F's <strong>'Pokemon Center DX'</strong>, connected to Nihonbashi Station, with the giant Snorlax.
 
@@ -80,7 +80,7 @@ Start your journey at Takashimaya S.C. New Building 5F's <strong>'Pokemon Center
   <figcaption style="font-size: 0.7em; text-align: center;">Pokemon Center DX Snorlax at Takashimaya S.C. New Building 5F</figcaption>
 </figure>
 
-<strong>2.</strong> <a href="https://maps.app.goo.gl/84ANbgoXYJNbPRMR8" target="_blank" style="color: #667eea;"><strong>Nihonbashi Bridge (日本橋)</strong></a><strong>, </strong> <a href="https://maps.app.goo.gl/1rcRW9KkVv9umBdE8" target="_blank" style="color: #667eea;"><strong>Kirin Statue</strong></a><strong>, </strong> <a href="https://maps.app.goo.gl/a5jY85F11spo5DVt6" target="_blank" style="color: #667eea;"><strong>Zero Point</strong></a>
+<strong>2.</strong> <a href="https://maps.app.goo.gl/84ANbgoXYJNbPRMR8" style="color: #667eea;"><strong>Nihonbashi Bridge (日本橋)</strong></a><strong>, </strong> <a href="https://maps.app.goo.gl/1rcRW9KkVv9umBdE8" style="color: #667eea;"><strong>Kirin Statue</strong></a><strong>, </strong> <a href="https://maps.app.goo.gl/a5jY85F11spo5DVt6" style="color: #667eea;"><strong>Zero Point</strong></a>
 
 Head outside toward Nihonbashi Bridge, the starting point of Japan's roads. Take a commemorative photo with the famous <strong>'winged kirin statue'</strong> at the bridge center. Fans of Keigo Higashino's novel *The Wings of the Kirin* will feel especially moved. After crossing the bridge, find the Nihon Koku Douro Genhyo (日本国道路元標) marking the '0km' point for all roads extending nationwide.
 
@@ -89,7 +89,7 @@ Head outside toward Nihonbashi Bridge, the starting point of Japan's roads. Take
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Japanese Road Zero Point</figcaption>
 </figure>
 
-<strong>3.</strong> <a href="https://maps.app.goo.gl/ET5TJQ9K7BsGGqkY6" target="_blank" style="color: #667eea;"><strong>Department Store Street</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/R99N2qw5XJiP2G158" target="_blank" style="color: #667eea;"><strong>Chuo-dori (中央通り)</strong></a>
+<strong>3.</strong> <a href="https://maps.app.goo.gl/ET5TJQ9K7BsGGqkY6" style="color: #667eea;"><strong>Department Store Street</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/R99N2qw5XJiP2G158" style="color: #667eea;"><strong>Chuo-dori (中央通り)</strong></a>
 
 Cross the bridge and walk along Chuo-dori, Nihonbashi's main street. Enjoy the grandeur of <strong>'Mitsukoshi Main Store'</strong>, Japan's first department store, and the sophisticated shopping mall <strong>'COREDO Muromachi'</strong>.
 
@@ -112,7 +112,7 @@ Experience the ultimate meal at one of <strong>'Tonkatsu Hajime', 'Kaneko Hannos
   <figcaption style="font-size: 0.7em; text-align: center;">Tsujihan kaisen-don</figcaption>
 </figure>
 
-<strong>5.</strong> <a href="https://maps.app.goo.gl/SkbqXXY9yW7ow4LQA" target="_blank" style="color: #667eea;"><strong>Mitsukoshimae Station (三越前駅)</strong></a> <strong>- G Ginza Line, Z Hanzomon Line</strong>
+<strong>5.</strong> <a href="https://maps.app.goo.gl/SkbqXXY9yW7ow4LQA" style="color: #667eea;"><strong>Mitsukoshimae Station (三越前駅)</strong></a> <strong>- G Ginza Line, Z Hanzomon Line</strong>
 
 After exploring Mitsukoshi department store and the surrounding area, conveniently move to your next destination from Mitsukoshimae Station, directly connected to the department store, concluding your itinerary.
 
@@ -176,23 +176,23 @@ A sophisticated complex shopping space showcasing Nihonbashi's 'present'. Four b
 
 At the pier right next to Nihonbashi Bridge, enjoy a special <strong>river cruise</strong> viewing Tokyo from a boat. It offers a unique experience of looking up at the city from the river instead of always looking down from above, with <strong>passing under bridges as the highlight</strong>. (Advance reservation recommended)
 
-- <a href="https://nihonbashi-cruise.jp/course/kanda-river.php" target="_blank" style="color: #667eea;"><strong>Kanda River Cruise 90 minutes</strong></a> (from 2,500 yen~)
+- <a href="https://nihonbashi-cruise.jp/course/kanda-river.php" style="color: #667eea;"><strong>Kanda River Cruise 90 minutes</strong></a> (from 2,500 yen~)
 
 Cruise the calm Edo-period Nihonbashi River, historic Kanda River, and scenic Sumida River. A 90-minute course enjoying the fusion of historical and modern scenery.
 
-- <a href="https://nihonbashi-cruise.jp/course/sunset070.php" target="_blank" style="color: #667eea;"><strong>Sunset Cruise 70 minutes</strong></a> (from 3,500 yen~)
+- <a href="https://nihonbashi-cruise.jp/course/sunset070.php" style="color: #667eea;"><strong>Sunset Cruise 70 minutes</strong></a> (from 3,500 yen~)
 
 A course heading to Tokyo Port while enjoying the changing sky colors unique to this time. Sunset and Rainbow Bridge are a perfect match!
 
-- <a href="https://nihonbashi-cruise.jp/course/nihonbashi-night080.php" target="_blank" style="color: #667eea;"><strong>Nihonbashi Night Cruise 80 minutes</strong></a> (from 3,500 yen~)
+- <a href="https://nihonbashi-cruise.jp/course/nihonbashi-night080.php" style="color: #667eea;"><strong>Nihonbashi Night Cruise 80 minutes</strong></a> (from 3,500 yen~)
 
 This course's exclusive route passes close to Hamarikyu Gardens. At Tokyo Port, enjoy the nightscape of buildings. Recommended for those who want to see "This is Tokyo's night view!"
 
-- <a href="https://nihonbashi-cruise.jp/course/oed-tokyo60.php" target="_blank" style="color: #667eea;"><strong>Edo Tokyo 60-minute Cruise</strong></a> (from 2,000 yen~)
+- <a href="https://nihonbashi-cruise.jp/course/oed-tokyo60.php" style="color: #667eea;"><strong>Edo Tokyo 60-minute Cruise</strong></a> (from 2,000 yen~)
 
 See all bridges designated as important cultural properties among the distinctive bridges over the Sumida River. A 60-minute course leisurely enjoying both Nihonbashi and Sumida Rivers.
 
-- <a href="https://nihonbashi-cruise.jp/course/oed-tokyo45.php" target="_blank" style="color: #667eea;"><strong>Edo Tokyo 45-minute Cruise</strong></a> (from 1,500 yen~)
+- <a href="https://nihonbashi-cruise.jp/course/oed-tokyo45.php" style="color: #667eea;"><strong>Edo Tokyo 45-minute Cruise</strong></a> (from 1,500 yen~)
 
 A 45-minute course casually cruising Nihonbashi and Sumida Rivers on an open boat with excellent openness, viewing landmarks like Nihonbashi Bridge and Sky Tree.
 
@@ -214,7 +214,7 @@ A 45-minute course casually cruising Nihonbashi and Sumida Rivers on an open boa
 
 Michelin Bib Gourmand, Tabelog Hundred Famous Stores. Life-changing tonkatsu slowly fried at low temperature. Nihonbashi has 2 locations, so you can flexibly plan by moving to another location if the wait is long or visiting according to operating hours.
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/8DVT8xdmzPuAm3mQ9" target="_blank" style="color: #667eea;"><strong>Nihonbashi Tonkatsu Ichi Nihonbashi Main Store</strong></a> <strong>(10 seats)</strong>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/8DVT8xdmzPuAm3mQ9" style="color: #667eea;"><strong>Nihonbashi Tonkatsu Ichi Nihonbashi Main Store</strong></a> <strong>(10 seats)</strong>
 - <strong>Tue~Fri:</strong> 11:00~21:00 (last entry) / No break time
 - <strong>Sat·Sun·Holidays:</strong> 10:00~21:00 (last entry) / No break time
 - <strong>※Regular Monday closure</strong> (Open if Monday is a holiday!)
@@ -224,7 +224,7 @@ Michelin Bib Gourmand, Tabelog Hundred Famous Stores. Life-changing tonkatsu slo
   <figcaption style="font-size: 0.7em; text-align: center;">Nihonbashi Tonkatsu Ichi Nihonbashi Main Store</figcaption>
 </figure>
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/FcCktfw44ZGxuJRSA" target="_blank" style="color: #667eea;"><strong>Nihonbashi Tonkatsu Ichi Hanare</strong></a> <strong>(12 seats)</strong>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/FcCktfw44ZGxuJRSA" style="color: #667eea;"><strong>Nihonbashi Tonkatsu Ichi Hanare</strong></a> <strong>(12 seats)</strong>
 - <strong>Weekdays:</strong> 10:00~14:30 (last entry) / 17:30~20:30 (last entry)
 - <strong>Sat, Sun, Holidays:</strong> 10:00~21:00 (last entry)
 - <strong>Year-round operation</strong>
@@ -238,7 +238,7 @@ Michelin Bib Gourmand, Tabelog Hundred Famous Stores. Life-changing tonkatsu slo
 
 The best value tendon with generous tempura spilling out of the bowl. This location also has 2 branches.
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/S6xeVE6wvh9MmfX47" target="_blank" style="color: #667eea;"><strong>Kaneko Hannosuke Nihonbashi Main Store</strong></a>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/S6xeVE6wvh9MmfX47" style="color: #667eea;"><strong>Kaneko Hannosuke Nihonbashi Main Store</strong></a>
 - <strong>Mon~Fri:</strong> 11:00~21:00 (L.O.20:30)
 - <strong>Sat·Sun·Holidays:</strong> 10:00~21:00 (L.O.20:30)
 
@@ -247,7 +247,7 @@ The best value tendon with generous tempura spilling out of the bowl. This locat
   <figcaption style="font-size: 0.7em; text-align: center;">Kaneko Hannosuke Nihonbashi Main Store</figcaption>
 </figure>
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/YKFqoutMBb6qGZBs7" target="_blank" style="color: #667eea;"><strong>Kaneko Hannosuke Nihonbashi Branch</strong></a>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/YKFqoutMBb6qGZBs7" style="color: #667eea;"><strong>Kaneko Hannosuke Nihonbashi Branch</strong></a>
 - <strong>Weekdays:</strong> 11:00~22:00 (LO21:30)
 - <strong>Sat, Sun, Holidays:</strong> 10:00~21:00 (LO20:30)
 
@@ -260,7 +260,7 @@ The best value tendon with generous tempura spilling out of the bowl. This locat
 
 A jewel box-like 'Zeitaku-don' with over 9 types of chopped seafood. Features finishing by pouring sea bream broth for ochazuke enjoyment, with 2 locations.
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/7ZeTa6hkNTuiir8QA" target="_blank" style="color: #667eea;"><strong>Tsujihan Nihonbashi Main Store</strong></a>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/7ZeTa6hkNTuiir8QA" style="color: #667eea;"><strong>Tsujihan Nihonbashi Main Store</strong></a>
 - <strong>Operating hours:</strong> 10:00 ~22:30 (LO.22:00)
 
 <figure>
@@ -268,7 +268,7 @@ A jewel box-like 'Zeitaku-don' with over 9 types of chopped seafood. Features fi
   <figcaption style="font-size: 0.7em; text-align: center;">Tsujihan Nihonbashi Main Store's impressive wait</figcaption>
 </figure>
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/4MaXS1rzJ7K4Arb18" target="_blank" style="color: #667eea;"><strong>Tsujihan Nihonbashi COREDO Muromachi Branch</strong></a>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/4MaXS1rzJ7K4Arb18" style="color: #667eea;"><strong>Tsujihan Nihonbashi COREDO Muromachi Branch</strong></a>
 - <strong>Operating hours:</strong> 10:00 ~22:00 (LO.21:30)
 
 <figure>
@@ -290,20 +290,19 @@ Nihonbashi is located in central Tokyo, making it a perfect starting point for a
 
 Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach Tokyo Station. Explore the massive underground shopping area with Character Street and Ramen Street, or enjoy the beautiful Marunouchi Station building's night view.
 
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
 
 <strong>🚇 2 Minutes by Subway (Ginza Line)! Luxury Shopping Center, Ginza</strong>
 
 If you want to enjoy modern, sophisticated shopping different from Nihonbashi's traditional atmosphere, take the Ginza Line subway two stops. World-class luxury brands, upscale department stores, and atmospheric cafes await you.
 
-<!-- TODO: Update link after migration
-➡️ <a href="/posts/ginza-guide-2025/" target="_blank" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
+➡️ <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Attractions, Complete Recommended Course (Shopping, Restaurants, Tips)</strong></a>
 
 <strong>🚇 10 Minutes by Subway (Ginza Line)! Traditional Tokyo Scenery, Asakusa</strong>
 
 If you want to experience lively traditional commoner culture different from Nihonbashi's business-oriented tradition, use the Asakusa subway line. Enjoy Tokyo's oldest temple, Senso-ji, and Nakamise-dori's street food.
 
-➡️ <a href="/posts/asakusa-complete-guide/" target="_blank" style="color: #667eea;"><strong>Tokyo Asakusa Activities & Restaurants Complete Guide (Senso-ji, Gyukatsu, Hotel Recommendations)</strong></a>
+➡️ <a href="/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>Tokyo Asakusa Activities & Restaurants Complete Guide (Senso-ji, Gyukatsu, Hotel Recommendations)</strong></a>
 
 
 <div class="editors-note">

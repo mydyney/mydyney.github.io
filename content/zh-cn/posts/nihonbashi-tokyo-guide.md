@@ -71,7 +71,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 从日本桥站出发，在三越前站结束的高效路线，涵盖主要观光景点且路线不重复。
 
-<strong>1.</strong> <a href="https://maps.app.goo.gl/hVNDXbwvb4N2FnWA6" target="_blank" style="color: #667eea;"><strong>日本桥站</strong></a> <strong>→</strong> <a href="https://maps.app.goo.gl/kdnSWV1m961QBXYG7" target="_blank" style="color: #667eea;"><strong>高岛屋S.C.</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/Uziw34fyNFyZce4V9" target="_blank" style="color: #667eea;"><strong>宝可梦中心</strong></a>
+<strong>1.</strong> <a href="https://maps.app.goo.gl/hVNDXbwvb4N2FnWA6" style="color: #667eea;"><strong>日本桥站</strong></a> <strong>→</strong> <a href="https://maps.app.goo.gl/kdnSWV1m961QBXYG7" style="color: #667eea;"><strong>高岛屋S.C.</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/Uziw34fyNFyZce4V9" style="color: #667eea;"><strong>宝可梦中心</strong></a>
 
 在与日本桥站直连的高岛屋S.C.新馆5楼的「宝可梦中心DX」，和巨大的卡比兽一起开始旅程吧。
 
@@ -80,7 +80,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">高岛屋S.C.新馆5楼宝可梦中心DX的卡比兽</figcaption>
 </figure>
 
-<strong>2.</strong> <a href="https://maps.app.goo.gl/84ANbgoXYJNbPRMR8" target="_blank" style="color: #667eea;"><strong>日本桥（にほんばし）</strong></a><strong>、</strong> <a href="https://maps.app.goo.gl/1rcRW9KkVv9umBdE8" target="_blank" style="color: #667eea;"><strong>麒麟像</strong></a><strong>、</strong> <a href="https://maps.app.goo.gl/a5jY85F11spo5DVt6" target="_blank" style="color: #667eea;"><strong>零公里点</strong></a>
+<strong>2.</strong> <a href="https://maps.app.goo.gl/84ANbgoXYJNbPRMR8" style="color: #667eea;"><strong>日本桥（にほんばし）</strong></a><strong>、</strong> <a href="https://maps.app.goo.gl/1rcRW9KkVv9umBdE8" style="color: #667eea;"><strong>麒麟像</strong></a><strong>、</strong> <a href="https://maps.app.goo.gl/a5jY85F11spo5DVt6" style="color: #667eea;"><strong>零公里点</strong></a>
 
 走到外面，前往日本道路起点的日本桥。在桥中央著名的「长翅膀的麒麟像」拍纪念照。如果是东野圭吾小说『麒麟之翼』的粉丝，会特别感动。过桥后，找到标示全国延伸所有道路「0km」点的日本国道路元标（にほんこくどうろげんぴょう）。
 
@@ -89,7 +89,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">日本桥日本国道路零公里点</figcaption>
 </figure>
 
-<strong>3.</strong> <a href="https://maps.app.goo.gl/ET5TJQ9K7BsGGqkY6" target="_blank" style="color: #667eea;"><strong>百货店街</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/R99N2qw5XJiP2G158" target="_blank" style="color: #667eea;"><strong>中央通（ちゅうおうどおり）</strong></a>
+<strong>3.</strong> <a href="https://maps.app.goo.gl/ET5TJQ9K7BsGGqkY6" style="color: #667eea;"><strong>百货店街</strong></a> <strong>&</strong> <a href="https://maps.app.goo.gl/R99N2qw5XJiP2G158" style="color: #667eea;"><strong>中央通（ちゅうおうどおり）</strong></a>
 
 过桥后，沿着日本桥主干道中央通散步。欣赏日本第一家百货店「三越本店」的宏伟气势，以及精致的购物中心「COREDO室町」。
 
@@ -112,7 +112,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">つじ半海鲜盖饭</figcaption>
 </figure>
 
-<strong>5.</strong> <a href="https://maps.app.goo.gl/SkbqXXY9yW7ow4LQA" target="_blank" style="color: #667eea;"><strong>三越前站（みつこしまええき）</strong></a> <strong>- G 银座线、Z 半藏门线</strong>
+<strong>5.</strong> <a href="https://maps.app.goo.gl/SkbqXXY9yW7ow4LQA" style="color: #667eea;"><strong>三越前站（みつこしまええき）</strong></a> <strong>- G 银座线、Z 半藏门线</strong>
 
 游览三越百货店和周边区域后，从与百货店直连的三越前站方便前往下一个目的地，为行程画上句号。
 
@@ -176,23 +176,23 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 从日本桥旁边的码头，可以乘船从河上观赏东京的特别<strong>游船之旅</strong>。平时从上往下看的街道，从河上仰望的独特体验，<strong>穿过桥下是亮点</strong>。（建议提前预订）
 
-- <a href="https://nihonbashi-cruise.jp/course/kanda-river.php" target="_blank" style="color: #667eea;"><strong>神田川游船90分钟</strong></a>（2,500日元〜）
+- <a href="https://nihonbashi-cruise.jp/course/kanda-river.php" style="color: #667eea;"><strong>神田川游船90分钟</strong></a>（2,500日元〜）
 
 游览平静的江户时代日本桥川、历史悠久的神田川、风光明媚的隅田川。享受历史景色与现代景色融合的90分钟路线。
 
-- <a href="https://nihonbashi-cruise.jp/course/sunset070.php" target="_blank" style="color: #667eea;"><strong>日落游船70分钟</strong></a>（3,500日元〜）
+- <a href="https://nihonbashi-cruise.jp/course/sunset070.php" style="color: #667eea;"><strong>日落游船70分钟</strong></a>（3,500日元〜）
 
 欣赏这个时段特有的变化天色，前往东京港的路线。夕阳和彩虹大桥是完美搭配！
 
-- <a href="https://nihonbashi-cruise.jp/course/nihonbashi-night080.php" target="_blank" style="color: #667eea;"><strong>日本桥夜间游船80分钟</strong></a>（3,500日元〜）
+- <a href="https://nihonbashi-cruise.jp/course/nihonbashi-night080.php" style="color: #667eea;"><strong>日本桥夜间游船80分钟</strong></a>（3,500日元〜）
 
 此路线专属线路经过滨离宫恩赐庭园附近。在东京港欣赏建筑夜景。想看「这就是东京夜景！」的朋友推荐。
 
-- <a href="https://nihonbashi-cruise.jp/course/oed-tokyo60.php" target="_blank" style="color: #667eea;"><strong>江户东京60分钟游船</strong></a>（2,000日元〜）
+- <a href="https://nihonbashi-cruise.jp/course/oed-tokyo60.php" style="color: #667eea;"><strong>江户东京60分钟游船</strong></a>（2,000日元〜）
 
 可以看到隅田川上个性独特的桥梁中，所有被指定为重要文化财的桥。日本桥和隅田川两者都悠闲享受的60分钟路线。
 
-- <a href="https://nihonbashi-cruise.jp/course/oed-tokyo45.php" target="_blank" style="color: #667eea;"><strong>江户东京45分钟游船</strong></a>（1,500日元〜）
+- <a href="https://nihonbashi-cruise.jp/course/oed-tokyo45.php" style="color: #667eea;"><strong>江户东京45分钟游船</strong></a>（1,500日元〜）
 
 乘坐开放性极佳的敞篷船，轻松游览日本桥和隅田川的45分钟路线。可以看到日本桥、晴空塔等地标。
 
@@ -214,7 +214,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 米其林必比登推荐、食べログ百名店。人生改变的低温慢炸猪排。日本桥有2家店，如果等待时间长可以换店，或根据营业时间灵活安排。
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/8DVT8xdmzPuAm3mQ9" target="_blank" style="color: #667eea;"><strong>日本桥炸猪排いち日本桥本店</strong></a> <strong>（10席）</strong>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/8DVT8xdmzPuAm3mQ9" style="color: #667eea;"><strong>日本桥炸猪排いち日本桥本店</strong></a> <strong>（10席）</strong>
 - <strong>周二〜周五：</strong> 11:00〜21:00（最后入店）/ 无休息时间
 - <strong>周六・周日・节假日：</strong> 10:00〜21:00（最后入店）/ 无休息时间
 - <strong>※周一定休</strong>（周一是节假日营业！）
@@ -224,7 +224,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">日本桥炸猪排いち日本桥本店</figcaption>
 </figure>
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/FcCktfw44ZGxuJRSA" target="_blank" style="color: #667eea;"><strong>日本桥炸猪排いち别邸</strong></a> <strong>（12席）</strong>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/FcCktfw44ZGxuJRSA" style="color: #667eea;"><strong>日本桥炸猪排いち别邸</strong></a> <strong>（12席）</strong>
 - <strong>平日：</strong> 10:00〜14:30（最后入店）/ 17:30〜20:30（最后入店）
 - <strong>周六・周日・节假日：</strong> 10:00〜21:00（最后入店）
 - <strong>全年营业</strong>
@@ -238,7 +238,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 从盖饭碗里满溢的超多天妇罗，性价比最高的天丼。这里也有2家店。
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/S6xeVE6wvh9MmfX47" target="_blank" style="color: #667eea;"><strong>金子半之助日本桥本店</strong></a>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/S6xeVE6wvh9MmfX47" style="color: #667eea;"><strong>金子半之助日本桥本店</strong></a>
 - <strong>周一〜周五：</strong> 11:00〜21:00（L.O.20:30）
 - <strong>周六・周日・节假日：</strong> 10:00〜21:00（L.O.20:30）
 
@@ -247,7 +247,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">金子半之助日本桥本店</figcaption>
 </figure>
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/YKFqoutMBb6qGZBs7" target="_blank" style="color: #667eea;"><strong>金子半之助日本桥支店</strong></a>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/YKFqoutMBb6qGZBs7" style="color: #667eea;"><strong>金子半之助日本桥支店</strong></a>
 - <strong>平日：</strong> 11:00〜22:00（LO21:30）
 - <strong>周六・周日・节假日：</strong> 10:00〜21:00（LO20:30）
 
@@ -260,7 +260,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 9种以上切碎海鲜像珠宝盒般堆满的「豪华盖饭」。浇上鲷鱼高汤做成茶泡饭享用的收尾是特色，有2家店。
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/7ZeTa6hkNTuiir8QA" target="_blank" style="color: #667eea;"><strong>つじ半日本桥本店</strong></a>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/7ZeTa6hkNTuiir8QA" style="color: #667eea;"><strong>つじ半日本桥本店</strong></a>
 - <strong>营业时间：</strong> 10:00〜22:30（LO.22:00）
 
 <figure>
@@ -268,7 +268,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">つじ半日本桥本店令人印象深刻的等待时间</figcaption>
 </figure>
 
-<strong>🍜</strong> <a href="https://maps.app.goo.gl/4MaXS1rzJ7K4Arb18" target="_blank" style="color: #667eea;"><strong>つじ半日本桥COREDO室町店</strong></a>
+<strong>🍜</strong> <a href="https://maps.app.goo.gl/4MaXS1rzJ7K4Arb18" style="color: #667eea;"><strong>つじ半日本桥COREDO室町店</strong></a>
 - <strong>营业时间：</strong> 10:00〜22:00（LO.21:30）
 
 <figure>
@@ -290,20 +290,19 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 从日本桥沿中央通向南稍走，很快就能到达东京站。探索拥有角色街和拉面街的巨大地下购物区，或欣赏美丽的丸之内站舍夜景。
 
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>东京站景点、从角色街到餐厅&夜景完美路线</strong></a>
+➡️ <a href="#" style="color: #667eea;"><strong>东京站景点、从角色街到餐厅&夜景完美路线</strong></a>
 
 <strong>🚇 地铁2分钟（银座线）！高档购物中心、银座</strong>
 
 如果想享受与日本桥传统氛围不同的现代精致购物，乘银座线地铁2站即达。世界级奢侈品牌、高档百货店、氛围咖啡厅等着您。
 
-<!-- TODO: Update link after migration
-➡️ <a href="/zh-cn/posts/ginza-guide-2025/" target="_blank" style="color: #667eea;"><strong>银座观光景点、完整推荐路线（购物、餐厅、提示）</strong></a>
+➡️ <a href="/zh-cn/posts/ginza-guide-2025/" style="color: #667eea;"><strong>银座观光景点、完整推荐路线（购物、餐厅、提示）</strong></a>
 
 <strong>🚇 地铁10分钟（银座线）！传统东京风景、浅草</strong>
 
 如果想体验与日本桥商业导向的传统不同的、充满活力的传统庶民文化，乘浅草线地铁前往。可以享受东京最古老寺庙浅草寺和仲见世通街头美食。
 
-➡️ <a href="/zh-cn/posts/asakusa-complete-guide/" target="_blank" style="color: #667eea;"><strong>东京浅草景点&餐厅完全攻略（浅草寺、牛排、酒店推荐）</strong></a>
+➡️ <a href="/zh-cn/posts/asakusa-complete-guide/" style="color: #667eea;"><strong>东京浅草景点&餐厅完全攻略（浅草寺、牛排、酒店推荐）</strong></a>
 
 
 <div class="editors-note">
