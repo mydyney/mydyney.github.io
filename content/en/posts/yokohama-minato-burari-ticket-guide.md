@@ -122,7 +122,7 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 <h3>1. Bayside Blue Bus</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-02.jpg" alt="Bayside Blue Bus Information and Coverage">
-  <figcaption style="font-size: 0.7em; text-align: center;">Bayside Blue Bus Info (Source: City of Yokohama)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Source: <a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>Route:</strong> Yokohama Station East Exit (A4) ↔ Yamashita Pier</li>
@@ -136,7 +136,7 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 <h3>2. Akai Kutsu (Red Shoes) Circular Bus</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-03.jpg" alt="Akai Kutsu Red Shoes Bus Route and Info">
-  <figcaption style="font-size: 0.7em; text-align: center;">Akai Kutsu Bus Info (Source: City of Yokohama)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Source: <a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>Route:</strong> Circular route starting from Sakuragicho Station (Bus Stop 3)</li>
@@ -153,7 +153,7 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 <h3>3. Burari Nogeyama Zoo Bus (N Route)</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-04.jpg" alt="Burari Nogeyama Zoo Bus Info">
-  <figcaption style="font-size: 0.7em; text-align: center;">Nogeyama Zoo Bus Info (Source: City of Yokohama)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Source: <a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>Destination:</strong> Nogeyama Zoo (Admission is free!)</li>
@@ -164,8 +164,8 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 
 <h3>4. Burari Sankeien Bus (S Route)</h3>
 <figure>
-  <img src="/images/posts/yokohama-minato-burari-ticket-guide-05.jpg" alt="Burari Sankeien Bus Info">
-  <figcaption style="font-size: 0.7em; text-align: center;">Sankeien Garden Bus Info (Source: City of Yokohama)</figcaption>
+  <img src="/images/posts/yokohama-minato-burari-ticket-guide-05.jpg" alt="Burari Sankeien Garden Bus Info">
+  <figcaption style="font-size: 0.7em; text-align: center;">Source: <a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>Operating Days:</strong> Weekends and Holidays only (On weekdays, take City Bus No. 008 instead)</li>
@@ -182,7 +182,7 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
   <figure>
     <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="Yokohama City Bus Info">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">Subway and City Bus Coverage (Source: City of Yokohama)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Source: <a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </div>
 
 <h3>6. Municipal Bus & Kanagawa Chuo (Kanachu) Bus</h3>

@@ -122,7 +122,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 <h3>1. ベイサイド・ブルー</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-02.jpg" alt="ベイサイド・ブルーの案内と運行情報">
-  <figcaption style="font-size: 0.7em; text-align: center;">ベイサイド・ブルー案内（出典：横浜市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">出典：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>停留所：</strong>横浜駅東口（A4） ↔ 山下ふ頭</li>
@@ -136,7 +136,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 <h3>2. あかいくつ（観光スポット周遊バス）</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-03.jpg" alt="あかいくつバスのルートと案内">
-  <figcaption style="font-size: 0.7em; text-align: center;">あかいくつ案内（出典：横浜市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">出典：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>ルート：</strong>桜木町駅（3番乗り場）発着の循環ルート</li>
@@ -152,8 +152,8 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 
 <h3>3. ぶらり野毛山動物園バス（Nルート）</h3>
 <figure>
-  <img src="/images/posts/yokohama-minato-burari-ticket-guide-04.jpg" alt="ぶらり野毛山動物園バス案内">
-  <figcaption style="font-size: 0.7em; text-align: center;">野毛山動物園バス案内（出典：横浜市交通局）</figcaption>
+  <img src="/images/posts/yokohama-minato-burari-ticket-guide-04.jpg" alt="ぶ라리 노게야마 동물원 버스案内">
+  <figcaption style="font-size: 0.7em; text-align: center;">出典：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>目的地：</strong>野毛山動物園（なんと入園無料！）</li>
@@ -165,7 +165,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 <h3>4. ぶらり三溪園バス（Sルート）</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-05.jpg" alt="ぶらり三溪園バス案内">
-  <figcaption style="font-size: 0.7em; text-align: center;">三溪園バス案内（出典：横浜市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">出典：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>運行日：</strong>土曜日・日曜日・祝日のみ（平日は市営バス008系統で代用可能）</li>
@@ -182,13 +182,13 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
   <figure>
     <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="市営バス情報">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">地下鉄と市営バスの利用（出典：横浜市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">出典：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </div>
 
 <h3>6. 市営バス・神奈川中央交通（神奈中）バス</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="市営バス・神奈中バスの運行情報">
-  <figcaption style="font-size: 0.7em; text-align: center;">市営バス・神奈中バス（出典：横浜市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">出典：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>利用範囲：</strong>横浜ベイエリア内の路線が自由にご利用いただけます。</li>

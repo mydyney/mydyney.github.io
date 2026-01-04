@@ -125,7 +125,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 <h3>1. 横滨海湾蓝巴士 (BAYSIDE BLUE)</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-02.jpg" alt="横滨海湾蓝巴士 指南与覆盖范围">
-  <figcaption style="font-size: 0.7em; text-align: center;">海湾蓝巴士指南（来源：横滨市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">来源：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>停靠站：</strong>横滨站东口（A4） ↔ 山下码头</li>
@@ -139,7 +139,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 <h3>2. 红鞋儿巴士 (观光景点周游巴士)</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-03.jpg" alt="红鞋儿巴士路线与指南">
-  <figcaption style="font-size: 0.7em; text-align: center;">红鞋儿指南（来源：横滨市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">来源：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>路线：</strong>樱木町站（3号乘车点）始发终到的循环路线</li>
@@ -156,7 +156,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 <h3>3. 漫步野毛山动物园巴士 (N路线)</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-04.jpg" alt="漫步野毛山动物园巴士指南">
-  <figcaption style="font-size: 0.7em; text-align: center;">野毛山动物园巴士指南（来源：横滨市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">来源：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>目的地：</strong>野毛山动物园（入园竟然免费！）</li>
@@ -168,7 +168,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 <h3>4. 漫步三溪园巴士 (S路线)</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-05.jpg" alt="漫步三溪园巴士指南">
-  <figcaption style="font-size: 0.7em; text-align: center;">三溪园巴士指南（来源：横滨市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">来源：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>运行日：</strong>仅限周六、周日及节假日（工作日可乘坐市营巴士008系统替代）</li>
@@ -185,13 +185,13 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
   <figure>
     <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="市营巴士信息">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">地铁与市营巴士的使用（来源：横滨市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">来源：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </div>
 
 <h3>6. 市营巴士・神奈川中央交通巴士</h3>
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="市营巴士・神奈中巴士的覆盖情况">
-  <figcaption style="font-size: 0.7em; text-align: center;">市营巴士・神奈中巴士（来源：横滨市交通局）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">来源：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
   <li><strong>使用范围：</strong>可自由在横滨海湾内使用。</li>
