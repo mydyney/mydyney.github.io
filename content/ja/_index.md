@@ -104,15 +104,27 @@ translationKey: "homepage"
 
   <div class="hero-features">
     <div class="feature-item">
-      <div class="feature-icon">🍜</div>
+      <div class="feature-icon">
+        <svg viewBox="0 0 24 24" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+          <path d="M11 9H9V2H7v7H5V2H3v7c0 2.12 1.66 3.84 3.75 3.97V22h2.5v-9.03C11.34 12.84 13 11.12 13 9V2h-2v7zm5-3v8h2.5v8H21V2c-2.76 0-5 2.24-5 4z"/>
+        </svg>
+      </div>
       <div class="feature-text">グルメガイド</div>
     </div>
     <div class="feature-item">
-      <div class="feature-icon">🗺️</div>
+      <div class="feature-icon">
+        <svg viewBox="0 0 24 24" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+          <path d="M20.5 3l-6 2-6-2-6 2v15l6-2 6 2 6-2V3zM19 16.25l-4.5 1.5-4.5-1.5-4.5 1.5V5.75l4.5-1.5 4.5 1.5 4.5-1.5v10.5z"/>
+        </svg>
+      </div>
       <div class="feature-text">旅行情報</div>
     </div>
     <div class="feature-item">
-      <div class="feature-icon">✨</div>
+      <div class="feature-icon">
+        <svg viewBox="0 0 24 24" style="width: 1em; height: 1em; vertical-align: middle; fill: currentColor;">
+          <path d="M19 9l1.25-2.75L23 5l-2.75-1.25L19 2l-1.25 2.75L15 5l2.75 1.25L19 9zm-7.5.5L9 4 6.5 9.5 1 12l5.5 2.5L9 20l2.5-5.5L17 12l-5.5-2.5zM19 15l-1.25 2.75L15 19l2.75 1.25L19 23l1.25-2.75L23 19l-2.75-1.25L19 15z"/>
+        </svg>
+      </div>
       <div class="feature-text">現地の知恵</div>
     </div>
   </div>
