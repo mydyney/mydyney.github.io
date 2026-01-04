@@ -290,7 +290,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 日本橋から中央通りを南に少し歩けば、すぐに東京駅に到着します。キャラクターストリートやラーメンストリートがある巨大な地下ショッピングエリアを探索したり、美しい丸の内駅舎の夜景を楽しんだりできます。
 
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>東京駅のアクティビティ、キャラクターストリートからレストラン＆夜景まで完璧なコース</strong></a>
+➡️ <a href="/ja/posts/tokyo-station-guide/" style="color: #667eea;"><strong>東京駅のアクティビティ、キャラクターストリートからレストラン＆夜景まで完璧なコース</strong></a>
 
 <strong>🚇 地下鉄で2分（銀座線）！高級ショッピングセンター、銀座</strong>
 

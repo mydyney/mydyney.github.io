@@ -290,7 +290,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 从日本桥沿中央通向南稍走，很快就能到达东京站。探索拥有角色街和拉面街的巨大地下购物区，或欣赏美丽的丸之内站舍夜景。
 
-➡️ <a href="#" style="color: #667eea;"><strong>东京站景点、从角色街到餐厅&夜景完美路线</strong></a>
+➡️ <a href="/zh-cn/posts/tokyo-station-guide/" style="color: #667eea;"><strong>东京站景点、从角色街到餐厅&夜景完美路线</strong></a>
 
 <strong>🚇 地铁2分钟（银座线）！高档购物中心、银座</strong>
 

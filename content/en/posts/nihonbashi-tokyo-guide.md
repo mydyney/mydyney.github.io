@@ -290,7 +290,7 @@ Nihonbashi is located in central Tokyo, making it a perfect starting point for a
 
 Just a short walk south along Chuo-dori from Nihonbashi, you'll quickly reach Tokyo Station. Explore the massive underground shopping area with Character Street and Ramen Street, or enjoy the beautiful Marunouchi Station building's night view.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
+➡️ <a href="/posts/tokyo-station-guide/" style="color: #667eea;"><strong>Tokyo Station Activities, Perfect Course from Character Street to Restaurants & Night Views</strong></a>
 
 <strong>🚇 2 Minutes by Subway (Ginza Line)! Luxury Shopping Center, Ginza</strong>
 
