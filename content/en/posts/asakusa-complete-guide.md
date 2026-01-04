@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Asakusa Complete Guide 2025: Sensoji Temple, Demon Slayer, Gyukatsu & Best Hotels"
+title: "Tokyo Asakusa Complete Guide: Sensoji Temple, Demon Slayer, Gyukatsu & Best Hotels"
 date: 2025-09-28T19:37:00+09:00
 draft: false
 translationKey: "asakusa-complete-guide"

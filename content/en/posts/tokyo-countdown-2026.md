@@ -121,7 +121,7 @@ Sensoji, Tokyo's oldest temple, transforms into a massive festival grounds on th
 <li><b>Recommended for:</b> Families, those who want to experience Japanese traditional culture, those who believe eating is winning. 🍢</li>
 </ul>
 
-<b>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Asakusa Attractions & Restaurants Complete Guide</strong></a></b>
+<b>➡️ <a href="{{< relref "asakusa-complete-guide" >}}" style="color: #667eea;"><strong>Tokyo Asakusa Attractions & Restaurants Complete Guide</strong></a></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-04.jpg" alt="Tokyo New Year countdown 2026 Asakusa Sensoji">

@@ -1,5 +1,5 @@
 ---
-title: "东京浅草完全攻略2025 - 浅草寺、鬼灭之刃、牛排、酒店推荐"
+title: "东京浅草完全攻略 - 浅草寺、鬼灭之刃、牛排、酒店推荐"
 date: 2025-09-28T19:37:00+09:00
 draft: false
 translationKey: "asakusa-complete-guide"

@@ -121,7 +121,7 @@ featured_image: "/images/posts/tokyo-countdown-2026-01.jpg"
 <li><b>推荐对象：</b>家庭旅行者、想体验日本传统文化的人、认为吃才是赢的人。🍢</li>
 </ul>
 
-<b>➡️ <a href="#" style="color: #667eea;"><strong>东京浅草景点＆美食完全攻略</strong></a></b>
+<b>➡️ <a href="{{< relref "asakusa-complete-guide" >}}" style="color: #667eea;"><strong>东京浅草景点＆美食完全攻略</strong></a></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-04.jpg" alt="东京新年倒数2026浅草浅草寺">

@@ -212,13 +212,10 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224037212344 | kichijoji-complete-guide-2025 | Tokyo Kichijoji Must-Visit Places: Complete Course (with Ghibli Museum) |
 | 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, shibuya-sushi-no-midori-lunch-guide, mitsui-outlet-kisarazu-guide | Japan Kaldi Shopping List Must-Buy Recommendations |
-| 224032769630 | yebisu-complete-guide | Yebisu Complete Guide (Garden Place, Beer Museum, Restaurants) |
-
 | 224031937227 | akihabara-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
 | 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, asakusa-complete-guide | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
 | 224025343414 | asakusa-complete-guide | Asakusa Asahi Beer Sky Room Night View Guide |
-| 224024819592 | tokyo-christmas-markets-guide-2025, tokyo-october-festivals-2025, tokyo-skytree-reservation-discount-guide, odaiba-ariake-toyosu-complete-guide, odaiba-rainbow-fireworks-2025 | Tokyo Asakusa Attractions & Restaurant Complete Guide |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
