@@ -205,12 +205,19 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 </figure>
 
 <div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
-  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 Editor's Note</p>
+  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 Map Guide</p>
   <p style="margin: 0;">We have packed this map with Yokohama landmarks, bus routes and stops available with the Burari Ticket, Yokohama restaurant lists (Tabelog 100 Ramen, Sushi, Bakery, etc.), and recommended places to visit. Even first-time visitors can easily follow this route and enjoy the best of Yokohama!</p>
 </div>
 
 <p style="text-align: center;"><strong>Check out the perfect Yokohama Day Trip course!</strong><br>
 <!-- TODO: Update link after migration -->
 <a href="#" style="color: #667eea;"><strong>➡️ Yokohama 1-Day Itinerary: Chinatown, Red Brick Warehouse, and Night Views</strong></a></p>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/223976102621" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
 
 </div>

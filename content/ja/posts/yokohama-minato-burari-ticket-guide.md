@@ -206,12 +206,19 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 </figure>
 
 <div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
-  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 編集者のメモ</p>
-  <p style="margin: 0;">横浜のランドマーク、ぶらりチケットで利用可能なバス路線と停留所、横浜のグルメリスト（食べログ百名店のラーメン、寿司、ベーカリーなど）、そしておすすめスポットの情報をこの地図に凝縮しました。初めて訪れる方でも、このルートを参考にすれば横浜観光を存分に楽しめます！</p>
+  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 マップガイド</p>
+  <p style="margin: 0;">横浜のランドマーク、ぶらりチケットで利用可能な bus 路線と停留所、横浜のグルメリスト（食べログ百名店のラーメン、寿司、ベーカリーなど）、そしておすすめスポットの情報をこの地図に凝縮しました。初めて訪れる方でも、このルートを参考にすれば横浜観光を存分に楽しめます！</p>
 </div>
 
 <p style="text-align: center;"><strong>横浜を完璧に楽しむ1日プランをチェック！</strong><br>
 <!-- TODO: Update link after migration -->
 <a href="#" style="color: #667eea;"><strong>➡️ 横浜1日観光コース：中華街、赤レンガ倉庫、夜景スポット完全まとめ</strong></a></p>
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/223976102621" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+  </p>
+</div>
 
 </div>
