@@ -128,8 +128,10 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
   <li><strong>Route:</strong> Yokohama Station East Exit (A4) ↔ Yamashita Pier</li>
   <li><strong>First Bus:</strong> 9:50 AM (Weekdays) / 9:45 AM (Weekends)</li>
   <li><strong>Last Bus:</strong> 6:05 PM (Weekdays) / 6:15 PM (Weekends)</li>
+  <li><strong>Boarding:</strong> Enter through the front door, exit through the middle/back doors</li>
   <li><strong>Fare:</strong> 220 yen (Adult) / 110 yen (Child)</li>
 </ul>
+<p>*Up to 2 preschool children can ride free per guardian.</p>
 
 <h3>2. Akai Kutsu (Red Shoes) Circular Bus</h3>
 <figure>
@@ -138,9 +140,15 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 </figure>
 <ul>
   <li><strong>Route:</strong> Circular route starting from Sakuragicho Station (Bus Stop 3)</li>
-  <li><strong>Feature:</strong> Retro-style "Red Shoes" bus, iconic to Yokohama</li>
+  <li><strong>Feature:</strong> Retro-style "Red Shoes" bus, iconic to Yokohama. The license plate "150" commemorates the 150th anniversary of the port's opening.</li>
+  <li><strong>First Bus:</strong> 10:02 AM</li>
+  <li><strong>Last Bus:</strong> 6:02 PM (Weekdays) / 6:32 PM (Weekends)</li>
   <li><strong>Fare:</strong> 220 yen (Adult) / 110 yen (Child)</li>
 </ul>
+<div class="info-box">
+  <p><strong>💡 Perfect for Night Views! Sakuragicho ↔ Hammerhead Shuttle</strong><br>
+  Special services targeting night view spots operate in the evening (from 6:30 PM on weekdays, 7:00 PM on weekends/holidays).</p>
+</div>
 
 <h3>3. Burari Nogeyama Zoo Bus (N Route)</h3>
 <figure>
@@ -148,8 +156,10 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
   <figcaption style="font-size: 0.7em; text-align: center;">Nogeyama Zoo Bus Info (Source: City of Yokohama)</figcaption>
 </figure>
 <ul>
-  <li><strong>Destination:</strong> Nogeyama Zoo (Free admission!)</li>
+  <li><strong>Destination:</strong> Nogeyama Zoo (Admission is free!)</li>
+  <li><strong>Opening Hours:</strong> 9:30 AM – 4:30 PM (Closed Mondays)</li>
   <li><strong>Departure:</strong> Yokohama Station East Exit (Stop 1) or Sakuragicho Station (Stop 8)</li>
+  <li><strong>Fare:</strong> 220 yen (Adult) / 110 yen (Child)</li>
 </ul>
 
 <h3>4. Burari Sankeien Bus (S Route)</h3>
@@ -158,8 +168,10 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
   <figcaption style="font-size: 0.7em; text-align: center;">Sankeien Garden Bus Info (Source: City of Yokohama)</figcaption>
 </figure>
 <ul>
-  <li><strong>Operating Days:</strong> Weekends and Holidays only</li>
-  <li><strong>Route:</strong> Yokohama Station ↔ Sakuragicho ↔ Chinatown ↔ Sankeien Garden</li>
+  <li><strong>Operating Days:</strong> Weekends and Holidays only (On weekdays, take City Bus No. 008 instead)</li>
+  <li><strong>Destination:</strong> Sankeien Garden (Japanese Garden, Admission 900 yen)</li>
+  <li><strong>Opening Hours:</strong> 9:00 AM – 5:30 PM</li>
+  <li><strong>Route:</strong> Yokohama Station (Stop 2) ↔ Sakuragicho (Stop 2) ↔ Chinatown ↔ Sankeien Garden</li>
 </ul>
 
 <h3>5. Subway & Regular City Buses</h3>
@@ -173,6 +185,16 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
   <figcaption style="font-size: 0.7em; text-align: center;">Subway and City Bus Coverage (Source: City of Yokohama)</figcaption>
 </div>
 
+<h3>6. Municipal Bus & Kanagawa Chuo (Kanachu) Bus</h3>
+<figure>
+  <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="Information on City Bus and Kanachu Bus coverage">
+  <figcaption style="font-size: 0.7em; text-align: center;">City Bus & Kanachu Bus (Source: City of Yokohama)</figcaption>
+</figure>
+<ul>
+  <li><strong>Coverage:</strong> Unlimited rides within the Yokohama Bay area.</li>
+  <li><strong>Major Areas:</strong> Yokohama Station, Motomachi, Sankeien, Isezakicho, Yokohamabashi, and other key sightseeing zones.</li>
+</ul>
+
 <h2>🍱 Exclusive Yokohama Travel Map by Tokyomate</h2>
 
 <p>I have compiled a comprehensive map featuring Yokohama landmarks, bus stops for the Burari Ticket, top-rated restaurants from Tabelog (Ramen, Sushi, Bakeries), and must-visit spots.</p>
@@ -185,7 +207,7 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 
 <div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
   <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 Editor's Note</p>
-  <p style="margin: 0;">Yokohama is a city where you can enjoy the ocean breeze while exploring vibrant cultures. The Minato Burari Ticket not only saves you money but also gives you the freedom to hop on and off at any interesting spot you find. Don't forget to check out the <strong>Yokohama 1-Day Itinerary</strong> below for a perfect course!</p>
+  <p style="margin: 0;">We have packed this map with Yokohama landmarks, bus routes and stops available with the Burari Ticket, Yokohama restaurant lists (Tabelog 100 Ramen, Sushi, Bakery, etc.), and recommended places to visit. Even first-time visitors can easily follow this route and enjoy the best of Yokohama!</p>
 </div>
 
 <p style="text-align: center;"><strong>Check out the perfect Yokohama Day Trip course!</strong><br>

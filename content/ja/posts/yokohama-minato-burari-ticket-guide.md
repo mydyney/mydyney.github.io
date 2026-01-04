@@ -207,7 +207,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 
 <div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
   <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 編集者のメモ</p>
-  <p style="margin: 0;">横浜は潮風を感じながら、異文化が融合する街並みを楽しめる素晴らしい場所です。みなとぶらりチケットを使えば、交通費を節約しながら、気になったスポットで自由に乗り降りできます。下記の「横浜1日観光コース」も併せてチェックして、最高の横浜ステイを楽しんでください！</p>
+  <p style="margin: 0;">横浜のランドマーク、ぶらりチケットで利用可能なバス路線と停留所、横浜のグルメリスト（食べログ百名店のラーメン、寿司、ベーカリーなど）、そしておすすめスポットの情報をこの地図に凝縮しました。初めて訪れる方でも、このルートを参考にすれば横浜観光を存分に楽しめます！</p>
 </div>
 
 <p style="text-align: center;"><strong>横浜を完璧に楽しむ1日プランをチェック！</strong><br>
