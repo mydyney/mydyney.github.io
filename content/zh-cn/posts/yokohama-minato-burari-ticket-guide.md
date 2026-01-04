@@ -178,15 +178,14 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 </ul>
 
 <h3>5. 地铁 & 市营巴士</h3>
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/yokohama-minato-burari-ticket-guide-06.jpg" alt="市营地铁蓝线信息">
-  </figure>
-  <figure>
-    <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="市营巴士信息">
-  </figure>
+<figure>
+  <img src="/images/posts/yokohama-minato-burari-ticket-guide-06.jpg" alt="横滨市营地铁蓝线信息">
   <figcaption style="font-size: 0.7em; text-align: center;">来源：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
-</div>
+</figure>
+<ul>
+  <li><strong>市营地铁蓝线：</strong>横滨站 〜 吉野町站 区间可自由乘坐。</li>
+  <li><strong>Wide 票券：</strong>购买“漫步横滨票券 Wide”时，可使用范围扩大至包括新横滨站。</li>
+</ul>
 
 <h3>6. 市营巴士・神奈川中央交通巴士</h3>
 <figure>

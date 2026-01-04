@@ -175,15 +175,14 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 </ul>
 
 <h3>5. Subway & Regular City Buses</h3>
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/yokohama-minato-burari-ticket-guide-06.jpg" alt="Yokohama Subway Blue Line Info">
-  </figure>
-  <figure>
-    <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="Yokohama City Bus Info">
-  </figure>
+<figure>
+  <img src="/images/posts/yokohama-minato-burari-ticket-guide-06.jpg" alt="Yokohama Subway Blue Line Information">
   <figcaption style="font-size: 0.7em; text-align: center;">Source: <a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
-</div>
+</figure>
+<ul>
+  <li><strong>Subway Blue Line:</strong> Unlimited rides between Yokohama Station and Yoshinocho Station.</li>
+  <li><strong>Wide Ticket:</strong> If you purchase the "Wide" ticket, coverage is extended to include Shin-Yokohama Station.</li>
+</ul>
 
 <h3>6. Municipal Bus & Kanagawa Chuo (Kanachu) Bus</h3>
 <figure>
