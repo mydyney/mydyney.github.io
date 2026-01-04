@@ -56,10 +56,7 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
   </tbody>
 </table>
 
-<figure>
-  <img src="/images/posts/yokohama-minato-burari-ticket-guide-02.jpg" alt="Map of the Minato Burari Ticket coverage area">
-  <figcaption style="font-size: 0.7em; text-align: center;">Coverage Area Map (Source: City of Yokohama)</figcaption>
-</figure>
+<p>Yokohama offers a perfect blend of modern architecture and historic charm. To make the most of your visit, using a transport pass is highly recommended. The <strong>Minato Burari Ticket</strong> is a 1-day pass that allows unlimited rides on local subways and buses, making it perfect for first-time visitors.</p>
 
 <h2>📍 Available Transportation</h2>
 
@@ -81,11 +78,52 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
   <p style="text-align: center;"><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1159077&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F111555-minato-burari-ticket%2F" target="_blank" style="font-weight: bold; color: #aa1f91;">➡️ Book Yokohama Minato Burari Ticket on Klook</a></p>
 </div>
 
+<h2>🗺️ Detailed Transport Routes & Stops</h2>
+
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th>Transport Method</th>
+      <th>Tour Route / Major Stops</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color: #e0f7ff;"><strong>[START] Bayside Blue Bus</strong><br>Weekdays from 9:50 AM<br>Weekends from 9:45 AM</td>
+      <td>Yokohama Station (A4) → Takashima Chuo Park → Pacifico Yokohama North → Pacifico Yokohama → Cup Noodles Museum / Hammerhead → Osanbashi Entrance → Yamashita Park → Yamashita Wharf → Chinatown Entrance</td>
+    </tr>
+    <tr>
+      <td style="background-color: #f0fff0;"><strong>Burari Sankeien Bus</strong><br>(Weekends/Holidays only)</td>
+      <td>Chinatown Entrance → Sankeien Garden → Sankeien Garden Entrance → Chinatown Entrance</td>
+    </tr>
+    <tr>
+      <td style="background-color: #fff0f0;"><strong>Akai Kutsu (Red Shoes) Bus</strong></td>
+      <td>Chinatown East Gate → Motomachi Entrance → Harbor View Park → Motomachi Entrance → Marine Tower → Yamashita Park → Osanbashi Passenger Terminal → Red Brick Warehouse → Hammerhead → Bankoku-bashi / World Porters → Bashamichi Station → Sakuragicho Station</td>
+    </tr>
+    <tr>
+      <td style="background-color: #fffacd;"><strong>Burari Nogeyama Zoo Bus</strong></td>
+      <td>Sakuragicho Station (Stop 8) → Nogeyama Zoo → Nogeyama Zoo → Sakuragicho Station</td>
+    </tr>
+    <tr>
+      <td style="background-color: #ffe4e1;"><strong>Akai Kutsu Hammerhead Bus</strong><br>Weekdays from 6:30 PM<br>Weekends from 7:00 PM</td>
+      <td>Sakuragicho Station (Stop 3) → Motomachi Entrance → Bankoku-bashi / World Porters → Hammerhead → Bankoku-bashi / World Porters → Motomachi Entrance → Sakuragicho Station</td>
+    </tr>
+    <tr>
+      <td style="background-color: #e6f7ff;"><strong>[FINISH] Subway Blue Line</strong></td>
+      <td>Sakuragicho → Takashimacho → Yokohama → Shin-Yokohama (Wide Ticket only)</td>
+    </tr>
+  </tbody>
+</table>
+
 <h2>🗺️ Recommended 1-Day Tourism Route</h2>
 
 <p>The Minato Burari Ticket connects major landmarks such as Yokohama Chinatown, Red Brick Warehouse, Sankeien Garden, and Nogeyama Zoo. Here is a detailed guide to the bus routes you'll use.</p>
 
 <h3>1. Bayside Blue Bus</h3>
+<figure>
+  <img src="/images/posts/yokohama-minato-burari-ticket-guide-02.jpg" alt="Bayside Blue Bus Information and Coverage">
+  <figcaption style="font-size: 0.7em; text-align: center;">Bayside Blue Bus Info (Source: City of Yokohama)</figcaption>
+</figure>
 <ul>
   <li><strong>Route:</strong> Yokohama Station East Exit (A4) ↔ Yamashita Pier</li>
   <li><strong>First Bus:</strong> 9:50 AM (Weekdays) / 9:45 AM (Weekends)</li>
