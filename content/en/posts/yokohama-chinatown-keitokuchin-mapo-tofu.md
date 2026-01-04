@@ -154,9 +154,7 @@ Be sure to try it!</p>
 
 ---
 
-## 📍 After Chinatown,
-## Where to Go Next?
-## (Itinerary Connections)
+## 📍 After Chinatown, Where to Go Next?
 
 <p style="text-align: center; font-size: 1.2rem; color: #333; line-height: 1.8;">
 <strong>📍 Check out the Yokohama Day Trip Itinerary!</strong><br>

@@ -162,9 +162,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 ---
 
-## 📍 中华街之后,
-## 去哪里?
-## (联动路线)
+## 📍 中华街之后，去哪里?
 
 <p style="text-align: center; font-size: 1.2rem; color: #333; line-height: 1.8;">
 <strong>📍 查看横滨一日游路线!</strong><br>

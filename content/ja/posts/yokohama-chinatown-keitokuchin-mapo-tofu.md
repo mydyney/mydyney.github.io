@@ -162,9 +162,7 @@ featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 
 ---
 
-## 📍 中華街の次は、
-## どこへ行く？
-## （連携コース）
+## 📍 中華街の次は、どこへ行く?
 
 <p style="text-align: center; font-size: 1.2rem; color: #333; line-height: 1.8;">
 <strong>📍 横浜日帰りコースをチェック！</strong><br>
