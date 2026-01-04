@@ -175,15 +175,14 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 </ul>
 
 <h3>5. 地下鉄＆市営バス</h3>
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/yokohama-minato-burari-ticket-guide-06.jpg" alt="市営地下鉄ブルーライン情報">
-  </figure>
-  <figure>
-    <img src="/images/posts/yokohama-minato-burari-ticket-guide-07.jpg" alt="市営バス情報">
-  </figure>
+<figure>
+  <img src="/images/posts/yokohama-minato-burari-ticket-guide-06.jpg" alt="市営地下鉄ブルーライン情報">
   <figcaption style="font-size: 0.7em; text-align: center;">出典：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
-</div>
+</figure>
+<ul>
+  <li><strong>市営地下鉄ブルーライン：</strong>横浜駅 〜 吉野町駅 区間が自由にご利用いただけます。</li>
+  <li><strong>ぶらりチケットワイド：</strong>「みなとぶらりチケットワイド」を購入すると、新横浜駅も利用範囲に含まれます。</li>
+</ul>
 
 <h3>6. 市営バス・神奈川中央交通（神奈中）バス</h3>
 <figure>
@@ -197,18 +196,16 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 
 <h2>🍱 特製！横浜旅行地図 by Tokyo Mate</h2>
 
-<p>横浜のランドマーク、ぶらりチケットで利用できるバス停、食べログ百名店（ラーメン、寿司、ベーカリーなど）、おすすめスポットをまとめた特製地図を作成しました。</p>
+<div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
+  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 マップガイド</p>
+  <p style="margin: 0;">横浜のランドマーク、ぶらりチケットで利用可能なバス路線と停留所、横浜のグルメリスト（食べログ百名店のラーメン、寿司、ベーカリーなど）、そしておすすめスポットの情報をこの地図に凝縮しました。初めて訪れる方でも、このルートを参考にすれば横浜観光を存分に楽しめます！</p>
+</div>
 
 <p style="text-align: center;">📍 <a href="https://www.google.com/maps/d/u/2/edit?mid=1oYmG0tE5nCSVFS7QKq-7kqRXzGLOCkY&usp=sharing" target="_blank" style="text-decoration: underline; color: #06c;"><strong>Tokyo Mate 横浜旅行地図 (Googleマイマップ)</strong></a></p>
 
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-08.jpg" alt="Tokyo Mate 横浜旅行地図のプレビュー">
 </figure>
-
-<div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
-  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 マップガイド</p>
-  <p style="margin: 0;">横浜のランドマーク、ぶらりチケットで利用可能な bus 路線と停留所、横浜のグルメリスト（食べログ百名店のラーメン、寿司、ベーカリーなど）、そしておすすめスポットの情報をこの地図に凝縮しました。初めて訪れる方でも、このルートを参考にすれば横浜観光を存分に楽しめます！</p>
-</div>
 
 <p style="text-align: center;"><strong>横浜を完璧に楽しむ1日プランをチェック！</strong><br>
 <!-- TODO: Update link after migration -->
@@ -217,7 +214,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/223976102621" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+    この記事は、著者の実体験に基づき、<a href="https://blog.naver.com/tokyomate/223976102621" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> のオリジナルコンテンツを翻訳・翻案したものです。世界中の読者に東京のリアルな旅行情報をお届けします。
   </p>
 </div>
 

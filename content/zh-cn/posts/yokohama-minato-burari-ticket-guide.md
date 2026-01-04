@@ -193,23 +193,22 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
   <figcaption style="font-size: 0.7em; text-align: center;">来源：<a href="https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html" target="_blank" rel="noopener">https://www.city.yokohama.lg.jp/kotsu/bus/unchin/minatoburari.html</a></figcaption>
 </figure>
 <ul>
-  <li><strong>使用范围：</strong>可自由在横滨海湾内使用。</li>
+  <li><strong>使用范围：</strong>横滨海湾区域内的路线可自由乘坐。</li>
+  <li><strong>主要区域：</strong>横滨站、元町、三溪园、伊势佐木町、横滨桥等主要观光区域。</li>
 </ul>
 
 <h2>🍱 特制！横滨旅行地图 by Tokyo Mate</h2>
 
-<p>我们制作了一份特制地图，汇总了横滨的地标、漫步车票可使用的巴士站、Tabelog百强店（拉面、寿司、面包房等）以及推荐景点。</p>
+<div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
+  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 地图指南</p>
+  <p style="margin: 0;">这份地图中凝缩了横滨的地标、港口漫步车票可使用的巴士路线及停靠站、横滨美食清单（Tabelog 百强店拉面、寿司、烘焙店等）以及推荐景点信息。即使是初次访问的游客，参考这条路线也能尽情享受横滨观光的乐趣！</p>
+</div>
 
-<p style="text-align: center;">📍 <a href="https://www.google.com/maps/d/u/2/edit?mid=1oYmG0tE5nCSVFS7QKq-7kqRXzGLOCkY&usp=sharing" target="_blank" style="text-decoration: underline; color: #06c;"><strong>Tokyo Mate 横滨旅行地图 (Google我的地图)</strong></a></p>
+<p style="text-align: center;">📍 <a href="https://www.google.com/maps/d/u/2/edit?mid=1oYmG0tE5nCSVFS7QKq-7kqRXzGLOCkY&usp=sharing" target="_blank" style="text-decoration: underline; color: #06c;"><strong>Tokyo Mate 横滨旅行地图 (Google 我的地图)</strong></a></p>
 
 <figure>
   <img src="/images/posts/yokohama-minato-burari-ticket-guide-08.jpg" alt="Tokyo Mate 横滨旅行地图预览">
 </figure>
-
-<div class="info-box" style="background-color: #f9f9f9; border-left: 5px solid #667eea; padding: 1.5rem; margin: 2rem 0;">
-  <p style="font-weight: bold; margin-bottom: 0.5rem;">💡 编辑者笔记</p>
-  <p style="margin: 0;">这份地图中凝缩了横滨的地标、港口漫步车票可使用的巴士路线及停靠站、横滨美食清单（Tabelog百强店拉面、寿司、烘焙店等）以及推荐景点信息。即使是初次访问的游客，参考这条路线也能尽情享受横滨观光的乐趣！</p>
-</div>
 
 <p style="text-align: center;"><strong>查看完美享受横滨的一日计划！</strong><br>
 <!-- TODO: Update link after migration -->
