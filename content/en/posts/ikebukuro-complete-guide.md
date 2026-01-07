@@ -258,14 +258,15 @@ Now it has been reborn as the sophisticated <strong>"Global Ring Theatre"</stron
 
 When night falls, colorful lights illuminate it, making it a great place to relax with a cup of coffee.
 
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-16.jpg" alt="Global Ring Theatre">
-</figure>
-
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="Tokyo Metropolitan Theatre">
-  <figcaption style="font-size: 0.7em; text-align: center;">Global Ring Theatre and Tokyo Metropolitan Theatre <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(Source)</a></figcaption>
-</figure>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 1.526;">
+    <img src="/images/posts/ikebukuro-complete-guide-16.jpg" alt="Global Ring Theatre" style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 1.055;">
+    <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="Tokyo Metropolitan Theatre" style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<p style="font-size: 0.7em; text-align: center; margin-top: -10px;">Global Ring Theatre and Tokyo Metropolitan Theatre <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(Source)</a></p>
 
 ### 2. West Exit Gourmet
 
@@ -289,14 +290,15 @@ Tabelog Top 100 wood-fired pizza
 Tabelog Top 100 Curry Shops
 A unique creative curry restaurant, as the name "Mars Curry" suggests
 
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-18.jpg" alt="Ikebukuro symbol owl (fukuro) statue">
-</figure>
-
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-19.jpg" alt="Ikebukuro symbol owl statue">
-  <figcaption style="font-size: 0.7em; text-align: center;">Ikebukuro's symbol - owl (fukuro) statue</figcaption>
-</figure>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.764;">
+    <img src="/images/posts/ikebukuro-complete-guide-18.jpg" alt="Ikebukuro symbol owl (fukuro) statue" style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.750;">
+    <img src="/images/posts/ikebukuro-complete-guide-19.jpg" alt="Ikebukuro symbol owl statue" style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<p style="font-size: 0.7em; text-align: center; margin-top: -10px;">Ikebukuro's symbol - owl (fukuro) statue</p>
 
 ---
 

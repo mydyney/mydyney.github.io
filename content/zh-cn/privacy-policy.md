@@ -5,6 +5,8 @@ draft: false
 type: page
 url: /zh-cn/privacy-policy/
 translationKey: privacy-policy
+description: "Tokyo Mate 隐私政策：详细说明我们如何收集、使用和保护您的个人信息。"
+summary: "了解我们的数据收集做法、Cookie 的使用以及您对个人信息的权利。"
 ---
 
 # 隐私政策

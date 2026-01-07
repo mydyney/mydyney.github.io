@@ -5,8 +5,8 @@ draft: false
 categories: ["旅行ガイド"]
 tags: ["秋葉原", "東京", "アニメ", "フィギュアショップ", "オタク文化", "ショッピング"]
 translationKey: "akihabara-complete-guide-2025"
-description: "秋葉原完全ガイド:ラジオ会館のフィギュアショップからおすすめグルメ、ガチャスポット、アニメ聖地巡礼コースまで。究極のオタク体験に必要なすべて。"
-summary: "フィギュアショップ、グルメ、ガチャ、アニメ聖地巡礼おすすめコースを網羅した秋葉原完全ガイド。"
+description: "秋葉原完全ガイド：ラジオ会館などのフィギュアショップ、ガチャ、レトロゲーム、地元おすすめグルメを一挙公開。"
+summary: "フィギュアショップ、グルメ、ガチャ、アニメ聖地巡礼のおすすめコースを網罗した秋葉原ガイド。"
 featured_image: "/images/posts/akihabara-complete-guide-01.jpg"
 ---
 

@@ -3,6 +3,8 @@ title: "中目黒完全ガイド：おしゃれなショップ、カフェ＆散
 date: 2025-10-05
 slug: "nakameguro-complete-guide"
 categories: ["Area Guide", "Shopping", "Cafe"]
+description: "中目黒完全ガイド：目黒川沿いの散策コース、おしゃれなセレクトショップ、スタバなどの人気カフェを網羅。"
+summary: "おしゃれな街、中目黒の散策コースから厳選ショップ、カフェ、桜シーズン攻略法まで徹底解説。"
 featured_image: "/images/posts/nakameguro-complete-guide-01.jpg"
 image: "/images/posts/nakameguro-complete-guide-01.jpg"
 draft: false

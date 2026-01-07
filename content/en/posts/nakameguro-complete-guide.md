@@ -3,6 +3,8 @@ title: "Nakameguro Complete Guide: Shops, Cafes & Course"
 date: 2025-10-05
 slug: "nakameguro-complete-guide"
 categories: ["Area Guide", "Shopping", "Cafe"]
+description: "Complete Nakameguro guide: walking courses, stylish select shops, photogenic cafes, and cherry blossom tips."
+summary: "Discover Tokyo's trendiest neighborhood: Nakameguro's river walks, shops, and cafes."
 featured_image: "/images/posts/nakameguro-complete-guide-01.jpg"
 image: "/images/posts/nakameguro-complete-guide-01.jpg"
 draft: false

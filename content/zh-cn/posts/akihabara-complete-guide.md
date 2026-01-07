@@ -5,8 +5,8 @@ draft: false
 categories: ["旅行攻略"]
 tags: ["秋叶原", "东京", "动漫", "手办店", "宅文化", "购物"]
 translationKey: "akihabara-complete-guide-2025"
-description: "秋叶原完全攻略:从Radio会馆手办店到推荐美食、扭蛋圣地、动漫圣地巡礼路线。终极宅文化体验所需的一切。"
-summary: "涵盖手办店、美食、扭蛋、动漫圣地巡礼推荐路线的秋叶原完全攻略。"
+description: "秋叶原完全攻略：Radio会馆手办店、扭蛋天堂、复古游戏及当地人气美食攻略。"
+summary: "涵盖手办店、美食、扭蛋、动漫圣地巡礼推荐路线的秋叶原游玩指南。"
 featured_image: "/images/posts/akihabara-complete-guide-01.jpg"
 ---
 

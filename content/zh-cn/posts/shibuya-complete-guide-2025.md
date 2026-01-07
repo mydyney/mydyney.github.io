@@ -3,8 +3,8 @@ title: "涩谷完全攻略2025：SKY展望台预订到购物、美食完美路�
 date: 2025-10-03T23:16:00+09:00
 draft: false
 translationKey: "shibuya-complete-guide-2025"
-description: "涩谷观光完全攻略2025：涩谷SKY预订技巧、十字路口拍摄点、109・PARCO购物、推荐美食、完美半日路线全面解析。"
-summary: "涩谷全方位攻略：SKY展望台、购物、美食、完美观光路线。"
+description: "涩谷完全攻略2025：涩谷SKY预订技巧、十字路口拍照地、人气购物中心及横丁美食解析。"
+summary: "涩谷全方位指南：SKY展望台、人气购物、美食中心及完美路线推荐。"
 tags: ["涩谷", "涩谷SKY", "东京攻略", "东京购物", "东京美食", "涩谷十字路口", "宫下公园", "2025"]
 categories: ["旅行攻略"]
 featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"

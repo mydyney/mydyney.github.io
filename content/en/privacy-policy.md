@@ -5,6 +5,8 @@ draft: false
 type: page
 url: /privacy-policy/
 translationKey: privacy-policy
+description: "Our Privacy Policy explains how we collect, use, and protect your personal information on Tokyo Mate."
+summary: "Learn about our data collection practices, cookies, and your rights regarding personal information."
 ---
 
 # Privacy Policy

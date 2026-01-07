@@ -5,8 +5,8 @@ draft: false
 categories: ["Travel Guide"]
 tags: ["Akihabara", "Tokyo", "Anime", "Figure Shops", "Otaku Culture", "Shopping"]
 translationKey: "akihabara-complete-guide-2025"
-description: "Complete Akihabara guide: from Radio Kaikan figure shops to recommended restaurants, gacha spots, and anime pilgrimage courses. Everything you need for the ultimate otaku experience."
-summary: "Complete Akihabara guide covering figure shops, restaurants, gacha, and anime pilgrimage recommended courses."
+description: "Explore Akihabara's otaku culture: Radio Kaikan figure shops, gacha paradises, and recommended restaurants."
+summary: "Complete guide to Akihabara figure shops, gacha, anime pilgrimage, and local restaurants."
 featured_image: "/images/posts/akihabara-complete-guide-01.jpg"
 ---
 

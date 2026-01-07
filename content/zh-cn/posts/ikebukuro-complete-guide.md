@@ -258,14 +258,15 @@ Animate附近
 
 夜晚亮起华丽灯光，最适合拿杯咖啡休息。
 
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-16.jpg" alt="Global Ring剧场">
-</figure>
-
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="东京艺术剧场">
-  <figcaption style="font-size: 0.7em; text-align: center;">Global Ring剧场和东京艺术剧场 <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(出典)</a></figcaption>
-</figure>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 1.526;">
+    <img src="/images/posts/ikebukuro-complete-guide-16.jpg" alt="Global Ring剧场" style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 1.055;">
+    <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="东京艺术剧场" style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<p style="font-size: 0.7em; text-align: center; margin-top: -10px;">Global Ring剧场和东京艺术剧场 <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(出典)</a></p>
 
 ### 2. 西口美食
 
@@ -289,14 +290,15 @@ Animate附近
 食べログ百名店咖喱
 如「火星咖喱」名字所示，独特的创意咖喱餐厅
 
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-18.jpg" alt="池袋象征猫头鹰(ふくろう)雕像">
-</figure>
-
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-19.jpg" alt="池袋象征猫头鹰雕像">
-  <figcaption style="font-size: 0.7em; text-align: center;">池袋的象征 - 猫头鹰(ふくろう)雕像</figcaption>
-</figure>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.764;">
+    <img src="/images/posts/ikebukuro-complete-guide-18.jpg" alt="池袋象征猫头鹰(ふくろう)雕像" style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.750;">
+    <img src="/images/posts/ikebukuro-complete-guide-19.jpg" alt="池袋象征猫头鹰雕像" style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<p style="font-size: 0.7em; text-align: center; margin-top: -10px;">池袋的象征 - 猫头鹰(ふくろう)雕像</p>
 
 ---
 

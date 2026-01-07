@@ -3,8 +3,8 @@ title: "Shibuya Complete Guide 2025: Sky Observatory, Shopping, Restaurants & Pe
 date: 2025-10-03T23:16:00+09:00
 draft: false
 translationKey: "shibuya-complete-guide-2025"
-description: "Complete Shibuya travel guide 2025: Shibuya Sky reservation tips, Scramble Crossing photo spots, shopping at 109 & Parco, best restaurants, and perfect half-day itinerary."
-summary: "Everything you need to know for Shibuya: Sky observatory, shopping, dining, and the perfect itinerary."
+description: "Conquer Shibuya 2025: Shibuya Sky booking tips, Scramble Crossing photo spots, shopping, and yokocho dining."
+summary: "Everything you need for Shibuya: Sky observatory, iconic shopping, dining, and a perfect itinerary."
 tags: ["shibuya", "shibuya-sky", "tokyo-guide", "tokyo-shopping", "tokyo-restaurants", "scramble-crossing", "miyashita-park", "2025"]
 categories: ["Travel Guide"]
 featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"

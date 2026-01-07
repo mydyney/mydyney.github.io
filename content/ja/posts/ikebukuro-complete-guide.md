@@ -258,14 +258,15 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 
 夜になると華やかな照明が灯り、コーヒー一杯とともに休憩するのに最適です。
 
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-16.jpg" alt="グローバルリングシアター">
-</figure>
-
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="東京芸術劇場">
-  <figcaption style="font-size: 0.7em; text-align: center;">グローバルリングシアターと東京芸術劇場 <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(出典)</a></figcaption>
-</figure>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 1.526;">
+    <img src="/images/posts/ikebukuro-complete-guide-16.jpg" alt="グローバルリングシアター" style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 1.055;">
+    <img src="/images/posts/ikebukuro-complete-guide-17.jpg" alt="東京芸術劇場" style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<p style="font-size: 0.7em; text-align: center; margin-top: -10px;">グローバルリングシアターと東京芸術劇場 <a href="https://www.gotokyo.org/kr/destinations/northern-tokyo/ikebukuro/index.html" target="_blank">(出典)</a></p>
 
 ### 2. 西口グルメ
 
@@ -289,14 +290,15 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 食べログ百名店カレー
 「火星カレー」という名前の通り、個性的な創作カレーレストラン
 
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-18.jpg" alt="池袋のシンボルふくろう(ふくろう)像">
-</figure>
-
-<figure>
-  <img src="/images/posts/ikebukuro-complete-guide-19.jpg" alt="池袋のシンボルふくろう像">
-  <figcaption style="font-size: 0.7em; text-align: center;">池袋のシンボル - ふくろう(ふくろう)像</figcaption>
-</figure>
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.764;">
+    <img src="/images/posts/ikebukuro-complete-guide-18.jpg" alt="池袋のシンボルふくろう(ふくろう)像" style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.750;">
+    <img src="/images/posts/ikebukuro-complete-guide-19.jpg" alt="池袋のシンボルふくろう像" style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<p style="font-size: 0.7em; text-align: center; margin-top: -10px;">池袋のシンボル - ふくろう(ふくろう)像</p>
 
 ---
 

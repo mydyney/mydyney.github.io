@@ -5,6 +5,8 @@ draft: false
 type: page
 url: /ja/privacy-policy/
 translationKey: privacy-policy
+description: "Tokyo Mateのプライバシーポリシー：個人情報の収集、使用、保護方法について明確に説明します。"
+summary: "データ収集、クッキーの使用、およびお客様の権利に関する重要な情報をご確認いただけます。"
 ---
 
 # プライバシーポリシー
