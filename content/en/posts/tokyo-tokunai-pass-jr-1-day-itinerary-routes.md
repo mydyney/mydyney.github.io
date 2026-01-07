@@ -114,9 +114,7 @@ Choose from <strong>3 difficulty levels</strong> based on your stamina and trave
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Sugamo → Nippori (8 min)</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Yanaka Ginza<br>Cat town vibes + menchi-katsu street food<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">Tokyo Yanaka Ginza Menchi-katsu & Yuyake Dandan Review</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Yanaka Ginza<br>Cat town vibes + menchi-katsu street food<br>➡️ <a href="/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">Tokyo Yanaka Ginza Menchi-katsu & Yuyake Dandan Review</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Nippori → Ueno (4 min)</td>
@@ -182,9 +180,7 @@ Choose from <strong>3 difficulty levels</strong> based on your stamina and trave
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Akihabara → Nippori (8 min)</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Yanaka Ginza & Yuyake Dandan<br>Showa-era town vibes, Tokyo's famous shaved ice<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">Tokyo Yanaka Ginza Menchi-katsu & Yuyake Dandan Review</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Yanaka Ginza & Yuyake Dandan<br>Showa-era town vibes, Tokyo's famous shaved ice<br>➡️ <a href="/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">Tokyo Yanaka Ginza Menchi-katsu & Yuyake Dandan Review</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Nippori → Ueno (4 min)</td>
@@ -250,9 +246,7 @@ Choose from <strong>3 difficulty levels</strong> based on your stamina and trave
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Akihabara → Nippori (8 min)</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Yanaka Ginza & Yuyake Dandan<br>Cat town vibes + menchi-katsu street food<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">Tokyo Yanaka Ginza Menchi-katsu & Yuyake Dandan Review</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Yanaka Ginza & Yuyake Dandan<br>Cat town vibes + menchi-katsu street food<br>➡️ <a href="/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">Tokyo Yanaka Ginza Menchi-katsu & Yuyake Dandan Review</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">Nippori → Ueno (4 min)</td>

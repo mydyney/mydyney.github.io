@@ -114,9 +114,7 @@ JRの基本運賃は約150-180円なので、
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">巣鴨 → 日暮里（8分）</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中銀座<br>猫の街の雰囲気＋メンチカツのストリートフード<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">東京谷中銀座メンチカツ＆夕焼けだんだんレビュー</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中銀座<br>猫の街の雰囲気＋メンチカツのストリートフード<br>➡️ <a href="/ja/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">東京谷中銀座メンチカツ＆夕焼けだんだんレビュー</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">日暮里 → 上野（4分）</td>
@@ -182,9 +180,7 @@ JRの基本運賃は約150-180円なので、
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">秋葉原 → 日暮里（8分）</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中銀座＆夕焼けだんだん<br>昭和の街並み、東京の有名かき氷<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">東京谷中銀座メンチカツ＆夕焼けだんだんレビュー</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中銀座＆夕焼けだんだん<br>昭和の街並み、東京の有名かき氷<br>➡️ <a href="/ja/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">東京谷中銀座メンチカツ＆夕焼けだんだんレビュー</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">日暮里 → 上野（4分）</td>
@@ -250,9 +246,7 @@ JRの基本運賃は約150-180円なので、
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">秋葉原 → 日暮里（8分）</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中銀座＆夕焼けだんだん<br>猫の街の雰囲気＋メンチカツのストリートフード<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">東京谷中銀座メンチカツ＆夕焼けだんだんレビュー</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中銀座＆夕焼けだんだん<br>猫の街の雰囲気＋メンチカツのストリートフード<br>➡️ <a href="/ja/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">東京谷中銀座メンチカツ＆夕焼けだんだんレビュー</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">日暮里 → 上野（4分）</td>

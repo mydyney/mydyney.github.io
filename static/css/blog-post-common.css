@@ -149,26 +149,44 @@ blockquote {
 article .image-group-2,
 article .image-group-3,
 article .image-group-4,
+article .image-group-5,
+article .image-group-6,
+article .image-group-8,
 article .image-group-9,
 .lh-copy .image-group-2,
 .lh-copy .image-group-3,
 .lh-copy .image-group-4,
+.lh-copy .image-group-5,
+.lh-copy .image-group-6,
+.lh-copy .image-group-8,
 .lh-copy .image-group-9,
 .nested-copy-line-height .image-group-2,
 .nested-copy-line-height .image-group-3,
 .nested-copy-line-height .image-group-4,
+.nested-copy-line-height .image-group-5,
+.nested-copy-line-height .image-group-6,
+.nested-copy-line-height .image-group-8,
 .nested-copy-line-height .image-group-9,
 .blog-container .image-group-2,
 .blog-container .image-group-3,
 .blog-container .image-group-4,
+.blog-container .image-group-5,
+.blog-container .image-group-6,
+.blog-container .image-group-8,
 .blog-container .image-group-9,
 div.image-group-2,
 div.image-group-3,
 div.image-group-4,
+div.image-group-5,
+div.image-group-6,
+div.image-group-8,
 div.image-group-9,
 .image-group-2,
 .image-group-3,
 .image-group-4,
+.image-group-5,
+.image-group-6,
+.image-group-8,
 .image-group-9 {
   display: grid !important;
   width: 100% !important;
@@ -177,58 +195,54 @@ div.image-group-9,
   column-gap: 8px !important;
   row-gap: 0 !important;
   margin: 0.5rem auto !important;
-  /* Changed: 2rem -> 0.5rem for tighter spacing */
   padding: 0 !important;
   align-items: start !important;
   box-sizing: border-box !important;
   float: none !important;
   clear: both !important;
   position: relative !important;
-  left: auto !important;
-  /* Changed: 0 -> auto for proper centering */
-  right: auto !important;
-  /* Changed: 0 -> auto for proper centering */
-  transform: none !important;
-  flex: none !important;
-  flex-shrink: 0 !important;
-  flex-grow: 0 !important;
-  justify-self: center !important;
-  /* Added: Ensures grid container itself is centered */
 }
 
 /* 첫 번째 image-group만 위 여백 크게 */
 .blog-container>.image-group-2:first-of-type,
 .blog-container>.image-group-3:first-of-type,
 .blog-container>.image-group-4:first-of-type,
+.blog-container>.image-group-5:first-of-type,
+.blog-container>.image-group-6:first-of-type,
+.blog-container>.image-group-8:first-of-type,
 .blog-container>.image-group-9:first-of-type {
   margin-top: 2rem !important;
 }
 
-/* 2개 나란히: 각 이미지 = 가로폭/2 */
+/* 2개 나란히 */
 .blog-container .image-group-2,
 .image-group-2 {
   grid-template-columns: 1fr 1fr !important;
 }
 
-/* 3개 나란히: 각 이미지 = 가로폭/3 */
+/* 3개 나란히 */
 .blog-container .image-group-3,
 .image-group-3 {
   grid-template-columns: 1fr 1fr 1fr !important;
 }
 
-/* 4개 격자형: 2x2, 각 이미지 = 가로폭/2 */
+/* 4, 5, 6, 8, 9개 격자형 (2열 기반) */
 .blog-container .image-group-4,
-.image-group-4 {
-  grid-template-columns: 1fr 1fr !important;
-}
-
-/* 9개 격자형: 2열, 마지막 1개는 중앙 배치 */
+.image-group-4,
+.blog-container .image-group-5,
+.image-group-5,
+.blog-container .image-group-6,
+.image-group-6,
+.blog-container .image-group-8,
+.image-group-8,
 .blog-container .image-group-9,
 .image-group-9 {
   grid-template-columns: 1fr 1fr !important;
 }
 
-/* 9개 그룹의 마지막 이미지(9번째)를 위 2개 이미지 폭 100% 크기로 배치 */
+/* 홀수 그룹의 마지막 이미지 중앙 배치 (5, 9) */
+.blog-container .image-group-5 figure:nth-child(5),
+.image-group-5 figure:nth-child(5),
 .blog-container .image-group-9 figure:nth-child(9),
 .image-group-9 figure:nth-child(9) {
   grid-column: 1 / -1 !important;
@@ -237,14 +251,20 @@ div.image-group-9,
   justify-self: center !important;
 }
 
-/* figure 요소 - 그리드 셀 전체 차지 */
+/* figure 요소 */
 .blog-container .image-group-2 figure,
 .blog-container .image-group-3 figure,
 .blog-container .image-group-4 figure,
+.blog-container .image-group-5 figure,
+.blog-container .image-group-6 figure,
+.blog-container .image-group-8 figure,
 .blog-container .image-group-9 figure,
 .image-group-2 figure,
 .image-group-3 figure,
 .image-group-4 figure,
+.image-group-5 figure,
+.image-group-6 figure,
+.image-group-8 figure,
 .image-group-9 figure {
   width: 100% !important;
   max-width: 100% !important;
@@ -252,69 +272,40 @@ div.image-group-9,
   margin: 0 !important;
   padding: 0 !important;
   display: block !important;
-  float: none !important;
   aspect-ratio: 1 / 1 !important;
-  /* Force square aspect ratio for grid alignment */
   overflow: hidden !important;
 }
 
-/* 3개 나란히 배치된 경우에는 가로가 좁으므로 가로형 비율(4:3)로 조정하여 세로가 너무 길어지지 않게 함 */
+/* 3개 그룹 비율 조정 */
 .blog-container .image-group-3 figure,
 .image-group-3 figure {
   aspect-ratio: 4 / 3 !important;
 }
 
-/* 이미지 - 셀 전체 폭 */
-.blog-container .image-group-2 img,
-.blog-container .image-group-3 img,
-.blog-container .image-group-4 img,
-.blog-container .image-group-9 img,
-.image-group-2 img,
-.image-group-3 img,
-.image-group-4 img,
-.image-group-9 img {
+/* 이미지 스타일 */
+.blog-container [class^="image-group-"] img,
+[class^="image-group-"] img {
   margin: 0 !important;
   padding: 0 !important;
   width: 100% !important;
   height: 100% !important;
-  /* Fill the aspect-ratio container */
-  max-width: 100% !important;
-  min-width: 100% !important;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  display: block !important;
   object-fit: cover !important;
-  /* Match Naver's "Perfect Fit" look */
+  border-radius: 8px;
 }
 
-/* 그룹 전체에 대한 figcaption */
-.blog-container .image-group-2>figcaption,
-.blog-container .image-group-3>figcaption,
-.blog-container .image-group-4>figcaption,
-.blog-container .image-group-9>figcaption,
-.image-group-2>figcaption,
-.image-group-3>figcaption,
-.image-group-4>figcaption,
-.image-group-9>figcaption {
+/* figcaption */
+.blog-container [class^="image-group-"]>figcaption,
+[class^="image-group-"]>figcaption {
   grid-column: 1 / -1 !important;
   width: 100% !important;
-  margin-top: 0 !important;
   padding-top: 0.5rem !important;
   text-align: center !important;
   font-size: 0.7em !important;
   color: #666;
 }
 
-/* 연속된 image-group 사이의 간격 줄이기 */
-.image-group-2+.image-group-2,
-.image-group-2+.image-group-3,
-.image-group-2+.image-group-4,
-.image-group-3+.image-group-2,
-.image-group-3+.image-group-3,
-.image-group-3+.image-group-4,
-.image-group-4+.image-group-2,
-.image-group-4+.image-group-3,
-.image-group-4+.image-group-4 {
+/* 그룹 사이 간격 */
+[class^="image-group-"]+[class^="image-group-"] {
   margin-top: 0.5rem !important;
 }
 

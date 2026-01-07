@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2026-01-07
-> **Status:** ✅ Complete - 113 posts mapped
+> **Status:** ✅ Complete - 114 posts mapped
 
 ---
 
@@ -20,6 +20,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
 | 224032086475 | nakameguro-complete-guide | 2025-10-05 | ✅ |
 | 224019480188 | hakone-travel-guide-day-trip-vs-ryokan | 2025-09-25 | ✅ |
@@ -290,12 +291,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 111
+- **Total Posts Migrated:** 112
 - **Naver IDs Tracked:** 168
 - **Posts with Internal Links:** 35+ (shimbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide)
 - **Pending References:** 46
 - **Links Updated:** Verified & Fixed on 2025-12-28
-- **Last Migration Date:** 2026-01-01 (Tsukishima Monjayaki Street Guide)
+- **Last Migration Date:** 2026-01-05 (Yanaka Ginza Guide)
 
 ---
 

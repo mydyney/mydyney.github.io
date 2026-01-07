@@ -114,9 +114,7 @@ JR基本票价约为150-180日元，
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">巢鸭 → 日暮里（8分钟）</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中银座<br>猫咪小镇氛围+炸肉饼街头美食<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">东京谷中银座炸肉饼与夕阳阶梯评测</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中银座<br>猫咪小镇氛围+炸肉饼街头美食<br>➡️ <a href="/zh-cn/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">东京谷中银座炸肉饼与夕阳阶梯评测</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">日暮里 → 上野（4分钟）</td>
@@ -182,9 +180,7 @@ JR基本票价约为150-180日元，
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">秋叶原 → 日暮里（8分钟）</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中银座与夕阳阶梯<br>昭和时代小镇氛围、东京著名刨冰<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">东京谷中银座炸肉饼与夕阳阶梯评测</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中银座与夕阳阶梯<br>昭和时代小镇氛围、东京著名刨冰<br>➡️ <a href="/zh-cn/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">东京谷中银座炸肉饼与夕阳阶梯评测</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">日暮里 → 上野（4分钟）</td>
@@ -250,9 +246,7 @@ JR基本票价约为150-180日元，
     </tr>
     <tr>
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">秋叶原 → 日暮里（8分钟）</td>
-      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中银座与夕阳阶梯<br>猫咪小镇氛围+炸肉饼街头美食<br>➡️ <!-- TODO: Update link after migration
-           Naver: https://blog.naver.com/tokyomate/224134693622
-           Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;">东京谷中银座炸肉饼与夕阳阶梯评测</a></td>
+      <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">谷中银座与夕阳阶梯<br>猫咪小镇氛围+炸肉饼街头美食<br>➡️ <a href="/zh-cn/posts/yanaka-ginza-menchi-katsu-yuyake-dandan-guide/" target="_blank">东京谷中银座炸肉饼与夕阳阶梯评测</a></td>
     </tr>
     <tr style="background-color: #f7f7f7;">
       <td style="padding: 12px; text-align: center; border: 1px solid #ddd;">日暮里 → 上野（4分钟）</td>
