@@ -149,10 +149,44 @@ To ensure quality and allow for early feedback, follow this incremental approach
            Hugo: /posts/roppongi-christmas-illumination-2025/ -->
       <a href="#" style="color: #667eea;">Related Article</a>
       ```
-- **⚠️ MANDATORY: Add Editor's Note section at the end** (see CONTENT_GUIDELINES.md for format)
-  - MUST be added at the end of EVERY post before closing `</div>` tag
-  - Use correct Naver post ID from LINK_MAPPING.md
-  - Language-specific text for EN/JA/ZH-CN versions
+- **⚠️ MANDATORY: Add Editor's Note section at the end** (CRITICAL: Use exact format below)
+  
+  **EXACT FORMAT TO USE (DO NOT MODIFY):**
+  
+  ```html
+  <!-- English Version -->
+  <div class="editors-note">
+    <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+    <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+      This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+    </p>
+  </div>
+  
+  <!-- Japanese Version -->
+  <div class="editors-note">
+    <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
+    <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+      本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
+    </p>
+  </div>
+  
+  <!-- Chinese Version -->
+  <div class="editors-note">
+    <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+    <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+      本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+    </p>
+  </div>
+  ```
+  
+  **CRITICAL RULES:**
+  - ❌ DO NOT use `## Editor's Note` heading format
+  - ❌ DO NOT simplify the HTML structure
+  - ✅ MUST use `<div class="editors-note">` wrapper
+  - ✅ MUST include all inline styles exactly as shown
+  - ✅ Replace `[NAVER_POST_ID]` with actual ID from LINK_MAPPING.md
+  - ✅ Place before closing `</div>` tag at end of post
+
 **Step 3.3: Hugo Local Preview & User Approval**
 - Provide local preview link for the English version:
   - `http://localhost:1313/posts/[slug]/`

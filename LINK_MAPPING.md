@@ -1,8 +1,8 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Last Updated:** 2026-01-01
-> **Status:** ✅ Complete - 112 posts mapped
+> **Last Updated:** 2026-01-07
+> **Status:** ✅ Complete - 113 posts mapped
 
 ---
 
@@ -37,6 +37,7 @@ When migrating a Naver blog post to Hugo:
 | 224107954391 | shibuya-station-coin-locker-luggage-storage-guide | 2025-12-13 | ✅ |
 | 224106627092 | shibuya-parco-shopping-guide | 2025-12-12 | ✅ |
 | 224106448442 | shibuya-parco-nintendo-pokemon-guide | 2025-12-13 | ✅ |
+| 224136520145 | tokyo-tokunai-pass-jr-1-day-itinerary-routes | 2026-01-06 | ✅ |
 | 224105736326 | shibuya-human-made-offline-store-guide | 2025-12-11 | ✅ |
 | 224105333068 | shibuya-parco-kiwamiya-hamburg-waiting-menu | 2025-12-10 | ✅ |
 | 224104602398 | tokyo-station-sawamura-lunch | 2025-12-18 | ✅ |
@@ -122,6 +123,7 @@ When migrating a Naver blog post to Hugo:
 | 224031611221 | tokyo-station-guide | 2025-12-31 | ✅ |
 | 224031114514 | shibuya-complete-guide-2025 | 2025-10-03 | ✅ |
 | 224030294691 | harajuku-complete-guide-2025 | 2025-10-03 | ✅ |
+| 224028694874 | ueno-ameyoko-guide | 2025-10-01 | ✅ |
 | 224027835049 | omotesando-guide-2025 | 2025-10-01 | ✅ |
 | 224026292057 | tokyo-october-festivals-2025 | 2025-12-31 | ✅ |
 | 224026098490 | tokyo-subway-ticket-guide | 2025-09-29 | ✅ |
@@ -191,7 +193,7 @@ When migrating a Naver blog post to Hugo:
 | 223666751487 | st-moritz-roppongi-bakery | - | pending |
 | 223665548720 | yebisu-brewery-museum-guide | - | pending |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
-| 223979907748 | yokohama-one-day-itinerary | - | pending |
+| 223979907748 | yokohama-one-day-itinerary | 2025-08-22 | ✅ |
 | 223976102621 | yokohama-minato-burari-ticket-guide | 2025-08-19 | ✅ |
 ---
 ## Excluded from Migration (Do Not Process)
@@ -216,7 +218,6 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, shibuya-sushi-no-midori-lunch-guide, mitsui-outlet-kisarazu-guide | Japan Kaldi Shopping List Must-Buy Recommendations |
 | 224031937227 | akihabara-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
-| 224028694874 | ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, asakusa-complete-guide | Ueno Attractions: Ameyoko Market, Restaurants to Ueno Park |
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
 | 224025343414 | asakusa-complete-guide | Asakusa Asahi Beer Sky Room Night View Guide |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |

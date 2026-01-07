@@ -259,7 +259,10 @@ User: "완료했습니다" or "Done"
 - SEO-optimized titles and descriptions (length limits per language)
 - Proper front matter structure with translationKey
 - Image naming convention and 1:1 matching rule
-- Editor's Note section (mandatory for all posts)
+- Editor's Note section (⚠️ MANDATORY for all posts - use EXACT format from CONTENT_GUIDELINES.md)
+  - DO NOT create custom formats or use markdown headings
+  - MUST use `<div class="editors-note">` with all inline styles
+  - See MIGRATION_GUIDE.md Step 3.2 for complete HTML template
 - Chinese YAML syntax rules (no special quotation marks)
 
 #### Step 4: Claude Downloads Images
