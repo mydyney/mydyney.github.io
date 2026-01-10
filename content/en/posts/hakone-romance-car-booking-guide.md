@@ -330,7 +330,7 @@ categories: [travel-tips]
 
 <p>⭐ <strong>Related Tokyo Suburban Travel Guides</strong></p>
 <p><strong>➡️</strong> <a href="/posts/hakone-travel-guide-day-trip-vs-ryokan/"><strong>Hakone Travel: Day Trip vs Ryokan 1-Night Perfect Course (Hakone Free Pass Complete Guide)</strong></a></p>
-<p><strong>➡️</strong> <!-- TODO: Update link when Hakone Open-Air Museum guide is migrated (Naver ID: 224038866606) --><a href="#"><strong>Hakone Recommended Course: Open-Air Museum (Hakone Free Pass Admission Discount, Photo Zone Tips)</strong></a></p>
+<p><strong>➡️</strong> <a href="/posts/hakone-open-air-museum-guide-discount-tips/"><strong>Hakone Recommended Course: Open-Air Museum (Hakone Free Pass Admission Discount, Photo Zone Tips)</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

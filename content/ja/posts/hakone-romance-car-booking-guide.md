@@ -329,7 +329,7 @@ categories: [旅行のヒント]
 
 <p>⭐ <strong>あわせて読みたい東京郊外の旅行ガイド</strong></p>
 <p><strong>➡️</strong> <a href="/ja/posts/hakone-travel-guide-day-trip-vs-ryokan/"><strong>箱根旅行：日帰り vs 旅館1泊 完璧コース（箱根フリーパス完全ガイド）</strong></a></p>
-<p><strong>➡️</strong> <!-- TODO: 彫刻の森美術館ガイドが移行されたらリンクを更新 (Naver ID: 224038866606) --><a href="#"><strong>箱根おすすめコース：彫刻の森美術館（箱根フリーパス割引、フォトスポットのコツ）</strong></a></p>
+<p><strong>➡️</strong> <a href="/ja/posts/hakone-open-air-museum-guide-discount-tips/"><strong>箱根おすすめコース：彫刻の森美術館（箱根フリーパス割引、フォトスポットのコツ）</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

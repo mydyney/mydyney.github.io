@@ -329,7 +329,7 @@ categories: [旅行指南]
 
 <p>⭐ <strong>精彩内容推荐：东京郊外旅行指南</strong></p>
 <p><strong>➡️</strong> <a href="/zh-cn/posts/hakone-travel-guide-day-trip-vs-ryokan/"><strong>箱根旅行：日归 vs 旅馆住宿1晚 完美路线（箱根周游券完全指南）</strong></a></p>
-<p><strong>➡️</strong> <!-- TODO: 待箱根雕刻之森美术馆攻略上线后更新链接 (Naver ID: 224038866606) --><a href="#"><strong>箱根推荐景点：雕刻之森美术馆（周游券门票优惠及拍照打卡技巧）</strong></a></p>
+<p><strong>➡️</strong> <a href="/zh-cn/posts/hakone-open-air-museum-guide-discount-tips/"><strong>箱根推荐景点：雕刻之森美术馆（周游券门票优惠及拍照打卡技巧）</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
