@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+    <meta charset="utf-8">
+    <title>Page Not Found | {{ .Site.Title }}</title>
+    <meta http-equiv="refresh" content="0; url={{ .Site.BaseURL }}">
+    <script type="text/javascript">
+        window.location.href = "{{ .Site.BaseURL }}"
+    </script>
+</head>
+
+<body>
+    <p>Redirecting to <a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a>...</p>
+</body>
+
+</html>
