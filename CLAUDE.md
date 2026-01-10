@@ -564,35 +564,9 @@ The AdSense script is loaded in the `<head>` section of every page via `head-add
 
 ## Common Tasks
 
-### 1. Adding a New Blog Post
+### 1. Common Tasks Overview
 
-**NOTE:** Blog posts are typically created from Korean Naver HTML. AI translates to English, Japanese, and Chinese (Simplified).
-
-```bash
-# 1. Create post in all three languages
-hugo new content/en/posts/my-post.md
-hugo new content/ja/posts/my-post.md
-hugo new content/zh-cn/posts/my-post.md
-
-# 2. Edit each file:
-#    - Add same translationKey to all three
-#    - Fill in content (see CONTENT_GUIDELINES.md)
-#    - Set draft: false when ready
-
-# 3. Add images (if needed)
-#    - Save to /static/images/posts/
-#    - Use naming: my-post-01.jpg, my-post-02.jpg, etc.
-
-# 4. Test locally
-hugo server -D
-
-# 5. Commit and push
-git add .
-git commit -m "Add new blog post: My Post (EN/JA/ZH-CN)"
-git push -u origin <your-branch>
-
-# 6. Create PR to main branch
-```
+The most common task is migrating content from Naver Blog. Detailed workflows for this and other maintenance tasks are provided below.
 
 **📚 For detailed blog post formatting rules, see [CONTENT_GUIDELINES.md](./CONTENT_GUIDELINES.md)**
 
