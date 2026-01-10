@@ -244,7 +244,7 @@ categories: [travel-tips]
 <li><strong>Waterproof shoes</strong></li>
 </ul>
 
-<p>👉 <!-- TODO: Update link when Hakone guide is migrated (Naver ID: 224024131147) --><a href="#"><strong>Warmest & Most Comfortable Way to Hakone in Cold Winter (Romance Car Booking Guide)</strong></a></p>
+<p>👉 <a href="/posts/hakone-romance-car-booking-guide/"><strong>Warmest & Most Comfortable Way to Hakone in Cold Winter (Romance Car Booking Guide)</strong></a></p>
 
 <figure>
 <img src="/images/posts/tokyo-february-weather-clothing-guide-08.jpg" alt="Snowy Kawaguchiko, perceived weather much colder than Tokyo city">

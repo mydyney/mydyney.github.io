@@ -244,7 +244,7 @@ categories: [旅行ガイド]
 <li><strong>防水シューズ</strong></li>
 </ul>
 
-<p>👉 <!-- TODO: Update link when Hakone guide is migrated (Naver ID: 224024131147) --><a href="#"><strong>寒い冬、箱根まで最も暖かく快適に行く方法（ロマンスカー予約方法総まとめ）</strong></a></p>
+<p>👉 <a href="/ja/posts/hakone-romance-car-booking-guide/"><strong>寒い冬、箱根まで最も暖かく快適に行く方法（ロマンスカー予約방법총정리）</strong></a></p>
 
 <figure>
 <img src="/images/posts/tokyo-february-weather-clothing-guide-08.jpg" alt="雪が降った河口湖、東京都内より体感天気がはるかに寒い">
