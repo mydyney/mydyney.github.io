@@ -6,7 +6,7 @@ translationKey: "tsukishima-monjayaki-street-guide"
 description: "東京の月島もんじゃストリートの完全ガイド。もへじ、こぼれやなど、絶対に行くべき名店5選とアクセス方法、行列を避けるための待ち時間攻略法を紹介します。"
 summary: "東京の月島もんじゃストリートの完全ガイド。もへじ、こぼれやなど、絶対に行くべき名店5選とアクセス方法、行列を避けるための待ち時間攻略法を紹介します。"
 tags: ["月島", "もんじゃ焼き", "東京グルメ", "月島もんじゃストリート", "東京観光"]
-categories: ["Food & Dining"]
+categories: ["グルメ"]
 featured_image: "/images/posts/tsukishima-monjayaki-street-guide-01.jpg"
 ---
 

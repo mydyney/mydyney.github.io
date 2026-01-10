@@ -5,7 +5,7 @@ draft: false
 translationKey: "yokohama-minato-burari-ticket-guide"
 description: "横浜観光に最適な「みなとぶらりチケット」を徹底解説。料金、種類、利用可能な交通機関から、おすすめの1日観光コースや特製旅行地図まで、横浜旅行に必要な情報をすべてまとめました。"
 summary: "「みなとぶらりチケット」を使って横浜を賢く観光する方法をご紹介。チケットの種類や料金、主要な観光スポットを巡るバスルート、便利なGoogleマイマップ情報を掲載しています。"
-tags: ["横浜", "みなとぶらりチケット", "東京日帰り旅行", "日本旅行のヒント", "交通パス"]
+tags: ["横浜", "みなとぶらりチケット", "東京日帰り旅行", "日本旅行のコツ", "交通パス"]
 categories: ["旅行ガイド"]
 featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 ---

@@ -2,8 +2,8 @@
 title: "渋谷パルコ完全攻略 2025：ポケモンセンター、任天堂から人気ブランドまで"
 date: 2025-12-12T07:30:00+09:00
 draft: false
-categories: ["Shibuya & Omotesando"]
-tags: ["shibuya", "shibuya-parco", "tokyo-shopping", "nintendo-tokyo", "pokemon-center-shibuya", "human-made"]
+categories: ["渋谷・表参道"]
+tags: ["渋谷", "渋谷パルコ", "東京ショッピング", "ニンテンドートウキョウ", "ポケモンセンター渋谷", "Human Made"]
 translationKey: "shibuya-parco-shopping-guide"
 description: "渋谷パルコの最新ガイド：6階の任天堂・ポケモンセンターから1階のヒューマンメイド、地下1階カオスキッチンの極味やハンバーグまで徹底紹介。"
 summary: "渋谷で買い物迷ったらパルコへ！6階「CYBERSPACE SHIBUYA」（任天堂/ポケモン）から、Human Madeなどのトレンドブランド、地下のグルメゾーンまで完全網羅。"

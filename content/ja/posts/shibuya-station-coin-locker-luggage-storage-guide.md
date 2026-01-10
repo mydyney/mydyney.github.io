@@ -2,8 +2,8 @@
 title: "渋谷駅のコインロッカー＆荷物預かり所完全ガイド｜穴場・深夜対応・予約アプリ"
 date: 2025-12-13T08:00:00+09:00
 draft: false
-categories: ["Travel Tips", "Shibuya"]
-tags: ["Shibuya", "Luggage Storage", "Coin Locker", "Tokyo Travel"]
+categories: ["旅行のコツ", "渋谷"]
+tags: ["渋谷", "荷물預かり", "コインロッカー", "東京旅行"]
 translationKey: "shibuya-station-coin-locker-luggage-storage-guide"
 description: "渋谷駅でコインロッカー難民にならないために！穴場のマークシティ、無料になるshibuya-san、予約できるecbo cloakなど、荷物預かり情報を完全網羅。"
 summary: "「渋谷ダンジョン」で重い荷物を持ってさまよいたくない方必見！渋谷駅周辺のコインロッカーと荷物預かりサービスを徹底解説します。"

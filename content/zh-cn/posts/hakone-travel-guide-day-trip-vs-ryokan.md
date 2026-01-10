@@ -3,8 +3,7 @@ title: 箱根旅行攻略：一日游 vs 旅馆一晚两天，哪个更推荐？
 date: 2025-09-25
 lastmod: 2025-09-25
 draft: false
-categories:
-  - 日本旅行
+categories: ["日本旅行"]
 tags:
   - 箱根
   - 箱根周游券

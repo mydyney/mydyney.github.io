@@ -6,7 +6,7 @@ translationKey: "shibuya-ikushika-rice-refill-restaurant"
 description: "涩谷PARCO地下1层隐藏的真正米饭美食いくしか。现煮土锅米饭装在木饭桶里供应，无限续碗！日本家常料理完全攻略。"
 summary: "涩谷PARCO地下1层いくしか完全攻略。单人土锅煮的米饭装入木饭桶无限续碗供应. 美味日本家常料理的最佳搭配。"
 tags: ["涩谷", "日本料理", "米饭", "涩谷PARCO", "家常料理", "东京美食"]
-categories: ["涩谷・原宿", "餐厅评测"]
+categories: ["涩谷", "餐厅评测"]
 featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 ---
 

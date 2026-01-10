@@ -6,7 +6,7 @@ translationKey: "japan-convenience-store-oden-guide"
 description: "日本コンビニおでんの注文方法完全ガイド。大根、こんにゃく、餅巾着の注文フレーズ、セブンイレブン・ローソン・ファミリーマートメニュー比較と価格情報。"
 summary: "日本コンビニおでんの注文方法をマスター！日本語フレーズ、メニュー比較（セブン・ローソン・ファミマ）、2025年冬の旅行に必須の価格情報を完全ガイド。"
 tags: ["コンビニ", "おでん", "冬の食べ物", "和食", "セブンイレブン", "ローソン", "ファミリーマート"]
-categories: ["グルメガイド"]
+categories: ["グルメ"]
 featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 ---
 

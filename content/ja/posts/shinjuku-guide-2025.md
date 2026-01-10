@@ -2,7 +2,7 @@
 title: "新宿完全ガイド：御苑、ショッピング、グルメ、ゴールデン街から近郊旅行まで"
 date: 2025-10-09T01:18:00+09:00
 draft: false
-categories: ["Shinjuku & Harajuku"]
+categories: ["新宿"]
 tags: ["shinjuku", "shinjuku-gyoen", "golden-gai", "tokyo-shopping", "tokyo-food-guide", "kabukicho", "omoide-yokocho"]
 translationKey: "shinjuku-guide-2025"
 description: "新宿観光のすべて：新宿御苑からミシュラン・食べロググルメ、伊勢丹・ルミネなどのショッピング、歌舞伎町・ゴールデン街のナイトライフ、箱根などの近郊旅行まで完全網羅。"

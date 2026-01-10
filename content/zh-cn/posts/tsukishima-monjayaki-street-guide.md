@@ -6,7 +6,7 @@ translationKey: "tsukishima-monjayaki-street-guide"
 description: "东京月岛文字烧街完全攻略。包括Moheji、Koboreya等必吃的5大名店、交通方式以及如何避开排队等待的秘诀。"
 summary: "东京月岛文字烧街完全攻略。包括Moheji、Koboreya等必吃的5大名店、交通方式以及如何避开排队等待的秘诀。"
 tags: ["月岛", "文字烧", "东京美食", "月岛文字烧街", "东京旅游"]
-categories: ["Food & Dining"]
+categories: ["美食"]
 featured_image: "/images/posts/tsukishima-monjayaki-street-guide-01.jpg"
 ---
 

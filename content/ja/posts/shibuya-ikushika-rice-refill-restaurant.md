@@ -6,7 +6,7 @@ translationKey: "shibuya-ikushika-rice-refill-restaurant"
 description: "渋谷パルコ地下1階に隠れた本物の「ごはんグルメ」いくしか。炊きたて土鍋ご飯をおひつで提供、おかわり自由！日本家庭料理の完全ガイド。"
 summary: "渋谷パルコ地下1階「いくしか」完全ガイド。1人用土鍋で炊いたごはんをおひつに入れておかわり自由で提供。美味しい日本家庭料理とのベストマッチ。"
 tags: ["渋谷", "日本料理", "ごはん", "渋谷パルコ", "家庭料理", "東京グルメ"]
-categories: ["渋谷・原宿", "レストランレビュー"]
+categories: ["渋谷", "レストラン"]
 featured_image: "/images/posts/shibuya-ikushika-rice-refill-restaurant-01.jpg"
 ---
 

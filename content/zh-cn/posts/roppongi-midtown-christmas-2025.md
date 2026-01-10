@@ -6,7 +6,7 @@ translationKey: "roppongi-midtown-christmas-2025"
 description: "2025年六本木东京中城圣诞灯光秀、圣诞老人树、圣诞市集、溜冰场、餐厅和购物完整指南"
 summary: "2025年六本木东京中城圣诞灯光秀、圣诞老人树、圣诞市集、溜冰场、餐厅和购物完整指南"
 tags: ["六本木", "圣诞节", "中城", "灯光秀", "东京", "冬季", "溜冰场", "市集"]
-categories: ["Tokyo Attractions"]
+categories: ["东京观光"]
 featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 ---
 

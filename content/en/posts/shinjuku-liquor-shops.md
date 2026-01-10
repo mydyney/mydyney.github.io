@@ -6,7 +6,7 @@ translationKey: "shinjuku-liquor-shops-guide"
 description: "Complete guide to Shinjuku liquor shops in 2025! Find Yamazaki, Hibiki, and Kavalan whisky at Yamaya, Shinanoya, and Bic Camera with tax-free shopping and discount coupons."
 summary: "Complete guide to Shinjuku liquor shops in 2025! Find Yamazaki, Hibiki, and Kavalan whisky at Yamaya, Shinanoya, and Bic Camera with tax-free shopping and discount coupons."
 tags: ["shinjuku", "liquor-shop", "whisky", "yamazaki", "hibiki", "kavalan", "tax-free", "shopping"]
-categories: ["Shinjuku/Shin-Okubo"]
+categories: ["Shinjuku"]
 featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 ---
 

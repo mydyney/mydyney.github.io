@@ -6,7 +6,7 @@ summary: "Tokyo February weather breakdown: temperature data, why it feels colde
 slug: tokyo-february-weather-clothing-guide
 featured_image: /images/posts/tokyo-february-weather-clothing-guide-01.jpg
 tags: [tokyo-weather, february-travel, japan-winter, clothing-guide, lunar-new-year]
-categories: [travel-tips]
+categories: ["Travel Tips"]
 ---
 
 <div class="blog-container">

@@ -6,7 +6,7 @@ translationKey: "tokyo-christmas-markets-guide-2025"
 description: "2025年東京クリスマスマーケット完全ガイド。上野公園、六本木ヒルズ、横浜赤レンガ、麻布台ヒルズ、スカイツリー、神宮外苑、芝公園、恵比寿ガーデンプレイスの8ヶ所を徹底解説"
 summary: "2025年東京で楽しめる8つのクリスマスマーケット完全ガイド - 新登場の上野公園から、ロマンチックな横浜まで"
 tags: ["東京", "クリスマス", "クリスマスマーケット", "イルミネーション", "冬", "2025"]
-categories: ["イベント"]
+categories: ["イベント＆フェスティバル"]
 featured_image: "/images/posts/tokyo-christmas-markets-guide-2025-01.jpg"
 ---
 

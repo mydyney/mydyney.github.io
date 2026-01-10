@@ -2,7 +2,7 @@
 title: "新宿扭蛋店推荐BEST 7｜位置・稀有物品攻略（扭蛋森林・C-pla・歌舞伎町塔）"
 date: 2025-11-27T16:58:00+09:00
 draft: false
-categories: ["新宿/新大久保"]
+categories: ["新宿"]
 tags: ["新宿", "扭蛋", "东京购物", "动漫周边", "歌舞伎町", "东京攻略"]
 translationKey: "shinjuku-gashapon-guide-2025"
 description: "新宿扭蛋店推荐TOP 7完全攻略！扭蛋森林、C-pla、歌舞伎町塔namco等，位置、营业时间、稀有物品攻略、省钱技巧全解析。新手也能轻松玩转东京扭蛋圣地决定版。"

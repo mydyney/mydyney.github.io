@@ -2,7 +2,7 @@
 title: "Japan KALDI Shopping Guide 2025: Must-Buy Items, Coffee & Tax-Free Tips (Toast Spreads, Potion Coffee)"
 date: 2024-04-28T09:00:00+09:00
 draft: false
-categories: ["Shopping & Guides"]
+categories: ["Shopping"]
 tags: ["kaldi", "tokyo-shopping", "japan-shopping-list", "tax-free", "coffee", "toast-spreads", "japanese-food", "souvenirs", "travel-tips"]
 translationKey: "kaldi-coffee-farm-shopping-list"
 description: "Complete 2025 KALDI Coffee Farm shopping guide with must-buy items (toast spreads, potion coffee), tax-free tips, and insider shopping secrets for Japan travelers."

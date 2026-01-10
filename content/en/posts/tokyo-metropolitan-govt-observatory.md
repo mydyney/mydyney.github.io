@@ -6,7 +6,7 @@ translationKey: "tokyo-metropolitan-govt-observatory"
 description: "Complete guide to Tokyo Metropolitan Government Observatory's free observation deck - light show schedule, how to get there, closure days, and tips for enjoying Shinjuku's best night views"
 summary: "Experience breathtaking 360° views of Tokyo for free at the Tokyo Metropolitan Government Observatory. Discover the TOKYO Night & Light projection mapping show featuring Godzilla and Gundam, plus detailed access information and visiting tips."
 tags: ["tokyo", "shinjuku", "observatory", "free attraction", "night view", "projection mapping"]
-categories: ["Shinjuku/Shin-Okubo"]
+categories: ["Shinjuku"]
 featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 ---
 

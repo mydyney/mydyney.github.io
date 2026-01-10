@@ -2,7 +2,7 @@
 title: "惠比寿完全指南：从花园广场、啤酒纪念馆到隐秘美食店"
 date: 2025-10-05T21:38:00+09:00
 draft: false
-categories: ["东京旅行", "地区指南"]
+categories: ["东京观光", "区域指南"]
 tags: ["惠比寿", "东京", "惠比寿花园广场", "东京啤酒酿造所", "东京约会圣地", "Tabelog百名店"]
 image: "/images/posts/yebisu-complete-guide-01.jpg"
 featured_image: "/images/posts/yebisu-complete-guide-01.jpg"

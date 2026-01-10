@@ -2,7 +2,7 @@
 title: "涩谷必逛！PARCO完全攻略：宝可梦、任天堂、Human Made一网打尽"
 date: 2025-12-12T07:30:00+09:00
 draft: false
-categories: ["涩谷/表参道"]
+categories: ["涩谷・表参道"]
 tags: ["涩谷", "涩谷PARCO", "东京购物", "任天堂东京", "涩谷宝可梦中心", "Human Made"]
 translationKey: "shibuya-parco-shopping-guide"
 description: "涩谷PARCO保姆级攻略：6楼任天堂&宝可梦中心打卡、1楼Human Made潮牌、地下Kiwaithya汉堡排避雷指南。"

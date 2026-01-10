@@ -6,7 +6,7 @@ translationKey: "japan-convenience-store-shopping-best-10"
 description: "日本3大コンビニ完全比較ガイド！セブンイレブン、ファミリーマート、ローソンの必須アイテムBEST10を紹介。たまごサンド、ファミチキ、プレミアムデザート、限定商品まで完全網羅！"
 summary: "日本コンビニ（セブンイレブン、ファミリーマート、ローソン）の必須ショッピングリストBEST10。たまごサンド、ファミチキ、プレミアムデザート、燻製卵、季節限定商品を完全ガイド。"
 tags: ["日本ショッピング", "コンビニ", "セブンイレブン", "ファミリーマート", "ローソン", "ショッピングリスト", "日本旅行"]
-categories: ["ショッピング・ガイド"]
+categories: ["ショッピング"]
 featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 ---
 

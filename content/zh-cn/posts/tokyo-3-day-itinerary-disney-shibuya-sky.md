@@ -2,7 +2,7 @@
 title: 东京3天4夜行程｜含迪士尼·涩谷天空·预算完全攻略
 date: 2025-12-28T08:00:00+09:00
 draft: false
-categories: [旅行攻略]
+categories: ["旅行攻略"]
 tags: [东京旅行, 东京迪士尼, 涩谷天空, 3天4夜, 旅行预算, 东京观光]
 translationKey: tokyo-3-day-itinerary-disney-shibuya-sky
 description: 包含迪士尼、涩谷天空、筑地市场的东京3天4夜完美行程。首次东京旅行也不会失败的黄金路线，交通卡和预算信息全攻略。

@@ -6,7 +6,7 @@ translationKey: "japan-travel-discount-coupons-2025"
 description: "日本旅行割引クーポン2025完全ガイド。ドン・キホーテ、ビックカメラ、デパートで免税ショッピング+追加割引。Live JAPANとKlookのすべてのクーポンを一箇所に集めました。"
 summary: "2025年日本旅行割引クーポンガイド。免税10% + 追加5~7%割引。Live JAPANとKlookの完全コレクション。"
 tags: ["日本ショッピング", "割引クーポン", "免税", "ドン・キホーテ", "ビックカメラ", "日本旅行", "ドラッグストア", "デパート"]
-categories: ["Travel Info"]
+categories: ["旅行情報"]
 featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 ---
 

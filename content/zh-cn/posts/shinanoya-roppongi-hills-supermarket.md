@@ -2,7 +2,7 @@
 title: "六本木新城高级超市“信浓屋(SHINANOYA)”：明星常去的店铺 & 日本伴手礼推荐"
 date: 2024-11-18T11:51:00+09:00
 draft: false
-categories: ["Shopping"]
+categories: ["购物"]
 tags: ["六本木", "信浓屋", "超市", "伴手礼", "东京购物"]
 translationKey: "shinanoya-roppongi-hills-supermarket"
 description: "六本木新城的高级超市“信浓屋(SHINANOYA)”完全攻略。獭祭、日本葡萄酒、地区限定零食等，这里能找到特别的东京伴手礼。"

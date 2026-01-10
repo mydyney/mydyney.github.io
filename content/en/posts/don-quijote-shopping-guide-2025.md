@@ -2,7 +2,7 @@
 title: "Japan Don Quijote Shopping Guide 2025: Must-Buy Essentials, Discount Coupons & Tax-Free Tips (Rayu, Eye Drops)"
 date: 2025-09-26T04:08:00+09:00
 draft: false
-categories: ["Shopping & Guides"]
+categories: ["Shopping"]
 tags: ["don-quijote", "tokyo-shopping", "japan-shopping-list", "tax-free", "discount-coupons", "rayu", "eye-drops", "japanese-snacks", "japanese-beauty", "travel-tips"]
 translationKey: "don-quijote-shopping-guide-2025"
 description: "Complete 2025 Don Quijote shopping guide with discount coupons, must-buy essentials (rayu, eye drops), tax-free tips, and insider shopping secrets for Japan travelers."

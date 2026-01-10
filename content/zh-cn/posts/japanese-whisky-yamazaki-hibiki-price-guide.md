@@ -6,7 +6,7 @@ translationKey: "japanese-whisky-yamazaki-hibiki-price-guide"
 description: "日本威士忌官方价格（山崎、响、白州、Nikka）完整指南。新手推荐、礼品建议及日本购买地点介绍。"
 summary: "日本威士忌官方价格（山崎、响、白州、Nikka）完整指南。新手推荐、礼品建议及日本购买地点介绍。"
 tags: ["japanese-whisky", "yamazaki", "hibiki", "hakushu", "nikka", "japan-shopping", "duty-free", "ginza"]
-categories: ["Shopping"]
+categories: ["购物"]
 featured_image: "/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-01.jpg"
 ---
 

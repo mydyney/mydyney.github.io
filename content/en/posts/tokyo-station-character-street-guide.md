@@ -2,7 +2,7 @@
 title: "Tokyo Station Character Street: Access Guide, Hours & Tax-Free Complete Guide (Chiikawa/Pokemon/Dragon Ball)"
 date: 2025-12-16T00:00:00+09:00
 draft: false
-categories: ["Tokyo Station/Marunouchi"]
+categories: ["Tokyo Station"]
 tags: ["tokyo-station", "character-street", "chiikawa", "pokemon", "dragon-ball", "shopping", "tax-free"]
 author: "Tokyo Mate"
 description: "Complete guide to Tokyo Station Character Street including detailed directions from Yaesu Underground Central Exit, Chiikawa Land December reservation info, newly opened Dragon Ball Store, and Pokemon Store relocation details."

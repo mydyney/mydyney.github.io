@@ -6,7 +6,7 @@ translationKey: "shinjuku-station-breakfast-best-8"
 description: "新宿駅で朝7〜8時オープンの朝食レストラン完全ガイド。コインロッカー近くで和朝食・ブランチ・おにぎりが楽しめる、東京旅行スタート前のベストスポット8選。"
 summary: "新宿駅で朝7〜8時オープン、コインロッカー近くの朝食スポット8選。本格和定食からトレンディなブランチカフェまで、出口別動線で賢く選べます。"
 tags: ["新宿", "朝食", "東京グルメ", "コインロッカー", "モーニング", "和朝食", "ブランチ東京", "旅行情報"]
-categories: ["東京グルメ", "新宿/新大久保"]
+categories: ["東京グルメ", "新宿"]
 featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 ---
 

@@ -6,7 +6,7 @@ summary: 东京2月气温数据、为何感觉更冷、穿衣建议及春节出�
 slug: tokyo-february-weather-clothing-guide
 featured_image: /images/posts/tokyo-february-weather-clothing-guide-01.jpg
 tags: [东京天气, 2月旅行, 日本冬季, 穿搭指南, 春节]
-categories: [旅行攻略]
+categories: ["旅行攻略"]
 ---
 
 <div class="blog-container">

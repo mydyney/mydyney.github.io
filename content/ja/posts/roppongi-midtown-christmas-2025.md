@@ -6,7 +6,7 @@ translationKey: "roppongi-midtown-christmas-2025"
 description: "2025年六本木東京ミッドタウンのクリスマスイルミネーション、サンタツリー、クリスマスマルシェ、アイススケートリンク、レストラン、ショッピング情報をご紹介"
 summary: "2025年六本木東京ミッドタウンのクリスマスイルミネーション、サンタツリー、クリスマスマルシェ、アイススケートリンク、レストラン、ショッピング情報をご紹介"
 tags: ["六本木", "クリスマス", "ミッドタウン", "イルミネーション", "東京", "冬", "アイススケート", "マーケット"]
-categories: ["Tokyo Attractions"]
+categories: ["東京観光"]
 featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 ---
 

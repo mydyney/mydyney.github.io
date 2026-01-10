@@ -6,7 +6,7 @@ translationKey: "nakameguro-shabushabu-lettuce-main-store"
 description: "中目黒のしゃぶしゃぶ天国：レタスしゃぶしゃぶ本店で1人1鍋システム、8種類のスープ、無制限タレバー、お得な平日ランチセットを完全ガイド！"
 summary: "中目黒「レタスしゃぶしゃぶ本店」完全ガイド。1人1鍋システム、8種類のスープ、無制限タレバー、平日ランチセット1,200円からの情報をご紹介。"
 tags: ["中目黒", "しゃぶしゃぶ", "鍋料理", "ランチ", "東京グルメ", "代官山"]
-categories: ["目黒・恵比寿", "レストランレビュー"]
+categories: ["目黒・恵比寿", "レストラン"]
 featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 ---
 

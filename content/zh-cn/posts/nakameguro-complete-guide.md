@@ -2,7 +2,7 @@
 title: "中目黑完全指南：必去店铺、咖啡厅及散步路线"
 date: 2025-10-05
 slug: "nakameguro-complete-guide"
-categories: ["Area Guide", "Shopping", "Cafe"]
+categories: ["区域指南", "购物", "咖啡厅"]
 description: "中目黑完全指南：从目黑川散步路、星巴克臻选店到精选买手店和人气美食全攻略。"
 summary: "探索东京最时尚街区中目黑：散步路线、买手店、咖啡厅及赏樱贴士。"
 featured_image: "/images/posts/nakameguro-complete-guide-01.jpg"

@@ -6,7 +6,7 @@ summary: 東京2月の気温データ、寒く感じる理由、服装アドバ�
 slug: tokyo-february-weather-clothing-guide
 featured_image: /images/posts/tokyo-february-weather-clothing-guide-01.jpg
 tags: [東京天気, 2月旅行, 日本冬, 服装ガイド, 旧正月]
-categories: [旅行ガイド]
+categories: ["旅行ガイド"]
 ---
 
 <div class="blog-container">

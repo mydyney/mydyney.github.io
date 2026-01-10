@@ -2,7 +2,7 @@
 title: "六本木ヒルズ高級スーパー「信濃屋(SHINANOYA)」芸能人も通うお店＆日本土産"
 date: 2024-11-18T11:51:00+09:00
 draft: false
-categories: ["Shopping"]
+categories: ["ショッピング"]
 tags: ["六本木", "信濃屋", "スーパー", "お土産", "東京ショッピング"]
 translationKey: "shinanoya-roppongi-hills-supermarket"
 description: "六本木ヒルズにある高級スーパー「信濃屋(SHINANOYA)」の完全ガイド。獺祭、日本ワイン、地域限定お菓子など、特別なお土産が見つかります。"

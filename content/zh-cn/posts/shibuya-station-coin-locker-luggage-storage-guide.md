@@ -2,7 +2,7 @@
 title: "涩谷站行李寄存全攻略｜投币储物柜、Mark City、Shibuya-san、ecbo cloak预约"
 date: 2025-12-13T08:00:00+09:00
 draft: false
-categories: ["Travel Tips", "Shibuya"]
+categories: ["旅行贴士", "涩谷"]
 tags: ["Shibuya", "Luggage Storage", "Coin Locker", "Tokyo Travel"]
 translationKey: "shibuya-station-coin-locker-luggage-storage-guide"
 description: "再也不怕在涩谷拖着行李箱迷路！涩谷站投币储物柜位置、Mark City秘籍、JCB卡免费寄存Shibuya-san、ecbo cloak预约攻略全都有。"

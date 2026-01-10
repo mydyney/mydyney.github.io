@@ -2,7 +2,7 @@
 title: "Tokyo Roppongi Hills Hello Kitty Popup Guide (Duration, Free Perfume, Merchandise, Reservation Tips)"
 date: 2025-10-29T15:50:00+09:00
 draft: false
-categories: ["Roppongi/Hiroo"]
+categories: ["Roppongi"]
 tags: ["roppongi", "hello-kitty", "popup-store", "sanrio", "roppongi-hills", "tokyo-events", "free-gift", "christmas"]
 translationKey: "roppongi-hello-kitty-popup-2025"
 description: "Complete guide to Hello Kitty's Picnic Garden popup at Roppongi Hills! Get free perfume mini bottles, limited merchandise, and learn reservation tips. Perfect Tokyo hotspot for 2025!"

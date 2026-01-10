@@ -6,7 +6,7 @@ translationKey: "shinjuku-kids-parks-guide"
 description: "Complete guide to 5 major kids parks accessible from Shinjuku: Disney Land, Sanrio Puroland, Fuji-Q Thomas Land, Yomiuriland, and Tokyo Dome City - with transportation, schedules, and family travel tips"
 summary: "Discover 5 amazing kids parks easily accessible from Shinjuku station - from Disney Land to indoor play spaces, with complete transportation guides and schedules for family travel"
 tags: ["shinjuku", "kids", "family travel", "theme parks", "tokyo attractions", "disney", "sanrio", "thomas land"]
-categories: ["Shinjuku/Shin-Okubo"]
+categories: ["Shinjuku"]
 featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 ---
 

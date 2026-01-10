@@ -6,7 +6,7 @@ summary: "Step-by-step guide to booking Hakone Romance Car observatory seats, fr
 slug: hakone-romance-car-booking-guide
 featured_image: /images/posts/hakone-romance-car-booking-guide-01.jpg
 tags: [hakone, romance-car, train-booking, observatory-seat, japan-travel]
-categories: [travel-tips]
+categories: ["Travel Tips"]
 ---
 
 <div class="blog-container">

@@ -2,7 +2,7 @@
 title: "Tokyo Station Tokyo Banana Crème Brûlée: Where to Buy, Price & Tax-Free Guide | Shelf Life & Storage Tips"
 date: 2025-12-17T00:00:00+09:00
 draft: false
-categories: ["Tokyo Station/Marunouchi"]
+categories: ["Tokyo Station"]
 tags: ["tokyo-station", "tokyo-banana", "souvenirs", "sweets", "tax-free-shopping"]
 author: "Tokyo Mate"
 description: "Complete guide to Tokyo Banana Crème Brûlée Tart at Tokyo Station. Find out where to buy, prices, 20-day shelf life, tax-free shopping info, and storage tips for this exclusive Tokyo Station souvenir."

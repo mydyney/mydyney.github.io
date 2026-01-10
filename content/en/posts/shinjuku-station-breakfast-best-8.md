@@ -6,7 +6,7 @@ translationKey: "shinjuku-station-breakfast-best-8"
 description: "Complete guide to Shinjuku Station breakfast restaurants opening 7-8 AM. Best spots near coin lockers for Japanese breakfast, brunch, and onigiri before starting your Tokyo trip."
 summary: "8 best breakfast spots at Shinjuku Station opening 7-8 AM, strategically located near coin lockers. From traditional Japanese breakfast sets to trendy brunch cafes."
 tags: ["shinjuku", "breakfast", "tokyo-food", "coin-lockers", "morning-restaurants", "japanese-breakfast", "brunch-tokyo", "travel-tips"]
-categories: ["Tokyo Food", "Shinjuku/Shin-Okubo"]
+categories: ["Tokyo Food", "Shinjuku"]
 featured_image: "/images/posts/shinjuku-station-breakfast-best-8-01.jpg"
 ---
 

@@ -6,7 +6,7 @@ summary: "箱根ロマンスカーの展望席予約から、オンライン・�
 slug: hakone-romance-car-booking-guide
 featured_image: /images/posts/hakone-romance-car-booking-guide-01.jpg
 tags: [箱根, ロマンスカー, 予約方法, 展望席, 日本旅行]
-categories: [旅行のヒント]
+categories: ["旅行のコツ"]
 ---
 
 <div class="blog-container">

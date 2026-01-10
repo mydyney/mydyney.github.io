@@ -2,7 +2,7 @@
 title: "新宿完全指南：御苑、购物、美食、黄金街到近郊旅行"
 date: 2025-10-09T01:18:00+09:00
 draft: false
-categories: ["新宿/原宿"]
+categories: ["新宿"]
 tags: ["新宿", "新宿御苑", "黄金街", "东京购物", "东京美食指南", "歌舞伎町", "回忆横丁"]
 translationKey: "shinjuku-guide-2025"
 description: "新宿观光的一切：从新宿御苑到米其林·Tabelog美食、伊势丹·Lumine等购物、歌舞伎町·黄金街夜生活、箱根等近郊旅行完全覆盖。"

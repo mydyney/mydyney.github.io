@@ -2,7 +2,7 @@
 title: "恵比寿完全ガイド：ガーデンプレイス、ビール記念館、大人の居心地の良いレストランまで"
 date: 2025-10-05T21:38:00+09:00
 draft: false
-categories: ["東京旅行", "エリアガイド"]
+categories: ["東京観光", "エリアガイド"]
 tags: ["恵比寿", "東京", "恵比寿ガーデンプレイス", "東京ブルワリー", "東京デートスポット", "食べログ百名店"]
 image: "/images/posts/yebisu-complete-guide-01.jpg"
 featured_image: "/images/posts/yebisu-complete-guide-01.jpg"

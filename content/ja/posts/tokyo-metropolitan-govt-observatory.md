@@ -6,7 +6,7 @@ translationKey: "tokyo-metropolitan-govt-observatory"
 description: "東京都庁展望室の完全ガイド - ライトショースケジュール、行き方、休館日、新宿最高の夜景を楽しむコツを紹介"
 summary: "東京都庁展望室で無料の絶景360度パノラマビューを体験。ゴジラ、ガンダムが登場するTOKYO Night & Lightプロジェクションマッピングショー、アクセス情報、見学のコツを詳しく解説します。"
 tags: ["東京", "新宿", "展望台", "無料スポット", "夜景", "プロジェクションマッピング"]
-categories: ["新宿/新大久保"]
+categories: ["新宿"]
 featured_image: "/images/posts/tokyo-metropolitan-govt-observatory-01.jpg"
 ---
 

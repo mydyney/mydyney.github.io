@@ -6,7 +6,7 @@ translationKey: "japan-convenience-store-shopping-best-10"
 description: "Complete guide to Japan's top 3 convenience stores: 7-Eleven, FamilyMart, and Lawson. Discover the BEST 10 must-buy items including egg sandwich, Famichiki, premium desserts, and limited edition products!"
 summary: "Japan convenience store shopping guide comparing 7-Eleven, FamilyMart, and Lawson. BEST 10 must-buy items including tamago sando, Famichiki, premium desserts, smoked eggs, and seasonal limited products."
 tags: ["japan shopping", "convenience store", "7-eleven", "familymart", "lawson", "shopping list", "japan travel"]
-categories: ["Shopping & Guides"]
+categories: ["Shopping"]
 featured_image: "/images/posts/japan-convenience-store-shopping-best-10-01.jpg"
 ---
 

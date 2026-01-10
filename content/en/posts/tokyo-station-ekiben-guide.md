@@ -3,7 +3,7 @@ title: "Tokyo Station Ekiben Guide: Best 5 Bento Boxes | Ekibenya Matsuri Locati
 date: 2025-12-18T00:00:00+09:00
 lastmod: 2025-12-28T00:00:00+09:00
 draft: false
-categories: ["Tokyo Station/Marunouchi"]
+categories: ["Tokyo Station"]
 tags: ["tokyo-station", "ekiben", "bento", "food", "train-travel", "ekibenya-matsuri", "gransta", "shinkansen"]
 author: "TokyoMate"
 description: "Complete guide to Tokyo Station ekiben (train bento boxes). Discover the best 5 ekiben at Ekibenya Matsuri, locations both inside and outside ticket gates, prices, heating tips, and everything you need to know for the perfect train journey meal."

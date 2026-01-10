@@ -6,7 +6,7 @@ translationKey: "omotesando-guide-2025"
 description: "2025年表参道完全ガイド：スタイル別ショッピング（ミニマル・フレンチシック・ストリート）、建築散策、おすすめカフェ＆レストラン。完璧な表参道コースをご紹介。"
 summary: "表参道のすべて：世界クラスのショッピング、建築の傑作、そして東京最高のカフェまで。"
 tags: ["表参道", "東京ショッピング", "東京建築", "東京カフェ", "青山", "原宿", "2025"]
-categories: ["トラベルガイド"]
+categories: ["表参道"]
 featured_image: "/images/posts/omotesando-guide-2025-01.jpg"
 ---
 

@@ -6,7 +6,7 @@ summary: "手把手教你如何预订箱根浪漫特快展望席，涵盖在线�
 slug: hakone-romance-car-booking-guide
 featured_image: /images/posts/hakone-romance-car-booking-guide-01.jpg
 tags: [箱根, 浪漫特快, 预订方法, 展望席, 日本旅行]
-categories: [旅行指南]
+categories: ["旅行指南"]
 ---
 
 <div class="blog-container">

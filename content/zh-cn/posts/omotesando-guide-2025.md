@@ -6,7 +6,7 @@ translationKey: "omotesando-guide-2025"
 description: "2025年表参道完全攻略：按风格购物（极简・法式・街头）、建筑巡礼、推荐咖啡&餐厅。完美表参道路线全面介绍。"
 summary: "表参道全攻略：世界级购物、建筑杰作、东京顶级咖啡全收录。"
 tags: ["表参道", "东京购物", "东京建筑", "东京咖啡", "青山", "原宿", "2025"]
-categories: ["旅行攻略"]
+categories: ["表参道"]
 featured_image: "/images/posts/omotesando-guide-2025-01.jpg"
 ---
 

@@ -202,7 +202,7 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 
 <p>🍂 10月の紅葉、ラーメンフェスタ、ハロウィンイベント情報が気になりますか？近日公開の「10月東京お祭り総まとめ」をお楽しみに！</p>
 
-<h3>合わせて読みたい東京旅行のヒント</h3>
+<h3>合わせて読みたい東京旅行のコツ</h3>
 
 <p><a href="/ja/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>→【詳しく見る】六本木の遊び場完全ガイド（展望台、美術館、ショッピング、グルメ A to Z）</strong></a></p>
 

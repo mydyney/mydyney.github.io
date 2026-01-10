@@ -6,7 +6,7 @@ translationKey: "shimbashi-shiodome-evening-course"
 description: "新橋の煙立ち込める居酒屋横丁から汐留の絶景夜景まで。本物の東京の夜を体験できる完全ガイド。食べログ百名店を中心にご紹介。"
 summary: "サラリーマンの聖地・新橋の活気ある居酒屋横丁と、未来都市・汐留の夜景を満喫。食べログ百名店の名店と無料展望台を巡る完璧な夕方コース。"
 tags: ["新橋", "汐留", "居酒屋", "焼き鳥", "夜景", "東京グルメ", "食べログ百名店", "カレッタ汐留", "宮崎駿"]
-categories: ["新橋/汐留"]
+categories: ["新橋"]
 featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 ---
 

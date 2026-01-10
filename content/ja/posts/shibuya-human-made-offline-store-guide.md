@@ -2,7 +2,7 @@
 title: "渋谷HUMAN MADE(ヒューマンメイド)店舗完全ガイド (Part 1 & 2の場所・並び方)"
 date: 2025-12-11T10:41:00+09:00
 draft: false
-categories: ["Shopping"]
+categories: ["ショッピング"]
 tags: ["渋谷", "Human Made", "東京ショッピング", "ストリートファッション"]
 translationKey: "shibuya-human-made-offline-store-guide"
 description: "渋谷パルコのHUMAN MADE店舗がリニューアル！Part 1（ウェア）とPart 2（小物）の場所の違い、整理券・並び方、行き方を徹底解説します。"

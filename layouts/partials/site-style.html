@@ -1,0 +1,11 @@
+{{ with partial "func/style/GetMainCSS.html" . }}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ end }}
+
+{{ range site.Params.custom_css }}
+{{ with partial "func/style/GetResource.html" . }}
+<link rel="stylesheet" href="{{ .RelPermalink }}">
+{{ else }}
+<link rel="stylesheet" href="{{ . | relURL }}">
+{{ end }}
+{{ end }}

@@ -4,7 +4,7 @@ date: 2025-09-29T13:53:00+09:00
 draft: false
 author: "TokyoMate"
 description: "東京メトロパスとJR都区内パスの完全比較ガイド。料金、路線、購入方法を詳しく解説し、あなたの東京旅行に最適なパスを見つけましょう。"
-categories: ["東京旅行のヒント"]
+categories: ["東京旅行のコツ"]
 tags: ["東京メトロパス", "JR都区内パス", "東京交通", "乗車券", "東京メトロ", "JR山手線", "東京旅行ガイド"]
 featured_image: "/images/posts/tokyo-subway-pass-vs-jr-tokunai-pass-01.jpg"
 translationKey: "tokyo-subway-pass-vs-jr-tokunai-pass"

@@ -6,7 +6,7 @@ translationKey: "mitsui-outlet-kisarazu-guide"
 description: "Complete guide to Mitsui Outlet Park Kisarazu 2025 - Tokyo's most accessible outlet with 308+ brands. Includes direct bus access from Shinjuku/Tokyo Station, discount coupons, brand list comparison with Gotemba Outlet, and restaurant recommendations."
 summary: "Tokyo's closest premium outlet mall! Complete guide to Mitsui Outlet Park Kisarazu with 308+ stores including CELINE, designer brands, and Japanese favorites. Direct bus from Shinjuku (62 min), Haneda Airport (40 min). Discount coupons, brand guide & dining tips included."
 tags: ["tokyo-outlet", "mitsui-outlet-park", "kisarazu", "tokyo-shopping", "outlet-shopping", "discount-coupons", "gotemba-comparison", "shopping-guide", "luxury-brands", "haneda-airport"]
-categories: ["Shopping & Guides", "Tokyo Shopping"]
+categories: ["Shopping", "Tokyo Shopping"]
 featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 ---
 

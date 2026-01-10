@@ -6,7 +6,7 @@ translationKey: "shinjuku-liquor-shops-guide"
 description: "2025年新宿酒屋完全ガイド！やまや、信濃屋、ビックカメラで山崎・響・カバランを免税ショッピング＋割引クーポンで賢く購入。"
 summary: "2025年新宿酒屋完全ガイド！やまや、信濃屋、ビックカメラで山崎・響・カバランを免税ショッピング＋割引クーポンで賢く購入。"
 tags: ["新宿", "酒屋", "ウイスキー", "山崎", "響", "カバラン", "免税", "ショッピング"]
-categories: ["新宿/新大久保"]
+categories: ["新宿"]
 featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 ---
 

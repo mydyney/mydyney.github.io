@@ -5,9 +5,7 @@ lastmod: 2025-10-05T15:25:00+09:00
 slug: daikanyama-complete-guide
 image: "/images/posts/daikanyama-complete-guide-01.jpg"
 featured_image: "/images/posts/daikanyama-complete-guide-01.jpg"
-categories:
-    - 東京旅行ガイド
-    - 代官山
+categories: ["東京旅行ガイド", "代官山"]
 tags:
     - 代官山
     - 蔦屋書店

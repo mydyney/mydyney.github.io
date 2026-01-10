@@ -6,7 +6,7 @@ translationKey: "roppongi-hills-christmas-market-2025"
 description: "2025年六本木ヒルズクリスマスマーケットの期間・時間・場所からオリジナルマグカップ・グリューワイン・ドイツフードメニューまで完全ガイド。ドイツ伝統オーナメント、ソーセージ、グーラッシュなど10ブース情報とおすすめコース。"
 summary: "2025年六本木ヒルズクリスマスマーケットの期間・時間・場所・オリジナルマグカップ・10ブース情報を完全網羅。東京の冬旅行におすすめ。"
 tags: ["六本木ヒルズ", "クリスマスマーケット", "東京クリスマス", "グリューワイン", "東京冬"]
-categories: ["イベント・フェスティバル"]
+categories: ["イベント＆フェスティバル"]
 featured_image: "/images/posts/roppongi-hills-christmas-market-2025-01.jpg"
 ---
 

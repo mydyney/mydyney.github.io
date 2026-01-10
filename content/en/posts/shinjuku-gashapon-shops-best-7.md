@@ -2,7 +2,7 @@
 title: "Shinjuku Gashapon Shops Guide: Best 7 Locations, Rare Items & Tips (Gachapon Forest, C-pla, Kabukicho Tower)"
 date: 2025-11-27T16:58:00+09:00
 draft: false
-categories: ["Shinjuku/Shin-Okubo"]
+categories: ["Shinjuku"]
 tags: ["shinjuku", "gashapon", "gacha", "tokyo-shopping", "anime-merchandise", "kabukicho", "tokyo-guide"]
 translationKey: "shinjuku-gashapon-guide-2025"
 description: "Complete guide to Shinjuku's top 7 gashapon shops including Gachapon Forest, C-pla, Kabukicho Tower Namco, and more. Locations, hours, rare items, and insider tips for the ultimate Tokyo capsule toy experience."

@@ -6,7 +6,7 @@ translationKey: "yokohama-chinatown-keitokuchin-mapo-tofu"
 description: "横浜中華街の食べログ百名店、70年の伝統を誇る四川料理の名店「景徳鎮」。本格麻婆豆腐と辛さ選択のコツを完全ガイド！"
 summary: "横浜中華街の食べログ百名店「景徳鎮（けいとくちん）」完全ガイド。本場の麻婆豆腐、辛さ選択のコツ、ランチセット、点心メニュー、アクセス情報をご紹介。"
 tags: ["横浜", "中華街", "四川料理", "麻婆豆腐", "食べログ百名店", "日本グルメ", "横浜グルメ"]
-categories: ["横浜・鎌倉", "レストランレビュー"]
+categories: ["横浜・鎌倉", "レストラン"]
 featured_image: "/images/posts/yokohama-chinatown-keitokuchin-mapo-tofu-01.jpg"
 ---
 

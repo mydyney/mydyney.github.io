@@ -6,7 +6,7 @@ translationKey: "shimbashi-shiodome-evening-course"
 description: "从新橋烟雾缭绕的居酒屋横丁到汐留绝美夜景，体验真正的东京之夜完全指南。以Tabelog百名店为中心推荐美食。"
 summary: "上班族圣地新橋的热闹居酒屋横丁与未来都市汐留的夜景完美结合。巡游Tabelog百名店名店和免费展望台的完美傍晚路线。"
 tags: ["新桥", "汐留", "居酒屋", "烤鸡串", "夜景", "东京美食", "Tabelog百名店", "汐留Caretta", "宫崎骏"]
-categories: ["新桥/汐留"]
+categories: ["新桥"]
 featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 ---
 

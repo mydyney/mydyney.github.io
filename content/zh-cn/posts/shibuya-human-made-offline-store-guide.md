@@ -2,7 +2,7 @@
 title: "涩谷Human Made线下门店完全攻略 (Part 1 & 2 位置/排队)"
 date: 2025-12-11T10:41:00+09:00
 draft: false
-categories: ["Shopping"]
+categories: ["购物"]
 tags: ["涩谷", "Human Made", "东京购物", "潮牌"]
 translationKey: "shibuya-human-made-offline-store-guide"
 description: "涩谷Parco的Human Made门店全新升级！Part 1（服饰）和Part 2（饰品）位置大揭秘，还有排队取号攻略，让你轻松打卡不迷路。"
