@@ -248,7 +248,13 @@ For complete category mapping reference, see existing blog posts or use the conv
 - `Tokyo Travel Guide` → `東京旅行ガイド`
 - `Food & Dining` → `グルメ`
 - `Shopping` → `ショッピング`
-- `Events` → `イベント`
+- `Events & Festivals` → `イベント＆フェスティバル`
+
+**⚠️ Standardized Japanese Categories (Strict):**
+To avoid duplication, use these exact terms for Japanese posts:
+- **`イベント＆フェスティバル`** (Unified from `イベント`, `イベント・フェスティバル`)
+- **`グルメ`** (Unified from `グルメガイド`)
+- **`レストラン`** (Unified from `レストランレビュー`, `東京レストラン`)
 
 **Category Best Practices:**
 
@@ -798,6 +804,11 @@ Complete information at a glance.</p>
 
 **CSS Files:**
 - `/static/css/blog-cards.css` - Blog card styles (list pages)
+- `/static/css/blog-post-common.css` - Common blog post content styles
+- `/static/css/related-posts.css` - Related posts sidebar styles
+
+**⚠️ CSS Loading Best Practice:**
+To ensure robust CSS loading across all page depths (especially taxonomy pages), use root-relative paths in `layouts/partials/site-style.html`. Always prefer direct `partial` calls over `partials.IncludeCached` if context issues arise.
 - `/static/css/blog-post-common.css` - Blog post content styles
 - `/static/css/related-posts.css` - Related posts sidebar styles
 - All three are loaded globally via `head-additions.html`

@@ -115,6 +115,7 @@ layouts/
 - 🎨 Both `layouts/_default/` and `layouts/post/` are used for different purposes
 - ✅ Keep both directories - they serve different layout contexts
 - 📂 Hugo uses template lookup order to find the right layout
+- ⚠️ **UI Structural Integrity:** Do NOT add redundant `<h1>` titles or post counts in `taxonomy.html` or `list.html` if the theme's header (`site-header.html`) already provides them. This prevents double-title display issues.
 - ⚠️ Do NOT delete files thinking they are duplicates - verify usage first
 - 🔍 Custom layouts automatically override theme defaults
 
@@ -515,7 +516,7 @@ The AdSense script is loaded in the `<head>` section of every page via `head-add
 | Image files | `{slug}-{number}.{ext}` | `tokyo-guide-01.jpg` |
 | Git branches | `claude/{name}-{id}` | `claude/add-feature-abc123` |
 | Categories (EN) | Title Case | `["Travel Guide", "Food & Dining"]` |
-| Categories (JA) | Natural Japanese | `["旅行ガイド", "グルメ"]` |
+| Categories (JA) | Natural Japanese | `["旅行ガイド", "グルメ", "イベント＆フェスティバル"]` |
 | Categories (ZH-CN) | Natural Chinese | `["旅游指南", "美食"]` |
 | Tags (EN) | kebab-case | `["tokyo-restaurants", "travel-tips"]` |
 | Tags (JA) | Natural Japanese | `["東京レストラン", "旅行情報"]` |

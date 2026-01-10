@@ -285,6 +285,21 @@ Before providing preview links to user, verify the following counts match betwee
 ✅ Link Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
 ```
 
+### Step 6.6: Maintenance & Cleanup (MANDATORY after Category/Tag Changes)
+
+Whenever you rename or merge categories/tags in the content files, you MUST perform a clean build to remove "ghost" entries from the UI.
+
+1. **Perform Clean Build:**
+   ```bash
+   hugo --cleanDestinationDir
+   ```
+
+2. **Verify Taxonomy Pages:**
+   Ensure the old category names no longer appear in the footer or category list pages.
+
+3. **Verify CSS Integrity:**
+   If UI breakage occurs on taxonomy pages, verify that `layouts/partials/site-style.html` is using root-relative paths for CSS assets.
+
 **If counts don't match:**
 - Review original HTML to find missing images/captions/links
 - Update all three language versions before providing preview links
