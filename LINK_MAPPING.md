@@ -2,7 +2,7 @@
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
 > **Last Updated:** 2026-01-10
-> **Status:** ✅ Complete - 116 posts mapped
+> **Status:** ⏳ In Progress - 116 posts mapped (1 pending)
 
 ---
 
@@ -20,6 +20,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224038866606 | hakone-open-air-museum-guide-discount-tips | 2025-10-12 | ✅ |
 | 224138433650 | tokyo-february-weather-clothing-guide | 2026-01-08 | ✅ |
 | 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
