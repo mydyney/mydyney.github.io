@@ -1,6 +1,6 @@
 # MIGRATION_GUIDE.md - Naver Blog to Hugo Migration Guide
 
-> **Last Updated:** 2025-12-31
+> **Last Updated:** 2026-01-11
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Purpose:** Step-by-step guide for migrating Naver blog posts to Hugo
 
@@ -93,7 +93,15 @@ Before creating any blog posts, you MUST review these documents in order:
 
 To ensure quality and allow for early feedback, follow this incremental approach:
 
-**Step 3.1: Analysis Phase**
+**Step 3.1: Verify naver.md and Analysis Phase**
+
+**✅ FIRST: Read and verify naver.md contains new blog content**
+```bash
+# Verify naver.md exists and has content
+cat naver.md | head -20
+```
+
+**Then proceed with analysis:**
 - Extract publish date from Naver HTML
 - **Determine Hugo slug for this post:**
   - Create SEO-friendly kebab-case slug
@@ -104,9 +112,9 @@ To ensure quality and allow for early feedback, follow this incremental approach
     - Look for the Naver ID in the `Quick Reference Table`.
     - **If NOT found:** Add a new row with Status `pending` and Date `-`.
     - This reserves the slug for consistency across future posts.
-- Count images and verify order
+- Count images and verify order in naver.md
 - Load LINK_MAPPING.md for internal link conversion
-- Identify all Naver links in content
+- Identify all Naver blog links in content
 
 
 **Step 3.2: Create English Version FIRST**
@@ -150,9 +158,9 @@ To ensure quality and allow for early feedback, follow this incremental approach
       <a href="#" style="color: #667eea;">Related Article</a>
       ```
 - **⚠️ MANDATORY: Add Editor's Note section at the end** (CRITICAL: Use exact format below)
-  
+
   **EXACT FORMAT TO USE (DO NOT MODIFY):**
-  
+
   ```html
   <!-- English Version -->
   <div class="editors-note">
@@ -161,7 +169,7 @@ To ensure quality and allow for early feedback, follow this incremental approach
       This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
     </p>
   </div>
-  
+
   <!-- Japanese Version -->
   <div class="editors-note">
     <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
@@ -169,7 +177,7 @@ To ensure quality and allow for early feedback, follow this incremental approach
       本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
     </p>
   </div>
-  
+
   <!-- Chinese Version -->
   <div class="editors-note">
     <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
@@ -178,7 +186,7 @@ To ensure quality and allow for early feedback, follow this incremental approach
     </p>
   </div>
   ```
-  
+
   **CRITICAL RULES:**
   - ❌ DO NOT use `## Editor's Note` heading format
   - ❌ DO NOT simplify the HTML structure
@@ -187,52 +195,94 @@ To ensure quality and allow for early feedback, follow this incremental approach
   - ✅ Replace `[NAVER_POST_ID]` with actual ID from LINK_MAPPING.md
   - ✅ Place before closing `</div>` tag at end of post
 
-**Step 3.3: Hugo Local Preview & User Approval**
-- Provide local preview link for the English version:
-  - `http://localhost:1313/posts/[slug]/`
-- **STOP and request user review**
-- Wait for user "OK" before proceeding to Japanese/Chinese versions.
+**Step 3.3: Download Images**
 
-**Step 3.4: Create Japanese & Chinese Versions (After EN Approval)**
-- Create `content/ja/posts/[slug].md`
-- Create `content/zh-cn/posts/[slug].md`
-- Apply same guidelines with language-specific adaptations
+**⚠️ IMPORTANT: Download images immediately after creating English version**
 
-**Step 3.5: Finalize LINK_MAPPING.md**
-- Update the entry in `Quick Reference Table`:
-  - Change Status from `pending` to `✅`.
-  - Update Date from `-` to the actual migration date.
-- Remove the ID from `## Pending Link References` section if it was listed there.
-- Note: Placeholder links in existing posts will be updated in future migrations.
-
-**Analysis:**
-
-- **Extract publish date from Naver HTML:**
-  ```bash
-  # Find the publish date in the HTML
-  grep -o 'se_publishDate[^>]*>[^<]*' naver.md
-  # Format: "YYYY. MM. DD. HH:MM" (e.g., "2025. 12. 10. 11:49")
-  # Convert to Hugo format: YYYY-MM-DDT00:00:00+09:00
-  ```
-  - **Location in HTML:** `<span class="se_publishDate pcol2">YYYY. MM. DD. HH:MM</span>`
-  - **Use this date** for the `date:` field in frontmatter for all three language versions
-  - **Critical:** Using correct publish date ensures posts appear in proper chronological order on homepage
-
-- Count images and verify order
-- Load LINK_MAPPING.md for internal link conversion
-- Identify all Naver links in content
-
-
-### Step 5: Claude Downloads Images
+This ensures images are available when user reviews the preview.
 
 ```bash
 python3 download_naver_images.py "[slug]"
-# Downloads from: naver.md (automatically)
-# Downloads to: static/images/posts/[slug]-01.jpg, [slug]-02.jpg, ...
-# Auto-converts to JPG format
 ```
 
-### Step 6: Claude Provides Local Preview Links
+**What this script does:**
+- Reads `naver.md` and extracts all images in sequential order
+- Validates against English markdown (1:1 matching)
+- Downloads all images to `static/images/posts/`
+- Auto-converts to JPG format
+- Sequential numbering: `{slug}-01.jpg`, `{slug}-02.jpg`, `{slug}-03.jpg`, ...
+
+**Why download before user review:**
+- ✅ User can see actual images during English version review
+- ✅ Verify image positions match content flow
+- ✅ Catch any image-related issues early
+- ✅ Japanese and Chinese versions will use the same images
+
+**Step 3.4: Start or Verify Local Hugo Server**
+
+**Before providing preview links, ensure Hugo server is running:**
+
+```bash
+# Check if hugo server is already running
+# If running, you'll see "Web Server is available at http://localhost:1313/"
+# If NOT running, start it:
+hugo server -D
+```
+
+**Expected output when server starts:**
+```
+Web Server is available at http://localhost:1313/
+Press Ctrl+C to stop
+```
+
+**Important Notes:**
+- If server is already running, skip this step
+- Server auto-reloads when new content is added
+- Keep server running throughout the migration session
+- The `-D` flag includes draft posts in preview
+
+**Step 3.5: Provide English Preview Link & Request User Approval**
+
+**⏸️ STOP HERE - Wait for user approval before proceeding**
+
+Provide the English preview link:
+```
+English Version: http://localhost:1313/posts/[slug]/
+```
+
+**Request user to review:**
+- ✅ Content accuracy and completeness
+- ✅ Image positions and captions
+- ✅ All images displaying correctly
+- ✅ Internal links working correctly
+- ✅ Formatting and styling
+- ✅ SEO elements (title, description)
+
+**Wait for user confirmation:**
+- User will respond with "OK" or "완료" or provide feedback
+- If feedback received, make corrections and re-submit for review
+- **Only proceed to Japanese/Chinese versions after approval**
+
+**Step 3.6: Create Japanese & Chinese Versions (After EN Approval)**
+
+**✅ Only start after user approves English version**
+
+Create both language versions:
+- Create `content/ja/posts/[slug].md`
+- Create `content/zh-cn/posts/[slug].md`
+
+**Apply same guidelines with language-specific adaptations:**
+- Same `translationKey` as English version (critical for language switcher)
+- Same `date` field as English version
+- Same image references (`{slug}-01.jpg`, `{slug}-02.jpg`, ...)
+- Language-specific tags and categories (JA tags for JA post, ZH-CN tags for ZH-CN post)
+- Translated content following MIGRATION_GUIDE cultural adaptation rules
+- Language-appropriate Editor's Note (use exact format from Step 3.2)
+- Process internal links with language prefix (`/ja/posts/` for JA, `/zh-cn/posts/` for ZH-CN)
+
+**Step 3.7: Provide All Language Preview Links**
+
+**After creating Japanese and Chinese versions, provide all preview links:**
 
 ```
 EN: http://localhost:1313/posts/[slug]/
@@ -240,11 +290,18 @@ JA: http://localhost:1313/ja/posts/[slug]/
 ZH-CN: http://localhost:1313/zh-cn/posts/[slug]/
 ```
 
-### Step 6.5: Claude Verifies Content Completeness
+**User can verify:**
+- All three language versions display correctly
+- Consistent images across all languages
+- Proper language switching functionality
+- TranslationKey linkage working
+- Language-specific tags and categories
+
+**Step 3.8: Verify Content Completeness**
 
 **MANDATORY VERIFICATION CHECKLIST:**
 
-Before providing preview links to user, verify the following counts match between original Naver HTML and created Hugo posts:
+After creating all three language versions, verify the following counts match between original Naver HTML and created Hugo posts:
 
 1. **Image Count Verification:**
    ```bash
@@ -285,7 +342,45 @@ Before providing preview links to user, verify the following counts match betwee
 ✅ Link Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
 ```
 
-### Step 6.6: Maintenance & Cleanup (MANDATORY after Category/Tag Changes)
+**If counts don't match:**
+- Review original HTML to find missing images/captions/links
+- Update all three language versions
+- Re-verify counts until all match
+
+**Step 3.9: Finalize LINK_MAPPING.md**
+
+**Update LINK_MAPPING.md with the new post:**
+
+1. **Update Quick Reference Table:**
+   - Change Status from `pending` to `✅`
+   - Update Date from `-` to current date (YYYY-MM-DD)
+   - Verify Naver ID and Hugo slug are correct
+
+2. **Remove from Pending References (if applicable):**
+   - If the ID was listed in `## Pending Link References` section, remove it
+   - This post is now fully migrated
+
+3. **Note about placeholder links:**
+   - Placeholder links (`href="#"`) in existing posts will be updated in future migrations
+   - Each new migration will check LINK_MAPPING.md and convert placeholders to working links
+
+---
+
+### Step 4: User Reviews and Confirms
+
+```
+User: "OK" or "완료" or provides feedback
+```
+
+**If user requests changes:**
+- Make corrections to the affected language version(s)
+- Re-run verification if needed
+- Provide updated preview links
+- Wait for final "OK"
+
+---
+
+### Step 5: Maintenance & Cleanup (MANDATORY after Category/Tag Changes)
 
 Whenever you rename or merge categories/tags in the content files, you MUST perform a clean build to remove "ghost" entries from the UI.
 
@@ -302,16 +397,12 @@ Whenever you rename or merge categories/tags in the content files, you MUST perf
 
 **If counts don't match:**
 - Review original HTML to find missing images/captions/links
-- Update all three language versions before providing preview links
+- Update all three language versions
 - Re-verify counts until all match
 
-### Step 7: User Reviews and Confirms
+### Step 6: Deploy to GitHub
 
-```
-User: "OK" or provides feedback
-```
-
-### Step 8: Claude Deploys to GitHub
+**After user confirms "OK", commit and push all changes:**
 
 ```bash
 git add .
@@ -323,13 +414,18 @@ New Content:
 - All three language versions (EN/JA/ZH-CN)
 
 Link Updates:
-- Updated LINK_MAPPING.md
-- Activated links in [N] existing posts
+- Updated LINK_MAPPING.md (Status: ✅)
+- Converted [N] internal links
 
 Naver ID: [POST_ID]
 Slug: [slug]"
 git push
 ```
+
+**Important Notes:**
+- Push to the current branch (e.g., `claude/[name]-[session-id]`)
+- GitHub Actions will auto-deploy to production after merge to main
+- Verify deployment at https://tripmate.news after merge
 
 ---
 

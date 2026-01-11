@@ -1,6 +1,6 @@
 # CLAUDE.md - AI Assistant Guide
 
-> **Last Updated:** 2025-12-26
+> **Last Updated:** 2026-01-11
 > **Project:** Tokyo Mate (Trip Mate News Blog)
 > **Site:** https://tripmate.news
 > **Type:** Hugo Static Site for GitHub Pages
@@ -238,13 +238,56 @@ User: "완료했습니다" or "Done"
 
 **⚠️ CRITICAL: You MUST review both documents before creating any blog posts!**
 
-**Key Steps:**
+**3.1: Verify naver.md and Analyze**
+- ✅ Read and verify `naver.md` contains new blog content
 - Extract publish date from Naver HTML
-- Count images and verify order
+- Determine Hugo slug (kebab-case, SEO-friendly)
+- Count images and verify order in `naver.md`
 - Load LINK_MAPPING.md for internal link conversion
-- Identify all Naver links in content
-- Create the **English version FIRST**, get user confirmation, and then create JA/ZH-CN posts following all guidelines in MIGRATION_GUIDE.md and CONTENT_GUIDELINES.md
-- Update LINK_MAPPING.md (set Status to `✅` and update Date)
+- Identify all Naver blog links in content
+
+**3.2: Create English Version FIRST**
+- Create `content/en/posts/[slug].md`
+- Apply all guidelines from MIGRATION_GUIDE.md and CONTENT_GUIDELINES.md
+- Process all Naver links (convert or use TODO placeholders)
+- Add mandatory Editor's Note section
+
+**3.3: Download Images**
+- ⚠️ Download images **immediately after English version**
+- Run: `python3 download_naver_images.py "[slug]"`
+- This allows user to see images during review
+
+**3.4: Start/Verify Hugo Server**
+- Ensure Hugo server is running: `hugo server -D`
+- If already running, skip this step
+
+**3.5: Provide English Preview & Request Approval**
+- ⏸️ **STOP HERE** - Wait for user approval
+- Provide: `http://localhost:1313/posts/[slug]/`
+- Wait for user "OK" before proceeding to JA/ZH-CN
+
+**3.6: Create Japanese & Chinese Versions (After EN Approval)**
+- ✅ Only after user approves English version
+- Create `content/ja/posts/[slug].md`
+- Create `content/zh-cn/posts/[slug].md`
+- Same images, same translationKey, language-specific tags/categories
+
+**3.7: Provide All Language Preview Links**
+```
+EN: http://localhost:1313/posts/[slug]/
+JA: http://localhost:1313/ja/posts/[slug]/
+ZH-CN: http://localhost:1313/zh-cn/posts/[slug]/
+```
+
+**3.8: Verify Content Completeness**
+- Verify image count matches across all versions
+- Verify figcaption count matches
+- Verify internal link count matches
+- Report: `✅ Image Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]`
+
+**3.9: Finalize LINK_MAPPING.md**
+- Update Status from `pending` to `✅`
+- Update Date to current date
 
 **Critical Requirements from MIGRATION_GUIDE.md:**
 - Complete content translation (no omissions or additions)
@@ -260,95 +303,27 @@ User: "완료했습니다" or "Done"
 - SEO-optimized titles and descriptions (length limits per language)
 - Proper front matter structure with translationKey
 - Image naming convention and 1:1 matching rule
-- Editor's Note section (⚠️ MANDATORY for all posts - use EXACT format from CONTENT_GUIDELINES.md)
-  - DO NOT create custom formats or use markdown headings
-  - MUST use `<div class="editors-note">` with all inline styles
-  - See MIGRATION_GUIDE.md Step 3.2 for complete HTML template
+- Editor's Note section (⚠️ MANDATORY - use exact format from CONTENT_GUIDELINES.md)
 - Chinese YAML syntax rules (no special quotation marks)
 
-#### Step 4: Claude Downloads Images
-```bash
-python3 download_naver_images.py "[slug]"
-# Downloads from: naver.md (automatically)
-# Downloads to: static/images/posts/[slug]-01.jpg, [slug]-02.jpg, ...
-# Auto-converts to JPG format
+#### Step 4: User Reviews and Confirms
+```
+User: "OK" or "완료" or provides feedback
 ```
 
-#### Step 5: Claude Provides Local Preview Links
-```
-EN: http://localhost:1313/posts/[slug]/
-JA: http://localhost:1313/ja/posts/[slug]/
-ZH-CN: http://localhost:1313/zh-cn/posts/[slug]/
-```
-
-#### Step 5.5: Claude Verifies Content Completeness
-
-**MANDATORY VERIFICATION CHECKLIST:**
-
-Before providing preview links to user, verify the following counts match between original Naver HTML and created Hugo posts:
-
-1. **Image Count Verification:**
-   ```bash
-   # Count images in original Naver HTML
-   grep -o '<img' naver.md | wc -l
-   
-   # Count images in Hugo posts (should match for each language)
-   grep -o '<img' content/en/posts/[slug].md | wc -l
-   grep -o '<img' content/ja/posts/[slug].md | wc -l
-   grep -o '<img' content/zh-cn/posts/[slug].md | wc -l
-   ```
-
-2. **Figcaption Count Verification:**
-   ```bash
-   # Count captions in original (look for se-caption or similar)
-   # Count figcaptions in Hugo posts (should match for each language)
-   grep -o '<figcaption' content/en/posts/[slug].md | wc -l
-   grep -o '<figcaption' content/ja/posts/[slug].md | wc -l
-   grep -o '<figcaption' content/zh-cn/posts/[slug].md | wc -l
-   ```
-
-3. **Naver Link Count Verification:**
-   ```bash
-   # Count Naver blog links in original
-   grep -o 'blog.naver.com/tokyomate' naver.md | wc -l
-   
-   # Count converted links + placeholders in Hugo posts (should match for each language)
-   # Count: internal links (/posts/) + TODO placeholders
-   grep -E '(/posts/|TODO: Update link)' content/en/posts/[slug].md | wc -l
-   grep -E '(/posts/|TODO: Update link)' content/ja/posts/[slug].md | wc -l
-   grep -E '(/posts/|TODO: Update link)' content/zh-cn/posts/[slug].md | wc -l
-   ```
-
-**Verification Report Format:**
-```
-✅ Image Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
-✅ Caption Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
-✅ Link Count: Original [X] = EN [X] = JA [X] = ZH-CN [X]
-```
-
-**If counts don't match:**
-- Review original HTML to find missing images/captions/links
-- Update all three language versions before providing preview links
-- Re-verify counts until all match
-
-#### Step 6: User Reviews and Confirms
-```
-User: "OK" or provides feedback
-```
-
-#### Step 7: Claude Deploys to GitHub
+#### Step 5: Claude Deploys to GitHub
 ```bash
 git add .
-git commit -m "Add [slug] blog post (EN/JA)
+git commit -m "Add [slug] blog post (EN/JA/ZH-CN)
 
 New Content:
 - Created comprehensive [topic] guide
 - Added [N] images
-- Both English and Japanese versions
+- All three language versions (EN/JA/ZH-CN)
 
 Link Updates:
-- Updated LINK_MAPPING.md (✅ Status)
-- Activated links in [N] existing posts
+- Updated LINK_MAPPING.md (Status: ✅)
+- Converted [N] internal links
 
 Naver ID: [POST_ID]
 Slug: [slug]"
@@ -845,11 +820,21 @@ Build Output:    /public/
 
 ## Document Maintenance
 
-**Last Updated:** 2025-12-26
+**Last Updated:** 2026-01-11
 **Updated By:** Claude (AI Assistant)
 **Next Review:** When significant project changes occur
 
-**Recent Updates (2025-12-26 - Latest):**
+**Recent Updates (2026-01-11 - Latest):**
+- **WORKFLOW OPTIMIZATION:**
+  - Reorganized migration workflow to match user's preferred sequence
+  - **Key Change:** Images now downloaded immediately after English version creation (before user review)
+  - **Added:** Explicit Hugo server start/verify step (Step 3.4)
+  - **Added:** Explicit naver.md verification step (Step 3.1)
+  - **Changed:** User approval now happens after English version only, then JA/ZH-CN created
+  - **Renumbered:** Steps 4-7 adjusted to reflect new workflow
+  - **Impact:** Users can now review English version with images before approving, streamlined workflow
+
+**Recent Updates (2025-12-26):**
 - **MAJOR RESTRUCTURING:**
   - Split CLAUDE.md into 3 focused files for better AI comprehension
   - Created CONTENT_GUIDELINES.md (blog formatting, SEO, tags, categories)
