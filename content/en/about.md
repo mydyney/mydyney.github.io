@@ -9,20 +9,20 @@ translationKey: about
 
 ## Welcome to Tokyo Mate
 
-**Tokyo Mate** is a specialized travel blog dedicated to providing authentic information about Tokyo and Japan travel.
+<strong>Tokyo Mate</strong> is a specialized travel blog dedicated to providing authentic information about Tokyo and Japan travel.
 
 ### Our Mission
 
 We share firsthand experiences and carefully researched travel information to help:
-- **International visitors** planning their trip to Japan
-- **Domestic travelers** from other regions of Japan exploring Tokyo
+- <strong>International visitors</strong> planning their trip to Japan
+- <strong>Domestic travelers</strong> from other regions of Japan exploring Tokyo
 
 ### What We Offer
 
-- **Restaurant reviews** based on personal visits
-- **Travel guides** with practical tips and insider knowledge
-- **Tourism information** covering Tokyo's neighborhoods, attractions, and hidden gems
-- **Cultural insights** to enhance your Japan experience
+- <strong>Restaurant reviews</strong> based on personal visits
+- <strong>Travel guides</strong> with practical tips and insider knowledge
+- <strong>Tourism information</strong> covering Tokyo's neighborhoods, attractions, and hidden gems
+- <strong>Cultural insights</strong> to enhance your Japan experience
 
 ### Our Approach
 

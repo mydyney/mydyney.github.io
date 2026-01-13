@@ -13,7 +13,7 @@ translationKey: contact
 
 ### メールアドレス
 
-**tripmate.news@gmail.com**
+<strong>tripmate.news@gmail.com</strong>
 
 ---
 

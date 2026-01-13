@@ -13,7 +13,7 @@ We'd love to hear from you! Whether you have questions, suggestions, or feedback
 
 ### Email
 
-**tripmate.news@gmail.com**
+<strong>tripmate.news@gmail.com</strong>
 
 ---
 
