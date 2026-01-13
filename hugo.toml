@@ -79,6 +79,18 @@ googleAnalytics = "G-NZ22T8HRR3"
     url = "/posts/"
     weight = 2
 
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
 # SEO 최적화를 위한 추가 설정
 [taxonomies]
   tag = "tags"
