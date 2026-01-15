@@ -1,6 +1,6 @@
 ---
 title: 关于东京旅伴
-date: 2026-01-13T10:00:00+09:00
+date: 2024-04-24T10:00:00+09:00
 draft: false
 translationKey: about
 ---
