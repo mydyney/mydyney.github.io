@@ -6,7 +6,7 @@ translationKey: "tokyo-nihonbashi-manten-sushi-guide"
 description: "Experience premium omakase for just 8,800 yen at Manten Sushi Nihonbashi. Detailed review on menu, price, TableCheck reservation, and walk-in tips."
 summary: "Manten Sushi Nihonbashi offers a premium omakase experience for just 8,800 yen. This review covers the menu, pricing, TableCheck reservation methods, and walk-in possibilities from a traveler's perspective."
 tags: ["Sushi", "Omakase", "Nihonbashi", "Tokyo Food", "Tokyo Travel"]
-categories: ["Food"]
+categories: ["Food & Dining"]
 featured_image: "/images/posts/tokyo-nihonbashi-manten-sushi-guide-01.jpg"
 ---
 
