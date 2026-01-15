@@ -420,7 +420,7 @@ featured_image: "/images/posts/ginza-nemuro-hanamaru-sushi-guide-01.jpg"
 
 <p>また、予約をして待ち時間なしで楽しめる8,800円の至福、コスパ最強のオマカセ<strong>「まんてん鮨」</strong>もおすすめです。日比谷OKUROJI（オクロジ）に位置しており、銀座エリアの観光動線としても完璧です。</p>
 
-<p>➡️ <a href="/ja/posts/tokyo-nihonbashi-manten-sushi/" style="color: #667eea; text-decoration: underline;"><strong>東京 日本橋 まんてん鮨｜8,800円コスパ最強オマカセの価格・メニュー・予約方法まとめ</strong></a></p>
+<p>➡️ <a href="/ja/posts/tokyo-nihonbashi-manten-sushi-guide/" style="color: #667eea; text-decoration: underline;"><strong>東京 日本橋 まんてん鮨｜8,800円コスパ最強オマカセの価格・メニュー・予約方法まとめ</strong></a></p>
 
 <p>東京旅行を存分に楽しみ、美味しい思い出を作ってくださいね！ 🍣</p>
 

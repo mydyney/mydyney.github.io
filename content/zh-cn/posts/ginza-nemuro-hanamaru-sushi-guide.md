@@ -420,7 +420,7 @@ featured_image: "/images/posts/ginza-nemuro-hanamaru-sushi-guide-01.jpg"
 
 <p>我还推荐通过预约即可免排队享受的 8,800 日元“超值 Omakase” <strong>“Manten Sushi” (满天寿司)</strong>。它位于日比谷 OKUROJI，就在银座周边行程路线上，非常便利。</p>
 
-<p>➡️ <a href="/zh-cn/posts/tokyo-nihonbashi-manten-sushi/" style="color: #667eea; text-decoration: underline;"><strong>东京日本桥 Manten Sushi｜8,800日元性价比 Omakase 价格·菜单·预约方法汇总</strong></a></p>
+<p>➡️ <a href="/zh-cn/posts/tokyo-nihonbashi-manten-sushi-guide/" style="color: #667eea; text-decoration: underline;"><strong>东京日本桥 Manten Sushi｜8,800日元性价比 Omakase 价格·菜单·预约方法汇总</strong></a></p>
 
 <p>预祝您的东京之旅顺利，创造美味的回忆！ 🍣</p>
 

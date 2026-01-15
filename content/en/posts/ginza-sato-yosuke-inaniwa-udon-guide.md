@@ -227,7 +227,7 @@ Located right in the middle of Ginza's luxury shopping district, it's the most p
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224144304263
      Hugo: /posts/ginza-nemuro-hanamaru-sushi-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>Ginza Nemuro Hanamaru Conveyor Belt Sushi Waiting & Omakase Ordering Tips</strong></a></p>
+<p>➡️ <a href="/posts/ginza-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>Ginza Nemuro Hanamaru Conveyor Belt Sushi Waiting & Omakase Ordering Tips</strong></a></p>
 
 <p><strong>🍜 Ginza Noodle Showdown (Udon vs. Ramen)</strong></p>
 <p>If you enjoyed Sato Yosuke's silky, delicate flavor, how about trying the complete opposite—rich and creamy?</p>

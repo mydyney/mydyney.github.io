@@ -227,7 +227,7 @@ featured_image: "/images/posts/ginza-sato-yosuke-inaniwa-udon-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224144304263
      Hugo: /ja/posts/ginza-nemuro-hanamaru-sushi-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>銀座 根室花まる 回転寿司 待ち時間＆おまかせ注文のコツ</strong></a></p>
+<p>➡️ <a href="/ja/posts/ginza-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>銀座 根室花まる 回転寿司 待ち時間＆おまかせ注文のコツ</strong></a></p>
 
 <p><strong>🍜 銀座麺料理両大山脈比較（うどん vs ラーメン）</strong></p>
 <p>佐藤養助の絹のように滑らかで淡白な味を楽しんだら、次は正反対の魅力を持つ濃厚でクリーミーな味はいかがですか？</p>

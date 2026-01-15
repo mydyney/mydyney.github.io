@@ -227,7 +227,7 @@ featured_image: "/images/posts/ginza-sato-yosuke-inaniwa-udon-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224144304263
      Hugo: /zh-cn/posts/ginza-nemuro-hanamaru-sushi-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>银座根室花丸回转寿司排队＆Omakase点单技巧</strong></a></p>
+<p>➡️ <a href="/zh-cn/posts/ginza-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>银座根室花丸回转寿司排队＆Omakase点单技巧</strong></a></p>
 
 <p><strong>🍜 银座面食双雄对决（乌冬 vs 拉面）</strong></p>
 <p>如果你喜欢佐藤养助丝绸般顺滑清淡的口味，下次要不要试试完全相反的浓郁奶油味？</p>

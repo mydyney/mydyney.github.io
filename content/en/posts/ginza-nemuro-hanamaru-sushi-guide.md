@@ -423,7 +423,7 @@ featured_image: "/images/posts/ginza-nemuro-hanamaru-sushi-guide-01.jpg"
 
 <p>I also recommend <strong>Manten Sushi</strong>, a high-value omakase experience for 8,800 yen that you can enjoy with a reservation. Located in Hibiya Okuroji, it's a perfect fit for a Ginza-area itinerary.</p>
 
-<p>➡️ <a href="/posts/tokyo-nihonbashi-manten-sushi/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Nihonbashi Manten Sushi | 8,800 Yen Omakase Price, Menu & Reservation Guide</strong></a></p>
+<p>➡️ <a href="/posts/tokyo-nihonbashi-manten-sushi-guide/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Nihonbashi Manten Sushi | 8,800 Yen Omakase Price, Menu & Reservation Guide</strong></a></p>
 
 <p>Have a great trip to Tokyo and make some delicious memories! 🍣</p>
 
