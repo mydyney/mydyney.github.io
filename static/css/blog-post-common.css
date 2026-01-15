@@ -144,6 +144,15 @@ blockquote {
   margin: 1.5rem 0;
 }
 
+/* Highlight style for sushi codes (Unused - can be restored if needed) */
+/* .blog-container mark { ... } */
+
+/* Whole-line highlight for specific menu items */
+.blog-container ul li.menu-highlight {
+  background-color: #fff8b2 !important;
+  border-radius: 4px;
+}
+
 /* 이미지 그룹 (2개, 3개, 4개, 9개 나란히 배치) - 전체 폭 강제 */
 /* Targeting all possible parent contexts to override Ananke/Tachyons */
 article .image-group-2,
