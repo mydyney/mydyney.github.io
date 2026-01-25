@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 122 posts mapped (0 pending)
+> **Status:** ⏳ In Progress - 123 posts mapped (0 pending)
 
 ---
 
@@ -19,6 +19,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224155602660 | tokyo-station-kantaro-ichibangai-sushi | 2026-01-22 | ✅ |
 | 224145944230 | japan-mcdonalds-happy-set-2026-01 | 2026-01-16 | ✅ |
 | 224146973824 | tokyo-nihonbashi-manten-sushi-guide | 2026-01-15 | ✅ |
 | 224144304263 | ginza-nemuro-hanamaru-sushi-guide | 2026-01-15 | ✅ |
@@ -165,7 +166,7 @@ When migrating a Naver blog post to Hugo:
 | 223716380927 | azabudai-hills-sky-room-cafe-guide | - | pending |
 | 223715784445 | ginza-wako-tea-salon | - | pending |
 | 223708789355 | azabudai-hills-criollo-chocolate-review | - | pending |
-| 223707471582 | tokyo-ramen-street-best-8 | 2025-12-31 | ✅ |
+| 224124211319 | tokyo-ramen-street-best-8 | 2025-12-27 | ✅ |
 | 223703326263 | ginza-shiseido-parlour-gift-guide | - | pending |
 | 223702865232 | sapporo-the-bar-ginza | - | pending |
 | 223702371242 | ginza-tenryu-gyoza-restaurant | - | pending |
@@ -298,12 +299,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 116
-- **Naver IDs Tracked:** 170
-- **Posts with Internal Links:** 37+ (shimbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide, hakone-romance-car-booking-guide, tokyo-nihonbashi-manten-sushi-guide)
+- **Total Posts Migrated:** 117
+- **Naver IDs Tracked:** 171
+- **Posts with Internal Links:** 38+ (tokyo-station-kantaro-ichibangai-sushi, shimbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide, hakone-romance-car-booking-guide, tokyo-nihonbashi-manten-sushi-guide)
 - **Pending References:** 45
-- **Links Updated:** Verified & Fixed on 2025-12-28
-- **Last Migration Date:** 2026-01-10 (Hakone Romance Car Guide)
+- **Links Updated:** Verified & Fixed on 2026-01-22
+- **Last Migration Date:** 2026-01-22 (Tokyo Station Kantaro Ichibangai Sushi)
 
 ---
 
