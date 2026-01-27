@@ -1,6 +1,6 @@
 ---
 title: "東京旅行準備ガイド A to Z 初心者向け：航空券・入国・宿泊・交通・アプリチェックリスト"
-date: 2024-08-19T10:00:00+09:00
+date: 2026-01-16T10:00:00+09:00
 draft: false
 translationKey: "tokyo-travel-preparation-guide"
 description: "初めての東京旅行者向け完全準備ガイド。ベストシーズン、空港選び、航空券、入国手続き、宿泊、交通、必須アプリまで。"

@@ -1,6 +1,6 @@
 ---
 title: "东京旅行准备指南 A to Z 新手必看：机票、入境、住宿、交通、APP清单"
-date: 2024-08-19T10:00:00+09:00
+date: 2026-01-16T10:00:00+09:00
 draft: false
 translationKey: "tokyo-travel-preparation-guide"
 description: "首次东京旅行者完整准备指南。最佳旅行时间、机场选择、机票、入境手续、住宿、交通、必备APP全覆盖。"

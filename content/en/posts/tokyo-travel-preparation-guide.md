@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Travel Preparation Guide A to Z for Beginners: Flights, Entry, Accommodation, Transport, Apps Checklist"
-date: 2024-08-19T10:00:00+09:00
+date: 2026-01-16T10:00:00+09:00
 draft: false
 translationKey: "tokyo-travel-preparation-guide"
 description: "Complete Tokyo travel preparation guide for first-time visitors. Best times to visit, airport selection, flights, entry requirements, accommodation, transportation, and essential apps."
