@@ -76,10 +76,6 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 <strong>① 购物与潮流</strong>  
 银座·涩谷·原宿·表参道·新宿  
 👉 <strong>[银座乐天免税店即时金卡升级与折扣 | 比机场便宜](/posts/ginza-shopping-discount-guide-2026/)</strong>  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224131055243
-     Hugo: /zh-cn/posts/shinjuku-department-store-guest-cards/ -->
-  
 👉 <strong>[涩谷Parco | 楼层指南、退税、品牌（Human Made、Comme、Porter）](/posts/shibuya-parco-shopping-guide/)</strong>
 
 <strong>② 传统与风景漫步</strong>  
@@ -101,10 +97,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 
 📌 确定这些主要路线后，选择一个"观景台"作为每日亮点很重要。  
 不知道该选涩谷天空、东京塔还是晴空塔？  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224160652498
-     Hugo: /zh-cn/posts/tokyo-observation-deck-recommendations/ -->
-<a href="/zh-cn/posts/tokyo-observatory-comparison/" style="color: #667eea;">东京观景台推荐对比 BEST 5 | 排名、免费夜景、预订技巧</a>
+👉 <strong><a href="/zh-cn/posts/tokyo-observatory-comparison/" style="color: #667eea;">东京观景台推荐对比 BEST 5 | 排名、免费夜景、预订技巧</a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-02.jpg" alt="东京最佳旅行时间 | 樱花季的中目黑">

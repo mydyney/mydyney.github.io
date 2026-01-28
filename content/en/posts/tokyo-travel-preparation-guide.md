@@ -76,10 +76,6 @@ The official Tokyo cherry blossom forecast has been released. Check the dates an
 <strong>① Shopping & Trends</strong>  
 Ginza · Shibuya · Harajuku · Omotesando · Shinjuku  
 👉 <strong>[Ginza Lotte Duty Free Instant Gold Upgrade & Discounts | Cheaper than Airport](/posts/ginza-shopping-discount-guide-2026/)</strong>  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224131055243
-     Hugo: /posts/shinjuku-department-store-guest-cards/ -->
-  
 👉 <strong>[Shibuya Parco | Floor Guide, Tax-Free, Brands (Human Made, Comme, Porter)](/posts/shibuya-parco-shopping-guide/)</strong>
 
 <strong>② Traditional & Scenic Walks</strong>  
@@ -101,10 +97,7 @@ Odaiba · Yokohama (suburbs) · Tokyo Disneyland
 
 📌 Once you've determined these major routes, choosing an 'observation deck' as a daily highlight is important.  
 Wondering whether to include Shibuya Sky, Tokyo Tower, or Skytree?  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224160652498
-     Hugo: /posts/tokyo-observation-deck-recommendations/ -->
-<a href="/posts/tokyo-observatory-comparison/" style="color: #667eea;">Tokyo Observation Deck Recommendations Comparison BEST 5 | Rankings, Free Night Views, Booking Tips</a>
+👉 <strong><a href="/posts/tokyo-observatory-comparison/" style="color: #667eea;">Tokyo Observation Deck Recommendations Comparison BEST 5 | Rankings, Free Night Views, Booking Tips</a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-02.jpg" alt="Best time to visit Tokyo | Cherry blossom season Nakameguro">

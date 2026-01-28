@@ -76,9 +76,6 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 <strong>① ショッピング＆トレンド</strong>  
 銀座・渋谷・原宿・表参道・新宿  
 👉 <strong>[銀座ロッテ免税店即時ゴールドアップグレード＆割引 | 空港より安い](/posts/ginza-shopping-discount-guide-2026/)</strong>  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224131055243
-     Hugo: /ja/posts/shinjuku-department-store-guest-cards/ -->
 <a href="#" style="color: #667eea;">新宿デパートゲストカード | 伊勢丹、高島屋、小田急、京王割引比較</a>  
 👉 <strong>[渋谷パルコ | フロアガイド、免税、ブランド（Human Made、コム、ポーター）](/posts/shibuya-parco-shopping-guide/)</strong>
 
@@ -101,10 +98,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 
 📌 これらの主要ルートを決めたら、毎日のハイライトとして「展望台」を選ぶことが重要です。  
 渋谷スカイ、東京タワー、スカイツリーのどれを含めるか迷っていますか？  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224160652498
-     Hugo: /ja/posts/tokyo-observation-deck-recommendations/ -->
-<a href="/ja/posts/tokyo-observatory-comparison/" style="color: #667eea;">東京展望台おすすめ比較 BEST 5 | ランキング、無料夜景、予約のコツ</a>
+👉 <strong><a href="/ja/posts/tokyo-observatory-comparison/" style="color: #667eea;">東京展望台おすすめ比較 BEST 5 | ランキング、無料夜景、予約のコツ</a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-02.jpg" alt="東京のベストシーズン | 桜の季節の中目黒">
