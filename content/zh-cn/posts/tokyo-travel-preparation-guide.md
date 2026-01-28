@@ -79,7 +79,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224131055243
      Hugo: /zh-cn/posts/shinjuku-department-store-guest-cards/ -->
-<a href="#" style="color: #667eea;">新宿百货店宾客卡 | 伊势丹、高岛屋、小田急、京王折扣对比</a>  
+  
 👉 <strong>[涩谷Parco | 楼层指南、退税、品牌（Human Made、Comme、Porter）](/posts/shibuya-parco-shopping-guide/)</strong>
 
 <strong>② 传统与风景漫步</strong>  
@@ -104,7 +104,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224160652498
      Hugo: /zh-cn/posts/tokyo-observation-deck-recommendations/ -->
-<a href="#" style="color: #667eea;">东京观景台推荐对比 BEST 5 | 排名、免费夜景、预订技巧</a>
+<a href="/zh-cn/posts/tokyo-observatory-comparison/" style="color: #667eea;">东京观景台推荐对比 BEST 5 | 排名、免费夜景、预订技巧</a>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-02.jpg" alt="东京最佳旅行时间 | 樱花季的中目黑">

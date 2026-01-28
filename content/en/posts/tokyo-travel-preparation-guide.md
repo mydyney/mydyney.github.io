@@ -79,7 +79,7 @@ Ginza · Shibuya · Harajuku · Omotesando · Shinjuku
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224131055243
      Hugo: /posts/shinjuku-department-store-guest-cards/ -->
-<a href="#" style="color: #667eea;">Shinjuku Department Store Guest Cards | Isetan, Takashimaya, Odakyu, Keio Discount Comparison</a>  
+  
 👉 <strong>[Shibuya Parco | Floor Guide, Tax-Free, Brands (Human Made, Comme, Porter)](/posts/shibuya-parco-shopping-guide/)</strong>
 
 <strong>② Traditional & Scenic Walks</strong>  
@@ -104,7 +104,7 @@ Wondering whether to include Shibuya Sky, Tokyo Tower, or Skytree?
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224160652498
      Hugo: /posts/tokyo-observation-deck-recommendations/ -->
-<a href="#" style="color: #667eea;">Tokyo Observation Deck Recommendations Comparison BEST 5 | Rankings, Free Night Views, Booking Tips</a>
+<a href="/posts/tokyo-observatory-comparison/" style="color: #667eea;">Tokyo Observation Deck Recommendations Comparison BEST 5 | Rankings, Free Night Views, Booking Tips</a>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-02.jpg" alt="Best time to visit Tokyo | Cherry blossom season Nakameguro">

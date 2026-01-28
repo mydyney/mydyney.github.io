@@ -104,7 +104,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224160652498
      Hugo: /ja/posts/tokyo-observation-deck-recommendations/ -->
-<a href="#" style="color: #667eea;">東京展望台おすすめ比較 BEST 5 | ランキング、無料夜景、予約のコツ</a>
+<a href="/ja/posts/tokyo-observatory-comparison/" style="color: #667eea;">東京展望台おすすめ比較 BEST 5 | ランキング、無料夜景、予約のコツ</a>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-02.jpg" alt="東京のベストシーズン | 桜の季節の中目黒">
