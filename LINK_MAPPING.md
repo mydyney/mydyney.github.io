@@ -298,16 +298,17 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223667306537 | streamer-coffee-roppongi-guide | Streamer Coffee Company: Special Roppongi Cafe |
 | 223666751487 | st-moritz-roppongi-bakery | St. Moritz: 80-Year-Old Traditional Bakery in Roppongi |
 | 223665548720 | yebisu-brewery-museum-guide | Yebisu Brewery Tokyo Beer Museum Guide |
+| 224150787671 | tokyo-moheji-monjayaki-marunouchi-guide | Tokyo Moheji Monjayaki Marunouchi: Best Menu & Waiting Guide |
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 117
-- **Naver IDs Tracked:** 171
-- **Posts with Internal Links:** 38+ (tokyo-station-kantaro-ichibangai-sushi, shimbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide, hakone-romance-car-booking-guide, tokyo-nihonbashi-manten-sushi-guide)
+- **Total Posts Migrated:** 118
+- **Naver IDs Tracked:** 172
+- **Posts with Internal Links:** 39+ (tokyo-moheji-monjayaki-marunouchi-guide, tokyo-station-kantaro-ichibangai-sushi, shimbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide, hakone-romance-car-booking-guide, tokyo-nihonbashi-manten-sushi-guide)
 - **Pending References:** 45
 - **Links Updated:** Verified & Fixed on 2026-01-22
-- **Last Migration Date:** 2026-01-22 (Tokyo Station Kantaro Ichibangai Sushi)
+- **Last Migration Date:** 2026-01-29 (Tokyo Moheji Monjayaki Marunouchi: Best Menu & Waiting Guide)
 
 ---
 
