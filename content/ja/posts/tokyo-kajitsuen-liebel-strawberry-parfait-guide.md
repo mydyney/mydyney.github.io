@@ -288,10 +288,7 @@ A. メニューには「各種ケーキ」とだけ書かれています。入�
 
 徒歩3分の距離にあるKITTE 1階の治一郎カフェもおすすめです！（ここのプリンは芸術です🍮）
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224153746833
-     Hugo: /posts/[SLUG_TBD]/ -->
-👉 <a href="#" style="color: #667eea;"><strong>治一郎KITTE店カフェメニュー＆待ち時間情報</strong></a>
+👉 <a href="/posts/tokyo-station-jiichiro-kitte-baumkuchen-guide/" style="color: #667eea;"><strong>治一郎KITTE店カフェメニュー＆待ち時間情報</strong></a>
 
 ---
 

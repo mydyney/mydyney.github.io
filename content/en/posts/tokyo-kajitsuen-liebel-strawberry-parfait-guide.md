@@ -288,10 +288,7 @@ Next time, I'll be back with a review of Sembikiya, another luxury fruit destina
 
 Just a 3-minute walk away, there's Jiichiro Cafe on the 1st floor of KITTE—their pudding is art! 🍮
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224153746833
-     Hugo: /posts/[SLUG_TBD]/ -->
-👉 <a href="#" style="color: #667eea;"><strong>Jiichiro KITTE Cafe Menu & Waiting Info</strong></a>
+👉 <a href="/posts/tokyo-station-jiichiro-kitte-baumkuchen-guide/" style="color: #667eea;"><strong>Jiichiro KITTE Cafe Menu & Waiting Info</strong></a>
 
 ---
 

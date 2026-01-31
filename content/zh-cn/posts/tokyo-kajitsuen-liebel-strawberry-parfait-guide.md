@@ -288,10 +288,7 @@ A. 菜单上只写了"各种蛋糕"。可以在入口处的展示柜直接挑选
 
 步行3分钟就到的KITTE 1楼有家Jiichiro咖啡馆，他们的布丁简直是艺术品！🍮
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224153746833
-     Hugo: /posts/[SLUG_TBD]/ -->
-👉 <a href="#" style="color: #667eea;"><strong>Jiichiro KITTE店咖啡馆菜单＆排队信息</strong></a>
+👉 <a href="/posts/tokyo-station-jiichiro-kitte-baumkuchen-guide/" style="color: #667eea;"><strong>Jiichiro KITTE店咖啡馆菜单＆排队信息</strong></a>
 
 ---
 
