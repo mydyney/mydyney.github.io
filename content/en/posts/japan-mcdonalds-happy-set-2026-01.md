@@ -5,7 +5,8 @@ description: "Complete guide to Japan McDonald's Happy Set January 2026 featurin
 slug: japan-mcdonalds-happy-set-2026-01
 featured_image: /images/posts/japan-mcdonalds-happy-set-2026-01-01.jpg
 summary: "Launching January 16, 2026! Complete guide to Japan McDonald's Happy Set featuring Crayon Shin-chan and Pompompurin toys. All 12 types, Wave 1 & 2 sales periods, and QR rhythm game details."
-categories: ["Food & Dining"]
+categories:
+  - Food & Dining
   - Shopping
 tags:
   - McDonald's

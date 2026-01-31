@@ -4,7 +4,7 @@ description: "Discover Tokyo Moheji at Marunouchi, a trendy monjayaki spot near 
 summary: "Have you ever tried Monjayaki with a view? Tokyo Moheji at Marunouchi offers a unique dining experience where you can enjoy authentic Tsukishima Monjayaki followed by a breathtaking night view of Tokyo Station from the open terrace. This guide covers recommended menu items, reservation tips, and how to beat the queues."
 date: 2026-01-18T12:00:00+09:00
 featured_image: /images/posts/tokyo-moheji-monjayaki-marunouchi-guide-01.jpg
-categories: ["Food & Dining"]
+categories:
   - Food & Dining
 tags:
   - Monjayaki
