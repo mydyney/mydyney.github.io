@@ -34,11 +34,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-      - name: Fetch latest ads.txt from Ezoic
-        run: |
-          echo "Fetching latest ads.txt from Ezoic..."
-          curl -L -f https://srv.adstxtmanager.com/19390/tripmate.news -o static/ads.txt || echo "Warning: Could not fetch ads.txt, using existing file"
-          echo "ads.txt ready for deployment"
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
