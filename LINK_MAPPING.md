@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 125 posts mapped (0 pending)
+> **Status:** ⏳ In Progress - 126 posts mapped (0 pending)
 
 ---
 
@@ -20,6 +20,7 @@ When migrating a Naver blog post to Hugo:
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
 | 224149088534 | kamakura-day-trip-guide | 2026-01-16 | ✅ |
+| 224151789346 | tokyo-kajitsuen-liebel-strawberry-parfait-guide | 2026-01-19 | ✅ |
 | 224160652498 | tokyo-observatory-comparison | 2026-01-28 | ✅ |
 | 224155602660 | tokyo-station-kantaro-ichibangai-sushi | 2026-01-22 | ✅ |
 | 224156966219 | tokyo-cherry-blossom-forecast-2026 | 2026-01-23 | ✅ |
@@ -303,12 +304,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 118
+- **Total Posts Migrated:** 119
 - **Naver IDs Tracked:** 172
 - **Posts with Internal Links:** 39+ (tokyo-moheji-monjayaki-marunouchi-guide, tokyo-station-kantaro-ichibangai-sushi, shimbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide, hakone-romance-car-booking-guide, tokyo-nihonbashi-manten-sushi-guide)
 - **Pending References:** 45
 - **Links Updated:** Verified & Fixed on 2026-01-22
-- **Last Migration Date:** 2026-01-29 (Tokyo Moheji Monjayaki Marunouchi: Best Menu & Waiting Guide)
+- **Last Migration Date:** 2026-01-31 (Tokyo Kajitsuen Liebel Strawberry Parfait Guide: Menu, Prices & Waiting Tips)
 
 ---
 
