@@ -91,6 +91,56 @@ googleAnalytics = "G-NZ22T8HRR3"
     url = "/contact/"
     weight = 4
 
+[languages.ja.menu]
+  [[languages.ja.menu.main]]
+    identifier = "home"
+    name = "ホーム"
+    url = "/ja/"
+    weight = 1
+
+  [[languages.ja.menu.main]]
+    identifier = "posts"
+    name = "記事一覧"
+    url = "/ja/posts/"
+    weight = 2
+
+  [[languages.ja.menu.main]]
+    identifier = "about"
+    name = "当サイトについて"
+    url = "/ja/about/"
+    weight = 3
+
+  [[languages.ja.menu.main]]
+    identifier = "contact"
+    name = "お問い合わせ"
+    url = "/ja/contact/"
+    weight = 4
+
+[languages.zh-cn.menu]
+  [[languages.zh-cn.menu.main]]
+    identifier = "home"
+    name = "首页"
+    url = "/zh-cn/"
+    weight = 1
+
+  [[languages.zh-cn.menu.main]]
+    identifier = "posts"
+    name = "文章列表"
+    url = "/zh-cn/posts/"
+    weight = 2
+
+  [[languages.zh-cn.menu.main]]
+    identifier = "about"
+    name = "关于我们"
+    url = "/zh-cn/about/"
+    weight = 3
+
+  [[languages.zh-cn.menu.main]]
+    identifier = "contact"
+    name = "联系我们"
+    url = "/zh-cn/contact/"
+    weight = 4
+
 # SEO 최적화를 위한 추가 설정
 [taxonomies]
   tag = "tags"

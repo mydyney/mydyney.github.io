@@ -3,7 +3,7 @@ title: "Kamakura Day Trip from Tokyo | Complete Guide to Enoden Pass, Slam Dunk 
 description: "Complete guide to visiting Kamakura from Tokyo: How to get there via JR or Odakyu, Enoshima-Kamakura Free Pass benefits, recommended day trip itinerary, Enoden train guide, Slam Dunk pilgrimage site, and ocean-view restaurants."
 slug: kamakura-day-trip-guide
 date: 2026-01-16
-categories:
+categories: ["Area Guide"]
   - Day Trips
 tags:
   - Kamakura

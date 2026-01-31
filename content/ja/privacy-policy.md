@@ -38,25 +38,21 @@ Tokyo Mate（以下「当サイト」）は、https://tripmate.news（以下「�
 
 **分析Cookie**：訪問者が本サイトをどのように利用しているかを理解するために使用します（Google Analyticsを通じて）。
 
-**広告Cookie**：関連する広告を表示するために使用します（Ezoicおよび広告パートナーを通じて）。
+**広告Cookie**：関連する広告を表示するために使用します。
 
 お客様は、ブラウザの設定を通じてCookieを管理できます。ただし、Cookieを無効にすると、本サイトの一部機能が制限される場合があります。
 
 ## 第三者サービス
 
-### Ezoic
-当サイトでは、広告の管理と最適化のためにEzoicを使用しています。Ezoicは、広告のパーソナライゼーションとパフォーマンス測定のために、お客様の訪問に関するデータを収集・使用する場合があります。
-
-Ezoicのデータ取り扱いについての詳細は、以下をご覧ください：
-- [Ezoicプライバシーポリシー](https://www.ezoic.com/privacy-policy/)
-- [Ezoic Cookieポリシー](https://www.ezoic.com/cookie-policy/)
-
-<span id="ezoic-privacy-policy-embed"></span>
-
 ### Google Analytics
 当サイトでは、ウェブサイトのトラフィックを分析するためにGoogle Analyticsを使用しています。Google Analyticsは、ユーザーが本サイトをどのくらいの頻度で訪問するか、どのページを訪問するか、本サイトに訪問する前にどのサイトを利用したかなどの情報を収集します。
 
 詳細については：[Google Analyticsプライバシーポリシー](https://policies.google.com/privacy?hl=ja)
+
+### Google アドセンス (Google AdSense)
+当サイトでは、第三者配信の広告サービス「Google アドセンス」を利用しています。Google などの第三者配信事業者は、Cookie（DoubleClick Cookie を含む）を使用して、ユーザーが当サイトや他のウェブサイトに過去にアクセスした際の情報に基づいて広告を配信します。
+
+Google が広告 Cookie を使用することにより、Google やそのパートナーは当サイトや他のサイトへのアクセス情報に基づいて、適切な広告をユーザーに表示できます。ユーザーは、Google アカウントの [広告設定](https://www.google.com/settings/ads) で、パーソナライズ広告を無効にできます。また、[www.aboutads.info](https://www.aboutads.info) にアクセスして、第三者配信事業者がパーソナライズ広告の掲載に使用する Cookie を無効にすることもできます。
 
 ### 広告パートナー
 当サイトは、第三者の広告パートナーと連携しており、これらのパートナーは、関連する広告を表示するために、Cookieおよび類似の技術を使用してお客様の異なるウェブサイトでの閲覧活動に関する情報を収集する場合があります。

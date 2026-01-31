@@ -38,25 +38,21 @@ Tokyo Mate（以下简称"本站"）运营 https://tripmate.news（以下简称"
 
 **分析Cookie**：用于了解访客如何使用本网站（通过Google Analytics）。
 
-**广告Cookie**：用于显示相关广告（通过Ezoic和广告合作伙伴）。
+**广告Cookie**：用于显示相关广告。
 
 您可以通过浏览器设置管理Cookie。但是，如果禁用Cookie，本网站的某些功能可能会受到限制。
 
 ## 第三方服务
 
-### Ezoic
-本站使用Ezoic进行广告管理和优化。Ezoic可能会收集和使用有关您访问的数据，以实现广告个性化和性能测量。
-
-有关Ezoic数据处理的详细信息，请参阅：
-- [Ezoic隐私政策](https://www.ezoic.com/privacy-policy/)
-- [Ezoic Cookie政策](https://www.ezoic.com/cookie-policy/)
-
-<span id="ezoic-privacy-policy-embed"></span>
-
 ### Google Analytics
 本站使用Google Analytics来分析网站流量。Google Analytics收集用户访问本网站的频率、访问哪些页面以及在访问本网站之前使用了哪些网站等信息。
 
 详细信息请参阅：[Google Analytics隐私政策](https://policies.google.com/privacy?hl=zh-CN)
+
+### Google AdSense
+本站使用 Google AdSense 投放在本网站上的广告。Google 作为第三方供应商，使用 Cookie（包括 DoubleClick Cookie）根据用户之前访问本网站或其他网站的情况，在本网站上投放广告。
+
+Google 对广告 Cookie 的使用使其及其合作伙伴能够根据您对本网站和/或互联网上其他网站的访问，向您投放广告。您可以访问 [广告设置](https://www.google.com/settings/ads) 以停用个性化广告。或者，您也可以访问 [www.aboutads.info](https://www.aboutads.info) 以停用第三方供应商为个性化广告使用的 Cookie。
 
 ### 广告合作伙伴
 本站与第三方广告合作伙伴合作，这些合作伙伴可能使用Cookie和类似技术来收集有关您在不同网站上浏览活动的信息，以显示相关广告。

@@ -6,7 +6,7 @@ slug: daikanyama-complete-guide
 translationKey: "daikanyama-complete-guide"
 image: "/images/posts/daikanyama-complete-guide-01.jpg"
 featured_image: "/images/posts/daikanyama-complete-guide-01.jpg"
-categories:
+categories: ["Area Guide"]
     - Tokyo
     - Daikanyama
 tags:

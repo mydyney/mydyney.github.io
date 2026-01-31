@@ -96,6 +96,11 @@ This skill guides you through the process of migrating a Naver blog post to the 
         </figure>
         ```
     *   **Captions**: If original has a caption, add `<figcaption style="font-size: 0.85em; text-align: center;">Transaction...</figcaption>`.
+*   **Japanese Translation Guidelines**:
+    *   **Native Perspective**: Write from a **Japanese reader's perspective**, not a Korean tourist's view. Remove Korean-specific references (e.g., "한화로 약 2만원" → "約2,680円").
+    *   **Natural Expression**: Use proper Japanese notation - prefer kanji over katakana for established brand names (e.g., "果実園リーベル" not "カジツエンリーベル", "治一郎" not "ジイチロ").
+    *   **Cultural Adaptation**: Adapt content to Japanese cultural context - prices in yen only, local perspective on locations and accessibility.
+    *   **Tone**: Use polite desu/masu form (です・ます体) throughout.
 *   **Tables**: Convert to pure HTML tables with centered text and header background `#f7f7f7`. NO Markdown tables.
 *   **Editor's Note**: Append the mandatory "Editor's Note" block at the bottom. **Use this EXACT HTML (do not modify styles):**
 

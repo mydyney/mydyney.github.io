@@ -38,25 +38,21 @@ We use cookies and similar tracking technologies to improve your experience on o
 
 **Analytics Cookies**: Help us understand how visitors use our Site (via Google Analytics).
 
-**Advertising Cookies**: Used to display relevant advertisements (via Ezoic and advertising partners).
+**Advertising Cookies**: Used to display relevant advertisements.
 
 You can control cookies through your browser settings. However, disabling cookies may affect your experience on our Site.
 
 ## Third-Party Services
 
-### Ezoic
-We use Ezoic to manage and optimize advertisements on our Site. Ezoic may collect and use data about your visit for ad personalization and performance measurement.
-
-For more information about Ezoic's data practices, please visit:
-- [Ezoic Privacy Policy](https://www.ezoic.com/privacy-policy/)
-- [Ezoic Cookie Policy](https://www.ezoic.com/cookie-policy/)
-
-<span id="ezoic-privacy-policy-embed"></span>
-
 ### Google Analytics
 We use Google Analytics to analyze website traffic. Google Analytics collects information such as how often users visit our Site, what pages they visit, and what other sites they used prior to coming to our Site.
 
 For more information: [Google Analytics Privacy Policy](https://policies.google.com/privacy)
+
+### Google AdSense
+We use Google AdSense to serve advertisements on our Site. Google, as a third-party vendor, uses cookies (including the DoubleClick cookie) to serve ads on our Site based on your prior visits to our Site or other websites on the Internet.
+
+Google's use of advertising cookies enables it and its partners to serve ads to you based on your visit to our Site and/or other sites on the Internet. You may opt out of personalized advertising by visiting [Ads Settings](https://www.google.com/settings/ads). Alternatively, you can opt out of a third-party vendor's use of cookies for personalized advertising by visiting [www.aboutads.info](https://www.aboutads.info).
 
 ### Advertising Partners
 We work with third-party advertising partners who may use cookies and similar technologies to collect information about your browsing activities across different websites to display relevant advertisements.

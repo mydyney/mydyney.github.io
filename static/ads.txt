@@ -1,2 +1,2 @@
 #Ads.txt tripmate.news
-
+google.com, pub-8704780774924832, DIRECT, f08c47fec0942fa0
