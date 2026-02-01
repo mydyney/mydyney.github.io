@@ -163,6 +163,12 @@ Use these prompts when translating or transcreating content:
     - Use popular travel terminology: "攻略", "性价比", "必打卡".
     - Focus on practical information tourists need.
 
+### 4. Financial Information & Pricing
+- **Standardize Currency to USD**: For global accessibility, convert Korean Won (KRW) or Japanese Yen (JPY) estimates to **USD** in the text content (not headers).
+    - **Standard Rate (KRW to USD)**: 10,000 KRW ≈ **$7.50** | 13,000 KRW ≈ **$10**.
+    - **Standard Rate (JPY to USD)**: Use current approximate rates (e.g., 1,500 JPY ≈ $10).
+    - **Format**: Use the `$` symbol (e.g., "only about $7.50").
+
 ### No AI Writing Traces
 - Avoid overly formal or robotic language patterns.
 - No generic AI phrases like "In conclusion", "It's worth noting".
@@ -196,9 +202,10 @@ To ensure clarity and professional presentation across all languages, follow the
 
 **2. Japanese Posts:**
 - Use the **Original Japanese/Kanji** directly.
-- **NEVER** add parenthetical explanations, English notations, or furigana for standard names.
-- ✅ **CORRECT:** `浅草花月堂`, `和からし`, `壽々喜園`
-- ❌ **WRONG:** `浅草花月堂（かげつどう）`, `和からし（マスタード）`, `壽々喜園（すずきえん）`
+- **STRICT PROHIBITION**: **NEVER** add parenthetical explanations, English notations, or furigana/bracketed readings for standard names.
+- ✅ **CORRECT:** `浅草花月堂`, `和からし`, `壽々喜園`, `来宮神社`
+- ❌ **WRONG:** `浅草花月堂（かげつどう）`, `和からし（マスタード）`, `壽々喜園（すずきえん）`, `来宮神社（きのみやじんじゃ）`
+- ❌ **WRONG:** `熱海プリン (熱海プリン)` (Redundant repetition)
 
 **Why This Matters:**
 - **SEO:** Search engines prefer language consistency
