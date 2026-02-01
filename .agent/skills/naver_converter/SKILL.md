@@ -111,8 +111,9 @@ python3 download_naver_images.py "[slug]"
 **Goal**: Create Japanese (`ja`) and Chinese (`zh-cn`) versions.
 
 1.  **Consistency**: Use the **SAME** `translationKey` and images as English.
-2.  **Japanese**: Natural desu/masu tone. No "Japan's X" phrasing. Remove tax-free info for JA if it's a guide for domestic Japanese.
-3.  **Chinese**: Engaging style with emojis. **NO** special quotes in front matter.
+2.  **Japanese**: Natural desu/masu tone. No "Japan's X" phrasing. Remove tax-free info for JA if it's a guide for domestic Japanese. Use original Japanese/Kanji names directly without parenthetical explanations or furigana.
+3.  **Chinese**: Engaging style with emojis. **NO** special quotes in front matter. Use "English/International Name (Kanji/Original)" format for shop names.
+4.  **Shop Name Notation**: Refer to `CONTENT_GUIDELINES.md` for strict parenthetical notation rules (EN/ZH: `Name (Original)`, JA: `Original` only).
 
 ---
 

@@ -66,7 +66,7 @@ translationKey: "asakusa-food-guide"
 
 <h2>3. Asakusa Snacks BEST 5 🍮</h2>
 
-<h3>1️⃣ Asakusa Silk Pudding: Room-Temperature Pudding for Gifts!</h3>
+<h3>1️⃣ Asakusa Silk Pudding (浅草シルクプリン): Room-Temperature Pudding for Gifts!</h3>
 
 <p>Known for its silky smooth texture, this shop is a top Tokyo travel souvenir. Knowing the <strong>expiration dates and luggage regulations</strong> is key to a great experience.</p>
 
@@ -102,7 +102,7 @@ translationKey: "asakusa-food-guide"
 <figcaption style="font-size: 0.85em; text-align: center;">Asakusa Silk Pudding menu showcase and 2026 prices</figcaption>
 </figure>
 
-<h3>2️⃣ Kagetsu-do (Kagetsu-do) Melon Pan</h3>
+<h3>2️⃣ Asakusa Kagetsu-do (浅草花月堂) Melon Pan</h3>
 
 <p>Selling 3,000 daily, this is an Asakusa icon. The secret is the <strong>fermentation science</strong> behind its special taste. 🍞</p>
 
@@ -138,12 +138,12 @@ translationKey: "asakusa-food-guide"
 <figure><img src="/images/posts/asakusa-food-guide-08.jpg" alt="Kagetsu-do main store exterior"></figure>
 <figure><img src="/images/posts/asakusa-food-guide-09.jpg" alt="Kagetsu-do menu board"></figure>
 </div>
-<figcaption style="font-size: 0.85em; text-align: center;">Asakusa Kagetsu-do Melon Pan main store exterior and menu</figcaption>
+<figcaption style="font-size: 0.85em; text-align: center;">Asakusa Kagetsu-do (浅草花月堂) main store exterior and menu</figcaption>
 </figure>
 
-<h3>3️⃣ Asakusa Menchi-katsu</h3>
+<h3>3️⃣ Asakusa Menchi (浅草メンチ)</h3>
 
-<p>Following the savory fried aroma on Nakamise street leads you to <strong>Asakusa Menchi-katsu</strong>. Made with premium selected ingredients, this is a must-try snack. 🍖</p>
+<p>Following the savory fried aroma on Nakamise street leads you to <strong>Asakusa Menchi (浅草メンチ)</strong>. Made with premium selected ingredients, this is a must-try snack. 🍖</p>
 
 <ul>
 <li><strong>Hours:</strong> 10:00 ~ 19:00 (Closes when sold out)</li>
@@ -172,13 +172,13 @@ translationKey: "asakusa-food-guide"
 <p>📍 <a href="https://maps.app.goo.gl/PRPi4EdD4MNzSaeC7" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>View on Google Maps</strong></a></p>
 
 <figure>
-<img src="/images/posts/asakusa-food-guide-10.jpg" alt="Asakusa Menchi-katsu storefront">
-<figcaption style="font-size: 0.85em; text-align: center;">Asakusa Menchi-katsu exterior</figcaption>
+<img src="/images/posts/asakusa-food-guide-10.jpg" alt="Asakusa Menchi (浅草メンチ) storefront">
+<figcaption style="font-size: 0.85em; text-align: center;">Asakusa Menchi (浅草メンチ) exterior</figcaption>
 </figure>
 
 <figure>
-<img src="/images/posts/asakusa-food-guide-11.jpg" alt="Crispy juicy Asakusa Menchi-katsu street food">
-<figcaption style="font-size: 0.85em; text-align: center;">Crispy, juicy Asakusa Menchi-katsu street food</figcaption>
+<img src="/images/posts/asakusa-food-guide-11.jpg" alt="Crispy juicy Asakusa Menchi (浅草メンチ) street food">
+<figcaption style="font-size: 0.85em; text-align: center;">Crispy, juicy Asakusa Menchi (浅草メンチ) street food</figcaption>
 </figure>
 
 <h3>4️⃣ Suzukien (壽々喜園) Matcha Ice Cream</h3>
@@ -228,11 +228,11 @@ translationKey: "asakusa-food-guide"
 <figcaption style="font-size: 0.85em; text-align: center;">Suzukien 2nd floor ice cream eating space</figcaption>
 </figure>
 
-<h3>5️⃣ Kameya vs Kameju</h3>
+<h3>5️⃣ Kameya (亀屋) vs Kameju (亀十)</h3>
 
 <p>Asakusa has two famous long-established shops named after the 'turtle (亀)'. 🐢</p>
 
-<p><strong>① Kameya</strong></p>
+<p><strong>① Kameya (亀屋)</strong></p>
 <p>A place on Nakamise street to taste freshly baked <strong>ningyoyaki (doll-shaped cakes)</strong>.</p>
 <ul>
 <li><strong>Hours:</strong> 10:00 ~ 18:00 (until 18:30 on weekends)</li>
@@ -269,7 +269,7 @@ translationKey: "asakusa-food-guide"
 
 <h3>📍 Recommended Visit Order</h3>
 
-<p>[ Asakusa Station → Kameju → Kaminarimon → Nakamise (Kameya) → Menchi-katsu → Sensoji Main Hall → Suzukien → Kagetsu-do → Silk Pudding ]</p>
+<p>[ Asakusa Station → Kameju (亀十) → Kaminarimon → Nakamise (Kameya (亀屋)) → Asakusa Menchi (浅草メンチ) → Sensoji Main Hall → Suzukien (壽々喜園) → Asakusa Kagetsu-do (浅草花月堂) → Asakusa Silk Pudding (浅草シルクプリン) ]</p>
 <p><strong>Tip:</strong> Tackle Kameju first to reduce wait time, and buy Silk Pudding last to keep it fresh and minimize carrying heavy items.</p>
 
 <figure>

@@ -106,7 +106,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">店頭に掲げられたメニューと最新価格</figcaption>
 </figure>
 
-<h3>2️⃣ 浅草花月堂（かげつどう）のジャンボめろんぱん</h3>
+<h3>2️⃣ 浅草花月堂のジャンボめろんぱん</h3>
 
 <p>1日3,000個売れる、浅草のアイコン。単に大きいだけでなく、<strong>「発酵科学」</strong>に裏打ちされた唯一無二の食感が自慢です。🍞</p>
 
@@ -141,7 +141,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
   <li><strong>支払方法：</strong> 現金のみ</li>
 </ul>
 
-<p>一口かじると、じゅわっと溢れる肉汁に驚くはず！「高座豚」の甘みと和牛の旨味が凝縮されており、生パン粉を使ったサクサクの衣も絶品。お店に置いてある<strong>和からし（マスタード）</strong>をつけると、脂の甘みが引き立ってさらに美味しくなります。</p>
+<p>一口かじると、じゅわっと溢れる肉汁に驚くはず！「高座豚」の甘みと和牛の旨味が凝縮されており、生パン粉を使ったサクサクの衣も絶品。お店に置いてある<strong>和からし</strong>をつけると、脂の甘みが引き立ってさらに美味しくなります。</p>
 
 <p>※注意：前述の通り歩き食べは厳禁です。お店の隣にある専用スペースで食べてくださいね。⚠️</p>
 
@@ -157,7 +157,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">中から溢れ出す熱々の肉汁に注意！</figcaption>
 </figure>
 
-<h3>4️⃣ 壽々喜園（すずきえん）の抹茶ジェラート</h3>
+<h3>4️⃣ 壽々喜園の抹茶ジェラート</h3>
 
 <p>世界で最も濃い抹茶味を楽しめる「壽々喜園」は、江戸時代から続く<strong>茶問屋（諸国銘茶問屋）</strong>が運営。プロの目利きが選んだ最高級の茶葉を使用しています。</p>
 
@@ -185,11 +185,11 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">2階には広々とした飲食スペースがあります</figcaption>
 </figure>
 
-<h3>5️⃣ 亀屋（かめや） vs 亀十（かめじゅう）</h3>
+<h3>5️⃣ 亀屋 vs 亀十</h3>
 
 <p>浅草には、名前に「亀」が入った有名店が2つあります。どちらも外せません！🐢</p>
 
-<p><strong>① 亀屋 (Kameya)：</strong>
+<p><strong>① 亀屋：</strong>
 仲見世通りで「焼きたての人形焼」が食べられる老舗。
 📍 <a href="https://maps.app.goo.gl/gYzSSonMPqMpzDmB7" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>Googleマップで見る</strong></a></p>
 
@@ -201,7 +201,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">仲見世通りにある亀屋：人形焼を作る様子も見られます</figcaption>
 </figure>
 
-<p><strong>② 亀十 (Kameju)：</strong>
+<p><strong>② 亀十：</strong>
 「東京3大どら焼き」の一つに数えられる超有名店。ふわふわの皮が特徴で、お土産としての満足度は最高レベルです。
 📍 <a href="https://maps.app.goo.gl/45Ds7N7v4pMDq7bYA" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>Googleマップで見る</strong></a></p>
 
@@ -216,7 +216,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 
 <p>浅草駅に降りてから、お土産の重さまで計算した黄金ルートです。</p>
 
-<p><strong>[ 浅草駅 → 亀十（まず並ぶ！） → 雷門 → 仲見世（亀屋・メンチ） → 本堂参拝 → 壽々喜園 → 花月堂 → シルクプリン（帰りに買う） ]</strong></p>
+<p><strong>[ 浅草駅 → 亀十（まず並ぶ！） → 雷門 → 仲見世（亀屋・浅草メンチ） → 本堂参拝 → 壽々喜園 → 浅草花月堂 → 浅草シルクプリン（帰りに買う） ]</strong></p>
 
 <p>ポイントは、行列必須の「亀十」を最初に、重くて液体扱いになる「シルクプリン」を帰りに買うこと。これで身軽に観光を楽しめます！</p>
 

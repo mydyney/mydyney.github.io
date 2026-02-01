@@ -75,7 +75,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 
 <h2>3. 浅草必吃美食 Top 5 🍮</h2>
 
-<h3>1️⃣ 浅草丝滑布丁：带伴手礼请认准“常温款”！</h3>
+<h3>1️⃣ Asakusa Silk Pudding (浅草シルクプリン)：带伴手礼请认准“常温款”！</h3>
 
 <p>口感如丝绸般细腻，是东京必买的伴手礼。关于<strong>保质期和上机规定</strong>，您需要提前了解：</p>
 
@@ -106,7 +106,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">店门口展示的丰富口味与最新价目表</figcaption>
 </figure>
 
-<h3>2️⃣ 花月堂 (Kagetsu-do) 巨型菠萝包</h3>
+<h3>2️⃣ Asakusa Kagetsu-do (浅草花月堂) 巨型菠萝包</h3>
 
 <p>日销3000个的浅草名物。不只是大，由<strong>“发酵科学”</strong>打造的惊人语感才是它的必杀技。🍞</p>
 
@@ -132,7 +132,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">位于西参道入口处的花月堂总店外貌</figcaption>
 </figure>
 
-<h3>3️⃣ 浅草炸肉饼 (Asakusa Menchi)</h3>
+<h3>3️⃣ Asakusa Menchi (浅草メンチ)</h3>
 
 <p>顺着香气就能找到的排队神店。采用黑毛和牛与高座猪的黄金配比，是肉食爱好者的终极追求。🍖</p>
 
@@ -155,7 +155,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">一定要趁热吃，感受那股爆浆的幸福感</figcaption>
 </figure>
 
-<h3>4️⃣ 寿々喜园 (Suzukien) 抹茶冰淇淋</h3>
+<h3>4️⃣ Suzukien (壽々喜園) Matcha Ice Cream</h3>
 
 <p>抹茶爱好者的最终归宿！由江户时代流传下来的<strong>茶叶批发商（诸国名茶问屋）</strong>直营，用专业视角挑选的茶叶制作而成。</p>
 
@@ -183,11 +183,11 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">2楼设有宽敞的立食和久坐区，环境很舒心</figcaption>
 </figure>
 
-<h3>5️⃣ 龟屋 (Kameya) vs 龟十 (Kameju)</h3>
+<h3>5️⃣ Kameya (亀屋) vs Kameju (亀十)</h3>
 
 <p>浅草有两家以“龟”命名的长青名店，各自有着不可取代的美味。🐢</p>
 
-<p><strong>① 龟屋：</strong>
+<p><strong>① Kameya (亀屋)：</strong>
 在仲见世商店街现烤现卖著名的<strong>人形烧</strong>，可以买几个尝味。
 📍 <a href="https://maps.app.goo.gl/gYzSSonMPqMpzDmB7" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>在 Google 地图上查看</strong></a></p>
 
@@ -199,7 +199,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 <figcaption style="font-size: 0.85em; text-align: center;">看老师傅现场制作人形烧是一种特别的治愈</figcaption>
 </figure>
 
-<p><strong>② 龟十：</strong>
+<p><strong>② Kameju (亀十)：</strong>
 荣获“东京三大铜锣烧”之名，它的皮像松饼一样轻盈蓬松。排队虽然久，但绝对是分量感十足的顶级伴手礼。
 📍 <a href="https://maps.app.goo.gl/45Ds7N7v4pMDq7bYA" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>在 Google 地图上查看</strong></a></p>
 
@@ -214,7 +214,7 @@ featured_image: "/images/posts/asakusa-food-guide-01.jpg"
 
 <p>这是一条为您计算好负重与等待时间的科学路线：</p>
 
-<p><strong>[ 浅草站 → 龟十（先去抢铜锣烧！） → 雷门 → 仲见世（龟屋/炸肉饼） → 本堂参拜 → 寿々喜园 → 花月堂 → 丝滑布丁（最后再拎重物） ]</strong></p>
+<p><strong>[ 浅草站 → Kameju (亀十) → 雷门 → 仲见世 (Kameya (亀屋) / Asakusa Menchi (浅草メンチ)) → 本堂参拜 → Suzukien (壽々喜園) → Asakusa Kagetsu-do (浅草花月堂) → Asakusa Silk Pudding (浅草シルクプリン) ]</strong></p>
 
 <p>把最热门、单品最重的食物排在首尾，能让您的步行负荷降到最低！</p>
 

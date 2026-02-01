@@ -142,6 +142,22 @@ When creating or editing blog posts, **ALWAYS** ensure tags match the language o
 - ✅ **Chinese posts** (`content/zh-cn/posts/`) → **Chinese tags only**
 - ❌ **NEVER mix languages** in tags within a single post
 
+### Shop Name & Terminology Notation Rules
+
+To ensure clarity and professional presentation across all languages, follow these rules for shop names and specific terminology:
+
+**1. English & Chinese (Simplified) Posts:**
+- Use the **English/International Name** followed by the **Original Japanese (Kanji/Kana)** in parentheses.
+- **NEVER** repeat the same notation in both places.
+- ✅ **CORRECT:** `Suzukien (壽々喜園)`, `Asakusa Silk Pudding (浅草シルクプリン)`
+- ❌ **WRONG:** `Kagetsu-do (Kagetsu-do)`, `Asakusa Menchi (Asakusa Menchi)`
+
+**2. Japanese Posts:**
+- Use the **Original Japanese/Kanji** directly.
+- **NEVER** add parenthetical explanations, English notations, or furigana for standard names.
+- ✅ **CORRECT:** `浅草花月堂`, `和からし`, `壽々喜園`
+- ❌ **WRONG:** `浅草花月堂（かげつどう）`, `和からし（マスタード）`, `壽々喜園（すずきえん）`
+
 **Why This Matters:**
 - **SEO:** Search engines prefer language consistency
 - **UX:** Users expect tags in the same language as the content
