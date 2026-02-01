@@ -19,6 +19,7 @@ This document provides detailed guidelines for creating and formatting blog cont
 7. [Blog Post Format](#blog-post-format)
 8. [Editor's Note](#editors-note)
 9. [Related Posts](#related-posts)
+10. [Klook Affiliate Link Conversion](#klook-affiliate-link-conversion)
 
 **⚠️ IMPORTANT:** This guide covers blog formatting, SEO, and content structure. If you're migrating from Naver Blog, you MUST also review **[MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md)** for the complete migration workflow and content translation rules.
 
@@ -758,6 +759,36 @@ When a blog post includes a location (restaurant, attraction, etc.), do **NOT** 
 - ✅ Link text should be standardized as shown above (**BOLD** and using specific language phrases).
 - ✅ Add a `📍` emoji at the beginning of the line.
 - ✅ Use `style="color: #667eea; text-decoration: underline;"` for the anchor tag.
+
+---
+
+## Klook Affiliate Link Conversion
+When migrating Naver Blog posts containing Klook affiliate links, you MUST convert them to the **Tripmate account** and localize them for each language.
+
+### 1. Tripmate Affiliate IDs
+- **Affiliate ID (AID)**: `110453`
+- **Ad ID (ADID)**: `1208343`
+- **UTM Source**: `tripmate`
+
+### 2. Localization Rules
+You must explicitly set the language path and currency per language version to ensure a localized experience.
+
+| Language | URL Path | Currency Parameters |
+| :--- | :--- | :--- |
+| **English (EN)** | `/en-US/` | `?currency=USD&n_currency=USD&ignore_ip=1` |
+| **Japanese (JA)** | `/ja/` | `?currency=JPY&n_currency=JPY&ignore_ip=1` |
+| **Chinese (ZH-CN)** | `/zh-CN/` | `?currency=CNY&n_currency=CNY&ignore_ip=1` |
+
+### 3. Conversion Workflow
+1.  **Extract Destination**: Identify the original product page URL (the `k_site` parameter).
+2.  **Clean Legacy Params**: Remove Naver-specific tracking (e.g., `clickId`, `aff_klick_id`).
+3.  **Localize Destination**: Swap the language prefix and append the **double currency** parameters + `ignore_ip=1`.
+4.  **Rebuild Wrapper**: Combine with Tripmate AID/ADID and `utm_source=tripmate`.
+
+**Example (Original Post Redirect):**
+`https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1410-skyliner-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1`
+
+---
 
 **Common CSS File:**
 All blog posts share common styles through `/static/css/blog-post-common.css`.

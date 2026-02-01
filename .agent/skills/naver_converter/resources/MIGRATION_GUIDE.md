@@ -678,6 +678,7 @@ None
 Before creating the PR, ensure:
 - ✅ Branch name follows convention: `claude/[descriptive-name]-[session-id]`
 - ✅ All files committed and pushed
+- ✅ Klook affiliate links converted to Tripmate account with localization?
 - ✅ PR title is clear and descriptive
 - ✅ PR description includes all sections (Summary, Changes, Testing, Files Changed)
 - ✅ Internal link conversion details documented

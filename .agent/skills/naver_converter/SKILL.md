@@ -119,7 +119,8 @@ python3 download_naver_images.py "[slug]"
 4.  **Japanese**: Natural desu/masu tone. No "Japan's X" phrasing. Remove tax-free info for JA if it's a guide for domestic Japanese. Use original Japanese/Kanji names directly without parenthetical explanations or furigana/bracketed readings.
 3.  **Chinese**: Engaging style with emojis. **NO** special quotes in front matter.
 4.  **Shop Name Notation**: Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#shop-name--terminology-notation-rules)** for strict rules (EN/ZH: `Name (Original)`, JA: `Original` only).
-5.  **Cultural Adaptation**: Follow the **[Cultural Adaptation & Writing Style](./resources/CONTENT_GUIDELINES.md#3-cultural-adaptation--writing-style)** master rules.
+5.  **Klook Affiliate Links**: Convert all Klook links using the **Tripmate account (AID: 110453)** and localize language/currency for each version. Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#klook-affiliate-link-conversion)** for the template.
+6.  **Cultural Adaptation**: Follow the **[Cultural Adaptation & Writing Style](./resources/CONTENT_GUIDELINES.md#3-cultural-adaptation--writing-style)** master rules.
 
 ---
 
