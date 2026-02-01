@@ -413,4 +413,12 @@ draft: false
   👉 <a href="/zh-cn/posts/tokyo-travel-preparation-guide/" target="_blank"><strong>[东京自由行行前准备 A to Z 清单]</strong></a></li>
 </ul>
 
+<!-- Editor's Note Section -->
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/224163039620" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
+
 </div>
