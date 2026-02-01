@@ -84,14 +84,54 @@ Compared to the peak cherry blossom season (March-April), the range of accommoda
     <td style="border: 1px solid #ddd; padding: 12px;"><span style="background-color: #b0f1ff;">Shinkansen</span> Kodama boarding (approx. 45 min). Minimize travel fatigue.</td>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">10:10</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ Ieyasu-no-Yu</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Free footbath in front of Atami Station. Relax immediately upon arrival (Bring your own towel).</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">11:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍣 Lunch: Izu-taro</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Lusca Atami 3F. Kaisen-don is recommended. Highest efficiency as it's directly connected to the station.</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">11:54</td>
     <td style="border: 1px solid #ddd; padding: 12px;">Atami → Kawazu</td>
     <td style="border: 1px solid #ddd; padding: 12px;"><span style="background-color: #b0f1ff;">Limited Express Odoriko</span> boarding. *All seats reserved / Advance booking mandatory.</td>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">13:10</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>🌸 Kawazu Sakura Festival</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Stroll through the cherry blossom tunnel and enjoy the contrast with canola flowers.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">16:14 ~ 17:27</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Kawazu → Atami</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><span style="background-color: #b0f1ff;">Limited Express Odoriko</span> boarding (Beware of sold-out return tickets).</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">18:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍲 Dinner: Irori Chaya</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Simmered Kinmedai & Hearth-grill. Great atmosphere for a drink.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">19:45</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Move to Onsen</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Moving to the spa by taxi (approx. 1,000 yen).</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">20:00</td>
     <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ Ocean Spa Fuua</strong></td>
     <td style="border: 1px solid #ddd; padding: 12px;">Large spa facility for night view appreciation (Utilize After 8 time slot).</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">21:40</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Move to Hotel</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Use the spa's free shuttle bus or a taxi.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">21:55</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Check-in</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Prince Smart Inn Atami</td>
   </tr>
 </table>
 </div>
@@ -106,9 +146,44 @@ Compared to the peak cherry blossom season (March-April), the range of accommoda
     <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Details & Tips</th>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">08:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Breakfast & Check-out</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Free breakfast set using Tully's Coffee voucher.</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">09:30</td>
     <td style="border: 1px solid #ddd; padding: 12px;"><strong>🌸 Atami Plum Garden</strong></td>
     <td style="border: 1px solid #ddd; padding: 12px;">Early morning walk recommended. Includes Korean Garden view.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">10:40</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>🏯 Kinomiya Shrine</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">2,000-year-old giant Camphor tree & stylish shrine cafe.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">12:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ Ozawa-no-Yu</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Experience boiling eggs in hot spring steam (Buy eggs across the street).</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">13:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🐟 Lunch: Kamatsuru</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">150-year traditional grilled fish set. Try the Kinmedai.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">14:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Moon Terrace & Sun Beach</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Walk along the Moon Terrace and Sun Beach, enjoy the "Naples of the East" vibe.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">16:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍮 Sweet Time</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Enjoy popular desserts at Atami Pudding or Butter-an.</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">17:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍣 Dinner: Kobayashi</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">Visually stunning "Yume Chirashi" bowl.</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">19:05</td>
@@ -124,25 +199,92 @@ Compared to the peak cherry blossom season (March-April), the range of accommoda
 
 <h3>1) Tokyo → Atami: What should you take?</h3>
 
-<div class="image-group">
-  <figure>
-    <img src="/images/posts/atami-kawazu-cherry-blossom-festival-guide-03.jpg" alt="Mt. Fuji from Shinkansen">
-    <figcaption style="font-size: 0.85em; text-align: center;">Tokyo Station → Atami Station Shinkansen, 2-Day Tokyo Suburbs Travel Transportation</figcaption>
-  </figure>
+<div class="table-container">
+<table class="se-table-content" style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #bdfbfa;">
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Category</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">① Shinkansen (Best)</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">② Limited Express Odoriko</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">③ Tokaido Main Line</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">Travel Time</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Approx. 43m (Fastest)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Approx. 1h 20m</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Approx. 1h 46m</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">Cost (One-way)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥3,740 ~</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥3,560</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥1,980</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">Reserved Seat</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">O</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">O</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">X</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">JR Pass (National)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Free (Reserved)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Free</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Free</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">JR Tokyo Wide Pass</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Not Allowed (X)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Free</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Free</td>
+  </tr>
+</table>
 </div>
+
+<p><strong>⚠️ JR Tokyo Wide Pass Note</strong><br>
+The Wide Pass **CANNOT** be used for the Shinkansen between Tokyo and Atami! Holders must take the **② Limited Express Odoriko** to travel for free.</p>
 
 <p><strong>🗻 [Tip] How to see 'Mt. Fuji' from the Shinkansen</strong></p>
 <ul>
+  <li><img src="/images/posts/atami-kawazu-cherry-blossom-festival-guide-03.jpg" alt="Mt. Fuji from Shinkansen" style="width: 100%; max-width: 600px; display: block; margin: 10px 0;"></li>
   <li><strong>Recommended Seat: Row E</strong> (2-person window seat / Proceeding direction right)</li>
-  <li><strong>Reason</strong>: On clear days, you can appreciate Mt. Fuji rising in the distance when passing near Odawara Station.</li>
+  <li><strong>Note</strong>: Shinkansen has many tunnels, so sea views are rare. If you want sea views, choose the Odoriko!</li>
 </ul>
 
-<h3>2) Atami → Kawazu: Sea View Prime Seats</h3>
+<h3>2) Atami → Kawazu: Luxury vs Value</h3>
+
+<div class="table-container">
+<table class="se-table-content" style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #ffe3c8;">
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">Category</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">① Saphir Odoriko</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">② Limited Express Odoriko</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">③ JR Ito Line</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">Travel Time</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Approx. 59m</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Approx. 76m</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Approx. 88m</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">Cost (One-way)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥5,430</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥3,330</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">¥1,770</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">Feature</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">All Green Seats / Luxury</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">All Reserved Seats</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">Local Train / Commuter</td>
+  </tr>
+</table>
+</div>
 
 <p><strong>🌊 [Tip] Odoriko 'Sea View' Prime Seats</strong></p>
 <ul>
   <li><strong>Recommended Seats: Row A, Row B (Sea side)</strong></li>
-  <li><strong>Reason</strong>: Because it runs along the coastline of the Izu Peninsula, you <strong>must secure the sea side (A, B)</strong>! Row C and D see mostly mountains the whole way.</li>
+  <li><strong>Reason</strong>: Because it runs along the coastline of the Izu Peninsula, you <strong>must secure the sea side (A, B)</strong>!</li>
 </ul>
 
 <h3>3) Train Reservation Method (Sold-out Warning)</h3>

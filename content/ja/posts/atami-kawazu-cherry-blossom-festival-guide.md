@@ -1,7 +1,7 @@
 ---
 title: "熱海 & 河津桜まつり 1泊2日モデルコース：見どころ、グルメ、交通アクセス完全ガイド"
 date: 2026-01-28
-description: "2月の河津桜と熱海温泉を満喫하는 1泊2日の旅行ガイド。新幹線や踊り子の座席選び、おすすめグルメ、パワースポットまで詳しく紹介。"
+description: "2月の河津桜と熱海温泉を満喫できる 1泊2日の旅行ガイド。新幹線や踊り子の座席選び、おすすめグルメ、パワースポットまで詳しく紹介。"
 slug: atami-kawazu-cherry-blossom-festival-guide
 translationKey: "atami-kawazu-cherry-blossom-festival-guide"
 categories: ["旅行ガイド"]
@@ -84,14 +84,54 @@ draft: false
     <td style="border: 1px solid #ddd; padding: 12px;"><span style="background-color: #b0f1ff;">新幹線</span>「こだま」に乗車（約45分）。移動の疲れを最小限に。</td>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">10:10</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ 家康の湯（足湯）</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">熱海駅広場前の無料足湯。到着直後に疲れを癒やす（タオル持参推奨）。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">11:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍣 昼食：伊豆太郎</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">ラスカ熱海 3F。海鮮丼がおすすめ。駅ナカで移動効率も抜群。</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">11:54</td>
     <td style="border: 1px solid #ddd; padding: 12px;">熱海 → 河津</td>
     <td style="border: 1px solid #ddd; padding: 12px;"><span style="background-color: #b0f1ff;">特急「踊り子」</span>に乗車。*全車指定席のため事前予約必須。</td>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">13:10</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>🌸 河津桜まつり</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">川沿いの桜トンネルと菜の花のコラボ、屋台グルメを楽しむ。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">16:14 ~ 17:27</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">河津 → 熱海</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><span style="background-color: #b0f1ff;">特急「踊り子」</span>に乗車（帰りのチケット確保に注意）。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">18:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍲 夕食：囲炉茶屋</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">金目鯛の煮付け ＆ 囲炉裏焼き。お酒が進む絶好の雰囲気。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">19:45</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">温泉へ移動</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">飲食店からスパまでタクシー移動（約1,000円前後）。</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">20:00</td>
     <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ オーシャンスパ Fuua</strong></td>
-    <td style="border: 1px solid #ddd; padding: 12px;">夜景を楽しむ大型スパ施設（「アフター8」プランの活用を推奨）。</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">夜景を楽しめる大型スパ施設（「アフター8」プランの活用を推奨）。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">21:40</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">ホテルへ移動</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">スパから熱海駅行きの無料シャトルバスを利用。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">21:55</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">チェックイン</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">プリンス スマート イン 熱海</td>
   </tr>
 </table>
 </div>
@@ -106,9 +146,44 @@ draft: false
     <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">詳細 & チップス</th>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">08:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">朝食 ＆ チェックアウト</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">タリーズコーヒーの無料朝食セット。</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">09:30</td>
     <td style="border: 1px solid #ddd; padding: 12px;"><strong>🌸 熱海梅園</strong></td>
     <td style="border: 1px solid #ddd; padding: 12px;">早朝の散策がおすすめ。韓国庭園も見どころの一つ。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">10:40</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>🏯 来宮神社</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">樹齢2000年の大楠 ＆ 境内カフェで一息。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">12:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ 小沢の湯</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">温泉の蒸気で温泉たまご作り体験（卵は向かいの商店で購入）。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">13:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🐟 昼食：釜つる</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">150年続く老舗の干物定食。金目鯛がおすすめ。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">14:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">親水公園 ＆ サンビーチ</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">ムーンテラス ＆ サンビーチを散策。「東洋のナポリ」を満喫。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">16:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍮 スイーツ：熱海プリン</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">本館または2号店で人気スイーツを楽しむ。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">17:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍣 夕食：和食処こばやし</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">SNS映え抜群の「夢ちらし」で旅を締めくくる。</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">19:05</td>
@@ -124,25 +199,92 @@ draft: false
 
 <h3>1) 東京 → 熱海：何に乗るべき？</h3>
 
-<div class="image-group">
-  <figure>
-    <img src="/images/posts/atami-kawazu-cherry-blossom-festival-guide-03.jpg" alt="新幹線からの富士山">
-    <figcaption style="font-size: 0.85em; text-align: center;">東京駅 → 熱海駅の新幹線。2日間の東京近郊旅行の強力な移動手段</figcaption>
-  </figure>
+<div class="table-container">
+<table class="se-table-content" style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #bdfbfa;">
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">区分</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">① 新幹線 (おすすめ)</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">② 特急 踊り子号</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">③ 東海道本線</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">所要時間</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">約 43分 (最速)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">約 1時間 20分</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">約 1時間 46分</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">料金（片道）</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">3,740円 〜</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">3,560円</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">1,980円</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">指定席</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">O</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">O</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">X</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">全国版 JRパス</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">無料 (指定席可)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">無料</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">無料</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">JR 東京ワイドパス</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">利用不可 (X)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">無料</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">無料</td>
+  </tr>
+</table>
 </div>
+
+<p><strong>⚠️ JR 東京ワイドパス (Tokyo Wide Pass) 注意事項</strong><br>
+ワイドパスでは 東京〜熱海 間の新幹線には<strong>絶対に乗車できません</strong>（改札を通れません）。ワイドパスをお持ちの方は、必ず <strong>② 特急 踊り子号</strong> を選ぶことで無料特典を受けられます。</p>
 
 <p><strong>🗻 【裏技】新幹線から「富士山」を見る方法</strong></p>
 <ul>
+  <li><img src="/images/posts/atami-kawazu-cherry-blossom-festival-guide-03.jpg" alt="新幹線からの富士山" style="width: 100%; max-width: 600px; display: block; margin: 10px 0;"></li>
   <li><strong>おすすめ座席：E席</strong>（2人掛けの窓側 / 進行方向右側）</li>
-  <li><strong>理由</strong>：晴れた日には、小田原駅付近を通過する際に遠くにそびえ立つ富士山を眺めることができます。</li>
+  <li><strong>注意</strong>：新幹線はトンネルが多いため、海はほとんど見えません。海景を楽しみたい方は踊り子号を選んでください！</li>
 </ul>
 
-<h3>2) 熱海 → 河津：オーシャンビューの特等席</h3>
+<h3>2) 熱海 → 河津：景観 (View) vs コスパ</h3>
+
+<div class="table-container">
+<table class="se-table-content" style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #ffe3c8;">
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">区分</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">① サフィール踊り子</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">② 特急 踊り子号</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">③ JR 伊東線</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">所要時間</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">約 59分</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">約 76分</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">約 88分</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">料金（片道）</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">5,430円</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">3,330円</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">1,770円</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">特徴</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">全席グリーン席 / 贅沢な作り</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">全車指定席</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">普通通勤電車 / 各駅停車</td>
+  </tr>
+</table>
+</div>
 
 <p><strong>🌊 【チップス】「踊り子」号の海側座席</strong></p>
 <ul>
   <li><strong>おすすめ座席：A席、B席（海側）</strong></li>
-  <li><strong>理由</strong>：伊豆半島の海岸線を走るため、<strong>必ず海側（A, B）</strong> を確保してください！C, D席はほとんど山側の景色になります。</li>
+  <li><strong>理由</strong>：伊豆半島の海岸線を走るため、<strong>必ず海側（A, B）</strong> を確保してください！</li>
 </ul>
 
 <h3>3) 列車の予約方法（完売注意）</h3>

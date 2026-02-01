@@ -67,8 +67,6 @@ draft: false
 
 <h2 style="text-align: center;">📅 2. 【总结】热海 & 河津2天1夜游时间表</h2>
 
-<p>行程的核心理念是<strong>“白天在河津赏樱，晚上在热海享受温泉与美食”</strong>。</p>
-
 <h3>📍 第一天：樱花祭与热海之夜（周六）</h3>
 
 <div class="table-container">
@@ -84,14 +82,54 @@ draft: false
     <td style="border: 1px solid #ddd; padding: 12px;">乘坐<span style="background-color: #b0f1ff;">新干线</span> Kodama号（约45分钟）。减少旅途劳累。</td>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">10:10</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ 家康之汤</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">热海站前免费足浴。抵达后即刻放松（需自备毛巾）。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">11:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍣 午餐：伊豆太郎</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">热海站大楼 Lusca 3F。推荐海鲜丼，站内直达最高效。</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">11:54</td>
     <td style="border: 1px solid #ddd; padding: 12px;">热海 → 河津</td>
     <td style="border: 1px solid #ddd; padding: 12px;">乘坐<span style="background-color: #b0f1ff;">特急 踊子号 (Odoriko)</span>。*全席指定 / 必须提前预约。</td>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">13:10</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>🌸 河津樱花祭</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">漫步在河边樱花隧道，享受油菜花与粉樱的和谐共舞。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">16:14 ~ 17:27</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">河津 → 热海</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">乘坐<span style="background-color: #b0f1ff;">特急 踊子号</span>。注意返程票售罄风险。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">18:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍲 晚餐：围炉茶屋</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">金目鲷煮付 & 围炉烧。氛围极佳，适合品酒。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">19:45</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">前往温泉</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">搭乘出租车前往水疗中心（约1,000日元）。</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">20:00</td>
     <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ 海洋水疗中心 Fuua</strong></td>
     <td style="border: 1px solid #ddd; padding: 12px;">欣赏夜景的大型水疗设施（建议利用“After 8”优惠时间段）。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">21:40</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">前往酒店</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">利用水疗中心的免费接驳巴士或出租车。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">21:55</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">入住登记</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">入住热海王子智能饭店。</td>
   </tr>
 </table>
 </div>
@@ -106,9 +144,44 @@ draft: false
     <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">详情与建议</th>
   </tr>
   <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">08:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">早餐与退房</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">享用 Tully's Coffee 礼券提供的免费早餐。</td>
+  </tr>
+  <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">09:30</td>
     <td style="border: 1px solid #ddd; padding: 12px;"><strong>🌸 热海梅园</strong></td>
     <td style="border: 1px solid #ddd; padding: 12px;">建议清晨散步。包含韩国庭园美景。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">10:40</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>🏯 来宫神社</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">2000年树龄的大楠树 & 时尚的神社咖啡馆。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">12:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;"><strong>♨️ 小泽之汤</strong></td>
+    <td style="border: 1px solid #ddd; padding: 12px;">体验用温泉蒸汽煮蛋（鸡蛋需在对面商店购买）。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">13:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🐟 午餐：釜つる</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">150年传统的烤干鱼定食，必试金目鲷。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">14:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">亲水公园与海滩</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">在月亮露台与阳光海滩散步，体验“东方那不勒斯”氛围。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">16:00</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍮 甜味时光</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">在热海步丁或 Butter-an 享受人气甜点。</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">17:30</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">🍣 晚餐：Kobayashi</td>
+    <td style="border: 1px solid #ddd; padding: 12px;">视觉享受拉满的“梦幻散寿司”。</td>
   </tr>
   <tr>
     <td style="border: 1px solid #ddd; padding: 12px;">19:05</td>
@@ -124,25 +197,92 @@ draft: false
 
 <h3>1) 东京 → 热海：选哪种车？</h3>
 
-<div class="image-group">
-  <figure>
-    <img src="/images/posts/atami-kawazu-cherry-blossom-festival-guide-03.jpg" alt="从新干线看富士山">
-    <figcaption style="font-size: 0.85em; text-align: center;">东京站 → 热海站新干线，2天1夜东京近郊旅行的神器</figcaption>
-  </figure>
+<div class="table-container">
+<table class="se-table-content" style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #bdfbfa;">
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">区分</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">① 新干线 (推荐)</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">② 特急 踊子号</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">③ 东海道本线</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">所需时间</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">约 43分 (最快)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">约 1小时 20分</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">约 1小时 46分</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">费用 (单程)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">3,740日元 ~</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">3,560日元</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">1,980日元</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">全席指定</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">O</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">O</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">X</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">JR Pass (全国)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">免费 (可指定席)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">免费</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">免费</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">JR 东京广域券</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">不可使用 (X)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">免费</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">免费</td>
+  </tr>
+</table>
 </div>
+
+<p><strong>⚠️ JR 东京广域周游券 (Tokyo Wide Pass) 注意事项</strong><br>
+广域券<strong>绝对不能</strong>乘坐 东京~热海 段的新干线！持券者请务必选择 <strong>② 特急 踊子号</strong> 才能享受免费乘车。</p>
 
 <p><strong>🗻 【秘笈】如何在新干线上看到“富士山”</strong></p>
 <ul>
+  <li><img src="/images/posts/atami-kawazu-cherry-blossom-festival-guide-03.jpg" alt="从新干线看富士山" style="width: 100%; max-width: 600px; display: block; margin: 10px 0;"></li>
   <li><strong>推荐座位：E排</strong> (双人位窗侧 / 运行方向右侧)</li>
-  <li><strong>理由</strong>：天气晴朗时，当列车经过小田原站附近，您可以欣赏到远处巍峨的富士山。</li>
+  <li><strong>注意</strong>：新干线隧道较多，几乎看不到海。想看海景请选踊子号！</li>
 </ul>
 
-<h3>2) 热海 → 河津：海景头等舱座位</h3>
+<h3>2) 热海 → 河津：景观 (View) vs 性价比</h3>
+
+<div class="table-container">
+<table class="se-table-content" style="width: 100%; border-collapse: collapse;">
+  <tr style="background-color: #ffe3c8;">
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: left;">区分</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">① 蓝宝石踊子号</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">② 特急 踊子号</th>
+    <th style="border: 1px solid #ddd; padding: 12px; text-align: center;">③ JR 伊东线</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">所需时间</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">约 59分</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">约 76分</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">约 88分</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">费用 (单程)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">5,430日元</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">3,330日元</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">1,770日元</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 12px;">特征</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">全席绿席(头等) / 极尽奢华</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">全席指定(无自由席)</td>
+    <td style="border: 1px solid #ddd; padding: 12px; text-align: center;">普通通勤车 / 站站停</td>
+  </tr>
+</table>
+</div>
 
 <p><strong>🌊 【提示】踊子号“海景”黄金座位</strong></p>
 <ul>
   <li><strong>推荐座位：A排、B排（靠海侧）</strong></li>
-  <li><strong>理由</strong>：列车沿伊豆半岛海岸线行驶，<strong>请务必锁定海侧座位（A, B）</strong>！C, D排全程基本只能看到山景。</li>
+  <li><strong>理由</strong>：列车沿伊豆半岛海岸线行驶，<strong>请务必锁定海侧座位（A, B）</strong>！</li>
 </ul>
 
 <h3>3) 列车预约方法（谨防售罄）</h3>
@@ -394,7 +534,7 @@ draft: false
 
 <p>攻略已备好，即刻出发吧。</p>
 
-<p>跟随这个行程，我有信心您将体验到2月最早的春意、最从容的赏樱时光以及最满足的珍馐美味。</p>
+<p>跟随这个行程，我有信心您将体验到2月最早的春意、最从容的赏樱时光以及最令人满意的珍馐美味。</p>
 
 <p>不久后，我将为您带来漫山粉色樱花的实拍美景，以及热海餐厅、温泉的深度测评，敬请期待。</p>
 
