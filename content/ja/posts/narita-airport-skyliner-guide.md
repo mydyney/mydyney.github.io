@@ -113,7 +113,7 @@ N'EXとの完全比較まで、この記事ですべてマスターしましょ�
 
 <b>➡️ <a href="https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/ko/ticket/skyliner-ticket/index.php" target="_blank">スカイライナー公式オンライン予約</a></b>
 
-<b>➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1120867&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1410-skyliner-tokyo%2F" target="_blank">Klookでスカイライナー予約</a></b>
+<b>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1410-skyliner-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klookでスカイライナー予約</a></b>
 
 現地通貨で決済でき、追加割引クーポンが適用できるKlookでの事前予約が最も便利でお得です。東京メトロパスセット商品も販売しています。
 

@@ -224,7 +224,7 @@ categories: ["旅行指南"]
 
 <p><strong>⑤ 确认订单并准备车票</strong></p>
 <p>截图或打印预订成功页面。乘车时，请配合基础车票（周游券或IC卡）一同使用。</p>
-<p><strong>➡️</strong> <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1131650&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F821-hakone-transport-day-pass-tokyo%2F" target="_blank"><strong>在 Klook 购买电子版箱根周游券</strong></a></p>
+<p><strong>➡️</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F821-hakone-transport-day-pass-tokyo%2F%3Fcurrency%3DCNY" target="_blank"><strong>在 Klook 购买电子版箱根周游券</strong></a></p>
 
 <div style="background-color: #fff4f4; padding: 15px; border: 1px solid #ffcccc; border-radius: 8px; margin: 1.5rem 0;">
   <p><strong>⚠️ 更改预订及退票方法</strong></p>

@@ -77,7 +77,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 現場発券は待ち時間が長く300円も高いです。入場チケットは午後3時を基準に価格が変わります。（子供チケットは現場販売のみ可能、6歳以下無料）
 
-<strong>➡️ [クルック(Klook)で渋谷スカイを最安値で予約する](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1137488&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F70672-shibuya-sky-tokyo%2F)</strong>  
+<strong>➡️ [クルック(Klook)で渋谷スカイを最安値で予約する](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F70672-shibuya-sky-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY>  
 <strong>➡️ [渋谷スカイ公式ホームページで予約する](https://webket.jp/pc/ticket/itemdetail?fc=00396&ac=8001&igc=0030&lang=0)（会員登録必要）</strong>
 
 <table class="schedule-table">

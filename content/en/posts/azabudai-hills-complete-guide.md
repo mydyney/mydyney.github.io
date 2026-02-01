@@ -91,7 +91,7 @@ The <strong>'teamLab Borderless'</strong> that sadly closed in Odaiba in 2022 <s
 
 📌 <strong>Tip:</strong> <strong>100% online advance booking required</strong>—no on-site tickets available. Book at least a few weeks in advance if you're planning to visit.
 
-✅ <strong>[Buy teamLab Borderless Tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1145918&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F)</strong>
+✅ <strong>[Buy teamLab Borderless Tickets on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD>
 
 ➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Azabudai Hills teamLab Borderless Complete Guide</strong></a>
 

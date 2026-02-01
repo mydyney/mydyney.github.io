@@ -77,7 +77,7 @@ featured_image: "/images/posts/shibuya-complete-guide-2025-01.jpg"
 
 现场购票等待时间长，且贵300日元。入场票以下午3点为基准价格变化。（儿童票仅现场销售，6岁以下免费）
 
-<strong>➡️ [在Klook以最优惠价格预订涩谷SKY](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1137488&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F70672-shibuya-sky-tokyo%2F)</strong>  
+<strong>➡️ [在Klook以最优惠价格预订涩谷SKY](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F70672-shibuya-sky-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>  
 <strong>➡️ [在涩谷SKY官网预订](https://webket.jp/pc/ticket/itemdetail?fc=00396&ac=8001&igc=0030&lang=0)（需注册会员）</strong>
 
 <table class="schedule-table">

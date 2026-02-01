@@ -86,7 +86,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 - <strong>预订方法</strong>:Klook、KKday / JR东日本服务中心
 
-<strong>✅ [在Klook预订成田特快↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)</strong>
+<strong>✅ [在Klook预订成田特快↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>
 
 ### ⏰ N'EX时刻表(成田机场 → 新宿站)
 
@@ -213,7 +213,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 - <strong>预订方法</strong>:Klook / 机场售票柜台
 
-<strong>✅ [在Klook预订利木津巴士↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1121184&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F)</strong>
+<strong>✅ [在Klook预订利木津巴士↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>
 
 ### 📍 利木津巴士乘车点
 

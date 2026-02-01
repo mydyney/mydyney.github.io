@@ -84,7 +84,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <p>現地で購入することもできますが、<b>Klook</b>や<b>KKday</b>などの旅行プラットフォームで事前に予約しておくと、安くスムーズに購入できる場合が多いです。</p>
 
-<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klookで東京メトロパスを最安値で予約する</a></b></p>
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klookで東京メトロパスを最安値で予約する</a></b></p>
 
 <br>
 
@@ -213,7 +213,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 <h3>🚇 京成スカイライナー ＋ 東京メトロパス</h3>
 <p>成田空港を利用する方に強くおすすめします。個別に購入するよりもずっと安くなります。</p>
 
-<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F" target="_blank">Klookでスカイライナー＋地下鉄パスセットを最安値で予約する</a></b></p>
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klookでスカイライナー＋地下鉄パスセットを最安値で予約する</a></b></p>
 
 <br>
 

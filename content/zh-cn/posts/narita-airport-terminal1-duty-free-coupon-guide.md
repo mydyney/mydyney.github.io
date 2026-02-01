@@ -73,7 +73,7 @@ ANA DUTY & TAX FREE SHOP Klook 5%折扣券使用指南<br>
 
 <strong>📌 注意!! 仅限ANA DUTY FREE SHOP使用!!!</strong>
 
-➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1154644&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F180131-ana-duty-tax-free-shop-x-klook-5-off-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da31b9d9caf" target="_blank"><b>在Klook下载成田机场免税店优惠券</b></a>
+➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F180131-ana-duty-tax-free-shop-x-klook-5-off-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DCNY" target="_blank"><b>在Klook下载成田机场免税店优惠券</b></a>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-03.jpg" alt="Klook ANA免税店5%折扣券页面">

@@ -63,7 +63,7 @@ featured_image: "/images/posts/yokohama-one-day-itinerary-01.jpg"
 为了更舒适地游览横滨，建议一定要买一张！</p>
 
 <p style="text-align: center;">
-  <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1159077&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F111555-minato-burari-ticket%2F" target="_blank" style="display: inline-block; background-color: #ff5b00; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold;">🎫 预订横滨港区漫步周游券</a>
+  <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DCNY" target="_blank" style="display: inline-block; background-color: #ff5b00; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold;">🎫 预订横滨港区漫步周游券</a>
 </p>
 
 <div class="related-post-link">

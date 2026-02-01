@@ -73,7 +73,7 @@ This coupon is <strong>free to download</strong>.
 
 <strong>📌 IMPORTANT!! Only available at ANA DUTY FREE SHOP!!!</strong>
 
-➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1154644&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F180131-ana-duty-tax-free-shop-x-klook-5-off-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da31b9d9caf" target="_blank"><b>Download Narita Airport Duty-Free Coupon on Klook</b></a>
+➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F180131-ana-duty-tax-free-shop-x-klook-5-off-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD" target="_blank"><b>Download Narita Airport Duty-Free Coupon on Klook</b></a>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-03.jpg" alt="Klook ANA duty-free 5% discount coupon page">

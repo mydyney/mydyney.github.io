@@ -169,7 +169,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 - <strong>窍门：</strong> 10%免税+5%额外折扣优惠券 L-Breath除了10%免税（携带护照）之外，出示下方Klook优惠券可从免税金额再享5%额外折扣！
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142147&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D703c9fdb4f" target="_blank"><b>在Klook下载L-Breath优惠券</b></a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DCNY" target="_blank"><b>在Klook下载L-Breath优惠券</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-03.jpg" alt="L-Breath5%折扣优惠券 免税优惠券">
@@ -201,7 +201,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 - <strong>窍门：</strong> 10%免税+5%额外折扣优惠券 Alpen东京也提供10%免税与5%额外折扣优惠券。
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1142097&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D86d7c92b24" target="_blank"><b>在Klook下载Alpen东京优惠券</b></a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DCNY" target="_blank"><b>在Klook下载Alpen东京优惠券</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="Alpen东京5%折扣优惠券 免税优惠券">

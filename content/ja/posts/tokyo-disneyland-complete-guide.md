@@ -143,7 +143,7 @@ featured_image: "/images/posts/tokyo-disneyland-complete-guide-01.jpg"
 - 日本語対応、日本円決済、便利
 - 割引クーポンで公式より安い場合も
 - 即座にQRコード発行、入場時にQR提示のみ！
-<strong>➡️ [Klookでディズニーランドチケット購入](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F)</strong>
+<strong>➡️ [Klookでディズニーランドチケット購入](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-03.jpg" alt="Klookアプリ 東京ディズニーランドチケット検索">

@@ -86,7 +86,7 @@ the fastest, most comfortable, and most punctual method."
 
 - <strong>Booking Methods</strong>: Klook, KKday / JR East Service Center
 
-<strong>✅ [Book Narita Express on Klook↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)</strong>
+<strong>✅ [Book Narita Express on Klook↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD>
 
 ### ⏰ N'EX Timetable (Narita Airport → Shinjuku Station)
 
@@ -213,7 +213,7 @@ if you're staying at hotels like Washington Hotel listed above, the limousine bu
 
 - <strong>Booking Methods</strong>: Klook / Airport ticket counter
 
-<strong>✅ [Book Airport Limousine on Klook↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1121184&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F)</strong>
+<strong>✅ [Book Airport Limousine on Klook↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD>
 
 ### 📍 Limousine Bus Stops
 

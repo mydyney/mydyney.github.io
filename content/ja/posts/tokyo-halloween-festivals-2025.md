@@ -67,7 +67,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
   - 10月20日（月）〜31日（金）：午後1時
 - <strong>夜空を彩るハロウィン花火 - 午後8時30分（5分間、1日1回）</strong>
 
-➡️ <strong>[Klookで東京ディズニーランドチケット予約](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1141865&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F)</strong>
+➡️ <strong>[Klookで東京ディズニーランドチケット予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY>
 
 <figure>
   <img src="/images/posts/tokyo-halloween-festivals-2025-05.jpg" alt="東京ディズニーリゾートハロウィン花火、ヴィランズテーマ">
@@ -83,7 +83,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 - <strong>SPOOKY PUMPKIN 2025:</strong> 10月25日夜9時30分〜翌日朝5時
   - 20歳以上成人専用オールナイト音楽フェスティバル。DJハローキティ、DJクロミが直接登場し、平手友梨奈、Kroiなど有名アーティストのライブ公演も。
 
-➡️ <strong>[Klookでサンリオピューロランドチケット予約](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1141865&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F)</strong>
+➡️ <strong>[Klookでサンリオピューロランドチケット予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY>
 
 ### 🎃 4. 子供と一緒！ファミリーハロウィンパレード
 

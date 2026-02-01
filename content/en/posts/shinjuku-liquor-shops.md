@@ -187,7 +187,7 @@ You can shop for electronics, medicine, and sake all at once, making it the most
 
 <strong>Tax-free 10% + Additional 3-7% Discount by Category</strong>
 
-<strong>✅ [Download Bic Camera Coupon from Klook↗](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1159187&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F73336-bic-camera-tourist-privilege-discount-coupon-2022%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8cbbe0ca97)</strong>
+<strong>✅ [Download Bic Camera Coupon from Klook↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F73336-bic-camera-tourist-privilege-discount-coupon-2022%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-10.jpg" alt="Shinjuku Bic Camera discount coupon tax-free 10% + additional 7% shopping tips">

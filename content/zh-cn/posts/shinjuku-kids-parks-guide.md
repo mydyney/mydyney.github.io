@@ -57,7 +57,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 ➡️ <a href="/zh-cn/posts/tokyo-disneyland-complete-guide/" target="_blank"><strong>东京迪士尼乐园完全指南（门票、DPA、午后券、酒店、美食、地图总结）</strong></a>
 
-✅ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F" target="_blank"><strong>在Klook购买迪士尼乐园门票</strong></a>
+✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DCNY" target="_blank"><strong>在Klook购买迪士尼乐园门票</strong></a>
 
 ### 🚌 从新宿到迪士尼乐园的交通
 
@@ -92,7 +92,7 @@ Hello Kitty、大耳狗、美乐蒂…
 
 一下京王多摩中心站，整个车站就用三丽鸥角色装饰，孩子们的反应立刻就出来了.
 
-✅ <a href="https://affiliate.klook.com/redirect?aid=89176&aff_adid=1154420&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F2276-sanrio-puroland-tokyo%2F" target="_blank"><strong>在Klook购买三丽鸥彩虹乐园门票</strong></a>
+✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F2276-sanrio-puroland-tokyo%2F%3Fcurrency%3DCNY" target="_blank"><strong>在Klook购买三丽鸥彩虹乐园门票</strong></a>
 
 ### 从新宿到三丽鸥彩虹乐园的交通
 

@@ -76,7 +76,7 @@ translationKey: "tokyo-3-day-itinerary-landmark-series"
 
 从成田机场乘坐 N'EX（成田特快）抵达交通枢纽新宿，并将行李寄放在酒店。
 
-👉 <strong>[预订 Klook N'EX（成田特快）往返折扣车票](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)</strong>
+👉 <strong>[预订 Klook N'EX（成田特快）往返折扣车票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>
 
 ✅ <strong>[成田机场到新宿指南 | N'EX 与利木津巴士对比](/posts/narita-to-shinjuku-2025/)</strong>
 
@@ -139,7 +139,7 @@ translationKey: "tokyo-3-day-itinerary-landmark-series"
 3. 上野 → 东京站（JY 山手线）◀ 此路段仅使用交通卡
 4. 东京站 → 新宿（东京地铁丸之内线M）
 
-👉 <strong>[预订 Klook 东京地铁通票（24/48/72 小时）最佳价格](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)</strong>
+👉 <strong>[预订 Klook 东京地铁通票（24/48/72 小时）最佳价格](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>
 
 ✅ <strong>[东京地铁通票购买、兑换地点、使用方法、路线完整总结](/posts/tokyo-subway-ticket-guide/)</strong>
 
@@ -206,7 +206,7 @@ translationKey: "tokyo-3-day-itinerary-landmark-series"
 3. 东银座 → 大门（都营浅草线A）
 4. 大门 → 新宿（都营大江户线E）
 
-👉 <strong>[预订 Klook 地铁通票（东京地铁通票）折扣](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)</strong>
+👉 <strong>[预订 Klook 地铁通票（东京地铁通票）折扣](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>
 
 ✅ <strong>[东京地铁通票购买、兑换地点、使用方法、路线（24、48、72 小时）](/posts/tokyo-subway-ticket-guide/)</strong>
 
@@ -280,7 +280,7 @@ translationKey: "tokyo-3-day-itinerary-landmark-series"
 
 漫步于隐藏在摩天大楼林立中的巨大花园<strong>新宿御苑</strong>。在这个作为动画电影《言叶之庭》背景而闻名的圣地缓解旅途的疲劳。
 
-👉 <strong>[预订 Klook 新宿御苑入园门票折扣](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1184452&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db0f4ac7e19)</strong>
+👉 <strong>[预订 Klook 新宿御苑入园门票折扣](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DCNY>
 
 ✅ <strong>[东京新宿御苑完整指南 | 门票、星巴克、野餐](/posts/shinjuku-gyoen-guide-2025/)</strong>
 

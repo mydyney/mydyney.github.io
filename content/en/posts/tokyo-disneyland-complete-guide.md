@@ -143,7 +143,7 @@ Most reliable, but may have overseas payment difficulties
 - Korean language support, KRW payment, convenient
 - Often cheaper than official site with discount coupons
 - Instant QR code issuance, just show QR at entry!
-<strong>➡️ [Buy Disneyland tickets on Klook](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1152009&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F)</strong>
+<strong>➡️ [Buy Disneyland tickets on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD>
 
 <figure>
   <img src="/images/posts/tokyo-disneyland-complete-guide-03.jpg" alt="Klook app Tokyo Disneyland ticket search">

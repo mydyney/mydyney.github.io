@@ -76,7 +76,7 @@ To avoid tangled routes, I've arranged it in the order: <strong>West (Day 1) →
 
 Take the N'EX (Narita Express) from Narita Airport to Shinjuku, a major transportation hub, and drop off your luggage at the hotel.
 
-👉 <strong>[Book Klook N'EX (Narita Express) Round-Trip Discount Ticket](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1157593&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F)</strong>
+👉 <strong>[Book Klook N'EX (Narita Express) Round-Trip Discount Ticket](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD>
 
 ✅ <strong>[Narita Airport to Shinjuku Guide | N'EX vs Limousine Comparison](/posts/narita-to-shinjuku-2025/)</strong>
 
@@ -139,7 +139,7 @@ Return to Shinjuku where your accommodation is. Explore <strong>Kabukicho</stron
 3. Ueno → Tokyo Station (JY Yamanote Line) ◀ Use transportation card for this section only
 4. Tokyo Station → Shinjuku (Tokyo Metro Marunouchi Line M)
 
-👉 <strong>[Book Klook Tokyo Subway Pass (24/48/72 hours) at Best Price](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)</strong>
+👉 <strong>[Book Klook Tokyo Subway Pass (24/48/72 hours) at Best Price](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD>
 
 ✅ <strong>[Tokyo Subway Pass Purchase, Exchange Locations, Usage, Routes Complete Summary](/posts/tokyo-subway-ticket-guide/)</strong>
 
@@ -206,7 +206,7 @@ Take the JR Yamanote Line to Tokyo Station. The red brick station building, over
 3. Higashi-Ginza → Daimon (Toei Asakusa Line A)
 4. Daimon → Shinjuku (Toei Oedo Line E)
 
-👉 <strong>[Book Klook Subway Pass (Tokyo Subway Ticket) Discount](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1135033&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F1552-subway-ticket-tokyo%2F)</strong>
+👉 <strong>[Book Klook Subway Pass (Tokyo Subway Ticket) Discount](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD>
 
 ✅ <strong>[Tokyo Subway Pass Purchase, Exchange Locations, Usage, Routes (24, 48, 72 hours)](/posts/tokyo-subway-ticket-guide/)</strong>
 
@@ -280,7 +280,7 @@ If you have time, you can also visit nearby Azabudai Hills or Roppongi.
 
 Stroll through <strong>Shinjuku Gyoen</strong>, a massive garden hidden among the skyscrapers. Relieve your travel fatigue at this place, famous as the setting for the anime <em>The Garden of Words</em>.
 
-👉 <strong>[Book Klook Shinjuku Gyoen Admission Ticket Discount](https://affiliate.klook.com/redirect?aid=89176&aff_adid=1184452&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db0f4ac7e19)</strong>
+👉 <strong>[Book Klook Shinjuku Gyoen Admission Ticket Discount](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD>
 
 ✅ <strong>[Tokyo Shinjuku Gyoen Complete Guide | Admission Fee, Starbucks, Picnic](/posts/shinjuku-gyoen-guide-2025/)</strong>
 
