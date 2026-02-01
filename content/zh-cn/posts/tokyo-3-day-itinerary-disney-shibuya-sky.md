@@ -78,7 +78,7 @@ featured_image: /images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg
 
 <p>从成田机场乘坐<b>N'EX（成田特快）</b>到新宿酒店放下行李。</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%3Fcurrency%3DCNY" target="_blank">Klook N'EX（成田特快）优惠预订</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">Klook N'EX（成田特快）优惠预订</a></b></p>
 
 <p><b>✅ <a href="/zh-cn/posts/narita-to-shinjuku-2025/" target="_blank">成田机场到新宿的方法｜成田特快 vs 机场巴士</a></b></p>
 
@@ -106,7 +106,7 @@ featured_image: /images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg
 
 <p>旅行前一个月开放预约，要提前抢票。现场购票几乎不可能。</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F70672-shibuya-sky-tokyo%2F%3Fcurrency%3DCNY" target="_blank">Klook 涩谷天空观景台优惠预订</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F70672-shibuya-sky-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">Klook 涩谷天空观景台优惠预订</a></b></p>
 
 <p><b>✅ <a href="/zh-cn/posts/shibuya-complete-guide-2025/" target="_blank">涩谷景点，从涩谷天空预约到餐厅的完美路线</a></b></p>
 
@@ -154,7 +154,7 @@ featured_image: /images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg
   <li><b>迪士尼海洋：</b>情侣旅行，刺激的游乐设施，浪漫氛围</li>
 </ul>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DCNY" target="_blank">Klook 迪士尼乐园＆迪士尼海洋门票优惠预订</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">Klook 迪士尼乐园＆迪士尼海洋门票优惠预订</a></b></p>
 
 <p><b>✅ <a href="/zh-cn/posts/tokyo-disneyland-complete-guide/" target="_blank">东京迪士尼乐园 vs 迪士尼海洋比较（门票、DPA、午后券、酒店、餐厅、地图总整理）</a></b></p>
 
@@ -173,7 +173,7 @@ featured_image: /images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg
 
 <p>🚃 这一天使用<b>地铁通票（24小时券）</b>可以节省交通费。（但是，地铁通票不能乘坐JR）</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY" target="_blank">Klook 地铁通票（东京地铁票）优惠预订</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">Klook 地铁通票（东京地铁票）优惠预订</a></b></p>
 
 <p><b>✅ <a href="/zh-cn/posts/tokyo-subway-ticket-guide/" target="_blank">东京地铁通票购买、兑换处、使用方法、线路（24、48、72小时）</a></b></p>
 
@@ -235,7 +235,7 @@ featured_image: /images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg
 
 <p>如果有时间，在都市绿洲新宿御苑散步，或在堂吉诃德新宿店完成最后的购物。</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DCNY" target="_blank">Klook 新宿御苑门票优惠预订</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DCNY%26n_currency%3DCNY" target="_blank">Klook 新宿御苑门票优惠预订</a></b></p>
 
 <p><b>✅ <a href="/zh-cn/posts/shinjuku-gyoen-guide-2025/" target="_blank">东京新宿御苑完全指南｜门票·开放时间·星巴克·樱花·野餐·跑步</a></b></p>
 

@@ -51,7 +51,9 @@ def update_link(match, lang):
 
     # Update/Add currency parameter in k_site
     k_site_params = urllib.parse.parse_qs(k_site_parsed.query)
+    # We use both 'currency' and 'n_currency' to maximize the chance of override
     k_site_params["currency"] = [locale_info["currency"]]
+    k_site_params["n_currency"] = [locale_info["currency"]]
     
     # Remove any tracking noise from k_site (standardize)
     for noise in ["clickId", "aff_klick_id", "utm_source", "utm_medium", "utm_campaign"]:

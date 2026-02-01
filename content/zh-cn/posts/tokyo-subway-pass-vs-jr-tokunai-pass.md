@@ -121,7 +121,7 @@ translationKey: "tokyo-subway-pass-vs-jr-tokunai-pass"
 
 虽然可以现场购买，但通过Klook或KKday等旅游平台提前购买最便宜、最方便。使用优惠券还能省更多！
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY" target="_blank">在Klook以最优价格购买东京地铁通票</a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">在Klook以最优价格购买东京地铁通票</a></strong>
 
 <strong>✅ 如何将二维码兑换为实体票</strong>
 
@@ -209,7 +209,7 @@ A3: 不一样。它是<strong>按小时计算</strong>，不是按天数，这�
 
 <strong>✅ 答案：东京地铁通票（24h/48h/72h票）</strong>
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY" target="_blank">在Klook以优惠价格购买东京地铁通票</a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">在Klook以优惠价格购买东京地铁通票</a></strong>
 
 <em><strong>"只有一天！我要乘JR山手线游览新宿-原宿-涩谷-东京站。"</strong></em>
 

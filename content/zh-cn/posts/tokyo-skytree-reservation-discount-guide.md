@@ -78,7 +78,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 旅行前在Klook提前预约吧！
 
-➡️ <strong>[Klook预约东京天空树折扣门票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F41352-tokyo-skytree%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>
+➡️ <strong>[Klook预约东京天空树折扣门票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F41352-tokyo-skytree%2F%29%3C%2Fstrong%3Fcurrency%3DCNY%26n_currency%3DCNY>
 
 ---
 
@@ -108,7 +108,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-05.jpg" alt="东京天空树展望回廊的回廊和绝佳景观">
-  <figcaption style="font-size: 0.7em; text-align: center;">天空树展望回廊的展望走廊（<a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F41352-tokyo-skytree%2F%3Fcurrency%3DCNY" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">天空树展望回廊的展望走廊（<a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F41352-tokyo-skytree%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ## ✅ 最终结论：你的选择？

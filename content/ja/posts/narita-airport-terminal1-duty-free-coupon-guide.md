@@ -73,7 +73,7 @@ Klookで成田空港免税店予約クーポンを事前に受け取っておけ
 
 <strong>📌 注意!! ANA DUTY FREE SHOPのみ利用可能!!!</strong>
 
-➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F180131-ana-duty-tax-free-shop-x-klook-5-off-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY" target="_blank"><b>Klookで成田空港免税店クーポンをダウンロード</b></a>
+➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F180131-ana-duty-tax-free-shop-x-klook-5-off-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY%26n_currency%3DJPY" target="_blank"><b>Klookで成田空港免税店クーポンをダウンロード</b></a>
 
 <figure>
   <img src="/images/posts/narita-airport-terminal1-duty-free-coupon-guide-03.jpg" alt="Klook ANA免税店5%割引クーポンページ">

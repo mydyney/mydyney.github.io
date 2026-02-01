@@ -171,7 +171,7 @@ This is <strong>'Plan B'</strong> for such people. These stores aren't on the of
 
 - <strong>Pro Tip: 10% Tax-Free + 5% Additional Discount Coupon</strong> L-Breath offers 10% tax-free (bring passport), and if you show the Klook coupon below, you can get an additional 5% discount on the tax-free amount!
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD" target="_blank"><b>Download L-Breath Coupon from Klook</b></a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD%26n_currency%3DUSD" target="_blank"><b>Download L-Breath Coupon from Klook</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-03.jpg" alt="L-Breath 5% discount coupon tax-free coupon">
@@ -203,7 +203,7 @@ This is <strong>'Plan B'</strong> for such people. These stores aren't on the of
 
 - <strong>Pro Tip:</strong> 10% Tax-Free + 5% Additional Discount Coupon Alpen Tokyo also offers 10% tax-free along with a 5% additional discount coupon.
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD" target="_blank"><b>Download Alpen Tokyo Coupon from Klook</b></a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD%26n_currency%3DUSD" target="_blank"><b>Download Alpen Tokyo Coupon from Klook</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="Alpen Tokyo 5% discount coupon tax-free coupon">

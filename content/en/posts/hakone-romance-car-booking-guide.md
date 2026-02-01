@@ -225,7 +225,7 @@ categories: ["Travel Tips"]
 
 <p><strong>⑤ Confirm Reservation and Prepare Ticket</strong></p>
 <p>Capture or print the reservation confirmation screen. Prepare it along with a separate boarding pass (Free Pass or IC card).</p>
-<p><strong>➡️</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F821-hakone-transport-day-pass-tokyo%2F%3Fcurrency%3DUSD" target="_blank"><strong>Purchase Digital Hakone Free Pass on Klook</strong></a></p>
+<p><strong>➡️</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F821-hakone-transport-day-pass-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank"><strong>Purchase Digital Hakone Free Pass on Klook</strong></a></p>
 
 <div style="background-color: #fff4f4; padding: 15px; border: 1px solid #ffcccc; border-radius: 8px; margin: 1.5rem 0;">
   <p><strong>⚠️ Reservation Changes and Refunds</strong></p>

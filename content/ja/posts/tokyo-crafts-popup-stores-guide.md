@@ -169,7 +169,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 - <strong>裏技：</strong> 10%免税+5%追加割引クーポン エルブレスは10%免税（パスポート持参）はもちろん、下記のKlookクーポンを提示すれば免税金額から5%追加割引が可能です！
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY" target="_blank"><b>Klookでエル ブレスクーポンをダウンロード</b></a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F84830-l-breath-tax-free-coupon-5-after-10-tax-free%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY%26n_currency%3DJPY" target="_blank"><b>Klookでエル ブレスクーポンをダウンロード</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-03.jpg" alt="エルブレス5%割引クーポン 免税クーポン">
@@ -201,7 +201,7 @@ featured_image: "/images/posts/tokyo-crafts-popup-stores-guide-01.jpg"
 
 - <strong>裏技：</strong> 10%免税+5%追加割引クーポン アルペン東京も10%免税とともに5%追加割引クーポンを提供します。
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY" target="_blank"><b>Klookでアルペン東京クーポンをダウンロード</b></a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F168209-for-free-alpen-group-5-off-tax-free-coupon%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY%26n_currency%3DJPY" target="_blank"><b>Klookでアルペン東京クーポンをダウンロード</b></a></strong>
 
 <figure>
   <img src="/images/posts/tokyo-crafts-popup-stores-guide-04.jpg" alt="アルペン東京5%割引クーポン 免税クーポン">

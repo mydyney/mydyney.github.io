@@ -57,7 +57,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 ➡️ <a href="/ja/posts/tokyo-disneyland-complete-guide/" target="_blank"><strong>東京ディズニーランド完全ガイド（チケット、DPA、午後券、ホテル、グルメ、地図総まとめ）</strong></a>
 
-✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DJPY" target="_blank"><strong>Klookでディズニーランドチケット購入</strong></a>
+✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank"><strong>Klookでディズニーランドチケット購入</strong></a>
 
 ### 🚌 新宿からディズニーランドへの行き方
 
@@ -92,7 +92,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 京王多摩センター駅に降りた瞬間、駅全体がサンリオキャラクターで飾られており、子どもたちの反応がすぐに出ます.
 
-✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F2276-sanrio-puroland-tokyo%2F%3Fcurrency%3DJPY" target="_blank"><strong>Klookでサンリオピューロランドチケット購入</strong></a>
+✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F2276-sanrio-puroland-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank"><strong>Klookでサンリオピューロランドチケット購入</strong></a>
 
 ### 新宿からサンリオピューロランドへの行き方
 

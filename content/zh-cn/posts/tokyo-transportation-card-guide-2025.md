@@ -199,7 +199,7 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 <strong>⭐ 东京地铁通票详细了解</strong>
 
-<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY" target="_blank"><strong>Klook购买东京地铁通票(24/48/72小时券)</strong></a>
+<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank"><strong>Klook购买东京地铁通票(24/48/72小时券)</strong></a>
 
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>东京地铁通票(东京Subway Ticket)兑换处、购买、使用法全汇总</strong></a>
 

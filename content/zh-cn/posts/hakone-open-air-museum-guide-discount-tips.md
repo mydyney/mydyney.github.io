@@ -95,7 +95,7 @@ slug: "hakone-open-air-museum-guide-discount-tips"
 *   <strong>免费语音导览：</strong> 建议提前下载 Klook 提供的免费语音导览，以便在参观时深度了解作品背后的故事。
 *   <strong>注意事项：</strong> 美术馆建在山坡地带，有很多楼梯和斜坡。如有需要，可在问讯处免费租用轮椅或婴儿车。
 
-🎧 [Klook 箱根雕刻森林美术馆免费语音导览](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F168869-the-hakone-open-air-museum-free-audio-guide-by-klook%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DCNY
+🎧 [Klook 箱根雕刻森林美术馆免费语音导览](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F168869-the-hakone-open-air-museum-free-audio-guide-by-klook%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DCNY%26n_currency%3DCNY
 
 <figure>
   <img src="/images/posts/hakone-open-air-museum-guide-discount-tips-08.jpg" alt="箱根雕刻森林美术馆 树人雕塑">

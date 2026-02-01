@@ -341,7 +341,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <p><b>👇 年末年始のチケットカウンターをスキップ！</b></p>
 
-<p>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F103671-toyosu-manyo-club-onsen-experience-tokyo%2F%3Fcurrency%3DJPY" target="_blank"><b>Klook 豊洲万葉倶楽部QR入場チケット最安値</b></a></p>
+<p>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F103671-toyosu-manyo-club-onsen-experience-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank"><b>Klook 豊洲万葉倶楽部QR入場チケット最安値</b></a></p>
 
 <p style="font-size: 0.9em;">​</p>
 

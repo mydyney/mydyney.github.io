@@ -75,7 +75,7 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 
 <div class="tip-box">
   <p><strong>E-Ticket Reservation:</strong> You can easily book your Minato Burari E-ticket via Klook and simply scan the QR code to board.</p>
-  <p style="text-align: center;"><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DUSD" target="_blank" style="font-weight: bold; color: #aa1f91;">➡️ Book Yokohama Minato Burari Ticket on Klook</a></p>
+  <p style="text-align: center;"><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank" style="font-weight: bold; color: #aa1f91;">➡️ Book Yokohama Minato Burari Ticket on Klook</a></p>
 </div>
 
 <h2>🗺️ Detailed Transport Routes & Stops</h2>

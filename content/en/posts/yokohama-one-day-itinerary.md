@@ -63,7 +63,7 @@ If you're planning a day trip to Yokohama, the <strong>Minato Burari Ticket</str
 It's an essential item for a comfortable Yokohama trip!</p>
 
 <p style="text-align: center;">
-  <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DUSD" target="_blank" style="display: inline-block; background-color: #ff5b00; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold;">🎫 Purchase Yokohama Minato Burari Ticket</a>
+  <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank" style="display: inline-block; background-color: #ff5b00; color: #fff; padding: 12px 24px; border-radius: 8px; text-decoration: none; font-weight: bold;">🎫 Purchase Yokohama Minato Burari Ticket</a>
 </p>
 
 <div class="related-post-link">

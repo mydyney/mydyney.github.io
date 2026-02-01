@@ -121,7 +121,7 @@ translationKey: "tokyo-subway-pass-vs-jr-tokunai-pass"
 
 現地購入も可能ですが、KlookやKKdayなどの旅行プラットフォームで事前購入すると最も安く便利です。割引クーポンでさらにお得になります！
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klookで東京地下鉄チケットを最安値で購入</a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank">Klookで東京地下鉄チケットを最安値で購入</a></strong>
 
 <strong>✅ QRコードを実券に交換する方法</strong>
 
@@ -209,7 +209,7 @@ A3: いいえ。<strong>時間制</strong>であり、日数制ではないた�
 
 <strong>✅ 答え：東京地下鉄チケット（24h/48h/72h券）</strong>
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klookで割引価格で東京地下鉄チケットを購入</a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank">Klookで割引価格で東京地下鉄チケットを購入</a></strong>
 
 <em><strong>「1日だけ！JR山手線で新宿-原宿-渋谷-東京駅を回ります。」</strong></em>
 

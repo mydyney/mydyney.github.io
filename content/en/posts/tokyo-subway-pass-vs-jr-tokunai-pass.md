@@ -126,7 +126,7 @@ This is the most confusing part! You cannot use the pass immediately on airport 
 
 While on-site purchase is possible, buying in advance through travel platforms like Klook or KKday is cheapest and most convenient. You can save even more with discount coupons!
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD" target="_blank">Purchase Tokyo Subway Ticket at Best Price on Klook</a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Purchase Tokyo Subway Ticket at Best Price on Klook</a></strong>
 
 
 <strong>✅ How to Exchange QR Code for Physical Ticket</strong>
@@ -230,7 +230,7 @@ Now you can confidently choose the right pass for you.
 
 <strong>✅ Answer: Tokyo Subway Ticket (24h/48h/72h pass)</strong>
 
-<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD" target="_blank">Purchase Tokyo Subway Ticket with Discount on Klook</a></strong>
+<strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Fen%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Purchase Tokyo Subway Ticket with Discount on Klook</a></strong>
 
 
 <em><strong>"Just one day! I'll ride the JR Yamanote Line to Shinjuku-Harajuku-Shibuya-Tokyo Station."</strong></em>

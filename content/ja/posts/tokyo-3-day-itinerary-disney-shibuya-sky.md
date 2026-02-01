@@ -78,7 +78,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <p>成田空港から<b>N'EX（成田エクスプレス）</b>に乗って新宿のホテルに到着し、荷物を置きます。</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klook N'EX（成田エクスプレス）割引予約</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank">Klook N'EX（成田エクスプレス）割引予約</a></b></p>
 
 <p><b>✅ <a href="/ja/posts/narita-to-shinjuku-2025/" target="_blank">成田空港から新宿への行き方｜成田エクスプレス vs 空港リムジン</a></b></p>
 
@@ -106,7 +106,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <p>旅行1ヶ月前に予約がオープンするので、早めに確保してください。現地購入はほぼ不可能です。</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F70672-shibuya-sky-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klook 渋谷スカイ展望台割引予約</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F70672-shibuya-sky-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank">Klook 渋谷スカイ展望台割引予約</a></b></p>
 
 <p><b>✅ <a href="/ja/posts/shibuya-complete-guide-2025/" target="_blank">渋谷の見どころ、渋谷スカイ予約からレストランまで完璧コース</a></b></p>
 
@@ -154,7 +154,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
   <li><b>ディズニーシー：</b>カップル旅行、スリルのあるアトラクション、ロマンチックな雰囲気</li>
 </ul>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klook ディズニーランド＆ディズニーシー入場券割引予約</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank">Klook ディズニーランド＆ディズニーシー入場券割引予約</a></b></p>
 
 <p><b>✅ <a href="/ja/posts/tokyo-disneyland-complete-guide/" target="_blank">東京ディズニーランド vs ディズニーシー比較（チケット、DPA、午後券、ホテル、レストラン、地図総まとめ）</a></b></p>
 
@@ -173,7 +173,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <p>🚃 この日は<b>地下鉄パス（24時間券）</b>を使えば交通費を節約できます。（ただし、地下鉄パスでJR利用不可）</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klook 地下鉄パス（東京サブウェイチケット）割引予約</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank">Klook 地下鉄パス（東京サブウェイチケット）割引予約</a></b></p>
 
 <p><b>✅ <a href="/ja/posts/tokyo-subway-ticket-guide/" target="_blank">東京メトロパス購入、交換所、使い方、路線（24、48、72時間）</a></b></p>
 
@@ -235,7 +235,7 @@ featured_image: "/images/posts/tokyo-3-day-itinerary-disney-shibuya-sky-01.jpg"
 
 <p>時間があれば都心のオアシス新宿御苑を散策するか、ドン・キホーテ新宿店で残りのショッピングを済ませます。</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY" target="_blank">Klook 新宿御苑入場券割引予約</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY%26n_currency%3DJPY" target="_blank">Klook 新宿御苑入場券割引予約</a></b></p>
 
 <p><b>✅ <a href="/ja/posts/shinjuku-gyoen-guide-2025/" target="_blank">東京新宿御苑完全ガイド｜入場料・入場時間・スターバックス・桜・ピクニック・ランニング</a></b></p>
 

@@ -67,7 +67,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
   - 10月20日（一）〜31日（五）：下午1点
 - <strong>装点夜空的万圣节烟火 - 下午8点30分（5分钟、每日1次）</strong>
 
-➡️ <strong>[Klook预约东京迪士尼乐园门票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>
+➡️ <strong>[Klook预约东京迪士尼乐园门票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY%26n_currency%3DCNY>
 
 <figure>
   <img src="/images/posts/tokyo-halloween-festivals-2025-05.jpg" alt="东京迪士尼度假区万圣节烟火，反派主题">
@@ -83,7 +83,7 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 - <strong>SPOOKY PUMPKIN 2025:</strong> 10月25日晚9点30分〜次日早5点
   - 20岁以上成人专用通宵音乐节。DJ Hello Kitty、DJ酷洛米亲自登场，平手友梨奈、Kroi等知名艺人现场演出。
 
-➡️ <strong>[Klook预约三丽鸥彩虹乐园门票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY>
+➡️ <strong>[Klook预约三丽鸥彩虹乐园门票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY%26n_currency%3DCNY>
 
 ### 🎃 4. 与孩子一起！家庭万圣节游行
 

@@ -76,7 +76,7 @@ translationKey: "tokyo-3-day-itinerary-landmark-series"
 
 成田空港からN'EX（成田エクスプレス）に乗って交通の要所・新宿に到着、ホテルに荷物を預けます。
 
-👉 <strong>[Klook N'EX（成田エクスプレス）往復割引チケット予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY>
+👉 <strong>[Klook N'EX（成田エクスプレス）往復割引チケット予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY>
 
 ✅ <strong>[成田空港から新宿への行き方｜N'EX vs リムジン比較](/posts/narita-to-shinjuku-2025/)</strong>
 
@@ -139,7 +139,7 @@ translationKey: "tokyo-3-day-itinerary-landmark-series"
 3. 上野 → 東京駅（JY山手線）◀ この区間のみ交通カード使用
 4. 東京駅 → 新宿（東京メトロ丸ノ内線M）
 
-👉 <strong>[Klook 東京メトロパス（24/48/72時間）最安値予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY>
+👉 <strong>[Klook 東京メトロパス（24/48/72時間）最安値予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY>
 
 ✅ <strong>[東京メトロパス購入、交換所、使用法、路線総まとめ](/posts/tokyo-subway-ticket-guide/)</strong>
 
@@ -206,7 +206,7 @@ JR山手線に乗って東京駅へ移動。100年以上の赤レンガ駅舎は
 3. 東銀座 → 大門（都営浅草線A）
 4. 大門 → 新宿（都営大江戸線E）
 
-👉 <strong>[Klook 地下鉄パス（東京サブウェイチケット）割引](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY>
+👉 <strong>[Klook 地下鉄パス（東京サブウェイチケット）割引](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY>
 
 ✅ <strong>[東京メトロパス購入、交換所、使用法、路線（24、48、72時間）](/posts/tokyo-subway-ticket-guide/)</strong>
 
@@ -280,7 +280,7 @@ JR山手線に乗って東京駅へ移動。100年以上の赤レンガ駅舎は
 
 ビルの森の間に隠された巨大な庭園、<strong>新宿御苑</strong>を散策します。アニメ『言の葉の庭』の背景地としても有名なこの場所で、旅行の疲れを癒してください。
 
-👉 <strong>[Klook 新宿御苑入場券割引予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY>
+👉 <strong>[Klook 新宿御苑入場券割引予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY%26n_currency%3DJPY>
 
 ✅ <strong>[東京新宿御苑完全ガイド｜入場料・スターバックス・ピクニック](/posts/shinjuku-gyoen-guide-2025/)</strong>
 

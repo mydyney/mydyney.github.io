@@ -155,7 +155,7 @@ draft: false
 
 <p>👉 <a href="https://www.jreast.co.jp/" target="_blank" rel="noopener"><strong>JR東日本公式サイト（えきねっと）で予約する</strong></a></p>
 
-<p>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Frails-32%2F1012-japan%2Fsearch%2F%3Forigin_position%3Dfbf76020-13a1-41b8-a33a-ce13ccdbabd9%26destination_position%3Da03d669e-c016-47ed-a6a0-b17759515ba8%26origin_position_name%3DTokyo%2BStation%26destination_position_name%3DAtami%26departure_date%3D2026-02-22%26spm%3DMobilityPTP_SearchResult.TopNavigation.SelectCurrency%26currency%3DJPY" target="_blank" rel="noopener"><strong>KlookでJRパスやチケットを事前予約</strong></a></p>
+<p>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Frails-32%2F1012-japan%2Fsearch%2F%3Forigin_position%3Dfbf76020-13a1-41b8-a33a-ce13ccdbabd9%26destination_position%3Da03d669e-c016-47ed-a6a0-b17759515ba8%26origin_position_name%3DTokyo%2BStation%26destination_position_name%3DAtami%26departure_date%3D2026-02-22%26spm%3DMobilityPTP_SearchResult.TopNavigation.SelectCurrency%26currency%3DJPY%26n_currency%3DJPY" target="_blank" rel="noopener"><strong>KlookでJRパスやチケットを事前予約</strong></a></p>
 
 
 <h2 style="text-align: center;">📸 4. 今回の旅のハイライト：観光スポット & まつり情報</h2>

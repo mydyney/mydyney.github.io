@@ -78,7 +78,7 @@ On-site purchases are expensive and waste time.
 
 Book ahead on Klook before your trip!
 
-➡️ <strong>[Book Discounted Tokyo Skytree Tickets on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F41352-tokyo-skytree%2F%29%3C%2Fstrong%3Fcurrency%3DUSD>
+➡️ <strong>[Book Discounted Tokyo Skytree Tickets on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F41352-tokyo-skytree%2F%29%3C%2Fstrong%3Fcurrency%3DUSD%26n_currency%3DUSD>
 
 ---
 
@@ -108,7 +108,7 @@ Symbolic significance of reaching the 450m peak.
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-05.jpg" alt="Tokyo Skytree Tembo Galleria corridor with stunning views">
-  <figcaption style="font-size: 0.7em; text-align: center;">Skytree Tembo Galleria Tembo Corridor (<a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F41352-tokyo-skytree%2F%3Fcurrency%3DUSD" target="_blank">Source</a>)</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Skytree Tembo Galleria Tembo Corridor (<a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F41352-tokyo-skytree%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Source</a>)</figcaption>
 </figure>
 
 ## ✅ Final Verdict: Your Choice?

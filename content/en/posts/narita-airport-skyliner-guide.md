@@ -120,7 +120,7 @@ If you plan to <b>use subways (Tokyo Metro, Toei Line) more than JR</b> during y
 
 <b>➡️ <a href="https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/ko/ticket/skyliner-ticket/index.php" target="_blank">Official Skyliner Online Reservation</a></b>
 
-<b>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1410-skyliner-tokyo%2F%3Fcurrency%3DUSD" target="_blank">Book Skyliner on Klook</a></b>
+<b>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1410-skyliner-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Book Skyliner on Klook</a></b>
 
 Booking on Klook is most convenient and affordable as you can pay in your local currency and apply additional discount coupons. They also sell Tokyo Subway Pass combo products.
 

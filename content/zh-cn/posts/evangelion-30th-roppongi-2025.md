@@ -52,7 +52,7 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <p>展览采用<strong>指定日期时间制</strong>。特别是周末・傍晚时段可能快速售罄，<strong>在线提前预订必不可少</strong>。在线比现场购买便宜。</p>
 
-<p><strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F15762-roppongi-hills-observatory-deck-tokyo%2F%3Fcurrency%3DCNY" target="_blank">在Klook预订新世纪福音战士30周年门票</a></strong></p>
+<p><strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F15762-roppongi-hills-observatory-deck-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">在Klook预订新世纪福音战士30周年门票</a></strong></p>
 
 <h3>门票价格对比</h3>
 

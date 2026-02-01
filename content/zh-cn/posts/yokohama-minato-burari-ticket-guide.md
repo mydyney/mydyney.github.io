@@ -78,7 +78,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 
 <div class="tip-box">
   <p><strong>电子票预订：</strong>您可以通过 Klook（客路）轻松预订港口漫步车票的电子票，只需出示二维码即可顺畅乘车。</p>
-  <p style="text-align: center;"><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DCNY" target="_blank" style="font-weight: bold; color: #aa1f91;">➡️ 在Klook预订横滨港口漫步车票</a></p>
+  <p style="text-align: center;"><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank" style="font-weight: bold; color: #aa1f91;">➡️ 在Klook预订横滨港口漫步车票</a></p>
 </div>
 
 <h2>🗺️ 运行路线・主要停靠站一览</h2>

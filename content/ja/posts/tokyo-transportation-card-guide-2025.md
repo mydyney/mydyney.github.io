@@ -199,7 +199,7 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 <strong>⭐ 東京メトロパス詳しく見る</strong>
 
-<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY" target="_blank"><strong>Klook(クルック)で東京メトロパス(24/48/72時間券)購入する</strong></a>
+<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank"><strong>Klook(クルック)で東京メトロパス(24/48/72時間券)購入する</strong></a>
 
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>東京メトロパス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong></a>
 

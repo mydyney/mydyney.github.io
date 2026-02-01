@@ -78,7 +78,7 @@ Everything you need in one complete guide.</p>
 
 <p>Take the <b>N'EX (Narita Express)</b> from Narita Airport to your Shinjuku hotel and drop off your luggage.</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%3Fcurrency%3DUSD" target="_blank">Klook N'EX (Narita Express) Discount Booking</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Klook N'EX (Narita Express) Discount Booking</a></b></p>
 
 <p><b>✅ <a href="/posts/narita-to-shinjuku-2025/" target="_blank">How to Get from Narita Airport to Shinjuku | N'EX vs Airport Limousine</a></b></p>
 
@@ -106,7 +106,7 @@ Everything you need in one complete guide.</p>
 
 <p>Reservations open one month in advance—book early. Walk-in tickets are nearly impossible to get.</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F70672-shibuya-sky-tokyo%2F%3Fcurrency%3DUSD" target="_blank">Klook Shibuya Sky Observatory Discount Booking</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F70672-shibuya-sky-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Klook Shibuya Sky Observatory Discount Booking</a></b></p>
 
 <p><b>✅ <a href="/posts/shibuya-complete-guide-2025/" target="_blank">Shibuya Attractions: Complete Course from Shibuya Sky Reservations to Restaurants</a></b></p>
 
@@ -154,7 +154,7 @@ Everything you need in one complete guide.</p>
   <li><b>DisneySea:</b> Couples, thrilling attractions, romantic atmosphere</li>
 </ul>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DUSD" target="_blank">Klook Disneyland & DisneySea Ticket Discount Booking</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Klook Disneyland & DisneySea Ticket Discount Booking</a></b></p>
 
 <p><b>✅ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank">Tokyo Disneyland vs DisneySea Comparison (Tickets, DPA, Afternoon Pass, Hotels, Restaurants, Map)</a></b></p>
 
@@ -173,7 +173,7 @@ Everything you need in one complete guide.</p>
 
 <p>🚃 Use the <b>24-hour subway pass</b> today to save on transportation. (Note: Subway pass doesn't work on JR lines)</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD" target="_blank">Klook Tokyo Subway Pass Discount Booking</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Klook Tokyo Subway Pass Discount Booking</a></b></p>
 
 <p><b>✅ <a href="/posts/tokyo-subway-ticket-guide/" target="_blank">Tokyo Subway Pass: Purchase, Exchange Locations, Usage, Routes (24, 48, 72 hours)</a></b></p>
 
@@ -235,7 +235,7 @@ Everything you need in one complete guide.</p>
 
 <p>If you have time, stroll through the urban oasis Shinjuku Gyoen or finish last-minute shopping at Don Quijote Shinjuku.</p>
 
-<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD" target="_blank">Klook Shinjuku Gyoen Ticket Discount Booking</a></b></p>
+<p><b>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F174227-shinjuku-gyoen%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD%26n_currency%3DUSD" target="_blank">Klook Shinjuku Gyoen Ticket Discount Booking</a></b></p>
 
 <p><b>✅ <a href="/posts/shinjuku-gyoen-guide-2025/" target="_blank">Tokyo Shinjuku Gyoen Complete Guide | Admission, Hours, Starbucks, Cherry Blossoms, Picnic & Running</a></b></p>
 

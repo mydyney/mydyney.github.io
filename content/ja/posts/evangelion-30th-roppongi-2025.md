@@ -52,7 +52,7 @@ featured_image: "/images/posts/evangelion-30th-roppongi-2025-01.jpg"
 
 <p>展示は<strong>日時指定制</strong>で運営されます。特に週末・夕方の時間帯は早く売り切れる可能性があるため、<strong>オンライン事前予約が必須</strong>です。オンラインが現場購入より安いです。</p>
 
-<p><strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F15762-roppongi-hills-observatory-deck-tokyo%2F%3Fcurrency%3DJPY" target="_blank">Klook（クルック）でエヴァンゲリオン30周年チケットを予約</a></strong></p>
+<p><strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F15762-roppongi-hills-observatory-deck-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank">Klook（クルック）でエヴァンゲリオン30周年チケットを予約</a></strong></p>
 
 <h3>チケット料金比較</h3>
 
