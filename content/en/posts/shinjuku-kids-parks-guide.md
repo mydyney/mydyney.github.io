@@ -60,7 +60,7 @@ Departing early from Shinjuku and arriving at Disneyland's opening time gives yo
 
 ➡️ <a href="/posts/tokyo-disneyland-complete-guide/" target="_blank"><strong>Complete Tokyo Disneyland Guide (Tickets, DPA, Afternoon Pass, Hotels, Restaurants, Map)</strong></a>
 
-✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank"><strong>Buy Disneyland Tickets on Klook</strong></a>
+✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank"><strong>Buy Disneyland Tickets on Klook</strong></a>
 
 ### 🚌 How to Get to Disneyland from Shinjuku
 
@@ -95,7 +95,7 @@ Rain, hot summer, cold winter—you can play all day without worrying about cond
 
 The moment you get off at Keio Tama Center Station, the entire station is decorated with Sanrio characters, and kids react immediately.
 
-✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F2276-sanrio-puroland-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank"><strong>Buy Sanrio Puroland Tickets on Klook</strong></a>
+✅ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F2276-sanrio-puroland-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank"><strong>Buy Sanrio Puroland Tickets on Klook</strong></a>
 
 ### How to Get to Sanrio Puroland from Shinjuku
 

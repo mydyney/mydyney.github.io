@@ -91,7 +91,7 @@ teamLabボーダレスチケット予約のコツ、<br>
 
 📌 <strong>ヒント：</strong> <strong>100％オンライン事前予約必須</strong>―現地チケット販売なし。訪問予定なら少なくとも数週間前に予約してください。
 
-✅ <strong>[Klookでteamラボボーダレスチケットを購入](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY>
+✅ <strong>[Klookでteamラボボーダレスチケットを購入](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1>
 
 ➡️ <a href="#" style="color: #667eea;"><strong>東京麻布台ヒルズteamLabボーダレス完全ガイド</strong></a>
 

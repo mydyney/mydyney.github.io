@@ -78,7 +78,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 旅行前にKlookで事前予約しましょう！
 
-➡️ <strong>[Klookで東京スカイツリー割引チケット予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F41352-tokyo-skytree%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY>
+➡️ <strong>[Klookで東京スカイツリー割引チケット予約](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F41352-tokyo-skytree%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1>
 
 ---
 
@@ -108,7 +108,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-05.jpg" alt="東京スカイツリー展望回廊の回廊と素晴らしい景色">
-  <figcaption style="font-size: 0.7em; text-align: center;">スカイツリー展望回廊の展望コリドー（<a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F41352-tokyo-skytree%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank">出典</a>）</figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">スカイツリー展望回廊の展望コリドー（<a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F41352-tokyo-skytree%2F%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1" target="_blank">出典</a>）</figcaption>
 </figure>
 
 ## ✅ 最終結論：あなたの選択は？

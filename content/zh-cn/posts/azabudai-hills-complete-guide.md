@@ -91,7 +91,7 @@ teamLab无界门票预订技巧，<br>
 
 📌 <strong>提示：</strong> <strong>100％在线提前预订必备</strong>―无现场售票。计划前往请至少提前数周预订。
 
-✅ <strong>[在Klook购买teamLab无界门票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY%26n_currency%3DCNY>
+✅ <strong>[在Klook购买teamLab无界门票](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F20707-teamlab-borderless-admission-ticket-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1>
 
 ➡️ <a href="#" style="color: #667eea;"><strong>东京麻布台之丘teamLab无界完全攻略</strong></a>
 

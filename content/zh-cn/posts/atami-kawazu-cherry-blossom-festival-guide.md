@@ -155,7 +155,7 @@ draft: false
 
 <p>👉 <a href="https://www.jreast.co.jp/" target="_blank" rel="noopener"><strong>通过JR东日本官网 (Ekinet) 预约</strong></a></p>
 
-<p>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Frails-32%2F1012-japan%2Fsearch%2F%3Forigin_position%3Dfbf76020-13a1-41b8-a33a-ce13ccdbabd9%26destination_position%3Da03d669e-c016-47ed-a6a0-b17759515ba8%26origin_position_name%3DTokyo%2BStation%26destination_position_name%3DAtami%26departure_date%3D2026-02-22%26spm%3DMobilityPTP_SearchResult.TopNavigation.SelectCurrency%26currency%3DCNY%26n_currency%3DCNY" target="_blank" rel="noopener"><strong>在Klook上预览JR Pass及车票</strong></a></p>
+<p>👉 <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Frails-32%2F1012-japan%2Fsearch%2F%3Forigin_position%3Dfbf76020-13a1-41b8-a33a-ce13ccdbabd9%26destination_position%3Da03d669e-c016-47ed-a6a0-b17759515ba8%26origin_position_name%3DTokyo%2BStation%26destination_position_name%3DAtami%26departure_date%3D2026-02-22%26spm%3DMobilityPTP_SearchResult.TopNavigation.SelectCurrency%26currency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank" rel="noopener"><strong>在Klook上预览JR Pass及车票</strong></a></p>
 
 
 <h2 style="text-align: center;">📸 4. 行程亮点：主要景点与祭典信息</h2>

@@ -84,7 +84,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 
 <p>虽然可以当场购买，但通过 <b>Klook (客路)</b> 或 <b>KKday</b> 等全球旅游平台提前预订，通常价格更低且更方便。</p>
 
-<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">点击此处在 Klook 以最优折扣购买东京地铁乘车券</a></b></p>
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank">点击此处在 Klook 以最优折扣购买东京地铁乘车券</a></b></p>
 
 <br>
 
@@ -213,7 +213,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 <h3>🚇 京成电铁 (Skyliner) + 东京地铁乘车券</h3>
 <p>成田机场入境首选。比单独购买要便宜得多。</p>
 
-<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">查看 Klook 上最划算的 Skyliner + 地铁通票套票</a></b></p>
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank">查看 Klook 上最划算的 Skyliner + 地铁通票套票</a></b></p>
 
 <br>
 

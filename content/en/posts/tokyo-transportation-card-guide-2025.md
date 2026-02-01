@@ -199,7 +199,7 @@ Then use <strong>'Suica (or PASMO)'</strong> for <strong>JR lines not covered by
 
 <strong>⭐ Learn More About Tokyo Subway Pass</strong>
 
-<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank"><strong>Buy Tokyo Subway Pass (24/48/72-hour) on Klook</strong></a>
+<strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank"><strong>Buy Tokyo Subway Pass (24/48/72-hour) on Klook</strong></a>
 
 <strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass (Tokyo Subway Ticket) Exchange Locations, Purchase & Usage Complete Guide</strong></a>
 

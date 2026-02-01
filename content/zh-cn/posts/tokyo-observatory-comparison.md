@@ -277,7 +277,7 @@ featured_image: "/images/posts/tokyo-observatory-comparison-01.jpg"
   </tbody>
 </table>
 
-<strong>➡️ </strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F41352-tokyo-skytree%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank"><strong>在线购买东京晴空塔门票（Klook）</strong></a>
+<strong>➡️ </strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F41352-tokyo-skytree%2F%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank"><strong>在线购买东京晴空塔门票（Klook）</strong></a>
 
 ### <strong>🚨 参观攻略&注意事项</strong>
 

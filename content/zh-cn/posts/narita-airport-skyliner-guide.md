@@ -120,7 +120,7 @@ Skyliner在线提前预约比现场购买便宜约10%。往返预约比单程折
 
 <b>➡️ <a href="https://www.keisei.co.jp/keisei/tetudou/skyliner/e-ticket/ko/ticket/skyliner-ticket/index.php" target="_blank">Skyliner官方在线预约</a></b>
 
-<b>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1410-skyliner-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank">在Klook预约Skyliner</a></b>
+<b>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1410-skyliner-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank">在Klook预约Skyliner</a></b>
 
 在Klook预约最方便实惠,可以用本地货币支付并使用额外折扣券。还销售东京地铁通票套餐产品。
 

@@ -84,7 +84,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 
 <p>While you can purchase the ticket on-site, it is generally much cheaper and more convenient to buy in advance through global travel platforms like <b>Klook</b> or <b>KKday</b>.</p>
 
-<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Get the Tokyo Subway Ticket at the Guaranteed Lowest Price on Klook</a></b></p>
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank">Get the Tokyo Subway Ticket at the Guaranteed Lowest Price on Klook</a></b></p>
 
 <br>
 
@@ -213,7 +213,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 <h3>🚇 Keisei Skyliner + Tokyo Subway Ticket</h3>
 <p>Highly recommended for Narita Airport users. It is much cheaper than buying them separately.</p>
 
-<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Get the Skyliner + Tokyo Subway Ticket Bundle at the Lowest Price on Klook</a></b></p>
+<p>➡️ <b><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank">Get the Skyliner + Tokyo Subway Ticket Bundle at the Lowest Price on Klook</a></b></p>
 
 <br>
 

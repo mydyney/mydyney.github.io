@@ -341,7 +341,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 
 <p><b>👇 Skip the Ticket Counter During Year-End/New Year!</b></p>
 
-<p>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F103671-toyosu-manyo-club-onsen-experience-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank"><b>Klook Toyosu Manyo Club QR Entry Ticket Lowest Price</b></a></p>
+<p>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F103671-toyosu-manyo-club-onsen-experience-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank"><b>Klook Toyosu Manyo Club QR Entry Ticket Lowest Price</b></a></p>
 
 <p style="font-size: 0.9em;">​</p>
 

@@ -75,7 +75,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 
 <div class="tip-box">
   <p><strong>Eチケット予約：</strong>Klook（クルック）でみなとぶらりチケットのEチケットを簡単に予約でき、QRコードを提示するだけでスムーズに乗車できます。</p>
-  <p style="text-align: center;"><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank" style="font-weight: bold; color: #aa1f91;">➡️ Klookで横浜みなとぶらりチケットを予約する</a></p>
+  <p style="text-align: center;"><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F111555-minato-burari-ticket%2F%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1" target="_blank" style="font-weight: bold; color: #aa1f91;">➡️ Klookで横浜みなとぶらりチケットを予約する</a></p>
 </div>
 
 <h2>🗺️ 運行ルート・主要停留所一覧</h2>

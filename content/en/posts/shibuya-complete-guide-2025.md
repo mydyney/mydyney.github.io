@@ -77,7 +77,7 @@ The first sight when you exit Shibuya Station - the cinematic <strong>[Scramble 
 
 On-site tickets have long wait times and cost 300 yen more. Ticket prices vary before and after 3:00 PM. (Children's tickets only available on-site, free for ages 6 and under)
 
-<strong>➡️ [Book Shibuya Sky at Best Price on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F70672-shibuya-sky-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD%26n_currency%3DUSD>  
+<strong>➡️ [Book Shibuya Sky at Best Price on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F70672-shibuya-sky-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1>  
 <strong>➡️ [Book on Shibuya Sky Official Website](https://webket.jp/pc/ticket/itemdetail?fc=00396&ac=8001&igc=0030&lang=0) (Registration required)</strong>
 
 <table class="schedule-table">

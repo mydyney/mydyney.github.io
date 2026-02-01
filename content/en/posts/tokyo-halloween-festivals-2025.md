@@ -67,7 +67,7 @@ This year's Disney Halloween stars the <strong>'Villains'</strong>! Under the 'T
   - October 20-31 (Mon-Fri): 1:00 PM
 - <strong>Halloween Fireworks illuminating the night sky - 8:30 PM (5 minutes, once daily)</strong>
 
-➡️ <strong>[Book Tokyo Disneyland Tickets on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD%26n_currency%3DUSD>
+➡️ <strong>[Book Tokyo Disneyland Tickets on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1>
 
 <figure>
   <img src="/images/posts/tokyo-halloween-festivals-2025-05.jpg" alt="Tokyo Disney Resort Halloween fireworks display with villains theme">
@@ -83,7 +83,7 @@ Perfect for fans of Hello Kitty, Kuromi, My Melody, and other Sanrio characters.
 - <strong>SPOOKY PUMPKIN 2025:</strong> October 25, 9:30 PM ~ Next day 5:00 AM
   - Adults-only (20+) all-night music festival. Features DJ Hello Kitty, DJ Kuromi, and live performances by Hirate Yurina (平手友梨奈), Kroi, and other famous artists.
 
-➡️ <strong>[Book Sanrio Puroland Tickets on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD%26n_currency%3DUSD>
+➡️ <strong>[Book Sanrio Puroland Tickets on Klook](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F695-tokyo-disney-resort-1-day-pass-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1>
 
 ### 🎃 4. Family-Friendly! Halloween Parades
 

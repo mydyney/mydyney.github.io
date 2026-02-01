@@ -341,7 +341,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 
 <p><b>👇 年末年初跳过售票柜台！</b></p>
 
-<p>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F103671-toyosu-manyo-club-onsen-experience-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY" target="_blank"><b>Klook丰洲万叶俱乐部QR入场券最低价</b></a></p>
+<p>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F103671-toyosu-manyo-club-onsen-experience-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank"><b>Klook丰洲万叶俱乐部QR入场券最低价</b></a></p>
 
 <p style="font-size: 0.9em;">​</p>
 

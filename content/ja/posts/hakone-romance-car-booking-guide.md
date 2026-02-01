@@ -224,7 +224,7 @@ categories: ["旅行のコツ"]
 
 <p><strong>⑤ 予約を確認し、チケットを準備する</strong></p>
 <p>予約完了画面をキャプチャするか印刷してください。別途、乗車券（フリーパスまたはICカード）も忘れずに準備しましょう。</p>
-<p><strong>➡️</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F821-hakone-transport-day-pass-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY" target="_blank"><strong>Klookでデジタル箱根フリーパスを購入する</strong></a></p>
+<p><strong>➡️</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F821-hakone-transport-day-pass-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1" target="_blank"><strong>Klookでデジタル箱根フリーパスを購入する</strong></a></p>
 
 <div style="background-color: #fff4f4; padding: 15px; border: 1px solid #ffcccc; border-radius: 8px; margin: 1.5rem 0;">
   <p><strong>⚠️ 予約の変更および払い戻し方法</strong></p>

@@ -52,7 +52,7 @@ Essential for winter Tokyo travel - Evangelion fans, check it out!</p>
 
 <p>The exhibition operates on a <strong>date and time reservation system</strong>. Especially weekends and evening time slots can sell out quickly, so <strong>online advance booking is essential</strong>. Online tickets are cheaper than on-site purchases.</p>
 
-<p><strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F15762-roppongi-hills-observatory-deck-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD" target="_blank">Book Evangelion 30th Anniversary Tickets on Klook</a></strong></p>
+<p><strong>➡️ <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F15762-roppongi-hills-observatory-deck-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank">Book Evangelion 30th Anniversary Tickets on Klook</a></strong></p>
 
 <h3>Ticket Price Comparison</h3>
 
