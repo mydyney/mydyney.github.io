@@ -680,20 +680,19 @@ When a blog post includes a location (restaurant, attraction, etc.), do **NOT** 
 `📍 [Location Name] Google Map Link`
 
 **Example (English):**
-`<p>📍 <a href="https://maps.app.goo.gl/..." target="_blank" style="text-decoration: underline; color: #06c;">[Location Name]</a></p>`
+`<p>📍 <a href="https://maps.app.goo.gl/..." target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>View on Google Maps</strong></a></p>`
 
 **Example (Japanese):**
-`<p>📍 <a href="https://maps.app.goo.gl/..." target="_blank" style="text-decoration: underline; color: #06c;">[Location Name]</a></p>`
+`<p>📍 <a href="https://maps.app.goo.gl/..." target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>Googleマップで見る</strong></a></p>`
 
 **Example (Chinese):**
-`<p>📍 <a href="https://maps.app.goo.gl/..." target="_blank" style="text-decoration: underline; color: #06c;">[Location Name]</a></p>`
+`<p>📍 <a href="https://maps.app.goo.gl/..." target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>在 Google 地图上查看</strong></a></p>`
 
 **Important Notes:**
 - 🚫 **NO** `<iframe>` embeds.
-- ✅ Link text should be **Location Name** only for a clean look.
-- ✅ Add a `📍` emoji at the beginning of the line (unless one is already present there).
-- ✅ Maintain the alignment of the original text (do not force center).
-- ✅ Do not add extra margins unless necessary.
+- ✅ Link text should be standardized as shown above (**BOLD** and using specific language phrases).
+- ✅ Add a `📍` emoji at the beginning of the line.
+- ✅ Use `style="color: #667eea; text-decoration: underline;"` for the anchor tag.
 
 **Common CSS File:**
 All blog posts share common styles through `/static/css/blog-post-common.css`.

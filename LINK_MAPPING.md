@@ -142,6 +142,7 @@ When migrating a Naver blog post to Hugo:
 | 224026098490 | tokyo-subway-ticket-guide | 2025-09-29 | ✅ |
 | 224025699867 | tokyo-subway-pass-vs-jr-tokunai-pass | 2025-09-29 | ✅ |
 | 224025044772 | ginza-kuya-monaka-reservation-guide | - | pending |
+| 224166818622 | asakusa-food-guide | 2026-01-31 | ✅ |
 | 224024819592 | asakusa-complete-guide | 2025-09-28 | ✅ |
 | 224024530348 | roppongi-art-night-guide | - | pending |
 | 224022065518 | don-quijote-shopping-guide-2025 | 2025-09-26 | ✅ |
