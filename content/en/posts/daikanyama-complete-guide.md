@@ -8,8 +8,6 @@ image: "/images/posts/daikanyama-complete-guide-01.jpg"
 featured_image: "/images/posts/daikanyama-complete-guide-01.jpg"
 categories:
     - Area Guide
-    - Tokyo
-    - Daikanyama
 tags:
     - Daikanyama
     - Tsutaya Books

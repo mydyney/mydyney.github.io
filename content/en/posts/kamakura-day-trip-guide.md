@@ -5,7 +5,6 @@ slug: kamakura-day-trip-guide
 date: 2026-01-16
 categories:
   - Area Guide
-  - Day Trips
 tags:
   - Kamakura
   - Enoden
