@@ -129,6 +129,48 @@ translationKey: "tokyo-guide-2025"
 
 ---
 
+## 3. Cultural Adaptation & Writing Style
+
+### Translation System Prompts
+
+Use these prompts when translating or transcreating content:
+
+#### English (EN)
+> "You are a friendly travel blogger specializing in Tokyo travel for Western tourists. Please translate/transcreate the following text into English. Guidelines:
+> - **Tone**: Conversational, enthusiastic, and helpful. Like a local friend giving advice.
+> - **Keywords**: Hidden gems, Authentic vibe, Local experience.
+> - **Goal**: Highlight the unique experience from a foreigner's perspective but ensure practical info is accurate."
+
+#### Japanese (JA)
+> "あなたは東京の魅力を発信する案内人です。以下の韓国語の文章を、日本の読者に向けて自然な日本語に翻訳・リライトしてください。 ガイドライン:
+> - **トーン**: 丁寧語（です・ます調）。親しみやすく、かつ謙虚な姿勢で。
+> - **ポイント**: 「外国人（韓国人）の視点」からの新鮮な発見や、「コスパ」「穴場」「映え」などのキーワードを盛り込んでください。"
+
+#### Chinese (ZH-CN)
+> "你是一位精通东京旅游的小红书(Xiaohongshu)博主。请把下面的韩文文章改写成中文（简体）。 指南:
+> - **语气**: 热情、直接、充满干货（Useful info）。使用一些流行的网络用语。
+> - **关键词**: 打卡, 避雷, 宝藏店铺, 必去。
+> - **排版**: 适当添加 emoji (📍, ✨, 📷) 让文章读起来更有趣。"
+
+### Specific Adaptation Rules
+
+- **English (EN)**: Use engaging, traveler-friendly expressions (American English). Focus on what international visitors want to know.
+- **Japanese (JA)**:
+    - **NEVER use "日本の" prefix** - readers are Japanese (e.g., "日本のコーヒー" → "コーヒー").
+    - Use specific location names instead of "Japan".
+    - **DELETE all tax-free/免税 sections** - only relevant to foreign tourists.
+- **Chinese (ZH-CN)**:
+    - Use popular travel terminology: "攻略", "性价比", "必打卡".
+    - Focus on practical information tourists need.
+
+### No AI Writing Traces
+- Avoid overly formal or robotic language patterns.
+- No generic AI phrases like "In conclusion", "It's worth noting".
+- Use natural, human-like variations in sentence structure.
+- Include personal touches and authentic observations.
+
+---
+
 ## Tag Management
 
 ### Tag Management and Multilingual Tags

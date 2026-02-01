@@ -5,7 +5,10 @@ description: Guide and automate the migration of Naver blog posts to Hugo, ensur
 
 # Naver Converter Skill
 
-This skill guides you through the process of migrating a Naver blog post to the Hugo static site structure (EN/JA/ZH-CN). It encapsulates the rules from `MIGRATION_GUIDE.md` and `CONTENT_GUIDELINES.md`.
+This skill guides you through the process of migrating a Naver blog post to the Hugo static site structure (EN/JA/ZH-CN). 
+
+*   **[MIGRATION_GUIDE.md](resources/MIGRATION_GUIDE.md)**: **Workflow Document** (Process, scripts, verification checklists).
+*   **[CONTENT_GUIDELINES.md](resources/CONTENT_GUIDELINES.md)**: **Master Reference** (Formatting, HTML snippets, SEO, translation rules).
 
 **CRITICAL PREREQUISITE**: The user MUST have already copied the Naver blog HTML into `naver.md` in the project root. If `naver.md` is empty or missing, ASK the user to provide the content first.
 
@@ -112,8 +115,9 @@ python3 download_naver_images.py "[slug]"
 
 1.  **Consistency**: Use the **SAME** `translationKey` and images as English.
 2.  **Japanese**: Natural desu/masu tone. No "Japan's X" phrasing. Remove tax-free info for JA if it's a guide for domestic Japanese. Use original Japanese/Kanji names directly without parenthetical explanations or furigana.
-3.  **Chinese**: Engaging style with emojis. **NO** special quotes in front matter. Use "English/International Name (Kanji/Original)" format for shop names.
-4.  **Shop Name Notation**: Refer to `CONTENT_GUIDELINES.md` for strict parenthetical notation rules (EN/ZH: `Name (Original)`, JA: `Original` only).
+3.  **Chinese**: Engaging style with emojis. **NO** special quotes in front matter.
+4.  **Shop Name Notation**: Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#shop-name--terminology-notation-rules)** for strict rules (EN/ZH: `Name (Original)`, JA: `Original` only).
+5.  **Cultural Adaptation**: Follow the **[Cultural Adaptation & Writing Style](./resources/CONTENT_GUIDELINES.md#3-cultural-adaptation--writing-style)** master rules.
 
 ---
 
