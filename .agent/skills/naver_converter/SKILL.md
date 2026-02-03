@@ -34,7 +34,8 @@ This skill guides you through the process of migrating a Naver blog post to the 
     *   Count every paragraph block.
     *   List every image with its corresponding caption (if any).
     *   List every link and its purpose (e.g., "Google Maps link for Item X").
-2.  **Identify Duplicates/Errors**: Check if the source has duplicate links or incorrect descriptions and plan corrections in advance (documenting them in the implementation plan).
+2.  **Create Artifact**: Write this inventory to `<appDataDir>/brain/<id>/content_inventory.md`.
+3.  **Identify Duplicates/Errors**: Check if the source has duplicate links or incorrect descriptions and plan corrections in advance (documenting them in the implementation plan).
 
 ---
 
@@ -69,8 +70,12 @@ This skill guides you through the process of migrating a Naver blog post to the 
 3.  **Check `LINK_MAPPING.md`**: For each Naver ID found:
     *   **If Mapped**: Check if the local file exists (`content/en/posts/[slug].md`).
         *   **File Exists**: Use the mapped slug (e.g., `/posts/[slug]/`).
-        *   **File Missing**: Use Placeholder + TODO (`href="#"`).
-    *   **If Not Mapped**: Use the **Strict TODO Placeholder Format**.
+    *   **File Missing**: Use Placeholder + TODO (`href="#"`). **NEVER** use self-referential links or non-standard placeholders.
+    *   **If Not Mapped**: Use the **Strict TODO Placeholder Format** with `href="#"`.
+2.  **Link Prefix Rules**:
+    *   **English (EN)**: Use `/posts/[slug]/` (**NO** `/en/` prefix).
+    *   **Japanese (JA)**: Use `/ja/posts/[slug]/`.
+    *   **Chinese (ZH)**: Use `/zh-cn/posts/[slug]/`.
 
 ---
 
@@ -126,17 +131,16 @@ python3 download_naver_images.py "[slug]"
 
 ## Step 7: Verification Suite (MANDATORY)
 
-Run these checks:
-```bash
-# 1. Total Parity Check
-# Images: naver.md count vs Hugo count
-# Captions: naver.md count vs Hugo count
-# Links: naver.md count vs Hugo count
-
-# 2. Markdown Leak Check (CRITICAL)
-# Search for Markdown syntax inside the blog-container area.
-grep -E '\*\*|\[.*\]\(.*\)|^- ' content/*/posts/[slug].md
-```
+Run these checks and document results:
+1.  **Total Parity Check**:
+    *   Images: `naver.md` count vs Hugo count (Must match 1:1).
+    *   Captions: `naver.md` count vs Hugo count.
+    *   Links: `naver.md` count vs Hugo count.
+2.  **Structural Parity Check**: Compare EN, JA, and ZH side-by-side to ensure paragraph counts and heading structures are identical.
+3.  **Markdown Leak Check (CRITICAL)**:
+    *   Search for Markdown syntax inside the `blog-container` area.
+    *   `grep -E '\*\*|\[.*\]\(.*\)|^- ' content/*/posts/[slug].md`
+4.  **Footer Link Standard Check**: Ensure "👉" is inside the `<a>` tag and icons match EN.
 
 ---
 

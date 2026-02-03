@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 135 posts mapped (0 pending)
+> **Status:** ⏳ In Progress - 136 posts mapped (0 pending)
 
 ---
 
@@ -19,6 +19,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224170137639 | asakusa-imahan-kokusaidori-guide | 2026-02-03 | ✅ |
 | 224163039620 | atami-kawazu-cherry-blossom-festival-guide | 2026-01-28 | ✅ |
 | 224149088534 | kamakura-day-trip-guide | 2026-01-16 | ✅ |
 | 224151789346 | tokyo-kajitsuen-liebel-strawberry-parfait-guide | 2026-01-19 | ✅ |
@@ -234,7 +235,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, shibuya-sushi-no-midori-lunch-guide, mitsui-outlet-kisarazu-guide | Japan Kaldi Shopping List Must-Buy Recommendations |
 | 224031937227 | akihabara-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
-| 224025343414 | asakusa-complete-guide | Asakusa Asahi Beer Sky Room Night View Guide |
+| 224025343414 | asakusa-asahi-sky-room | Asakusa Asahi Beer Sky Room Night View Guide |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |

@@ -19,7 +19,8 @@ This document provides detailed guidelines for creating and formatting blog cont
 7. [Blog Post Format](#blog-post-format)
 8. [Editor's Note](#editors-note)
 9. [Related Posts](#related-posts)
-10. [Klook Affiliate Link Conversion](#klook-affiliate-link-conversion)
+10. [Related Guides / Footer Links](#related-guides--footer-links)
+11. [Klook Affiliate Link Conversion](#klook-affiliate-link-conversion)
 
 **⚠️ IMPORTANT:** This guide covers blog formatting, SEO, and content structure. If you're migrating from Naver Blog, you MUST also review **[MIGRATION_GUIDE.md](./MIGRATION_GUIDE.md)** for the complete migration workflow and content translation rules.
 
@@ -907,6 +908,42 @@ To ensure robust CSS loading across all page depths (especially taxonomy pages),
 - `/static/css/blog-post-common.css` - Blog post content styles
 - `/static/css/related-posts.css` - Related posts sidebar styles
 - All three are loaded globally via `head-additions.html`
+
+---
+
+## Related Guides / Footer Links
+
+For the "Related Guides" section at the bottom of the post, follow these strict styling rules to ensure 1:1 cross-lingual consistency:
+
+### 1. Emoji & Anchor Tag
+The "👉" emoji must be placed **INSIDE** the `<a>` tag to ensure it inherits the link styling and is part of the clickable area.
+
+*   ✅ **CORRECT**: `<p><a href="...">👉 <strong>Title</strong></a></p>`
+*   ❌ **WRONG**: `<p>👉 <a href="..."><strong>Title</strong></a></p>`
+
+### 2. Icon Consistency
+The icons used in the H3 headers for related guides (⛩️, 🍺, 🏙️, 🍭, etc.) must match the English version exactly across all Japanese and Chinese versions.
+
+### 3. Link Prefix Rules
+- **English (EN)**: Use `/posts/[slug]/` (**NO** `/en/` prefix).
+- **Japanese (JA)**: Use `/ja/posts/[slug]/`.
+- **Chinese (ZH)**: Use `/zh-cn/posts/[slug]/`.
+
+### 4. Placeholder Rules (Unmigrated Posts)
+- **Strictly use `href="#"`** when the target Hugo file does not exist.
+- **DO NOT** use self-referential links (current post slug) as placeholders.
+- **TODO Comment**: Always add the mandatory TODO comment above the link as defined in `MIGRATION_GUIDE.md`.
+- **Text Suffixes**: **DO NOT** add custom text suffixes like "(Coming Soon)" or "(即将上线)" unless explicitly requested. The placeholder state is managed via the TODO comment.
+
+### 5. Formatting Snippet
+```html
+### ⛩️ Related Guide Title
+<p>Description text goes here.</p>
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/[ID]
+     Hugo: /posts/[SLUG]/ -->
+<p><a href="#" style="color: #667eea;">👉 <strong>Standardized Link Title</strong></a></p>
+```
 
 ---
 
