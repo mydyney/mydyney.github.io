@@ -50,10 +50,14 @@ This skill guides you through the process of migrating a Naver blog post to the 
     *   **Publish Date**: Look for `se_publishDate`.
     *   **Total Image Count**: Count all `<img>` tags.
     *   **Post Title**: Extract from the document title section.
-3.  **Determine Slug**:
-    *   Create a kebab-case slug (English keywords only, no years).
-    *   **Check `LINK_MAPPING.md`**: Ensure the slug matches the mapping if one exists.
-4.  **Category Mapping (Strict)**:
+3.  **Determine Slug (MANDATORY CHECK)**:
+    *   **Search `LINK_MAPPING.md` by Naver ID**: Before creating a new slug, you MUST search for the current Naver post's ID in `LINK_MAPPING.md`.
+    *   **Reuse Existing Slug**: If the Naver ID is already present in the `## Quick Reference Table` or `## Pending Link References`, you MUST use the slug defined there (even if it's `pending`).
+    *   **New Slug ONLY if Missing**: Only if the Naver ID is NOT found, create a new kebab-case slug (English keywords only, no years).
+4.  **Register in `LINK_MAPPING.md` (MANDATORY)**:
+    *   Add a new entry for the current Naver ID and Slug in the `## Quick Reference Table` of `LINK_MAPPING.md`.
+    *   Set the status to `pending` immediately before starting generation to signal work in progress.
+5.  **Category Mapping (Strict)**:
     *   **Food & Dining**: EN `Food & Dining` | JA `グルメ` | ZH `美食`
     *   **Travel Guide**: EN `Travel Guide` | JA `旅行ガイド` | ZH `旅游指南`
     *   **Shopping**: EN `Shopping` | JA `ショッピング` | ZH `购物`
@@ -144,10 +148,127 @@ Run these checks and document results:
 
 ---
 
+## Common Errors and Fixes
+
+### 1. Front Matter Image Field
+
+**❌ WRONG**: Using `cover:` with nested fields
+```yaml
+cover:
+  image: "/images/posts/slug-01.jpg"
+  alt: "..."
+  caption: "..."
+```
+
+**✅ CORRECT**: Use `featured_image:` (single line)
+```yaml
+featured_image: "/images/posts/slug-01.jpg"
+```
+
+### 2. Double Header Lines
+
+**❌ WRONG**: Using double headers creates two horizontal lines
+```markdown
+## Yebisu Garden Place  
+## Ebisu Brewery Tokyo Operating Hours
+```
+
+**✅ CORRECT**: Use single header only
+```markdown
+## Ebisu Brewery Tokyo Operating Hours
+```
+
+### 3. Image Group Classes
+
+**❌ WRONG**: Generic `image-group` class
+```html
+<div class="image-group">
+```
+
+**✅ CORRECT**: Use column-specific class based on Naver source
+- Check Naver HTML for `se-imageGroup-col-2`, `se-imageGroup-col-3`, or `se-imageGroup-col-4`
+- Convert to `image-group-2`, `image-group-3`, or `image-group-4`
+
+```html
+<div class="image-group-2">  <!-- For 2-column layout -->
+<div class="image-group-3">  <!-- For 3-column layout -->
+<div class="image-group-4">  <!-- For 4-column layout -->
+```
+
+### 4. Editor's Note Format
+
+**❌ WRONG**: Simple format without styling
+```html
+<div class="editor-note">
+**Editor's Note**
+This article was originally published...
+</div>
+```
+
+**✅ CORRECT**: Use `editors-note` (plural) with proper styling
+```html
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/[POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+```
+
+### 5. HTML Escaping Issues
+
+**Problem**: Backslashes (`\`) appearing before HTML tags causing literal text display
+
+**Solution**: Ensure no escape characters in HTML. Use proper HTML tags without escaping:
+```html
+<div class="blog-container">  <!-- NOT: \<div class=\"blog-container\"\> -->
+```
+
+### 6. TODO Placeholder Link Format
+
+**❌ WRONG**: Missing Naver source link in comment
+```html
+<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>Post Title</strong></a></p>
+```
+
+**✅ CORRECT**: Always include Naver source link and Hugo expected path in comments
+```html
+<!-- TODO: Update link after migration 
+     Naver: https://blog.naver.com/tokyomate/[POST_ID]
+     Hugo: /posts/[expected-slug]/ -->
+<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><strong>Post Title</strong></a></p>
+```
+
+### 7. Slug Mismatch with LINK_MAPPING.md
+
+**❌ WRONG**: Creating a new slug without checking if one was already reserved for that Naver ID.
+```markdown
+# Analysis & Metadata
+Slug: new-slug-name (Created from scratch)
+```
+
+**✅ CORRECT**: Always search `LINK_MAPPING.md` for the Naver ID first.
+```markdown
+# Analysis & Metadata
+Naver ID: 223665548720
+Found in LINK_MAPPING.md: yebisu-brewery-museum-guide
+Action: Use the existing slug 'yebisu-brewery-museum-guide'
+```
+
+### 8. Forgetting to Register In LINK_MAPPING.md
+
+**❌ WRONG**: Starting work without adding a `pending` entry, leading to possible duplicate work or slug conflicts.
+
+**✅ CORRECT**: Add the Naver ID and Slug to `LINK_MAPPING.md` with `pending` status as the very first action after metadata analysis.
+
+---
+
 ## Step 8: Finalization & PR
 
-1.  **Update `LINK_MAPPING.md`**: Set status to ✅.
+1.  **Update `LINK_MAPPING.md`**: Update the status from `pending` to `✅` in the `## Quick Reference Table`. This is a critical final step for tracking.
 2.  **Commit**: `git add .` and `git commit`.
+
+---
 
 ## References & Resources
 

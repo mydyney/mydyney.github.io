@@ -21,6 +21,7 @@ When migrating a Naver blog post to Hugo:
 |----------|-------------------|------|--------|
 | 224170137639 | asakusa-imahan-kokusaidori-guide | 2026-02-03 | ✅ |
 | 224025343414 | asakusa-asahi-sky-room | 2026-02-04 | ✅ |
+| 223665548720 | ebisu-brewery-tokyo | 2026-02-04 | ✅ |
 | 224163039620 | atami-kawazu-cherry-blossom-festival-guide | 2026-01-28 | ✅ |
 | 224149088534 | kamakura-day-trip-guide | 2026-01-16 | ✅ |
 | 224151789346 | tokyo-kajitsuen-liebel-strawberry-parfait-guide | 2026-01-19 | ✅ |
@@ -208,7 +209,6 @@ When migrating a Naver blog post to Hugo:
 | 223667593440 | rem-roppongi-hotel-guide | - | pending |
 | 223667306537 | streamer-coffee-roppongi-guide | - | pending |
 | 223666751487 | st-moritz-roppongi-bakery | - | pending |
-| 223665548720 | yebisu-brewery-museum-guide | - | pending |
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 | 223979907748 | yokohama-one-day-itinerary | 2025-08-22 | ✅ |
 | 223976102621 | yokohama-minato-burari-ticket-guide | 2025-08-19 | ✅ |
@@ -302,18 +302,17 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223667593440 | rem-roppongi-hotel-guide | rem Roppongi: Best Value Hotel Right in Front of Roppongi Station |
 | 223667306537 | streamer-coffee-roppongi-guide | Streamer Coffee Company: Special Roppongi Cafe |
 | 223666751487 | st-moritz-roppongi-bakery | St. Moritz: 80-Year-Old Traditional Bakery in Roppongi |
-| 223665548720 | yebisu-brewery-museum-guide | Yebisu Brewery Tokyo Beer Museum Guide |
 | 224150787671 | tokyo-moheji-monjayaki-marunouchi-guide | Tokyo Moheji Monjayaki Marunouchi: Best Menu & Waiting Guide |
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 137
-- **Naver IDs Tracked:** 172
-- **Posts with Internal Links:** 39+ (tokyo-moheji-monjayaki-marunouchi-guide, tokyo-station-kantaro-ichibangai-sushi, shimbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide, hakone-romance-car-booking-guide, tokyo-nihonbashi-manten-sushi-guide)
-- **Pending References:** 44
-- **Links Updated:** Verified & Fixed on 2026-01-22
-- **Last Migration Date:** 2026-02-04 (Asakusa Asahi Sky Room: Tokyo's Best Night View Spot After Reopening)
+- **Total Posts Migrated:** 138
+- **Naver IDs Tracked:** 173
+- **Posts with Internal Links:** 40+ (ebisu-brewery-tokyo, tokyo-moheji-monjayaki-marunouchi-guide, ...)
+- **Pending References:** 43
+- **Links Updated:** Verified & Fixed on 2026-02-04
+- **Last Migration Date:** 2026-02-04 (Ebisu Brewery Tokyo: A Must-Visit for Beer Lovers)
 
 ---
 

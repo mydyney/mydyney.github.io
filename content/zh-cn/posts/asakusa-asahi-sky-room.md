@@ -217,7 +217,7 @@ featured_image: "/images/posts/asakusa-asahi-sky-room-01.jpg"
 
 <p><strong>⭐ 东京啤酒厂之旅：另外两大啤酒品牌</strong></p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>惠比寿啤酒厂东京（啤酒爱好者必去）</strong></a></p>
+<p><strong>➡️</strong> <a href="/zh-cn/posts/ebisu-brewery-tokyo/" style="color: #667eea; text-decoration: underline;"><strong>惠比寿啤酒厂东京（啤酒爱好者必去）</strong></a></p>
 
 <p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>银座札幌酒吧（完美生啤酒评测）</strong></a></p>
 

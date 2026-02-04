@@ -65,10 +65,7 @@ translationKey: "yebisu-complete-guide"
 
 <p>The former "Yebisu Beer Museum" reopened in April 2024 as an experience space equipped with brewing facilities. It is a holy land for beer lovers where you can learn the history of Yebisu beer and enjoy special beers brewed right here.</p>
 
-<!-- TODO: Update link after migration 
-     Naver: https://blog.naver.com/tokyomate/223665548720
-     Hugo: /posts/yebisu-brewery-tokyo-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>Yebisu Brewery Tokyo: A Must-Visit for Beer Lovers</b></a></p>
+<p>➡️ <a href="/posts/ebisu-brewery-tokyo/" style="color: #667eea;"><b>Yebisu Brewery Tokyo: A Must-Visit for Beer Lovers</b></a></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-04.jpg" alt="Yebisu Brewery Tokyo Entrance">

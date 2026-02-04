@@ -217,7 +217,7 @@ and all the insider tips for enjoying <strong>Tokyo Skytree and Sensoji night vi
 
 <p><strong>⭐ Tokyo Brewery Tour: The Other Two Major Beer Brands</strong></p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>Yebisu Brewery Tokyo (Must-Visit for Beer Enthusiasts)</strong></a></p>
+<p><strong>➡️</strong> <a href="/posts/ebisu-brewery-tokyo/" style="color: #667eea; text-decoration: underline;"><strong>Yebisu Brewery Tokyo (Must-Visit for Beer Enthusiasts)</strong></a></p>
 
 <p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>Ginza Sapporo The Bar (Perfect Draft Beer Review)</strong></a></p>
 

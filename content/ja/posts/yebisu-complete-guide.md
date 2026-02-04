@@ -65,10 +65,7 @@ translationKey: "yebisu-complete-guide"
 
 <p>かつての「ヱビスビール記念館」が、2024年4月に醸造設備を備えた体験型スペースとしてリニューアルオープンしました。ヱビスビールの歴史を学び、ここで醸造された特別なビールを楽しめる、ビール好きの聖地です。</p>
 
-<!-- TODO: Update link after migration 
-     Naver: https://blog.naver.com/tokyomate/223665548720
-     Hugo: /posts/yebisu-brewery-tokyo-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>YEBISU BREWERY TOKYO：ビール好き必見の聖地</b></a></p>
+<p>➡️ <a href="/ja/posts/ebisu-brewery-tokyo/" style="color: #667eea;"><b>YEBISU BREWERY TOKYO：ビール好き必見の聖地</b></a></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-04.jpg" alt="YEBISU BREWERY TOKYO 入口">

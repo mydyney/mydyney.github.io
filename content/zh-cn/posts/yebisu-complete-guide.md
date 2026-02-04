@@ -65,10 +65,7 @@ translationKey: "yebisu-complete-guide"
 
 <p>前身是“惠比寿啤酒纪念馆”，于2024年4月作为配备酿造设施的体验空间重新开放。这里是啤酒爱好者的圣地，您不仅可以了解惠比寿啤酒的历史，还能品尝到这里现场酿造的特别啤酒。</p>
 
-<!-- TODO: Update link after migration 
-     Naver: https://blog.naver.com/tokyomate/223665548720
-     Hugo: /posts/yebisu-brewery-tokyo-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>YEBISU BREWERY TOKYO：啤酒爱好者必去之地</b></a></p>
+<p>➡️ <a href="/zh-cn/posts/ebisu-brewery-tokyo/" style="color: #667eea;"><b>YEBISU BREWERY TOKYO：啤酒爱好者必去之地</b></a></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-04.jpg" alt="YEBISU BREWERY TOKYO 入口">

@@ -217,7 +217,7 @@ featured_image: "/images/posts/asakusa-asahi-sky-room-01.jpg"
 
 <p><strong>⭐ 東京ブルワリーツアー、もう一つの2大ビールブランド</strong></p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>恵比寿ブルワリー東京（ビール好き必須コース）</strong></a></p>
+<p><strong>➡️</strong> <a href="/ja/posts/ebisu-brewery-tokyo/" style="color: #667eea; text-decoration: underline;"><strong>恵比寿ブルワリー東京（ビール好き必須コース）</strong></a></p>
 
 <p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>銀座サッポロ ザ・バー（パーフェクトな生ビールレビュー）</strong></a></p>
 
