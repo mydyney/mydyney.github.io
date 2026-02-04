@@ -20,6 +20,7 @@ When migrating a Naver blog post to Hugo:
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
 | 224170137639 | asakusa-imahan-kokusaidori-guide | 2026-02-03 | ✅ |
+| 224025343414 | asakusa-asahi-sky-room | 2026-02-04 | ✅ |
 | 224163039620 | atami-kawazu-cherry-blossom-festival-guide | 2026-01-28 | ✅ |
 | 224149088534 | kamakura-day-trip-guide | 2026-01-16 | ✅ |
 | 224151789346 | tokyo-kajitsuen-liebel-strawberry-parfait-guide | 2026-01-19 | ✅ |
@@ -235,7 +236,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, shibuya-sushi-no-midori-lunch-guide, mitsui-outlet-kisarazu-guide | Japan Kaldi Shopping List Must-Buy Recommendations |
 | 224031937227 | akihabara-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
 | 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
-| 224025343414 | asakusa-asahi-sky-room | Asakusa Asahi Beer Sky Room Night View Guide |
+| 224025343414 | asakusa-asahi-sky-room | 2026-02-04 | ✅ |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
@@ -307,12 +308,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 119
+- **Total Posts Migrated:** 137
 - **Naver IDs Tracked:** 172
 - **Posts with Internal Links:** 39+ (tokyo-moheji-monjayaki-marunouchi-guide, tokyo-station-kantaro-ichibangai-sushi, shimbashi-shiodome-evening-course, odaiba-ariake-toyosu-complete-guide, evangelion, tokyo-3-day, hello-kitty-popup, yebisu-illumination, shinanoya-roppongi-hills, tamiya-plamodel-factory, meiji-jingu-gaien-ginkgo-avenue-tokyo, meiji-jingu-gaien-christmas-market-2025, yokohama-chinatown-keitokuchin-mapo-tofu, shibuya-ikushika-rice-refill-restaurant, nakameguro-shabushabu-lettuce-main-store, japan-convenience-store-shopping-best-10, ikebukuro-complete-guide, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025, tokyo-october-festivals-2025, tokyo-september-festivals-2025, tokyo-transportation-card-guide-2025, azabujuban-naniwaya-taiyaki, tokyo-skytree-reservation-discount-guide, toranomon-hills-complete-guide, azabudai-hills-complete-guide, shibuya-sushi-no-midori-lunch-guide, shibuya-blue-cave-illumination-2025, shibuya-complete-guide-2025, harajuku-complete-guide-2025, odaiba-rainbow-fireworks-2025, don-quijote-shopping-guide-2025, shinjuku-hotels-best-10, shibuya-parco-kiwamiya-hamburg-waiting-menu, tsukiji-market-restaurant-guide, tokyo-subway-ticket-guide, narita-airport-arrival-guide, hakone-romance-car-booking-guide, tokyo-nihonbashi-manten-sushi-guide)
-- **Pending References:** 45
+- **Pending References:** 44
 - **Links Updated:** Verified & Fixed on 2026-01-22
-- **Last Migration Date:** 2026-01-31 (Tokyo Kajitsuen Liebel Strawberry Parfait Guide: Menu, Prices & Waiting Tips)
+- **Last Migration Date:** 2026-02-04 (Asakusa Asahi Sky Room: Tokyo's Best Night View Spot After Reopening)
 
 ---
 
