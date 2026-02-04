@@ -361,10 +361,7 @@ translationKey: "asakusa-imahan-kokusaidori-guide"
 
 ### 🍺 Hidden View Near Asahi Beer Headquarters?
 <p>Enjoy the best view under the "Golden Flame" of Asahi Beer.</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025343414
-     Hugo: /posts/asakusa-asahi-sky-room/ -->
-<p><a href="#" style="color: #667eea;">👉 <strong>Asakusa Asahi Beer Sky Room Latest Usage Tips</strong></a></p>
+<p><a href="/posts/asakusa-asahi-sky-room/" style="color: #667eea;">👉 <strong>Asakusa Asahi Beer Sky Room Latest Usage Tips</strong></a></p>
 
 </div>
 

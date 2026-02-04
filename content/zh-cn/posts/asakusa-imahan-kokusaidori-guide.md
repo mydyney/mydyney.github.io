@@ -362,10 +362,7 @@ translationKey: "asakusa-imahan-kokusaidori-guide"
 
 ### 🍺 朝日啤酒总部附近的隐藏美景？
 <p>在朝日啤酒“金色火焰”下享受极致视野。</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025343414
-     Hugo: /zh-cn/posts/asakusa-asahi-sky-room/ -->
-<p><a href="#" style="color: #667eea;">👉 <strong>浅草朝日啤酒“Sky Room”最新利用攻略</strong></a></p>
+<p><a href="/zh-cn/posts/asakusa-asahi-sky-room/" style="color: #667eea;">👉 <strong>浅草朝日啤酒“Sky Room”最新利用攻略</strong></a></p>
 
 </div>
 

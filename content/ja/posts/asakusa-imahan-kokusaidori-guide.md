@@ -362,10 +362,7 @@ translationKey: "asakusa-imahan-kokusaidori-guide"
 
 ### 🍺 アサヒビール本社近くの隠れた絶景？
 <p>アサヒビールの「金の炎」の下で楽しむ最高の眺望。</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224025343414
-     Hugo: /ja/posts/asakusa-asahi-sky-room/ -->
-<p><a href="#" style="color: #667eea;">👉 <strong>アサヒビール本社の「スカイルーム」最新利用ガイド</strong></a></p>
+<p><a href="/ja/posts/asakusa-asahi-sky-room/" style="color: #667eea;">👉 <strong>アサヒビール本社の「スカイルーム」最新利用ガイド</strong></a></p>
 
 </div>
 
