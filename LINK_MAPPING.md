@@ -19,6 +19,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224174540869 | pokemon-park-kanto-yomiuriland-guide | 2026-02-07 | ✅ |
 | 224170137639 | asakusa-imahan-kokusaidori-guide | 2026-02-03 | ✅ |
 | 224025343414 | asakusa-asahi-sky-room | 2026-02-04 | ✅ |
 | 223665548720 | ebisu-brewery-tokyo | 2026-02-04 | ✅ |
