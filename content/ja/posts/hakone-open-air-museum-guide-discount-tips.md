@@ -95,7 +95,7 @@ slug: "hakone-open-air-museum-guide-discount-tips"
 *   <strong>無料音声ガイド：</strong> Klook（クルック）が提供する無料の音声ガイドを事前にダウンロードすれば、作品についてより深く理解することができます。
 *   <strong>注意事項：</strong> 美術館は山の地形を活かしているため、階段や傾斜が多い所があります。必要に応じて、案内所で無料レンタルされている車椅子やベビーカーを利用しましょう。
 
-🎧 [Klook 箱根 彫刻の森美術館 無料音声ガイド](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F168869-the-hakone-open-air-museum-free-audio-guide-by-klook%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1
+🎧 [Klook 箱根 彫刻の森美術館 無料音声ガイド](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F168869-the-hakone-open-air-museum-free-audio-guide-by-klook%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1)
 
 <figure>
   <img src="/images/posts/hakone-open-air-museum-guide-discount-tips-08.jpg" alt="箱根 彫刻の森美術館 樹人">

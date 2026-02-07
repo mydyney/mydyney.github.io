@@ -86,7 +86,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 - <strong>予約方法</strong>:Klook、KKday / JR東日本サービスセンター
 
-<strong>✅ [Klookで成田エクスプレスを予約↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1>
+<strong>✅ [Klookで成田エクスプレスを予約↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F173165-narita-express-n-ex-round-trip-train-ticket-narita-airport-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1)</strong>
 
 ### ⏰ N'EX時刻表(成田空港 → 新宿駅)
 
@@ -213,7 +213,7 @@ featured_image: "/images/posts/narita-to-shinjuku-2025-01.jpg"
 
 - <strong>予約方法</strong>:Klook / 空港チケットカウンター
 
-<strong>✅ [Klookでリムジンバスを予約↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F%29%3C%2Fstrong%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1>
+<strong>✅ [Klookでリムジンバスを予約↗](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F2274-narita-airport-limousine-bus-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1)</strong>
 
 ### 📍 リムジンバス乗り場
 

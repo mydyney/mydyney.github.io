@@ -97,7 +97,7 @@ Take the Hakone Tozan Railway and get off at <strong>'Chokoku-no-Mori Station'</
 *   <strong>Free Audio Guide:</strong> If you download the free audio guide provided by Klook in advance, you can enjoy the exhibition with in-depth explanations of the works.
 *   <strong>Precautions:</strong> The museum has many stairs and slopes as it utilizes the mountain terrain. If necessary, use wheelchairs or strollers provided for free at the information desk.
 
-🎧 [Klook Hakone Open-Air Museum Free Audio Guide](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F168869-the-hakone-open-air-museum-free-audio-guide-by-klook%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1
+🎧 [Klook Hakone Open-Air Museum Free Audio Guide](https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F168869-the-hakone-open-air-museum-free-audio-guide-by-klook%2F%3Fspm%3DSearchResult.SearchResult_LIST%26currency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1)
 
 <figure>
   <img src="/images/posts/hakone-open-air-museum-guide-discount-tips-08.jpg" alt="Tree Man sculpture at Hakone Open-Air Museum">
