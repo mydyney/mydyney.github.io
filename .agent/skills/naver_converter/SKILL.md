@@ -25,17 +25,94 @@ This skill guides you through the process of migrating a Naver blog post to the 
 
 ---
 
-## Step 0: Content Mapping (NEW & MANDATORY)
+## Step 0: Pre-Analysis Phase (MANDATORY - CRITICAL)
 
-**Goal**: Create a visual/mental inventory of the source content to ensure 1:1 parity and correct sequencing.
+**Goal**: Complete structural analysis BEFORE starting any content generation to prevent errors.
 
-1.  **Inventory `naver.md`**:
-    *   List every heading (H2, H3).
-    *   Count every paragraph block.
-    *   List every image with its corresponding caption (if any).
-    *   List every link and its purpose (e.g., "Google Maps link for Item X").
-2.  **Create Artifact**: Write this inventory to `<appDataDir>/brain/<id>/content_inventory.md`.
-3.  **Identify Duplicates/Errors**: Check if the source has duplicate links or incorrect descriptions and plan corrections in advance (documenting them in the implementation plan).
+### 0.1 Image Group Structure Analysis
+
+**CRITICAL**: Extract ALL image group information from `naver.md` FIRST.
+
+1.  **Count Total Images**:
+    ```bash
+    grep -o "se-image-resource" naver.md | wc -l
+    ```
+
+2.  **Extract Image Group Locations**:
+    ```bash
+    grep -n "se-imageGroup-col-" naver.md
+    ```
+    - Note the line numbers and group types (col-2, col-3, col-4)
+
+3.  **Extract Exact Image Ratios**:
+    ```bash
+    grep -A 3 "se-imageGroup-col-2" naver.md | \
+    grep "style=\"width" | \
+    sed 's/.*width://g' | \
+    sed 's/%.*//g' | \
+    awk 'NR%2{printf "%s / ",$0;next;}1' | \
+    nl -v 1 -s ". "
+    ```
+    - **RECORD EXACT PERCENTAGES** - DO NOT ESTIMATE
+
+4.  **Create Image Mapping Table**:
+    | Image # | Type | Ratio | Caption | Section |
+    |---------|------|-------|---------|----------|
+    | 1 | Single | - | "..." | Intro |
+    | 2-3 | Group | 36/64 | "..." | Park |
+    | ... | ... | ... | ... | ... |
+
+### 0.2 Section Structure Analysis
+
+1.  **Extract All Section Titles**:
+    ```bash
+    grep -o "se-fs- se-ff-nanumdasisijaghae" naver.md -A 1
+    ```
+
+2.  **Count Content Blocks per Section**:
+    - Paragraphs
+    - Lists (bullet/numbered)
+    - Images
+    - Links
+
+3.  **Verify NO Arbitrary Additions**:
+    - ❌ DO NOT add section headers not in original
+    - ❌ DO NOT add content not in original
+    - ❌ DO NOT reorganize structure
+    - ✅ ONLY translate and format existing content
+
+### 0.3 Create Pre-Analysis Artifact
+
+**Write to**: `<appDataDir>/brain/<id>/pre_analysis.md`
+
+```markdown
+# Pre-Analysis: [Post Title]
+
+## Image Inventory
+- Total Images: XX
+- Image Groups: XX
+- Group Details:
+  1. Images X-Y: Ratio A/B - "Caption"
+  2. Images X-Y: Ratio A/B - "Caption"
+
+## Section Structure
+1. Section Title
+   - Paragraphs: X
+   - Images: X
+   - Lists: X
+
+## Verification Checklist
+- [ ] All image ratios extracted
+- [ ] All sections mapped
+- [ ] No arbitrary additions planned
+```
+
+### 0.4 User Confirmation
+
+**BEFORE starting content generation**:
+1. Present the pre-analysis artifact to user
+2. Confirm structure understanding
+3. Get approval to proceed
 
 ---
 
@@ -93,11 +170,30 @@ This skill guides you through the process of migrating a Naver blog post to the 
     *   Format: `📍 <a href="..." target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>View on Google Maps</strong></a>`
     *   JA: `<strong>Googleマップで見る</strong>`, ZH: `<strong>在 Google 地图上查看</strong>`.
 *   **Headings**: Use Markdown (`##`, `###`) for headings.
-*   **Images**:
-    *   **1:1 Matching**: Every image in Naver HTML must be present.
+*   **Images** (CRITICAL - STRICT RULES):
+    *   **1:1 Matching**: Every image in Naver HTML must be present - NO additions, NO deletions.
     *   **High-Res Quality**: Append `?type=w966` to the URL.
-    *   **Groups**: Wrap groups in `<div class="image-group-X">` inside a `<figure>`.
-    *   **Captions**: Every caption in `naver.md` MUST be translated and added via `<figcaption style="font-size: 0.85em; text-align: center;">`.
+    *   **Image Groups** (MANDATORY PROCESS):
+        1. **Use Inline Flex Styles** (NOT CSS classes):
+           ```html
+           <div style="display: flex; gap: 10px; margin: 20px 0;">
+             <figure style="margin: 0; flex: 0.XXX;">
+               <img src="..." style="width: 100%; height: auto; display: block;">
+             </figure>
+             <figure style="margin: 0; flex: 0.YYY;">
+               <img src="..." style="width: 100%; height: auto; display: block;">
+             </figure>
+           </div>
+           <figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Caption</figcaption>
+           ```
+        2. **Extract EXACT ratios** from naver.md `style="width:XX%"` - convert to decimal (e.g., 51.77% → 0.518)
+        3. **Verify ratio sum = 1.0** for each group
+        4. **For 4-image groups (2x2)**: Create TWO separate flex divs (one per row)
+    *   **Captions**: Every caption in `naver.md` MUST be translated and added.
+    *   **Image Numbering**: 
+        - ❌ NEVER renumber existing images
+        - ✅ Only add new images with next available number
+        - ✅ Keep original numbering even if images are deleted
 
 ---
 
@@ -135,16 +231,58 @@ python3 download_naver_images.py "[slug]"
 
 ## Step 7: Verification Suite (MANDATORY)
 
+### 7.1 Automated Verification Scripts
+
+**Create and run these verification scripts**:
+
+1.  **Image Count Verification**:
+    ```bash
+    #!/bin/bash
+    NAVER_COUNT=$(grep -o "se-image-resource" naver.md | wc -l | tr -d ' ')
+    HUGO_COUNT=$(grep -o '<img' content/en/posts/[slug].md | wc -l | tr -d ' ')
+    echo "Naver: $NAVER_COUNT | Hugo: $HUGO_COUNT"
+    [ $NAVER_COUNT -eq $HUGO_COUNT ] && echo "✅ PASS" || echo "❌ FAIL"
+    ```
+
+2.  **Image Group Count Verification**:
+    ```bash
+    #!/bin/bash
+    NAVER_GROUPS=$(grep -c "se-imageGroup-col-2" naver.md)
+    HUGO_GROUPS=$(grep -c "display: flex" content/en/posts/[slug].md)
+    echo "Naver: $NAVER_GROUPS | Hugo: $HUGO_GROUPS"
+    [ $NAVER_GROUPS -eq $HUGO_GROUPS ] && echo "✅ PASS" || echo "❌ FAIL"
+    ```
+
+3.  **Image Ratio Verification**:
+    ```bash
+    #!/bin/bash
+    # Extract all flex ratios and verify they sum to ~1.0 per group
+    grep "flex: 0\." content/en/posts/[slug].md | \
+    sed 's/.*flex: //g' | sed 's/;.*//g' | \
+    awk 'NR%2{sum=$1;next}{sum+=$1; print sum}' | \
+    awk '{if($1<0.99||$1>1.01)print "❌ FAIL: "$1; else print "✅ PASS: "$1}'
+    ```
+
+### 7.2 Manual Verification Checklist
+
 Run these checks and document results:
 1.  **Total Parity Check**:
     *   Images: `naver.md` count vs Hugo count (Must match 1:1).
     *   Captions: `naver.md` count vs Hugo count.
     *   Links: `naver.md` count vs Hugo count.
-2.  **Structural Parity Check**: Compare EN, JA, and ZH side-by-side to ensure paragraph counts and heading structures are identical.
-3.  **Markdown Leak Check (CRITICAL)**:
+    *   Image Groups: `naver.md` count vs Hugo count.
+2.  **Image Group Ratio Check**:
+    *   Compare each group's ratios with naver.md source
+    *   Verify all ratios sum to 1.0 (±0.01 tolerance)
+3.  **Structural Parity Check**: Compare EN, JA, and ZH side-by-side to ensure paragraph counts and heading structures are identical.
+4.  **Markdown Leak Check (CRITICAL)**:
     *   Search for Markdown syntax inside the `blog-container` area.
     *   `grep -E '\*\*|\[.*\]\(.*\)|^- ' content/*/posts/[slug].md`
-4.  **Footer Link Standard Check**: Ensure "👉" is inside the `<a>` tag and icons match EN.
+5.  **Footer Link Standard Check**: Ensure "👉" is inside the `<a>` tag and icons match EN.
+6.  **Content Fidelity Check**:
+    *   ❌ NO section headers added that don't exist in naver.md
+    *   ❌ NO content reorganization
+    *   ✅ ALL sections from naver.md present
 
 ---
 
@@ -178,24 +316,122 @@ featured_image: "/images/posts/slug-01.jpg"
 ## Ebisu Brewery Tokyo Operating Hours
 ```
 
-### 3. Image Group Classes
+### 3. Image Group Classes (DEPRECATED)
 
-**❌ WRONG**: Generic `image-group` class
+**❌ WRONG**: Using CSS classes
 ```html
-<div class="image-group">
+<div class="image-group-2">
 ```
 
-**✅ CORRECT**: Use column-specific class based on Naver source
-- Check Naver HTML for `se-imageGroup-col-2`, `se-imageGroup-col-3`, or `se-imageGroup-col-4`
-- Convert to `image-group-2`, `image-group-3`, or `image-group-4`
-
+**✅ CORRECT**: Use inline flex styles
 ```html
-<div class="image-group-2">  <!-- For 2-column layout -->
-<div class="image-group-3">  <!-- For 3-column layout -->
-<div class="image-group-4">  <!-- For 4-column layout -->
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.518;">
+    <img src="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.482;">
+    <img src="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Caption</figcaption>
 ```
 
-### 4. Editor's Note Format
+### 4. Image Group Ratio Errors (NEW - CRITICAL)
+
+**❌ WRONG**: Estimating ratios visually
+```html
+<figure style="margin: 0; flex: 0.5;">  <!-- Guessed 50/50 -->
+<figure style="margin: 0; flex: 0.5;">
+```
+
+**✅ CORRECT**: Extract exact ratios from naver.md
+```bash
+# Extract from naver.md: width:51.76899063475546%
+# Convert to decimal: 0.518
+<figure style="margin: 0; flex: 0.518;">
+<figure style="margin: 0; flex: 0.482;">
+```
+
+### 5. Missing Image Groups (NEW - CRITICAL)
+
+**❌ WRONG**: Skipping image groups from naver.md
+- Missing standalone images between sections
+- Deleting image groups that seem duplicate
+
+**✅ CORRECT**: Include ALL images from naver.md
+- Use pre-analysis to map every single image
+- Verify image count matches: `naver.md` vs `Hugo`
+- Never skip images even if they seem redundant
+
+### 6. Arbitrary Section Additions (NEW - CRITICAL)
+
+**❌ WRONG**: Adding section headers not in original
+```markdown
+## Traditional Izakaya & Specialty Coffee  <!-- NOT in naver.md -->
+```
+
+**✅ CORRECT**: Only use sections from naver.md
+- Extract all section titles from naver.md FIRST
+- Never add headers for "better organization"
+- Translate existing structure exactly
+
+### 7. Image Numbering Errors (NEW - CRITICAL)
+
+**❌ WRONG**: Renumbering images after additions/deletions
+```
+Original: 1-21
+After adding image 2: Renumber 13-21 → 13-19  <!-- WRONG -->
+```
+
+**✅ CORRECT**: Keep original numbers, only add new
+```
+Original: 1, 3-21 (missing 2)
+After adding image 2: 1-21 (all present)  <!-- Keep original numbers -->
+```
+
+### 8. Editor's Note Format
+
+**❌ WRONG**: Simple format without styling
+```markdown
+> Editor's Note: This is a note
+```
+
+**✅ CORRECT**: Use styled blockquote
+```html
+<blockquote style="background: #f9f9f9; border-left: 4px solid #667eea; padding: 15px 20px; margin: 20px 0;">
+<p style="margin: 0;"><strong>✏️ Editor's Note:</strong> Content here</p>
+</blockquote>
+```
+
+---
+
+## Critical Reminders
+
+1. **ALWAYS run pre-analysis BEFORE content generation**
+2. **NEVER estimate image ratios - extract exact values**
+3. **NEVER add content not in naver.md**
+4. **NEVER renumber existing images**
+5. **ALWAYS verify with automated scripts**
+6. **ALWAYS maintain 1:1 parity with source**
+
+---
+
+## Quick Reference: Verification Commands
+
+```bash
+# Image count
+grep -o "se-image-resource" naver.md | wc -l
+grep -o '<img' content/en/posts/[slug].md | wc -l
+
+# Image group count
+grep -c "se-imageGroup-col-2" naver.md
+grep -c "display: flex" content/en/posts/[slug].md
+
+# Extract image ratios
+grep -A 3 "se-imageGroup-col-2" naver.md | \
+grep "style=\"width" | \
+sed 's/.*width://g' | sed 's/%.*//g'
+```
 
 **❌ WRONG**: Simple format without styling
 ```html
