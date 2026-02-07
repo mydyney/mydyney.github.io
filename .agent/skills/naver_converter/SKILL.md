@@ -218,14 +218,38 @@ python3 download_naver_images.py "[slug]"
 
 **Goal**: Create Japanese (`ja`) and Chinese (`zh-cn`) versions.
 
+**CRITICAL: HTML Formatting Rules Apply to ALL Languages**
+
+> [!IMPORTANT]
+> The HTML formatting rules from Step 3 apply **EQUALLY** to Japanese and Chinese versions:
+> - ✅ **USE**: `<strong>`, `<ul>`, `<li>`, `<p>`, `<a>` inside `blog-container`
+> - ❌ **NEVER**: `**text**`, `- item`, `[link](url)` inside `blog-container`
+> - 📋 **Process**: Translate text content ONLY, keep ALL HTML tags intact
+> - 🔍 **Verify**: Run Markdown leak check after each language (see Step 7.4)
+
+**Translation Guidelines**:
+
 1.  **Consistency**: Use the **SAME** `translationKey` and images as English.
 2.  **Parity**: Maintain **1:1 structural parity**. Do not summarize detail-rich sections (timetables, menus).
 3.  **Currency**: Standardize KRW/JPY to **USD** (e.g., 10k KRW ≈ $7.50).
 4.  **Japanese**: Natural desu/masu tone. No "Japan's X" phrasing. Remove tax-free info for JA if it's a guide for domestic Japanese. Use original Japanese/Kanji names directly without parenthetical explanations or furigana/bracketed readings.
-3.  **Chinese**: Engaging style with emojis. **NO** special quotes in front matter.
-4.  **Shop Name Notation**: Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#shop-name--terminology-notation-rules)** for strict rules (EN/ZH: `Name (Original)`, JA: `Original` only).
-5.  **Klook Affiliate Links**: Convert all Klook links using the **Tripmate account (AID: 110453)** and localize language/currency for each version. Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#klook-affiliate-link-conversion)** for the template.
-6.  **Cultural Adaptation**: Follow the **[Cultural Adaptation & Writing Style](./resources/CONTENT_GUIDELINES.md#3-cultural-adaptation--writing-style)** master rules.
+5.  **Chinese**: Engaging style with emojis. **NO** special quotes in front matter.
+6.  **Shop Name Notation**: Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#shop-name--terminology-notation-rules)** for strict rules (EN/ZH: `Name (Original)`, JA: `Original` only).
+7.  **Klook Affiliate Links**: Convert all Klook links using the **Tripmate account (AID: 110453)** and localize language/currency for each version. Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#klook-affiliate-link-conversion)** for the template.
+8.  **Cultural Adaptation**: Follow the **[Cultural Adaptation & Writing Style](./resources/CONTENT_GUIDELINES.md#3-cultural-adaptation--writing-style)** master rules.
+
+**Translation Example** (Correct vs Incorrect):
+
+```html
+<!-- ✅ CORRECT: HTML preserved -->
+English: <strong>Must-Visit Restaurant</strong>
+Japanese: <strong>必訪レストラン</strong>
+Chinese: <strong>必访餐厅</strong>
+
+<!-- ❌ INCORRECT: Converted to Markdown -->
+Japanese: **必訪レストラン**  ← NEVER DO THIS
+Chinese: **必访餐厅**  ← NEVER DO THIS
+```
 
 ---
 
@@ -258,6 +282,29 @@ python3 download_naver_images.py "[slug]"
     #!/bin/bash
     # Extract all flex ratios and verify they sum to ~1.0 per group
     grep "flex: 0\." content/en/posts/[slug].md | \
+    awk -F'flex: 0\\.' '{print $2}' | \
+    awk -F';' '{print $1}' | \
+    awk '{sum+=$1; if(NR%2==0){print sum/1000; sum=0}}'
+    # Each output should be ~1.0 (e.g., 0.998-1.002)
+    ```
+
+4.  **Markdown Leak Verification** (CRITICAL):
+    ```bash
+    #!/bin/bash
+    # Check for Markdown syntax inside blog-container (should be 0)
+    echo "=== Markdown Leak Check ==="
+    for lang in en ja zh-cn; do
+      COUNT=$(grep -c '\*\*' content/$lang/posts/[slug].md 2>/dev/null || echo 0)
+      if [ "$COUNT" -gt 0 ]; then
+        echo "❌ $lang: Found $COUNT Markdown bold (**)"
+        echo "   Fix: sed -i '' 's/\*\*\([^*]*\)\*\*/\<strong\>\1\<\/strong\>/g' content/$lang/posts/[slug].md"
+      else
+        echo "✅ $lang: No Markdown leaks"
+      fi
+    done
+    ```
+
+5.  **Section Count Verification**:
     sed 's/.*flex: //g' | sed 's/;.*//g' | \
     awk 'NR%2{sum=$1;next}{sum+=$1; print sum}' | \
     awk '{if($1<0.99||$1>1.01)print "❌ FAIL: "$1; else print "✅ PASS: "$1}'
