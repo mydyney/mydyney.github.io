@@ -1,6 +1,6 @@
 ---
 title: "东京伴侣"
-featured_image: '/images/main_shibakoen_tokyo_tower.jpg'
+featured_image: '/images/main_keyaki_jaka_lumine.jpg'
 description: "传递东京的真正魅力 - 从本地美食到隐藏名所"
 translationKey: "homepage"
 ---

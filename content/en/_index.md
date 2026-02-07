@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Mate"
-featured_image: '/images/main_shibakoen_tokyo_tower.jpg'
+featured_image: '/images/tokyo_station.png'
 description: "Your authentic Tokyo travel guide - from local restaurants to hidden gems"
 translationKey: "homepage"
 ---
