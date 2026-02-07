@@ -161,6 +161,18 @@ translationKey: "ghibli-museum-reservation-guide"
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Official Japanese Lawson Ticket page (Requires Japanese phone number)</strong></figcaption>
 </figure>
 
+<p><strong>[Precautions for Ticket Purchase & Entry]</strong></p>
+<ul>
+  <li>Ghibli Museum is fully reservation-only. Tickets are not sold at the museum counter. Please purchase via the website in advance.</li>
+</ul>
+
+<p><strong>Purchase Information</strong></p>
+<ul>
+  <li>When purchasing tickets, registration as a Lawson WEB member (free) and mobile phone number authentication are required.</li>
+  <li>All Ghibli Museum entrance tickets are managed by name. The name registered to the Lawson WEB account will be printed on all related tickets. <strong>Do not book tickets using a pseudonym.</strong></li>
+  <li>Tickets must be purchased using the account of the person visiting on the day. Furthermore, once purchased, tickets cannot have their names, dates, or times changed, nor can they be refunded.</li>
+</ul>
+
 <br>
 
 <h3>🟣 Method 3: Using a Bus Tour Package Including Ghibli Museum Entry</h3>
@@ -188,11 +200,11 @@ translationKey: "ghibli-museum-reservation-guide"
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Mitaka Ghibli Museum Opening Days</strong></figcaption>
 </figure>
 
-<p><strong>📌 Absolute Rules for Visit</strong></p>
+<p><strong>📌 Absolute Rules for Succesful Reservation & Visit</strong></p>
 <ul>
-  <li><strong>1-Hour Rule:</strong> You must enter within <strong>1 hour</strong> of your designated time slot.</li>
-  <li><strong>No Refunds/Changes:</strong> Once booked, dates and times cannot be changed or refunded under any circumstances.</li>
-  <li><strong>ID Verification (Passport):</strong> You must bring the passport of the main booker for identity verification.</li>
+  <li><strong>1-Hour Rule:</strong> You must enter within <strong>1 hour</strong> of your designated 입장(entrance) time slot.</li>
+  <li><strong>Refunds/Changes Absolutely Impossible:</strong> Once booked, dates and times cannot be changed or refunded under any circumstances.</li>
+  <li><strong>ID Verification Mandatory (Bring Passport):</strong> You must bring your ID (Passport) matching the booker's name for identity verification.</li>
   <li><strong>Group Entry:</strong> The whole group must enter together at the same time.</li>
 </ul>
 
