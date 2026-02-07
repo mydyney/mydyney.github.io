@@ -314,34 +314,15 @@ featured_image: "/images/posts/pokemon-park-kanto-yomiuriland-guide-01.jpg"
 ## 🧡 関連する東京旅行ガイド
 
 <p>1. ポケモンパーク訪問前に「新宿」で宿泊先をお探しですか？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224100382618
-     Hugo: /ja/posts/shinjuku-hotels-best-10/ -->
-<p><strong>➡️</strong> <a href="/ja/posts/shinjuku-hotels-best-10/" style="color: #667eea; text-decoration: underline;"><strong>東京新宿ホテルおすすめベスト10（駅近・リーズナブル）</strong></a></p>
+<p>➡️ <a href="/ja/posts/shinjuku-hotels-best-10/" style="color: #667eea; text-decoration: underline;"><strong>東京新宿ホテルおすすめベスト10｜コスパ・大浴場・家族旅行</strong></a></p>
+<p>➡️ <a href="/ja/posts/shinjuku-luggage-storage/" style="color: #667eea; text-decoration: underline;"><strong>新宿駅荷物預かり完全ガイド｜コインロッカーを100%見つける方法（場所・料金まとめ）</strong></a></p>
 
-<p>2. 新宿駅周辺の荷物預かりが心配ですか？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224073290696
-     Hugo: /ja/posts/shinjuku-luggage-storage/ -->
-<p><strong>➡️</strong> <a href="/ja/posts/shinjuku-luggage-storage/" style="color: #667eea; text-decoration: underline;"><strong>新宿駅コインロッカー＆荷物預かり完全ガイド</strong></a></p>
+<p>2. お子様連れの旅行なら、この記事も必見です！</p>
+<p>➡️ <a href="/ja/posts/shinjuku-kids-parks-guide/" style="color: #667eea; text-decoration: underline;"><strong>新宿を子供と一緒に！5大キッズパークへの行き方（サンリオ、ディズニー、よみうりランド）</strong></a></p>
+<p>➡️ <a href="/ja/posts/ghibli-museum-reservation-guide/" style="color: #667eea; text-decoration: underline;"><strong>東京ジブリ美術館予約方法まとめ（チケット、行き方、グッズのコツ）</strong></a></p>
 
-<p>3. お子様連れですか？新宿の公園をチェック！</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224063760866
-     Hugo: /ja/posts/shinjuku-kids-parks-guide/ -->
-<p><strong>➡️</strong> <a href="/ja/posts/shinjuku-kids-parks-guide/" style="color: #667eea; text-decoration: underline;"><strong>東京新宿キッズパーク＆遊び場ベスト5</strong></a></p>
-
-<p>4. ポケモンパークの後に吉祥寺を訪れたいですか？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037212344
-     Hugo: /ja/posts/kichijoji-complete-guide-2025/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><strong>東京吉祥寺完全ガイド（ジブリ美術館、ショッピング、レストラン）</strong></a></p>
-
-<p>5. 紅葉シーズンの計画をお考えですか？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><strong>東京紅葉おすすめスポット＆見頃ガイド</strong></a></p>
+<p>3. よみうりランドに行ったついでに、周辺コースも制覇しましょう！</p>
+<p>➡️ <a href="/ja/posts/kichijoji-complete-guide-2025/" style="color: #667eea; text-decoration: underline;"><strong>東京吉祥寺の見どころ、雑貨屋から井の頭公園まで完璧コース</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

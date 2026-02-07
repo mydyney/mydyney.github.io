@@ -313,35 +313,16 @@ featured_image: "/images/posts/pokemon-park-kanto-yomiuriland-guide-01.jpg"
 
 ## 🧡 相关东京旅游攻略
 
-<p>1. 游玩宝可梦公园前想在"新宿"找住宿？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224100382618
-     Hugo: /zh-cn/posts/shinjuku-hotels-best-10/ -->
-<p><strong>➡️</strong> <a href="/zh-cn/posts/shinjuku-hotels-best-10/" style="color: #667eea; text-decoration: underline;"><strong>东京新宿酒店推荐TOP10（近车站、性价比高）</strong></a></p>
+<p>1. 游玩宝可梦公园前想在"新宿"找住宿吗？</p>
+<p>➡️ <a href="/zh-cn/posts/shinjuku-hotels-best-10/" style="color: #667eea; text-decoration: underline;"><strong>东京新宿酒店推荐 BEST 10 | 高性价比 · 大浴场 · 亲子游</strong></a></p>
+<p>➡️ <a href="/zh-cn/posts/shinjuku-luggage-storage/" style="color: #667eea; text-decoration: underline;"><strong>新宿站行李寄存完全指南 | 100% 找到投币储物柜的方法（位置、价格汇总）</strong></a></p>
 
-<p>2. 担心新宿站附近的行李寄存？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224073290696
-     Hugo: /zh-cn/posts/shinjuku-luggage-storage/ -->
-<p><strong>➡️</strong> <a href="/zh-cn/posts/shinjuku-luggage-storage/" style="color: #667eea; text-decoration: underline;"><strong>新宿站投币储物柜&行李寄存完全攻略</strong></a></p>
+<p>2. 如果是带孩子旅行，这篇文章也是必看！</p>
+<p>➡️ <a href="/zh-cn/posts/shinjuku-kids-parks-guide/" style="color: #667eea; text-decoration: underline;"><strong>带孩子玩转新宿！5 大儿童乐园前往攻略（三丽鸥、迪士尼、读卖乐园）</strong></a></p>
+<p>➡️ <a href="/zh-cn/posts/ghibli-museum-reservation-guide/" style="color: #667eea; text-decoration: underline;"><strong>东京都吉卜力美术馆预约方法汇总（门票、交通、周边购买技巧）</strong></a></p>
 
-<p>3. 带孩子出行？看看新宿的公园！</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224063760866
-     Hugo: /zh-cn/posts/shinjuku-kids-parks-guide/ -->
-<p><strong>➡️</strong> <a href="/zh-cn/posts/shinjuku-kids-parks-guide/" style="color: #667eea; text-decoration: underline;"><strong>东京新宿儿童公园&游乐场TOP5</strong></a></p>
-
-<p>4. 宝可梦公园后想去吉祥寺？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037212344
-     Hugo: /zh-cn/posts/kichijoji-complete-guide-2025/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><strong>东京吉祥寺完全攻略（吉卜力美术馆、购物、餐厅）</strong></a></p>
-
-<p>5. 计划赏红叶？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><strong>东京红叶最佳观赏地&时间攻略</strong></a></p>
+<p>3. 既然去了读卖乐园，顺便也制霸周边路线吧！</p>
+<p>➡️ <a href="/zh-cn/posts/kichijoji-complete-guide-2025/" style="color: #667eea; text-decoration: underline;"><strong>东京吉祥寺必去景点，从杂货店到井之头公园的完美路线</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编辑说明</strong></p>

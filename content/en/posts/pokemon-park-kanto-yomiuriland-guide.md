@@ -314,34 +314,15 @@ Everything you need to know in one place!</p>
 ## 🧡 Related Tokyo Travel Guides
 
 <p>1. Looking for accommodation in 'Shinjuku' before visiting Pokemon Park?</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224100382618
-     Hugo: /posts/shinjuku-hotels-best-10/ -->
-<p><strong>➡️</strong> <a href="/posts/shinjuku-hotels-best-10/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Shinjuku Hotels Best 10 Recommendations (Near Station, Reasonable Prices)</strong></a></p>
+<p>➡️ <a href="/posts/shinjuku-hotels-best-10/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Shinjuku Hotel Recommendations BEST 10 | Cost-effective · Public Bath · Family Travel</strong></a></p>
+<p>➡️ <a href="/posts/shinjuku-luggage-storage/" style="color: #667eea; text-decoration: underline;"><strong>Shinjuku Station Luggage Storage Complete Guide | How to find coin lockers 100% (Location, Price Summary)</strong></a></p>
 
-<p>2. Worried about luggage storage near Shinjuku Station?</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224073290696
-     Hugo: /posts/shinjuku-luggage-storage/ -->
-<p><strong>➡️</strong> <a href="/posts/shinjuku-luggage-storage/" style="color: #667eea; text-decoration: underline;"><strong>Shinjuku Station Coin Locker & Luggage Storage Complete Guide</strong></a></p>
+<p>2. If you are traveling with children, this post is also essential!</p>
+<p>➡️ <a href="/posts/shinjuku-kids-parks-guide/" style="color: #667eea; text-decoration: underline;"><strong>Shinjuku with Kids! Top 5 Kids Parks Guide (Sanrio, Disney, Yomiuriland)</strong></a></p>
+<p>➡️ <a href="/posts/ghibli-museum-reservation-guide/" style="color: #667eea; text-decoration: underline;"><strong>Complete Guide to Ghibli Museum Tokyo Reservation (Tickets, Access, Goods Tips)</strong></a></p>
 
-<p>3. Traveling with kids? Check out Shinjuku parks!</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224063760866
-     Hugo: /posts/shinjuku-kids-parks-guide/ -->
-<p><strong>➡️</strong> <a href="/posts/shinjuku-kids-parks-guide/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Shinjuku Kids Parks & Playgrounds Best 5</strong></a></p>
-
-<p>4. Want to visit Kichijoji after Pokemon Park?</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224037212344
-     Hugo: /posts/kichijoji-complete-guide-2025/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Kichijoji Complete Guide (Ghibli Museum, Shopping, Restaurants)</strong></a></p>
-
-<p>5. Planning autumn foliage viewing?</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /posts/[SLUG_TBD]/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Autumn Foliage Best Spots & Viewing Times Guide</strong></a></p>
+<p>3. While at Yomiuriland, conquer the surrounding courses too!</p>
+<p>➡️ <a href="/posts/kichijoji-complete-guide-2025/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Kichijoji Must-Visit Places, from Accessory Shops to Inokashira Park Complete Course</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
