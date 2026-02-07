@@ -193,7 +193,7 @@ translationKey: "ghibli-museum-reservation-guide"
 <p><strong>缺点：</strong> 价格比单买门票贵，且需要跟随固定行程。</p>
 
 <p>➡️ <strong><a href="https://www.kkday.com/zh-cn/product/21611-tokyo-tour-ghibli-museum-ticket-nokashira-park-japan?cid=23136" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">【KKday】吉卜力美术馆 & 井之头公园半日游</a></strong></p>
-<p>➡️ <strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F619-ghibli-museum-hotel-gajoen-edo-open-air-architectural-museum-tour-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">【Klook】吉卜力美术馆 & 江户东京建筑园巴士游</a></strong></p>
+<p>➡️ <strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F619-ghibli-museum-hotel-gajoen-edo-open-air-architectural-museum-tour-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">【Klook】吉卜力美术馆 & 江户东京建筑园巴士游</a></strong></p>
 
 <br>
 

@@ -195,7 +195,7 @@ translationKey: "ghibli-museum-reservation-guide"
 </ul>
 
 <p>➡️ <strong><a href="https://www.kkday.com/en/product/21611-tokyo-tour-ghibli-museum-ticket-nokashira-park-japan?cid=23136" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">[KKday] Ghibli Museum & Inokashira Park Half-Day Tour</a></strong></p>
-<p>➡️ <strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1140231&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F619-ghibli-museum-hotel-gajoen-edo-open-air-architectural-museum-tour-tokyo%2F" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">[Klook] Ghibli Museum & Edo-Tokyo Open Air Museum Bus Tour</a></strong></p>
+<p>➡️ <strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F619-ghibli-museum-hotel-gajoen-edo-open-air-architectural-museum-tour-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">[Klook] Ghibli Museum & Edo-Tokyo Open Air Museum Bus Tour</a></strong></p>
 
 <br>
 

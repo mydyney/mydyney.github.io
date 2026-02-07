@@ -193,7 +193,7 @@ translationKey: "ghibli-museum-reservation-guide"
 <p><strong>デメリット：</strong> 単体チケットより高価で、決まったスケジュールに従う必要がある。</p>
 
 <p>➡️ <strong><a href="https://www.kkday.com/ja/product/21611-tokyo-tour-ghibli-museum-ticket-nokashira-park-japan?cid=23136" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">【KKday】ジブリ美術館＆井の頭公園 半日ツアー</a></strong></p>
-<p>➡️ <strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F619-ghibli-museum-hotel-gajoen-edo-open-air-architectural-museum-tour-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">【Klook】ジブリ美術館＆江戸東京たてもの園 バスツアー</a></strong></p>
+<p>➡️ <strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F619-ghibli-museum-hotel-gajoen-edo-open-air-architectural-museum-tour-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">【Klook】ジブリ美術館＆江戸東京たてもの園 バスツアー</a></strong></p>
 
 <br>
 
