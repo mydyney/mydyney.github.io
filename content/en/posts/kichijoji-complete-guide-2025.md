@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Kichijoji Complete Guide: Parks, Vintage Shops & Ghibli Museum (2025)"
-date: 2026-02-07T14:30:00+09:00
+date: 2025-10-11T14:30:00+09:00
 draft: false
 translationKey: "kichijoji-complete-guide-2025"
 description: "Complete Kichijoji guide: Inokashira Park, vintage shops, Satou Menchikatsu, Harmonica Yokocho, and Ghibli Museum tips. Tokyo locals' #1 neighborhood."

@@ -1,6 +1,6 @@
 ---
 title: "东京吉祥寺完全攻略：公园、复古小店与吉卜力美术馆（2025）"
-date: 2026-02-07T14:30:00+09:00
+date: 2025-10-11T14:30:00+09:00
 draft: false
 translationKey: "kichijoji-complete-guide-2025"
 description: "吉祥寺完全攻略：井之头公园、复古小店、佐藤炸肉饼、口琴横丁、吉卜力美术馆。东京人最想居住的街区。"
