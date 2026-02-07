@@ -10,7 +10,7 @@ This skill guides you through the process of migrating a Naver blog post to the 
 *   **[MIGRATION_GUIDE.md](resources/MIGRATION_GUIDE.md)**: **Workflow Document** (Process, scripts, verification checklists).
 *   **[CONTENT_GUIDELINES.md](resources/CONTENT_GUIDELINES.md)**: **Master Reference** (Formatting, HTML snippets, SEO, translation rules).
 
-**CRITICAL PREREQUISITE**: The user MUST have already copied the Naver blog HTML into `naver.md` in the project root. If `naver.md` is empty or missing, ASK the user to provide the content first.
+**CRITICAL PREREQUISITE**: The user will always prepare the Naver blog HTML in `naver.md` before starting. **ALWAYS use naver.md directly** - no verification or fetching needed.
 
 ## Workflow Overview
 
