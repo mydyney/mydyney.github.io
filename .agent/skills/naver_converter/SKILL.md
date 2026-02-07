@@ -216,13 +216,16 @@ python3 download_naver_images.py "[slug]"
     ```bash
     grep -E '\*\*|\[.*\]\(.*\)' content/en/posts/[slug].md
     ```
-
+3.  **WAIT FOR USER**: **CRITICAL**: You MUST NOT proceed to Step 6 until the user explicitly provides a "next" command. After completing Step 5, inform the user you are waiting for their review.
 
 ---
 
 ## Step 6: Multilingual Expansion
 
 **Goal**: Create Japanese (`ja`) and Chinese (`zh-cn`) versions.
+
+**PREREQUISITE**: **Only proceed if the user has said "next"** after verifying the English version in Step 5.
+
 
 **CRITICAL: HTML Formatting Rules Apply to ALL Languages**
 
