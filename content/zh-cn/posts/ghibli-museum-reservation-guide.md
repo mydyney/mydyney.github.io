@@ -22,7 +22,7 @@ translationKey: "ghibli-museum-reservation-guide"
 
 <p>让我们先搞清楚这两个让很多旅行者感到困惑的地方吧！📍</p>
 
-<table>
+<table class="schedule-table">
   <thead>
     <tr>
       <th>类别</th>
