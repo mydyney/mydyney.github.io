@@ -20,6 +20,8 @@ When migrating a Naver blog post to Hugo:
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
 | 224174540869 | pokemon-park-kanto-yomiuriland-guide | 2026-02-07 | ✅ |
+| 224035533672 | ghibli-museum-reservation-guide | 2025-10-09 | ✅ |
+| 224037212344 | kichijoji-complete-guide-2025 | 2025-10-11 | ✅ |
 | 224170137639 | asakusa-imahan-kokusaidori-guide | 2026-02-03 | ✅ |
 | 224025343414 | asakusa-asahi-sky-room | 2026-02-04 | ✅ |
 | 223665548720 | ebisu-brewery-tokyo | 2026-02-04 | ✅ |
@@ -308,12 +310,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 138
-- **Naver IDs Tracked:** 173
-- **Posts with Internal Links:** 40+ (ebisu-brewery-tokyo, tokyo-moheji-monjayaki-marunouchi-guide, ...)
-- **Pending References:** 43
-- **Links Updated:** Verified & Fixed on 2026-02-04
-- **Last Migration Date:** 2026-02-04 (Ebisu Brewery Tokyo: A Must-Visit for Beer Lovers)
+- **Total Posts Migrated:** 140
+- **Naver IDs Tracked:** 174
+- **Posts with Internal Links:** 45+
+- **Pending References:** 42
+- **Links Updated:** Verified & Fixed on 2026-02-07
+- **Last Migration Date:** 2026-02-07 (Pokemon Park Kanto Yomiuriland & Ghibli Museum Guide)
 
 ---
 

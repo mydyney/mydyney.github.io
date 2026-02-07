@@ -164,6 +164,9 @@ This skill guides you through the process of migrating a Naver blog post to the 
 
 **Goal**: Create `content/en/posts/[slug].md`.
 
+**CRITICAL FRONT MATTER**:
+*   **featured_image**: Must include `/images/posts/[slug]-01.jpg`.
+
 **CRITICAL FORMATTING RULES**:
 *   **STRICT HTML Only in Container**: Wrap content in `<div class="blog-container">`. Inside this, use **HTML tags** (`<strong>`, `<ul>`, `<li>`, `<p>`, `<a>`), **NEVER** Markdown (`**`, `-`, `[text](url)`).
 *   **Google Maps Standard**:
@@ -206,11 +209,14 @@ python3 download_naver_images.py "[slug]"
 
 ---
 
-## Step 5: User Review
+## Step 5: User Verification
 
-1.  **Start Server**: `hugo server -D`.
-2.  **Notification**: Provide the link `http://localhost:1313/posts/[slug]/`.
-3.  **Self-Correction**: Before notifying the user, do a `grep` search for Markdown syntax inside the `.md` file to catch any `**` or `[` characters that shouldn't be there.
+1.  **User Verification Only**: The agent does not perform visual or server-based verification. The user is responsible for checking the output.
+2.  **Self-Correction**: Perform a `grep` search for Markdown syntax inside the `.md` file to catch any `**` or `[` characters that shouldn't be there before proceeding to other languages.
+    ```bash
+    grep -E '\*\*|\[.*\]\(.*\)' content/en/posts/[slug].md
+    ```
+
 
 ---
 
