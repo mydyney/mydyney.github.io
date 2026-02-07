@@ -201,10 +201,7 @@ featured_image: "/images/posts/kichijoji-complete-guide-2025-01.jpg"
 
 詳しい予約方法については、訪問を計画している方は以下の記事をご覧ください！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /posts/[SLUG_TBD]/ -->
-➡️ <strong>[三鷹の森ジブリ美術館予約完全ガイド](#)</strong>
+➡️ <a href="/ja/posts/ghibli-museum-reservation-guide/" style="color: #667eea; text-decoration: underline;"><strong>三鷹の森ジブリ美術館予約完全ガイド</strong></a>
 
 <figure>
   <img src="/images/posts/kichijoji-complete-guide-2025-21.jpg" alt="井の頭公園からジブリ美術館への道">

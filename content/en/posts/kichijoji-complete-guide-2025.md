@@ -201,10 +201,7 @@ Many people go directly to Mitaka Station for the Ghibli Museum, but getting off
 
 For detailed reservation methods, check out the post below if you're planning a visit!
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /posts/[SLUG_TBD]/ -->
-➡️ **[Complete Guide to Ghibli Museum Mitaka Reservation](#)**
+➡️ **[Complete Guide to Ghibli Museum Mitaka Reservation](/posts/ghibli-museum-reservation-guide/)**
 
 <figure>
   <img src="/images/posts/kichijoji-complete-guide-2025-21.jpg" alt="Path from Inokashira Park to Ghibli Museum">

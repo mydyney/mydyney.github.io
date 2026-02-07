@@ -201,10 +201,7 @@ featured_image: "/images/posts/kichijoji-complete-guide-2025-01.jpg"
 
 如果您计划参观，请查看以下文章了解详细的预约方法！
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224035533672
-     Hugo: /posts/[SLUG_TBD]/ -->
-➡️ <strong>[三鹰之森吉卜力美术馆预约完全攻略](#)</strong>
+➡️ <a href="/zh-cn/posts/ghibli-museum-reservation-guide/" style="color: #667eea; text-decoration: underline;"><strong>三鹰之森吉卜力美术馆预约完全攻略</strong></a>
 
 <figure>
   <img src="/images/posts/kichijoji-complete-guide-2025-21.jpg" alt="从井之头公园到吉卜力美术馆的路径">
