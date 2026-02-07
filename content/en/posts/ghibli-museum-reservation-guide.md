@@ -68,28 +68,103 @@ translationKey: "ghibli-museum-reservation-guide"
 
 <p>Tickets must be reserved in advance; there are no on-site sales. <strong>Reservations open on the 10th of every month at 10:00 AM (JST)</strong> for the following month. Since competition is fierce, understanding the methods is essential.</p>
 
-<h3>1. Official Online Reservation (Cheapest but Hardest)</h3>
-<p>The official Lawson Ticket portal allows foreigners to book directly. It's the cheapest way (Adults: 1,000 JPY), but the server often crashes on opening day.</p>
+<h3>🟣 Method 1: Official Overseas Reservation (No Japanese Number Needed)</h3>
+
+<p>This is the most realistic and affordable official method for international travelers who do not have a Japanese phone number.</p>
 
 <ul>
-  <li><strong>Opening Date:</strong> 10th of every month, 10:00 AM</li>
-  <li><strong>Price:</strong> Adults (19+) 1,000 JPY, Teens (13-18) 700 JPY, Child (7-12) 400 JPY, Preschooler (4-6) 100 JPY</li>
+  <li><strong>Reservation Site:</strong> Lawson Ticket Official Overseas Site</li>
+  <li><strong>➡️ URL:</strong> <a href="https://l-tike.com/st1/ghibli-en/" target="_blank" rel="noopener">https://l-tike.com/st1/ghibli-en/</a></li>
+  <li><em>※ Please note this is different from the domestic Japanese page.</em></li>
+</ul>
+
+<ul>
+  <li><strong>Reservations Open:</strong> The 10th of every month at 10:00 AM (JST) for the following month.</li>
+  <li>(e.g., December tickets → Open on November 10th at 10:00 AM)</li>
+</ul>
+
+<p><strong>Pros:</strong></p>
+<ul>
+  <li>No Japanese phone number SMS authentication required.</li>
+  <li>Can be purchased at regular price (Adults: 1,000 JPY).</li>
+  <li>Accepts overseas-issued credit cards (Visa, Master, etc.).</li>
+</ul>
+
+<p><strong>Cons:</strong></p>
+<ul>
+  <li>Fierce competition as travelers from all over the world connect simultaneously (Can be sold out immediately).</li>
+</ul>
+
+<p><strong>Preparation (Advance Steps):</strong></p>
+<ol>
+  <li>Credit/Debit card capable of overseas payments</li>
+  <li>Email address</li>
+  <li>Mobile phone number (International numbers allowed)</li>
+  <li><strong>Lawson Ticket (English) Account – Registration is mandatory in advance</strong></li>
+</ol>
+
+<p><strong>📌 Reservation Tips:</strong></p>
+<ul>
+  <li>Residual seats are indicated by ○ / △ / × symbols for each time slot.</li>
+  <li>The first slot (10:00) is the most peaceful and best for photography.</li>
+  <li>Half of the tickets can disappear within 2–3 minutes of opening.</li>
+  <li><strong>Staying logged in 10 minutes before the opening is essential.</strong></li>
+</ul>
+
+<p><strong>✅ How to Enter (Overseas Reservation):</strong></p>
+<ul>
+  <li>Present the voucher (barcode) issued in your 'My Page' after reservation.</li>
+  <li>→ While most smartphone screens are accepted, a printed copy is the safest.</li>
+  <li>The name on the reservation must perfectly match your passport.</li>
 </ul>
 
 <figure style="margin: 20px 0;">
   <img src="/images/posts/ghibli-museum-reservation-guide-03.jpg" alt="Official Overseas Reservation Site" style="width: 100%; height: auto; display: block;">
-  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Ghibli Museum official overseas reservation page</strong></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Official Ghibli Museum reservation page for overseas visitors</strong></figcaption>
 </figure>
 
-<h3>2. Lawson Ticket Japan Site (Needs Japanese Account)</h3>
-<p>There are separate tickets for domestic residents. If you have a Japanese phone number and account, this is often easier to book, but it's difficult for travelers.</p>
+<h3>🟣 Method 2: Official Domestic Reservation via Lawson Ticket (Japanese Number Mandatory)</h3>
+
+<p>This method uses the Japanese domestic site and is only applicable if you have a friend living in Japan or a Japanese SIM card capable of receiving SMS.</p>
+
+<ul>
+  <li><strong>Reservation Site:</strong> Lawson Ticket Official Japanese Domestic Site</li>
+  <li><strong>➡️ URL:</strong> <a href="https://l-tike.com/ghibli/" target="_blank" rel="noopener">https://l-tike.com/ghibli/</a></li>
+</ul>
+
+<ul>
+  <li><strong>Reservations Open:</strong> The 10th of every month at 10:00 AM (JST) for the following month.</li>
+  <li>(e.g., November tickets → Open on October 10th at 10:00 AM)</li>
+</ul>
+
+<p><strong>Preparation (Advance Steps):</strong></p>
+<ol>
+  <li>Lawson WEB membership registration</li>
+  <li><strong>SMS Authentication using a Japanese phone number</strong></li>
+  <li>Precise server time check</li>
+  <li>Overseas-issued credit card</li>
+</ol>
+
+<p><strong>⚠️ SMS Authentication:</strong> SMS authentication via a Japanese phone number (starting with 090/080/070) is mandatory during the sign-up and booking process. Because of this, most travelers without a Japanese number find this method very difficult.</p>
+
+<p><strong>📌 (Important Tip) Why should you know this method?</strong></p>
+<p>To be honest, the overseas site in 'Method 1' sells out in 1–2 minutes due to global demand. However, <strong>the Japanese domestic site typically has much more inventory.</strong> (In my experience, tickets for weekdays often remain available even after 10 minutes.) In other words, if you can overcome the 'Japanese number authentication' barrier, your actual success rate is overwhelmingly higher on the domestic site.</p>
+
+<p><strong>💡 How to Secure a Japanese Number:</strong></p>
+<ul>
+  <li><strong>Friends in Japan:</strong> Asking a friend living in Japan is the most reliable way.</li>
+  <li><strong>Voice/SMS Capable SIM/eSIM:</strong> Preparing a Japanese SIM that allows voice calls and SMS reception (not data-only) before your trip is another option.</li>
+</ul>
 
 <figure style="margin: 20px 0;">
   <img src="/images/posts/ghibli-museum-reservation-guide-04.jpg" alt="Official Japanese Reservation Site" style="width: 100%; height: auto; display: block;">
-  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Official Japanese Lawson Ticket page</strong></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Official Japanese Lawson Ticket page (Requires Japanese phone number)</strong></figcaption>
 </figure>
 
-<h3>3. Using Tour Packages (Best Success Rate)</h3>
+<br>
+
+<h3>🟣 Method 3: Using a Bus Tour Package Including Ghibli Museum Entry</h3>
+
 <p>While standalone tickets are mostly sold out, <strong>Tour Packages</strong> that include Ghibli Museum admission are still available on platforms like Klook or KKday. This is the most realistic way to guarantee entry without the stress of ticketing.</p>
 
 <ul>
