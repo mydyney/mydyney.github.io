@@ -158,7 +158,7 @@ translationKey: "ghibli-museum-reservation-guide"
 
 <figure style="margin: 20px 0;">
   <img src="/images/posts/ghibli-museum-reservation-guide-04.jpg" alt="Official Japanese Reservation Site" style="width: 100%; height: auto; display: block;">
-  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Official Japanese Lawson Ticket page (Requires Japanese phone number)</strong></figcaption>
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Official Ghibli Museum Japanese reservation page (Requires Japanese number)</strong></figcaption>
 </figure>
 
 <p><strong>[Precautions for Ticket Purchase & Entry]</strong></p>
@@ -175,9 +175,16 @@ translationKey: "ghibli-museum-reservation-guide"
 
 <br>
 
+<figure style="margin: 20px 0;">
+  <img src="/images/posts/ghibli-museum-reservation-guide-05.jpg" alt="Large Totoro at the entrance of Mitaka Ghibli Museum" style="width: 100%; height: auto; display: block;">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Large Totoro at the entrance of Mitaka Forest Ghibli Museum</strong></figcaption>
+</figure>
+
+<br>
+
 <h3>🟣 Method 3: Using a Bus Tour Package Including Ghibli Museum Entry</h3>
 
-<p>While standalone tickets are mostly sold out, <strong>Tour Packages</strong> that include Ghibli Museum admission are still available on platforms like Klook or KKday. This is the most realistic way to guarantee entry without the stress of ticketing.</p>
+<p>In the past, standalone tickets were sold on platforms like Klook, but most have been discontinued. However, **"Tour Packages"** that include Ghibli Museum admission are still available. This is the most realistic way to guarantee entry without the stress of ticketing.</p>
 
 <ul>
   <li><strong>Pros:</strong> 100% entry guarantee without the fierce ticketing war.</li>
@@ -186,10 +193,6 @@ translationKey: "ghibli-museum-reservation-guide"
 
 <p>➡️ <strong><a href="https://www.kkday.com/en/product/21611-tokyo-tour-ghibli-museum-ticket-nokashira-park-japan?cid=23136" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">[KKday] Ghibli Museum & Inokashira Park Half-Day Tour</a></strong></p>
 <p>➡️ <strong><a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1140231&k_site=https%3A%2F%2Fwww.klook.com%2Fko%2Factivity%2F619-ghibli-museum-hotel-gajoen-edo-open-air-architectural-museum-tour-tokyo%2F" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">[Klook] Ghibli Museum & Edo-Tokyo Open Air Museum Bus Tour</a></strong></p>
-
-<figure style="margin: 20px 0;">
-  <img src="/images/posts/ghibli-museum-reservation-guide-05.jpg" alt="Ghibli Museum Inside Tours" style="width: 100%; height: auto; display: block;">
-</figure>
 
 <br>
 
@@ -200,17 +203,17 @@ translationKey: "ghibli-museum-reservation-guide"
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Mitaka Ghibli Museum Opening Days</strong></figcaption>
 </figure>
 
-<p><strong>📌 Absolute Rules for Succesful Reservation & Visit</strong></p>
+<p><strong>📌 Absolute Rules for Successful Reservation & Visit</strong></p>
 <ul>
-  <li><strong>1-Hour Rule:</strong> You must enter within <strong>1 hour</strong> of your designated 입장(entrance) time slot.</li>
+  <li><strong>1-Hour Rule:</strong> You must enter within <strong>1 hour</strong> of your designated entrance time slot.</li>
   <li><strong>Refunds/Changes Absolutely Impossible:</strong> Once booked, dates and times cannot be changed or refunded under any circumstances.</li>
   <li><strong>ID Verification Mandatory (Bring Passport):</strong> You must bring your ID (Passport) matching the booker's name for identity verification.</li>
   <li><strong>Group Entry:</strong> The whole group must enter together at the same time.</li>
 </ul>
 
 <figure style="margin: 20px 0;">
-  <img src="/images/posts/ghibli-museum-reservation-guide-07.jpg" alt="Ghibli Museum Entrance with Totoro" style="width: 100%; height: auto; display: block;">
-  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Straw Sprites (Makkuro Kurosuke) at the entrance</strong></figcaption>
+  <img src="/images/posts/ghibli-museum-reservation-guide-07.jpg" alt="Soot Sprites at Ghibli Museum Entrance" style="width: 100%; height: auto; display: block;">
+  <figcaption style="font-size: 0.85em; text-align: center; margin-top: 5px;"><strong>Soot Sprites (Makkuro Kurosuke) at the Ghibli Museum entrance</strong></figcaption>
 </figure>
 
 <hr>
