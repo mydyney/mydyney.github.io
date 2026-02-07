@@ -79,7 +79,8 @@ This skill guides you through the process of migrating a Naver blog post to the 
     - ❌ DO NOT add section headers not in original
     - ❌ DO NOT add content not in original
     - ❌ DO NOT reorganize structure
-    - ✅ ONLY translate and format existing content
+    - ✅ ONLY translate and format existing content with **1:1 context fidelity** (capture all "tips", "warnings", and personal interjections from the original author).
+    - ✅ Ensure the **physical sequence** of images, tables, and text blocks perfectly matches `naver.md`.
 
 ### 0.3 Create Pre-Analysis Artifact
 
@@ -164,8 +165,29 @@ This skill guides you through the process of migrating a Naver blog post to the 
 
 **Goal**: Create `content/en/posts/[slug].md`.
 
+**THE "GOLDEN TEMPLATE" (Line 1 MUST be `---`):**
+```markdown
+---
+title: "[Translated Title]"
+date: [Same as original, e.g., 2025-10-09T11:37:00+09:00]
+description: "[SEO Meta Description]"
+categories: ["[Localized Category]"]
+tags: ["[Localized Tags]"]
+featured_image: "/images/posts/[slug]-01.jpg"
+translationKey: "[slug]"
+---
+
+<div class="blog-container">
+...
+</div>
+```
+
 **CRITICAL FRONT MATTER**:
-*   **featured_image**: Must include `/images/posts/[slug]-01.jpg`.
+*   **featured_image**: Must include `/images/posts/[slug]-01.jpg`. (Hugo ignores front matter if Line 1 `---` is missing!)
+
+**MANDATORY COMPONENTS**:
+1.  **Editor's Note**: Every post MUST end with a styled Editor's Note linking back to the original Naver post (see Step 455 for format).
+2.  **Related Posts**: If the original contains "Related Posts" or internal links, convert them using Hugo slugs.
 
 **CRITICAL FORMATTING RULES**:
 *   **STRICT HTML Only in Container**: Wrap content in `<div class="blog-container">`. Inside this, use **HTML tags** (`<strong>`, `<ul>`, `<li>`, `<p>`, `<a>`), **NEVER** Markdown (`**`, `-`, `[text](url)`).
@@ -217,6 +239,8 @@ python3 download_naver_images.py "[slug]"
     grep -E '\*\*|\[.*\]\(.*\)' content/en/posts/[slug].md
     ```
 3.  **WAIT FOR USER**: **CRITICAL**: You MUST NOT proceed to Step 6 until the user explicitly provides a "next" command. After completing Step 5, inform the user you are waiting for their review.
+
+**Common Lesson Learned**: If the user finds a fidelity error (e.g., "this part is different from original"), perform a **FULL PAGE** re-analysis of `naver.md` to ensure no other subtle nuances or interjections were missed.
 
 ---
 
@@ -313,7 +337,19 @@ Chinese: **必访餐厅**  ← NEVER DO THIS
     done
     ```
 
-5.  **Section Count Verification**:
+5.  **Front Matter Delimiter Verification**:
+    ```bash
+    # Verify every post starts with --- on Line 1
+    for lang in en ja zh-cn; do
+      if [ "$(head -n 1 content/$lang/posts/[slug].md)" != "---" ]; then
+        echo "❌ $lang: Missing opening --- delimiter on Line 1!"
+      else
+        echo "✅ $lang: Front matter correctly started"
+      fi
+    done
+    ```
+
+6.  **Section Count Verification**:
     sed 's/.*flex: //g' | sed 's/;.*//g' | \
     awk 'NR%2{sum=$1;next}{sum+=$1; print sum}' | \
     awk '{if($1<0.99||$1>1.01)print "❌ FAIL: "$1; else print "✅ PASS: "$1}'
