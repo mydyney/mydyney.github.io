@@ -1,6 +1,6 @@
 ---
 title: "東京メイト"
-featured_image: '/images/main_keyaki_jaka_lumine.jpg'
+featured_image: '/images/main_shibakoen_tokyo_tower.jpg'
 description: "東京の本当の魅力を伝える - 地元グルメから隠れた名所まで"
 translationKey: "homepage"
 ---
