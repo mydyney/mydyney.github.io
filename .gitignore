@@ -37,3 +37,6 @@ __pycache__/
 *.html
 !layouts/**/*.html
 !themes/**/*.html
+
+# Claude/Agent metadata
+.claude/
