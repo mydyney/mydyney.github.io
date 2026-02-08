@@ -134,10 +134,12 @@
   color: #4a5568;
   margin: 0 0 20px 0;
   display: -webkit-box;
+  display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  flex: 1;
+  height: 4.5em; /* 1.5 * 3 lines */
+  margin-bottom: 20px;
 }
 
 /* Tags */

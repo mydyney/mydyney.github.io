@@ -10,7 +10,7 @@
 <!-- Blog Posts Grid -->
 <article class="pa0 nested-copy-line-height">
   <section class="blog-grid ph3 ph5-l">
-    {{ $pages := where .Site.RegularPages "Type" "posts" }}
+    {{ $pages := where .Site.RegularPages "Section" "posts" }}
     {{ range (.Paginate $pages).Pages }}
     {{ .Render "summary" }}
     {{ end }}
