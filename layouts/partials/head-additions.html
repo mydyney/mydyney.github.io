@@ -5,16 +5,16 @@
 <meta name="google-adsense-account" content="{{ .Site.Params.adsense_publisher_id }}">
 
 <!-- Custom Blog Card Styles -->
-<link rel="stylesheet" href="{{ " css/blog-cards.css" | relURL }}?v=1">
+<link rel="stylesheet" href="{{ " css/blog-cards.css" | absURL }}?v={{ now.Unix }}">
 
 <!-- Blog Post Common Styles -->
-<link rel="stylesheet" href="{{ " css/blog-post-common.css" | relURL }}?v=8">
+<link rel="stylesheet" href="{{ " css/blog-post-common.css" | absURL }}?v={{ now.Unix }}">
 
 <!-- Related Posts Styles -->
-<link rel="stylesheet" href="{{ " css/related-posts.css" | relURL }}?v=1">
+<link rel="stylesheet" href="{{ " css/related-posts.css" | absURL }}?v={{ now.Unix }}">
 
 <!-- Footer Styles -->
-<link rel="stylesheet" href="{{ " css/footer.css" | relURL }}?v=1">
+<link rel="stylesheet" href="{{ " css/footer.css" | absURL }}?v={{ now.Unix }}">
 
 <!-- SEO: Hreflang tags for multilingual support -->
 {{ if .IsTranslated }}
@@ -41,20 +41,16 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="format-detection" content="telephone=no">
 
-<!-- SEO: Site verification (add your codes here if needed) -->
-{{- with .Site.Params.google_site_verification }}
-<meta name="google-site-verification" content="{{ . }}">
-{{- end }}
+<!-- SEO: Site verification -->
 {{- with .Site.Params.google_site_verification }}
 <meta name="google-site-verification" content="{{ . }}">
 {{- end }}
 
 <!-- Favicon -->
-<link rel="icon" type="image/svg+xml" href="{{ " favicon.svg" | relURL }}">
-<!-- Placeholder for missing favicons - commented out to avoid 404 -->
+<link rel="icon" type="image/svg+xml" href="{{ " favicon.svg" | absURL }}">
 {{/*
-<link rel="icon" type="image/png" sizes="32x32" href="{{ " favicon-32x32.png" | relURL }}">
-<link rel="icon" type="image/png" sizes="16x16" href="{{ " favicon-16x16.png" | relURL }}">
-<link rel="apple-touch-icon" sizes="180x180" href="{{ " apple-touch-icon.png" | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ " favicon-32x32.png" | absURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ " favicon-16x16.png" | absURL }}">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ " apple-touch-icon.png" | absURL }}">
 */}}
-<link rel="manifest" href="{{ " site.webmanifest" | relURL }}">
+<link rel="manifest" href="{{ " site.webmanifest" | absURL }}">

@@ -27,7 +27,8 @@
 .blog-card-image-wrapper {
   position: relative;
   width: 100%;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio - larger image for better visual */
+  padding-top: 56.25%;
+  /* 16:9 Aspect Ratio - larger image for better visual */
   overflow: hidden;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
 }
@@ -134,11 +135,12 @@
   color: #4a5568;
   margin: 0 0 20px 0;
   display: -webkit-box;
-  display: -webkit-box;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  height: 4.5em; /* 1.5 * 3 lines */
+  height: 4.5em;
+  /* 1.5 * 3 lines */
   margin-bottom: 20px;
 }
 
@@ -214,7 +216,8 @@
   }
 
   .blog-card-image-wrapper {
-    padding-top: 56.25%; /* 16:9 for mobile */
+    padding-top: 56.25%;
+    /* 16:9 for mobile */
   }
 }
 
