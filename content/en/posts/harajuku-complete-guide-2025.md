@@ -12,7 +12,7 @@ featured_image: "/images/posts/harajuku-complete-guide-2025-01.jpg"
 
 <div class="blog-container">
 
-Tokyo Harajuku - still thinking only of Takeshita Street? This comprehensive guide covers everything from the hottest 2025 attraction, <strong>Harry Potter Store</strong>, to <strong>Takeshita Street</strong> must-try foods, and the perfect shopping route connecting <strong>Omotesando</strong> or <strong>Shibuya</strong>.
+<p>When most people think of Harajuku, they think of Takeshita Street. But there's a lot more to the area than just crepes and crowds. This guide covers some of the newer spots like the <strong>Harry Potter Store</strong>, along with shopping routes that connect to <strong>Omotesando</strong> or <strong>Shibuya</strong>.</p>
 
 <figure>
   <img src="/images/posts/harajuku-complete-guide-2025-01.jpg" alt="Harajuku complete guide 2025 cover image">
@@ -20,13 +20,13 @@ Tokyo Harajuku - still thinking only of Takeshita Street? This comprehensive gui
 
 ---
 
-## 🗺️ Harajuku Half-Day Recommended Routes (2 Routes by Starting Station)
+## 🗺️ How to get around: Two recommended routes
 
-Your Harajuku experience varies depending on which station you start from. Choose the route that matches your style! You can also combine Route 1 + Route 2.
+Depending on where you start, I'd recommend one of these two routes. You can always mix and match them if you have the time.
 
-### Route 1: Omotesando→Harajuku (Adult's Stroll Course)
+### Route 1: Omotesando to Harajuku (For a more relaxed vibe)
 
-<strong>Starting from sophisticated Omotesando, through trendy Ura-Harajuku to Harajuku's heart.</strong> Recommended for adults who enjoy fashion and coffee.
+This route starts in the more upscale Omotesando area and works its way into the heart of Harajuku. It's a bit more relaxed and great if you're interested in fashion and coffee.
 
 <strong>🚶‍♀️ Recommended Route</strong>
 
@@ -37,9 +37,9 @@ Your Harajuku experience varies depending on which station you start from. Choos
   <figcaption style="font-size: 0.7em; text-align: center;">Omotesando zelkova tree-lined avenue</figcaption>
 </figure>
 
-### Route 2: Starting from Harajuku Station (Classic Royal Route 🍭)
+### Route 2: Starting from Harajuku Station (The Classic Route 🍭)
 
-<strong>The most classic route to perfectly conquer Harajuku starting from its heart, 'Takeshita Street'.</strong> Recommended for those who want to fully experience Harajuku's energy.
+If you want to jump straight into the energy of Harajuku, start at the Takeshita Exit of Harajuku Station. This is the most direct way to see the iconic spots.
 
 <strong>Harajuku Station</strong> (Takeshita Exit) <strong>→</strong> ① <strong>Takeshita Street</strong> (Crepes) <strong>→</strong> ② <strong>Ura-Harajuku</strong> (BAPE, Supreme) <strong>→</strong> ③ <strong>Laforet Harajuku</strong> (GR8) <strong>→</strong> ④ <strong>Harry Potter Mahou Dokoro →</strong> ⑤ <strong>Kiddyland →</strong> ⑥ <strong>Cat Street → Shibuya</strong>
 

@@ -12,10 +12,9 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">Complete guide to Shinjuku Gyoen!<br>
-From admission fees, hours, and reservations<br>
-To Starbucks, cafes, restaurants, cherry blossoms, autumn leaves, winter scenery, picnic blankets, running courses, and The Garden of Words pilgrimage—<br>
-All the latest 2025 information compiled.</p>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">If you're heading to Shinjuku Gyoen, here's everything you need to know.<br>
+I've updated this for 2025 with the latest on admission fees, the Starbucks situation,<br>
+and the best spots for cherry blossoms or a quiet morning run.</p>
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-01.jpg" alt="Shinjuku Gyoen Starbucks and autumn leaves, opening hours and running course guide">
@@ -39,9 +38,9 @@ Shinjuku Gyoen is the heart of the "Shinjuku Morning Course."
 
 ---
 
-## 1. Shinjuku Gyoen at a Glance
+## 1. Why Shinjuku Gyoen is a must-visit
 
-If you're looking for something like Central Park in Tokyo, the answer is Shinjuku Gyoen.
+If you're looking for a spot like Central Park but in Tokyo, Shinjuku Gyoen is it.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-02.jpg" alt="Tokyo Shinjuku Gyoen landscape | Urban national garden scenery">
@@ -58,7 +57,7 @@ If you're looking for something like Central Park in Tokyo, the answer is Shinju
 - <strong>Shinjuku Gyoen Starbucks</strong> located inside the park
 - Actual setting of the anime <strong>"The Garden of Words"</strong>
 
-In the midst of Shinjuku's dense buildings, when you want to rest quietly, it's the perfect place to feel "nature in the heart of Tokyo."
+It’s one of the few places in Shinjuku where you can actually get away from the noise and just hang out in nature for a bit.
 
 <figure>
   <img src="/images/posts/shinjuku-gyoen-guide-2025-03.jpg" alt="Shinjuku Gyoen natural scenery | Healing walk in downtown Tokyo">

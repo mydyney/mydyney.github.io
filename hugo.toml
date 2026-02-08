@@ -1,6 +1,6 @@
 baseURL = 'https://tripmate.news/'
 languageCode = 'en'
-title = 'Trip Mate News Blog'
+title = 'Tokyo Mate'
 theme = 'ananke'
 
 # 다국어 설정

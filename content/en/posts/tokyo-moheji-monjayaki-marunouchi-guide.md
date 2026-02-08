@@ -16,9 +16,9 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
 
 <div class="blog-container">
 
-<p>Planning to visit <strong>Tokyo Moheji (MOHEJI)</strong>? We have organized the perfect course to enjoy Tsukishima's famous <strong>Monjayaki</strong> and admire the magnificent <strong>Tokyo Station night view</strong> from the Shin-Marunouchi Building terrace.</p>
+<p>If you're thinking about visiting <strong>Tokyo Moheji (MOHEJI)</strong>, I've put together a quick guide on how to combine their famous <strong>Monjayaki</strong> with a visit to the <strong>Shin-Marunouchi Building terrace</strong> for one of the best views of Tokyo Station at night.</p>
 
-<p>From recommended menu items that never fail to tips for reservations and waiting to avoid long lines, and even how to enjoy the <strong>Shin-Marunouchi Building 7th floor</strong> 200%, check it all out here! 🥢</p>
+<p>I'll go over the menu items actually worth ordering, how to deal with the inevitable lines, and how to make the most of the 7th floor. 🥢</p>
 
 <!-- Image 01: Hero -->
 <figure>
@@ -40,7 +40,7 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
     <li><strong>Tip</strong>: After your meal, go out to the <strong>outdoor terrace</strong> on the same floor (7th floor). The best view point overlooking the red brick Tokyo Station building awaits you.</li>
 </ul>
 
-<p><strong>📸 Recommended Course</strong>: Have a hearty Monjayaki meal at Moheji, then go out to the terrace right in front to take a photo of your life with the Tokyo Station night view as a background to complete the perfect evening course!</p>
+<p><strong>📸 Pro Tip</strong>: Grab your meal at Moheji first, then head straight out to the terrace on the same floor. It's the perfect spot to see the red brick Tokyo Station building lit up at night.</p>
 
 <!-- Image 02: Entrance -->
 <figure>
@@ -150,11 +150,11 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
 
 <hr />
 
-<h2>4. Reservation War, 4 Ways to Win</h2>
+<h2>4. How to actually get a table</h2>
 
-<p>Currently, <strong>Marunouchi Moheji</strong> has almost blocked real-time online reservations, and since it focuses on <strong>phone reservations (+81-50-5594-3062)</strong>, the difficulty level is 'highest' for international travelers.</p>
+Right now, <strong>Marunouchi Moheji</strong> doesn't really do real-time online booking. They mostly take <strong>phone reservations (+81-50-5594-3062)</strong>, which can be a bit of a pain if you don't speak Japanese. 
 
-<p>But there is a way! Here are 4 realistic strategies to eat without reservation stress.</p>
+Here are the 4 best ways to actually get in without too much stress:
 
 <p><strong>1. (Most Recommended) 'Open Run' is the Answer</strong></p>
 <ul>
@@ -189,9 +189,9 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
 
 <hr />
 
-<h2>5. 'Tokyo Moheji Menu' without Failure (Honest Review)</h2>
+<h2>5. What to order (and what to skip)</h2>
 
-<p>The menu here is divided into <strong>TRADIZIONE (Tradition)</strong> and <strong>INNOVAZIONE (Innovation)</strong>. I will tell you the '<strong>Success vs Preference</strong>' menu that I felt after eating it myself.</p>
+The menu is split into <strong>TRADIZIONE (Tradition)</strong> and <strong>INNOVAZIONE (Innovation)</strong>. Here’s what I thought after trying a few different things.
 
 <p><strong>📋 Menu Characteristics</strong>: Since it is operated by a fisheries wholesaler in Toyosu Market, the deep taste of the broth (bonito, chicken, etc.) is characteristic.</p>
 

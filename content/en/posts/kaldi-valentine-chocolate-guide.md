@@ -12,16 +12,14 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <p class="se-text-paragraph" style="line-height:1.9;">The 2026 KALDI Valentine's season in Japan has officially begun.</p>
 
-<p class="se-text-paragraph" style="line-height:1.9;">This year's theme is <strong>Chocolate Wonderland</strong>, featuring a massive lineup ranging from premium chocolates capturing the deep flavor of Samoan cacao to limited edition goods that are practically must-haves for any collector.</p>
+<p class="se-text-paragraph" style="line-height:1.9;">This year, Kaldi went with a "Chocolate Wonderland" theme. It's a huge collection—everything from fancy Samoan cacao truffles to those limited-edition tins that collectors usually grab before they even hit the shelves.</p>
 
 <figure style="margin: 20px 0;">
   <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjUg/MDAxNzcwMzUxOTAwOTUy.VXc5pHeUQdYHx9gK9MfHs9K98QXpkxiwGpjrSczNiPgg.vAKpo9-hrw938Z81Hg3ZogRLUAD-F0uoxXqcWkz-cxYg.JPEG/SE-c35e9abf-aa79-4611-809e-18ea9896028f.jpg?type=w966" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">The display of limited edition chocolates for the 2026 Kaldi Valentine "Chocolate Wonderland" season in Japan</figcaption>
 </figure>
 
-<p class="se-text-paragraph" style="line-height:1.9;">Hello, this is <strong>Tripmate</strong>, bringing you the sweetest news from Tokyo.</p>
-
-<p class="se-text-paragraph" style="line-height:1.9;">In this post, we've compiled the 2026 Kaldi Valentine's chocolate recommendation list, including prices and shopping tips you should know before buying.</p>
+<p class="se-text-paragraph" style="line-height:1.9;">I've put together a list of the best Kaldi Valentine's chocolates for 2026, including prices and a few shopping tips to help you decide what's worth grabbing.</p>
 
 <p class="se-text-paragraph" style="line-height:1.9;"><strong>📌 </strong>This post focuses exclusively on <strong>Kaldi Valentine's exclusive goods (chocolates, tin cases, pouches)</strong> sold for a limited time during the 2026 Valentine's season. For information on Kaldi's year-round coffee, spreads, and sauces, please refer to the guide below.</p>
 
@@ -45,7 +43,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <ul>
   <li><strong>Contents: 4 Napolitain chocolates 👜</strong></li>
-  <li><strong>Details:</strong> This adorable tin case features a handle, just like a real mini bag. Inside are smooth-melting Napolitain chocolate squares. Available in three colors (Brown, White, Blue), it's highly popular among women as a doll accessory or bag charm after finishing the chocolates.</li>
+  <li><strong>Details:</strong> This tiny tin is designed to look like a mini handbag, complete with a handle. Inside, you'll find classic Napolitain chocolate squares. It comes in Brown, White, and Blue—actually very popular as a doll accessory or a cute bag charm once the chocolates are gone.</li>
 </ul>
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
@@ -67,7 +65,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <ul>
   <li><strong>Contents: 4 Corn Puff Chocolate Crunches ✈️</strong></li>
-  <li><strong>Details:</strong> A charming travel-themed tin case in a tiny size. It contains crispy corn puffs coated in milk chocolate. At under 600 yen, it's the perfect light gift for friends or colleagues.</li>
+  <li><strong>Details:</strong> A tiny travel-themed tin that's honestly too cute to pass up. It's filled with crispy milk chocolate corn puffs. At under 600 yen, it's an easy pick for a small gift or a souvenir for friends.</li>
 </ul>
 
 <figure style="margin: 20px 0;">

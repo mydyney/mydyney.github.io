@@ -19,16 +19,16 @@ featured_image: "/images/posts/tokyo-nihonbashi-manten-sushi-guide-01.jpg"
   <figcaption style="text-align: center; color: #888; font-size: 0.9em; margin-top: 5px;">Manten Sushi Nihonbashi | 8,800 Yen Value Omakase</figcaption>
 </figure>
 
-Manten Sushi Tokyo is famous as a <strong>value-for-money omakase</strong> spot where you can enjoy a full course for <strong>8,800 yen (same for lunch and dinner)</strong>.
+Manten Sushi Tokyo is one of those places that people always talk about when they want <strong>value-for-money omakase</strong>. It's a flat <strong>8,800 yen (tax included)</strong> for both lunch and dinner, which is pretty rare in Tokyo.
 
-In this post, based on a personal visit to the <strong>Nihonbashi branch</strong>, I have documented the 29-item menu and course flow. I will also guide you through the essential <strong>TableCheck reservation steps</strong>, cancellation policies, and realistic walk-in chances.
+I recently went to the <strong>Nihonbashi branch</strong> and went through their massive 29-item course. Here’s a breakdown of what to expect, plus some tips on using <strong>TableCheck</strong> for reservations and how to handle walk-ins.
 
 
 <hr />
 
-<h2 style="text-align: center;">1. Why Choose Manten Sushi for Tokyo Omakase? 🍣</h2>
+<h2 style="text-align: center;">1. Is Manten Sushi actually worth it? 🍣</h2>
 
-Among the many sushi restaurants in Tokyo, <strong>Manten Sushi (まんてん鮨 日本橋店)</strong> receives overwhelming support from international travelers for several clear reasons:
+Among the endless sushi spots in Tokyo, <strong>Manten Sushi (まんてん鮨 日本橋店)</strong> is a huge favorite for a few simple reasons:
 
 <ul>
   <li><strong>Value:</strong> While similar quality in Ginza might cost 20,000–30,000 yen, here it is <strong>8,800 yen (tax included)</strong>.</li>
@@ -80,9 +80,9 @@ The Nihonbashi branch is located on the <strong>1st floor</strong> of the <stron
 
 <hr />
 
-<h2 style="text-align: center;">3. Reservation Method (Must Read) 📅</h2>
+<h2 style="text-align: center;">3. How to book a seat (Read this first!) 📅</h2>
 
-Manten Sushi highly recommends <strong>100% reservation</strong>. While walk-ins are technically possible, they are almost impossible during peak hours. Reservations can be easily made in English via the <strong>TableCheck</strong> website.
+I'd suggest <strong>always making a reservation</strong>. Walking in is technically possible, but it usually doesn't work out during peak times. You can easily book in English through <strong>TableCheck</strong>.
 
 <h3 style="text-align: center;">[Reservation Links by Branch]</h3>
 

@@ -13,7 +13,7 @@ slug: "hakone-open-air-museum-guide-discount-tips"
 
 ## 🌳 What is the Hakone Open-Air Museum?
 
-Opened in 1969, the <strong>Hakone Open-Air Museum</strong> is Japan's first outdoor art museum. Spreading over 70,000 square meters of lush greenery with views of the magnificent Hakone mountains, about 120 masterpieces by representative modern and contemporary sculptors are on permanent display. It is a special space where you can experience artworks that change their expression according to the time and season, as if taking a stroll with no fixed path.
+The Hakone Open-Air Museum has been around since 1969, and it's still one of the coolest spots in Japan. It's massive—over 70,000 square meters—meaning you can just wander through the greenery and stumble upon world-class sculptures without any fixed path. With the Hakone mountains in the background, the vibe changes completely depending on the time of day and the season.
 
 <figure>
   <img src="/images/posts/hakone-open-air-museum-guide-discount-tips-01.jpg" alt="Panoramic view of Hakone Open-Air Museum">

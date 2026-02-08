@@ -12,12 +12,10 @@ featured_image: "/images/posts/azabudai-hills-complete-guide-01.jpg"
 
 <div class="blog-container">
 
-<p style="text-align: center; font-size: 1.1rem; color: #555;">🏙️ Looking for Tokyo's hottest new attraction, Azabudai Hills?<br>
-This comprehensive guide covers everything:<br>
-How to capture Instagram-worthy Tokyo Tower shots from the free observatory,<br>
-teamLab Borderless ticket booking tips,<br>
-Fail-proof restaurant recommendations,<br>
-And the perfect shopping course!</p>
+<p style="text-align: center; font-size: 1.1rem; color: #555;">Thinking about visiting Azabudai Hills?<br>
+It's Tokyo's newest major development, and there's a lot to see.<br>
+I've put together a guide on how to get those Tokyo Tower views from the observatory,<br>
+tips on booking teamLab Borderless, and where to actually eat without wandering around for hours.</p>
 
 <figure>
   <img src="/images/posts/azabudai-hills-complete-guide-01.jpg" alt="Tokyo Azabudai Hills complete guide featuring observatory, teamLab, restaurants and shopping">
@@ -26,9 +24,9 @@ And the perfect shopping course!</p>
 
 ---
 
-## ✨ What is Azabudai Hills? (Quick Summary)
+## ✨ What is Azabudai Hills?
 
-Azabudai Hills is not just a shopping mall—it's a <strong>'massive vertical city'</strong>. Created by Mori Building (the company behind Roppongi Hills) over 30 years, it integrates offices, residences, commerce, culture, and nature.
+Azabudai Hills is a huge complex—it's basically a mini-city in the middle of Tokyo. It was built by Mori Building (the same people who did Roppongi Hills) and took over 30 years to finish. It's got everything from offices and luxury apartments to high-end shopping and art.
 
 - <strong>Key Attractions</strong>: 33F free observatory, teamLab Borderless, Azabudai Hills Market
 - <strong>Architects</strong>: Main tower by Pelli Clarke & Partners, lower levels by Heatherwick Studio (who designed The Hyundai Seoul)—the building itself is a massive work of art.
@@ -48,7 +46,7 @@ Since the complex is huge, planning your route is crucial!
 
 2. <strong>[Lunch] Azabudai Hills Market (Garden Plaza C)</strong>: Solve lunch at this premium food court gathering Michelin and Tabelog Top 100 restaurants.
 
-3. <strong>[Afternoon] 33F Sky Room Observatory Cafe (Mori JP Tower)</strong>: Capture lifetime photos at the best photo spot with frontal Tokyo Tower views.
+3. <strong>[Afternoon] 33F Sky Room Observatory Cafe (Mori JP Tower)</strong>: This is where you go for those frontal views of Tokyo Tower.
 
 4. <strong>[Shopping & Relaxation] Luxury Shopping & Cafes</strong>: Browse luxury brands at Tower Plaza and relax at atmospheric cafes.
 
