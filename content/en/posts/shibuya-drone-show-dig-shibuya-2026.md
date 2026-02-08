@@ -2,7 +2,7 @@
 title: "2026 Shibuya Drone Show (Feb 14): Complete Guide to DIG SHIBUYA Festival Schedule, Hours & Location"
 date: 2026-02-05T20:58:00+09:00
 draft: false
-categories: ["Events & Festivals"]
+categories: ["Tokyo Events"]
 tags: ["shibuya", "drone-show", "dig-shibuya", "tokyo-events", "february-2026", "yoyogi-park", "tokyo-festivals"]
 translationKey: "shibuya-drone-show-dig-shibuya-2026"
 description: "Complete guide to the 2026 Shibuya Drone Show at DIG SHIBUYA Festival (Feb 14). Includes exact schedule, viewing spots at Yoyogi Park, traffic control info, and insider tips for Tokyo's biggest free drone show."

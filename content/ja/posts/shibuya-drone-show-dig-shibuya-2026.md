@@ -2,7 +2,7 @@
 title: "2026年渋谷ドローンショー（2/14）完全ガイド｜DIG SHIBUYA フェスティバル日程・時間・場所"
 date: 2026-02-05T20:58:00+09:00
 draft: false
-categories: ["イベント・フェスティバル"]
+categories: ["東京イベント"]
 tags: ["渋谷", "ドローンショー", "dig-shibuya", "東京イベント", "2026年2月", "代々木公園", "東京フェスティバル"]
 translationKey: "shibuya-drone-show-dig-shibuya-2026"
 description: "2026年渋谷ドローンショー（DIG SHIBUYA、2月14日）の完全ガイド。正確なスケジュール、代々木公園での観覧スポット、交通規制情報、東京最大級の無料ドローンショーの楽しみ方を詳しく解説。"

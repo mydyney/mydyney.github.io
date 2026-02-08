@@ -2,7 +2,7 @@
 title: "2026涩谷无人机灯光秀(2/14)完整攻略｜DIG SHIBUYA艺术节时间·地点·观赏指南"
 date: 2026-02-05T20:58:00+09:00
 draft: false
-categories: ["活动与节日"]
+categories: ["东京活动"]
 tags: ["涩谷", "无人机灯光秀", "dig-shibuya", "东京活动", "2026年2月", "代代木公园", "东京节日"]
 translationKey: "shibuya-drone-show-dig-shibuya-2026"
 description: "2026涩谷无人机灯光秀(DIG SHIBUYA，2月14日)完整攻略。详细时间表、代代木公园最佳观赏点、交通管制信息，东京最大免费无人机灯光秀观赏指南。"

@@ -2,7 +2,7 @@
 title: "涩谷一兰拉面完全指南：2家店铺位置、等待时间、深夜加价及菜单（2026年）"
 date: 2026-01-29T07:40:00+09:00
 draft: false
-categories: ["美食餐饮"]
+categories: ["美食"]
 tags: ["涩谷", "一兰拉面", "拉面", "24小时营业", "涩谷站", "深夜美食", "东京拉面"]
 translationKey: "shibuya-ichiran-ramen-location-wait-time"
 description: "涩谷一兰拉面2家店铺完全指南（2026年版）。详细介绍24小时营业、深夜加价、从涩谷站出发的路线、菜单、价格及缩短等待时间的技巧。"
