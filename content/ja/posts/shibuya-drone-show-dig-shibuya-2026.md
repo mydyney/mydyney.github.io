@@ -191,7 +191,7 @@ A. メインイベントが土曜日（2/14）に集中しているため、適�
 
 **2. フェスティバル後にお腹が空いた？24時間営業のレストラン情報**
 
-**👉 <a href="#" data-naver-id="224163357798"><!-- TODO: Update to Hugo slug when migrated -->渋谷一蘭ラーメン 場所と待ち時間のヒント</a>**
+**👉 [渋谷一蘭ラーメン 場所と待ち時間のヒント](/posts/shibuya-ichiran-ramen-location-wait-time/)**
 
 </div>
 

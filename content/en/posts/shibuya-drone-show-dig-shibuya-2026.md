@@ -191,7 +191,7 @@ A. Since the main events are concentrated on Saturday (2/14), you can enjoy all 
 
 **2. Hungry after the festival? 24-hour restaurant info**
 
-**👉 <a href="#" data-naver-id="224163357798"><!-- TODO: Update to Hugo slug when migrated -->Shibuya Ichiran Ramen Location & Wait Time Tips</a>**
+**👉 [Shibuya Ichiran Ramen Location & Wait Time Tips](/posts/shibuya-ichiran-ramen-location-wait-time/)**
 
 </div>
 

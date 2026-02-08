@@ -19,6 +19,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224163357798 | shibuya-ichiran-ramen-location-wait-time | 2026-02-08 | ✅ |
 | 224172555287 | shibuya-drone-show-dig-shibuya-2026 | 2026-02-08 | ✅ |
 | 224174086158 | kaldi-valentine-chocolate-guide | 2026-02-06 | ✅ |
 | 224174540869 | pokemon-park-kanto-yomiuriland-guide | 2026-02-07 | ✅ |
@@ -313,11 +314,11 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ## Statistics
 
 - **Total Posts Migrated:** 142
-- **Naver IDs Tracked:** 176
+- **Naver IDs Tracked:** 177
 - **Posts with Internal Links:** 46+
-- **Pending References:** 42
+- **Pending References:** 43
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-08 (Shibuya Drone Show 2026)
+- **Last Migration Date:** 2026-02-08 (Shibuya Ichiran Ramen - In Progress)
 
 ---
 

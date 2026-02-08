@@ -191,7 +191,7 @@ A. 由于主要活动集中在周六(2/14)，合理规划的话一天就能享�
 
 **2. 艺术节后饿了？24小时餐厅信息**
 
-**👉 <a href="#" data-naver-id="224163357798"><!-- TODO: Update to Hugo slug when migrated -->涩谷一兰拉面 位置与等待时间攻略</a>**
+**👉 [涩谷一兰拉面 位置与等待时间攻略](/posts/shibuya-ichiran-ramen-location-wait-time/)**
 
 </div>
 
