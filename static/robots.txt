@@ -6,6 +6,7 @@ Allow: /
 
 # Sitemap locations
 Sitemap: https://tripmate.news/sitemap.xml
+Sitemap: https://tripmate.news/en/sitemap.xml
 Sitemap: https://tripmate.news/ja/sitemap.xml
 Sitemap: https://tripmate.news/zh-cn/sitemap.xml
 
