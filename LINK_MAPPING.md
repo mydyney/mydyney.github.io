@@ -19,6 +19,8 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224183302811 | shibuya-hikarie-11f-sky-lobby-guide | 2026-02-14 | pending |
+| 224182368714 | daikanyama-dior-bamboo-pavilion-guide | 2026-02-14 | ✅ |
 | 224163357798 | shibuya-ichiran-ramen-location-wait-time | 2026-02-08 | ✅ |
 | 224172555287 | shibuya-drone-show-dig-shibuya-2026 | 2026-02-08 | ✅ |
 | 224174086158 | kaldi-valentine-chocolate-guide | 2026-02-06 | ✅ |

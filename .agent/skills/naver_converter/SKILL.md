@@ -69,7 +69,7 @@ grep -o 'blog.naver.com/tokyomate/[0-9]*' naver.md | sort -u
 
 For each Naver link found, check `LINK_MAPPING.md`:
 - **Status ✅ AND file exists** → use Hugo slug
-- **Status pending OR not found** → use `href="#"` with TODO comment
+- **Status pending OR not found** → use TODO placeholder format (see **Rule 6**). The link MUST be visible to readers as a clickable `<a href="#">` element — never use invisible HTML comments alone
 
 ### 1.5 Map Categories & Tags
 
@@ -308,37 +308,59 @@ Naver uses `se-imageGroup-col-N` where N is the number of columns per row. For g
 - ✅ Always include `alt` text on every `<img>` (required for SEO and download script validation)
 - ✅ `figcaption` goes OUTSIDE all flex `<div>` rows, not inside
 
-**Rule 3: Google Maps links**
+**Rule 3: Tables — always use `schedule-table` class for visible borders**
+```html
+<table class="schedule-table">
+  <thead>
+    <tr>
+      <th style="background-color:#e2f7ff; text-align: center;">Header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center;">Cell content</td>
+    </tr>
+  </tbody>
+</table>
+```
+- ✅ Always add `class="schedule-table"` — this provides visible cell borders via `/static/css/blog-post-common.css`
+- ✅ Use `<thead>` for header rows with background color
+- ❌ NEVER use plain `<table>` without the class — cells become hard to read without borders
+
+**Rule 4: Google Maps links**
 ```html
 <p>📍 <a href="[URL]" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>View on Google Maps</strong></a></p>
 ```
 
-**Rule 4: Internal link prefixes**
+**Rule 5: Internal link prefixes**
 - EN: `/posts/[slug]/` (NO `/en/` prefix)
 - JA: `/ja/posts/[slug]/`
 - ZH-CN: `/zh-cn/posts/[slug]/`
 
-**Rule 5: TODO placeholders** (for unmigrated links)
+**Rule 6: TODO placeholders** (for unmigrated links)
+- ⚠️ **CRITICAL**: Every Naver internal link MUST produce a visible link in the output — even unmigrated ones
+- ❌ NEVER use only an invisible HTML comment (`<!-- TODO -->`) — readers will see nothing
+- ✅ ALWAYS include the visible `<a href="#">` element so the link text appears on the page
 ```html
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/[POST_ID]
      Hugo: /posts/[expected-slug]/ -->
-<a href="#" style="color: #667eea;"><strong>[Link Text]</strong></a>
+<p><a href="#" style="color: #667eea;"><strong>👉 [Link Text]</strong></a></p>
 ```
 
-**Rule 6: Content fidelity**
+**Rule 7: Content fidelity**
 - ❌ Never add sections/headers not in naver.md
 - ❌ Never reorganize or restructure content
 - ❌ Never summarize detail-rich sections (timetables, menus, step-by-step guides)
 - ✅ Translate ALL content faithfully — every paragraph, list item, and tip
 - ✅ Preserve exact physical sequence of text, images, and links
 
-**Rule 7: Editor's Note is MANDATORY**
+**Rule 8: Editor's Note is MANDATORY**
 - Every post MUST end with the `editors-note` div (see format in 2.2 above)
 - Place after all content, before closing `</div>`
 - Replace `[NAVER_POST_ID]` with the actual Naver post ID
 
-**Rule 8: Related guides / footer links**
+**Rule 9: Related guides / footer links**
 - The `👉` emoji MUST be inside the `<a>` tag
 - ✅ `<a href="...">👉 <strong>Title</strong></a>`
 - ❌ `👉 <a href="..."><strong>Title</strong></a>`
