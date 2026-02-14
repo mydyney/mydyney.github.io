@@ -141,6 +141,9 @@ translationKey: "[slug]"
 - Every image in naver.md MUST appear in Hugo — NO additions, NO deletions
 - Preserve the exact linear order from naver.md
 - Never renumber existing images
+- ⚠️ **CRITICAL: Figcaption source links** — If a Naver image caption contains an external source link (이미지출처, 사진출처, Source), the `<figcaption>` MUST include a clickable `<a>` tag linking to the original source. Never render source credits as plain text only.
+  - ✅ `(<a href="https://example.com" target="_blank" rel="noopener" style="color: #667eea;">Source: example.com</a>)`
+  - ❌ `(Source: example.com)` — plain text, no link
 
 **Single images:**
 ```html
