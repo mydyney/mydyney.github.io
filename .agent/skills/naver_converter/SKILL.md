@@ -1,609 +1,698 @@
 ---
 name: naver_converter
-description: Guide and automate the migration of Naver blog posts to Hugo, ensuring strict adherence to formatting, SEO, and multilingual guidelines.
+description: Migrate Naver blog posts to Hugo with strict formatting, SEO, and multilingual guidelines (EN/JA/ZH-CN).
 ---
 
-# Naver Converter Skill
+# Naver Blog → Hugo Migration Skill
 
-This skill guides you through the process of migrating a Naver blog post to the Hugo static site structure (EN/JA/ZH-CN). 
+Migrates a Naver blog post to the Hugo static site in three languages (EN/JA/ZH-CN).
 
-*   **[MIGRATION_GUIDE.md](resources/MIGRATION_GUIDE.md)**: **Workflow Document** (Process, scripts, verification checklists).
-*   **[CONTENT_GUIDELINES.md](resources/CONTENT_GUIDELINES.md)**: **Master Reference** (Formatting, HTML snippets, SEO, translation rules).
+**References** (consult for detailed rules):
+- [CONTENT_GUIDELINES.md](resources/CONTENT_GUIDELINES.md) — Formatting, SEO, tags, categories, Editor's Note
+- [MIGRATION_GUIDE.md](resources/MIGRATION_GUIDE.md) — Full workflow, link mapping, scripts
+- [Good Example](examples/good_migration_example.md) — Reference implementation
 
-**CRITICAL PREREQUISITE**: The user will always prepare the Naver blog HTML in `naver.md` before starting. **ALWAYS use naver.md directly** - no verification or fetching needed.
+**Prerequisite**: The user has prepared `naver.md` with the Naver blog HTML at the project root. **NEVER** try to fetch/scrape the Naver URL directly.
+
+---
 
 ## Workflow Overview
 
-1.  [Step 1: Analysis & Metadata](#step-1-analysis--metadata)
-2.  [Step 2: Link Analysis & Mapping](#step-2-link-analysis--mapping)
-3.  [Step 3: English Content Generation](#step-3-english-content-generation)
-4.  [Step 4: Image Download](#step-4-image-download)
-5.  [Step 5: User Review](#step-5-user-review)
-6.  [Step 6: Multilingual Expansion](#step-6-multilingual-expansion)
-7.  [Step 7: Verification Suite](#step-7-verification-suite)
-8.  [Step 8: Finalization & PR](#step-8-finalization--pr)
+| Step | Action | Approval Gate? |
+|------|--------|---------------|
+| 1 | Analysis & Planning | No |
+| 2 | English Content Generation | No |
+| 3 | Image Download | No |
+| 4 | English Review | **YES — STOP** |
+| 5 | Japanese & Chinese Versions | No |
+| 6 | Verification & Review | **YES — STOP** |
+| 7 | Finalization | No |
+
+**Only 2 approval gates.** Do NOT stop for approval at any other point.
 
 ---
 
-## Step 0: Pre-Analysis Phase (MANDATORY - CRITICAL)
+## Step 1: Analysis & Planning
 
-**Goal**: Complete structural analysis BEFORE starting any content generation to prevent errors.
+**Goal**: Extract metadata, plan the migration, and present a summary to the user.
 
-### 0.1 Image Group Structure Analysis
+### 1.1 Read and Analyze `naver.md`
 
-**CRITICAL**: Extract ALL image group information from `naver.md` FIRST.
+Read the file at the project root. If empty or missing, ask the user to provide content and STOP.
 
-1.  **Count Total Images**:
-    ```bash
-    grep -o "se-image-resource" naver.md | wc -l
-    ```
+### 1.2 Extract Metadata
 
-2.  **Extract Image Group Locations**:
-    ```bash
-    grep -n "se-imageGroup-col-" naver.md
-    ```
-    - Note the line numbers and group types (col-2, col-3, col-4)
+- **Publish date**: Look for `se_publishDate` or post metadata
+- **Post title**: Extract from the document title section
+- **Total image count**:
+  ```bash
+  grep -c "se-image-resource" naver.md
+  ```
+- **Image group locations**:
+  ```bash
+  grep -n "se-imageGroup-col-" naver.md
+  ```
+  Note group types (col-2, col-3, col-4) and their positions
 
-3.  **Extract Exact Image Ratios**:
-    ```bash
-    grep -A 3 "se-imageGroup-col-2" naver.md | \
-    grep "style=\"width" | \
-    sed 's/.*width://g' | \
-    sed 's/%.*//g' | \
-    awk 'NR%2{printf "%s / ",$0;next;}1' | \
-    nl -v 1 -s ". "
-    ```
-    - **RECORD EXACT PERCENTAGES** - DO NOT ESTIMATE
+### 1.3 Determine Slug
 
-4.  **Create Image Mapping Table**:
-    | Image # | Type | Ratio | Caption | Section |
-    |---------|------|-------|---------|----------|
-    | 1 | Single | - | "..." | Intro |
-    | 2-3 | Group | 36/64 | "..." | Park |
-    | ... | ... | ... | ... | ... |
+1. **Search `LINK_MAPPING.md` for the Naver post ID FIRST**
+2. If found: **reuse the existing slug** (even if status is `pending`)
+3. If NOT found: create new kebab-case slug (English keywords only, no years for evergreen content, under 60 chars)
+4. **Register in `LINK_MAPPING.md`** Quick Reference Table with status `pending`
 
-### 0.2 Section Structure Analysis
+### 1.4 Scan Internal Links
 
-1.  **Extract All Section Titles**:
-    ```bash
-    grep -o "se-fs- se-ff-nanumdasisijaghae" naver.md -A 1
-    ```
-
-2.  **Count Content Blocks per Section**:
-    - Paragraphs
-    - Lists (bullet/numbered)
-    - Images
-    - Links
-
-3.  **Verify NO Arbitrary Additions**:
-    - ❌ DO NOT add section headers not in original
-    - ❌ DO NOT add content not in original
-    - ❌ DO NOT reorganize structure
-    - ✅ ONLY translate and format existing content with **1:1 context fidelity** (capture all "tips", "warnings", and personal interjections from the original author).
-    - ✅ Ensure the **physical sequence** of images, tables, and text blocks perfectly matches `naver.md`.
-
-### 0.3 Create Pre-Analysis Artifact
-
-**Write to**: `<appDataDir>/brain/<id>/pre_analysis.md`
-
-```markdown
-# Pre-Analysis: [Post Title]
-
-## Image Inventory
-- Total Images: XX
-- Image Groups: XX
-- Group Details:
-  1. Images X-Y: Ratio A/B - "Caption"
-  2. Images X-Y: Ratio A/B - "Caption"
-
-## Section Structure
-1. Section Title
-   - Paragraphs: X
-   - Images: X
-   - Lists: X
-
-## Verification Checklist
-- [ ] All image ratios extracted
-- [ ] All sections mapped
-- [ ] No arbitrary additions planned
+```bash
+grep -o 'blog.naver.com/tokyomate/[0-9]*' naver.md | sort -u
 ```
 
-### 0.4 User Confirmation
+For each Naver link found, check `LINK_MAPPING.md`:
+- **Status ✅ AND file exists** → use Hugo slug
+- **Status pending OR not found** → use `href="#"` with TODO comment
 
-**BEFORE starting content generation**:
-1. Present the pre-analysis artifact to user
-2. Confirm structure understanding
-3. Get approval to proceed
+### 1.5 Map Categories & Tags
 
----
+Categories and tags MUST match content language:
 
-## Step 1: Analysis & Metadata
+| EN | JA | ZH-CN |
+|----|-----|-------|
+| Food & Dining | グルメ | 美食 |
+| Travel Guide | 旅行ガイド | 旅游指南 |
+| Shopping | ショッピング | 购物 |
+| Events & Festivals | イベント＆フェスティバル | 活动与节日 |
 
-**Goal**: Extract core metadata and validate limits.
+See [CONTENT_GUIDELINES.md](resources/CONTENT_GUIDELINES.md) for full list.
 
-1.  **Verify `naver.md` exists and has content**:
-    *   Read the file at the project root: `/Users/tommygo/Desktop/personal-project/mydyney.github.io/naver.md`
-    *   If the file is empty or missing, STOP and ask the user to provide the content first.
-2.  **Extract Metadata from `naver.md`**:
-    *   **Publish Date**: Look for `se_publishDate`.
-    *   **Total Image Count**: Count all `<img>` tags.
-    *   **Post Title**: Extract from the document title section.
-3.  **Determine Slug (MANDATORY CHECK)**:
-    *   **Search `LINK_MAPPING.md` by Naver ID**: Before creating a new slug, you MUST search for the current Naver post's ID in `LINK_MAPPING.md`.
-    *   **Reuse Existing Slug**: If the Naver ID is already present in the `## Quick Reference Table` or `## Pending Link References`, you MUST use the slug defined there (even if it's `pending`).
-    *   **New Slug ONLY if Missing**: Only if the Naver ID is NOT found, create a new kebab-case slug (English keywords only, no years).
-4.  **Register in `LINK_MAPPING.md` (MANDATORY)**:
-    *   Add a new entry for the current Naver ID and Slug in the `## Quick Reference Table` of `LINK_MAPPING.md`.
-    *   Set the status to `pending` immediately before starting generation to signal work in progress.
-5.  **Category Mapping (Strict)**:
-    *   **Food & Dining**: EN `Food & Dining` | JA `グルメ` | ZH `美食`
-    *   **Travel Guide**: EN `Travel Guide` | JA `旅行ガイド` | ZH `旅游指南`
-    *   **Shopping**: EN `Shopping` | JA `ショッピング` | ZH `购物`
-    *   *Reference `CONTENT_GUIDELINES.md` for full list.*
+### 1.6 Present Summary
+
+Present analysis to the user (proposed slug, image count, link conversion plan, categories). Then **proceed immediately to Step 2** — do NOT wait for approval here.
 
 ---
 
-## Step 2: Link Analysis & Mapping
-
-**Goal**: Detailed verification of all links.
-
-1.  **Scan for Links**: `grep -o 'blog.naver.com/tokyomate/[0-9]*' naver.md`
-2.  **Verify Source Correctness**: For Google Maps links, check if they actually point to the correct location for each item. If the source has duplicates (e.g., same link for two different shops), search for the correct link and use it.
-3.  **Check `LINK_MAPPING.md`**: For each Naver ID found:
-    *   **If Mapped**: Check if the local file exists (`content/en/posts/[slug].md`).
-        *   **File Exists**: Use the mapped slug (e.g., `/posts/[slug]/`).
-    *   **File Missing**: Use Placeholder + TODO (`href="#"`). **NEVER** use self-referential links or non-standard placeholders.
-    *   **If Not Mapped**: Use the **Strict TODO Placeholder Format** with `href="#"`.
-2.  **Link Prefix Rules**:
-    *   **English (EN)**: Use `/posts/[slug]/` (**NO** `/en/` prefix).
-    *   **Japanese (JA)**: Use `/ja/posts/[slug]/`.
-    *   **Chinese (ZH)**: Use `/zh-cn/posts/[slug]/`.
-
----
-
-## Step 3: English Content Generation
+## Step 2: English Content Generation
 
 **Goal**: Create `content/en/posts/[slug].md`.
 
-**THE "GOLDEN TEMPLATE" (Line 1 MUST be `---`):**
-```markdown
+### 2.1 Front Matter
+
+**Line 1 MUST be `---`** (Hugo ignores front matter if missing).
+
+```yaml
 ---
-title: "[Translated Title]"
-date: [Same as original, e.g., 2025-10-09T11:37:00+09:00]
-description: "[SEO Meta Description]"
-categories: ["[Localized Category]"]
-tags: ["[Localized Tags]"]
+title: "[SEO Title — 50-80 chars, key info in first 55]"
+date: [Original date with +09:00 timezone]
+draft: false
+description: "[SEO description — 150-180 chars]"
+categories: ["[English Category]"]
+tags: ["[english-kebab-tags]"]
 featured_image: "/images/posts/[slug]-01.jpg"
 translationKey: "[slug]"
 ---
+```
 
+### 2.2 Content Structure
+
+```html
 <div class="blog-container">
-...
+
+<p style="text-align: center; font-size: 1.1rem; color: #555;">[Intro text]</p>
+
+[Content with ## headings, images, tables, info boxes]
+
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+  </p>
+</div>
+
 </div>
 ```
 
-**CRITICAL FRONT MATTER**:
-*   **featured_image**: Must include `/images/posts/[slug]-01.jpg`. (Hugo ignores front matter if Line 1 `---` is missing!)
+### 2.3 Formatting Rules
 
-**MANDATORY COMPONENTS**:
-1.  **Editor's Note**: Every post MUST end with a styled Editor's Note linking back to the original Naver post (see Step 455 for format).
-2.  **Related Posts**: If the original contains "Related Posts" or internal links, convert them using Hugo slugs.
+**Rule 1: HTML only inside `blog-container`**
+- ✅ Use: `<strong>`, `<ul>`, `<li>`, `<p>`, `<a>`, `<table>`
+- ❌ Never: `**bold**`, `- list item`, `[link](url)`
+- Exception: Headings use Markdown (`##`, `###`)
 
-**CRITICAL FORMATTING RULES**:
-*   **STRICT HTML Only in Container**: Wrap content in `<div class="blog-container">`. Inside this, use **HTML tags** (`<strong>`, `<ul>`, `<li>`, `<p>`, `<a>`), **NEVER** Markdown (`**`, `-`, `[text](url)`).
-*   **Google Maps Standard**:
-    *   Format: `📍 <a href="..." target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>View on Google Maps</strong></a>`
-    *   JA: `<strong>Googleマップで見る</strong>`, ZH: `<strong>在 Google 地图上查看</strong>`.
-*   **Headings**: Use Markdown (`##`, `###`) for headings.
-*   **Images** (CRITICAL - STRICT RULES):
-    *   **1:1 Matching**: Every image in Naver HTML must be present - NO additions, NO deletions.
-    *   **High-Res Quality**: Append `?type=w966` to the URL.
-    *   **Image Groups** (MANDATORY PROCESS):
-        1. **Use Inline Flex Styles** (NOT CSS classes):
-           ```html
-           <div style="display: flex; gap: 10px; margin: 20px 0;">
-             <figure style="margin: 0; flex: 0.XXX;">
-               <img src="..." style="width: 100%; height: auto; display: block;">
-             </figure>
-             <figure style="margin: 0; flex: 0.YYY;">
-               <img src="..." style="width: 100%; height: auto; display: block;">
-             </figure>
-           </div>
-           <figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Caption</figcaption>
-           ```
-        2. **Extract EXACT ratios** from naver.md `style="width:XX%"` - convert to decimal (e.g., 51.77% → 0.518)
-        3. **Verify ratio sum = 1.0** for each group
-        4. **For 4-image groups (2x2)**: Create TWO separate flex divs (one per row)
-    *   **Captions**: Every caption in `naver.md` MUST be translated and added.
-    *   **Image Numbering**: 
-        - ❌ NEVER renumber existing images
-        - ✅ Only add new images with next available number
-        - ✅ Keep original numbering even if images are deleted
+**Rule 2: Images — strict 1:1 matching with naver.md**
+- Every image in naver.md MUST appear in Hugo — NO additions, NO deletions
+- Preserve the exact linear order from naver.md
+- Never renumber existing images
+
+**Single images:**
+```html
+<figure>
+  <img src="/images/posts/[slug]-XX.jpg" alt="[descriptive alt text]">
+  <figcaption style="font-size: 0.7em; text-align: center;">[Caption]</figcaption>
+</figure>
+```
+
+**Image groups** (2, 3, or 4 side-by-side) — use inline flex with EXACT Naver ratios:
+
+**Step A: Extract exact ratios from naver.md**
+```bash
+# Find all image groups and their width percentages
+grep -B2 -A5 "se-imageGroup-col-" naver.md | grep -o 'width:[0-9.]*%'
+```
+Convert percentages to decimals (e.g., `width:51.77%` → `flex: 0.518`, `width:48.23%` → `flex: 0.482`). Ratios in each group MUST sum to ~1.0.
+
+**Step B: Apply to HTML**
+```html
+<!-- 2-image group -->
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.518;">
+    <img src="/images/posts/[slug]-XX.jpg" alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.482;">
+    <img src="/images/posts/[slug]-YY.jpg" alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<figcaption style="font-size: 0.7em; text-align: center;">[Caption]</figcaption>
+
+<!-- 3-image group -->
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.333;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.333;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.334;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<figcaption style="font-size: 0.7em; text-align: center;">[Caption]</figcaption>
+
+<!-- 4-image group (2x2): use TWO separate flex rows -->
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<div style="display: flex; gap: 10px; margin: 0 0 20px 0;">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<figcaption style="font-size: 0.7em; text-align: center;">[Caption]</figcaption>
+```
+
+**Multi-row groups (5+ images):**
+
+Naver uses `se-imageGroup-col-N` where N is the number of columns per row. For groups with more images than columns, Naver wraps them into multiple rows.
+
+**How to determine the layout:**
+1. Find the column class: `se-imageGroup-col-2`, `col-3`, `col-4`
+2. Count total images inside that group
+3. Split into rows of N images each (last row may have fewer)
+4. Extract the `width:XX%` for EACH image in EACH row
+
+**Example: 6 images in a col-3 group (3+3 layout)**
+```html
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.333;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.333;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.334;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<div style="display: flex; gap: 10px; margin: 0 0 20px 0;">
+  <figure style="margin: 0; flex: 0.333;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.333;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.334;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<figcaption style="font-size: 0.7em; text-align: center;">[Caption]</figcaption>
+```
+
+**Example: 5 images in a col-2 group (2+2+1 layout)**
+```html
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.518;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.482;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<div style="display: flex; gap: 10px; margin: 0;">
+  <figure style="margin: 0; flex: 0.518;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.482;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<div style="display: flex; gap: 10px; margin: 0 0 20px 0;">
+  <figure style="margin: 0; flex: 1;">
+    <img src="..." alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<figcaption style="font-size: 0.7em; text-align: center;">[Caption]</figcaption>
+```
+
+**Example: 9 images in a col-3 group (3+3+3 layout)**
+```html
+<!-- Row 1 -->
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.333;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+  <figure style="margin: 0; flex: 0.333;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+  <figure style="margin: 0; flex: 0.334;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+</div>
+<!-- Row 2 -->
+<div style="display: flex; gap: 10px; margin: 0;">
+  <figure style="margin: 0; flex: 0.333;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+  <figure style="margin: 0; flex: 0.333;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+  <figure style="margin: 0; flex: 0.334;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+</div>
+<!-- Row 3 -->
+<div style="display: flex; gap: 10px; margin: 0 0 20px 0;">
+  <figure style="margin: 0; flex: 0.333;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+  <figure style="margin: 0; flex: 0.333;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+  <figure style="margin: 0; flex: 0.334;"><img src="..." alt="..." style="width: 100%; height: auto; display: block;"></figure>
+</div>
+<figcaption style="font-size: 0.7em; text-align: center;">[Caption]</figcaption>
+```
+
+**Multi-row margin pattern:**
+- First row: `margin: 20px 0;` (top spacing)
+- Middle rows: `margin: 0;` (no extra spacing, gap only)
+- Last row: `margin: 0 0 20px 0;` (bottom spacing)
+- Single row: `margin: 20px 0;` (both)
+
+**Critical rules for image groups:**
+- ❌ NEVER estimate ratios — always extract exact values from `naver.md`
+- ❌ NEVER use CSS classes (`image-group-2`) — use inline flex for ratio preservation
+- ✅ Extract the column count from `se-imageGroup-col-N` to determine images per row
+- ✅ Extract `width:XX%` for EACH image — ratios may differ between rows
+- ✅ Verify each ROW's flex values sum to ~1.0 (±0.01)
+- ✅ For the last row with fewer images (e.g., 1 remaining), use `flex: 1` for single image
+- ✅ Always include `alt` text on every `<img>` (required for SEO and download script validation)
+- ✅ `figcaption` goes OUTSIDE all flex `<div>` rows, not inside
+
+**Rule 3: Google Maps links**
+```html
+<p>📍 <a href="[URL]" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>View on Google Maps</strong></a></p>
+```
+
+**Rule 4: Internal link prefixes**
+- EN: `/posts/[slug]/` (NO `/en/` prefix)
+- JA: `/ja/posts/[slug]/`
+- ZH-CN: `/zh-cn/posts/[slug]/`
+
+**Rule 5: TODO placeholders** (for unmigrated links)
+```html
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/[POST_ID]
+     Hugo: /posts/[expected-slug]/ -->
+<a href="#" style="color: #667eea;"><strong>[Link Text]</strong></a>
+```
+
+**Rule 6: Content fidelity**
+- ❌ Never add sections/headers not in naver.md
+- ❌ Never reorganize or restructure content
+- ❌ Never summarize detail-rich sections (timetables, menus, step-by-step guides)
+- ✅ Translate ALL content faithfully — every paragraph, list item, and tip
+- ✅ Preserve exact physical sequence of text, images, and links
+
+**Rule 7: Editor's Note is MANDATORY**
+- Every post MUST end with the `editors-note` div (see format in 2.2 above)
+- Place after all content, before closing `</div>`
+- Replace `[NAVER_POST_ID]` with the actual Naver post ID
+
+**Rule 8: Related guides / footer links**
+- The `👉` emoji MUST be inside the `<a>` tag
+- ✅ `<a href="...">👉 <strong>Title</strong></a>`
+- ❌ `👉 <a href="..."><strong>Title</strong></a>`
+
+After creating the English version, **proceed immediately to Step 3** — do NOT wait for approval.
 
 ---
 
-## Step 4: Image Download
+## Step 3: Image Download
 
-**Action**: Extract high-res image URLs (`?type=w966`) and download them immediately.
+Run immediately after creating the English version:
+
 ```bash
 python3 download_naver_images.py "[slug]"
 ```
 
----
+This script:
+- Reads `naver.md` and extracts all images in sequential order
+- Validates against the English markdown (1:1 matching)
+- Downloads all images to `static/images/posts/`
+- Auto-converts to JPG: `{slug}-01.jpg`, `{slug}-02.jpg`, etc.
 
-## Step 5: User Verification
+If validation fails, fix the image references in the English version and re-run.
 
-1.  **User Verification Only**: The agent does not perform visual or server-based verification. The user is responsible for checking the output.
-2.  **Self-Correction**: Perform a `grep` search for Markdown syntax inside the `.md` file to catch any `**` or `[` characters that shouldn't be there before proceeding to other languages.
-    ```bash
-    grep -E '\*\*|\[.*\]\(.*\)' content/en/posts/[slug].md
-    ```
-3.  **WAIT FOR USER**: **CRITICAL**: You MUST NOT proceed to Step 6 until the user explicitly provides a "next" command. After completing Step 5, inform the user you are waiting for their review.
-
-**Common Lesson Learned**: If the user finds a fidelity error (e.g., "this part is different from original"), perform a **FULL PAGE** re-analysis of `naver.md` to ensure no other subtle nuances or interjections were missed.
+After download completes, **proceed immediately to Step 4**.
 
 ---
 
-## Step 6: Multilingual Expansion
+## Step 4: English Review
 
-**Goal**: Create Japanese (`ja`) and Chinese (`zh-cn`) versions.
+### ⏸️ APPROVAL GATE 1 — Wait for user approval
 
-**PREREQUISITE**: **Only proceed if the user has said "next"** after verifying the English version in Step 5.
+1. **Start Hugo server** (if not already running):
+   ```bash
+   hugo server -D
+   ```
 
+2. **Run self-check** for Markdown leaks inside blog-container:
+   ```bash
+   grep -E '\*\*|\[.*\]\(.*\)' content/en/posts/[slug].md
+   ```
+   Fix any matches before presenting to user.
 
-**CRITICAL: HTML Formatting Rules Apply to ALL Languages**
+3. **Present preview link to user**:
+   ```
+   English Version: http://localhost:1313/posts/[slug]/
+   ```
 
-> [!IMPORTANT]
-> The HTML formatting rules from Step 3 apply **EQUALLY** to Japanese and Chinese versions:
-> - ✅ **USE**: `<strong>`, `<ul>`, `<li>`, `<p>`, `<a>` inside `blog-container`
-> - ❌ **NEVER**: `**text**`, `- item`, `[link](url)` inside `blog-container`
-> - 📋 **Process**: Translate text content ONLY, keep ALL HTML tags intact
-> - 🔍 **Verify**: Run Markdown leak check after each language (see Step 7.4)
+4. **Wait for user response**:
+   - "OK", "next", "완료" → proceed to Step 5
+   - Feedback → make corrections, re-present preview
+   - **Do NOT proceed to Step 5 until user explicitly approves**
 
-**Translation Guidelines**:
-
-1.  **Consistency**: Use the **SAME** `translationKey` and images as English.
-2.  **Parity**: Maintain **1:1 structural parity**. Do not summarize detail-rich sections (timetables, menus).
-3.  **Currency**: Standardize KRW/JPY to **USD** (e.g., 10k KRW ≈ $7.50).
-4.  **Japanese**: Natural desu/masu tone. No "Japan's X" phrasing. Remove tax-free info for JA if it's a guide for domestic Japanese. Use original Japanese/Kanji names directly without parenthetical explanations or furigana/bracketed readings.
-5.  **Chinese**: Engaging style with emojis. **NO** special quotes in front matter.
-6.  **Shop Name Notation**: Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#shop-name--terminology-notation-rules)** for strict rules (EN/ZH: `Name (Original)`, JA: `Original` only).
-7.  **Klook Affiliate Links**: Convert all Klook links using the **Tripmate account (AID: 110453)** and localize language/currency for each version. Refer to **[CONTENT_GUIDELINES.md](./resources/CONTENT_GUIDELINES.md#klook-affiliate-link-conversion)** for the template.
-8.  **Cultural Adaptation**: Follow the **[Cultural Adaptation & Writing Style](./resources/CONTENT_GUIDELINES.md#3-cultural-adaptation--writing-style)** master rules.
-
-**Translation Example** (Correct vs Incorrect):
-
-```html
-<!-- ✅ CORRECT: HTML preserved -->
-English: <strong>Must-Visit Restaurant</strong>
-Japanese: <strong>必訪レストラン</strong>
-Chinese: <strong>必访餐厅</strong>
-
-<!-- ❌ INCORRECT: Converted to Markdown -->
-Japanese: **必訪レストラン**  ← NEVER DO THIS
-Chinese: **必访餐厅**  ← NEVER DO THIS
-```
+**If user reports fidelity errors**: Re-analyze the FULL naver.md to catch any other missed nuances.
 
 ---
 
-## Step 7: Verification Suite (MANDATORY)
+## Step 5: Japanese & Chinese Versions
 
-### 7.1 Automated Verification Scripts
+**Only proceed after user approves English version in Step 4.**
 
-**Create and run these verification scripts**:
+Create both files:
+- `content/ja/posts/[slug].md`
+- `content/zh-cn/posts/[slug].md`
 
-1.  **Image Count Verification**:
-    ```bash
-    #!/bin/bash
-    NAVER_COUNT=$(grep -o "se-image-resource" naver.md | wc -l | tr -d ' ')
-    HUGO_COUNT=$(grep -o '<img' content/en/posts/[slug].md | wc -l | tr -d ' ')
-    echo "Naver: $NAVER_COUNT | Hugo: $HUGO_COUNT"
-    [ $NAVER_COUNT -eq $HUGO_COUNT ] && echo "✅ PASS" || echo "❌ FAIL"
-    ```
+### 5.1 Shared Rules (All Languages)
 
-2.  **Image Group Count Verification**:
-    ```bash
-    #!/bin/bash
-    NAVER_GROUPS=$(grep -c "se-imageGroup-col-2" naver.md)
-    HUGO_GROUPS=$(grep -c "display: flex" content/en/posts/[slug].md)
-    echo "Naver: $NAVER_GROUPS | Hugo: $HUGO_GROUPS"
-    [ $NAVER_GROUPS -eq $HUGO_GROUPS ] && echo "✅ PASS" || echo "❌ FAIL"
-    ```
+- Same `translationKey`, `date`, and image references as EN
+- Language-specific tags and categories (JA tags for JA, ZH-CN tags for ZH-CN)
+- Same HTML structure — translate text content ONLY, keep all HTML tags intact
+- ✅ Use: `<strong>`, `<ul>`, `<li>`, `<p>`, `<a>` inside blog-container
+- ❌ Never: `**text**`, `- item`, `[link](url)` inside blog-container
+- Internal links: add `/ja/` or `/zh-cn/` prefix
 
-3.  **Image Ratio Verification**:
-    ```bash
-    #!/bin/bash
-    # Extract all flex ratios and verify they sum to ~1.0 per group
-    grep "flex: 0\." content/en/posts/[slug].md | \
-    awk -F'flex: 0\\.' '{print $2}' | \
-    awk -F';' '{print $1}' | \
-    awk '{sum+=$1; if(NR%2==0){print sum/1000; sum=0}}'
-    # Each output should be ~1.0 (e.g., 0.998-1.002)
-    ```
+### 5.2 Japanese-Specific Rules
 
-4.  **Markdown Leak Verification** (CRITICAL):
-    ```bash
-    #!/bin/bash
-    # Check for Markdown syntax inside blog-container (should be 0)
-    echo "=== Markdown Leak Check ==="
-    for lang in en ja zh-cn; do
-      COUNT=$(grep -c '\*\*' content/$lang/posts/[slug].md 2>/dev/null || echo 0)
-      if [ "$COUNT" -gt 0 ]; then
-        echo "❌ $lang: Found $COUNT Markdown bold (**)"
-        echo "   Fix: sed -i '' 's/\*\*\([^*]*\)\*\*/\<strong\>\1\<\/strong\>/g' content/$lang/posts/[slug].md"
-      else
-        echo "✅ $lang: No Markdown leaks"
-      fi
-    done
-    ```
+| Aspect | Rule |
+|--------|------|
+| Tone | Polite です/ます, friendly and approachable |
+| Shop names | Original Japanese only — `壽々喜園` (NO parenthetical readings) |
+| Currency | Keep JPY as-is (domestic readers) |
+| "日本の" prefix | NEVER use — readers are Japanese |
+| Tax-free info | DELETE (only relevant to foreign tourists) |
+| Google Maps text | `<strong>Googleマップで見る</strong>` |
+| Editor's Note title | `編集者注` |
 
-5.  **Front Matter Delimiter Verification**:
-    ```bash
-    # Verify every post starts with --- on Line 1
-    for lang in en ja zh-cn; do
-      if [ "$(head -n 1 content/$lang/posts/[slug].md)" != "---" ]; then
-        echo "❌ $lang: Missing opening --- delimiter on Line 1!"
-      else
-        echo "✅ $lang: Front matter correctly started"
-      fi
-    done
-    ```
+### 5.3 Chinese-Specific Rules
 
-6.  **Section Count Verification**:
-    sed 's/.*flex: //g' | sed 's/;.*//g' | \
-    awk 'NR%2{sum=$1;next}{sum+=$1; print sum}' | \
-    awk '{if($1<0.99||$1>1.01)print "❌ FAIL: "$1; else print "✅ PASS: "$1}'
-    ```
+| Aspect | Rule |
+|--------|------|
+| Tone | Engaging, practical, uses emojis (小红书 style) |
+| Shop names | English (Original) format — `Suzukien (壽々喜園)` |
+| Currency | Convert to USD (10,000 KRW ≈ $7.50) |
+| YAML front matter | ❌ NEVER use `「」` or `""` in quoted strings |
+| Google Maps text | `<strong>在 Google 地图上查看</strong>` |
+| Editor's Note title | `编者按` |
 
-### 7.2 Manual Verification Checklist
+### 5.4 Editor's Note Templates
 
-Run these checks and document results:
-1.  **Total Parity Check**:
-    *   Images: `naver.md` count vs Hugo count (Must match 1:1).
-    *   Captions: `naver.md` count vs Hugo count.
-    *   Links: `naver.md` count vs Hugo count.
-    *   Image Groups: `naver.md` count vs Hugo count.
-2.  **Image Group Ratio Check**:
-    *   Compare each group's ratios with naver.md source
-    *   Verify all ratios sum to 1.0 (±0.01 tolerance)
-3.  **Structural Parity Check**: Compare EN, JA, and ZH side-by-side to ensure paragraph counts and heading structures are identical.
-4.  **Markdown Leak Check (CRITICAL)**:
-    *   Search for Markdown syntax inside the `blog-container` area.
-    *   `grep -E '\*\*|\[.*\]\(.*\)|^- ' content/*/posts/[slug].md`
-5.  **Footer Link Standard Check**: Ensure "👉" is inside the `<a>` tag and icons match EN.
-6.  **Content Fidelity Check**:
-    *   ❌ NO section headers added that don't exist in naver.md
-    *   ❌ NO content reorganization
-    *   ✅ ALL sections from naver.md present
-
----
-
-## Common Errors and Fixes
-
-### 1. Front Matter Image Field
-
-**❌ WRONG**: Using `cover:` with nested fields
-```yaml
-cover:
-  image: "/images/posts/slug-01.jpg"
-  alt: "..."
-  caption: "..."
-```
-
-**✅ CORRECT**: Use `featured_image:` (single line)
-```yaml
-featured_image: "/images/posts/slug-01.jpg"
-```
-
-### 2. Double Header Lines
-
-**❌ WRONG**: Using double headers creates two horizontal lines
-```markdown
-## Yebisu Garden Place  
-## Ebisu Brewery Tokyo Operating Hours
-```
-
-**✅ CORRECT**: Use single header only
-```markdown
-## Ebisu Brewery Tokyo Operating Hours
-```
-
-### 3. Image Group Classes (DEPRECATED)
-
-**❌ WRONG**: Using CSS classes
-```html
-<div class="image-group-2">
-```
-
-**✅ CORRECT**: Use inline flex styles
-```html
-<div style="display: flex; gap: 10px; margin: 20px 0;">
-  <figure style="margin: 0; flex: 0.518;">
-    <img src="..." style="width: 100%; height: auto; display: block;">
-  </figure>
-  <figure style="margin: 0; flex: 0.482;">
-    <img src="..." style="width: 100%; height: auto; display: block;">
-  </figure>
-</div>
-<figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Caption</figcaption>
-```
-
-### 4. Image Group Ratio Errors (NEW - CRITICAL)
-
-**❌ WRONG**: Estimating ratios visually
-```html
-<figure style="margin: 0; flex: 0.5;">  <!-- Guessed 50/50 -->
-<figure style="margin: 0; flex: 0.5;">
-```
-
-**✅ CORRECT**: Extract exact ratios from naver.md
-```bash
-# Extract from naver.md: width:51.76899063475546%
-# Convert to decimal: 0.518
-<figure style="margin: 0; flex: 0.518;">
-<figure style="margin: 0; flex: 0.482;">
-```
-
-### 5. Missing Image Groups (NEW - CRITICAL)
-
-**❌ WRONG**: Skipping image groups from naver.md
-- Missing standalone images between sections
-- Deleting image groups that seem duplicate
-
-**✅ CORRECT**: Include ALL images from naver.md
-- Use pre-analysis to map every single image
-- Verify image count matches: `naver.md` vs `Hugo`
-- Never skip images even if they seem redundant
-
-### 6. Arbitrary Section Additions (NEW - CRITICAL)
-
-**❌ WRONG**: Adding section headers not in original
-```markdown
-## Traditional Izakaya & Specialty Coffee  <!-- NOT in naver.md -->
-```
-
-**✅ CORRECT**: Only use sections from naver.md
-- Extract all section titles from naver.md FIRST
-- Never add headers for "better organization"
-- Translate existing structure exactly
-
-### 7. Image Numbering Errors (NEW - CRITICAL)
-
-**❌ WRONG**: Renumbering images after additions/deletions
-```
-Original: 1-21
-After adding image 2: Renumber 13-21 → 13-19  <!-- WRONG -->
-```
-
-**✅ CORRECT**: Keep original numbers, only add new
-```
-Original: 1, 3-21 (missing 2)
-After adding image 2: 1-21 (all present)  <!-- Keep original numbers -->
-```
-
-### 8. Editor's Note Format
-
-**❌ WRONG**: Simple format without styling
-```markdown
-> Editor's Note: This is a note
-```
-
-**✅ CORRECT**: Use styled blockquote
-```html
-<blockquote style="background: #f9f9f9; border-left: 4px solid #667eea; padding: 15px 20px; margin: 20px 0;">
-<p style="margin: 0;"><strong>✏️ Editor's Note:</strong> Content here</p>
-</blockquote>
-```
-
----
-
-## Critical Reminders
-
-1. **ALWAYS run pre-analysis BEFORE content generation**
-2. **NEVER estimate image ratios - extract exact values**
-3. **NEVER add content not in naver.md**
-4. **NEVER renumber existing images**
-5. **ALWAYS verify with automated scripts**
-6. **ALWAYS maintain 1:1 parity with source**
-
----
-
-## Quick Reference: Verification Commands
-
-```bash
-# Image count
-grep -o "se-image-resource" naver.md | wc -l
-grep -o '<img' content/en/posts/[slug].md | wc -l
-
-# Image group count
-grep -c "se-imageGroup-col-2" naver.md
-grep -c "display: flex" content/en/posts/[slug].md
-
-# Extract image ratios
-grep -A 3 "se-imageGroup-col-2" naver.md | \
-grep "style=\"width" | \
-sed 's/.*width://g' | sed 's/%.*//g'
-```
-
-**❌ WRONG**: Simple format without styling
-```html
-<div class="editor-note">
-**Editor's Note**
-This article was originally published...
-</div>
-```
-
-**✅ CORRECT**: Use `editors-note` (plural) with proper styling
+**Japanese:**
 ```html
 <div class="editors-note">
-  <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
+  <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
-    This article is based on the author's actual experiences and original content from <a href="https://blog.naver.com/tokyomate/[POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>. It has been translated and adapted to provide authentic travel information about Tokyo for global readers.
+    本記事は、筆者の実際の体験に基づき、公式ブログ <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a> に掲載されたオリジナルコンテンツを翻訳・再構成したものです。リアルな東京の旅情報をお届けします。
   </p>
 </div>
 ```
 
-### 5. HTML Escaping Issues
-
-**Problem**: Backslashes (`\`) appearing before HTML tags causing literal text display
-
-**Solution**: Ensure no escape characters in HTML. Use proper HTML tags without escaping:
+**Chinese:**
 ```html
-<div class="blog-container">  <!-- NOT: \<div class=\"blog-container\"\> -->
+<div class="editors-note">
+  <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
+  <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">
+    本文基于作者的亲身经历，编译自韩国原创博客 <a href="https://blog.naver.com/tokyomate/[NAVER_POST_ID]" target="_blank" style="color: #667eea; text-decoration: underline;">blog.naver.com/tokyomate</a>。内容经过翻译与调整，旨在为您分享真实可靠的东京旅行资讯。
+  </p>
+</div>
 ```
 
-### 6. TODO Placeholder Link Format
+### 5.5 Klook Affiliate Links
 
-**❌ WRONG**: Missing Naver source link in comment
-```html
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>Post Title</strong></a></p>
-```
+Convert all Klook links to the Tripmate account and localize:
+- **AID**: `110453`, **ADID**: `1208343`
+- EN: `/en-US/` + `?currency=USD&n_currency=USD&ignore_ip=1`
+- JA: `/ja/` + `?currency=JPY&n_currency=JPY&ignore_ip=1`
+- ZH-CN: `/zh-CN/` + `?currency=CNY&n_currency=CNY&ignore_ip=1`
 
-**✅ CORRECT**: Always include Naver source link and Hugo expected path in comments
-```html
-<!-- TODO: Update link after migration 
-     Naver: https://blog.naver.com/tokyomate/[POST_ID]
-     Hugo: /posts/[expected-slug]/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><strong>Post Title</strong></a></p>
-```
+See [CONTENT_GUIDELINES.md](resources/CONTENT_GUIDELINES.md#klook-affiliate-link-conversion) for full template.
 
-### 7. Slug Mismatch with LINK_MAPPING.md
-
-**❌ WRONG**: Creating a new slug without checking if one was already reserved for that Naver ID.
-```markdown
-# Analysis & Metadata
-Slug: new-slug-name (Created from scratch)
-```
-
-**✅ CORRECT**: Always search `LINK_MAPPING.md` for the Naver ID first.
-```markdown
-# Analysis & Metadata
-Naver ID: 223665548720
-Found in LINK_MAPPING.md: yebisu-brewery-museum-guide
-Action: Use the existing slug 'yebisu-brewery-museum-guide'
-```
-
-### 8. Forgetting to Register In LINK_MAPPING.md
-
-**❌ WRONG**: Starting work without adding a `pending` entry, leading to possible duplicate work or slug conflicts.
-
-**✅ CORRECT**: Add the Naver ID and Slug to `LINK_MAPPING.md` with `pending` status as the very first action after metadata analysis.
+After creating both versions, **proceed immediately to Step 6**.
 
 ---
 
-## Step 8: Finalization & PR
+## Step 6: Verification & Review
 
-1.  **Update `LINK_MAPPING.md`**: Update the status from `pending` to `✅` in the `## Quick Reference Table`. This is a critical final step for tracking.
-2.  **Commit**: `git add .` and `git commit`.
+**Goal**: Run all automated checks, present results and preview links to user.
+
+### 6.1 Image Count (must match across all versions)
+
+```bash
+SLUG="[slug]"
+NAVER=$(grep -c "se-image-resource" naver.md)
+EN=$(grep -c '<img' content/en/posts/$SLUG.md)
+JA=$(grep -c '<img' content/ja/posts/$SLUG.md)
+ZH=$(grep -c '<img' content/zh-cn/posts/$SLUG.md)
+echo "Images — Naver: $NAVER | EN: $EN | JA: $JA | ZH: $ZH"
+```
+
+### 6.1b Image Group Count & Ratio Check
+
+```bash
+# Group count comparison
+NAVER_GROUPS=$(grep -c "se-imageGroup-col-" naver.md)
+EN_GROUPS=$(grep -c "display: flex" content/en/posts/$SLUG.md)
+echo "Image Groups — Naver: $NAVER_GROUPS | EN: $EN_GROUPS"
+
+# Verify flex ratios sum to ~1.0 per row
+grep -o 'flex: [0-9.]*' content/en/posts/$SLUG.md | awk -F': ' '{print $2}'
+# Manually verify: group values by row and confirm each row sums to ~1.0
+```
+
+### 6.2 Caption Count
+
+```bash
+echo "Captions — EN: $(grep -c '<figcaption' content/en/posts/$SLUG.md) | JA: $(grep -c '<figcaption' content/ja/posts/$SLUG.md) | ZH: $(grep -c '<figcaption' content/zh-cn/posts/$SLUG.md)"
+```
+
+### 6.3 Markdown Leak Check (must be 0)
+
+```bash
+for lang in en ja zh-cn; do
+  COUNT=$(grep -c '\*\*' content/$lang/posts/$SLUG.md 2>/dev/null || echo 0)
+  [ "$COUNT" -gt 0 ] && echo "❌ $lang: $COUNT markdown bold leaks" || echo "✅ $lang: clean"
+done
+```
+
+### 6.4 Front Matter Check
+
+```bash
+for lang in en ja zh-cn; do
+  HEAD=$(head -1 content/$lang/posts/$SLUG.md)
+  [ "$HEAD" = "---" ] && echo "✅ $lang: front matter OK" || echo "❌ $lang: missing --- on line 1"
+done
+```
+
+### 6.5 Link Count
+
+```bash
+NAVER_LINKS=$(grep -c 'blog.naver.com/tokyomate' naver.md)
+EN_LINKS=$(grep -cE '(/posts/|TODO: Update link)' content/en/posts/$SLUG.md)
+echo "Links — Naver: $NAVER_LINKS | EN converted+TODO: $EN_LINKS"
+```
+
+### 6.6 Structural Parity
+
+Compare EN, JA, ZH-CN side-by-side:
+- Paragraph counts match
+- Heading structures identical
+- Image positions identical
+- `👉` emoji is INSIDE `<a>` tags
+- Footer link icons match EN version
+
+### 6.7 Present Results
+
+**Report format:**
+```
+✅ Image Count: Naver [X] = EN [X] = JA [X] = ZH-CN [X]
+✅ Caption Count: EN [X] = JA [X] = ZH-CN [X]
+✅ Markdown Leaks: None
+✅ Front Matter: All OK
+✅ Links: Naver [X] → EN [X] converted+TODO
+```
+
+**Provide all preview links:**
+```
+EN:    http://localhost:1313/posts/[slug]/
+JA:    http://localhost:1313/ja/posts/[slug]/
+ZH-CN: http://localhost:1313/zh-cn/posts/[slug]/
+```
+
+### ⏸️ APPROVAL GATE 2 — Wait for user to review all languages
+
+- "OK", "완료" → proceed to Step 7
+- Feedback → make corrections, re-verify, re-present
 
 ---
 
-## References & Resources
+## Step 7: Finalization
 
-The following files are included in this skill for reference:
+After user confirms:
 
-*   **Guidelines**:
-    *   [MIGRATION_GUIDE.md](resources/MIGRATION_GUIDE.md): Complete workflow rules.
-    *   [CONTENT_GUIDELINES.md](resources/CONTENT_GUIDELINES.md): Formatting & SEO rules.
-*   **Examples**:
-    *   [Good Migration Example](examples/good_migration_example.md): A full reference implementation (`tokyo-christmas-markets-guide-2025`).
+### 7.1 Update LINK_MAPPING.md
+
+- Change status from `pending` to `✅`
+- Set date to today's date (YYYY-MM-DD)
+
+### 7.2 Commit
+
+```bash
+git add content/en/posts/[slug].md content/ja/posts/[slug].md content/zh-cn/posts/[slug].md static/images/posts/[slug]-* LINK_MAPPING.md
+git commit -m "feat: Add [slug] blog post (EN/JA/ZH-CN) with [N] images
+
+New Content:
+- Created [topic] guide in 3 languages
+- Added [N] images
+- All three language versions (EN/JA/ZH-CN)
+
+Link Updates:
+- Updated LINK_MAPPING.md (Status: ✅)
+- Converted [N] internal links
+
+Naver ID: [POST_ID]
+Slug: [slug]"
+```
+
+---
+
+## Common Errors
+
+### 1. Wrong front matter image field
+- ❌ `cover: image: "..."` → ✅ `featured_image: "/images/posts/[slug]-01.jpg"`
+
+### 2. Markdown syntax inside blog-container
+- ❌ `**bold**` → ✅ `<strong>bold</strong>`
+- ❌ `- item` → ✅ `<ul><li>item</li></ul>`
+- ❌ `[text](url)` → ✅ `<a href="url">text</a>`
+
+### 3. Missing or wrong Editor's Note
+- ❌ `> Editor's Note:` (blockquote) → ✅ Use `<div class="editors-note">` with exact format from Step 2.2
+- ❌ `<div class="editor-note">` → ✅ `<div class="editors-note">` (plural)
+
+### 4. Wrong figcaption style
+- ❌ `font-size: 0.85em` → ✅ `style="font-size: 0.7em; text-align: center;"`
+
+### 5. Adding content not in original
+- ❌ Adding section headers not in naver.md
+- ❌ Reorganizing content structure
+- ✅ Translate existing content exactly as structured
+
+### 6. Image numbering errors
+- ❌ Renumbering images after additions/deletions
+- ✅ Keep original numbers, only add with next available number
+
+### 7. Wrong TODO placeholder
+- ❌ `href="/posts/unknown/"` → ✅ `href="#"` with TODO comment including Naver URL and expected Hugo path
+
+### 8. Slug not checked against LINK_MAPPING.md
+- Always search LINK_MAPPING.md for the Naver ID FIRST before creating a new slug
+
+### 9. Chinese YAML special characters
+- ❌ `title: "东京「浪花家」攻略"` → ✅ `title: "东京浪花家攻略"`
+- Never use `「」`, `""`, or `''` in Chinese YAML front matter
+
+### 10. Mixed-language tags/categories
+- ❌ English tags on JA post → ✅ JA tags on JA post, ZH-CN tags on ZH-CN post
+
+### 11. Double headers
+- ❌ Two consecutive `##` headings → ✅ Single heading only
+
+### 12. `👉` emoji outside link
+- ❌ `👉 <a href="...">` → ✅ `<a href="...">👉 <strong>Title</strong></a>`
+
+### 13. HTML escaping
+- ❌ `\<div\>` with backslashes → ✅ `<div>` clean HTML
+
+### 14. Missing LINK_MAPPING.md registration
+- Always add Naver ID + slug with `pending` status BEFORE starting content generation
+
+---
+
+## Quick Reference
+
+### Verification Commands
+
+```bash
+SLUG="[slug]"
+
+# Image count comparison
+echo "Naver: $(grep -c 'se-image-resource' naver.md)"
+echo "EN: $(grep -c '<img' content/en/posts/$SLUG.md)"
+
+# Image group count
+echo "Naver groups: $(grep -c 'se-imageGroup-col-' naver.md)"
+echo "EN groups: $(grep -c 'display: flex' content/en/posts/$SLUG.md)"
+
+# Markdown leak check
+grep -c '\*\*' content/en/posts/$SLUG.md
+
+# Front matter check
+head -1 content/en/posts/$SLUG.md
+
+# Internal link scan
+grep -o 'blog.naver.com/tokyomate/[0-9]*' naver.md | sort -u
+```
+
+### SEO Limits
+
+| | EN | JA | ZH-CN |
+|---|---|---|---|
+| Title | 50-80 chars | 35-55 chars | 40-60 chars |
+| Description | 150-180 chars | 100-140 chars | 120-160 chars |
+| Tags | kebab-case | Japanese text | Chinese text |
+
+### Image Download
+
+```bash
+python3 download_naver_images.py "[slug]"
+# Dependencies: pip3 install requests pillow beautifulsoup4 lxml
+```
+
+---
+
+## References
+
+- [CONTENT_GUIDELINES.md](resources/CONTENT_GUIDELINES.md) — Formatting, SEO, tags, categories
+- [MIGRATION_GUIDE.md](resources/MIGRATION_GUIDE.md) — Full workflow, link mapping, scripts
+- [Good Example](examples/good_migration_example.md) — Reference implementation (`tokyo-christmas-markets-guide-2025`)

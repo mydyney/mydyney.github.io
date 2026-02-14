@@ -490,11 +490,11 @@ See `/LINK_MAPPING.md` for complete tracking database.
 - ✅ **Smart Download:** Only downloads if validation passes (saves time/bandwidth)
 - ✅ **Format Conversion:** Converts all images to JPG with optimization
 - ✅ **Sequential Numbering:** 01.jpg, 02.jpg, 03.jpg... (1:1 matching with Naver HTML order)
-- ✅ **CSS Grid Support:** Detects images inside `.image-group-2/3/4` divs correctly
+- ✅ **Flexible Container Support:** Detects images inside any container (inline flex divs or `.image-group-2/3/4` CSS classes)
 
 **Regex Pattern for Hugo Markdown:**
 ```python
-# Extracts ALL <figure> tags (standalone and inside image-group divs)
+# Extracts ALL <figure> tags (standalone and inside flex/image-group containers)
 figure_pattern = re.compile(
     r'<figure[^>]*>\s*<img src="(/images/posts/[^"]+)"\s+alt="([^"]*)"[^>]*>',
     re.DOTALL
@@ -504,9 +504,9 @@ figure_pattern = re.compile(
 **Pattern Features:**
 - `<figure[^>]*>` - Matches `<figure>` tag with any attributes
 - `[^>]*` after `<img>` - Allows additional attributes on img tag
-- **Does NOT require closing `</figure>`** - This allows matching figures inside `.image-group-N` divs where figcaption is outside individual figures
+- **Does NOT require closing `</figure>`** - This allows matching figures inside inline flex or `.image-group-N` containers where figcaption is outside individual figures
 - `re.DOTALL` - Allows `.` to match newlines (multi-line patterns)
-- **Works with CSS Grid layouts** - Detects all figures regardless of container structure
+- **Works with any container** - Detects all `<figure>` tags regardless of container (inline flex or CSS classes)
 
 **Usage:**
 ```bash

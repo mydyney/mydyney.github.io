@@ -675,69 +675,72 @@ Final line wrapping up intro.</p>
 </figure>
 ```
 
-**Grouped Images (2, 3, or 4 images side-by-side):**
+**Grouped Images (2, 3, or 4+ images side-by-side):**
 
-When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use HTML containers with CSS Grid layout. **Do NOT use Markdown for these.**
+When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use **inline flex styles** to preserve the original image ratios from the Naver source. **Do NOT use Markdown for these.**
+
+**How to determine ratios:**
+1. Find the group in `naver.md` (look for `se-imageGroup-col-N`)
+2. Extract each image's `width:XX%` value
+3. Convert to flex decimal (e.g., `width:51.77%` → `flex: 0.518`)
+4. Verify ratios in each row sum to ~1.0
 
 ```html
-<!-- 2 images side-by-side -->
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/post-slug-10.jpg" alt="First image">
+<!-- 2 images side-by-side (extract exact ratios from naver.md) -->
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.518;">
+    <img src="/images/posts/post-slug-10.jpg" alt="First image" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figure>
-    <img src="/images/posts/post-slug-11.jpg" alt="Second image">
+  <figure style="margin: 0; flex: 0.482;">
+    <img src="/images/posts/post-slug-11.jpg" alt="Second image" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Caption for both images</figcaption>
 </div>
+<figcaption style="font-size: 0.7em; text-align: center;">Caption for both images</figcaption>
 
 <!-- 3 images side-by-side -->
-<div class="image-group-3">
-  <figure>
-    <img src="/images/posts/post-slug-12.jpg" alt="First image">
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.333;">
+    <img src="/images/posts/post-slug-12.jpg" alt="First image" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figure>
-    <img src="/images/posts/post-slug-13.jpg" alt="Second image">
+  <figure style="margin: 0; flex: 0.333;">
+    <img src="/images/posts/post-slug-13.jpg" alt="Second image" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figure>
-    <img src="/images/posts/post-slug-14.jpg" alt="Third image">
+  <figure style="margin: 0; flex: 0.334;">
+    <img src="/images/posts/post-slug-14.jpg" alt="Third image" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Caption for all three images</figcaption>
 </div>
+<figcaption style="font-size: 0.7em; text-align: center;">Caption for all three images</figcaption>
 
-<!-- 4 images in 2x2 tile layout -->
-<div class="image-group-4">
-  <figure>
-    <img src="/images/posts/post-slug-15.jpg" alt="...">
+<!-- 4+ images: use multiple flex rows (one row per N columns) -->
+<!-- Row 1 -->
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="/images/posts/post-slug-15.jpg" alt="..." style="width: 100%; height: auto; display: block;">
   </figure>
-  <figure>
-    <img src="/images/posts/post-slug-16.jpg" alt="...">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="/images/posts/post-slug-16.jpg" alt="..." style="width: 100%; height: auto; display: block;">
   </figure>
-  <figure>
-    <img src="/images/posts/post-slug-17.jpg" alt="...">
-  </figure>
-  <figure>
-    <img src="/images/posts/post-slug-18.jpg" alt="...">
-  </figure>
-  <figcaption style="font-size: 0.85em; text-align: center;">Caption for all four images</figcaption>
 </div>
+<!-- Row 2 -->
+<div style="display: flex; gap: 10px; margin: 0 0 20px 0;">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="/images/posts/post-slug-17.jpg" alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="/images/posts/post-slug-18.jpg" alt="..." style="width: 100%; height: auto; display: block;">
+  </figure>
+</div>
+<figcaption style="font-size: 0.7em; text-align: center;">Caption for all four images</figcaption>
 ```
 
 **Important Notes:**
 - ✅ Every image, whether single or in a group, MUST be in its own `<figure>` tag.
-- ✅ All figcaptions MUST use inline style: `style="font-size: 0.85em; text-align: center;"`
-- ✅ For image groups, the figcaption goes OUTSIDE the individual `<figure>` tags but inside the `image-group-X` div.
-- ✅ CSS Grid layout (predefined in CSS):
-  - **2 images**: Side-by-side
-  - **3 images**: Three in a row
-  - **4 images**: 2x2 tile layout
-- ✅ Mobile: All groups automatically switch to an appropriate responsive layout.
-
-**Aesthetic Standards for Image Groups (Perfect Fit):**
-- **Grid Alignment:** All images in an `image-group-X` must align perfectly along their edges.
-- **Aspect Ratio:** All figures within a group share a uniform aspect ratio (enforced via CSS) to ensure even row heights (Square `1/1` for 2/4/9 groups, `4/3` for 3-groups).
-- **Filling the Cell:** Always use `object-fit: cover` and `height: 100%` on images within groups to ensure they completely fill the grid cell without leaving white space or gaps.
-- **Handling Mixed Dimensions:** When landscape and portrait images are mixed in a group, they MUST be cropped to the shared aspect ratio of the grid row to maintain alignment. This is handled by the `image-group-X` CSS.
+- ✅ All figcaptions MUST use inline style: `style="font-size: 0.7em; text-align: center;"`
+- ✅ For image groups, the `figcaption` goes OUTSIDE the flex `<div>`, not inside.
+- ✅ For multi-row groups (4+ images), use one flex `<div>` per row.
+- ✅ Multi-row margin pattern: first row `margin: 20px 0`, middle rows `margin: 0`, last row `margin: 0 0 20px 0`.
+- ❌ NEVER estimate ratios — always extract exact values from `naver.md`.
+- ❌ Do NOT use CSS classes (`image-group-2/3/4`) for Naver migrations — use inline flex for ratio preservation.
 
 **Google Maps Link (Location Information):**
 
@@ -804,16 +807,16 @@ All blog posts share common styles through `/static/css/blog-post-common.css`.
 .tip-box               /* Yellow tip/warning box */
 blockquote             /* Blue left-border quotations */
 
-/* Image Group Layout (CSS Grid) */
-.image-group-2         /* 2 images side-by-side (45% max-width) */
-.image-group-3         /* 3 images in a row (45% max-width) */
-.image-group-4         /* 4 images in 2x2 tile (50% max-width) */
+/* Image Group Layout — use inline flex for Naver migrations        */
+/* .image-group-2/3/4 CSS classes exist but inline flex is preferred */
+/* to preserve original Naver image ratios (see SKILL.md Step 2.3)  */
 ```
 
-**CSS Grid Image Groups:**
-- Uses CSS Grid for flexible layout on desktop
-- Automatically switches to single column on mobile (< 768px)
-- Compact sizing for better visual balance:
+**Image Groups for Naver Migrations:**
+- Use inline flex styles (NOT CSS classes) to preserve original Naver ratios
+- Extract exact `width:XX%` values from `naver.md` and convert to `flex` decimals
+- For multi-row groups (4+ images), use one flex `<div>` per row
+- See **SKILL.md Step 2.3** for complete examples and rules
   - **2 images**: Side-by-side, 45% max-width
   - **3 images**: Three in a row, 45% max-width
   - **4 images**: 2x2 tile layout (top 2, bottom 2), 50% max-width
@@ -856,16 +859,16 @@ Complete information at a glance.</p>
   <figcaption style="font-size: 0.7em; text-align: center;">Image description</figcaption>
 </figure>
 
-<!-- Example of grouped images (2 side-by-side) -->
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/tokyo-guide-04.jpg" alt="First image">
+<!-- Example of grouped images (2 side-by-side with inline flex) -->
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="/images/posts/tokyo-guide-04.jpg" alt="First image" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figure>
-    <img src="/images/posts/tokyo-guide-05.jpg" alt="Second image">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="/images/posts/tokyo-guide-05.jpg" alt="Second image" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">Caption for both images</figcaption>
 </div>
+<figcaption style="font-size: 0.7em; text-align: center;">Caption for both images</figcaption>
 
 <div class="info-box">
   <ul>
@@ -895,7 +898,7 @@ Complete information at a glance.</p>
 - ❌ DO NOT add inline `<style>` blocks in posts (except for figcaption styling)
 - ✅ Wrap content in `<div class="blog-container">` for consistent styling
 - ✅ ALL figcaptions MUST have inline style: `style="font-size: 0.7em; text-align: center;"`
-- ✅ Use `.image-group-2/3/4` classes for side-by-side image layouts
+- ✅ Use inline flex styles for side-by-side image layouts (preserves original Naver ratios)
 - 🎨 CSS is automatically loaded via `layouts/partials/head-additions.html`
 
 **CSS Files:**

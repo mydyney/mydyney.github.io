@@ -309,15 +309,15 @@ Before the market opens, we recommend experiencing fantastic media art at Azabud
 <!-- Link updated -->
 <a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills Observatory Cafe Sky Room: Sunset & Night Views</strong></a>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/tokyo-christmas-markets-guide-2025-14.jpg" alt="Fantastic interior of teamLab Borderless at Azabudai Hills">
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.518;">
+    <img src="/images/posts/tokyo-christmas-markets-guide-2025-14.jpg" alt="Fantastic interior of teamLab Borderless at Azabudai Hills" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figure>
-    <img src="/images/posts/tokyo-christmas-markets-guide-2025-15.jpg" alt="Tokyo Tower during magic hour">
+  <figure style="margin: 0; flex: 0.482;">
+    <img src="/images/posts/tokyo-christmas-markets-guide-2025-15.jpg" alt="Tokyo Tower during magic hour" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">teamLab Borderless at Azabudai Hills (left) and Tokyo Tower during magic hour (right), great for daytime visits</figcaption>
 </div>
+<figcaption style="font-size: 0.7em; text-align: center;">teamLab Borderless at Azabudai Hills (left) and Tokyo Tower during magic hour (right), great for daytime visits</figcaption>
 
 ---
 
@@ -459,15 +459,15 @@ This year's 'Tokyo Christmas Market' is held at two locations.
 - For fantasy and <strong>brilliant festival</strong> vibes → <strong>✅'Jingu Gaien'</strong>
 - For Tokyo Tower night views and warm <strong>authentic German atmosphere</strong> → <strong>✅'Shiba Park'</strong>
 
-<div class="image-group-2">
-  <figure>
-    <img src="/images/posts/tokyo-christmas-markets-guide-2025-23.jpg" alt="German-style wooden nutcracker at Tokyo Christmas Market">
+<div style="display: flex; gap: 10px; margin: 20px 0;">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="/images/posts/tokyo-christmas-markets-guide-2025-23.jpg" alt="German-style wooden nutcracker at Tokyo Christmas Market" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figure>
-    <img src="/images/posts/tokyo-christmas-markets-guide-2025-24.jpg" alt="German-style wooden figurines">
+  <figure style="margin: 0; flex: 0.5;">
+    <img src="/images/posts/tokyo-christmas-markets-guide-2025-24.jpg" alt="German-style wooden figurines" style="width: 100%; height: auto; display: block;">
   </figure>
-  <figcaption style="font-size: 0.7em; text-align: center;">Tokyo Christmas Market souvenirs: German-style wooden figurines</figcaption>
 </div>
+<figcaption style="font-size: 0.7em; text-align: center;">Tokyo Christmas Market souvenirs: German-style wooden figurines</figcaption>
 
 <strong>☀️ What to Do During the Day?</strong>
 Before the market opens, we recommend visiting the massive temple <strong>'Zojoji (増上寺)'</strong> right next door to enjoy the special scenery of the traditional temple harmonizing with Tokyo Tower. If you have time, consider going up <strong>'Tokyo Tower'</strong> itself to enjoy Tokyo's panoramic view, then coming down to the market in the evening—a perfect day course.
