@@ -161,7 +161,7 @@ When migrating a Naver blog post to Hugo:
 | 224024819592 | asakusa-complete-guide | 2025-09-28 | ✅ |
 | 224024530348 | roppongi-art-night-guide | - | pending |
 | 224022065518 | don-quijote-shopping-guide-2025 | 2025-09-26 | ✅ |
-| 224010770861 | ginza-hachigo-reservation-guide | - | pending |
+| 224010770861 | ginza-hachigo-reservation-guide | 2025-09-16 | ✅ |
 | 224010546735 | japanese-whisky-yamazaki-hibiki-price-guide | 2025-09-16 | ✅ |
 | 224008430188 | ginza-lotte-duty-free-whisky-guide | - | pending |
 | 224007949043 | narita-airport-arrival-guide | 2025-09-14 | ✅ |
@@ -251,7 +251,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
 | 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
-| 224010770861 | ginza-hachigo-reservation-guide | Ginza Hachigo Reservation & Waiting Guide |
+| 224010770861 | ginza-hachigo-reservation-guide | Ginza Hachigo: Michelin Bib Gourmand Ramen | Reservation & Waiting Guide |
 | 224010546735 | shinanoya-roppongi-hills-supermarket, roppongi-attractions-guide | Japanese Whisky Recommendations and Price Guide |
 | 224008430188 | ginza-lotte-duty-free-whisky-guide | Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Free Tasting) |
 | 224007665631 | asakusa-complete-guide | Narita Airport to Asakusa Subway Guide |
