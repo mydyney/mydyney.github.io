@@ -228,10 +228,7 @@ In the next article, we'll introduce **<Fail-Proof Tokyo Cherry Blossom Spots BE
 
 ## 🧡 Related Cherry Blossom Travel Guides
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224148214290
-     Hugo: /posts/tokyo-travel-preparation-guide/ -->
-👉 **<a href="#" style="color: #667eea;">Tokyo Free Travel Preparation A to Z | Beginner's Checklist for Flights, Entry, Accommodation, Transportation & Apps</a>**
+👉 **<a href="/posts/tokyo-travel-preparation-guide/" style="color: #667eea;">Tokyo Free Travel Preparation A to Z | Beginner's Checklist for Flights, Entry, Accommodation, Transportation & Apps</a>**
 
 👉 **[Tokyo 3-Night 4-Day Itinerary | Complete Landmark & Must-Visit Spots Without Disney]({{< ref "/posts/tokyo-3-day-itinerary-landmark-series" >}})**
 

@@ -229,7 +229,7 @@ A. 有，新宿御苑在樱花季周末很可能实行预约制。
 ## 🧡 相关樱花旅行指南
 
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224148214290
+     Naver: /zh-cn/posts/tokyo-travel-preparation-guide/
      Hugo: /posts/tokyo-travel-preparation-guide/ -->
 👉 **<a href="#" style="color: #667eea;">东京自由行准备A to Z｜新手航班·入境·住宿·交通·APP清单</a>**
 
