@@ -122,7 +122,7 @@ And cherry blossom trees is healing in itself.</p>
 <p>The first store in Tokyo featuring a fluffy and soft texture like its nickname "Raw Donut". It is a popular donut shop with always long lines.</p>
 
 <p>⭐ If you are curious about waiting tips and menu, check out the post below!</p>
-<p>➡️ <a href="https://blog.naver.com/tokyomate/223911732881" target="_blank"><strong>I'm donut? From Nakameguro to Seongsu, Everything about the donut people line up for</strong></a></p>
+<p>➡️ <a href="/posts/im-donut-nakameguro-seongsu-guide/" style="color: #667eea;"><strong>I'm donut? Tokyo & Seoul Guide: From Nakameguro to Seongsu</strong></a></p>
 
 <figure>
   <img src="/images/posts/nakameguro-complete-guide-06.jpg" alt="I'm donut? Nakameguro Branch">

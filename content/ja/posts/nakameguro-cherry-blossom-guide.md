@@ -264,7 +264,7 @@ translationKey: "nakameguro-cherry-blossom-guide"
 
 <p><strong>3. 桜シーズンでも行列が絶えない中目黒の名物ドーナツ</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223911732881
+     Naver: /ja/posts/im-donut-nakameguro-seongsu-guide/
      Hugo: /ja/posts/im-donut-nakameguro-review/ -->
 <p><a href="#" style="color: #667eea;"><strong>👉 アイムドーナツ中目黒：待ち時間＆正直レビュー</strong></a></p>
 

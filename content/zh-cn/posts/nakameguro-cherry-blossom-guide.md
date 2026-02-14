@@ -264,7 +264,7 @@ translationKey: "nakameguro-cherry-blossom-guide"
 
 <p><strong>3. 樱花季也要排队的中目黑网红甜甜圈</strong></p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223911732881
+     Naver: /zh-cn/posts/im-donut-nakameguro-seongsu-guide/
      Hugo: /zh-cn/posts/im-donut-nakameguro-review/ -->
 <p><a href="#" style="color: #667eea;"><strong>👉 I'm Donut中目黑: 排队时间与真实测评</strong></a></p>
 

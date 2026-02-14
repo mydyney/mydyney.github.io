@@ -121,7 +121,7 @@ draft: false
 <p>「生ドーナツ」という愛称のように、ふわふわで柔らかい食感が特徴の東京初店舗。常に行列が絶えない人気のドーナツ店です。</p>
 
 <p>⭐ 待ち時間のコツやメニューが気になる方は、以下の記事をチェック！</p>
-<p>➡️ <a href="https://blog.naver.com/tokyomate/223911732881" target="_blank"><strong>I'm donut? 中目黒から聖水まで、行列のできるドーナツのすべて</strong></a></p>
+<p>➡️ <a href="/ja/posts/im-donut-nakameguro-seongsu-guide/" target="_blank"><strong>I'm donut? 中目黒から聖水まで、行列のできるドーナツのすべて</strong></a></p>
 
 <figure>
   <img src="/images/posts/nakameguro-complete-guide-06.jpg" alt="I'm donut? 中目黒店">

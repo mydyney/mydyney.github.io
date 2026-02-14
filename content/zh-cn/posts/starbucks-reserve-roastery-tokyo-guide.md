@@ -357,7 +357,7 @@ translationKey: "starbucks-reserve-roastery-tokyo-guide"
 
 <p>🍩 甜品巡礼的完美收尾——排队也要吃的网红甜甜圈</p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223911732881
+     Naver: /zh-cn/posts/im-donut-nakameguro-seongsu-guide/
      Hugo: /zh-cn/posts/im-donut-nakameguro-guide/ -->
 <p><a href="#" style="color: #667eea; text-decoration: underline;">👉 <strong>从中目黑到圣水，排队也要吃的甜甜圈全攻略</strong></a></p>
 

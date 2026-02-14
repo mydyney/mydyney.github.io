@@ -356,10 +356,7 @@ translationKey: "starbucks-reserve-roastery-tokyo-guide"
 <p><a href="/posts/nakameguro-complete-guide/" style="color: #667eea; text-decoration: underline;">👉 <strong>Nakameguro Must-Visits — From Boutiques & Select Shops to Restaurants and Cafes</strong></a></p>
 
 <p>🍩 The ultimate dessert stop — the famous I'm donut?</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223911732881
-     Hugo: /posts/im-donut-nakameguro-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;">👉 <strong>Everything About the Must-Try Donuts from Nakameguro to Seongsu</strong></a></p>
+<p><a href="/posts/im-donut-nakameguro-seongsu-guide/" style="color: #667eea; text-decoration: underline;">👉 <strong>I'm donut? Tokyo & Seoul Guide: From Nakameguro to Seongsu</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

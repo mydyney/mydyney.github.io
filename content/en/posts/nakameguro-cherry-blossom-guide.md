@@ -263,19 +263,13 @@ translationKey: "nakameguro-cherry-blossom-guide"
 <p><a href="/posts/nakameguro-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Nakameguro Complete Guide: Boutiques, Cafes & Walking Course</strong></a></p>
 
 <p><strong>3. Famous donuts worth lining up for during sakura season</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223911732881
-     Hugo: /posts/im-donut-nakameguro-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 I'm Donut Nakameguro: Wait Times & Honest Review</strong></a></p>
+<p><a href="/posts/im-donut-nakameguro-seongsu-guide/" style="color: #667eea;"><strong>👉 I'm donut? Tokyo & Seoul Guide: From Nakameguro to Seongsu</strong></a></p>
 
 <p><strong>4. Solo shabu-shabu near the cherry blossom hot spots</strong></p>
 <p><a href="/posts/nakameguro-shabushabu-lettuce-main-store/" style="color: #667eea; text-decoration: underline;"><strong>👉 Nakameguro Shabu-Shabu Lettuce: Reservations & How to Order</strong></a></p>
 
 <p><strong>5. The ultimate post-hanami retreat</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224177943474
-     Hugo: /posts/starbucks-reserve-roastery-tokyo-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Starbucks Reserve Roastery Tokyo: Terrace Seats & Tips Guide</strong></a></p>
+<p><a href="/posts/starbucks-reserve-roastery-tokyo-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Starbucks Reserve Roastery Tokyo | Advance Booking & Waiting Tips Guide</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

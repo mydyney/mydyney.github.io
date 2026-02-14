@@ -357,7 +357,7 @@ translationKey: "starbucks-reserve-roastery-tokyo-guide"
 
 <p>🍩 スイーツ巡りの締めに、行列のできるドーナツの名店</p>
 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223911732881
+     Naver: /ja/posts/im-donut-nakameguro-seongsu-guide/
      Hugo: /ja/posts/im-donut-nakameguro-guide/ -->
 <p><a href="#" style="color: #667eea; text-decoration: underline;">👉 <strong>中目黒から聖水まで、行列のできるドーナツのすべて</strong></a></p>
 

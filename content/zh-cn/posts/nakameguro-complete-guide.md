@@ -121,7 +121,7 @@ draft: false
 <p>东京第一家展现出像其昵称“生甜甜圈”一样蓬松柔软口感的店铺。这是一家总是排长队的人气甜甜圈店。</p>
 
 <p>⭐ 如果您对等待技巧和菜单感到好奇，请查看下面的文章！</p>
-<p>➡️ <a href="https://blog.naver.com/tokyomate/223911732881" target="_blank"><strong>I'm donut? 从中目黑到圣水，关于人们排队的甜甜圈的一切</strong></a></p>
+<p>➡️ <a href="/zh-cn/posts/im-donut-nakameguro-seongsu-guide/" target="_blank"><strong>I'm donut? 从中目黑到圣水，关于人们排队的甜甜圈的一切</strong></a></p>
 
 <figure>
   <img src="/images/posts/nakameguro-complete-guide-06.jpg" alt="I'm donut? 中目黑店">
