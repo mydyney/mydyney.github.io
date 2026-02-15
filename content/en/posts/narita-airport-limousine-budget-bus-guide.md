@@ -15,13 +15,6 @@ translationKey: "narita-airport-limousine-budget-bus-guide"
 
 <p>This guide covers everything you need to know about the <strong>Narita Airport Limousine Bus</strong> and <strong>budget express buses</strong> to get you into central Tokyo. From <strong>online discount booking tips</strong> to routes serving <strong>Shinjuku, Tokyo Station, and Tokyo Disneyland</strong>, plus exact boarding locations at each terminal — master all your Narita bus options in one read.</p>
 
-<p><strong>⚠️ Before you fly: Have you registered on Visit Japan Web?</strong></p>
-
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223998533494
-     Hugo: /posts/visit-japan-web-registration-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ Complete Visit Japan Web Registration in 5 Minutes (Family Registration & QR Code Guide)</strong></a></p>
-
 <figure>
   <img src="/images/posts/narita-airport-limousine-budget-bus-guide-01.jpg" alt="Narita Airport limousine bus and budget express bus guide infographic">
 </figure>

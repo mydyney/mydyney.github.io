@@ -15,13 +15,6 @@ translationKey: "narita-airport-limousine-budget-bus-guide"
 
 <p>这篇攻略为你全面整理了<strong>成田机场利木津巴士</strong>和<strong>低价高速大巴</strong>的所有信息。从<strong>在线折扣预订技巧</strong>到前往<strong>新宿、东京站、迪士尼乐园</strong>等主要目的地的路线和乘车地点，一篇搞定成田机场巴士的一切！</p>
 
-<p><strong>⚠️ 出发前必看：Visit Japan Web注册了吗？</strong></p>
-
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223998533494
-     Hugo: /zh-cn/posts/visit-japan-web-registration-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ 5分钟搞定Visit Japan Web注册（家庭注册和二维码指南）</strong></a></p>
-
 <figure>
   <img src="/images/posts/narita-airport-limousine-budget-bus-guide-01.jpg" alt="成田机场利木津巴士和低价大巴攻略">
 </figure>
