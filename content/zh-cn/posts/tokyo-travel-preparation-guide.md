@@ -151,10 +151,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 ### 从东京机场到市区
 
 👉 <strong>[成田机场到达指南：成田特快、Skyliner、利木津对比](/posts/narita-airport-arrival-guide/)</strong>  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223995074888
-     Hugo: /zh-cn/posts/haneda-airport-arrival-guide/ -->
-<a href="#" style="color: #667eea;">羽田机场到达指南：Suica购买、ATM、到市区</a>
+👉 <strong>[羽田机场到达指南：Suica购买、ATM、到市区](/zh-cn/posts/haneda-airport-arrival-guide/)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-03.jpg" alt="飞往东京的航班景色 | 富士山">

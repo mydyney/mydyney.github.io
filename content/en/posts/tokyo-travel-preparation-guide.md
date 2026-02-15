@@ -151,10 +151,7 @@ When searching flight apps (Skyscanner, Naver Flights), set your destination to 
 ### Getting from Tokyo Airports to the City
 
 👉 <strong>[Narita Airport Arrival Guide: Narita Express, Skyliner, Limousine Comparison](/posts/narita-airport-arrival-guide/)</strong>  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223995074888
-     Hugo: /posts/haneda-airport-arrival-guide/ -->
-<a href="#" style="color: #667eea;">Haneda Airport Arrival Guide: Suica Purchase, ATM, Getting to City</a>
+👉 <strong>[Haneda Airport Arrival Guide: Suica Purchase, ATM, Getting to City](/posts/haneda-airport-arrival-guide/)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-03.jpg" alt="Tokyo-bound flight view | Mt. Fuji">

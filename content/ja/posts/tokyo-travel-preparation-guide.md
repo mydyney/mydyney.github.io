@@ -152,10 +152,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 ### 東京空港から都心へのアクセス
 
 👉 <strong>[成田空港到着ガイド：成田エクスプレス、スカイライナー、リムジン比較](/posts/narita-airport-arrival-guide/)</strong>  
-👉 <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223995074888
-     Hugo: /ja/posts/haneda-airport-arrival-guide/ -->
-<a href="#" style="color: #667eea;">羽田空港到着ガイド：Suica購入、ATM、都心へのアクセス</a>
+👉 <strong>[羽田空港到着ガイド：Suica購入、ATM、都心へのアクセス](/ja/posts/haneda-airport-arrival-guide/)</strong>
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-03.jpg" alt="東京行きフライトの景色 | 富士山">
