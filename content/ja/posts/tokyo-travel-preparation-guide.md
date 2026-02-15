@@ -191,10 +191,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 - <strong>おすすめ：</strong> 両親旅行、カップル、ショッピング愛好家
 - <strong>空港アクセス：</strong> 1,500円格安エクスプレスバス
 
-<strong>👉</strong> <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /ja/posts/narita-airport-budget-express-bus/ -->
-<a href="#" style="color: #667eea;">成田空港格安エクスプレスバス完全ガイド（予約、料金、時刻表、乗り場）</a>  
+<strong>👉 <a href="/ja/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;">成田空港リムジンバス＆格安バス完全ガイド：料金・時刻表・乗り場まとめ</a></strong>
 <strong>👉 [銀座必訪スポット | 失敗しないおすすめルート完全ガイド](/posts/ginza-guide-2025/)</strong>
 
 ---

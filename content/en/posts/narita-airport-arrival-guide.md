@@ -165,9 +165,7 @@ we've summarized it all in this perfect guide.</p>
   <li><strong>Recommended for:</strong> Family travelers, those staying at hotels with limousine bus stops.</li>
 </ul>
 
-<p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /posts/narita-airport-limousine-guide/ --><strong><a href="#">[Details] Narita Airport Limousine & Budget Bus Comparison</a></strong></p>
+<p style="text-align: left;"><a href="/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;"><strong>➡️ [Details] Narita Airport Limousine & Budget Bus Guide</strong></a></p>
 
 <p><strong>✅ 5. 1,500 Yen Bus (Low-Cost Express Bus)</strong></p>
 <ul>
@@ -176,9 +174,7 @@ we've summarized it all in this perfect guide.</p>
   <li><strong>Recommended for:</strong> Those whose top priority is saving on transportation costs.</li>
 </ul>
 
-<p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /posts/narita-airport-limousine-guide/ --><strong><a href="#">[Details] Narita Airport Limousine & Budget Bus Comparison</a></strong></p>
+<p style="text-align: left;"><a href="/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;"><strong>➡️ [Details] Narita Airport Limousine & Budget Bus Guide</strong></a></p>
 
 <p><strong>📌 Heading to Shinjuku from Narita Airport?</strong></p>
 <p>If you're heading specifically to Shinjuku, be sure to check out the <strong>'Shinjuku In-depth Guide'</strong> below, which compares price, time, and convenience specifically for the NEX and Limousine bus routes!</p>

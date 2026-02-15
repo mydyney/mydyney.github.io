@@ -167,7 +167,9 @@ When migrating a Naver blog post to Hugo:
 | 224010546735 | japanese-whisky-yamazaki-hibiki-price-guide | 2025-09-16 | ✅ |
 | 224008430188 | ginza-lotte-duty-free-whisky-guide | - | pending |
 | 224007949043 | narita-airport-arrival-guide | 2025-09-14 | ✅ |
+| 224004709356 | narita-airport-limousine-budget-bus-guide | 2026-02-15 | ✅ |
 | 224003374650 | narita-airport-skyliner-guide | 2025-12-29 | ✅ |
+| 223998533494 | visit-japan-web-registration-guide | - | pending |
 | 223995074888 | haneda-airport-arrival-guide | 2026-02-15 | ✅ |
 | 223992588094 | tokyo-september-festivals-2025 | 2025-09-02 | ✅ |
 | 223989943826 | ginza-guide-2025 | 2025-01-06 | ✅ |

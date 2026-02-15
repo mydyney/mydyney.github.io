@@ -213,10 +213,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 - <strong>推荐：</strong> 父母游、情侣、购物爱好者
 - <strong>机场交通：</strong> 1,500日元经济快线巴士
 
-<strong>👉</strong> <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /zh-cn/posts/narita-airport-budget-express-bus/ -->
-<a href="#" style="color: #667eea;">成田机场经济快线巴士完全攻略（预订、价格、时刻表、乘车点）</a>  
+<strong>👉 <a href="/zh-cn/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;">成田机场利木津巴士和低价大巴完全攻略：价格、时刻表和乘车地点</a></strong>
 <strong>👉 [银座必去景点 | 不会错的推荐路线完全攻略](/posts/ginza-guide-2025/)</strong>
 
 ---

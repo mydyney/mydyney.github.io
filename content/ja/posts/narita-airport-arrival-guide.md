@@ -163,9 +163,7 @@ ATMの場所や交通手段の比較まで、<br>
   <li><strong>こんな方に：</strong>ご家族連れ、リムジンバスの停留所があるホテルに宿泊する方。</li>
 </ul>
 
-<p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /ja/posts/narita-airport-limousine-guide/ --><strong><a href="#">【詳細】成田空港リムジン＆格安バス比較まとめ</a></strong></p>
+<p style="text-align: left;"><a href="/ja/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;"><strong>➡️ 【詳細】成田空港リムジン＆格安バス完全ガイド</strong></a></p>
 
 <p><strong>✅ 5. 1,500円バス (格安高速バス)</strong></p>
 <ul>
@@ -174,9 +172,7 @@ ATMの場所や交通手段の比較まで、<br>
   <li><strong>こんな方に：</strong>交通費を安く抑えたい方。</li>
 </ul>
 
-<p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /ja/posts/narita-airport-limousine-guide/ --><strong><a href="#">【詳細】成田空港リムジン＆格安バス比較まとめ</a></strong></p>
+<p style="text-align: left;"><a href="/ja/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;"><strong>➡️ 【詳細】成田空港リムジン＆格安バス完全ガイド</strong></a></p>
 
 <p><strong>📌 成田空港から新宿へ向かわれる方は？</strong></p>
 <p>新宿へ行かれる方は、N'EXとリムジンバスの料金・時間・利便性を徹底比較した以下のガイドもチェックしてみてください。</p>

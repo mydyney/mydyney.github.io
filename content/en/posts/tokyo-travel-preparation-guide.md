@@ -213,10 +213,7 @@ Tokyo hotels prioritize <strong>transportation convenience</strong> over "stayca
 - <strong>Recommended:</strong> Parents' trips, couples, shopping enthusiasts
 - <strong>Airport access:</strong> 1,500 yen budget express bus
 
-<strong>👉</strong> <!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /posts/narita-airport-budget-express-bus/ -->
-<a href="#" style="color: #667eea;">Narita Airport Budget Express Bus Complete Guide (Reservation, Prices, Timetable, Boarding Location)</a>  
+<strong>👉 <a href="/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;">Narita Airport Limousine & Budget Bus Guide: Prices, Timetables & Boarding Locations</a></strong>
 <strong>👉 [Ginza Must-Visit Places | Fail-Proof Recommended Route Complete Guide](/posts/ginza-guide-2025/)</strong>
 
 ---

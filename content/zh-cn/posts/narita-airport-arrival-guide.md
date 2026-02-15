@@ -163,9 +163,7 @@ featured_image: "/images/posts/narita-airport-arrival-guide-01.jpg"
   <li><strong>适用人群：</strong>家庭游客，或入住有利木津巴士站点酒店的客人。</li>
 </ul>
 
-<p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /zh-cn/posts/narita-airport-limousine-guide/ --><strong><a href="#">【详情】成田机场利木津巴士与廉价巴士对比全攻略</a></strong></p>
+<p style="text-align: left;"><a href="/zh-cn/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;"><strong>➡️ 【详情】成田机场利木津巴士与低价大巴完全攻略</strong></a></p>
 
 <p><strong>✅ 5. 1500日元巴士 (低价高速巴士)</strong></p>
 <ul>
@@ -174,9 +172,7 @@ featured_image: "/images/posts/narita-airport-arrival-guide-01.jpg"
   <li><strong>适用人群：</strong>优先考虑节省交通费用的游客。</li>
 </ul>
 
-<p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224004709356
-     Hugo: /zh-cn/posts/narita-airport-limousine-guide/ --><strong><a href="#">【详情】成田机场利木津巴士与廉价巴士对比全攻略</a></strong></p>
+<p style="text-align: left;"><a href="/zh-cn/posts/narita-airport-limousine-budget-bus-guide/" style="color: #667eea;"><strong>➡️ 【详情】成田机场利木津巴士与低价大巴完全攻略</strong></a></p>
 
 <p><strong>📌 如果您从成田机场前往新宿？</strong></p>
 <p>针对前往新宿的乘客，请参考下方针对N'EX与利木津巴士在价格、时间、便利性方面的深度对比！</p>
