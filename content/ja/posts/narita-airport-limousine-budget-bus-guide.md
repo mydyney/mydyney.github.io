@@ -15,13 +15,6 @@ translationKey: "narita-airport-limousine-budget-bus-guide"
 
 <p>東京旅行の始まりと終わりを快適にしてくれる<strong>成田空港リムジンバス</strong>と<strong>格安高速バス</strong>の情報を総まとめしました。<strong>オンライン割引予約のコツ</strong>から、<strong>新宿・東京駅・ディズニーランド</strong>など主要目的地別の路線、乗り場まで。この記事ひとつで成田空港バスのすべてがわかります！</p>
 
-<p><strong>⚠️ 日本入国前の必須準備、Visit Japan Webの登録はお済みですか？</strong></p>
-
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223998533494
-     Hugo: /ja/posts/visit-japan-web-registration-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ Visit Japan Web登録を5分で完了（家族登録＆QRコード最新版）</strong></a></p>
-
 <figure>
   <img src="/images/posts/narita-airport-limousine-budget-bus-guide-01.jpg" alt="成田空港リムジンバス＆格安バスガイド">
 </figure>
