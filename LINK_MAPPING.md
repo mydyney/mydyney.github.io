@@ -19,6 +19,8 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224181904705 | new-york-perfect-cheese-cookie-guide | 2026-02-15 | pending |
+| 224153746833 | tokyo-station-jiichiro-kitte-baumkuchen-guide | 2026-02-15 | ✅ |
 | 223911732881 | im-donut-nakameguro-seongsu-guide | 2026-02-14 | ✅ |
 | 224177943474 | starbucks-reserve-roastery-tokyo-guide | 2026-02-14 | ✅ |
 | 224177420032 | nakameguro-cherry-blossom-guide | 2026-02-14 | ✅ |
