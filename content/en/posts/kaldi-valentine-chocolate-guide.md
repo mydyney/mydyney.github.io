@@ -15,7 +15,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 <p class="se-text-paragraph" style="line-height:1.9;">This year, Kaldi went with a "Chocolate Wonderland" theme. It's a huge collection—everything from fancy Samoan cacao truffles to those limited-edition tins that collectors usually grab before they even hit the shelves.</p>
 
 <figure style="margin: 20px 0;">
-  <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjUg/MDAxNzcwMzUxOTAwOTUy.VXc5pHeUQdYHx9gK9MfHs9K98QXpkxiwGpjrSczNiPgg.vAKpo9-hrw938Z81Hg3ZogRLUAD-F0uoxXqcWkz-cxYg.JPEG/SE-c35e9abf-aa79-4611-809e-18ea9896028f.jpg?type=w966" style="width: 100%; height: auto; display: block;">
+  <img src="/images/posts/kaldi-valentine-chocolate-guide-01.jpg" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">The display of limited edition chocolates for the 2026 Kaldi Valentine "Chocolate Wonderland" season in Japan</figcaption>
 </figure>
 
@@ -27,10 +27,10 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <figure style="margin: 0; flex: 0.500;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMTcx/MDAxNzcwMzUxOTAzMzg5.TznXJ2r8dGhX6FkbPcEi-GBJnaFyY_XmGnw0tMxixq8g.DtSKPzGgG3htdAZmRtnZUkPTE1TnA2xoktshkqMB5mgg.JPEG/SE-ff007ecc-811e-40d8-9d61-51ee37953142.jpg?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-02.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
   <figure style="margin: 0; flex: 0.500;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfOTEg/MDAxNzcwMzUxOTA1NjMy.hehFG2-oHSLztOznVAYsLcJoxKzb_smjDRHNSho-0wIg.bXCELI4IuO0DuXqhtDVI6I8oocikys85bCoWsbF2Edgg.JPEG/SE-087e40f1-f96a-4ea1-b689-05cebd650b05.jpg?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-03.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">2026 Kaldi Valentine limited chocolate lineup</figcaption>
@@ -48,16 +48,16 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <figure style="margin: 0; flex: 0.501;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjc1/MDAxNzcwMzUxOTA3MDc3.EFCDQubligznacdpS-CQJYjQo1VHaoF4QsmKOrCeeHsg.QkIcxGO2ZtRox4yZgMzinUTvTLbehy4YmrFXEIQCfz0g.PNG/SE-5d2b945e-863a-4773-b345-e7b8b001374c.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-04.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
   <figure style="margin: 0; flex: 0.499;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMTc3/MDAxNzcwMzUxOTA3ODkx.HwiREKeRkbqQpl29pJLOydrwgVJ6wIJ9G8ZW_OUsZvgg.ratBT1If7EShIOtkCjIbamlAnkYLVkw-groABcHUuQMg.PNG/SE-d673f359-05d2-4890-aea3-b0e356fdc7ea.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-05.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Kaldi Valentine 2026 Miniature Handbag Tin Case chocolates available in 3 colors (Source: <a href="https://www.kaldi.co.jp/ec/pro/disp/1/2026vdminibag?sFlg=2" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>)</figcaption>
 
 <figure style="margin: 20px 0;">
-  <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjY2/MDAxNzcwMzUxOTA5NTA4.HB0RXYgXn333s6pyg3YjUdYxNJOGdLYoJudKrJPUJxUg.bQ-rQGKUyh31G1O2VXVQH8PgkuBiuK9hsVVkuQgcg58g.JPEG/SE-1526a3d5-c4be-4153-aa02-74f6dacc178b.jpg?type=w966" style="width: 100%; height: auto; display: block;">
+  <img src="/images/posts/kaldi-valentine-chocolate-guide-06.jpg" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">Comparison of Brown, White, and Blue Miniature Handbag Tin Cases</figcaption>
 </figure>
 
@@ -69,7 +69,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 </ul>
 
 <figure style="margin: 20px 0;">
-  <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMTAy/MDAxNzcwMzUxOTExMTUx.hdEsnGyQ6edyraXHn0QwVB0NXmZw9nDe9YmuyA88abQg.iBXtWwDpG-NL6483GMqnVQxDf_p-QprODhWfn2wo65Qg.PNG/SE-a5dc697f-cfbb-478e-a8cc-a1d8a1cdfd46.png?type=w966" style="width: 100%; height: auto; display: block;">
+  <img src="/images/posts/kaldi-valentine-chocolate-guide-07.jpg" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">Kaldi Valentine 2026 Mini Trunk Tin Case Chocolate Crunch (Source: <a href="https://www.kaldi.co.jp/ec/pro/disp/1/2026minitrunk?sFlg=2" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>)</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 </ul>
 
 <figure style="margin: 20px 0;">
-  <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMTMx/MDAxNzcwMzUxOTExOTQ4.DvNQvTkxE2NUa-aiv5_HwzNnRomORy4q_jA8x2H6xpQg.PFXD1WNNi-HJzCeLempghg7Q51pom9OzYfXUjvy6yrQg.PNG/SE-30e62f3f-5880-4ad1-b568-d5d98f4f34a1.png?type=w966" style="width: 100%; height: auto; display: block;">
+  <img src="/images/posts/kaldi-valentine-chocolate-guide-08.jpg" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">Kaldi Valentine's limited medium Trunk Tin Case with embossed design (Source: <a href="https://www.kaldi.co.jp/ec/pro/disp/1/2026vdtrunk?sFlg=2" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>)</figcaption>
 </figure>
 
@@ -93,7 +93,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 </ul>
 
 <figure style="margin: 20px 0;">
-  <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfNzcg/MDAxNzcwMzUxOTEzNjMy.rh6ezO3m48F1jMDwYmqlBO2OkgCbqgJH8POQU6yhqYog.kqABnQTktvlcRdIC8pBmP0C9gSByQzdGy--6FWOOS0cg.JPEG/SE-bf81992a-d51b-4535-b3cb-a7ac572c10a4.jpg?type=w966" style="width: 100%; height: auto; display: block;">
+  <img src="/images/posts/kaldi-valentine-chocolate-guide-09.jpg" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">Kaldi Valentine Retro Neko Cat Square Tin Case Chocolate</figcaption>
 </figure>
 
@@ -106,10 +106,10 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <figure style="margin: 0; flex: 0.502;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMTU1/MDAxNzcwMzUxOTE0ODU2.4_EMMcP8rWPn7Arj2MCYA1z6KNoXN-NlzdVILUfbhwgg.IdyZjWGrncpIwDBeXZcupiDjuzWN5wl-BeU1adYLpiYg.PNG/SE-748d96a0-1765-4492-9989-4915eecdf9b0.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-10.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
   <figure style="margin: 0; flex: 0.498;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjIz/MDAxNzcwMzUxOTE1NTU5.94Y3cQ9P7H2EOBGL5GrfZL_KOFhHn0yXX1rJca1G8hcg.R_lAeHMuprokfDhmZDzOQbRbrwNSLOZqPcd_x9eMpokg.PNG/SE-4a3b6baf-3296-40c5-b865-7dae053cf26a.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-11.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Kaldi Valentine Cacao Forest Lizard Oval Tin Case Chocolate (Source: <a href="https://www.kaldi.co.jp/ec/pro/disp/1/4515996102059?sFlg=2" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>)</figcaption>
@@ -126,7 +126,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 </ul>
 
 <figure style="margin: 20px 0;">
-  <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMTc3/MDAxNzcwMzUxOTE3NjIy.mY5gWYKSSO6NqoLgcW6o_ap7yWXmBqRG7qNbDrscguwg.MDkAp9bvBlnqtuGea3RcWND7Mj0rWcTlCDT1q8XM9n0g.JPEG/SE-e3c9fe20-8f63-491e-98ac-94c520d9c849.jpg?type=w966" style="width: 100%; height: auto; display: block;">
+  <img src="/images/posts/kaldi-valentine-chocolate-guide-12.jpg" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">Kaldi Valentine 2026 Rouge Lipstick Strawberry Chocolate</figcaption>
 </figure>
 
@@ -138,7 +138,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 </ul>
 
 <figure style="margin: 20px 0;">
-  <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfNjAg/MDAxNzcwMzUxOTE5Nzk4.SFmBUQXvDlym8MwM-4jLxT54VO40oMsCX2QIlkejMigg.OTEA74FvJF6RfzWAX0X8wCv1GTuZWUwHZz05mpfvxiYg.JPEG/SE-688a5511-0f57-4089-9f19-f7ee5562f71b.jpg?type=w966" style="width: 100%; height: auto; display: block;">
+  <img src="/images/posts/kaldi-valentine-chocolate-guide-13.jpg" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">Kaldi Valentine Miniature Backpack Pouch with Coffee Chocolate Crunch</figcaption>
 </figure>
 
@@ -151,10 +151,10 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <figure style="margin: 0; flex: 0.498;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjA0/MDAxNzcwMzUxOTIwOTI2.EDjO_KSrCt9lnOC32UO6-MlaXkzxfLGmEOduECRg2Oog.nHXx8poZEO2oREwWOgLoN7qVz37kWm6zGEfC0Xnv_xEg.PNG/SE-102c1954-e70b-4987-afb8-6e123b01ac61.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-14.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
   <figure style="margin: 0; flex: 0.502;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjI1/MDAxNzcwMzUxOTIxNTY0.YU0NekZqofXTpi0Fs19a5uqzDoLAYALU7iAy3RYazz4g.N8gdNwee-Y229TojgY2G0sCKZOxVKqVjEb-MuP1piMkg.PNG/SE-6392160f-dc47-444d-9ec1-b9484f4d3053.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-15.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Kaldi Valentine Pop Decoration Chocolate with special hammer (Source: <a href="https://www.kaldi.co.jp/ec/pro/disp/1/4515996996252" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>)</figcaption>
@@ -172,10 +172,10 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <figure style="margin: 0; flex: 0.568;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjI4/MDAxNzcwMzUxOTIyMjgw.FwpMRVyE67Ic3UDHaAK0DQVRv1u7vhfAYg2kD_24MBsg.IqoLVzaj_41j5xi3RRZea2ZTZ5qloS5TpA6OXEVVyp4g.PNG/SE-463eaa52-37f0-496f-a4e8-fa20c63bbf7e.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-16.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
   <figure style="margin: 0; flex: 0.432;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMTk5/MDAxNzcwMzUxOTIzMTk5.vhIHG8YfCBedmNVtuf1FV266RMODFim78L3VvEm66_gg.RVFUNh1WgWOFUM7drudBZkWw3S6GXFGeQWZGebz6MGwg.PNG/SE-2b49c921-4c07-4276-9943-83da238f9fb0.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-17.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Famous Kamakura Chocolatier Camel Financiers (Source: <a href="https://www.kaldi.co.jp/campaign/valentine/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>)</figcaption>
@@ -188,7 +188,7 @@ translationKey: "kaldi-valentine-chocolate-guide"
 </ul>
 
 <figure style="margin: 20px 0;">
-  <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMzAw/MDAxNzcwMzUxOTIzODg4.Vim-TT87ZT48G9G1v_hMKtjMP0Rb6eyK69bg3W5mHH8g.g_ZIqt8OBbjhpDiXQonArTb9NdV5g3sMWO8w5iAX2X0g.PNG/SE-38a8e015-55cb-4de6-9f84-f8c5c2ae96be.png?type=w966" style="width: 100%; height: auto; display: block;">
+  <img src="/images/posts/kaldi-valentine-chocolate-guide-18.jpg" style="width: 100%; height: auto; display: block;">
   <figcaption style="font-size: 0.85em; text-align: center; margin-top: 10px;">Gavarny Belgian Truffles with authentic cocoa powder ganache (Source: <a href="https://www.kaldi.co.jp/ec/pro/disp/1/5412397012040?sFlg=2" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>)</figcaption>
 </figure>
 
@@ -206,10 +206,10 @@ translationKey: "kaldi-valentine-chocolate-guide"
 
 <div style="display: flex; gap: 10px; margin: 20px 0;">
   <figure style="margin: 0; flex: 0.501;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfNTkg/MDAxNzcwMzUxOTI0NTMy.50QfIuNYEgsV0iRwBgwJFghtRDSf-LZgzrt9Japum8kg.EIkSGFOgkvo6OE8q6j_QMFHAmz3xl-pXAb1eJRLk9A0g.PNG/SE-7a2a0864-7f7d-4815-a72b-2aa507640a0b.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-19.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
   <figure style="margin: 0; flex: 0.499;">
-    <img src="https://postfiles.pstatic.net/MjAyNjAyMDZfMjIz/MDAxNzcwMzUxOTI1MTgy.ORZi8BYi5UdE5A_iWPELpbzezNraQ6GxCvxMieqAJpUg.kBR35A6T4qVaKY1Fcik5wB6-z3wrtJBBg9Qn4iJUcCQg.PNG/SE-bec17c61-c392-4e06-8b3f-9a39754cd9e5.png?type=w966" style="width: 100%; height: auto; display: block;">
+    <img src="/images/posts/kaldi-valentine-chocolate-guide-20.jpg" style="width: 100%; height: auto; display: block;">
   </figure>
 </div>
 <figcaption style="font-size: 0.85em; text-align: center; margin-top: -10px;">Kaldi Moheji Sweet Potato Chocolate (Source: <a href="https://www.kaldi.co.jp/ec/pro/disp/1/4595557277075?sFlg=2" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>) and Matcha Azuki Chocolate (Source: <a href="https://www.kaldi.co.jp/ec/pro/disp/1/4570018728617?sFlg=2" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Kaldi</a>)</figcaption>
