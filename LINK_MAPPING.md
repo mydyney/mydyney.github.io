@@ -175,7 +175,7 @@ When migrating a Naver blog post to Hugo:
 | 223992588094 | tokyo-september-festivals-2025 | 2025-09-02 | ✅ |
 | 223989943826 | ginza-guide-2025 | 2025-01-06 | ✅ |
 | 223988228389 | roppongi-attractions-guide | 2024-09-02 | ✅ |
-| 223987954990 | roppongi-hills-observatory-guide | - | pending |
+| 223987954990 | roppongi-hills-observatory-guide | 2026-02-15 | ✅ |
 | 223987115708 | kaneko-hannosuke-roppongi-tempura | - | pending |
 | 223986407872 | tsujihan-midtown-kaisendon-guide | - | pending |
 | 223985958480 | imakatsu-roppongi-tonkatsu-guide | - | pending |
