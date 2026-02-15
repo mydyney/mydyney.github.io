@@ -34,6 +34,23 @@
 
       <!-- Quick Links -->
       <div class="footer-section">
+        {{ if eq .Language.Lang "ja" }}
+        <h4 class="footer-heading">クイックリンク</h4>
+        <ul class="footer-links">
+          <li><a href="{{ .Site.BaseURL }}ja/">ホーム</a></li>
+          <li><a href="{{ .Site.BaseURL }}ja/posts/">記事一覧</a></li>
+          <li><a href="{{ .Site.BaseURL }}ja/categories/">カテゴリー</a></li>
+          <li><a href="{{ .Site.BaseURL }}ja/tags/">タグ</a></li>
+        </ul>
+        {{ else if eq .Language.Lang "zh-cn" }}
+        <h4 class="footer-heading">快速链接</h4>
+        <ul class="footer-links">
+          <li><a href="{{ .Site.BaseURL }}zh-cn/">首页</a></li>
+          <li><a href="{{ .Site.BaseURL }}zh-cn/posts/">文章列表</a></li>
+          <li><a href="{{ .Site.BaseURL }}zh-cn/categories/">分类</a></li>
+          <li><a href="{{ .Site.BaseURL }}zh-cn/tags/">标签</a></li>
+        </ul>
+        {{ else }}
         <h4 class="footer-heading">Quick Links</h4>
         <ul class="footer-links">
           <li><a href="{{ .Site.BaseURL }}">Home</a></li>
@@ -41,11 +58,12 @@
           <li><a href="{{ .Site.BaseURL }}categories/">Categories</a></li>
           <li><a href="{{ .Site.BaseURL }}tags/">Tags</a></li>
         </ul>
+        {{ end }}
       </div>
 
       <!-- Categories -->
       <div class="footer-section">
-        <h4 class="footer-heading">Categories</h4>
+        <h4 class="footer-heading">{{ if eq .Language.Lang "ja" }}カテゴリー{{ else if eq .Language.Lang "zh-cn" }}分类{{ else }}Categories{{ end }}</h4>
         <ul class="footer-links">
           {{ range first 5 .Site.Taxonomies.categories.ByCount }}
           {{ if gt .Count 0 }}
@@ -57,7 +75,7 @@
 
       <!-- Contact & Legal -->
       <div class="footer-section">
-        <h4 class="footer-heading">Contact & Legal</h4>
+        <h4 class="footer-heading">{{ if eq .Language.Lang "ja" }}お問い合わせ・法的情報{{ else if eq .Language.Lang "zh-cn" }}联系与法律信息{{ else }}Contact & Legal{{ end }}</h4>
         <ul class="footer-links">
           <li>
             <a href="mailto:tripmate.news@gmail.com">
@@ -68,9 +86,19 @@
               tripmate.news@gmail.com
             </a>
           </li>
+          {{ if eq .Language.Lang "ja" }}
+          <li><a href="{{ .Site.BaseURL }}ja/privacy-policy/">プライバシーポリシー</a></li>
+          <li><a href="{{ .Site.BaseURL }}ja/terms-of-service/">利用規約</a></li>
+          <li><a href="{{ .Site.BaseURL }}ja/disclaimer/">免責事項</a></li>
+          {{ else if eq .Language.Lang "zh-cn" }}
+          <li><a href="{{ .Site.BaseURL }}zh-cn/privacy-policy/">隐私政策</a></li>
+          <li><a href="{{ .Site.BaseURL }}zh-cn/terms-of-service/">服务条款</a></li>
+          <li><a href="{{ .Site.BaseURL }}zh-cn/disclaimer/">免责声明</a></li>
+          {{ else }}
           <li><a href="{{ .Site.BaseURL }}privacy-policy/">Privacy Policy</a></li>
           <li><a href="{{ .Site.BaseURL }}terms-of-service/">Terms of Service</a></li>
           <li><a href="{{ .Site.BaseURL }}disclaimer/">Disclaimer</a></li>
+          {{ end }}
           <li><span class="footer-location">📍 Tokyo, Japan</span></li>
         </ul>
       </div>
