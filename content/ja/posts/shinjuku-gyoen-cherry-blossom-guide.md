@@ -265,10 +265,7 @@ translationKey: "shinjuku-gyoen-cherry-blossom-guide"
 <p><a href="/ja/posts/nakameguro-cherry-blossom-guide/" target="_blank" style="color: #667eea; text-decoration: underline;"><strong>👉 2026年中目黒の桜 完全ガイド｜名所・夜桜・クルーズまとめ</strong></a></p>
 
 <p>3. 夜桜の華やかさとボート体験が気になるなら？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224180161370
-     Hugo: /ja/posts/chidorigafuchi-cherry-blossom-night-boat-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 千鳥ヶ淵の桜ライトアップ＆ボートガイド</strong></a></p>
+<p><a href="/ja/posts/chidorigafuchi-cherry-blossom-boat-guide/" style="color: #667eea; text-decoration: underline;">👉 <strong>千鳥ヶ淵の桜ガイド：ボートの乗り方・予約不可・ライトアップ夜景スポット</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

@@ -265,10 +265,7 @@ translationKey: "shinjuku-gyoen-cherry-blossom-guide"
 <p><a href="/posts/nakameguro-cherry-blossom-guide/" target="_blank" style="color: #667eea; text-decoration: underline;"><strong>👉 2026 Nakameguro Cherry Blossom Complete Guide: Best Spots, Night Views & Cruises</strong></a></p>
 
 <p>3. Night cherry blossoms and boat rides?</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224180161370
-     Hugo: /posts/chidorigafuchi-cherry-blossom-night-boat-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Chidorigafuchi Cherry Blossom Night Views & Boat Guide</strong></a></p>
+<p><a href="/posts/chidorigafuchi-cherry-blossom-boat-guide/" style="color: #667eea; text-decoration: underline;">👉 <strong>Chidorigafuchi Cherry Blossom Boat Guide: No Reservations, On-Site Ticketing & Night Illumination</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

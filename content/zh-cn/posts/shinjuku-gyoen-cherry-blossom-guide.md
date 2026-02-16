@@ -265,10 +265,7 @@ translationKey: "shinjuku-gyoen-cherry-blossom-guide"
 <p><a href="/zh-cn/posts/nakameguro-cherry-blossom-guide/" target="_blank" style="color: #667eea; text-decoration: underline;"><strong>👉 2026中目黑赏樱完全攻略: 最佳赏樱点、夜樱和游船全指南</strong></a></p>
 
 <p>3. 想看夜樱和体验划船？</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224180161370
-     Hugo: /zh-cn/posts/chidorigafuchi-cherry-blossom-night-boat-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 千鸟之渊樱花夜景和划船指南</strong></a></p>
+<p><a href="/zh-cn/posts/chidorigafuchi-cherry-blossom-boat-guide/" style="color: #667eea; text-decoration: underline;">👉 <strong>千鸟之渊樱花船攻略: 无法预约、现场购票与夜间灯光秀</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
