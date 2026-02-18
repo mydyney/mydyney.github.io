@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 137 posts mapped (0 pending)
+> **Status:** ⏳ In Progress - 161 posts migrated, 53 pending (214 total mapped)
 
 ---
 
@@ -327,12 +327,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 142
-- **Naver IDs Tracked:** 177
+- **Total Posts Migrated:** 161
+- **Naver IDs Tracked:** 214
+- **Pending References:** 77
 - **Posts with Internal Links:** 46+
-- **Pending References:** 43
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-08 (Shibuya Ichiran Ramen - In Progress)
+- **Last Migration Date:** 2026-02-18 (Tokyo Cherry Blossom Top 10 Spots)
 
 ---
 

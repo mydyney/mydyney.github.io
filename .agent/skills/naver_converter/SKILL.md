@@ -599,6 +599,24 @@ After user confirms:
 
 - Change status from `pending` to `✅`
 - Set date to today's date (YYYY-MM-DD)
+- **Update the Statistics section** — run the following counts and update the values:
+
+```bash
+MIGRATED=$(grep -c '| ✅ |' LINK_MAPPING.md)
+PENDING_QR=$(grep -c '| pending |' LINK_MAPPING.md)
+TOTAL_QR=$((MIGRATED + PENDING_QR))
+PENDING_REFS=$(awk '/^## Pending Link References/,/^## Statistics/' LINK_MAPPING.md | grep -c '^|[^-]')
+echo "Migrated: $MIGRATED | QR Pending: $PENDING_QR | Total QR: $TOTAL_QR | Pending Refs: $PENDING_REFS"
+```
+
+Then update these fields in the `## Statistics` section:
+- `Total Posts Migrated:` → `$MIGRATED`
+- `Naver IDs Tracked:` → `$TOTAL_QR`
+- `Pending References:` → `$PENDING_REFS`
+- `Last Migration Date:` → today's date and post name
+
+Also update the header line:
+- `> **Status:**` → `⏳ In Progress - $MIGRATED posts migrated, $PENDING_QR pending ($TOTAL_QR total mapped)`
 
 ### 7.2 Commit
 
