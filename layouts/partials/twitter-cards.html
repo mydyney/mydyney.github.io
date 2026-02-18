@@ -1,0 +1,10 @@
+{{- $image := "" -}}
+{{- with .Params.featured_image }}{{ $image = . | absURL }}{{ end -}}
+{{- if $image }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ $image }}">
+{{- else }}
+<meta name="twitter:card" content="summary">
+{{- end }}
+<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary | plainify | truncate 200 }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
