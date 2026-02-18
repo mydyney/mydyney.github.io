@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 136 posts mapped (0 pending)
+> **Status:** ⏳ In Progress - 137 posts mapped (0 pending)
 
 ---
 
@@ -19,6 +19,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224187041918 | tokyo-cherry-blossom-top-10-spots | 2026-02-18 | ✅ |
 | 224180161370 | chidorigafuchi-cherry-blossom-boat-guide | 2026-02-16 | ✅ |
 | 224180541373 | shinjuku-gyoen-cherry-blossom-guide | 2026-02-16 | ✅ |
 | 224181078856 | starbucks-japan-valentine-2026-menu-guide | 2026-02-16 | ✅ |
