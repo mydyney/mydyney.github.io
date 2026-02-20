@@ -46,10 +46,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <li>100% indoor from queuing to the entire exhibition</li>
 <li>The most weather-proof <strong>indoor attraction in Tokyo</strong></li>
 </ul>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /posts/azabudai-hills-teamlab-borderless-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Tokyo Azabudai Hills teamLab Borderless: The Museum Without a Map</strong></a></p>
+<p><a href="/posts/azabudai-hills-teamlab-borderless-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Tokyo Azabudai Hills teamLab Borderless: The Museum Without a Map</strong></a></p>
 
 <p><strong>🕚 11:00 | Azabudai Hills Shopping & Cafe</strong></p>
 <ul>
@@ -57,10 +54,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <li>Elevator-connected layout minimizes outdoor exposure</li>
 </ul>
 <p><a href="/posts/azabudai-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Azabudai Hills Complete Guide: Observatory to Restaurants</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224109119129
-     Hugo: /posts/azabudai-hills-parlor-yazawa-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Azabudai Hills Restaurant: Parlor Yazawa</strong></a></p>
+<p><a href="/posts/azabudai-hills-parlor-yazawa-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Azabudai Hills Restaurant: Parlor Yazawa</strong></a></p>
 
 <p><strong>🕐 13:00 | Ginza Lunch & Department Stores</strong></p>
 <ul>

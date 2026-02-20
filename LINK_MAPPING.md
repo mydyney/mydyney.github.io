@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 166 posts migrated, 54 pending (220 total mapped)
+> **Status:** ⏳ In Progress - 167 posts migrated, 55 pending (222 total mapped)
 
 ---
 
@@ -59,6 +59,8 @@ When migrating a Naver blog post to Hugo:
 | 224148214290 | tokyo-travel-preparation-guide | 2026-02-20 | ✅ |
 | 224131055243 | shinjuku-department-store-guest-card-discount | - | pending |
 | 224109119129 | azabudai-hills-parlor-yazawa-guide | 2026-02-20 | ✅ |
+| 223681505340 | azabudai-hills-sky-room-sunset-view | - | pending |
+| 223671427079 | azabudai-hills-christmas-market-2024 | - | pending |
 | 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
 | 224032086475 | nakameguro-complete-guide | 2025-10-05 | ✅ |
@@ -228,7 +230,7 @@ When migrating a Naver blog post to Hugo:
 | 223675952285 | marunouchi-building-free-observatory | - | pending |
 | 223675706489 | tokyo-station-breakfast-the-front-room | - | pending |
 | 223674804939 | roppongi-hills-summer-festival-doraemon | - | pending |
-| 223672616108 | azabudai-hills-teamlab-borderless-guide | - | pending |
+| 223672616108 | azabudai-hills-teamlab-borderless-guide | 2026-02-20 | ✅ |
 | 223670085459 | roppongi-midtown-christmas-review-2024 | - | pending |
 | 223668826357 | yebisu-garden-place-illumination-christmas-market-2024 | - | pending |
 | 223668328703 | yebisu-garden-place-free-observatory | - | pending |
@@ -335,12 +337,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 166
-- **Naver IDs Tracked:** 220
+- **Total Posts Migrated:** 167
+- **Naver IDs Tracked:** 222
 - **Pending References:** 79
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-20 (Azabudai Hills Parlor Yazawa Guide)
+- **Last Migration Date:** 2026-02-20 (Azabudai Hills teamLab Borderless Guide)
 
 ---
 

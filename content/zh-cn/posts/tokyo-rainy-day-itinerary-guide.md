@@ -46,10 +46,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <li>从排队到参观全程100%室内</li>
 <li>几乎不受天气影响的<strong>东京最佳室内景点</strong></li>
 </ul>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /zh-cn/posts/azabudai-hills-teamlab-borderless-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 东京麻布台Hills teamLab无界：没有地图的美术馆</strong></a></p>
+<p><a href="/zh-cn/posts/azabudai-hills-teamlab-borderless-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 东京麻布台Hills teamLab无界：没有地图的美术馆</strong></a></p>
 
 <p><strong>🕚 11:00 | 麻布台Hills 购物&咖啡</strong></p>
 <ul>
@@ -57,10 +54,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <li>电梯连通结构，室外暴露降到最低</li>
 </ul>
 <p><a href="/zh-cn/posts/azabudai-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台Hills完全攻略：展望台到美食一网打尽</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224109119129
-     Hugo: /zh-cn/posts/azabudai-hills-parlor-yazawa-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台Hills美食：Parlor Yazawa</strong></a></p>
+<p><a href="/zh-cn/posts/azabudai-hills-parlor-yazawa-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台Hills美食：Parlor Yazawa</strong></a></p>
 
 <p><strong>🕐 13:00 | 银座午餐&百货商店</strong></p>
 <ul>

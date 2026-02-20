@@ -46,10 +46,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <li>入場待ちから観覧まで全区間100%室内</li>
 <li>天候の影響をほとんど受けない、最も完璧な<strong>東京の室内スポット</strong></li>
 </ul>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223672616108
-     Hugo: /ja/posts/azabudai-hills-teamlab-borderless-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 東京 麻布台ヒルズ チームラボ ボーダレス：地図のない美術館</strong></a></p>
+<p><a href="/ja/posts/azabudai-hills-teamlab-borderless-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 東京 麻布台ヒルズ チームラボ ボーダレス：地図のない美術館</strong></a></p>
 
 <p><strong>🕚 11:00 | 麻布台ヒルズ ショッピング＆カフェ</strong></p>
 <ul>
@@ -57,10 +54,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <li>エレベーター接続構造で屋外露出を最小化</li>
 </ul>
 <p><a href="/ja/posts/azabudai-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台ヒルズ完全ガイド：展望台からグルメまで</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224109119129
-     Hugo: /ja/posts/azabudai-hills-parlor-yazawa-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台ヒルズ グルメ：パーラー矢澤</strong></a></p>
+<p><a href="/ja/posts/azabudai-hills-parlor-yazawa-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台ヒルズ グルメ：パーラー矢澤</strong></a></p>
 
 <p><strong>🕐 13:00 | 銀座ランチ＆百貨店</strong></p>
 <ul>
