@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 165 posts migrated, 55 pending (220 total mapped)
+> **Status:** ⏳ In Progress - 166 posts migrated, 54 pending (220 total mapped)
 
 ---
 
@@ -58,7 +58,7 @@ When migrating a Naver blog post to Hugo:
 | 224135063751 | tokyo-subway-map-guide | 2026-02-20 | ✅ |
 | 224148214290 | tokyo-travel-preparation-guide | 2026-02-20 | ✅ |
 | 224131055243 | shinjuku-department-store-guest-card-discount | - | pending |
-| 224109119129 | azabudai-hills-parlor-yazawa-guide | - | pending |
+| 224109119129 | azabudai-hills-parlor-yazawa-guide | 2026-02-20 | ✅ |
 | 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
 | 224032086475 | nakameguro-complete-guide | 2025-10-05 | ✅ |
@@ -335,12 +335,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 165
+- **Total Posts Migrated:** 166
 - **Naver IDs Tracked:** 220
 - **Pending References:** 79
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-20 (Tokyo Rainy Day Itinerary Guide)
+- **Last Migration Date:** 2026-02-20 (Azabudai Hills Parlor Yazawa Guide)
 
 ---
 
