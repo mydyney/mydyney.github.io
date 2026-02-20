@@ -2,7 +2,7 @@
 title: "東京地下鉄路線図 2026：高画質PDF無料ダウンロード＆読み方ガイド"
 date: 2026-01-05T15:29:00+09:00
 draft: false
-description: "東京地下鉄の高画質路線図（PDF・画像）を無料ダウンロード。路線図の読み方、メトロとJRの違い、旅行者がよくやるミスまで完全解説。"
+description: "東京地下鉄の高画質路線図（PDF）を無料ダウンロード。路線図の読み方、メトロとJRの違い、旅行者がよくやるミスまで完全解説。"
 categories: ["旅行ガイド"]
 tags: ["東京地下鉄路線図", "東京メトロ", "東京交通", "JR山手線", "地下鉄パス"]
 featured_image: "/images/posts/tokyo-subway-map-guide-01.jpg"
@@ -24,12 +24,12 @@ translationKey: "tokyo-subway-map-guide"
 
 <p>旅行中はネットが遅かったり、いちいちアプリを開くのが面倒なこともありますよね。そんなときに便利なのが、<strong>スマホに保存した高画質の路線図</strong>です。</p>
 
-<p>用途に合わせてダウンロードしてください。印刷用ならPDF、スマホ閲覧なら画像がおすすめです。</p>
+<p>PDFをダウンロードしてスマホに保存しておけば、いつでもすぐ確認できます。</p>
 
 <div class="info-box" style="background-color: #f0f7ff; padding: 20px; border-radius: 8px; margin: 20px 0;">
   <p><strong>📥 公式ダウンロードリンク（東京メトロ）</strong></p>
   <ul>
-    <li><strong>PDF（印刷用）：</strong> <a href="https://www.tokyometro.jp/station/202303_number_ja.pdf" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">東京メトロ公式 地下鉄路線図（日本語PDF）</a></li>
+    <li><strong>PDF：</strong> <a href="https://www.tokyometro.jp/station/202303_number_ja.pdf" target="_blank" rel="noopener" style="color: #ffffff; text-decoration: underline; font-weight: bold;">東京メトロ公式 地下鉄路線図（日本語PDF）</a></li>
   </ul>
 </div>
 

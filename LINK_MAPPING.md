@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 163 posts migrated, 54 pending (217 total mapped)
+> **Status:** ⏳ In Progress - 164 posts migrated, 56 pending (220 total mapped)
 
 ---
 
@@ -45,6 +45,7 @@ When migrating a Naver blog post to Hugo:
 | 224151789346 | tokyo-kajitsuen-liebel-strawberry-parfait-guide | 2026-01-19 | ✅ |
 | 224160652498 | tokyo-observatory-comparison | 2026-01-28 | ✅ |
 | 224155602660 | tokyo-station-kantaro-ichibangai-sushi | 2026-01-22 | ✅ |
+| 224184108901 | tokyo-rainy-day-itinerary-guide | 2026-02-20 | ✅ |
 | 224189758086 | gotokuji-maneki-neko-cat-day-guide | 2026-02-20 | ✅ |
 | 224156966219 | tokyo-cherry-blossom-forecast-2026 | 2026-01-23 | ✅ |
 | 224145944230 | japan-mcdonalds-happy-set-2026-01 | 2026-01-16 | ✅ |
@@ -56,6 +57,8 @@ When migrating a Naver blog post to Hugo:
 | 224138433650 | tokyo-february-weather-clothing-guide | 2026-01-08 | ✅ |
 | 224135063751 | tokyo-subway-map-guide | 2026-02-20 | ✅ |
 | 224148214290 | tokyo-travel-preparation-checklist | - | pending |
+| 224131055243 | shinjuku-department-store-guest-card-discount | - | pending |
+| 224109119129 | azabudai-hills-parlor-yazawa-guide | - | pending |
 | 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
 | 224032086475 | nakameguro-complete-guide | 2025-10-05 | ✅ |
@@ -326,16 +329,18 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223667306537 | streamer-coffee-roppongi-guide | Streamer Coffee Company: Special Roppongi Cafe |
 | 223666751487 | st-moritz-roppongi-bakery | St. Moritz: 80-Year-Old Traditional Bakery in Roppongi |
 | 224150787671 | tokyo-moheji-monjayaki-marunouchi-guide | Tokyo Moheji Monjayaki Marunouchi: Best Menu & Waiting Guide |
+| 224131055243 | shinjuku-department-store-guest-card-discount | Shinjuku Department Store Guest Card 5% Discount Comparison (Isetan vs Takashimaya) |
+| 224109119129 | azabudai-hills-parlor-yazawa-guide | Azabudai Hills Restaurant Parlor Yazawa Guide |
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 163
-- **Naver IDs Tracked:** 217
-- **Pending References:** 77
+- **Total Posts Migrated:** 164
+- **Naver IDs Tracked:** 220
+- **Pending References:** 79
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-20 (Tokyo Subway Map Guide)
+- **Last Migration Date:** 2026-02-20 (Tokyo Rainy Day Itinerary Guide)
 
 ---
 

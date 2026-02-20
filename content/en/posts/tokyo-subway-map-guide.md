@@ -24,12 +24,12 @@ translationKey: "tokyo-subway-map-guide"
 
 <p>When you're traveling, your internet might be slow, or you may not want to open an app every time. That's when having a <strong>high-quality image saved to your phone</strong> comes in handy.</p>
 
-<p>Choose the format that works best for you: PDF for printing, or an image for mobile viewing.</p>
+<p>Download the PDF and save it on your phone for easy access anytime.</p>
 
 <div class="info-box" style="background-color: #f0f7ff; padding: 20px; border-radius: 8px; margin: 20px 0;">
   <p><strong>📥 Official Download Links (Tokyo Metro)</strong></p>
   <ul>
-    <li><strong>PDF (for printing):</strong> <a href="https://www.tokyometro.jp/lang_en/station/202303_number_en.pdf" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">Tokyo Metro Official Subway Map (English PDF)</a></li>
+    <li><strong>PDF:</strong> <a href="https://www.tokyometro.jp/lang_en/station/202303_number_en.pdf" target="_blank" rel="noopener" style="color: #ffffff; text-decoration: underline; font-weight: bold;">Tokyo Metro Official Subway Map (English PDF)</a></li>
   </ul>
 </div>
 

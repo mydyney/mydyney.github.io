@@ -2,7 +2,7 @@
 title: "东京地铁线路图 2026：免费高清下载(PDF) & 完整看图指南"
 date: 2026-01-05T15:29:00+09:00
 draft: false
-description: "免费下载东京地铁高清线路图(PDF和图片)。教你3分钟看懂线路图，分清Metro和JR，避开常见坑。"
+description: "免费下载东京地铁高清线路图(PDF)。教你3分钟看懂线路图，分清Metro和JR，避开常见坑。"
 categories: ["旅游指南"]
 tags: ["东京地铁线路图", "东京Metro", "东京交通", "JR山手线", "地铁通票"]
 featured_image: "/images/posts/tokyo-subway-map-guide-01.jpg"
@@ -24,12 +24,12 @@ translationKey: "tokyo-subway-map-guide"
 
 <p>旅途中网络可能会慢，每次都打开APP也挺麻烦的。提前把<strong>高清线路图保存到手机</strong>里，随时都能查看。</p>
 
-<p>按需下载：打印用选PDF，手机看选图片。</p>
+<p>下载PDF存到手机里，随时随地都能查看。</p>
 
 <div class="info-box" style="background-color: #f0f7ff; padding: 20px; border-radius: 8px; margin: 20px 0;">
   <p><strong>📥 官方下载链接（东京Metro）</strong></p>
   <ul>
-    <li><strong>PDF（打印用）：</strong> <a href="https://www.tokyometro.jp/lang_en/station/202303_number_cn.pdf" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;">东京Metro官方地铁线路图（中文PDF）</a></li>
+    <li><strong>PDF：</strong> <a href="https://www.tokyometro.jp/lang_en/station/202303_number_cn.pdf" target="_blank" rel="noopener" style="color: #ffffff; text-decoration: underline; font-weight: bold;">东京Metro官方地铁线路图（中文PDF）</a></li>
   </ul>
 </div>
 
