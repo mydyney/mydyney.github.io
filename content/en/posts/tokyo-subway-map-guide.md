@@ -150,10 +150,7 @@ translationKey: "tokyo-subway-map-guide"
 ## Downloaded the Map? Time to Plan Your Trip!
 
 <p><strong>⭐ Pre-Trip Planning Guide</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224148214290
-     Hugo: /posts/tokyo-travel-preparation-checklist/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Tokyo Travel Preparation: A to Z Checklist</strong></a></p>
+<p><a href="/posts/tokyo-travel-preparation-guide/" style="color: #667eea;"><strong>👉 Tokyo Travel Preparation: A to Z Checklist</strong></a></p>
 
 <p>1️⃣ <a href="/posts/tokyo-3-day-itinerary-disney-shibuya-sky/" style="color: #667eea; text-decoration: underline;"><strong>👉 [Itinerary] No More Planning Headaches! 3-Night 4-Day National Route with Disney</strong></a></p>
 <p>(Open the subway map and just follow this route!)</p>

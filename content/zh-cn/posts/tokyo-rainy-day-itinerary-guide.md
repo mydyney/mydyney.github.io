@@ -247,10 +247,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 
 <p style="font-size: 1.1rem;"><strong>🧡 更多东京旅行攻略</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224148214290
-     Hugo: /zh-cn/posts/tokyo-travel-preparation-checklist/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;">👉 <strong>东京自由行准备A to Z: 新手必看住宿·交通清单</strong></a></p>
+<p><a href="/zh-cn/posts/tokyo-travel-preparation-guide/" style="color: #667eea; text-decoration: underline;">👉 <strong>东京自由行准备A to Z: 新手必看住宿·交通清单</strong></a></p>
 
 <p><a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea; text-decoration: underline;">👉 <strong>日本旅行折扣券（唐吉诃德、BicCamera、百货商店等免税+额外折扣）</strong></a></p>
 

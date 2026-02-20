@@ -341,10 +341,7 @@ translationKey: "haneda-airport-arrival-guide"
      Naver: https://blog.naver.com/tokyomate/224154771287
      Hugo: /zh-cn/posts/japan-flight-booking-guide/ -->
 <p><a href="#" style="color: #667eea;"><strong>👉 【第1步】日本机票最低价购买和机场选择技巧</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224148214290
-     Hugo: /zh-cn/posts/tokyo-travel-preparation-checklist/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 【第2步】东京自由行准备A to Z清单</strong></a></p>
+<p><a href="/zh-cn/posts/tokyo-travel-preparation-guide/" style="color: #667eea;"><strong>👉 【第2步】东京自由行准备A to Z清单</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
      Hugo: /zh-cn/posts/visit-japan-web-registration-guide/ -->

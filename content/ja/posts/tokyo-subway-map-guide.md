@@ -150,10 +150,7 @@ translationKey: "tokyo-subway-map-guide"
 ## 路線図をダウンロードしたら、次は旅程を組もう！
 
 <p><strong>⭐ 出発前の準備ガイド</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224148214290
-     Hugo: /ja/posts/tokyo-travel-preparation-checklist/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 東京旅行準備 A to Z チェックリスト</strong></a></p>
+<p><a href="/ja/posts/tokyo-travel-preparation-guide/" style="color: #667eea;"><strong>👉 東京旅行準備 A to Z チェックリスト</strong></a></p>
 
 <p>1️⃣ <a href="/ja/posts/tokyo-3-day-itinerary-disney-shibuya-sky/" style="color: #667eea; text-decoration: underline;"><strong>👉 【コース】計画に悩まない！ディズニー込み3泊4日の王道ルート</strong></a></p>
 <p>（路線図を広げて、このルート通りに回るだけ！）</p>

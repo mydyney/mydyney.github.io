@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 164 posts migrated, 56 pending (220 total mapped)
+> **Status:** ⏳ In Progress - 165 posts migrated, 55 pending (220 total mapped)
 
 ---
 
@@ -56,7 +56,7 @@ When migrating a Naver blog post to Hugo:
 | 224038866606 | hakone-open-air-museum-guide-discount-tips | 2025-10-12 | ✅ |
 | 224138433650 | tokyo-february-weather-clothing-guide | 2026-01-08 | ✅ |
 | 224135063751 | tokyo-subway-map-guide | 2026-02-20 | ✅ |
-| 224148214290 | tokyo-travel-preparation-checklist | - | pending |
+| 224148214290 | tokyo-travel-preparation-guide | 2026-02-20 | ✅ |
 | 224131055243 | shinjuku-department-store-guest-card-discount | - | pending |
 | 224109119129 | azabudai-hills-parlor-yazawa-guide | - | pending |
 | 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
@@ -335,7 +335,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 164
+- **Total Posts Migrated:** 165
 - **Naver IDs Tracked:** 220
 - **Pending References:** 79
 - **Posts with Internal Links:** 46+
