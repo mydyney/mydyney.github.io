@@ -148,10 +148,7 @@ translationKey: "azabudai-hills-teamlab-borderless-guide"
 <ul>
   <li>16:00 — 麻布台ヒルズ スカイルーム 東京タワーの夕日が見える展望カフェ</li>
 </ul>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681505340
-     Hugo: /ja/posts/azabudai-hills-sky-room-sunset-view/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台ヒルズ スカイルーム サンセットビューガイド</strong></a></p>
+<p><a href="/ja/posts/azabudai-hills-sky-room-sunset-view/" style="color: #667eea;"><strong>👉 麻布台ヒルズ スカイルーム サンセットビューガイド</strong></a></p>
 
 <ul>
   <li>18:00 — 麻布台ヒルズ クリスマスマーケットを楽しむ</li>

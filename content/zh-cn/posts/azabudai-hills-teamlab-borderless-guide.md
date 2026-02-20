@@ -148,10 +148,7 @@ translationKey: "azabudai-hills-teamlab-borderless-guide"
 <ul>
   <li>16:00 — 麻布台之丘Sky Room 可以看到东京塔日落的展望咖啡厅</li>
 </ul>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681505340
-     Hugo: /zh-cn/posts/azabudai-hills-sky-room-sunset-view/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台之丘Sky Room日落景观攻略</strong></a></p>
+<p><a href="/zh-cn/posts/azabudai-hills-sky-room-sunset-view/" style="color: #667eea;"><strong>👉 麻布台之丘Sky Room日落景观攻略</strong></a></p>
 
 <ul>
   <li>18:00 — 麻布台之丘圣诞市集</li>

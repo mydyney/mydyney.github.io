@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 167 posts migrated, 55 pending (222 total mapped)
+> **Status:** ⏳ In Progress - 168 posts migrated, 54 pending (222 total mapped)
 
 ---
 
@@ -59,7 +59,7 @@ When migrating a Naver blog post to Hugo:
 | 224148214290 | tokyo-travel-preparation-guide | 2026-02-20 | ✅ |
 | 224131055243 | shinjuku-department-store-guest-card-discount | - | pending |
 | 224109119129 | azabudai-hills-parlor-yazawa-guide | 2026-02-20 | ✅ |
-| 223681505340 | azabudai-hills-sky-room-sunset-view | - | pending |
+| 223681505340 | azabudai-hills-sky-room-sunset-view | 2026-02-20 | ✅ |
 | 223671427079 | azabudai-hills-christmas-market-2024 | - | pending |
 | 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
@@ -337,12 +337,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 167
+- **Total Posts Migrated:** 168
 - **Naver IDs Tracked:** 222
 - **Pending References:** 79
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-20 (Azabudai Hills teamLab Borderless Guide)
+- **Last Migration Date:** 2026-02-20 (Azabudai Hills Sky Room Sunset View)
 
 ---
 

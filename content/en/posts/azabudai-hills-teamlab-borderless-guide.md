@@ -148,10 +148,7 @@ translationKey: "azabudai-hills-teamlab-borderless-guide"
 <ul>
   <li>4:00 PM — Azabudai Hills Sky Room observation café with Tokyo Tower sunset views</li>
 </ul>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681505340
-     Hugo: /posts/azabudai-hills-sky-room-sunset-view/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Azabudai Hills Sky Room Sunset View Guide</strong></a></p>
+<p><a href="/posts/azabudai-hills-sky-room-sunset-view/" style="color: #667eea;"><strong>👉 Azabudai Hills Sky Room Sunset View Guide</strong></a></p>
 
 <ul>
   <li>6:00 PM — Enjoy the Azabudai Hills Christmas Market</li>
