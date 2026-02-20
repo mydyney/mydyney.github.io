@@ -118,10 +118,7 @@ translationKey: "gotokuji-maneki-neko-cat-day-guide"
 <p>都心から豪徳寺へは大きく2つの路線があります。宿泊先の場所や旅の動線に合わせて選んでみてください。</p>
 
 <p>世田谷線と小田急線の乗り換えが分かりにくい場合は、路線図を事前に保存しておくと安心です。</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224135063751
-     Hugo: /ja/posts/tokyo-subway-map-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 東京メトロ路線図 PDF ダウンロード｜見方の完全ガイド</strong></a></p>
+<p><a href="/ja/posts/tokyo-subway-map-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 東京メトロ路線図 PDF ダウンロード｜見方の完全ガイド</strong></a></p>
 
 <p><strong>① 東急世田谷線（情緒あふれるルート）</strong></p>
 <ul>

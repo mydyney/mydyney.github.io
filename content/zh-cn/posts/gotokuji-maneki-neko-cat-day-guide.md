@@ -118,10 +118,7 @@ translationKey: "gotokuji-maneki-neko-cat-day-guide"
 <p>从东京市区到豪德寺主要有两条线路。根据你的住宿位置或旅行动线来选择吧。</p>
 
 <p>如果分不清世田谷线和小田急线,建议提前保存一份地铁线路图。</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224135063751
-     Hugo: /zh-cn/posts/tokyo-subway-map-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 东京地铁线路图 PDF 下载 | 看懂线路图完全指南</strong></a></p>
+<p><a href="/zh-cn/posts/tokyo-subway-map-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 东京地铁线路图 PDF 下载 | 看懂线路图完全指南</strong></a></p>
 
 <p><strong>1. 东急世田谷线(充满情调的路线)</strong></p>
 <ul>

@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 162 posts migrated, 54 pending (216 total mapped)
+> **Status:** ⏳ In Progress - 163 posts migrated, 54 pending (217 total mapped)
 
 ---
 
@@ -54,7 +54,8 @@ When migrating a Naver blog post to Hugo:
 | 224140812174 | ginza-shopping-discount-guide-2026 | 2026-01-09 | ✅ |
 | 224038866606 | hakone-open-air-museum-guide-discount-tips | 2025-10-12 | ✅ |
 | 224138433650 | tokyo-february-weather-clothing-guide | 2026-01-08 | ✅ |
-| 224135063751 | tokyo-subway-map-guide | - | pending |
+| 224135063751 | tokyo-subway-map-guide | 2026-02-20 | ✅ |
+| 224148214290 | tokyo-travel-preparation-checklist | - | pending |
 | 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
 | 224032086475 | nakameguro-complete-guide | 2025-10-05 | ✅ |
@@ -329,12 +330,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 162
-- **Naver IDs Tracked:** 216
+- **Total Posts Migrated:** 163
+- **Naver IDs Tracked:** 217
 - **Pending References:** 77
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-20 (Gotokuji Maneki-neko Cat Day Guide)
+- **Last Migration Date:** 2026-02-20 (Tokyo Subway Map Guide)
 
 ---
 

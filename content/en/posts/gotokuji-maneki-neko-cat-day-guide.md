@@ -118,10 +118,7 @@ translationKey: "gotokuji-maneki-neko-cat-day-guide"
 <p>There are two main routes from central Tokyo to Gotokuji. Choose based on where your hotel is or what fits your itinerary best.</p>
 
 <p>If the Setagaya Line and Odakyu Line routes seem confusing, save a subway route map in advance.</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224135063751
-     Hugo: /posts/tokyo-subway-map-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Tokyo Subway Map PDF Download | Complete Guide to Reading the Route Map</strong></a></p>
+<p><a href="/posts/tokyo-subway-map-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Tokyo Subway Map PDF Download | Complete Guide to Reading the Route Map</strong></a></p>
 
 <p><strong>1. Tokyu Setagaya Line (The Scenic Route)</strong></p>
 <ul>
