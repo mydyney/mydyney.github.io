@@ -188,10 +188,7 @@ translationKey: "ginza-kagari-chicken-paitan-ramen-guide"
 <p><strong>🧡 银座好去处推荐</strong></p>
 
 <p><strong>1. 拉面后的奢华甜品</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223715784445
-     Hugo: /zh-cn/posts/ginza-wako-tea-salon/ -->
-<p>银座WAKO和光茶室：蛋糕、巧克力、草莓芭菲</p>
+<p><a href="/zh-cn/posts/ginza-wako-tea-salon/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 银座WAKO和光茶室：蛋糕、巧克力、草莓芭菲</strong></a></p>
 
 <p><strong>2. 消食散步顺便购物？2026银座奢侈品5%折扣最新攻略</strong></p>
 <p><a href="/zh-cn/posts/ginza-shopping-discount-guide-2026/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 银座购物折扣攻略：三越APP vs 松屋JCB</strong></a></p>

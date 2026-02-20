@@ -188,10 +188,7 @@ translationKey: "ginza-kagari-chicken-paitan-ramen-guide"
 <p><strong>🧡 あわせて読みたい銀座ガイド</strong></p>
 
 <p><strong>1. ラーメンの後の贅沢デザート</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223715784445
-     Hugo: /ja/posts/ginza-wako-tea-salon/ -->
-<p>銀座 和光ティーサロン：ケーキ・チョコレート・ストロベリーパフェ</p>
+<p><a href="/ja/posts/ginza-wako-tea-salon/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 銀座 和光ティーサロン：ケーキ・チョコレート・ストロベリーパフェ</strong></a></p>
 
 <p><strong>2. 食後の散歩がてらショッピング？銀座ブランド5%割引の2026年最新テク</strong></p>
 <p><a href="/ja/posts/ginza-shopping-discount-guide-2026/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 銀座ショッピング割引テク：三越アプリ vs 松屋JCB</strong></a></p>

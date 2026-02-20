@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 170 posts migrated, 52 pending (222 total mapped)
+> **Status:** ⏳ In Progress - 171 posts migrated, 51 pending (222 total mapped)
 
 ---
 
@@ -202,7 +202,7 @@ When migrating a Naver blog post to Hugo:
 | 223913424029 | iruca-tokyo-roppongi-ramen-guide | - | pending |
 | 223912913938 | pain-maison-ginza-salt-bread | - | pending |
 | 223716380927 | azabudai-hills-sky-room-cafe-guide | - | pending |
-| 223715784445 | ginza-wako-tea-salon | - | pending |
+| 223715784445 | ginza-wako-tea-salon | 2026-02-21 | ✅ |
 | 223708789355 | azabudai-hills-criollo-chocolate-review | - | pending |
 | 224124211319 | tokyo-ramen-street-best-8 | 2025-12-27 | ✅ |
 | 223703326263 | ginza-shiseido-parlour-gift-guide | - | pending |
@@ -280,7 +280,6 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223913424029 | iruca-tokyo-roppongi-ramen-guide | Iruca Tokyo Roppongi: Michelin Ramen Restaurant |
 | 223912913938 | pain-maison-ginza-salt-bread | Pain Maison Ginza Salt Bread Online Reservation |
 | 223716380927 | azabudai-hills-sky-room-cafe-guide | Tokyo Azabudai Hills Observatory Cafe Sky Room Guide |
-| 223715784445 | ginza-wako-tea-salon | Ginza WAKO Tea Salon (Reservation Tips) |
 | 223709608832 | ginza-guide-2025 | Ginza Lotte Duty Free Shopping (Dassai 23, Yamazaki 12 Year) |
 | 223708789355 | azabudai-hills-criollo-chocolate-review | Criollo Chocolatier Review |
 | 223703326263 | ginza-shiseido-parlour-gift-guide | Ginza Shiseido Parlour Gift Shopping Guide |
@@ -321,12 +320,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 170
+- **Total Posts Migrated:** 171
 - **Naver IDs Tracked:** 222
-- **Pending References:** 63
+- **Pending References:** 62
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-21 (Ginza Kagari Chicken Paitan Ramen Guide)
+- **Last Migration Date:** 2026-02-21 (Ginza WAKO Tea Salon)
 
 ---
 

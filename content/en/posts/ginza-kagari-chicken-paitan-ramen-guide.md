@@ -188,10 +188,7 @@ translationKey: "ginza-kagari-chicken-paitan-ramen-guide"
 <p><strong>🧡 More Ginza Guides You'll Love</strong></p>
 
 <p><strong>1. Sweet treat after ramen? Ginza's finest luxury dessert</strong></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223715784445
-     Hugo: /posts/ginza-wako-tea-salon/ -->
-<p>Ginza WAKO Tea Salon: Cakes, Chocolates & Strawberry Parfait</p>
+<p><a href="/posts/ginza-wako-tea-salon/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 Ginza WAKO Tea Salon: Cakes, Chocolates & Strawberry Parfait</strong></a></p>
 
 <p><strong>2. Burn off those calories shopping? 2026 tips for 5% off luxury brands in Ginza</strong></p>
 <p><a href="/posts/ginza-shopping-discount-guide-2026/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 Ginza Shopping Discount Tips: Mitsukoshi App vs Matsuya JCB</strong></a></p>
