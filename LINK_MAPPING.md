@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 168 posts migrated, 53 pending (221 total mapped)
+> **Status:** ⏳ In Progress - 169 posts migrated, 53 pending (222 total mapped)
 
 ---
 
@@ -49,6 +49,7 @@ When migrating a Naver blog post to Hugo:
 | 224189758086 | gotokuji-maneki-neko-cat-day-guide | 2026-02-20 | ✅ |
 | 224156966219 | tokyo-cherry-blossom-forecast-2026 | 2026-01-23 | ✅ |
 | 224145944230 | japan-mcdonalds-happy-set-2026-01 | 2026-01-16 | ✅ |
+| 224146568943 | ginza-kagari-chicken-paitan-ramen-guide | - | pending |
 | 224146973824 | tokyo-nihonbashi-manten-sushi-guide | 2026-01-15 | ✅ |
 | 224144304263 | ginza-nemuro-hanamaru-sushi-guide | 2026-01-15 | ✅ |
 | 224142352662 | ginza-sato-yosuke-inaniwa-udon-guide | 2026-01-15 | ✅ |
@@ -188,7 +189,7 @@ When migrating a Naver blog post to Hugo:
 | 223989943826 | ginza-guide-2025 | 2025-01-06 | ✅ |
 | 223988228389 | roppongi-attractions-guide | 2024-09-02 | ✅ |
 | 223987954990 | roppongi-hills-observatory-guide | 2026-02-15 | ✅ |
-| 223987115708 | kaneko-hannosuke-roppongi-tempura | - | pending |
+| 223987115708 | iruka-tokyo-roppongi-michelin-ramen-guide | 2026-02-21 | ✅ |
 | 223986407872 | tsujihan-midtown-kaisendon-guide | - | pending |
 | 223985958480 | imakatsu-roppongi-tonkatsu-guide | - | pending |
 | 223980220327 | tokyo-august-festivals-sumida-river | - | pending |
@@ -254,6 +255,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 
 | Naver ID | Referenced In | Description |
 |----------|---------------|-------------|
+| 224146568943 | iruka-tokyo-roppongi-michelin-ramen-guide | Ginza Kagari: Michelin Chicken Paitan Ramen Guide |
 | 224096203397 | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
 | 224095118118 | - | Demoted from Quick (Filesystem mismatch) |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
@@ -263,7 +265,7 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 224002738158 | narita-express-guide | Narita Express (N'EX) Reservation, Price, Timetable |
 | 223993881300 | evangelion-30th-roppongi-2025, roppongi-attractions-guide | Tokyo Roppongi Restaurant Map |
 | 223991251786 | shinanoya-roppongi-hills-supermarket, roppongi-attractions-guide | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
-| 223987115708 | kaneko-hannosuke-roppongi-tempura | Tempura Meshi Kaneko Hannosuke: Roppongi Hills Tempura Restaurant |
+| 223987115708 | iruka-tokyo-roppongi-michelin-ramen-guide | Iruka Tokyo Roppongi: Michelin Bib Gourmand Ramen Guide |
 | 223986407872 | tsujihan-midtown-kaisendon-guide | Tsujihan Midtown: Roppongi Kaisendon Restaurant |
 | 223985958480 | imakatsu-roppongi-tonkatsu-guide | Imakatsu Roppongi Main Store: Tokyo Tonkatsu Restaurant |
 | 223980220327 | tokyo-august-festivals-sumida-river | August Tokyo Festivals: Sumida River Lantern Floating |
@@ -320,12 +322,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 168
-- **Naver IDs Tracked:** 221
-- **Pending References:** 63
+- **Total Posts Migrated:** 169
+- **Naver IDs Tracked:** 222
+- **Pending References:** 64
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-20 (Azabudai Hills Sky Room Sunset View)
+- **Last Migration Date:** 2026-02-21 (Iruka Tokyo Roppongi Michelin Ramen Guide)
 
 ---
 
