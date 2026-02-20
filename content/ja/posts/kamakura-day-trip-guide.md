@@ -283,7 +283,7 @@ JRで鎌倉に来て、現地で**江ノ電に3回以上**乗るなら、この�
 
 鎌倉駅のレストランは別の投稿で扱う予定なので、今日は**江ノ電に乗ってのみ出会える素敵なレストラン**をご紹介します。（すべて食べログ評価3.5以上で検証済み！）
 
-**👉 <a href="#" target="_blank"><!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>鎌倉駅レストランBEST 10｜地元民が並ぶローカル食堂・カフェ・お土産完全ガイド</strong></a>**
+**👉 <!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>鎌倉駅レストランBEST 10｜地元民が並ぶローカル食堂・カフェ・お土産完全ガイド</strong>**
 
 **🚃 1. 電車が目の前を通過する「よりどころ」（稲村ヶ崎駅）**
 
@@ -391,7 +391,7 @@ JRで鎌倉に来て、現地で**江ノ電に3回以上**乗るなら、この�
 
 ## <strong>🧡 関連東京郊外旅行ガイド</strong>
 
-**➡️ <a href="#" target="_blank"><!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>鎌倉駅レストランBEST 10｜地元民が並ぶローカル食堂・カフェ・お土産完全ガイド</strong></a>**
+**➡️ <!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>鎌倉駅レストランBEST 10｜地元民が並ぶローカル食堂・カフェ・お土産完全ガイド</strong>**
 
 **➡️ <a href="/ja/posts/hakone-travel-guide-day-trip-vs-ryokan/" target="_blank"><strong>東京郊外箱根旅行完璧コース（箱根フリーパス・ロマンスカー）</strong></a>**
 

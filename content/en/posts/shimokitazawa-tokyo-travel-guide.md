@@ -291,7 +291,7 @@ Have a wonderful Tokyo trip! :D
 
 <strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Travel Course: Shibuya Sky Reservation Tips & Complete Shopping Guide</strong></a>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Kichijoji Travel Course: Boutique Shop Tour & Inokashira Park (Ghibli Museum)</strong></a>
+<strong>➡️</strong> <strong>Kichijoji Travel Course: Boutique Shop Tour & Inokashira Park (Ghibli Museum)</strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

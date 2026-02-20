@@ -133,7 +133,7 @@ The <strong>'Original Commemorative Mug'</strong> that's hugely popular every ye
 Ueno Park, where the market is held, is home to Japan's top cultural facilities including <strong>Tokyo National Museum</strong> and <strong>National Museum of Western Art</strong>. We recommend exploring the museums during the day, then heading to the Christmas market in the evening.
 
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Complete Course from Ameyoko Market to Park</strong></a>
+<strong>➡️ Ueno Attractions: Complete Course from Ameyoko Market to Park</strong>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-04.jpg" alt="Ueno Ameyoko Market, great for daytime visits">
@@ -197,7 +197,7 @@ Before the illumination lights up, we recommend visiting the 'Evangelion 30th An
 <a href="/posts/evangelion-30th-roppongi-2025/" style="color: #667eea;"><strong>➡️ Evangelion 30th Anniversary Exhibition at Roppongi Hills Tokyo City View (ALL OF EVANGELION)</strong></a>
 
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><strong>➡️ Complete Guide to Roppongi Attractions (Illumination, Restaurant Info)</strong></a>
+<strong>➡️ Complete Guide to Roppongi Attractions (Illumination, Restaurant Info)</strong>
 
 <strong>✅ View detailed info on 10 booth menus, glühwein, and mugs at the Christmas Market</strong>
 
@@ -255,10 +255,10 @@ If you have time, also check out another Christmas event at 'Yokohama Park' just
 This is a perfect day trip course from Tokyo. We recommend exploring <strong>'Chinatown'</strong> or <strong>'Minato Mirai'</strong> during the day, then heading to the Christmas market in the evening.
 
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><strong>➡️ Yokohama 1-Day Course: Chinatown Restaurants, Akarenga Soko, Night View Complete Guide</strong></a>
+<strong>➡️ Yokohama 1-Day Course: Chinatown Restaurants, Akarenga Soko, Night View Complete Guide</strong>
 
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><strong>➡️ Yokohama All-Day Transportation Pass: Minato Burari Ticket</strong></a>
+<strong>➡️ Yokohama All-Day Transportation Pass: Minato Burari Ticket</strong>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-11.jpg" alt="Colorful entrance of Yokohama Chinatown, great for daytime visits">
@@ -304,10 +304,10 @@ A massive fir tree glowing warmly in champagne gold lighting stands in the centr
 Before the market opens, we recommend experiencing fantastic media art at Azabudai Hills' other attraction <strong>'teamLab Borderless'</strong>, or enjoying Tokyo's panoramic view at the <strong>'Sky Room'</strong> observatory cafe.
 
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills teamLab Borderless, Museum Without Maps</strong></a>
+<strong>➡️ Tokyo Azabudai Hills teamLab Borderless, Museum Without Maps</strong>
 
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Azabudai Hills Observatory Cafe Sky Room: Sunset & Night Views</strong></a>
+<strong>➡️ Tokyo Azabudai Hills Observatory Cafe Sky Room: Sunset & Night Views</strong>
 
 <div class="image-group-2">
   <figure>
@@ -426,7 +426,7 @@ A massive 14m-tall 'Christmas Pyramid' will be installed. (World's first with 2 
 Before the market opens, we recommend shopping and cafe hopping in nearby <strong>'Omotesando'</strong>, or heading to <strong>'Shinjuku'</strong> for a stroll through Shinjuku Gyoen.
 
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><strong>➡️ Omotesando Complete Guide (Coffee, Shopping, Restaurants)</strong></a>
+<strong>➡️ Omotesando Complete Guide (Coffee, Shopping, Restaurants)</strong>
 
 <!-- Link updated -->
 <a href="/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>➡️ Shinjuku Attractions: From Shinjuku Gyoen to Restaurants and Shopping</strong></a>
@@ -523,7 +523,7 @@ At Clock Plaza, <strong>'The Westin Tokyo'</strong> operates its own food truck.
 Before the illumination starts, we recommend enjoying beer tasting at the <strong>'Yebisu Beer Museum (Yebisu Brewery Tokyo)'</strong> right next door, or having lunch at one of the stylish surrounding restaurants.
 
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><strong>➡️ Ebisu Must-Visit Spots: From Garden Place to Beer Museum</strong></a>
+<strong>➡️ Ebisu Must-Visit Spots: From Garden Place to Beer Museum</strong>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-markets-guide-2025-29.jpg" alt="Yebisu Brewery Tokyo beer inside Ebisu Garden Place, great for daytime visits">

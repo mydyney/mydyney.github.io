@@ -359,7 +359,7 @@ translationKey: "starbucks-reserve-roastery-tokyo-guide"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/im-donut-nakameguro-seongsu-guide/
      Hugo: /ja/posts/im-donut-nakameguro-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;">👉 <strong>中目黒から聖水まで、行列のできるドーナツのすべて</strong></a></p>
+<p>👉 <strong>中目黒から聖水まで、行列のできるドーナツのすべて</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

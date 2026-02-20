@@ -162,7 +162,7 @@ translationKey: "roppongi-hills-observatory-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681272647
      Hugo: /ja/posts/roppongi-hills-access-coin-locker-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 六本木ヒルズへのアクセスとコインロッカーの場所</strong></a></p>
+<p><strong>👉 六本木ヒルズへのアクセスとコインロッカーの場所</strong></p>
 
 ---
 
@@ -287,7 +287,7 @@ translationKey: "roppongi-hills-observatory-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /ja/posts/roppongi-restaurant-map-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 六本木レストランマップ — ミシュラン・食べログおすすめ店</strong></a></p>
+<p><strong>👉 六本木レストランマップ — ミシュラン・食べログおすすめ店</strong></p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-observatory-guide-18.jpg" alt="六本木観光完全ガイド サムネイル">

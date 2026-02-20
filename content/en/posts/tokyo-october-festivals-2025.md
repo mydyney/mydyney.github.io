@@ -63,7 +63,7 @@ A massive dance festival that shakes up Ikebukuro! Over 100 teams from across Ja
 
 <strong>💡 Tip</strong>: This is the grand finale of September's "Fukuro Festival." Don't miss the "Grand Dance" where all teams dance together on the final day!
 
-<a href="#" style="color: #667eea;"><strong>➡️ August Tokyo Festival: Harajuku Omotesando Super Yosakoi</strong></a>
+<strong>➡️ August Tokyo Festival: Harajuku Omotesando Super Yosakoi</strong>
 
 <figure>
   <img src="/images/posts/tokyo-october-festivals-2025-02.jpg" alt="Super Yosakoi dancers performing at 2025 Harajuku Omotesando festival">
@@ -280,7 +280,7 @@ October marks the prelude to Tokyo's full autumn foliage season. While downtown 
 - <strong>October Status</strong>: Late October brings foliage news from around Lake Ashi and high elevations. Though peak season is November, it's perfect for quietly enjoying autumn's beginning while visiting museums.
 - <strong>Highlight</strong>: Popular with families for combining hot springs and art with beautiful nature.
 
-<a href="#" style="color: #667eea;"><strong>➡️ Hakone Travel: Day Trip vs Ryokan 1-Night Perfect Course (Hakone Free Pass, Romancecar Reservations)</strong></a>
+<strong>➡️ Hakone Travel: Day Trip vs Ryokan 1-Night Perfect Course (Hakone Free Pass, Romancecar Reservations)</strong>
 
 ### 4. 🍂 Tokyo Downtown Parks (Meiji Jingu Gaien, etc.)
 

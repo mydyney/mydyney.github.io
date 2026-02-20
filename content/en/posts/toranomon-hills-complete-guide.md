@@ -98,7 +98,7 @@ Great for light meals or daytime drinking.
 <strong>🥢 Yakitori Nonotori Gencho</strong>
 Introducing the yakitori omakase restaurant on Station Tower 4F.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Yakitori Omakase, Nonotori Gencho Review</strong></a>
+➡️ <strong>Yakitori Omakase, Nonotori Gencho Review</strong>
 
 <figure>
   <img src="/images/posts/toranomon-hills-complete-guide-05.jpg" alt="Toranomon Hills Station Tower new hotspot T-Market entrance opened in 2024">
@@ -209,7 +209,7 @@ If Toranomon Hills is the center of 'business', neighboring 'Azabudai Hills' is 
 Take the subway 5 minutes to reach 'Roppongi Hills'.
 Experience another stunning Tokyo night view from 'Mori Art Museum' and 'Tokyo City View Observatory'.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong></a>
+➡️ <strong>Complete Guide to Roppongi Attractions (Observatory, Museum, Shopping, Restaurants)</strong>
 
 
 <div class="editors-note">

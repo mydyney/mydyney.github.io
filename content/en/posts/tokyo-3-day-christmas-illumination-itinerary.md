@@ -99,7 +99,7 @@ Drop off luggage at <b>Shinjuku hotel</b><br>
 and start your journey.<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">➡️Tokyo Narita Airport Arrival Guide:</a></b><a href="/posts/ginza-guide-2025/" style="color: #667eea;">➡️ Sumiyaki Unafuji, Michelin Grilled Eel</a></b><!-- TODO: https://blog.naver.com/tokyomate/223914321510 -> sumiyaki-unafuji-yurakucho --></p>
+➡️Tokyo Narita Airport Arrival Guide:</b><a href="/posts/ginza-guide-2025/" style="color: #667eea;">➡️ Sumiyaki Unafuji, Michelin Grilled Eel</a></b><!-- TODO: https://blog.naver.com/tokyomate/223914321510 -> sumiyaki-unafuji-yurakucho --></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-22.jpg" alt="Ginza Sumiyaki Unafuji Yurakucho hitsumabushi">
@@ -216,9 +216,9 @@ Isetan/Takashimaya department store shopping<br>
 (Lunch) Michelin udon Kirimugiya<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">➡️Tokyo Shinjuku Udon Restaurant,</a></b><br>
+➡️Tokyo Shinjuku Udon Restaurant,</b><br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">Kirimugiya Jinroku Michelin Udon</a></b></p>
+Kirimugiya Jinroku Michelin Udon</b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-30.jpg" alt="Tokyo Shinjuku udon restaurant Kirimugiya Jinroku Michelin udon">
@@ -232,11 +232,11 @@ Take <b>Narita Express (N'EX)</b><br>
 to the airport!<br>
 ​<br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">➡️ Narita Express (N'EX)</a></b><br>
+➡️ Narita Express (N'EX)</b><br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">Reservation, price, timetable complete guide</a></b><br>
+Reservation, price, timetable complete guide</b><br>
 <b><!-- Link updated -->
-<a href="#" style="color: #667eea;">(Round-trip discount, seat tips!)</a></b></p>
+(Round-trip discount, seat tips!)</b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-31.jpg" alt="Narita Airport departure home!!!">

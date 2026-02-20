@@ -236,7 +236,7 @@ Located right in the middle of Ginza's luxury shopping district, it's the most p
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
      Hugo: /posts/ginza-kagari-toripaitan-ramen-guide/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Ginza Kagari Main Store: Rich Toripaitan (Chicken Broth) Ramen Review</strong></a></p>
+<p><strong>➡️</strong> <strong>Ginza Kagari Main Store: Rich Toripaitan (Chicken Broth) Ramen Review</strong></p>
 
 ---
 

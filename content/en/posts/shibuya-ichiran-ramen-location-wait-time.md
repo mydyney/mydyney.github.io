@@ -379,17 +379,17 @@ If you're going to one more place after Shibuya Ichiran, **choose by preference*
 
 **👉 [Tokyo Station Ramen Street All Stores Guide | Misokin, Hirako-ya Including 10 Locations Map](/posts/tokyo-ramen-street-best-8/)**
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914118735
-     Hugo: /posts/ueno-ameyoko-guide/ -->Tokyo Ramen Restaurant Complete Guide | YouTube Neighborhood Friend Kang Nami Treasure Box Ramen Shops Summary</a>**
+     Hugo: /posts/ueno-ameyoko-guide/ -->Tokyo Ramen Restaurant Complete Guide | YouTube Neighborhood Friend Kang Nami Treasure Box Ramen Shops Summary**
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
-     Hugo: TBD -->Tokyo Ginza Kagari Main Store | Toripaitan Ramen, Michelin Bib Gourmand Wait & 2026 Menu</a>**
+     Hugo: TBD -->Tokyo Ginza Kagari Main Store | Toripaitan Ramen, Michelin Bib Gourmand Wait & 2026 Menu**
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987115708
-     Hugo: /posts/kaneko-hannosuke-roppongi-tempura/ -->Iruka Tokyo Roppongi | Michelin Ramen Restaurant Wait & Ordering Tips (Latest)</a>**
+     Hugo: /posts/kaneko-hannosuke-roppongi-tempura/ -->Iruka Tokyo Roppongi | Michelin Ramen Restaurant Wait & Ordering Tips (Latest)**
 
 </div>
 

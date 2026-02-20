@@ -42,7 +42,7 @@ Shinjuku Tokyo Metropolitan Government Building hosts Tokyo's largest free count
 <li><b>Recommended for:</b> Young travelers, couples, friend groups who want an exciting party atmosphere 🎉</li>
 </ul>
 
-<b>➡️ <a href="#" style="color: #667eea;"><strong>Shinjuku Tokyo Metropolitan Government Countdown 2026 Best Spots & Lineup</strong></a></b>
+<b>➡️ <strong>Shinjuku Tokyo Metropolitan Government Countdown 2026 Best Spots & Lineup</strong></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-02.jpg" alt="Tokyo countdown spot Shinjuku Tokyo Metropolitan Government 2026">
@@ -254,9 +254,9 @@ After the all-night party, curious about <b>'free sunrise spots without reservat
 
 ## 🧡 Related Tokyo Year-End Travel Information
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ Shinjuku Tokyo Metropolitan Government Countdown 2026 Best Spots & Lineup</strong></a>
+➡️ <strong>→ Shinjuku Tokyo Metropolitan Government Countdown 2026 Best Spots & Lineup</strong>
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ Tokyo Tower Lighting Off Schedule December 31, 2025 & New Year's Day Light-Up</strong></a>
+➡️ <strong>→ Tokyo Tower Lighting Off Schedule December 31, 2025 & New Year's Day Light-Up</strong>
 
 ➡️ <a href="/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;"><strong>→ 2026 Tokyo Year-End/New Year Hours & Business Info | Stores Open on January 1st</strong></a>
 

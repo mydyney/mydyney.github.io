@@ -118,7 +118,7 @@ translationKey: "ginza-hachigo-reservation-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
      Hugo: /posts/ginza-kagari-toripaitan-ramen-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>➡️ [Comparison Recommended] Ginza Kagari Main Store | Toripaitan Ramen Restaurant, Waiting & 2026 Menu Prices</strong></a></p>
+<p><strong>➡️ [Comparison Recommended] Ginza Kagari Main Store | Toripaitan Ramen Restaurant, Waiting & 2026 Menu Prices</strong></p>
 
 <ul>
   <li>Ginza is also home to another noodle sanctuary known as one of Japan's Top 3 Udon. Try the <strong>silky smooth udon</strong> that's as impressive as Michelin ramen.</li>

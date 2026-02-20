@@ -236,7 +236,7 @@ featured_image: "/images/posts/ginza-sato-yosuke-inaniwa-udon-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
      Hugo: /zh-cn/posts/ginza-kagari-toripaitan-ramen-guide/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>银座篝本店：鸡白汤（Toripaitan）浓郁口味测评</strong></a></p>
+<p><strong>➡️</strong> <strong>银座篝本店：鸡白汤（Toripaitan）浓郁口味测评</strong></p>
 
 ---
 

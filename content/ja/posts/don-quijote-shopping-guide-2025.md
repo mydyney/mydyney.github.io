@@ -98,15 +98,15 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 <strong>⭐サントリーウイスキー全ラインナップと公式価格は下記記事で確認！</strong>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">サントリーウイスキー日本公式価格ガイド（近日公開）</a></strong></p>
+<p><strong>➡️ サントリーウイスキー日本公式価格ガイド（近日公開）</strong></p>
 
 <strong>⭐より多様な日本ウイスキー情報はこちら！</strong>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">山崎・響公式価格＆ギフト用おすすめ完全ガイド（近日公開）</a></strong></p>
+<p><strong>➡️ 山崎・響公式価格＆ギフト用おすすめ完全ガイド（近日公開）</strong></p>
 
 <strong>⭐獺祭等級別違いと最新価格情報は下記記事で！</strong>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">獺祭23、45、39日本公式価格ガイド（近日公開）</a></strong></p>
+<p><strong>➡️ 獺祭23、45、39日本公式価格ガイド（近日公開）</strong></p>
 
 <figure>
   <img src="/images/posts/don-quijote-shopping-guide-2025-08.jpg" alt="ドンキのサントリー角瓶ウイスキーボトル">
@@ -264,9 +264,9 @@ featured_image: "/images/posts/don-quijote-shopping-guide-2025-01.jpg"
 
 <p><strong>➡️ <a href="/ja/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;">日本コンビニ完全攻略！（セブンイレブン、ファミマ、ローソン比較完全ガイド）</a></strong></p>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">山崎・響日本公式価格＆ギフト用ウイスキーおすすめ完全ガイド（近日公開）</a></strong></p>
+<p><strong>➡️ 山崎・響日本公式価格＆ギフト用ウイスキーおすすめ完全ガイド（近日公開）</strong></p>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">獺祭23、45、39日本酒日本公式価格完全ガイド（近日公開）</a></strong></p>
+<p><strong>➡️ 獺祭23、45、39日本酒日本公式価格完全ガイド（近日公開）</strong></p>
 
 
 <div class="editors-note">

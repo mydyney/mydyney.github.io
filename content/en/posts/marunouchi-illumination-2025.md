@@ -377,7 +377,7 @@ A: Yes, you can use JAPAN-FREE-WIFI (SSID).</p>
 ➡️ <a href="/posts/hibiya-midtown-illumination-2025/" target="_blank"><b>2025 Hibiya Midtown Illumination · Zootopia 2 Collaboration Guide</b></a></p>
 
 <p><b>⭐ Tokyo Station Complete Guide</b><br>
-➡️ <a href="#" style="color: #667eea;"><b>Tokyo Station Guide - Character Street, Restaurants, Night Views, Coin Lockers</b></a></p>
+➡️ <b>Tokyo Station Guide - Character Street, Restaurants, Night Views, Coin Lockers</b></p>
 
 
 <div class="editors-note">

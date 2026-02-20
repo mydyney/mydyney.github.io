@@ -82,7 +82,7 @@ From Busta Shinjuku's 4th floor terminal (connected to Shinjuku Station's South 
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="Sanrio Puroland indoor parade, Hello Kitty and My Melody characters">
-  <figcaption style="font-size: 0.7em; text-align: center;">Sanrio Puroland indoor parade, Hello Kitty and My Melody characters <a href="#" target="_blank">(Source)</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">Sanrio Puroland indoor parade, Hello Kitty and My Melody characters (Source)</figcaption>
 </figure>
 
 Hello Kitty, Cinnamoroll, My Melody...

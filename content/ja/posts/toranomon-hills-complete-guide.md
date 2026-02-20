@@ -98,7 +98,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 <strong>🥢 焼き鳥 野野鳥 げん長</strong>
 ステーションタワー4階にある焼き鳥おまかせレストランを紹介します。
 
-➡️ <a href="#" style="color: #667eea;"><strong>焼き鳥おまかせ、野野鳥げん長レビュー</strong></a>
+➡️ <strong>焼き鳥おまかせ、野野鳥げん長レビュー</strong>
 
 <figure>
   <img src="/images/posts/toranomon-hills-complete-guide-05.jpg" alt="2024年オープン虎ノ門ヒルズステーションタワー新スポットT-Market入口">
@@ -209,7 +209,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 地下鉄5分で「六本木ヒルズ」に到着します。
 「森美術館」と「東京シティビュー展望台」でまた別の感動の東京夜景を体験してください。
 
-➡️ <a href="#" style="color: #667eea;"><strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、グルメ）</strong></a>
+➡️ <strong>六本木アトラクション完全ガイド（展望台、美術館、ショッピング、グルメ）</strong>
 
 
 <div class="editors-note">

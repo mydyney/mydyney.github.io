@@ -290,7 +290,7 @@ N'EXとの完全比較まで、この記事ですべてマスターしましょ�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<a href="#" style="color: #667eea;"><b>➡️ 東京交通パスおすすめ、東京メトロパス vs 都区内パス完全比較</b></a>
+<b>➡️ 東京交通パスおすすめ、東京メトロパス vs 都区内パス完全比較</b>
 
 <b>⭐ 一緒に見るとよい東京旅行ガイド</b>
 
@@ -299,7 +299,7 @@ N'EXとの完全比較まで、この記事ですべてマスターしましょ�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031937227
      Hugo: /ja/posts/akihabara-complete-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ 秋葉原の遊び場、フィギュアショップ、グルメ、ガチャ、アニメ聖地巡礼おすすめコース総まとめ</b></a>
+<b>➡️ 秋葉原の遊び場、フィギュアショップ、グルメ、ガチャ、アニメ聖地巡礼おすすめコース総まとめ</b>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

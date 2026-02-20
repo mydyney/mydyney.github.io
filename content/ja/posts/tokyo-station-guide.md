@@ -36,7 +36,7 @@ featured_image: "/images/posts/tokyo-station-guide-01.jpg"
 
 ポケモンファンの聖地！東京駅でしか手に入らない限定グッズを購入したり、本物のポケモンカードを確認したりできます。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[詳しく見る] 東京駅ポケモンストア＆ピカチュウポケモンカードレビュー</strong></a>
+➡️ <strong>[詳しく見る] 東京駅ポケモンストア＆ピカチュウポケモンカードレビュー</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-03.jpg" alt="東京駅キャラクターストリートのポケモンストア">
@@ -47,7 +47,7 @@ featured_image: "/images/posts/tokyo-station-guide-01.jpg"
 
 東京の有名ラーメン店が集結する激戦区！濃厚な豚骨から洗練された醤油ラーメンまで、わざわざ市内を移動しなくても、東京の「ベスト8」ラーメン店をここ一箇所で味わうことができます。
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京ラーメンストリートBEST 8、完全ガイド＆レビュー</strong></a>
+➡️ <strong>東京ラーメンストリートBEST 8、完全ガイド＆レビュー</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-04.jpg" alt="東京ラーメンストリート入口">
@@ -97,7 +97,7 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>グルメ：</strong> 5階には北海道から来た新鮮な回転寿司の名店 <strong>「[根室花まる KITTE店](https://maps.app.goo.gl/T3n3Ct875ULmaqsy5) 📍」</strong> があります。待ち時間が長いことで有名なので、事前に整理券を取ることをおすすめします。
 
-➡️ <a href="#" style="color: #667eea;"><strong>KITTEグルメ、根室花まる回転寿司の待ち時間と予約のコツ</strong></a>
+➡️ <strong>KITTEグルメ、根室花まる回転寿司の待ち時間と予約のコツ</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-08.jpg" alt="KITTE丸の内ビル">
@@ -106,7 +106,7 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>無料展望台（夜景スポット）：</strong> 6階の屋上庭園は、東京駅の夜景を最も美しく眺められる最高の <strong>無料展望台</strong> です。赤レンガの丸の内駅舎と行き交う列車を眺めながら、ロマンチックな夕方の時間を過ごしてみてください。🌃
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京駅KITTEクリスマスツリーと無料展望台レビュー、鉄道マニア必須コース</strong></a>
+➡️ <strong>東京駅KITTEクリスマスツリーと無料展望台レビュー、鉄道マニア必須コース</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-09.jpg" alt="KITTE6階無料展望台からの眺め">
@@ -121,7 +121,7 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>ブランチカフェ：</strong> <strong>[THE FRONT ROOM](https://maps.app.goo.gl/ovxMQuriDq381Cnw7) 📍</strong> は朝早くから営業しており、旅行の始まりにフレンチトーストと一緒にしっかりとした朝食を楽しむのに良い東京駅カフェです。
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京駅朝食、フレンチトーストのおいしい店 THE FRONT ROOM レビュー</strong></a>
+➡️ <strong>東京駅朝食、フレンチトーストのおいしい店 THE FRONT ROOM レビュー</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-10.jpg" alt="丸ビル1階ブランチカフェ THE FRONT ROOM フレンチトースト">
@@ -130,7 +130,7 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>無料展望台：</strong> 5階と35階に隠された無料展望台があり、夕暮れ時の夕日と夜景を鑑賞するのに最適です。
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京駅夕焼けスポット、丸ビル無料展望台レビュー</strong></a>
+➡️ <strong>東京駅夕焼けスポット、丸ビル無料展望台レビュー</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-11.jpg" alt="丸ビル35階無料展望台から見た夕焼け">
@@ -143,7 +143,7 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 <strong>夜景＆ダイニング：</strong> 7階 <strong>「丸の内ハウス (Marunouchi House)」</strong> の屋外テラスは、東京駅の夜景を正面から眺めながらディナーやカクテルを楽しめるロマンチックな場所です。金曜・土曜の夜の雰囲気は特に最高です。
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京駅夜景を見ながらディナー、新丸ビルハウスオープンテラスレビュー</strong></a>
+➡️ <strong>東京駅夜景を見ながらディナー、新丸ビルハウスオープンテラスレビュー</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-12.jpg" alt="ライトアップされた美しい赤レンガの東京駅丸の内駅舎全景">
@@ -158,7 +158,7 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 皇居の近くに位置する特別な <strong>和田倉噴水公園スターバックス</strong>。全面ガラス張りの窓越しに見える公園の夜景と共にコーヒーを楽しめるため、東京駅の夜景カフェとして人気があります。
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京駅夜景カフェ、和田倉噴水公園スターバックスレビュー</strong></a>
+➡️ <strong>東京駅夜景カフェ、和田倉噴水公園スターバックスレビュー</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-13.jpg" alt="和田倉噴水公園スターバックスの外観">
@@ -189,7 +189,7 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 
 ➡️ <a href="/ja/posts/marunouchi-illumination-2025/" style="color: #667eea;"><strong>2025年丸の内イルミネーション最新情報（ディズニー、マーケット総まとめ）</strong></a>
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京ミッドタウン日比谷クリスマスイルミネーション、モアナコラボ</strong></a>
+➡️ <strong>東京ミッドタウン日比谷クリスマスイルミネーション、モアナコラボ</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-16.jpg" alt="丸の内仲通りイルミネーション">
@@ -205,7 +205,7 @@ KITTE（キッテ）は東京駅丸の内南口の目の前にあるJPタワー�
 <strong>注意点：</strong> 駅が非常に広くコインロッカーの数も多いため、預けた場所を必ず <strong>写真に撮っておく</strong> ことを強くおすすめします。八重洲方面の改札外コインロッカーは管理主体が異なり、番号体系が複雑になることがあるので注意してください。
 
 <!-- Link for coin locker guide page (placeholder) -->
-➡️ <a href="#" style="color: #667eea;"><strong>[リンク] 東京駅コインロッカーの空き状況と位置を確認する</strong></a>
+➡️ <strong>[リンク] 東京駅コインロッカーの空き状況と位置を確認する</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-17.jpg" alt="東京駅コインロッカー">
@@ -227,7 +227,7 @@ A3. はい、有効なJRパスをお持ちであれば、駅員にパスを見�
 
 ➡️ <a href="/ja/posts/ginza-guide-2025/" style="color: #667eea;"><strong>銀座行くべき場所、失敗しないおすすめコース総まとめ（ショッピング、グルメ、裏技）</strong></a>
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京交通パスのおすすめ、東京メトロパス vs 都区内パス完全比較</strong></a>
+➡️ <strong>東京交通パスのおすすめ、東京メトロパス vs 都区内パス完全比較</strong>
 
 
 <div class="editors-note">

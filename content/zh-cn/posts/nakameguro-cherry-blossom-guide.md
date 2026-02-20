@@ -266,7 +266,7 @@ translationKey: "nakameguro-cherry-blossom-guide"
 <!-- TODO: Update link after migration
      Naver: /zh-cn/posts/im-donut-nakameguro-seongsu-guide/
      Hugo: /zh-cn/posts/im-donut-nakameguro-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 I'm Donut中目黑: 排队时间与真实测评</strong></a></p>
+<p><strong>👉 I'm Donut中目黑: 排队时间与真实测评</strong></p>
 
 <p><strong>4. 樱花打卡点附近的一人涮涮锅</strong></p>
 <p><a href="/zh-cn/posts/nakameguro-shabushabu-lettuce-main-store/" style="color: #667eea; text-decoration: underline;"><strong>👉 中目黑涮涮锅Lettuce: 预约方法与用餐攻略</strong></a></p>
@@ -275,7 +275,7 @@ translationKey: "nakameguro-cherry-blossom-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224177943474
      Hugo: /zh-cn/posts/starbucks-reserve-roastery-tokyo-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 星巴克臻选烘焙工坊东京: 露台座位与攻略指南</strong></a></p>
+<p><strong>👉 星巴克臻选烘焙工坊东京: 露台座位与攻略指南</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

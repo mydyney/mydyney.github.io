@@ -144,9 +144,9 @@ As the hot Halloween festivities wind down at the end of October, Tokyo welcomes
 
 <strong>⭐ Related Tokyo Travel Guides</strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide (Enjoy with Pumpkin Parade)</strong></a></strong>
+<strong>➡️ <strong>Omotesando Complete Guide (Enjoy with Pumpkin Parade)</strong></strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Roppongi Complete Guide (Enjoy with Halloween Stamp Rally)</strong></a></strong>
+<strong>➡️ <strong>Roppongi Complete Guide (Enjoy with Halloween Stamp Rally)</strong></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

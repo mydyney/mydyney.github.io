@@ -230,7 +230,7 @@ featured_image: "/images/posts/nakameguro-shabushabu-lettuce-main-store-01.jpg"
 <br>
 <strong>🌸 中目黒の見どころ：</strong><a href="{{< relref "nakameguro-complete-guide" >}}" style="color: #667eea;">目黒川の桜、トレンディなカフェ、ブティック完全ガイド</a><br>
 <br>
-<strong>🏛️ 代官山の見どころ：</strong><a href="#" style="color: #667eea;">蔦屋書店、おしゃれなショップ、カフェ巡りガイド</a><br>
+<strong>🏛️ 代官山の見どころ：</strong>蔦屋書店、おしゃれなショップ、カフェ巡りガイド<br>
 <br>
 <strong>🛍️ 渋谷の見どころ：</strong><a href="/ja/posts/shibuya-complete-guide-2025/" style="color: #667eea;">たった1駅！渋谷完全ガイド（パルコ、渋谷スカイ）</a></p>
 

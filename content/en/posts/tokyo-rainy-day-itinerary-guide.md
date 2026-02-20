@@ -65,7 +65,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Ginza Lotte Duty Free Whisky Guide</strong></a></p>
+<p><strong>👉 Ginza Lotte Duty Free Whisky Guide</strong></p>
 <p><a href="/posts/ginza-shopping-discount-guide-2026/" style="color: #667eea; text-decoration: underline;"><strong>👉 Ginza Shopping Discount Tips: Mitsukoshi vs Matsuya Department Store Comparison</strong></a></p>
 
 <p><strong>🕔 17:00 | Tokyo Station Underground & Character Street</strong></p>
@@ -98,7 +98,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224131055243
      Hugo: /posts/shinjuku-department-store-guest-card-discount/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Shinjuku Department Store Guest Card 5% Discount Comparison (Isetan vs Takashimaya)</strong></a></p>
+<p><strong>👉 Shinjuku Department Store Guest Card 5% Discount Comparison (Isetan vs Takashimaya)</strong></p>
 
 <p><strong>2️⃣ Ikebukuro Sunshine City Route (Family-Friendly)</strong></p>
 <p>An underground passage connects Ikebukuro Station directly to Sunshine City. With an aquarium, Pokemon Center, and a large mall all in one building, it's the most reliable option for <strong>a rainy day itinerary with kids in Tokyo</strong>.</p>
@@ -109,15 +109,15 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
      Hugo: /posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Tokyo Station KITTE Free Observatory & Train View Spot</strong></a></p>
+<p><strong>👉 Tokyo Station KITTE Free Observatory & Train View Spot</strong></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675952285
      Hugo: /posts/marunouchi-building-free-observatory/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Marunouchi Building Free Observatory: Sunset & Night View Guide</strong></a></p>
+<p><strong>👉 Marunouchi Building Free Observatory: Sunset & Night View Guide</strong></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
      Hugo: /posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Shin-Marunouchi Building Open Terrace House</strong></a></p>
+<p><strong>👉 Shin-Marunouchi Building Open Terrace House</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-rainy-day-itinerary-guide-03.jpg" alt="Rainy day Marunouchi indoor route with Tokyo Station view">

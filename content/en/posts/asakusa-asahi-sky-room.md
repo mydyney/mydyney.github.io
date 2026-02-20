@@ -219,7 +219,7 @@ and all the insider tips for enjoying <strong>Tokyo Skytree and Sensoji night vi
 
 <p><strong>➡️</strong> <a href="/posts/ebisu-brewery-tokyo/" style="color: #667eea; text-decoration: underline;"><strong>Yebisu Brewery Tokyo (Must-Visit for Beer Enthusiasts)</strong></a></p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>Ginza Sapporo The Bar (Perfect Draft Beer Review)</strong></a></p>
+<p><strong>➡️</strong> <!-- TODO: Update link when post is migrated --><strong>Ginza Sapporo The Bar (Perfect Draft Beer Review)</strong></p>
 
 <p><strong>⭐ Want to Know More About Asakusa?</strong></p>
 
@@ -229,7 +229,7 @@ and all the insider tips for enjoying <strong>Tokyo Skytree and Sensoji night vi
 
 <p>Near the Sky Room night view spot, you'll find Asakusa Gyukatsu, an essential gourmet course for Tokyo travelers. If you're curious about the latest 2026 prices and reservation tips to skip the line, check out the guide below!</p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>Asakusa Gyukatsu Reservation Tips for Branch Locations | Complete Comparison of Main Store Waiting Times</strong></a></p>
+<p><strong>➡️</strong> <!-- TODO: Update link when post is migrated --><strong>Asakusa Gyukatsu Reservation Tips for Branch Locations | Complete Comparison of Main Store Waiting Times</strong></p>
 
 <p><strong>➡️</strong> <a href="/posts/asakusa-imahan-kokusaidori-guide/" style="color: #667eea; text-decoration: underline;"><strong>120-Year Traditional Restaurant! Asakusa Imahan Lunch & Dinner Perfect Guide</strong></a></p>
 

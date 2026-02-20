@@ -26,7 +26,7 @@ featured_image: "/images/posts/narita-airport-skyliner-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
      Hugo: /zh-cn/posts/visit-japan-web-registration-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [详细了解] Visit Japan Web登记方法5分钟完成(同行家人、QR码最新版)</b></a>
+<b>➡️ [详细了解] Visit Japan Web登记方法5分钟完成(同行家人、QR码最新版)</b>
 
 ## 🔍 Skyliner vs 成田特快(哪个列车适合我?)
 
@@ -303,7 +303,7 @@ Skyliner的下车站是<b>日暮里(日暮里)</b>和<b>京成上野(京成上�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<a href="#" style="color: #667eea;"><b>➡️ 东京交通通票推荐,东京Metro通票 vs 都区内通票完全对比</b></a>
+<b>➡️ 东京交通通票推荐,东京Metro通票 vs 都区内通票完全对比</b>
 
 <b>⭐ 推荐一起看的东京旅游攻略</b>
 
@@ -318,7 +318,7 @@ Skyliner的下车站是<b>日暮里(日暮里)</b>和<b>京成上野(京成上�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031937227
      Hugo: /zh-cn/posts/akihabara-complete-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ 秋叶原游玩攻略,手办店、美食、扭蛋、动漫圣地巡礼推荐路线完全指南</b></a>
+<b>➡️ 秋叶原游玩攻略,手办店、美食、扭蛋、动漫圣地巡礼推荐路线完全指南</b>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编辑说明</strong></p>

@@ -331,7 +331,7 @@ featured_image: "/images/posts/ikebukuro-complete-guide-01.jpg"
 <strong>伝統の街：上野</strong>
 山手線で新宿と反対方向！
 
-<strong>➡️ <a href="#" style="color: #667eea;">上野観光スポット - アメ横市場、グルメから上野公園まで</a></strong>
+<strong>➡️ 上野観光スポット - アメ横市場、グルメから上野公園まで</strong>
 
 <strong>🚇 丸ノ内線16分！</strong>
 <strong>東京の中心：東京駅</strong>

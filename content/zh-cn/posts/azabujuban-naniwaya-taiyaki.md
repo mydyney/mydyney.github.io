@@ -101,7 +101,7 @@ featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"
 
 <strong>艺术&购物之街：六本木之丘</strong> - 想感受与麻布十番风情商店街不同的现代能量和艺术灵感，请前往六本木之丘。
 
-➡️ <a href="#" style="color: #667eea;"><strong>六本木游玩地完全攻略（展望台、美术馆、购物、美食）</strong></a>
+➡️ <strong>六本木游玩地完全攻略（展望台、美术馆、购物、美食）</strong>
 
 
 <div class="editors-note">

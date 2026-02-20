@@ -151,7 +151,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">地铁乘车券 vs JR 都区内通票：哪种更适合你的路线？</a></b></p>
+<p>➡️ <b>地铁乘车券 vs JR 都区内通票：哪种更适合你的路线？</b></p>
 
 <br>
 
@@ -278,11 +278,11 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">东京交通票券该买哪种？ (地铁通票 vs JR 都区内通票对比)</a></b></p>
+<p>➡️ <b>东京交通票券该买哪种？ (地铁通票 vs JR 都区内通票对比)</b></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
      Hugo: /zh-cn/posts/skyliner-reservation-guide/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">从成田机场到市内：京成电铁 Skyliner 预订全攻略</a></b></p>
+<p>➡️ <b>从成田机场到市内：京成电铁 Skyliner 预订全攻略</b></p>
 <p>➡️ <b><a href="/zh-cn/posts/don-quijote-shopping-guide-2025/">【2025】东京唐吉诃德必买清单及优惠券领取</a></b></p>
 
 <br>

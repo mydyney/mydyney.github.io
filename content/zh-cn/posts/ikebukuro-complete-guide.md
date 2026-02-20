@@ -331,7 +331,7 @@ Animate附近
 <strong>传统之街：上野</strong>
 山手线往新宿反方向！
 
-<strong>➡️ <a href="#" style="color: #667eea;">上野观光景点 - 阿美横丁市场、美食到上野公园</a></strong>
+<strong>➡️ 上野观光景点 - 阿美横丁市场、美食到上野公园</strong>
 
 <strong>🚇 丸之内线16分钟！</strong>
 <strong>东京中心：东京站</strong>

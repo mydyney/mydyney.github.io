@@ -78,7 +78,7 @@ with dates, access info, and insider tips!</p>
 <strong>📅 NEW! Updated: Nov 4, 2025 - Roppongi Hills is now open!</strong><br>
 <a href="/posts/roppongi-christmas-illumination-2025/" style="color:#667eea;"><strong>➡️ Roppongi Illumination 2025: Complete Guide to Keyakizaka, Christmas Market & More</strong></a></p>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree</strong></a></p>
+<p><strong>➡️ 2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-03.jpg" alt="2025 Roppongi Hills Keyakizaka Illumination with Tokyo Tower">
@@ -210,7 +210,7 @@ with dates, access info, and insider tips!</p>
   </ul>
 </div>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024 Tokyo Azabudai Hills Christmas Market Review</strong></a></p>
+<p><strong>➡️ 2024 Tokyo Azabudai Hills Christmas Market Review</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-10.jpg" alt="2024 Azabudai Hills Christmas Market with Tokyo Tower">
@@ -239,7 +239,7 @@ with dates, access info, and insider tips!</p>
   </ul>
 </div>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ Tokyo Skytree Illumination and Christmas Market</strong></a></p>
+<p><strong>➡️ Tokyo Skytree Illumination and Christmas Market</strong></p>
 
 <p><strong>🎄 Completely New "Christmas Special Lighting" for Skytree!</strong><br>
 This year marks the first complete redesign of Christmas special lighting since Skytree opened! Three themed lightings - "Ornament Tree", "Elegant Tree", and "Santa Claus" - change approximately every minute, painting the night sky with dazzling colors.</p>

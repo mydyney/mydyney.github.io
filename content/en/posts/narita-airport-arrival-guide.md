@@ -132,7 +132,7 @@ we've summarized it all in this perfect guide.</p>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /posts/narita-express-guide/ --><strong><a href="#">[Details] Narita Express (N'EX) Reservations, Prices, and Timetable</a></strong></p>
+     Hugo: /posts/narita-express-guide/ --><strong>[Details] Narita Express (N'EX) Reservations, Prices, and Timetable</strong></p>
 
 <p><strong>✅ 2. Keisei Skyliner</strong></p>
 <ul>
@@ -145,7 +145,7 @@ we've summarized it all in this perfect guide.</p>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
-     Hugo: /posts/skyliner-reservation-guide/ --><strong><a href="#">[Details] Keisei Skyliner Reservations, Timetable, and Prices</a></strong></p>
+     Hugo: /posts/skyliner-reservation-guide/ --><strong>[Details] Keisei Skyliner Reservations, Timetable, and Prices</strong></p>
 
 <p><strong>✅ 3. Regular Train (JR / Access Express)</strong></p>
 <ul>
@@ -156,7 +156,7 @@ we've summarized it all in this perfect guide.</p>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007665631
-     Hugo: /posts/narita-to-asakusa-subway-guide/ --><strong><a href="#">[Details] Narita Airport Subway: Cheapest Way to Tokyo Station and Asakusa</a></strong></p>
+     Hugo: /posts/narita-to-asakusa-subway-guide/ --><strong>[Details] Narita Airport Subway: Cheapest Way to Tokyo Station and Asakusa</strong></p>
 
 <p><strong>✅ 4. Airport Limousine Bus</strong></p>
 <ul>
@@ -187,14 +187,14 @@ we've summarized it all in this perfect guide.</p>
 <p><strong>⭐ Essential preparation before entering Japan: Have you done Visit Japan Web?</strong></p>
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
-     Hugo: /posts/visit-japan-web-guide/ --><strong><a href="#">Visit Japan Web Registration Guide: 5-Minute Completion (Family, QR Code)</a></strong></p>
+     Hugo: /posts/visit-japan-web-guide/ --><strong>Visit Japan Web Registration Guide: 5-Minute Completion (Family, QR Code)</strong></p>
 
 <p><strong>⭐ What about transportation within Tokyo?</strong></p>
 <p>Now that you're prepared for your move from the airport, it's time to solve the complex city transportation! Check out the comprehensive guide below to see which transportation pass is the cheapest and most efficient for your itinerary.</p>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /posts/tokyo-subway-pass-vs-jr-tokunai-pass/ --><strong><a href="#">Recommended Tokyo Transportation Passes: Subway Pass vs. JR Tokunai Pass Comparison</a></strong></p>
+     Hugo: /posts/tokyo-subway-pass-vs-jr-tokunai-pass/ --><strong>Recommended Tokyo Transportation Passes: Subway Pass vs. JR Tokunai Pass Comparison</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

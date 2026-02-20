@@ -379,17 +379,17 @@ A. 一兰门店的一兰拉面套装种类最齐全。特别是礼品专用包�
 
 **👉 [东京站拉面街全店指南 | 包括味噌金、平子屋在内的10家店铺地图](/posts/tokyo-ramen-street-best-8/)**
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914118735
-     Hugo: /posts/ueno-ameyoko-guide/ -->东京拉面店完全指南 | YouTube邻居朋友姜娜美宝箱拉面店汇总</a>**
+     Hugo: /posts/ueno-ameyoko-guide/ -->东京拉面店完全指南 | YouTube邻居朋友姜娜美宝箱拉面店汇总**
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
-     Hugo: TBD -->东京银座Kagari本店 | 鸡白汤拉面、米其林必比登推介等待时间・2026年菜单</a>**
+     Hugo: TBD -->东京银座Kagari本店 | 鸡白汤拉面、米其林必比登推介等待时间・2026年菜单**
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987115708
-     Hugo: /posts/kaneko-hannosuke-roppongi-tempura/ -->Iruka东京六本木 | 米其林拉面店等待时间・点餐技巧（最新）</a>**
+     Hugo: /posts/kaneko-hannosuke-roppongi-tempura/ -->Iruka东京六本木 | 米其林拉面店等待时间・点餐技巧（最新）**
 
 </div>
 

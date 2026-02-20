@@ -266,7 +266,7 @@ translationKey: "nakameguro-cherry-blossom-guide"
 <!-- TODO: Update link after migration
      Naver: /ja/posts/im-donut-nakameguro-seongsu-guide/
      Hugo: /ja/posts/im-donut-nakameguro-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 アイムドーナツ中目黒：待ち時間＆正直レビュー</strong></a></p>
+<p><strong>👉 アイムドーナツ中目黒：待ち時間＆正直レビュー</strong></p>
 
 <p><strong>4. 桜スポットの近くで楽しむ一人しゃぶしゃぶ</strong></p>
 <p><a href="/ja/posts/nakameguro-shabushabu-lettuce-main-store/" style="color: #667eea; text-decoration: underline;"><strong>👉 中目黒しゃぶしゃぶレタス：予約方法＆利用ガイド</strong></a></p>
@@ -275,7 +275,7 @@ translationKey: "nakameguro-cherry-blossom-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224177943474
      Hugo: /ja/posts/starbucks-reserve-roastery-tokyo-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 スターバックス リザーブ ロースタリー 東京：テラス席＆攻略ガイド</strong></a></p>
+<p><strong>👉 スターバックス リザーブ ロースタリー 東京：テラス席＆攻略ガイド</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

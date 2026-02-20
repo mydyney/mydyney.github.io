@@ -63,7 +63,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 
 <p><strong>📍 可一起游玩的区域：青山&表参道</strong></p>
 <p>游览银杏大道后，立即前往相邻的青山和表参道，推荐游览精致选品店、画廊、氛围咖啡厅的路线。</p>
-<p>➡️ <a href="#" style="color: #667eea;"><strong>表参道完全攻略：咖啡、购物、美食、建筑全汇总</strong></a></p>
+<p>➡️ <strong>表参道完全攻略：咖啡、购物、美食、建筑全汇总</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-03.jpg" alt="明治神宫外苑的银杏大道、金黄色隧道">
@@ -85,7 +85,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 
 <p><strong>📍 可一起游玩的区域：新宿</strong></p>
 <p>上午在新宿御苑悠闲欣赏红叶后，下午在新宿百货购物和美食，可打造完美一日路线。</p>
-<p>➡️ <a href="#" style="color: #667eea;"><strong>新宿游玩地完全攻略（美食、购物、推荐路线全汇总）</strong></a></p>
+<p>➡️ <strong>新宿游玩地完全攻略（美食、购物、推荐路线全汇总）</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-04.jpg" alt="新宿御苑的红叶、倒映在池塘的枫树">
@@ -155,8 +155,8 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 
 <p><strong>📍 可一起游玩的区域：吉祥寺&吉卜力美术馆</strong></p>
 <p>井之头公园是连接吉祥寺商店街和吉卜力美术馆的中心点。推荐公园散步前后探索可爱杂货店和美食，或一起访问吉卜力美术馆的路线。</p>
-<p>➡️ <a href="#" style="color: #667eea;"><strong>东京 吉祥寺推荐景点完整路线（吉卜力美术馆联动）</strong></a></p>
-<p>➡️ <a href="#" style="color: #667eea;"><strong>三鹰之森吉卜力美术馆预约方法完全攻略</strong></a></p>
+<p>➡️ <strong>东京 吉祥寺推荐景点完整路线（吉卜力美术馆联动）</strong></p>
+<p>➡️ <strong>三鹰之森吉卜力美术馆预约方法完全攻略</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-07.jpg" alt="井之头公园的红叶、池塘的天鹅船">
@@ -190,7 +190,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <p><strong>🍁 <a href="https://maps.app.goo.gl/TjuLtxgrsKN36caB6" target="_blank">箱根</a></strong>（红叶高峰预测日：11月13日）</p>
 <p>作为东京近郊最佳温泉旅行地的箱根，秋季红叶也是绝景。特别是乘坐箱根登山铁道欣赏窗外展开的红叶隧道，或从芦之湖游览船观看染红的山峦，这些体验将成为难忘的回忆。</p>
 
-<p>➡️ <a href="#" style="color: #667eea;"><strong>箱根旅行完美路线推荐（箱根周游券、浪漫特快预约）</strong></a></p>
+<p>➡️ <strong>箱根旅行完美路线推荐（箱根周游券、浪漫特快预约）</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-autumn-foliage-best-spots-2025-08.jpg" alt="高尾山的红叶、红色和橙色树叶覆盖的登山道">
@@ -216,7 +216,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 <p>染成红色和黄色的东京秋天，展现出与樱花季不同的浪漫与美丽。用这篇攻略在2025年东京红叶旅行中留下难忘的照片和回忆吧！</p>
 
 <p>⭐ <strong>相关文章</strong></p>
-<p>➡️ <a href="#" style="color: #667eea;"><strong>东京地铁通票 vs JR都区内通票完全对比</strong></a></p>
+<p>➡️ <strong>东京地铁通票 vs JR都区内通票完全对比</strong></p>
 <p>➡️ <a href="/zh-cn/posts/tokyo-october-festivals-2025/" style="color: #667eea;"><strong>2025年东京10月祭典·推荐景点全汇总</strong></a></p>
 
 ---
@@ -229,7 +229,7 @@ featured_image: "/images/posts/tokyo-autumn-foliage-best-spots-2025-01.jpg"
 
 <p>➡️ <a href="/zh-cn/posts/tokyo-christmas-markets-guide-2025/" style="color: #667eea;"><strong>2025东京圣诞市集，去哪里？（上野、六本木等）</strong></a></p>
 
-<p>➡️ <a href="#" style="color: #667eea;"><strong>日本旅行折扣优惠券全汇总2025（唐吉诃德、百货商场等）</strong></a></p>
+<p>➡️ <strong>日本旅行折扣优惠券全汇总2025（唐吉诃德、百货商场等）</strong></p>
 
 
 <div class="editors-note">

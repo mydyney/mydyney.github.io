@@ -230,7 +230,7 @@ Lettuce涮涮锅的最大魅力？<br>
 <br>
 <strong>🌸 中目黑看点：</strong><a href="{{< relref "nakameguro-complete-guide" >}}" style="color: #667eea;">目黑川樱花、时尚咖啡馆、精品店完全指南</a><br>
 <br>
-<strong>🏛️ 代官山看点：</strong><a href="#" style="color: #667eea;">茑屋书店、时尚店铺、咖啡巡礼指南</a><br>
+<strong>🏛️ 代官山看点：</strong>茑屋书店、时尚店铺、咖啡巡礼指南<br>
 <br>
 <strong>🛍️ 涩谷看点：</strong><a href="/zh-cn/posts/shibuya-complete-guide-2025/" style="color: #667eea;">仅1站！涩谷完全指南（PARCO、涩谷天空）</a></p>
 

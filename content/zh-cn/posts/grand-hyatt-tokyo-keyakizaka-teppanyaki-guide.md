@@ -445,7 +445,7 @@ Pol Roger (法国香槟)——清爽开胃的第一杯，为整顿饭拉开帷�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987954990
      Hugo: /zh-cn/posts/roppongi-hills-observatory-guide/ -->
-<p><a href="#" style="color: #667eea;">👉 2026六本木Hills展望台 (Tokyo City View) 完全攻略</a></p>
+<p>👉 2026六本木Hills展望台 (Tokyo City View) 完全攻略</p>
 
 <p>2. 想要一份完整的六本木一日游计划—— <strong>美术馆、购物、美食</strong>？🗺️</p>
 <p><a href="/zh-cn/posts/roppongi-attractions-guide/" style="color: #667eea;">👉 六本木吃喝玩乐完全攻略 (展望台、美术馆、购物、餐厅全收录)</a></p>
@@ -454,7 +454,7 @@ Pol Roger (法国香槟)——清爽开胃的第一杯，为整顿饭拉开帷�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;">👉 东京六本木餐厅地图：米其林 &amp; Tabelog推荐餐厅合集</a></p>
+<p>👉 东京六本木餐厅地图：米其林 &amp; Tabelog推荐餐厅合集</p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

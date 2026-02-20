@@ -268,7 +268,7 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
     <li><strong>特点</strong>：虽然店内看不到景色，但饭后直接走到<strong>7楼露台</strong>，就能欣赏到东京站的最佳景色。</li>
 </ul>
 
-<p>👉 <a href="#" style="color: #667eea; text-decoration: underline;"><strong>东京站夜景与晚餐。新丸之内大厦“丸之内HOUSE”开放露台</strong></a></p>
+<p>👉 <strong>东京站夜景与晚餐。新丸之内大厦“丸之内HOUSE”开放露台</strong></p>
 <!-- TODO: Update link after migration
      Hugo: /zh-cn/posts/shin-marunouchi-building-terrace-dinner/ -->
 
@@ -326,7 +326,7 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224151789346
      Hugo: /zh-cn/posts/kajitsuen-lieber-tokyo-station-guide/ -->
-<p>👉 <a href="#" style="color: #667eea; text-decoration: underline;"><strong>东京Zuccotto｜果实园Lieber 菜单推荐与排队攻略（东京站）</strong></a></p>
+<p>👉 <strong>东京Zuccotto｜果实园Lieber 菜单推荐与排队攻略（东京站）</strong></p>
 
 <p>想找伴手礼或甜点？</p>
 <p>👉 <a href="/zh-cn/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide/" style="color: #667eea; text-decoration: underline;"><strong>东京站 东京香蕉焦糖布丁挞 售卖地点、价格、免税｜保质期与保存技巧</strong></a></p>
@@ -339,7 +339,7 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
      Hugo: /zh-cn/posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p>👉 <a href="#" style="color: #667eea; text-decoration: underline;"><strong>东京站 KITTE（凯迪）免费展望台与交通方式，电车迷必看路线</strong></a></p>
+<p>👉 <strong>东京站 KITTE（凯迪）免费展望台与交通方式，电车迷必看路线</strong></p>
 <p>👉 <a href="/zh-cn/posts/marunouchi-illumination-2025/" style="color: #667eea; text-decoration: underline;"><strong>东京 丸之内彩灯 2025-2026 期间与时间汇总</strong></a></p>
 </div>
 

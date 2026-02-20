@@ -223,7 +223,7 @@ all in one complete guide!</p>
   <li><b>Ueno:</b> Enjoy both the down-to-earth atmosphere of Ameyoko Market and the relaxation of Ueno Park.</li>
 </ul>
 
-<p><b>➡️ <a href="#" class="todo-link">Ueno Attractions: From Ameyoko Market Restaurants to Ueno Park</a></b></p>
+<p><b>➡️ Ueno Attractions: From Ameyoko Market Restaurants to Ueno Park</b></p>
 <!-- TODO: Link to /posts/ueno-ameyoko-guide/ when migrated -->
 <!-- Naver: https://blog.naver.com/tokyomate/224028694874 -->
 <!-- Hugo: /posts/ueno-ameyoko-guide/ -->
@@ -242,7 +242,7 @@ all in one complete guide!</p>
   <li><b>Nakameguro:</b> A charming neighborhood full of cute boutiques and cafes.</li>
 </ul>
 
-<p><b>➡️ <a href="#" class="todo-link">Nakameguro Must-Visit Places: From Boutiques & Select Shops to Restaurants and Cafes</a></b></p>
+<p><b>➡️ Nakameguro Must-Visit Places: From Boutiques & Select Shops to Restaurants and Cafes</b></p>
 <!-- TODO: Link to /posts/nakameguro-guide/ when migrated -->
 <!-- Naver: https://blog.naver.com/tokyomate/224032086475 -->
 <!-- Hugo: /posts/nakameguro-guide/ -->

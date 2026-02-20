@@ -219,7 +219,7 @@ featured_image: "/images/posts/asakusa-asahi-sky-room-01.jpg"
 
 <p><strong>➡️</strong> <a href="/ja/posts/ebisu-brewery-tokyo/" style="color: #667eea; text-decoration: underline;"><strong>恵比寿ブルワリー東京（ビール好き必須コース）</strong></a></p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>銀座サッポロ ザ・バー（パーフェクトな生ビールレビュー）</strong></a></p>
+<p><strong>➡️</strong> <!-- TODO: Update link when post is migrated --><strong>銀座サッポロ ザ・バー（パーフェクトな生ビールレビュー）</strong></p>
 
 <p><strong>⭐ 浅草、もっと詳しく知りたい？</strong></p>
 
@@ -229,7 +229,7 @@ featured_image: "/images/posts/asakusa-asahi-sky-room-01.jpg"
 
 <p>夜景スポットのスカイルーム近くには、東京旅行の必須グルメコース、浅草牛カツがあります。2026年最新価格情報と並ばずに入場する予約の秘訣が気になる方は、下記ガイドをご参照ください！</p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>浅草牛カツ予約可能な分店のコツ｜本店待ち時間の違い総まとめ</strong></a></p>
+<p><strong>➡️</strong> <!-- TODO: Update link when post is migrated --><strong>浅草牛カツ予約可能な分店のコツ｜本店待ち時間の違い総まとめ</strong></p>
 
 <p><strong>➡️</strong> <a href="/ja/posts/asakusa-imahan-kokusaidori-guide/" style="color: #667eea; text-decoration: underline;"><strong>120年の伝統老舗の味！浅草今半ランチ＆ディナー完璧ガイド</strong></a></p>
 

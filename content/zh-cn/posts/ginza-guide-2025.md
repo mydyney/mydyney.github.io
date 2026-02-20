@@ -55,7 +55,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 银座六本木屋顶隐藏的秘密花园。可以俯瞰银座街道的最佳免费观景台。至9月7日，1层入口和中央中庭正在举办现代艺术家矢延宪司的「GINZA SIX BIG CAT BANG: THE FINAL」展览。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 银座必去景点，银座六本木屋顶免费观景台、溜冰场</strong></a>
+➡️ <strong>[详细了解] 银座必去景点，银座六本木屋顶免费观景台、溜冰场</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-04.jpg" alt="银座六本木屋顶花园">
@@ -78,7 +78,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 獭祭23、山崎等日本名酒最便宜的购买地点。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座乐天免税店购物（獭祭23、山崎12年评测）</strong></a>
+➡️ <strong>[详细了解] 东京银座乐天免税店购物（獭祭23、山崎12年评测）</strong>
 
 ⭐ 想了解银座乐天免税店的威士忌库存与最新信息？
 
@@ -93,7 +93,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 能邂逅日本各地稀有日本酒的高端酒类专卖店。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座六本木日本酒威士忌购物（IMADEYA银座评测）</strong></a>
+➡️ <strong>[详细了解] 东京银座六本木日本酒威士忌购物（IMADEYA银座评测）</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-06.jpg" alt="银座六本木B2F IMADEYA银座日本酒冰柜">
@@ -106,7 +106,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 100年传统，寻找充满优雅的甜点与礼品的好去处。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座旅行伴手礼购物资生堂Parlour银座本店评测</strong></a>
+➡️ <strong>[详细了解] 东京银座旅行伴手礼购物资生堂Parlour银座本店评测</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-07.jpg" alt="资生堂Parlour精美甜点礼盒套装">
@@ -128,7 +128,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 140年传统，夏目漱石也钟爱的银座传奇和菓子店。没有预约很难买到的稀有性，加上不会太甜的高级口味，特别适合寻找送给父母或长辈的有品位礼物的您，是最佳选择。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京送父母伴手礼，纠结就选银座空也最中</strong></a>
+➡️ <strong>[详细了解] 东京送父母伴手礼，纠结就选银座空也最中</strong>
 
 ### ③ 性价比购物景点
 
@@ -151,7 +151,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 以实惠午餐价格享用米其林星级天妇罗！
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 山之上天妇罗Omakase，东京银座六本木餐厅评测</strong></a>
+➡️ <strong>[详细了解] 山之上天妇罗Omakase，东京银座六本木餐厅评测</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-10.jpg" alt="山之上天妇罗Omakase新鲜食材">
@@ -162,7 +162,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 外酥内嫩，名古屋米其林餐厅的人生鳗鱼饭。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 炭烧鳗富士，东京有乐町鳗鱼餐厅评测</strong></a>
+➡️ <strong>[详细了解] 炭烧鳗富士，东京有乐町鳗鱼餐厅评测</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-11.jpg" alt="炭烧鳗富士鳗鱼定食">
@@ -173,7 +173,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 70年传统，肉汁满溢的巨大饺子。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 银座天龙，肉汁满满煎饺，东京银座饺子餐厅评测</strong></a>
+➡️ <strong>[详细了解] 银座天龙，肉汁满满煎饺，东京银座饺子餐厅评测</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-12.jpg" alt="银座天龙煎饺">
@@ -184,7 +184,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 米其林必比登推荐，连续6年获得食べログ拉面百名店的正宗当地拉面餐厅。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 银座八五预约及等位时间完全攻略</strong></a>
+➡️ <strong>[详细了解] 银座八五预约及等位时间完全攻略</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-13.jpg" alt="银座八五特制中华面（出典）">
@@ -206,7 +206,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 银座的象征，在和光百货享用经典芭菲。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座咖啡厅WAKO和光茶沙龙评测（等位时间预约技巧）</strong></a>
+➡️ <strong>[详细了解] 东京银座咖啡厅WAKO和光茶沙龙评测（等位时间预约技巧）</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-15.jpg" alt="银座WAKO茶沙龙的华丽蒙布朗蛋糕">
@@ -226,7 +226,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 用时令水果制作的甜糯米糕（大福）名店。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座草莓大福，曙银座本店评测</strong></a>
+➡️ <strong>[详细了解] 东京银座草莓大福，曙银座本店评测</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-17.jpg" alt="曙米果草莓大福">
@@ -237,7 +237,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 外酥内软，银座最火爆人气的盐面包。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座盐面包餐厅Pain Maison，在线预约评测</strong></a>
+➡️ <strong>[详细了解] 东京银座盐面包餐厅Pain Maison，在线预约评测</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-18.jpg" alt="Pain Maison银座盐面包">
@@ -250,7 +250,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 专家倒出的「完美黑标」生啤一杯的幸福。
 
-➡️ <a href="#" style="color: #667eea;"><strong>[详细了解] 东京银座啤酒餐厅札幌The Bar，完美生啤评测</strong></a>
+➡️ <strong>[详细了解] 东京银座啤酒餐厅札幌The Bar，完美生啤评测</strong>
 
 <figure>
   <img src="/images/posts/ginza-guide-2025-19.jpg" alt="札幌The Bar完美黑标">
@@ -265,7 +265,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 想了解筑地市场的最新信息？
 
-➡️ <a href="#" style="color: #667eea;"><strong>东京筑地市场餐厅指南、营业时间、美食完全攻略</strong></a>
+➡️ <strong>东京筑地市场餐厅指南、营业时间、美食完全攻略</strong>
 
 ## 总结：在银座的完美一天
 
@@ -279,7 +279,7 @@ featured_image: "/images/posts/ginza-guide-2025-01.jpg"
 
 ➡️ <a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿玩法完全攻略（餐厅、购物、推荐路线完全指南）</strong></a>
 
-➡️ <a href="#" style="color: #667eea;"><strong>东京站玩法，从卡通街到餐厅、夜景、行李寄存投币柜</strong></a>
+➡️ <strong>东京站玩法，从卡通街到餐厅、夜景、行李寄存投币柜</strong>
 
 ➡️ <a href="/zh-cn/posts/roppongi-attractions-guide/" style="color: #667eea;"><strong>六本木玩法完全攻略（观景台、美术馆、购物、餐厅）</strong></a>
 

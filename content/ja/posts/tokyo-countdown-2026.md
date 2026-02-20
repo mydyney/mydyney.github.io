@@ -42,7 +42,7 @@ featured_image: "/images/posts/tokyo-countdown-2026-01.jpg"
 <li><b>おすすめ対象：</b>若い旅行者、カップル、エキサイティングなパーティー雰囲気を求める友人グループ 🎉</li>
 </ul>
 
-<b>➡️ <a href="#" style="color: #667eea;"><strong>新宿都庁カウントダウン2026ベストスポット＆ラインナップ</strong></a></b>
+<b>➡️ <strong>新宿都庁カウントダウン2026ベストスポット＆ラインナップ</strong></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-02.jpg" alt="東京カウントダウンスポット新宿都庁2026">
@@ -254,9 +254,9 @@ A. 東京の冬の夜は思ったより寒いです（2～5℃）。長時間屋
 
 ## 🧡 一緒に見ると良い東京年末旅行情報
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ 新宿都庁カウントダウン2026ベストスポット＆ラインナップ</strong></a>
+➡️ <strong>→ 新宿都庁カウントダウン2026ベストスポット＆ラインナップ</strong>
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ 2025年12月31日東京タワー消灯スケジュールと新年初日ライトアップ</strong></a>
+➡️ <strong>→ 2025年12月31日東京タワー消灯スケジュールと新年初日ライトアップ</strong>
 
 ➡️ <a href="/ja/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;"><strong>→ 2026年東京年末年始休業・営業情報｜1月1日営業店舗</strong></a>
 

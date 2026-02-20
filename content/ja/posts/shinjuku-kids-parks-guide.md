@@ -79,7 +79,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター">
-  <figcaption style="font-size: 0.7em; text-align: center;">サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター <a href="#" target="_blank">（出典）</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">サンリオピューロランド室内パレード、ハローキティとマイメロディキャラクター （出典）</figcaption>
 </figure>
 
 ハローキティ、シナモロール、マイメロディ…

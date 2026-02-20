@@ -191,7 +191,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 > <!-- TODO: Update link after migration
 >      Naver: https://blog.naver.com/tokyomate/223702865232
 >      Hugo: /posts/narita-express-guide/ -->
-> <p style="text-align: center;"><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>成田特快 (N'EX) 预约、价格、时刻表指南</strong></a></p>
+> <p style="text-align: center;"><strong>➡️</strong> <strong>成田特快 (N'EX) 预约、价格、时刻表指南</strong></p>
 
 “万一去了也没空位怎么办？”
 拒绝焦虑，直接用<strong>“行李寄存App”</strong>预约！这些平台利用咖啡店、餐厅的闲置空间提供寄存服务。

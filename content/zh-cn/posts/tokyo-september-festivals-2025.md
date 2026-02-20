@@ -132,7 +132,7 @@ featured_image: "/images/posts/tokyo-september-festivals-2025-01.jpg"
 
 <p><em>六本木整条街变身巨大美术馆的夜晚艺术盛典。今年特别展出韩国艺术，可以体验特别经历。</em></p>
 
-<p><a href="#" style="color: #667eea;"><strong>➡️ 【详细了解】六本木艺术之夜 推荐阵容</strong></a></p>
+<p><strong>➡️ 【详细了解】六本木艺术之夜 推荐阵容</strong></p>
 
 <table class="schedule-table">
   <tbody>

@@ -377,7 +377,7 @@ A: 有，可使用JAPAN-FREE-WIFI (SSID)。</p>
 ➡️ <a href="/zh-cn/posts/hibiya-midtown-illumination-2025/" target="_blank"><b>2025年日比谷中城彩灯·疯狂动物城2联动指南</b></a></p>
 
 <p><b>⭐ 东京站完全指南</b><br>
-➡️ <a href="#" style="color: #667eea;"><b>东京站指南 - 角色街、餐厅、夜景、投币储物柜</b></a></p>
+➡️ <b>东京站指南 - 角色街、餐厅、夜景、投币储物柜</b></p>
 
 
 <div class="editors-note">

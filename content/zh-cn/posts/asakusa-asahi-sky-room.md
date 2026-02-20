@@ -219,7 +219,7 @@ featured_image: "/images/posts/asakusa-asahi-sky-room-01.jpg"
 
 <p><strong>➡️</strong> <a href="/zh-cn/posts/ebisu-brewery-tokyo/" style="color: #667eea; text-decoration: underline;"><strong>惠比寿啤酒厂东京（啤酒爱好者必去）</strong></a></p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>银座札幌酒吧（完美生啤酒评测）</strong></a></p>
+<p><strong>➡️</strong> <!-- TODO: Update link when post is migrated --><strong>银座札幌酒吧（完美生啤酒评测）</strong></p>
 
 <p><strong>⭐ 想更深入了解浅草？</strong></p>
 
@@ -229,7 +229,7 @@ featured_image: "/images/posts/asakusa-asahi-sky-room-01.jpg"
 
 <p>在夜景景点天空室附近，有东京旅行的必吃美食——浅草牛排。如果您想了解2026年最新价格信息和无需排队的预订秘诀，请查看下面的指南！</p>
 
-<p><strong>➡️</strong> <a href="#" style="color: #667eea; text-decoration: underline;"><!-- TODO: Update link when post is migrated --><strong>浅草牛排可预订分店技巧｜总店等候时间完整比较</strong></a></p>
+<p><strong>➡️</strong> <!-- TODO: Update link when post is migrated --><strong>浅草牛排可预订分店技巧｜总店等候时间完整比较</strong></p>
 
 <p><strong>➡️</strong> <a href="/zh-cn/posts/asakusa-imahan-kokusaidori-guide/" style="color: #667eea; text-decoration: underline;"><strong>120年传统老店的味道！浅草今半午餐＆晚餐完美指南</strong></a></p>
 

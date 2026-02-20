@@ -301,6 +301,9 @@ Naver uses `se-imageGroup-col-N` where N is the number of columns per row. For g
 - Last row: `margin: 0 0 20px 0;` (bottom spacing)
 - Single row: `margin: 20px 0;` (both)
 
+**Spacing between visual groups in multi-row layouts:**
+When a large image group (e.g., 6 images in col-2 = 3 rows) contains a natural visual break between subgroups, add `margin: 20px 0;` on the row after the break to create breathing room. For example, in a 3-row layout where rows 1-2 form one visual group and row 3 forms another, use `margin: 20px 0;` on row 3 instead of `margin: 0 0 20px 0;`. The figcaption stays after ALL rows.
+
 **Critical rules for image groups:**
 - ❌ NEVER estimate ratios — always extract exact values from `naver.md`
 - ❌ NEVER use CSS classes (`image-group-2`) — use inline flex for ratio preservation
@@ -341,14 +344,19 @@ Naver uses `se-imageGroup-col-N` where N is the number of columns per row. For g
 - ZH-CN: `/zh-cn/posts/[slug]/`
 
 **Rule 6: TODO placeholders** (for unmigrated links)
-- ⚠️ **CRITICAL**: Every Naver internal link MUST produce a visible link in the output — even unmigrated ones
-- ❌ NEVER use only an invisible HTML comment (`<!-- TODO -->`) — readers will see nothing
-- ✅ ALWAYS include the visible `<a href="#">` element so the link text appears on the page
+- ⚠️ **CRITICAL**: Unmigrated links must use **plain text** (not clickable) + a TODO comment for future tracking
+- ❌ NEVER use `<a href="#">` — broken links hurt AdSense review and user experience
+- ❌ NEVER use only an invisible HTML comment — readers will see nothing
+- ✅ Show the link text as plain styled text and keep the TODO comment for `grep TODO` tracking
 ```html
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/[POST_ID]
      Hugo: /posts/[expected-slug]/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 [Link Text]</strong></a></p>
+<p><strong>👉 [Link Text]</strong></p>
+```
+When the target post is migrated later, wrap the text with a real `<a>` tag:
+```html
+<p><a href="/posts/[slug]/" style="color: #667eea;"><strong>👉 [Link Text]</strong></a></p>
 ```
 
 **Rule 7: Content fidelity**
@@ -666,7 +674,7 @@ Slug: [slug]"
 - ✅ Keep original numbers, only add with next available number
 
 ### 7. Wrong TODO placeholder
-- ❌ `href="/posts/unknown/"` → ✅ `href="#"` with TODO comment including Naver URL and expected Hugo path
+- ❌ `href="#"` or `href="/posts/unknown/"` → ✅ Plain text (no `<a>` tag) with TODO comment including Naver URL and expected Hugo path
 
 ### 8. Slug not checked against LINK_MAPPING.md
 - Always search LINK_MAPPING.md for the Naver ID FIRST before creating a new slug

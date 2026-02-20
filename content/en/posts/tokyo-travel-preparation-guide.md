@@ -173,7 +173,7 @@ As of 2026, registering for '<strong>Visit Japan Web</strong>' when entering Jap
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
      Hugo: /posts/visit-japan-web-registration-guide/ -->
-<a href="#" style="color: #667eea;">Complete Visit Japan Web Registration in 5 Minutes & Family Registration Tips</a>
+Complete Visit Japan Web Registration in 5 Minutes & Family Registration Tips
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-04.jpg" alt="Japan entry preparation | Visit Japan Web start screen">
@@ -227,7 +227,7 @@ Tokyo hotels prioritize <strong>transportation convenience</strong> over "stayca
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /posts/narita-express-reservation-guide/ -->
-<a href="#" style="color: #667eea;">Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide</a>  
+Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide  
 <strong>👉 [Shibuya Attractions | Shibuya Sky Reservations to Shopping and Dining](/posts/shibuya-complete-guide-2025/)</strong>
 
 <figure>
@@ -263,7 +263,7 @@ Korea's T-money equivalent rechargeable transit card.
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224135063751
      Hugo: /posts/tokyo-subway-route-map/ -->
-<a href="#" style="color: #667eea;">Tokyo Subway Route Map PDF High-Quality Korean Download | Complete Reading Guide</a>
+Tokyo Subway Route Map PDF High-Quality Korean Download | Complete Reading Guide
 
 ---
 
@@ -292,7 +292,7 @@ With just your smartphone, independent travel is completely possible even withou
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224099448633
      Hugo: /posts/japan-pocket-wifi-vs-esim/ -->
-<a href="#" style="color: #667eea;">Japan Pocket Wi-Fi vs Tokyo eSIM/SIM Complete Comparison | Price, Speed, Recommendations</a>
+Japan Pocket Wi-Fi vs Tokyo eSIM/SIM Complete Comparison | Price, Speed, Recommendations
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-07.jpg" alt="Essential Tokyo travel apps | Google Maps, Papago, Data">
@@ -316,7 +316,7 @@ With just your smartphone, independent travel is completely possible even withou
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010770861
      Hugo: /posts/ginza-hachigo-michelin-ramen/ -->
-<a href="#" style="color: #667eea;">Ginza Hachigo Michelin Ramen Restaurant | Reservation & Wait Time Complete Strategy</a>
+Ginza Hachigo Michelin Ramen Restaurant | Reservation & Wait Time Complete Strategy
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-08.jpg" alt="Tokyo budget omakase | Manten Sushi">

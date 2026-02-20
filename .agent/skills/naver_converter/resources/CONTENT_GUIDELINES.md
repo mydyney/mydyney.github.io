@@ -739,6 +739,7 @@ When Naver HTML contains image groups (e.g., `se-imageGroup-col-2`), use **inlin
 - ✅ For image groups, the `figcaption` goes OUTSIDE the flex `<div>`, not inside.
 - ✅ For multi-row groups (4+ images), use one flex `<div>` per row.
 - ✅ Multi-row margin pattern: first row `margin: 20px 0`, middle rows `margin: 0`, last row `margin: 0 0 20px 0`.
+- ✅ When a multi-row group has a natural visual break between subgroups, add `margin: 20px 0` on the row after the break for breathing room. The figcaption stays after ALL rows.
 - ❌ NEVER estimate ratios — always extract exact values from `naver.md`.
 - ❌ Do NOT use CSS classes (`image-group-2/3/4`) for Naver migrations — use inline flex for ratio preservation.
 
@@ -933,9 +934,10 @@ The icons used in the H3 headers for related guides (⛩️, 🍺, 🏙️, 🍭
 - **Chinese (ZH)**: Use `/zh-cn/posts/[slug]/`.
 
 ### 4. Placeholder Rules (Unmigrated Posts)
-- **Strictly use `href="#"`** when the target Hugo file does not exist.
+- **Use plain text (no `<a>` tag)** when the target Hugo file does not exist.
+- ❌ **NEVER** use `href="#"` — broken links hurt AdSense review and user experience.
 - **DO NOT** use self-referential links (current post slug) as placeholders.
-- **TODO Comment**: Always add the mandatory TODO comment above the link as defined in `MIGRATION_GUIDE.md`.
+- **TODO Comment**: Always add the mandatory TODO comment above the text as defined in `MIGRATION_GUIDE.md`. This allows `grep TODO` to find all unmigrated links for future updates.
 - **Text Suffixes**: **DO NOT** add custom text suffixes like "(Coming Soon)" or "(即将上线)" unless explicitly requested. The placeholder state is managed via the TODO comment.
 
 ### 5. Formatting Snippet
@@ -945,7 +947,12 @@ The icons used in the H3 headers for related guides (⛩️, 🍺, 🏙️, 🍭
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/[ID]
      Hugo: /posts/[SLUG]/ -->
-<p><a href="#" style="color: #667eea;">👉 <strong>Standardized Link Title</strong></a></p>
+<p><strong>👉 Standardized Link Title</strong></p>
+```
+
+When the target post is migrated, wrap the text with a real link:
+```html
+<p><a href="/posts/[SLUG]/" style="color: #667eea;"><strong>👉 Standardized Link Title</strong></a></p>
 ```
 
 ---

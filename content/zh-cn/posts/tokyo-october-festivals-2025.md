@@ -61,7 +61,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 <strong>💸 费用</strong>：免费观看
 <strong>💡 要点</strong>：是9月「袋祭」的压轴2部活动。最后一天所有队伍的「总舞」千万不要错过！
 
-<a href="#" style="color: #667eea;"><strong>➡️ 8月东京活动，原宿表参道超级YOSAKOI</strong></a>
+<strong>➡️ 8月东京活动，原宿表参道超级YOSAKOI</strong>
 
 <figure>
   <img src="/images/posts/tokyo-october-festivals-2025-02.jpg" alt="2025年原宿表参道超级YOSAKOI舞者">
@@ -266,7 +266,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 - <strong>10月状态</strong>：10月末，芦之湖周边和高地传来红叶消息。正式观赏期是11月，但一边参观美术馆一边静静感受秋天开始的完美地方。
 - <strong>特点</strong>：在美丽的自然中可以一起享受温泉和艺术，作为与父母旅行目的地也很受欢迎。
 
-<a href="#" style="color: #667eea;"><strong>➡️ 箱根旅行，当日往返vs旅馆1晚 完美路线推荐（箱根周游券、浪漫特快预约）</strong></a>
+<strong>➡️ 箱根旅行，当日往返vs旅馆1晚 完美路线推荐（箱根周游券、浪漫特快预约）</strong>
 
 ### 4. 🍂 东京都心公园（明治神宫外苑等）
 

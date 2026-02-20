@@ -151,7 +151,7 @@ it's a great course for those traveling outside the year-end period.
 
 If you're curious about the 2024 scene, check out the archive post below.
 
-<strong>➡️ <a href="#" style="color: #667eea;">2024 Yebisu Garden Place Christmas Review (Last Year's Archive)</a></strong>
+<strong>➡️ 2024 Yebisu Garden Place Christmas Review (Last Year's Archive)</strong>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-07.jpg" alt="Champagne gold illumination walkway from Yebisu Garden Place clock square to center plaza">
@@ -223,7 +223,7 @@ to the free observatory and see the Tokyo Tower night view before returning!
 
 For detailed information, check out the dedicated post.
 
-➡️ <a href="#" style="color: #667eea;">Tokyo Yebisu Garden Place Free Observatory, Top of Yebisu Complete Guide</a>
+➡️ Tokyo Yebisu Garden Place Free Observatory, Top of Yebisu Complete Guide
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-10.jpg" alt="Tokyo Tower night view visible from Yebisu Garden Place Top of Yebisu free observatory 2025 winter">
@@ -246,7 +246,7 @@ and thanks to that history, the "Ebisu = beer" image remains strong.
 
 It's a space worth visiting if you like beer.
 
-<strong>➡️ <a href="#" style="color: #667eea;">Yebisu Brewery Tokyo, A Must-Visit for Beer Enthusiasts</a></strong>
+<strong>➡️ Yebisu Brewery Tokyo, A Must-Visit for Beer Enthusiasts</strong>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-11.jpg" alt="Yebisu beer flight set at Yebisu Brewery Tokyo tap room 2025 winter menu">
@@ -265,7 +265,7 @@ takes you directly to the Yebisu Garden Place entrance.
 
 ### ⭐ For more detailed directions & coin locker information, check the post below!
 
-<strong>➡️ <a href="#" style="color: #667eea;">How to Get to Tokyo Yebisu Garden Place and Coin Locker Locations</a></strong>
+<strong>➡️ How to Get to Tokyo Yebisu Garden Place and Coin Locker Locations</strong>
 
 <figure>
   <img src="/images/posts/yebisu-garden-place-illumination-christmas-market-2025-12.jpg" alt="Ebisu station east exit to Yebisu Garden Place connecting sky walk winter route guide">
@@ -329,7 +329,7 @@ create unforgettable memories this winter.
 
 ### 🧡 Related Yebisu Travel Guides
 
-<strong>➡️ <a href="#" style="color: #667eea;">Yebisu Attractions, Complete Guide from Yebisu Garden Place to Beer Museum and Restaurants</a></strong>
+<strong>➡️ Yebisu Attractions, Complete Guide from Yebisu Garden Place to Beer Museum and Restaurants</strong>
 
 ---
 

@@ -321,7 +321,7 @@ JR基本票价约为150-180日元，
 
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224135063751
-     Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;"><strong>东京JR/地铁完整路线图高清下载</strong></a>
+     Hugo: /posts/[SLUG_TBD]/ --><strong>东京JR/地铁完整路线图高清下载</strong>
 
 ---
 

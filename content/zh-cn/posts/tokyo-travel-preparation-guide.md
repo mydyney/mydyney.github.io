@@ -173,7 +173,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
      Hugo: /zh-cn/posts/visit-japan-web-registration-guide/ -->
-<a href="#" style="color: #667eea;">5分钟完成 Visit Japan Web 注册与家庭注册技巧</a>
+5分钟完成 Visit Japan Web 注册与家庭注册技巧
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-04.jpg" alt="日本入境准备 | Visit Japan Web 开始界面">
@@ -227,7 +227,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /zh-cn/posts/narita-express-reservation-guide/ -->
-<a href="#" style="color: #667eea;">成田特快（N'EX）预订、价格、时刻表完全攻略</a>  
+成田特快（N'EX）预订、价格、时刻表完全攻略  
 <strong>👉 [涩谷景点 | 涩谷天空预订到购物与美食](/posts/shibuya-complete-guide-2025/)</strong>
 
 <figure>
@@ -263,7 +263,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224135063751
      Hugo: /zh-cn/posts/tokyo-subway-route-map/ -->
-<a href="#" style="color: #667eea;">东京地铁路线图PDF高清韩文下载 | 完整阅读指南</a>
+东京地铁路线图PDF高清韩文下载 | 完整阅读指南
 
 ---
 
@@ -292,7 +292,7 @@ JR专用1日无限次通票是<strong>都区内通票</strong>。最佳通票因
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224099448633
      Hugo: /zh-cn/posts/japan-pocket-wifi-vs-esim/ -->
-<a href="#" style="color: #667eea;">日本口袋Wi-Fi vs 东京eSIM/SIM完整对比 | 价格、速度、推荐</a>
+日本口袋Wi-Fi vs 东京eSIM/SIM完整对比 | 价格、速度、推荐
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-07.jpg" alt="必备东京旅行APP | Google Maps、Papago、数据">
@@ -316,7 +316,7 @@ JR专用1日无限次通票是<strong>都区内通票</strong>。最佳通票因
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224010770861
      Hugo: /zh-cn/posts/ginza-hachigo-michelin-ramen/ -->
-<a href="#" style="color: #667eea;">银座八五米其林拉面店 | 预订与等待时间完全攻略</a>
+银座八五米其林拉面店 | 预订与等待时间完全攻略
 
 <figure>
   <img src="/images/posts/tokyo-travel-preparation-guide-08.jpg" alt="东京预算Omakase | 满天鮨">

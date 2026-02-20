@@ -187,7 +187,7 @@ If you have a <strong>JCB Card</strong> and are taking the Limousine Bus, <stron
 *   <strong>Period:</strong> Until March 31, 2026.
 
 > [!NOTE]
-> Heading to the airport? Check if the <strong>Narita Express (N'EX)</strong> fits your schedule<p style="text-align: center;"><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Narita Express (N’EX) Reservation, Price, Format Guide</strong></a></p>
+> Heading to the airport? Check if the <strong>Narita Express (N'EX)</strong> fits your schedule<p style="text-align: center;"><strong>➡️</strong> <strong>Narita Express (N’EX) Reservation, Price, Format Guide</strong></p>
 
 ---
 

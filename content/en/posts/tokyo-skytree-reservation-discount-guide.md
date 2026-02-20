@@ -122,7 +122,7 @@ Symbolic significance of reaching the 450m peak.
 <strong>📌 Free Skytree Observation Deck:</strong>
 If the ticket price seems too high, check out the hidden 'free observation deck' where you can view Skytree head-on!
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Free Observatory: SKYTREE VIEW</strong></a></strong>
+<strong>➡️ <strong>Tokyo Skytree Free Observatory: SKYTREE VIEW</strong></strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-06.jpg" alt="Tokyo Skytree two observation decks Tembo Deck and Tembo Galleria comparison">
@@ -172,7 +172,7 @@ Solamachi is packed with restaurants and shopping spots.
 <strong>Pokemon Center Skytree Town:</strong>
 Exclusive "Ascending Rayquaza" limited edition goods only available here!
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Town Pokemon Center Detailed Review</strong></a></strong>
+<strong>➡️ <strong>Tokyo Skytree Town Pokemon Center Detailed Review</strong></strong>
 
 <div class="image-group-2">
   <figure>
@@ -218,7 +218,7 @@ One Piece, Jujutsu Kaisen, and other Shonen Jump merchandise.
 Best value conveyor belt sushi from Hokkaido.
 Want tips to avoid the massive wait?
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Conveyor Belt Sushi Restaurant Triton (Queue Number Tips)</strong></a></strong>
+<strong>➡️ <strong>Tokyo Skytree Conveyor Belt Sushi Restaurant Triton (Queue Number Tips)</strong></strong>
 
 <div class="image-group-2">
   <figure>
@@ -250,7 +250,7 @@ Tabelog Ice Cream Top 100 in 2023
 Famous Kyoto matcha shop.
 Perfect for rich matcha ice cream after shopping.
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Skytree Dessert Spot: Gion Tsujiri Matcha Ice Cream Review</strong></a></strong>
+<strong>➡️ <strong>Tokyo Skytree Dessert Spot: Gion Tsujiri Matcha Ice Cream Review</strong></strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-19.jpg" alt="Gion Tsujiri matcha ice cream and desserts at Tokyo Skytree">
@@ -276,7 +276,7 @@ Enjoy coffee with a view of Skytree Town from Solamachi 6F Starbucks.
 
 During winter season, spectacular Christmas markets and illuminations are held right below Skytree.
 
-<strong>➡️ <strong><a href="#" style="color: #667eea;"><strong>Tokyo Skytree Illumination & Christmas Market Detailed Review</strong></a></strong></strong>
+<strong>➡️ <strong><strong>Tokyo Skytree Illumination & Christmas Market Detailed Review</strong></strong></strong>
 
 <div class="image-group-2">
   <figure>

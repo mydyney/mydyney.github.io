@@ -229,9 +229,9 @@ featured_image: "/images/posts/tokyo-node-dining-toranomon-hills-lunch-01.jpg"
 <p>東京デートや記念日の食事場所として強くおすすめします！</p>
 
 <p><strong>合わせて読みたい虎ノ門ヒルズ旅行ガイド：</strong></p>
-<p><a href="#" style="color: #667eea;"><strong>東京 虎ノ門ヒルズ見どころガイド：展望台、グルメ、横丁、T-Market</strong></a></p>
+<p><strong>東京 虎ノ門ヒルズ見どころガイド：展望台、グルメ、横丁、T-Market</strong></p>
 
-<p><a href="#" style="color: #667eea;"><strong>野の鳥 源長：虎ノ門ヒルズの焼き鳥おまかせ</strong></a></p>
+<p><strong>野の鳥 源長：虎ノ門ヒルズの焼き鳥おまかせ</strong></p>
 
 <p><a href="/ja/posts/tamiya-plamodel-factory-tokyo-shimbashi/" style="color: #667eea;"><strong>2025 タミヤプラモデルファクトリー東京（6,000種以上・ミニカー・カフェ）</strong></a></p>
 

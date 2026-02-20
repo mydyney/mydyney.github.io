@@ -173,7 +173,7 @@ and the Nordic Christmas Market schedule—your complete winter guide to Tokyo D
 <p>Enjoy the best winter night views with no admission fee at the <strong>Tokyo Dome Christmas Festival</strong>. If you're a TXT fan or love Christmas markets, be sure to check the dates in advance for a rewarding trip!</p>
 
 <p><strong>🧡 Related Tokyo Dome Travel Guide:</strong></p>
-<p><a href="#" style="color: #667eea;"><strong>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels Complete Guide</strong></a></p>
+<p><strong>➡️ Tokyo Dome Guide: Concerts, Baseball, Attractions, Restaurants, Hotels Complete Guide</strong></p>
 
 <hr>
 

@@ -110,7 +110,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 3. 代々木公園の縁に沿ってゆっくり歩くと、突然<strong>枝が頭上で交わる青いケヤキのトンネル</strong>が目の前に広がる
 
 <strong>➡️ [関連記事]</strong>
-<a href="#" style="color: #667eea;"><strong>2025年表参道イルミネーション期間、時間、場所＆撮影スポット完全ガイド</strong></a>
+<strong>2025年表参道イルミネーション期間、時間、場所＆撮影スポット完全ガイド</strong>
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-05.jpg" alt="渋谷青の洞窟へ続く2025年表参道イルミネーションの金色のライトアップ街路風景">
@@ -209,7 +209,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ### 🌟 表参道・原宿クリスマス
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025年表参道イルミネーション期間、時間、場所＆撮影スポット完全ガイド</strong></a>
+<strong>➡️</strong> <strong>2025年表参道イルミネーション期間、時間、場所＆撮影スポット完全ガイド</strong>
 
 ### 🌟 明治神宮外苑クリスマス
 

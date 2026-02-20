@@ -374,7 +374,7 @@ After shopping, recharge with freshly fried fries at nearby <b>Okashi Land</b>!
 
 👉 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /posts/tokyo-station-character-street-guide/ --><a href="#" style="color: #667eea;">Tokyo Station Character Street Directions, Hours & Tax-Free Complete Guide</a></b>
+     Hugo: /posts/tokyo-station-character-street-guide/ -->Tokyo Station Character Street Directions, Hours & Tax-Free Complete Guide</b>
 
 ​
 

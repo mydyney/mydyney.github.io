@@ -248,7 +248,7 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 📌 <strong>山崎、響</strong>などのウイスキー在庫及び無料試飲会情報は下記の詳細ガイドで確認してください！
 
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</strong></a>
+➡️ <strong>銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</strong>
 
 <strong>2. ジャパンデューティーフリー銀座 ➡️ <a href="https://livejapan.com/public/operation/coupon/japandutyfree/en.html" target="_blank" style="color: #667eea;"><strong>Live JAPANクーポン</strong></a></strong>
 
@@ -336,12 +336,12 @@ featured_image: "/images/posts/japan-travel-discount-coupons-2025-01.jpg"
 
 <strong>⭐ 一緒に読むと良い記事</strong>
 
-<strong>➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>獺祭23、45、39日本公式ホームページ価格完全ガイド</strong></a></strong>
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>日本ウイスキー山崎、響公式価格完全ガイド＆初心者・ギフト用おすすめ</strong></a>
+<strong>➡️ <strong>獺祭23、45、39日本公式ホームページ価格完全ガイド</strong></strong>
+➡️ <strong>日本ウイスキー山崎、響公式価格完全ガイド＆初心者・ギフト用おすすめ</strong>
 
 ➡️ <a href="/ja/posts/don-quijote-shopping-guide-2025/" target="_blank" style="color: #667eea;"><strong>日本ドン・キホーテショッピングリスト必須おすすめ＆割引クーポン、免税方法完全ガイド</strong></a>
 
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
+➡️ <strong>日本カルディショッピングリスト、必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong>
 
 ➡️ <a href="/ja/posts/japan-convenience-store-shopping-best-10/" target="_blank" style="color: #667eea;"><strong>日本コンビニ完全攻略！（セブンイレブン、ファミマ、ローソン比較完全ガイド）</strong></a>
 

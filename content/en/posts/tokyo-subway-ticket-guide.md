@@ -151,7 +151,7 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">Subway Ticket vs. JR Tokunai Pass: Which is best for your route?</a></b></p>
+<p>➡️ <b>Subway Ticket vs. JR Tokunai Pass: Which is best for your route?</b></p>
 
 <br>
 
@@ -278,11 +278,11 @@ usage tips, and available routes for the 24, 48, and 72-hour passes.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">Which Tokyo Transportation Pass Should You Buy? (Subway Ticket vs. JR Tokunai Pass Comparison)</a></b></p>
+<p>➡️ <b>Which Tokyo Transportation Pass Should You Buy? (Subway Ticket vs. JR Tokunai Pass Comparison)</b></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
      Hugo: /posts/skyliner-reservation-guide/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">Narita Airport to City Center: Keisei Skyliner Reservation Complete Guide</a></b></p>
+<p>➡️ <b>Narita Airport to City Center: Keisei Skyliner Reservation Complete Guide</b></p>
 <p>➡️ <b><a href="/posts/don-quijote-shopping-guide-2025/">Tokyo Don Quijote Shopping List & Discount Coupons</a></b></p>
 
 <br>

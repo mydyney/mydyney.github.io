@@ -29,7 +29,7 @@ translationKey: "yebisu-complete-guide"
 <!-- TODO: Update link after migration 
     Naver: https://blog.naver.com/tokyomate/223678791563
     Hugo: /posts/yebisu-garden-place-access-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>恵比寿ガーデンプレイスへの行き方とコインロッカー情報</strong></a></p>
+<p>➡️ <strong>恵比寿ガーデンプレイスへの行き方とコインロッカー情報</strong></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-02.jpg" alt="恵比寿スカイウォーク">
@@ -84,7 +84,7 @@ translationKey: "yebisu-complete-guide"
 <!-- TODO: Update link after migration 
      Naver: https://blog.naver.com/tokyomate/223668328703
      Hugo: /posts/top-of-yebisu-observation-deck/ -->
-<p><b>➡️ </b><a href="#" style="color: #667eea;"><b>東京恵比寿ガーデンプレイス無料展望台：TOP of YEBISU</b></a></p>
+<p><b>➡️ </b><b>東京恵比寿ガーデンプレイス無料展望台：TOP of YEBISU</b></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-06.jpg" alt="TOP of YEBISU 夜景">
@@ -97,11 +97,11 @@ translationKey: "yebisu-complete-guide"
 
 <!-- TODO: Update link 
      Naver: https://blog.naver.com/tokyomate/224078737491 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>2025年恵比寿ガーデンプレイスイルミネーション＆クリスマスマーケットガイド</b></a></p>
+<p>➡️ <b>2025年恵比寿ガーデンプレイスイルミネーション＆クリスマスマーケットガイド</b></p>
 
 <!-- TODO: Update link 
      Naver: https://blog.naver.com/tokyomate/223674944838 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>YEBISU BREWERY TOKYO 冬季限定ビール発売</b></a></p>
+<p>➡️ <b>YEBISU BREWERY TOKYO 冬季限定ビール発売</b></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-07.jpg" alt="恵比寿クリスマスイルミネーション">
@@ -271,11 +271,11 @@ translationKey: "yebisu-complete-guide"
 
 <!-- TODO: Update link
      Naver: https://blog.naver.com/tokyomate/223702865232 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>銀座 サッポロ生ビール黒ラベル THE BAR（パーフェクトドラフトビール体験）</b></a></p>
+<p>➡️ <b>銀座 サッポロ生ビール黒ラベル THE BAR（パーフェクトドラフトビール体験）</b></p>
 
 <!-- TODO: Update link
      Naver: https://blog.naver.com/tokyomate/224025343414 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>浅草 アサヒビールスカイルーム（スカイツリー夜景）</b></a></p>
+<p>➡️ <b>浅草 アサヒビールスカイルーム（スカイツリー夜景）</b></p>
 
 <h2>📍 次はどこへ行く？（おすすめ接続コース）</h2>
 

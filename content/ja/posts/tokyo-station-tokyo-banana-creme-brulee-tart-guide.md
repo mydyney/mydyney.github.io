@@ -374,7 +374,7 @@ A. クリームブリュレタルトは<b>1個あたり117kcal</b>です。美�
 
 👉 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /ja/posts/tokyo-station-character-street-guide/ --><a href="#" style="color: #667eea;">東京駅キャラクターストリート行き方・営業時間・免税 完全ガイド</a></b>
+     Hugo: /ja/posts/tokyo-station-character-street-guide/ -->東京駅キャラクターストリート行き方・営業時間・免税 完全ガイド</b>
 
 ​
 

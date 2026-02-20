@@ -309,7 +309,7 @@ Just a 3-minute walk away, there's Jiichiro Cafe on the 1st floor of KITTE—the
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223715784445
      Hugo: /posts/[SLUG_TBD]/ -->
-👉 <a href="#" style="color: #667eea;"><strong>Ginza WAKO Tea Salon (Reservation Tips)</strong></a></li>
+👉 <strong>Ginza WAKO Tea Salon (Reservation Tips)</strong></li>
 </ul>
 
 

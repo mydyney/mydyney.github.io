@@ -78,7 +78,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 <strong>📅 NEW! 最终更新：2025年11月4日 - 六本木之丘开放！</strong><br>
 <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/" style="color:#667eea;"><strong>➡️ 六本木灯饰2025 榉树坂·圣诞市集完全攻略</strong></a></p>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024年六本木 东京中城 圣诞灯饰与圣诞树</strong></a></p>
+<p><strong>➡️ 2024年六本木 东京中城 圣诞灯饰与圣诞树</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-03.jpg" alt="2025年六本木之丘 榉树坂灯饰与东京塔">
@@ -210,7 +210,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   </ul>
 </div>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024年东京麻布台之丘 圣诞市集评测</strong></a></p>
+<p><strong>➡️ 2024年东京麻布台之丘 圣诞市集评测</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-10.jpg" alt="2024年麻布台之丘 圣诞市集与东京塔">
@@ -239,7 +239,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   </ul>
 </div>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ 东京晴空塔 灯饰与圣诞市集</strong></a></p>
+<p><strong>➡️ 东京晴空塔 灯饰与圣诞市集</strong></p>
 
 <p><strong>🎄 焕然一新的晴空塔「圣诞特别灯光秀」</strong><br>
 今年是晴空塔开业以来首次，圣诞特别灯光秀设计全面更新！「装饰树」「优雅树」「圣诞老人」3个主题的灯光秀约每1分钟切换一次，华丽装点夜空。</p>

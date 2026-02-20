@@ -300,7 +300,7 @@ featured_image: "/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-01.jp
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224014619007
      Hugo: /posts/suntory-whisky-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>▶️ サントリーウイスキーラインナップ、価格、蒸溜所ツアー完全ガイド</b></a>
+<b>▶️ サントリーウイスキーラインナップ、価格、蒸溜所ツアー完全ガイド</b>
 
 ### ニッカウイスキー - モルトウイスキー
 
@@ -366,7 +366,7 @@ featured_image: "/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-01.jp
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [詳細] 銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</b></a>
+<b>➡️ [詳細] 銀座ロッテ免税店ウイスキー購入ガイド（山崎、響、無料試飲会）</b>
 
 <figure>
   <img src="/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-12.jpg" alt="銀座ロッテ免税店サントリーウイスキーコーナー">
@@ -381,7 +381,7 @@ featured_image: "/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-01.jp
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223698121379
      Hugo: /posts/ginza-six-imadeya-sake-shopping/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [詳細] 銀座シックスウイスキーショッピング、いまでや銀座、ジュールズウイスキーコレクション価格</b></a>
+<b>➡️ [詳細] 銀座シックスウイスキーショッピング、いまでや銀座、ジュールズウイスキーコレクション価格</b>
 
 <figure>
   <img src="/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-13.jpg" alt="銀座シックスジュールズウイスキーコレクション">
@@ -405,21 +405,21 @@ featured_image: "/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-01.jp
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
      Hugo: /posts/dassai-sake-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>➡️[詳細] 獺祭23、45、39日本公式ホームページ価格完全ガイド</b></a>
+<b>➡️[詳細] 獺祭23、45、39日本公式ホームページ価格完全ガイド</b>
 
 <b>⭐サントリーウイスキー完全ラインナップと山崎蒸溜所ツアーを知りたいですか？</b>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224014619007
      Hugo: /posts/suntory-whisky-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>➡️[詳細] サントリーウイスキーラインナップ、価格、飲み方、蒸溜所ツアー完全ガイド</b></a>
+<b>➡️[詳細] サントリーウイスキーラインナップ、価格、飲み方、蒸溜所ツアー完全ガイド</b>
 
 <b>⭐銀座ロッテ免税店で安く買う方法を知りたいですか？</b>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️[詳細] 銀座ロッテ免税店ウイスキー購入ガイド（無料試飲会、お得情報）</b></a>
+<b>➡️[詳細] 銀座ロッテ免税店ウイスキー購入ガイド（無料試飲会、お得情報）</b>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

@@ -331,7 +331,7 @@ You can travel directly on the Yamanote Line.
 <strong>Traditional District: Ueno</strong>
 Yamanote Line in the opposite direction from Shinjuku!
 
-<strong>➡️ <a href="#" style="color: #667eea;">Ueno Attractions - From Ameyoko Market and Restaurants to Ueno Park</a></strong>
+<strong>➡️ Ueno Attractions - From Ameyoko Market and Restaurants to Ueno Park</strong>
 
 <strong>🚇 Marunouchi Line 16 minutes!</strong>
 <strong>Center of Tokyo: Tokyo Station</strong>

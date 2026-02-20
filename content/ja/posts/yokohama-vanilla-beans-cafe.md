@@ -201,8 +201,8 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 横浜のランドマークを完璧に楽しめる<br>
 横浜1日おすすめコースをご覧ください！<br>
 ​<br>
-<a href="#" style="color: #667eea;"><b>➡️ 横浜1日コース </b></a><br>
-<a href="#" style="color: #667eea;"><b>中華街グルメ、赤レンガ、夜景スポット完全ガイド</b></a></p>
+<b>➡️ 横浜1日コース </b><br>
+<b>中華街グルメ、赤レンガ、夜景スポット完全ガイド</b></p>
 
 ---
 
@@ -212,7 +212,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 交通費節約のため<br>
 「みなとぶらりチケット」は必須！<br>
 ​<br>
-<b>➡️</b><a href="#" style="color: #667eea;"><b> 横浜交通パス、「みなとぶらりチケット」完全ガイド</b></a></p>
+<b>➡️</b><b> 横浜交通パス、「みなとぶらりチケット」完全ガイド</b></p>
 
 
 <div class="editors-note">

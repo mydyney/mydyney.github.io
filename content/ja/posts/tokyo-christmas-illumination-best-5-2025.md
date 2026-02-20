@@ -78,7 +78,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
 <strong>📅 NEW! 最終更新：2025年11月4日 - 六本木ヒルズオープン！</strong><br>
 <a href="/ja/posts/roppongi-christmas-illumination-2025/" style="color:#667eea;"><strong>➡️ 六本木イルミネーション2025 けやき坂・クリスマスマーケット完全ガイド</strong></a></p>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024年六本木 東京ミッドタウン クリスマスイルミネーションとサンタツリー</strong></a></p>
+<p><strong>➡️ 2024年六本木 東京ミッドタウン クリスマスイルミネーションとサンタツリー</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-03.jpg" alt="2025年六本木ヒルズ けやき坂イルミネーションと東京タワー">
@@ -210,7 +210,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   </ul>
 </div>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ 2024年東京麻布台ヒルズ クリスマスマーケット レビュー</strong></a></p>
+<p><strong>➡️ 2024年東京麻布台ヒルズ クリスマスマーケット レビュー</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-christmas-illumination-best-5-2025-10.jpg" alt="2024年麻布台ヒルズ クリスマスマーケットと東京タワー">
@@ -239,7 +239,7 @@ featured_image: "/images/posts/tokyo-christmas-illumination-best-5-2025-01.jpg"
   </ul>
 </div>
 
-<p><a href="#" style="color:#667eea;"><strong>➡️ 東京スカイツリー イルミネーションとクリスマスマーケット</strong></a></p>
+<p><strong>➡️ 東京スカイツリー イルミネーションとクリスマスマーケット</strong></p>
 
 <p><strong>🎄 完全に新しくなったスカイツリーの「クリスマス特別ライティング」</strong><br>
 今年はスカイツリー開業以来初めて、クリスマス特別ライティングのデザインが完全リニューアル！「オーナメントツリー」「エレガントツリー」「サンタクロース」の3つのテーマのライティングが約1分間隔で切り替わり、夜空を華やかに彩ります。</p>

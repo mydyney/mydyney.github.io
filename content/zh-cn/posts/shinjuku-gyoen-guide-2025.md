@@ -401,7 +401,7 @@ featured_image: "/images/posts/shinjuku-gyoen-guide-2025-01.jpg"
 - 2023年米其林必比登推介
 - 柔软有嚼劲的面条和深厚高汤味道
 
-**➡️ <a href="#" style="color: #667eea;">新宿乌冬美食，切麦屋 甚六等待时间贴士和推荐菜单↗</a>**
+**➡️ 新宿乌冬美食，切麦屋 甚六等待时间贴士和推荐菜单↗**
 
 <strong>5. 金色不如归（こんじきほととぎす）新宿御苑本店 (<a href="https://maps.app.goo.gl/zCcbYP5JQYeJm31y9" target="_blank">Google地图↗</a>)</strong>
 - 2025年米其林必比登推介

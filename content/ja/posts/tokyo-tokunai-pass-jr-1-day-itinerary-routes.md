@@ -321,7 +321,7 @@ JRの基本運賃は約150-180円なので、
 
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224135063751
-     Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;"><strong>東京JR/地下鉄完全路線図高画質ダウンロード</strong></a>
+     Hugo: /posts/[SLUG_TBD]/ --><strong>東京JR/地下鉄完全路線図高画質ダウンロード</strong>
 
 ---
 

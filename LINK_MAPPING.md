@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 168 posts migrated, 54 pending (222 total mapped)
+> **Status:** ⏳ In Progress - 168 posts migrated, 53 pending (221 total mapped)
 
 ---
 
@@ -155,7 +155,7 @@ When migrating a Naver blog post to Hugo:
 | 224038568654 | tokyo-halloween-festivals-2025 | 2025-10-12 | ✅ |
 | 224038071853 | tokyo-autumn-foliage-best-spots-2025 | 2025-10-12 | ✅ |
 | 224037272726 | tsukiji-market-restaurant-guide | 2025-10-11 | ✅ |
-| 224037212344 | kichijoji-complete-guide-2025 | - | pending |
+| 224037212344 | kichijoji-complete-guide-2025 | 2025-10-11 | ✅ |
 | 224035271300 | shinjuku-guide-2025 | 2025-10-09 | ✅ |
 | 224034429817 | mitsui-outlet-kisarazu-guide | 2025-12-06 | ✅ |
 | 224033964477 | kaldi-coffee-farm-shopping-list | 2024-04-28 | ✅ |
@@ -254,35 +254,20 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 
 | Naver ID | Referenced In | Description |
 |----------|---------------|-------------|
-| 224096781916 | shibuya-blue-cave-illumination-2025 | 2025 Omotesando Illumination Period, Hours, Location & Photo Spots Complete Guide |
 | 224096203397 | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
 | 224095118118 | - | Demoted from Quick (Filesystem mismatch) |
-| 224039113760 | japan-travel-discount-coupons-2025 | Japan Travel Discount Coupons (Don Quijote, Bic Camera, etc.) |
-| 224038568654 | ikebukuro-complete-guide, tokyo-october-festivals-2025 | 2025 Tokyo Halloween Festival Top Spots BEST 4 (Ikebukuro) |
-| 224037212344 | kichijoji-complete-guide-2025 | Tokyo Kichijoji Must-Visit Places: Complete Course (with Ghibli Museum) |
-| 224035533672 | tokyo-autumn-foliage-best-spots-2025 | Mitaka Ghibli Museum Reservation Guide |
-| 224033964477 | tamiya-plamodel-factory-tokyo-shimbashi, japan-convenience-store-shopping-best-10, shibuya-sushi-no-midori-lunch-guide, mitsui-outlet-kisarazu-guide | Japan Kaldi Shopping List Must-Buy Recommendations |
-| 224031937227 | akihabara-complete-guide | Akihabara Attractions & Anime Pilgrimage Guide |
-| 224027835049 | meiji-jingu-gaien-ginkgo-avenue-tokyo, tokyo-christmas-markets-guide-2025, tokyo-autumn-foliage-best-spots-2025 | Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture |
-| 224025343414 | asakusa-asahi-sky-room | 2026-02-04 | ✅ |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
-| 224019480188 | tokyo-october-festivals-2025 | Hakone Travel Day Trip vs Ryokan 1 Night Perfect Course (Hakone Free Pass, Romancecar) |
 | 224014619007 | don-quijote-shopping-guide-2025 | Suntory Whisky Official Japan Price Guide |
-| 224010770861 | ginza-hachigo-reservation-guide | Ginza Hachigo: Michelin Bib Gourmand Ramen | Reservation & Waiting Guide |
-| 224010546735 | shinanoya-roppongi-hills-supermarket, roppongi-attractions-guide | Japanese Whisky Recommendations and Price Guide |
 | 224008430188 | ginza-lotte-duty-free-whisky-guide | Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Free Tasting) |
 | 224007665631 | asakusa-complete-guide | Narita Airport to Asakusa Subway Guide |
 | 224002738158 | narita-express-guide | Narita Express (N'EX) Reservation, Price, Timetable |
-| 223995074888 | haneda-airport-arrival-guide | Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations) |
 | 223993881300 | evangelion-30th-roppongi-2025, roppongi-attractions-guide | Tokyo Roppongi Restaurant Map |
 | 223991251786 | shinanoya-roppongi-hills-supermarket, roppongi-attractions-guide | Dassai 23, 39, 45 Official Japanese Prices and Brewery Tour Guide |
-| 223987954990 | roppongi-hills-observatory-guide | 2025 Roppongi Hills Observatory Complete Guide |
 | 223987115708 | kaneko-hannosuke-roppongi-tempura | Tempura Meshi Kaneko Hannosuke: Roppongi Hills Tempura Restaurant |
 | 223986407872 | tsujihan-midtown-kaisendon-guide | Tsujihan Midtown: Roppongi Kaisendon Restaurant |
 | 223985958480 | imakatsu-roppongi-tonkatsu-guide | Imakatsu Roppongi Main Store: Tokyo Tonkatsu Restaurant |
 | 223980220327 | tokyo-august-festivals-sumida-river | August Tokyo Festivals: Sumida River Lantern Floating |
 | 223980166231 | harajuku-super-yosakoi-festival-guide | Harajuku Omotesando Super Yosakoi Festival August Guide |
-
 | 223969429024 | roppongi-attractions-guide | Sarashina Horii Main Store: Roppongi Soba Restaurant |
 | 223968462793 | azabudai-hills-commen-bakery-review | Comme'N Tokyo Azabudai Hills Bakery Review |
 | 223958175295 | azabudai-hills-summer-festival-review | Tokyo Azabudai Hills Summer Festival Review |
@@ -322,7 +307,6 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223675952285 | marunouchi-building-free-observatory | Marunouchi Building Free Observatory Sunset View |
 | 223675706489 | tokyo-station-breakfast-the-front-room | Tokyo Station Breakfast: The Front Room French Toast |
 | 223674804939 | roppongi-hills-summer-festival-doraemon | Tokyo Roppongi Hills Summer Festival: Doraemon |
-| 223672616108 | azabudai-hills-teamlab-borderless-guide | Tokyo Azabudai Hills teamLab Borderless Museum Guide |
 | 223671427079 | azabudai-hills-complete-guide | 2024 Tokyo Azabudai Hills Christmas Market Review |
 | 223670085459 | roppongi-midtown-christmas-review-2024 | 2024 Roppongi Tokyo Midtown Christmas Illumination and Santa Tree |
 | 223668826357 | yebisu-garden-place-illumination-christmas-market-2024 | 2024 Yebisu Garden Place Christmas Archive |
@@ -332,14 +316,13 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 | 223666751487 | st-moritz-roppongi-bakery | St. Moritz: 80-Year-Old Traditional Bakery in Roppongi |
 | 224150787671 | tokyo-moheji-monjayaki-marunouchi-guide | Tokyo Moheji Monjayaki Marunouchi: Best Menu & Waiting Guide |
 | 224131055243 | shinjuku-department-store-guest-card-discount | Shinjuku Department Store Guest Card 5% Discount Comparison (Isetan vs Takashimaya) |
-| 224109119129 | azabudai-hills-parlor-yazawa-guide | Azabudai Hills Restaurant Parlor Yazawa Guide |
 **Note:** The `tokyo-3-day-christmas-illumination-itinerary` post contains 30+ internal links. Extract them for detailed tracking when updating links.
 ---
 ## Statistics
 
 - **Total Posts Migrated:** 168
-- **Naver IDs Tracked:** 222
-- **Pending References:** 79
+- **Naver IDs Tracked:** 221
+- **Pending References:** 63
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
 - **Last Migration Date:** 2026-02-20 (Azabudai Hills Sky Room Sunset View)

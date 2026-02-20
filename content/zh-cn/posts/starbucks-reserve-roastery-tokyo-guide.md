@@ -359,7 +359,7 @@ translationKey: "starbucks-reserve-roastery-tokyo-guide"
 <!-- TODO: Update link after migration
      Naver: /zh-cn/posts/im-donut-nakameguro-seongsu-guide/
      Hugo: /zh-cn/posts/im-donut-nakameguro-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;">👉 <strong>从中目黑到圣水，排队也要吃的甜甜圈全攻略</strong></a></p>
+<p>👉 <strong>从中目黑到圣水，排队也要吃的甜甜圈全攻略</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

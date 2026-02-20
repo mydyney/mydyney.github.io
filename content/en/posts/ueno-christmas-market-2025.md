@@ -211,7 +211,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 
 <p><strong>Q1. What's the fastest way from Narita Airport?</strong></p>
 <p>A. Take the Skyliner from Narita Airport to Keisei Ueno Station, then climb the park stairs to arrive in just 1 minute. Great as a first day itinerary!</p>
-<p><a href="#" style="color: #667eea;"><strong>➡️ How to Get from Narita Airport to Ueno (Skyliner Reservation, Price, Schedule)</strong></a></p>
+<p><strong>➡️ How to Get from Narita Airport to Ueno (Skyliner Reservation, Price, Schedule)</strong></p>
 
 <figure>
   <img src="/images/posts/ueno-christmas-market-2025-23.jpg" alt="Stairs from Keisei Ueno Station to Ueno Park">
@@ -223,7 +223,7 @@ Don't miss the beautiful lights and Santa photo zone!</p>
 
 <p><strong>Q3. What else to do around Ueno Park?</strong></p>
 <p>A. Ameyoko street across the road is packed with attractions and food 24/7.</p>
-<p><a href="#" style="color: #667eea;"><strong>➡️ Ueno Attractions: Ameyoko Market Food to Ueno Park Complete Course</strong></a></p>
+<p><strong>➡️ Ueno Attractions: Ameyoko Market Food to Ueno Park Complete Course</strong></p>
 
 <figure>
   <img src="/images/posts/ueno-christmas-market-2025-24.jpg" alt="Ameyoko Market entrance near Ueno Park">

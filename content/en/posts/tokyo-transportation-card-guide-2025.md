@@ -166,9 +166,9 @@ As of 2025, physical cards available to travelers are <strong>'Welcome Suica'</s
 
 Each card is sold by different companies, so be careful! Check the detailed issuance locations (JR stations vs private railway stations) by airport with photos in the guides below.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
+➡️ <strong>Narita Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong>
 
-➡️ <a href="#" style="color: #667eea;"><strong>Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong></a>
+➡️ <strong>Haneda Airport Arrival Guide (Including Suica/PASMO Issuance Locations)</strong>
 
 ---
 
@@ -201,7 +201,7 @@ Then use <strong>'Suica (or PASMO)'</strong> for <strong>JR lines not covered by
 
 <strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DUSD%26n_currency%3DUSD%26ignore_ip%3D1" target="_blank"><strong>Buy Tokyo Subway Pass (24/48/72-hour) on Klook</strong></a>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass (Tokyo Subway Ticket) Exchange Locations, Purchase & Usage Complete Guide</strong></a>
+<strong>➡️</strong> <strong>Tokyo Subway Pass (Tokyo Subway Ticket) Exchange Locations, Purchase & Usage Complete Guide</strong>
 
 ---
 
@@ -213,7 +213,7 @@ But whether <strong>'Tokyo Subway Ticket'</strong> or <strong>'JR Tokunai Pass'<
 
 Check the guide below for a perfect comparison of the two passes' pros and cons, and choose the one that will give you the best value based on your itinerary!
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Subway Pass vs JR Tokunai Pass, Perfect Comparison!</strong></a>
+➡️ <strong>Tokyo Subway Pass vs JR Tokunai Pass, Perfect Comparison!</strong>
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-09.jpg" alt="JR Tokunai Pass 1-day coverage map showing usable areas">
@@ -228,7 +228,7 @@ Now that you've prepared your essential Tokyo travel item—the 'transportation 
 
 ⭐ <strong>Related Articles</strong>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide</strong></a>
+<strong>➡️</strong> <strong>Narita Express (N'EX) Reservation, Prices, Timetable Complete Guide</strong>
 
 <strong>➡️</strong> <a href="/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
 <div class="editors-note">

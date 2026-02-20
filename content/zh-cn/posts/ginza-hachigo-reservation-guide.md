@@ -118,7 +118,7 @@ translationKey: "ginza-hachigo-reservation-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
      Hugo: /zh-cn/posts/ginza-kagari-toripaitan-ramen-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>➡️ 【对比推荐】银座 篝 本店｜鸡白汤拉面店、排队及2026年菜单价格</strong></a></p>
+<p><strong>➡️ 【对比推荐】银座 篝 本店｜鸡白汤拉面店、排队及2026年菜单价格</strong></p>
 
 <ul>
   <li>银座还有另一处被誉为日本三大乌冬面的面食圣地。试试那<strong>如丝般顺滑的乌冬面</strong>，美味程度不输米其林拉面。</li>

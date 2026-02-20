@@ -307,14 +307,14 @@ translationKey: "shibuya-hikarie-11f-sky-lobby-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
      Hugo: /ja/posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 新丸ビル 無料展望テラス＆夜景名所ガイド</strong></a></p>
+<p><strong>👉 新丸ビル 無料展望テラス＆夜景名所ガイド</strong></p>
 
 <p><strong>3. GINZA SIX ルーフトップガーデン</strong></p>
 <p>銀座のど真ん中で楽しめる無料ルーフトップ庭園。洗練された雰囲気と都心の感性が調和した散歩コースとしてもおすすめです。</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223694057318
      Hugo: /ja/posts/ginza-six-rooftop-garden/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 GINZA SIX 無料展望台 ルーフトップガーデン＆アイスリンク</strong></a></p>
+<p><strong>👉 GINZA SIX 無料展望台 ルーフトップガーデン＆アイスリンク</strong></p>
 
 ---
 

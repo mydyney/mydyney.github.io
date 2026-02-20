@@ -136,7 +136,7 @@ A paradise for Pokemon fans located in Takashimaya S.C. New Building. Full of li
 
 If you're curious about detailed interior views, limited edition goods, and the 100% reservation-only Pokemon Cafe, check out the detailed guide below!
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Nihonbashi Pokemon Center Tokyo DX & Pokemon Cafe, 5 Minutes from Tokyo Station</strong></a>
+➡️ <strong>Tokyo Nihonbashi Pokemon Center Tokyo DX & Pokemon Cafe, 5 Minutes from Tokyo Station</strong>
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-12.jpg" alt="Pokemon Cafe on same floor as Pokemon Center DX">

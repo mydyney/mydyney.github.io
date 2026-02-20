@@ -130,7 +130,7 @@ ATMの場所や交通手段の比較まで、<br>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /ja/posts/narita-express-guide/ --><strong><a href="#">【詳細】成田エクスプレス(N'EX)の予約・料金・時刻表まとめ</a></strong></p>
+     Hugo: /ja/posts/narita-express-guide/ --><strong>【詳細】成田エクスプレス(N'EX)の予約・料金・時刻表まとめ</strong></p>
 
 <p><strong>✅ 2. 京成スカイライナー</strong></p>
 <ul>
@@ -143,7 +143,7 @@ ATMの場所や交通手段の比較まで、<br>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
-     Hugo: /ja/posts/skyliner-reservation-guide/ --><strong><a href="#">【詳細】京成スカイライナーの予約・時刻表・料金まとめ</a></strong></p>
+     Hugo: /ja/posts/skyliner-reservation-guide/ --><strong>【詳細】京成スカイライナーの予約・時刻表・料金まとめ</strong></p>
 
 <p><strong>✅ 3. 一般列車 (JR / アクセス特急)</strong></p>
 <ul>
@@ -154,7 +154,7 @@ ATMの場所や交通手段の比較まで、<br>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007665631
-     Hugo: /ja/posts/narita-to-asakusa-subway-guide/ --><strong><a href="#">【詳細】成田空港から都心を安く：東京駅・浅草への地下鉄移動術</a></strong></p>
+     Hugo: /ja/posts/narita-to-asakusa-subway-guide/ --><strong>【詳細】成田空港から都心を安く：東京駅・浅草への地下鉄移動術</strong></p>
 
 <p><strong>✅ 4. 空港リムジンバス</strong></p>
 <ul>
@@ -185,14 +185,14 @@ ATMの場所や交通手段の比較まで、<br>
 <p><strong>⭐ 日本入国前の必須準備：Visit Japan Webはお済みですか？</strong></p>
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
-     Hugo: /ja/posts/visit-japan-web-guide/ --><strong><a href="#">Visit Japan Webの登録方法5分で解説（同伴家族、QRコード最新版）</a></strong></p>
+     Hugo: /ja/posts/visit-japan-web-guide/ --><strong>Visit Japan Webの登録方法5分で解説（同伴家族、QRコード最新版）</strong></p>
 
 <p><strong>⭐ 都内の交通手段もチェック！</strong></p>
 <p>空港からの移動ができたら、次は都内の複雑な交通網です。あなたの旅のルートに最適な、最も安くて効率的なパスを以下のガイドで確認しましょう。</p>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ --><strong><a href="#">東京のおすすめ交通パス比較：地下鉄パス vs JR都区内パス</a></strong></p>
+     Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ --><strong>東京のおすすめ交通パス比較：地下鉄パス vs JR都区内パス</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

@@ -76,7 +76,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 <strong>① ショッピング＆トレンド</strong>  
 銀座・渋谷・原宿・表参道・新宿  
 👉 <strong>[銀座ロッテ免税店即時ゴールドアップグレード＆割引 | 空港より安い](/posts/ginza-shopping-discount-guide-2026/)</strong>  
-<a href="#" style="color: #667eea;">新宿デパートゲストカード | 伊勢丹、高島屋、小田急、京王割引比較</a>  
+新宿デパートゲストカード | 伊勢丹、高島屋、小田急、京王割引比較  
 👉 <strong>[渋谷パルコ | フロアガイド、免税、ブランド（Human Made、コム、ポーター）](/posts/shibuya-parco-shopping-guide/)</strong>
 
 <strong>② 伝統＆風景散策</strong>  
@@ -205,7 +205,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
      Hugo: /ja/posts/narita-express-reservation-guide/ -->
-<a href="#" style="color: #667eea;">成田エクスプレス（N'EX）予約、料金、時刻表完全ガイド</a>  
+成田エクスプレス（N'EX）予約、料金、時刻表完全ガイド  
 <strong>👉 [渋谷観光スポット | 渋谷スカイ予約からショッピング＆グルメまで](/posts/shibuya-complete-guide-2025/)</strong>
 
 <figure>
@@ -241,7 +241,7 @@ featured_image: "/images/posts/tokyo-travel-preparation-guide-01.jpg"
 👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224135063751
      Hugo: /ja/posts/tokyo-subway-route-map/ -->
-<a href="#" style="color: #667eea;">東京地下鉄路線図PDF高画質韓国語ダウンロード | 完全読み方ガイド</a>
+東京地下鉄路線図PDF高画質韓国語ダウンロード | 完全読み方ガイド
 
 ---
 

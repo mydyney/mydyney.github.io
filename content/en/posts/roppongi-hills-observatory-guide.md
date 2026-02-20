@@ -162,7 +162,7 @@ translationKey: "roppongi-hills-observatory-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681272647
      Hugo: /posts/roppongi-hills-access-coin-locker-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 How to Get to Roppongi Hills and Coin Locker Locations</strong></a></p>
+<p><strong>👉 How to Get to Roppongi Hills and Coin Locker Locations</strong></p>
 
 ---
 
@@ -287,7 +287,7 @@ translationKey: "roppongi-hills-observatory-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /posts/roppongi-restaurant-map-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Tokyo Roppongi Restaurant Map — Michelin and Tabelog Recommended Restaurants</strong></a></p>
+<p><strong>👉 Tokyo Roppongi Restaurant Map — Michelin and Tabelog Recommended Restaurants</strong></p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-observatory-guide-18.jpg" alt="Roppongi attractions complete guide thumbnail">

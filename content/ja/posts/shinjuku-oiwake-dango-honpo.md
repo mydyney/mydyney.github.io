@@ -170,15 +170,15 @@ featured_image: "/images/posts/shinjuku-oiwake-dango-honpo-01.jpg"
 
 <strong>➡️ <a href="/ja/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">新宿世界堂 東京文具店 会員カード、免税ガイド ↗</a></strong>
 
-**<a href="#" style="color: #667eea;">新宿うどん店 切麦や甚六 ミシュランうどん↗</a>**
+**新宿うどん店 切麦や甚六 ミシュランうどん↗**
 
 <strong>➡️ <a href="/ja/posts/shinjuku-epitaph-curry-review/" target="_blank">新宿キーマカレー店 エピタフカレー ↗</a></strong>
 
 💡 銀座デザートギフトも見たいですか？
 
-**<a href="#" style="color: #667eea;">東京銀座いちご大福、あけぼの銀座旗艦店 ↗</a>**
+**東京銀座いちご大福、あけぼの銀座旗艦店 ↗**
 
-**<a href="#" style="color: #667eea;">東京の両親へのギフト、迷ったら銀座空也最中 ↗</a>**
+**東京の両親へのギフト、迷ったら銀座空也最中 ↗**
 
 
 <div class="editors-note">

@@ -340,12 +340,12 @@ translationKey: "haneda-airport-arrival-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224154771287
      Hugo: /ja/posts/japan-flight-booking-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 【ステップ1】日本の航空券を最安値で購入＆空港選びのコツ</strong></a></p>
+<p><strong>👉 【ステップ1】日本の航空券を最安値で購入＆空港選びのコツ</strong></p>
 <p><a href="/ja/posts/tokyo-travel-preparation-guide/" style="color: #667eea;"><strong>👉 【ステップ2】東京自由旅行の準備 A to Z チェックリスト</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
      Hugo: /ja/posts/visit-japan-web-registration-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 【ステップ3】Visit Japan Web 登録方法を5分で完了</strong></a></p>
+<p><strong>👉 【ステップ3】Visit Japan Web 登録方法を5分で完了</strong></p>
 
 <p><strong>東京都内の交通はどうする？</strong></p>
 <p>空港から都心への移動は完璧に準備できました！次は、あなたの旅行コースに最適でお得な交通パスを見つけましょう：</p>
@@ -357,7 +357,7 @@ translationKey: "haneda-airport-arrival-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223996626324
      Hugo: /ja/posts/haneda-airport-departure-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 羽田空港出発ガイド（早朝バス・チェックイン・グルメ・免税店・ラウンジ・温泉・カプセルホテル総まとめ）</strong></a></p>
+<p><strong>👉 羽田空港出発ガイド（早朝バス・チェックイン・グルメ・免税店・ラウンジ・温泉・カプセルホテル総まとめ）</strong></p>
 
 ---
 

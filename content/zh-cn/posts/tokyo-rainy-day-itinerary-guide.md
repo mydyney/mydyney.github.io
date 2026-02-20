@@ -65,7 +65,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /zh-cn/posts/ginza-lotte-duty-free-whisky-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 银座乐天免税店 威士忌攻略</strong></a></p>
+<p><strong>👉 银座乐天免税店 威士忌攻略</strong></p>
 <p><a href="/zh-cn/posts/ginza-shopping-discount-guide-2026/" style="color: #667eea; text-decoration: underline;"><strong>👉 银座购物折扣秘籍：三越 vs 松屋百货对比</strong></a></p>
 
 <p><strong>🕔 17:00 | 东京站地下街&角色一条街</strong></p>
@@ -98,7 +98,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224131055243
      Hugo: /zh-cn/posts/shinjuku-department-store-guest-card-discount/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 新宿百货Guest Card 5%折扣对比（伊势丹 vs 高岛屋）</strong></a></p>
+<p><strong>👉 新宿百货Guest Card 5%折扣对比（伊势丹 vs 高岛屋）</strong></p>
 
 <p><strong>2️⃣ 池袋Sunshine City路线（亲子型）</strong></p>
 <p>池袋站到Sunshine City有地下连通通道。水族馆、宝可梦中心、大型商场全在一栋楼里，<strong>带娃雨天行程</strong>的最稳选择。</p>
@@ -109,15 +109,15 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
      Hugo: /zh-cn/posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 东京站KITTE免费展望台&电车观景点</strong></a></p>
+<p><strong>👉 东京站KITTE免费展望台&电车观景点</strong></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675952285
      Hugo: /zh-cn/posts/marunouchi-building-free-observatory/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 丸之内大厦免费展望台：日落&夜景攻略</strong></a></p>
+<p><strong>👉 丸之内大厦免费展望台：日落&夜景攻略</strong></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
      Hugo: /zh-cn/posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 新丸之内大厦露台餐厅</strong></a></p>
+<p><strong>👉 新丸之内大厦露台餐厅</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-rainy-day-itinerary-guide-03.jpg" alt="雨天丸之内室内路线 东京站景观">

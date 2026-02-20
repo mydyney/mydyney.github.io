@@ -240,7 +240,7 @@ featured_image: "/images/posts/hibiya-park-tokyo-guide-01.jpg"
 
 過去に日比谷公園で開催されていたクリスマスマーケットは、2025年基準で明治神宮外苑・芝公園に移転しました。
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025明治神宮外苑クリスマスマーケット入場券・マグカップ特典</strong></a>
+<strong>➡️</strong> <strong>2025明治神宮外苑クリスマスマーケット入場券・マグカップ特典</strong>
 
 <figure>
   <img src="/images/posts/hibiya-park-tokyo-guide-12.jpg" alt="東京都心のど真ん中で出会った日比谷公園の秋風景">

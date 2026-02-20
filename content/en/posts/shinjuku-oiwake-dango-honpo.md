@@ -173,17 +173,17 @@ Soft mochi, sweet-salty soy sauce, and neat packaging — 300 years of tradition
 <strong>➡️ <a href="/posts/shinjuku-sekaido-stationery-shopping-guide/" target="_blank">Shinjuku Sekaido Tokyo Stationery Store Membership Card, Tax-Free Guide ↗</a></strong>
 
 **➡️ <!-- Link updated -->
-<a href="#" style="color: #667eea;">Shinjuku Udon Restaurant Kirimugi-ya Jinroku Michelin Udon↗</a>**
+Shinjuku Udon Restaurant Kirimugi-ya Jinroku Michelin Udon↗**
 
 <strong>➡️ <a href="/posts/shinjuku-epitaph-curry-review/" target="_blank">Shinjuku Keema Curry Restaurant Epitaph Curry ↗</a></strong>
 
 💡 Want to see Ginza dessert gifts too?
 
 **➡️ <!-- Link updated -->
-<a href="#" style="color: #667eea;">Tokyo Ginza Strawberry Mochi, Akebono Ginza Flagship Store ↗</a>**
+Tokyo Ginza Strawberry Mochi, Akebono Ginza Flagship Store ↗**
 
 **➡️ <!-- Link updated -->
-<a href="#" style="color: #667eea;">Tokyo Parents Gift, If You're Worried, Ginza Kuya Monaka ↗</a>**
+Tokyo Parents Gift, If You're Worried, Ginza Kuya Monaka ↗**
 
 
 <div class="editors-note">

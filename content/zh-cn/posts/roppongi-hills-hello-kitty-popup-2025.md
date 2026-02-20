@@ -68,7 +68,7 @@ featured_image: "/images/posts/roppongi-hills-hello-kitty-popup-2025-01.jpg"
   </ul>
 </div>
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木之丘交通方式和投币式储物柜位置</a></strong><br>
+<p style="text-align: center;"><strong>➡️ 六本木之丘交通方式和投币式储物柜位置</strong><br>
 
 <div style="margin: 2rem 0;">
   <iframe src="https://www.google.com/maps?q=35.6599599,139.729758&hl=zh-CN&z=17&output=embed"
@@ -239,12 +239,12 @@ Kitty&Mimi毛绒玩具、化妆包等<br>
 
 ### 1. 展望台/美术馆
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木玩法全面总结</a></strong><!-- TODO: /ja/posts/roppongi-attractions-guide -> roppongi-attractions-guide --><br>
+<p style="text-align: center;"><strong>➡️ 六本木玩法全面总结</strong><!-- TODO: /ja/posts/roppongi-attractions-guide -> roppongi-attractions-guide --><br>
 <strong>（展望台、美术馆、餐厅）</strong><br>
 
 ### 2. 六本木之丘圣诞彩灯
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">六本木彩灯2025 期间、点灯时间、必去景点、<br>六本木之丘圣诞市集完全攻略</a></strong><br>
+<p style="text-align: center;"><strong>➡️ 六本木彩灯2025 期间、点灯时间、必去景点、<br>六本木之丘圣诞市集完全攻略</strong><br>
 
 <figure>
   <img src="/images/posts/roppongi-hills-hello-kitty-popup-2025-20.jpg" alt="六本木彩灯">
@@ -266,7 +266,7 @@ Kitty&Mimi毛绒玩具、化妆包等<br>
 不会失败的3晚4日行程<br>
 全部包含！</p>
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">东京3晚4日圣诞特别路线<br>（动线、费用全面总结）</a></strong><br>
+<p style="text-align: center;"><strong>➡️ 东京3晚4日圣诞特别路线<br>（动线、费用全面总结）</strong><br>
 
 ### 2. 东京圣诞市集 按喜好全面总结
 
@@ -275,7 +275,7 @@ Kitty&Mimi毛绒玩具、化妆包等<br>
 东京所有「圣诞市集」信息<br>
 全面汇总的攻略。</p>
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025 东京圣诞市集，去哪里？<br>（上野、麻布台等）</a></strong><br>
+<p style="text-align: center;"><strong>➡️ 2025 东京圣诞市集，去哪里？<br>（上野、麻布台等）</strong><br>
 
 ### 3. 东京圣诞彩灯 BEST 5
 
@@ -284,7 +284,7 @@ Kitty&Mimi毛绒玩具、化妆包等<br>
 东京最佳「彩灯」<br>
 名所精选。</p>
 
-<p style="text-align: center;"><strong>➡️ <a href="#" style="color: #667eea;">2025年东京圣诞彩灯 BEST 5<br>（表参道、丸之内完全攻略）</a></strong><br>
+<p style="text-align: center;"><strong>➡️ 2025年东京圣诞彩灯 BEST 5<br>（表参道、丸之内完全攻略）</strong><br>
 
 
 <div class="editors-note">

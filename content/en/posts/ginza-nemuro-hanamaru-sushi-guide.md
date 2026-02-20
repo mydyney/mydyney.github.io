@@ -88,7 +88,7 @@ featured_image: "/images/posts/ginza-nemuro-hanamaru-sushi-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea; text-decoration: underline;"><strong>Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Discount Coupons)</strong></a></p>
+<p>➡️ <strong>Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Discount Coupons)</strong></p>
 
 <p><strong>③ The 15-Minute Rule (Caution)</strong></p>
 <p>Even if you aren't there when called, you can still enter if you arrive within 15 minutes. However, after 15 minutes, your reservation is canceled without exception, so keep a close eye on the time.</p>

@@ -136,7 +136,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 想了解详细的店内样子、限定商品、100%预约制宝可梦咖啡厅的朋友，请查看下方详细攻略！
 
-➡️ <a href="#" style="color: #667eea;"><strong>东京日本桥宝可梦中心东京DX&宝可梦咖啡厅、东京站5分钟</strong></a>
+➡️ <strong>东京日本桥宝可梦中心东京DX&宝可梦咖啡厅、东京站5分钟</strong>
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-12.jpg" alt="与宝可梦中心DX同层的宝可梦咖啡厅">

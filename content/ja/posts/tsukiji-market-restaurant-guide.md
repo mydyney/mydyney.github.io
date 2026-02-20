@@ -222,7 +222,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <li><b>上野：</b> アメ横市場の庶民的な活気と、上野公園の開放感を同時に楽しめます。</li>
 </ul>
 
-<p><b>➡️ <a href="#" class="todo-link">上野観光：アメ横市場のグルメから上野公園まで</a></b></p>
+<p><b>➡️ 上野観光：アメ横市場のグルメから上野公園まで</b></p>
 <!-- TODO: Link to /posts/ueno-ameyoko-guide/ when migrated -->
 <!-- Naver: https://blog.naver.com/tokyomate/224028694874 -->
 <!-- Hugo: /posts/ueno-ameyoko-guide/ -->
@@ -241,7 +241,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <li><b>中目黒：</b> おしゃれな雑貨屋やカフェが集まる、感性豊かな街です。</li>
 </ul>
 
-<p><b>➡️ <a href="#" class="todo-link">中目黒の行くべきスポット：雑貨屋・セレクトショップからグルメ、カフェまで</a></b></p>
+<p><b>➡️ 中目黒の行くべきスポット：雑貨屋・セレクトショップからグルメ、カフェまで</b></p>
 <!-- TODO: Link to /posts/nakameguro-guide/ when migrated -->
 <!-- Naver: https://blog.naver.com/tokyomate/224032086475 -->
 <!-- Hugo: /posts/nakameguro-guide/ -->

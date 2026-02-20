@@ -120,7 +120,7 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 等待时间还剩30分钟以上的话，去Mark City地下的KALDI、大创购物，或去涩谷十字路口打卡。
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">日本KALDI购物清单、必买KALDI推荐品（涂抹酱、胶囊咖啡、免税技巧）</a></strong></p>
+<p><strong>➡️ 日本KALDI购物清单、必买KALDI推荐品（涂抹酱、胶囊咖啡、免税技巧）</strong></p>
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-05.jpg" alt="寿司绿取号机与二维码排队时间查询系统显示屏">

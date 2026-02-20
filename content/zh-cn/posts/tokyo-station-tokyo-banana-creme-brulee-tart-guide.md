@@ -374,7 +374,7 @@ A. 奶油布丁塔<b>每个117kcal</b>。因为好吃一直吃的话就是一碗
 
 👉 <b><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224111977613
-     Hugo: /zh-cn/posts/tokyo-station-character-street-guide/ --><a href="#" style="color: #667eea;">东京站角色街道路·营业时间·免税 完全攻略</a></b>
+     Hugo: /zh-cn/posts/tokyo-station-character-street-guide/ -->东京站角色街道路·营业时间·免税 完全攻略</b>
 
 ​
 

@@ -166,9 +166,9 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 各カードの販売所(会社)が異なりますので注意してください!下記ガイドで空港別詳細な発行場所(JR駅 vs 私鉄駅)を写真付きで確認してください。
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京成田空港到着ガイド(Suica/PASMO発行所含む)</strong></a>
+➡️ <strong>東京成田空港到着ガイド(Suica/PASMO発行所含む)</strong>
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京羽田空港到着ガイド(Suica/PASMO発行所含む)</strong></a>
+➡️ <strong>東京羽田空港到着ガイド(Suica/PASMO発行所含む)</strong>
 
 ---
 
@@ -201,7 +201,7 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 <strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fja%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DJPY%26n_currency%3DJPY%26ignore_ip%3D1" target="_blank"><strong>Klook(クルック)で東京メトロパス(24/48/72時間券)購入する</strong></a>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>東京メトロパス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong></a>
+<strong>➡️</strong> <strong>東京メトロパス(東京サブウェイチケット)交換所、購入、使用法総まとめ</strong>
 
 ---
 
@@ -213,7 +213,7 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 下記ガイドで2つのパスの長所と短所を完璧に比較しておきましたので、必ず確認してご自身の動線に合った「元が取れる」パスを選んでください!
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京メトロパス vs JR都区内パス、完璧比較!</strong></a>
+➡️ <strong>東京メトロパス vs JR都区内パス、完璧比較!</strong>
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-09.jpg" alt="JR都区内パス1日券利用可能地図">
@@ -228,7 +228,7 @@ Samsung PayなどのAndroidユーザー、またはiPhoneユーザーでもApple
 
 ⭐ <strong>一緒に読むと良い記事</strong>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>成田エクスプレス(N'EX)予約、価格、時刻表総まとめ</strong></a>
+<strong>➡️</strong> <strong>成田エクスプレス(N'EX)予約、価格、時刻表総まとめ</strong>
 
 <strong>➡️</strong> <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行割引クーポン総まとめ2025(ドン・キホーテ、ビックカメラなど)</strong></a>
 <div class="editors-note">

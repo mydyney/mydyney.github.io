@@ -292,7 +292,7 @@ Kisarazu Outlet houses over 308 brands, with an excellent balance from luxury de
 <strong>Gifts & Food:</strong>
 - <strong>GODIVA</strong>, Lindt, KALDI Coffee Farm
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Japan KALDI Shopping List: Must-Buy KALDI Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a></strong>
+<strong>➡️ <strong>Japan KALDI Shopping List: Must-Buy KALDI Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></strong>
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-10.jpg" alt="GODIVA outlet store at Kisarazu">
@@ -348,11 +348,11 @@ Tokyo outlet shopping - no more hesitation! With unbeatable accessibility from c
 
 <strong>➡️ [Shinjuku Complete Guide: From Shinjuku Gyoen to Restaurants, Shopping, and Golden Gai](/posts/shinjuku-guide-2025/)</strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Station Guide: Character Street, Restaurants, Night Views, Luggage Storage</strong></a></strong>
+<strong>➡️ <strong>Tokyo Station Guide: Character Street, Restaurants, Night Views, Luggage Storage</strong></strong>
 
 <strong>➡️ [Japan Don Quijote Shopping List & Discount Coupon Guide](/posts/don-quijote-shopping-guide-2025/)</strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Japan KALDI Shopping List: Must-Buy Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a></strong>
+<strong>➡️ <strong>Japan KALDI Shopping List: Must-Buy Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></strong>
 
 <strong>🔥 Essential Check Before Shopping in Japan!</strong>
 

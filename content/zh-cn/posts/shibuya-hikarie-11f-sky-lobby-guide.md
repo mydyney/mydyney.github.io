@@ -307,14 +307,14 @@ translationKey: "shibuya-hikarie-11f-sky-lobby-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
      Hugo: /zh-cn/posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 新丸大厦免费展望露台与夜景打卡指南</strong></a></p>
+<p><strong>👉 新丸大厦免费展望露台与夜景打卡指南</strong></p>
 
 <p><strong>3. GINZA SIX屋顶花园</strong></p>
 <p>银座正中心的免费屋顶花园。精致的氛围加上都市感, 散步和看风景两不误。</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223694057318
      Hugo: /zh-cn/posts/ginza-six-rooftop-garden/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 GINZA SIX屋顶花园: 免费展望台与溜冰场</strong></a></p>
+<p><strong>👉 GINZA SIX屋顶花园: 免费展望台与溜冰场</strong></p>
 
 ---
 

@@ -236,7 +236,7 @@ featured_image: "/images/posts/ginza-sato-yosuke-inaniwa-udon-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
      Hugo: /ja/posts/ginza-kagari-toripaitan-ramen-guide/ -->
-<p><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>銀座 篝 本店：鶏白湯（とりぱいたん）の濃厚な味レビュー</strong></a></p>
+<p><strong>➡️</strong> <strong>銀座 篝 本店：鶏白湯（とりぱいたん）の濃厚な味レビュー</strong></p>
 
 ---
 

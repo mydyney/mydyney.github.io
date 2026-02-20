@@ -340,12 +340,12 @@ translationKey: "haneda-airport-arrival-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224154771287
      Hugo: /zh-cn/posts/japan-flight-booking-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 【第1步】日本机票最低价购买和机场选择技巧</strong></a></p>
+<p><strong>👉 【第1步】日本机票最低价购买和机场选择技巧</strong></p>
 <p><a href="/zh-cn/posts/tokyo-travel-preparation-guide/" style="color: #667eea;"><strong>👉 【第2步】东京自由行准备A to Z清单</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
      Hugo: /zh-cn/posts/visit-japan-web-registration-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 【第3步】Visit Japan Web注册方法5分钟搞定</strong></a></p>
+<p><strong>👉 【第3步】Visit Japan Web注册方法5分钟搞定</strong></p>
 
 <p><strong>东京市内交通怎么办？</strong></p>
 <p>机场到市区的交通已经搞定了！接下来就是找到最适合你行程的交通通票。快来看我们的详细对比攻略：</p>
@@ -357,7 +357,7 @@ translationKey: "haneda-airport-arrival-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223996626324
      Hugo: /zh-cn/posts/haneda-airport-departure-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 羽田机场出发攻略（凌晨巴士、值机、美食、免税店、贵宾室、温泉、胶囊酒店全攻略）</strong></a></p>
+<p><strong>👉 羽田机场出发攻略（凌晨巴士、值机、美食、免税店、贵宾室、温泉、胶囊酒店全攻略）</strong></p>
 
 ---
 

@@ -202,7 +202,7 @@ featured_image: "/images/posts/hakone-travel-guide-day-trip-vs-ryokan-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224038866606
      Hugo: /posts/hakone-open-air-museum-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 東京近郊旅行、箱根彫刻の森美術館 見どころ（入場料割引、フォトスポットのコツ）</strong></a>
+<strong>➡️ 東京近郊旅行、箱根彫刻の森美術館 見どころ（入場料割引、フォトスポットのコツ）</strong>
 
 <div class="image-group-3">
   <figure>
@@ -263,12 +263,12 @@ A2：「じゃらんネット」、「楽天トラベル」などの日本現地
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224038866606
      Hugo: /posts/hakone-open-air-museum-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 東京近郊旅行、箱根彫刻の森美術館 見どころ（入場料割引、フォトスポットのコツ）</strong></a>
+<strong>➡️ 東京近郊旅行、箱根彫刻の森美術館 見どころ（入場料割引、フォトスポットのコツ）</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024131147
      Hugo: /posts/hakone-romancecar-reservation-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 箱根ロマンスカー予約方法、展望席のコツまで A to Z</strong></a>
+<strong>➡️ 箱根ロマンスカー予約方法、展望席のコツまで A to Z</strong>
 
 ---
 

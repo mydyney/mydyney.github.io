@@ -70,7 +70,7 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>🎄 麻布台ヒルズ</b><br>
 <b>クリスマスマーケット</b><br>
 東京タワーの景色とクリスマスマーケットを楽しみましょう<br>
-<b><a href="#" style="color: #667eea;">➡️ 麻布台ヒルズ完全ガイド</a></b></p>
+<b>➡️ 麻布台ヒルズ完全ガイド</b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-23.jpg" alt="麻布台ヒルズクリスマスマーケット">
@@ -167,8 +167,8 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 伊勢丹/高島屋デパートでショッピング<br>
 (ランチ) ミシュランうどんきりむぎや<br>
 ​<br>
-<b><a href="#" style="color: #667eea;">➡️東京新宿うどんレストラン、</a></b><br>
-<b><a href="#" style="color: #667eea;">きりむぎや甚六ミシュランうどん</a></b></p>
+<b>➡️東京新宿うどんレストラン、</b><br>
+<b>きりむぎや甚六ミシュランうどん</b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-30.jpg" alt="東京新宿うどんレストランきりむぎや甚六ミシュランうどん">
@@ -181,9 +181,9 @@ featured_image: "/images/posts/tokyo-3-day-christmas-illumination-itinerary-01.j
 <b>成田エクスプレス(N'EX)</b>で<br>
 空港へ!<br>
 ​<br>
-<b><a href="#" style="color: #667eea;">➡️ 成田エクスプレス(N'EX)</a></b><br>
-<b><a href="#" style="color: #667eea;">予約、価格、時刻表完全ガイド</a></b><br>
-<b><a href="#" style="color: #667eea;">(往復割引、座席のコツ!)</a></b></p>
+<b>➡️ 成田エクスプレス(N'EX)</b><br>
+<b>予約、価格、時刻表完全ガイド</b><br>
+<b>(往復割引、座席のコツ!)</b></p>
 
 <figure>
   <img src="/images/posts/tokyo-3-day-christmas-illumination-itinerary-31.jpg" alt="成田空港出発帰国!!!">

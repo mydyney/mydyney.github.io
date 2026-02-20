@@ -398,7 +398,7 @@ I hope your Tokyo trip becomes more special. Please leave any questions in the c
 
 ## 🧡 Related Tokyo Mate Travel Guides
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Nakameguro Boutiques, Cafes & Walking Course Complete Guide</strong></a>
+<strong>➡️</strong> <strong>Nakameguro Boutiques, Cafes & Walking Course Complete Guide</strong>
 
 <strong>➡️</strong> <a href="/posts/shibuya-complete-guide-2025/" style="color: #667eea;"><strong>Shibuya Sky, Shopping, Restaurants & Activities Complete Guide</strong></a>
 <div class="editors-note">

@@ -191,15 +191,15 @@ A：イチョウ並木は「青山」地域にあります。「表参道」と�
 
 - <strong>表参道</strong> → カフェ・ショッピング・建築探訪
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>表参道完璧ガイド：コーヒー、ショッピング、レストラン、建築まで完全整理（おすすめコース）</strong></a>
+<strong>➡️</strong> <strong>表参道完璧ガイド：コーヒー、ショッピング、レストラン、建築まで完全整理（おすすめコース）</strong>
 
 - <strong>渋谷</strong> → スカイ展望台・ショッピングルート
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>渋谷の見どころ：渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong></a>
+<strong>➡️</strong> <strong>渋谷の見どころ：渋谷スカイ予約からショッピング、レストランまで完璧コース推薦</strong>
 
 - <strong>六本木</strong> → イルミネーション・夜景・森美術館
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>六本木の見どころ完全ガイド（展望台、美術館、ショッピング、レストラン A to Z）</strong></a>
+<strong>➡️</strong> <strong>六本木の見どころ完全ガイド（展望台、美術館、ショッピング、レストラン A to Z）</strong>
 
 <strong>➡️</strong> <a href="/ja/posts/roppongi-christmas-illumination-2025/"><strong>六本木イルミネーション2025：期間、点灯時間、必須スポット、六本木ヒルズクリスマスマーケット完璧ガイド</strong></a>
 

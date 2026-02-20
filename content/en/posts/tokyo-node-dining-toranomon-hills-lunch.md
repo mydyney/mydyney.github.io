@@ -231,7 +231,7 @@ Complete guide including course details and online reservation tips.</p>
 <p><strong>Related Toranomon Hills Travel Guides:</strong></p>
 <p><a href="/posts/toranomon-hills-complete-guide/" style="color: #667eea;"><strong>Toranomon Hills Complete Guide: Observatory, Restaurants, Yokocho, T-Market</strong></a></p>
 
-<p><a href="#" style="color: #667eea;"><strong>Nonotori Gencho: Yakitori Omakase at Toranomon Hills</strong></a></p>
+<p><strong>Nonotori Gencho: Yakitori Omakase at Toranomon Hills</strong></p>
 
 <p><a href="/posts/tamiya-plamodel-factory-tokyo-shimbashi/" style="color: #667eea;"><strong>2025 Tamiya Plamodel Factory Tokyo (6,000+ Items, Mini Cars, Cafe)</strong></a></p>
 

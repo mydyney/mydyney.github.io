@@ -276,12 +276,12 @@ A: 很遗憾，治一郎KITTE店不是免税对象店铺（根据KITTE官方信�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223680263119
      Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">根室花丸回转寿司：东京站KITTE 5楼等位攻略</a>
+根室花丸回转寿司：东京站KITTE 5楼等位攻略
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
      Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">东京站KITTE免费展望台及铁道迷必去路线（夜景景点）</a>
+东京站KITTE免费展望台及铁道迷必去路线（夜景景点）
 
 ---
 

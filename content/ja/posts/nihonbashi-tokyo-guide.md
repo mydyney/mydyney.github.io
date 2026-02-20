@@ -136,7 +136,7 @@ featured_image: "/images/posts/nihonbashi-tokyo-guide-01.jpg"
 
 詳細な店内の様子、限定グッズ、100%予約制のポケモンカフェについて知りたい方は、下記の詳細ガイドをご覧ください！
 
-➡️ <a href="#" style="color: #667eea;"><strong>東京日本橋ポケモンセンター東京DX＆ポケモンカフェ、東京駅から5分</strong></a>
+➡️ <strong>東京日本橋ポケモンセンター東京DX＆ポケモンカフェ、東京駅から5分</strong>
 
 <figure>
   <img src="/images/posts/nihonbashi-tokyo-guide-12.jpg" alt="ポケモンセンターDXと同じフロアにあるポケモンカフェ">

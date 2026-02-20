@@ -321,7 +321,7 @@ Choose the route that fits your travel style and reduce transportation costs whi
 
 <strong>👉</strong> <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224135063751
-     Hugo: /posts/[SLUG_TBD]/ --><a href="#" style="color: #667eea;"><strong>Tokyo JR/Subway Complete Route Map High-Quality Download</strong></a>
+     Hugo: /posts/[SLUG_TBD]/ --><strong>Tokyo JR/Subway Complete Route Map High-Quality Download</strong>
 
 ---
 

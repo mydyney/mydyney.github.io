@@ -220,7 +220,7 @@ JAL、エアプレミア等利用。第1ターミナルと同じくらい規模�
 <a href="/ja/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><b>➡️ 日本旅行割引クーポン総まとめ2025（ドンキホーテ、ビックカメラ、デパート等免税+追加割引）</b></a>
 <br><br>
 <!-- Link updated -->
-<a href="#" style="color: #667eea;"><b>➡️ 日本ウイスキー山崎、響公式価格総まとめ及び入門者、ギフト用おすすめ</b></a>
+<b>➡️ 日本ウイスキー山崎、響公式価格総まとめ及び入門者、ギフト用おすすめ</b>
 
 
 <div class="editors-note">

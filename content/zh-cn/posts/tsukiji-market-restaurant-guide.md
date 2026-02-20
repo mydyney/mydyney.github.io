@@ -223,7 +223,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <li><b>上野：</b> 可以同时享受阿美横丁市场的市井活力和上野公园的惬意。</li>
 </ul>
 
-<p><b>➡️ <a href="#" class="todo-link">上野观光：从阿美横丁美食到上野公园</a></b></p>
+<p><b>➡️ 上野观光：从阿美横丁美食到上野公园</b></p>
 <!-- TODO: Link to /posts/ueno-ameyoko-guide/ when migrated -->
 <!-- Naver: https://blog.naver.com/tokyomate/224028694874 -->
 <!-- Hugo: /posts/ueno-ameyoko-guide/ -->
@@ -242,7 +242,7 @@ featured_image: "/images/posts/tsukiji-market-restaurant-guide-01.jpg"
   <li><b>中目黑：</b> 充满了各式杂货铺和咖啡馆的文艺街区。</li>
 </ul>
 
-<p><b>➡️ <a href="#" class="todo-link">中目黑必访景点：从杂货铺、买手店到美食、咖啡厅</a></b></p>
+<p><b>➡️ 中目黑必访景点：从杂货铺、买手店到美食、咖啡厅</b></p>
 <!-- TODO: Link to /posts/nakameguro-guide/ when migrated -->
 <!-- Naver: https://blog.naver.com/tokyomate/224032086475 -->
 <!-- Hugo: /posts/nakameguro-guide/ -->

@@ -313,7 +313,7 @@ Tokyo Mate敬上！
 
 ## 🧡 一起看更好 新宿旅游攻略
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>新宿黄金街 vs 回忆横丁 完全比较（2025最新版）</strong></a>
+<strong>➡️</strong> <strong>新宿黄金街 vs 回忆横丁 完全比较（2025最新版）</strong>
 
 <strong>➡️</strong> <a href="/zh-cn/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿观光景点：从新宿御苑到餐厅、购物完美路线</strong></a>
 <div class="editors-note">

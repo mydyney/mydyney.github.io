@@ -120,7 +120,7 @@ Scan the QR code on your ticket to see <strong>'Teams Ahead of You'</strong> and
 
 If you have 30+ minutes left, go shopping at KALDI or Daiso in Mark City basement, or visit Shibuya Scramble Crossing.
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">Japan Kaldi Shopping List: Must-Buy Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</a></strong></p>
+<p><strong>➡️ Japan Kaldi Shopping List: Must-Buy Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></p>
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-05.jpg" alt="Sushi no Midori ticket machine and QR code wait tracking system display">

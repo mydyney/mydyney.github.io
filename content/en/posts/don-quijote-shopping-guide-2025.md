@@ -99,15 +99,15 @@ The soul of Korean izakaya highballs! In Japan, you can buy it at a much lower p
 
 <strong>⭐ For complete Suntory whisky lineup and official prices, check this guide:</strong>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">Suntory Whisky Official Japan Price Guide (Coming Soon)</a></strong></p>
+<p><strong>➡️ Suntory Whisky Official Japan Price Guide (Coming Soon)</strong></p>
 
 <strong>⭐ Want more Japanese whisky information? Check this comprehensive guide:</strong>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">Yamazaki & Hibiki Official Prices & Gift Recommendations (Coming Soon)</a></strong></p>
+<p><strong>➡️ Yamazaki & Hibiki Official Prices & Gift Recommendations (Coming Soon)</strong></p>
 
 <strong>⭐ For Dassai sake grades and latest prices, see this guide:</strong>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">Dassai 23, 45, 39 Official Japan Price Guide (Coming Soon)</a></strong></p>
+<p><strong>➡️ Dassai 23, 45, 39 Official Japan Price Guide (Coming Soon)</strong></p>
 
 <figure>
   <img src="/images/posts/don-quijote-shopping-guide-2025-08.jpg" alt="Suntory Kakubin whisky bottle at Don Quijote">
@@ -265,9 +265,9 @@ Don Quijote shopping doesn't have to be intimidating anymore, right? This single
 
 <p><strong>➡️ <a href="/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;">Japan Convenience Store Complete Guide (7-Eleven, FamilyMart, Lawson Comparison)</a></strong></p>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">Yamazaki & Hibiki Official Prices & Gift Whisky Recommendations (Coming Soon)</a></strong></p>
+<p><strong>➡️ Yamazaki & Hibiki Official Prices & Gift Whisky Recommendations (Coming Soon)</strong></p>
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">Dassai 23, 45, 39 Sake Official Japan Price Guide (Coming Soon)</a></strong></p>
+<p><strong>➡️ Dassai 23, 45, 39 Sake Official Japan Price Guide (Coming Soon)</strong></p>
 
 
 <div class="editors-note">

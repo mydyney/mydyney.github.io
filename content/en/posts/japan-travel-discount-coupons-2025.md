@@ -248,7 +248,7 @@ Essential for clothing, luxury goods, and sundries shopping! Most issue <strong>
 
 📌 For <strong>Yamazaki, Hibiki</strong> whisky stock and free tasting event info, check the detailed guide below!
 
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Free Tasting)</strong></a>
+➡️ <strong>Ginza LOTTE Duty Free Whisky Purchase Guide (Yamazaki, Hibiki, Free Tasting)</strong>
 
 <strong>2. Japan Duty Free GINZA ➡️ <a href="https://livejapan.com/public/operation/coupon/japandutyfree/en.html" target="_blank" style="color: #667eea;"><strong>Live JAPAN Coupon</strong></a></strong>
 
@@ -336,12 +336,12 @@ The more you know, the more you save - <strong>Japan travel discount coupons!</s
 
 <strong>⭐ Related Articles</strong>
 
-<strong>➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Dassai 23, 45, 39 Japan Official Website Price Complete Guide</strong></a></strong>
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Japanese Whisky Yamazaki, Hibiki Official Price Complete Guide & Beginner/Gift Recommendations</strong></a>
+<strong>➡️ <strong>Dassai 23, 45, 39 Japan Official Website Price Complete Guide</strong></strong>
+➡️ <strong>Japanese Whisky Yamazaki, Hibiki Official Price Complete Guide & Beginner/Gift Recommendations</strong>
 
 ➡️ <a href="/posts/don-quijote-shopping-guide-2025/" target="_blank" style="color: #667eea;"><strong>Japan Don Quijote Shopping List Essential Recommendations & Discount Coupons, Tax-Free Method Complete Guide</strong></a>
 
-➡️ <a href="#" target="_blank" style="color: #667eea;"><strong>Japan KALDI Shopping List, Must-Buy KALDI Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
+➡️ <strong>Japan KALDI Shopping List, Must-Buy KALDI Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong>
 
 ➡️ <a href="/posts/japan-convenience-store-shopping-best-10/" target="_blank" style="color: #667eea;"><strong>Complete Guide to Japanese Convenience Stores! (7-Eleven, FamilyMart, Lawson Comparison)</strong></a>
 

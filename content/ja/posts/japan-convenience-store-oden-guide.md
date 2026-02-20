@@ -561,7 +561,7 @@ featured_image: "/images/posts/japan-convenience-store-oden-guide-01.jpg"
 
 <strong>👉</strong> <a href="/ja/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>日本旅行割引クーポン総整理2025（ドン・キホーテ、ビックカメラ、百貨店など免税+追加割引）</strong></a>
 
-<strong>👉</strong> <a href="#" style="color: #667eea;"><strong>日本カルディ買い物リスト2025年必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong></a>
+<strong>👉</strong> <strong>日本カルディ買い物リスト2025年必ず買うべきカルディおすすめ（スプレッド、ポーションコーヒー、免税ヒント）</strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

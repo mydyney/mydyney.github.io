@@ -155,8 +155,9 @@ cat naver.md | head -20
       <!-- TODO: Update link after migration
            Naver: https://blog.naver.com/tokyomate/224065668379
            Hugo: /posts/roppongi-christmas-illumination-2025/ -->
-      <a href="#" style="color: #667eea;">Related Article</a>
+      <strong>Related Article</strong>
       ```
+      Note: Use plain text (no `<a>` tag) for unmigrated links. The TODO comment allows `grep TODO` tracking. When the post is migrated, wrap the text with `<a href="/posts/[slug]/" style="color: #667eea;">...</a>`.
 - **⚠️ MANDATORY: Add Editor's Note section at the end** (CRITICAL: Use exact format below)
 
   **EXACT FORMAT TO USE (DO NOT MODIFY):**
@@ -361,8 +362,9 @@ After creating all three language versions, verify the following counts match be
    - This post is now fully migrated
 
 3. **Note about placeholder links:**
-   - Placeholder links (`href="#"`) in existing posts will be updated in future migrations
-   - Each new migration will check LINK_MAPPING.md and convert placeholders to working links
+   - Unmigrated links appear as plain text (no `<a>` tag) with a `<!-- TODO -->` comment
+   - Each new migration will check LINK_MAPPING.md and convert plain-text placeholders to working `<a>` links
+   - Use `grep -r 'TODO: Update link' content/` to find all pending placeholders
 
 ---
 
@@ -738,37 +740,44 @@ When creating Hugo posts, the AI will:
      <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/">相关文章</a>
      ```
 
-   - **If not mapped OR file does not exist:** ⏳ **ALWAYS use `#` placeholder + TODO comment**
+   - **If not mapped OR file does not exist:** ⏳ **Use plain text + TODO comment**
 
-     **⚠️ CRITICAL: Never create broken links (404 errors)**
-     - **ALWAYS use `href="#"` when Hugo post file doesn't exist**
-     - **ALWAYS add TODO comment with Naver URL and expected Hugo URL**
-     - This applies even if the post is mapped in LINK_MAPPING.md
+     **⚠️ CRITICAL: Never create broken or dead links**
+     - ❌ **NEVER use `href="#"`** — broken links hurt AdSense review and user experience
+     - ❌ **NEVER use `/posts/non-existent-slug/`** — causes 404 errors
+     - ✅ **Use plain text (no `<a>` tag)** so readers see the text but can't click a dead link
+     - ✅ **ALWAYS add TODO comment** with Naver URL and expected Hugo URL for tracking
 
      ```html
      <!-- Example 1: Not mapped at all -->
      <!-- TODO: Update link after migration
           Naver: https://blog.naver.com/tokyomate/223681272647
           Hugo: /posts/[SLUG_TBD]/ -->
-     <a href="#" style="color: #667eea;">Related Article</a>
+     <strong>Related Article</strong>
 
      <!-- Example 2: Mapped but file doesn't exist yet -->
      <!-- TODO: Update link after migration
           Naver: https://blog.naver.com/tokyomate/224022065518
           Hugo: /posts/don-quijote-shopping-guide-2025/ -->
-     <a href="#" style="color: #667eea;"><strong>→ Tokyo Don Quijote Shopping Guide</strong></a>
+     <strong>→ Tokyo Don Quijote Shopping Guide</strong>
 
      <!-- Example 3: Japanese version (same rules apply) -->
      <!-- TODO: Update link after migration
           Naver: https://blog.naver.com/tokyomate/224022065518
           Hugo: /ja/posts/don-quijote-shopping-guide-2025/ -->
-     <a href="#" style="color: #667eea;"><strong>➡️ 東京ドンキホーテショッピングガイド</strong></a>
+     <strong>➡️ 東京ドンキホーテショッピングガイド</strong>
+     ```
+
+     When the target post is migrated later, wrap the text with a real link:
+     ```html
+     <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>→ Tokyo Don Quijote Shopping Guide</strong></a>
      ```
 
      **Why this matters:**
+     - ❌ `href="#"` → Dead link that hurts AdSense review and looks broken
      - ❌ `/posts/non-existent-slug/` → 404 error (bad user experience)
-     - ✅ `#` placeholder → Page stays functional, link can be updated later
-     - ✅ TODO comment → Easy to find and update when post is migrated
+     - ✅ Plain text → Readers see the content, no broken clicks
+     - ✅ TODO comment → Easy to find with `grep TODO` and update when post is migrated
 
 3. **Update LINK_MAPPING.md:**
    - Add new post to Quick Reference Table

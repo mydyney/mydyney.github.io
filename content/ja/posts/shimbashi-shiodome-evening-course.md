@@ -190,7 +190,7 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 - <strong><a href="https://maps.app.goo.gl/TDZjAWQ5jG2GLMf37" target="_blank">黒豚とんかつ ほり壱（黒豚とんかつ ほり壱）</a></strong>: 厳選された「鹿児島黒豚」の次元の異なる風味と肉汁を味わえるプレミアムとんかつ（食べログ百名店2024）
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京新橋とんかつ名店 | 黒豚ほり壱ミシュラン黒豚とんかつレビュー</strong></a></strong>
+<strong>➡️ <strong>東京新橋とんかつ名店 | 黒豚ほり壱ミシュラン黒豚とんかつレビュー</strong></strong>
 
 
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">とんかつ 明石（とんかつ 明石）</a></strong>: 地元サラリーマンに愛されてきたコスパの良い隠れたとんかつ名店（食べログ百名店5回）
@@ -212,7 +212,7 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/fM4wBrz1iJVbpZbwswY8?medium_slug=AJvA6Kg5ptKi" target="_blank">炭焼 うな富士 有楽町をオンライン予約</a></strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京うなぎ名店 | 炭焼 うな富士 有楽町店レビュー</strong></a></strong>
+<strong>➡️ <strong>東京うなぎ名店 | 炭焼 うな富士 有楽町店レビュー</strong></strong>
 
 
 <figure>

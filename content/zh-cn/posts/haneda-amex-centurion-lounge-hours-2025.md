@@ -156,9 +156,9 @@ featured_image: "/images/posts/haneda-amex-centurion-lounge-hours-2025-01.jpg"
 
 <p><strong>相关羽田机场攻略：</strong></p>
 
-<p><a href="#" style="color: #667eea;"><strong>→ 羽田机场美国运通百夫长贵宾室开幕实访（餐食、拉面、甜点）</strong></a></p>
+<p><strong>→ 羽田机场美国运通百夫长贵宾室开幕实访（餐食、拉面、甜点）</strong></p>
 
-<p><a href="#" style="color: #667eea;"><strong>→ 羽田机场出境完全攻略：清晨巴士、值机、美食、免税店、贵宾室、温泉、胶囊旅馆总结</strong></a></p>
+<p><strong>→ 羽田机场出境完全攻略：清晨巴士、值机、美食、免税店、贵宾室、温泉、胶囊旅馆总结</strong></p>
 
 
 <div class="editors-note">

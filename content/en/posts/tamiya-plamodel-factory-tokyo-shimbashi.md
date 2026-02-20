@@ -222,11 +222,11 @@ Create special Tokyo travel memories at the Shimbashi Tamiya store.
 
 ## 🎁 Tokyo Shopping Guides
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores + Additional Discounts)</strong></a>
+<strong>➡️</strong> <strong>Japan Travel Discount Coupons Complete Guide (Don Quijote, Bic Camera, Department Stores + Additional Discounts)</strong>
 
 <strong>➡️</strong> <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Don Quijote Shopping List Must-Buy Items & Discount Coupons, Tax-Free Methods Complete Guide (Rayu, Eye Drops, etc.)</strong></a>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List, Must-Buy Kaldi Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
+<strong>➡️</strong> <strong>Japan Kaldi Shopping List, Must-Buy Kaldi Recommendations (Spreads, Portion Coffee, Tax-Free Tips)</strong>
 
 <strong>➡️</strong> <a href="/posts/japan-convenience-store-shopping-best-10/" style="color: #667eea;"><strong>Japan Convenience Store Shopping List Fail-Proof BEST 10 (7-Eleven, Family Mart, Lawson Comparison)</strong></a>
 

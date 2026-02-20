@@ -56,7 +56,7 @@ Get off at Ebisu Station and head to Yebisu Garden Place.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
      Hugo: /posts/yebisu-garden-place-access-guide/ -->
-<p>(For directions and coin locker information: <a href="#" style="color: #667eea;"><strong>Yebisu Garden Place Access Guide</strong></a>)</p>
+<p>(For directions and coin locker information: <strong>Yebisu Garden Place Access Guide</strong>)</p>
 
 When you see the Ebisu Brewery Tokyo sign, head to B1F. The sound of flowing water along the path creates a peaceful atmosphere.
 
@@ -255,7 +255,7 @@ If you enjoyed the 'Yebisu beer' experience, don't miss these two other beer des
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223702865232
      Hugo: /posts/sapporo-the-bar-ginza/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ Ginza Sapporo The Bar (Perfect Draft Beer Review)</strong></a></p>
+<p><strong>➡️ Ginza Sapporo The Bar (Perfect Draft Beer Review)</strong></p>
 
 <p><a href="/posts/asakusa-asahi-sky-room/" style="color: #667eea;"><strong>➡️ Asakusa Asahi Beer Sky Room (Skytree Night View)</strong></a></p>
 

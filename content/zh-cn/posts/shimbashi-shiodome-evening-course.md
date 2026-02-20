@@ -190,7 +190,7 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 - <strong><a href="https://maps.app.goo.gl/TDZjAWQ5jG2GLMf37" target="_blank">黑猪炸猪排 堀壱（黒豚とんかつ ほり壱）</a> 📍</strong>：精选"鹿儿岛黑猪"、不同维度的风味和肉汁的高端炸猪排（Tabelog百名店2024）
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>东京新橋炸猪排名店 | 黑猪堀壱米其林黑猪炸猪排评测</strong></a></strong>
+<strong>➡️ <strong>东京新橋炸猪排名店 | 黑猪堀壱米其林黑猪炸猪排评测</strong></strong>
 
 
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">炸猪排 明石（とんかつ 明石）</a> 📍</strong>：受到当地上班族喜爱的性价比高的隐藏炸猪排名店（Tabelog百名店5次）
@@ -212,7 +212,7 @@ featured_image: "/images/posts/shimbashi-shiodome-evening-course-01.jpg"
 
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/fM4wBrz1iJVbpZbwswY8?medium_slug=AJvA6Kg5ptKi" target="_blank">在线预约炭烤 鳗富士 有乐町</a></strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>东京鳗鱼名店 | 炭烤 鳗富士 有乐町店评测</strong></a></strong>
+<strong>➡️ <strong>东京鳗鱼名店 | 炭烤 鳗富士 有乐町店评测</strong></strong>
 
 
 <figure>

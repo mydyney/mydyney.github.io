@@ -118,7 +118,7 @@ translationKey: "ginza-hachigo-reservation-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
      Hugo: /ja/posts/ginza-kagari-toripaitan-ramen-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>➡️ 【比較推奨】銀座 篝 本店｜鶏白湯ラーメン店、待ち時間＆2026年メニュー価格</strong></a></p>
+<p><strong>➡️ 【比較推奨】銀座 篝 本店｜鶏白湯ラーメン店、待ち時間＆2026年メニュー価格</strong></p>
 
 <ul>
   <li>銀座には日本三大うどんとして知られるもう一つの麺料理の聖地があります。ミシュランラーメンに劣らない<strong>絹のように滑らかなうどん</strong>を試してみてください。</li>

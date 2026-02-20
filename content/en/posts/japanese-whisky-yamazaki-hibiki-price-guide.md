@@ -305,7 +305,7 @@ Currently in Japan, due to scarcity, most are sold at <b>much higher prices (pre
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224014619007
      Hugo: /posts/suntory-whisky-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>▶️ Suntory Whisky Lineup, Prices, Distillery Tour Complete Guide</b></a>
+<b>▶️ Suntory Whisky Lineup, Prices, Distillery Tour Complete Guide</b>
 
 ### Nikka Whisky - Malt Whisky
 
@@ -371,7 +371,7 @@ Generally the cheapest. If you're lucky, you can purchase near official prices. 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [Details] Ginza Lotte Duty Free Whisky Buying Guide (Yamazaki, Hibiki, Free Tasting)</b></a>
+<b>➡️ [Details] Ginza Lotte Duty Free Whisky Buying Guide (Yamazaki, Hibiki, Free Tasting)</b>
 
 <figure>
   <img src="/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-12.jpg" alt="Ginza Lotte Duty Free Suntory whisky section">
@@ -386,7 +386,7 @@ Highest probability of finding rare whiskies, but most expensive. Compare with o
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223698121379
      Hugo: /posts/ginza-six-imadeya-sake-shopping/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [Details] Ginza Six Whisky Shopping, Imadeya Ginza, Jule's Whisky Collection Prices</b></a>
+<b>➡️ [Details] Ginza Six Whisky Shopping, Imadeya Ginza, Jule's Whisky Collection Prices</b>
 
 <figure>
   <img src="/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-13.jpg" alt="Ginza Six Jule's Whisky Collection">
@@ -410,21 +410,21 @@ Are you now ready to meet the best Japanese whisky that perfectly matches your t
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
      Hugo: /posts/dassai-sake-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>➡️[Details] Dassai 23, 45, 39 Official Japan Website Price Complete Guide</b></a>
+<b>➡️[Details] Dassai 23, 45, 39 Official Japan Website Price Complete Guide</b>
 
 <b>⭐Want to know about Suntory whisky complete lineup and Yamazaki distillery tour?</b>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224014619007
      Hugo: /posts/suntory-whisky-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>➡️[Details] Suntory Whisky Lineup, Prices, How to Drink, Distillery Tour Complete Guide</b></a>
+<b>➡️[Details] Suntory Whisky Lineup, Prices, How to Drink, Distillery Tour Complete Guide</b>
 
 <b>⭐Want to know how to buy cheaply at Ginza Lotte Duty Free?</b>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️[Details] Ginza Lotte Duty Free Whisky Buying Guide (Free Tasting, Tips)</b></a>
+<b>➡️[Details] Ginza Lotte Duty Free Whisky Buying Guide (Free Tasting, Tips)</b>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

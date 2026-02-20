@@ -395,7 +395,7 @@ Roppongi Hills Observatory (Tokyo City View) is famous for its Tokyo Tower view.
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987954990
      Hugo: /posts/roppongi-hills-observatory-guide/ -->
-<p><strong>👉 </strong><a href="#" style="color: #667eea;"><strong>2026 Roppongi Hills Observatory Complete Guide｜Closed Days, Discount Booking, Traffic Restrictions (Including January Notice)</strong></a></p>
+<p><strong>👉 </strong><strong>2026 Roppongi Hills Observatory Complete Guide｜Closed Days, Discount Booking, Traffic Restrictions (Including January Notice)</strong></p>
 
 ### <strong>💰 Admission Fee</strong>
 

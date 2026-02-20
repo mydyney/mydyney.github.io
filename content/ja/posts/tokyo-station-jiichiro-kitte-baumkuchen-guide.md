@@ -273,12 +273,12 @@ A: バウムクーヘンは機内持ち込み可能です。ただし、プリ�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223680263119
      Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">根室花まる回転寿司：東京駅KITTE 5階の待ち時間攻略法</a>
+根室花まる回転寿司：東京駅KITTE 5階の待ち時間攻略法
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
      Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">東京駅KITTE無料展望台＆鉄道ファン必見コース（夜景スポット）</a>
+東京駅KITTE無料展望台＆鉄道ファン必見コース（夜景スポット）
 
 ---
 

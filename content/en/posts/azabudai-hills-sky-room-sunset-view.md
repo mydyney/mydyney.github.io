@@ -29,7 +29,7 @@ translationKey: "azabudai-hills-sky-room-sunset-view"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223716380927
      Hugo: /posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 Sky Room Observatory Complete Guide (Menu & Directions)</strong></a></p>
+<p><strong>👉 Sky Room Observatory Complete Guide (Menu & Directions)</strong></p>
 
 <p><a href="/posts/azabudai-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Azabudai Hills Complete Guide: Observatory to Restaurants</strong></a></p>
 
@@ -236,7 +236,7 @@ translationKey: "azabudai-hills-sky-room-sunset-view"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223671427079
      Hugo: /posts/azabudai-hills-christmas-market-2024/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Azabudai Hills Christmas Market 2024 Guide</strong></a></p>
+<p><strong>👉 Azabudai Hills Christmas Market 2024 Guide</strong></p>
 
 ---
 

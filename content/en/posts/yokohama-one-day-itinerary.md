@@ -694,7 +694,7 @@ If you want a proper meal in Chinatown, check the Tabelog Top 100 restaurant rev
 <li>3. <strong>[Accommodation] Yokohama Station</strong><br>
 If you're planning an overnight stay, check the review of Sheraton Hotel, which has the most convenient transportation.<br>
 <!-- TODO: Add Hugo link for Sheraton Hotel Review when migrated (Naver ID: 223977332343) -->
-    <a href="#" style="color: #667eea;"><strong>➡️ Yokohama Bay Sheraton Hotel & Towers Review (Breakfast, Lounge)</strong></a></li>
+    <strong>➡️ Yokohama Bay Sheraton Hotel & Towers Review (Breakfast, Lounge)</strong></li>
 <br>
 <li>4. <strong>[Discount Coupons & Course] (Must-haves)</strong><br>
 If you're on a day trip from Tokyo, don't forget Don Quijote discount coupons and Christmas market info!<br>

@@ -445,7 +445,7 @@ translationKey: "grand-hyatt-tokyo-keyakizaka-teppanyaki-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987954990
      Hugo: /ja/posts/roppongi-hills-observatory-guide/ -->
-<p><a href="#" style="color: #667eea;">&#128073; 2026年 六本木ヒルズ展望台（東京シティビュー）完全ガイド</a></p>
+<p>&#128073; 2026年 六本木ヒルズ展望台（東京シティビュー）完全ガイド</p>
 
 <p>2. 六本木の一日プランをお探しですか？ <strong>美術館、ショッピング、グルメ</strong>まで。</p>
 <p><a href="/ja/posts/roppongi-attractions-guide/" style="color: #667eea;">&#128073; 六本木おでかけ完全ガイド（展望台・美術館・ショッピング・レストラン総まとめ）</a></p>
@@ -454,7 +454,7 @@ translationKey: "grand-hyatt-tokyo-keyakizaka-teppanyaki-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;">&#128073; 東京六本木レストランマップ：ミシュラン＆食べログおすすめ店まとめ</a></p>
+<p>&#128073; 東京六本木レストランマップ：ミシュラン＆食べログおすすめ店まとめ</p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

@@ -36,7 +36,7 @@ A must-visit heaven for anime and character fans! Official shops for Japan's rep
 
 A holy land for Pokemon fans! You can buy limited edition goods found only at Tokyo Station and verify genuine Pokemon cards.
 
-➡️ <a href="#" style="color: #667eea;"><strong>[See Details] Tokyo Station Pokemon Store & Pikachu Pokemon Card Review</strong></a>
+➡️ <strong>[See Details] Tokyo Station Pokemon Store & Pikachu Pokemon Card Review</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-03.jpg" alt="Tokyo Station Character Street Pokemon Store">
@@ -47,7 +47,7 @@ A holy land for Pokemon fans! You can buy limited edition goods found only at To
 
 A battleground for Tokyo's most famous ramen shops! From heavy tonkotsu to refined shoyu ramen, you can taste the "Best 8" ramen shops of Tokyo all in one place without having to travel around the city.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Ramen Street Best 8, Complete Guide & Review</strong></a>
+➡️ <strong>Tokyo Ramen Street Best 8, Complete Guide & Review</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-04.jpg" alt="Tokyo Ramen Street entrance">
@@ -97,7 +97,7 @@ KITTE is a shopping and dining complex located right in front of the Tokyo Stati
 
 <strong>Dining:</strong> On the 5th floor, there is the famous Hokkaido revolving sushi restaurant <strong>"[Nemuro Hanamaru KITTE Branch](https://maps.app.goo.gl/T3n3Ct875ULmaqsy5) 📍."</strong> Since the waiting times are famous for being long, I recommend getting a numbered ticket in advance.
 
-➡️ <a href="#" style="color: #667eea;"><strong>KITTE Restaurant, Nemuro Hanamaru Revolving Sushi Waiting Time & Reservation Tips</strong></a>
+➡️ <strong>KITTE Restaurant, Nemuro Hanamaru Revolving Sushi Waiting Time & Reservation Tips</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-08.jpg" alt="KITTE Marunouchi building">
@@ -106,7 +106,7 @@ KITTE is a shopping and dining complex located right in front of the Tokyo Stati
 
 <strong>Free Observatory (Night View Spot):</strong> The rooftop garden on the 6th floor is the best <strong>free observatory</strong> where you can view the Tokyo Station nightscape most beautifully. Spend a romantic evening watching the trains come and go against the backdrop of the red brick Marunouchi station building. 🌃
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Station KITTE Christmas Tree & Free Observatory Review, Train Geek's Essential Course</strong></a>
+➡️ <strong>Tokyo Station KITTE Christmas Tree & Free Observatory Review, Train Geek's Essential Course</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-09.jpg" alt="KITTE 6th floor free observatory view">
@@ -121,7 +121,7 @@ The landmark of Tokyo Station Marunouchi South Exit. Directly connected to Tokyo
 
 <strong>Brunch Cafe:</strong> <strong>[THE FRONT ROOM](https://maps.app.goo.gl/ovxMQuriDq381Cnw7) 📍</strong> opens early in the morning, making it a great Tokyo Station cafe to enjoy a hearty breakfast with French toast before starting your trip.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Station Breakfast, French Toast Restaurant THE FRONT ROOM Review</strong></a>
+➡️ <strong>Tokyo Station Breakfast, French Toast Restaurant THE FRONT ROOM Review</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-10.jpg" alt="Marunouchi Building 1F Brunch Cafe THE FRONT ROOM French Toast">
@@ -130,7 +130,7 @@ The landmark of Tokyo Station Marunouchi South Exit. Directly connected to Tokyo
 
 <strong>Free Observatory:</strong> Hidden free observatories on the 5th and 35th floors are great for admiring the sunset and night view.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Station Sunset Spot, Marunouchi Building Free Observatory Review</strong></a>
+➡️ <strong>Tokyo Station Sunset Spot, Marunouchi Building Free Observatory Review</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-11.jpg" alt="Sunset viewed from Marunouchi Building 35F Free Observatory">
@@ -143,7 +143,7 @@ The newest complex tower located directly in front of Tokyo Station Marunouchi C
 
 <strong>Night View & Dining:</strong> The outdoor terrace at <strong>'Marunouchi House'</strong> on the 7th floor is a romantic place where you can enjoy dinner or cocktails while looking directly at the Tokyo Station night view. The atmosphere on Friday and Saturday evenings is especially good.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Dinner with Tokyo Station Night View, Shin-Marunouchi Building House Open Terrace Review</strong></a>
+➡️ <strong>Dinner with Tokyo Station Night View, Shin-Marunouchi Building House Open Terrace Review</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-12.jpg" alt="Beautiful night view of the illuminated red brick Tokyo Station Marunouchi building">
@@ -158,7 +158,7 @@ A complex commercial facility in front of Tokyo Station Marunouchi North Exit. I
 
 A special <strong>Wadakura Fountain Park Starbucks</strong> located near the Imperial Palace. You can enjoy coffee with the night view of the park through the floor-to-ceiling windows, making it popular as a Tokyo Station night view cafe.
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Station Night View Cafe, Wadakura Fountain Park Starbucks Review</strong></a>
+➡️ <strong>Tokyo Station Night View Cafe, Wadakura Fountain Park Starbucks Review</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-13.jpg" alt="Wadakura Fountain Park Starbucks exterior">
@@ -189,7 +189,7 @@ If you need the latest information on the 2025 <strong>Disney Collaboration</str
 
 ➡️ <a href="/posts/marunouchi-illumination-2025/" style="color: #667eea;"><strong>2025 Marunouchi Illumination Latest Info (Disney, Market Summary)</strong></a>
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Midtown Hibiya Christmas Illumination, Moana Collaboration</strong></a>
+➡️ <strong>Tokyo Midtown Hibiya Christmas Illumination, Moana Collaboration</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-16.jpg" alt="Marunouchi Naka-dori Illumination">
@@ -205,7 +205,7 @@ Before enjoying the attractions of Tokyo Station, you'll want to get rid of your
 <strong>Caution:</strong> Since the station is very large and there are many lockers, it is highly recommended to <strong>take a photo of the location</strong> where you stored your bags. Be aware that coin lockers outside the Yaesu side ticket gates are managed by different entities, so the numbering system can be complicated.
 
 <!-- Link for coin locker guide page (placeholder) -->
-➡️ <a href="#" style="color: #667eea;"><strong>[Link] Check Tokyo Station Coin Locker Status and Locations</strong></a>
+➡️ <strong>[Link] Check Tokyo Station Coin Locker Status and Locations</strong>
 
 <figure>
   <img src="/images/posts/tokyo-station-guide-17.jpg" alt="Tokyo Station Coin Lockers">
@@ -227,7 +227,7 @@ A3. Yes, if you have a valid JR Pass, you can show it to the station staff to en
 
 ➡️ <a href="/posts/ginza-guide-2025/" style="color: #667eea;"><strong>Ginza Must-Visit Spots, No-Fail Recommended Course (Shopping, Restaurants, Tips)</strong></a>
 
-➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Transport Pass Recommendations, Tokyo Metro Pass vs Tokunai Pass Complete Comparison</strong></a>
+➡️ <strong>Tokyo Transport Pass Recommendations, Tokyo Metro Pass vs Tokunai Pass Complete Comparison</strong>
 
 
 <div class="editors-note">

@@ -132,7 +132,7 @@ all in one comprehensive guide!</p>
 
 <p><em>A nighttime art festival where Roppongi streets transform into a giant art museum. This year spotlights Korean art, making it an extra special experience.</em></p>
 
-<p><a href="#" style="color: #667eea;"><strong>➡️ [See Details] Roppongi Art Night Recommended Lineup</strong></a></p>
+<p><strong>➡️ [See Details] Roppongi Art Night Recommended Lineup</strong></p>
 
 <table class="schedule-table">
   <tbody>

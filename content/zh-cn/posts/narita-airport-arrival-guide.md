@@ -130,7 +130,7 @@ featured_image: "/images/posts/narita-airport-arrival-guide-01.jpg"
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224002738158
-     Hugo: /zh-cn/posts/narita-express-guide/ --><strong><a href="#">【详情】成田特快 (N'EX) 预约、票价、时刻表全攻略</a></strong></p>
+     Hugo: /zh-cn/posts/narita-express-guide/ --><strong>【详情】成田特快 (N'EX) 预约、票价、时刻表全攻略</strong></p>
 
 <p><strong>✅ 2. 京成电铁 Skyliner</strong></p>
 <ul>
@@ -143,7 +143,7 @@ featured_image: "/images/posts/narita-airport-arrival-guide-01.jpg"
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
-     Hugo: /zh-cn/posts/skyliner-reservation-guide/ --><strong><a href="#">【详情】京成Skyliner预约、时刻表、票价全攻略</a></strong></p>
+     Hugo: /zh-cn/posts/skyliner-reservation-guide/ --><strong>【详情】京成Skyliner预约、时刻表、票价全攻略</strong></p>
 
 <p><strong>✅ 3. 普通列车 (JR / Access特急)</strong></p>
 <ul>
@@ -154,7 +154,7 @@ featured_image: "/images/posts/narita-airport-arrival-guide-01.jpg"
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224007665631
-     Hugo: /zh-cn/posts/narita-to-asakusa-subway-guide/ --><strong><a href="#">【详情】成田机场省钱路线：前往东京站、浅草的地铁攻略</a></strong></p>
+     Hugo: /zh-cn/posts/narita-to-asakusa-subway-guide/ --><strong>【详情】成田机场省钱路线：前往东京站、浅草的地铁攻略</strong></p>
 
 <p><strong>✅ 4. 机场利木津巴士 (Limousine Bus)</strong></p>
 <ul>
@@ -185,14 +185,14 @@ featured_image: "/images/posts/narita-airport-arrival-guide-01.jpg"
 <p><strong>⭐ 入境前的必备准备：您完成 Visit Japan Web 登记了吗？</strong></p>
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
-     Hugo: /zh-cn/posts/visit-japan-web-guide/ --><strong><a href="#">Visit Japan Web 登记教程（包含同行家人、二维码最新版）</a></strong></p>
+     Hugo: /zh-cn/posts/visit-japan-web-guide/ --><strong>Visit Japan Web 登记教程（包含同行家人、二维码最新版）</strong></p>
 
 <p><strong>⭐ 东京市区交通怎么办？</strong></p>
 <p>顺利从机场抵达市区后，下一步就是挑战复杂的市内交通了。请参考下方的汇总指南，寻找最适合您行程的省钱高效交通票券！</p>
 
 <p style="text-align: left;"><strong>➡️ </strong><!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
-     Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ --><strong><a href="#">东京推荐交通票券：地铁通票 vs JR都区内通票深度对比</a></strong></p>
+     Hugo: /zh-cn/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ --><strong>东京推荐交通票券：地铁通票 vs JR都区内通票深度对比</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

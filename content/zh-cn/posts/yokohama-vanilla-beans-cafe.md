@@ -201,8 +201,8 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 完美享受横滨地标建筑的<br>
 横滨1日推荐路线请查看!<br>
 ​<br>
-<a href="#" style="color: #667eea;"><b>➡️ 横滨1日路线 </b></a><br>
-<a href="#" style="color: #667eea;"><b>中华街美食、红砖仓库、夜景景点完全攻略</b></a></p>
+<b>➡️ 横滨1日路线 </b><br>
+<b>中华街美食、红砖仓库、夜景景点完全攻略</b></p>
 
 ---
 
@@ -212,7 +212,7 @@ featured_image: "/images/posts/yokohama-vanilla-beans-cafe-01.jpg"
 为节省交通费<br>
 「港未来通票」必备!<br>
 ​<br>
-<b>➡️</b><a href="#" style="color: #667eea;"><b> 横滨交通通票、「港未来通票」完全攻略</b></a></p>
+<b>➡️</b><b> 横滨交通通票、「港未来通票」完全攻略</b></p>
 
 
 <div class="editors-note">

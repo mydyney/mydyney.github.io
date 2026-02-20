@@ -305,7 +305,7 @@ Nikka的旗舰产品。通过大胆烟熏的"余市"或优雅果香的"宫城峡
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224014619007
      Hugo: /posts/suntory-whisky-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>▶️ 三得利威士忌系列、价格、蒸馏所参观完整指南</b></a>
+<b>▶️ 三得利威士忌系列、价格、蒸馏所参观完整指南</b>
 
 ### Nikka威士忌 - 麦芽威士忌
 
@@ -371,7 +371,7 @@ Nikka的旗舰产品。通过大胆烟熏的"余市"或优雅果香的"宫城峡
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [详情] 银座乐天免税店威士忌购买指南（山崎、响、免费品鉴）</b></a>
+<b>➡️ [详情] 银座乐天免税店威士忌购买指南（山崎、响、免费品鉴）</b>
 
 <figure>
   <img src="/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-12.jpg" alt="银座乐天免税店三得利威士忌区">
@@ -386,7 +386,7 @@ Nikka的旗舰产品。通过大胆烟熏的"余市"或优雅果香的"宫城峡
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223698121379
      Hugo: /posts/ginza-six-imadeya-sake-shopping/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [详情] 银座六本木威士忌购物、Imadeya银座、Jule's Whisky Collection价格</b></a>
+<b>➡️ [详情] 银座六本木威士忌购物、Imadeya银座、Jule's Whisky Collection价格</b>
 
 <figure>
   <img src="/images/posts/japanese-whisky-yamazaki-hibiki-price-guide-13.jpg" alt="银座六本木Jule's Whisky Collection">
@@ -410,21 +410,21 @@ Nikka的旗舰产品。通过大胆烟熏的"余市"或优雅果香的"宫城峡
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223991251786
      Hugo: /posts/dassai-sake-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>➡️[详情] 獭祭23、45、39日本官网价格完整指南</b></a>
+<b>➡️[详情] 獭祭23、45、39日本官网价格完整指南</b>
 
 <b>⭐想了解三得利威士忌完整系列和山崎蒸馏所参观吗？</b>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224014619007
      Hugo: /posts/suntory-whisky-price-guide-japan/ -->
-<a href="#" style="color: #667eea;"><b>➡️[详情] 三得利威士忌系列、价格、饮用方法、蒸馏所参观完整指南</b></a>
+<b>➡️[详情] 三得利威士忌系列、价格、饮用方法、蒸馏所参观完整指南</b>
 
 <b>⭐想了解如何在银座乐天免税店便宜购买吗？</b>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /posts/ginza-lotte-duty-free-whisky-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️[详情] 银座乐天免税店威士忌购买指南（免费品鉴、优惠技巧）</b></a>
+<b>➡️[详情] 银座乐天免税店威士忌购买指南（免费品鉴、优惠技巧）</b>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

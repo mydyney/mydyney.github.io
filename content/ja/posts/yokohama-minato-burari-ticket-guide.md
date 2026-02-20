@@ -209,7 +209,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 
 <p style="text-align: center;"><strong>横浜を完璧に楽しむ1日プランをチェック！</strong><br>
 <!-- TODO: Update link after migration -->
-<a href="#" style="color: #667eea;"><strong>➡️ 横浜1日観光コース：中華街、赤レンガ倉庫、夜景スポット完全まとめ</strong></a></p>
+<strong>➡️ 横浜1日観光コース：中華街、赤レンガ倉庫、夜景スポット完全まとめ</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

@@ -178,9 +178,9 @@ featured_image: "/images/posts/tokyo-sunrise-spots-2026-01.jpg"
 
 ## 🧡 一起看更好的东京新年旅游信息
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ 2026年东京跨年倒数地点BEST3（交通信息）</strong></a>
+➡️ <strong>→ 2026年东京跨年倒数地点BEST3（交通信息）</strong>
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ 2026年东京年末年初休业·营业信息【1月1日营业店铺】</strong></a>
+➡️ <strong>→ 2026年东京年末年初休业·营业信息【1月1日营业店铺】</strong>
 
 ---
 

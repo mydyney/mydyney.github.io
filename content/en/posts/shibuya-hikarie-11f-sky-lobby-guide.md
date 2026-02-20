@@ -307,14 +307,14 @@ translationKey: "shibuya-hikarie-11f-sky-lobby-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
      Hugo: /posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Shin-Marunouchi Building Free Observation Terrace & Night View Guide</strong></a></p>
+<p><strong>👉 Shin-Marunouchi Building Free Observation Terrace & Night View Guide</strong></p>
 
 <p><strong>3. Ginza Six Rooftop Garden</strong></p>
 <p>A free rooftop garden in the heart of Ginza. The sophisticated atmosphere makes it a lovely strolling spot as well as a free observation point.</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223694057318
      Hugo: /posts/ginza-six-rooftop-garden/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Ginza Six Rooftop Garden: Free Observation Deck & Ice Rink</strong></a></p>
+<p><strong>👉 Ginza Six Rooftop Garden: Free Observation Deck & Ice Rink</strong></p>
 
 ---
 

@@ -294,13 +294,13 @@ A: No, the goods shop is located along the exit route after viewing the exhibiti
 <h3>⭐ Related Roppongi Travel Guides</h3>
 
 <p><strong>🤖 Want to know more about Roppongi Hills Observatory where the Evangelion exhibition is held?</strong><br>
-<strong>➡️ <a href="#" style="color: #667eea;">2025 Roppongi Hills Observatory Complete Guide (Discount Tickets, Closed Days)</a></strong></p>
+<strong>➡️ 2025 Roppongi Hills Observatory Complete Guide (Discount Tickets, Closed Days)</strong></p>
 
 <p><strong>🤖 At Roppongi and curious about all attractions?</strong><br>
 <strong>➡️ <a href="/posts/roppongi-attractions-guide/" style="color: #667eea;">Complete Guide to Roppongi Attractions (Observatory, Museums, Shopping, Restaurants A to Z)</a></strong></p>
 
 <p><strong>🤖 Need a Tabelog-verified Roppongi restaurant map?</strong><br>
-<strong>➡️ <a href="#" style="color: #667eea;">Tokyo Roppongi Restaurant Map - Michelin & Tabelog Recommendations</a></strong></p>
+<strong>➡️ Tokyo Roppongi Restaurant Map - Michelin & Tabelog Recommendations</strong></p>
 
 <p><strong>🤖 Curious about Roppongi Hills Christmas events?</strong><br>
 <strong>➡️ <a href="/posts/roppongi-christmas-illumination-2025/" target="_blank">Roppongi Illumination 2025 - Period, Lighting Times, Must-See Spots Complete Guide</a></strong></p>

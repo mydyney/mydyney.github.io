@@ -101,7 +101,7 @@ YouTube频道"邻居朋友Kangnami"极力推荐的拉面店<strong>[鸭to葱(鴨
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914118735
      Hugo: /zh-cn/posts/tokyo-ramen-guide-kangnami/ -->
-<strong>➡️ <a href="#" style="color: #667eea;">东京拉面店完全攻略 | YouTube邻居朋友Kangnami的宝藏拉面店信息</a></strong>
+<strong>➡️ 东京拉面店完全攻略 | YouTube邻居朋友Kangnami的宝藏拉面店信息</strong>
 
 <figure>
   <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="摆放精美的葱和鸭肉的鸭to葱拉面">
@@ -168,13 +168,13 @@ YouTube频道"邻居朋友Kangnami"极力推荐的拉面店<strong>[鸭to葱(鴨
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
      Hugo: /zh-cn/posts/skyliner-reservation-guide/ -->
-➡️<strong> <a href="#" style="color: #667eea;">成田机场到上野,Skyliner预订完全指南</a></strong>
+➡️<strong> 成田机场到上野,Skyliner预订完全指南</strong>
 ➡️ <strong>[东京交通卡推荐,东京地铁通票vs都区内通票完全对比](/zh-cn/posts/tokyo-subway-ticket-guide/)</strong>  
 <strong>➡️ [东京浅草景点&美食完全指南](/zh-cn/posts/asakusa-complete-guide/)</strong>  
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031937227
      Hugo: /zh-cn/posts/akihabara-complete-guide/ -->
-<strong>➡️ <a href="#" style="color: #667eea;">秋叶原景点、手办店、美食、扭蛋、动漫圣地巡礼推荐路线完全攻略</a></strong>
+<strong>➡️ 秋叶原景点、手办店、美食、扭蛋、动漫圣地巡礼推荐路线完全攻略</strong>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

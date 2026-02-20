@@ -565,7 +565,7 @@ Don't miss a bowl of warm convenience store oden this winter on your Japan trip!
 
 <strong>👉</strong> <a href="/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>Japan Travel Discount Coupons Complete Guide 2025 (Don Quijote, Bic Camera, etc.)</strong></a>
 
-<strong>👉</strong> <a href="#" style="color: #667eea;"><strong>Japan Kaldi Shopping List 2025: Must-Buy Items (Spreads, Portion Coffee, Tax-Free Tips)</strong></a>
+<strong>👉</strong> <strong>Japan Kaldi Shopping List 2025: Must-Buy Items (Spreads, Portion Coffee, Tax-Free Tips)</strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

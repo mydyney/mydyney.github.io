@@ -122,7 +122,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <strong>📌 スカイツリー無料展望台：</strong>
 チケット料金が高いと感じたら、スカイツリーを正面から眺められる隠れた「無料展望台」をチェック！
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー無料展望台：SKYTREE VIEW</strong></a></strong>
+<strong>➡️ <strong>東京スカイツリー無料展望台：SKYTREE VIEW</strong></strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-06.jpg" alt="東京スカイツリー2つの展望台、展望デッキと展望回廊の比較">
@@ -172,7 +172,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 <strong>ポケモンセンタースカイツリータウン：</strong>
 ここでしか買えない「メガレックウザ」限定グッズ！
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリータウンポケモンセンター詳細レビュー</strong></a></strong>
+<strong>➡️ <strong>東京スカイツリータウンポケモンセンター詳細レビュー</strong></strong>
 
 <div class="image-group-2">
   <figure>
@@ -218,7 +218,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 北海道発の最高のコスパ回転寿司。
 長い待ち時間を避けるコツは？
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリー回転寿司レストラントリトン（整理券番号のコツ）</strong></a></strong>
+<strong>➡️ <strong>東京スカイツリー回転寿司レストラントリトン（整理券番号のコツ）</strong></strong>
 
 <div class="image-group-2">
   <figure>
@@ -250,7 +250,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 京都の有名な抹茶ショップ。
 ショッピング後の濃厚抹茶アイスに最適。
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>東京スカイツリーデザートスポット：祇園辻利抹茶アイスクリームレビュー</strong></a></strong>
+<strong>➡️ <strong>東京スカイツリーデザートスポット：祇園辻利抹茶アイスクリームレビュー</strong></strong>
 
 <figure>
   <img src="/images/posts/tokyo-skytree-reservation-discount-guide-19.jpg" alt="東京スカイツリーの祇園辻利抹茶アイスとデザート">
@@ -276,7 +276,7 @@ featured_image: "/images/posts/tokyo-skytree-reservation-discount-guide-01.jpg"
 
 冬季には、スカイツリー直下で壮大なクリスマスマーケットとイルミネーションが開催されます。
 
-<strong>➡️ <strong><a href="#" style="color: #667eea;"><strong>東京スカイツリーイルミネーション＆クリスマスマーケット詳細レビュー</strong></a></strong></strong>
+<strong>➡️ <strong><strong>東京スカイツリーイルミネーション＆クリスマスマーケット詳細レビュー</strong></strong></strong>
 
 <div class="image-group-2">
   <figure>

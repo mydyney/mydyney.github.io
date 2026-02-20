@@ -79,7 +79,7 @@ featured_image: "/images/posts/shinjuku-kids-parks-guide-01.jpg"
 
 <figure>
   <img src="/images/posts/shinjuku-kids-parks-guide-03.jpg" alt="三丽鸥彩虹乐园室内游行，Hello Kitty和美乐蒂角色">
-  <figcaption style="font-size: 0.7em; text-align: center;">三丽鸥彩虹乐园室内游行，Hello Kitty和美乐蒂角色 <a href="#" target="_blank">（出处）</a></figcaption>
+  <figcaption style="font-size: 0.7em; text-align: center;">三丽鸥彩虹乐园室内游行，Hello Kitty和美乐蒂角色 （出处）</figcaption>
 </figure>
 
 Hello Kitty、大耳狗、美乐蒂…

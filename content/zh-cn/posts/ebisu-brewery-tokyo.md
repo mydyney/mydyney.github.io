@@ -56,7 +56,7 @@ translationKey: "ebisu-brewery-tokyo"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
      Hugo: /zh-cn/posts/yebisu-garden-place-access-guide/ -->
-<p>（交通指南和储物柜信息：<a href="#" style="color: #667eea;"><strong>惠比寿花园广场交通指南</strong></a>）</p>
+<p>（交通指南和储物柜信息：<strong>惠比寿花园广场交通指南</strong>）</p>
 
 看到惠比寿啤酒厂东京的标志后前往B1F。沿着通道流淌的水声营造出舒适的氛围。
 
@@ -255,7 +255,7 @@ https://sapporobeer.resv.jp/reserve/calendar.php?direct_id=74&x=1731940069</li>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223702865232
      Hugo: /zh-cn/posts/sapporo-the-bar-ginza/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ 银座札幌 The Bar（完美生啤酒评测）</strong></a></p>
+<p><strong>➡️ 银座札幌 The Bar（完美生啤酒评测）</strong></p>
 
 <p><a href="/zh-cn/posts/asakusa-asahi-sky-room/" style="color: #667eea;"><strong>➡️ 浅草朝日啤酒天空房（晴空塔夜景）</strong></a></p>
 

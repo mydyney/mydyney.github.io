@@ -110,7 +110,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 3. 沿代代木公园边缘缓步前行，突然<strong>树枝在头顶交汇的蓝色榉树隧道</strong>出现在眼前
 
 <strong>➡️ [相关文章]</strong>
-<a href="#" style="color: #667eea;"><strong>2025年表参道彩灯期间、时间、地点&拍摄点完全攻略</strong></a>
+<strong>2025年表参道彩灯期间、时间、地点&拍摄点完全攻略</strong>
 
 <figure>
   <img src="/images/posts/shibuya-blue-cave-illumination-2025-05.jpg" alt="通往涩谷青之洞窟的2025年表参道彩灯金色灯光街景">
@@ -209,7 +209,7 @@ featured_image: "/images/posts/shibuya-blue-cave-illumination-2025-01.jpg"
 
 ### 🌟 表参道・原宿圣诞
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>2025年表参道彩灯期间、时间、地点&拍摄点完全攻略</strong></a>
+<strong>➡️</strong> <strong>2025年表参道彩灯期间、时间、地点&拍摄点完全攻略</strong>
 
 ### 🌟 明治神宫外苑圣诞
 

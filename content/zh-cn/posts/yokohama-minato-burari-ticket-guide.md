@@ -212,7 +212,7 @@ featured_image: "/images/posts/yokohama-minato-burari-ticket-guide-01.jpg"
 
 <p style="text-align: center;"><strong>查看完美享受横滨的一日计划！</strong><br>
 <!-- TODO: Update link after migration -->
-<a href="#" style="color: #667eea;"><strong>➡️ 横滨一日观光路线：中华街、红砖仓库、夜景景点完整总结</strong></a></p>
+<strong>➡️ 横滨一日观光路线：中华街、红砖仓库、夜景景点完整总结</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

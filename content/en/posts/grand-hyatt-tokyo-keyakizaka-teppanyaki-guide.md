@@ -445,7 +445,7 @@ Bordeaux Haut-Medoc -- the ideal pairing with wagyu, showcasing the best synergy
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987954990
      Hugo: /posts/roppongi-hills-observatory-guide/ -->
-<p><a href="#" style="color: #667eea;">&#128073; 2026 Roppongi Hills Observatory (Tokyo City View) Complete Guide</a></p>
+<p>&#128073; 2026 Roppongi Hills Observatory (Tokyo City View) Complete Guide</p>
 
 <p>2. Looking for a full Roppongi day plan -- <strong>museums, shopping, and dining</strong>?</p>
 <p><a href="/posts/roppongi-attractions-guide/" style="color: #667eea;">&#128073; Roppongi Things to Do Complete Guide (Observatory, Museums, Shopping, Restaurants A to Z)</a></p>
@@ -454,7 +454,7 @@ Bordeaux Haut-Medoc -- the ideal pairing with wagyu, showcasing the best synergy
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /posts/[SLUG_TBD]/ -->
-<p><a href="#" style="color: #667eea;">&#128073; Tokyo Roppongi Restaurant Map: Michelin &amp; Tabelog Recommended Restaurants</a></p>
+<p>&#128073; Tokyo Roppongi Restaurant Map: Michelin &amp; Tabelog Recommended Restaurants</p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

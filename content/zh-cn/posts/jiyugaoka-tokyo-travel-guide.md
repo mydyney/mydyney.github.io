@@ -398,9 +398,9 @@ featured_image: "/images/posts/jiyugaoka-tokyo-travel-guide-01.jpg"
 
 ## 🧡 相关Tokyo Mate旅游攻略
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>中目黑杂货店、咖啡厅、散步路线完全攻略</strong></a>
+<strong>➡️</strong> <strong>中目黑杂货店、咖啡厅、散步路线完全攻略</strong>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>涩谷天空、购物、餐厅、活动完全攻略</strong></a>
+<strong>➡️</strong> <strong>涩谷天空、购物、餐厅、活动完全攻略</strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

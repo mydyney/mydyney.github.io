@@ -361,17 +361,17 @@ A. 一蘭のもう一つの特徴は、席の横に掛けられた木札（木�
 
 <strong>👉 [東京駅ラーメンストリート全店ガイド | みそきん、ひらこ屋含む10店舗マップ](/posts/tokyo-ramen-street-best-8/)</strong>
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914118735
-     Hugo: /posts/ueno-ameyoko-guide/ -->東京ラーメン店完全ガイド | YouTube近所の友達カン・ナミ宝箱ラーメン店まとめ</a>**
+     Hugo: /posts/ueno-ameyoko-guide/ -->東京ラーメン店完全ガイド | YouTube近所の友達カン・ナミ宝箱ラーメン店まとめ**
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224146568943
-     Hugo: TBD -->東京銀座かがり本店 | 鶏白湯ラーメン、ミシュランビブグルマン待ち時間・2026年メニュー</a>**
+     Hugo: TBD -->東京銀座かがり本店 | 鶏白湯ラーメン、ミシュランビブグルマン待ち時間・2026年メニュー**
 
-**👉 <a href="#" style="color: #667eea;"><!-- TODO: Update link after migration
+**👉 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987115708
-     Hugo: /posts/kaneko-hannosuke-roppongi-tempura/ -->イルカ東京六本木 | ミシュランラーメン店待ち時間・注文のコツ（最新）</a>**
+     Hugo: /posts/kaneko-hannosuke-roppongi-tempura/ -->イルカ東京六本木 | ミシュランラーメン店待ち時間・注文のコツ（最新）**
 
 </div>
 

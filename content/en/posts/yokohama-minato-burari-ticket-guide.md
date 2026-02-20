@@ -209,7 +209,7 @@ The essential transport pass for your trip is the Minato Burari Ticket!!</p>
 
 <p style="text-align: center;"><strong>Check out the perfect Yokohama Day Trip course!</strong><br>
 <!-- TODO: Update link after migration -->
-<a href="#" style="color: #667eea;"><strong>➡️ Yokohama 1-Day Itinerary: Chinatown, Red Brick Warehouse, and Night Views</strong></a></p>
+<strong>➡️ Yokohama 1-Day Itinerary: Chinatown, Red Brick Warehouse, and Night Views</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

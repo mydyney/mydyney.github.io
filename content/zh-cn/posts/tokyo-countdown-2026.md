@@ -42,7 +42,7 @@ featured_image: "/images/posts/tokyo-countdown-2026-01.jpg"
 <li><b>推荐对象：</b>年轻旅行者、情侣、想要刺激派对氛围的朋友团 🎉</li>
 </ul>
 
-<b>➡️ <a href="#" style="color: #667eea;"><strong>新宿都厅倒数2026最佳位置＆阵容</strong></a></b>
+<b>➡️ <strong>新宿都厅倒数2026最佳位置＆阵容</strong></b>
 
 <figure>
   <img src="/images/posts/tokyo-countdown-2026-02.jpg" alt="东京倒数地点新宿都厅2026">
@@ -254,11 +254,11 @@ A. 东京冬夜比想象中冷（2～5℃）。由于需要长时间在户外等
 
 ## 🧡 一起看更好的东京年末旅游信息
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ 新宿都厅倒数2026最佳位置＆阵容</strong></a>
+➡️ <strong>→ 新宿都厅倒数2026最佳位置＆阵容</strong>
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ 2025年12月31日东京塔熄灯时刻表与新年首日灯光秀</strong></a>
+➡️ <strong>→ 2025年12月31日东京塔熄灯时刻表与新年首日灯光秀</strong>
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ 2026年东京年末年初休业·营业信息｜1月1日营业店铺</strong></a>
+➡️ <strong>→ 2026年东京年末年初休业·营业信息｜1月1日营业店铺</strong>
 
 ---
 

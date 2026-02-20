@@ -229,9 +229,9 @@ featured_image: "/images/posts/tokyo-node-dining-toranomon-hills-lunch-01.jpg"
 <p>东京约会或纪念日用餐地点强力推荐！</p>
 
 <p><strong>一起看的虎之门之丘旅游攻略：</strong></p>
-<p><a href="#" style="color: #667eea;"><strong>东京 虎之门之丘看点攻略：展望台、美食、横丁、T-Market</strong></a></p>
+<p><strong>东京 虎之门之丘看点攻略：展望台、美食、横丁、T-Market</strong></p>
 
-<p><a href="#" style="color: #667eea;"><strong>野之鸟 源长：虎之门之丘烤鸡串Omakase</strong></a></p>
+<p><strong>野之鸟 源长：虎之门之丘烤鸡串Omakase</strong></p>
 
 <p><a href="/zh-cn/posts/tamiya-plamodel-factory-tokyo-shimbashi/" style="color: #667eea;"><strong>2025 田宫模型工厂东京（6,000种以上・迷你车・咖啡厅）</strong></a></p>
 

@@ -56,7 +56,7 @@ translationKey: "ebisu-brewery-tokyo"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223678791563
      Hugo: /ja/posts/yebisu-garden-place-access-guide/ -->
-<p>（アクセス方法とコインロッカー情報：<a href="#" style="color: #667eea;"><strong>恵比寿ガーデンプレイスアクセスガイド</strong></a>）</p>
+<p>（アクセス方法とコインロッカー情報：<strong>恵比寿ガーデンプレイスアクセスガイド</strong>）</p>
 
 エビスブルワリー東京の看板が見えたらB1Fへ。通路に沿って流れる水の音が心地よい雰囲気を演出しています。
 
@@ -255,7 +255,7 @@ https://sapporobeer.resv.jp/reserve/calendar.php?direct_id=74&x=1731940069</li>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223702865232
      Hugo: /ja/posts/sapporo-the-bar-ginza/ -->
-<p><a href="#" style="color: #667eea;"><strong>➡️ 銀座サッポロ ザ・バー（完璧な生ビールレビュー）</strong></a></p>
+<p><strong>➡️ 銀座サッポロ ザ・バー（完璧な生ビールレビュー）</strong></p>
 
 <p><a href="/ja/posts/asakusa-asahi-sky-room/" style="color: #667eea;"><strong>➡️ 浅草アサヒビールスカイルーム（スカイツリー夜景）</strong></a></p>
 

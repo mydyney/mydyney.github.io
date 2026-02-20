@@ -63,7 +63,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 
 <strong>💡 ポイント</strong>：9月「ふくろ祭り」のフィナーレを飾る2部イベントです。最終日の全チームによる「総踊り」をお見逃しなく！
 
-<a href="#" style="color: #667eea;"><strong>➡️ 8月の東京イベント、原宿表参道スーパーよさこい</strong></a>
+<strong>➡️ 8月の東京イベント、原宿表参道スーパーよさこい</strong>
 
 <figure>
   <img src="/images/posts/tokyo-october-festivals-2025-02.jpg" alt="2025年原宿表参道スーパーよさこいで踊るダンサー">
@@ -280,7 +280,7 @@ featured_image: "/images/posts/tokyo-october-festivals-2025-01.jpg"
 - <strong>10月の状態</strong>：10月末、芦ノ湖周辺や高地から紅葉の便りが届きます。本格的な見頃は11月ですが、美術館を巡りながら静かに秋の始まりを感じるのに完璧な場所です。
 - <strong>特徴</strong>：美しい自然の中で温泉と芸術を一緒に楽しめるため、ご両親との旅行先としても人気が高いです。
 
-<a href="#" style="color: #667eea;"><strong>➡️ 箱根旅行、日帰りvs旅館1泊 完璧コース推薦（箱根フリーパス、ロマンスカー予約）</strong></a>
+<strong>➡️ 箱根旅行、日帰りvs旅館1泊 完璧コース推薦（箱根フリーパス、ロマンスカー予約）</strong>
 
 ### 4. 🍂 東京都心の公園（明治神宮外苑など）
 

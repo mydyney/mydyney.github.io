@@ -35,7 +35,7 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 - 羽田机场: 约50分钟
 - 成田机场: 约85分钟
 
-<a href="#" style="color: #667eea;"><strong>➡️ [详细了解] 从成田机场乘地铁到浅草方法</strong></a>
+<strong>➡️ [详细了解] 从成田机场乘地铁到浅草方法</strong>
 
 <figure>
   <img src="/images/posts/asakusa-complete-guide-03.jpg" alt="雷门巨型灯笼下隐藏的龙雕刻">
@@ -46,7 +46,7 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 
 每年8月，浅草隅田川举办数千盏灯笼点亮河面的梦幻「灯笼漂流」祭典。夏季来浅草的话，绝对别错过这个特别体验！
 
-<a href="#" style="color: #667eea;"><strong>🔗 8月东京祭典，浅草隅田川灯笼漂流完全攻略</strong></a>
+<strong>🔗 8月东京祭典，浅草隅田川灯笼漂流完全攻略</strong>
 
 ## 🏮 2. 浅草观光景点・必看之处BEST 5
 
@@ -126,7 +126,7 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 
 浅草正对面，朝日啤酒总部22层的隐藏宝藏般免费展望台。搭配冰凉啤酒，享受东京晴空塔与浅草寺的梦幻夜景。一天收尾的最佳场所。
 
-<a href="#" style="color: #667eea;"><strong>➡️ 浅草朝日啤酒SKY ROOM，翻新后作为夜景名所重新开放！（2025年最新信息）</strong></a>
+<strong>➡️ 浅草朝日啤酒SKY ROOM，翻新后作为夜景名所重新开放！（2025年最新信息）</strong>
 
 ## 🍜 3. 浅草推荐餐厅（食べログ百名店精选）
 
@@ -189,15 +189,15 @@ featured_image: "/images/posts/asakusa-complete-guide-01.jpg"
 
 ### 🚇 地铁5分钟！美食与购物之街：上野
 
-<a href="#" style="color: #667eea;"><strong>➡️ 上野必看之处，从阿美横町市场美食到上野公园</strong></a>
+<strong>➡️ 上野必看之处，从阿美横町市场美食到上野公园</strong>
 
 ### ⭐ 一起看的东京旅行攻略
 
 <a href="/zh-cn/posts/don-quijote-shopping-guide-2025/" style="color: #667eea;"><strong>➡️ 东京唐吉诃德购物清单必买推荐・折扣优惠券全汇总</strong></a>
 
-<a href="#" style="color: #667eea;"><strong>➡️ 秋叶原必看之处，手办店、餐厅、扭蛋、动画圣地巡礼推荐路线全汇总</strong></a>
+<strong>➡️ 秋叶原必看之处，手办店、餐厅、扭蛋、动画圣地巡礼推荐路线全汇总</strong>
 
-<a href="#" style="color: #667eea;"><strong>➡️ 箱根旅行，当日往返 vs 旅馆1晚完美路线推荐</strong></a>
+<strong>➡️ 箱根旅行，当日往返 vs 旅馆1晚完美路线推荐</strong>
 
 
 <div class="editors-note">

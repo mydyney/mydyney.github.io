@@ -29,7 +29,7 @@ translationKey: "yebisu-complete-guide"
 <!-- TODO: Update link after migration 
     Naver: https://blog.naver.com/tokyomate/223678791563
     Hugo: /posts/yebisu-garden-place-access-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>惠比寿花园广场前往方法及投币式储物柜位置</strong></a></p>
+<p>➡️ <strong>惠比寿花园广场前往方法及投币式储物柜位置</strong></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-02.jpg" alt="惠比寿Skywalk">
@@ -84,7 +84,7 @@ translationKey: "yebisu-complete-guide"
 <!-- TODO: Update link after migration 
      Naver: https://blog.naver.com/tokyomate/223668328703
      Hugo: /posts/top-of-yebisu-observation-deck/ -->
-<p><b>➡️ </b><a href="#" style="color: #667eea;"><b>东京惠比寿花园广场免费展望台：TOP of YEBISU</b></a></p>
+<p><b>➡️ </b><b>东京惠比寿花园广场免费展望台：TOP of YEBISU</b></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-06.jpg" alt="TOP of YEBISU 夜景">
@@ -97,11 +97,11 @@ translationKey: "yebisu-complete-guide"
 
 <!-- TODO: Update link 
      Naver: https://blog.naver.com/tokyomate/224078737491 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>2025惠比寿花园广场彩灯与圣诞市场指南</b></a></p>
+<p>➡️ <b>2025惠比寿花园广场彩灯与圣诞市场指南</b></p>
 
 <!-- TODO: Update link 
      Naver: https://blog.naver.com/tokyomate/223674944838 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>YEBISU BREWERY TOKYO 冬季限定啤酒发售</b></a></p>
+<p>➡️ <b>YEBISU BREWERY TOKYO 冬季限定啤酒发售</b></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-07.jpg" alt="惠比寿圣诞彩灯">
@@ -271,11 +271,11 @@ translationKey: "yebisu-complete-guide"
 
 <!-- TODO: Update link
      Naver: https://blog.naver.com/tokyomate/223702865232 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>银座Sapporo生啤酒黑标 THE BAR（完美生啤酒体验）</b></a></p>
+<p>➡️ <b>银座Sapporo生啤酒黑标 THE BAR（完美生啤酒体验）</b></p>
 
 <!-- TODO: Update link
      Naver: https://blog.naver.com/tokyomate/224025343414 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>浅草朝日啤酒天空室（天空树夜景）</b></a></p>
+<p>➡️ <b>浅草朝日啤酒天空室（天空树夜景）</b></p>
 
 <h2>📍 下一站去哪里？（推荐连接路线）</h2>
 

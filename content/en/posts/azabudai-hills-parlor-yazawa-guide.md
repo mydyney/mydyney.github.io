@@ -209,22 +209,22 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223968462793
      Hugo: /posts/azabudai-hills-commen-bakery-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Azabudai Hills Commen Bakery Review (Bread Pilgrimage After Bento Pickup!)</strong></a></p>
+<p><strong>👉 Azabudai Hills Commen Bakery Review (Bread Pilgrimage After Bento Pickup!)</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355
      Hugo: /posts/azabudai-hills-criollo-chocolate-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Azabudai Hills Criollo: Souvenir Chocolate Guide</strong></a></p>
+<p><strong>👉 Azabudai Hills Criollo: Souvenir Chocolate Guide</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223716380927
      Hugo: /posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Azabudai Hills Observatory (Sky Room) 2025 Guide & Tips</strong></a></p>
+<p><strong>👉 Azabudai Hills Observatory (Sky Room) 2025 Guide & Tips</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
      Hugo: /posts/azabudai-hills-teamlab-borderless-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Azabudai Hills teamLab Borderless Guide</strong></a></p>
+<p><strong>👉 Azabudai Hills teamLab Borderless Guide</strong></p>
 
 <p><strong>3. A 15-Minute Walk Away</strong></p>
 <p><a href="/posts/toranomon-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Toranomon Hills Complete Guide</strong></a></p>

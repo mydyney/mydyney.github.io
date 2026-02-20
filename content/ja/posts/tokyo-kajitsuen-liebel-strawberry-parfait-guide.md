@@ -309,7 +309,7 @@ A. メニューには「各種ケーキ」とだけ書かれています。入�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223715784445
      Hugo: /posts/[SLUG_TBD]/ -->
-👉 <a href="#" style="color: #667eea;"><strong>銀座WAKO ティーサロン（予約のコツ）</strong></a></li>
+👉 <strong>銀座WAKO ティーサロン（予約のコツ）</strong></li>
 </ul>
 
 </div>

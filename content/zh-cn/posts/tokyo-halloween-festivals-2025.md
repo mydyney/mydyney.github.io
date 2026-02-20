@@ -144,9 +144,9 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 
 <strong>⭐ 一起看更好的东京旅行攻略</strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>表参道完美攻略（与南瓜游行一起享受）</strong></a></strong>
+<strong>➡️ <strong>表参道完美攻略（与南瓜游行一起享受）</strong></strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>六本木完美攻略（与万圣节集章活动一起享受）</strong></a></strong>
+<strong>➡️ <strong>六本木完美攻略（与万圣节集章活动一起享受）</strong></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

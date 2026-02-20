@@ -272,7 +272,7 @@ A: 不可以，周边商店位于观展结束后的退场动线。需要入场�
 </div>
 
 <p><strong>⭐ 需要六本木之丘详细交通和投币储物柜信息？</strong><br>
-<strong>➡️ <a href="#" style="color: #667eea;">六本木之丘交通和投币储物柜位置</a></strong></p>
+<strong>➡️ 六本木之丘交通和投币储物柜位置</strong></p>
 
 <div class="image-group-2">
   <figure>
@@ -293,13 +293,13 @@ A: 不可以，周边商店位于观展结束后的退场动线。需要入场�
 <h3>⭐六本木旅游攻略一起看</h3>
 
 <p><strong>🤖 想了解更多举办EVA展的六本木之丘展望台？</strong><br>
-<strong>➡️ <a href="#" style="color: #667eea;">2025六本木之丘展望台最新总结（折扣预订、闭馆日）</a></strong></p>
+<strong>➡️ 2025六本木之丘展望台最新总结（折扣预订、闭馆日）</strong></p>
 
 <p><strong>🤖 来了六本木，想知道六本木所有玩的地方？</strong><br>
 <strong>➡️ <a href="/zh-cn/posts/roppongi-attractions-guide/" style="color: #667eea;">六本木玩的地方总结（展望台、美术馆、购物、美食A to Z）</a></strong></p>
 
 <p><strong>🤖 需要食べログ验证的六本木美食地图？</strong><br>
-<strong>➡️ <a href="#" style="color: #667eea;">东京六本木美食地图 米其林、食べログ推荐美食</a></strong></p>
+<strong>➡️ 东京六本木美食地图 米其林、食べログ推荐美食</strong></p>
 
 <p><strong>🤖 想了解六本木之丘圣诞活动？</strong><br>
 <strong>➡️ <a href="/zh-cn/posts/roppongi-christmas-illumination-2025/" target="_blank">六本木灯光秀2025 日期、点灯时间、必看景点完全总结</a></strong></p>

@@ -16,7 +16,7 @@ featured_image: "/images/posts/shinjuku-liquor-shops-01.jpg"
 山崎·响·噶玛兰价格与免税技巧完全攻略 🍶<br>
 <br>
 ⭐ 想一目了然看新宿1日路线...<br>
-➡️ <a href="#" style="color: #667eea;"><strong>新宿观光完全攻略 ↗</strong></a></p>
+➡️ <strong>新宿观光完全攻略 ↗</strong></p>
 
 <figure>
   <img src="/images/posts/shinjuku-liquor-shops-01.jpg" alt="新宿酒铺 Yamaya 信浓屋 必酷 威士忌 免税 折扣优惠券">

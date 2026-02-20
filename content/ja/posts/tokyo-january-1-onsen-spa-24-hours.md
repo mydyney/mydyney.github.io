@@ -692,7 +692,7 @@ featured_image: "/images/posts/tokyo-january-1-onsen-spa-24-hours-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/[POST_ID]
      Hugo: /ja/posts/tokyo-tower-new-year-lighting/ -->
-<p><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>→ 東京タワー12月31日消灯スケジュール＆元日ライトアップ2025</strong></a></p>
+<p><strong>☕</strong> <strong>→ 東京タワー12月31日消灯スケジュール＆元日ライトアップ2025</strong></p>
 
 <p><strong>☕</strong> <a href="/ja/posts/tokyo-countdown-2026/" style="color: #667eea;"><strong>→ 東京新年カウントダウンBEST 3：新宿 vs 増上寺 vs 浅草寺 2026</strong></a></p>
 

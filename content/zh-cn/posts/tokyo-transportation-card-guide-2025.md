@@ -166,9 +166,9 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 各卡的销售处(公司)不同请注意!在下方攻略按机场查看详细发行地点(JR站 vs 私铁站)附照片确认。
 
-➡️ <a href="#" style="color: #667eea;"><strong>东京成田机场到达攻略(含Suica/PASMO发行处)</strong></a>
+➡️ <strong>东京成田机场到达攻略(含Suica/PASMO发行处)</strong>
 
-➡️ <a href="#" style="color: #667eea;"><strong>东京羽田机场到达攻略(含Suica/PASMO发行处)</strong></a>
+➡️ <strong>东京羽田机场到达攻略(含Suica/PASMO发行处)</strong>
 
 ---
 
@@ -201,7 +201,7 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 <strong>✅</strong> <a href="https://affiliate.klook.com/redirect?aid=110453&aff_adid=1208343&utm_source=tripmate&utm_campaign=bulk-update-2026&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F1552-subway-ticket-tokyo%2F%3Fcurrency%3DCNY%26n_currency%3DCNY%26ignore_ip%3D1" target="_blank"><strong>Klook购买东京地铁通票(24/48/72小时券)</strong></a>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>东京地铁通票(东京Subway Ticket)兑换处、购买、使用法全汇总</strong></a>
+<strong>➡️</strong> <strong>东京地铁通票(东京Subway Ticket)兑换处、购买、使用法全汇总</strong>
 
 ---
 
@@ -213,7 +213,7 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 下方攻略完美对比了2种通票的优缺点，请务必确认选择符合自己路线「值回票价」的通票!
 
-➡️ <a href="#" style="color: #667eea;"><strong>东京地铁通票 vs JR都区内通票，完美对比!</strong></a>
+➡️ <strong>东京地铁通票 vs JR都区内通票，完美对比!</strong>
 
 <figure>
   <img src="/images/posts/tokyo-transportation-card-guide-2025-09.jpg" alt="JR都区内通票1日券使用可能地图">
@@ -228,7 +228,7 @@ Samsung Pay等Android用户，或iPhone用户但无Apple Pay(现代卡)时，需
 
 ⭐ <strong>一起阅读更好的文章</strong>
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>成田特快(N'EX)预约、价格、时刻表全汇总</strong></a>
+<strong>➡️</strong> <strong>成田特快(N'EX)预约、价格、时刻表全汇总</strong>
 
 <strong>➡️</strong> <a href="/zh-cn/posts/japan-travel-discount-coupons-2025/" style="color: #667eea;"><strong>日本旅行折扣优惠券全汇总2025(唐吉诃德、必酷等)</strong></a>
 <div class="editors-note">

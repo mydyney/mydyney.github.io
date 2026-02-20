@@ -208,22 +208,22 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223968462793
      Hugo: /ja/posts/azabudai-hills-commen-bakery-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台ヒルズ コムン ベーカリー レビュー（弁当ピックアップ後のパン巡礼！）</strong></a></p>
+<p><strong>👉 麻布台ヒルズ コムン ベーカリー レビュー（弁当ピックアップ後のパン巡礼！）</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355
      Hugo: /ja/posts/azabudai-hills-criollo-chocolate-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台ヒルズ クリオロ：お土産チョコレートガイド</strong></a></p>
+<p><strong>👉 麻布台ヒルズ クリオロ：お土産チョコレートガイド</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223716380927
      Hugo: /ja/posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台ヒルズ展望台（スカイルーム）2025 ガイド＆攻略法</strong></a></p>
+<p><strong>👉 麻布台ヒルズ展望台（スカイルーム）2025 ガイド＆攻略法</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
      Hugo: /ja/posts/azabudai-hills-teamlab-borderless-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台ヒルズ チームラボボーダレス ガイド</strong></a></p>
+<p><strong>👉 麻布台ヒルズ チームラボボーダレス ガイド</strong></p>
 
 <p><strong>3. 徒歩15分、近くのお散歩コース</strong></p>
 <p><a href="/ja/posts/toranomon-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 虎ノ門ヒルズ 完全ガイド</strong></a></p>

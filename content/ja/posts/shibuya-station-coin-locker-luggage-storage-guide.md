@@ -198,7 +198,7 @@ featured_image: "/images/posts/shibuya-station-coin-locker-luggage-storage-guide
 > <!-- TODO: Update link after migration
 >      Naver: https://blog.naver.com/tokyomate/223702865232
 >      Hugo: /posts/narita-express-guide/ -->
-> <p style="text-align: center;"><strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>成田エクスプレス(N'EX) 予約・価格・形式ガイド</strong></a></p>
+> <p style="text-align: center;"><strong>➡️</strong> <strong>成田エクスプレス(N'EX) 予約・価格・形式ガイド</strong></p>
 
 ---
 

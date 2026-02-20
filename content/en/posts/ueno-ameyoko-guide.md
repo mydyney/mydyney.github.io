@@ -101,7 +101,7 @@ The ramen shop '<strong>[Kamotonegi (鴨to葱)](https://maps.app.goo.gl/mss5mccH
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223914118735
      Hugo: /posts/tokyo-ramen-guide-kangnami/ -->
-<strong>➡️ <a href="#" style="color: #667eea;">Tokyo Ramen Restaurant Complete Guide | YouTube Neighborhood Friend Kangnami's Treasure Box Ramen Shops</a></strong>
+<strong>➡️ Tokyo Ramen Restaurant Complete Guide | YouTube Neighborhood Friend Kangnami's Treasure Box Ramen Shops</strong>
 
 <figure>
   <img src="/images/ueno-ameyoko-complete-guide/ueno-ameyoko-guide-11.jpg" alt="Kamotonegi ramen with green onions and duck">
@@ -168,13 +168,13 @@ With this guide, I hope you create your own wonderful day in Ueno. Feel free to 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
      Hugo: /posts/skyliner-reservation-guide/ -->
-➡️<strong> <a href="#" style="color: #667eea;">Narita Airport to Ueno, Skyliner Reservation Complete Guide</a></strong>
+➡️<strong> Narita Airport to Ueno, Skyliner Reservation Complete Guide</strong>
 ➡️ <strong>[Tokyo Transportation Pass Recommendations, Tokyo Metro Pass vs Tokunai Pass Complete Comparison](/posts/tokyo-subway-ticket-guide/)</strong>  
 <strong>➡️ [Tokyo Asakusa Attractions & Restaurants Complete Guide](/posts/asakusa-complete-guide/)</strong>  
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031937227
      Hugo: /posts/akihabara-complete-guide/ -->
-<strong>➡️ <a href="#" style="color: #667eea;">Akihabara Attractions, Figure Shops, Restaurants, Gacha, Anime Pilgrimage Recommended Course Complete Guide</a></strong>
+<strong>➡️ Akihabara Attractions, Figure Shops, Restaurants, Gacha, Anime Pilgrimage Recommended Course Complete Guide</strong>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

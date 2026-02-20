@@ -274,7 +274,7 @@ The menu is split into <strong>TRADIZIONE (Tradition)</strong> and <strong>INNOV
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
      Hugo: /posts/shin-marunouchi-building-terrace-dinner/ -->
-<p>👉 <a href="#" style="color: #667eea; text-decoration: underline;"><strong>Dinner with Tokyo Station Night View, Shin-Marunouchi Building House Open Terrace</strong></a></p>
+<p>👉 <strong>Dinner with Tokyo Station Night View, Shin-Marunouchi Building House Open Terrace</strong></p>
 
 <!-- Image 15: Terrace View -->
 <figure>
@@ -330,7 +330,7 @@ The menu is split into <strong>TRADIZIONE (Tradition)</strong> and <strong>INNOV
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224151789346
      Hugo: /posts/kajitsuen-lieber-tokyo-station-guide/ -->
-<p>👉 <a href="#" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Strawberry Parfait | Kajitsuen Liber Menu Recommendation & Waiting Tips (Tokyo Station)</strong></a></p>
+<p>👉 <strong>Tokyo Strawberry Parfait | Kajitsuen Liber Menu Recommendation & Waiting Tips (Tokyo Station)</strong></p>
 
 <p>If you are looking for desserts and souvenirs?</p>
 <p>👉 <a href="/posts/tokyo-station-tokyo-banana-creme-brulee-tart-guide/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Station Tokyo Banana Crème Brûlée Locations, Price, Duty-Free | Expiry Date & Storage Tips</strong></a></p>
@@ -343,7 +343,7 @@ The menu is split into <strong>TRADIZIONE (Tradition)</strong> and <strong>INNOV
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
      Hugo: /posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p>👉 <a href="#" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Station KITTE Christmas Tree and Free Observatory, Train Mania Essential Course</strong></a></p>
+<p>👉 <strong>Tokyo Station KITTE Christmas Tree and Free Observatory, Train Mania Essential Course</strong></p>
 <p>👉 <a href="/posts/marunouchi-illumination-2025/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Marunouchi Illumination 2025-2026 Period & Time Summary</strong></a></p>
 </div>
 

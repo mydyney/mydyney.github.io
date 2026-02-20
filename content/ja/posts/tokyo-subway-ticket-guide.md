@@ -151,7 +151,7 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">サブウェイチケット vs JR都区内パス：どちらがお得？</a></b></p>
+<p>➡️ <b>サブウェイチケット vs JR都区内パス：どちらがお得？</b></p>
 
 <br>
 
@@ -278,11 +278,11 @@ featured_image: "/images/posts/tokyo-subway-ticket-guide-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /ja/posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">東京の交通パス、どれを買うべき？ (地下鉄パス vs JR都区内パス比較)</a></b></p>
+<p>➡️ <b>東京の交通パス、どれを買うべき？ (地下鉄パス vs JR都区内パス比較)</b></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224003374650
      Hugo: /ja/posts/skyliner-reservation-guide/ -->
-<p>➡️ <b><a href="#" style="color: #667eea;">成田空港から都心まで：京成スカイライナー予約完全ガイド</a></b></p>
+<p>➡️ <b>成田空港から都心まで：京成スカイライナー予約完全ガイド</b></p>
 <p>➡️ <b><a href="/ja/posts/don-quijote-shopping-guide-2025/">【2025】東京ドン・キホーテお買い物リスト＆割引クーポン</a></b></p>
 
 <br>

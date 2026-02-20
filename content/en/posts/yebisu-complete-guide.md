@@ -29,7 +29,7 @@ translationKey: "yebisu-complete-guide"
 <!-- TODO: Update link after migration 
     Naver: https://blog.naver.com/tokyomate/223678791563
     Hugo: /posts/yebisu-garden-place-access-guide/ -->
-<p>➡️ <a href="#" style="color: #667eea;"><strong>How to Find Yebisu Garden Place and Coin Locker Locations</strong></a></p>
+<p>➡️ <strong>How to Find Yebisu Garden Place and Coin Locker Locations</strong></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-02.jpg" alt="Yebisu Skywalk">
@@ -84,7 +84,7 @@ translationKey: "yebisu-complete-guide"
 <!-- TODO: Update link after migration 
      Naver: https://blog.naver.com/tokyomate/223668328703
      Hugo: /posts/top-of-yebisu-observation-deck/ -->
-<p><b>➡️ </b><a href="#" style="color: #667eea;"><b>Tokyo Yebisu Garden Place Free Observatory: Top of Yebisu</b></a></p>
+<p><b>➡️ </b><b>Tokyo Yebisu Garden Place Free Observatory: Top of Yebisu</b></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-06.jpg" alt="Top of Yebisu Night View">
@@ -97,11 +97,11 @@ translationKey: "yebisu-complete-guide"
 
 <!-- TODO: Update link 
      Naver: https://blog.naver.com/tokyomate/224078737491 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>2025 Yebisu Garden Place Illumination & Christmas Market Guide</b></a></p>
+<p>➡️ <b>2025 Yebisu Garden Place Illumination & Christmas Market Guide</b></p>
 
 <!-- TODO: Update link 
      Naver: https://blog.naver.com/tokyomate/223674944838 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>Yebisu Brewery Tokyo Winter Limited Beer Release</b></a></p>
+<p>➡️ <b>Yebisu Brewery Tokyo Winter Limited Beer Release</b></p>
 
 <figure>
 <img src="/images/posts/yebisu-complete-guide-07.jpg" alt="Yebisu Christmas Illumination">
@@ -271,11 +271,11 @@ translationKey: "yebisu-complete-guide"
 
 <!-- TODO: Update link
      Naver: https://blog.naver.com/tokyomate/223702865232 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>Ginza Sapporo The Bar (Perfect Draft Beer Review)</b></a></p>
+<p>➡️ <b>Ginza Sapporo The Bar (Perfect Draft Beer Review)</b></p>
 
 <!-- TODO: Update link
      Naver: https://blog.naver.com/tokyomate/224025343414 -->
-<p>➡️ <a href="#" style="color: #667eea;"><b>Asakusa Asahi Beer Sky Room (Skytree Night View)</b></a></p>
+<p>➡️ <b>Asakusa Asahi Beer Sky Room (Skytree Night View)</b></p>
 
 <h2>📍 Where to go next? (Recommended Connection Course)</h2>
 

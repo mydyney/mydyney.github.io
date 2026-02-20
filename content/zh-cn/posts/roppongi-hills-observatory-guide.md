@@ -162,7 +162,7 @@ translationKey: "roppongi-hills-observatory-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681272647
      Hugo: /zh-cn/posts/roppongi-hills-access-coin-locker-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 六本木之丘交通方式及投币式储物柜位置</strong></a></p>
+<p><strong>👉 六本木之丘交通方式及投币式储物柜位置</strong></p>
 
 ---
 
@@ -287,7 +287,7 @@ translationKey: "roppongi-hills-observatory-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223993881300
      Hugo: /zh-cn/posts/roppongi-restaurant-map-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 东京六本木美食地图——米其林和Tabelog推荐餐厅</strong></a></p>
+<p><strong>👉 东京六本木美食地图——米其林和Tabelog推荐餐厅</strong></p>
 
 <figure>
   <img src="/images/posts/roppongi-hills-observatory-guide-18.jpg" alt="六本木观光完全攻略缩略图">

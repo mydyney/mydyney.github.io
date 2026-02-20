@@ -309,7 +309,7 @@ A. 菜单上只写了"各种蛋糕"。可以在入口处的展示柜直接挑选
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223715784445
      Hugo: /posts/[SLUG_TBD]/ -->
-👉 <a href="#" style="color: #667eea;"><strong>银座WAKO茶沙龙（预约技巧）</strong></a></li>
+👉 <strong>银座WAKO茶沙龙（预约技巧）</strong></li>
 </ul>
 
 </div>

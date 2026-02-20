@@ -144,9 +144,9 @@ featured_image: "/images/posts/tokyo-halloween-festivals-2025-01.jpg"
 
 <strong>⭐ 一緒に読むと良い東京旅行ガイド</strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>表参道完璧ガイド（パンプキンパレードと一緒に楽しむ）</strong></a></strong>
+<strong>➡️ <strong>表参道完璧ガイド（パンプキンパレードと一緒に楽しむ）</strong></strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>六本木完璧ガイド（ハロウィンスタンプラリーと一緒に楽しむ）</strong></a></strong>
+<strong>➡️ <strong>六本木完璧ガイド（ハロウィンスタンプラリーと一緒に楽しむ）</strong></strong>
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>
   <p style="background-color: #f7f7f7; padding: 15px; border-left: 4px solid #667eea; margin: 10px 0;">

@@ -156,9 +156,9 @@ featured_image: "/images/posts/haneda-amex-centurion-lounge-hours-2025-01.jpg"
 
 <p><strong>関連羽田空港ガイド：</strong></p>
 
-<p><a href="#" style="color: #667eea;"><strong>→ 羽田空港アメックスセンチュリオンラウンジオープン訪問レビュー（食事、ラーメン、デザート）</strong></a></p>
+<p><strong>→ 羽田空港アメックスセンチュリオンラウンジオープン訪問レビュー（食事、ラーメン、デザート）</strong></p>
 
-<p><a href="#" style="color: #667eea;"><strong>→ 羽田空港出国完全ガイド：早朝バス、チェックイン、グルメ、免税店、ラウンジ、温泉、カプセルホテル総まとめ</strong></a></p>
+<p><strong>→ 羽田空港出国完全ガイド：早朝バス、チェックイン、グルメ、免税店、ラウンジ、温泉、カプセルホテル総まとめ</strong></p>
 
 
 <div class="editors-note">

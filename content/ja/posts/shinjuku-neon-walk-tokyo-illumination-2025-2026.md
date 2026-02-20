@@ -313,7 +313,7 @@ Tokyo Mateでした！
 
 ## 🧡 一緒に見ると良い新宿旅行ガイド
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>新宿ゴールデン街 vs 思い出横丁 完全比較（2025最新版）</strong></a>
+<strong>➡️</strong> <strong>新宿ゴールデン街 vs 思い出横丁 完全比較（2025最新版）</strong>
 
 <strong>➡️</strong> <a href="/ja/posts/shinjuku-guide-2025/" style="color: #667eea;"><strong>新宿観光スポット：新宿御苑からレストラン、ショッピングまで完璧コース</strong></a>
 <div class="editors-note">

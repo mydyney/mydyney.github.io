@@ -692,7 +692,7 @@ Includes Toyosu Manyo Club, Thermae-Yu, late-night pricing, tattoo policies, and
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/[POST_ID]
      Hugo: /posts/tokyo-tower-new-year-lighting/ -->
-<p><strong>☕</strong> <a href="#" style="color: #667eea;"><strong>→ Tokyo Tower December 31st Light-Off Schedule & New Year's Day Lighting 2025</strong></a></p>
+<p><strong>☕</strong> <strong>→ Tokyo Tower December 31st Light-Off Schedule & New Year's Day Lighting 2025</strong></p>
 
 <p><strong>☕</strong> <a href="/posts/tokyo-countdown-2026/" style="color: #667eea;"><strong>→ Tokyo New Year's Countdown Best 3: Shinjuku vs Zojo-ji vs Senso-ji 2026</strong></a></p>
 

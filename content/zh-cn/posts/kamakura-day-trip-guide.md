@@ -283,7 +283,7 @@ JR横须贺线和湘南新宿线直达镰仓站，但这个通票经过**藤泽�
 
 镰仓站餐厅会在另一篇文章介绍，今天推荐**只有坐江之电才能遇到的浪漫餐厅**。（全部Tabelog评分3.5以上验证过！）
 
-**👉 <a href="#" target="_blank"><!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>镰仓站美食BEST 10｜本地人排队的当地餐厅·咖啡馆·伴手礼完全指南</strong></a>**
+**👉 <!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>镰仓站美食BEST 10｜本地人排队的当地餐厅·咖啡馆·伴手礼完全指南</strong>**
 
 **🚃 1. 电车在眼前经过的「よりどころ」（稻村崎站）**
 
@@ -391,7 +391,7 @@ JR横须贺线和湘南新宿线直达镰仓站，但这个通票经过**藤泽�
 
 ## <strong>🧡 相关东京郊区旅行攻略</strong>
 
-**➡️ <a href="#" target="_blank"><!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>镰仓站美食BEST 10｜本地人排队的当地餐厅·咖啡馆·伴手礼完全指南</strong></a>**
+**➡️ <!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>镰仓站美食BEST 10｜本地人排队的当地餐厅·咖啡馆·伴手礼完全指南</strong>**
 
 **➡️ <a href="/zh-cn/posts/hakone-travel-guide-day-trip-vs-ryokan/" target="_blank"><strong>东京郊区箱根旅行完美路线（箱根周游券·浪漫特快）</strong></a>**
 

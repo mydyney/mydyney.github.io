@@ -190,7 +190,7 @@ The soul food of Shimbashi salarymen. Experience authentic yakitori at this sanc
 
 - <strong><a href="https://maps.app.goo.gl/TDZjAWQ5jG2GLMf37" target="_blank">Kurobuta Tonkatsu Horiichi (黒豚とんかつ ほり壱)</a></strong>: Premium tonkatsu offering next-level flavor and juiciness of carefully selected Kagoshima black pork (Tabelog 100 Famous Restaurants 2024)
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Shimbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review</strong></a></strong>
+<strong>➡️ <strong>Tokyo Shimbashi Tonkatsu Restaurant | Kurobuta Horiichi Michelin Black Pork Tonkatsu Review</strong></strong>
 
 
 - <strong><a href="https://maps.app.goo.gl/gq1jzkTgzpfHTmQs5" target="_blank">Tonkatsu Akashi (とんかつ 明石)</a></strong>: Hidden affordable tonkatsu gem loved by local office workers (Tabelog 100 Famous Restaurants 5 times)
@@ -212,7 +212,7 @@ The soul food of Shimbashi salarymen. Experience authentic yakitori at this sanc
 
 <strong>✅ <a href="https://autoreserve.com/ko/restaurants/fM4wBrz1iJVbpZbwswY8?medium_slug=AJvA6Kg5ptKi" target="_blank">Reserve Sumiyaki Unafuji Yurakucho Online</a></strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>Tokyo Eel Restaurant | Sumiyaki Unafuji Yurakucho Review</strong></a></strong>
+<strong>➡️ <strong>Tokyo Eel Restaurant | Sumiyaki Unafuji Yurakucho Review</strong></strong>
 
 
 <figure>

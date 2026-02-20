@@ -120,7 +120,7 @@ featured_image: "/images/posts/shibuya-sushi-no-midori-lunch-guide-01.jpg"
 
 待ち時間が30分以上残っている場合は、マークシティ地下のカルディ（KALDI）、ダイソーでショッピングしたり、渋谷スクランブル交差点を見学してきましょう。
 
-<p><strong>➡️ <a href="#" style="color: #667eea;">日本カルディショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技）</a></strong></p>
+<p><strong>➡️ 日本カルディショッピングリスト、必ず買うべきカルディおすすめ品（スプレッド、ポーションコーヒー、免税裏技）</strong></p>
 
 <figure>
   <img src="/images/posts/shibuya-sushi-no-midori-lunch-guide-05.jpg" alt="スシノミドリ発券機とQRコード待ち時間確認システムディスプレイ">

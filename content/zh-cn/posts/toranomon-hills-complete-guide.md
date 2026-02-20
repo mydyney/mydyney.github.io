@@ -98,7 +98,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 <strong>🥢 烤鸡肉串 野野鸟 gen长</strong>
 介绍位于车站塔4层的烤鸡肉串主厨套餐餐厅。
 
-➡️ <a href="#" style="color: #667eea;"><strong>烤鸡肉串主厨套餐、野野鸟gen长评测</strong></a>
+➡️ <strong>烤鸡肉串主厨套餐、野野鸟gen长评测</strong>
 
 <figure>
   <img src="/images/posts/toranomon-hills-complete-guide-05.jpg" alt="2024年开业虎之门山车站塔新景点T-Market入口">
@@ -209,7 +209,7 @@ featured_image: "/images/posts/toranomon-hills-complete-guide-01.jpg"
 地铁5分钟抵达「六本木山」。
 在「森美术馆」与「东京城市观景展望台」体验别样的东京夜景感动。
 
-➡️ <a href="#" style="color: #667eea;"><strong>六本木景点完全攻略(展望台、美术馆、购物、美食)</strong></a>
+➡️ <strong>六本木景点完全攻略(展望台、美术馆、购物、美食)</strong>
 
 
 <div class="editors-note">

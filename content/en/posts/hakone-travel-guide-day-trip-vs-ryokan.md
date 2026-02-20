@@ -113,7 +113,7 @@ From tips for successfully booking the coveted 'observation seats' to detailed o
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024131147
      Hugo: /posts/hakone-romancecar-reservation-guide/ -->
-<a href="#" style="color: #667eea;"><strong>🔗 Hakone Romancecar Reservation Guide (Observation Seats, Online, On-site Ticketing, Boarding A to Z)</strong></a>
+<strong>🔗 Hakone Romancecar Reservation Guide (Observation Seats, Online, On-site Ticketing, Boarding A to Z)</strong>
 
 ## Hakone Travel Course Recommendations for Your Style
 
@@ -250,7 +250,7 @@ If you're curious about detailed admission discount tips and must-see photo spot
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224038866606
      Hugo: /posts/hakone-open-air-museum-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Side Trip: Hakone Open-Air Museum Must-Visit Spots (Admission Discounts, Photo Spot Tips)</strong></a>
+<strong>➡️ Tokyo Side Trip: Hakone Open-Air Museum Must-Visit Spots (Admission Discounts, Photo Spot Tips)</strong>
 
 <div class="image-group-3">
   <figure>
@@ -311,12 +311,12 @@ Hakone may seem complicated, but with just one <strong>Hakone Free Pass</strong>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224038866606
      Hugo: /posts/hakone-open-air-museum-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Tokyo Side Trip: Hakone Open-Air Museum Must-Visit Spots (Admission Discounts, Photo Spot Tips)</strong></a>
+<strong>➡️ Tokyo Side Trip: Hakone Open-Air Museum Must-Visit Spots (Admission Discounts, Photo Spot Tips)</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024131147
      Hugo: /posts/hakone-romancecar-reservation-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ Hakone Romancecar Reservation Guide, Observation Seat Tips A to Z</strong></a>
+<strong>➡️ Hakone Romancecar Reservation Guide, Observation Seat Tips A to Z</strong>
 
 ---
 

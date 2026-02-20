@@ -209,22 +209,22 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223968462793
      Hugo: /zh-cn/posts/azabudai-hills-commen-bakery-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台Hills Commen面包店测评（买完便当顺路面包巡礼！）</strong></a></p>
+<p><strong>👉 麻布台Hills Commen面包店测评（买完便当顺路面包巡礼！）</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355
      Hugo: /zh-cn/posts/azabudai-hills-criollo-chocolate-review/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台Hills Criollo：伴手礼巧克力攻略</strong></a></p>
+<p><strong>👉 麻布台Hills Criollo：伴手礼巧克力攻略</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223716380927
      Hugo: /zh-cn/posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台Hills展望台（Sky Room）2025攻略&小贴士</strong></a></p>
+<p><strong>👉 麻布台Hills展望台（Sky Room）2025攻略&小贴士</strong></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
      Hugo: /zh-cn/posts/azabudai-hills-teamlab-borderless-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台Hills teamLab无界美术馆攻略</strong></a></p>
+<p><strong>👉 麻布台Hills teamLab无界美术馆攻略</strong></p>
 
 <p><strong>3. 步行15分钟，周边散步路线</strong></p>
 <p><a href="/zh-cn/posts/toranomon-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 虎之门Hills完全攻略</strong></a></p>

@@ -65,7 +65,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224008430188
      Hugo: /ja/posts/ginza-lotte-duty-free-whisky-guide/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 銀座ロッテ免税店 ウイスキーガイド</strong></a></p>
+<p><strong>👉 銀座ロッテ免税店 ウイスキーガイド</strong></p>
 <p><a href="/ja/posts/ginza-shopping-discount-guide-2026/" style="color: #667eea; text-decoration: underline;"><strong>👉 銀座ショッピング割引テク：三越 vs 松屋百貨店比較</strong></a></p>
 
 <p><strong>🕔 17:00 | 東京駅 地下街＆キャラクターストリート</strong></p>
@@ -98,7 +98,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224131055243
      Hugo: /ja/posts/shinjuku-department-store-guest-card-discount/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 新宿百貨店 ゲストカード5%割引比較（伊勢丹 vs 高島屋）</strong></a></p>
+<p><strong>👉 新宿百貨店 ゲストカード5%割引比較（伊勢丹 vs 高島屋）</strong></p>
 
 <p><strong>2️⃣ 池袋サンシャインシティ ルート（家族向け）</strong></p>
 <p>池袋駅からサンシャインシティまで地下連絡通路が利用可能です。水族館・ポケモンセンター・大型モールがひとつの建物に集まっており、<strong>お子様連れの雨の日プラン</strong>に最も安定的です。</p>
@@ -109,15 +109,15 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
      Hugo: /ja/posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 東京駅 KITTE 無料展望台＆電車ビュースポット</strong></a></p>
+<p><strong>👉 東京駅 KITTE 無料展望台＆電車ビュースポット</strong></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675952285
      Hugo: /ja/posts/marunouchi-building-free-observatory/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 丸ビル無料展望台：夕焼け＆夜景ガイド</strong></a></p>
+<p><strong>👉 丸ビル無料展望台：夕焼け＆夜景ガイド</strong></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
      Hugo: /ja/posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><a href="#" style="color: #667eea; text-decoration: underline;"><strong>👉 新丸ビル オープンテラスハウス</strong></a></p>
+<p><strong>👉 新丸ビル オープンテラスハウス</strong></p>
 
 <figure>
   <img src="/images/posts/tokyo-rainy-day-itinerary-guide-03.jpg" alt="雨の日の丸の内室内ルート 東京駅の眺望">

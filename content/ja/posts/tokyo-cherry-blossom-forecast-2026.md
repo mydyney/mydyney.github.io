@@ -231,7 +231,7 @@ A. はい、新宿御苑は桜シーズンの週末に事前予約制で運営�
 <!-- TODO: Update link after migration
      Naver: /ja/posts/tokyo-travel-preparation-guide/
      Hugo: /posts/tokyo-travel-preparation-guide/ -->
-👉 <strong><a href="#" style="color: #667eea;">東京自由旅行準備A to Z｜初心者のための航空・入国・宿泊・交通・アプリチェックリスト</a></strong>
+👉 <strong>東京自由旅行準備A to Z｜初心者のための航空・入国・宿泊・交通・アプリチェックリスト</strong>
 
 👉 <strong>[東京3泊4日日程おすすめ｜ディズニーなしでランドマーク・核心名所完全攻略]({{< ref "/posts/tokyo-3-day-itinerary-landmark-series" >}})</strong>
 

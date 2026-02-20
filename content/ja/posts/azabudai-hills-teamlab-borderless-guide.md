@@ -156,7 +156,7 @@ translationKey: "azabudai-hills-teamlab-borderless-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223671427079
      Hugo: /ja/posts/azabudai-hills-christmas-market-2024/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 麻布台ヒルズ クリスマスマーケット 2024 ガイド</strong></a></p>
+<p><strong>👉 麻布台ヒルズ クリスマスマーケット 2024 ガイド</strong></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

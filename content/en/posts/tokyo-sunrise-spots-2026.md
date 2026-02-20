@@ -178,7 +178,7 @@ Since many places are closed on January 1st, make sure to check the posts below 
 
 ## 🧡 Related Tokyo New Year Travel Information
 
-➡️ <a href="#" style="color: #667eea;"><strong>→ Best 3 Tokyo Countdown Spots for 2026 (Transportation Info)</strong></a>
+➡️ <strong>→ Best 3 Tokyo Countdown Spots for 2026 (Transportation Info)</strong>
 
 ➡️ <a href="/posts/tokyo-year-end-business-hours-2026/" style="color: #667eea;"><strong>→ 2026 Tokyo Year-End/New Year Hours & Business Info [Stores Open on January 1st]</strong></a>
 

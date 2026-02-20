@@ -191,7 +191,7 @@ A: The ginkgo avenue is in the 'Aoyama' area, very close to 'Omotesando,' making
 
 - <strong>Omotesando</strong> → Cafes, shopping, architecture exploration
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture (Recommended Course)</strong></a>
+<strong>➡️</strong> <strong>Omotesando Complete Guide: Coffee, Shopping, Restaurants, Architecture (Recommended Course)</strong>
 
 - <strong>Shibuya</strong> → Sky Observatory, shopping route
 
@@ -199,7 +199,7 @@ A: The ginkgo avenue is in the 'Aoyama' area, very close to 'Omotesando,' making
 
 - <strong>Roppongi</strong> → Illumination / Night views / Mori Art Museum
 
-<strong>➡️</strong> <a href="#" style="color: #667eea;"><strong>Roppongi Attractions Complete Guide (Observatory, Art Museum, Shopping, Restaurants A to Z)</strong></a>
+<strong>➡️</strong> <strong>Roppongi Attractions Complete Guide (Observatory, Art Museum, Shopping, Restaurants A to Z)</strong>
 
 <strong>➡️</strong> <a href="/posts/roppongi-christmas-illumination-2025/"><strong>Roppongi Illumination 2025: Dates, Lighting Hours, Must-See Spots, Roppongi Hills Christmas Market Complete Guide</strong></a>
 

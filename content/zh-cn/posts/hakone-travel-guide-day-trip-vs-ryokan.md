@@ -215,7 +215,7 @@ featured_image: /images/posts/hakone-travel-guide-day-trip-vs-ryokan-01.jpg
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224038866606
      Hugo: /posts/hakone-open-air-museum-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 东京近郊旅行，箱根雕刻之森美术馆必游景点（门票折扣、拍照点技巧）</strong></a>
+<strong>➡️ 东京近郊旅行，箱根雕刻之森美术馆必游景点（门票折扣、拍照点技巧）</strong>
 
 <div class="image-group-3">
   <figure>
@@ -276,12 +276,12 @@ A2："Jalan.net"、"乐天旅行"等日本本地预订网站的评价最准确�
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224038866606
      Hugo: /posts/hakone-open-air-museum-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 东京近郊旅行，箱根雕刻之森美术馆必游景点（门票折扣、拍照点技巧）</strong></a>
+<strong>➡️ 东京近郊旅行，箱根雕刻之森美术馆必游景点（门票折扣、拍照点技巧）</strong>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224024131147
      Hugo: /posts/hakone-romancecar-reservation-guide/ -->
-<a href="#" style="color: #667eea;"><strong>➡️ 箱根浪漫特快预订方法，展望席技巧 A to Z</strong></a>
+<strong>➡️ 箱根浪漫特快预订方法，展望席技巧 A to Z</strong>
 
 ---
 

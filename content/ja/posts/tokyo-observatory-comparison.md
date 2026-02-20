@@ -395,7 +395,7 @@ featured_image: "/images/posts/tokyo-observatory-comparison-01.jpg"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223987954990
      Hugo: /ja/posts/roppongi-hills-observatory-guide/ -->
-<p><strong>👉 </strong><a href="#" style="color: #667eea;"><strong>2026年六本木ヒルズ展望台完全ガイド｜休館日・割引予約・通行規制（1月のお知らせ含む）</strong></a></p>
+<p><strong>👉 </strong><strong>2026年六本木ヒルズ展望台完全ガイド｜休館日・割引予約・通行規制（1月のお知らせ含む）</strong></p>
 
 ### <strong>💰 入場料</strong>
 

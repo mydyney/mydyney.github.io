@@ -26,7 +26,7 @@ boarding locations, and the complete comparison with N'EX!</p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
      Hugo: /posts/visit-japan-web-registration-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ [Learn More] Visit Japan Web Registration Guide - Complete in 5 Minutes (Family Registration, QR Code Latest Version)</b></a>
+<b>➡️ [Learn More] Visit Japan Web Registration Guide - Complete in 5 Minutes (Family Registration, QR Code Latest Version)</b>
 
 ## 🔍 Skyliner vs Narita Express (Which Train is Right for Me?)
 
@@ -297,7 +297,7 @@ Now you're perfectly prepared for the journey from the airport to Tokyo city! Ne
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224025699867
      Hugo: /posts/tokyo-subway-pass-vs-jr-tokunai-pass/ -->
-<a href="#" style="color: #667eea;"><b>➡️ Tokyo Transportation Pass Recommendations, Tokyo Metro Pass vs Tokunai Pass Complete Comparison</b></a>
+<b>➡️ Tokyo Transportation Pass Recommendations, Tokyo Metro Pass vs Tokunai Pass Complete Comparison</b>
 
 <b>⭐ Recommended Tokyo Travel Guides</b>
 
@@ -306,7 +306,7 @@ Now you're perfectly prepared for the journey from the airport to Tokyo city! Ne
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224031937227
      Hugo: /posts/akihabara-complete-guide/ -->
-<a href="#" style="color: #667eea;"><b>➡️ Akihabara Things to Do, Figure Shops, Restaurants, Gacha, Anime Pilgrimage Recommended Course Complete Guide</b></a>
+<b>➡️ Akihabara Things to Do, Figure Shops, Restaurants, Gacha, Anime Pilgrimage Recommended Course Complete Guide</b>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

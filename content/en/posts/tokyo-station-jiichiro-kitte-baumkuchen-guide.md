@@ -276,12 +276,12 @@ Jiichiro at Tokyo Station embodies the brand slogan "stacking happiness layer by
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223680263119
      Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Nemuro Hanamaru Sushi: Waiting Tips for Tokyo Station KITTE 5F</a>
+Nemuro Hanamaru Sushi: Waiting Tips for Tokyo Station KITTE 5F
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
      Hugo: /posts/[SLUG_TBD]/ -->
-<a href="#" style="color: #667eea;">Tokyo Station KITTE Free Observatory & Train Enthusiast Must-Visit (Night View Spot)</a>
+Tokyo Station KITTE Free Observatory & Train Enthusiast Must-Visit (Night View Spot)
 
 ---
 

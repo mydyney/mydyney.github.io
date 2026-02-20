@@ -340,12 +340,12 @@ translationKey: "haneda-airport-arrival-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/224154771287
      Hugo: /posts/japan-flight-booking-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 [Step 1] Japan Flight Booking: Best Deals & Airport Selection Tips</strong></a></p>
+<p><strong>👉 [Step 1] Japan Flight Booking: Best Deals & Airport Selection Tips</strong></p>
 <p><a href="/posts/tokyo-travel-preparation-guide/" style="color: #667eea;"><strong>👉 [Step 2] Tokyo Travel Preparation A-to-Z Checklist</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223998533494
      Hugo: /posts/visit-japan-web-registration-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 [Step 3] Visit Japan Web Registration: Complete in 5 Minutes</strong></a></p>
+<p><strong>👉 [Step 3] Visit Japan Web Registration: Complete in 5 Minutes</strong></p>
 
 <p><strong>How to Get Around Tokyo?</strong></p>
 <p>You've nailed the airport-to-city transport! Next up: figuring out the best transit pass for your itinerary. Find the cheapest and most efficient option in our comprehensive guide below:</p>
@@ -357,7 +357,7 @@ translationKey: "haneda-airport-arrival-guide"
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223996626324
      Hugo: /posts/haneda-airport-departure-guide/ -->
-<p><a href="#" style="color: #667eea;"><strong>👉 Haneda Airport Departure Guide (Early Morning Bus, Check-in, Restaurants, Duty Free, Lounge, Onsen & Capsule Hotel)</strong></a></p>
+<p><strong>👉 Haneda Airport Departure Guide (Early Morning Bus, Check-in, Restaurants, Duty Free, Lounge, Onsen & Capsule Hotel)</strong></p>
 
 ---
 

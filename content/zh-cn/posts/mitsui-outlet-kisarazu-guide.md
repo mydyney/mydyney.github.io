@@ -292,7 +292,7 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 <strong>礼品&食品：</strong>
 - <strong>Godiva（歌帝梵）</strong>、Lindt、Kaldi Coffee Farm
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单，2025年必买KALDI推荐（酱料、挂耳咖啡、免税小技巧）</strong></a></strong>
+<strong>➡️ <strong>日本KALDI购物清单，2025年必买KALDI推荐（酱料、挂耳咖啡、免税小技巧）</strong></strong>
 
 <figure>
   <img src="/images/posts/mitsui-outlet-kisarazu-guide-10.jpg" alt="木更津的Godiva店铺">
@@ -348,11 +348,11 @@ featured_image: "/images/posts/mitsui-outlet-kisarazu-guide-01.jpg"
 
 <strong>➡️ [新宿完全指南：从新宿御苑到餐厅、购物、黄金街](/zh-cn/posts/shinjuku-guide-2025/)</strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>东京站指南：角色街、餐厅、夜景、行李寄存</strong></a></strong>
+<strong>➡️ <strong>东京站指南：角色街、餐厅、夜景、行李寄存</strong></strong>
 
 <strong>➡️ [日本唐吉诃德购物清单&折扣优惠券指南](/zh-cn/posts/don-quijote-shopping-guide-2025/)</strong>
 
-<strong>➡️ <a href="#" style="color: #667eea;"><strong>日本KALDI购物清单：必买推荐（酱料、挂耳咖啡、免税小技巧）</strong></a></strong>
+<strong>➡️ <strong>日本KALDI购物清单：必买推荐（酱料、挂耳咖啡、免税小技巧）</strong></strong>
 
 <strong>🔥 日本购物前必看！</strong>
 

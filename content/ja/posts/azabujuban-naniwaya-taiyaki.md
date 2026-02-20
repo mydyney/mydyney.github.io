@@ -101,7 +101,7 @@ featured_image: "/images/posts/azabujuban-naniwaya-taiyaki-01.jpg"
 
 <strong>アート&ショッピングの街: 六本木ヒルズ</strong> - 麻布十番の趣ある商店街とは異なる、モダンなエネルギーとアーティスティックなインスピレーションを感じたいなら六本木ヒルズへどうぞ。
 
-➡️ <a href="#" style="color: #667eea;"><strong>六本木の遊び場完全ガイド (展望台、美術館、ショッピング、グルメ)</strong></a>
+➡️ <strong>六本木の遊び場完全ガイド (展望台、美術館、ショッピング、グルメ)</strong>
 
 
 <div class="editors-note">

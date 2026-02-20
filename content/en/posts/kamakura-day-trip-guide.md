@@ -282,7 +282,7 @@ That very place that stirs 90s nostalgia! The **Slam Dunk opening scene location
 
 Kamakura Station restaurants will be covered in a separate post, so today we'll introduce **romantic restaurants you can only reach by riding the Enoden**. (All verified with Tabelog ratings 3.5+!)
 
-**👉 <a href="#" target="_blank"><!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>Kamakura Station Best Restaurants BEST 10 | Local Favorites, Cafes & Souvenirs Complete Guide</strong></a>**
+**👉 <!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>Kamakura Station Best Restaurants BEST 10 | Local Favorites, Cafes & Souvenirs Complete Guide</strong>**
 
 **🚃 1. 'Yoridocoro' with Trains Passing Right Outside (Inamuragasaki Station)**
 
@@ -390,7 +390,7 @@ Especially on nice weather days, seeing the sparkling ocean through the Enoden w
 
 ## <strong>🧡 Related Tokyo Suburban Travel Guides</strong>
 
-**➡️ <a href="#" target="_blank"><!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>Kamakura Station Best Restaurants BEST 10 | Local Favorites, Cafes & Souvenirs Complete Guide</strong></a>**
+**➡️ <!-- TODO: Replace with actual link when post 224149372289 is migrated --><strong>Kamakura Station Best Restaurants BEST 10 | Local Favorites, Cafes & Souvenirs Complete Guide</strong>**
 
 **➡️ <a href="/posts/hakone-travel-guide-day-trip-vs-ryokan/" target="_blank"><strong>Tokyo Suburban Hakone Travel Perfect Course (Hakone Free Pass·Romance Car)</strong></a>**
 
