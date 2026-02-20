@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 161 posts migrated, 53 pending (214 total mapped)
+> **Status:** ⏳ In Progress - 162 posts migrated, 54 pending (216 total mapped)
 
 ---
 
@@ -45,6 +45,7 @@ When migrating a Naver blog post to Hugo:
 | 224151789346 | tokyo-kajitsuen-liebel-strawberry-parfait-guide | 2026-01-19 | ✅ |
 | 224160652498 | tokyo-observatory-comparison | 2026-01-28 | ✅ |
 | 224155602660 | tokyo-station-kantaro-ichibangai-sushi | 2026-01-22 | ✅ |
+| 224189758086 | gotokuji-maneki-neko-cat-day-guide | 2026-02-20 | ✅ |
 | 224156966219 | tokyo-cherry-blossom-forecast-2026 | 2026-01-23 | ✅ |
 | 224145944230 | japan-mcdonalds-happy-set-2026-01 | 2026-01-16 | ✅ |
 | 224146973824 | tokyo-nihonbashi-manten-sushi-guide | 2026-01-15 | ✅ |
@@ -53,6 +54,7 @@ When migrating a Naver blog post to Hugo:
 | 224140812174 | ginza-shopping-discount-guide-2026 | 2026-01-09 | ✅ |
 | 224038866606 | hakone-open-air-museum-guide-discount-tips | 2025-10-12 | ✅ |
 | 224138433650 | tokyo-february-weather-clothing-guide | 2026-01-08 | ✅ |
+| 224135063751 | tokyo-subway-map-guide | - | pending |
 | 224134693622 | yanaka-ginza-menchi-katsu-yuyake-dandan-guide | 2026-01-05 | ✅ |
 | 224129178083 | tokyo-toshikoshi-soba-new-year-eve-guide | 2025-12-31 | ✅ |
 | 224032086475 | nakameguro-complete-guide | 2025-10-05 | ✅ |
@@ -327,12 +329,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 161
-- **Naver IDs Tracked:** 214
+- **Total Posts Migrated:** 162
+- **Naver IDs Tracked:** 216
 - **Pending References:** 77
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-18 (Tokyo Cherry Blossom Top 10 Spots)
+- **Last Migration Date:** 2026-02-20 (Gotokuji Maneki-neko Cat Day Guide)
 
 ---
 
