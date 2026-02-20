@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 169 posts migrated, 53 pending (222 total mapped)
+> **Status:** ⏳ In Progress - 170 posts migrated, 52 pending (222 total mapped)
 
 ---
 
@@ -49,7 +49,7 @@ When migrating a Naver blog post to Hugo:
 | 224189758086 | gotokuji-maneki-neko-cat-day-guide | 2026-02-20 | ✅ |
 | 224156966219 | tokyo-cherry-blossom-forecast-2026 | 2026-01-23 | ✅ |
 | 224145944230 | japan-mcdonalds-happy-set-2026-01 | 2026-01-16 | ✅ |
-| 224146568943 | ginza-kagari-chicken-paitan-ramen-guide | - | pending |
+| 224146568943 | ginza-kagari-chicken-paitan-ramen-guide | 2026-02-21 | ✅ |
 | 224146973824 | tokyo-nihonbashi-manten-sushi-guide | 2026-01-15 | ✅ |
 | 224144304263 | ginza-nemuro-hanamaru-sushi-guide | 2026-01-15 | ✅ |
 | 224142352662 | ginza-sato-yosuke-inaniwa-udon-guide | 2026-01-15 | ✅ |
@@ -255,7 +255,6 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 
 | Naver ID | Referenced In | Description |
 |----------|---------------|-------------|
-| 224146568943 | iruka-tokyo-roppongi-michelin-ramen-guide | Ginza Kagari: Michelin Chicken Paitan Ramen Guide |
 | 224096203397 | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
 | 224095118118 | - | Demoted from Quick (Filesystem mismatch) |
 | 224024530348 | roppongi-art-night-guide | Roppongi Art Night 2025 Detailed Guide with Recommended Lineup |
@@ -322,12 +321,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 169
+- **Total Posts Migrated:** 170
 - **Naver IDs Tracked:** 222
-- **Pending References:** 64
+- **Pending References:** 63
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-21 (Iruka Tokyo Roppongi Michelin Ramen Guide)
+- **Last Migration Date:** 2026-02-21 (Ginza Kagari Chicken Paitan Ramen Guide)
 
 ---
 

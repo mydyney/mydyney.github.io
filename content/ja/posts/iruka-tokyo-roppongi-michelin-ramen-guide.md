@@ -186,10 +186,7 @@ translationKey: "iruka-tokyo-roppongi-michelin-ramen-guide"
 
 <p>同じミシュラン・ビブグルマンですが、スタイルは全く異なる2店。両方を食べ比べるのも東京旅行の大きな楽しみです。最新の価格や行列のコツをまとめましたので、ぜひチェックしてみてください！</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224146568943
-     Hugo: /ja/posts/ginza-kagari-chicken-paitan-ramen-guide/ -->
-<p>👉 <strong>銀座 篝 本店：鶏白湯（とりぱいたん）の濃厚な味わいレビュー</strong></p>
+<p><a href="/ja/posts/ginza-kagari-chicken-paitan-ramen-guide/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 銀座 篝 本店：鶏白湯（とりぱいたん）の濃厚な味わいレビュー</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

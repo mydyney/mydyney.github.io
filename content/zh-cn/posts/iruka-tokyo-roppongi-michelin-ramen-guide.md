@@ -186,10 +186,7 @@ translationKey: "iruka-tokyo-roppongi-michelin-ramen-guide"
 
 <p>同为米其林必比登推荐，但风格完全不同——对比品尝这两家也是东京旅行的一大乐趣。我们整理了最新价格和排队攻略，快来看看吧！</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224146568943
-     Hugo: /zh-cn/posts/ginza-kagari-chicken-paitan-ramen-guide/ -->
-<p>👉 <strong>银座篝本店：鸡白汤拉面的浓郁风味体验</strong></p>
+<p><a href="/zh-cn/posts/ginza-kagari-chicken-paitan-ramen-guide/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 银座篝本店：鸡白汤拉面的浓郁风味体验</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

@@ -186,10 +186,7 @@ translationKey: "iruka-tokyo-roppongi-michelin-ramen-guide"
 
 <p>Both are Michelin Bib Gourmand restaurants, but with completely different styles — comparing the two is one of the great pleasures of traveling in Tokyo. Check out our guide with the latest prices and waiting tips!</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224146568943
-     Hugo: /posts/ginza-kagari-chicken-paitan-ramen-guide/ -->
-<p>👉 <strong>Ginza Kagari: The Rich Flavor of Tori Paitan (Chicken White Broth) Ramen</strong></p>
+<p><a href="/posts/ginza-kagari-chicken-paitan-ramen-guide/" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 Ginza Kagari: The Rich Flavor of Tori Paitan (Chicken White Broth) Ramen</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
