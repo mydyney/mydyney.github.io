@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 171 posts migrated, 51 pending (222 total mapped)
+> **Status:** ⏳ In Progress - 172 posts migrated, 52 pending (224 total mapped)
 
 ---
 
@@ -19,6 +19,7 @@ When migrating a Naver blog post to Hugo:
 
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
+| 224194466616 | shibuya-conveyor-belt-sushi-ranking | 2026-02-24 | ✅ |
 | 224187041918 | tokyo-cherry-blossom-top-10-spots | 2026-02-18 | ✅ |
 | 224180161370 | chidorigafuchi-cherry-blossom-boat-guide | 2026-02-16 | ✅ |
 | 224180541373 | shinjuku-gyoen-cherry-blossom-guide | 2026-02-16 | ✅ |
@@ -197,6 +198,7 @@ When migrating a Naver blog post to Hugo:
 | 223968462793 | azabudai-hills-commen-bakery-review | - | pending |
 | 223958175295 | azabudai-hills-summer-festival-review | - | pending |
 | 223957316412 | tsurutontan-roppongi-udon-guide | - | pending |
+| 223915974358 | tokyo-conveyor-belt-sushi-tabelog-top10 | - | pending |
 | 223915389552 | azabudai-hills-series-chinese-restaurant | - | pending |
 | 223915132048 | shimbashi-tonkatsu-horiichi | - | pending |
 | 223913424029 | iruca-tokyo-roppongi-ramen-guide | - | pending |
