@@ -273,10 +273,7 @@ Jiichiro at Tokyo Station embodies the brand slogan "stacking happiness layer by
 
 ## 🧡 Same Building (KITTE) Restaurants & Attractions
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223680263119
-     Hugo: /posts/[SLUG_TBD]/ -->
-Nemuro Hanamaru Sushi: Waiting Tips for Tokyo Station KITTE 5F
+<p>👉 <a href="/posts/tokyo-station-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>Nemuro Hanamaru KITTE: Complete Guide with Wait Times &amp; Tips</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151

@@ -270,10 +270,7 @@ A: バウムクーヘンは機内持ち込み可能です。ただし、プリ�
 
 ## 🧡 同じ建物（KITTE）のレストラン＆見どころ
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223680263119
-     Hugo: /posts/[SLUG_TBD]/ -->
-根室花まる回転寿司：東京駅KITTE 5階の待ち時間攻略法
+<p>👉 <a href="/ja/posts/tokyo-station-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>根室花まる KITTE丸の内店：完全ガイド（待ち時間・注文方法）</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223681848151
