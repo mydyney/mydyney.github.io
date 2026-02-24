@@ -1,5 +1,5 @@
 ---
-title: "涩谷回转寿司7家实测对比｜味道·性价比·新鲜度排名(2026)"
+title: "涩谷回转寿司7家实测对比｜味道·性价比·新鲜度排名"
 date: 2026-02-24T10:00:00+09:00
 draft: false
 translationKey: "shibuya-conveyor-belt-sushi-ranking"

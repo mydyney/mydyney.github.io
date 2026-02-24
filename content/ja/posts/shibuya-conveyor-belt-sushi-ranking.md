@@ -1,5 +1,5 @@
 ---
-title: "渋谷回転寿司7店を実食比較｜味・コスパ・鮮度ランキング（2026年）"
+title: "渋谷回転寿司7店を実食比較｜味・コスパ・鮮度ランキング"
 date: 2026-02-24T10:00:00+09:00
 draft: false
 translationKey: "shibuya-conveyor-belt-sushi-ranking"
