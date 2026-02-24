@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 173 posts migrated, 51 pending (224 total mapped)
+> **Status:** ⏳ In Progress - 174 posts migrated, 50 pending (224 total mapped)
 
 ---
 
@@ -228,7 +228,7 @@ When migrating a Naver blog post to Hugo:
 | 223684908680 | shin-marunouchi-building-terrace-dinner | - | pending |
 | 223681848151 | kitte-marunouchi-christmas-tree-observatory | - | pending |
 | 223681272647 | roppongi-hills-access-coin-locker-guide | - | pending |
-| 223680263119 | tokyo-station-nemuro-hanamaru-sushi-guide | - | pending |
+| 223680263119 | tokyo-station-nemuro-hanamaru-sushi-guide | 2024-12-02 | ✅ |
 | 223678791563 | yebisu-garden-place-access-guide | - | pending |
 | 223675952285 | marunouchi-building-free-observatory | - | pending |
 | 223675706489 | tokyo-station-breakfast-the-front-room | - | pending |

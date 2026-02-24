@@ -38,7 +38,7 @@ featured_image: "/images/posts/tokyo-conveyor-belt-sushi-tabelog-top10-01.jpg"
 
 <p>📍 <a href="https://maps.app.goo.gl/UR1jFL4HPokrFTmq5" target="_blank" style="text-decoration: underline; color: #06c;">根室花まる KITTE丸の内店</a></p>
 
-<!-- TODO: 関連記事 - 223680263119 (tokyo-station-nemuro-hanamaru-sushi-guide) - 移行待ち /ja/posts/ -->
+<p>👉 <a href="/ja/posts/tokyo-station-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>根室花まる KITTE丸の内店：完全ガイド（待ち時間・注文方法）</strong></a></p>
 
 <h2>🏆 第2位 渋谷エリア：銀座おのでら息子 渋谷店</h2>
 

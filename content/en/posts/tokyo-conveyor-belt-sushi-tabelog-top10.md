@@ -38,7 +38,7 @@ Here are the top 10 picks by area, from budget-friendly to upscale.</p>
 
 <p>📍 <a href="https://maps.app.goo.gl/UR1jFL4HPokrFTmq5" target="_blank" style="text-decoration: underline; color: #06c;">Nemuro Hanamaru KITTE Marunouchi</a></p>
 
-<!-- TODO: Related article - 223680263119 (tokyo-station-nemuro-hanamaru-sushi-guide) - pending migration -->
+<p>👉 <a href="/posts/tokyo-station-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>Nemuro Hanamaru KITTE: Complete Guide with Wait Times &amp; Tips</strong></a></p>
 
 <h2>🏆 #2 Shibuya Area: Ginza Onodera Musuko Shibuya</h2>
 

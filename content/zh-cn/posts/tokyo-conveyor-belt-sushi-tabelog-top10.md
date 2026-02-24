@@ -38,7 +38,7 @@ Tabelog是日本最权威的餐厅评价平台，<br>
 
 <p>📍 <a href="https://maps.app.goo.gl/UR1jFL4HPokrFTmq5" target="_blank" style="text-decoration: underline; color: #06c;">根室花丸 KITTE丸之内店</a></p>
 
-<!-- TODO: Related article - 223680263119 (tokyo-station-nemuro-hanamaru-sushi-guide) - pending migration /zh-cn/posts/ -->
+<p>👉 <a href="/zh-cn/posts/tokyo-station-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>根室花丸 KITTE丸之内店：完全攻略（等候时间与点餐指南）</strong></a></p>
 
 <h2>🏆 第2名 涩谷周边：银座おのでら 息子 涩谷店</h2>
 
