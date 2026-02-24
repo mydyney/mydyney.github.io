@@ -926,10 +926,7 @@ Here's our honest 2026 ranking with the truth behind Google and Tabelog ratings.
 
 ## Related Tokyo Travel Guides
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915974358
-     Hugo: /posts/[SLUG_TBD]/ -->
-<p>👉 <strong>Tokyo Conveyor Belt Sushi: Tabelog TOP 10</strong> — Compare beyond Shibuya across all of Tokyo</p>
+<p>👉 <a href="/posts/tokyo-conveyor-belt-sushi-tabelog-top10/" style="color: #667eea;"><strong>Tokyo Conveyor Belt Sushi: Tabelog TOP 10</strong></a> — Compare beyond Shibuya across all of Tokyo</p>
 
 <p>👉 <a href="/posts/shibuya-sushi-no-midori-lunch-guide/" style="color: #667eea;"><strong>Shibuya Sushi no Midori</strong></a> — Budget-friendly lunch & wait-time tips (another option)</p>
 

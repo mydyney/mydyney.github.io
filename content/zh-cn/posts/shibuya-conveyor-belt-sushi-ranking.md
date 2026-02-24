@@ -926,10 +926,7 @@ Google和食べログ评分背后的真相 + 2026最新排名，全在这里。<
 
 ## 📚 相关东京旅行攻略
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915974358
-     Hugo: /zh-cn/posts/[SLUG_TBD]/ -->
-<p>👉 <strong>东京回转寿司食べログ TOP 10</strong> — 跳出涩谷，看看全东京的排名</p>
+<p>👉 <a href="/zh-cn/posts/tokyo-conveyor-belt-sushi-tabelog-top10/" style="color: #667eea;"><strong>东京回转寿司食べログ TOP 10</strong></a> — 跳出涩谷，看看全东京的排名</p>
 
 <p>👉 <a href="/zh-cn/posts/shibuya-sushi-no-midori-lunch-guide/" style="color: #667eea;"><strong>涩谷美登利寿司</strong></a> — 午餐高性价比攻略 & 等位技巧（另一个好选择）</p>
 

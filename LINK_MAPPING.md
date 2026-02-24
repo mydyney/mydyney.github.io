@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 172 posts migrated, 52 pending (224 total mapped)
+> **Status:** ⏳ In Progress - 173 posts migrated, 51 pending (224 total mapped)
 
 ---
 
@@ -198,7 +198,7 @@ When migrating a Naver blog post to Hugo:
 | 223968462793 | azabudai-hills-commen-bakery-review | - | pending |
 | 223958175295 | azabudai-hills-summer-festival-review | - | pending |
 | 223957316412 | tsurutontan-roppongi-udon-guide | - | pending |
-| 223915974358 | tokyo-conveyor-belt-sushi-tabelog-top10 | - | pending |
+| 223915974358 | tokyo-conveyor-belt-sushi-tabelog-top10 | 2026-02-24 | ✅ |
 | 223915389552 | azabudai-hills-series-chinese-restaurant | - | pending |
 | 223915132048 | shimbashi-tonkatsu-horiichi | - | pending |
 | 223913424029 | iruca-tokyo-roppongi-ramen-guide | - | pending |

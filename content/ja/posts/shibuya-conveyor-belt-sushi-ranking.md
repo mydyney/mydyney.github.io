@@ -926,10 +926,7 @@ Googleとタベログの評価の裏側もふまえた、2026年版正直ラン�
 
 ## 関連する東京旅行ガイド
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915974358
-     Hugo: /ja/posts/[SLUG_TBD]/ -->
-<p>👉 <strong>東京 回転寿司 タベログ TOP10</strong> — 渋谷を超えて東京全域で比較</p>
+<p>👉 <a href="/ja/posts/tokyo-conveyor-belt-sushi-tabelog-top10/" style="color: #667eea;"><strong>東京 回転寿司 タベログ TOP10</strong></a> — 渋谷を超えて東京全域で比較</p>
 
 <p>👉 <a href="/ja/posts/shibuya-sushi-no-midori-lunch-guide/" style="color: #667eea;"><strong>渋谷 すしの美登利</strong></a> — お得ランチ＆待ち時間の攻略法（別の選択肢）</p>
 
