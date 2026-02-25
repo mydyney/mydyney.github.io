@@ -348,6 +348,8 @@ When a large image group (e.g., 6 images in col-2 = 3 rows) contains a natural v
 - ❌ NEVER use `<a href="#">` — broken links hurt AdSense review and user experience
 - ❌ NEVER use only an invisible HTML comment — readers will see nothing
 - ✅ Show the link text as plain styled text and keep the TODO comment for `grep TODO` tracking
+- ✅ **ALWAYS place the TODO comment BEFORE the text** — consistent placement ensures `grep` catches all TODOs during conversion
+- ✅ **ALWAYS include `Naver:` line with the full Naver URL** — this is the primary search key used during TODO conversion
 ```html
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/[POST_ID]
@@ -603,7 +605,37 @@ ZH-CN: http://localhost:1313/zh-cn/posts/[slug]/
 
 After user confirms:
 
-### 7.1 Update LINK_MAPPING.md
+### 7.1 Convert TODO Links in Other Posts
+
+After migration, search for TODO references to the newly migrated Naver ID across ALL existing posts and convert them to real links.
+
+**Search command** (must catch all TODO comment formats):
+```bash
+grep -rn "[NAVER_ID]" content/ --include="*.md" | grep -v "[slug].md"
+```
+
+**⚠️ CRITICAL: Multiple-of-3 validation**
+Since every post exists in 3 languages (EN/JA/ZH-CN), the total TODO conversion count MUST be a multiple of 3. If it's not:
+- **STOP and alert the user**: "Found [N] TODO references — not a multiple of 3. Some language versions may be missing the link. Please check."
+- Investigate which language versions are missing the reference
+- The root cause is usually a previous migration that only added the link in one or two languages
+
+**TODO comment format varies** — search broadly by Naver ID, not just by `TODO:` keyword. Some posts place the TODO comment before the text, others after. Examples of patterns to catch:
+```
+<!-- TODO: Update link after migration
+     Naver: https://blog.naver.com/tokyomate/[ID]
+     Hugo: /posts/[slug]/ -->
+<p><strong>👉 [Text]</strong></p>
+```
+```
+<p>👉 <strong>[Text]</strong></p>
+<!-- TODO: Update link after migration
+     Hugo: /ja/posts/[slug]/ -->
+```
+
+Convert all matches to real `<a>` links with correct language prefix.
+
+### 7.2 Update LINK_MAPPING.md
 
 - Change status from `pending` to `✅`
 - Set date to today's date (YYYY-MM-DD)
@@ -626,7 +658,7 @@ Then update these fields in the `## Statistics` section:
 Also update the header line:
 - `> **Status:**` → `⏳ In Progress - $MIGRATED posts migrated, $PENDING_QR pending ($TOTAL_QR total mapped)`
 
-### 7.2 Commit
+### 7.3 Commit
 
 ```bash
 git add content/en/posts/[slug].md content/ja/posts/[slug].md content/zh-cn/posts/[slug].md static/images/posts/[slug]-* LINK_MAPPING.md
