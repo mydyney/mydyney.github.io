@@ -268,9 +268,7 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
     <li><strong>特点</strong>：虽然店内看不到景色，但饭后直接走到<strong>7楼露台</strong>，就能欣赏到东京站的最佳景色。</li>
 </ul>
 
-<p>👉 <strong>东京站夜景与晚餐。新丸之内大厦“丸之内HOUSE”开放露台</strong></p>
-<!-- TODO: Update link after migration
-     Hugo: /zh-cn/posts/shin-marunouchi-building-terrace-dinner/ -->
+<p><a href=”/zh-cn/posts/shin-marunouchi-building-terrace-dinner/” style=”color: #667eea;”>👉 <strong>东京站夜景与晚餐。新丸之内大厦”丸之内HOUSE”开放露台</strong></a></p>
 
 <!-- Image 15: Terrace View -->
 <figure>

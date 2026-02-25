@@ -268,9 +268,7 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
     <li><strong>特徴</strong>：店内から景色は見えませんが、食後すぐに直結する<strong>7階テラス</strong>に出れば、東京駅の最高の景色を楽しめます。</li>
 </ul>
 
-<p>👉 <strong>東京駅の夜景とディナーを。新丸ビル「丸の内ハウス」オープンテラス</strong></p>
-<!-- TODO: Update link after migration
-     Hugo: /ja/posts/shin-marunouchi-building-terrace-dinner/ -->
+<p><a href="/ja/posts/shin-marunouchi-building-terrace-dinner/" style="color: #667eea;">👉 <strong>東京駅の夜景とディナーを。新丸ビル「丸の内ハウス」オープンテラス</strong></a></p>
 
 <!-- Image 15: Terrace View -->
 <figure>
