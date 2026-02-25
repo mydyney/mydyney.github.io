@@ -275,10 +275,7 @@ A: 很遗憾，治一郎KITTE店不是免税对象店铺（根据KITTE官方信�
 
 <p>👉 <a href="/zh-cn/posts/tokyo-station-nemuro-hanamaru-sushi-guide/" style="color: #667eea;"><strong>根室花丸 KITTE丸之内店：完全攻略（等候时间与点餐指南）</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681848151
-     Hugo: /posts/[SLUG_TBD]/ -->
-东京站KITTE免费展望台及铁道迷必去路线（夜景景点）
+<p>👉 <a href="/zh-cn/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea;"><strong>东京站KITTE免费展望台及铁道迷必去路线</strong></a></p>
 
 ---
 

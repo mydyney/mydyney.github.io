@@ -106,10 +106,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 
 <p><strong>3️⃣ Tokyo Station & Marunouchi Indoor Route (Downtown Stay)</strong></p>
 <p>KITTE and the Marunouchi Building are well connected internally. Pair them with the underground malls for an observatory cafe and night view, all while staying dry.</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681848151
-     Hugo: /posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p><strong>👉 Tokyo Station KITTE Free Observatory & Train View Spot</strong></p>
+<p><a href="/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea;"><strong>👉 Tokyo Station KITTE Free Observatory & Train View Spot</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675952285
      Hugo: /posts/marunouchi-building-free-observatory/ -->

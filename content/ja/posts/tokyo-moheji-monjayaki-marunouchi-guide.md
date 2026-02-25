@@ -336,10 +336,7 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
 <p><strong>2️⃣ 東京駅周辺 その他のグルメ＆スポット</strong></p>
 <p>もんじゃ焼き以外のメニューで迷っている、またはもっと涼しい景色をお探しですか？</p>
 <p>👉 <a href="/ja/posts/tokyo-ramen-street-best-8/" style="color: #667eea; text-decoration: underline;"><strong>東京ラーメンストリート全店舗ガイド｜ソラノイロ・六厘舎含むマップ</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681848151
-     Hugo: /ja/posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p>👉 <strong>東京駅 KITTE（キッテ）無料展望台と行き方、電車マニア必見コース</strong></p>
+<p>👉 <a href="/ja/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea; text-decoration: underline;"><strong>東京駅 KITTE（キッテ）無料展望台と行き方、電車マニア必見コース</strong></a></p>
 <p>👉 <a href="/ja/posts/marunouchi-illumination-2025/" style="color: #667eea; text-decoration: underline;"><strong>東京 丸の内イルミネーション 2025-2026 期間・時間まとめ</strong></a></p>
 </div>
 

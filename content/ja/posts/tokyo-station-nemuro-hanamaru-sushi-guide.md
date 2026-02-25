@@ -334,8 +334,7 @@ No88. うなぎ（550円）<br>
 
 <h2>📚 待ち時間にKITTEでできること</h2>
 
-<!-- TODO: Related article - 223681848151 (kitte-marunouchi-christmas-tree-observatory) - pending migration -->
-<p>👉 <strong>KITTE丸の内 クリスマスツリー＆無料展望台</strong> — 待ち時間を有効に使えるおすすめスポット</p>
+<p>👉 <a href="/ja/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea;"><strong>KITTE丸の内 クリスマスツリー＆無料展望台</strong></a> — 待ち時間を有効に使えるおすすめスポット</p>
 
 <p>👉 <a href="/ja/posts/tokyo-station-kantaro-ichibangai-sushi/" style="color: #667eea;">東京駅地下 かんたろう立ち食い寿司</a> — 待ち時間が長すぎる場合の代替案</p>
 

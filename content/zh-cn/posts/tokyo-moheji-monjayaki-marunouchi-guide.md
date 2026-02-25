@@ -336,10 +336,7 @@ translationKey: "tokyo-moheji-monjayaki-marunouchi-guide"
 <p><strong>2️⃣ 东京站周边 其他美食与景点</strong></p>
 <p>除了文字烧还在纠结吃什么，或者想找更凉爽的景色？</p>
 <p>👉 <a href="/zh-cn/posts/tokyo-ramen-street-best-8/" style="color: #667eea; text-decoration: underline;"><strong>东京拉面街全店铺指南｜含Soranoiro、六厘舍地图</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681848151
-     Hugo: /zh-cn/posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p>👉 <strong>东京站 KITTE（凯迪）免费展望台与交通方式，电车迷必看路线</strong></p>
+<p>👉 <a href="/zh-cn/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea; text-decoration: underline;"><strong>东京站 KITTE（凯迪）免费展望台与交通方式，电车迷必看路线</strong></a></p>
 <p>👉 <a href="/zh-cn/posts/marunouchi-illumination-2025/" style="color: #667eea; text-decoration: underline;"><strong>东京 丸之内彩灯 2025-2026 期间与时间汇总</strong></a></p>
 </div>
 

@@ -334,8 +334,7 @@ No88. 鳗鱼（550日元）<br>
 
 <h2>📚 等位期间KITTE周边好去处</h2>
 
-<!-- TODO: Related article - 223681848151 (kitte-marunouchi-christmas-tree-observatory) - pending migration -->
-<p>👉 <strong>KITTE丸之内圣诞树与免费展望台</strong> —— 等位时打发时间的好去处</p>
+<p>👉 <a href="/zh-cn/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea;"><strong>KITTE丸之内圣诞树与免费展望台</strong></a> —— 等位时打发时间的好去处</p>
 
 <p>👉 <a href="/zh-cn/posts/tokyo-station-kantaro-ichibangai-sushi/" style="color: #667eea;"><strong>东京站地下甘太郎立食寿司</strong></a> —— 等不及的话，这是快速替代方案</p>
 

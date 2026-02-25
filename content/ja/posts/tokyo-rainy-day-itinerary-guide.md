@@ -106,10 +106,7 @@ translationKey: "tokyo-rainy-day-itinerary-guide"
 
 <p><strong>3️⃣ 東京駅・丸の内 室内ルート（都心滞在型）</strong></p>
 <p>KITTEと丸ビルは内部動線がよく繋がっています。地下街と組み合わせれば、展望台カフェや夜景を雨に濡れずに楽しめます。</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681848151
-     Hugo: /ja/posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p><strong>👉 東京駅 KITTE 無料展望台＆電車ビュースポット</strong></p>
+<p><a href="/ja/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea;"><strong>👉 東京駅 KITTE 無料展望台＆電車ビュースポット</strong></a></p>
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223675952285
      Hugo: /ja/posts/marunouchi-building-free-observatory/ -->

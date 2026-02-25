@@ -334,8 +334,7 @@ Seasonal Special: Yellowtail / Buri (550 yen)</p>
 
 <h2>📚 What to Do While Waiting at KITTE</h2>
 
-<!-- TODO: Related article - 223681848151 (kitte-marunouchi-christmas-tree-observatory) - pending migration -->
-<p>👉 <strong>KITTE Marunouchi Christmas Tree & Free Observatory</strong> — Great way to kill time while waiting</p>
+<p>👉 <a href="/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea;"><strong>KITTE Marunouchi Christmas Tree & Free Observatory</strong></a> — Great way to kill time while waiting</p>
 
 <p>👉 <a href="/posts/tokyo-station-kantaro-ichibangai-sushi/" style="color: #667eea;"><strong>Kantaro Standing Sushi at Tokyo Station Underground</strong></a> — Quick alternative if the wait is too long</p>
 

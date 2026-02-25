@@ -340,10 +340,7 @@ The menu is split into <strong>TRADIZIONE (Tradition)</strong> and <strong>INNOV
 <p><strong>2️⃣ Other Gourmet & Attractions near Tokyo Station</strong></p>
 <p>If you are worried about a menu other than Monjayaki, or looking for a cooler view?</p>
 <p>👉 <a href="/posts/tokyo-ramen-street-best-8/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Station Ramen Street All Stores Guide | Map including Soranoiro / Rokurinsha</strong></a></p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223681848151
-     Hugo: /posts/kitte-marunouchi-christmas-tree-observatory/ -->
-<p>👉 <strong>Tokyo Station KITTE Christmas Tree and Free Observatory, Train Mania Essential Course</strong></p>
+<p>👉 <a href="/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Station KITTE Christmas Tree and Free Observatory, Train Mania Essential Course</strong></a></p>
 <p>👉 <a href="/posts/marunouchi-illumination-2025/" style="color: #667eea; text-decoration: underline;"><strong>Tokyo Marunouchi Illumination 2025-2026 Period & Time Summary</strong></a></p>
 </div>
 
