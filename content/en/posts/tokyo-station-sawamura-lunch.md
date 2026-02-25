@@ -194,8 +194,7 @@ If you want a meal near Tokyo Station with no regrets, definitely try the [Spare
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224031611221 -->
 <strong>➡️ Tokyo Station Attractions: Character Street, Restaurants, Night Views, Luggage Storage</strong>
 
-<!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223675952285 -->
-<strong>➡️ Marunouchi Building Free Observatory Sunset View</strong>
+<p><a href="/posts/marunouchi-building-free-observatory/" style="color: #667eea;"><strong>➡️ Marunouchi Building Free Observatory Sunset View</strong></a></p>
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223685676173 -->
 <strong>➡️ Wadakura Fountain Park Starbucks Review (Night View)</strong>

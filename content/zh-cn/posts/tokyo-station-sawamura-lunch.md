@@ -194,8 +194,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224031611221 -->
 <strong>➡️ 东京站玩乐，从角色街到美食、夜景、行李寄存总攻略</strong>
 
-<!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223675952285 -->
-<strong>➡️ 丸大楼免费展望台日落美景</strong>
+<p><a href="/zh-cn/posts/marunouchi-building-free-observatory/" style="color: #667eea;"><strong>➡️ 丸大楼免费展望台日落美景</strong></a></p>
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223685676173 -->
 <strong>➡️ 和田仓喷泉公园星巴克评测（夜景）</strong>

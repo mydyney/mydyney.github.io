@@ -194,8 +194,7 @@ featured_image: "/images/posts/tokyo-station-sawamura-lunch-01.jpg"
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/224031611221 -->
 <strong>➡️ 東京駅遊び場、キャラクターストリートからグルメ、夜景、荷物保管コインロッカー総まとめ</strong>
 
-<!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223675952285 -->
-<strong>➡️ 丸ビル無料展望台サンセットビュー</strong>
+<p><a href="/ja/posts/marunouchi-building-free-observatory/" style="color: #667eea;"><strong>➡️ 丸ビル無料展望台サンセットビュー</strong></a></p>
 
 <!-- TODO: Add link when migrated - Original: https://blog.naver.com/tokyomate/223685676173 -->
 <strong>➡️ 和田倉噴水公園スターバックスレビュー（夜景）</strong>

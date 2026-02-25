@@ -250,10 +250,7 @@ translationKey: "kitte-marunouchi-christmas-tree-observatory"
 
 <p><strong>东京站周边其他展望台</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223675952285
-     Hugo: /zh-cn/posts/marunouchi-building-free-observatory/ -->
-<p><strong>● 丸之内大厦免费展望台: 东京站最佳日落观赏点</strong></p>
+<p><a href="/zh-cn/posts/marunouchi-building-free-observatory/" style="color: #667eea;"><strong>● 丸之内大厦免费展望台: 东京站最佳日落观赏点</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223684908680
