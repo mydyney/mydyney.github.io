@@ -252,10 +252,7 @@ translationKey: "kitte-marunouchi-christmas-tree-observatory"
 
 <p><a href="/ja/posts/marunouchi-building-free-observatory/" style="color: #667eea;"><strong>● 丸ビル無料展望台：東京駅の夕日スポット</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223684908680
-     Hugo: /ja/posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><strong>● 新丸ビルオープンテラス：東京駅夜景ディナー</strong></p>
+<p><a href="/ja/posts/shin-marunouchi-building-terrace-dinner/" style="color: #667eea;"><strong>● 新丸ビルオープンテラス：東京駅夜景ディナー</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

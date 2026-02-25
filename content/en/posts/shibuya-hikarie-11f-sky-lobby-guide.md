@@ -304,10 +304,7 @@ translationKey: "shibuya-hikarie-11f-sky-lobby-guide"
 
 <p><strong>2. Tokyo Station — Shin-Marunouchi Building House Terrace</strong></p>
 <p>The best free rooftop spot for viewing the iconic Tokyo Station plaza at night. A stunning nightscape where skyscrapers and illumination come together.</p>
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223684908680
-     Hugo: /posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><strong>👉 Shin-Marunouchi Building Free Observation Terrace & Night View Guide</strong></p>
+<p><a href="/posts/shin-marunouchi-building-terrace-dinner/" style="color: #667eea;"><strong>👉 Shin-Marunouchi Building Free Observation Terrace & Night View Guide</strong></a></p>
 
 <p><strong>3. Ginza Six Rooftop Garden</strong></p>
 <p>A free rooftop garden in the heart of Ginza. The sophisticated atmosphere makes it a lovely strolling spot as well as a free observation point.</p>

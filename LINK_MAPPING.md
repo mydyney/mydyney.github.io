@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 176 posts migrated, 48 pending (224 total mapped)
+> **Status:** ⏳ In Progress - 177 posts migrated, 47 pending (224 total mapped)
 
 ---
 
@@ -225,7 +225,7 @@ When migrating a Naver blog post to Hugo:
 | 223689247336 | miyashita-park-illumination-2024 | 2025-12-31 | ✅ |
 | 223687520605 | roppongi-azabujuban-summer-festivals | - | pending |
 | 223685676173 | wadakura-fountain-park-starbucks-review | - | pending |
-| 223684908680 | shin-marunouchi-building-terrace-dinner | - | pending |
+| 223684908680 | shin-marunouchi-building-terrace-dinner | 2026-02-25 | ✅ |
 | 223681848151 | kitte-marunouchi-christmas-tree-observatory | 2026-02-25 | ✅ |
 | 223681272647 | roppongi-hills-access-coin-locker-guide | - | pending |
 | 223680263119 | tokyo-station-nemuro-hanamaru-sushi-guide | 2024-12-02 | ✅ |
@@ -322,12 +322,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 176
+- **Total Posts Migrated:** 177
 - **Naver IDs Tracked:** 224
-- **Pending References:** 62
+- **Pending References:** 49
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-25 (Marunouchi Building Free Observatory)
+- **Last Migration Date:** 2026-02-25 (Shin-Marunouchi Building Terrace Dinner)
 
 ---
 

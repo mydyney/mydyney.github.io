@@ -217,10 +217,7 @@ translationKey: "marunouchi-building-free-observatory"
 
 <p><a href="/ja/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea;"><strong>👉 KITTE丸の内 無料展望台：鉄道ファン必見のスポット</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223684908680
-     Hugo: /ja/posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><strong>👉 新丸の内ビル：東京駅夜景を見ながらディナー</strong></p>
+<p><a href="/ja/posts/shin-marunouchi-building-terrace-dinner/" style="color: #667eea;"><strong>👉 新丸の内ビル：東京駅夜景を見ながらディナー</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

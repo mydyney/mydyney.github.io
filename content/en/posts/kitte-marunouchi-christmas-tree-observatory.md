@@ -252,10 +252,7 @@ translationKey: "kitte-marunouchi-christmas-tree-observatory"
 
 <p><a href="/posts/marunouchi-building-free-observatory/" style="color: #667eea;"><strong>● Marunouchi Building Free Observatory: Best Sunset Spot Near Tokyo Station</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223684908680
-     Hugo: /posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><strong>● Shin-Marunouchi Building Open Terrace: Dinner with a Night View of Tokyo Station</strong></p>
+<p><a href="/posts/shin-marunouchi-building-terrace-dinner/" style="color: #667eea;"><strong>● Shin-Marunouchi Building Open Terrace: Dinner with a Night View of Tokyo Station</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

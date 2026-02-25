@@ -271,10 +271,7 @@ The menu is split into <strong>TRADIZIONE (Tradition)</strong> and <strong>INNOV
     <li><strong>Feature</strong>: Although the view is not visible from inside the store, you can enjoy the best view of Tokyo Station from the <strong>7th floor terrace</strong> connected immediately after the meal.</li>
 </ul>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223684908680
-     Hugo: /posts/shin-marunouchi-building-terrace-dinner/ -->
-<p>👉 <strong>Dinner with Tokyo Station Night View, Shin-Marunouchi Building House Open Terrace</strong></p>
+<p><a href="/posts/shin-marunouchi-building-terrace-dinner/" style="color: #667eea;">👉 <strong>Dinner with Tokyo Station Night View, Shin-Marunouchi Building House Open Terrace</strong></a></p>
 
 <!-- Image 15: Terrace View -->
 <figure>

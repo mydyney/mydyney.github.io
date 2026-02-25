@@ -217,10 +217,7 @@ translationKey: "marunouchi-building-free-observatory"
 
 <p><a href="/posts/kitte-marunouchi-christmas-tree-observatory/" style="color: #667eea;"><strong>👉 KITTE Marunouchi Free Observatory: A Must for Train Fans</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223684908680
-     Hugo: /posts/shin-marunouchi-building-terrace-dinner/ -->
-<p><strong>👉 Shin-Marunouchi Building: Dinner with Tokyo Station Night View</strong></p>
+<p><a href="/posts/shin-marunouchi-building-terrace-dinner/" style="color: #667eea;"><strong>👉 Shin-Marunouchi Building: Dinner with Tokyo Station Night View</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
