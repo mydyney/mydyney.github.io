@@ -422,10 +422,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><a href="/ja/posts/imakatsu-roppongi-tonkatsu-guide/" style="color: #667eea;"><strong>👉 いまかつ 六本木本店｜東京とんかつ名店 待ち時間・予約のコツ</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915132048
-     Hugo: /ja/posts/shimbashi-tonkatsu-horiichi/ -->
-<p><strong>👉 新橋 とんかつ 堀一｜ミシュラン掲載 黒豚とんかつの名店</strong></p>
+<p><a href="/ja/posts/shimbashi-tonkatsu-horiichi/" style="color: #667eea;"><strong>👉 新橋 とんかつ 堀一｜ミシュラン掲載 黒豚とんかつの名店</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

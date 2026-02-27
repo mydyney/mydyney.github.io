@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 180 posts migrated, 46 pending (226 total mapped)
+> **Status:** ⏳ In Progress - 181 posts migrated, 45 pending (226 total mapped)
 
 ---
 
@@ -202,7 +202,7 @@ When migrating a Naver blog post to Hugo:
 | 223957316412 | tsurutontan-roppongi-udon-guide | - | pending |
 | 223915974358 | tokyo-conveyor-belt-sushi-tabelog-top10 | 2026-02-24 | ✅ |
 | 223915389552 | azabudai-hills-series-chinese-restaurant | - | pending |
-| 223915132048 | shimbashi-tonkatsu-horiichi | - | pending |
+| 223915132048 | shimbashi-tonkatsu-horiichi | 2026-02-27 | ✅ |
 | 223913424029 | iruca-tokyo-roppongi-ramen-guide | - | pending |
 | 223912913938 | pain-maison-ginza-salt-bread | - | pending |
 | 223716380927 | azabudai-hills-sky-room-cafe-guide | - | pending |
@@ -324,12 +324,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 180
+- **Total Posts Migrated:** 181
 - **Naver IDs Tracked:** 226
 - **Pending References:** 62
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-27 (Imakatsu Roppongi Tonkatsu Guide)
+- **Last Migration Date:** 2026-02-27 (Shimbashi Tonkatsu Horiichi)
 
 ---
 

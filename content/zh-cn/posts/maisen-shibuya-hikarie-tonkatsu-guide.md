@@ -422,10 +422,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><a href="/zh-cn/posts/imakatsu-roppongi-tonkatsu-guide/" style="color: #667eea;"><strong>👉 Imakatsu(いまかつ)六本木本店：东京炸猪排名店 排队&预约攻略</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915132048
-     Hugo: /zh-cn/posts/shimbashi-tonkatsu-horiichi/ -->
-<p><strong>👉 新桥炸猪排Horiichi(堀一)：米其林推荐黑猪炸猪排名店</strong></p>
+<p><a href="/zh-cn/posts/shimbashi-tonkatsu-horiichi/" style="color: #667eea;"><strong>👉 新桥炸猪排Horiichi(堀一)：米其林推荐黑猪炸猪排名店</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

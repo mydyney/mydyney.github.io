@@ -422,10 +422,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><a href="/posts/imakatsu-roppongi-tonkatsu-guide/" style="color: #667eea;"><strong>👉 Imakatsu Roppongi: Tokyo's Best Tonkatsu — Wait Times & Reservation Tips</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223915132048
-     Hugo: /posts/shimbashi-tonkatsu-horiichi/ -->
-<p><strong>👉 Shimbashi Tonkatsu Horiichi: Michelin-Recognized Kurobuta Black Pork Tonkatsu</strong></p>
+<p><a href="/posts/shimbashi-tonkatsu-horiichi/" style="color: #667eea;"><strong>👉 Shimbashi Tonkatsu Horiichi: Michelin-Recognized Kurobuta Black Pork Tonkatsu</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>
