@@ -343,7 +343,7 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 - 場所：東京ミッドタウンから徒歩3分
 - 特徴：ミシュラン・ビブグルマンに選出されたこともあるとんかつ屋さん
 
-➡️ [イマカツ 六本木本店：東京とんかつ店 待ち時間と予約のコツ](https://blog.naver.com/tokyomate/223985958480)
+➡️ [イマカツ 六本木本店：東京とんかつ店 待ち時間と予約のコツ](/ja/posts/imakatsu-roppongi-tonkatsu-guide/)
 
 <strong>⑥ 入鹿TOKYO 六本木 (Iruca Tokyo)</strong>
 - 場所：東京ミッドタウンから徒歩2分

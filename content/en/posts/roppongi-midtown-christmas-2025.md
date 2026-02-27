@@ -343,7 +343,7 @@ Tokyo Midtown restaurants and Tokyo Midtown shopping are also must-visit courses
 - Location: 3-minute walk from Tokyo Midtown
 - Feature: Tonkatsu restaurant selected for Michelin Bib Gourmand
 
-➡️ [Imakatsu Roppongi Main Branch: Tokyo Tonkatsu Restaurant Wait & Reservation Tips](https://blog.naver.com/tokyomate/223985958480)
+➡️ [Imakatsu Roppongi Main Branch: Tokyo Tonkatsu Restaurant Wait & Reservation Tips](/posts/imakatsu-roppongi-tonkatsu-guide/)
 
 <strong>⑥ Iruca Tokyo Roppongi (入鹿TOKYO)</strong>
 - Location: 2-minute walk from Tokyo Midtown

@@ -420,10 +420,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><strong>🍛 東京とんかつ名店をもっと見る</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223985958480
-     Hugo: /ja/posts/imakatsu-roppongi-tonkatsu-guide/ -->
-<p><strong>👉 いまかつ 六本木本店｜東京とんかつ名店 待ち時間・予約のコツ</strong></p>
+<p><a href="/ja/posts/imakatsu-roppongi-tonkatsu-guide/" style="color: #667eea;"><strong>👉 いまかつ 六本木本店｜東京とんかつ名店 待ち時間・予約のコツ</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223915132048

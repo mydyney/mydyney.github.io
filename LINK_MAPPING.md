@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 179 posts migrated, 47 pending (226 total mapped)
+> **Status:** ⏳ In Progress - 180 posts migrated, 46 pending (226 total mapped)
 
 ---
 
@@ -194,7 +194,7 @@ When migrating a Naver blog post to Hugo:
 | 223987954990 | roppongi-hills-observatory-guide | 2026-02-15 | ✅ |
 | 223987115708 | iruka-tokyo-roppongi-michelin-ramen-guide | 2026-02-21 | ✅ |
 | 223986407872 | tsujihan-midtown-kaisendon-guide | - | pending |
-| 223985958480 | imakatsu-roppongi-tonkatsu-guide | - | pending |
+| 223985958480 | imakatsu-roppongi-tonkatsu-guide | 2026-02-27 | ✅ |
 | 223980220327 | tokyo-august-festivals-sumida-river | - | pending |
 | 223980166231 | harajuku-super-yosakoi-festival-guide | - | pending |
 | 223968462793 | azabudai-hills-commen-bakery-review | - | pending |
@@ -324,12 +324,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 179
+- **Total Posts Migrated:** 180
 - **Naver IDs Tracked:** 226
 - **Pending References:** 62
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-27 (TsuruTonTan Shibuya Udon Scramble Square Guide)
+- **Last Migration Date:** 2026-02-27 (Imakatsu Roppongi Tonkatsu Guide)
 
 ---
 

@@ -420,10 +420,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><strong>🍛 More Tokyo Tonkatsu Restaurants</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223985958480
-     Hugo: /posts/imakatsu-roppongi-tonkatsu-guide/ -->
-<p><strong>👉 Imakatsu Roppongi: Tokyo's Best Tonkatsu — Wait Times & Reservation Tips</strong></p>
+<p><a href="/posts/imakatsu-roppongi-tonkatsu-guide/" style="color: #667eea;"><strong>👉 Imakatsu Roppongi: Tokyo's Best Tonkatsu — Wait Times & Reservation Tips</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223915132048

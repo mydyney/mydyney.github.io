@@ -420,10 +420,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><strong>🍛 更多东京炸猪排名店</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223985958480
-     Hugo: /zh-cn/posts/imakatsu-roppongi-tonkatsu-guide/ -->
-<p><strong>👉 Imakatsu(いまかつ)六本木本店：东京炸猪排名店 排队&预约攻略</strong></p>
+<p><a href="/zh-cn/posts/imakatsu-roppongi-tonkatsu-guide/" style="color: #667eea;"><strong>👉 Imakatsu(いまかつ)六本木本店：东京炸猪排名店 排队&预约攻略</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223915132048

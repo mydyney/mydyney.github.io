@@ -343,7 +343,7 @@ featured_image: "/images/posts/roppongi-midtown-christmas-2025-01.jpg"
 - 地点：距离东京中城步行3分
 - 特点：曾入选米其林必比登推介的炸猪排店
 
-➡️ [Imakatsu 六本木总店：东京炸猪排店等待和预约心得](https://blog.naver.com/tokyomate/223985958480)
+➡️ [Imakatsu 六本木总店：东京炸猪排店等待和预约心得](/zh-cn/posts/imakatsu-roppongi-tonkatsu-guide/)
 
 <strong>⑥ 入鹿TOKYO 六本木 (Iruca Tokyo)</strong>
 - 地点：距离东京中城步行2分
