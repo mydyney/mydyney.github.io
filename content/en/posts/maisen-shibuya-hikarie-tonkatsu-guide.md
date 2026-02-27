@@ -402,10 +402,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><strong>🍽️ Shibuya Restaurants</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224172316181
-     Hugo: /posts/shibuya-tsurutontan-udon-scramble-square-guide/ -->
-<p><strong>👉 Shibuya Tsurutontan: Reservation Tips, Best Menu Picks & Noodle Add-On Tricks (Scramble Square)</strong></p>
+<p><a href="/posts/shibuya-tsurutontan-udon-scramble-square-guide/" style="color: #667eea;"><strong>👉 Shibuya Tsurutontan: Reservation Tips, Best Menu Picks & Noodle Add-On Tricks (Scramble Square)</strong></a></p>
 
 <p><a href="/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;"><strong>👉 Shibuya Ikushika: Unlimited Fresh Rice Refills — Japanese Home Cooking at PARCO B1F</strong></a></p>
 

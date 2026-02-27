@@ -402,10 +402,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><strong>🍽️ 涩谷美食</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224172316181
-     Hugo: /zh-cn/posts/shibuya-tsurutontan-udon-scramble-square-guide/ -->
-<p><strong>👉 涩谷Tsurutontan乌冬面：预约攻略、推荐菜单、加面技巧(Scramble Square)</strong></p>
+<p><a href="/zh-cn/posts/shibuya-tsurutontan-udon-scramble-square-guide/" style="color: #667eea;"><strong>👉 涩谷Tsurutontan乌冬面：预约攻略、推荐菜单、加面技巧(Scramble Square)</strong></a></p>
 
 <p><a href="/zh-cn/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;"><strong>👉 涩谷Ikushika：现煮锅饭无限续加的日式家常定食(PARCO B1F)</strong></a></p>
 

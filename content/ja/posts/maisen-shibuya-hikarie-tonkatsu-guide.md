@@ -402,10 +402,7 @@ translationKey: "maisen-shibuya-hikarie-tonkatsu-guide"
 
 <p><strong>🍽️ 渋谷グルメ</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224172316181
-     Hugo: /ja/posts/shibuya-tsurutontan-udon-scramble-square-guide/ -->
-<p><strong>👉 渋谷 つるとんたん 予約・メニューおすすめ｜オープンラン・待ち時間・麺追加の裏技（スクランブルスクエア）</strong></p>
+<p><a href="/ja/posts/shibuya-tsurutontan-udon-scramble-square-guide/" style="color: #667eea;"><strong>👉 渋谷 つるとんたん 予約・メニューおすすめ｜オープンラン・待ち時間・麺追加の裏技（スクランブルスクエア）</strong></a></p>
 
 <p><a href="/ja/posts/shibuya-ikushika-rice-refill-restaurant/" style="color: #667eea;"><strong>👉 渋谷 いくしか — 炊きたて釜飯おかわり自由の和定食（パルコB1F）</strong></a></p>
 

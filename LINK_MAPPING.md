@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 178 posts migrated, 48 pending (226 total mapped)
+> **Status:** ⏳ In Progress - 179 posts migrated, 47 pending (226 total mapped)
 
 ---
 
@@ -20,7 +20,7 @@ When migrating a Naver blog post to Hugo:
 | Naver ID | Hugo Slug (EN/JA/ZH-CN) | Date | Status |
 |----------|-------------------|------|--------|
 | 224197639717 | maisen-shibuya-hikarie-tonkatsu-guide | 2026-02-27 | ✅ |
-| 224172316181 | shibuya-tsurutontan-udon-scramble-square-guide | - | pending |
+| 224172316181 | shibuya-tsurutontan-udon-scramble-square-guide | 2026-02-27 | ✅ |
 | 224194466616 | shibuya-conveyor-belt-sushi-ranking | 2026-02-24 | ✅ |
 | 224187041918 | tokyo-cherry-blossom-top-10-spots | 2026-02-18 | ✅ |
 | 224180161370 | chidorigafuchi-cherry-blossom-boat-guide | 2026-02-16 | ✅ |
@@ -324,12 +324,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 178
+- **Total Posts Migrated:** 179
 - **Naver IDs Tracked:** 226
-- **Pending References:** 49
+- **Pending References:** 62
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-27 (Maisen Shibuya Hikarie Tonkatsu Guide)
+- **Last Migration Date:** 2026-02-27 (TsuruTonTan Shibuya Udon Scramble Square Guide)
 
 ---
 
