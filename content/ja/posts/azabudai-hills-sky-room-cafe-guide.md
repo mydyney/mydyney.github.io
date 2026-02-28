@@ -214,10 +214,7 @@ translationKey: "azabudai-hills-sky-room-cafe-guide"
 
 <p><a href="/ja/posts/azabudai-hills-parlor-yazawa-guide/" style="color: #667eea;">👉 <strong>麻布台ヒルズ ハンバーグの名店：パーラーヤザワ（B1階）</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /ja/posts/azabudai-hills-commen-bakery-review/ -->
-<p><strong>👉 麻布台ヒルズのベーカリー：コムン 東京、百名店パン屋（B1階）</strong></p>
+<p><a href="/ja/posts/azabudai-hills-commen-bakery-review/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台ヒルズのベーカリー：コムン 東京、百名店パン屋（B1階）</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>編集者注</strong></p>

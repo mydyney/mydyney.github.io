@@ -206,10 +206,7 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
 
 <p><strong>2. 饭后甜点 & 看点</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /zh-cn/posts/azabudai-hills-commen-bakery-review/ -->
-<p><strong>👉 麻布台Hills Commen面包店测评（买完便当顺路面包巡礼！）</strong></p>
+<p><a href="/zh-cn/posts/azabudai-hills-commen-bakery-review/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台Hills Commen面包店测评（买完便当顺路面包巡礼！）</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355

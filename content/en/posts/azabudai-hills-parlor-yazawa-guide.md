@@ -206,10 +206,7 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
 
 <p><strong>2. After Your Meal — Desserts & Sights</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /posts/azabudai-hills-commen-bakery-review/ -->
-<p><strong>👉 Azabudai Hills Commen Bakery Review (Bread Pilgrimage After Bento Pickup!)</strong></p>
+<p><a href="/posts/azabudai-hills-commen-bakery-review/" style="color: #667eea; text-decoration: underline;"><strong>👉 Azabudai Hills Commen Bakery Review (Bread Pilgrimage After Bento Pickup!)</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355

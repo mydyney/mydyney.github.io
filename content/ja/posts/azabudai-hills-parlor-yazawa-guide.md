@@ -205,10 +205,7 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
 
 <p><strong>2. 食後のデザート＆見どころ</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /ja/posts/azabudai-hills-commen-bakery-review/ -->
-<p><strong>👉 麻布台ヒルズ コムン ベーカリー レビュー（弁当ピックアップ後のパン巡礼！）</strong></p>
+<p><a href="/ja/posts/azabudai-hills-commen-bakery-review/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台ヒルズ コムン ベーカリー レビュー（弁当ピックアップ後のパン巡礼！）</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223708789355

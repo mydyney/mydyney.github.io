@@ -214,10 +214,7 @@ translationKey: "azabudai-hills-sky-room-cafe-guide"
 
 <p><a href="/zh-cn/posts/azabudai-hills-parlor-yazawa-guide/" style="color: #667eea;">👉 <strong>麻布台Hills汉堡排名店：Parlor Yazawa（B1层）</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /zh-cn/posts/azabudai-hills-commen-bakery-review/ -->
-<p><strong>👉 麻布台Hills面包店：Comme'N Tokyo 百名店面包（B1层）</strong></p>
+<p><a href="/zh-cn/posts/azabudai-hills-commen-bakery-review/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台Hills面包店：Comme'N Tokyo 百名店面包（B1层）</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>编者按</strong></p>

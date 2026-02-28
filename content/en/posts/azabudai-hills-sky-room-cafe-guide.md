@@ -214,10 +214,7 @@ translationKey: "azabudai-hills-sky-room-cafe-guide"
 
 <p><a href="/posts/azabudai-hills-parlor-yazawa-guide/" style="color: #667eea;">👉 <strong>Azabudai Hills Hamburg Steak Restaurant: Parlor Yazawa (B1F)</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223968462793
-     Hugo: /posts/azabudai-hills-commen-bakery-review/ -->
-<p><strong>👉 Azabudai Hills Bakery: Comme'N Tokyo, Top 100 Bakery (B1F)</strong></p>
+<p><a href="/posts/azabudai-hills-commen-bakery-review/" style="color: #667eea; text-decoration: underline;"><strong>👉 Azabudai Hills Bakery: Comme'N Tokyo, Top 100 Bakery (B1F)</strong></a></p>
 
 <div class="editors-note">
   <p style="text-align: left; font-style: italic;"><strong>Editor's Note</strong></p>

@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 182 posts migrated, 44 pending (226 total mapped)
+> **Status:** ⏳ In Progress - 183 posts migrated, 43 pending (226 total mapped)
 
 ---
 
@@ -197,7 +197,7 @@ When migrating a Naver blog post to Hugo:
 | 223985958480 | imakatsu-roppongi-tonkatsu-guide | 2026-02-27 | ✅ |
 | 223980220327 | tokyo-august-festivals-sumida-river | - | pending |
 | 223980166231 | harajuku-super-yosakoi-festival-guide | - | pending |
-| 223968462793 | azabudai-hills-commen-bakery-review | - | pending |
+| 223968462793 | azabudai-hills-commen-bakery-review | 2026-02-28 | ✅ |
 | 223958175295 | azabudai-hills-summer-festival-review | - | pending |
 | 223957316412 | tsurutontan-roppongi-udon-guide | - | pending |
 | 223915974358 | tokyo-conveyor-belt-sushi-tabelog-top10 | 2026-02-24 | ✅ |
@@ -324,12 +324,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 182
+- **Total Posts Migrated:** 183
 - **Naver IDs Tracked:** 226
 - **Pending References:** 62
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-28 (Azabudai Hills Sky Room Cafe Guide)
+- **Last Migration Date:** 2026-02-28 (Azabudai Hills Commen Bakery Review)
 
 ---
 
