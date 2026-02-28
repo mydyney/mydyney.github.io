@@ -216,10 +216,7 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
      Hugo: /posts/azabudai-hills-criollo-chocolate-review/ -->
 <p><strong>👉 Azabudai Hills Criollo: Souvenir Chocolate Guide</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><strong>👉 Azabudai Hills Observatory (Sky Room) 2025 Guide & Tips</strong></p>
+<p><a href="/posts/azabudai-hills-sky-room-cafe-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Azabudai Hills Observatory (Sky Room) Guide & Tips</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108

@@ -26,10 +26,7 @@ translationKey: "azabudai-hills-sky-room-sunset-view"
 
 <p>Sky Room的最新菜单、交通方式等基本信息请查看下方的<strong>展望台综合攻略</strong>。包含teamLab、美食、购物在内的麻布台之丘全程攻略请查看<strong>完全攻略</strong>。</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /zh-cn/posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><strong>👉 Sky Room展望台综合攻略（菜单与交通）</strong></p>
+<p><a href="/zh-cn/posts/azabudai-hills-sky-room-cafe-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Sky Room展望台综合攻略（菜单与交通）</strong></a></p>
 
 <p><a href="/zh-cn/posts/azabudai-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台之丘完全攻略：展望台到美食一网打尽</strong></a></p>
 

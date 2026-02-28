@@ -215,10 +215,7 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
      Hugo: /ja/posts/azabudai-hills-criollo-chocolate-review/ -->
 <p><strong>👉 麻布台ヒルズ クリオロ：お土産チョコレートガイド</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /ja/posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><strong>👉 麻布台ヒルズ展望台（スカイルーム）2025 ガイド＆攻略法</strong></p>
+<p><a href="/ja/posts/azabudai-hills-sky-room-cafe-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台ヒルズ展望台（スカイルーム）ガイド＆攻略法</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108

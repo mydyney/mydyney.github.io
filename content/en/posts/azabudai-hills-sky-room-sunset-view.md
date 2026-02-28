@@ -26,10 +26,7 @@ translationKey: "azabudai-hills-sky-room-sunset-view"
 
 <p>For the latest menu, directions, and basic info about Sky Room, check the <strong>comprehensive observatory guide</strong> below. For a full Azabudai Hills itinerary covering teamLab, restaurants, and shopping, see the <strong>complete guide</strong>.</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><strong>👉 Sky Room Observatory Complete Guide (Menu & Directions)</strong></p>
+<p><a href="/posts/azabudai-hills-sky-room-cafe-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Sky Room Observatory Complete Guide (Menu & Directions)</strong></a></p>
 
 <p><a href="/posts/azabudai-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Azabudai Hills Complete Guide: Observatory to Restaurants</strong></a></p>
 

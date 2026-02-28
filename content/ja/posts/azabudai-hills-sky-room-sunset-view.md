@@ -26,10 +26,7 @@ translationKey: "azabudai-hills-sky-room-sunset-view"
 
 <p>スカイルームの最新メニュー、行き方などの基本情報は下記の<strong>展望台総合ガイド</strong>を、チームラボやグルメ、ショッピングを含む麻布台ヒルズ全体のコースは<strong>完全ガイド</strong>をご覧ください。</p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /ja/posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><strong>👉 スカイルーム展望台総合ガイド（メニュー・行き方）</strong></p>
+<p><a href="/ja/posts/azabudai-hills-sky-room-cafe-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 スカイルーム展望台総合ガイド（メニュー・行き方）</strong></a></p>
 
 <p><a href="/ja/posts/azabudai-hills-complete-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台ヒルズ完全ガイド：展望台からグルメまで</strong></a></p>
 

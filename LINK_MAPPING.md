@@ -1,7 +1,7 @@
 # Naver to Hugo Link Mapping
 
 > **Purpose:** Track Naver blog post URLs and their corresponding Hugo slugs for internal link conversion
-> **Status:** ⏳ In Progress - 181 posts migrated, 45 pending (226 total mapped)
+> **Status:** ⏳ In Progress - 182 posts migrated, 44 pending (226 total mapped)
 
 ---
 
@@ -205,7 +205,7 @@ When migrating a Naver blog post to Hugo:
 | 223915132048 | shimbashi-tonkatsu-horiichi | 2026-02-27 | ✅ |
 | 223913424029 | iruca-tokyo-roppongi-ramen-guide | - | pending |
 | 223912913938 | pain-maison-ginza-salt-bread | - | pending |
-| 223716380927 | azabudai-hills-sky-room-cafe-guide | - | pending |
+| 223716380927 | azabudai-hills-sky-room-cafe-guide | 2026-02-28 | ✅ |
 | 223715784445 | ginza-wako-tea-salon | 2026-02-21 | ✅ |
 | 223708789355 | azabudai-hills-criollo-chocolate-review | - | pending |
 | 224124211319 | tokyo-ramen-street-best-8 | 2025-12-27 | ✅ |
@@ -324,12 +324,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 181
+- **Total Posts Migrated:** 182
 - **Naver IDs Tracked:** 226
 - **Pending References:** 62
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-02-27 (Shimbashi Tonkatsu Horiichi)
+- **Last Migration Date:** 2026-02-28 (Azabudai Hills Sky Room Cafe Guide)
 
 ---
 

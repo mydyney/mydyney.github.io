@@ -216,10 +216,7 @@ translationKey: "azabudai-hills-parlor-yazawa-guide"
      Hugo: /zh-cn/posts/azabudai-hills-criollo-chocolate-review/ -->
 <p><strong>👉 麻布台Hills Criollo：伴手礼巧克力攻略</strong></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/223716380927
-     Hugo: /zh-cn/posts/azabudai-hills-sky-room-cafe-guide/ -->
-<p><strong>👉 麻布台Hills展望台（Sky Room）2025攻略&小贴士</strong></p>
+<p><a href="/zh-cn/posts/azabudai-hills-sky-room-cafe-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 麻布台Hills展望台（Sky Room）攻略&小贴士</strong></a></p>
 
 <!-- TODO: Update link after migration
      Naver: https://blog.naver.com/tokyomate/223672616108
