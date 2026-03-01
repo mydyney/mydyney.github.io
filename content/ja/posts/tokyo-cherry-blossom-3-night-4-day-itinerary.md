@@ -418,8 +418,8 @@ translationKey: "tokyo-cherry-blossom-3-night-4-day-itinerary"
 <p><strong>👉 つじ半 ミッドタウン 海鮮丼</strong></p>
 
 <figure>
-  <img src="/images/posts/tokyo-cherry-blossom-3-night-4-day-itinerary-14.jpg" alt="六本木東京ミッドタウン桜ライトアップ夜景">
-  <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウン 桜ライトアップ夜景</figcaption>
+  <img src="/images/posts/tokyo-cherry-blossom-3-night-4-day-itinerary-14.jpg" alt="六本木東京ミッドタウン桜の昼景">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木東京ミッドタウン 桜の昼景</figcaption>
 </figure>
 
 ---

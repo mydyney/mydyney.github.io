@@ -418,8 +418,8 @@ optimized routes, restaurant picks, and night viewing courses all in one place.<
 <p><strong>👉 Tsujihan Midtown Kaisendon</strong></p>
 
 <figure>
-  <img src="/images/posts/tokyo-cherry-blossom-3-night-4-day-itinerary-14.jpg" alt="Roppongi Tokyo Midtown cherry blossom light-up night view">
-  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Tokyo Midtown Cherry Blossom Light-Up Night View</figcaption>
+  <img src="/images/posts/tokyo-cherry-blossom-3-night-4-day-itinerary-14.jpg" alt="Roppongi Tokyo Midtown cherry blossom day view">
+  <figcaption style="font-size: 0.7em; text-align: center;">Roppongi Tokyo Midtown Cherry Blossom Day View</figcaption>
 </figure>
 
 ---

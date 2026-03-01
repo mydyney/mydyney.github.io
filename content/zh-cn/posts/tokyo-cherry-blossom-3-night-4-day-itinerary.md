@@ -418,8 +418,8 @@ translationKey: "tokyo-cherry-blossom-3-night-4-day-itinerary"
 <p><strong>👉 Tsujihan (つじ半) 中城海鲜丼攻略</strong></p>
 
 <figure>
-  <img src="/images/posts/tokyo-cherry-blossom-3-night-4-day-itinerary-14.jpg" alt="六本木东京中城樱花灯光秀夜景">
-  <figcaption style="font-size: 0.7em; text-align: center;">六本木东京中城樱花灯光秀夜景</figcaption>
+  <img src="/images/posts/tokyo-cherry-blossom-3-night-4-day-itinerary-14.jpg" alt="六本木东京中城樱花日景">
+  <figcaption style="font-size: 0.7em; text-align: center;">六本木东京中城樱花日景</figcaption>
 </figure>
 
 ---
