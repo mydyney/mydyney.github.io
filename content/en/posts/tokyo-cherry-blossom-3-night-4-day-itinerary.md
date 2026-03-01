@@ -173,10 +173,7 @@ optimized routes, restaurant picks, and night viewing courses all in one place.<
 
 <p><a href="https://www.kkday.com/en/product/133300-shibuya-sky-observatory-e-ticket-tokyo" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 Book Shibuya Sky Tickets on KKDay</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224150022204
-     Hugo: /posts/shibuya-toritake-yakitori-guide/ -->
-<p><strong>👉 Shibuya Toritake Yakitori</strong></p>
+<p><a href="/posts/shibuya-toritake-yakitori-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Shibuya Toritake Yakitori</strong></a></p>
 
 <p><a href="/posts/maisen-shibuya-hikarie-tonkatsu-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Maisen Shibuya Hikarie Tonkatsu Guide</strong></a></p>
 

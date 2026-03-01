@@ -173,10 +173,7 @@ translationKey: "tokyo-cherry-blossom-3-night-4-day-itinerary"
 
 <p><a href="https://www.kkday.com/en/product/133300-shibuya-sky-observatory-e-ticket-tokyo" target="_blank" rel="noopener" style="color: #667eea; text-decoration: underline;"><strong>👉 KKDay预订Shibuya Sky门票</strong></a></p>
 
-<!-- TODO: Update link after migration
-     Naver: https://blog.naver.com/tokyomate/224150022204
-     Hugo: /zh-cn/posts/shibuya-toritake-yakitori-guide/ -->
-<p><strong>👉 涩谷Toritake (とり竹) 烤鸡串攻略</strong></p>
+<p><a href="/zh-cn/posts/shibuya-toritake-yakitori-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 涩谷Toritake (とり竹) 烤鸡串攻略</strong></a></p>
 
 <p><a href="/zh-cn/posts/maisen-shibuya-hikarie-tonkatsu-guide/" style="color: #667eea; text-decoration: underline;"><strong>👉 Maisen (まい泉) 涩谷Hikarie炸猪排攻略</strong></a></p>
 

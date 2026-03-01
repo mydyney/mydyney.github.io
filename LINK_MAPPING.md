@@ -204,6 +204,7 @@ When migrating a Naver blog post to Hugo:
 | 223664743235 | shinanoya-roppongi-hills-supermarket | 2024-11-18 | ✅ |
 | 223979907748 | yokohama-one-day-itinerary | 2025-08-22 | ✅ |
 | 223976102621 | yokohama-minato-burari-ticket-guide | 2025-08-19 | ✅ |
+| 224150022204 | shibuya-toritake-yakitori-guide | 2026-03-02 | ✅ |
 ---
 ## Excluded from Migration (Do Not Process)
 
@@ -220,7 +221,6 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 |----------|---------------|---------------|-------------|
 | 224196000074 | - | tokyo-cherry-blossom-3-night-4-day-itinerary | Tokyo March Weather & Clothing Guide |
 | 224154771287 | - | tokyo-cherry-blossom-3-night-4-day-itinerary | Japan Flight Booking Guide |
-| 224150022204 | - | tokyo-cherry-blossom-3-night-4-day-itinerary | Shibuya Toritake Yakitori Guide |
 | 224164912436 | - | tokyo-cherry-blossom-3-night-4-day-itinerary | Shinjuku Yakiniku All-You-Can-Eat BEST 3 |
 | 224168863633 | - | tokyo-cherry-blossom-3-night-4-day-itinerary | Asakusa Gyukatsu Branch Comparison |
 | 224096203397 | - | shimokitazawa-tokyo-travel-guide | Shimokitazawa Vintage Shopping, Restaurants & Must-Visit Course |
@@ -291,12 +291,12 @@ These Naver post IDs are referenced in migrated posts but not yet migrated thems
 ---
 ## Statistics
 
-- **Total Posts Migrated:** 185
-- **Naver IDs Tracked:** 185
-- **Pending References:** 70
+- **Total Posts Migrated:** 186
+- **Naver IDs Tracked:** 186
+- **Pending References:** 69
 - **Posts with Internal Links:** 46+
 - **Links Updated:** Verified & Fixed on 2026-02-08
-- **Last Migration Date:** 2026-03-02 (Tokyo Cherry Blossom 3-Night 4-Day Itinerary)
+- **Last Migration Date:** 2026-03-02 (Shibuya Toritake Yakitori Guide)
 
 ---
 
